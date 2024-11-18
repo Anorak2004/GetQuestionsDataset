@@ -14,8 +14,7 @@ def main():
     # 如果登录成功，获取数据
     if login_response.status_code == 200:
         fetch = Fetch(login)
-        fetch.test_connection()  # 测试连接
-        fetch.fetch_data()  # 获取数据
+        info = fetch.fetch_data(knowsid=10,number=10)  # 获取数据
     else:
         print("登录失败，无法继续获取数据")
 

@@ -1,6 +1,6 @@
 import requests
-from config import *
-
+import random
+from config import Config
 
 class Login:
     def __init__(self, username, password):
@@ -8,33 +8,35 @@ class Login:
         self.index_url = Config.INDEX_URL
         self.username = username
         self.password = password
-        self.payload = {
-            'args[username]': str(self.username),
-            'args[password]': str(self.password)
-        }
         self.session = requests.Session()
         self.headers = Config.HEADERS
 
+    def generate_userhash(self):
+        """生成两个不同的 userhash 值"""
+        userhash1 = str(random.random())
+        userhash2 = str(random.random())
+        return userhash1, userhash2
+
     def login(self):
+        # 随机生成 userhash
+        userhash1, userhash2 = self.generate_userhash()
+
+        # 构建 POST 请求的 payload
+        self.payload = {
+            'args[username]': str(self.username),
+            'args[userpassword]': str(self.password),
+            'userlogin': '1',
+            'userhash1': userhash1,  # 使用第一个 userhash
+            'userhash2': userhash2,  # 使用第二个 userhash
+        }
+
         # 发送登录请求
         response = self.session.post(self.login_url, data=self.payload, headers=self.headers)
 
-        # 输出cookies确认是否保存
-        print("登录后 Cookies:", self.session.cookies.get_dict())
-
+        # 检查响应状态码
         if response.status_code == 200:
             print("登录成功")
         else:
             print("登录失败，状态码：", response.status_code)
+
         return response
-
-    def get_session_cookies(self):
-        import urllib.parse
-
-        # 获取并解码 cookies
-        exam_currentuser_cookie = self.session.cookies.get('exam_currentuser')
-        decoded_cookie = urllib.parse.unquote(exam_currentuser_cookie)
-        print(f"解码后的 exam_currentuser: {decoded_cookie}")
-
-        return self.session.cookies.get_dict()
-
