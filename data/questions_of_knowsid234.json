@@ -1,0 +1,1598 @@
+[
+    {
+        "question_text": "1.你认为下列关于免疫球蛋白的说法哪项是正确的？",
+        "options": [
+            "A.IgG增高与多发性骨髓瘤有关",
+            "B.IgA增高与IgA骨髓瘤有关",
+            "C.IgM增高与原发性巨球蛋白血症有关",
+            "D.Ig增高与变态反应性疾病有关",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列对自身抗体的论述哪一项是正确的？",
+        "options": [
+            "A.正常个体中不可能检出自身抗体",
+            "B.检出自身抗体即意味着发生了自身免疫病",
+            "C.非自身免疫病患者体内也可检出自身抗体",
+            "D.老年人自身抗体的检出率明显降低",
+            "E.自身抗体可通过I型免疫损伤机理而致病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 2
+    },
+    {
+        "question_text": "3.血清单克隆性IgM明显增高，主要见于？",
+        "options": [
+            "A.各种慢性感染",
+            "B.原发性巨球蛋白血症",
+            "C.系统性红斑狼疮",
+            "D.类风湿性关节炎",
+            "E.淋巴瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 3
+    },
+    {
+        "question_text": "4.血清抗双股DNA和抗单股DNA抗体的检测，对下列哪种疾病具有诊断价值？",
+        "options": [
+            "A.原发性免疫缺陷病",
+            "B.慢性活动性肝炎",
+            "C.系统性红斑狼疮",
+            "D.自身免疫性甲状腺炎",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪一种自身免疫病患者最可能检出抗自身IgG抗体？",
+        "options": [
+            "A.恶性贫血",
+            "B.自身免疫性溶血",
+            "C.重症肌无力",
+            "D.类风湿性关节炎",
+            "E.肺肾出血性综合症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 5
+    },
+    {
+        "question_text": "6.你认为下列关于免疫球蛋白低的疾病哪项是正确的？",
+        "options": [
+            "A.遗传性或获得性抗体缺乏症",
+            "B.免疫缺陷病",
+            "C.选择性IgA缺乏症",
+            "D.蛋白丢失性肠病",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 6
+    },
+    {
+        "question_text": "7.IgG为人类含量最多和最主要的免疫球蛋白，IgG降低不见于下列哪一种情况？",
+        "options": [
+            "A.先天性和获得性体液免疫缺陷病",
+            "B.联合免疫缺陷病",
+            "C.肾病综合征",
+            "D.重链病",
+            "E.系统性红斑狼疮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 7
+    },
+    {
+        "question_text": "8.M蛋白称单克隆免疫球蛋白，检测到M蛋白，提示单克隆免疫球蛋白增殖病，以下哪种疾病检测不到M蛋白",
+        "options": [
+            "A.多发性骨髓瘤",
+            "B.巨球蛋白血症",
+            "C.重链病",
+            "D.白血病",
+            "E.轻链病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 8
+    },
+    {
+        "question_text": "9.过敏性哮喘常见:",
+        "options": [
+            "A.IgA降低",
+            "B.IgG升高",
+            "C.IgM升高",
+            "D.IgE升高",
+            "E.M蛋白升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 9
+    },
+    {
+        "question_text": "10.血清免疫球蛋白中含量最低的成分是:",
+        "options": [
+            "A.IgA",
+            "B.IgG",
+            "C.IgG",
+            "D.IgE",
+            "E.IgD"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 10
+    },
+    {
+        "question_text": "11.血清免疫球蛋白中含量最高的成分是:",
+        "options": [
+            "A.IgA",
+            "B.IgG",
+            "C.IgM",
+            "D.IgE",
+            "E.IgD"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 11
+    },
+    {
+        "question_text": "12.体内 5 类主要免疫球蛋白的含量由多到少的顺序是:",
+        "options": [
+            "A.IgG、 IgM、 IgD、 IgA、 IgE",
+            "B.IgG、 IgA、 IgM、 IgD、 IgE",
+            "C.IgG、 IgE、 IgD、 IgM、 IgA",
+            "D.IgM、 IgG、 IgA、 IgD、 IgE",
+            "E.IgM、 IgG、 IgD、 IgA、 IgE"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 12
+    },
+    {
+        "question_text": "13.导致机体易患反复呼吸道感染的是:",
+        "options": [
+            "A.IgA降低",
+            "B.IgM降低",
+            "C.IgG降低",
+            "D.SIgA降低",
+            "E.IgE降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 13
+    },
+    {
+        "question_text": "14.新生儿能通过母体获得的抗体是:",
+        "options": [
+            "A.IgG",
+            "B.IgA",
+            "C.IgM",
+            "D.IgE",
+            "E.IgD"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 14
+    },
+    {
+        "question_text": "15.与变态反应相关的免疫球蛋白是:",
+        "options": [
+            "A.IgA",
+            "B.IgG",
+            "C.IgD",
+            "D.IgM",
+            "E.IgE"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 15
+    },
+    {
+        "question_text": "16.血清中含量最高的补体分子是:",
+        "options": [
+            "A.C1",
+            "B.C2",
+            "C.C3",
+            "D.C4",
+            "E.C5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 16
+    },
+    {
+        "question_text": "17.补体C3减低，见于下列哪种疾病:",
+        "options": [
+            "A.急性炎症",
+            "B.传染病早期",
+            "C.系统性红斑狼疮",
+            "D.肿瘤",
+            "E.排异反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 17
+    },
+    {
+        "question_text": "18.50％溶血试验（CH50）法测定总补体活性，以下列哪项方式报告结果？",
+        "options": [
+            "A.U/L",
+            "B.OD值",
+            "C.被测血清稀释度",
+            "D.被测血清用量",
+            "E.被测血清消耗细胞用量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 18
+    },
+    {
+        "question_text": "19.50％溶血试验（CH50）法是测定:",
+        "options": [
+            "A.C3活性",
+            "B.C4活性",
+            "C.总补体含量",
+            "D.总补体活性",
+            "E.C3和C4活性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于细胞免疫标记检测，下列哪项是错误的？",
+        "options": [
+            "A.利用细胞特异性抗原的单克隆抗体进行检测",
+            "B.免疫荧光法包括直接法和间接法",
+            "C.第二抗体即抗抗体",
+            "D.免疫酶标染色是利用酶使底物反应显色",
+            "E.亲和素-生物素-酶复合物法最不敏感"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 20
+    },
+    {
+        "question_text": "21.细胞免疫分型方法目前还不能用于:",
+        "options": [
+            "A.细胞系列识别",
+            "B.识别不同分化阶段的粒-单核细胞",
+            "C.识别不同功能状态的淋巴细胞",
+            "D.淋巴细胞亚群的识别",
+            "E.分离某些活细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 21
+    },
+    {
+        "question_text": "22.检测T细胞数量常用的方法是:",
+        "options": [
+            "A.溶血活性检测法",
+            "B.酶联免疫吸附试验（ELISA）",
+            "C.单向免疫扩散法",
+            "D.玫瑰花结形成试验",
+            "E.补体依赖的细胞毒试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 22
+    },
+    {
+        "question_text": "23.检测血清总补体常用的方法是",
+        "options": [
+            "A.溶血活性检测法",
+            "B.酶联免疫吸附试验（ELISA）",
+            "C.单向免疫扩散法",
+            "D.玫瑰花结形成试验",
+            "E.补体依赖的细胞毒试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 23
+    },
+    {
+        "question_text": "24.检测血清补体C3常用的方法是",
+        "options": [
+            "A.溶血活性检测法",
+            "B.酶联免疫吸附试验（ELISA）",
+            "C.单向免疫扩散法",
+            "D.玫瑰花结形成试验",
+            "E.补体依赖的细胞毒试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 24
+    },
+    {
+        "question_text": "25.检测HLA血清学定型试验常用的方法是",
+        "options": [
+            "A.溶血活性检测法",
+            "B.酶联免疫吸附试验（ELISA）",
+            "C.单向免疫扩散法",
+            "D.玫瑰花结形成试验",
+            "E.补体依赖的细胞毒试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 25
+    },
+    {
+        "question_text": "26.检测补体Clq常用的方法是",
+        "options": [
+            "A.溶血活性检测法",
+            "B.酶联免疫吸附试验（ELISA）",
+            "C.单向免疫扩散法",
+            "D.玫瑰花结形成试验",
+            "E.补体依赖的细胞毒试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 26
+    },
+    {
+        "question_text": "27.识别T细胞的表面标志是:",
+        "options": [
+            "A.膜表面免疫球蛋白",
+            "B.C3b受体",
+            "C.绵羊红细胞受体",
+            "D.EB病毒受体",
+            "E.小白鼠红细胞受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 27
+    },
+    {
+        "question_text": "28.下列叙述哪项是错误的？",
+        "options": [
+            "A.对细胞免疫功能的检测包括T细胞、B细胞和自然杀伤细胞的检测",
+            "B.T细胞花结形成试验用于检测T细胞的数量",
+            "C.T细胞转化试验反映T细胞的免疫功能",
+            "D.B细胞功能的检测是通过CD19、CD20、CD22等单克隆抗体来实现的",
+            "E.目前临床检测细胞免疫功能的方法主要是T细胞花结形成试验和T细胞转化试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 28
+    },
+    {
+        "question_text": "29.代表T辅助细胞的是:",
+        "options": [
+            "A.CD3+细胞",
+            "B.CD4+细胞",
+            "C.CD8+细胞",
+            "D.CD19+细胞",
+            "E.CD56+细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 29
+    },
+    {
+        "question_text": "30.代表成熟T淋巴细胞的是:",
+        "options": [
+            "A.CD3+细胞",
+            "B.CD4+细胞",
+            "C.CD8+细胞",
+            "D.CD19+细胞",
+            "E.CD56+细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 30
+    },
+    {
+        "question_text": "31.代表B淋巴细胞的是:",
+        "options": [
+            "A.CD3+细胞",
+            "B.CD4+细胞",
+            "C.CD8+细胞",
+            "D.CD19+细胞",
+            "E.CD56+细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 31
+    },
+    {
+        "question_text": "32.代表自然杀伤细胞的是:",
+        "options": [
+            "A.CD3+细胞",
+            "B.CD4+细胞",
+            "C.CD8+细胞",
+            "D.CD19+细胞",
+            "E.CD56+细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 32
+    },
+    {
+        "question_text": "33.代表T抑制细胞的是",
+        "options": [
+            "A.CD3+细胞",
+            "B.CD4+细胞",
+            "C.CD8+细胞",
+            "D.CD19+细胞",
+            "E.CD56+细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 33
+    },
+    {
+        "question_text": "34.E花环法用于:",
+        "options": [
+            "A.T淋巴细胞计数检测",
+            "B.T淋巴细胞功能检测",
+            "C.B淋巴细胞计数检测",
+            "D.B淋巴细胞功能检测",
+            "E.T淋巴细胞亚群检测"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列各组中哪组无相关性？",
+        "options": [
+            "A.B细胞数降低→体液免疫功能缺陷",
+            "B.Ig缺乏→易患肠道感染",
+            "C.巨球蛋白血症→血清IgG升高",
+            "D.多发性骨髓瘤→本-周蛋白阳性",
+            "E.免疫性球蛋白含量减低→长期应用免疫抑制剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 35
+    },
+    {
+        "question_text": "36.下面不是B细胞表面标志的是:",
+        "options": [
+            "A.膜表面免疫球蛋白",
+            "B.Fc受体",
+            "C.补体受体",
+            "D.细胞因子受体",
+            "E.麻疹病毒受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列哪项指标可以评价AIDS病人的细胞免疫功能？",
+        "options": [
+            "A.CD2+/CD3+比值",
+            "B.CD3+/CD4+比值",
+            "C.CD3+/CD8+比值",
+            "D.CD4+/CD8+比值",
+            "E.CD2+/CD4+比值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 37
+    },
+    {
+        "question_text": "38.根据CD抗原群命名原则，B细胞的分化抗原为:",
+        "options": [
+            "A.CD4",
+            "B.CD8",
+            "C.CD19",
+            "D.CD25",
+            "E.CD57"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 38
+    },
+    {
+        "question_text": "39.CD4+T淋巴细胞升高见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.AIDS",
+            "C.传染性单核细胞增多症",
+            "D.类风湿关节炎活动期",
+            "E.乙型肝炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 39
+    },
+    {
+        "question_text": "40.CD4+T淋巴细胞下降见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.AIDS",
+            "C.传染性单核细胞增多症",
+            "D.类风湿关节炎活动期",
+            "E.乙型肝炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 40
+    },
+    {
+        "question_text": "41.CD3+T淋巴细胞升高见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.AIDS",
+            "C.重症肌无力",
+            "D.类风湿关节炎",
+            "E.严重创伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 41
+    },
+    {
+        "question_text": "42.CD3+T淋巴细胞下降见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.AIDS",
+            "C.重症肌无力",
+            "D.糖尿病",
+            "E.严重创伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 42
+    },
+    {
+        "question_text": "43.肿瘤标志物的主要用途中哪项不正确？",
+        "options": [
+            "A.预后判断",
+            "B.疗效随访",
+            "C.复发转移检测",
+            "D.辅助良/恶性鉴别",
+            "E.癌的诊断"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 43
+    },
+    {
+        "question_text": "44.关于肿瘤坏死因子，下列哪项是错误的？",
+        "options": [
+            "A.是肿瘤产生的炎性物质",
+            "B.具有抗感染作用",
+            "C.可阻止DIC的发生",
+            "D.具有抗肿瘤作用",
+            "E.抑制病毒复制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 44
+    },
+    {
+        "question_text": "45.下列肿瘤标志物属于肿瘤胚胎抗原的是:",
+        "options": [
+            "A.NSE",
+            "B.SCC",
+            "C.AFP",
+            "D.CA15-3",
+            "E.CA15-5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 45
+    },
+    {
+        "question_text": "46.下列组合中哪一种是肺癌的肿瘤标志物？",
+        "options": [
+            "A.AFP+CEA",
+            "B.CA19-9+CEA+TAG72",
+            "C.TAG72+CA19-9",
+            "D.SCC+CEA+CA19-9",
+            "E.NSE+CYFR21-1+CEA+SCC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列属于糖脂类肿瘤标志物的是:",
+        "options": [
+            "A.AFP",
+            "B.CEA",
+            "C.PAP",
+            "D.CA15-3",
+            "E.AFU"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 47
+    },
+    {
+        "question_text": "48.下列属于蛋白质肿瘤标志物的是:",
+        "options": [
+            "A.CEA",
+            "B.PAP",
+            "C.CA125",
+            "D.CA15-3",
+            "E.CA19-9"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列属于典型酶类肿瘤标志物的是:",
+        "options": [
+            "A.AFP",
+            "B.PSA",
+            "C.CA125",
+            "D.CA15-3",
+            "E.AFU"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 49
+    },
+    {
+        "question_text": "50.关于AFP的叙述，下列哪项是正确的？",
+        "options": [
+            "A.是胎儿性蛋白，为胎儿所特有",
+            "B.出生后至小儿期仍有存在",
+            "C.在妊娠初期即达到高峰",
+            "D.胎盘也有产生",
+            "E.成人血中含有微量即为异常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 50
+    },
+    {
+        "question_text": "51.关于甲胎蛋白，下列哪项是正确的？",
+        "options": [
+            "A.正常人血清中无甲胎蛋白",
+            "B.阳性者即可诊断肝癌",
+            "C.阴性者即可排除肝癌",
+            "D.生殖腺胚胎癌时可增高",
+            "E.定量观察对肝癌疗效诊断无价值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 51
+    },
+    {
+        "question_text": "52.肝癌的标志物应除外:",
+        "options": [
+            "A.AFP",
+            "B.AFP变异抗体",
+            "C.碱性AFP",
+            "D.凝血酶原时间",
+            "E.异常凝血酶原（PIVKA-II）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 52
+    },
+    {
+        "question_text": "53.对于诊断前列腺癌最有价值的是:",
+        "options": [
+            "A.AMY",
+            "B.ALT",
+            "C.GGT",
+            "D.ACP",
+            "E.ALP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列何者称为肝癌常用的标志物？",
+        "options": [
+            "A.ADA",
+            "B.AFP",
+            "C.AST",
+            "D.ALP",
+            "E.ALT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 54
+    },
+    {
+        "question_text": "55.关于CEA，哪项是不正确的？",
+        "options": [
+            "A.是一种糖蛋白",
+            "B.对消化道肿瘤的诊断特异性高",
+            "C.属于肿瘤特异性抗原",
+            "D.结肠炎病人CEA也可升高",
+            "E.正常人血清含量是<5.0μg/mL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 55
+    },
+    {
+        "question_text": "56.血清中AFP含量超过多少时对原发性肝癌具有诊断意义？",
+        "options": [
+            "A.10μg/mL",
+            "B.25μg/mL",
+            "C.50μg/mL",
+            "D.300μg/mL",
+            "E.400μg/mL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 56
+    },
+    {
+        "question_text": "57.下列哪项检查对原发性肝癌的诊断最有帮助？",
+        "options": [
+            "A.血清胆红素测定",
+            "B.转氨酶测定",
+            "C.肝炎病毒标志物检测",
+            "D.γ-谷氨酰转肽酶（γ-GT）测定",
+            "E.甲胎蛋白（AFP）测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 57
+    },
+    {
+        "question_text": "58.某病人，男性，40岁，肝硬化2年，近1月来肝区痛，实验室检查示AFP增高。有关AFP增高的临床意义下列哪种说法不正确？",
+        "options": [
+            "A.AFP>400ug/mL对原发性肝细胞性癌有诊断意义",
+            "B.原发性胆管细胞癌或转移性肝癌可明显增高",
+            "C.慢性性肝炎AFP偶可升高",
+            "D.消化道肿瘤AFP也可升高",
+            "E.AFP>200ug/mL持续8周应高度怀疑为原发性肝癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 58
+    },
+    {
+        "question_text": "59.与乳腺癌明显相关的是:",
+        "options": [
+            "A.AFP",
+            "B.CA-125",
+            "C.CA72-4",
+            "D.NSE",
+            "E.CA15-3"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 59
+    },
+    {
+        "question_text": "60.与卵巢癌高度相关的是:",
+        "options": [
+            "A.AFP",
+            "B.CA-125",
+            "C.CA72-4",
+            "D.NSE",
+            "E.CA15-3"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 60
+    },
+    {
+        "question_text": "61.与神经母细胞癌高度相关的是:",
+        "options": [
+            "A.AFP",
+            "B.CA-125",
+            "C.CA72-4",
+            "D.NSE",
+            "E.CA15-3"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 61
+    },
+    {
+        "question_text": "62.监测胃癌的首选肿瘤标志物是:",
+        "options": [
+            "A.AFP",
+            "B.CA-125",
+            "C.CA72-4",
+            "D.NSE",
+            "E.CA15-3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 62
+    },
+    {
+        "question_text": "63.机体产生抗核抗体，不见于:",
+        "options": [
+            "A.多发性骨髓瘤",
+            "B.系统性红斑狼疮",
+            "C.混合性结缔组织病",
+            "D.自身免疫性肝炎",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 63
+    },
+    {
+        "question_text": "64.抗核抗体（ANA）是指抗细胞核成分的自身抗体总称，ANA阳性不见于下列哪一种疾病？",
+        "options": [
+            "A.系统性红斑狼疮",
+            "B.神经母细胞瘤",
+            "C.多发性肌炎",
+            "D.硬皮病",
+            "E.干燥综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 64
+    },
+    {
+        "question_text": "65.抗核抗体作用于游离或破碎白细胞核上的抗原决定簇，使细胞核膨胀，核染色质结构不清楚，成为一淡紫色的均质体，在补体作用下，被正常中性粒细胞噬后，形成:",
+        "options": [
+            "A.融合细胞",
+            "B.吞噬细胞",
+            "C.狼疮细胞（LE）",
+            "D.变性细胞",
+            "E.巨噬细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 65
+    },
+    {
+        "question_text": "66.在单克隆丙种球蛋白蛋白病的检测中，一般的检测顺序为:",
+        "options": [
+            "A.本-周蛋白测定→血清蛋白区带电泳→免疫电泳",
+            "B.血清蛋白区带电泳→免疫电泳→本-周蛋白测定",
+            "C.骨髓中免疫球蛋白含量测定→本-周蛋白测定→免疫电泳",
+            "D.尿标本免疫球蛋白含量测定→免疫电泳→骨髓中各种细胞比列分析",
+            "E.本-周蛋白测定→尿标本免疫球蛋白含量测定→免疫电泳"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 66
+    },
+    {
+        "question_text": "67.单克隆丙种球蛋白病首选的筛选检测是:",
+        "options": [
+            "A.免疫电泳",
+            "B.测定免疫球蛋白含量",
+            "C.骨髓检测",
+            "D.血清蛋白区带电泳",
+            "E.尿液免疫球蛋白检测"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 67
+    },
+    {
+        "question_text": "68.类风湿因子（RF）主要在下列何种疾病中发现和检出？",
+        "options": [
+            "A.干燥综合症",
+            "B.SLE",
+            "C.混合型结缔组织病",
+            "D.类风湿性关节炎",
+            "E.硬皮病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 68
+    },
+    {
+        "question_text": "69.与类风湿关节炎相关的是:",
+        "options": [
+            "A.类风湿因子",
+            "B.抗SM抗体",
+            "C.抗平滑肌抗体（ASMA）",
+            "D.抗线粒体抗体（AMA）",
+            "E.抗乙酰胆碱受体抗体（AchRA）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 69
+    },
+    {
+        "question_text": "70.与系统性红斑狼疮高度相关的是:",
+        "options": [
+            "A.类风湿因子",
+            "B.抗SM抗体",
+            "C.抗平滑肌抗体（ASMA）",
+            "D.抗线粒体抗体（AMA）",
+            "E.抗乙酰胆碱受体抗体（AchRA）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 70
+    },
+    {
+        "question_text": "71.与慢性活动性肝炎相关的是:",
+        "options": [
+            "A.类风湿因子",
+            "B.抗SM抗体",
+            "C.抗平滑肌抗体（ASMA）",
+            "D.抗线粒体抗体（AMA）",
+            "E.抗乙酰胆碱受体抗体（AchRA）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 71
+    },
+    {
+        "question_text": "72.与重症肌无力相关的是:",
+        "options": [
+            "A.类风湿因子",
+            "B.抗SM抗体",
+            "C.抗平滑肌抗体（ASMA）",
+            "D.抗线粒体抗体（AMA）",
+            "E.抗乙酰胆碱受体抗体（AchRA）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 72
+    },
+    {
+        "question_text": "73.与狼疮性肝炎相关的是",
+        "options": [
+            "A.类风湿因子",
+            "B.抗SM抗体",
+            "C.抗平滑肌抗体（ASMA）",
+            "D.抗线粒体抗体（AMA）",
+            "E.抗乙酰胆碱受体抗体（AchRA）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 73
+    },
+    {
+        "question_text": "74.下列哪项不是自身免疫病最主要的基本特征？",
+        "options": [
+            "A.均可检出高滴度的自身抗体",
+            "B.均可检出与自身抗原引起反应的致敏淋巴细胞",
+            "C.大多数是自发性或特发性",
+            "D.女性多于男性",
+            "E.病程一般较长，但多可彻底治愈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪项检查对自身免疫性疾病缺乏特异性？",
+        "options": [
+            "A.RF检测",
+            "B.ANA检测",
+            "C.抗ENA抗体检测",
+            "D.抗ds-DNA抗体检测",
+            "E.白细胞分类计数"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列哪种疾病不属于自身免疫性疾病？",
+        "options": [
+            "A.系统性红斑狼疮",
+            "B.类风湿性关节炎",
+            "C.Sjogren综合征",
+            "D.流行性出血热",
+            "E.皮肌炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 76
+    },
+    {
+        "question_text": "77.抗“O”增高对诊断以下哪种疾病无意义？",
+        "options": [
+            "A.风湿关节炎",
+            "B.风湿活动",
+            "C.肾小球肾炎",
+            "D.类风湿关节炎",
+            "E.以上都可以"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 77
+    },
+    {
+        "question_text": "78.抗“O”试验用来诊断哪种病原体感染？",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.布氏杆菌",
+            "E.念珠菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 78
+    },
+    {
+        "question_text": "79.抗链球菌溶血素“O”滴度升高见于:",
+        "options": [
+            "A.风湿热活动期",
+            "B.风湿性心脏病静止期",
+            "C.上呼吸道感染急性期",
+            "D.肾盂肾炎急性期",
+            "E.心脏病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 79
+    },
+    {
+        "question_text": "80.系统性红斑狼疮是一种自身免疫性疾病，下列哪一组自身抗体对它的诊断最有意义？",
+        "options": [
+            "A.抗红细胞和白细胞抗体",
+            "B.抗血小板和凝血因子抗体",
+            "C.抗NA和Sm抗体",
+            "D.抗核抗体和类风湿因子",
+            "E.抗RNP和甲状腺抗体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 80
+    },
+    {
+        "question_text": "81.抗Sm抗体是下列哪种疾病的特异性标志之一也是该病的一种回忆抗体（在非活动期也可检出）:",
+        "options": [
+            "A.干燥综合症",
+            "B.混合性结缔组织病",
+            "C.风湿性关节炎",
+            "D.系统性红斑狼疮",
+            "E.硬皮病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 81
+    },
+    {
+        "question_text": "82.在系统性红斑狼疮特别是并发狼疮性肾炎患者的发病机制中起重要作用的是:",
+        "options": [
+            "A.类风湿因子阳性",
+            "B.抗核抗体阳性",
+            "C.抗双链DNA抗体阳性",
+            "D.抗乙酰胆碱受体阳性",
+            "E.抗线粒体抗体阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 82
+    },
+    {
+        "question_text": "83.对诊断重症肌无力有意义的抗体是:",
+        "options": [
+            "A.类风湿因子阳性",
+            "B.抗核抗体阳性",
+            "C.抗双链DNA抗体阳性",
+            "D.抗乙酰胆碱受体阳性",
+            "E.抗线粒体抗体阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 83
+    },
+    {
+        "question_text": "84.关于染色体畸变下列哪项是错误的？",
+        "options": [
+            "A.数目畸变",
+            "B.结构畸变",
+            "C.有些类型的白血病有其标志性的染色体畸变",
+            "D.同类白血病均有相同染色体畸变",
+            "E.染色体畸变与疾病的预后相关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 84
+    },
+    {
+        "question_text": "85.系统性红斑狼疮病人的补体含量变化中，下列哪项有误？",
+        "options": [
+            "A.大多数情况总补体活性均降低",
+            "B.补体组分的降低早于临床症状的加重",
+            "C.C4的降低先于C3及其他补体成分",
+            "D.C4的水平较其他成分回升迟",
+            "E.当病情缓解时，所有补体组分转为正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 85
+    },
+    {
+        "question_text": "86.系统性红斑狼疮患者活动期血清中补体含量:",
+        "options": [
+            "A.明显增加",
+            "B.正常",
+            "C.减少不明显",
+            "D.显著减少",
+            "E.增加不明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 86
+    },
+    {
+        "question_text": "87.与系统性红斑狼疮相关的细胞是:",
+        "options": [
+            "A.NK细胞",
+            "B.骨髓干细胞",
+            "C.狼疮细胞",
+            "D.白细胞",
+            "E.巨噬细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 87
+    },
+    {
+        "question_text": "88.下列有关CRP的论述哪项是正确的？",
+        "options": [
+            "A.CRP是急性期反应物质",
+            "B.CRP是慢性感染的物质",
+            "C.CRP是传染性的标志物",
+            "D.CRP是肝癌的标志物",
+            "E.CRP是良性肿瘤的标志物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 88
+    },
+    {
+        "question_text": "89.下列哪项不是细胞因子的检测项目？",
+        "options": [
+            "A.白细胞介素-2",
+            "B.肿瘤坏死因子",
+            "C.干扰素",
+            "D.集落刺激因子",
+            "E.自然杀伤细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 89
+    },
+    {
+        "question_text": "90.关于白细胞介素-2，下列哪项是错误的？",
+        "options": [
+            "A.主要由活化的T细胞产生",
+            "B.白细胞介素-2增高见于自身免疫病、排斥反应",
+            "C.白细胞介素-2降低见于免疫缺陷病",
+            "D.白细胞介素-2增高见于再生障碍性贫血、多发性骨髓瘤",
+            "E.白细胞介素-2增高见于获得性免疫缺陷综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 90
+    },
+    {
+        "question_text": "91.关于ANA，下列哪一项是借误的",
+        "options": [
+            "A.是结缔组织并的筛选试验",
+            "B.多与病情活动有关",
+            "C.具有多种荧光核型",
+            "D.存在于多种结缔组织病",
+            "E.是检测抗细胞核内多种自身抗体的总称"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 91
+    },
+    {
+        "question_text": "92.关于抗DNA抗体，下列哪一项是误的",
+        "options": [
+            "A.检测包含ds-DNA和抗ss-DNA",
+            "B.抗ds-DNA对诊断SLE有特征性",
+            "C.抗ss-DNA对诊断SLE有特征性",
+            "D.抗ss-DNA对诊断药物性狼疮有意义",
+            "E.抗ds-DNA对狼疮性肾炎的发病机制有重要意义"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 92
+    },
+    {
+        "question_text": "93.关于DNA酶列哪一项叙述不妥",
+        "options": [
+            "A.ENA对诊断风湿病有意义",
+            "B.抗sd-DNA对诊断SLE有特征性",
+            "C.抗Sm抗体对特征性",
+            "D.抗ss-A抗体和抗ss-B抗体对诊断干燥综合症有意义",
+            "E.抗Sc1-70抗体对诊断进行性系统性硬化症有意义"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 93
+    },
+    {
+        "question_text": "94.与引起移植排斥反应直接相关的是",
+        "options": [
+            "A.ABO血型不符",
+            "B.抗原-抗体复合物",
+            "C.RF因子",
+            "D.抗核抗体",
+            "E.HL-A抗原"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 94
+    },
+    {
+        "question_text": "95.与肾小球肾炎的发病机制有关的是",
+        "options": [
+            "A.ABO血型不符",
+            "B.抗原-抗体复合物",
+            "C.RF因子",
+            "D.抗核抗体",
+            "E.HL-A抗原"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 95
+    },
+    {
+        "question_text": "96.关于类风湿因子下列哪一项是错误的",
+        "options": [
+            "A.是自身抗体",
+            "B.仅见于类风湿关节炎",
+            "C.IgG型与滑膜炎、血管炎有关",
+            "D.IgM型和IgE型的效价与病情和骨质破坏有关",
+            "E.其检测到的滴度高低与病情的活动度呈正相关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 96
+    },
+    {
+        "question_text": "97.下列哪项是错误的",
+        "options": [
+            "A.CD3代表总T细胞",
+            "B.CD4代表T辅助细胞",
+            "C.CD8代表T抑制细胞",
+            "D.CD19的单抗代表T细胞",
+            "E.CD20的单抗代表B细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 97
+    },
+    {
+        "question_text": "98.下列叙述哪项是错误的",
+        "options": [
+            "A.CD3降低见于自身免疫症",
+            "B.CD4降低见于肿瘤、艾滋病、免疫抑制剂应用者",
+            "C.CD8降低见于自身免疫病",
+            "D.CD4/CD8比值增高于见肿瘤、自身免疫症",
+            "E.CD4/CD8比值降低见于可能发生排斥反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 98
+    },
+    {
+        "question_text": "99.下列叙述哪项是错误的",
+        "options": [
+            "A.自然杀伤细胞对免疫宿主的反应需抗体和补体的参与",
+            "B.自然杀伤细胞具有免疫调节功能",
+            "C.自然杀伤细胞参与移植排斥",
+            "D.自然杀伤细胞活性增高见于移植排斥",
+            "E.自然杀伤细胞活性降低见于肿瘤、艾滋病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 99
+    },
+    {
+        "question_text": "100.以下哪项检测结果提示可能不是获得性免疫缺陷综合症",
+        "options": [
+            "A.CD4/CD8比值降低",
+            "B.自然杀伤细胞活性降低见于肿瘤、获得性免疫缺陷综合征",
+            "C.CD4降低",
+            "D.HIV抗体阳性",
+            "E.CD3降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 100
+    },
+    {
+        "question_text": "101.关于干扰素下列哪项是错误的",
+        "options": [
+            "A.具有抗肿瘤作用",
+            "B.干扰素增高见于活动期类风湿性关节炎",
+            "C.干扰素增高见于SLE",
+            "D.干扰素降低见于乙型肝炎",
+            "E.干扰素降低见于哮喘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 101
+    },
+    {
+        "question_text": "102.原位杂交是指",
+        "options": [
+            "A.在NC膜上进行杂交操作",
+            "B.在组织切片或细胞涂片上进行杂交操作",
+            "C.直接将核酸点在NC膜上杂交",
+            "D.在PVDF膜上进行杂交操作",
+            "E.在凝胶电泳中进行的杂交"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 102
+    },
+    {
+        "question_text": "103.免疫球蛋白单克隆性增高可见于",
+        "options": [
+            "A.慢性肝病",
+            "B.SLE",
+            "C.类风湿关节炎",
+            "D.多发性骨髓瘤",
+            "E.链球菌感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 103
+    },
+    {
+        "question_text": "104.免疫球蛋白多克隆增高可见于：",
+        "options": [
+            "A.各种慢性感染",
+            "B.慢性肝病",
+            "C.SLE",
+            "D.以上都可以",
+            "E.以上都不可以"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 104
+    },
+    {
+        "question_text": "105.感染A组常务性链球菌多少时间后“ASO”可增高",
+        "options": [
+            "A.1-3天",
+            "B.1-2周",
+            "C.2-3周",
+            "D.一个月",
+            "E.一年"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 105
+    },
+    {
+        "question_text": "106.导致机体易患病毒感染的是",
+        "options": [
+            "A.IgA降低",
+            "B.IgM降低",
+            "C.IgG降低",
+            "D.SIgA降低",
+            "E.IgE降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 106
+    },
+    {
+        "question_text": "107.导致共济失调性毛细血管扩张症的是",
+        "options": [
+            "A.IgA降低",
+            "B.IgM降低",
+            "C.IgG降低",
+            "D.SIgA降低",
+            "E.IgE降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 107
+    },
+    {
+        "question_text": "108.导致IgG型重链病的是",
+        "options": [
+            "A.IgA降低",
+            "B.IgM降低",
+            "C.IgG降低",
+            "D.SIgA降低",
+            "E.IgE降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 108
+    },
+    {
+        "question_text": "109.与多发性肌炎相关的是",
+        "options": [
+            "A.抗双链DNA抗体（AdsDNA）",
+            "B.拉SSB抗体（A-SSB）",
+            "C.抗J0-1抗体",
+            "D.抗Scl-70抗体",
+            "E.抗uRNP抗体（高滴度）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 109
+    },
+    {
+        "question_text": "110.与干燥综合症相关的是",
+        "options": [
+            "A.抗双链DNA抗体（AdsDNA）",
+            "B.拉SSB抗体（A-SSB）",
+            "C.抗J0-1抗体",
+            "D.抗Scl-70抗体",
+            "E.抗uRNP抗体（高滴度）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 110
+    },
+    {
+        "question_text": "111.与先天性硬化症相关的是",
+        "options": [
+            "A.抗双链DNA抗体（AdsDNA）",
+            "B.拉SSB抗体（A-SSB）",
+            "C.抗J0-1抗体",
+            "D.抗Scl-70抗体",
+            "E.抗uRNP抗体（高滴度）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 111
+    },
+    {
+        "question_text": "112.与混合性结缔组织病相关的是",
+        "options": [
+            "A.抗双链DNA抗体（AdsDNA）",
+            "B.拉SSB抗体（A-SSB）",
+            "C.抗J0-1抗体",
+            "D.抗Scl-70抗体",
+            "E.抗uRNP抗体（高滴度）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 112
+    },
+    {
+        "question_text": "113.与原发性肝细胞癌高度相关的是",
+        "options": [
+            "A.甲种胎儿球蛋白（AFP）",
+            "B.癌抗原125（CA-125）",
+            "C.前列腺特异抗体（PSA）",
+            "D.神经元特异性烯醇化酶（NSE）",
+            "E.癌抗原15-3（CA15-3）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 113
+    },
+    {
+        "question_text": "114.与前列腺癌相关的是",
+        "options": [
+            "A.甲种胎儿球蛋白（AFP）",
+            "B.癌抗原125（CA-125）",
+            "C.前列腺特异抗体（PSA）",
+            "D.神经元特异性烯醇化酶（NSE）",
+            "E.癌抗原15-3（CA15-3）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "114",
+        "number": 114
+    }
+]

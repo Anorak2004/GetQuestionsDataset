@@ -1,0 +1,464 @@
+[
+    {
+        "question_text": "1. 有关发热概念的概述，哪一项是正确的？",
+        "options": [
+            "A. 由体温调节中枢调节功能障碍所致",
+            "B. 产热过程超过散热过程",
+            "C. 是临床上常见的一种疾病",
+            "D. 由体温调节中枢调定点上移引起",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t发热是一种重要的",
+        "options": [
+            "A.\t临床症候群",
+            "B.\t病理过程",
+            "C.\t独立疾病",
+            "D.\t综合征",
+            "E.\t体征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t体温调节的高级中枢位于",
+        "options": [
+            "A.\t脊髓",
+            "B.\t中脑",
+            "C.\t脑桥",
+            "D.\t延髓",
+            "E.\t视前区下丘脑前部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t发热时体温升高超过正常值的",
+        "options": [
+            "A.\t0.1C",
+            "B.\t0.2C",
+            "C.\t0.5C",
+            "D.\t0.8C",
+            "E.\t1.0C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t下述哪一种情况下的体温升高属过热？",
+        "options": [
+            "A.\t酷热时中暑",
+            "B.\t妇女月经前期",
+            "C.\t剧烈运动",
+            "D.\t中毒性休克",
+            "E.\t流行性出血热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下列哪种情况可使体温调节中枢的调定点上移？",
+        "options": [
+            "A.\t甲状腺功能亢进",
+            "B.\t先天性汗腺缺陷",
+            "C.\t夏季高温中暑",
+            "D.\t妇女月经前期",
+            "E.\t流行性脑膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t发热激活物的主要作用是",
+        "options": [
+            "A.\t作用于体温调节中枢",
+            "B.\t引起产热增加",
+            "C.\t激活单核细胞",
+            "D.\t激活产生内生性致热原细胞",
+            "E.\t激活中性粒细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 7
+    },
+    {
+        "question_text": "8. 下述哪种情况属于发热？",
+        "options": [
+            "A. 甲状腺功能亢进引起的体温升高",
+            "B. 先天性汗腺缺乏引起的体温升高",
+            "C. 环境高温引起的体温升高",
+            "D. 妊娠期出现的体温升高",
+            "E. 抗原抗体复合物引起的体温升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列哪一物质属于发热激活物？",
+        "options": [
+            "A.\t白细胞致热原",
+            "B.\t内生致热原",
+            "C.\t干扰素",
+            "D.\t肿瘤坏死因子",
+            "E.\t白喉毒素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t有致热作用的本胆烷醇酮来自哪一物质？",
+        "options": [
+            "A.\t甲状腺素",
+            "B.\t睾丸酮",
+            "C.\t肾上腺素",
+            "D.\t胆汁酸盐",
+            "E.\t雌激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t下列哪种物质属内生致热原？",
+        "options": [
+            "A.\t革兰阳性细菌产生的外毒素",
+            "B.\t革兰阴性细菌产生的内毒素",
+            "C.\t体内的抗原抗体复合物",
+            "D.\t睾丸酮代谢产物本胆烷醇酮",
+            "E.\t吞噬细胞被激活后释放的致热原"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t内毒素是",
+        "options": [
+            "A.\t革兰阳性细菌的菌壁成分中的脂多糖",
+            "B.\t革兰阴性细菌的菌壁成分中的脂多糖",
+            "C.\t革兰阳性细菌的菌壁成分中的核心多糖",
+            "D.\t革兰阴性细菌的菌壁成分中的核心多糖",
+            "E.\t革兰阴性细菌的菌壁成分中的小分子蛋白质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t临床上输液反应出现的发热，其产生的重要原 因是",
+        "options": [
+            "A.\t变态反应",
+            "B.\t药物的毒副作用",
+            "C.\t外毒素污染",
+            "D.\t内毒素污染",
+            "E.\t内生性致热原污染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下述对IL-1的描述哪一项是错误的？",
+        "options": [
+            "A.\t主要由中性粒细胞合成和释放",
+            "B.\t是分子量为17000的多肽类物质",
+            "C.\t有明显的致热性",
+            "D.\t不耐热，70°C30min可灭活",
+            "E.\t可引起中枢发热介质的释放"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t干扰素是",
+        "options": [
+            "A.\t具有抗病毒、抗肿瘤作用的蛋白质",
+            "B.\t具有抗病毒作用的蛋白质",
+            "C.\t具有抗肿瘤作用的蛋白质",
+            "D.\t是病毒感染后产生的抗体",
+            "E.\t是病毒本身合成的蛋白质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t有关内毒素的描述哪一项是错误的？",
+        "options": [
+            "A.\t是革兰氏阴性细菌的菌壁成分",
+            "B.\t活性成分是脂多糖",
+            "C.\t脂质A是致热的主要成分",
+            "D.\t干热160 C2h才能灭活",
+            "E.\t反复注射给动物不产生耐受性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t下述对TNF的描述哪一项是错误的？",
+        "options": [
+            "A.\t由肿瘤细胞所分泌",
+            "B.\t是一种多肽类物质",
+            "C.\t有明显的致热性",
+            "D.\t给家兔一般剂量注射可引起单峰热",
+            "E.\t给家兔大剂量注射可引起双峰热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t下列哪一种物质不是内生致热原？",
+        "options": [
+            "A.\tIL-1",
+            "B.\tIFN",
+            "C.\tTNF",
+            "D.\tPGE",
+            "E.\tM I P-1"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t下列哪一种物质属发热中枢正调节介质？",
+        "options": [
+            "A.\t精氨酸加压素",
+            "B.\t黑素细胞刺激素",
+            "C.\t脂皮质蛋白-1",
+            "D.\t巨噬细胞炎症蛋白-1",
+            "E.\t一氧化氮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列哪一项物质属于发热中枢负调节介质？",
+        "options": [
+            "A.\t前列腺素E",
+            "B.\tNa+/Ca2+",
+            "C.\t环磷酸腺苷",
+            "D.\t促肾上腺皮质激素释放素",
+            "E.\t精氨酸加压素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t热限是指发热时",
+        "options": [
+            "A.\t体温升高持续时间受限制",
+            "B.\t体温升高的高度限于一定水平",
+            "C.\t发热激活物的强度受限制",
+            "D.\t内生致热原产生的量受限制",
+            "E.\t内生致热原的作用受限制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t体温上升期的热代谢特点是",
+        "options": [
+            "A.\t产热等于散热",
+            "B.\t散热大于产热",
+            "C.\t产热大于散热",
+            "D.\t产热增加",
+            "E.\t散热障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t寒战是由于",
+        "options": [
+            "A.\t全身性骨骼肌不随意的周期性收缩",
+            "B.\t全身性骨骼肌不随意的僵直性收缩",
+            "C.\t下肢骨骼肌不随意的周期性收缩",
+            "D.\t全身皮肤的竖毛肌周期性收缩",
+            "E.\t全身皮肤的竖毛肌不随意收缩"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t体温下降期的热代谢特点是",
+        "options": [
+            "A.\t产热大于散热",
+            "B.\t散热大于产热",
+            "C.\t产热等于散热",
+            "D.\t产热减少",
+            "E.\t散热增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t严重高热病人未经任何处理首先容易发生",
+        "options": [
+            "A.\t低渗性脱水",
+            "B.\t等渗性脱水",
+            "C.\t高渗性脱水",
+            "D.\t肾排水下降引起潴留",
+            "E.\t热惊厥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t发热时动脉血压的变化是",
+        "options": [
+            "A.\t在整个发热过程中无变化",
+            "B.\t在整个发热过程中持续升高",
+            "C.\t在高峰期动脉血压轻度上升",
+            "D.\t在寒战期动脉血压可轻度降低",
+            "E.\t在退热期动脉，血压可轻度下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t小儿热惊厥产生的机制是",
+        "options": [
+            "A.\t中枢神经尚未发育成熟",
+            "B.\t先天性体温中枢疾病",
+            "C.\t大脑皮质处于兴奋，皮质下中枢兴奋性减弱",
+            "D.\t大脑皮质处于兴奋，皮质下中枢兴奋性增强",
+            "E.\t大脑皮质处于抑制，皮质下中枢亦受抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t体温每升高1 °C,心率平均每分钟约增加",
+        "options": [
+            "A.\t5次",
+            "B.\t10 次",
+            "C.\t18 次",
+            "D.\t20 次",
+            "E.\t25 次"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t体温每升高1C,基础代谢率提高",
+        "options": [
+            "A.\t3%",
+            "B.\t5%",
+            "C.\t10%",
+            "D.\t13%",
+            "E.\t15%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t发热时机体不会出现",
+        "options": [
+            "A.\t蛋白质代谢率增高",
+            "B.\t蛋白质代谢正氮平衡",
+            "C.\t糖原分解代谢加强",
+            "D.\t脂肪分解代谢加强",
+            "E.\t某些维生素消耗增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t发热病人最常见出现",
+        "options": [
+            "A.\t代谢性酸中毒",
+            "B.\t呼吸性酸中毒",
+            "C.\t混合性酸中毒",
+            "D.\t代谢性碱中毒",
+            "E.\t混合性碱中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t水杨酸盐类解热的作用环节是",
+        "options": [
+            "A.\t阻断cAMP合成",
+            "B.\t抑制磷酸二脂酶",
+            "C.\t阻断PGE合成",
+            "D.\t阻断EP合成",
+            "E.\t抑制EP释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t下述哪一类物质有明显解热作用？",
+        "options": [
+            "A.\t去氧皮质酮",
+            "B.\t苯海拉明",
+            "C.\t茶碱",
+            "D.\t环磷酸腺苷",
+            "E.\t糖皮质激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 33
+    }
+]

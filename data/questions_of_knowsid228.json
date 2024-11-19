@@ -1,0 +1,240 @@
+[
+    {
+        "question_text": "1.精子计数的受孕极限是多少:",
+        "options": [
+            "A.精子总数2000万个/mL",
+            "B.精子浓度2000万个/mL",
+            "C.精子总数6000万个/mL",
+            "D.精子浓度6000万个/mL",
+            "E.精子浓度1.5亿个/mL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 1
+    },
+    {
+        "question_text": "2.正常情况下每次成年男子排精量约为:",
+        "options": [
+            "A.1~2mL",
+            "B.6~7mL",
+            "C.8~10mL",
+            "D.3~5mL",
+            "E.>10mL"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列符合正常前列腺液的是:",
+        "options": [
+            "A.无红细胞",
+            "B.呈稀薄黄色",
+            "C.无卵磷脂小体",
+            "D.pH7.3~7.5",
+            "E.数滴至1mL/次"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪种情况属于无精子症？",
+        "options": [
+            "A.排尿后，尿检查无精子",
+            "B.性交高潮后，无精液射出尿道",
+            "C.射出精液检查无精子",
+            "D.性交时有射精动作，但性交后尿液检查无精子",
+            "E.前列腺液内无精子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 4
+    },
+    {
+        "question_text": "5.a级精子是指:",
+        "options": [
+            "A.精子呈前向直线运动",
+            "B.精子呈缓慢或呆滞前向运动",
+            "C.精子运动迟缓，原地打转或抖动",
+            "D.精子无活动，加温后活动缓慢",
+            "E.精子无活动，加温后仍不活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 5
+    },
+    {
+        "question_text": "6.b级精子是指",
+        "options": [
+            "A.精子呈前向直线运动",
+            "B.精子呈缓慢或呆滞前向运动",
+            "C.精子运动迟缓，原地打转或抖动",
+            "D.精子无活动，加温后活动缓慢",
+            "E.精子无活动，加温后仍不活动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 6
+    },
+    {
+        "question_text": "7.c级精子是指:",
+        "options": [
+            "A.精子呈前向直线运动",
+            "B.精子呈缓慢或呆滞前向运动",
+            "C.精子运动迟缓，原地打转或抖动",
+            "D.精子无活动，加温后活动缓慢",
+            "E.精子无活动，加温后仍不活动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 7
+    },
+    {
+        "question_text": "8.d级精子指:",
+        "options": [
+            "A.精子呈前向直线运动",
+            "B.精子呈缓慢或呆滞前向运动",
+            "C.精子运动迟缓，原地打转或抖动",
+            "D.精子无活动，加温后活动缓慢",
+            "E.精子无活动，加温后仍不活动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 8
+    },
+    {
+        "question_text": "9.无精液症是指:",
+        "options": [
+            "A.精液量减少至1~2滴",
+            "B.精液离心后仅见少量精子",
+            "C.精液两次离心后仍不见精子",
+            "D.连续三次精子计数均低于20×109/L",
+            "E.正常形态精子低于30％"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 9
+    },
+    {
+        "question_text": "10.精索静脉曲张时可出现:",
+        "options": [
+            "A.精液液化不良",
+            "B.精子活动力降低",
+            "C.精液过多",
+            "D.抗精子抗体阳性",
+            "E.无精液症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 10
+    },
+    {
+        "question_text": "11.前列腺炎可见",
+        "options": [
+            "A.精液液化不良",
+            "B.精子活动力降低",
+            "C.精液过多",
+            "D.抗精子抗体阳性",
+            "E.无精液症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 11
+    },
+    {
+        "question_text": "12.睾丸损伤可见",
+        "options": [
+            "A.精液液化不良",
+            "B.精子活动力降低",
+            "C.精液过多",
+            "D.抗精子抗体阳性",
+            "E.无精液症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 12
+    },
+    {
+        "question_text": "13.垂体促性腺激素分泌亢进可见",
+        "options": [
+            "A.精液液化不良",
+            "B.精子活动力降低",
+            "C.精液过多",
+            "D.抗精子抗体阳性",
+            "E.无精液症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 13
+    },
+    {
+        "question_text": "14.精子缺失是",
+        "options": [
+            "A.精液量减少至1-2滴",
+            "B.精液离心后仅见少量精子",
+            "C.精液两次离心后仍不见精子",
+            "D.连续三次精子计数均低于20×109/L",
+            "E.正常形态精子低于30％"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 14
+    },
+    {
+        "question_text": "15.无精子症是",
+        "options": [
+            "A.精液量减少至1-2滴",
+            "B.精液离心后仅见少量精子",
+            "C.精液两次离心后仍不见精子",
+            "D.连续三次精子计数均低于20×109/L",
+            "E.正常形态精子低于30％"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 15
+    },
+    {
+        "question_text": "16.少精子症是",
+        "options": [
+            "A.精液量减少至1-2滴",
+            "B.精液离心后仅见少量精子",
+            "C.精液两次离心后仍不见精子",
+            "D.连续三次精子计数均低于20×109/L",
+            "E.正常形态精子低于30％"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 16
+    },
+    {
+        "question_text": "17.畸形精子症是",
+        "options": [
+            "A.精液量减少至1-2滴",
+            "B.精液离心后仅见少量精子",
+            "C.精液两次离心后仍不见精子",
+            "D.连续三次精子计数均低于20×109/L",
+            "E.正常形态精子低于30％"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 17
+    }
+]

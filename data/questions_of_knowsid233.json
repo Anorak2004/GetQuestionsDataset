@@ -1,0 +1,3319 @@
+[
+    {
+        "question_text": "1.可用于判断心肌梗死溶栓治疗效果的生物标志物是？",
+        "options": [
+            "A.CK",
+            "B.CK-MB",
+            "C.Mb",
+            "D.LD",
+            "E.LD1"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 1
+    },
+    {
+        "question_text": "2.早期诊断AMI是有价值的是",
+        "options": [
+            "A.CK-MB",
+            "B.CTnT",
+            "C.Mb",
+            "D.LD",
+            "E.FABP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 2
+    },
+    {
+        "question_text": "3.确诊微小心肌损伤是",
+        "options": [
+            "A.CK-MB",
+            "B.CTnT",
+            "C.Mb",
+            "D.LD",
+            "E.FABP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 3
+    },
+    {
+        "question_text": "4.诊断AMI确定性标志物的是:",
+        "options": [
+            "A.CK-MB",
+            "B.CTnT",
+            "C.Mb",
+            "D.LD",
+            "E.FABP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 4
+    },
+    {
+        "question_text": "5.心肌梗死病人血清CK值在发病几小时即开始增高:",
+        "options": [
+            "A.2-4",
+            "B.6-12",
+            "C.3-10",
+            "D.3-8",
+            "E.12-24"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 5
+    },
+    {
+        "question_text": "6.心肌损伤时LD在血清中的顺序是:",
+        "options": [
+            "A.LD1>LD2",
+            "B.LD2>LD1",
+            "C.LD4>LD5",
+            "D.LD5>LD4",
+            "E.LD3>LD4"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 6
+    },
+    {
+        "question_text": "7.急性心肌梗死时可见:",
+        "options": [
+            "A.CK-MB升高",
+            "B.CK-BB升高",
+            "C.LD5升高,LD5>LD4",
+            "D.LD4升高,LD4>LD5",
+            "E.LD1升高,LD1>LD2"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 7
+    },
+    {
+        "question_text": "8.肝细胞坏死时可见:",
+        "options": [
+            "A.CK-MB升高",
+            "B.CK-BB升高",
+            "C.LD5升高，LD5>LD4",
+            "D.LD4升高，LD4>LD5",
+            "E.LD1升高，LD1>LD2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 8
+    },
+    {
+        "question_text": "9.阻塞性黄疸时可见",
+        "options": [
+            "A.CK-MB升高",
+            "B.CK-BB升高",
+            "C.LD5升高，LD5＞LD4",
+            "D.LD4升高，LD4＞LD5",
+            "E.LD1升高，LD＞LD2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 9
+    },
+    {
+        "question_text": "10.恶性贫血时可见",
+        "options": [
+            "A.CK-MB升高",
+            "B.CK-BB升高",
+            "C.LD5升高，LD5＞LD4",
+            "D.LD4升高，LD4＞LD5",
+            "E.LD1升高，LD＞LD2"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 10
+    },
+    {
+        "question_text": "11.以下哪种不属于冠脉事件危险因素的标志物？",
+        "options": [
+            "A.TC/HDL",
+            "B.同型半胱氨酸",
+            "C.触珠蛋白",
+            "D.高灵敏法检测反应C蛋白",
+            "E.凝血因子（Fbg、Ⅶ因子、PAI-1）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 11
+    },
+    {
+        "question_text": "12.肌红蛋白的最主要临床价值在于:",
+        "options": [
+            "A.特异性诊断心肌梗死",
+            "B.阴性排除心肌梗死",
+            "C.评估心肌损伤的大小",
+            "D.用于诊断肌肉损伤",
+            "E.用于诊断肾脏衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 12
+    },
+    {
+        "question_text": "13.以下哪项不是肌钙蛋白的特点或用途？",
+        "options": [
+            "A.特异性强",
+            "B.半衰期长",
+            "C.可用于心肌损伤的诊断",
+            "D.可用于AMI病人再梗的判断",
+            "E.可用于冠脉事件危险因素的二级预测"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 13
+    },
+    {
+        "question_text": "14.对于心衰的实验室诊断，以下哪项叙述是错误的？",
+        "options": [
+            "A.检测BNP或NT-proBNP是诊断HF的重要依据之",
+            "B.BNP/NT-proBNP的临床应用目前已经替代超声心动图以及左室射血分数等临床检查。",
+            "C.临床研究和应用表明，对临床表现为呼吸困难的患者，检测NP或NT-proBNP有助于心源性和非心源呼吸困难的鉴别诊断",
+            "D.BNP或NT-proBNP增高不等于心力衰竭；BNP或NT-proBNP不高特别有助于排除左心收缩功能不全",
+            "E.BNP或NT-proBNP在舒张期心功能不全中的应用价值仍不明确"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 14
+    },
+    {
+        "question_text": "15.血清淀粉酶一般于发病后多久开始升高:",
+        "options": [
+            "A.1-2小时",
+            "B.5-6小时",
+            "C.24小时",
+            "D.72小时",
+            "E.3-5天"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 15
+    },
+    {
+        "question_text": "16.血清淀粉酶一般于发病后多久开始恢复正常:",
+        "options": [
+            "A.1-2小时",
+            "B.6-12小时",
+            "C.24小时",
+            "D.2-5天",
+            "E.10-15天"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 16
+    },
+    {
+        "question_text": "17.血液或尿液淀粉酶增高可用于哪项疾病的诊断",
+        "options": [
+            "A.急性肝炎",
+            "B.急性支气管炎",
+            "C.急性胰腺炎",
+            "D.急性前列腺炎",
+            "E.急性肾小球肾炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 17
+    },
+    {
+        "question_text": "18.血清脂肪酶一般于发病后多久达到高峰:",
+        "options": [
+            "A.1-2小时",
+            "B.4-8小时",
+            "C.24小时",
+            "D.3-5天",
+            "E.10-15天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 18
+    },
+    {
+        "question_text": "19.血清脂肪酶一般于发病后多久开始恢复正常:",
+        "options": [
+            "A.1-2小时",
+            "B.4-8小时",
+            "C.24小时",
+            "D.3-6天",
+            "E.10-15天"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列不是血浆特异酶的是:",
+        "options": [
+            "A.凝血酶原",
+            "B.纤溶酶原",
+            "C.胆碱酯酶",
+            "D.胰淀粉酶",
+            "E.脂蛋白脂酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列不属于代谢酶的是:",
+        "options": [
+            "A.氨基转移酶",
+            "B.碱性磷酸酶",
+            "C.肌酸激酶",
+            "D.乳酸脱氢酶",
+            "E.胰脂肪酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 21
+    },
+    {
+        "question_text": "22.血清单胺氧化酶活性与下列何种成份有关？",
+        "options": [
+            "A.肝细胞",
+            "B.骨髓造血干细胞",
+            "C.结缔组织",
+            "D.骨小梁",
+            "E.枯否氏细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 22
+    },
+    {
+        "question_text": "23.胶原纤维的合成关键酶是:",
+        "options": [
+            "A.单胺氧化酶",
+            "B.纤维蛋白酶",
+            "C.丙氨酸氨基转移酶",
+            "D.脯氨酰羟化酶",
+            "E.碱性磷酸梅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 23
+    },
+    {
+        "question_text": "24.以下哪种酶类不属于“心肌酶谱”？",
+        "options": [
+            "A.碱性磷酸酶",
+            "B.肌酸激酶",
+            "C.乳酸脱氢酶",
+            "D.天门冬氨酸氨基转移酶",
+            "E.肌酸激酶心肌型同工酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列指标中哪种指标对诊断AMI具有更高灵敏度和特异性？",
+        "options": [
+            "A.AMS",
+            "B.LDH",
+            "C.ACP",
+            "D.TC/HDL-C",
+            "E.CK-MB"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 25
+    },
+    {
+        "question_text": "26.C反应蛋白在下列哪种疾病中呈阳性？",
+        "options": [
+            "A.风湿热活动期",
+            "B.心肌梗死",
+            "C.肿瘤广泛转移",
+            "D.炎症",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 26
+    },
+    {
+        "question_text": "27.血清中胆固醇在下列哪种物质中含量最多？",
+        "options": [
+            "A.CM",
+            "B.VLDL",
+            "C.LDL",
+            "D.HDL",
+            "E.Lp（a）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 27
+    },
+    {
+        "question_text": "28.试选出下列脂蛋白密度由低到高的正确顺序:",
+        "options": [
+            "A.LDL、HDL、VLDL、CM",
+            "B.CM、VLDL、LDL、HDL",
+            "C.LDL、HDL、LDL、CM",
+            "D.HDL、VLDL、LDL、CM",
+            "E.CM、LDL、HDL、VLDL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 28
+    },
+    {
+        "question_text": "29.关于HDL与LDL，以下哪项是错误的？",
+        "options": [
+            "A.HDL与LDL主要负责机体CHO的转运",
+            "B.HDL负责将HOD转运至肝脏代谢，与冠心病发病呈负相关",
+            "C.LDL负责将CHO转运至外周组织利用，与冠心病发病呈正相关",
+            "D.",
+            "E.ApoB是构成HDL的主要载脂蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 29
+    },
+    {
+        "question_text": "30.外源性三油甘脂的运输主要依靠:",
+        "options": [
+            "A.CM",
+            "B.VLDL",
+            "C.LDL",
+            "D.HDL",
+            "E.IDL（中间密度脂蛋白）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 30
+    },
+    {
+        "question_text": "31.内源性三油甘脂主要由血浆中哪一种脂蛋白运输？",
+        "options": [
+            "A.HDL",
+            "B.LDL",
+            "C.VLDL",
+            "D.CM",
+            "E.Lp（a）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 31
+    },
+    {
+        "question_text": "32.密度最低的脂蛋白是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.α-脂蛋白",
+            "C.β-脂蛋白",
+            "D.前β-脂蛋白",
+            "E.宽β-脂蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 32
+    },
+    {
+        "question_text": "33.血浆中运输铁的蛋白质为:",
+        "options": [
+            "A.运皮质醇蛋白",
+            "B.白蛋白",
+            "C.转铁蛋白",
+            "D.铜蓝蛋白",
+            "E.铁蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 33
+    },
+    {
+        "question_text": "34.抗动脉粥样硬化因子是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.高密度脂蛋白",
+            "C.低密度脂蛋白",
+            "D.脂蛋白（a）",
+            "E.极低密度脂蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 34
+    },
+    {
+        "question_text": "35.富含胆固醇的是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.高密度脂蛋白",
+            "C.低密度脂蛋白",
+            "D.脂蛋白（a）",
+            "E.极低密度脂蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 35
+    },
+    {
+        "question_text": "36.致动脉粥样硬化因子是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.高密度脂蛋白",
+            "C.低密度脂蛋白",
+            "D.脂蛋白（a）",
+            "E.极低密度脂蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 36
+    },
+    {
+        "question_text": "37.与纤溶酶原有同源性的是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.高密度脂蛋白",
+            "C.低密度脂蛋白",
+            "D.脂蛋白（a）",
+            "E.极低密度脂蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 37
+    },
+    {
+        "question_text": "38.血清中颗粒密度最大的是:",
+        "options": [
+            "A.乳糜微粒",
+            "B.高密度脂蛋白",
+            "C.低密度脂蛋白",
+            "D.脂蛋白（a）",
+            "E.极低密度脂蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 38
+    },
+    {
+        "question_text": "39.HDL的主要结构蛋白是:",
+        "options": [
+            "A.apoA",
+            "B.apoB",
+            "C.apoC",
+            "D.apoE",
+            "E.apoD"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 39
+    },
+    {
+        "question_text": "40.LDL中含量最多的是:",
+        "options": [
+            "A.apoA",
+            "B.apoB",
+            "C.apoC",
+            "D.apoE",
+            "E.apoD"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 40
+    },
+    {
+        "question_text": "41.具有清除组织脂质和抗动脉粥样硬化作用的是:",
+        "options": [
+            "A.apoA",
+            "B.apoB",
+            "C.apoC",
+            "D.apoE",
+            "E.apoD"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 41
+    },
+    {
+        "question_text": "42.可直接反映LDL水平的是:",
+        "options": [
+            "A.apoA",
+            "B.apoB",
+            "C.apoC",
+            "D.apoE",
+            "E.apoD"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 42
+    },
+    {
+        "question_text": "43.禁食12小时后，正常人血浆三油甘脂（TG）主要存在于:",
+        "options": [
+            "A.CM",
+            "B.VLDL",
+            "C.LDL",
+            "D.HDL",
+            "E.CM和VLDL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 43
+    },
+    {
+        "question_text": "44.携带胆固醇最多的脂蛋白是:",
+        "options": [
+            "A.HDL",
+            "B.LDL",
+            "C.VLDL",
+            "D.CM",
+            "E.中间密度脂蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 44
+    },
+    {
+        "question_text": "45.对动脉硬化有防御作用的脂蛋白是:",
+        "options": [
+            "A.CM",
+            "B.VLDL",
+            "C.LDL",
+            "D.IDL",
+            "E.HDL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 45
+    },
+    {
+        "question_text": "46.ApoB主要存在于:",
+        "options": [
+            "A.HDL",
+            "B.LDL",
+            "C.CM",
+            "D.VLDL",
+            "E.血浆"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 46
+    },
+    {
+        "question_text": "47.ApoA-I主要存在于:",
+        "options": [
+            "A.LDL",
+            "B.VLDL",
+            "C.CM",
+            "D.HDL",
+            "E.血浆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 47
+    },
+    {
+        "question_text": "48.Ⅰ型高脂蛋白血症是指空腹血浆:",
+        "options": [
+            "A.CM升高",
+            "B.VLDL升高",
+            "C.CM和VLDL升高",
+            "D.LDL升高",
+            "E.HDL升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 48
+    },
+    {
+        "question_text": "49.空腹血糖浓度在6-7mmol/L之间，又有糖尿病症状时应做:",
+        "options": [
+            "A.空腹血浆葡萄糖浓度测定",
+            "B.尿糖测定",
+            "C.糖化血红蛋白水平测定",
+            "D.口服葡萄糖耐量试验",
+            "E.C肽测定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 49
+    },
+    {
+        "question_text": "50.空腹血糖的参考范围是:",
+        "options": [
+            "A.3.9-6.1mmol/L",
+            "B.3.9-7.0mmol/L",
+            "C.6.1-7.0mmol/L",
+            "D.6.1-7.8mmol/L",
+            "E.7.0-7.8mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 50
+    },
+    {
+        "question_text": "51.以下哪个时段不是OGTT需要的采血时段？",
+        "options": [
+            "A.空腹",
+            "B.餐后0.5小时",
+            "C.餐后1小时",
+            "D.餐后2小时",
+            "E.餐后4小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 51
+    },
+    {
+        "question_text": "52.当血糖超过肾糖阈值时，可出现:",
+        "options": [
+            "A.生理性血糖升高",
+            "B.病理性血糖升高",
+            "C.生理性血糖降低",
+            "D.病理性血糖降低",
+            "E.尿糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 52
+    },
+    {
+        "question_text": "53.有关Ⅱ型糖尿病的叙述错误的是:",
+        "options": [
+            "A.胰岛细胞的功能减退",
+            "B.胰岛素相对不足",
+            "C.常见于肥胖的中老年成人",
+            "D.常检出自身抗体",
+            "E.胰岛素抵抗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 53
+    },
+    {
+        "question_text": "54.需做糖耐量试验的血糖浓度是:",
+        "options": [
+            "A.11.1-14.0mmol/L",
+            "B.7.0-9.9mmol/L",
+            "C.6.1-7.0mmol/L",
+            "D.3.61-6.1mmol/L",
+            "E.2.3-3.3mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 54
+    },
+    {
+        "question_text": "55.诊断糖尿病的随机血糖浓度为:",
+        "options": [
+            "A.11.1-14.0mmol/L",
+            "B.7.0-9.9mmol/L",
+            "C.6.1-7.0mmol/L",
+            "D.3.61-6.1mmol/L",
+            "E.2.3-3.3mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 55
+    },
+    {
+        "question_text": "56.引起胰岛β细胞分泌和释放胰岛素最重要的因素是:",
+        "options": [
+            "A.肾上腺素的释放",
+            "B.血脂水平增加",
+            "C.血糖水平升高",
+            "D.肠道蠕动增强",
+            "E.丘脑受刺激"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 56
+    },
+    {
+        "question_text": "57.胰岛β细胞首先合成胰岛素原，而分泌入血的是:",
+        "options": [
+            "A.胰岛素原",
+            "B.胰岛素",
+            "C.C肽",
+            "D.胰岛素和等分子的C肽",
+            "E.胰岛素的A链及B链"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 57
+    },
+    {
+        "question_text": "58.胰岛细胞瘤时通常可见:",
+        "options": [
+            "A.胰岛素水平降低",
+            "B.C肽水平降低",
+            "C.血糖水平正常",
+            "D.血糖明显降低",
+            "E.血糖明显升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 58
+    },
+    {
+        "question_text": "59.高血糖可见于许多疾病，除外:",
+        "options": [
+            "A.糖尿病",
+            "B.心肌梗死",
+            "C.肝硬化",
+            "D.甲状腺功能亢进",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 59
+    },
+    {
+        "question_text": "60.正常糖耐量的口服葡萄糖耐量试验（OGTT）结果为:",
+        "options": [
+            "A.空腹血糖6-7mmol/L",
+            "B.口服葡萄糖30-60min达最高峰",
+            "C.葡萄糖峰值>10mmol/L",
+            "D.2小时血糖水平在7-8mmol/L",
+            "E.尿糖可以为阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 60
+    },
+    {
+        "question_text": "61.诊断糖尿病的血糖浓度是:",
+        "options": [
+            "A.空腹血糖浓度<6mmol/L",
+            "B.空腹血糖浓度6-7mmol/L",
+            "C.空腹血糖浓度>3.9mmol/L",
+            "D.餐后2小时血糖浓度<6mmol/L",
+            "E.随机取样血糖浓度〉11.1mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 61
+    },
+    {
+        "question_text": "62.血糖浓度的肾糖阈范围是:",
+        "options": [
+            "A.3.8-5.5mmol/L",
+            "B.4.4-6.6mmol/L",
+            "C.5.5-7.7mmol/L",
+            "D.6.6-8.8mmol/L",
+            "E.8.8-9.9mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 62
+    },
+    {
+        "question_text": "63.胰岛细胞瘤时血中有下列哪种变化？",
+        "options": [
+            "A.胰岛素增高，C肽增高，血糖降低",
+            "B.胰岛素增高，C肽降低，血糖降低",
+            "C.胰岛素增高，C肽正常，血糖降低",
+            "D.胰岛素降低，C肽降低，血糖增高",
+            "E.胰岛素降低，C肽增高，血糖增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 63
+    },
+    {
+        "question_text": "64.糖耐量试验（耐糖曲线）用于:",
+        "options": [
+            "A.诊断严重糖尿病",
+            "B.诊断酮症酸中毒",
+            "C.检查血糖回复到正常水平的时间",
+            "D.诊断隐性糖尿病",
+            "E.诊断严重肝病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 64
+    },
+    {
+        "question_text": "65.糖化血红蛋白检测可以反应机体:",
+        "options": [
+            "A.近2-3周的平均血糖水平",
+            "B.近3-4周的平均血糖水平",
+            "C.近2-3个月的平均血糖水平",
+            "D.近3-4个月的平均血糖水平",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 65
+    },
+    {
+        "question_text": "66.OGTT的适应症不包括:",
+        "options": [
+            "A.无明显糖尿病症状的尿糖阳性者",
+            "B.有糖尿病症状，FBG未达到诊断标准",
+            "C.FBG略高者",
+            "D.酮症酸中毒病人",
+            "E.妊娠期出现尿糖阳性者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 66
+    },
+    {
+        "question_text": "67.下列哪项不能作为糖尿病确诊的依据？",
+        "options": [
+            "A.多次空腹血糖≥7.8mmol/L",
+            "B.尿糖（++）",
+            "C.餐后血糖≥11.1mmol/L",
+            "D.葡萄糖耐量试验1小时和2小时血糖均>11.1mmol/L",
+            "E.无“三多一少”症状，空腹血糖多次为7.8-11.1mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 67
+    },
+    {
+        "question_text": "68.高血糖症患者:",
+        "options": [
+            "A.FBG>7.0mmol/L",
+            "B.FBG7.0-8.4mmol/L",
+            "C.FBG>10.1mmol/L",
+            "D.FBG<3.9mmol/L",
+            "E.FBG<2.8mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 68
+    },
+    {
+        "question_text": "69.重度高血糖症患者:",
+        "options": [
+            "A.FBG>7.0mmol/L",
+            "B.FBG7.0-8.4mmol/L",
+            "C.FBG>10.1mmol/L",
+            "D.FBG<3.9mmol/L",
+            "E.FBG<2.8mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 69
+    },
+    {
+        "question_text": "70.血糖减低患者:",
+        "options": [
+            "A.FBG>7.0mmol/L",
+            "B.FBG7.0-8.4mmol/L",
+            "C.FBG>10.1mmol/L",
+            "D.FBG<3.9mmol/L",
+            "E.FBG<2.8mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 70
+    },
+    {
+        "question_text": "71.低血糖症患者:",
+        "options": [
+            "A.FBG>7.0mmol/L",
+            "B.FBG7.0-8.4mmol/L",
+            "C.FBG>10.1mmol/L",
+            "D.FBG<3.9mmol/L",
+            "E.FBG<2.8mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 71
+    },
+    {
+        "question_text": "72.轻度高血糖症患者:",
+        "options": [
+            "A.FBG>7.0mmol/L",
+            "B.FBG7.0-8.4mmol/L",
+            "C.FBG>10.1mmol/L",
+            "D.FBG<3.9mmol/L",
+            "E.FBG<2.8mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 72
+    },
+    {
+        "question_text": "73.糖尿病患者:",
+        "options": [
+            "A.口服葡萄糖后血糖急剧升高，提早出现峰值，且>11.1mmol/L，2hPG低于空腹水平",
+            "B.FPG降低，口服葡萄糖后血糖上升也不明显，2hPG仍处于低水平状态",
+            "C.P<7.0mmol/L，2hPG为7.8-11.1mmol/L，峰值延迟至1h，恢复正常的时间延长至2-3h，伴尿糖阳性",
+            "D.FPG>7.0mmol/L，OGTT峰值>11.1mmol/L，2hPG>11.2mmol/L",
+            "E.FPG正常，口服葡萄糖后高峰时间及峰值均正常，但2-3h出现低血糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 73
+    },
+    {
+        "question_text": "74.特发性低血糖症是指:",
+        "options": [
+            "A.口服葡萄糖后血糖急剧升高，提早出现峰值，且>11.1mmol/L，2hPG低于空腹水平",
+            "B.FPG降低，口服葡萄糖后血糖上升也不明显，2hPG仍处于低水平状态",
+            "C.P<7.0mmol/L，2hPG为7.8-11.1mmol/L，峰值延迟至1h，恢复正常的时间延长至2-3h，伴尿糖阳性",
+            "D.FPG>7.0mmol/L，OGTT峰值>11.1mmol/L，2hPG>11.2mmol/L",
+            "E.FPG正常，口服葡萄糖后高峰时间及峰值均正常，但2-3h出现低血糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 74
+    },
+    {
+        "question_text": "75.储存延迟型糖耐量曲线是指:",
+        "options": [
+            "A.口服葡萄糖后血糖急剧升高，提早出现峰值，且>11.1mmol/L，2hPG低于空腹水平",
+            "B.FPG降低，口服葡萄糖后血糖上升也不明显，2hPG仍处于低水平状态",
+            "C.P<7.0mmol/L，2hPG为7.8-11.1mmol/L，峰值延迟至1h，恢复正常的时间延长至2-3h，伴尿糖阳性",
+            "D.FPG>7.0mmol/L，OGTT峰值>11.1mmol/L，2hPG>11.2mmol/L",
+            "E.FPG正常，口服葡萄糖后高峰时间及峰值均正常，但2-3h出现低血糖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 75
+    },
+    {
+        "question_text": "76.平坦型糖耐量曲线是指:",
+        "options": [
+            "A.口服葡萄糖后血糖急剧升高，提早出现峰值，且>11.1mmol/L，2hPG低于空腹水平",
+            "B.FPG降低，口服葡萄糖后血糖上升也不明显，2hPG仍处于低水平状态",
+            "C.P<7.0mmol/L，2hPG为7.8-11.1mmol/L，峰值延迟至1h，恢复正常的时间延长至2-3h，伴尿糖阳性",
+            "D.FPG>7.0mmol/L，OGTT峰值>11.1mmol/L，2hPG>11.2mmol/L",
+            "E.FPG正常，口服葡萄糖后高峰时间及峰值均正常，但2-3h出现低血糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 76
+    },
+    {
+        "question_text": "77.糖耐量减低（IGT）是指:",
+        "options": [
+            "A.口服葡萄糖后血糖急剧升高，提早出现峰值，且>11.1mmol/L，2hPG低于空腹水平",
+            "B.FPG降低，口服葡萄糖后血糖上升也不明显，2hPG仍处于低水平状态",
+            "C.P<7.0mmol/L，2hPG为7.8-11.1mmol/L，峰值延迟至1h，恢复正常的时间延长至2-3h，伴尿糖阳性",
+            "D.FPG>7.0mmol/L，OGTT峰值>11.1mmol/L，2hPG>11.2mmol/L",
+            "E.FPG正常，口服葡萄糖后高峰时间及峰值均正常，但2-3h出现低血糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 77
+    },
+    {
+        "question_text": "78.正常人:",
+        "options": [
+            "A.FPG增高，GHb增高不明显",
+            "B.FPG增高，GHb增高",
+            "C.FPG正常，GHb增高",
+            "D.FPG正常，GHb正常",
+            "E.FPG正常，GHb减低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 78
+    },
+    {
+        "question_text": "79.糖尿病未控制患者:",
+        "options": [
+            "A.FPG增高，GHb增高不明显",
+            "B.FPG增高，GHb增高",
+            "C.FPG正常，GHb增高",
+            "D.FPG正常，GHb正常",
+            "E.FPG正常，GHb减低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 79
+    },
+    {
+        "question_text": "80.糖尿病已控制患者:",
+        "options": [
+            "A.FPG增高，GHb增高不明显",
+            "B.FPG增高，GHb增高",
+            "C.FPG正常，GHb增高",
+            "D.FPG正常，GHb正常",
+            "E.FPG正常，GHb减低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 80
+    },
+    {
+        "question_text": "81.早期糖尿病患者:",
+        "options": [
+            "A.FPG增高，GHb增高不明显",
+            "B.FPG增高，GHb增高",
+            "C.FPG正常，GHb增高",
+            "D.FPG正常，GHb正常",
+            "E.FPG正常，GHb减低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 81
+    },
+    {
+        "question_text": "82.I型糖尿病患者:",
+        "options": [
+            "A.空腹胰岛素明显减低，胰岛素释放试验为低平曲线",
+            "B.空腹胰岛素可正常、稍高或减低，胰岛素释放试验呈延迟释放反应",
+            "C.空腹血糖减低，胰岛素增高，其比值>0.4",
+            "D.空腹胰岛素为10-20mU/L，胰岛素（uU/L）/血糖（mg/dl）<0.3",
+            "E.胰岛素释放试验峰值在30min-1h，3h后达空腹水平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 82
+    },
+    {
+        "question_text": "83.Ⅱ型糖尿病患者:",
+        "options": [
+            "A.空腹胰岛素明显减低，胰岛素释放试验为低平曲线",
+            "B.空腹胰岛素可正常、稍高或减低，胰岛素释放试验呈延迟释放反应",
+            "C.空腹血糖减低，胰岛素增高，其比值>0.4",
+            "D.空腹胰岛素为10-20mU/L，胰岛素（uU/L）/血糖（mg/dl）<0.3",
+            "E.胰岛素释放试验峰值在30min-1h，3h后达空腹水平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 83
+    },
+    {
+        "question_text": "84.胰岛B细胞瘤患者:",
+        "options": [
+            "A.空腹胰岛素明显减低，胰岛素释放试验为低平曲线",
+            "B.空腹胰岛素可正常、稍高或减低，胰岛素释放试验呈延迟释放反应",
+            "C.空腹血糖减低，胰岛素增高，其比值>0.4",
+            "D.空腹胰岛素为10-20mU/L，胰岛素（U/L）/血糖（mg/d1）<0.3",
+            "E.胰岛素释放试验峰值在30min-1h，3h后达空腹水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 84
+    },
+    {
+        "question_text": "85.肝硬化患者:",
+        "options": [
+            "A.空腹血清C-肽增高，C-肽释放试验呈高水平曲线",
+            "B.空腹血清C-肽增高，C-肽/胰岛素比值降低",
+            "C.空腹血清C-肽降低，C-肽释放曲线低平",
+            "D.空腹血清C-肽降低，C-肽释放曲线释放延迟或呈低水平",
+            "E.C-肽水平不升高，而胰岛素增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 85
+    },
+    {
+        "question_text": "86.胰岛B细胞瘤患者:",
+        "options": [
+            "A.空腹血清C-肽增高，C-肽释放试验呈高水平曲线",
+            "B.空腹血清C-肽增高，C-肽/胰岛素比值降低",
+            "C.空腹血清C-肽降低，C-肽释放曲线低平",
+            "D.空腹血清C-肽降低，C-肽释放曲线释放延迟或呈低水平",
+            "E.C-肽水平不升高，而胰岛素增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 86
+    },
+    {
+        "question_text": "87.I型糖尿病患者:",
+        "options": [
+            "A.空腹血清C-肽增高，C-肽释放试验呈高水平曲线",
+            "B.空腹血清C-肽增高，C-肽/胰岛素比值降低",
+            "C.空腹血清C-肽降低，C-肽释放曲线低平",
+            "D.空腹血清C-肽降低，C-肽释放曲线释放延迟或呈低水平",
+            "E.C-肽水平不升高，而胰岛素增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 87
+    },
+    {
+        "question_text": "88.Ⅱ型糖尿病患者:",
+        "options": [
+            "A.空腹血清C-肽增高，C-肽释放试验呈高水平曲线",
+            "B.空腹血清C-肽增高，C-肽/胰岛素比值降低",
+            "C.空腹血清C-肽降低，C-肽释放曲线低平",
+            "D.空腹血清C-肽降低，C-肽释放曲线释放延迟或呈低水平",
+            "E.C-肽水平不升高，而胰岛素增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 88
+    },
+    {
+        "question_text": "89.外源性高胰岛素血症患者:",
+        "options": [
+            "A.空腹血清C-肽增高，C-肽释放试验呈高水平曲线",
+            "B.空腹血清C-肽增高，C-肽/胰岛素比值降低",
+            "C.空腹血清C-肽降低，C-肽释放曲线低平",
+            "D.空腹血清C-肽降低，C-肽释放曲线释放延迟或呈低水平",
+            "E.C-肽水平不升高，而胰岛素增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 89
+    },
+    {
+        "question_text": "90.铁蛋白是:",
+        "options": [
+            "A.与转铁蛋白结合的铁",
+            "B.与Fe3+结合的球蛋白",
+            "C.血清铁与未饱和铁结合力之和",
+            "D.达到饱和铁结合力的Tf所结合的铁量",
+            "E.去铁蛋白与Fe3+形成的复合物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 90
+    },
+    {
+        "question_text": "91.转铁蛋白是指:",
+        "options": [
+            "A.与转铁蛋白结合的铁",
+            "B.与Fe3+结合的球蛋白",
+            "C.血清铁与未饱和铁结合力之和",
+            "D.达到饱和铁结合力的Tf所结合的铁量",
+            "E.去铁蛋白与Fe3+形成的复合物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 91
+    },
+    {
+        "question_text": "92.血清铁是:",
+        "options": [
+            "A.与转铁蛋白结合的铁",
+            "B.与Fe3+结合的球蛋白",
+            "C.血清铁与未饱和铁结合力之和",
+            "D.达到饱和铁结合力的Tf所结合的铁量",
+            "E.去铁蛋白与Fe3+形成的复合物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 92
+    },
+    {
+        "question_text": "93.总铁结合力是指:",
+        "options": [
+            "A.与转铁蛋白结合的铁",
+            "B.与Fe3+结合的球蛋白",
+            "C.血清铁与未饱和铁结合力之和",
+            "D.达到饱和铁结合力的Tf所结合的铁量",
+            "E.去铁蛋白与Fe3+形成的复合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 93
+    },
+    {
+        "question_text": "94.转铁蛋白饱和度是:",
+        "options": [
+            "A.与转铁蛋白结合的铁",
+            "B.与Fe3+结合的球蛋白",
+            "C.血清铁与未饱和铁结合力之和",
+            "D.达到饱和铁结合力的Tf所结合的铁量",
+            "E.去铁蛋白与Fe3+形成的复合物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 94
+    },
+    {
+        "question_text": "95.下列哪项是缺铁性贫血早期诊断指标之一？",
+        "options": [
+            "A.血清铁蛋白降低",
+            "B.HbA2增高",
+            "C.铁利用障碍",
+            "D.转铁饱和度正常",
+            "E.细胞外铁正常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 95
+    },
+    {
+        "question_text": "96.铁幼粒细胞性贫血是由于:",
+        "options": [
+            "A.血清铁蛋白降低",
+            "B.HbA2增高",
+            "C.铁利用障碍",
+            "D.转铁饱和度正常",
+            "E.细胞外铁正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 96
+    },
+    {
+        "question_text": "97.β-珠蛋白生成障碍性贫血引起:",
+        "options": [
+            "A.血清铁蛋白降低",
+            "B.HbA2增高",
+            "C.铁利用障碍",
+            "D.转铁饱和度正常",
+            "E.细胞外铁正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 97
+    },
+    {
+        "question_text": "98.慢性病性贫血时可见",
+        "options": [
+            "A.血清铁蛋白降低",
+            "B.HbA2增高",
+            "C.总铁结合力降低",
+            "D.转铁饱合度正常",
+            "E.细胞外铁正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 98
+    },
+    {
+        "question_text": "99.缺铁性贫血常引起:",
+        "options": [
+            "A.血清铁降低、TIBC（总铁结合力）增高",
+            "B.血清铁增高、TIBC降低",
+            "C.血清铁、TIBC均增高",
+            "D.血清铁、TIBC均降低",
+            "E.血清铁增高、TIBC正常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 99
+    },
+    {
+        "question_text": "100.急性肝炎常引起:",
+        "options": [
+            "A.血清铁降低、TIBC（总铁结合力）增高",
+            "B.血清铁增高、TIBC降低",
+            "C.血清铁、TIBC均增高",
+            "D.血清铁、TIBC均降低",
+            "E.血清铁增高、TIBC正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 100
+    },
+    {
+        "question_text": "101.总铁结合力测定可用于间接检测:",
+        "options": [
+            "A.转铁蛋白",
+            "B.铁蛋白",
+            "C.转铁蛋白分子中未饱和的铁结合位点",
+            "D.血清铁",
+            "E.转铁蛋白的铁饱和状态"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 101
+    },
+    {
+        "question_text": "102.铁摄入过多可能是由于:",
+        "options": [
+            "A.铁幼粒细胞性贫血",
+            "B.溶血性贫血",
+            "C.白血病",
+            "D.铁剂治疗过量",
+            "E.月经过多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 102
+    },
+    {
+        "question_text": "103.铁利用障碍最有可能引起:",
+        "options": [
+            "A.铁幼粒细胞性贫血",
+            "B.溶血性贫血",
+            "C.白血病",
+            "D.铁剂治疗过量",
+            "E.月经过多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 103
+    },
+    {
+        "question_text": "104.铁释放增多最有可能引起:",
+        "options": [
+            "A.铁幼粒细胞性贫血",
+            "B.溶血性贫血",
+            "C.白血病",
+            "D.铁剂治疗过量",
+            "E.月经过多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 104
+    },
+    {
+        "question_text": "105.铁蛋白吸收增多有可能引起:",
+        "options": [
+            "A.铁幼粒细胞性贫血",
+            "B.溶血性贫血",
+            "C.白血病",
+            "D.铁剂治疗过量",
+            "E.月经过多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 105
+    },
+    {
+        "question_text": "106.细胞内液中的主要阳离子是:",
+        "options": [
+            "A.Na+",
+            "B.K+",
+            "C.Ca2+",
+            "D.Mg2+",
+            "E.Fe2+"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 106
+    },
+    {
+        "question_text": "107.细胞内液的主要阳离子是",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.P3-"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 107
+    },
+    {
+        "question_text": "108.细胞外液的主要阳离子:",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.P3-"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 108
+    },
+    {
+        "question_text": "109.主要存在于骨骼中的是:",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.P3-"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 109
+    },
+    {
+        "question_text": "110.细胞外液的主要阴离子:",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.P3-"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 110
+    },
+    {
+        "question_text": "111.与血钙有一定浓度关系的是:",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.P3-"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 111
+    },
+    {
+        "question_text": "112.血清钾正常参考值是:",
+        "options": [
+            "A.2.5-3.5mmol/L",
+            "B.3.0-4.5mmol/L",
+            "C.3.5-5.0mmol/L",
+            "D.3.5-5.5mmol/L",
+            "E.4.0-5.5mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 112
+    },
+    {
+        "question_text": "113.血清钠正常参考值是:",
+        "options": [
+            "A.120-130mmol/L",
+            "B.125-135mmol/L",
+            "C.130-140mmol/L",
+            "D.135-145mmol/L",
+            "E.140-150mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 113
+    },
+    {
+        "question_text": "114.血清中钙离子（Ca++）正常参考值是:",
+        "options": [
+            "A.1.00-1.20mmol/L",
+            "B.1.10-1.24mmol/L",
+            "C.1.10-1.34mmol/L",
+            "D.1.20-1.34mmol/L",
+            "E.1.20-1.44mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 114
+    },
+    {
+        "question_text": "115.高钾血症是指血清钾:",
+        "options": [
+            "A.>5.0mmol/L",
+            "B.>6.0mmol/L",
+            "C.>5.8mmol/L",
+            "D.>5.3mmol/L",
+            "E.>5.5mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 115
+    },
+    {
+        "question_text": "116.低钾血症是指血清钾:",
+        "options": [
+            "A.<4.0mmol/L",
+            "B.<3.5mmol/L",
+            "C.<3.0mmol/L",
+            "D.<2.5mmol/L",
+            "E.<2.0mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 116
+    },
+    {
+        "question_text": "117.轻度低钾血症是指血清钾:",
+        "options": [
+            "A.<2.0mmol/L",
+            "B.<2.5mmol/L",
+            "C.2.0-3.0mmol/L",
+            "D.2.5-3.0mmol/L",
+            "E.3.0-3.5mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 117
+    },
+    {
+        "question_text": "118.中度低钾血症是指血清钾:",
+        "options": [
+            "A.<2.0mmol/L",
+            "B.<2.5mmol/L",
+            "C.2.0-3.0mmol/L",
+            "D.2.2-3.0mmol/L",
+            "E.3.0-3.5mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 118
+    },
+    {
+        "question_text": "119.重度低钾血症是指血清钾:",
+        "options": [
+            "A.<2.0mmol/L",
+            "B.<2.5mmol/L",
+            "C.2.0-3.0mmol/L",
+            "D.2.2-3.0mmol/L",
+            "E.3.0-3.5mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 119
+    },
+    {
+        "question_text": "120.血钾降低见于:",
+        "options": [
+            "A.创伤",
+            "B.禁食后",
+            "C.肾上腺皮质功能减退",
+            "D.缺氧",
+            "E.肾功能衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 120
+    },
+    {
+        "question_text": "121.维持血容量恒定的最重要的阳离子是:",
+        "options": [
+            "A.K+",
+            "B.Mg2+",
+            "C.Ca2+",
+            "D.Fe2+",
+            "E.Na+"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 121
+    },
+    {
+        "question_text": "122.可导致神经-肌肉兴奋性增加的是:",
+        "options": [
+            "A.血浆H+升高",
+            "B.血浆Mg2+升高",
+            "C.血浆Na+升高",
+            "D.血浆K+降低",
+            "E.血浆Ca2+下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 122
+    },
+    {
+        "question_text": "123.具有生理活性的钙是:",
+        "options": [
+            "A.磷酸钙",
+            "B.蛋白结合钙",
+            "C.离子钙",
+            "D.枸橼酸钙",
+            "E.总钙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 123
+    },
+    {
+        "question_text": "124.检查转铁蛋白的临床意义是:",
+        "options": [
+            "A.缺铁性贫血时血中含量增高",
+            "B.恶性病变时血中浓度增高",
+            "C.溶血性贫血时血中浓度增高",
+            "D.肾病综合征时血中含量增高",
+            "E.慢性肝病时血中含量增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 124
+    },
+    {
+        "question_text": "125.正常人的主要铁存储形式是:",
+        "options": [
+            "A.含铁血黄素",
+            "B.铁蛋白",
+            "C.运铁蛋白",
+            "D.游离铁",
+            "E.血红素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 125
+    },
+    {
+        "question_text": "126.高血钾可导致酸中毒，因为:",
+        "options": [
+            "A.高钾促进葡萄糖酵解乳酸",
+            "B.肾小管细胞H+与Na+的交换增加",
+            "C.抑制肾的糖异生，间接减少胺盐生成",
+            "D.血浆钾与细胞内H+交换，使血浆H+升高",
+            "E.高血钾可导致糖酵解增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 126
+    },
+    {
+        "question_text": "127.可引起血清钾降低的是:",
+        "options": [
+            "A.严重溶血或组织损伤",
+            "B.严重呕吐、腹泻",
+            "C.肾上腺皮质功能不全",
+            "D.肾功能不全",
+            "E.缺氧"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 127
+    },
+    {
+        "question_text": "128.细胞内钾外移增多见于:",
+        "options": [
+            "A.组织损伤和血细胞破坏",
+            "B.禁食和厌食",
+            "C.长期使用潴钾利尿剂",
+            "D.输入大量库存血",
+            "E.胃肠引流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 128
+    },
+    {
+        "question_text": "129.钾离子排出减少见于:",
+        "options": [
+            "A.组织损伤和血细胞破坏",
+            "B.禁食和厌食",
+            "C.长期使用潴钾利尿剂",
+            "D.输入大量库存血",
+            "E.胃肠引流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 129
+    },
+    {
+        "question_text": "130.钾离子摄入过多见于:",
+        "options": [
+            "A.组织损伤和血细胞破坏",
+            "B.禁食和厌食",
+            "C.长期使用潴钾利尿剂",
+            "D.输入大量库存血",
+            "E.胃肠引流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 130
+    },
+    {
+        "question_text": "131.钾离子摄入不足见于:",
+        "options": [
+            "A.组织损伤和血细胞破坏",
+            "B.禁食和厌食",
+            "C.长期使用潴钾利尿剂",
+            "D.输入大量库存血",
+            "E.胃肠引流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 131
+    },
+    {
+        "question_text": "132.钾离子丢失过多见于:",
+        "options": [
+            "A.组织损伤和血细胞破坏",
+            "B.禁食和厌食",
+            "C.长期使用潴钾利尿剂",
+            "D.输入大量库存血",
+            "E.胃肠引流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 132
+    },
+    {
+        "question_text": "133.水钠滁留见于:",
+        "options": [
+            "A.大面积烧伤时血浆外渗",
+            "B.尿崩症",
+            "C.肿瘤",
+            "D.营养不良",
+            "E.脑外伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 133
+    },
+    {
+        "question_text": "134.消耗性低钠见于:",
+        "options": [
+            "A.大面积烧伤时血浆外渗",
+            "B.尿崩症",
+            "C.肿瘤",
+            "D.营养不良",
+            "E.脑外伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 134
+    },
+    {
+        "question_text": "135.钠离子丢失过多见于:",
+        "options": [
+            "A.大面积烧伤时血浆外渗",
+            "B.尿崩症",
+            "C.肿瘤",
+            "D.营养不良",
+            "E.脑外伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 135
+    },
+    {
+        "question_text": "136.钠离子摄入不足见于:",
+        "options": [
+            "A.大面积烧伤时血浆外渗",
+            "B.尿崩症",
+            "C.肿瘤",
+            "D.营养不良",
+            "E.脑外伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 136
+    },
+    {
+        "question_text": "137.下列引起高血钾的原因中错误的是:",
+        "options": [
+            "A.食入较多的钾盐",
+            "B.输入钾盐过多",
+            "C.肾上腺皮质功能减退",
+            "D.急性酸中毒",
+            "E.严重呕吐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 137
+    },
+    {
+        "question_text": "138.关于肾对钾离子排泄的叙述，错误的是:",
+        "options": [
+            "A.肾排钾的功能主要是肾上腺皮质激素调节",
+            "B.多吃少排",
+            "C.少吃少排",
+            "D.不吃不排",
+            "E.不吃也排"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 138
+    },
+    {
+        "question_text": "139.溶骨作用增强见于:",
+        "options": [
+            "A.原发性甲状旁腺功能亢进症",
+            "B.溃疡病长期应用碱性药物",
+            "C.甲状旁腺功能减退症",
+            "D.佝偻病",
+            "E.急性坏死性胰腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 139
+    },
+    {
+        "question_text": "140.钙吸收减少见于:",
+        "options": [
+            "A.原发性甲状旁腺功能亢进症",
+            "B.溃疡病长期应用碱性药物",
+            "C.甲状旁腺功能减退症",
+            "D.佝偻病",
+            "E.急性坏死性胰腺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 140
+    },
+    {
+        "question_text": "141.钙吸收增加见于:",
+        "options": [
+            "A.原发性甲状旁腺功能亢进症",
+            "B.溃疡病长期应用碱性药物",
+            "C.甲状旁腺功能减退症",
+            "D.佝偻病",
+            "E.急性坏死性胰腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 141
+    },
+    {
+        "question_text": "142.成骨作用增强见于:",
+        "options": [
+            "A.原发性甲状旁腺功能亢进症",
+            "B.溃疡病长期应用碱性药物",
+            "C.甲状旁腺功能减退症",
+            "D.佝偻病",
+            "E.急性坏死性胰腺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 142
+    },
+    {
+        "question_text": "143.原发性甲状腺功能减退症可引起:",
+        "options": [
+            "A.血清钾增高",
+            "B.血清钠增高",
+            "C.血清钙增高",
+            "D.血清磷增高",
+            "E.血清氯增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 143
+    },
+    {
+        "question_text": "144.库欣综合征可引起:",
+        "options": [
+            "A.血清钾增高",
+            "B.血清钠增高",
+            "C.血清钙增高",
+            "D.血清磷增高",
+            "E.血清氯增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 144
+    },
+    {
+        "question_text": "145.多发性骨髓瘤可引起:",
+        "options": [
+            "A.血清钾增高",
+            "B.血清钠增高",
+            "C.血清钙增高",
+            "D.血清磷增高",
+            "E.血清氯增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 145
+    },
+    {
+        "question_text": "146.糖尿病性多尿可造成:",
+        "options": [
+            "A.血清钾增高",
+            "B.血清钠增高",
+            "C.血清钙增高",
+            "D.血清磷增高",
+            "E.血清氯增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 146
+    },
+    {
+        "question_text": "147.严重溶血患者可出现:",
+        "options": [
+            "A.血清钾增高",
+            "B.血清钠增高",
+            "C.血清钙增高",
+            "D.血清磷增高",
+            "E.血清氯增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 147
+    },
+    {
+        "question_text": "148.尿崩症患者可出现:",
+        "options": [
+            "A.血清钙减低",
+            "B.血清磷减低",
+            "C.血清氯减低",
+            "D.血清钠减低",
+            "E.血清钾增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 148
+    },
+    {
+        "question_text": "149.大量应用速尿后可引起:",
+        "options": [
+            "A.血清钙减低",
+            "B.血清磷减低",
+            "C.血清氯减低",
+            "D.血清钠减低",
+            "E.血清钾增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 149
+    },
+    {
+        "question_text": "150.阻塞性黄疸可造成:",
+        "options": [
+            "A.血清钙减低",
+            "B.血清磷减低",
+            "C.血清氯减低",
+            "D.血清钠减低",
+            "E.血清钾增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 150
+    },
+    {
+        "question_text": "151.Fanconi综合征可引起:",
+        "options": [
+            "A.血清钙减低",
+            "B.血清磷减低",
+            "C.血清氯减低",
+            "D.血清钠减低",
+            "E.血清钾增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 151
+    },
+    {
+        "question_text": "152.甲状旁腺功能亢进症可引起:",
+        "options": [
+            "A.血钾升高",
+            "B.血钠升高",
+            "C.血钙升高",
+            "D.血无机磷升高",
+            "E.血氯升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 152
+    },
+    {
+        "question_text": "153.急性肾衰少尿期会引起:",
+        "options": [
+            "A.血钾升高",
+            "B.血钠升高",
+            "C.血钙升高",
+            "D.血无机磷升高",
+            "E.血氯升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 153
+    },
+    {
+        "question_text": "154.呼吸性碱中毒造成:",
+        "options": [
+            "A.血钾升高",
+            "B.血钠升高",
+            "C.血钙升高",
+            "D.血无机磷升高",
+            "E.血氯升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 154
+    },
+    {
+        "question_text": "155.儿童生长发育迟缓是由于:",
+        "options": [
+            "A.血清CK升高",
+            "B.血清锌缺乏",
+            "C.血清铜降低",
+            "D.LDL-C升高",
+            "E.血清总铁结合力增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 155
+    },
+    {
+        "question_text": "156.急性心肌梗死可引起:",
+        "options": [
+            "A.血清CK升高",
+            "B.血清锌缺乏",
+            "C.血清铜降低",
+            "D.LDL-C升高",
+            "E.血清总铁结合力增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 156
+    },
+    {
+        "question_text": "157.动脉粥样硬化常引起:",
+        "options": [
+            "A.血清CK升高",
+            "B.血清锌缺乏",
+            "C.血清铜降低",
+            "D.LDL-C升高",
+            "E.血清总铁结合力增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 157
+    },
+    {
+        "question_text": "158.缺铁性贫血可引起:",
+        "options": [
+            "A.血清CK升高",
+            "B.血清锌缺乏",
+            "C.血清铜降低",
+            "D.LDL-C升高",
+            "E.血清总铁结合力增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 158
+    },
+    {
+        "question_text": "159.肝硬化常造成:",
+        "options": [
+            "A.血清铁降低，总铁结合力增高",
+            "B.血清铁增高，总铁结合力降低",
+            "C.血清铁，总铁结合力均增高",
+            "D.血清铁，总铁结合力均降低",
+            "E.血清铁增高，总铁结合力正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 159
+    },
+    {
+        "question_text": "160.铅中毒引起:",
+        "options": [
+            "A.血清铁降低，总铁结合力增高",
+            "B.血清铁增高，总铁结合力降低",
+            "C.血清铁，总铁结合力均增高",
+            "D.血清铁，总铁结合力均降低",
+            "E.血清铁增高，总铁结合力正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 160
+    },
+    {
+        "question_text": "161.肝硬化时可见",
+        "options": [
+            "A.血清铁降低，总铁结合力增高",
+            "B.血清铁增高，总铁结合力降低",
+            "C.血清铁，总铁结合力均增高",
+            "D.血清铁，总铁结合力均降低",
+            "E.血清铁增高，总铁结合力正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 161
+    },
+    {
+        "question_text": "162.缺铁性贫血时可见",
+        "options": [
+            "A.血清铁降低，总铁结合力增高",
+            "B.血清铁增高，总铁结合力降低",
+            "C.血清铁，总铁结合力均增高",
+            "D.血清铁，总铁结合力均降低",
+            "E.血清铁增高，总铁结合力正常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 162
+    },
+    {
+        "question_text": "163.肝炎时可见",
+        "options": [
+            "A.血清铁降低，总铁结合力增高",
+            "B.血清铁增高，总铁结合力降低",
+            "C.血清铁，总铁结合力均增高",
+            "D.血清铁，总铁结合力均降低",
+            "E.血清铁增高，总铁结合力正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 163
+    },
+    {
+        "question_text": "164.关于血清镁的论述哪项是对的？",
+        "options": [
+            "A.镁的含量主要存在于骨骼中",
+            "B.肝、心、脑组织内的镁含量高于血浆",
+            "C.镁离子对酶有激活作用",
+            "D.镁离子对神经肌肉的应激性有抑制作用",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 164
+    },
+    {
+        "question_text": "165.无机磷主要存在于:",
+        "options": [
+            "A.细胞内",
+            "B.血清内",
+            "C.骨骼中",
+            "D.体液中",
+            "E.细胞间隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 165
+    },
+    {
+        "question_text": "166.血清钙离子:",
+        "options": [
+            "A.可参与凝血过程",
+            "B.与神经肌肉活动无关",
+            "C.在健康人中其浓度变化可相差两倍",
+            "D.完全由游离钙组成",
+            "E.与心肌除极过程无关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 166
+    },
+    {
+        "question_text": "167.关于甲状腺激素的描述，下列哪项是错误的？",
+        "options": [
+            "A.甲状腺激素是指血中TT4和TT3的总和",
+            "B.只有游离的甲状腺激素才能进入细胞发挥生物学作用",
+            "C.高水平的甲状腺结合球蛋白可使TT4增高",
+            "D.T4在肝脏和肾脏中脱碘后可转化成T3",
+            "E.检测FT4较检测T4更能了解甲状腺功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 167
+    },
+    {
+        "question_text": "168.体内生物活性最强的甲状腺激素为:",
+        "options": [
+            "A.一碘甲状腺原氨酸",
+            "B.二碘甲状腺原氨酸",
+            "C.三碘甲状腺原氨酸",
+            "D.四碘甲状腺原氨酸",
+            "E.反三碘甲状腺原氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 168
+    },
+    {
+        "question_text": "169.关于甲状腺功能的描述，下列哪项是正确的？",
+        "options": [
+            "A.TT4、FT4升高只见于甲状腺功能亢进症",
+            "B.TT4、FT3升高只见于甲状腺功能亢进症",
+            "C.原发性甲状腺功能亢进症时TSH升高",
+            "D.FT3受TBG的影响",
+            "E.rT3在甲状腺功能亢进症者长升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 169
+    },
+    {
+        "question_text": "170.关于甲状腺结合球蛋白的描述，下列哪项是错误的？",
+        "options": [
+            "A.为肝脏合成的酸性糖蛋白",
+            "B.与T4较T3有更强的结合能力",
+            "C.结合的T3、T4可通过肾脏排泄",
+            "D.结合的T3、T4不能进入细胞发挥生物学作用",
+            "E.可通过三碘甲状腺原氨酸摄取试验反映水平的高低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 170
+    },
+    {
+        "question_text": "171.反映甲状腺功能状态最好的指标是:",
+        "options": [
+            "A.血浆总T3、T4水平",
+            "B.血浆结合型T3、T4水平",
+            "C.血浆rT3水平",
+            "D.血浆TBG水平",
+            "E.血浆FT3、FT4水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 171
+    },
+    {
+        "question_text": "172.关于甲状腺激素的功能检测，下列哪项是正确的？",
+        "options": [
+            "A.FT4浓度受TBG水平的影响",
+            "B.FT3浓度受TBG水平的影响",
+            "C.TT3降低是诊断甲状腺功能减退的敏感指标",
+            "D.rT3升高是诊断甲状腺功能减退的特异指标",
+            "E.TT4升高不是甲状腺功能亢进的特异指标"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 172
+    },
+    {
+        "question_text": "173.抗甲状腺球蛋白抗体和抗甲状腺微粒体抗体，对下列哪一种甲状腺疾病最有诊断价值？",
+        "options": [
+            "A.桥本氏甲状腺炎",
+            "B.甲状腺癌",
+            "C.单纯性甲状腺肿",
+            "D.甲状腺机能亢进",
+            "E.甲状腺机能减退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 173
+    },
+    {
+        "question_text": "174.下列哪项符合原发性甲状腺功能亢进的实验室检测？",
+        "options": [
+            "A.TSH升高、T3升高、T3降低",
+            "B.TSH升高、T3降低、T4升高",
+            "C.TSH降低、T3升高、T4升高",
+            "D.TSH降低、T3升高、T4降低",
+            "E.TSH降低、T3降低、T4升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 174
+    },
+    {
+        "question_text": "175.下列哪些分子组合全部由甲状腺组织产生？",
+        "options": [
+            "A.T3、T4、TBG",
+            "B.T3、T4、CT",
+            "C.T3、T4、PTH",
+            "D.TBG、PTH、CT",
+            "E.TBG、T3、CT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 175
+    },
+    {
+        "question_text": "176.下列哪种情形不引起促甲状腺激素水平增高？",
+        "options": [
+            "A.甲状腺激素水平降低",
+            "B.异位TSH综合征",
+            "C.应用多巴胺拮抗剂",
+            "D.腺垂体功能减退",
+            "E.垂体TSH不恰当分泌综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 176
+    },
+    {
+        "question_text": "177.关于甲状旁腺素，下列哪项描述是正确的？",
+        "options": [
+            "A.由甲状腺C细胞产生",
+            "B.为儿茶酚胺类激素",
+            "C.其水平升高为诊断甲状旁腺功能亢进症的重要指标",
+            "D.其水平改变只在甲状旁腺功能改变时发生",
+            "E.其水平升高可以引起高血压的低血钾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 177
+    },
+    {
+        "question_text": "178.关于降钙素的描述，下列哪项是错误的？",
+        "options": [
+            "A.是甲状腺产生的重要激素",
+            "B.主要靶器官是骨髓，对肾脏也有一定的作用",
+            "C.是诊断甲状腺髓样癌的一项重要指标",
+            "D.与甲状旁腺素作用相似，共同维持血钙的稳定",
+            "E.其水平升高不是都由甲状腺组织产生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 178
+    },
+    {
+        "question_text": "179.关于促肾上腺皮质激素，下列哪项是不正确的？",
+        "options": [
+            "A.有显著的昼夜节律，常于午夜22-24时达到高峰",
+            "B.对醛固酮和性腺激素的分泌也有促进作用",
+            "C.在医源性皮质醇增多症病人长降低",
+            "D.部分肿瘤病人可见其水平升高",
+            "E.受血清皮质醇浓度的反馈调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 179
+    },
+    {
+        "question_text": "180.关于生长激素的描述，下列哪项是不正确的？",
+        "options": [
+            "A.呈脉冲样分泌",
+            "B.单次检测临床意义有限",
+            "C.血清水平在腺垂体功能减退时常升高",
+            "D.受下丘脑激素调控"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 180
+    },
+    {
+        "question_text": "181.临床上测定尿17-羟皮质类固醇含量要检查:",
+        "options": [
+            "A.肾上腺皮质激素的分泌情况",
+            "B.肾上腺髓质激素的分泌情况",
+            "C.雄激素水平",
+            "D.雌激素水平",
+            "E.甲状腺素水平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 181
+    },
+    {
+        "question_text": "182.关于尿17-羟皮质类固醇的测定，下列哪项是正确的？",
+        "options": [
+            "A.测定其水平只代表肾上腺糖皮质激素代谢产物的水平",
+            "B.反映肾上腺皮质雄激素水平",
+            "C.其增高即可诊断为皮质醇增多症",
+            "D.测定其24小时水平抵消昼夜节律形成的差异",
+            "E.其水平高低还与睾丸产生的雄激素水平有关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 182
+    },
+    {
+        "question_text": "183.关于尿17-羟皮质类固醇的测定，下列哪项是正确的？",
+        "options": [
+            "A.其高低提示肾上腺糖皮质激素及其代谢产物的水平",
+            "B.是雄激素代谢产物的总称，与肾上腺皮质功能无关",
+            "C.腺垂体功能减退的病人可以见到水平明显降低",
+            "D.在男性水平增加只提示睾丸病变",
+            "E.在女性水平改变提示两性畸形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 183
+    },
+    {
+        "question_text": "184.关于皮质醇，下列哪项是正确的？",
+        "options": [
+            "A.分泌进入血液后，绝大多数以游离形式存在",
+            "B.不与血浆蛋白结合的游离皮质醇才可以从肾脏排出",
+            "C.只要24小时尿游离皮质醇水平超过正常值上限，即可诊断为皮质醇增多症",
+            "D.上午8时和午夜2时血皮质醇水平差异不大",
+            "E.24小时尿17-酮皮质类固醇反映血皮质醇的平均水平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 184
+    },
+    {
+        "question_text": "185.关于醛固酮，下列哪项是正确的？",
+        "options": [
+            "A.由肾小球系膜细胞产生",
+            "B.肾小球疾病常引起其水平降低",
+            "C.作用于肾小管，有排钠保钾和维持水、电解质平衡的作用",
+            "D.其水平受体位和饮食的影响",
+            "E.无明显昼夜节律变化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 185
+    },
+    {
+        "question_text": "186.有关肾上腺髓质激素水平，下列哪项是正确的？",
+        "options": [
+            "A.24小时尿儿茶酚胺水平的高低只与肾上腺髓质的水平有关",
+            "B.多次的反复检测有助于诊断",
+            "C.24小时尿17-酮皮质类固醇增加提示肾上腺髓质病变",
+            "D.24小时尿香草扁桃酸只在肾上腺髓质肿瘤的病人出现水平增高",
+            "E.尿香草扁桃酸无明显的昼夜节律改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 186
+    },
+    {
+        "question_text": "187.关于雄激素的描述，下列哪项是错误的？",
+        "options": [
+            "A.男性最重要的雄激素是脱氢异雄酮",
+            "B.女性最主要的雄激素是脱氢异雄酮和雄烯二酮",
+            "C.循环中雄激素最主要的存在形式是与蛋白结合",
+            "D.上午8时是雄激素的分泌高峰",
+            "E.女性可以出现睾酮水平增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 187
+    },
+    {
+        "question_text": "188.雌激素水平增高可见于下列疾病，除外:",
+        "options": [
+            "A.卵巢肿瘤",
+            "B.性腺母细胞瘤",
+            "C.垂体肿瘤",
+            "D.腺垂体功能减退",
+            "E.肝硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 188
+    },
+    {
+        "question_text": "189.孕激素水平增高可见于下列疾病，除外:",
+        "options": [
+            "A.无排卵型子宫功能性出血",
+            "B.葡萄胎",
+            "C.原发性高血压",
+            "D.妊娠高血压综合症",
+            "E.先天性肾上腺皮质增生"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 189
+    },
+    {
+        "question_text": "190.HCG（人绒毛膜触性腺激素）可与下列哪种激素发生交叉反应:",
+        "options": [
+            "A.促卵胞素",
+            "B.黄体生成素",
+            "C.泌乳素",
+            "D.雌二醇",
+            "E.孕酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 190
+    },
+    {
+        "question_text": "191.HCG（人绒毛膜促性腺激素）试验不用以下哪个病的诊断？",
+        "options": [
+            "A.早孕",
+            "B.绒毛膜上皮癌",
+            "C.葡萄胎",
+            "D.睾丸胎瘤",
+            "E.肾癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 191
+    },
+    {
+        "question_text": "192.肝硬化失代偿期病人的下列检验中，哪项不正确？",
+        "options": [
+            "A.凝血因子减少",
+            "B.血红蛋白减低",
+            "C.雄激素减少",
+            "D.激素减少",
+            "E.肾上腺糖皮质激素可减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 192
+    },
+    {
+        "question_text": "193.原发性肾上腺皮质功能减退症时可见",
+        "options": [
+            "A.皮质醇增高，ACTH减低，ACTH兴奋试验弱反应",
+            "B.皮质醇明显增高，ACTH减低，ACTH兴奋试验无反应",
+            "C.皮质醇和ACTH均明显增高，ACTH兴奋试验多无反应",
+            "D.皮质醇减低，ACTH增高，ACTH兴奋试验无反应",
+            "E.皮质醇减低，ACTH减低，ACTH兴奋试验延迟反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 193
+    },
+    {
+        "question_text": "194.继发性肾上腺皮质功能减退时可见",
+        "options": [
+            "A.皮质醇增高，ACTH减低，ACTH兴奋试验弱反应",
+            "B.皮质醇明显增高，ACTH减低，ACTH兴奋试验无反应",
+            "C.皮质醇和ACTH均明显增高，ACTH兴奋试验多无反应",
+            "D.皮质醇减低，ACTH增高，ACTH兴奋试验无反应",
+            "E.皮质醇减低，ACTH减低，ACTH兴奋试验延迟反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 194
+    },
+    {
+        "question_text": "195.异原性ACTH综合征可见",
+        "options": [
+            "A.皮质醇增高，ACTH减低，ACTH兴奋试验弱反应",
+            "B.皮质醇明显增高，ACTH减低，ACTH兴奋试验无反应",
+            "C.皮质醇和ACTH均明显增高，ACTH兴奋试验多无反应",
+            "D.皮质醇减低，ACTH增高，ACTH兴奋试验无反应",
+            "E.皮质醇减低，ACTH减低，ACTH兴奋试验延迟反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 195
+    },
+    {
+        "question_text": "196.肾上腺皮质腺瘤时可见",
+        "options": [
+            "A.皮质醇增高，ACTH减低，ACTH兴奋试验弱反应",
+            "B.皮质醇明显增高，ACTH减低，ACTH兴奋试验无反应",
+            "C.皮质醇和ACTH均明显增高，ACTH兴奋试验多无反应",
+            "D.皮质醇减低，ACTH增高，ACTH兴奋试验无反应",
+            "E.皮质醇减低，ACTH减低，ACTH兴奋试验延迟反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 196
+    },
+    {
+        "question_text": "197.肾上腺皮质减低",
+        "options": [
+            "A.皮质醇增高，ACTH减低，ACTH兴奋试验弱反应",
+            "B.皮质醇明显增高，ACTH减低，ACTH兴奋试验无反应",
+            "C.皮质醇和ACTH均明显增高，ACTH兴奋试验多无反应",
+            "D.皮质醇减低，ACTH增高，ACTH兴奋试验无反应",
+            "E.皮质醇减低，ACTH减低，ACTH兴奋试验延迟反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 197
+    },
+    {
+        "question_text": "198.甲亢的特点",
+        "options": [
+            "A.仅T3升高",
+            "B.FT4升高，FT3正常",
+            "C.FT3升高，FT4正常",
+            "D.FT3、FT4、TSH均增高，TRH兴奋试验（+）",
+            "E.FT3、FT4、TSH均降低，TRH兴奋试验（-）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 198
+    },
+    {
+        "question_text": "199.T3型甲亢的特点",
+        "options": [
+            "A.仅T3升高",
+            "B.FT4升高，FT3正常",
+            "C.FT3升高，FT4正常",
+            "D.FT3、FT4、TSH均增高，TRH兴奋试验（+）",
+            "E.FT3、FT4、TSH均降低，TRH兴奋试验（-）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 199
+    },
+    {
+        "question_text": "200.T4型甲亢的特点",
+        "options": [
+            "A.仅T3升高",
+            "B.FT4升高，FT3正常",
+            "C.FT3升高，FT4正常",
+            "D.FT3、FT4、TSH均增高，TRH兴奋试验（+）",
+            "E.FT3、FT4、TSH均降低，TRH兴奋试验（-）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 200
+    },
+    {
+        "question_text": "201.垂体腺瘤性甲亢的特点",
+        "options": [
+            "A.仅T3升高",
+            "B.FT4升高，FT3正常",
+            "C.FT3升高，FT4正常",
+            "D.FT3、FT4、TSH均增高，TRH兴奋试验（+）",
+            "E.FT3、FT4、TSH均降低，TRH兴奋试验（-）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 201
+    },
+    {
+        "question_text": "202.垂体性甲减的特点",
+        "options": [
+            "A.仅T3升高",
+            "B.FT4升高，FT3正常",
+            "C.FT3升高，FT4正常",
+            "D.FT3、FT4、TSH均增高，TRH兴奋试验（+）",
+            "E.FT3、FT4、TSH均降低，TRH兴奋试验（-）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 202
+    },
+    {
+        "question_text": "203.尿内儿茶酚胺含量升高可能是",
+        "options": [
+            "A.嗜铬细胞瘤",
+            "B.甲亢",
+            "C.隐匿性糖尿病",
+            "D.肾功腺皮质功能亢进",
+            "E.动脉粥样硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 203
+    },
+    {
+        "question_text": "204.葡萄糖耐量试验显示糖耐量减低可能是",
+        "options": [
+            "A.嗜铬细胞瘤",
+            "B.甲亢",
+            "C.隐匿性糖尿病",
+            "D.肾功腺皮质功能亢进",
+            "E.动脉粥样硬化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 204
+    },
+    {
+        "question_text": "205.血清TC、LDL-C升高可能是",
+        "options": [
+            "A.嗜铬细胞瘤",
+            "B.甲亢",
+            "C.隐匿性糖尿病",
+            "D.肾功腺皮质功能亢进",
+            "E.动脉粥样硬化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 205
+    },
+    {
+        "question_text": "206.尿17-OHCS、17-KS增高可能是",
+        "options": [
+            "A.嗜铬细胞瘤",
+            "B.甲亢",
+            "C.隐匿性糖尿病",
+            "D.肾功腺皮质功能亢进",
+            "E.动脉粥样硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 206
+    },
+    {
+        "question_text": "207.血清FT3、FT4增高，TSH降低可能是",
+        "options": [
+            "A.嗜铬细胞瘤",
+            "B.甲亢",
+            "C.隐匿性糖尿病",
+            "D.肾功腺皮质功能亢进",
+            "E.动脉粥样硬化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 207
+    },
+    {
+        "question_text": "208.诊断甲亢的符合率为100％的是",
+        "options": [
+            "A.TT4",
+            "B.FT4",
+            "C.TT3",
+            "D.rT3",
+            "E.T3RUR"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 208
+    },
+    {
+        "question_text": "209.可间接反映TT4及TBG浓度的是",
+        "options": [
+            "A.TT4",
+            "B.FT4",
+            "C.TT3",
+            "D.rT3",
+            "E.T3RUR"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 209
+    },
+    {
+        "question_text": "210.判断甲状腺功能状态最基本的体外筛减指标是",
+        "options": [
+            "A.TT4",
+            "B.FT4",
+            "C.TT3",
+            "D.rT3",
+            "E.T3RUR"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 210
+    },
+    {
+        "question_text": "211.诊断甲亢的灵敏度明显高于TT4是",
+        "options": [
+            "A.TT4",
+            "B.FT4",
+            "C.TT3",
+            "D.rT3",
+            "E.T3RUR"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 211
+    },
+    {
+        "question_text": "212.诊断T3甲亢的特异性指标是",
+        "options": [
+            "A.TT4",
+            "B.FT4",
+            "C.TT3",
+            "D.rT3",
+            "E.T3RUR"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 212
+    },
+    {
+        "question_text": "213.促肾上腺皮质激素是",
+        "options": [
+            "A.甲状腺C细胞分泌的激素",
+            "B.甲状旁腺主细胞分泌的激素",
+            "C.肾上腺皮质束状带及网状带分泌的激素",
+            "D.肾上腺皮质球状带分泌的激素",
+            "E.腺垂体分泌的激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 213
+    },
+    {
+        "question_text": "214.醛固酮是",
+        "options": [
+            "A.甲状腺C细胞分泌的激素",
+            "B.甲状旁腺主细胞分泌的激素",
+            "C.肾上腺皮质束状带及网状带分泌的激素",
+            "D.肾上腺皮质球状带分泌的激素",
+            "E.腺垂体分泌的激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 214
+    },
+    {
+        "question_text": "215.皮质醇是",
+        "options": [
+            "A.甲状腺C细胞分泌的激素",
+            "B.甲状旁腺主细胞分泌的激素",
+            "C.肾上腺皮质束状带及网状带分泌的激素",
+            "D.肾上腺皮质球状带分泌的激素",
+            "E.腺垂体分泌的激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 215
+    },
+    {
+        "question_text": "216.降钙素是",
+        "options": [
+            "A.甲状腺C细胞分泌的激素",
+            "B.甲状旁腺主细胞分泌的激素",
+            "C.肾上腺皮质束状带及网状带分泌的激素",
+            "D.肾上腺皮质球状带分泌的激素",
+            "E.腺垂体分泌的激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 216
+    },
+    {
+        "question_text": "217.甲状旁腺素是",
+        "options": [
+            "A.甲状腺C细胞分泌的激素",
+            "B.甲状旁腺主细胞分泌的激素",
+            "C.肾上腺皮质束状带及网状带分泌的激素",
+            "D.肾上腺皮质球状带分泌的激素",
+            "E.腺垂体分泌的激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 217
+    },
+    {
+        "question_text": "218.反映肾上腺皮质分泌功能的最佳指标是",
+        "options": [
+            "A.17-OHCS",
+            "B.17-KS",
+            "C.24hUFC",
+            "D.FC",
+            "E.ALD"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 218
+    },
+    {
+        "question_text": "219.其浓度受体位影响的是",
+        "options": [
+            "A.17-OHCS",
+            "B.17-KS",
+            "C.24hUFC",
+            "D.FC",
+            "E.ALD"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 219
+    },
+    {
+        "question_text": "220.雄激素代谢产物的总称是",
+        "options": [
+            "A.17-OHCS",
+            "B.17-KS",
+            "C.24hUFC",
+            "D.FC",
+            "E.ALD"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 220
+    },
+    {
+        "question_text": "221.关于血管升压素，下列哪项不正确",
+        "options": [
+            "A.生理作用是作用于肾小管，促进对钠的重吸收",
+            "B.一些肿瘤病人的血管升压素水平可能升高",
+            "C.中枢性尿崩症其水平下降",
+            "D.肾性尿崩症时，血管升压素水平可能升高",
+            "E.人类血管升压素第8位为精氨酸，又称精氨酸血管长压素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 221
+    },
+    {
+        "question_text": "222.高血压病人，测定24小时尿儿茶酚胺的尿香草扁桃酸明显增加，临床提示可能有",
+        "options": [
+            "A.原发性醛固酮增多症",
+            "B.高血压病",
+            "C.肾动脉狭窄",
+            "D.嗜铬细胞瘤",
+            "E.皮质醇增多症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 222
+    },
+    {
+        "question_text": "223.血清的部分激素受昼夜节律的影响，2小时尿激素或代谢产物的变化常用来表示激素的水平变化，这些激素如下列所列，但不包括",
+        "options": [
+            "A.皮质醇",
+            "B.促肾上腺皮质激素",
+            "C.醛固酮",
+            "D.17-羟皮质类固醇",
+            "E.儿茶酚胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 223
+    },
+    {
+        "question_text": "224.不与血浆蛋白结合的激素是",
+        "options": [
+            "A.甲状腺激素",
+            "B.甲状旁腺激素",
+            "C.皮质醇",
+            "D.雌激素",
+            "E.醛固酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 224
+    },
+    {
+        "question_text": "225.关于皮质醇多症的病人，下列哪项是正确的",
+        "options": [
+            "A.轻度升高的24小时尿游离皮质醇水平不能确诊皮质醇增多症",
+            "B.小剂量地塞米松抑制试验阳性可明确诊断库欣病",
+            "C.血皮质醇上午增高而下午降低支持肾上腺肿瘤",
+            "D.大剂量地塞米松抑制试验阳性提示病变在肾上腺",
+            "E.血皮质醇水平不提高可排除皮质醇增多症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 225
+    },
+    {
+        "question_text": "226.某病人，女性，27岁，停经2月余，怕热，多汗，体重下降，进食量改变不明显，轻度体力活动即觉心悸，大便次数增加，无器质性疾病史，体格检查：BP150/60mmHg，肺部无啰音，心率124次/分，律齐，为尽早明确诊断，下列哪种检查组合较佳",
+        "options": [
+            "A.心电图运动负荷试验+胸片",
+            "B.心电图+雌激素",
+            "C.血常规+大便常规",
+            "D.TT3、TT4+胸片",
+            "E.妊娠试验+FT3、FT4"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 226
+    },
+    {
+        "question_text": "227.心梗时不升高的酶是",
+        "options": [
+            "A.LDH",
+            "B.CK",
+            "C.ALT",
+            "D.ALP",
+            "E.AST"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 227
+    },
+    {
+        "question_text": "228.关于ALP叙述错误的是",
+        "options": [
+            "A.主要分布在心肌",
+            "B.主工分布在肝脏",
+            "C.主要存在于非线粒体中",
+            "D.半衰期47小时",
+            "E.反映肝细胞损伤较AST灵敏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 228
+    },
+    {
+        "question_text": "229.对心肌缺血与心内膜下梗死的鉴别，最有意义的是",
+        "options": [
+            "A.淀粉酶",
+            "B.血清转氨酶",
+            "C.γ-谷氨酰基转肽酶",
+            "D.肌酸磷酸激酶",
+            "E.血清碱性磷酸酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 229
+    },
+    {
+        "question_text": "230.心肌梗时可见",
+        "options": [
+            "A.血清AMS活性增高",
+            "B.血清ChE活性减低",
+            "C.血清ACP活性增高",
+            "D.血清LPS活性减低",
+            "E.血清CK活性增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 230
+    },
+    {
+        "question_text": "231.急性胰腺炎时可见",
+        "options": [
+            "A.血清AMS活性增高",
+            "B.血清ChE活性减低",
+            "C.血清ACP活性增高",
+            "D.血清LPS活性减低",
+            "E.血清CK活性增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 231
+    },
+    {
+        "question_text": "232.前列腺癌时可见",
+        "options": [
+            "A.血清AMS活性增高",
+            "B.血清ChE活性减低",
+            "C.血清ACP活性增高",
+            "D.血清LPS活性减低",
+            "E.血清CK活性增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 232
+    },
+    {
+        "question_text": "233.有机磷中毒时可见",
+        "options": [
+            "A.血清AMS活性增高",
+            "B.血清ChE活性减低",
+            "C.血清ACP活性增高",
+            "D.血清LPS活性减低",
+            "E.血清CK活性增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 233
+    },
+    {
+        "question_text": "234.胰腺癌时可见",
+        "options": [
+            "A.血清AMS活性增高",
+            "B.血清ChE活性减低",
+            "C.血清ACP活性增高",
+            "D.血清LPS活性减低",
+            "E.血清CK活性增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 234
+    },
+    {
+        "question_text": "235.关于检测淀粉酶和脂肪酶诊断胰腺炎的描述，下列哪项是正常的",
+        "options": [
+            "A.血清淀粉酶正常可排除胰腺炎",
+            "B.血清淀粉酶活性降低可排除胰腺炎",
+            "C.在急性胰腺炎后期检测脂肪酶更有利于观察病情变化和判断预后",
+            "D.淀粉酶诊断急性胰腺炎的特异性较脂肪酶为高",
+            "E.慢性胰腺炎脂肪本科升高的程度往往较急性胰腺炎为高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 235
+    },
+    {
+        "question_text": "236.下述哪种疾病酸性磷酸酶（ACP）一般不升高",
+        "options": [
+            "A.转移性前列腺癌",
+            "B.原发性骨肿瘤",
+            "C.肝硬化",
+            "D.肺癌",
+            "E.白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 236
+    },
+    {
+        "question_text": "237.关于胆碱酯酶（ChE）的描述，下列哪项是错误的",
+        "options": [
+            "A.临床上常以ChE活性作为有机磷中毒的诊断和监测指标",
+            "B.慢性肝炎、肝硬化病人如果ChE持续性增高提示预后不良",
+            "C.口服雌激素或避孕药也可使ChE活性降低",
+            "D.甲状腺功能进症ChE活性可增高",
+            "E.肾脏疾病病人ChE活性可增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "237",
+        "number": 237
+    }
+]

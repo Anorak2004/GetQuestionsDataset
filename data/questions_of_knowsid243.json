@@ -1,0 +1,310 @@
+[
+    {
+        "question_text": "1.\tG蛋白偶联受体的结构特征为跨膜",
+        "options": [
+            "A.\t4次",
+            "B.\t5次",
+            "C.\t6次",
+            "D.\t7次",
+            "E.\t8次"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t具有GTP酶活性的G蛋白是",
+        "options": [
+            "A.\tGa",
+            "B.\tGB",
+            "C.\tGY",
+            "D.\tGs",
+            "E.\tGi"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t下列关于G蛋白介导的细胞信号转导描述，哪项 是错误的？",
+        "options": [
+            "A.\tG蛋白均由a,B,y三个亚单位组成",
+            "B.\tG蛋白被激活时，Ga 上的GDP被GTP所替代",
+            "C.\tGs激活后能增加腺苷酸环化酶的活性",
+            "D.\tG蛋白介导的细胞信号转导中，Ca2+可作为第二 信使启动多种细胞反应",
+            "E.\tGa a^y三聚体无活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t内皮素受体与Gqa结合后可激活",
+        "options": [
+            "A.\t磷脂酶A",
+            "B.\t磷脂酶B",
+            "C.\t磷脂酶C",
+            "D.\t磷脂酶D",
+            "E.\t磷脂酶E"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t三磷酸肌醇促进细胞内质网释出",
+        "options": [
+            "A.\tH+",
+            "B.\tNa+",
+            "C.\tK+",
+            "D.\tCa2+",
+            "E.\tFe3+"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t甘油二酯与钙协调促进下列何种蛋白激酶活化？",
+        "options": [
+            "A.\tPKA",
+            "B.\tPKB",
+            "C.\tPKC",
+            "D.\tPKD",
+            "E.\tPKE"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 6
+    },
+    {
+        "question_text": "7.\tRas蛋白可激活",
+        "options": [
+            "A.\tPLC",
+            "B.\tPKC",
+            "C.\tRaf",
+            "D.\tIP3",
+            "E.\tDG"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t细胞外信号调节激酶（ERK ）促进下列何种因子 磷酸化？",
+        "options": [
+            "A.\tAp-l",
+            "B.\tNF-kB",
+            "C.\t表皮生长因子",
+            "D.\t血清反应因子",
+            "E.\t血小板源生长因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t干扰素的信号转导途径系通过",
+        "options": [
+            "A.\tG蛋白介导途径",
+            "B.\t腺苷酸环化酶途径",
+            "C.\t受体酪氨酸蛋白激酶途径",
+            "D.\t非受体酪氨酸蛋白激酶途径",
+            "E.\t鸟氨酸环化酶途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t不能与热休克蛋白（HSP）结合的受体是",
+        "options": [
+            "A.\t糖皮质激素受体",
+            "B.\t盐皮质激素受体",
+            "C.\t甲状腺素受体",
+            "D.\t雄激素受体",
+            "E.\t雌激素受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t家族性高胆固醇血症的发生是由于下列哪一种 受体发生异常？",
+        "options": [
+            "A.\t胆固醇受体",
+            "B.\t甘油三酯受体",
+            "C.\t低密度脂蛋白受体",
+            "D.\t高密度脂蛋白受体",
+            "E.\t低密度脂蛋白受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t甲状腺素抵抗综合征是由于下列何型甲状腺素 受体突变所致？",
+        "options": [
+            "A.\ta型",
+            "B.\tB型",
+            "C.\tY型",
+            "D.\ta型和B型",
+            "E.\ta型和Y型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t重症肌无力的发生是由于存在下列何种异常？",
+        "options": [
+            "A.\t乙酰胆碱过少",
+            "B.\t乙酰胆碱过多",
+            "C.\t抗乙酰胆碱受体抗体存在",
+            "D.\t乙酰胆碱受体过少",
+            "E.\t乙酰胆碱受体过多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t心力衰竭患者心肌细胞膜上出现",
+        "options": [
+            "A.\ta 1肾上腺素能受体下调",
+            "B.\tB 1肾上腺素能受体上调",
+            "C.\tB 1肾上腺素能受体下调",
+            "D.\tB 2肾上腺素能受体上调",
+            "E.\tB 2肾上腺素能受体下调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 14
+    },
+    {
+        "question_text": "15.\tNO可使细胞内第二信使",
+        "options": [
+            "A.\tcAMP增加",
+            "B.\tcAMP减少",
+            "C.\tcGMP增加",
+            "D.\tcGMP减少",
+            "E.\tcAMP及cGMP无变化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t在2型糖尿病中胰岛素对下列何种蛋白的激活 作用减弱？",
+        "options": [
+            "A.\tp85",
+            "B.\tp110",
+            "C.\tpI3K",
+            "D.\tIRS-1",
+            "E.\tIRS-2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t血管紧张素II促进血管平滑肌增殖肥大系通过 激活",
+        "options": [
+            "A.\tGa",
+            "B.\tGB",
+            "C.\tGs",
+            "D.\tGi",
+            "E.\tGq"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t恶性肿瘤时下列何种蛋白激酶活性异常升高？",
+        "options": [
+            "A.\t丝氨酸蛋白激酶",
+            "B.\t苏氨酸蛋白激酶",
+            "C.\t酪氨酸蛋白激酶",
+            "D.\t磷脂酰肌醇激酶",
+            "E.\t蛋白激酶C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t家族性肾性尿崩症发病的关键环节之一是",
+        "options": [
+            "A.\t腺垂体合成和分泌ADH减少",
+            "B.\t肾髓质病变使肾小管上皮细胞对ADH反应性降低",
+            "C.\t基因突变使ADH受体减少",
+            "D.\t基因突变使介导ADH信号的Gs减少",
+            "E.\t基因突变使腺苷酸环化酶含量减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t霍乱毒素对G蛋白的作用是",
+        "options": [
+            "A.\t促进Gs与受体结合",
+            "B.\t刺激Gs生成",
+            "C.\t增加Gs的GTP酶活性",
+            "D.\t抑制Gs的GTP酶活性",
+            "E.\t抑制Gi与受体结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t垂体腺瘤引起肢端肥大症的信号转导异常是",
+        "options": [
+            "A.\t生长激素释放激素分泌过多",
+            "B.\t生长抑素分泌减少",
+            "C.\t编码Gs的基因突变使Gs持续激活",
+            "D.\t编码Gi的基因突变使Gi作用减弱",
+            "E.\t外周组织对生长激素的敏感性增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t重症肌无力属于",
+        "options": [
+            "A.\t自身免疫性受体病",
+            "B.\t遗传性性受体病",
+            "C.\t继发性受体异常",
+            "D.\tG蛋白异常病",
+            "E.\t转录因子异常性疾病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 22
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "question_text": "1.关于凝血酶哪项是错误的？",
+        "options": [
+            "A.微量的凝血酶能使因子Ⅷ活性明显增高",
+            "B.凝血酶能加速内源性凝血系统的反应速度",
+            "C.微量凝血酶能抑制因子Ⅴ活性",
+            "D.高浓度凝血酶能灭活因子Ⅷ",
+            "E.凝血酶对纤维蛋白原的水解作用，不需要Ca2+存在"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 1
+    },
+    {
+        "question_text": "2.人体抗凝血酶有下列几种，最重要的抗凝血酶是哪一种？",
+        "options": [
+            "A.AT-I",
+            "B.AT-Ⅱ",
+            "C.AT-Ⅲ",
+            "D.AT-Ⅳ",
+            "E.AT-V"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 2
+    },
+    {
+        "question_text": "3.肝素的抗凝作用在于：",
+        "options": [
+            "A.直接作用于凝血因子，使其失活",
+            "B.作用于抗凝血酶Ⅲ",
+            "C.作用于蛋白C和蛋白S",
+            "D.抑制血小板的聚集",
+            "E.抑制血小板的黏附"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪一项不属于体液抗凝系统？",
+        "options": [
+            "A.抗凝血酶Ⅲ",
+            "B.肝素辅因子Ⅱ",
+            "C.蛋白C和蛋白S",
+            "D.组织因子抑制物",
+            "E.单核-巨核细胞系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 4
+    },
+    {
+        "question_text": "5.确诊体内纤维蛋白原明显减少时，下列哪一项凝血检查异常？",
+        "options": [
+            "A.PT",
+            "B.TT",
+            "C.3P",
+            "D.SPT",
+            "E.STGT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 5
+    },
+    {
+        "question_text": "6.蛋白C抗凝系统由下列因子组成，但需除外哪一项？",
+        "options": [
+            "A.PC",
+            "B.PS",
+            "C.TM",
+            "D.PCI",
+            "E.TFPI"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 6
+    },
+    {
+        "question_text": "7.TT延长见于下列原因，但哪一项需除外？",
+        "options": [
+            "A.异常纤维蛋白原血症",
+            "B.肝素样物质增多",
+            "C.FDP增多",
+            "D.纤维蛋白原增多",
+            "E.血浆中肝素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 7
+    }
+]

@@ -1,0 +1,1416 @@
+[
+    {
+        "question_text": "1.关于感染性疾病流行性病学特点，错误的是：",
+        "options": [
+            "A.疾病谱了生变迁，新传染病陆续被发现",
+            "B.随着医学发展，医疗条件改善，老传染病灭绝了",
+            "C.出现了多重耐药的菌株",
+            "D.器官移植，抗肿瘤治疗，造成条件致病菌感染增加",
+            "E.人们对新传染病认识准备不足"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 1
+    },
+    {
+        "question_text": "2.目前人类感染性疾病发病率最高的感染类型是：",
+        "options": [
+            "A.细菌感染",
+            "B.病毒感染",
+            "C.真菌感染",
+            "D.寄生虫感染",
+            "E.支原体感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 2
+    },
+    {
+        "question_text": "3.临床实验诊断病毒感染现常用：",
+        "options": [
+            "A.直接电子显微镜检查",
+            "B.病毒分离、培养、鉴定",
+            "C.抗原检测",
+            "D.抗体检测",
+            "E.抗原+抗体+核酸检测"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 3
+    },
+    {
+        "question_text": "4.我国最常见的医院感染类型是：",
+        "options": [
+            "A.手术切口感染",
+            "B.下呼吸道感染",
+            "C.血液感染",
+            "D.尿路感染",
+            "E.胃肠道感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 4
+    },
+    {
+        "question_text": "5.细菌感染性疾病常用的检查方法不包括：",
+        "options": [
+            "A.细菌分离培养",
+            "B.抗原检测",
+            "C.抗体检测",
+            "D.细菌核酸的直接检出",
+            "E.细胞培养"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于血液标本的采集错误的是：",
+        "options": [
+            "A.一般在发热初期采集",
+            "B.一般在发热高峰期采集",
+            "C.一般在发热恢复期采集",
+            "D.已用过抗菌药物者，则在下次用药前采集",
+            "E.成人每次10-20ml，婴儿和儿童1-5ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 6
+    },
+    {
+        "question_text": "7.某村，春节后有3名散居儿童在1周内先后突然出现发热、头痛、喷射状呕吐、全身满布皮肤出血点、颈项强直明显，脑脊液混浊。为了确定此村出现了流脑爆发，卫生防疫站采取了患者的血液培养脑膜炎奈瑟菌。不符合此标本采集时运送的原则是：",
+        "options": [
+            "A.注意无菌操作采集标本",
+            "B.标本要立即送检并保温、保湿",
+            "C.标本送检中要保持低温和干燥的条件",
+            "D.应在使用抗菌药物之前采集血液",
+            "E.采集的血液标本无菌操作接种到增菌肉汤中"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 7
+    },
+    {
+        "question_text": "8.一般需经3-4周培养才能见到有细菌生长的细菌是：",
+        "options": [
+            "A.结核分枝杆菌",
+            "B.淋病奈瑟菌",
+            "C.空肠弯曲菌",
+            "D.炭疽杆菌",
+            "E.军团菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 8
+    },
+    {
+        "question_text": "9.以下哪项不是感染性心内膜炎血培养的注意要点？",
+        "options": [
+            "A.血培养是诊断菌血症和感染性心内膜炎的最重要方法",
+            "B.临床所有感染性心内膜炎患者血培养阳性率可高达95％以上。",
+            "C.急性患者：入院后3h内每隔1h取1次，共取3个血标本后开始治疗。",
+            "D.亚急性患者未经抗生素治疗者：第一日间隔1h采血1次，共三次。如次日未见细菌生长，重复采血3次",
+            "E.亚急性患者已用抗生素者：停药2-7天后采血。"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 9
+    },
+    {
+        "question_text": "10.一位18岁女学生就诊时主诉：近一个多月来咳嗽，痰中时有血丝。消瘦并常感疲乏无力，午后潮湿，心悸，盗汗，食欲不振。对该患者的痰标本应选用的染色法是：",
+        "options": [
+            "A.革兰染色法",
+            "B.墨汁染色法",
+            "C.鞭毛染色法",
+            "D.抗酸染色法",
+            "E.镀银染色法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 10
+    },
+    {
+        "question_text": "11.金黄色葡萄球菌为MRS，意味着：",
+        "options": [
+            "A.所有抗菌药物根据试验选用",
+            "B.头孢菌素和碳氢酶烯类根据试验选用",
+            "C.除检测MRS的靶抗菌药物外，其他药物根据药敏试验选用",
+            "D.对头孢菌素、碳氢酶烯类、青霉素类+青霉素酶抑制剂抗生素，无论体外药敏试验如何，临床治疗都是无效的",
+            "E.以上均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 11
+    },
+    {
+        "question_text": "12.先天性丙球蛋白缺乏症患者反复持久的细菌感染常发生在：",
+        "options": [
+            "A.新生儿期",
+            "B.出生半年内",
+            "C.1-2岁儿童",
+            "D.学龄前儿童",
+            "E.青少年期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 12
+    },
+    {
+        "question_text": "13.目前常用的耐药菌检测不包括：",
+        "options": [
+            "A.耐甲氧西林葡萄球菌的筛选",
+            "B.β-内酰胺酶检测",
+            "C.耐万古霉素肺炎链球菌的筛选",
+            "D.超广谱-内酰胺酶检测",
+            "E.氨基糖苷抗生素高耐药肠球菌的筛选"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 13
+    },
+    {
+        "question_text": "14.某病人，女性，20岁。发热、咽痛伴干咳5天。体格检查：咽充血，扁桃体I度肿大右侧扁桃体见少量脓性分泌物，心肺（-）。经青霉素治疗2天，体温正常。下列哪项检查最有助于感染病原体的检测？",
+        "options": [
+            "A.血培养",
+            "B.血清抗链球菌溶血素“O”",
+            "C.红细胞沉降率",
+            "D.血常规",
+            "E.血清免疫球蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪种方法不是分子生物学诊断的常用技术方法？",
+        "options": [
+            "A.核酸分子杂交",
+            "B.基因测序",
+            "C.细胞培养",
+            "D.RELP分析",
+            "E.PCR"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 15
+    },
+    {
+        "question_text": "16.诊断伤寒沙门氏菌感染的实验室指标是：",
+        "options": [
+            "A.抗“O”",
+            "B.肥达反应",
+            "C.冷凝集试验",
+            "D.布氏杆菌凝集试验",
+            "E.抗球蛋白试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 16
+    },
+    {
+        "question_text": "17.血琼脂平板上大而扁平、湿润、有生姜味及透明溶血环的蓝绿色菌落，很可能是：",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.乙型溶血性链球菌",
+            "C.铜绿假单胞菌",
+            "D.不动杆菌",
+            "E.粘金色黄杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 17
+    },
+    {
+        "question_text": "18.分离脑膜炎奈瑟菌的最佳培养基是：",
+        "options": [
+            "A.血平板",
+            "B.EMB培养基",
+            "C.巧克力培养基",
+            "D.卵黄平板",
+            "E.麦康凯平板"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 18
+    },
+    {
+        "question_text": "19.咽喉假膜Lbert染色直接显微镜检查见异染颗粒，可诊断患：",
+        "options": [
+            "A.白喉",
+            "B.化脓性咽喉炎",
+            "C.疱疹性咽喉炎",
+            "D.鹅口疮",
+            "E.不能诊断"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 19
+    },
+    {
+        "question_text": "20.下面哪些作用属于细胞免疫应答的生物学效应？",
+        "options": [
+            "A.抗寄生虫感染",
+            "B.抗肿瘤",
+            "C.引发SLE病人肾脏组织损害",
+            "D.引发肾移植排斥反应",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 20
+    },
+    {
+        "question_text": "21.流式细胞术的检测特点：",
+        "options": [
+            "A.对静止状态下的单细胞悬液进行单参数测定",
+            "B.对流动状态下的单细胞悬液进行单参数测定",
+            "C.对流动状态下的生物颗粒进行单参数测定",
+            "D.对流动状态下的单细胞悬液进行多参数、快速的定量测定",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于直接涂片镜检的叙述，下列哪项是正确的？",
+        "options": [
+            "A.适用于所有细菌感染疾病的初步检查",
+            "B.方法简便易行，但均不能快速鉴定细菌",
+            "C.只适用于形态和染色性上具有特征的病原菌",
+            "D.其结果必须结合临床表现方有诊断价值",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 22
+    },
+    {
+        "question_text": "23.脑膜炎球菌是：",
+        "options": [
+            "A.乙脑的病原体",
+            "B.流脑的病原体",
+            "C.结核性脑膜炎的病原体",
+            "D.SSPE的病原体",
+            "E.隐脑的病原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 23
+    },
+    {
+        "question_text": "24.分离流感病毒可采用患者的：",
+        "options": [
+            "A.咽漱液",
+            "B.尿液",
+            "C.粪便",
+            "D.血清",
+            "E.脑脊液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 24
+    },
+    {
+        "question_text": "25.“卫星现象”可用于鉴别：",
+        "options": [
+            "A.流感嗜血杆菌",
+            "B.金黄色葡萄球菌",
+            "C.百日咳鲍特菌",
+            "D.布鲁菌",
+            "E.嗜肺军团菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 25
+    },
+    {
+        "question_text": "26.可引起性传播疾病的嗜血杆菌是",
+        "options": [
+            "A.流感嗜血杆菌",
+            "B.埃及嗜血杆菌",
+            "C.溶血性嗜血杆菌",
+            "D.杜克嗜血杆菌",
+            "E.副流感嗜血杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 26
+    },
+    {
+        "question_text": "27.不属于幽门螺杆菌快速诊断法的是：",
+        "options": [
+            "A.胃黏膜组织标本直接镜检",
+            "B.快速脲酶试验",
+            "C.PCR",
+            "D.核素标记呼吸试验",
+            "E.直接动物试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 27
+    },
+    {
+        "question_text": "28.暗视野显微镜下观察形态有诊断意义的病原体是：",
+        "options": [
+            "A.细菌",
+            "B.支原体",
+            "C.衣原体",
+            "D.螺旋体",
+            "E.病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 28
+    },
+    {
+        "question_text": "29.目前衣原体检测较多使用的方法是：",
+        "options": [
+            "A.直接显微镜检查",
+            "B.鸡胚卵黄中培养",
+            "C.直接荧光抗体法",
+            "D.DNA探针技术",
+            "E.动物接种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 29
+    },
+    {
+        "question_text": "30.具有完整细胞壁的微生物是：",
+        "options": [
+            "A.支原体",
+            "B.衣原体",
+            "C.细菌L型",
+            "D.噬菌体",
+            "E.病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 30
+    },
+    {
+        "question_text": "31.病原体检查最具有诊断价值的方法是：",
+        "options": [
+            "A.标本的分离和培养",
+            "B.病原体的抗体成分检测",
+            "C.核酸检测",
+            "D.血清学试验",
+            "E.直接涂片镜检"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列传染病中，有可能通过血培养获得病原体而诊断者为：",
+        "options": [
+            "A.细菌性痢疾",
+            "B.霍乱、副霍乱",
+            "C.阿米巴痢疾",
+            "D.伤寒、副伤寒",
+            "E.疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 32
+    },
+    {
+        "question_text": "33.伤寒发病第一周内，阳性率最高的化验是：",
+        "options": [
+            "A.大便培养",
+            "B.肥达氏反应",
+            "C.血液培养",
+            "D.尿培养",
+            "E.补体结合试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 33
+    },
+    {
+        "question_text": "34.患者男性，32岁。尿频、尿痛2天入院。查体：尿道外口有脓性分泌物，涂片见大量革兰阴性咖啡豆形双球菌。导致该患者泌尿生殖道化脓性感染的病原菌是：",
+        "options": [
+            "A.卡他布兰汉菌",
+            "B.淋病奈瑟菌",
+            "C.脑膜炎奈瑟菌",
+            "D.大肠埃希菌",
+            "E.衣原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 34
+    },
+    {
+        "question_text": "35.患者男性，52岁。糖尿病史5年，1周来低热，37.8℃，伴咳嗽，痰中偶带血，胸片显示在肺中野多发片状结节阴影，ESR85mm/h，痰涂片抗酸染色（+）。该患者最可能的诊断是：",
+        "options": [
+            "A.大叶性肺炎",
+            "B.肺结核",
+            "C.肺癌",
+            "D.金葡菌肺炎",
+            "E.真菌性肺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 35
+    },
+    {
+        "question_text": "36.某病人，男性，55岁，半年前因原发性肝癌作左半肝切除术，术后随访能预测癌肿复发的检查是下列哪一项？",
+        "options": [
+            "A.ALT、AST",
+            "B.B超",
+            "C.动态检测AFP",
+            "D.GGT",
+            "E.选择性肝动脉造影"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 36
+    },
+    {
+        "question_text": "37.用于病原体检测确诊的试验方法为：",
+        "options": [
+            "A.直接染色镜检",
+            "B.病原体的分离和培养",
+            "C.检出特异性抗原",
+            "D.检出特异性病原体成分",
+            "E.血清学方法检测特异性IgG和（或）IgM抗体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 37
+    },
+    {
+        "question_text": "38.能在无生命培养基中生长繁殖的最小的原核微生物是：",
+        "options": [
+            "A.细菌",
+            "B.衣原体",
+            "C.支原体",
+            "D.病毒",
+            "E.螺旋体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 38
+    },
+    {
+        "question_text": "39.肺炎克雷伯菌及大肠埃希菌产生ESBLs，意味着：",
+        "options": [
+            "A.所有抗菌药物根据试验选用",
+            "B.头孢菌素和氨曲南根据试验选用",
+            "C.除检测ESBLs的靶抗菌药物外，其他药物根据药敏试验选用",
+            "D.头孢菌素和氨曲南无论体外药敏试验如何，临床治疗都是无效的",
+            "E.以上均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列的说法哪项是正确的？",
+        "options": [
+            "A.伤寒杆菌进入机体后可产生特异性抗体",
+            "B.诊断伤寒用的肥达氏反应是特异性的诊断反应",
+            "C.只要肥达反应阳性就可诊断伤寒",
+            "D.肥达氏反应不会出现交叉凝集反应",
+            "E.肥达氏反应1：10（+）即可诊断"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 40
+    },
+    {
+        "question_text": "41.HIV感染传播的模式主要不包括：",
+        "options": [
+            "A.性传播",
+            "B.经血传播",
+            "C.母婴传播",
+            "D.日常接触",
+            "E.共用注射器"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 41
+    },
+    {
+        "question_text": "42.禽流感病毒是：",
+        "options": [
+            "A.HIV",
+            "B.AIV",
+            "C.SARS",
+            "D.HRV",
+            "E.HAV"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 42
+    },
+    {
+        "question_text": "43.轮状病毒是：",
+        "options": [
+            "A.HIV",
+            "B.AIV",
+            "C.SARS",
+            "D.HRV",
+            "E.HAV"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 43
+    },
+    {
+        "question_text": "44.人类免疫缺陷病毒是：",
+        "options": [
+            "A.HIV",
+            "B.AIV",
+            "C.SARS",
+            "D.HRV",
+            "E.HAV"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 44
+    },
+    {
+        "question_text": "45.下列病毒中哪项不属于RNA病毒？",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HCV",
+            "D.HDV",
+            "E.HEV"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 45
+    },
+    {
+        "question_text": "46.乙肝病毒标志不包括：",
+        "options": [
+            "A.HBsAg",
+            "B.抗-HBs",
+            "C.抗-HBc",
+            "D.HBV-DNA",
+            "E.HAV-RNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 46
+    },
+    {
+        "question_text": "47.HDV需与下列哪种肝炎病毒共存时才能感染病人？",
+        "options": [
+            "A.HBV",
+            "B.HAV",
+            "C.HEV",
+            "D.HCV",
+            "E.巨细胞肝炎病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 47
+    },
+    {
+        "question_text": "48.属于DNA病毒的是：",
+        "options": [
+            "A.甲肝病毒",
+            "B.乙肝病毒",
+            "C.丙肝病毒",
+            "D.丁肝病毒",
+            "E.戊肝病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 48
+    },
+    {
+        "question_text": "49.甲型肝炎病毒抗体IgM阳性的临床意义是：",
+        "options": [
+            "A.粪便中检出可作为急性感染证据",
+            "B.特异性早期诊断指标",
+            "C.流行病学调查指标",
+            "D.提示既往感染",
+            "E.获得免疫力标志"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 49
+    },
+    {
+        "question_text": "50.HBV标志物检测结果：（+），抗-HBc（-），抗HBsAg（+），HBeAgHBcIgM（-），抗HBe（-），抗HBs（-）。结果分析正确的是：",
+        "options": [
+            "A.HBV感染恢复阶段",
+            "B.既往HBV感染",
+            "C.急性HBV感染早期，HBV复制活跃",
+            "D.急性或慢性乙肝，HBV复制减弱",
+            "E.HBV病毒携带者"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 50
+    },
+    {
+        "question_text": "51.用ELISA法检测乙型肝炎抗原、抗体系统结果：HBsAg（+）、HBeAg（+）、抗HBs（-）、抗HBc（-）及抗HBe（-），说明：",
+        "options": [
+            "A.HBV复制活跃，有较强的传染性",
+            "B.HBV复制，血清无传染性",
+            "C.HBV停止复制，血清已无传染性",
+            "D.急性或慢性HB，HBV复制减弱",
+            "E.HBV停止复制，以往曾经感染过乙型肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列哪种病毒不属于肝炎病毒：",
+        "options": [
+            "A.HCV",
+            "B.HAV",
+            "C.HEV",
+            "D.HDV",
+            "E.CMV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 52
+    },
+    {
+        "question_text": "53.当血清中HBsAg、HBeAg阳性时，说明：",
+        "options": [
+            "A.无传染性",
+            "B.病情比较稳定",
+            "C.曾感染乙型肝炎病毒",
+            "D.具有免疫力",
+            "E.具有较大传染性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 53
+    },
+    {
+        "question_text": "54.对乙型肝炎病毒感染具有保护作用的是：",
+        "options": [
+            "A.Dane颗粒抗体",
+            "B.核心抗体",
+            "C.表面抗体",
+            "D.DNA多聚酶",
+            "E.e抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列哪种情况下AFP升高最明显？",
+        "options": [
+            "A.急性重症肝炎",
+            "B.肝硬变活动期",
+            "C.原发性肝癌",
+            "D.妊娠8个月妇女",
+            "E.生殖腺胚胎肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 55
+    },
+    {
+        "question_text": "56.注射过乙型肝炎疫苗者，可呈阳性的是：",
+        "options": [
+            "A.抗-HBs",
+            "B.HBcAg",
+            "C.抗-HBe",
+            "D.HBsAg",
+            "E.抗-HBcIgM"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 56
+    },
+    {
+        "question_text": "57.既是乙型肝炎近期感染指标，也是HBV在体内持续复制的指标，并提示患者血液有传染性的是：",
+        "options": [
+            "A.抗-HBs",
+            "B.HBcAg",
+            "C.抗-HBe",
+            "D.HBsAg",
+            "E.抗-HBcIgM"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 57
+    },
+    {
+        "question_text": "58.一般情况下在血清中不易检测到游离态的是：",
+        "options": [
+            "A.抗-HBs",
+            "B.HBcAg",
+            "C.抗-HBe",
+            "D.HBsAg",
+            "E.抗-HBcIgM"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 58
+    },
+    {
+        "question_text": "59.哪一项阳性表示大部分乙肝病毒被消除，复制减少，传染性减低的是：",
+        "options": [
+            "A.抗-HBs",
+            "B.HBcAg",
+            "C.抗-HBe",
+            "D.HBsAg",
+            "E.HBeAg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 59
+    },
+    {
+        "question_text": "60.某病人，男性，45岁，体格检查时发现肝右叶有一1.5cm×2.0cm占位性病变，下一步检查应首选：",
+        "options": [
+            "A.肝功能",
+            "B.肝炎病毒性标志物检测",
+            "C.AFP测定",
+            "D.癌胚抗原（CEA）",
+            "E.腹部CT"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 60
+    },
+    {
+        "question_text": "61.某病人，男性，20岁，食欲减退，恶心，厌油10余天，并有尿色加深，巩固轻度黄染，ALT400U/L，下列哪项提示乙型肝炎病毒感染、病毒复制并具较强传染性？",
+        "options": [
+            "A.HBsAg",
+            "B.HBsAb",
+            "C.HBcAb",
+            "D.HBeAg",
+            "E.HbeAb"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 61
+    },
+    {
+        "question_text": "62.提示急性感染早期，HBV复制活跃的是：",
+        "options": [
+            "A.HBsAg（+）、HBeAg（+）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（-）",
+            "B.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "C.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）",
+            "D.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "E.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 62
+    },
+    {
+        "question_text": "63.提示急性或慢性HB，HBV复制减弱的是：",
+        "options": [
+            "A.HBsAg（+）、HBeAg（+）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（-）",
+            "B.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "C.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）",
+            "D.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "E.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 63
+    },
+    {
+        "question_text": "64.提示HBV复制停止的是：",
+        "options": [
+            "A.HBsAg（+）、HBeAg（+）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（-）",
+            "B.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "C.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）",
+            "D.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "E.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 64
+    },
+    {
+        "question_text": "65.提示HBsAg/抗-HBs空白期，可能HBV处于平静携带中的是：",
+        "options": [
+            "A.HBsAg（+）、HBeAg（+）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（-）",
+            "B.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "C.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）",
+            "D.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "E.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 65
+    },
+    {
+        "question_text": "66.提示既往HBV感染，未产生抗-HBs的是：",
+        "options": [
+            "A.HBsAg（+）、HBeAg（+）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（-）",
+            "B.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "C.HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）",
+            "D.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）",
+            "E.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 66
+    },
+    {
+        "question_text": "67.提示抗-HBs出现前阶段，HBV低度复制的是：",
+        "options": [
+            "A.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（+）、抗HBs（-）",
+            "B.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）",
+            "C.HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）、抗HBs（+）",
+            "D.HBsAg（-）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）、抗HBs（-）",
+            "E.HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 67
+    },
+    {
+        "question_text": "68.提示HBV感染恢复阶段的是：",
+        "options": [
+            "A.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（+）、抗HBs（-）",
+            "B.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）",
+            "C.HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）、抗HBs（+）",
+            "D.HBsAg（-）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）、抗HBs（-）",
+            "E.HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 68
+    },
+    {
+        "question_text": "69.提示不同亚型（变异型）HBV再感染的是：",
+        "options": [
+            "A.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（+）、抗HBs（-）",
+            "B.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）",
+            "C.HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）、抗HBs（+）",
+            "D.HBsAg（-）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）、抗HBs（-）",
+            "E.HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 69
+    },
+    {
+        "question_text": "70.提示HBsAg变异的结果所致的是：",
+        "options": [
+            "A.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（+）、抗HBs（-）",
+            "B.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）",
+            "C.HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）、抗HBs（+）",
+            "D.HBsAg（-）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）、抗HBs（-）",
+            "E.HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 70
+    },
+    {
+        "question_text": "71.提示表明抗原、e抗原变异的是：",
+        "options": [
+            "A.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（+）、抗HBs（-）",
+            "B.HBsAg（-）、HBeAg（-）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）",
+            "C.HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（+）、抗HBe（-）、抗HBs（+）",
+            "D.HBsAg（-）、HBeAg（+）、抗HBc（+）、抗HBc-IgM（-）、抗HBe（-）、抗HBs（-）",
+            "E.HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBc-IgM（-）、抗HBe（+）、抗HBs（+）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 71
+    },
+    {
+        "question_text": "72.提示丙型肝炎病毒感染、病毒复制、传染性强的是：",
+        "options": [
+            "A.HAV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HAV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 72
+    },
+    {
+        "question_text": "73.提示患有急性丙型肝炎的是：",
+        "options": [
+            "A.HAV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HAV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 73
+    },
+    {
+        "question_text": "74.提示输血后肝炎的是：",
+        "options": [
+            "A.HAV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HAV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 74
+    },
+    {
+        "question_text": "75.提示丙型肝炎病毒感染，但病毒复制受抑的是：",
+        "options": [
+            "A.HAV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HAV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 75
+    },
+    {
+        "question_text": "76.提示已有HCV感染的是：",
+        "options": [
+            "A.HAV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HAV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 76
+    },
+    {
+        "question_text": "77.性传播疾病常见临床类型不包括：",
+        "options": [
+            "A.获得性免疫缺陷综合征",
+            "B.梅毒",
+            "C.淋病",
+            "D.泌尿系统感染",
+            "E.尖锐湿疣"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 77
+    },
+    {
+        "question_text": "78.非淋菌尿道炎的病原体主要是：",
+        "options": [
+            "A.淋菌",
+            "B.铜绿假单细菌",
+            "C.沙眼衣原体，解脲支原体",
+            "D.大肠杆菌",
+            "E.螺旋体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 78
+    },
+    {
+        "question_text": "79.尖锐湿疣病原体是：",
+        "options": [
+            "A.单纯疱疹病毒",
+            "B.EB病毒",
+            "C.巨细胞病毒",
+            "D.人乳头瘤病毒",
+            "E.轮状病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 79
+    },
+    {
+        "question_text": "80.抗HIV-1和HIV-2的确诊试验是：",
+        "options": [
+            "A.颗粒汇聚试验",
+            "B.酶联免疫吸附试验",
+            "C.蛋白印迹法",
+            "D.免疫荧光法",
+            "E.乳胶凝聚试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 80
+    },
+    {
+        "question_text": "81.诊断早期梅毒唯一快速可靠的方法是：",
+        "options": [
+            "A.暗视野显微镜检查",
+            "B.RPR",
+            "C.FTA-ABC",
+            "D.TPHA",
+            "E.VDRL"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 81
+    },
+    {
+        "question_text": "82.有关梅毒血清学试验的论述哪项是正确的：",
+        "options": [
+            "A.RPR阳性可能是梅毒螺旋体感染过",
+            "B.较晚接受治疗的梅毒患者可终生RPR阳性",
+            "C.麻风，疟疾，雅司病患者RPR也可阳性",
+            "D.RPR阳性必须结合临床方能诊断梅毒",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 82
+    },
+    {
+        "question_text": "83.诊断淋病的金标准是：",
+        "options": [
+            "A.直接涂片镜检",
+            "B.细菌培养",
+            "C.PCR",
+            "D.免疫荧光法",
+            "E.ELISA法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 83
+    },
+    {
+        "question_text": "84.支原体检测正确的是：",
+        "options": [
+            "A.直接显微镜检测",
+            "B.分离培养是支原体感染的确诊依据",
+            "C.ELISA试验是最特异敏感的试验",
+            "D.生长抑制试验对检测支原体无意义",
+            "E.PCR技术还没有应用于临床"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 84
+    },
+    {
+        "question_text": "85.软性下疳由以下何种微生物所致：",
+        "options": [
+            "A.沙眼衣原体",
+            "B.奈瑟氏淋球菌",
+            "C.嗜血杜克雷氏菌",
+            "D.梅毒螺旋体",
+            "E.大肠杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 85
+    },
+    {
+        "question_text": "86.肾综合征出血热病原体是：",
+        "options": [
+            "A.汉坦病毒",
+            "B.EB病毒",
+            "C.支原体",
+            "D.肠杆菌",
+            "E.轮状病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 86
+    },
+    {
+        "question_text": "87.乙脑早期诊断的检测方法应首选：",
+        "options": [
+            "A.从血标本中分离病毒",
+            "B.血凝抑制试验",
+            "C.补体结合试验",
+            "D.IgM抗体捕获的ELISA试验",
+            "E.电镜观察"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 87
+    },
+    {
+        "question_text": "88.嗜异性凝集试验及吸附试验可用于诊断：",
+        "options": [
+            "A.传染性单核细胞增多症",
+            "B.自身免疫病",
+            "C.肾炎",
+            "D.再生障碍性贫血",
+            "E.乙脑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 88
+    },
+    {
+        "question_text": "89.下列有关CRP的论述哪项是正确的？",
+        "options": [
+            "A.CRP是急性期反应物质",
+            "B.CRP是慢性感染的物质",
+            "C.CRP是传染性的标志物",
+            "D.CRP是肝癌的标志物",
+            "E.CRP是良性肿瘤的标志物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 89
+    },
+    {
+        "question_text": "90.关于肥达氏反应的假阴性结果哪项说法是正确的？",
+        "options": [
+            "A.大量应用抗菌素后",
+            "B.应用了免疫抑制剂后",
+            "C.先天性体液免疫功能缺陷",
+            "D.部分伤寒病人始终不出现阳性",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 90
+    },
+    {
+        "question_text": "91.肥达氏反应哪项是有诊断价值的？",
+        "options": [
+            "A.“H”凝集价>1：160",
+            "B.“0”凝集价>1：80",
+            "C.“甲”“乙”“丙”副伤寒杆菌“H”凝集价各>1：80",
+            "D.恢复期的“0”和“H”>发病期的凝集价4倍以上",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 91
+    },
+    {
+        "question_text": "92.缺乏细胞壁的原核细胞型微生物是：",
+        "options": [
+            "A.螺旋体",
+            "B.衣原体",
+            "C.立克次体",
+            "D.支原体",
+            "E.病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 92
+    },
+    {
+        "question_text": "93.疑似“淋病”病人的脓性分泌物标本，必须：",
+        "options": [
+            "A.保暖保湿，迅速送检",
+            "B.冷藏，迅速送检",
+            "C.放50％甘油盐水中保存送检",
+            "D.立即接种于普通琼脂平板",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 93
+    },
+    {
+        "question_text": "94.可作厌氧菌培养的标本是：",
+        "options": [
+            "A.气管抽取物",
+            "B.前列腺分泌物",
+            "C.阴道分泌物",
+            "D.中段尿",
+            "E.胸腔积液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 94
+    },
+    {
+        "question_text": "95.病毒的繁殖方式：",
+        "options": [
+            "A.自我复制",
+            "B.原体、始体",
+            "C.孢子、菌丝",
+            "D.二分裂",
+            "E.有丝分裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 95
+    },
+    {
+        "question_text": "96.细菌感染最重要的确认方法",
+        "options": [
+            "A.显微镜检查",
+            "B.细菌培养",
+            "C.血清学诊断",
+            "D.免疫学检测",
+            "E.基因检测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 96
+    },
+    {
+        "question_text": "97.最常见的病毒分离方法",
+        "options": [
+            "A.显微镜检查",
+            "B.细胞培养",
+            "C.血清学诊断",
+            "D.免疫学检测",
+            "E.基因检测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 97
+    },
+    {
+        "question_text": "98.真菌感染主要的检测手段",
+        "options": [
+            "A.显微镜检查",
+            "B.细菌培养",
+            "C.血清学诊断",
+            "D.免疫学检测",
+            "E.基因检测"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 98
+    },
+    {
+        "question_text": "99.确诊支原体感染的依据",
+        "options": [
+            "A.显微镜检查",
+            "B.细菌培养",
+            "C.血清学诊断",
+            "D.免疫学检测",
+            "E.基因检测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 99
+    },
+    {
+        "question_text": "100.目前应用最广泛的感染性疾病检测方法",
+        "options": [
+            "A.显微镜检查",
+            "B.细茵培养",
+            "C.血清学诊断",
+            "D.免疫学检测",
+            "E.基因检测"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 100
+    },
+    {
+        "question_text": "101.提示丙型肝炎病毒感染、病毒复制、传染性强的是",
+        "options": [
+            "A.HCV-RNA（+）",
+            "B.抗HCV-IgM（+）",
+            "C.抗HCV-IgG（+）",
+            "D.HCV-RNA（-）、抗HCV-IgM（+）",
+            "E.抗HCV-IgM（-）、抗HCV-IgG（+）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 101
+    }
+]

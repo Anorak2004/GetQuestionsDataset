@@ -1,0 +1,534 @@
+[
+    {
+        "question_text": "1.下列哪一项不是皮肤粘膜出血的基本原因？",
+        "options": [
+            "A.毛细血管缺陷",
+            "B.血管壁功能异常血小板数量与功能异常",
+            "C.凝血障碍",
+            "D.循环抗凝物质增多",
+            "E.手术创伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 1
+    },
+    {
+        "question_text": "2.皮肤黏膜出血的基本因素包括:",
+        "options": [
+            "A.血管壁功能异常",
+            "B.血小板功能异常",
+            "C.凝血功能异常",
+            "D.血小板数量异常",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 2
+    },
+    {
+        "question_text": "3.皮肤粘膜出血的基本病因，除外:",
+        "options": [
+            "A.利器外伤",
+            "B.毛细血管壁的缺陷",
+            "C.血小板数量或功能的异常",
+            "D.凝血因子缺乏",
+            "E.血液中的抗凝物质增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 3
+    },
+    {
+        "question_text": "4.皮肤黏膜出血的特征是:",
+        "options": [
+            "A.创伤性出血",
+            "B.产后大出血",
+            "C.手术后出血",
+            "D.自发性出血",
+            "E.抗凝治疗后出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项属皮肤粘膜出血的范畴？",
+        "options": [
+            "A.皮肤、粘膜自发性出血",
+            "B.外伤出血",
+            "C.手术出血",
+            "D.溃疡出血",
+            "E.血管瘤破裂出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 5
+    },
+    {
+        "question_text": "6.血管壁功能异常所致的出血性疾病是:",
+        "options": [
+            "A.特发性血小板减少性紫癜",
+            "B.血友病",
+            "C.弥散性血管内凝血",
+            "D.过敏性紫癜",
+            "E.血小板增多症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪种疾病的病因不属于血管壁功能异常:",
+        "options": [
+            "A.特发性血小板减少性紫癜",
+            "B.过敏性紫癜",
+            "C.尿毒症",
+            "D.维生素C缺乏",
+            "E.遗传性出血性毛细血管扩张症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 7
+    },
+    {
+        "question_text": "8.血管壁功能异常所致的出血特点为:",
+        "options": [
+            "A.皮下血肿",
+            "B.关节腔出血",
+            "C.内脏出血",
+            "D.肌肉出血",
+            "E.皮肤黏膜的瘀点淤斑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 8
+    },
+    {
+        "question_text": "9.能引起凝血功能障碍的疾病是:",
+        "options": [
+            "A.维生素C缺乏",
+            "B.维生素PP缺乏",
+            "C.维生素K缺乏",
+            "D.单纯性紫癜",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 9
+    },
+    {
+        "question_text": "10.引起出血性疾病较常见的因素是:",
+        "options": [
+            "A.血管外因素",
+            "B.凝血因子缺乏",
+            "C.肝素或香豆类药物",
+            "D.抗凝血物质活性增加",
+            "E.血小板因素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 10
+    },
+    {
+        "question_text": "11.血小板减少引起出血的特点为:",
+        "options": [
+            "A.常表现为内脏出血",
+            "B.常有肝病史或家族史",
+            "C.常有关节腔出血",
+            "D.常同时有出血点、紫癜和淤斑、鼻出血",
+            "E.常有家族史"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项是因血管壁功能异常所致的出血？",
+        "options": [
+            "A.凝血因子缺乏症",
+            "B.白血病",
+            "C.遗传性出血性毛细血管扩张症",
+            "D.血栓性血小板减少性紫癜",
+            "E.维生素K缺乏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项所致出血与血管异常障碍有关？",
+        "options": [
+            "A.白血病",
+            "B.血友病",
+            "C.过敏性紫癜",
+            "D.重症肝炎",
+            "E.DIC"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列哪项所致出血与凝血功能障碍有关？",
+        "options": [
+            "A.维生素C缺乏",
+            "B.单纯性紫癜",
+            "C.脾功能六进",
+            "D.再生障碍性贫血",
+            "E.严重肝功能不全"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪项是毛细血管壁缺陷引起出血的疾病？",
+        "options": [
+            "A.脾功能亢进",
+            "B.血小板无力症",
+            "C.再生障碍性贫血",
+            "D.遗传性毛细血管扩张症",
+            "E.原发性血小板减少性紫癜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪种疾病是因凝血机制障碍引起的出血？",
+        "options": [
+            "A.血友病",
+            "B.脾功能亢进",
+            "C.血小板无力症",
+            "D.再生障碍性贫血",
+            "E.遗传性毛细血管扩张症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 16
+    },
+    {
+        "question_text": "17.维生素K缺乏导致的皮肤黏膜出血，是因为它能导致:",
+        "options": [
+            "A.血管壁异常",
+            "B.血小板功能异常",
+            "C.血小板数量异常",
+            "D.凝血功能异常",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 17
+    },
+    {
+        "question_text": "18.遗传性凝血功能障碍常见的疾病是？",
+        "options": [
+            "A.维生素C缺乏症",
+            "B.血小板无力症",
+            "C.血友病",
+            "D.异常球蛋白血症",
+            "E.原发性血小板增多症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 18
+    },
+    {
+        "question_text": "19.皮下出血直径1mm称为:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.紫癜",
+            "D.瘀斑",
+            "E.瘀点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 19
+    },
+    {
+        "question_text": "20.皮下出血直径4mm称为:",
+        "options": [
+            "A.紫癜",
+            "B.瘀斑",
+            "C.瘀点",
+            "D.斑疹",
+            "E.丘疹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 20
+    },
+    {
+        "question_text": "21.某青年女性，双下肢散在的暗红色或鲜红色点状改变，压之不腿色，直径2mm左右，不凸出皮面，应诊断为:",
+        "options": [
+            "A.瘀点",
+            "B.紫癜",
+            "C.瘀斑",
+            "D.皮疹",
+            "E.红痣"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 21
+    },
+    {
+        "question_text": "22.瘀点、紫癜、瘀斑的直径（mm）分别是:",
+        "options": [
+            "A.＜1；2～4；＞5",
+            "B.＜2；3～5；＞6",
+            "C.＜3；4～6；＞7",
+            "D.＜4；5～7；＞8",
+            "E.＜5；2～5；＞6"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 22
+    },
+    {
+        "question_text": "23.紫癜的特点是:",
+        "options": [
+            "A.直径不超过2mm",
+            "B.直径3～5mm",
+            "C.直径5mm以上",
+            "D.直径2～3mm",
+            "E.直径6mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 23
+    },
+    {
+        "question_text": "24.瘀斑的特点是:",
+        "options": [
+            "A.直径不超过2mm",
+            "B.直径3～6mm",
+            "C.直径5mm以上",
+            "D.直径2～4mm",
+            "E.直径6mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 24
+    },
+    {
+        "question_text": "25.瘀点的特点是:",
+        "options": [
+            "A.直径不超过2mm",
+            "B.直径3～7mm",
+            "C.直径5mm以上",
+            "D.直径2～5mm",
+            "E.直径6mm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 25
+    },
+    {
+        "question_text": "26.四肢对称性紫癜，略高出皮面，伴有关节痛及腹痛、血尿者多见于:",
+        "options": [
+            "A.过敏性紫癜",
+            "B.血小板减少性紫癜",
+            "C.肝硬化",
+            "D.血友病",
+            "E.尿毒症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 26
+    },
+    {
+        "question_text": "27.特发性血小板减少性紫癜特点正确的是:",
+        "options": [
+            "A.贫血和出血程度一致",
+            "B.贫血和出血程度不一致",
+            "C.有贫血而无出血",
+            "D.有出血而无贫血",
+            "E.无出血亦无贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 27
+    },
+    {
+        "question_text": "28.慢性血小板减少性紫癜的出血特点是:",
+        "options": [
+            "A.反复皮肤痕点、痕斑",
+            "B.内脏及颅内出血常见",
+            "C.常有脾脏肿大",
+            "D.常有关节腔出血",
+            "E.儿童多见，常呈自限性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 28
+    },
+    {
+        "question_text": "29.过敏性紫癜的表现，错误的是:",
+        "options": [
+            "A.紫癜四肢对称",
+            "B.可伴有关节痛",
+            "C.常有腹痛",
+            "D.常见黄疸",
+            "E.可伴有血尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 29
+    },
+    {
+        "question_text": "30.血小板减少性紫癜的伴随症状和体征，除外:",
+        "options": [
+            "A.紫癜多为局部性",
+            "B.有牙龈出血",
+            "C.鼻出血",
+            "D.便血",
+            "E.血尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 30
+    },
+    {
+        "question_text": "31.一般关于紫癜的正确说法是:",
+        "options": [
+            "A.皮肤粘膜出血形成的红色或暗红色斑点，压之不褪色",
+            "B.皮肤粘膜出血形成的红色或暗红色斑点，压之褪色",
+            "C.皮肤粘膜外伤后皮下残留的瘀血",
+            "D.血小板减少性紫癜与过敏性紫癜的斑点不同",
+            "E.鼻及牙龈出血也叫紫癜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列哪项属血友病的特点？",
+        "options": [
+            "A.家族史少见",
+            "B.女性多见",
+            "C.皮肤紫癜多见",
+            "D.血肿多见",
+            "E.关节腔出血少见"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 32
+    },
+    {
+        "question_text": "33.伤寒或副伤寒的特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.玫瑰疹",
+            "C.荨麻疹",
+            "D.斑丘疹",
+            "E.丘疹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 33
+    },
+    {
+        "question_text": "34.某些疾病的发生与性别有关，多发生于女性的疾病是:",
+        "options": [
+            "A.胃癌",
+            "B.食管癌",
+            "C.系统性红斑狼疮",
+            "D.血友病",
+            "E.肝癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 34
+    },
+    {
+        "question_text": "35.紫癜伴黄疸者多见于:",
+        "options": [
+            "A.严重肝病",
+            "B.尿毒症",
+            "C.过敏性紫癜",
+            "D.血友病",
+            "E.白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪项不是过敏性紫癜的特点？",
+        "options": [
+            "A.四肢或臂部的不对称性紫癜",
+            "B.常为高出皮肤的荨麻疹或丘疹样紫癜",
+            "C.可伴有痒感、关节痛或腹痛",
+            "D.累及肾脏者可有血尿",
+            "E.常有关节腔出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 36
+    },
+    {
+        "question_text": "37.过敏性紫癜常表现为:",
+        "options": [
+            "A.四肢对称性紫癜",
+            "B.皮肤斑丘疹",
+            "C.皮肤瘙痒",
+            "D.过敏性休克",
+            "E.外周血嗜酸粒细胞增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪项不是过敏性紫癜的临床表现？",
+        "options": [
+            "A.四肢对称性紫癜",
+            "B.关节疼痛肿胀",
+            "C.腹痛",
+            "D.血尿水肿",
+            "E.皮下血肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 38
+    }
+]

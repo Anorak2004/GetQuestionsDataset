@@ -1,0 +1,156 @@
+[
+    {
+        "question_text": "1.\t正常前列腺的大小是：",
+        "options": [
+            "A.\t3cmX 2cmX lcm",
+            "B.\t3cmX4cmX2cm",
+            "C.\t3cmX 5cmX 5cm",
+            "D.\t4cmX4cmX5cm",
+            "E.\t3cmX4cmX5cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t正常人前列腺上下径、前后径和左右径的超声测 值分别为（单位：cm）:",
+        "options": [
+            "A.\t2.3,\t3.0,\t3.5",
+            "B.\t3.0,\t3.5,\t4.0",
+            "C.\t2.5,\t3.5,\t4.5",
+            "D.\t2.0,\t3.0,\t4.0",
+            "E.\t3.0,\t4.0,\t5.0"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t前列腺结石易发生在：",
+        "options": [
+            "A.\t内外腺之间",
+            "B.\t外腺",
+            "C.\t内腺",
+            "D.\t包膜下",
+            "E.\t尿道周围"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t良性前列腺增生易发生在：",
+        "options": [
+            "A.\t外腺",
+            "B.\t内腺",
+            "C.\t内外腺之间",
+            "D.\t包膜下",
+            "E.\t后叶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t前列腺哪叶增大易引起排尿困难：",
+        "options": [
+            "A.\t左侧叶",
+            "B.\t右侧叶",
+            "C.\t中叶",
+            "D.\t前叶",
+            "E.\t后叶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下列超声探测前列腺方法中图像最佳的是：",
+        "options": [
+            "A.\t经腹壁",
+            "B.\t经直肠",
+            "C.\t经尿道",
+            "D.\t经会阴",
+            "E.\t以上方法图像质量无区别"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t超声诊断前列腺增生的条件下，主要诊断依据 是：",
+        "options": [
+            "A.\t前列腺形态变圆",
+            "B.\t前列腺向膀胱凸出",
+            "C.\t内外腺比例异常和增生结节出现",
+            "D.\t前列腺结石出现",
+            "E.\t膀胱壁小梁小房形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t前列腺癌和前列腺增生症的增生结节超声主要鉴 别点是：①前者多在外腺，后者多在内腺；②前者 结节包膜边界不清，后者结节包膜边界不整；③用 端射式直肠探头触知结节硬度前者较硬，后者较 软，且可变形；④在PSA持续升高的情况下行B超 引导穿刺活检，前者有肿瘤细胞，后者无肿瘤细胞",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t前列腺内的点状强回声呈弧形排列在内外腺之 间，应首先考虑：",
+        "options": [
+            "A.\t前列腺结石",
+            "B.\t前列腺炎",
+            "C.\t前列腺囊肿",
+            "D.\t前列腺癌",
+            "E.\t前列腺肉瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t经直肠超声检查，主要是观察的病变：",
+        "options": [
+            "A.\t卵巢",
+            "B.\t前列腺",
+            "C.\t肠",
+            "D.\t膀胱",
+            "E.\t子宫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 10
+    },
+    {
+        "question_text": "11.66岁的男性患者，进行性排尿困难2年，尿 频，每次尿量少，半个月来出现尿潴留口最可能的 原因为：",
+        "options": [
+            "A.\t前列腺增生症",
+            "B.\t膀胱癌",
+            "C.\t尿路结石",
+            "D.\t膀胱结核",
+            "E.\t糖尿病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 11
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "question_text": "1.\t缺血-再灌注损伤是指",
+        "options": [
+            "A.\t缺血后引起的损伤",
+            "B.\t在灌注后引起的损伤",
+            "C.\t缺血后恢复血流引起的后果",
+            "D.\t缺血后恢复血流损伤加重",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t下列哪一种情况不会发生缺血-再灌注损伤？",
+        "options": [
+            "A.\t输血输液后",
+            "B.\t溶栓疗法后",
+            "C.\t器官移植后",
+            "D.\t冠脉搭桥后",
+            "E.\t体外循环后"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 2
+    },
+    {
+        "question_text": "3. 下列哪一种因素不会影响缺血-再灌注损伤的发 生？",
+        "options": [
+            "A. 组织的营养状态",
+            "B. 组织侧枝循环有无",
+            "C. 对氧需求的高低",
+            "D. 缺血时间的长短",
+            "E. 电解质浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t下列哪一种因素是缺血-再灌注损伤发生的主要 机制？",
+        "options": [
+            "A.\t钙超载",
+            "B.\t自由基作用",
+            "C.\t白细胞作用",
+            "D.\t高能磷酸化合物缺乏",
+            "E.\t无复流现象"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t自由基是指",
+        "options": [
+            "A.\t极易被电离的原子、原子团和分子",
+            "B.\t极易起氧化还原反应的原子、原子团和分子",
+            "C.\t具有单价的原子、原子团和分子",
+            "D.\t外层轨道上具有配对电子的原子、原子团和分子",
+            "E.\t外层轨道上具有不配对电子、原子团和分子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 5
+    },
+    {
+        "question_text": "6. 自由基不包括",
+        "options": [
+            "A. O2-",
+            "B. OH -",
+            "C. 1O2",
+            "D. Cl -",
+            "E. LOO -"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t在缺血-再灌注损伤中能吸引大量中性粒细胞到 局部释放氧自由基的物质是",
+        "options": [
+            "A.\tLTA4",
+            "B.\tLTB4",
+            "C.\tLTC4",
+            "D.\tLTD4",
+            "E.\tLTE4"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t黄嘌吟氧化酶存在于",
+        "options": [
+            "A.\t白细胞内",
+            "B.\t肌细胞内",
+            "C.\t巨噬细胞内",
+            "D.\t内皮细胞内",
+            "E.\t结缔组织细胞内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t黄嘌吟脱氢酶转化为黄嘌吟氧化酶需要",
+        "options": [
+            "A.\t镁依赖性蛋白酶",
+            "B.\t锌依赖性蛋白酶",
+            "C.\t钙依赖性蛋白酶",
+            "D.\t钼依赖性蛋白酶",
+            "E.\t铜依赖性蛋白酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t能产生氧自由基的体液性因素是",
+        "options": [
+            "A.\t儿茶酚胺",
+            "B.\t血栓素",
+            "C.\t前列腺素",
+            "D.\t血管紧张素",
+            "E.\t内皮素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t自由基中能使染色体发生畸变主要是",
+        "options": [
+            "A.\tO2-",
+            "B.\tO2",
+            "C.\tOH -",
+            "D.\tLO -",
+            "E.\tLOO -"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t缺血-再灌注时细胞内氧自由基的生成增加不见 于",
+        "options": [
+            "A.\t中性粒细胞吞噬活动增加",
+            "B.\t儿茶酚胺的增加",
+            "C.\t黄嘌吟氧化酶形成减少",
+            "D.\t细胞内抗氧化酶类活性下降",
+            "E.\t线粒体受损、细胞色素氧化酶系统功能失调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t再灌注使细胞内钙超载发生的直接机制是",
+        "options": [
+            "A.\tH+-Ca2+交换加强",
+            "B.\tNa+-Ca2+交换加强",
+            "C.\tK+-Ca2+交换加强",
+            "D.\tMg2+-Ca2+交换加强",
+            "E.\tP3+-Ca2+交换加强"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t再灌注时发生钙超载与下列哪一项有关？",
+        "options": [
+            "A.\t细胞膜通透性减少",
+            "B.\t细胞膜外板与糖被膜分离",
+            "C.\t钙泵功能加强",
+            "D.\t线粒体功能加强",
+            "E.\t再灌注液内钙浓度过低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列哪一项与细胞内钙超载发生无关？",
+        "options": [
+            "A.\t细胞膜外板与糖被膜分离",
+            "B.\tNa+-Ca2+交换加强",
+            "C.\t儿茶酚胺减少",
+            "D.\t钙泵功能障碍",
+            "E.\t线粒体功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 15
+    },
+    {
+        "question_text": "16. 在钙超载引起的再灌注损伤中下列哪一项不产 生",
+        "options": [
+            "A. 促进氧自由基生成",
+            "B. 促进膜磷脂水解",
+            "C. 激活钙依赖性蛋白酶",
+            "D. 产生线粒体功能障碍",
+            "E. 引起内质网破坏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t再灌注时白细胞增多与下列何种物质增多有 关？",
+        "options": [
+            "A.\t补体",
+            "B.\t激肽",
+            "C.\t前列腺素",
+            "D.\t白三烯",
+            "E.\t组胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t不参与白细胞介导缺血-再灌注损伤的机制是",
+        "options": [
+            "A.\t堵塞毛细血管",
+            "B.\t增加血管通透性",
+            "C.\t产生氧自由基",
+            "D.\t释放溶酶体酶",
+            "E.\t细胞内钾过荷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t缺血-再灌注损伤可见于",
+        "options": [
+            "A.\t心脏",
+            "B.\t肾脏",
+            "C.\t肠",
+            "D.\t脑",
+            "E.\t各种组织器官"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t机体缺血-再灌注损伤最常见",
+        "options": [
+            "A.\t脑",
+            "B.\t心脏",
+            "C.\t肺",
+            "D.\t肾脏",
+            "E.\t肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t脑缺血-再灌注损伤时下列哪一种物质增加？",
+        "options": [
+            "A.\t糖原",
+            "B.\tATP",
+            "C.\tcAMP",
+            "D.\t葡萄糖",
+            "E.\t磷酸肌酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t脑缺血-再灌注损伤时细胞内第二信使的变化为",
+        "options": [
+            "A.\tcAMP减少和cGMP减少",
+            "B.\tcAMP增多和cGMP增多",
+            "C.\tcAMP增多和cGMP减少",
+            "D.\tcAMP减少和cGMP增多",
+            "E.\tcAMP和cGMP均正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t反映脑缺血-再灌注损伤的主要代谢指标是",
+        "options": [
+            "A.\tATP减少",
+            "B.\tcAMP增多",
+            "C.\tcGMP减少",
+            "D.\t乳酸增多",
+            "E.\t过氧化脂质增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 23
+    }
+]

@@ -1,0 +1,1458 @@
+[
+    {
+        "question_text": "1.\t成人的体液总量约占体重的",
+        "options": [
+            "A.\t40%",
+            "B.\t50%",
+            "C.\t60%",
+            "D.\t70%",
+            "E.\t80%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t正常成人血浆占体重的",
+        "options": [
+            "A.\t4%",
+            "B.\t5%",
+            "C.\t6%",
+            "D.\t7%",
+            "E.\t8%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t内环境是指",
+        "options": [
+            "A.\t细胞外液",
+            "B.\t细胞内液",
+            "C.\t跨细胞液",
+            "D.\t体液",
+            "E.\t血浆"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t新生儿的体液占其体重的",
+        "options": [
+            "A.\t50%",
+            "B.\t60%",
+            "C.\t70%",
+            "D.\t80%",
+            "E.\t90%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t血浆中主要的阳离子是",
+        "options": [
+            "A.\tNa+",
+            "B.\tK+",
+            "C.\tCa2+",
+            "D.\tMg2+",
+            "E.\tFe2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t血浆中主要的阴离子是",
+        "options": [
+            "A.\tHCO3-",
+            "B.\tHPO42-",
+            "C.\tSO42-",
+            "D.\tCl-",
+            "E.\t蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t细胞内液中最主要的阳离子是",
+        "options": [
+            "A.\tNa+",
+            "B.\tK+",
+            "C.\tCa2+",
+            "D.\tMg2+",
+            "E.\tFe2+"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t体液中各部分间渗透压关系是",
+        "options": [
+            "A.\t细胞内高于细胞外",
+            "B.\t细胞内低于细胞外",
+            "C.\t血浆低于组织间液",
+            "D.\t组织间液低于细胞内液",
+            "E.\t细胞内外液基本相等"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t细胞内外液渗透压的平衡主要靠哪一物质的移动 来维持",
+        "options": [
+            "A.\tNa+",
+            "B.\tK+",
+            "C.\tCl-",
+            "D.\t葡萄糖",
+            "E.\t水"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t组织间液和血浆两者含量的主要差别是",
+        "options": [
+            "A.\tNa+",
+            "B.\tK+",
+            "C.\t有机酸",
+            "D.\t蛋白质",
+            "E.\t尿素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t决定细胞外液渗透压的主要因素是",
+        "options": [
+            "A.\t清蛋白",
+            "B.\t球蛋白",
+            "C.\tNa+",
+            "D.\tK+",
+            "E.\t尿素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t正常成人的每天最低尿量为",
+        "options": [
+            "A.\t1000ml",
+            "B.\t800ml",
+            "C.\t500ml",
+            "D.\t300ml",
+            "E.\t100ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t一般情况下正常成人每天出入水量约为",
+        "options": [
+            "A.\t3000-4000ml",
+            "B.\t2500-3000ml",
+            "C.\t2000-2500ml",
+            "D.\t1500-2000ml",
+            "E.\t1000-1500ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t正常成人血清钠浓度范围约为",
+        "options": [
+            "A.100-120mmol/L",
+            "B.120-130 mmolL",
+            "C.130-150 mmolL",
+            "D.150-170 mmol/L",
+            "E.170-190 mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 14
+    },
+    {
+        "question_text": "15.正常成人血清钾浓度为",
+        "options": [
+            "A.1.0-2.5 mmol/L",
+            "B.2.0-3.0 mmol/L",
+            "C.2.5-3.5 mmol/L",
+            "D.3.5-5.0 nmol/L",
+            "E.5.0-6.5 mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 15
+    },
+    {
+        "question_text": "16.抗利尿激素（ADH）的作用部位是",
+        "options": [
+            "A.近曲小管和远曲小管",
+            "B.髓袢降支和远曲小管",
+            "C.髓袢升支和远曲小管",
+            "D.近曲小管和集合管",
+            "E.远曲小管和集合管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 16
+    },
+    {
+        "question_text": "17.正常机体水、电解质的动态平衡主要是通过什么作用来调节",
+        "options": [
+            "A.神经系统",
+            "B.内分泌系统",
+            "C.神经-内分泌系统",
+            "D.肾、肺",
+            "E.胃肠道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 17
+    },
+    {
+        "question_text": "18.促使醛固酮分泌增多的最重要因素是",
+        "options": [
+            "A.血浆渗透压↓",
+            "B.血清[Na+]↑",
+            "C.血清[K+]↓",
+            "D.血容量↓",
+            "E.渗透压感受器敏感性↑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 18
+    },
+    {
+        "question_text": "19.细胞外液透压增高时首先会引起哪一项变化",
+        "options": [
+            "A.ADH↑",
+            "B.醛固酮↑",
+            "C.心钠素↑",
+            "D.细胞内外钠交换↑",
+            "E.血管内外钠交换↑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 19
+    },
+    {
+        "question_text": "20.人体的体液包括",
+        "options": [
+            "A.细胞外液、细胞内液、透细胞液",
+            "B.血管内液和细胞内液",
+            "C.组织间液和血浆",
+            "D.结合水和游离水",
+            "E.细胞外液和细胞内液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 20
+    },
+    {
+        "question_text": "21.细胞外液包括",
+        "options": [
+            "A.血管内液和血管外液",
+            "B.组织间液和淋巴液",
+            "C.淋巴管内液和血管内液",
+            "D.血浆、组织间液和跨细胞液",
+            "E.血浆、淋巴液和第三间隙液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 21
+    },
+    {
+        "question_text": "22.下述有关体液描述哪项是正确的",
+        "options": [
+            "A.不同年龄体液占体重都是 60%",
+            "B.年龄越小，体液越少",
+            "C.因年龄、性别、胖瘦而异",
+            "D.和进水量关系十分密切",
+            "E.体瘦者体液含量少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 22
+    },
+    {
+        "question_text": "23.低钠血症是指血清钠低于",
+        "options": [
+            "A.120mmol/L",
+            "B.125mmol/L",
+            "C.130mmol/L",
+            "D.140mmol/L",
+            "E.150mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 23
+    },
+    {
+        "question_text": "24.低容量性低钠血症也可称为",
+        "options": [
+            "A.原发性脱水",
+            "B.高渗性脱水",
+            "C.等渗性脱水",
+            "D.低渗性脱水",
+            "E.慢性脱水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 24
+    },
+    {
+        "question_text": "25.大量体液丢失后滴注葡萄糖液会导致",
+        "options": [
+            "A.高渗性脱水",
+            "B.低渗性脱水",
+            "C.等渗性脱水",
+            "D.慢性水中毒",
+            "E.血清钾升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 25
+    },
+    {
+        "question_text": "26.低渗性脱水时血浆渗透压低于",
+        "options": [
+            "A.320mmol/L",
+            "B.310mmol/L",
+            "C.300mmol/L",
+            "D.290mmol/L",
+            "E.280mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 26
+    },
+    {
+        "question_text": "27.低渗性脱水患者体液丢失的特点是",
+        "options": [
+            "A.细胞内液无丢失，仅丢失细胞外液",
+            "B.细胞内液无丢失，仅丢失血浆",
+            "C.细胞内液无丢失，仅丢失组织间液",
+            "D.细胞外液无丢失，仅丢失细胞内液",
+            "E.细胞内液和外液均明显丢失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 27
+    },
+    {
+        "question_text": "28.哪一类水、电解质失衡最容易发生休克",
+        "options": [
+            "A.低渗性脱水",
+            "B.高渗性脱水",
+            "C.等渗性脱水",
+            "D.水中毒",
+            "E.低钾血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 28
+    },
+    {
+        "question_text": "29.短期内大量丢失小肠液首先常出现",
+        "options": [
+            "A.高渗性脱水",
+            "B.低渗性脱水",
+            "C.等渗性脱水",
+            "D.低钠血症",
+            "E.高钾血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 29
+    },
+    {
+        "question_text": "30.低容量性低钠血症（低渗性脱水）对机体最主 要的影响是易发生",
+        "options": [
+            "A.酸中毒",
+            "B.氮质血症",
+            "C.\t周围循环衰竭",
+            "D.\t脑出血",
+            "E.\t神经系统功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t下述哪一情况可引起低渗性脱水",
+        "options": [
+            "A.\t大量胃肠液丢失",
+            "B.\t经皮肤大量失液",
+            "C.\t髓祥升支功能受损",
+            "D.\t长期使用速尿、利尿酸",
+            "E.\t大量体液丢失后只补水"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t下述情况不会引起低钠血症",
+        "options": [
+            "A.\t急性肾衰竭",
+            "B.\t原发性醛固酮增多症",
+            "C.\tADH分泌异常增多症",
+            "D.\t支气管肺癌",
+            "E.\t结核病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t高钠血症是指血清钠浓度大于",
+        "options": [
+            "A.\t120mmol/L",
+            "B.\t130mmol/L",
+            "C.\t140mmol/L",
+            "D.\t150mmol/L",
+            "E.\t160mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t低容量性高钠血症又称",
+        "options": [
+            "A.\t原发性高钠血症",
+            "B.\t高渗性脱水",
+            "C.\t原发性醛固酮增多症",
+            "D.\tCush I ng综合征",
+            "E.\tAdd I son 病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 34
+    },
+    {
+        "question_text": "35. 高渗性脱水时体内出现细胞内液细胞外液",
+        "options": [
+            "A. ↓↑↑",
+            "B. ↓↓↓",
+            "C. ↓正常",
+            "D. ↑↑↓↓",
+            "E. 正常↓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t尿崩症患者易出现",
+        "options": [
+            "A.\t高渗性脱水",
+            "B.\t低渗性脱水",
+            "C.\t等渗性脱水",
+            "D.\t水中毒",
+            "E.\t低钠血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t代谢性酸中毒时过度通气可产生",
+        "options": [
+            "A.\t水肿",
+            "B.\t水中毒",
+            "C.\t低渗性脱水",
+            "D.\t等渗性脱水",
+            "E.\t高渗性脱水"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 37
+    },
+    {
+        "question_text": "38. 低渗性脱水时体内出现",
+        "options": [
+            "A. 细胞内液↓,细胞外液↓↓",
+            "B. 细胞内液↓↓,细胞外液↓",
+            "C. 细胞内液↓↓,细胞外液↓↓",
+            "D. 细胞内液↑,细胞外液↓↓",
+            "E. 细胞内液↓↓,细胞外液↑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t高渗性脱水患者血清钠浓度是",
+        "options": [
+            "A.\t>150mmol/L",
+            "B.\t>160mmol/L",
+            "C.\t>170mmol/L",
+            "D.\t>180mmol/L",
+            "E.\t>190mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t哪一类水、电解质代谢紊乱可导致脑内出血",
+        "options": [
+            "A.\t等渗性脱水",
+            "B.\t高渗性脱水",
+            "C.\t低渗性脱水",
+            "D.\t低钠血症",
+            "E.\t低钾血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t高渗性脱水患者血浆渗透压是",
+        "options": [
+            "A.\t>250mmolL",
+            "B.\t>270mmol/L",
+            "C.\t>290mmol/L",
+            "D.\t>310mmol/L",
+            "E.\t>330mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t盛暑行军时只大量过多饮水可发生",
+        "options": [
+            "A.\t等渗性脱水",
+            "B.\t低渗性脱水",
+            "C.\t高渗性脱水",
+            "D.\t等渗性脱水",
+            "E.\t水中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t等渗性脱水时，体液变化的特点是",
+        "options": [
+            "A.\t细胞内液I,细胞外液I",
+            "B.\t细胞内液I,细胞外液f",
+            "C.\t细胞内液I,细胞外液变化不大",
+            "D.\t细胞内液f,细胞外液I",
+            "E.\t细胞内液变化不大，细胞外液I"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t等渗性脱水如末经处理可转变为",
+        "options": [
+            "A.\t低渗性脱水",
+            "B.\t高渗性脱水",
+            "C.\t低钠血症",
+            "D.\t低钾血症",
+            "E.\t水中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t下列哪一种情况的早期出现神经精神症状",
+        "options": [
+            "A.\t高渗性脱水",
+            "B.\t低渗性脱水",
+            "C.\t等渗性脱水",
+            "D.\t急性水中毒",
+            "E.\t慢性水中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 45
+    },
+    {
+        "question_text": "46. 下述有关高渗性、低渗性、等渗性三类脱水描 述哪一项是正确的",
+        "options": [
+            "A. 临床上最常见的是高渗性脱水",
+            "B. 分别由不同的原因引起，其病生变化相同",
+            "C. 均有明显口渴、尿少症状",
+            "D. 细胞内、外液量都会减少",
+            "E. 严重时都可因血容量明显减少而导致循环障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t水肿的概念是指",
+        "options": [
+            "A.\t组织间液或体腔中液体过多",
+            "B.\t体内体液含量过多",
+            "C.\t细胞内液含量过多",
+            "D.\t细胞外液含量过多",
+            "E.\t血管内液体过多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t下述哪一类水肿不属于全身性水肿",
+        "options": [
+            "A.\t心性水肿",
+            "B.\t炎性水肿",
+            "C.\t肾性水肿",
+            "D.\t肝性水肿",
+            "E.\t营养不良性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t下述哪一项不是引起血管内外液体交换平衡失 调的因素？",
+        "options": [
+            "A.\t毛细血管流体静压",
+            "B.\t微血管壁通透性",
+            "C.\t淋巴回流",
+            "D.\t血浆晶体渗透压",
+            "E.\t血浆胶体渗透压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t水肿时出现钠、水潴留的基本机制是",
+        "options": [
+            "A.\t微血管壁通透性升高",
+            "B.\t淋巴回流受阻",
+            "C.\t血浆胶体渗透压降低",
+            "D.\t肾小球-肾小管失平衡",
+            "E.\t毛细血管有效流体静压增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t驱使血管内液体向外滤出的力量即平均有效流 体静压是",
+        "options": [
+            "A.\t动脉端毛细血管平均血压与组织间液流体静压之 差",
+            "B.\t静脉端毛细血管平均血压与组织间液流体静压之 差",
+            "C.\t静脉端毛细血管平均血压与血浆胶体渗透压之差",
+            "D.\t毛细血管平均血压与组织间隙的流体静压之差",
+            "E.\t动脉端毛细血管平均血压与血浆胶体渗透压之差"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t促使液体回流至毛细血管内的有效胶体渗透压 是",
+        "options": [
+            "A.\t毛细血管血压减去组织液胶体渗透压",
+            "B.\t血浆胶体渗透压减去组织液胶体渗透压",
+            "C.\t毛细血管血压减去组织液流体静压",
+            "D.\t血浆胶体渗透压减去组织液流体静压",
+            "E.\t毛细血管血压减去血浆胶体渗透压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t血浆胶体渗透压的大小主要取决于哪一血浆蛋 白的含量",
+        "options": [
+            "A.\t糖蛋白",
+            "B.\t脂蛋白",
+            "C.\t纤维蛋白",
+            "D.\t清蛋白",
+            "E.\t球蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t全身体循环静脉压增高最主要的原因是",
+        "options": [
+            "A.\t静脉血栓形成",
+            "B.\t左心衰竭",
+            "C.\t右心衰竭",
+            "D.\t纵隔肿瘤",
+            "E.\t淋巴回流受阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t炎性水肿产生的主要机制是",
+        "options": [
+            "A.\t局部血管内血浆胶体渗透压降低",
+            "B.\t组织间液胶体渗透压升高",
+            "C.\t微血管壁通透性增高",
+            "D.\t组织间液流体静压增高",
+            "E.\t淋巴回流障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t使肾近曲小管重吸收钠水增多的因素是",
+        "options": [
+            "A.\t小管周围毛细血管内胶体渗透压增高",
+            "B.\t小管周围毛细血管流体静压增高",
+            "C.\tADH分泌增多",
+            "D.\t醛固酮分泌增多",
+            "E.\t心房肽分泌增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t下列哪一因素使肾近曲小管钠水重吸收增多",
+        "options": [
+            "A.\t肾素分泌增多",
+            "B.\t肾上腺素减少",
+            "C.\t抗利尿激素分泌增多",
+            "D.\t心房肽分泌减少",
+            "E.\t醛固酮分泌增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t肾小球滤过分数的含义是指",
+        "options": [
+            "A.\t肾小球滤过率与肾小管重吸收率之比值",
+            "B.\t肾小球滤过率与肾血流量之比值",
+            "C.\t肾小球滤过率与肾血浆流量之比值",
+            "D.\t肾小球滤过钠量与肾小管重吸收钠量之比值",
+            "E.\t肾血流量与肾小球滤过率之比例"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t下列哪一种激素病理性分泌增多可导致钠在体 内潴留",
+        "options": [
+            "A.\t甲状旁腺素",
+            "B.\t甲状腺素",
+            "C.\t醛固酮",
+            "D.\t抗利尿激素",
+            "E.\t肾上腺素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t全身或躯体局部水肿的重要体征是",
+        "options": [
+            "A.\t腹壁水肿",
+            "B.\t皮肤肿胀",
+            "C.\t足踝部水肿",
+            "D.\t皮下水肿",
+            "E.\t眼睑浮肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t心性水肿最先出现的部位是",
+        "options": [
+            "A.\t四肢",
+            "B.\t面部",
+            "C.\t眼睑",
+            "D.\t下垂部位",
+            "E.\t腹腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t肾性水肿首先出现的部位是",
+        "options": [
+            "A.\t上肢",
+            "B.\t下肢",
+            "C.\t腹腔",
+            "D.\t眼睑",
+            "E.\t下垂部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 62
+    },
+    {
+        "question_text": "63.\t肝性水肿最先出现的部位是",
+        "options": [
+            "A.\t上肢",
+            "B.\t下肢",
+            "C.\t下垂部",
+            "D.\t面部",
+            "E.\t腹腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t急性肾小球肾炎引起全身性水肿的主要环节是",
+        "options": [
+            "A.\t肾小球滤过率降低",
+            "B.\t滤过膜通透性增加",
+            "C.\t醛固酮增多",
+            "D.\t全身毛细血管通透性增加",
+            "E.\t肾小管重吸收增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 64
+    },
+    {
+        "question_text": "65.\t有关水肿液的描述哪一项是错误的？",
+        "options": [
+            "A.\t所有水肿液均含有血浆的全部成分",
+            "B.\t根据蛋白含量不同分为漏出液和渗出液",
+            "C.\t漏出液蛋白质的含量低于2.5g%",
+            "D.\t渗出液蛋白质的含量可达3g%-5g%",
+            "E.\t渗出液多见于炎性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 65
+    },
+    {
+        "question_text": "66.\t淋巴性水肿液蛋白含量较高的主要原因是",
+        "options": [
+            "A.\t局部毛细淋巴管通透性高",
+            "B.\t局部毛细血管通透性高",
+            "C.\t局部微静脉通透性高",
+            "D.\t局部组织蛋白分解多",
+            "E.\t水和晶体物质透过血管壁回收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 66
+    },
+    {
+        "question_text": "67,\t机体对钾平衡的调节主要依靠",
+        "options": [
+            "A.\t肠的调节和钾的跨细胞转移",
+            "B.\t肾的调节和钾的跨细胞转移",
+            "C.\t肾的调节和肠的调节",
+            "D.\t肾的调节和皮肤的调节",
+            "E.\t皮肤的调节和钾的跨细胞转移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 67
+    },
+    {
+        "question_text": "68,\t下述有关钾平衡的描述哪一项是正确的",
+        "options": [
+            "A.\t体内的钾主要从食盐中摄入",
+            "B.\t肠道不易吸收故肠道中钾浓度高",
+            "C.\t细胞外钾浓度明显高于细胞内钾浓度",
+            "D.\t多吃多排，少吃少排，不吃不排",
+            "E.\t主要靠远曲管集合管对钾的分泌和重吸收来调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 68
+    },
+    {
+        "question_text": "69,\t调节钾跨细胞转移的基本机制是",
+        "options": [
+            "A.\t各种钾的通道",
+            "B.\t细胞膜—上钠-钾泵",
+            "C.\t泵-漏机制",
+            "D.\t钾离子电压门控通道",
+            "E.\t钾离子化学门控通道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 69
+    },
+    {
+        "question_text": "70,\t影响钾的跨细胞转移的主要激素是",
+        "options": [
+            "A.\t胰岛素",
+            "B.\t肾素",
+            "C.\t生长素",
+            "D.\t甲状腺素",
+            "E.\t甲状旁腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 70
+    },
+    {
+        "question_text": "71.\t有关肾远曲小管和集合管调节钾平衡的描述哪 项是错误的",
+        "options": [
+            "A.\t向小管液中分泌排出钾",
+            "B.\t重吸收小管液中的钾",
+            "C.\t钾的分泌主要由该段肾小管上皮的主细胞完成",
+            "D.\t主细胞基底膜面有Na+-K+泵",
+            "E.\t主细胞管腔面胞膜对K+有低度通透性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 71
+    },
+    {
+        "question_text": "72.\t促使肾排钾增多的因素是",
+        "options": [
+            "A.\t醛固酮分泌减少",
+            "B.\t细胞外液钾浓度降低",
+            "C.\t远曲小管的原尿流速减慢",
+            "D.\t急性酸中毒",
+            "E.\t慢性酸中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 72
+    },
+    {
+        "question_text": "73.\t下述有关钾的生理功能的描述哪一项是错误 的？",
+        "options": [
+            "A.\t钾与糖原和蛋白质的合成关系密切",
+            "B.\t钾参与调节细胞内外的渗透压平衡",
+            "C.\t钾参与细胞内外酸碱平衡的调节",
+            "D.\t钾对神经-肌肉组织兴奋性维持是不可缺少的",
+            "E.\t细胞外液钾含量少且浓度变动影响不大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 73
+    },
+    {
+        "question_text": "74.\t低钾血症是指血清钾浓度低于",
+        "options": [
+            "A.\t1.5mmol/L",
+            "B.\t2.5mmol/L",
+            "C.\t3.5mmol/L",
+            "D.\t4.5mmol/L",
+            "E.\t5.5mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 74
+    },
+    {
+        "question_text": "75.\t小儿失钾的最重要原因是",
+        "options": [
+            "A.\t严重腹泻呕吐",
+            "B.\t利尿药用量过多",
+            "C.\t肾上腺皮质激素过多",
+            "D.\t某些肾脏疾病",
+            "E.\t经皮肤失钾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 75
+    },
+    {
+        "question_text": "76.\t成人失钾最重要的途径是",
+        "options": [
+            "A.\t经胃失钾",
+            "B.\t经小肠失钾",
+            "C.\t经结肠失钾",
+            "D.\t经肾失钾",
+            "E.\t经皮肤失钾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 76
+    },
+    {
+        "question_text": "77.\t过量胰岛素产生低钾血症的机制是",
+        "options": [
+            "A.\t大量出汗导致钾丧失",
+            "B.\t酮固酮分泌过多",
+            "C.\t肾小管重吸收钾障碍",
+            "D.\t结肠分泌钾加强",
+            "E.\t细胞外钾向细胞内转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 77
+    },
+    {
+        "question_text": "78.\t“软病\"的病因与下述哪一项物质摄入有关",
+        "options": [
+            "A.\t粗制糠油",
+            "B.\t粗制棉油",
+            "C.\t粗制菜油",
+            "D.\t有机磷农药",
+            "E.\t重金属盐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 78
+    },
+    {
+        "question_text": "79.\t钡中毒引起低钾血症的机制是",
+        "options": [
+            "A.\t小肠对钾的吸收减少",
+            "B.\t剧烈呕吐失钾",
+            "C.\t结肠分泌钾的作用加强",
+            "D.\t钾从细胞内流出的通道被阻断",
+            "E.\t细胞外钾大量向细胞内转移"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 79
+    },
+    {
+        "question_text": "80.\t急性低钾血症对神经-肌肉组织电生理的影响是",
+        "options": [
+            "A.\t静息电位f,阈值不变，静息电位与阈电位间差 值f",
+            "B.\t静息电位I,阈值不变，静息电位与阈电位间差 值I",
+            "C.\t静息电位不变，阈值f,静息电位与阈电位间差",
+            "D.\t静息电位不变，阈值I,静息电位与阈电位间差 值I",
+            "E.\t静息电位f,阈值f,静息电位与阈电位间差值"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 80
+    },
+    {
+        "question_text": "81.\t某患者消化道手术后禁食3天，仅静脉输入大 量5%葡萄糖液，此患者最容易发生的电解质紊乱 是",
+        "options": [
+            "A.\t低钠血症",
+            "B.\t低钙血症",
+            "C.\t低镁血症",
+            "D.\t低磷血症",
+            "E.\t低钾血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 81
+    },
+    {
+        "question_text": "82.\t低钾血症患者可出现",
+        "options": [
+            "A.\t反常性酸性尿",
+            "B.\t反常性碱性尿",
+            "C.\t中性尿",
+            "D.\t正常性酸性尿",
+            "E.\t正常性碱性尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 82
+    },
+    {
+        "question_text": "83.\t急性低钾血症时心肌电生理特点是",
+        "options": [
+            "A.\t静息电位与阈电位差值f,兴奋性f",
+            "B.\t静息电位与阈电位差值I,兴奋性f",
+            "C.\t静息电位与阈电位差值I,兴奋性I",
+            "D.\t静息电位与阈电位差值f,兴奋性I",
+            "E.\t静息电位与阈电位差值不变，兴奋性f"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 83
+    },
+    {
+        "question_text": "84.\t低钾血症时心电图的特点是",
+        "options": [
+            "A.\tT波低平，U波有，QRS波增宽",
+            "B.\tT波低平，U波无，QRS波增宽",
+            "C.\tT波低平，U波有，QRS波变窄",
+            "D.\tT波高尖，U波有，QRS波增宽",
+            "E.\tT波高尖，U波有，QRS波变窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 84
+    },
+    {
+        "question_text": "85.\t急性低钾血症对心肌生理特征的影响是",
+        "options": [
+            "A.\t兴奋性f,传导性f,自律性I,收缩性I",
+            "B.\t兴奋性f,传导性f,自律性f,收缩性f",
+            "C.\t兴奋性f,传导性f,自律性I,收缩性f",
+            "D.\t兴奋性f,传导性I,自律性f,收缩性f",
+            "E.\t兴奋性I,传导性f,自律性f,收缩性f"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 85
+    },
+    {
+        "question_text": "86.\t缺钾对肾的影响有",
+        "options": [
+            "A.\t尿浓缩功能不变，肾血流量不变，肾小球滤过率",
+            "B.\t尿浓缩功能不变，肾血流量I,肾小球滤过率I",
+            "C.\t尿浓缩功能I,肾血流量I,肾小球滤过率I",
+            "D.\t尿浓缩功能I,肾血流量不变，肾小球滤过率不 变",
+            "E.\t尿浓缩功能I,肾血流量不变，肾小球滤过率不 变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 86
+    },
+    {
+        "question_text": "87.\t严重低钾血症患者导致死亡的主要原因是",
+        "options": [
+            "A.\t肾（功能）衰竭",
+            "B.\t心肌收缩性减弱",
+            "C.\t呼吸肌麻痹",
+            "D.\t肠麻痹",
+            "E.\t心肌自律性增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 87
+    },
+    {
+        "question_text": "88.\t低钾血症可出现呼吸衰竭的原因是",
+        "options": [
+            "A.\t中枢神经功能障碍",
+            "B.\t左心衰竭导致肺水肿",
+            "C.\t引起VA/Q失调",
+            "D.\t引起阻塞性通气不足",
+            "E.\t引起限制性通气不足"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 88
+    },
+    {
+        "question_text": "89.\t低钾血症促成横级肌溶解主要原因是",
+        "options": [
+            "A.\t运动时肌肉缺血",
+            "B.\t代谢障碍",
+            "C.\t尿毒症",
+            "D.\t碱中毒",
+            "E.\t肌肉麻痹少活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 89
+    },
+    {
+        "question_text": "90.\t缺钾对肾功能损害主要表现为",
+        "options": [
+            "A.\t蛋白尿、管型尿",
+            "B.\t肾小球滤过率减少",
+            "C.\t髓祥升支粗段重吸收NaCl障碍",
+            "D.\t集合管对ADH的反应增高",
+            "E.\t尿浓缩功能障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 90
+    },
+    {
+        "question_text": "91.\t低钾血症时补钾时应遵守",
+        "options": [
+            "A.\t一般口服，严重病人必要时可静脉推注",
+            "B.\t血清钾＜4mmol/L时应静脉补钾",
+            "C.\t如血清钾恢复慢，应加大剂量加快滴注速度",
+            "D.\t每日尿量〉500ml以上时才允许静脉滴注补钾",
+            "E.\t补钾3天应停止以免发生高钾血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 91
+    },
+    {
+        "question_text": "92.\t低钾血症时对酸碱平衡的影响是",
+        "options": [
+            "A.\t细胞内碱中毒，细胞外酸中毒",
+            "B.\t细胞内碱中毒，细胞外正常",
+            "C.\t细胞内酸中毒，细胞外碱中毒",
+            "D.\t细胞内外均碱中毒",
+            "E.\t细胞内外均酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 92
+    },
+    {
+        "question_text": "93.\t高钾血症是血清钾大于",
+        "options": [
+            "A.\t4.5mmol/L",
+            "B.\t5.5mmol/L",
+            "C.\t6.5mmol/L",
+            "D.\t7.5mmol/L",
+            "E.8.5mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 93
+    },
+    {
+        "question_text": "94.引起高钾血症的最主要原因是",
+        "options": [
+            "A.急性酸中毒引起细胞内 K+释放至细胞外液",
+            "B.血管内溶血使 K+从细胞内释放至血浆",
+            "C.缺氧时细胞 K+释放至细胞外液",
+            "D.肾脏排钾减少",
+            "E.大量使用保钾性利尿剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 94
+    },
+    {
+        "question_text": "95.输入大量库存过久的血液导致",
+        "options": [
+            "A.高钠血症",
+            "B.低钠血症",
+            "C.低钾血症",
+            "D.高钾血症",
+            "E.低镁血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 95
+    },
+    {
+        "question_text": "96.高钾血症对心肌生理特征的影响是",
+        "options": [
+            "A.兴奋性↑-↓，传导性↓，自律性↓，收缩性↓",
+            "B.兴奋性↓，传导性↑，自律性↑，收缩性↑",
+            "C.兴奋性↓，传导性↓，自律性↑，收缩性↑",
+            "D.兴奋性↓，传导性↓，自律性↓，收缩性↑",
+            "E.兴奋性↓-↑，传导性↓，自律性↓，收缩性↓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 96
+    },
+    {
+        "question_text": "97.高钾血症时心电图的特点是",
+        "options": [
+            "A.T 波高尖，QRS 波群增宽",
+            "B.T 波低平，Q-T 间期缩短",
+            "C.T 波低平，Q-T 间期延长",
+            "D.T 波低平，Q-T 间期延长",
+            "E.T 波低平，出现 U 波"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 97
+    },
+    {
+        "question_text": "98.高钾血症时骨骼肌的电生理特点是",
+        "options": [
+            "A.静息电位↓，阈电值不变，静息电位与阈电位的差值↓",
+            "B.静息电位↓，阈电值↓，静息电位与阈电位的差值↓",
+            "C.静息电位↑，阈电值不变，静息电位与阈电位的差值↑",
+            "D.静息电位不变，阈电值↑，静息电位与阈电位的差值↑",
+            "E.静息电位不变，阈电值↓，静息电位与阈电位的差值↓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 98
+    },
+    {
+        "question_text": "99.导致细胞内钾释放到细胞外液的因素是",
+        "options": [
+            "A.严重缺氧",
+            "B.溶血",
+            "C.急性酸中毒",
+            "D.严重挤压伤",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 99
+    },
+    {
+        "question_text": "100.高钾血症时，可使酸碱平衡状况出现",
+        "options": [
+            "A.细胞内外均酸中毒",
+            "B.细胞内外均碱中毒",
+            "C.细胞内酸中毒，细胞外正常",
+            "D.细胞内碱中毒，细胞外酸中毒",
+            "E.细胞内酸中毒，细胞外碱中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 100
+    },
+    {
+        "question_text": "101.高钾血症对机体的最大危害是",
+        "options": [
+            "A.低血糖",
+            "B.心肌收缩性降低",
+            "C.骨骼肌麻痹",
+            "D.酸中毒",
+            "E.心室纤颤和停跳"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 101
+    },
+    {
+        "question_text": "1O2.下述有关高钾血症的治疗原则，哪项是错误的",
+        "options": [
+            "A.治疗原发病",
+            "B.促进钾从肠道排出",
+            "C.降低血清钠浓度",
+            "D.注射葡萄糖和胰岛素",
+            "E.注射钙剂和钠盐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 102
+    },
+    {
+        "question_text": "103.采用钙剂治疗高钾血症的机制是",
+        "options": [
+            "A.增快心肌的传导性",
+            "B.促进钾在肠道排出",
+            "C.改变血液 pH 使钾降低",
+            "D.使血钾向细胞内转移",
+            "E.提高心肌阈电位和加速 Ca2+内流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 103
+    },
+    {
+        "question_text": "104.大面积烧伤病人最先发生的是",
+        "options": [
+            "A.水肿",
+            "B.水中毒",
+            "C.低渗性脱水",
+            "D.等渗性脱水",
+            "E.高渗性脱水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 104
+    }
+]

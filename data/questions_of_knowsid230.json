@@ -1,0 +1,212 @@
+[
+    {
+        "question_text": "1.阴道分泌物检查，白带外观呈豆腐渣样，提示为:",
+        "options": [
+            "A.老年性阴道炎",
+            "B.滴虫性阴道炎",
+            "C.念珠菌性阴道炎",
+            "D.宫颈息肉",
+            "E.子宫内膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 1
+    },
+    {
+        "question_text": "2.患者阴道分泌物涂片，镜下阴道杆菌（++），上皮细胞（++），白细胞5~15/HP，其清洁度分级为:",
+        "options": [
+            "A.I度",
+            "B.Ⅱ度",
+            "C.Ⅲ度",
+            "D.Ⅳ度",
+            "E.V度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 2
+    },
+    {
+        "question_text": "3.诊断加德纳菌性阴道病具有重要作用的细胞是:",
+        "options": [
+            "A.泡沫细胞",
+            "B.线索细胞",
+            "C.脂肪细胞",
+            "D.汗腺细胞",
+            "E.巨噬细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 3
+    },
+    {
+        "question_text": "4.异常的阴道环境为:",
+        "options": [
+            "A.阴道内以厌氧性乳酸杆菌菌种为主",
+            "B.细菌数量为10×106/g分泌物",
+            "C.乳酸杆菌为常见菌群",
+            "D.乳酸杆菌通过酵解糖原，使阴道保持低PH值",
+            "E.乳酸杆菌产生过氧化氢，抑制厌氧菌生长"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 4
+    },
+    {
+        "question_text": "5.阴道分泌物I度清洁判断标准是指有:",
+        "options": [
+            "A.大量阴道杆菌和大量上皮细胞",
+            "B.部分阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "C.少量阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "D.无阴道杆菌仅有大量脓细胞和杂菌",
+            "E.仅有阴道杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 5
+    },
+    {
+        "question_text": "6.阴道分泌物Ⅱ度清洁判断标准是指有:",
+        "options": [
+            "A.大量阴道杆菌和大量上皮细胞",
+            "B.部分阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "C.少量阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "D.无阴道杆菌仅有大量脓细胞和杂菌",
+            "E.仅有阴道杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 6
+    },
+    {
+        "question_text": "7.阴道分泌物III度清洁判断标准是指有:",
+        "options": [
+            "A.大量阴道杆菌和大量上皮细胞",
+            "B.部分阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "C.少量阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "D.无阴道杆菌仅有大量脓细胞和杂菌",
+            "E.仅有阴道杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 7
+    },
+    {
+        "question_text": "8.阴道分泌物Ⅳ度清洁判断标准是指有:",
+        "options": [
+            "A.大量阴道杆菌和大量上皮细胞",
+            "B.部分阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "C.少量阴道杆菌和上皮细胞+大量脓细胞和杂菌",
+            "D.无阴道杆菌仅有大量脓细胞和杂菌",
+            "E.仅有阴道杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 8
+    },
+    {
+        "question_text": "9.阴道寄生虫感染最常见的是:",
+        "options": [
+            "A.溶组织阿米巴感染",
+            "B.丝虫感染",
+            "C.滴虫感染",
+            "D.蛔虫感染",
+            "E.钩虫感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 9
+    },
+    {
+        "question_text": "10.非特异性阴道炎由何种微生物引起:",
+        "options": [
+            "A.沙眼衣原体",
+            "B.奈瑟氏淋球菌",
+            "C.嗜血杜克雷氏菌",
+            "D.梅毒螺旋体",
+            "E.大肠杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 10
+    },
+    {
+        "question_text": "11.女性在排卵期时可有:",
+        "options": [
+            "A.黄色水样阴道分泌物",
+            "B.鸡蛋清样阴道分泌物",
+            "C.大量黏稠透明样阴道分泌物",
+            "D.豆腐渣样阴道分泌物",
+            "E.泡沫样阴道分泌物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 11
+    },
+    {
+        "question_text": "12.念珠菌性阴道炎时可出现:",
+        "options": [
+            "A.黄色水样阴道分泌物",
+            "B.鸡蛋清样阴道分泌物",
+            "C.大量黏稠透明样阴道分泌物",
+            "D.豆腐渣样阴道分泌物",
+            "E.泡沫样阴道分泌物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 12
+    },
+    {
+        "question_text": "13.滴虫性阴道炎时可出现:",
+        "options": [
+            "A.黄色水样阴道分泌物",
+            "B.鸡蛋清样阴道分泌物",
+            "C.大量黏稠透明样阴道分泌物",
+            "D.豆腐渣样阴道分泌物",
+            "E.泡沫样阴道分泌物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 13
+    },
+    {
+        "question_text": "14.宫颈癌时可见",
+        "options": [
+            "A.黄色水样阴道分泌物",
+            "B.鸡蛋清样阴道分泌物",
+            "C.大量黏稠透明样阴道分泌物",
+            "D.豆腐渣样阴道分泌物",
+            "E.泡沫样阴道分泌物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 14
+    },
+    {
+        "question_text": "15.应用雌激素药物治疗后可有:",
+        "options": [
+            "A.黄色水样阴道分泌物",
+            "B.鸡蛋清样阴道分泌物",
+            "C.大量黏稠透明样阴道分泌物",
+            "D.豆腐渣样阴道分泌物",
+            "E.泡沫样阴道分泌物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 15
+    }
+]

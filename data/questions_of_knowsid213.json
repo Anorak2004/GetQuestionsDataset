@@ -1,0 +1,520 @@
+[
+    {
+        "question_text": "1.下列哪项指标提示有溶血病？",
+        "options": [
+            "A.血清总胆红素24μmo1/L",
+            "B.血红蛋白90g/L",
+            "C.红细胞计数3.0×1012/L",
+            "D.网织红细胞计数＞0.05",
+            "E.白细胞计数10×109/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列哪项与溶血性贫血不相符？",
+        "options": [
+            "A.红系增生明显，粒红比值可减低或倒置",
+            "B.中晚幼红细胞增生为主，其他阶段幼红细胞相应增多",
+            "C.可见大红细胞、嗜多色细胞及染色质小体",
+            "D.核分裂相易见",
+            "E.可见Auer小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 2
+    },
+    {
+        "question_text": "3.微血管病性溶血性贫血最主要的血液学改变特征是：",
+        "options": [
+            "A.贫血",
+            "B.贫血伴血小板减少",
+            "C.全血细胞减少",
+            "D.红细胞形态异常",
+            "E.网织红细胞增多或减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 3
+    },
+    {
+        "question_text": "4.不属于遗传性红细胞内在缺陷的是：",
+        "options": [
+            "A.微血管病性溶血",
+            "B.G-6-PD缺血",
+            "C.异常血红蛋白病",
+            "D.遗传性球形细胞增多症",
+            "E.海洋性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 4
+    },
+    {
+        "question_text": "5.G-6-PD的缺陷症时，血液学检查可见：",
+        "options": [
+            "A.Ham’s试验阳性",
+            "B.Coomb’s试验阳性",
+            "C.冷热溶血试验阳性",
+            "D.高铁血红蛋白还原试验阳性",
+            "E.变性珠蛋白小体生成试验阳性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 5
+    },
+    {
+        "question_text": "6.不稳定血红蛋白病时，血液学检查可见：",
+        "options": [
+            "A.Ham’s试验阳性",
+            "B.Coomb’s试验阳性",
+            "C.冷热溶血试验阳性",
+            "D.高铁血红蛋白还原试验阳性",
+            "E.变性珠蛋白小体生成试验阳性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 6
+    },
+    {
+        "question_text": "7.阵发性寒冷性血红蛋白尿时，血液学检查可见：",
+        "options": [
+            "A.Ham’s试验阳性",
+            "B.Coomb’s试验阳性",
+            "C.冷热溶血试验阳性",
+            "D.高铁血红蛋白还原试验阳性",
+            "E.变性珠蛋白小体生成试验阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 7
+    },
+    {
+        "question_text": "8.阵发性睡眠性血红蛋白尿时可见",
+        "options": [
+            "A.Ham’s试验阳性",
+            "B.Coomb’s试验阳性",
+            "C.冷热溶血试验阳性",
+            "D.高铁血红蛋白还原试验阳性",
+            "E.变性珠蛋白小体生成试验阳性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 8
+    },
+    {
+        "question_text": "9.自身免疫性溶血性贫血时可见",
+        "options": [
+            "A.Ham’s试验阳性",
+            "B.Coomb’s试验阳性",
+            "C.冷热溶血试验阳性",
+            "D.高铁血红蛋白还原试验阳性",
+            "E.变性珠蛋白小体生成试验阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 9
+    },
+    {
+        "question_text": "10.α-海洋性贫血时，血液学检查应选择：",
+        "options": [
+            "A.异丙醇沉淀试验",
+            "B.HbH包涵体生成试验",
+            "C.HbA2定量检测",
+            "D.血红蛋白电泳",
+            "E.红细胞渗透性试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 10
+    },
+    {
+        "question_text": "11.不稳定血红蛋白病时，血液学检查应选择：",
+        "options": [
+            "A.异丙醇沉淀试验",
+            "B.HbH包涵体生成试验",
+            "C.HbA2定量检测",
+            "D.血红蛋白电泳",
+            "E.红细胞渗透性试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 11
+    },
+    {
+        "question_text": "12.β-海洋性贫血时，血液学检查应选择：",
+        "options": [
+            "A.异丙醇沉淀试验",
+            "B.HbH包涵体生成试验",
+            "C.HbA2定量检测",
+            "D.血红蛋白电泳",
+            "E.红细胞渗透性试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 12
+    },
+    {
+        "question_text": "13.冷凝集素试验是：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 13
+    },
+    {
+        "question_text": "14.红细胞寿命测定属于：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 14
+    },
+    {
+        "question_text": "15.自身溶血试验及纠正试验属于：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 15
+    },
+    {
+        "question_text": "16.蛇毒因子溶血试验是：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 16
+    },
+    {
+        "question_text": "17.血红蛋白电泳是：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 17
+    },
+    {
+        "question_text": "18.含铁血黄素尿试验属于：",
+        "options": [
+            "A.溶血性贫血的筛查试验",
+            "B.红细胞酶缺陷的检测",
+            "C.珠蛋白生成异常的检测",
+            "D.自身免疫性溶血性贫血的检测",
+            "E.阵发性睡眠性血红蛋白尿的检测"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 18
+    },
+    {
+        "question_text": "19.关于溶血，下列哪项不正确？",
+        "options": [
+            "A.红细胞生存期缩短",
+            "B.必然伴有贫血、黄疸",
+            "C.溶血可发生在血管内",
+            "D.溶血时网织红细胞增高",
+            "E.溶血的病因是多样的"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 19
+    },
+    {
+        "question_text": "20.溶血性贫血的先天性遗传性缺陷原因哪项是错误的？",
+        "options": [
+            "A.溶血性贫血患者体内有先天性溶血性抗体",
+            "B.溶血性贫血患者的红细胞膜缺陷",
+            "C.溶血性贫血患者的血红蛋白异常",
+            "D.溶血性贫血患者的红细胞内酶缺陷",
+            "E.溶血性贫血患者的红细胞膜后天缺陷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于溶血性贫血的论述哪个是错误的？",
+        "options": [
+            "A.溶血性贫血的病因是红细胞过多、过快地破坏",
+            "B.骨髓造血功能不足以代偿而发生的贫血",
+            "C.溶血性贫血的患者临床表现一定要有黄疸",
+            "D.溶血性贫血多属于先天性遗传性缺陷",
+            "E.溶血性贫血是正细胞正色素性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 21
+    },
+    {
+        "question_text": "22.溶血性贫血患者的血液检查哪项是对的？",
+        "options": [
+            "A.红细胞渗透脆性试验",
+            "B.抗人球蛋白试验",
+            "C.酸溶血试验",
+            "D.蔗糖水溶血试验",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 22
+    },
+    {
+        "question_text": "23.溶血性贫血的患者尿的实验室检查哪项是错误的？",
+        "options": [
+            "A.尿胆原测定",
+            "B.尿内含铁血黄素检查",
+            "C.尿胆原阳性和含铁血黄素阳性对临床诊断有价值",
+            "D.尿胆原阳性和含铁血黄素阴性对临床诊断有价值",
+            "E.尿血红蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 23
+    },
+    {
+        "question_text": "24.溶血性贫血的实验诊断有哪几个特点？",
+        "options": [
+            "A.红细胞计数低于正常参数值的下限",
+            "B.尿胆原排泄增加",
+            "C.网织红细胞增加",
+            "D.血中游离血红蛋白增高",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 24
+    },
+    {
+        "question_text": "25.确诊溶血性贫血最直接而确实的证据是：",
+        "options": [
+            "A.红细胞破碎",
+            "B.血浆游离血红蛋白增高",
+            "C.血清非结合胆红素增高",
+            "D.含铁血黄素尿",
+            "E.红细胞寿命测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 25
+    },
+    {
+        "question_text": "26.确诊溶血性贫血最直接而确实的证据是：",
+        "options": [
+            "A.红细胞形态的改变",
+            "B.红细胞寿命缩短",
+            "C.血游离Hb增高",
+            "D.网织红细胞计数",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于血管内溶血，下列哪项不正确？",
+        "options": [
+            "A.血浆游离血红蛋白增高",
+            "B.尿隐血试验（+）",
+            "C.尿含铁血黄素（+）",
+            "D.血清结合珠蛋白增高",
+            "E.血浆高铁血红素白蛋白增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 27
+    },
+    {
+        "question_text": "28.为确定红细胞破坏增加最直接而确实的检测方法为：",
+        "options": [
+            "A.红细胞形态观察",
+            "B.红细胞寿命测定",
+            "C.血清乳酸脱氢酶测定",
+            "D.骨髓增生",
+            "E.尿中尿胆原量测定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列各项除哪项外均可用于红细胞膜缺陷的检验？",
+        "options": [
+            "A.渗透脆性试验",
+            "B.酸溶血试验",
+            "C.冷溶血试验",
+            "D.Coomb’s试验",
+            "E.蔗糖溶血试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 29
+    },
+    {
+        "question_text": "30.红细胞渗透脆性增高主要见于下列哪种疾病？",
+        "options": [
+            "A.地中海贫血",
+            "B.遗传性球形细胞增多症",
+            "C.镰细胞性贫血",
+            "D.阻塞性黄疸",
+            "E.自身免疫性溶血性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 30
+    },
+    {
+        "question_text": "31.红细胞脆性增加见于：",
+        "options": [
+            "A.地中海贫血",
+            "B.遗传性球形红细胞增多症",
+            "C.巨幼细胞性贫血",
+            "D.再生障碍性贫血",
+            "E.缺铁性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 31
+    },
+    {
+        "question_text": "32.抗人球蛋白试验对以下哪种疾病最有诊断价值？",
+        "options": [
+            "A.自身免疫溶血性贫血",
+            "B.再生障碍性贫血",
+            "C.巨幼细胞性贫血",
+            "D.缺铁性贫血",
+            "E.失血性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 32
+    },
+    {
+        "question_text": "33.在自身免疫性溶血性贫血中，下列试验示阳性结果的是：",
+        "options": [
+            "A.酸溶血试验（Ham’s试验）",
+            "B.尿含铁血黄素检查（Rous试验）",
+            "C.抗人球蛋白试验（Coomb’s试验）",
+            "D.蔗糖水溶血试验",
+            "E.异常血红蛋白检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 33
+    },
+    {
+        "question_text": "34.患者乏力，黄疸，脾大，末梢血网红细胞为10％，间接胆红素升高，以下哪项试验对自身免疫性溶血性贫血的诊断最重要？",
+        "options": [
+            "A.Ham’s试验",
+            "B.渗透脆性试验",
+            "C.Coomb’s试验",
+            "D.冷溶血试验",
+            "E.高铁血红蛋白还原试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列哪种疾病抗人球蛋白直接反应呈阳性？",
+        "options": [
+            "A.阵发性睡眠性血红蛋白尿症",
+            "B.自身免疫性溶血性贫血",
+            "C.珠蛋白生成障碍性贫血",
+            "D.遗传性球形细胞增多症",
+            "E.G-6-PD缺乏症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 35
+    },
+    {
+        "question_text": "36.阵发性睡眠性血红蛋白尿患者，下列哪项检查具有诊断意义？",
+        "options": [
+            "A.酸溶血试验",
+            "B.抗人球蛋白试验",
+            "C.红细胞渗透脆性试验",
+            "D.尿含铁血黄素检查",
+            "E.异常血红蛋白检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列哪种试验阳性结果可做为阵发性睡眠性血红蛋白尿的诊断依据？",
+        "options": [
+            "A.Coomb’s试验",
+            "B.蔗糖水溶血试验",
+            "C.Ham’s试验",
+            "D.红细胞渗透脆性试验",
+            "E.冷溶血试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 37
+    }
+]

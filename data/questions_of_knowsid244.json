@@ -1,0 +1,590 @@
+[
+    {
+        "question_text": "1.\t休克的发生主要由于",
+        "options": [
+            "A.\t中枢神经系统在剧烈震荡与打击下由兴奋转入超 限抑制",
+            "B.\t血管运动中枢麻痹，小动脉扩张，血压下降",
+            "C.\t交感-肾上腺髓质系统衰竭与麻痹",
+            "D.\t血量减少，回心血量不足，心输出量减少",
+            "E.\t重要生命器官低灌流和细胞功能代谢严重障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t过敏性休克属",
+        "options": [
+            "A.\tI型变态反应",
+            "B.\tII型变态反应",
+            "C. m型变态反应",
+            "D.\tIV型变态反应",
+            "E.\t混合型变态反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t以下哪种情况不引起心源性休克",
+        "options": [
+            "A.\t大面积心肌梗死",
+            "B.\t急性心肌炎",
+            "C.\t心脏压塞",
+            "D.\t严重心律紊乱",
+            "E.\t充血性心力衰竭"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t成年人急性失血，至少一次失血量超过总血量多 少才能引起休克？",
+        "options": [
+            "A.\t15%",
+            "B.\t20%",
+            "C.\t30%",
+            "D.\t40%",
+            "E.\t50%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t失血性休克血压下降早期主要与",
+        "options": [
+            "A.\t交感神经-肾上腺髓质系统衰竭有关",
+            "B.\t低血容量引起回心血量不足、心输出量降低有关",
+            "C.\t血管紧张度下降、外周阻力降低有关",
+            "D.\t血液灌流不足、微循环血管大量扩张有关",
+            "E.\t细胞严重缺氧能量代谢障碍有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t微循环的营养通路是",
+        "options": [
+            "A.\t微动脉一后微动脉一直通毛细血管一微静脉",
+            "B.\t微动脉一后微动脉一真毛细血管一微静脉",
+            "C.\t微动脉一动静脉吻合支一微静脉",
+            "D.\t微动脉一后微动脉一直通毛细血管一真毛细血管 一微静脉",
+            "E.\t微动脉一动静脉吻合支一真毛细血管一微静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t正常微循环中经常开放的通路指",
+        "options": [
+            "A.\t直捷通路",
+            "B.\t迂回通路",
+            "C.\t营养通路",
+            "D.\t动-静脉短路",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t正常微循环中经常关闭的通路",
+        "options": [
+            "A.\t直捷通路",
+            "B.\t迂回通路",
+            "C.\t营养通路",
+            "D.\t动-静脉短路",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t正常真毛细血管血流的调节主要与",
+        "options": [
+            "A.\t交感神经的支配有关",
+            "B.\t毛细血管前括约肌自身节律性舒缩有关",
+            "C.\t局部体液因素有关",
+            "D.\t全身体液因素有关",
+            "E.\t毛细血管内皮细胞收缩有关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t休克缺血性缺氧期微循环开放的血管可有",
+        "options": [
+            "A.\t微动脉",
+            "B.\t后微动脉",
+            "C.\t毛细血管前括约肌",
+            "D.\t动静脉吻合支",
+            "E.\t微静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t休克时交感-肾上腺髓质系统处于",
+        "options": [
+            "A.\t强烈兴奋",
+            "B.\t先抑制后兴奋",
+            "C.\t先兴奋后抑制，最后衰竭",
+            "D.\t改变不明显",
+            "E.\t强烈抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t休克缺血性缺氧期引起微循环血管收缩最主要 的体液因素改变是",
+        "options": [
+            "A.\t血管紧张素II t",
+            "B.\t加压素t",
+            "C.\t儿茶酚胺t",
+            "D.\tMDF t",
+            "E.\tTXA2 t"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t休克缺血性缺氧期微循环灌流的特点",
+        "options": [
+            "A.\t多灌少流，灌多于流",
+            "B.\t少灌多流，灌少于流",
+            "C.\t多灌多流，灌多于流",
+            "D.\t少灌少流，灌少于流",
+            "E.\t少灌少流，灌多于流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t休克缺血性缺氧期，下列哪一项变化不存在？",
+        "options": [
+            "A.\t微动脉收缩",
+            "B.\t后微动脉收缩",
+            "C.\t毛细血管前括约肌收缩",
+            "D.\t微静脉收缩",
+            "E.\t动-静脉吻合支收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 14
+    },
+    {
+        "question_text": "15. 休克缺血性缺氧期的心脑灌流量",
+        "options": [
+            "A. 明显增加",
+            "B. 无明显改变",
+            "C. 先增加后减少",
+            "D. 明显减少",
+            "E. 先减少后增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t休克缺血性缺氧期血液稀释的机制主要是",
+        "options": [
+            "A.\t抢救休克时输液过多",
+            "B.\t肝脾储血库收缩",
+            "C.\t组织液返流入血",
+            "D.\t血液稀释疗法",
+            "E.\t血液重新分配"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t毛细血管前括约肌持续收缩可见于",
+        "options": [
+            "A.\t正常微循环灌流时",
+            "B.\t缺血性缺氧期",
+            "C.\t淤血性缺氧期",
+            "D.\t血液淤滞发生DIC",
+            "E.\t重要器官衰竭期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t休克缺血性缺氧期微循环的变化表现在",
+        "options": [
+            "A.\t毛细血管前阻力t ,毛细血管后阻力tt ,毛细血 管容量I",
+            "B.\t毛细血管前阻力tt ,毛细血管后阻力t ,毛细血 管容量I",
+            "C.\t毛细血管前阻力ff ,毛细血管后阻力f ,毛细血 管容量f",
+            "D.\t毛细血管前阻力I ,毛细血管后阻力f ,毛细血管 容量f",
+            "E.\t毛细血管前阻力f ,毛细血管后阻力ff ,毛细血 管容量f"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t微血管运动增强可见于",
+        "options": [
+            "A.\t正常运动情况",
+            "B.\t休克代偿期",
+            "C.\t休克可逆性失代偿期",
+            "D.\tDIC 期",
+            "E.\t脏器功能衰竭期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列临床表现哪一项不是早期休克的表现？",
+        "options": [
+            "A.\t脸色苍白",
+            "B.\t四肢冰凉",
+            "C.\t脉搏细速",
+            "D.\t尿量减少",
+            "E.\t神志昏迷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t休克淤血性缺氧期微循环灌流的特点是",
+        "options": [
+            "A.\t少灌少流，灌少于流",
+            "B.\t少灌多流，灌少于流",
+            "C.\t灌而少流，灌多于流",
+            "D.\t多灌多流，灌多于流",
+            "E.\t多灌多流，灌少于流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t在判断休克时器官灌流不足，下列哪一项是错 误的？",
+        "options": [
+            "A.\t脉压〈lOmmHg",
+            "B.\t尿量小于15ml/h",
+            "C.\t中心静脉压7-8cmH2O",
+            "D.\t皮肤苍白甚至发绀",
+            "E.\t收缩压〈50mmHg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t休克淤血性缺氧期微循环的变化表现在",
+        "options": [
+            "A.\t毛细血管前阻力ff,毛细血管后阻力f,毛细 血管容量I",
+            "B.\t毛细血管前阻力f,毛细血管后阻力ff,毛细 血管容量I",
+            "C.\t毛细血管前阻力f,毛细血管后阻力ff,毛细 血管容量f",
+            "D.\t毛细血管前阻力I,毛细血管后阻力f,毛细血 管容量f",
+            "E.\t毛细血管前阻力f,毛细血管后阻力I,毛细血 管容量f"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t休克时正确的补液原则是",
+        "options": [
+            "A.\t如血压正常不必补液",
+            "B.\t补充丧失的部分液体，“失多少，补多少”",
+            "C.\t补充丧失的部分液体和当天继续丧失的液体",
+            "D.\t“需多少，补多少”",
+            "E.\t补液“宁多勿少”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t休克时血细胞压积（HCT）变化的规律是",
+        "options": [
+            "A.\t先正常后降低",
+            "B.\t先正常后升高",
+            "C.\t先升高后降低",
+            "D.\t先降低后升高",
+            "E.\t先降低后正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t休克难治期并发DIC后对组织灌流的影响是",
+        "options": [
+            "A.\t少灌少流，灌少于流",
+            "B.\t少灌少流，灌多于流",
+            "C.\t多灌多流，灌少于流",
+            "D.\t多灌多流，灌少于流",
+            "E.\t不灌不流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t所谓“不可逆”性休克是指休克发展到",
+        "options": [
+            "A.\tDIC 期",
+            "B.\t淤血性缺氧期",
+            "C.\t器官功能衰竭期",
+            "D.\t休克难治期",
+            "E.\t缺血性缺氧期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t休克时发生心力衰竭与下列哪种因素无关？",
+        "options": [
+            "A.\t心肌供血量减少",
+            "B.\t酸中毒、高钾血症",
+            "C.\t心肌内的DIC使心肌受损",
+            "D.\tMDF的作用",
+            "E.\t心脏前负荷增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t休克时儿茶酚胺增加作用于肾上腺素能受体， 使组织灌流量减少的作用机制是",
+        "options": [
+            "A.\t仅对血管a -受体作用",
+            "B.\t仅对血管B -受体作用",
+            "C.\t对a、B-受体均同时起作用",
+            "D.\t对a、B-受体都不起作用",
+            "E.\t先对a -受体起作用后对B -受体起作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t下列哪种缩血管物质能引起冠脉扩张？",
+        "options": [
+            "A.\t血管紧张素II",
+            "B.\t抗利尿激素",
+            "C.\t去甲肾上腺素",
+            "D.\t肾上腺素",
+            "E.\t血栓素A2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t休克时最常出现的酸碱失衡是",
+        "options": [
+            "A.\t代谢性碱中毒",
+            "B.\t呼吸性酸中毒",
+            "C.\tAG正常性代谢性酸中毒",
+            "D.\tAG升高性代谢性酸中毒",
+            "E.\t混合性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t休克缺血性缺氧期发生的急性肾功能衰竭属",
+        "options": [
+            "A.\t肾前性肾功能衰竭",
+            "B.\t肾后性肾功能衰竭",
+            "C.\t肾性肾功能衰竭",
+            "D.\t肾前性和肾性肾功能衰竭",
+            "E.\t器质性肾功能衰竭"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t急性呼吸窘迫综合征（ARDS）的共同发病环节",
+        "options": [
+            "A.\t肺内DIC形成",
+            "B.\t急性肺淤血水肿",
+            "C.\t急性肺不张",
+            "D.\t急性呼吸膜损伤",
+            "E.\t肺泡内透明膜形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t休克肺时最初出现的酸碱失衡类型是",
+        "options": [
+            "A.\tAG正常性代谢性酸中毒",
+            "B.\tAG增高性代谢性酸中毒",
+            "C.\t呼吸性酸中毒",
+            "D.\t代谢性碱中毒",
+            "E.\t呼吸性碱中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t对休克患者监测补液的最佳指标是",
+        "options": [
+            "A.\t血压",
+            "B.\t脉压",
+            "C.\t尿量",
+            "D.\t中心静脉压",
+            "E.\t肺动脉楔入压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t治疗休克时单纯追求用升压药维持血压导致休 克加重的机制是",
+        "options": [
+            "A.\t机体对升压药物耐受性增强",
+            "B.\t血管平滑肌对升压药物失去反应",
+            "C.\t机体交感神经系统已处于衰竭",
+            "D.\t升压药使微循环障碍加重",
+            "E.\t机体丧失对应激的反应能力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t参与休克的白细胞粘附分子是",
+        "options": [
+            "A.\t细胞间粘附分子（I CAM）",
+            "B.\t内皮细胞-白细胞粘附分子（ELAM）",
+            "C.\t血管细胞粘附分子（VCAM）",
+            "D.\t3 2 整合素（CD11/CD18）",
+            "E.\tP-选择素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t休克淤血性缺氧期时交感肾上腺髓质系统处于",
+        "options": [
+            "A.\t高度抑制",
+            "B.\t衰竭",
+            "C.\t兴奋",
+            "D.\t高度兴奋",
+            "E.\t变化不明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 38
+    },
+    {
+        "question_text": "39. 休克淤血性缺氧期属于",
+        "options": [
+            "A. 代偿期",
+            "B. 失代偿期",
+            "C. 可逆性失代偿期",
+            "D. 不可逆性失代偿期",
+            "E. 难治期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t休克难治期下列哪种不是DIC形成的直接因 素？",
+        "options": [
+            "A.\t血中儿茶酚胺浓度过高",
+            "B.\t血液粘滞浓缩",
+            "C.\t血液高凝",
+            "D.\t严重的酸中毒",
+            "E.\t内皮激活受损，外凝、内凝系统激活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t休克肺的主要发病环节是：",
+        "options": [
+            "A.\t肺内DIC形成",
+            "B.\t急性肺淤血水肿",
+            "C.\t急性肺不张",
+            "D.\t急性弥漫性肺泡-毛细血管膜损伤",
+            "E.\t肺泡内透明膜形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t休克难治期导致致炎介质大量释放，内毒素血 症和肠道细菌转移主要是由于",
+        "options": [
+            "A.\t皮肤屏障功能减退",
+            "B.\t肠道屏障功能减退",
+            "C.\t呼吸道屏障功能减退",
+            "D.\t肾排毒功能减退",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 42
+    }
+]

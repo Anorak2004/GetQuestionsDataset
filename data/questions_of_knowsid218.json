@@ -1,0 +1,268 @@
+[
+    {
+        "question_text": "1.血小板在止血过程中的作用主要是：",
+        "options": [
+            "A.血小板的粘附",
+            "B.血小板的聚集",
+            "C.血小板膜的受体",
+            "D.血小板掺入血管内皮功能",
+            "E.血小板释放反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 1
+    },
+    {
+        "question_text": "2.血小板功能主要有5项，但下列哪一项需除外？",
+        "options": [
+            "A.黏附",
+            "B.聚集",
+            "C.释放",
+            "D.血块退缩",
+            "E.血管收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 2
+    },
+    {
+        "question_text": "3.血小板在凝血过程中所起的作用主要是：",
+        "options": [
+            "A.启动凝血过程",
+            "B.活化因子Ⅲ",
+            "C.提供凝血反应的场所",
+            "D.作为组织因子，参与外源性凝血系统",
+            "E.与因子Ⅻ接触，参与内源性凝血系统"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 3
+    },
+    {
+        "question_text": "4.与血小板“黏附”血管受损部位有关的血小板膜糖蛋白是：",
+        "options": [
+            "A.GPⅠa",
+            "B.GPⅠb",
+            "C.GPⅡa",
+            "D.GPⅡb",
+            "E.GPⅢa"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 4
+    },
+    {
+        "question_text": "5.与血小板聚集有关的血小板膜糖蛋白是：",
+        "options": [
+            "A.GPⅡa/Ⅲa",
+            "B.GPⅡb/Ⅲb",
+            "C.GPⅡb/Ⅲa",
+            "D.GPⅡa/Ⅲb",
+            "E.GPⅢa/Ⅱa"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 5
+    },
+    {
+        "question_text": "6.血小板黏附是通过哪一种物质间接黏附于血管内皮下胶原组织的：",
+        "options": [
+            "A.血管性血友病因子（vWF）",
+            "B.β-血小板球蛋白（β-TG）",
+            "C.PGEF",
+            "D.TM",
+            "E.APC"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 6
+    },
+    {
+        "question_text": "7.血小板的释放反应时，下列哪项被释出？",
+        "options": [
+            "A.钾",
+            "B.钙",
+            "C.血小板4因子",
+            "D.ATP",
+            "E.以上全对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 7
+    },
+    {
+        "question_text": "8.有关血液循环中的血小板哪项错误？",
+        "options": [
+            "A.同位素标记法测定其寿命为9-12天",
+            "B.正常血液循环中，有1/3的血小板阻留在脾脏中",
+            "C.脾功能亢进时，脾血小板池增加与脾脏大小无关",
+            "D.血液循环中衰老的血小板，主要由脾脏清除",
+            "E.脾切除后，肝脏是血小板清除的主要场所"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪些因素与血小板聚集功能有关？",
+        "options": [
+            "A.血小板膜糖蛋白Ⅱ",
+            "B.血小板膜糖蛋白Ⅲ",
+            "C.纤维蛋白原",
+            "D.钙离子",
+            "E.以上均有关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪一项检查指标是血小板被激活的良好指标？",
+        "options": [
+            "A.β-血小板球蛋白",
+            "B.血栓调节素",
+            "C.前列腺素",
+            "D.肝素样物质",
+            "E.蛋白C"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于血小板相关免疫球蛋白（PAIg），错误的是？",
+        "options": [
+            "A.PAIg包括PAIgG、PAIgA、PAIgM",
+            "B.大多数原发性血小板减少性紫癜（ITP）与全身性红斑狼疮（SLE）病人体内有自身抗血小板抗体",
+            "C.同时测定血小板补体3（APC3）可提高阳性率",
+            "D.径肾上腺皮质激素治疗后的ITP，其PAIgG增高，而复发率降低",
+            "E.PAIg增高也可见于继发性血小板减少性紫癜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 11
+    },
+    {
+        "question_text": "12.血小板聚集的诱导剂主要有下列几项，但哪一项需除外？",
+        "options": [
+            "A.ADP",
+            "B.肾上腺素",
+            "C.胶原",
+            "D.瑞斯托酶素",
+            "E.纤维蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 12
+    },
+    {
+        "question_text": "13.血小板释放反应中颗粒可释放下列几种物质，但哪一项需除外？",
+        "options": [
+            "A.ADP",
+            "B.纤维蛋白原",
+            "C.β-血小板球蛋白",
+            "D.血小板生长因子",
+            "E.血小板因子Ⅳ"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 13
+    },
+    {
+        "question_text": "14.原发性血小板减少性紫癜最主要的特征是：",
+        "options": [
+            "A.持续性血小板减少",
+            "B.血小板破坏过多",
+            "C.骨髓巨核细胞减少",
+            "D.骨髓内巨核细胞增多，产血小板型巨核细胞减少",
+            "E.骨髓内巨核细胞形态可有改变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 14
+    },
+    {
+        "question_text": "15.原发性血小板减少性紫癜最有意义的实验室检查异常的是：",
+        "options": [
+            "A.骨髓巨核细胞增多",
+            "B.出血时间延长",
+            "C.血小板寿命缩短及血中抗血小板抗体阳性",
+            "D.巨核细胞减少或缺如",
+            "E.骨髓淋巴细胞系高度增生，以成熟小淋巴细胞为主"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 15
+    },
+    {
+        "question_text": "16.血小板减少性紫癜可引起：",
+        "options": [
+            "A.血小板减少",
+            "B.纤维蛋白原增高",
+            "C.APTT延长",
+            "D.Ⅶ因子缺乏",
+            "E.BT缩短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 16
+    },
+    {
+        "question_text": "17.有关血小板减少性紫癜的检测下列哪项正确？",
+        "options": [
+            "A.PT延长",
+            "B.APTT延长",
+            "C.血块退缩不良",
+            "D.CT延长",
+            "E.FIB减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 17
+    },
+    {
+        "question_text": "18.血小板减少伴紫癜",
+        "options": [
+            "A.血小板减少",
+            "B.纤维蛋白原增高",
+            "C.APTT延长",
+            "D.Ⅶ因子缺乏",
+            "E.BT缩短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 18
+    },
+    {
+        "question_text": "19.血块退缩不良可见于：",
+        "options": [
+            "A.过敏性紫癜",
+            "B.血小板减少性紫癜",
+            "C.血友病",
+            "D.血管性血友病",
+            "E.坏血病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 19
+    }
+]

@@ -1,0 +1,3277 @@
+[
+    {
+        "question_text": "1.关于头颅的叙述，错误的是:",
+        "options": [
+            "A.用软尺自前额中点绕到枕骨粗隆，测其周径",
+            "B.头围发育与年龄有关",
+            "C.矢状缝和其他颅缝大多在出生后6个月骨化",
+            "D.颅缝骨化过早会影响脑的发育",
+            "E.头颅的检查应注意大小，外形变化和运动时的异常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于头颅的叙述，错误的是:",
+        "options": [
+            "A.新生儿头围约34cm",
+            "B.成人头围53cm",
+            "C.小儿门多在6～9个月闭合",
+            "D.矢状缝多在出生后6个月内骨化",
+            "E.颅缝骨化过早会影响颅脑发育"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列何种疾病引起外1/3眉毛特别稀疏或脱落？",
+        "options": [
+            "A.粘液性水肿",
+            "B.垂体前叶功能低下",
+            "C.麻风病",
+            "D.风湿性二尖瓣狭窄",
+            "E.甲亢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 3
+    },
+    {
+        "question_text": "4.脱发多为圆形，范围大小不等，也有全秃者，发生突然，与精神因素有关，见于:",
+        "options": [
+            "A.甲状腺功能亢进症",
+            "B.斑秃",
+            "C.伤寒",
+            "D.使用抗癌药物",
+            "E.脂溢性皮炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 4
+    },
+    {
+        "question_text": "5.头颅的大小以头围来衡量，关于正常人头围大小的概念，下列哪项是错误的？",
+        "options": [
+            "A.18岁以后头围即无变化",
+            "B.18岁头围可达60cm或以上",
+            "C.出生后第二年增加2cm",
+            "D.新生儿的头围约34cm",
+            "E.出生后前半年增加8cm，后半年增加3cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 5
+    },
+    {
+        "question_text": "6.小儿头围自出生后逐渐增加，下列各项中错误的是:",
+        "options": [
+            "A.新生儿头围约34cm",
+            "B.出生后前半年内增加3cm",
+            "C.出生后的后半年增加3cm",
+            "D.第二年增加2cm",
+            "E.第3～4年内增加1.5cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 6
+    },
+    {
+        "question_text": "7.小儿囟门闭合的时间大多是:",
+        "options": [
+            "A.6～16个月",
+            "B.12～16个月",
+            "C.12～18个月",
+            "D.18～24个月",
+            "E.12～20个月"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 7
+    },
+    {
+        "question_text": "8.小儿囟门闭合过早可形成:",
+        "options": [
+            "A.小颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.前囟隆起",
+            "E.尖颅"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 8
+    },
+    {
+        "question_text": "9.小头畸形呈:",
+        "options": [
+            "A.小颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.尖颅",
+            "E.变形颅"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 9
+    },
+    {
+        "question_text": "10.脑积水时呈:",
+        "options": [
+            "A.尖颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.小颅",
+            "E.变形颅"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 10
+    },
+    {
+        "question_text": "11.佝偻病可出现:",
+        "options": [
+            "A.尖颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.小颅",
+            "E.变形颅"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 11
+    },
+    {
+        "question_text": "12.Paget病呈:",
+        "options": [
+            "A.小颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.小颅",
+            "E.变形颅"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 12
+    },
+    {
+        "question_text": "13.Apert病呈:",
+        "options": [
+            "A.变形颅",
+            "B.方颅",
+            "C.巨颅",
+            "D.小颅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 13
+    },
+    {
+        "question_text": "14.Marfan综合征呈:",
+        "options": [
+            "A.小颅",
+            "B.尖颅",
+            "C.方颅",
+            "D.巨颅",
+            "E.长颅"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 14
+    },
+    {
+        "question_text": "15.Apert综合征呈:",
+        "options": [
+            "A.小颅",
+            "B.尖颅",
+            "C.方颅",
+            "D.巨颅",
+            "E.长颅"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 15
+    },
+    {
+        "question_text": "16.小儿佝偻病呈:",
+        "options": [
+            "A.小颅",
+            "B.尖颅",
+            "C.方颅",
+            "D.巨颅",
+            "E.长颅"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 16
+    },
+    {
+        "question_text": "17.脑积水呈:",
+        "options": [
+            "A.小颅",
+            "B.尖颅",
+            "C.方颅",
+            "D.巨颅",
+            "E.长颅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 17
+    },
+    {
+        "question_text": "18.尖颅主要是下列哪种原因？",
+        "options": [
+            "A.囟门过早闭合",
+            "B.矢状缝与冠状缝过早闭合",
+            "C.缺钙所致",
+            "D.脑积水",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 18
+    },
+    {
+        "question_text": "19.某3岁患儿，额、顶、颞及枕部突出膨大呈圆形，颈部静脉充盈，对比之下颜面很小双目下视，巩膜外露。该患儿最可能的疾病是",
+        "options": [
+            "A.呆小症",
+            "B.佝偻病",
+            "C.先天性梅毒",
+            "D.Down病",
+            "E.脑积水"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 19
+    },
+    {
+        "question_text": "20.长颅表现自颅顶至下颌的长度明显增加，见于:",
+        "options": [
+            "A.甲状腺功能减退症",
+            "B.缺钙",
+            "C.肢端肥大症",
+            "D.脑积水",
+            "E.囟门闭合过早"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 20
+    },
+    {
+        "question_text": "21.某患儿2岁，前额左右突出，头顶平坦呈方形出汗多该患儿可能性最大的疾病是:",
+        "options": [
+            "A.佝偻病",
+            "B.脑积水",
+            "C.甲状腺功能低下",
+            "D.结核",
+            "E.头颅畸形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 21
+    },
+    {
+        "question_text": "22.额、头顶、颞和枕部膨大呈圆形，颜面相对很小，伴颈部静脉充盈及落日现象。见于:",
+        "options": [
+            "A.佝偻病",
+            "B.脑积水",
+            "C.先天性梅毒",
+            "D.痴呆症",
+            "E.颅内高压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 22
+    },
+    {
+        "question_text": "23.形成落日现象的面部外观见于:",
+        "options": [
+            "A.佝偻病",
+            "B.脑积水",
+            "C.Marfant综合征",
+            "D.肢端肥大症",
+            "E.变形性骨炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 23
+    },
+    {
+        "question_text": "24.瞳孔正常直径为:",
+        "options": [
+            "A.2～5mm",
+            "B.1～2mm",
+            "C.3～4mm",
+            "D.5～6mm",
+            "E.3～5mm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 24
+    },
+    {
+        "question_text": "25.在暗处或精神兴奋时的瞳孔改变为:",
+        "options": [
+            "A.扩大",
+            "B.缩小",
+            "C.变化无常",
+            "D.不等大",
+            "E.对光反射迟钝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 25
+    },
+    {
+        "question_text": "26.在光亮处瞳孔变化为:",
+        "options": [
+            "A.变化无常",
+            "B.不等大",
+            "C.缩小",
+            "D.扩大",
+            "E.对光反射迟钝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 26
+    },
+    {
+        "question_text": "27.单侧眼睑闭合不全常见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.面神经麻痹",
+            "C.三叉神经麻痹",
+            "D.动眼神经麻痹",
+            "E.滑车神经麻痹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 27
+    },
+    {
+        "question_text": "28.双侧上眼睑下垂，常见于:",
+        "options": [
+            "A.重症肌无力",
+            "B.蛛网膜下腔出血",
+            "C.滑车神经麻痹",
+            "D.面神经麻痹",
+            "E.脑炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 28
+    },
+    {
+        "question_text": "29.单侧上眼睑下垂常见于:",
+        "options": [
+            "A.先天性上眼睑下垂",
+            "B.动眼神经麻痹",
+            "C.三叉神经麻痹",
+            "D.面神经麻痹",
+            "E.重症肌无力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 29
+    },
+    {
+        "question_text": "30.双侧眼睑下垂见于:",
+        "options": [
+            "A.颅内高压",
+            "B.白喉",
+            "C.脑脓肿",
+            "D.脑炎",
+            "E.重症肌无力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 30
+    },
+    {
+        "question_text": "31.单侧上睑下垂见于:",
+        "options": [
+            "A.脑血管病",
+            "B.先天性上睑下垂",
+            "C.重症肌无力",
+            "D.面神经麻痹",
+            "E.视神经萎缩"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 31
+    },
+    {
+        "question_text": "32.眼睑内翻常见于下列何种疾病？",
+        "options": [
+            "A.结膜炎",
+            "B.沙眼",
+            "C.甲亢",
+            "D.重症肌无力",
+            "E.颅内高压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 32
+    },
+    {
+        "question_text": "33.双眼睑闭合障碍见于:",
+        "options": [
+            "A.面神经麻痹",
+            "B.甲亢",
+            "C.沙眼",
+            "D.重症肌无力",
+            "E.乙型脑炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 33
+    },
+    {
+        "question_text": "34.眼球随注视目标向左、左上、左下、右、右上、右下6个方向运动，受下列哪一组神经支配？",
+        "options": [
+            "A.视、动眼、滑车神经",
+            "B.动眼、滑车、三叉神经",
+            "C.动眼、三叉、展神经",
+            "D.动眼、展、面神经",
+            "E.动眼、滑车、展神经"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 34
+    },
+    {
+        "question_text": "35.眼球震颤见于？",
+        "options": [
+            "A.大脑疾患",
+            "B.小脑疾患",
+            "C.延脑疾患",
+            "D.脑干疾患",
+            "E.脊髓疾患"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 35
+    },
+    {
+        "question_text": "36.眼球突出的体征，除外:",
+        "options": [
+            "A.Horner综合征",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffroy征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 36
+    },
+    {
+        "question_text": "37.睑内翻见于:",
+        "options": [
+            "A.重症肌无力",
+            "B.白喉",
+            "C.脑炎",
+            "D.砂眼",
+            "E.甲亢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 37
+    },
+    {
+        "question_text": "38.双侧眼睑闭合障碍见于:",
+        "options": [
+            "A.甲亢",
+            "B.重症肌无力",
+            "C.砂眼",
+            "D.结膜炎",
+            "E.青光眼"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 38
+    },
+    {
+        "question_text": "39.正常人当光线照射一眼时，另一眼瞳孔立即缩小，移开光线，瞳孔扩大，这属于:",
+        "options": [
+            "A.直接对光反射",
+            "B.集合反射",
+            "C.间接对光反射",
+            "D.病理反射",
+            "E.脑膜刺激征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列哪些是正常瞳孔检查需要描述的内容？",
+        "options": [
+            "A.瞳孔大小，形状，双侧是否等大，等圆，对光反射，集合反射",
+            "B.瞳孔大小，形状，双侧是否等大，等圆",
+            "C.瞳孔光反射，调节反射",
+            "D.在自然光线下看瞳孔大小，形状，双侧是否等大，等圆",
+            "E.对光反射，集合反射"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 40
+    },
+    {
+        "question_text": "41.瞳孔扩大可常见于:",
+        "options": [
+            "A.脑疝",
+            "B.中枢神经梅毒",
+            "C.青光眼",
+            "D.眼内肿瘤",
+            "E.虹膜粘连"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 41
+    },
+    {
+        "question_text": "42.支配瞳孔扩大的神经为:",
+        "options": [
+            "A.动眼神经的交感神经",
+            "B.动眼神经的副交感神经",
+            "C.三叉神经",
+            "D.视神经",
+            "E.滑车神经"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 42
+    },
+    {
+        "question_text": "43.瞳孔大小不等见于:",
+        "options": [
+            "A.瀕死状态",
+            "B.虹膜炎",
+            "C.药物中毒",
+            "D.脑外伤",
+            "E.视网膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 43
+    },
+    {
+        "question_text": "44.瞳孔是虹膜中央的孔洞，正常直径3～4mm，正圆等大，在病理情况下瞳孔大小可发生变化，下列哪一种情况不会引起瞳孔缩小？",
+        "options": [
+            "A.毛果云香碱药物影响",
+            "B.吗啡药物影响",
+            "C.阿托品药物影响",
+            "D.毒草中毒",
+            "E.有机磷农药中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 44
+    },
+    {
+        "question_text": "45.关于瞳孔的形状，下列哪项是错误的？",
+        "options": [
+            "A.青光眼或眼内肿瘤时，瞳孔可呈椭圆形",
+            "B.正常的瞳孔双侧等大等圆",
+            "C.虹膜粘连时形状可不规则",
+            "D.婴幼儿瞳孔较小",
+            "E.老年人瞳孔较大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 45
+    },
+    {
+        "question_text": "46.瞳孔缩小见于下列哪种疾病？",
+        "options": [
+            "A.有机磷中毒",
+            "B.阿托品中毒",
+            "C.青光眼绝对期",
+            "D.濒死状态",
+            "E.脑外伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 46
+    },
+    {
+        "question_text": "47.双侧瞳孔针尖大小，对光反应不灵敏，可见于:",
+        "options": [
+            "A.频死状态表现",
+            "B.有机磷农药中毒",
+            "C.应用阿托品后",
+            "D.颈交感神经刺激后",
+            "E.视神经萎缩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 47
+    },
+    {
+        "question_text": "48.瞳孔扩大，光反应减弱不见于:",
+        "options": [
+            "A.阿托品的应用",
+            "B.重症休克",
+            "C.深昏迷",
+            "D.有机磷中毒",
+            "E.脑卒中患者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 48
+    },
+    {
+        "question_text": "49.濒死状态的瞳孔表现:",
+        "options": [
+            "A.缩小",
+            "B.双侧散大伴对光反射迟钝",
+            "C.大小不等",
+            "D.双侧散大伴对光反射消失",
+            "E.扩大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 49
+    },
+    {
+        "question_text": "50.瞳孔缩小的情况，除外:",
+        "options": [
+            "A.虹膜炎",
+            "B.阿托品化",
+            "C.毒蕈中毒",
+            "D.吗啡反应",
+            "E.有机磷农药中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 50
+    },
+    {
+        "question_text": "51.瞳孔反应迟钝见于:",
+        "options": [
+            "A.小儿",
+            "B.老人",
+            "C.角膜炎",
+            "D.盲人",
+            "E.昏迷者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 51
+    },
+    {
+        "question_text": "52.瞳孔扩大的病变，除外:",
+        "options": [
+            "A.毒蕈中毒",
+            "B.青光眼绝对期",
+            "C.视神经萎缩",
+            "D.阿托品化",
+            "E.外伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 52
+    },
+    {
+        "question_text": "53.病理性黄染时，哪个部位最明显？",
+        "options": [
+            "A.结膜部",
+            "B.结膜穹隆部",
+            "C.巩膜部",
+            "D.内眦部",
+            "E.角膜周围"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 53
+    },
+    {
+        "question_text": "54.中年以后眼睛中哪个部位出现脂肪沉着最为明显？",
+        "options": [
+            "A.结膜部",
+            "B.结膜穹隆部",
+            "C.巩膜部",
+            "D.内眦部",
+            "E.角膜周围"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 54
+    },
+    {
+        "question_text": "55.食物中黄色色素增多时，黄染于眼睛哪个部位最明显？",
+        "options": [
+            "A.内眦部",
+            "B.巩膜部",
+            "C.结膜部",
+            "D.结膜穹隆部",
+            "E.角膜周围"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 55
+    },
+    {
+        "question_text": "56.角膜反射属于:",
+        "options": [
+            "A.浅反射",
+            "B.深反射",
+            "C.病理反射",
+            "D.椎体束征",
+            "E.脑膜刺激征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 56
+    },
+    {
+        "question_text": "57.亚急性感染性心内膜炎可见:",
+        "options": [
+            "A.结膜充血，发红",
+            "B.结膜见颗粒与滤泡",
+            "C.结膜苍白",
+            "D.结膜发黄",
+            "E.结膜有多少不等散发在的出血点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 57
+    },
+    {
+        "question_text": "58.沙眼可见:",
+        "options": [
+            "A.结膜充血，发红",
+            "B.结膜见颗粒与滤泡",
+            "C.结膜苍白",
+            "D.结膜发黄",
+            "E.结膜有多少不等散发在的出血点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 58
+    },
+    {
+        "question_text": "59.肾性贫血可见:",
+        "options": [
+            "A.结膜充血，发红",
+            "B.结膜见颗粒与滤泡",
+            "C.结膜苍白",
+            "D.结膜发黄",
+            "E.结膜有多少不等散发在的出血点"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 59
+    },
+    {
+        "question_text": "60.黄疸可见:",
+        "options": [
+            "A.结膜充血，发红",
+            "B.结膜见颗粒与滤泡",
+            "C.结膜苍白",
+            "D.结膜发黄",
+            "E.结膜有多少不等散发在的出血点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 60
+    },
+    {
+        "question_text": "61.角膜炎可见:",
+        "options": [
+            "A.结膜充血，发红",
+            "B.结膜见颗粒与滤泡",
+            "C.结膜苍白",
+            "D.结膜发黄",
+            "E.结膜有多少不等散发在的出血点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 61
+    },
+    {
+        "question_text": "62.结膜炎可见:",
+        "options": [
+            "A.睑结膜发红",
+            "B.结膜苍白",
+            "C.结膜黄染",
+            "D.结膜下片状出血",
+            "E.结膜有多少不等的散在出血点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 62
+    },
+    {
+        "question_text": "63.贫血可见:",
+        "options": [
+            "A.睑结膜发红",
+            "B.结膜苍白",
+            "C.结膜黄染",
+            "D.结膜下片状出血",
+            "E.结膜有多少不等的散在出血点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 63
+    },
+    {
+        "question_text": "64.高血压可见:",
+        "options": [
+            "A.睑结膜发红",
+            "B.结膜苍白",
+            "C.结膜黄染",
+            "D.结膜下片状出血",
+            "E.结膜有多少不等的散在出血点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 64
+    },
+    {
+        "question_text": "65.维生素A缺乏症可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 65
+    },
+    {
+        "question_text": "66.婴幼儿营养不良时可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 66
+    },
+    {
+        "question_text": "67.肝豆状核变性可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 67
+    },
+    {
+        "question_text": "68.Kayser-Fleischer环可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 68
+    },
+    {
+        "question_text": "69.严重沙眼时可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 69
+    },
+    {
+        "question_text": "70.下列关于眼色觉功能的叙述，错误的是:",
+        "options": [
+            "A.色盲又分先天性与后天性两种",
+            "B.色觉的异常可分为色弱和色盲两种",
+            "C.后天性色盲多由视神经病变引起",
+            "D.先天性色盲是遗传性疾病",
+            "E.色弱为对颜色的识别能力减低，色盲为对颜色的识别能力丧失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 70
+    },
+    {
+        "question_text": "71.老年人角膜边缘及周围出现老年环，是由于:",
+        "options": [
+            "A.白内障",
+            "B.类脂质沉积",
+            "C.铜代谢障碍",
+            "D.铁代谢障碍",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 71
+    },
+    {
+        "question_text": "72.老年环可见:",
+        "options": [
+            "A.角膜软化",
+            "B.角膜边缘及周围出现灰白色浑浊环",
+            "C.角膜边缘出现黄色或棕色的色素环",
+            "D.角膜周边血管增生",
+            "E.角膜外伤愈合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 72
+    },
+    {
+        "question_text": "73.正常虹膜纹理呈放射性排列，当纹理模糊或消失，其原因为:",
+        "options": [
+            "A.外伤",
+            "B.严重沙眼",
+            "C.先天性虹膜缺损",
+            "D.虹膜粘连",
+            "E.炎症、水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 73
+    },
+    {
+        "question_text": "74.检查巩膜黄染时，应在:",
+        "options": [
+            "A.自然光线下",
+            "B.日光灯下",
+            "C.黃炽灯下",
+            "D.电筒光下",
+            "E.强光下"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 74
+    },
+    {
+        "question_text": "75.泪囊挤压的正确位置是:",
+        "options": [
+            "A.眼的外上方",
+            "B.眼内皉内侧",
+            "C.眼的内上方",
+            "D.眼内呲下方",
+            "E.下睑下方"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 75
+    },
+    {
+        "question_text": "76.眼球压力增高见于:",
+        "options": [
+            "A.高血压",
+            "B.输液过多",
+            "C.动脉粥样硬化",
+            "D.甲亢",
+            "E.青光眼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 76
+    },
+    {
+        "question_text": "77.甲状腺功能亢进患者:",
+        "options": [
+            "A.双眼球突出",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffrey征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 77
+    },
+    {
+        "question_text": "78.甲亢患者，眼球下转时上睑不能相应下垂，称为:",
+        "options": [
+            "A.双眼球突出",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffrey征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 78
+    },
+    {
+        "question_text": "79.甲亢患者，上视时无额纹出现，称为:",
+        "options": [
+            "A.双眼球突出",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffrey征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 79
+    },
+    {
+        "question_text": "80.甲亢患者，瞬目减少，称为:",
+        "options": [
+            "A.双眼球突出",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffrey征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 80
+    },
+    {
+        "question_text": "81.甲亢患者，由远处逐渐移近眼球时，两侧眼球不能适度内聚，称为:",
+        "options": [
+            "A.双眼球突出",
+            "B.Graefe征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffrey征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 81
+    },
+    {
+        "question_text": "82.下列哪项不是甲状腺功能亢进症可出现的临床表现？",
+        "options": [
+            "A.眼球突出",
+            "B.眼球上视时无额纹出现",
+            "C.瞬目增多",
+            "D.眼球内聚能力减弱",
+            "E.眼球下事实上眼睑不能下垂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 82
+    },
+    {
+        "question_text": "83.可致单侧眼球下陷的体征是:",
+        "options": [
+            "A.Graefe征",
+            "B.Horner综合征",
+            "C.Stellwag征",
+            "D.Mobius征",
+            "E.Joffroy征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 83
+    },
+    {
+        "question_text": "84.Joffroy征见于:",
+        "options": [
+            "A.甲亢患者，瞬眼减少",
+            "B.甲亢患者，眼球下转时上睑不能相应下垂",
+            "C.甲亢患者，辐辏运动减弱",
+            "D.甲亢患者，上视时无额纹出现",
+            "E.单侧眼球下陷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 84
+    },
+    {
+        "question_text": "85.Stellwag征见于:",
+        "options": [
+            "A.甲亢患者，瞬眼减少",
+            "B.甲亢患者，眼球下转时上睑不能相应下垂",
+            "C.甲亢患者，辐辏运动减弱",
+            "D.甲亢患者，上视时无额纹出现",
+            "E.单侧眼球下陷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 85
+    },
+    {
+        "question_text": "86.Graefe征见于:",
+        "options": [
+            "A.甲亢患者，瞬眼减少",
+            "B.甲亢患者，眼球下转时上睑不能相应下垂",
+            "C.甲亢患者，辐辏运动减弱",
+            "D.甲亢患者，上视时无额纹出现",
+            "E.单侧眼球下陷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 86
+    },
+    {
+        "question_text": "87.Mobius征见于",
+        "options": [
+            "A.甲亢患者，瞬眼减少",
+            "B.甲亢患者，眼球下转时上睑不能相应下垂",
+            "C.甲亢患者，辐辏运动减弱",
+            "D.甲亢患者，上视时无额纹出现",
+            "E.单侧眼球下陷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 87
+    },
+    {
+        "question_text": "88.下列体征不属于甲状腺功能亢进眼征的是:",
+        "options": [
+            "A.Graefe征",
+            "B.Joffroy征",
+            "C.Murphy征",
+            "D.Stellwag征",
+            "E.Mobius征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 88
+    },
+    {
+        "question_text": "89.老年人角膜边缘及周围出现老年环，是由于下列什么原因所致？",
+        "options": [
+            "A.铜代谢障碍",
+            "B.铁代谢障碍",
+            "C.类脂质沉着",
+            "D.白内障",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 89
+    },
+    {
+        "question_text": "90.角膜软化症见于:",
+        "options": [
+            "A.幼儿营养不良",
+            "B.肝豆状核变性",
+            "C.肾炎",
+            "D.角膜溃疡",
+            "E.青光眼"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 90
+    },
+    {
+        "question_text": "91.结膜发红、水肿、血管充盈为结膜充血，见于:",
+        "options": [
+            "A.动脉硬化",
+            "B.高血压",
+            "C.结膜炎、角膜炎、沙眼早期",
+            "D.脑水肿",
+            "E.出血性疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 91
+    },
+    {
+        "question_text": "92.血液中其他（如胡萝卜素和阿的平等）黄色色素增加，巩膜黄染的部位在:",
+        "options": [
+            "A.角膜周围",
+            "B.均匀分布于所有巩膜",
+            "C.点状分布",
+            "D.块状分布",
+            "E.穹窿部分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 92
+    },
+    {
+        "question_text": "93.角膜边缘出现黄色或棕褐色环，环内缘清晰外缘模糊，称为凯-费环（角膜色素环），见于:",
+        "options": [
+            "A.老年人或早老症",
+            "B.严重沙眼",
+            "C.维生素A缺乏",
+            "D.角膜溃疡",
+            "E.肝豆状核变性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 93
+    },
+    {
+        "question_text": "94.关于结膜常见病变，错误的是:",
+        "options": [
+            "A.充血见于结膜炎",
+            "B.发黄见于急性肾炎",
+            "C.颗粒见于砂眼",
+            "D.苍白见于贫血",
+            "E.出血点可见于亚急性感染性心内膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 94
+    },
+    {
+        "question_text": "95.查眼底有视乳头水肿，应进一步:",
+        "options": [
+            "A.请神经内科会诊",
+            "B.立即做腰穿",
+            "C.头部CT",
+            "D.头部正侧位片",
+            "E.脑电图"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 95
+    },
+    {
+        "question_text": "96.检查发现患者眼底有乳头水肿，进一步应做:",
+        "options": [
+            "A.请神经内科会诊",
+            "B.立即做腰穿",
+            "C.头部CT",
+            "D.头部正侧位片",
+            "E.服用阿托品缓解呕吐，心动徐缓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 96
+    },
+    {
+        "question_text": "97.动眼神经损害可见于:",
+        "options": [
+            "A.对光反射消失",
+            "B.眼球震颤",
+            "C.聚合、调节反射消失",
+            "D.麻痹性斜视",
+            "Ehorner综合征阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 97
+    },
+    {
+        "question_text": "98.支配眼肌运动的神经或眼外肌本身的器质性病变可引起:",
+        "options": [
+            "A.对光反射消失",
+            "B.眼球震颤",
+            "C.聚合、调节反射消失",
+            "D.麻痹性斜视",
+            "E.horner综合征阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 98
+    },
+    {
+        "question_text": "99.沙眼等由于瘢痕形成可使眼睑出现:",
+        "options": [
+            "A.上睑下垂",
+            "B.眼睑水肿",
+            "C.眼睑闭合不全",
+            "D.睑内翻",
+            "E.倒睫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 99
+    },
+    {
+        "question_text": "100.角膜边缘出现灰白色混浊环见于:",
+        "options": [
+            "A.老年人",
+            "B.早老症",
+            "C.肝豆状核变性",
+            "D.维生素A缺乏",
+            "E.honer综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 100
+    },
+    {
+        "question_text": "101.慢性肾病、营养不良、贫血患者可出现:",
+        "options": [
+            "A.上睑下垂",
+            "B.眼睑水肿",
+            "C.眼睑闭合不全",
+            "D.睑内翻",
+            "E.倒睫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 101
+    },
+    {
+        "question_text": "102.甲状腺功能亢进症及面神经麻痹可出现:",
+        "options": [
+            "A.上睑下垂",
+            "B.眼睑水肿",
+            "C.眼睑闭合不全",
+            "D.睑内翻",
+            "E.倒睫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 102
+    },
+    {
+        "question_text": "103.重症肌无力、先天性上眼睑下垂及动眼神经麻痹可见:",
+        "options": [
+            "A.上睑下垂",
+            "B.眼睑水肿",
+            "C.眼睑闭合不全",
+            "D.睑内翻",
+            "E.倒睫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 103
+    },
+    {
+        "question_text": "104.小儿营养不良、维生素A缺乏可致:",
+        "options": [
+            "A.角膜白斑、云翳",
+            "B.角膜溃疡",
+            "C.角膜软化",
+            "D.角膜血管增生",
+            "E.老年环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 104
+    },
+    {
+        "question_text": "105.感染和外伤可导致:",
+        "options": [
+            "A.角膜白斑、云翳",
+            "B.角膜溃疡",
+            "C.角膜软化",
+            "D.角膜血管增生",
+            "E.老年环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 105
+    },
+    {
+        "question_text": "106.患者，男，25岁，检查发现角膜边缘出现黄色或棕褐色的色素环，称为Kayser-Fleischer环，最有可能的原因是:",
+        "options": [
+            "A.先天性因素",
+            "B.类脂质沉着",
+            "C.铜代谢障碍",
+            "D.有机磷中毒",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 106
+    },
+    {
+        "question_text": "107.脸结膜有滤泡（半透明白色颗粒）或乳头（细小突起）见于:",
+        "options": [
+            "A.结膜炎",
+            "B.角膜炎",
+            "C.外伤",
+            "D.感染性心内膜炎",
+            "E.沙眼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 107
+    },
+    {
+        "question_text": "108.指压法检查时眼内压增高，见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.青光眼",
+            "C.眼球萎缩或脱水",
+            "D.肝豆状核变性",
+            "E.毒蕈中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 108
+    },
+    {
+        "question_text": "109.感染性心内膜炎的眼结膜表现是:",
+        "options": [
+            "A.苍白",
+            "B.水肿",
+            "C.片状出血",
+            "D.出血点",
+            "E.乳头增生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 109
+    },
+    {
+        "question_text": "110.患者，女性，19岁，诉头痛数日，有时眩晕，呕吐，查体:精神欠佳，瞳孔稍大，心率54次/分，律齐，余未见异常，为明确诊断进一步应做哪些检查？",
+        "options": [
+            "A.追问有无误服药物",
+            "B.检查眼底",
+            "C.头部CT",
+            "D.腰穿",
+            "E.心电图检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 110
+    },
+    {
+        "question_text": "111.关于Horner＇s综合症，错误的描述是患侧:",
+        "options": [
+            "A.上眼睑下垂",
+            "B.眼裂变小",
+            "C.眼球塌陷",
+            "D.瞳孔放大",
+            "E.顔面无汗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 111
+    },
+    {
+        "question_text": "112.眼部充血水肿，表面粗糙并有淋巴滤泡呈簇状增生。见于:",
+        "options": [
+            "A.扁桃体炎",
+            "B.急性咽炎",
+            "C.慢性咽炎",
+            "D.白喉",
+            "E.喉结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 112
+    },
+    {
+        "question_text": "113.色觉的检查内容包括:",
+        "options": [
+            "A.色盲",
+            "B.色弱",
+            "C.色盲及色弱两种",
+            "D.色弱加视力减退",
+            "E.色盲加视力减退"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 113
+    },
+    {
+        "question_text": "114.关于耳的检查，错误的是:",
+        "options": [
+            "A.外耳道见溢脓并有恶臭，可能为胆脂瘤",
+            "B.有黄色液体流出并有痒痛为外耳道炎",
+            "C.外耳道内局部红肿疼痛，有耳廓牵拉痛为外耳道疖肿",
+            "D.耳廓后方红肿，乳突明显压痛为乳突炎",
+            "E.外伤后有液体自外耳道流出，可能为鼻涕"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 114
+    },
+    {
+        "question_text": "115.外耳道有血液或脑脊液渗出应考虑:",
+        "options": [
+            "A.外耳道炎",
+            "B.急性中耳炎",
+            "C.颅内肿瘤",
+            "D.颅顶骨折",
+            "E.颅底骨折"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 115
+    },
+    {
+        "question_text": "116.外耳道有脓性分泌物，伴耳痛，并有全身症状，见于:",
+        "options": [
+            "A.颅底骨折",
+            "B.外耳道疖肿",
+            "C.耵聍或异物堵塞",
+            "D.外耳道炎",
+            "E.中耳炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 116
+    },
+    {
+        "question_text": "117.外耳道有血液或脑脊液流出，多为:",
+        "options": [
+            "A.颅底骨折",
+            "B.外耳道疖肿",
+            "C.耵聍或异物堵塞",
+            "D.外耳道炎",
+            "E.中耳炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 117
+    },
+    {
+        "question_text": "118.外耳道炎可见:",
+        "options": [
+            "A.耳廓上触及痛性小结",
+            "B.耳廓红肿并局部发热和疼痛",
+            "C.外耳道有黄色液体流出",
+            "D.外耳道有脓液流出并有全身症状",
+            "E.外耳道有血液或脑脊液流出"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 118
+    },
+    {
+        "question_text": "119.外耳道有黄色液体流出伴痒痛者多见于:",
+        "options": [
+            "A.外耳道疖肿",
+            "B.中耳炎",
+            "C.颅底骨折",
+            "D.乳突炎",
+            "E.外耳道炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 119
+    },
+    {
+        "question_text": "120.颅底骨折可见:",
+        "options": [
+            "A.耳廓上触及痛性小结",
+            "B.耳廓红肿并局部发热和疼痛",
+            "C.外耳道有黄色液体流出",
+            "D.外耳道有脓液流出并有全身症状",
+            "E.外耳道有血液或脑脊液流出"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 120
+    },
+    {
+        "question_text": "121.化脓性中耳炎的体征，除外:",
+        "options": [
+            "A.外耳道有脓液",
+            "B.鼓膜穿孔",
+            "C.乳突压痛",
+            "D.乳突处有疤痕",
+            "E.耳前瘘管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 121
+    },
+    {
+        "question_text": "122.检查外耳道，常见的病变除外:",
+        "options": [
+            "A.外耳道疖肿",
+            "B.耵聍",
+            "C.外耳道炎",
+            "D.有脓液流出为中耳炎",
+            "E.有脓液流出时，说明鼓膜穿孔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 122
+    },
+    {
+        "question_text": "123.中耳炎可见:",
+        "options": [
+            "A.耳廓上触及痛性小结",
+            "B.耳廓红肿并局部发热和疼痛",
+            "C.外耳道有黄色液体流出",
+            "D.外耳道有脓液流出并有全身症状",
+            "E.外耳道有血液或脑脊液流出"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 123
+    },
+    {
+        "question_text": "124.耳郭感染可见:",
+        "options": [
+            "A.耳廓上触及痛性小结",
+            "B.耳廓红肿并局部发热和疼痛",
+            "C.外耳道有黄色液体流出",
+            "D.外耳道有脓液流出并有全身症状",
+            "E.外耳道有血液或脑脊液流出"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 124
+    },
+    {
+        "question_text": "125.痛风可见:",
+        "options": [
+            "A.耳廓上触及痛性小结",
+            "B.耳廓红肿并局部发热和疼痛",
+            "C.外耳道有黄色液体流出",
+            "D.外耳道有脓液流出并有全身症状",
+            "E.外耳道有血液或脑脊液流出"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 125
+    },
+    {
+        "question_text": "126.外耳道内有局部红肿、疼痛，并有耳廓牵拉痛，应考虑:",
+        "options": [
+            "A.外耳道炎",
+            "B.急性中耳炎",
+            "C.疖肿",
+            "D.胆脂瘤",
+            "E.颅底骨折"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 126
+    },
+    {
+        "question_text": "127.化脓性中耳炎引流不畅时可蔓延至乳突而成乳突炎，严重乳突炎可导致:",
+        "options": [
+            "A.脑脓肿或脑膜炎",
+            "B.耳鸣、耳聋",
+            "C.败血症",
+            "D.胆脂瘤",
+            "E.面神经麻痹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 127
+    },
+    {
+        "question_text": "128.两侧耳垂被托起，颜面增宽，见于:",
+        "options": [
+            "A.化脓性中耳炎",
+            "B.流行性腮腺炎",
+            "C.化脓性中耳乳突炎",
+            "D.巨人症",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 128
+    },
+    {
+        "question_text": "129.耳源性眩晕及小脑疾患可见:",
+        "options": [
+            "A.对光反射消失",
+            "B.眼球震颤",
+            "C.聚合、调节反射消失",
+            "D.麻痹性斜视",
+            "E.Horner综合征阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 129
+    },
+    {
+        "question_text": "130.化脓性中耳炎引流不畅可有:",
+        "options": [
+            "A.耳垂处压痛",
+            "B.两颧处压痛",
+            "C.乳突处压痛",
+            "D.眼眶上缘内侧压痛",
+            "E.鼻根部与眼内眦之间压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 130
+    },
+    {
+        "question_text": "131.痛风病人右耳廓上见触痛性黄白色小结，该小结产生的原因为:",
+        "options": [
+            "A.风湿性肉芽肿",
+            "B.耳廓软骨炎",
+            "C.尿盐酸沉积",
+            "D.碳酸沉积",
+            "E.皮肤感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 131
+    },
+    {
+        "question_text": "132.尿酸盐沉积于耳廓，形成痛性小结，多见于:",
+        "options": [
+            "A.局部感染",
+            "B.局部外伤",
+            "C.痛风",
+            "D.外耳道炎",
+            "E.胆脂瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 132
+    },
+    {
+        "question_text": "133.男性痛风患者，55岁，多个关节疼痛，第一趾关节疼痛畸形，右耳廓上见触痛性黄白色的小结。该小结产生的原因是:",
+        "options": [
+            "A.软骨增生",
+            "B.尿酸盐沉着",
+            "C.耳廓软骨炎",
+            "D.碳酸盐沉着",
+            "E.风湿性肉芽肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 133
+    },
+    {
+        "question_text": "134.先天性梅毒患者，鼻部检查可见:",
+        "options": [
+            "A.蝶形红斑",
+            "B.鼻部红色丘疹",
+            "C.鼻梁塌陷",
+            "D.流脓涕",
+            "E.鼻粘膜充血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 134
+    },
+    {
+        "question_text": "135.鼻尖和鼻翼皮肤发红，毛细血管扩张和组织肥厚，见于:",
+        "options": [
+            "A.色素沉着",
+            "B.肝病表现",
+            "C.红斑狼疮",
+            "D.酒渣鼻",
+            "E.蜘蛛痣"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 135
+    },
+    {
+        "question_text": "136.鼻尖和鼻翼有皮肤发红，血管扩张和组织肥厚，见于:",
+        "options": [
+            "A.Cushing综合征",
+            "B.系统性红斑狼疮",
+            "C.猩红热",
+            "D.酒渣鼻",
+            "E.二尖瓣面容"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 136
+    },
+    {
+        "question_text": "137.鼻梁部位出现红色斑块，病损处高起并向两面颊部扩展，见于:",
+        "options": [
+            "A.系统性红斑狼疮",
+            "B.风湿性心脏病",
+            "C.黑热病",
+            "D.皮炎",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 137
+    },
+    {
+        "question_text": "138.鼻尖及鼻翼皮肤发红，并有毛细血管扩张，组织肥厚，见于:",
+        "options": [
+            "A.鼻息肉",
+            "B.鼻骨骨折",
+            "C.鼻骨发育不全",
+            "D.酒糟鼻",
+            "E.先天性梅毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 138
+    },
+    {
+        "question_text": "139.系统性红斑狼疮可见:",
+        "options": [
+            "A.鼻梁部皮肤出现红色斑块高出皮肤，并向两侧面颊部扩展",
+            "B.鼻翼扇动",
+            "C.鼻出血",
+            "D.鼻黏膜充血肿胀",
+            "E.鼻窦压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 139
+    },
+    {
+        "question_text": "140.高热性疾病时可见:",
+        "options": [
+            "A.鼻梁部皮肤出现红色斑快高出皮肤，并向两侧面颊部扩展",
+            "B.鼻翼扇动",
+            "C.鼻出血",
+            "D.鼻黏膜充血肿胀",
+            "E.鼻窦压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 140
+    },
+    {
+        "question_text": "141.鼻出血的常见病变，除外:",
+        "options": [
+            "A.鼻腔感染",
+            "B.局部血管损伤",
+            "C.鼻咽癌",
+            "D.子宫内膜异位",
+            "E.过敏性鼻炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 141
+    },
+    {
+        "question_text": "142.鼻息肉者，鼻部检查时的体征，除外:",
+        "options": [
+            "A.鼻腔堵塞",
+            "B.鼻翼扇动",
+            "C.外鼻变形",
+            "D.鼻梁宽平",
+            "E.鼻腔内见荔枝肉样组织"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 142
+    },
+    {
+        "question_text": "143.关于鼻咽的特点及病变，下列哪项是错误的？",
+        "options": [
+            "A.腺状体过度肥大，可发生鼻塞、张口呼吸和语音单调",
+            "B.鼻咽部一侧如有血性分泌物和耳鸣，应考虑早期鼻咽炎",
+            "C.青春期后，腺状体逐渐萎缩",
+            "D.鼻咽位于软腭平面之上，鼻腔的后方",
+            "E.儿童期，鼻咽部淋巴组织丰富，称为腺体或增殖体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 143
+    },
+    {
+        "question_text": "144.鼻腔完全阻塞，鼻梁宽平如蛙状鼻，见于:",
+        "options": [
+            "A.萎缩性鼻炎",
+            "B.化脓性鼻窦炎",
+            "C.鼻中隔穿孔",
+            "D.鼻息肉",
+            "E.鼻骨发育不全"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 144
+    },
+    {
+        "question_text": "145.急性鼻炎可见:",
+        "options": [
+            "A.鼻梁部皮肤出现红色斑快高出皮肤，并向两侧面颊部扩展",
+            "B.鼻翼扇动",
+            "C.鼻出血",
+            "D.鼻黏膜充血肿胀",
+            "E.鼻窦压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 145
+    },
+    {
+        "question_text": "146.鼻咽癌可见:",
+        "options": [
+            "A.鼻梁部皮肤出现红色斑快高出皮肤，并向两侧面颊部扩展",
+            "B.鼻翼扇动",
+            "C.鼻出血",
+            "D.鼻黏膜充血肿胀",
+            "E.鼻窦压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 146
+    },
+    {
+        "question_text": "147.鼻粘膜萎缩，鼻腔分泌物减少，鼻甲缩小鼻腔宽大，嗅觉减退或消失，见于:",
+        "options": [
+            "A.慢性鼻炎",
+            "B.慢性萎缩性鼻炎",
+            "C.过敏性鼻炎",
+            "D.鼻腔化脓性炎症先兆",
+            "E.急性鼻炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 147
+    },
+    {
+        "question_text": "148.关于鼻炎，错误的是:",
+        "options": [
+            "A.急性鼻炎见鼻粘膜充血、水肿，伴有鼻塞和流涕",
+            "B.慢性鼻炎见鼻粘膜肥厚",
+            "C.慢性萎缩性鼻炎见鼻甲缩小",
+            "D.卡他性炎症时，分泌物为黄色",
+            "E.慢性鼻炎还可见鼻中隔穿孔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 148
+    },
+    {
+        "question_text": "149.鼻出血的原因不包括:",
+        "options": [
+            "A.高血压病",
+            "B.鼻中隔偏曲",
+            "C.慢性肾衰竭",
+            "D.风湿热",
+            "E.慢性萎缩性鼻炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 149
+    },
+    {
+        "question_text": "150.妇女如发生周期性鼻出血与月经有关，则应考虑:",
+        "options": [
+            "A.维生素C缺乏",
+            "B.子宫内膜异位症",
+            "C.高血压病",
+            "D.再生障碍性贫血",
+            "E.慢性肝脏疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 150
+    },
+    {
+        "question_text": "151.女性病人如发生与月经有关的周期性鼻出血，首先应考虑下列哪一种疾病？",
+        "options": [
+            "A.血小板减少性紫癜",
+            "B.鼻咽癌",
+            "C.子宫内膜异位症",
+            "D.流行性出血热",
+            "E.血友病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 151
+    },
+    {
+        "question_text": "152.鼻根部与眼内眦之间有压痛提示何部位病变？",
+        "options": [
+            "A.额窦",
+            "B.视网膜",
+            "C.蝶窦",
+            "D.上额窦",
+            "E.筛窦"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 152
+    },
+    {
+        "question_text": "153.哪一部位的鼻卖在体表检查时按压不到？",
+        "options": [
+            "A.左上颌窦",
+            "B.右上颌窦",
+            "C.额窦",
+            "D.蝶窦",
+            "E.筛窦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 153
+    },
+    {
+        "question_text": "154.不能检查出压痛的是:",
+        "options": [
+            "A.乳突",
+            "B.上颌窦",
+            "C.额窦",
+            "D.蝶筛",
+            "E.窦窦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 154
+    },
+    {
+        "question_text": "155.蝶窦的物理检查方法是:",
+        "options": [
+            "A.紧压双眼内眦处",
+            "B.压按两眉之间",
+            "C.深压眼眶上缘内侧",
+            "D.拇指置于左右颧骨部向后按压",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 155
+    },
+    {
+        "question_text": "156.上颌窦位置为:",
+        "options": [
+            "A.眼眶上缘内侧",
+            "B.颧部",
+            "C.鼻根与眼内眦之间",
+            "D.额部",
+            "E.眶上缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 156
+    },
+    {
+        "question_text": "157.上颌窦炎可有:",
+        "options": [
+            "A.耳垂处压痛",
+            "B.两颧处压痛",
+            "C.乳突处压痛",
+            "D.眼眶上缘内侧压痛",
+            "E.鼻根部与眼内眦之间压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 157
+    },
+    {
+        "question_text": "158.额窦炎可有:",
+        "options": [
+            "A.耳垂处压痛",
+            "B.两颧处压痛",
+            "C.乳突处压痛",
+            "D.眼眶上缘内侧压痛",
+            "E.鼻根部与眼内眦之间压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 158
+    },
+    {
+        "question_text": "159.筛窦炎可有:",
+        "options": [
+            "A.耳垂处压痛",
+            "B.两颧处压痛",
+            "C.乳突处压痛",
+            "D.眼眶上缘内侧压痛",
+            "E.鼻根部与眼内眦之间压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 159
+    },
+    {
+        "question_text": "160.一手扶住患者枕部，另一手拇指或示指置于眼眶上缘内侧，用力向后上方按压的是:",
+        "options": [
+            "A.额窦",
+            "B.上颌窦",
+            "C.蝶窦",
+            "D.筛窦",
+            "E.鼻甲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 160
+    },
+    {
+        "question_text": "161.双手固定患者两侧耳后，双侧拇指分别置于鼻根部与眼内眦之间，向后方按压的是:",
+        "options": [
+            "A.额窦",
+            "B.上颌窦",
+            "C.蝶窦",
+            "D.筛窦",
+            "E.鼻甲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 161
+    },
+    {
+        "question_text": "162.双手拇指置于患者颧部，其余手指分别置于两侧耳后，双拇指向后方按压的是:",
+        "options": [
+            "A.额窦",
+            "B.上颌窦",
+            "C.蝶窦",
+            "D.筛窦",
+            "E.鼻甲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 162
+    },
+    {
+        "question_text": "163.下颌增大前凸，两颧和眉弓高凸，口唇增厚，见于:",
+        "options": [
+            "A.肢端肥大症",
+            "B.流行性腮腺炎",
+            "C.甲状腺功能亢进症",
+            "D.脑积水",
+            "E.佝偻病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 163
+    },
+    {
+        "question_text": "164.关于口唇的病变，下列哪项是错误的？",
+        "options": [
+            "A.口唇苍白可见于主动脉瓣关闭不全",
+            "B.口唇紫绀可见呼吸衰竭",
+            "C.口唇干燥并有皲裂见于营养不良",
+            "D.口唇单纯疱疹可见于感冒",
+            "E.口唇深红见于急性发热性疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 164
+    },
+    {
+        "question_text": "165.口唇突然发生非感染性无痛性肿胀，消退很快，见于:",
+        "options": [
+            "A.核黄素缺乏",
+            "B.粘液性水肿",
+            "C.单纯性疱疹",
+            "D.急性肾炎",
+            "E.血管神经性水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 165
+    },
+    {
+        "question_text": "166.口角糜烂常见于:",
+        "options": [
+            "A.维生素C缺乏症",
+            "B.维生素B（核黄素）缺乏症",
+            "C.烟酸缺乏症",
+            "D.卵磷脂缺乏症",
+            "E.维生素E缺乏症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 166
+    },
+    {
+        "question_text": "167.口腔内相当第二磨牙的颊黏膜处出现帽针头大小的白色斑点，提示:",
+        "options": [
+            "A.风疹",
+            "B.天花",
+            "C.猩红热",
+            "D.麻疹",
+            "E.疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 167
+    },
+    {
+        "question_text": "168.口唇检查时发现颜色发绀见于:",
+        "options": [
+            "A.急性发热性疾病",
+            "B.呼吸衰竭",
+            "C.虚脱",
+            "D.主动脉关闭不全",
+            "E.贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 168
+    },
+    {
+        "question_text": "169.口唇疱疹是:",
+        "options": [
+            "A.单纯病毒感染",
+            "B.核黄素缺乏",
+            "C.黏液性水肿",
+            "D.血红蛋白含量降低",
+            "E.血液还原血红蛋白量增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 169
+    },
+    {
+        "question_text": "170.口唇发绀是:",
+        "options": [
+            "A.单纯病毒感染",
+            "B.核黄素缺乏",
+            "C.黏液性水肿",
+            "D.血红蛋白含量降低",
+            "E.血液还原血红蛋白量增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 170
+    },
+    {
+        "question_text": "171.口唇苍白是:",
+        "options": [
+            "A.单纯病毒感染",
+            "B.核黄素缺乏",
+            "C.黏液性水肿",
+            "D.血红蛋白含量降低",
+            "E.血液还原血红蛋白量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 171
+    },
+    {
+        "question_text": "172.口唇肥大是:",
+        "options": [
+            "A.单纯病毒感染",
+            "B.核黄素缺乏",
+            "C.黏液性水肿",
+            "D.血红蛋白含量降低",
+            "E.血液还原血红蛋白量增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 172
+    },
+    {
+        "question_text": "173.Koplik斑见于",
+        "options": [
+            "A.麻疹早期",
+            "B.乙脑早期",
+            "C.猩红热早期",
+            "D.Addison病",
+            "E.维生素缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 173
+    },
+    {
+        "question_text": "174.贫血、主动脉瓣关闭不全或虚脱可出现:",
+        "options": [
+            "A.口唇苍白",
+            "B.口角单纯疱疹",
+            "C.口唇干燥并有皲裂",
+            "D.口角糜烂",
+            "E.口唇发绀"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 174
+    },
+    {
+        "question_text": "175.核黄素缺乏症患者可出现:",
+        "options": [
+            "A.口唇苍白",
+            "B.口角单纯疱疹",
+            "C.口唇干燥并有皲裂",
+            "D.口角糜烂",
+            "E.口唇发绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 175
+    },
+    {
+        "question_text": "176.重度脱水患者可出现:",
+        "options": [
+            "A.口唇苍白",
+            "B.口角单纯疱疹",
+            "C.口唇干燥并有皲裂",
+            "D.口角糜烂",
+            "E.口唇发绀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 176
+    },
+    {
+        "question_text": "177.口腔黏膜出现蓝黑色色素沉着，指缝、乳晕等处也有色素沉着，考虑是:",
+        "options": [
+            "A.克汀病",
+            "B.粘液性水肿",
+            "C.肾上腺皮质功能不全",
+            "D.肢端肥大症",
+            "E.Cushing病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 177
+    },
+    {
+        "question_text": "178.口唇粘膜散在褐黑色斑点，手掌及足掌也见有斑点状色素斑，见于:",
+        "options": [
+            "A.正常人",
+            "B.老年斑",
+            "C.黑色素瘤",
+            "D.黑痣",
+            "E.黑色素斑-胃肠道息肉综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 178
+    },
+    {
+        "question_text": "179.口腔粘膜出现蓝黑色色素沉着斑，指缝、乳晕等处也有色素沉着，见于:",
+        "options": [
+            "A.肾上腺皮质功能不全",
+            "B.克汀病",
+            "C.粘液性水肿",
+            "D.肢端肥大症",
+            "E.Cushing病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 179
+    },
+    {
+        "question_text": "180.口唇单纯疱疹可见于:",
+        "options": [
+            "A.支气管肺炎",
+            "B.肝炎",
+            "C.慢性支气管炎",
+            "D.肺结核",
+            "E.流行性脑脊髓膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 180
+    },
+    {
+        "question_text": "181.口唇单纯疱疹少见于下列哪种疾病？",
+        "options": [
+            "A.流行性感冒",
+            "B.大叶性肺炎",
+            "C.流行性脑脊髓膜炎",
+            "D.间日疟",
+            "E.急性白血病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 181
+    },
+    {
+        "question_text": "182.口唇疱疹常伴发于:",
+        "options": [
+            "A.肝炎",
+            "B.再生在性贫血",
+            "C.支气管肺炎",
+            "D.维生素K缺乏",
+            "E.流行性脊髓膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 182
+    },
+    {
+        "question_text": "183.口角糜烂多见于:",
+        "options": [
+            "A.流行性感冒",
+            "B.流行性脑脊髓膜炎",
+            "C.单纯疱疹病毒感染",
+            "D.维生素B2缺乏",
+            "E.长期使用广谱抗生素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 183
+    },
+    {
+        "question_text": "184.下列哪一种疾病不出现口唇疱疹？",
+        "options": [
+            "A.大叶性肺炎",
+            "B.流行性感冒",
+            "C.流行性脑脊髓膜炎",
+            "D.疟疾",
+            "E.肺结核"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 184
+    },
+    {
+        "question_text": "185.咽白喉假膜与扁桃体炎假膜的鉴别，以下哪项是正确的？",
+        "options": [
+            "A.前者不易剥离，易出血",
+            "B.前者易剥离，不易出血",
+            "C.后者易剥离，易出血",
+            "D.两者均易剥离，前者易出血",
+            "E.后者不易剥离，易出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 185
+    },
+    {
+        "question_text": "186.患者，男，30岁，曾患肺结核，体检发现口腔黏膜出现蓝黑色素沉着斑片，指缝、乳晕等处也有色素沉着。病因最可能是:",
+        "options": [
+            "A.肾上腺皮质功能减退症",
+            "B.甲状腺功能亢进",
+            "C.甲状腺功能减退症",
+            "D.肢端肥大症",
+            "E.Cushing病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 186
+    },
+    {
+        "question_text": "187.与第二磨牙对应的颊粘膜处出现帽针头大小白色斑点，提示:",
+        "options": [
+            "A.药物中毒",
+            "B.荨麻疹",
+            "C.玫瑰疹",
+            "D.麻疹",
+            "E.猩红热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 187
+    },
+    {
+        "question_text": "188.麻疹的早期，在口腔颊粘膜哪一部位出现针帽大小白色斑点，称为麻疹粘膜斑（KopLik斑）:",
+        "options": [
+            "A.第一磨牙的颊粘膜",
+            "B.第二磨牙的颊粘膜",
+            "C.第三磨牙的颊粘膜",
+            "D.第二前磨牙的颊粘膜",
+            "E.第前磨牙的颊粘膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 188
+    },
+    {
+        "question_text": "189.白喉患者可出现:",
+        "options": [
+            "A.咽部黏膜充血、红肿，黏膜腺体分泌增多",
+            "B.咽部黏膜充血，表面粗糙，淋巴黏膜泡簇状增值",
+            "C.扁桃体腺体红肿、增大，有黄色分泌物",
+            "D.扁桃体上台片状假膜，不易剥离，如强行剥离则出血",
+            "E.扁桃体苔片状假膜，容易剥离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 189
+    },
+    {
+        "question_text": "190.牙龈异常与疾病的关系，错误的是:",
+        "options": [
+            "A.正常人有些牙龈呈黑灰色",
+            "B.牙龈水肿见于慢性牙龈炎",
+            "C.牙龈缘出血可因牙结石引起",
+            "D.挤压牙龈有脓溢出见于慢性牙周炎",
+            "E.牙龈游离缘出现蓝灰色点线为铅中毒的特征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 190
+    },
+    {
+        "question_text": "191.牙龈的游离缘出现蓝灰色点线是什么中毒的表现？",
+        "options": [
+            "A.铅",
+            "B.铝",
+            "C.铁",
+            "D.汞",
+            "E.铋"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 191
+    },
+    {
+        "question_text": "192.铅中毒患者牙龈铅线表现为？",
+        "options": [
+            "A.牙龈游离缘出现蓝灰色点线",
+            "B.牙龈有兰黑色斑块色素沉着",
+            "C.牙龈有黄褐色，色素沉着",
+            "D.牙龈有紫红色，色素沉着",
+            "E.牙龈有黑色泡疹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 192
+    },
+    {
+        "question_text": "193.下列哪一种疾病，在检查牙龈时可发现中切牙切缝呈月牙形凹陷，见牙间隙分离过宽，常称为Hutchinson牙:",
+        "options": [
+            "A.肢端肥大症",
+            "B.氟含量过高",
+            "C.骨质疏松症",
+            "D.先天性梅毒",
+            "E.四环素牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 193
+    },
+    {
+        "question_text": "194.舌头萎缩，舌体较小，舌面光滑呈粉红色或红色，称为:",
+        "options": [
+            "A.牛肉舌",
+            "B.镜面舌",
+            "C.草莓舌",
+            "D.干燥舌",
+            "E.毛舌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 194
+    },
+    {
+        "question_text": "195.地图舌见于:",
+        "options": [
+            "A.恶性贫血",
+            "B.核黄素缺乏",
+            "C.猩红热",
+            "D.干燥综合征",
+            "E.甲亢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 195
+    },
+    {
+        "question_text": "196.镜面舌见于:",
+        "options": [
+            "A.恶性贫血",
+            "B.核黄素缺乏",
+            "C.猩红热",
+            "D.严重脱水",
+            "E.甲亢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 196
+    },
+    {
+        "question_text": "197.镜面舌见于:",
+        "options": [
+            "A.长期发热",
+            "B.烟酸缺乏",
+            "C.缺铁性贫血",
+            "D.核黄素缺乏",
+            "E.梅毒性舌炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 197
+    },
+    {
+        "question_text": "198.毛舌表现为舌面覆有黑色或黄褐色毛，见于:",
+        "options": [
+            "A.恶性贫血",
+            "B.糙皮病",
+            "C.核黄素缺乏",
+            "D.粘液性水肿患者",
+            "E.长期使用广谱抗生素的病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 198
+    },
+    {
+        "question_text": "199.镜面舌表现为舌乳头萎缩，舌体较小，舌面光滑呈粉红或红色，见于:",
+        "options": [
+            "A.缺铁性贫血，恶性贫血",
+            "B.粘液性水肿",
+            "C.克汀病",
+            "D.糙皮病",
+            "E.维生素B2缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 199
+    },
+    {
+        "question_text": "200.下列哪种因素可出现镜面舌？",
+        "options": [
+            "A.长期应用抗生素",
+            "B.慢性萎缩性胃炎",
+            "C.猩红热",
+            "D.梅毒",
+            "E.核黄素缺乏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 200
+    },
+    {
+        "question_text": "201.裂纹舌主要见于:",
+        "options": [
+            "A.老年人",
+            "B.被硬食物划伤后",
+            "C.猩红热",
+            "D.糙皮病",
+            "E.核黄素缺乏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 201
+    },
+    {
+        "question_text": "202.毛舌，也称黑舌，见于:",
+        "options": [
+            "A.长期使用广谱抗生素",
+            "B.梅毒性舌炎",
+            "C.慢性萎缩性胃炎",
+            "D.恶性贫血",
+            "E.长期发热病人"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 202
+    },
+    {
+        "question_text": "203.舌震颤多见于:",
+        "options": [
+            "A.甲亢",
+            "B.贫血",
+            "C.粘液性水肿",
+            "D.先天愚型",
+            "E.老年人"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 203
+    },
+    {
+        "question_text": "204.舌乳头肿胀、发红类似草莓舌，见于:",
+        "options": [
+            "A.猩红热或长期发热病人",
+            "B.烟酸缺乏",
+            "C.慢性萎缩性胃炎",
+            "D.真菌感染",
+            "E.维生素缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 204
+    },
+    {
+        "question_text": "205.舌震颤多见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.慢性肝病",
+            "C.急性感染性疾病",
+            "D.心功能不全",
+            "E.肺功能不全"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 205
+    },
+    {
+        "question_text": "206.关于舌的表面，下列哪项不正确？",
+        "options": [
+            "A.地图舌——可无伴随病变",
+            "B.裂纹舌——於酸缺乏",
+            "C.草莓舌——猩红热",
+            "D.镜面舌——缺铁性贫血",
+            "E.舌体肿大——黏液性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 206
+    },
+    {
+        "question_text": "207.舌色深红多见于:",
+        "options": [
+            "A.营养不良",
+            "B.慢性肝病",
+            "C.急性感染性疾病",
+            "D.心功能不全",
+            "E.肺功能不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 207
+    },
+    {
+        "question_text": "208.舌乳头肿胀、发红类似草莓，多见于:",
+        "options": [
+            "A.恶性贫血",
+            "B.慢性肝病",
+            "C.猩红热",
+            "D.心、肺功能不全",
+            "E.核黄素缺乏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 208
+    },
+    {
+        "question_text": "209.舌面绛红如同生牛肉，称为牛肉舌，见于:",
+        "options": [
+            "A.移行性舌炎",
+            "B.核黄素缺乏",
+            "C.猩红热",
+            "D.恶性贫血",
+            "E.糙皮病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 209
+    },
+    {
+        "question_text": "210.慢性咽炎的体征是:",
+        "options": [
+            "A.口腔粘膜粉红色",
+            "B.扁桃体隐窝内有黄白色分泌物",
+            "C.咽后壁粘膜粗糙，有淋巴滤泡增生",
+            "D.声音嘶哑",
+            "E.有口臭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 210
+    },
+    {
+        "question_text": "211.检查咽部时压舌板的位置于:",
+        "options": [
+            "A.舌前1/3与后2/3交界处",
+            "B.舌前3/5与后2/5交界处",
+            "C.舌尖",
+            "D.舌前2/3与后1/3交界处",
+            "E.舌前1/2与后1/2交界处"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 211
+    },
+    {
+        "question_text": "212.慢性咽炎时可见:",
+        "options": [
+            "A.咽部黏膜充血、红肿，黏膜腺体分泌增多",
+            "B.咽部黏膜充血，表面粗糙，淋巴黏膜泡簇状增值",
+            "C.扁桃体腺体红肿、增大，有黄色分泌物",
+            "D.扁桃体上台片状假膜，不易剥离，如强行剥离则出血",
+            "E.扁桃体苔片状假膜，容易剥离"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 212
+    },
+    {
+        "question_text": "213.急性咽炎患者可出现:",
+        "options": [
+            "A.咽部黏膜充血、红肿，黏膜腺体分泌增多",
+            "B.咽部黏膜充血，表面粗糙，淋巴黏膜泡簇状增值",
+            "C.扁桃体腺体红肿、增大，有黄色分泌物",
+            "D.扁桃体上台片状假膜，不易剥离，如强行剥离则出血",
+            "E.扁桃体苔片状假膜，容易剥离"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 213
+    },
+    {
+        "question_text": "214.检查腮腺应在下列哪一部位进行？",
+        "options": [
+            "A.耳后乳突下方",
+            "B.耳屏、下颌骨、颧弓之间",
+            "C.下颌骨下方",
+            "D.颧弓下方",
+            "E.上颌第二磨牙附近的面颊部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 214
+    },
+    {
+        "question_text": "215.口腔检查观看腮腺开口处，其开口部位在:",
+        "options": [
+            "A.上颌第二磨牙对面的颊粘膜上",
+            "B.上领第三磨牙对面的颊粘膜上",
+            "C.下颌第二磨牙对面的颊粘膜上",
+            "D.下颌第三磨牙对面的颊粘膜上",
+            "E.在颊粘膜正中处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 215
+    },
+    {
+        "question_text": "216.检查扁桃体发现已经超过咽腭弓，但未接近中线，应判断为:",
+        "options": [
+            "A.0度",
+            "B.I度",
+            "C.Ⅱ度",
+            "D.Ⅲ度",
+            "E.无法判断"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 216
+    },
+    {
+        "question_text": "217.确定扁桃体I度肿大还是Ⅱ度肿大的界限是:",
+        "options": [
+            "A.舌腭弓",
+            "B.咽腭弓",
+            "C.咽后壁正中线",
+            "D.悬雍垂",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 217
+    },
+    {
+        "question_text": "218.扁桃体Ⅱ度肿大的标准是:",
+        "options": [
+            "A.不超过咽腭弓者",
+            "B.超过咽腭弓者，但未达到咽后壁中线",
+            "C.达到或超过咽后壁中线",
+            "D.只要扁桃体充血且超过咽腭弓者",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 218
+    },
+    {
+        "question_text": "219.关于扁桃体肿大的描述，错误的是:",
+        "options": [
+            "A.I度肿大时不超过舌腭弓",
+            "B.Ⅱ度肿大时超过咽腭弓",
+            "C.达到或超过咽后壁正中线为Ⅲ度肿大",
+            "D.扁桃体肿大者，应观察表面有无充血",
+            "E.扁桃体肿大者，应观察隐窝内有无黄色分泌物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 219
+    },
+    {
+        "question_text": "220.关于扁桃体检查及病变的叙述，错误的是:",
+        "options": [
+            "A.扁桃体炎时，腺体红肿、增大",
+            "B.扁桃体炎时，在隐窝内有黄白色分泌物",
+            "C.扁桃体炎时，隐窝内渗出物形成的假膜很难剥离",
+            "D.白喉在扁桃体上所形成的假膜若强行剥离易致出血",
+            "E.扁桃体肿大达到或超过咽后壁中线者为度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 220
+    },
+    {
+        "question_text": "221.突然发生的窒息性呼吸困难可见于:",
+        "options": [
+            "A.急性喉炎",
+            "B.喉结核",
+            "C.喉癌",
+            "D.喉返神经麻痹",
+            "E.喉头水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 221
+    },
+    {
+        "question_text": "222.下列哪一种病变不应该出现声音嘶哑或失声？",
+        "options": [
+            "A.急性喉炎",
+            "B.喉癌",
+            "C.喉返神经肿瘤转移",
+            "D.喉上神经肿瘤转移",
+            "E.早期鼻咽癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 222
+    },
+    {
+        "question_text": "223.有些疾病可有特殊的口腔气味，以下各项中，错误的是:",
+        "options": [
+            "A.牙槽脓肿为腥臭味",
+            "B.糖尿病酮症酸中毒发出烂苹果味",
+            "C.尿毒症病人可发出尿味",
+            "D.肝坏死病人口中有肝臭味",
+            "E.有机磷农药中毒可闻到酒味"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 223
+    },
+    {
+        "question_text": "224.呼吸有刺激性蒜味最常见于:",
+        "options": [
+            "A.一氧化碳中毒",
+            "B.有机磷农药中毒",
+            "C.肝性脑病",
+            "D.尿毒症",
+            "E.糖尿病酮症酸中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 224
+    },
+    {
+        "question_text": "225.呼吸有烂苹果味最常见于:",
+        "options": [
+            "A.乙醇中毒",
+            "B.有机磷农药中毒",
+            "C.肝性脑病",
+            "D.尿毒症",
+            "E.糖尿病酮症酸中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 225
+    },
+    {
+        "question_text": "226.呼吸有氨味最常见于:",
+        "options": [
+            "A.乙醇中毒",
+            "B.有机磷农药中毒",
+            "C.肝性脑病",
+            "D.尿毒症",
+            "E.糖尿病酮症酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 226
+    },
+    {
+        "question_text": "227.有机磷中毒患者口腔有:",
+        "options": [
+            "A.氨味",
+            "B.大蒜味",
+            "C.肝臭味",
+            "D.组织坏死的臭味",
+            "E.烂苹果味"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 227
+    },
+    {
+        "question_text": "228.肝脓肿患者呼吸时有:",
+        "options": [
+            "A.氨味",
+            "B.大蒜味",
+            "C.肝臭味",
+            "D.组织坏死的臭味",
+            "E.烂苹果味"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 228
+    },
+    {
+        "question_text": "229.尿毒症患者口腔有:",
+        "options": [
+            "A.氨味",
+            "B.大蒜味",
+            "C.肝臭味",
+            "D.组织坏死的臭味",
+            "E.烂苹果味"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 229
+    },
+    {
+        "question_text": "230.糖尿病酮症酸中毒者口腔有:",
+        "options": [
+            "A.氨味",
+            "B.大蒜味",
+            "C.肝臭味",
+            "D.组织坏死的臭味",
+            "E.烂苹果味"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 230
+    },
+    {
+        "question_text": "231.肝坏死患者口腔有:",
+        "options": [
+            "A.氨味",
+            "B.大蒜味",
+            "C.肝臭味",
+            "D.组织坏死的臭味",
+            "E.烂苹果味"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 231
+    },
+    {
+        "question_text": "232.病人散发的特殊气味如热面包味，见于:",
+        "options": [
+            "A.麻疹",
+            "B.精神错乱者",
+            "C.鼠疫",
+            "D.麻伤",
+            "E.风寒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 232
+    },
+    {
+        "question_text": "233.急性流行性腮腺炎患者的体征或并发症，除外:",
+        "options": [
+            "A.腮腺肿大",
+            "B.腮腺压痛",
+            "C.胰腺炎",
+            "D.睾丸炎",
+            "E.甲状腺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 233
+    },
+    {
+        "question_text": "234.化脓性腮腺炎可有:",
+        "options": [
+            "A.耳垂处压痛",
+            "B.两颧处压痛",
+            "C.乳突处压痛",
+            "D.眼眶上缘内侧压痛",
+            "E.鼻根部与眼内眦之间压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "234",
+        "number": 234
+    }
+]

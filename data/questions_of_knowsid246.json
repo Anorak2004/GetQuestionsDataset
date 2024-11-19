@@ -1,0 +1,436 @@
+[
+    {
+        "question_text": "1.\t应激是指机体在受到各种内外环境因素刺激时所 出现的",
+        "options": [
+            "A.\t特异性全身反应",
+            "B.\t非特异性全身反应",
+            "C.\t代偿性反应",
+            "D.\t病理性反应",
+            "E.\t生理性反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t各种不同应激原所引起的应激是",
+        "options": [
+            "A.\t几乎相同的特异性全身性反应",
+            "B.\t几乎相同的非特异性全身性反应",
+            "C.\t决定于应激原的特异性反应",
+            "D.\t完全相同的特异性全身性反应",
+            "E.\t完全相同的非特异性全身性反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t下列变化哪项为儿茶酚胺释放增多对机体有利的 一面？",
+        "options": [
+            "A.\t心率减慢",
+            "B.\t腹腔内脏血管扩张",
+            "C.\t支气管收缩，口径变小",
+            "D.\t促进糖原合成",
+            "E.\t血液重新分布"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t应激时下丘脑-垂体-肾上腺皮质系统的中枢位点 位于",
+        "options": [
+            "A.\t蓝斑",
+            "B.\t黑质",
+            "C.\t海马",
+            "D.\t室旁核",
+            "E.\t杏仁体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t应激时下列哪一种激素分泌减少？",
+        "options": [
+            "A.\t抗利尿激素",
+            "B.\t胰岛素",
+            "C.\t胰高血糖素",
+            "D.\t催乳素",
+            "E.\t内啡肽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t全身适应综合征是指",
+        "options": [
+            "A.\t应激原作用后，机体出现的抵抗和适应反应",
+            "B.\t应激原作用后，机体出现的快速动员期",
+            "C.\t劣性应激原作用后，出现一个动态的适应防御的 连续过程",
+            "D.\t有害刺激使机体的自稳态破坏",
+            "E.\t应激的负反馈，表现为全身适应性反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t全身适应综合征的抵抗期体内起主要作用的激素 是",
+        "options": [
+            "A.\t去甲肾上腺素",
+            "B.\t胰岛素",
+            "C.\t肾上腺素",
+            "D.\t醛固酮",
+            "E.\t糖皮质激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t下列哪一项为全身适应综合征警觉期的特点？",
+        "options": [
+            "A.\t炎症、免疫反应减弱",
+            "B.\t糖皮质激素起主要作用",
+            "C.\t持续时间长",
+            "D.\t糖皮质激素受体数量和亲和力下降",
+            "E.\t儿茶酚胺和糖皮质激素分泌均增多，机体处于最 佳动员状态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列哪一项为全身适应综合征抵抗期的特点？",
+        "options": [
+            "A.\t起主要作用的激素是肾上腺皮质激素",
+            "B.\t机体处于最佳动员状态",
+            "C.\t起主要作用的物质是儿茶酚胺",
+            "D.\t胸腺增生，淋巴结肿大",
+            "E.\t以蓝斑-交感肾上腺髓质兴奋为主"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t应激时机体最突出的反应是",
+        "options": [
+            "A.\t神经-内分泌反应",
+            "B.\t热休克反应",
+            "C.\t急性期反应",
+            "D.\t免疫反应",
+            "E.\t炎症反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t应激过程最突出的表现为",
+        "options": [
+            "A.\t胸腺细胞肥大",
+            "B.\t淋巴细胞增生",
+            "C.\t淋巴细胞增多",
+            "D.\t肾上腺皮质增大",
+            "E.\t中性粒细胞减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t应激时内啡肽升高与下列那种物质相关？",
+        "options": [
+            "A.\t生长素",
+            "B.\t胰岛素",
+            "C.\t肾上腺素",
+            "D.\t去甲肾上腺素",
+            "E.\t促肾上腺皮质激素释放激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t应激时下列哪一种蛋白为负急性期反应蛋白？",
+        "options": [
+            "A.\tC-反应蛋白",
+            "B.\t纤维蛋白原",
+            "C.\t热休克蛋白",
+            "D.\t铜蓝蛋白",
+            "E.\t白蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t应激时急性期反应蛋白不具有下列哪一项功 能？",
+        "options": [
+            "A.\t抗出血",
+            "B.\t修复受损蛋白质",
+            "C.\t抗感染",
+            "D.\t抑制蛋白酶作用",
+            "E.\t清除异物和坏死组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t全身适应综合征抵抗期的基本变化是",
+        "options": [
+            "A.\t糖皮质激素释放增加",
+            "B.\t淋巴结肿大",
+            "C.\t防御储备能力增强",
+            "D.\t炎症反应增强",
+            "E.\t代谢率降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t热休克转录因子（HSF）启动热休克基因的转录 活性是通过",
+        "options": [
+            "A.\t热休克转录因子单体蛋白质作用",
+            "B.\t热休克转录因子二聚体作用",
+            "C.\t热休克转录因子三聚体作用",
+            "D.\t变性蛋白与热休克因子三聚体结合后作用",
+            "E.\t变性蛋白与单体热休克因子结合作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 16
+    },
+    {
+        "question_text": "17. 下列关于热休克蛋白的描述哪一项不正确？",
+        "options": [
+            "A. 属于分泌型蛋白质",
+            "B. 最初从经受热应激的果蝇唾液腺中发现",
+            "C. 大多数是结构蛋白",
+            "D. 广泛存在从原核到真核细胞的多种生物体",
+            "E. 基本结构为C端的一个ATP酶结构域和N端的一 个基质识别结构域"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t急性期反应蛋白主要由下列哪一种细胞合成？",
+        "options": [
+            "A.\t肥大细胞",
+            "B.\t肝细胞",
+            "C.\t单核吞噬细胞",
+            "D.\t成纤维细胞",
+            "E.\t内皮细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t临床上下列哪种蛋白的检测常用来作为炎症和 疾病活动性的指标？",
+        "options": [
+            "A.\t白蛋白",
+            "B.\t铜蓝蛋白",
+            "C.\t结合珠蛋白",
+            "D.\t热休克蛋白",
+            "E.\tC-反应蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t应激时急性期反应蛋白（AP蛋白）不包括下列 哪一类蛋白？",
+        "options": [
+            "A.\tC-反应蛋白",
+            "B.\t参与激肽生成的蛋白",
+            "C.\t属于补体成分的蛋白",
+            "D.\t参与铁转运的蛋白",
+            "E.\t纤维连接蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t下列哪一种疾病不属于应激相关疾病？",
+        "options": [
+            "A.\t原发性高血压",
+            "B.\t支气管哮喘",
+            "C.\t动脉粥样硬化",
+            "D.\t白化病",
+            "E.\t溃疡性结肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t应激时血液系统的改变哪一项是错误的？",
+        "options": [
+            "A.\t急性应激时白细胞数目减少",
+            "B.\t急性应激时纤维蛋白原浓度升高",
+            "C.\t急性应激时凝血因子训升高",
+            "D.\t急性应激时红细胞沉降率增快",
+            "E.\t慢性应激时红细胞数目减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t应激时，下列叙述哪一项是对的？",
+        "options": [
+            "A.\t白蛋白增多",
+            "B.\t补体水平降低",
+            "C.\tC-反应蛋白减少",
+            "D.\t糖皮质激素的分泌能抑制免疫功能",
+            "E.\t儿茶酚胺的分泌能增强免疫功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t在冠脉已有病变的基础上，心理应激常诱发",
+        "options": [
+            "A.\t肝性脑病",
+            "B.\t致死性心律失常",
+            "C.\t变态反应",
+            "D.\t停经",
+            "E.\t自身免疫性疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t情绪心理应激与原发性高血压发病相关的主要 机制是",
+        "options": [
+            "A.\t交感-肾上腺髓质系统兴奋",
+            "B.\t血胆固醇升高，血液粘度增高",
+            "C.\t肾血管收缩，水钠潴留",
+            "D.\t使心肌发生向心性肥大",
+            "E.\t激活肾素血管紧张素-醛固酮系统"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t应激时心血管系统的基本变化为",
+        "options": [
+            "A.\t心输出量增加，血压升高",
+            "B.\t心率减慢，心肌收缩力减弱",
+            "C.\t总外周阻力增加",
+            "D.\t冠状动脉血流量减少",
+            "E.\t心室纤颤的阈值升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t应激时消化系统的改变主要表现为",
+        "options": [
+            "A.\t胃肠血管舒张，血流量增加",
+            "B.\t胃粘液蛋白分泌增加",
+            "C.\t胃酸分泌减少",
+            "D.\t胃肠粘膜糜烂、溃疡、出血",
+            "E.\t胃穿孔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t应激时泌尿系统的主要变化有",
+        "options": [
+            "A.\t尿量增多，尿比重降低",
+            "B.\t血尿，蛋白尿",
+            "C.\t肾小球滤过率降低",
+            "D.\t水钠排泄增多",
+            "E.\t肾小管泌H+功能明显降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t应激性溃疡粘膜内pH的下降程度主要取决于",
+        "options": [
+            "A.\tH+向粘膜反向弥散的量",
+            "B.\t粘膜血流量",
+            "C.\tH+向粘膜反向弥散的量与粘膜血流量的比值",
+            "D.\t胃粘膜屏障被破坏程度",
+            "E.\t儿茶酚胺在血中的浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t应激性溃疡形成的最基本的条件是",
+        "options": [
+            "A.\t胃粘膜缺血",
+            "B.\tH+向粘膜内的反向弥散",
+            "C.\t酸中毒",
+            "D.\t胆汁逆流",
+            "E.\t胃粘膜屏障遭到破坏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t应激时，下列哪一种内分泌腺的变化最为明 显？",
+        "options": [
+            "A.\t甲状腺",
+            "B.\t甲状旁腺",
+            "C.\t胰腺",
+            "D.\t肾上腺",
+            "E.\t性腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 31
+    }
+]

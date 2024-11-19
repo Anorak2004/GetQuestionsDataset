@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1.下列关于头痛部位的叙述正确的是:",
+        "options": [
+            "A.偏头痛多在双侧",
+            "B.鼻源性头痛多为深在性头痛",
+            "C.颅内深部病变的头痛部位一定与病变部位一致",
+            "D.高血压引起的头痛多在枕部",
+            "E.丛集性头痛多在一侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于头痛的描述，下列哪项不正确？",
+        "options": [
+            "A.鼻窦炎的头痛常发生于清晨或上午",
+            "B.丛集性头痛多为一侧，常在晚间发生",
+            "C.颅内病变的头痛常为深在性且头痛部位一定与病变部位相一致",
+            "D.铅中毒可以出现头痛",
+            "E.蛛网膜下腔出血或脑脊髓膜炎可有颈痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列关于头痛程度和性质的叙述，正确的是:",
+        "options": [
+            "A.脑膜刺激的疼痛多为轻度或中度",
+            "B.脑肿瘤的疼痛多为重度",
+            "C.肌肉收缩性头痛多为电击样痛或刺痛",
+            "D.有时神经功能头痛多颇剧烈",
+            "E.头痛程度与病情轻重呈平等关系"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项是引起头痛的颅外病变？",
+        "options": [
+            "A.脑震荡",
+            "B.脑膜炎",
+            "C.脑栓塞",
+            "D.颅骨肿瘤",
+            "E.蛛网膜下腔出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项疾病是引起头痛的颅外病变？",
+        "options": [
+            "A.颅骨肿瘤",
+            "B.脑震荡",
+            "C.脑膜炎",
+            "D.脑栓塞",
+            "E.蛛网膜下腔出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项是引起头痛的全身性疾病？",
+        "options": [
+            "A.贫血",
+            "B.偏头痛",
+            "C.三叉神经痛",
+            "D.脑供血不足",
+            "E.脑外伤后遗症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪项是引起头痛的全身性疾病？",
+        "options": [
+            "A.偏头痛",
+            "B.癫痫",
+            "C.三叉神经痛",
+            "D.脑供血不全",
+            "E.贫血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "8.头痛常于晚间发生，于直立时可缓解:",
+        "options": [
+            "A.偏头痛",
+            "B.丛集性头痛",
+            "C.青光眼",
+            "D.肌紧张性头痛",
+            "E.三叉神经痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "9.夜间发作的头痛最常见于:",
+        "options": [
+            "A.眼源性头痛",
+            "B.高血压性头痛",
+            "C.丛集性头痛",
+            "D.副鼻窦炎所引起的头痛",
+            "E.颅内占位性病变所致头痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "10.头痛在夜间发作的最常见于:",
+        "options": [
+            "A.颅内占位性病变所致头痛",
+            "B.高血压性头痛",
+            "C.丛集性头痛",
+            "D.眼源性头痛",
+            "E.副鼻窦炎所引起的头痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "11.化脓性脑膜炎可表现有:",
+        "options": [
+            "A.头痛伴视盘水肿",
+            "B.头痛伴发热",
+            "C.头痛伴失眠",
+            "D.头痛伴共济失调",
+            "E.头痛伴面瘫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "12.神经症的表现可呈:",
+        "options": [
+            "A.头痛伴视盘水肿",
+            "B.头痛伴发热",
+            "C.头痛伴失眠",
+            "D.头痛伴共济失调",
+            "E.头痛伴面瘫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "13.小脑出血的表现可呈:",
+        "options": [
+            "A.头痛伴视盘水肿",
+            "B.头痛伴发热",
+            "C.头痛伴失眠",
+            "D.头痛伴共济失调",
+            "E.头痛伴面瘫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "14.单侧面部呈电击样、短促而剧痛见于:",
+        "options": [
+            "A.视神经痛",
+            "B.三叉神经痛",
+            "C.舌咽神经痛",
+            "D.青光眼",
+            "E.颅内占位性病变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "15.搏动性头痛多为:",
+        "options": [
+            "A.颅内占位性病变",
+            "B.三叉神经痛",
+            "C.血管性头痛",
+            "D.颅内感染",
+            "E.眼源性疼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "16.哪项不是偏头痛的特征？",
+        "options": [
+            "A.反复发作",
+            "B.疼痛都在一侧",
+            "C.晨间加重",
+            "D.呕吐后减轻",
+            "E.月经期发作频繁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "17.脑肿瘤性头痛的特点下列不正确的是？",
+        "options": [
+            "A.慢性进行性头痛",
+            "B.咳嗽、打喷嚏可使疼痛加重",
+            "C.往往清晨加剧",
+            "D.多为剧烈头痛",
+            "E.多为持续性，可有长短不等的缓解期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "18.从集性头痛的部位多在:",
+        "options": [
+            "A.单侧",
+            "B.双侧",
+            "C.前额",
+            "D.枕部",
+            "E.颞部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "19.神经性头痛的特点为:",
+        "options": [
+            "A.呈搏动性",
+            "B.呈胀痛",
+            "C.呈闷痛",
+            "D.隐痛",
+            "E.呈电击样"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列哪种头痛直立位时可以缓解？",
+        "options": [
+            "A.神经性头痛",
+            "B.丛集性头痛",
+            "C.脑出血",
+            "D.颅内肿瘤",
+            "E.蛛网膜下腔出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "21.血管性头痛的特点多为:",
+        "options": [
+            "A.胀痛",
+            "B.电击痛",
+            "C.重压痛",
+            "D.牵拉痛",
+            "E.紧箍痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "22.脑瘤初期头痛的特点是:",
+        "options": [
+            "A.头痛部位有定位意义",
+            "B.头痛在活动时减轻",
+            "C.头痛伴明显定位体征",
+            "D.头痛剧烈",
+            "E.头痛在呕吐后减轻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "23.腰椎穿刺后头痛的原因是:",
+        "options": [
+            "A.手术对脑脊髓膜的刺激",
+            "B.穿刺部位周围组织水肿",
+            "C.麻醉药失去作用",
+            "D.疼痛敏感组织被向下牵拉",
+            "E.颅内压增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "24.脑脓肿初期引起头痛主要是因为:",
+        "options": [
+            "A.炎症作用",
+            "B.血管扩张",
+            "C.体温升高",
+            "D.精神因素参与",
+            "E.疼痛敏感结构被脓肿牵拉移位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "25.不符合蛛网膜下腔出血头痛的是:",
+        "options": [
+            "A.青壮年多见",
+            "B.起病时无发热",
+            "C.反复发作且搏动感明显",
+            "D.伴意识障碍",
+            "E.出现脑膜刺激征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "26.哪项不是偏头痛的特征？",
+        "options": [
+            "A.反复发作",
+            "B.搏动性",
+            "C.月经期发作频繁",
+            "D.呕吐后减轻",
+            "E.睡眠后和晨间加重"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "27.慢性进行性头痛患者突然头痛加剧，神智逐渐模糊，常提示:",
+        "options": [
+            "A.一氧化碳中毒",
+            "B.急性颅内感染",
+            "C.发生脑疝",
+            "D.丛集性头痛",
+            "E.椎基底动脉供血不足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "28.头痛伴脑膜刺激征者一般出现于哪一种疾病引起的？",
+        "options": [
+            "A.复杂型偏头痛",
+            "B.蛛网膜下腔出血",
+            "C.头痛型癫痫",
+            "D.颅内肿瘤",
+            "E.脑梗死"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "29.哪一种疾病引起的头痛一般不伴有视乳头水肿？",
+        "options": [
+            "A.脑肿瘤",
+            "B.脑寄生虫病",
+            "C.枕大神经痛",
+            "D.系统性红斑狼疮",
+            "E.良性颅内压增高症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "30.头痛伴发热及脑膜刺激征阳性，最有可能的诊断是:",
+        "options": [
+            "A.脑膜炎",
+            "B.颅内肿瘤",
+            "C.三叉神经痛",
+            "D.肌紧张性头痛",
+            "E.青光眼"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "31.突然剧烈头痛伴呕吐、脑膜刺激征阳性，不发热，见于:",
+        "options": [
+            "A.脑梗死",
+            "B.高血压",
+            "C.蛛网膜下腔出血",
+            "D.脑肿瘤",
+            "E.化脓性脑膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "32.头痛伴癫痫见于:",
+        "options": [
+            "A.偏头痛",
+            "B.青光眼",
+            "C.三叉神经痛",
+            "D.神经功能性头痛",
+            "E.脑内寄生虫病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "33.头痛伴颅内压增高:",
+        "options": [
+            "A.偏头痛",
+            "B.三叉神经痛",
+            "C.肌紧张性头痛",
+            "D.青光眼",
+            "E.高血压脑病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "34.持续性强直性痉挛，伴肌肉剧烈的疼痛:",
+        "options": [
+            "A.破伤风",
+            "B.蛛网膜下腔出血",
+            "C.颅内占位性疾病",
+            "D.高血压脑病",
+            "E.癫痫大发作"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "35.头痛伴脑膜刺激征常见于:",
+        "options": [
+            "A.高血压病",
+            "B.脑膜炎",
+            "C.脑栓塞",
+            "D.脑肿瘤",
+            "E.青光眼"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "36.头痛伴眩晕常见于:",
+        "options": [
+            "A.蛛网膜下腔出血",
+            "B.脑血管畸形",
+            "C.小脑肿瘤",
+            "D.青光眼",
+            "E.脑膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "37.慢性进行性头痛伴惊厥提示:",
+        "options": [
+            "A.破伤风",
+            "B.蛛网膜下腔出血",
+            "C.颅内占位性疾病",
+            "D.高血压脑病",
+            "E.癫痫大发作"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "38.剧烈头痛伴惊厥、脑膜刺激征",
+        "options": [
+            "A.破伤风",
+            "B.蛛网膜下腔出血",
+            "C.颅内占位性疾病",
+            "D.高血压脑病",
+            "E.癫痫大发作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "39.慢性进行性头痛伴呕吐、视神经乳头水肿提示:",
+        "options": [
+            "A.脑血栓形成",
+            "B.颅骨骨折",
+            "C.偏头痛",
+            "D.颅内占位性病变",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "40.头痛伴呕吐，视乳头水肿提示:",
+        "options": [
+            "A.脑梗死",
+            "B.颅内占位性病变",
+            "C.颅骨骨折",
+            "D.偏头痛",
+            "E.上颌窦炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列哪项疾病可出现头痛伴脑膜刺激征？",
+        "options": [
+            "A.偏头痛",
+            "B.青光眼",
+            "C.三叉神经痛",
+            "D.癔症性头痛",
+            "E.蛛网膜下腔出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "42.突然发生剧烈的头痛，伴有呕吐、脑膜刺激征，不发烧，见于:",
+        "options": [
+            "A.脑肿瘤",
+            "B.高血压",
+            "C.蛛网膜下腔出血",
+            "D.脑血栓",
+            "E.化脓性脑膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "43.慢性进行性头痛伴呕吐、视神经乳头水肿，提示:",
+        "options": [
+            "A.偏头痛",
+            "B.颅骨骨折",
+            "C.脑血栓形成",
+            "D.丛集性头痛",
+            "E.颅内占位性病变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "44.患者，男性，38岁，突然出现剧烈头痛、呕吐及抽搐，查体:体温、血压正常，脑膜刺激征（+），最可能的诊断为:",
+        "options": [
+            "A.脑膜炎",
+            "B.高血压脑病",
+            "C.蛛网膜下腔出血",
+            "D.脑血栓形成",
+            "E.低血糖症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

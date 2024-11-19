@@ -1,0 +1,310 @@
+[
+    {
+        "question_text": "1.以下疾病可导致腰背痛，除外:",
+        "options": [
+            "A.宫颈癌",
+            "B.子宫脱垂",
+            "C.前庭大腺囊肿",
+            "D.子宫后倾",
+            "E.盆腔炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 1
+    },
+    {
+        "question_text": "2.对慢性腰肌劳损描述不正确的是:",
+        "options": [
+            "A.腰部酸痛长期存在",
+            "B.伸腰时疼痛加剧",
+            "C.充分睡眠休息后疼痛减轻",
+            "D.长时间弯腰劳动腰痛加重",
+            "E.体查无特殊阳性体征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 2
+    },
+    {
+        "question_text": "3.对肿瘤性腰背痛描述不正确的是:",
+        "options": [
+            "A.持续性腰背痛",
+            "B.原发性肿瘤多于继发性",
+            "C.疾病发展迅速",
+            "D.药物缓解不明显",
+            "E.常有放射性神经根痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 3
+    },
+    {
+        "question_text": "4.对腰骶神经根炎引起的腰背痛描述不正确的是:",
+        "options": [
+            "A.腰背部以下背部与腰部为主",
+            "B.疼痛向臀部放射",
+            "C.腰部触诊有压痛",
+            "D.严重时有节段性感觉障碍",
+            "E.腱反射亢进"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 4
+    },
+    {
+        "question_text": "5.外伤后腰背痛伴脊柱畸形的疾病是:",
+        "options": [
+            "A.佝偻病",
+            "B.脊柱退行性变",
+            "C.脊柱结核",
+            "D.腰肌劳损",
+            "E.脊柱压缩性骨折"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 5
+    },
+    {
+        "question_text": "6.腰痛伴脊柱自幼畸形，仰卧位不能伸直的疾病是:",
+        "options": [
+            "A.佝偻病",
+            "B.脊柱退行性变",
+            "C.脊柱结核",
+            "D.强直性脊柱炎",
+            "E.脊柱压缩性骨折"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 6
+    },
+    {
+        "question_text": "7.顽固而持续的腰背痛伴放射性神经根痛的疾病是:",
+        "options": [
+            "A.佝偻病",
+            "B.脊柱退行性变",
+            "C.脊柱结核",
+            "D.强直性脊柱炎",
+            "E.脊柱肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 7
+    },
+    {
+        "question_text": "8.腰背痛伴发热、气促、咳嗽时加重等，最可能的疾病是:",
+        "options": [
+            "A.胸膜炎",
+            "B.急性胆囊炎",
+            "C.肺结核",
+            "D.支气管扩张",
+            "E.急性脊髓炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 8
+    },
+    {
+        "question_text": "9.腰背痛，劳累后加剧，捶打腰部疼痛可缓解，X线检查正常，最有可能的疾病是:",
+        "options": [
+            "A.脊柱退行性变",
+            "B.腰肌劳损",
+            "C.脊柱结核",
+            "D.风湿热",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 9
+    },
+    {
+        "question_text": "10.对增生性脊柱炎描述错误的是:",
+        "options": [
+            "A.顽固性腰背痛，晨起更重",
+            "B.平卧可缓解疼痛",
+            "C.好发于50岁以上年龄",
+            "D.腰椎常有压痛",
+            "E.又称退行性脊柱炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 10
+    },
+    {
+        "question_text": "11.对脊柱结核描述错误的是:",
+        "options": [
+            "A.起病隐匿，腰背痛活动时加重，休息后减轻，夜间痛加重",
+            "B.同时伴有低热、倦怠无力、盗汗、消瘦等全身中毒症状",
+            "C.不合并脊柱畸形",
+            "D.疼痛可沿脊柱神经放射至下腹部、臀部、大腿前方等部位",
+            "E.疼痛致使椎旁肌肉痉挛而引起姿势异常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项不是椎间盘突出的临床特点？",
+        "options": [
+            "A.青壮年多见",
+            "B.腰骶多发",
+            "C.有搬重物及扭伤史",
+            "D.仅有腰痛无坐骨神经痛",
+            "E.可突发和缓解起病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 12
+    },
+    {
+        "question_text": "13.以下哪项不符合结核性脊柱炎？",
+        "options": [
+            "A.感染性脊柱炎中最为常见的疾病",
+            "B.腰椎最易受伤",
+            "C.背痛为首发症状",
+            "D.伴乏力、纳差",
+            "E.伴高热、椎旁红肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 13
+    },
+    {
+        "question_text": "14.对压迫症引起的腰背痛下列哪项错误:",
+        "options": [
+            "A.疼痛沿脊神经后根分布区放射",
+            "B.不伴有感觉障碍",
+            "C.呈烧灼或绞榨样痛",
+            "D.咳嗽、喷嚏时加重",
+            "E.有定位性疼痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 14
+    },
+    {
+        "question_text": "15.下腰背痛伴白带过多，而月经正常，最有可能的疾病是:",
+        "options": [
+            "A.痛经",
+            "B.卵巢肿瘤",
+            "C.宫颈炎",
+            "D.急性脊椎炎",
+            "E.腰骶椎融合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 15
+    },
+    {
+        "question_text": "16.腰背剧痛伴高热，有明显压痛叩痛，肢体运动障碍，最可能的疾病是:",
+        "options": [
+            "A.腰椎结核",
+            "B.风湿热",
+            "C.化脓性脊椎炎",
+            "D.急性胆囊炎",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 16
+    },
+    {
+        "question_text": "17.腰痛剧烈，伴下肢麻木，服解热镇痛剂差并有放射性神经根痛，最可能的疾病是:",
+        "options": [
+            "A.脊柱肿瘤",
+            "B.强直性脊柱炎",
+            "C.风湿热",
+            "D.脊柱结核",
+            "E.腰肌劳损"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 17
+    },
+    {
+        "question_text": "18.肾盂肾炎所致腰背痛的特点不包括:",
+        "options": [
+            "A.伴有脊肋角压痛",
+            "B.尿检异常",
+            "C.伴有尿频尿急",
+            "D.常伴有腹部剧烈绞痛",
+            "E.腰背部叩痛明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 18
+    },
+    {
+        "question_text": "19.腰背痛伴右上腹痛最常见的疾病是:",
+        "options": [
+            "A.胸膜炎",
+            "B.急性胆囊炎",
+            "C.腰椎间盘突出症",
+            "D.支气管扩张",
+            "E.颈椎病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 19
+    },
+    {
+        "question_text": "20.腰痛伴面部红斑、低热、脱发的疾病是:",
+        "options": [
+            "A.类风湿关节炎",
+            "B.强直性脊柱炎",
+            "C.风湿热",
+            "D.骨关节炎",
+            "E.系统性红斑狼疮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 20
+    },
+    {
+        "question_text": "21.男，25岁，近2年来感腰痛，午后低热，T37.5～38.0℃之间，盗汗、易疲劳，食欲不佳，最可能的疾病是:",
+        "options": [
+            "A.脊柱结核",
+            "B.类风湿性关节炎",
+            "C.强直性脊柱炎",
+            "D.系统性红斑狼疮",
+            "E.骨关节炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 21
+    },
+    {
+        "question_text": "22.男性，45岁，近4年来经常腰痛，劳累及气候变冷时加剧，3天前因搬重物后，腰痛加剧，疼痛放射至左下肢，最可能的疾病是:",
+        "options": [
+            "A.脊柱结核",
+            "B.类风湿性关节炎",
+            "C.强直性脊柱炎",
+            "D.腰椎间盘突出症",
+            "E.骶椎隐裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 22
+    }
+]

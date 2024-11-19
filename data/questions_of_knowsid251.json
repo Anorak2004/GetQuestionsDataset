@@ -1,0 +1,547 @@
+[
+    {
+        "question_text": "1.\t呼吸功能不全是由于",
+        "options": [
+            "A.\t通气障碍所致",
+            "B.\t换气障碍所致",
+            "C.\tV/Q比例失调所致",
+            "D.\t外呼吸严重障碍所致",
+            "E.\t内呼吸严重障碍所致"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t成人I型呼吸功能不全，当F I 02不足20%时呼 吸衰竭的诊断标准是：",
+        "options": [
+            "A.\tPa02<8.0kPa (1kPa=7.5mmHg)",
+            "B.\tPa02>6.67kPa",
+            "C.\tPaO2<9.3kPa",
+            "D.\tRFI (呼吸衰竭指数)W300",
+            "E.\t.PaO2<8.0kPa 伴有 PaCOz〉6.67kPa"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t海平面条件下，IL型呼吸功能不全诊断指标是",
+        "options": [
+            "A.\tPa02<8.0kPa",
+            "B.\tPaO2<9.3kPa",
+            "C.\tPaC02>6.67kPa",
+            "D.\tPa02<10.6kPa 伴 PaC0z〉6.67kPa",
+            "E.\tPa02<8.0kPa 伴 PaC0z〉6.67kPa"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t在海平面条件下，诊断成年人有呼吸衰竭的根据 之一是Pa02值",
+        "options": [
+            "A.\t<5.3kPa ( 40mmHg )",
+            "B.\t<6.7kPa (50mmHg)",
+            "C.\t<8.0kPa (60mmHg)",
+            "D.\t<9.3kPa (70mmHg)",
+            "E.\t<10.6kPa (80mmHg)"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t造成限制性通气不足原因是",
+        "options": [
+            "A.\t呼吸肌活动障碍",
+            "B.\t气道阻力增高",
+            "C.\t肺泡面积减少",
+            "D.\t肺泡壁厚度增加",
+            "E.\t肺内V/Q比例失调"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t造成阻塞性通气不足的原因是",
+        "options": [
+            "A.\t呼吸肌活动障碍",
+            "B.\t胸廓顺应性降低",
+            "C.\t肺顺应性降低",
+            "D.\t气道阻力增加",
+            "E.\t弥散障碍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t影响气道阻力的最主要因素是",
+        "options": [
+            "A.\t气道内径",
+            "B.\t气道长度",
+            "C.\t气道形态",
+            "D.\t气流速度",
+            "E.\t气流形式"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t外周气道阻塞是指气道内径小于多少的小支气管 阻塞？",
+        "options": [
+            "A.\t<0.5mm",
+            "B.\t<1.0mm",
+            "C.\t<1.5mm",
+            "D.\t<2.0mm",
+            "E.\t<2.5mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t体内肺泡表面活性物质减少造成",
+        "options": [
+            "A.\t肺泡稳定性增加",
+            "B.\t肺顺应性增加",
+            "C.\t肺泡表面张力减少",
+            "D.\t肺泡回缩力增加",
+            "E.\t肺泡毛细管血浆外渗减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 9
+    },
+    {
+        "question_text": "10. 反映肺泡通气量的最佳指标是",
+        "options": [
+            "A. 肺活量",
+            "B. 肺潮气量",
+            "C. PaCO2",
+            "D. PaO2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 10
+    },
+    {
+        "question_text": "11. 重症肌无力所致呼吸衰竭的血气变化特点是",
+        "options": [
+            "A. PaCO2 降低",
+            "B. PaCO2 升高",
+            "C. PaO2降低比PaCO2升高不明显",
+            "D. PaO2升高比PaCO2升高明显",
+            "E. PaO2降低和PaCO2升高成比例"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t喉部发生炎症、水肿时，产生吸气性呼吸困难 的主要机制是",
+        "options": [
+            "A.\t吸气时气道内压低于大气压",
+            "B.\t吸气时胸内压降低",
+            "C.\t吸气时肺泡扩张压迫胸内气道",
+            "D.\t小气道闭合",
+            "E.\t等压点上移至小气道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t慢性阻塞性肺疾患产生呼气性呼吸困难主要机 制是",
+        "options": [
+            "A.\t中央性气道阻塞",
+            "B.\t呼气时气道内压大于大气压",
+            "C.\t胸内压升高压迫气道，气道狭窄加重",
+            "D.\t肺泡扩张，小气道口径变大，管道伸长",
+            "E.\t小气道阻力增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t慢性阻塞性肺疾患在用力呼吸时，呼气困难加 重是由于",
+        "options": [
+            "A.\t用力呼吸导致呼吸肌疲劳",
+            "B.\t胸内压增高",
+            "C.\t小气道阻力增加",
+            "D.\t肺泡扩张压迫小气道",
+            "E.\t等压点移向小气道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t肺水肿病人仅在运动时产生低氧血症，是由于",
+        "options": [
+            "A.\t肺泡膜呼吸面积减少",
+            "B.\t肺泡膜增厚",
+            "C.\t肺泡膜两侧分压差减小",
+            "D.\t血液和肺泡接触时间过于缩短",
+            "E.\t等压点向小气道侧移动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t弥散障碍时血气变化是",
+        "options": [
+            "A.\tPaO2降低",
+            "B.\tPaCO2 正常",
+            "C.\tPaO2升高",
+            "D.\tPaCO2 升高",
+            "E.\tPaCO2 降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t肺内功能性分流是指",
+        "options": [
+            "A.\t部分肺泡通气不足",
+            "B.\t部分肺泡血流不足",
+            "C.\t部分肺泡通气不足而血流正常",
+            "D.\t部分肺泡血流不足而通气正常",
+            "E.\t肺动-静脉吻合支开放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t死腔样通气是指",
+        "options": [
+            "A.\t部分肺泡血流不足",
+            "B.\t部分肺泡通气不足",
+            "C.\t部分肺泡通气不足而血流正常",
+            "D.\t部分肺泡血流不足而通气正常",
+            "E.\t生理死腔扩大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t真性分流是指",
+        "options": [
+            "A.\t部分肺泡通气不足",
+            "B.\t部分肺泡血流不足",
+            "C.\t肺泡完全不通气但仍有血流",
+            "D.\t部分肺泡完全无血流但仍有通气",
+            "E.\t肺泡通气和血流都不足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t肺分流一般不易引起动脉血中CO?增加是由于",
+        "options": [
+            "A.\tCO2弥散能力大",
+            "B.\tCO?为水溶性",
+            "C.\t分流血液中CO?易通过肺泡排出",
+            "D.\t通气增加排出CO?",
+            "E.\t换气增加排出CO?"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t为了解患者肺泡换气功能，给予100%氧，吸入 15min,观察吸纯氧前后的PaO?，如变化不大，属 下列何种异常？",
+        "options": [
+            "A.\t功能性分流",
+            "B.\t解剖性分流",
+            "C.\t弥散障碍",
+            "D.\t死腔样通气",
+            "E.\t通气障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t在急性呼吸窘迫综合征的发生中下列何种细胞 在呼吸膜损伤方面发挥重要作用？",
+        "options": [
+            "A.\t肺胞I型上皮细胞",
+            "B.\t肺胞II型上皮细胞",
+            "C.\t中性粒细胞",
+            "D.\t单核细胞",
+            "E.\t巨噬细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 22
+    },
+    {
+        "question_text": "23.\tARDS发生呼吸衰竭主要机制是",
+        "options": [
+            "A.\t通透性肺水肿",
+            "B.\t肺不张",
+            "C.\t肺泡通气血流比例失调",
+            "D.\t死腔样通气",
+            "E.\tJ感受器刺激呼吸窘迫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 23
+    },
+    {
+        "question_text": "24.\tARDS病人通常不发生II型呼吸衰竭，这是由于",
+        "options": [
+            "A.\t通透性肺水肿",
+            "B.\t死腔样通气",
+            "C.\tJ感受器剌激",
+            "D.\t肺内功能性分流",
+            "E.\t肺内真性分流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t呼吸衰竭时最常发生的酸碱平衡紊乱是",
+        "options": [
+            "A.\t代谢性酸中毒",
+            "B.\t代谢性碱中毒",
+            "C.\t呼吸性碱中毒",
+            "D.\t呼吸性酸中毒",
+            "E.\t混合性酸碱紊乱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t急性呼吸性酸中毒的主要代偿机制是",
+        "options": [
+            "A.\t肺代偿",
+            "B.\t肾脏泌H+增多",
+            "C.\t肾脏产NH3增多",
+            "D.\t肾脏重吸收NaHCO3增多",
+            "E.\t细胞内缓冲和细胞内外离子交换"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t某呼吸衰竭患者血气分析结果：血pH7. O?，PaCO?60mmHg, PaO? 37.5mmHg， HCO3-15mmo l/L，问并发何种酸碱平衡紊乱？",
+        "options": [
+            "A.\t急性呼吸性酸中毒",
+            "B.\t慢性呼吸性酸中毒",
+            "C.\t急性呼吸性酸中毒合并代谢性酸中毒",
+            "D.\t代谢性酸中毒",
+            "E.\t慢性呼吸性酸中毒合并代谢性酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 27
+    },
+    {
+        "question_text": "28. 急性呼吸窘迫综合征中下列哪一项不存在？",
+        "options": [
+            "A. 胸廓和肺顺应性降低",
+            "B. X线检查肺纹理增加，斑片状阴影出现",
+            "C. 进行性呼吸困难，呼吸频率每分钟?0次以上",
+            "D. 顽固性低氧血症",
+            "E. 吸纯氧15min后PaO2低于350mmHg"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t急性呼吸窘迫综合征时形成肺水肿的主要机制 是",
+        "options": [
+            "A.\t肺微血管内静水压升高",
+            "B.\t肺血管收缩致肺动脉压升高",
+            "C.\t肺淋巴回流障碍",
+            "D.\t血浆体渗透压降低",
+            "E.\t肺泡-毛细血管膜损伤而通透性升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t急性呼吸窘迫综合征的主要发病机制是",
+        "options": [
+            "A.\t致病因子损伤肺泡毛细血管膜",
+            "B.\t致病因子损伤肺泡上皮细胞",
+            "C.\t致病因子损伤血管内皮细胞",
+            "D.\t血小板聚集形成微血栓",
+            "E.\t中性粒细胞释放氧自由基、蛋白酶损伤肺泡-毛 细血管膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t粘附中性粒细胞于血管内皮细胞的物质是",
+        "options": [
+            "A.\tLTB4",
+            "B.\tPAF",
+            "C.\tMacT",
+            "D.\tFDP",
+            "E.\tIL-8"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t急性呼吸窘迫综合征时中性粒细胞释放氧自由 基主要是通过",
+        "options": [
+            "A.\t黄嘌吟脱氢酶转变为黄嘌吟氧化酶",
+            "B.\t黄嘌吟氧化酶转变为黄嘌吟脱氢酶",
+            "C.\t还原型辅酶I氧化酶被激活",
+            "D.\t还原型辅酶II氧化酶被激活",
+            "E.\t辅酶I氧化酶被激活"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t肺源性心脏病的主要发病机制是",
+        "options": [
+            "A.\t血液粘度增高",
+            "B.\t肺小血管管壁增厚、管腔狭窄",
+            "C.\t缺氧和酸中毒使肺小动脉收缩",
+            "D.\t用力吸气使胸内压降低增加右心收缩负荷",
+            "E.\t用力呼气使胸内压升高减弱右心舒张功能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t呼吸衰竭导致肺性脑病发生的主要作用是",
+        "options": [
+            "A.\t缺氧使脑血管扩张",
+            "B.\t缺氧使细胞内ATP生成减少",
+            "C.\t缺氧使血管壁通透性升高",
+            "D.\t缺氧使细胞内酸中毒",
+            "E.\tCO2分压升高使脑血流量增加和脑细胞酸中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t呼吸衰竭引起肺动脉高压的主要机制是",
+        "options": [
+            "A.\t血液粘滞性增高",
+            "B.\t缺氧所致血量增多",
+            "C.\t肺泡气氧分压降低引起肺血管收缩",
+            "D.\t外周血管扩张血液回流增加",
+            "E.\t肺小动脉壁增厚"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t呼吸衰竭易并发功能性肾衰这是由于",
+        "options": [
+            "A.\t产生广泛性肾小球器质性损伤",
+            "B.\t酸中毒导致血清K+浓度增高",
+            "C.\t肺过度通气，血氧升高",
+            "D.\t肾血流量严重减少",
+            "E.\t易产生急性肾小管坏死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t严重II型呼吸衰竭病人宜低浓度氧疗这是由于",
+        "options": [
+            "A.\tPaO2 低于 60mmHg ( 1mmHg=0.133kPa)对化学感受 器作用才明显",
+            "B.\tPaO2为30mmHg时肺通气量最大",
+            "C.\tPaCO2超过80mmHg时呼吸运动主要靠低氧刺激",
+            "D.\t缺氧对呼吸中枢抑制作用大于反射兴奋作用",
+            "E.\t低浓度氧疗能增强呼吸动力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t胸内中央气道阻塞可发生：",
+        "options": [
+            "A.\t呼气性呼吸困难",
+            "B.\t吸气性呼吸困难",
+            "C.\t吸气呼气同等困难",
+            "D.\t吸气呼气均无困难",
+            "E.\t阵发性呼吸困难"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t—般情况下，下列哪项血气变化不会出现在单 纯肺弥散障碍时？",
+        "options": [
+            "A.\tPaO2降低",
+            "B.\tPaCO2 降低",
+            "C.\tPaO2降低伴PaCO2升高",
+            "D.\tPaCO2 正常",
+            "E.\tPaO2降低伴PaCO2正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 39
+    }
+]

@@ -1,0 +1,3865 @@
+[
+    {
+        "question_text": "305.心肌细胞分为快反应细胞和慢反应细胞的主 要依据是",
+        "options": [
+            "A.静息电位的水平",
+            "B.0期去极化的速率",
+            "C.平台期的长短",
+            "D.超射值的大小",
+            "E.动作电位时程长短"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 1
+    },
+    {
+        "question_text": "306.兴奋传导速度最慢的心肌细胞是",
+        "options": [
+            "A.心房肌",
+            "B.浦肯野纤维",
+            "C.房室交界",
+            "D.左右束支",
+            "E.心室肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 2
+    },
+    {
+        "question_text": "307.兴奋传导速度最快的心肌细胞是",
+        "options": [
+            "A.窦房结P细胞",
+            "B.心房肌",
+            "C.房室交界",
+            "D.浦肯野纤维",
+            "E.心室肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 3
+    },
+    {
+        "question_text": "308.人和哺乳动物的心室肌细胞静息电位为",
+        "options": [
+            "A.- 50mV",
+            "B.- 70mV",
+            "C.-90mV",
+            "D.- 110mV",
+            "E.-60mV"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 4
+    },
+    {
+        "question_text": "309.心室肌细胞平台期的主要跨膜离子流是",
+        "options": [
+            "A.钠离子内流、钾离子外流",
+            "B.钠离子内流、钙离子外流",
+            "C.钙离子外流、钾离子内流",
+            "D.钙离子内流、钾离子外流",
+            "E.钾离子内流、钠离子外流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 5
+    },
+    {
+        "question_text": "310.普通心肌细胞去极相和骨骼肌细胞主要不同 在于",
+        "options": [
+            "A.去极相幅度大",
+            "B.去极相由钙离子内流产生",
+            "C.去极化速度快",
+            "D.去极化持续时间长",
+            "E.钠离子通道对TTX不敏感"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 6
+    },
+    {
+        "question_text": "311.心室肌细胞动作电位超射值主要取决于",
+        "options": [
+            "A.钠平衡电位水平",
+            "B.钾平衡电位水平",
+            "C.阈电位水平",
+            "D.静息电位水平",
+            "E.0期去极速度和幅度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 7
+    },
+    {
+        "question_text": "312.对心肌细胞复极化时Ito的描述.错误的是",
+        "options": [
+            "A.使膜电位迅速回到平台期水平",
+            "B.主要离子成分是钾离子",
+            "C.通道在膜电位去极化到-40mV时被激活",
+            "D.能够被锰离子阻断",
+            "E.约开放5--10ms"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 8
+    },
+    {
+        "question_text": "313.内向整流是指",
+        "options": [
+            "A.一过性钠离子的内向电流",
+            "B.钾离子的通透性因膜的去极化而降低",
+            "C.0期去极化激活的IK电流",
+            "D.通过L型钙离子通道的内向钠离子电流",
+            "E.通过L型钙离子通道的内向钙离子和钠离子电 流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 9
+    },
+    {
+        "question_text": "314.心肌细胞有效不应期的长短主要取决于",
+        "options": [
+            "A.0期去极化的速度",
+            "B.超射值的大小",
+            "C.平台期的长短",
+            "D.静息电位水平",
+            "E.阈电位水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 10
+    },
+    {
+        "question_text": "315.有关窦房结细胞4期自动去极化的离子基 础.正确的描述是",
+        "options": [
+            "A.IK通道进行性失活是自动除极最重要的原因",
+            "B.If电流进行性减弱，这种电流可被铯阻断",
+            "C.钠离子内流进行性增强，这种电流可被河豚毒 阻断",
+            "D.L型钙离子通道激活，这种通道受儿茶酚胺调控",
+            "E.T型钙离子通道激活，这种通道可被维拉帕米阻 断"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 11
+    },
+    {
+        "question_text": "316.心肌细胞在超常期内产生的动作电位.其",
+        "options": [
+            "A.0期去极化幅度大于正常",
+            "B.0期去极化速度大于正常",
+            "C.兴奋传导速度小于正常",
+            "D.时程延长",
+            "E.不应期延长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 12
+    },
+    {
+        "question_text": "317.在If电流中最重要的跨膜离子流是",
+        "options": [
+            "A.逐渐衰减的外向钾离子电流",
+            "B.逐渐增强的内向钠离子电流",
+            "C.通过T型钙离子通道的内向钙离子电流",
+            "D.通过L型钙离子通道的内向钙离子电流",
+            "E.通过由乙酰胆碱控制的钾离子通道的外向钾离 子电流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 13
+    },
+    {
+        "question_text": "318.心内兴奋传导最易发生阻滞的部位是",
+        "options": [
+            "A.心房肌",
+            "B.房室交界",
+            "C.左、右束支",
+            "D.普肯耶纤维",
+            "E.心室肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 14
+    },
+    {
+        "question_text": "319.房室交界处传导速度较慢的生理意义在于",
+        "options": [
+            "A.有利于增强心肌收缩能力",
+            "B.有利于心房或心室同步收缩",
+            "C.有利于心室充盈和射血的交替",
+            "D.有效避免出现完全强直收缩",
+            "E.有效防止出现期前收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 15
+    },
+    {
+        "question_text": "320.下列关于心电图波形与心肌动作电位关系的 描述.正确的是",
+        "options": [
+            "A.P波反映心房肌动作电位的全过程",
+            "B.QRS波群反映心室肌动作电位的全过程",
+            "C.T段反映静息期膜内外离子分布恢复的过程",
+            "D.心电图一个周期等于心房、心室肌细胞动作电 位时程之和",
+            "E.心电图反映无数心肌细胞动作电位效应的总和"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 16
+    },
+    {
+        "question_text": "321.在心动周期中.下列各时期中心室内压最高 的是",
+        "options": [
+            "A.等容收缩期末",
+            "B.快速射血期末",
+            "C.减慢射血期末",
+            "D.快速充盈期末",
+            "E.减慢充盈期末"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 17
+    },
+    {
+        "question_text": "322.在心动周期中.下列各时期中心室内压最低 的是",
+        "options": [
+            "A.等容舒张期末",
+            "B.快速充盈期末",
+            "C.减慢充盈期末",
+            "D.心房收缩期末",
+            "E.等容收缩期末"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 18
+    },
+    {
+        "question_text": "323.心动周期中.主动脉压最高见于",
+        "options": [
+            "A.心房收缩期末",
+            "B.等容收缩期末",
+            "C.快速射血期末",
+            "D.减慢射血期末",
+            "E.等容舒张期末"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 19
+    },
+    {
+        "question_text": "324.心动周期中.主动脉压最低见于",
+        "options": [
+            "A.等容舒张期末",
+            "B.快速充盈期末",
+            "C.减慢充盈期末",
+            "D.心房收缩期末",
+            "E.等容收缩期末"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 20
+    },
+    {
+        "question_text": "325.在心动周期中.下列各时期中心室容积最大 的是",
+        "options": [
+            "A.快速充盈期末",
+            "B.减慢充盈期末",
+            "C.心房收缩期末",
+            "D.快速射血期末",
+            "E.减慢射血期末"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 21
+    },
+    {
+        "question_text": "326.在心动周期中.下列各时期的中心室容积最 小的是",
+        "options": [
+            "A.快速充盈期末",
+            "B.减慢充盈期末",
+            "C.等容收缩期末",
+            "D.快速射血期末",
+            "E.减慢射血期末"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 22
+    },
+    {
+        "question_text": "327.在心动周期中.房室瓣开放始于",
+        "options": [
+            "A.等容舒张期末",
+            "B.快速充盈期末",
+            "C.减慢充盈期末",
+            "D.心房收缩期初",
+            "E.心房收缩期末"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 23
+    },
+    {
+        "question_text": "328.在心动周期中.房室瓣关闭始于",
+        "options": [
+            "A.快速充盈期末",
+            "B.减慢充盈期末",
+            "C.心房收缩期末",
+            "D.等容收缩期末",
+            "E.快速射血期末"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 24
+    },
+    {
+        "question_text": "329.在心动周期中.心室内压上升速率最快的时 期是",
+        "options": [
+            "A.心房收缩期",
+            "B.等容收缩期",
+            "C.快速射血期",
+            "D.减慢射血期",
+            "E.快速充盈期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 25
+    },
+    {
+        "question_text": "330.在心动周期中，主动脉瓣关闭始于",
+        "options": [
+            "A.快速射血期初",
+            "B.减慢射血期初",
+            "C.等容舒张期初",
+            "D.快速充盈期初",
+            "E.减慢充盈期初"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 26
+    },
+    {
+        "question_text": "331.在心动周期中.心室充盈主要依靠",
+        "options": [
+            "A.地心引力的作用",
+            "B.骨骼肌挤压和静脉瓣的共同作用",
+            "C.心房收缩的作用",
+            "D.心室舒张的抽吸作用",
+            "E.胸膜腔内负压的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 27
+    },
+    {
+        "question_text": "332.心房收缩挤入心室的血量约占心室总充盈量 的",
+        "options": [
+            "A.1/15",
+            "B.1/10",
+            "C.1/4",
+            "D.1/2",
+            "E.3/4"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 28
+    },
+    {
+        "question_text": "333.第二心音的产生主要由于",
+        "options": [
+            "A.房室瓣开放",
+            "B.房室瓣关闭",
+            "C.动脉瓣开放",
+            "D.动脉瓣关闭",
+            "E.乳头肌及腱索的振动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 29
+    },
+    {
+        "question_text": "334.下列关于心率的描述.错误的是",
+        "options": [
+            "A.正常人安静时为60--100次/分",
+            "B.新生儿心率较成年人慢",
+            "C.女性心率比男性稍快",
+            "D.运动员平时心率较慢",
+            "E.甲亢、妊娠患者心率较快"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 30
+    },
+    {
+        "question_text": "335.健康成年男性在安静状态下的心排出量约为",
+        "options": [
+            "A.2--3L/min",
+            "B.5--6L/min",
+            "C.10--15L/min",
+            "D.20--25L/min",
+            "E.30--35L/min"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 31
+    },
+    {
+        "question_text": "336.静息心指数等于",
+        "options": [
+            "A.每搏输出量/心室舒张末期容积",
+            "B.心排出量/体表面积",
+            "C.每搏输出量/体表面积",
+            "D.心室舒张末期容积/体表面积",
+            "E.每分功/体表面积"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 32
+    },
+    {
+        "question_text": "337.高血压患者与正常人相比.下列各项指标中明显增高的是",
+        "options": [
+            "A.每搏输出量",
+            "B.心排出量",
+            "C.心脏做功量",
+            "D.心指数",
+            "E.射血分数"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 33
+    },
+    {
+        "question_text": "338.射血分数是指",
+        "options": [
+            "A.每搏输出量/心室舒张末期容积",
+            "B.心排出量/体表面积",
+            "C.心室收缩末期容积/心室舒张末期容积",
+            "D.心排出量/心室舒张末期容积",
+            "E.心室舒张末期容积/体表面积"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 34
+    },
+    {
+        "question_text": "*339.体循环和肺循环相比.基本相同的是",
+        "options": [
+            "A.心脏做功量",
+            "B.心排出量",
+            "C.动脉血压",
+            "D.动脉血含氧量",
+            "E.外周阻力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 35
+    },
+    {
+        "question_text": "340.心率过快时心排出量减少的原因是",
+        "options": [
+            "A.心房收缩期缩短",
+            "B.等容收缩期缩短",
+            "C.心室射血期缩短",
+            "D.等容舒张期缩短",
+            "E.心室充盈期缩短"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 36
+    },
+    {
+        "question_text": "341.健康成年人在强体力劳动时.心排出量约可 达到",
+        "options": [
+            "A.5--6L/min",
+            "B.30L/min",
+            "C.60L/min",
+            "D.120L/min",
+            "E.150L/min"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 37
+    },
+    {
+        "question_text": "*342.关于儿茶酚胺对心肌的正性肌力作用的机 制.正确的描述是",
+        "options": [
+            "A.由心肌细胞膜上的B2受体介导",
+            "B.以三磷酸肌醇和DG为第二信使",
+            "C.细胞膜上钙离子通道蛋白去磷酸化",
+            "D.胞质内钙离子来自细胞外和肌质网",
+            "E.肌丝滑行时起作用的横桥数目增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 38
+    },
+    {
+        "question_text": "343.下列各项指标中可用来反映心脏射血的前负 荷的是",
+        "options": [
+            "A.心室收缩末期容积",
+            "B.心室舒张末期容积",
+            "C.心室等容舒张期容积",
+            "D.等容收缩期心室内压",
+            "E.快速射血期心室内压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 39
+    },
+    {
+        "question_text": "344.心室射血的后负荷是指",
+        "options": [
+            "A.心室内压",
+            "B.主动脉血压",
+            "C.主动脉脉压",
+            "D.总外周阻力",
+            "E.中心静脉压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 40
+    },
+    {
+        "question_text": "345.可实现心肌收缩能力增强的途径是",
+        "options": [
+            "A.增加参与收缩的肌纤维数目",
+            "B.增加肌小节的初长度",
+            "C.增加兴奋时肌质内钙离子浓度",
+            "D.心肌发生完全强直收缩",
+            "E.降低主动脉的血压水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 41
+    },
+    {
+        "question_text": "346.静脉注射乙酰胆碱后.心排出量减少的主要 原因是",
+        "options": [
+            "A.心肌细胞传导减慢",
+            "B.心肌收缩力减弱",
+            "C.心率减慢",
+            "D.静脉回流减慢",
+            "E.后负荷增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 42
+    },
+    {
+        "question_text": "347.可实现心肌等长自身调节的是",
+        "options": [
+            "A.心室舒张末期压力",
+            "B.心肌收缩能力",
+            "C.肌小节长度",
+            "D.主动脉血压",
+            "E.心力储备"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 43
+    },
+    {
+        "question_text": "*348.下列各种物质中可使心功能曲线左上移的是",
+        "options": [
+            "A.肾上腺素",
+            "B.氢离子浓度升高",
+            "C.乙酰胆碱",
+            "D.血管升压素",
+            "E.腺苷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 44
+    },
+    {
+        "question_text": "349.正常的左室舒张末期充盈压变动范围使心室 活动处于心功能曲线的",
+        "options": [
+            "A.最小前负荷段",
+            "B.上升段",
+            "C.最适前负荷段",
+            "D.平坦段",
+            "E.降支"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 45
+    },
+    {
+        "question_text": "350.Starling机制在生理状态下的主要功能在于 调节",
+        "options": [
+            "A.心排出量",
+            "B.心指数",
+            "C.搏出量和回心血量的平衡",
+            "D.射血分数",
+            "E.每搏功"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 46
+    },
+    {
+        "question_text": "351.心室功能曲线可以反映的关系是",
+        "options": [
+            "A.心率和心排出量",
+            "B.心率和搏功",
+            "C.搏功和心室充盈压",
+            "D.搏功和心排出量",
+            "E.心室充盈压和心率"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 47
+    },
+    {
+        "question_text": "352.左心室做功大于右心室的主要原因是",
+        "options": [
+            "A.每搏输出量不同",
+            "B.体循环和肺循环的循环路径长度不同",
+            "C.主动脉和肺动脉平均压不同",
+            "D.左心室和右心室舒张末期压力不同",
+            "E.左心室和右心室舒张末期容积不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 48
+    },
+    {
+        "question_text": "353.心衰患者心功能曲线位于正常人心功能曲线 的",
+        "options": [
+            "A.左上方",
+            "B.左下方",
+            "C.左侧",
+            "D.右侧",
+            "E.右下方"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 49
+    },
+    {
+        "question_text": "354.后负荷突然增加会引起",
+        "options": [
+            "A.心室肌缩短程度增加",
+            "B.心室肌缩短速度加快",
+            "C.搏功减少",
+            "D.射血速度加快",
+            "E.心室内剩余血量增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 50
+    },
+    {
+        "question_text": "355.心率减慢时.心脏可实现充盈和射血的平衡 的方式是",
+        "options": [
+            "A.Starling 机制",
+            "B.改变后负荷",
+            "C.改变心肌收缩能力",
+            "D.改变细胞内钙离子浓度",
+            "E.改变细胞内cAMP浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 51
+    },
+    {
+        "question_text": "356.正常心室功能曲线不出现明显下降支的原因 是",
+        "options": [
+            "A.心肌被动张力小",
+            "B.心肌主动张力大",
+            "C.心肌延展性小",
+            "D.心交感紧张性支配",
+            "E.心腔内始终有血液充盈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 52
+    },
+    {
+        "question_text": "357.下列关于正常人左心功能曲线的描述.错误 的是",
+        "options": [
+            "A.一般情况下充盈压为5--6mmHg",
+            "B.充盈压l215mmHg为最适前负荷",
+            "C.充盈压l5--20mmHg时曲线渐趋平坦",
+            "D.充盈压高于20mmHg时曲线平坦或轻度下倾",
+            "E.充盈压50mmHg时曲线明显下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 53
+    },
+    {
+        "question_text": "358.心功能不全的患者与正常人相比",
+        "options": [
+            "A.心率明显加快",
+            "B.每搏输出量明显降低",
+            "C.搏功明显增大",
+            "D.静息心指数明显降低",
+            "E.心力储备明显降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 54
+    },
+    {
+        "question_text": "359.关于弹性贮器血管的描述.正确的是",
+        "options": [
+            "A.管壁富含平滑肌纤维",
+            "B.有明显可扩张性和弹性",
+            "C.管壁硬化时可使脉压减小",
+            "D.心缩期约1/3搏出量留在管腔内",
+            "E.起血液储存库的作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 55
+    },
+    {
+        "question_text": "360.容量血管是指",
+        "options": [
+            "A.大动脉",
+            "B.中动脉",
+            "C.小、微动脉",
+            "D.毛细血管",
+            "E.静脉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 56
+    },
+    {
+        "question_text": "361.主动脉血流能在心动周期中保持相对稳定.其主要原因是主动脉的",
+        "options": [
+            "A.血压水平高",
+            "B.血流速度快",
+            "C.血流阻力小",
+            "D.管壁厚",
+            "E.可扩张性和弹性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 57
+    },
+    {
+        "question_text": "362.在体循环中.血压下降最为显著的部位是",
+        "options": [
+            "A.主动脉",
+            "B.大动脉",
+            "C.微动脉",
+            "D.毛细血管",
+            "E.静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 58
+    },
+    {
+        "question_text": "363.根据血流动力学原理.影响血流阻力最主要 的因素是",
+        "options": [
+            "A.血管半径",
+            "B.血流形式",
+            "C.血液黏滞度",
+            "D.血细胞比容",
+            "E.血管长度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 59
+    },
+    {
+        "question_text": "364.下列各种情况下血流阻力会增大的是",
+        "options": [
+            "A.血流黏滞度减小",
+            "B.由湍流变成层流",
+            "C.血细胞比容减小",
+            "D.血管收缩",
+            "E.血液温度升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 60
+    },
+    {
+        "question_text": "365.心血管系统中.顺应性最大的血管是",
+        "options": [
+            "A.弹性贮器血管",
+            "B.分配血管",
+            "C.阻力血管",
+            "D.交换血管",
+            "E.容量血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 61
+    },
+    {
+        "question_text": "366.我国健康青年人在安静时的动脉收缩压为",
+        "options": [
+            "A.80120mmHg",
+            "B.100--120mmHg",
+            "C.90--140mmHg",
+            "D.120--150mmHg",
+            "E.100--160mmHg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 62
+    },
+    {
+        "question_text": "367.我国健康青年人在安静时的动脉舒张压为",
+        "options": [
+            "A.60--80mmHg",
+            "B.60--90mmHg",
+            "C.50--100mmHg",
+            "D.70--100mmHg",
+            "E.60--120mmHg"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 63
+    },
+    {
+        "question_text": "*368.在下列各血管中.血压波动幅度最大的是",
+        "options": [
+            "A.主动脉",
+            "B.股动脉",
+            "C.毛细血管",
+            "D.微静脉",
+            "E.腔静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 64
+    },
+    {
+        "question_text": "369.主动脉管壁硬化可使",
+        "options": [
+            "A.收缩压降低",
+            "B.舒张压升高",
+            "C.弹性贮器作用增大",
+            "D.脉搏波传播加快",
+            "E.心缩期主动脉内血流减慢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 65
+    },
+    {
+        "question_text": "370.如果外周阻力不变.每搏输出量增大.则动 脉血压的变化为",
+        "options": [
+            "A.收缩压升高，舒张压降低",
+            "B.收缩压不变，舒张压升高",
+            "C.收缩压升高，舒张压不变",
+            "D.收缩压升高比舒张压升高更明显",
+            "E.舒张压升高比收缩压升高更明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 66
+    },
+    {
+        "question_text": "371.主动脉和大动脉的弹性贮器作用降低时.动 脉血压的变化为",
+        "options": [
+            "A.收缩压升高，舒张压降低",
+            "B.收缩压升高比舒张压升高更明显",
+            "C.舒张压升高比收缩压升高更明显",
+            "D.收缩压升高，舒张压不变",
+            "E.收缩压降低，舒张压不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 67
+    },
+    {
+        "question_text": "372.动脉脉搏图上的降中峡见于",
+        "options": [
+            "A.等容收缩期末",
+            "B.快速射血期末",
+            "C.减慢射血期末",
+            "D.等容舒张期末",
+            "E.快速充盈期末"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 68
+    },
+    {
+        "question_text": "373.下列各种情况下.动脉脉搏图上可不出现降 中峡的是",
+        "options": [
+            "A.每搏输出量减少",
+            "B.主动脉弹性减退",
+            "C.主动脉血压升高",
+            "D.主动脉瓣狭窄",
+            "E.主动脉瓣关闭不全"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 69
+    },
+    {
+        "question_text": "*374.下列各项中.能使动脉脉搏波上升支变得平 缓的是",
+        "options": [
+            "A.心交感兴奋",
+            "B.每搏输出量增大",
+            "C.心率减慢",
+            "D.主动脉瓣狭窄",
+            "E.主动脉硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 70
+    },
+    {
+        "question_text": "375.下列各种情况下.可观察到毛细血管搏动的 是",
+        "options": [
+            "A.心率加快",
+            "B.每搏输出量降低",
+            "C.主动脉瓣关闭不全",
+            "D.大动脉弹性贮器作用增强",
+            "E.左心衰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 71
+    },
+    {
+        "question_text": "376.下列各种情况下.可观察到颈静脉搏动的是",
+        "options": [
+            "A.主动脉硬化",
+            "B.外周阻力增大",
+            "C.右心衰",
+            "D.心率加快",
+            "E.每搏输出量增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 72
+    },
+    {
+        "question_text": "377.能使动脉血压波幅增大的原因是",
+        "options": [
+            "A.心动过速",
+            "B.房室瓣狭窄",
+            "C.主动脉瓣狭窄",
+            "D.大动脉硬化",
+            "E.小动脉硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 73
+    },
+    {
+        "question_text": "378.关于动脉脉搏的描述.正确的是",
+        "options": [
+            "A.射血阻力增大时，上升支斜率变小",
+            "B.射血速度加快时，上升支变平坦",
+            "C.心排出量增多时，上升支幅度减小",
+            "D.外周阻力加大时，降中峡位置降低",
+            "E.动脉管壁硬化时，传导速度减慢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 74
+    },
+    {
+        "question_text": "379.下列关于人体静脉血压的描述.错误的是",
+        "options": [
+            "A.站立时，颅内静脉窦血压可低于大气压",
+            "B.呼气时，中心静脉压较吸气时低",
+            "C.心脏射血能力减弱时，中心静脉压升高",
+            "D.站立不动时，足背静脉压可达90mmHg左右",
+            "E.行走时，足背静脉压较站立不动时低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 75
+    },
+    {
+        "question_text": "380.中心静脉压的正常变动范围是",
+        "options": [
+            "A.4 --12cmH20",
+            "B.0--20cmH20",
+            "C.4 --12mmHg",
+            "D.0--20mmHg",
+            "E.4--20mmHg"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 76
+    },
+    {
+        "question_text": "381.关于中心静脉压的描述.正确的是",
+        "options": [
+            "A.指左心房和肺静脉的血压",
+            "B.正常值为4--12mmH",
+            "C.心功能不全时，中心静脉压降低",
+            "D.卧位转为直立时，中心静脉压升高",
+            "E.过敏性休克时，中心静脉压降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 77
+    },
+    {
+        "question_text": "382.可使静脉回流量减少的因素是",
+        "options": [
+            "A.体循环平均充盈压升高",
+            "B.心脏收缩力量加强",
+            "C.由卧位转为立位时",
+            "D.有节律的慢跑",
+            "E.吸气时相"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 78
+    },
+    {
+        "question_text": "383.站立过久出现下肢水肿的主要原因是",
+        "options": [
+            "A.下肢静脉扩张",
+            "B.下肢血流量增大",
+            "C.下肢淋巴回流受阻",
+            "D.毛细血管压升高",
+            "E.机体血容量增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 79
+    },
+    {
+        "question_text": "*384.关于毛细血管特点的描述.错误的是",
+        "options": [
+            "A.血流速度慢",
+            "B.血流阻力大",
+            "C.总横截面积大",
+            "D.管壁通透性高",
+            "E.血容量大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 80
+    },
+    {
+        "question_text": "385.在下列各微循环结构中.主要受局部代谢产 物调节的是",
+        "options": [
+            "A.微动脉",
+            "B.毛细血管前括约肌",
+            "C.通血毛细血管",
+            "D.真毛细血管",
+            "E.微静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 81
+    },
+    {
+        "question_text": "386.下列关于微循环血流动力学的描述.正确的 是",
+        "options": [
+            "\"A.毛细血管前后阻力比约为2：\t1\"",
+            "B.毛细血管前括约肌对血流量控制起主要作用",
+            "C.毛细血管前括约肌交替收缩和舒张50次/分",
+            "D.安静状态下同一时间内约20%的毛细血管处于开 放状态",
+            "E.毛细血管前括约肌的舒缩主要受血中儿茶酚胺 调节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 82
+    },
+    {
+        "question_text": "387.由于毛细血管后阻力增大而导致组织液生成 增多的是",
+        "options": [
+            "A.右心衰引起的全身水肿",
+            "B.肾小球肾病性全身水肿",
+            "C.慢性肝病性全身水肿",
+            "D.丝虫病象皮腿局部水肿",
+            "E.局部炎症性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 83
+    },
+    {
+        "question_text": "388.关于小动脉的描述.错误的是",
+        "options": [
+            "A.管壁中富含平滑肌",
+            "B.管壁厚度与管腔直径的比值最大",
+            "C.在调节全身血压中起主要作用",
+            "D.在调节器官血流量中起主要作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 84
+    },
+    {
+        "question_text": "389.右心衰时.发生组织水肿的原因是",
+        "options": [
+            "A.血管胶体渗透压降低",
+            "B.毛细血管通透性增高",
+            "C.组织液静水压降低",
+            "D.淋巴回流受阻",
+            "E.毛细血管血压升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 85
+    },
+    {
+        "question_text": "390.炎症反应时导致局部组织水肿的主要原因是",
+        "options": [
+            "A.毛细血管血压升高",
+            "B.组织液静水压降低",
+            "C.组织液胶体渗透压升高",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴回流受阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 86
+    },
+    {
+        "question_text": "391.正常情况下.毛细血管内血流速度较慢是由 于它的",
+        "options": [
+            "A.管径小",
+            "B.血流量少",
+            "C.血流阻力大",
+            "D.可扩张性小",
+            "E.血压低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 87
+    },
+    {
+        "question_text": "392.进行物质交换的血液不流经的微循环血管是",
+        "options": [
+            "A.微动脉",
+            "B.后微动脉",
+            "C.通血毛细血管",
+            "D.真毛细血管",
+            "E.微静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 88
+    },
+    {
+        "question_text": "393.下列各项中可使组织液生成增加的是",
+        "options": [
+            "A.毛细血管血压降低",
+            "B.血浆胶体渗透压升高",
+            "C.组织液静水压升高",
+            "D.组织液胶体渗透压升高",
+            "E.摄入大量NaCl"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 89
+    },
+    {
+        "question_text": "394.组织液生成的有效滤过压等于",
+        "options": [
+            "A.（毛细血管血压+血浆胶体渗透压）-（组织液 静水压+组织液胶体渗透压）",
+            "B.（毛细血管血压+组织液胶体渗透压）-（组织 液静水压+血浆胶体渗透压）",
+            "C.（毛细血管血压+组织液静水压）-（血浆胶体 渗透压+组织液胶体渗透压）",
+            "D.（血浆胶体渗透压+组织液胶体渗透压）-（毛 细血管血压+组织液静水压）",
+            "E.（组织液静水压+血浆胶体渗透压）-（毛细血 管血压+组织液胶体渗透压）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 90
+    },
+    {
+        "question_text": "395.下列各项中.与组织液生成无关的因素是",
+        "options": [
+            "A.毛细血管血压",
+            "B.静脉压",
+            "C.组织液胶体渗透压",
+            "D.血浆晶体渗透压",
+            "E.组织液静水压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 91
+    },
+    {
+        "question_text": "396.肾小球肾病或慢性肝病时.发生组织水肿的 主要原因是",
+        "options": [
+            "A.毛细血管血压升高",
+            "B.血浆胶体渗透压降低",
+            "C.组织液胶体渗透压升高",
+            "D.毛细血管通透性增加",
+            "E.静脉回流受阻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 92
+    },
+    {
+        "question_text": "397.影响毛细血管前括约肌舒缩的主要因素是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.多巴胺",
+            "D.Y-氨基丁酸",
+            "E.代谢产物和氧分压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 93
+    },
+    {
+        "question_text": "398.血浆中水及溶质分子因静水压和（或）渗透 压差异而通过毛细血管壁进入组织间液的过程称为",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.滤过",
+            "D.重吸收",
+            "E.吞饮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 94
+    },
+    {
+        "question_text": "399.在组织液回流中.淋巴回流的主要功能是重 吸收",
+        "options": [
+            "A.水分",
+            "B.氨基酸",
+            "C.电解质",
+            "D.葡萄糖",
+            "E.蛋白质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 95
+    },
+    {
+        "question_text": "400.下列关于淋巴管及淋巴回流的描述.错误的 是",
+        "options": [
+            "A.毛细淋巴管以盲端起始于组织",
+            "B.组织液中颗粒可进入毛细淋巴管，但不能倒流",
+            "C.组织液静水压升高时，淋巴回流将减少",
+            "D.组织液中的红细胞、细菌可经淋巴回流重吸收",
+            "E.正常成年人安静时的淋巴回流量约l20ml/h"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 96
+    },
+    {
+        "question_text": "401.心交感神经节后纤维释放的神经递质是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.血管紧张素II",
+            "D.血管升压素",
+            "E.缓激肽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 97
+    },
+    {
+        "question_text": "402.心交感神经节前纤维释放的神经递质是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.血管升压素",
+            "D.谷氨酸",
+            "E.Y -氨基丁酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 98
+    },
+    {
+        "question_text": "403.心交感神经节前纤维起源于",
+        "options": [
+            "A.脊髓中间外侧柱",
+            "B.脊髓前角",
+            "C.延髓疑核",
+            "D.星状神经节",
+            "E.颈交感神经节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 99
+    },
+    {
+        "question_text": "404.心交感神经兴奋后.可引起",
+        "options": [
+            "A.心率减慢、心内传导加快、心肌收缩力减弱",
+            "B.心率加快、心内传导加快、心肌收缩力减弱",
+            "C.心率减慢、心内传导减慢、心肌收缩力增强",
+            "D.心率加快、心内传导加快、心肌收缩力增强",
+            "E.心率减慢、心内传导减慢、心肌收缩力减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 100
+    },
+    {
+        "question_text": "405.心交感神经兴奋后.对心肌细胞的影响是",
+        "options": [
+            "A.肌质网释放钙离子减少",
+            "B.肌质网对钙离子的摄取减慢",
+            "C.自律细胞4期If电流减小",
+            "D.P细胞动作电位0期速度和幅度加大",
+            "E.平台期钙离子内流减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 101
+    },
+    {
+        "question_text": "406.交感神经兴奋引起的心率加快所介导的受体 是",
+        "options": [
+            "A.a 1肾上腺素能受体",
+            "B.a 2肾上腺素能受体",
+            "C.B 1肾上腺素能受体",
+            "D.B 2肾上腺素能受体",
+            "E.M胆碱能受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 102
+    },
+    {
+        "question_text": "407.心迷走神经节后纤维起始于",
+        "options": [
+            "A.迷走背核",
+            "B.疑核",
+            "C.孤束核",
+            "D.星状神经节",
+            "E.心内神经节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 103
+    },
+    {
+        "question_text": "408.心迷走神经对心脏支配最弱的组织是",
+        "options": [
+            "A.窦房结",
+            "B.房室交界",
+            "C.心房肌",
+            "D.房室束",
+            "E.心室肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 104
+    },
+    {
+        "question_text": "409.心迷走神经节后纤维所释放的神经递质是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.血管升压素",
+            "D.谷氨酸",
+            "E.Y-氨基丁酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 105
+    },
+    {
+        "question_text": "410.心迷走神经兴奋后.可使",
+        "options": [
+            "A.心房肌收缩能力增强",
+            "B.心肌细胞内cAMP增加",
+            "C.窦房结细胞IK-乙酰胆碱通道激活",
+            "D.自律细胞4期If电流增加",
+            "E.房室交界细胞一氧化氮合成酶抑制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 106
+    },
+    {
+        "question_text": "411.心迷走神经兴奋后.可引起",
+        "options": [
+            "A.心率减慢、心内传导加快、心肌收缩力减弱",
+            "B.心率加快、心内传导加快、心肌收缩力减弱",
+            "C.心率减慢、心内传导减慢、心肌收缩力增强",
+            "D.心率加快、心内传导加快、心肌收缩力增强",
+            "E.心率减慢、心内传导减慢、心肌收缩力减弱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 107
+    },
+    {
+        "question_text": "412.下列各种物质中对心脏有正性肌力作用的是",
+        "options": [
+            "A.cAMP",
+            "B.血管活性肠肽",
+            "C.cGMP",
+            "D.腺苷",
+            "E.镁离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 108
+    },
+    {
+        "question_text": "413.交感舒血管纤维末梢释放的递质是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.乙酰胆碱",
+            "C.降钙素基因相关肽",
+            "D.阿片肽",
+            "E.谷氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 109
+    },
+    {
+        "question_text": "414.下列各类血管中.交感缩血管纤维分布密度 最高的是",
+        "options": [
+            "A.主动脉",
+            "B.微动脉",
+            "C.毛细血管",
+            "D.微静脉",
+            "E.大静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 110
+    },
+    {
+        "question_text": "415.下列各器官血管中.交感缩血管纤维分布密 度最高的是",
+        "options": [
+            "A.冠状动脉",
+            "B.脑血管",
+            "C.肾血管",
+            "D.骨骼肌血管",
+            "E.皮肤血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 111
+    },
+    {
+        "question_text": "416.副交感舒血管纤维兴奋引起的反应是",
+        "options": [
+            "A.心率减慢",
+            "B.循环系统阻力降低",
+            "C.回心血量减少",
+            "D.血压降低",
+            "E.所支配的器官局部血流增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 112
+    },
+    {
+        "question_text": "417.下列各项中能引起外周阻力降低的是",
+        "options": [
+            "A.迷走神经兴奋性升高",
+            "B.交感缩血管纤维兴奋性降低",
+            "C.副交感舒血管纤维兴奋性升高",
+            "D.脊髓背根舒血管纤维兴奋性升高",
+            "E.血管活性肠肽神经元兴奋性降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 113
+    },
+    {
+        "question_text": "418.下列有紧张性活动的神经纤维是",
+        "options": [
+            "A.心迷走神经",
+            "B.交感舒血管神经纤维",
+            "C.脊髓背根舒血管纤维",
+            "D.血管活性肠肽神经元",
+            "E.副交感舒血管纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 114
+    },
+    {
+        "question_text": "419.下列各项中.主要分布于骨骼肌血管的神经 纤维是",
+        "options": [
+            "A.交感缩血管神经纤维",
+            "B.交感舒血管神经纤维",
+            "C.副交感舒血管神经纤维",
+            "D.脊髓背根舒血管神经纤维",
+            "E.迷走神经"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 115
+    },
+    {
+        "question_text": "420.副交感舒血管纤维末梢释放的神经递质是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.肾上腺素",
+            "C.乙酰胆碱",
+            "D.P物质",
+            "E.血管活性肠肽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 116
+    },
+    {
+        "question_text": "421.交感缩血管神经的紧张性起源于",
+        "options": [
+            "A.脊髓中间外侧柱",
+            "B.延髓疑核",
+            "C.延髓孤束核",
+            "D.延髓尾端腹外侧部",
+            "E.延髓头端腹外侧部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 117
+    },
+    {
+        "question_text": "422.下列关于压力感受性反射的描述.正确的是",
+        "options": [
+            "A.感受器是颈动脉体和主动脉体",
+            "B.感受器能直接感受血压的变化",
+            "C.在心动周期中，传入冲动频率随血压波动发生 周期性变化",
+            "D.反射中枢是延髓孤束核",
+            "E.当传入冲动增多时，所有传出神经的冲动都减 少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 118
+    },
+    {
+        "question_text": "423.压力感受性反射的生理意义是",
+        "options": [
+            "A.减慢心率",
+            "B.增加冠脉流量",
+            "C.降低平均动脉压",
+            "D.重新分配各器官血流量",
+            "E.稳定快速波动的血压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 119
+    },
+    {
+        "question_text": "424.支配心脏的副交感神经节前神经元位于",
+        "options": [
+            "A.心内神经节",
+            "B.星状神经节",
+            "C.脊髓",
+            "D.延髓",
+            "E.下丘脑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 120
+    },
+    {
+        "question_text": "425.通过轴突反射实现局部血管舒张的是",
+        "options": [
+            "A.脊髓背根舒血管纤维",
+            "B.交感舒血管纤维",
+            "C.副交感舒血管纤维",
+            "D.血管活性肠肽神经元",
+            "E.作用于B 2受体的交感缩血管纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 121
+    },
+    {
+        "question_text": "426.下列各种刺激引起的反射活动中.能使血压 升高的是",
+        "options": [
+            "A.刺激窦神经传入纤维",
+            "B.牵拉右心房",
+            "C.扩张膀胱",
+            "D.低频低强度刺激骨骼肌传入神经",
+            "E.高频高强度刺激皮肤传入神经"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 122
+    },
+    {
+        "question_text": "427.参与机体防御反应时心血管活动调节的中枢 主要位于",
+        "options": [
+            "A.脊髓",
+            "B.延髓",
+            "C.丘脑",
+            "D.下丘脑",
+            "E.大脑皮层"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 123
+    },
+    {
+        "question_text": "428.电刺激下丘脑防御反应区引起的舒血管效应 主要见于",
+        "options": [
+            "A.肝脏",
+            "B.肾脏",
+            "C.消化道",
+            "D.皮肤",
+            "E.骨骼肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 124
+    },
+    {
+        "question_text": "429.压力感受性反射最敏感的动脉血压波动范围 是",
+        "options": [
+            "A.<50mmHg",
+            "B.50--100mmHg",
+            "C.100mmHg 左右",
+            "D.100--150mmHg",
+            "E.>150mmHg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 125
+    },
+    {
+        "question_text": "430.持久高血压患者.压力感受性反射",
+        "options": [
+            "A.敏感性降低",
+            "B.敏感性升高",
+            "C.敏感性不变",
+            "D.不起作用",
+            "E.发生重调定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 126
+    },
+    {
+        "question_text": "431.实验使动物颈动脉窦内灌注压升高.不可能 出现的反应是",
+        "options": [
+            "A.窦神经上动作电位幅度增大",
+            "B.心率减慢，心排出量降低",
+            "C.外周血管阻力降低",
+            "D.心迷走神经活动加强",
+            "E.心交感神经活动减弱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 127
+    },
+    {
+        "question_text": "432.动物在切除缓冲神经后出现的变化是",
+        "options": [
+            "A.平均动脉压水平先升高后降低",
+            "B.平均动脉压水平先降低后升高",
+            "C.平均动脉压水平基本不变，但有很大波动",
+            "D.动脉血压持久性升高而不能恢复",
+            "E.动脉压立即下降到脊休克水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 128
+    },
+    {
+        "question_text": "433.动脉血压升高时.下列各项中不是压力感受 性反射效应的是",
+        "options": [
+            "A.心交感紧张性减弱",
+            "B.心迷走紧张加强",
+            "C.交感缩血管紧张性减弱",
+            "D.交感舒血管紧张性加强",
+            "E.外周血管阻力降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 129
+    },
+    {
+        "question_text": "434.压力感受性反射",
+        "options": [
+            "A.平时不起作用",
+            "B.只起降压作用而无升压效应",
+            "C.主要对动脉血压进行快速调节",
+            "D.随动脉血压水平升高而敏感性增强",
+            "E.对心率几乎没有影响"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 130
+    },
+    {
+        "question_text": "435.下列各种情况下会使交感神经活动减弱的是",
+        "options": [
+            "A.动脉血压降低",
+            "B.情绪激动",
+            "C.失血",
+            "D.慢跑",
+            "E.从直立位变为平卧位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 131
+    },
+    {
+        "question_text": "436.副交感神经主要通过改变下列活动状态而对 体循环产生影响的是",
+        "options": [
+            "A.心肌收缩力",
+            "B.心率",
+            "C.外周血管阻力",
+            "D.血容量",
+            "E.血管顺应性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 132
+    },
+    {
+        "question_text": "437.心肺感受器主要感受的刺激是",
+        "options": [
+            "A.机械牵张",
+            "B.血压波动",
+            "C.心率改变",
+            "D.氧分压",
+            "E.二氧化碳分压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 133
+    },
+    {
+        "question_text": "438.小肠黏膜下胆碱能纤维释放的乙酰胆碱引起 血管平滑肌舒张.其效应的实现有赖于",
+        "options": [
+            "A.前列腺素",
+            "B.腺苷",
+            "C.内皮素",
+            "D.一氧化氮",
+            "E.P物质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 134
+    },
+    {
+        "question_text": "439.下列各种物质中.不能直接引起血管平滑肌 收缩的是",
+        "options": [
+            "A.肾素",
+            "B.血管紧张素II",
+            "C.血管紧张素III",
+            "D.内皮素",
+            "E.血管升压素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 135
+    },
+    {
+        "question_text": "440.血管紧张素转化酶的作用底物是",
+        "options": [
+            "A.肾素",
+            "B.血管紧张素原",
+            "C.血管紧张素I",
+            "D.血管紧张素II",
+            "E.血管紧张素I"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 136
+    },
+    {
+        "question_text": "441.能刺激后缘区和穹隆下器等脑内室周器引起 渴觉的是",
+        "options": [
+            "A.血管升压素",
+            "B.血管紧张素II",
+            "C.内皮素",
+            "D.肾素",
+            "E.心房钠尿肽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 137
+    },
+    {
+        "question_text": "442.由血管内皮细胞合成的具有强烈缩血管效应 的物质是",
+        "options": [
+            "A.内皮素",
+            "B.一氧化氮",
+            "C.前列腺素",
+            "D.5-羟色胺",
+            "E.P物质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 138
+    },
+    {
+        "question_text": "443.兴奋下丘脑内渗透压感受器可引起",
+        "options": [
+            "A.血管升压素释放增加",
+            "B.心房钠尿肽释放增加",
+            "C.血管紧张素II合成增加",
+            "D.心肺感受器兴奋",
+            "E.肾素释放增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 139
+    },
+    {
+        "question_text": "444.血管升压素在肾脏主要作用于",
+        "options": [
+            "A.近球细胞",
+            "B.系膜细胞",
+            "C.肾小球上皮细胞",
+            "D.致密斑",
+            "E.远端小管和集合管上皮细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 140
+    },
+    {
+        "question_text": "445.肌源性活动最明显的部位是",
+        "options": [
+            "A.主动脉",
+            "B.中动脉",
+            "C.小动脉和微动脉",
+            "D.小静脉和微静脉",
+            "E.大静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 141
+    },
+    {
+        "question_text": "446.甲状腺激素在体内能引起冠脉舒张的主要原 因是",
+        "options": [
+            "A.增强血管升压素的缩血管效应",
+            "B.增强血管紧张素II的缩血管效应",
+            "C.减弱冠状动脉的肌源性收缩",
+            "D.发挥激素的缩血管物质的允许作用",
+            "E.使心肌代谢加强，耗氧量增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 142
+    },
+    {
+        "question_text": "447.在交感缩血管纤维末梢释放递质过程中起抑 制性调制作用的是",
+        "options": [
+            "A.心房钠尿肽",
+            "B.组胺",
+            "C.前列腺素",
+            "D.内皮素",
+            "E.肾素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 143
+    },
+    {
+        "question_text": "448.在下列各物质中.主要通过神经分泌起作用 的是",
+        "options": [
+            "A.血管升压素",
+            "B.内皮素",
+            "C.心房钠尿肽",
+            "D.血管紧张素II",
+            "E.醛固酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 144
+    },
+    {
+        "question_text": "449.主要由肾上腺皮质分泌的激素是",
+        "options": [
+            "A.肾素",
+            "B.肾上腺素",
+            "C.去甲肾上腺素",
+            "D.血管紧张素II",
+            "E.醛固酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 145
+    },
+    {
+        "question_text": "450.下列关于NO对心血管活动调节作用的描述. 错误的是",
+        "options": [
+            "A.降低延髓交感缩血管紧张性",
+            "B.介导冠脉舒血管效应",
+            "C.抑制外周交感末梢释放NA",
+            "D.介导乙酰胆碱的舒血管效应",
+            "E.阻断NE的缩血管效应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 146
+    },
+    {
+        "question_text": "451.从下蹲位突然站立而发生晕厥的原因是",
+        "options": [
+            "A.低垂部位静脉舒张",
+            "B.血液发生倒流",
+            "C.贫血",
+            "D.心率突然减慢",
+            "E.压力感受性反射敏感性降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 147
+    },
+    {
+        "question_text": "452.对肾素-血管紧张素系统的描述正确的是",
+        "options": [
+            "A.肾素由肾球外系膜细胞合成和分泌",
+            "B.血浆中钠离子含量减少可刺激肾素分泌",
+            "C.肾素可转变血管紧张素I为血管紧张素II",
+            "D.血管紧张素II主要刺激醛固酮分泌",
+            "E.血管紧张素I主要使血管收缩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 148
+    },
+    {
+        "question_text": "453.小剂量静脉注射肾上腺素可引起",
+        "options": [
+            "A.血压降低",
+            "B.皮肤、肠道血管舒张",
+            "C.骨骼肌、肝脏血管收缩",
+            "D.心率加快",
+            "E.心肌收缩力减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 149
+    },
+    {
+        "question_text": "454.大剂量静脉注射肾上腺素和去甲肾上腺素出 现的不同效应主要是",
+        "options": [
+            "A.心肌收缩力改变不同",
+            "B.心率变化不同",
+            "C.血压变化不同",
+            "D.心排出量变化不同",
+            "E.作用持续时间不同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 150
+    },
+    {
+        "question_text": "455.下列关于血管升压素的描述.正确的是",
+        "options": [
+            "A.由神经垂体神经元合成并释放",
+            "B.血浆胶体渗透压升高时释放增多",
+            "C.循环血量减少时释放减少",
+            "D.生理条件下无缩血管作用",
+            "E.生理条件下能使尿液稀释"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 151
+    },
+    {
+        "question_text": "456.下列各种情况下能使血管升压素释放增加的 是",
+        "options": [
+            "A.高钾饮食",
+            "B.大量饮清水",
+            "C.刺激颈动脉窦",
+            "D.刺激颈动脉体",
+            "E.大量出汗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 152
+    },
+    {
+        "question_text": "457.心房钠尿肽可",
+        "options": [
+            "A.使血管收缩",
+            "B.使每搏输出量减少",
+            "C.使肾排水排盐减少",
+            "D.刺激醛固酮释放",
+            "E.刺激血管升压素释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 153
+    },
+    {
+        "question_text": "458.下列各种物质中主要在局部血液循环中起作 用的是",
+        "options": [
+            "A.心房钠尿肽",
+            "B.内皮素",
+            "C.醛固酮",
+            "D.组胺",
+            "E.血管升压素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 154
+    },
+    {
+        "question_text": "459.大量失血时.机体首先出现的反应是",
+        "options": [
+            "A.心、脑血管收缩",
+            "B.肾素-血管紧张素释放增多",
+            "C.循环血中儿茶酚胺增多",
+            "D.尿钠排出减少",
+            "E.外周阻力增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 155
+    },
+    {
+        "question_text": "460.夹闭两侧颈总动脉可使",
+        "options": [
+            "A.心迷走中枢活动加强",
+            "B.窦神经传入冲动增多",
+            "C.股动脉血压升高",
+            "D.交感舒血管纤维活动加强",
+            "E.副交感舒血管纤维活动加强"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 156
+    },
+    {
+        "question_text": "461.急性失血时.血浆中最先升高的心血管活性 物质是",
+        "options": [
+            "A.血管升压素",
+            "B.血管紧张素II",
+            "C.肾上腺素",
+            "D.乙酰胆碱",
+            "E.醛固酮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 157
+    },
+    {
+        "question_text": "462.肾内合成和分泌肾素的细胞是",
+        "options": [
+            "A.肾小囊上皮细胞",
+            "B.球旁细胞",
+            "C.致密斑细胞",
+            "D.球外系膜细胞",
+            "E.近端小管上皮细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 158
+    },
+    {
+        "question_text": "463.下列各种物质中与局部血液循环调节无直接 关系的是",
+        "options": [
+            "A.二氧化碳",
+            "B.前列腺素",
+            "C.乳酸",
+            "D.腺苷",
+            "E.肾素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 159
+    },
+    {
+        "question_text": "464.刺激颈动脉体主动脉体化学感受器对心血管 活动的直接效应包括",
+        "options": [
+            "A.心率加快",
+            "B.冠脉收缩",
+            "C.骨骼肌血管舒张",
+            "D.内脏血管收缩",
+            "E.心排出量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 160
+    },
+    {
+        "question_text": "465.3肾上腺素能受体分布最多的是",
+        "options": [
+            "A.皮肤血管",
+            "B.肾血管",
+            "C.骨骼肌血管",
+            "D.胃肠道血管",
+            "E.脑血管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 161
+    },
+    {
+        "question_text": "466.下列各项中不是血管紧张素II的作用的是",
+        "options": [
+            "A.引起血管平滑肌收缩",
+            "B.产生渴觉",
+            "C.使交感神经末梢释放去甲肾上腺素增多",
+            "D.刺激醛固酮分泌",
+            "E.抑制血管升压素释放"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 162
+    },
+    {
+        "question_text": "467.当心肌代谢活动增强.耗氧增加时.满足氧 供需要的主要途径是",
+        "options": [
+            "A.增加无氧酵解",
+            "B.提高单位血液中摄氧量",
+            "C.舒张冠脉",
+            "D.升高动脉血压",
+            "E.降低心率"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 163
+    },
+    {
+        "question_text": "468.整体条件下.引起冠脉舒张的主要原因是",
+        "options": [
+            "A.心交感兴奋，末梢释放乙酰胆碱作用于冠脉平 滑肌M受体",
+            "B.心交感兴奋，末梢释放NA作用于冠脉平滑肌B 受体",
+            "C.心迷走兴奋，末梢释放乙酰胆碱作用于冠脉平 滑肌M受体",
+            "D.心肌代谢产生的氢离子、二氧化碳、乳酸等对 冠脉的刺激",
+            "E.心肌代谢产生的腺苷对冠脉的刺激"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 164
+    },
+    {
+        "question_text": "469.下列各种因素中使冠脉血流量增加最为明显 的是",
+        "options": [
+            "A.动脉血流速度加快",
+            "B.心率加快",
+            "C.心肌收缩力减弱",
+            "D.射血速度加快",
+            "E.动脉舒张压升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 165
+    },
+    {
+        "question_text": "470.在肾素-血管紧张素系统中.具有极强缩血管 效应的是",
+        "options": [
+            "A.肾素",
+            "B.血管紧张素I",
+            "C.血管紧张素II",
+            "D.血管紧张素III",
+            "E.血管紧张素转换酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 166
+    },
+    {
+        "question_text": "471.下列各项中.肾素分泌增加引起的生理反应 是",
+        "options": [
+            "A.醛固酮分泌减少",
+            "B.血管升压素释放减少",
+            "C.交感神经末梢释放NA减少",
+            "D.肾脏钠离子排出减少",
+            "E.静脉回心血量减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 167
+    },
+    {
+        "question_text": "472.下列各种物质中为缩血管体液因子的是",
+        "options": [
+            "A.腺苷",
+            "B.缓激肽",
+            "C.乳酸",
+            "D.内皮素",
+            "E.前列腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 168
+    },
+    {
+        "question_text": "473.高海拔地区的人易发生右心室肥厚.其原因 是缺氧导致",
+        "options": [
+            "A.交感神经兴奋性升高",
+            "B.血管紧张素II分泌增多",
+            "C.血栓素A2生成增多",
+            "D.前列腺素F2a分泌增多",
+            "E.肺循环微动脉广泛收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 169
+    },
+    {
+        "question_text": "*474.动脉血和静脉血氧含量差值最大的器官是",
+        "options": [
+            "A.脑",
+            "B.心脏",
+            "C.肝脏",
+            "D.肾脏",
+            "E.骨骼肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 170
+    },
+    {
+        "question_text": "*475.能使机体冠脉血流量减少的是",
+        "options": [
+            "A.大剂量血管升压素",
+            "B.低氧",
+            "C.肾上腺素",
+            "D.腺苷",
+            "E.氢离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 171
+    },
+    {
+        "question_text": "476.肺循环中的微动脉对下列各种物质的反应不 同于体循环中的微动脉的是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.血管紧张素II",
+            "D.低氧",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 172
+    },
+    {
+        "question_text": "477.在自然呼吸或人为控制呼吸频率和深度不变 情况下.对心血管活动的影响有明显差异的反射 活动是",
+        "options": [
+            "A.压力感受性反射",
+            "B.心肺感受器引起的心血管反射",
+            "C.化学感受性反射",
+            "D.躯体感受器引起的心血管反射",
+            "E.内脏感受器引起的心血管反射"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 173
+    },
+    {
+        "question_text": "478.下列关于肺循环特征的描述.错误的是",
+        "options": [
+            "A.血流阻力低",
+            "B.平均动脉压低",
+            "C.循环血量少",
+            "D.血容量变化范围大",
+            "E.有效滤过压为负值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 174
+    },
+    {
+        "question_text": "479.下列关于肺循环调节的描述.正确的是",
+        "options": [
+            "A.刺激交感神经可引起肺血管舒张",
+            "B.刺激迷走神经可引起肺血管收缩",
+            "C.交感神经兴奋时，肺循环内血容量增多",
+            "D.肺泡内二氧化碳分压升高、低氧可引起肺血管 舒张",
+            "E.组胺、5-羟色胺能使肺内小血管舒张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 175
+    },
+    {
+        "question_text": "480.平均动脉压在下列范围内变化时.脑血流量 可通过自身调节保持相对稳定的是",
+        "options": [
+            "A.6090mmHg",
+            "B.80--100mmH",
+            "C.60--140mmHg",
+            "D.90--160mmHg",
+            "E.50--180mmHg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 176
+    },
+    {
+        "question_text": "481.下列各种物质中不易通过血-脑屏障的是",
+        "options": [
+            "A.氨基酸",
+            "B.二氧化碳",
+            "C.去甲肾上腺素",
+            "D.葡萄糖",
+            "E.乙醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 177
+    },
+    {
+        "question_text": "482.心室内压力达最高值在",
+        "options": [
+            "A.心房收缩期末",
+            "B.等容收缩期末",
+            "C.快速射血期",
+            "D.等容舒张期",
+            "E.心室充盈期末"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 178
+    },
+    {
+        "question_text": "483.心室容积达最大值在",
+        "options": [
+            "A.心房收缩期末",
+            "B.等容收缩期末",
+            "C.射血期",
+            "D.等容舒张期末",
+            "E.心室充盈期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 179
+    },
+    {
+        "question_text": "*484.心房压力曲线中的C波出现的原因是",
+        "options": [
+            "A.心房收缩，房内压升高",
+            "B.心室开始收缩，心室内血液上推已关闭的房室 瓣，使之突入心房而导致房内压略升高",
+            "C.心室射血后体积缩小，牵动房室瓣使心房容积 扩大，房内压下降",
+            "D.心室舒张期末，血液由静脉继续回流入心房， 使房内压升高",
+            "E.房室瓣开放，血液由心房迅速进入心室，房内 压下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 180
+    },
+    {
+        "question_text": "485.人体处于安静状态时.每分心输出量为",
+        "options": [
+            "A.2\\3L",
+            "B.4\\6L",
+            "C.6\\8L",
+            "D.8\\10L",
+            "E.10\\12L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 181
+    },
+    {
+        "question_text": "486.左心室心肌血液供应最多时是在",
+        "options": [
+            "A.等容收缩期",
+            "B.快速射血期",
+            "C.减慢射血期",
+            "D.心房收缩期",
+            "E.等容舒张期和快速充盈期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 182
+    },
+    {
+        "question_text": "487.主动脉瓣开始开放的时间为",
+        "options": [
+            "A.等容收缩期",
+            "B.等容舒张期",
+            "C.等容收缩期初",
+            "D.快速射血期初",
+            "E.减慢射血期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 183
+    },
+    {
+        "question_text": "488.心率100次/分.心动周期为",
+        "options": [
+            "A.1秒",
+            "B.0.8 秒",
+            "C.0.7 秒",
+            "D.0.6 秒",
+            "E.1.2 秒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 184
+    },
+    {
+        "question_text": "489.心泵功能的自身调节与下列哪个因素有直接 关系",
+        "options": [
+            "A.心室收缩末期容积",
+            "B.心室舒张末期容积",
+            "C.平均动脉压",
+            "D.心力贮备",
+            "E.心输出量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 185
+    },
+    {
+        "question_text": "490.关于心肌收缩能力的叙述.错误的是",
+        "options": [
+            "A.它表现为心脏收缩强度和速度的变化",
+            "B.主要通过改变收缩纤维的数量和强直收缩来改 变收缩的力量",
+            "C.不依赖于前负荷变化",
+            "D.不依赖于后负荷变化",
+            "E.与胞浆内钙离子浓度有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 186
+    },
+    {
+        "question_text": "491.心肌与骨骼肌收缩活动的共同点是",
+        "options": [
+            "A.刺激强度增加，参与收缩的细胞数目也增加",
+            "B.超过最适初长时，肌小节长度变化明显",
+            "C.肌肉自然长度接近于最适初长",
+            "D.儿茶酚胺可提高肌肉收缩能力",
+            "E.超过最适初长时，肌肉的做功能力明显降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 187
+    },
+    {
+        "question_text": "492.在心率、前负荷和收缩力不变的情况下.增 加心肌的后负荷.会使",
+        "options": [
+            "A.等容收缩期延长，搏出量增加",
+            "B.等容收缩期缩短，搏出量增加",
+            "C.等容收缩期延长，搏出量减少",
+            "D.等容收缩期缩短，搏出量减少",
+            "E.等容收缩期不变，搏出量不变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 188
+    },
+    {
+        "question_text": "493.第一心音产生主要是由于",
+        "options": [
+            "A.半月瓣关闭",
+            "B.半月瓣开放",
+            "C.房室瓣关闭",
+            "D.房室瓣开放",
+            "E.心房肌收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 189
+    },
+    {
+        "question_text": "*494.第二心音发生在",
+        "options": [
+            "A.等容收缩期",
+            "B.快速射血期",
+            "C.减慢射血期",
+            "D.等容舒张期",
+            "E.心室充盈期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 190
+    },
+    {
+        "question_text": "495.如果主动脉压和肺动脉压增高.音的强度增强",
+        "options": [
+            "A.第一心音",
+            "B.第二心音",
+            "C.第三心音",
+            "D.第四心音",
+            "E.第一心音和第二心音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 191
+    },
+    {
+        "question_text": "496.心室肌细胞的静息电位约相当于",
+        "options": [
+            "A.EK",
+            "B.ENa",
+            "C.ECa",
+            "D.ECl",
+            "E.EK+ENa"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 192
+    },
+    {
+        "question_text": "497.当心室肌细胞膜电位由静息水平去极化达到 阈电位水平时.Na\"+\"通道处于",
+        "options": [
+            "A.静息状态",
+            "B.备用状态",
+            "C.激活状态",
+            "D.失活状态",
+            "E.复活状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 193
+    },
+    {
+        "question_text": "498.心肌动作电位3期复极是由于膜对哪种离子 通透性增高所致",
+        "options": [
+            "A.K+",
+            "B.Na+",
+            "C.Cl-",
+            "D.Ca2+",
+            "E.Mg2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 194
+    },
+    {
+        "question_text": "499.心室肌细胞动作电位4期恢复细胞内外离子 正常浓度梯度靠",
+        "options": [
+            "A.细胞膜渗漏",
+            "B.单纯扩散",
+            "C.通道易化扩散",
+            "D.载体易化扩散",
+            "E.钠-钾泵主动转运"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 195
+    },
+    {
+        "question_text": "500.窦房结细胞动作电位0期去极是由于",
+        "options": [
+            "A.Na\"+\"电导增加",
+            "B.Na+电导降低",
+            "C.Ca2+电导增加",
+            "D.Ca2+电导降低",
+            "E.K+电导增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 196
+    },
+    {
+        "question_text": "501.对心室肌细胞有效不应期特征的叙述.错误 的是",
+        "options": [
+            "A.可产生局部兴奋",
+            "B.阈上刺激能产生动作电位",
+            "C.Na+通道失活",
+            "D.此期相当于心室全收缩期舒张早期",
+            "E.此期时间较长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 197
+    },
+    {
+        "question_text": "502.心肌细胞处于超常期.接受刺激引起兴奋时",
+        "options": [
+            "A.动作电位0期去极化速度快于正常",
+            "B.动作电位幅度大于正常",
+            "C.兴奋传导速度高于正常",
+            "D.刺激阈值低于正常",
+            "E.膜电位绝对值大于静息电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 198
+    },
+    {
+        "question_text": "503.房室延搁的生理意义是",
+        "options": [
+            "A.使P波增宽",
+            "B.使QRS波增宽",
+            "C.使心室肌有效不应期延长",
+            "D.使心室肌不会产生强直收缩",
+            "E.使心房、心室不会产生收缩重叠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 199
+    },
+    {
+        "question_text": "*504.兴奋在心脏内传导时.速度最慢的是",
+        "options": [
+            "A.心室肌",
+            "B.心房肌",
+            "C.房结区",
+            "D.结区",
+            "E.房室结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 200
+    },
+    {
+        "question_text": "505.自律细胞区别于非自律细胞的生物电活动主 要特征是",
+        "options": [
+            "A.0期除极速度快",
+            "B.平台期较明显",
+            "C.1期复极速度慢",
+            "D.3期复极速度慢",
+            "E.4期自动除极"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 201
+    },
+    {
+        "question_text": "506.左右心室同步兴奋收缩的主要原因是",
+        "options": [
+            "A.两心室靠的很近",
+            "B.心室肌细胞0期除极速率快",
+            "C.蒲肯野纤维兴奋性传导快",
+            "D.房室结兴奋传给房室束快",
+            "E.心室肌细胞之间兴奋传导速度快"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 202
+    },
+    {
+        "question_text": "507.下列哪相对心肌兴奋传导影响不大",
+        "options": [
+            "A.细胞直径",
+            "B.0期除极速度和幅度",
+            "C.邻近部位细胞膜静息电位与阈电位差距",
+            "D.邻近部位膜0期除极时钠或钙通道性状",
+            "E.胞外Ca”2+\"浓度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 203
+    },
+    {
+        "question_text": "508.对心电图叙述.错误的是",
+        "options": [
+            "A.QRS综合波相当于心室肌细胞动作电位0期",
+            "B.S-T段相当于平台期",
+            "C.T波反映心室肌3期复极",
+            "D.P波代表心房除极过程",
+            "E.Q-T间期时程与心率成正变关系"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 204
+    },
+    {
+        "question_text": "509.总截面积最大的血管",
+        "options": [
+            "A.毛细血管",
+            "B.小动脉",
+            "C.小静脉",
+            "D.大静脉",
+            "E.大动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 205
+    },
+    {
+        "question_text": "510.血流阻力主要来自",
+        "options": [
+            "A.毛细血管",
+            "B.微静脉",
+            "C.微动脉",
+            "D.动脉",
+            "E.大动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 206
+    },
+    {
+        "question_text": "511.循环系统平均充盈压高低取决于",
+        "options": [
+            "A.心输出量和外周阻力之间的相对关系",
+            "B.动脉血压和外周阻力之间的相对关系",
+            "C.血量和循环系统容量之间的相对关系",
+            "D.心输出量和动脉血压之间的相对关系",
+            "E.回心血量和心脏射血能力之间的相对关系"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 207
+    },
+    {
+        "question_text": "512.下列因素中.哪种使外周血管阻力增高",
+        "options": [
+            "A.升压素分泌减少",
+            "B.交感胆碱能纤维兴奋",
+            "C.组胺释放",
+            "D.血管紧张素II增多",
+            "E.CO2和乳酸增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 208
+    },
+    {
+        "question_text": "513.对下肢肌肉运动时节律性的压迫下肢静脉结 果的叙述.正确的是",
+        "options": [
+            "A.可减少动脉和静脉之间的压力差",
+            "B.可增加下肢组织液的生成",
+            "C.加速了静脉回流，减少组织液的生成",
+            "D.是人在立位时下肢静脉回流的唯一动力",
+            "E.可驱使静脉内的血流向心脏和毛细血管两个方 向流动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 209
+    },
+    {
+        "question_text": "*514.下列因素中促进静脉回心血量增加的是",
+        "options": [
+            "A.心输出量增加",
+            "B.外周阻力增加",
+            "C.动脉血压升高",
+            "D.体循环平均充盈压降低",
+            "E.心舒期室内压降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 210
+    },
+    {
+        "question_text": "515.下列哪种体位变化使回心血量增多",
+        "options": [
+            "A.立位变卧位",
+            "B.立位变坐位",
+            "C.卧位变坐位",
+            "D.卧位变立位",
+            "E.上述几种体位变化不影响回心血量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 211
+    },
+    {
+        "question_text": "516.影响毛细血管血压的是",
+        "options": [
+            "A.毛细血管前阻力和毛细血管后阻力之和",
+            "B.毛细血管前阻力和毛细血管后阻力之差",
+            "C.毛细血管前阻力和毛细血管后阻力之比值",
+            "D.毛细血管前阻力和毛细血管后阻力之积",
+            "E.毛细血管前阻力和心输出量之积"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 212
+    },
+    {
+        "question_text": "517 .没有平滑肌分布的血管是",
+        "options": [
+            "A.微动脉",
+            "B.后微动脉",
+            "C.通血毛细血管",
+            "D.真毛细血管",
+            "E.毛细血管前括约肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 213
+    },
+    {
+        "question_text": "518.关于动脉脉搏传播的叙述.错误的是",
+        "options": [
+            "A.动脉脉搏可以沿着动脉管壁向外周传播",
+            "B.其传播速度远比血流速度快",
+            "C.动脉管壁顺应性与脉搏传播速度成正比关系",
+            "D.脉搏波的传播是一种能量传递过程，并非是血 液在血管内流动引起的",
+            "E.正常时，脉搏传导毛细血管处已基本消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 214
+    },
+    {
+        "question_text": "519.当心迷走神经兴奋时",
+        "options": [
+            "A.可使心率加快",
+            "B.心房肌收缩能力加强",
+            "C.心房肌不应期缩短",
+            "D.房室传导速度加快",
+            "E.左心室收缩压升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 215
+    },
+    {
+        "question_text": "520.在下述哪一种情况下.心交感神经的活动会 减弱",
+        "options": [
+            "A.动脉血压降低",
+            "B.肌肉运动时",
+            "C.血容量减少时",
+            "D.情绪激动时",
+            "E.由直立变为平卧时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 216
+    },
+    {
+        "question_text": "521.对心迷走神经兴奋引起心脏变化的叙述.下 列哪项错误",
+        "options": [
+            "A.与ACh作用于膜上M受体有关",
+            "B.心肌收缩减弱与钙内流减少及肌浆网Ca2+释 放减少有关",
+            "C.心率减慢与最大复极电位值变得更负以及4期 If内向电流减少有关",
+            "D.与一氧化氮合成酶有关",
+            "E.它引起房室传导速度减慢与Na+内流减少有关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 217
+    },
+    {
+        "question_text": "522.调节心血管活动的重要整合中枢位于",
+        "options": [
+            "A.丘脑",
+            "B.中脑",
+            "C.丘脑下部",
+            "D.大脑皮层",
+            "E.延髓腹外侧部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 218
+    },
+    {
+        "question_text": "523.刺激心迷走神经时.心肌的作用可被下列哪 一种受体的拮抗剂所阻",
+        "options": [
+            "A.a -肾上腺素能受体",
+            "B.B -肾上腺素能受体",
+            "C.组织胺能受体",
+            "D.胆碱能M受体",
+            "E.胆碱能N受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 219
+    },
+    {
+        "question_text": "524.肺血容量一般变动在",
+        "options": [
+            "A.100\\300ml 范围内",
+            "B.80\\200ml 范围内",
+            "C.200\\1000ml 范围内",
+            "D.400\\1000ml 范围内",
+            "E.600\\1200ml 范围内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 220
+    },
+    {
+        "question_text": "525.在各级血管中.交感缩血管纤维分布最密集 的是",
+        "options": [
+            "A.微静脉",
+            "B.大动脉",
+            "C.微动脉",
+            "D.大静脉",
+            "E.毛细血管前括约肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 221
+    },
+    {
+        "question_text": "526.下列器官中不受副交感舒血管神经纤维支配 的是",
+        "options": [
+            "A.脑膜",
+            "B.外生殖器",
+            "C.唾液腺",
+            "D.皮肤",
+            "E.胃肠道腺体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 222
+    },
+    {
+        "question_text": "527.影响毛细血管前括约肌舒缩活动的主要因素 是",
+        "options": [
+            "A.肾素",
+            "B.组织的局部代谢产物",
+            "C.交感舒血管纤维末梢释放的乙酰胆碱",
+            "D.肾上腺髓质释放的肾上腺素",
+            "E.交感神经末梢释放的去甲肾上腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 223
+    },
+    {
+        "question_text": "528.动脉压力感受性反射的生理意义是",
+        "options": [
+            "A.只能使升高的血压降低",
+            "B.只能使降低的血压升高",
+            "C.协助动脉血压进行自身调节",
+            "D.维持动脉血压处于相对稳定",
+            "E.维持体液量处于相对稳定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 224
+    },
+    {
+        "question_text": "529.对冠脉血流量调节的叙述.错误的是",
+        "options": [
+            "A.对其调节最重要的是心肌本身代谢水平",
+            "B.心肌提高从单位血液中摄取氧的潜力小",
+            "C.在代谢产物中腺苷作用最重要",
+            "D.迷走神经兴奋使冠脉扩张",
+            "E.交感神经兴奋只能使冠脉收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 225
+    },
+    {
+        "question_text": "530.在正常情况下.组织液的压力为负压的器官 是",
+        "options": [
+            "A.脑组织",
+            "B.肝脏",
+            "C.肾脏",
+            "D.肺泡",
+            "E.骨骼肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 226
+    },
+    {
+        "question_text": "531.心肌不会产生强直收缩的原因是",
+        "options": [
+            "A.心脏是机能上的合胞体",
+            "B.心肌肌浆网不发达，Ca2+贮存少",
+            "C.心肌有自动节律性，会自动舒张",
+            "D.心肌呈“全或无”收缩",
+            "E.心肌的有效不应期特别长"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 227
+    },
+    {
+        "question_text": "532.心肌快反应细胞与慢反应细胞的区别是哪一 期的快慢",
+        "options": [
+            "A.0期除极",
+            "B.1期复极",
+            "C.3期复极",
+            "D.2期复极",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 228
+    },
+    {
+        "question_text": "533.心室肌细胞动作电位平台期是下列哪些离子 跨膜流动的综合结果",
+        "options": [
+            "A.Na\"+\"内流、C1'\"外流",
+            "B.Na+内流、K+外流",
+            "C.Na+内流、C1-内流",
+            "D.Ca2+内流、K+外流",
+            "E.K+外流、Ca2+外流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 229
+    },
+    {
+        "question_text": "*534.影响心肌细胞兴奋性的因素有",
+        "options": [
+            "A.阈电位水平",
+            "B.静息电位水平",
+            "C.Na+通道状态",
+            "D.0期去极化的速度",
+            "E.0期去极化的幅度"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 230
+    },
+    {
+        "question_text": "535.窦房结能成为心脏正常起搏点的原因是",
+        "options": [
+            "A.静息电位仅为-70 mV",
+            "B.阈电位为-40 mV",
+            "C.0期去极速率快",
+            "D.动作电位没有明显的平台期",
+            "E.4期去极速率快"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 231
+    },
+    {
+        "question_text": "536.心室肌细胞不具有下列哪一项生理特性",
+        "options": [
+            "A.兴奋性",
+            "B.自律性",
+            "C.收缩性",
+            "D.传导性",
+            "E.以上全部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 232
+    },
+    {
+        "question_text": "537.有关心力贮备.以下哪项说法是不正确的",
+        "options": [
+            "A.健康者与某心脏病人若在静息时心输出量无差 异，他们的心力贮备也应该一样",
+            "B.收缩期贮备大于舒张期贮备C.",
+            "C.心力贮备也称为泵功能贮备",
+            "D.心力贮备能力取决于心率",
+            "E.心力贮备能力取决于每搏输出量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 233
+    },
+    {
+        "question_text": "538.自律细胞和非自律细胞生物电活动的主要区 别是",
+        "options": [
+            "A.4期自动去极化",
+            "B.0期去极化幅度",
+            "C.复极化时程长短",
+            "D.3期复极化的离子基础",
+            "E.静息电位不同"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 234
+    },
+    {
+        "question_text": "539.动脉舒张压的高低主要反映",
+        "options": [
+            "A.每搏输出量的多少",
+            "B.外周阻力的大小",
+            "C.大动脉弹性的好坏",
+            "D.心脏泵血功能的好坏",
+            "E.血管充盈的程度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 235
+    },
+    {
+        "question_text": "540.每搏输出量和外周阻力不变时.心率降低可 引起下列哪一项增加",
+        "options": [
+            "A.动脉收缩压",
+            "B.动脉舒张压",
+            "C.动脉平均压",
+            "D.动脉脉搏压",
+            "E.心输出量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 236
+    },
+    {
+        "question_text": "541.生理情况下.下列哪一项对收缩压的影响最 大",
+        "options": [
+            "A.心率的变化",
+            "B.每搏输出量的变化",
+            "C.外周阻力的变化",
+            "D.循环血量的变化",
+            "E.大动脉管壁弹性的变化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 237
+    },
+    {
+        "question_text": "542.心动周期中.心室血液充盈主要是由于",
+        "options": [
+            "A.血液依赖地心引力而回流",
+            "B.骨骼肌的挤压作用加速静脉回流",
+            "C.心房收缩的挤压作用",
+            "D.心室舒张的抽吸作用",
+            "E.胸内负压促进静脉回流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 238
+    },
+    {
+        "question_text": "543.心动周期中从房室瓣关闭到开放的时间约相 当于",
+        "options": [
+            "A.心房收缩期+心室等容收缩期",
+            "B.心房舒张期",
+            "C.心室收缩期",
+            "D.心室舒张期",
+            "E.心室收缩期+等容舒张期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 239
+    },
+    {
+        "question_text": "544.心肌通过等长自身调节来调节心脏的泵血功 能.其主要原因是",
+        "options": [
+            "A.心肌收缩能力增强",
+            "B.肌节的初长度增加",
+            "C.横桥联结的数目增多",
+            "D.心室舒张末期容积增大",
+            "E.心室舒张末期容积减小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 240
+    },
+    {
+        "question_text": "545.心室处于等容收缩期时",
+        "options": [
+            "A.房室瓣和半月瓣均处于关闭状态",
+            "B.室内压高于动脉压",
+            "C.半月瓣处于开放状态",
+            "D.房室瓣处于开放状态",
+            "E.房内压高于室内压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 241
+    },
+    {
+        "question_text": "546.心输出量是指",
+        "options": [
+            "A.一次心跳由两侧心室射出的血量之和",
+            "B.一次心跳由一侧心室射出的血量",
+            "C.每分钟由一侧心房射出的血量",
+            "D.每分钟由一侧心室射出的血量",
+            "E.每分钟由两侧心室射出的血量之和"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 242
+    },
+    {
+        "question_text": "547.关于动脉血压的描述.下列哪一项是正确的",
+        "options": [
+            "A.心室收缩时，血液对动脉管壁的侧压称为收缩 压",
+            "B.平均动脉血压是收缩压和舒张压的平均值",
+            "C.动脉血压偏离正常水平愈远，压力感受器纠正 异常血压的能力愈强",
+            "D.其他因素不变时，心率加快使脉搏压增大",
+            "E.男、女性的动脉血压均随年龄的增长而变化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 243
+    },
+    {
+        "question_text": "548.老年人的动脉管壁组织发生变性可导致",
+        "options": [
+            "A.收缩压和舒张压变化都不大",
+            "B.大动脉弹性回缩作用增强",
+            "C.收缩压降低，舒张压增高",
+            "D.脉压增大",
+            "E.平均动脉压增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 244
+    },
+    {
+        "question_text": "549.若外周阻力不变.每搏输出量增大.则动脉 血压的变化为",
+        "options": [
+            "A.收缩压不变，舒张压升高",
+            "B.收缩压升高，舒张压降低",
+            "C.收缩压升高，舒张压不变",
+            "D.收缩压升高比舒张压升高更明显",
+            "E.收缩压不变，舒张压升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 245
+    },
+    {
+        "question_text": "550.我国健康青年人在安静时的动脉收缩压为",
+        "options": [
+            "A.80-120 mmHg",
+            "B.100-120 mmHg",
+            "C.120-150 mmHg",
+            "D.90-140 mmHg",
+            "E.60-90 mmHg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 246
+    },
+    {
+        "question_text": "551.血管对血流的阻力",
+        "options": [
+            "A.当血管半径加倍时，降至原先阻力的1/2",
+            "B.当血管半径加倍时，降至原先阻力的1 / 8",
+            "C.取决于血管壁的厚度",
+            "D.在血液黏滞度升高时增大",
+            "E.和血管的长度无关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 247
+    },
+    {
+        "question_text": "552.异长调节是指心脏的每搏输出量取决于",
+        "options": [
+            "A.心率贮备",
+            "B.平均动脉压",
+            "C.心力贮备",
+            "D.心肌的初长度",
+            "E.后负荷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 248
+    },
+    {
+        "question_text": "553.关于静脉.下列叙述中哪一项是不正确的",
+        "options": [
+            "A.接受交感缩血管纤维的支配",
+            "B.管壁平滑肌在静脉被扩张时发生收缩",
+            "C.容纳全身血量的一半以上",
+            "D.回心血量不受体位变化的影响",
+            "E.回心血量受外周静脉压与中心静脉压之差的影 响"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 249
+    },
+    {
+        "question_text": "554.下列关于中心静脉压的描述.哪一项是不正 确的",
+        "options": [
+            "A.是指胸腔大静脉和右心房的血压",
+            "B.心脏射血能力减弱时，中心静脉压较低",
+            "C.正常变动范围为 0.4-1.2 kPa(4-12 cmH2O)",
+            "D.是反映心脏功能的一项指标",
+            "E.静脉输液量大且过快时，中心静脉压升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 250
+    },
+    {
+        "question_text": "555.心肌收缩力加强导致静脉回心血量增加的机 制是",
+        "options": [
+            "A.血流速度快",
+            "B.动脉血压升高",
+            "C.收缩期室内压较低",
+            "D.舒张期室内压较低",
+            "E.心输出量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 251
+    },
+    {
+        "question_text": "*556.关于微动脉.下列哪一项是不正确的",
+        "options": [
+            "A.在调节动脉血压中起重要作用",
+            "B.在调节器官血流量中起重要作用",
+            "C.其口径的变化比中动脉的大",
+            "D.收缩时，组织液的生成量减少",
+            "E.管壁平滑肌的张力主要受局部代谢产物调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 252
+    },
+    {
+        "question_text": "557.决定微循环营养通路周期性开闭的主要因素 是",
+        "options": [
+            "A.血管升压素",
+            "B.肾上腺素",
+            "C.去甲肾上腺素",
+            "D.血管紧张素",
+            "E.局部代谢产物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 253
+    },
+    {
+        "question_text": "558.右心衰竭时.发生组织水肿的原因是",
+        "options": [
+            "A.毛细血管血压升高",
+            "B.毛细血管通透性增高",
+            "C.淋巴回流受阻",
+            "D.组织液静水压降低",
+            "E.血浆胶体渗透压降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 254
+    },
+    {
+        "question_text": "559.迷走神经兴奋使心率减慢.是由于窦房结细 胞发生下列哪种改变所致",
+        "options": [
+            "A.K+通透性降低",
+            "B.K+通透性增高",
+            "C.Ca2+通透性增高",
+            "D.Na+通透性增高",
+            "E.Cl-通透性增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 255
+    },
+    {
+        "question_text": "560.心交感神经引起心肌收缩力加强的主要机制 是",
+        "options": [
+            "A.明显增加Ca2+通道开放概率",
+            "B.减弱自律细胞4期的内向电流",
+            "C.使复极相K'+外流减慢",
+            "D.减弱肌钙蛋白的Ca”2+”亲和力",
+            "E.能量的利用效率提高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 256
+    },
+    {
+        "question_text": "561.动脉血压骤降时可引起",
+        "options": [
+            "A.窦神经、主动脉神经传入冲动增加，心交感神 经紧张性增加",
+            "B.窦神经、主动脉神经传入冲动减少，心迷走神 经紧张性增加",
+            "C.窦神经、主动脉神经传入冲动增加，心迷走神 经紧张性增加",
+            "D.窦神经、主动脉神经传入冲动减少，心交感神 经传出冲动增加",
+            "E.窦神经、主动脉神经传入冲动增加，心迷走神 经传出冲动减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 257
+    },
+    {
+        "question_text": "562.平时维持交感缩血管纤维紧张性活动的基本 中枢位于",
+        "options": [
+            "A.大脑",
+            "B.下丘脑",
+            "C.中脑和脑桥",
+            "D.延髓",
+            "E.脊髓中间外侧柱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 258
+    },
+    {
+        "question_text": "563.大量失血时.机体首先出现的反应是",
+        "options": [
+            "A.外周阻力增加",
+            "B.肾素，血管紧张素释放增多",
+            "C.尿钠排出减少",
+            "D.循环血中儿茶酚胺增多",
+            "E.心输出量减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 259
+    },
+    {
+        "question_text": "564.与体温调节有关的血管是",
+        "options": [
+            "A.主动脉、大动脉",
+            "B.小动脉、微动脉",
+            "C.真毛细血管",
+            "D.静脉",
+            "E.微循环中的短路血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 260
+    },
+    {
+        "question_text": "565.进行物质交换的血管是",
+        "options": [
+            "A.主动脉、大动脉",
+            "B.小动脉、微动脉",
+            "C.真毛细血管",
+            "D.静脉",
+            "E.微循环中的短路血管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 261
+    },
+    {
+        "question_text": "566.起着血液贮存库的血管是",
+        "options": [
+            "A.主动脉、大动脉",
+            "B.小动脉、微动脉",
+            "C.真毛细血管",
+            "D.静脉",
+            "E.微循环中的短路血管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 262
+    },
+    {
+        "question_text": "567.血量增加时",
+        "options": [
+            "A.窦神经传入冲动减少",
+            "B.心迷走神经传入冲动减少",
+            "C.心迷走神经传出冲动减少",
+            "D.心交感神经传出冲动增加",
+            "E.血管升压素释放减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 263
+    },
+    {
+        "question_text": "568.反映左右心室去极化过程的是",
+        "options": [
+            "A.P波",
+            "B.QRS 波",
+            "C.T波",
+            "D.PR间期",
+            "E.S-T 段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 264
+    },
+    {
+        "question_text": "569.钠通道阻断剂是",
+        "options": [
+            "A.河豚毒",
+            "B.镍",
+            "C.铯",
+            "D.四乙铵",
+            "E.维拉帕来"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 265
+    },
+    {
+        "question_text": "570.T型Ca\"2+\"通道阻断剂是",
+        "options": [
+            "A.河豚毒",
+            "B.镍",
+            "C.铯",
+            "D.四乙铵",
+            "E.维拉帕来"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 266
+    },
+    {
+        "question_text": "571.KM“通道阻断剂是",
+        "options": [
+            "A.河豚毒",
+            "B.镍",
+            "C.铯",
+            "D.四乙铵",
+            "E.维拉帕来"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 267
+    },
+    {
+        "question_text": "572.If 通道阻断剂是",
+        "options": [
+            "A.河豚毒",
+            "B.镍",
+            "C.铯",
+            "D.四乙铵",
+            "E.维拉帕来"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 268
+    },
+    {
+        "question_text": "573.Na\"+\"快速大量内流发生",
+        "options": [
+            "A.心肌动作电位0期",
+            "B.心肌动作电位1期",
+            "C.心肌动作电位2期",
+            "D.心肌动作电位3期",
+            "E.心肌动作电位4期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 269
+    },
+    {
+        "question_text": "574.Ca\"+“缓慢内流和K\"+\"缓慢外流发生在",
+        "options": [
+            "A.心肌动作电位0期",
+            "B.心肌动作电位1期",
+            "C.心肌动作电位2期",
+            "D.心肌动作电位3期",
+            "E.心肌动作电位4期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 270
+    },
+    {
+        "question_text": "575.自律细胞自动除极发生",
+        "options": [
+            "A.心肌动作电位0期",
+            "B.心肌动作电位1期",
+            "C.心肌动作电位2期",
+            "D.心肌动作电位3期",
+            "E.心肌动作电位4期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 271
+    },
+    {
+        "question_text": "576.动用钠泵发生在",
+        "options": [
+            "A.心肌动作电位0期",
+            "B.心肌动作电位1期",
+            "C.心肌动作电位2期",
+            "D.心肌动作电位3期",
+            "E.心肌动作电位4期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 272
+    },
+    {
+        "question_text": "577.等容收缩期时",
+        "options": [
+            "A.房内压〉室内压〉主动脉压",
+            "B.房内压〈室内压〈主动脉压",
+            "C.房内压〉室内压〈主动脉压",
+            "D.房内压〈室内压〉主动脉压",
+            "E.房内压=室内压〉主动脉压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 273
+    },
+    {
+        "question_text": "578.快速射血期时",
+        "options": [
+            "A.房内压〉室内压〉主动脉压",
+            "B.房内压〈室内压〈主动脉压",
+            "C.房内压〉室内压〈主动脉压",
+            "D.房内压〈室内压〉主动脉压",
+            "E.房内压=室内压〉主动脉压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 274
+    },
+    {
+        "question_text": "579.快速充盈期时",
+        "options": [
+            "A.房内压〉室内压〉主动脉压",
+            "B.房内压〈室内压〈主动脉压",
+            "C.房内压〉室内压〈主动脉压",
+            "D.房内压〈室内压〉主动脉压",
+            "E.房内压=室内压〉主动脉压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 275
+    },
+    {
+        "question_text": "580.房缩期时",
+        "options": [
+            "A.房内压〉室内压〉主动脉压",
+            "B.房内压〈室内压〈主动脉压",
+            "C.房内压〉室内压〈主动脉压",
+            "D.房内压〈室内压〉主动脉压",
+            "E.房内压=室内压〉主动脉压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "276",
+        "number": 276
+    }
+]

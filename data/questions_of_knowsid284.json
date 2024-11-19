@@ -1,0 +1,1416 @@
+[
+    {
+        "question_text": "1.成年男性与女性颈部外形较明显的区别是：",
+        "options": [
+            "A.男性静坐时颈部血管更明显",
+            "B.男性颈部较细长",
+            "C.男性甲状软骨较突出",
+            "D.男性转头可见胸锁乳突肌更突出",
+            "E.男性直立时，两侧不对称"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 1
+    },
+    {
+        "question_text": "2.颈部检查不正确的是:",
+        "options": [
+            "A.颈部直立，转动自如",
+            "B.颈项强直见于蛛网膜下腔出血",
+            "C.正常人平卧位颈外静脉可稍充盈",
+            "D.正常人安静时可见颈动脉搏动",
+            "E.正常人可在右锁骨上窝听到连续性静脉嗡鸣"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 2
+    },
+    {
+        "question_text": "3.患侧胸锁乳突肌粗短，头部扶正直立时病侧胸锁乳突肌胸骨端会立即隆起，见于:",
+        "options": [
+            "A.先天性颈肌挛缩",
+            "B.先天性斜颈",
+            "C.颈肌外伤",
+            "D.颈椎结核",
+            "E.疤痕挛缩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项不是头不能抬起的病变？",
+        "options": [
+            "A.颈椎病",
+            "B.慢性消耗性疾病晚期",
+            "C.重症肌无力",
+            "D.脊髓前角细胞炎",
+            "E.进行性肌萎缩"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项不是斜颈常见病变？",
+        "options": [
+            "A.先天性斜颈",
+            "B.颈肌外伤",
+            "C.一侧疤痕收缩",
+            "D.气管偏移",
+            "E.先天性颈肌痉挛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 5
+    },
+    {
+        "question_text": "6.颈部运动受限伴疼痛一般不见于:",
+        "options": [
+            "A.软组织炎",
+            "B.颈淋巴结核",
+            "C.肥大性脊椎炎",
+            "D.颈椎结核",
+            "E.颈肌扭伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 6
+    },
+    {
+        "question_text": "7.蛛网膜下腔出血者颈部重要体征是:",
+        "options": [
+            "A.颈部活动正常",
+            "B.颈部强直",
+            "C.头偏向一侧",
+            "D.颈部疼痛",
+            "E.颈部肌肉压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 7
+    },
+    {
+        "question_text": "8.颈椎疾患表现为:",
+        "options": [
+            "A.头部运动受限",
+            "B.头部不随意地颤动",
+            "C.头部自由运动",
+            "D.头部不能运动",
+            "E.与颈动脉一致的点头运动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 8
+    },
+    {
+        "question_text": "9.震颤麻痹表现为:",
+        "options": [
+            "A.头部运动受限",
+            "B.头部不随意地颤动",
+            "C.头部自由运动",
+            "D.头部不能运动",
+            "E.与颈动脉一致的点头运动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 9
+    },
+    {
+        "question_text": "10.颈椎骨折表现为:",
+        "options": [
+            "A.头部运动受限",
+            "B.头部不随意地颤动",
+            "C.头部自由运动",
+            "D.头部不能运动",
+            "E.与颈动脉一致的点头运动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 10
+    },
+    {
+        "question_text": "11.主动脉瓣关闭不全可见:",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉异常搏动",
+            "C.随吞咽移动的颈前区肿物",
+            "D.颌下和颏下明显红肿",
+            "E.颈部淋巴结肿大、质中、无压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 11
+    },
+    {
+        "question_text": "12.三尖瓣关闭不完全时，可出现:",
+        "options": [
+            "A.颈动脉搏动",
+            "B.颈静脉搏动",
+            "C.颈部大血管杂音",
+            "D.右锁骨上静脉鸣音",
+            "E.锁骨上窝处杂音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 12
+    },
+    {
+        "question_text": "13.淋巴结结核可见:",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉异常搏动",
+            "C.随吞咽移动的颈前区肿物",
+            "D.颌下和颏下明显红肿",
+            "E.颈部淋巴结肿大、质中、无压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 13
+    },
+    {
+        "question_text": "14.颌下间隙蜂窝组织炎可见:",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉异常搏动",
+            "C.随吞咽移动的颈前区肿物",
+            "D.颌下和颏下明显红肿",
+            "E.颈部淋巴结肿大、质中、无压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 14
+    },
+    {
+        "question_text": "15.慢性粒细胞白血病的体征可出现:",
+        "options": [
+            "A.胸壁静脉曲张",
+            "B.胸壁静脉曲张",
+            "C.胸骨叩击痛",
+            "D.胸壁静脉曲张",
+            "E.局部肋间隙膨隆"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 15
+    },
+    {
+        "question_text": "16.主动脉关闭不全时可出现:",
+        "options": [
+            "A.颈部活动受限",
+            "B.头部不随意地颤动",
+            "C.与颈动脉搏动一致的点头运动",
+            "D.透镜向一侧偏斜",
+            "E.颈部强直"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 16
+    },
+    {
+        "question_text": "17.帕金森病患者可有:",
+        "options": [
+            "A.颈部活动受限",
+            "B.头部不随意地颤动",
+            "C.与颈动脉搏动一致的点头运动",
+            "D.透镜向一侧偏斜",
+            "E.颈部强直"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 17
+    },
+    {
+        "question_text": "18.脑膜炎时可出现:",
+        "options": [
+            "A.颈部活动受限",
+            "B.头部不随意地颤动",
+            "C.与颈动脉搏动一致的点头运动",
+            "D.透镜向一侧偏斜",
+            "E.颈项强直"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 18
+    },
+    {
+        "question_text": "19.颈动脉或椎动脉狭窄时，可出现:",
+        "options": [
+            "A.颈动脉搏动",
+            "B.颈静脉搏动",
+            "C.颈部大血管杂音",
+            "D.右锁骨上静脉鸣音",
+            "E.锁骨上窝处杂音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 19
+    },
+    {
+        "question_text": "20.锁骨下动脉狭窄时，可出现:",
+        "options": [
+            "A.颈动脉搏动",
+            "B.颈静脉搏动",
+            "C.颈部大血管杂音",
+            "D.右锁骨上静脉鸣音",
+            "E.锁骨上窝处杂音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 20
+    },
+    {
+        "question_text": "21.颈部包块在查体时不能获得明确印象时，应进行的主要辅助检查项目是:",
+        "options": [
+            "A.询问病史",
+            "B.血沉",
+            "C.血常规",
+            "D.肿瘤标记物",
+            "E.活检"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 21
+    },
+    {
+        "question_text": "22.颈部触诊包块为圆形，表面光滑，有囊样感，压迫能缩小，可能是:",
+        "options": [
+            "A.囊状瘤",
+            "B.甲状腺瘤",
+            "C.甲状腺癌",
+            "D.淋巴瘤",
+            "E.非特异性淋巴结炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 22
+    },
+    {
+        "question_text": "23.正常人，半坐位（即上身与水平呈45°角），颈静脉充盈水平应是下列哪一种？",
+        "options": [
+            "A.颈静脉塌陷",
+            "B.位于胸骨角上方4cm",
+            "C.位于胸骨角上方5cm",
+            "D.颈静脉充盈",
+            "E.位于胸骨角上方3cm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 23
+    },
+    {
+        "question_text": "24.正常人颈静脉搏动为:",
+        "options": [
+            "A.安静时不易见到",
+            "B.安静时可见到微弱搏动",
+            "C.剧烈活动时可见很微弱的搏动",
+            "D.剧烈活动时可见明显的搏动",
+            "E.卧位时可见明显搏动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 24
+    },
+    {
+        "question_text": "25.鉴别颈动脉与颈静脉搏动最大区别点是:",
+        "options": [
+            "A.搏动的位置",
+            "B.搏动的范围",
+            "C.搏动部位是否伴有血管杂音",
+            "D.触诊指尖的搏动感，颈动脉搏动感强",
+            "E.搏动的次数"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 25
+    },
+    {
+        "question_text": "26.哪项体征提示为心排血量增加或脉压增大的疾病？",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉搏动",
+            "C.颈静脉怒张",
+            "D.连续性静脉哼呜",
+            "E.颈部血管性杂音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 26
+    },
+    {
+        "question_text": "27.哪项体征提示体循环静脉血回流受阻或上腔静脉压增高？",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉搏动",
+            "C.颈静脉怒张",
+            "D.连续性静脉哼呜",
+            "E.颈部血管性杂音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 27
+    },
+    {
+        "question_text": "28.哪项体征提示生理性静脉血管音？",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉搏动",
+            "C.颈静脉怒张",
+            "D.连续性静脉哼呜",
+            "E.颈部血管性杂音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 28
+    },
+    {
+        "question_text": "29.正常人平卧时，颈外静脉在锁骨上缘至下颌角间的充盈水平在:",
+        "options": [
+            "A.不显露",
+            "B.下2/3以内",
+            "C.下1/2以内",
+            "D.下1/3以内",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 29
+    },
+    {
+        "question_text": "30.哪种体位时颈外静脉充盈度超过正常水平，称为颈静脉怒张？",
+        "options": [
+            "A.10～25°的半卧位",
+            "B.20～25°的半卧位",
+            "C.30～45°的半卧位",
+            "D.40～55°的半卧位",
+            "E.50～65°的半卧位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列哪项说法是错误的？",
+        "options": [
+            "A.正常人卧位时可见颈静脉充盈",
+            "B.正常人坐位时可见颈静脉充盈",
+            "C.右心衰竭时可见颈静脉充盈",
+            "D.上腔静脉回流受阻时可见颈静脉充盈",
+            "E.心包大量积液时可见颈静脉充盈"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 31
+    },
+    {
+        "question_text": "32.关于颈部血管的检查，下列哪项是错误的？",
+        "options": [
+            "A.正常人立位或坐位时不见颈静脉显露",
+            "B.半卧时可稍见充盈，充盈的水平不超过锁骨上缘与下颌角连线的下2/3处",
+            "C.超过正常水平或立位与坐位时可见明显静脉充盈，称为颈静脉怒张",
+            "D.颈静脉怒张可见于上腔静脉阻塞综合征",
+            "E.颈静脉怒张可见于左心衰竭"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 32
+    },
+    {
+        "question_text": "33.颈静脉怒张最常见的病因是:",
+        "options": [
+            "A.缩窄性心包炎",
+            "B.大量心包积液",
+            "C.三尖瓣狭窄",
+            "D.右心衰竭",
+            "E.上腔静脉回流受阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 33
+    },
+    {
+        "question_text": "34.颈静脉搏动见于:",
+        "options": [
+            "A.主动脉瓣关闭不全",
+            "B.二尖瓣关闭不全",
+            "C.三尖瓣关闭不全",
+            "D.甲状腺功能亢进",
+            "E.高血压心脏病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 34
+    },
+    {
+        "question_text": "35.颈静脉怒张见于:",
+        "options": [
+            "A.左心功能不全",
+            "B.右心功能不全",
+            "C.风心双瓣膜病",
+            "D.高血压心脏病",
+            "E.大动脉炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 35
+    },
+    {
+        "question_text": "36.临床检查患者时用手压迫肝脏使颈静脉怒张更明显，称为肝-颈静脉回流阳性，提示患者出现:",
+        "options": [
+            "A.全心衰竭",
+            "B.左心衰竭",
+            "C.右心衰竭",
+            "D.肝肿大",
+            "E.以上都正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 36
+    },
+    {
+        "question_text": "37.颈外静脉怒张伴收缩期搏动见于:",
+        "options": [
+            "A.三尖瓣关闭不全",
+            "B.三尖瓣狭窄",
+            "C.二尖瓣狭窄",
+            "D.二尖瓣关闭不全",
+            "E.主动脉瓣关闭不全"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪项不会出现颈静脉怒张？",
+        "options": [
+            "A.缩窄性心包炎",
+            "B.大量心包积液",
+            "C.主动脉瓣关闭不全",
+            "D.右心衰竭",
+            "E.上腔静脉回流受阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 38
+    },
+    {
+        "question_text": "39.引起颈静脉怒张常见原因中不包括",
+        "options": [
+            "A.肺水肿",
+            "B.右心衰竭",
+            "C.缩窄性心包炎",
+            "D.心包积液",
+            "E.上腔静脉阻塞综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 39
+    },
+    {
+        "question_text": "40.出现颈静脉搏动，见于下列哪种疾病？",
+        "options": [
+            "A.主动脉瓣关闭不全",
+            "B.三尖瓣关闭不全",
+            "C.二尖瓣关闭不全",
+            "D.甲状腺功能亢进",
+            "E.严重贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列哪种疾病不会出现颈静脉怒张？",
+        "options": [
+            "A.右心衰竭",
+            "B.缩窄性心包炎",
+            "C.心肌炎",
+            "D.心包积液",
+            "E.上腔静脉阻塞综合征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 41
+    },
+    {
+        "question_text": "42.男，38岁，3年前患结核性渗出性心包炎，近1～2个月来呼吸困难、腹胀、水肿。查体:颈静脉怒张。线示:左、右心缘变直及心包钙化。该患者颈静脉怒张是由于:",
+        "options": [
+            "A.上腔静脉阻塞",
+            "B.下腔静脉阻塞",
+            "C.右心房压力增高",
+            "D.右房向右室回流受阻",
+            "E.静脉向右房回流受阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 42
+    },
+    {
+        "question_text": "43.一支气管肺癌病人，近来出现头面部、颈部和上肢水肿。查体可见颈静脉怒张，其发生是由于:",
+        "options": [
+            "A.上腔静脉阻塞",
+            "B.下腔静脉阻塞",
+            "C.癌转移至心包积液",
+            "D.癌转移至胸腔大量积液",
+            "E.以上均有可能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 43
+    },
+    {
+        "question_text": "44.女，35岁，患风心病二尖瓣狭窄，一周前感冒后出现呼吸困难、咳嗽、水肿。查体可见颈静脉怒张，其发生机制是:",
+        "options": [
+            "A.上腔静脉阻塞",
+            "B.下腔静脉阻塞",
+            "C.右心房压力增高",
+            "D.右房向右室回流受阻",
+            "E.静脉向右房回流受阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 44
+    },
+    {
+        "question_text": "45.患者，男性，47岁，查体发现胸壁有静脉曲张，血流方向自上而下，该患者应考虑为:",
+        "options": [
+            "A.下腔静脉阻塞",
+            "B.上腔静脉阻塞",
+            "C.哺乳期妇女",
+            "D.门静脉高压",
+            "E.缩窄性心包炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 45
+    },
+    {
+        "question_text": "46.“风心病二尖瓣狭窄”患者，一周前“感冒”后出现呼吸困难、咳嗽、水肿。查体可见颈静脉怒张，其发生机制是:",
+        "options": [
+            "A.上腔静脉阻塞",
+            "B.下腔静脉阻塞",
+            "C.右房向右室回流受阻",
+            "D.左室回心血量增多",
+            "E.右心房压力增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 46
+    },
+    {
+        "question_text": "47.肝颈静脉回流征阳性的概念是:",
+        "options": [
+            "A.肝大，颈静脉亦怒张",
+            "B.肝大，腹水，颈静脉怒张",
+            "C.颈静脉怒张者必有上腔静脉血流回流受阻",
+            "D.颈静脉怒张者必有下腔静脉血流回流受阻",
+            "E.用右手在病人肿大的肝脏上加压时，可见颈静脉明显充盈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 47
+    },
+    {
+        "question_text": "48.安静状态时，出现颈动脉明显搏动常见于:",
+        "options": [
+            "A.原发性高血压",
+            "B.甲状腺功能亢进症",
+            "C.主动脉瓣关闭不全",
+            "D.动脉导管未闭",
+            "E.严重贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 48
+    },
+    {
+        "question_text": "49.颈动脉搏动增强可见于:",
+        "options": [
+            "A.二尖瓣关闭不全",
+            "B.三尖瓣关闭不全",
+            "C.高血压",
+            "D.上腔静脉回流受阻",
+            "E.心包积液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 49
+    },
+    {
+        "question_text": "50.颈动脉明显搏动不见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.发热",
+            "C.贫血",
+            "D.三尖瓣关闭不全",
+            "E.动脉导管未闭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 50
+    },
+    {
+        "question_text": "51.下列哪种疾病一般不会出现颈动脉明显搏动？",
+        "options": [
+            "A.主动脉关闭不全",
+            "B.高血压",
+            "C.右心衰竭",
+            "D.甲状腺功能亢进",
+            "E.甲状腺功能低下"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 51
+    },
+    {
+        "question_text": "52.与颈动脉搏动节律一致的点头运动，称DeMusset征，可见于:",
+        "options": [
+            "A.严重贫血",
+            "B.三尖瓣关闭不全",
+            "C.震颤麻痹",
+            "D.颈椎病",
+            "E.严重主动脉瓣关闭不全"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 52
+    },
+    {
+        "question_text": "53.锁骨上窝处听到的杂音，手指压迫颈静脉后杂音依然存在，提示:",
+        "options": [
+            "A.静脉哼鸣",
+            "B.锁骨下动脉狭窄",
+            "C.三尖瓣关闭不全",
+            "D.主动脉瓣关闭不全",
+            "E.主动脉瓣狭窄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 53
+    },
+    {
+        "question_text": "54.Oliver征表现为:",
+        "options": [
+            "A.与颈动脉一致的点头运动",
+            "B.瞬目减少",
+            "C.上视时无额文出现",
+            "D.集合运动减弱",
+            "E.主动脉弓瘤时，气管随心脏搏动向下电动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 54
+    },
+    {
+        "question_text": "55.Musset征表现为:",
+        "options": [
+            "A.与颈动脉一致的点头运动",
+            "B.瞬目减少",
+            "C.上视时无额文出现",
+            "D.集合运动减弱",
+            "E.主动脉弓瘤时，气管随心脏搏动向下电动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 55
+    },
+    {
+        "question_text": "56.Mobius征表现为",
+        "options": [
+            "A.与颈动脉一致的点头运动",
+            "B.瞬目减少",
+            "C.上视时无额文出现",
+            "D.集合运动减弱",
+            "E.主动脉弓瘤时，气管随心脏搏动向下电动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 56
+    },
+    {
+        "question_text": "57.Joffroy征表现为:",
+        "options": [
+            "A.与颈动脉一致的点头运动",
+            "B.瞬目减少",
+            "C.上视时无额文出现",
+            "D.集合运动减弱",
+            "E.主动脉弓瘤时，气管随心脏搏动向下电动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 57
+    },
+    {
+        "question_text": "58.Stellwag征表现为:",
+        "options": [
+            "A.与颈动脉一致的点头运动",
+            "B.瞬目减少",
+            "C.上视时无额文出现",
+            "D.集合运动减弱",
+            "E.主动脉弓瘤时，气管随心脏搏动向下电动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 58
+    },
+    {
+        "question_text": "59.甲状腺肿大的分度正确的是:",
+        "options": [
+            "A.可触及可看出，但在胸锁乳突肌以内为I度",
+            "B.有结节感，不规则为Ⅱ度",
+            "C.不能看出，但可触及为I度",
+            "D.质地柔软为I度",
+            "E.伴血管杂音为Ⅲ度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 59
+    },
+    {
+        "question_text": "60.甲状腺肿大超过胸锁乳突肌外缘则称为:",
+        "options": [
+            "A.I度肿大",
+            "B.Ⅱ度肿大",
+            "C.Ⅲ度肿大",
+            "D.Ⅳ度肿大",
+            "E.V度肿大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 60
+    },
+    {
+        "question_text": "61.甲状腺能看到肿大又能触及，但在胸锁乳突肌以内者属:",
+        "options": [
+            "A.正常",
+            "B.I度肿大",
+            "C.Ⅱ度肿大",
+            "D.Ⅲ度肿大",
+            "E.Ⅱ-Ⅲ度之间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 61
+    },
+    {
+        "question_text": "62.甲状腺肿大分为Ⅲ度，Ⅲ度指:",
+        "options": [
+            "A.不能看到仅能触及",
+            "B.能看到又能触及为Ⅱ度",
+            "C.超过胸锁乳突肌",
+            "D.甲状腺上有结节",
+            "E.甲状腺肿大有脓性分泌物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列哪项可借以鉴别桥本甲状腺炎与甲状腺癌？",
+        "options": [
+            "A.甲状腺质地",
+            "B.甲状腺大小",
+            "C.甲状腺是否为结节状",
+            "D.颈总动脉搏动是否可触及到",
+            "E.甲状腺是否有血管杂音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 63
+    },
+    {
+        "question_text": "64.肿大的甲状腺与颈前其他包块的鉴别点是:",
+        "options": [
+            "A.甲状腺位于甲状软骨下方",
+            "B.甲状腺多呈弥漫性，对称性肿大",
+            "C.甲状腺表面光滑",
+            "D.甲状腺可随吞咽动作上下移动",
+            "E.甲状腺肿大的程度多在胸锁乳突肌以内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 64
+    },
+    {
+        "question_text": "65.甲状腺功能亢进检查时，甲状腺特征性的改变是:",
+        "options": [
+            "A.质地柔软",
+            "B.呈弥散、对称",
+            "C.可随吞咽动作上下移动",
+            "D.出现结节样改变",
+            "E.可触及震颤或血管杂音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 65
+    },
+    {
+        "question_text": "66.甲状腺肿大可见:",
+        "options": [
+            "A.颈静脉搏动",
+            "B.颈动脉异常搏动",
+            "C.随吞咽移动的颈前区肿物",
+            "D.颌下和颏下明显红肿",
+            "E.颈部淋巴结肿大，质中，无压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 66
+    },
+    {
+        "question_text": "67.下列哪项不是甲状腺功能亢进的表现？",
+        "options": [
+            "A.腺体呈弥漫性、结节性肿大",
+            "B.质地不均匀",
+            "C.伴突眼",
+            "D.有凝视",
+            "E.腺体有杂音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 67
+    },
+    {
+        "question_text": "68.甲状腺功能亢进与单纯性甲状腺肿的主要鉴别点为:",
+        "options": [
+            "A.甲状腺肿大程度",
+            "B.甲状腺表面情况",
+            "C.甲状腺有无震颤或血管杂音",
+            "D.有无突眼",
+            "E.甲状腺质地情况"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 68
+    },
+    {
+        "question_text": "69.肿大的甲状腺质地柔软，两侧对称，触及震颤，并可闻及血管杂音，多考虑",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.单纯性甲状腺肿",
+            "C.结节性甲状腺肿",
+            "D.慢性淋巴性甲状腺炎",
+            "E.甲状腺癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 69
+    },
+    {
+        "question_text": "70.肿大的甲状腺质地柔和，触诊时可有震颤或能听到“嗡鸣”样血管杂音，最有可能为:",
+        "options": [
+            "A.甲状腺癌",
+            "B.甲状旁腺腺癌",
+            "C.甲状腺功能亢进",
+            "D.单纯性甲状腺肿",
+            "E.桥本氏甲状腺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 70
+    },
+    {
+        "question_text": "71.腺体肿大很突出，可为弥漫性，也可为结节性，无震颤和杂音，为",
+        "options": [
+            "A.甲状腺癌",
+            "B.甲状旁腺腺癌",
+            "C.甲状腺功能亢进",
+            "D.单纯性甲状腺肿",
+            "E.桥本氏甲状腺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 71
+    },
+    {
+        "question_text": "72.肿大的腺体有结节感，不规则，质地硬，可能是:",
+        "options": [
+            "A.甲状腺癌",
+            "B.甲状旁腺腺癌",
+            "C.甲状腺功能亢进",
+            "D.单纯性甲状腺肿",
+            "E.桥本氏甲状腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 72
+    },
+    {
+        "question_text": "73.甲状腺呈弥漫性或结节性肿大，可以触到劲总动脉的是:",
+        "options": [
+            "A.甲状腺癌",
+            "B.甲状旁腺腺癌",
+            "C.甲状腺功能亢进",
+            "D.单纯性甲状腺肿",
+            "E.桥本氏甲状腺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 73
+    },
+    {
+        "question_text": "74.甲状腺突出，有甲状旁腺功能亢进，最有可能的是:",
+        "options": [
+            "A.甲状腺癌",
+            "B.甲状旁腺腺癌",
+            "C.甲状腺功能亢进",
+            "D.单纯性甲状腺肿",
+            "E.桥本氏甲状腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 74
+    },
+    {
+        "question_text": "75.甲状腺功能亢进者，甲状腺检查可见:",
+        "options": [
+            "A.甲状腺弥漫性肿大",
+            "B.质地坚硬",
+            "C.有结节感",
+            "D.闻及连续性颈静脉“嗡鸣”音",
+            "E.闻及收缩期吹风样杂音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 75
+    },
+    {
+        "question_text": "76.患者眼球突出Stellwag有征，其它未见异常，应进一步做何处理？",
+        "options": [
+            "A.随诊观察病情",
+            "B.测T3、T4、I131曲线",
+            "C.向病人解释无大碍无需再诊",
+            "D.药物保守治疗",
+            "E.可用抗甲状腺素药试验治疗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 76
+    },
+    {
+        "question_text": "77.甲状腺肿大伴血管杂音及震颤，见于:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 77
+    },
+    {
+        "question_text": "78.甲状腺呈圆形或椭圆形肿大，多为单发，也可多发，质地坚韧，无压痛。见于:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 78
+    },
+    {
+        "question_text": "79.甲状腺呈不对称性肿大，表面凹凸不平，质地坚硬而固定，提示:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 79
+    },
+    {
+        "question_text": "80.甲状腺对称性弥漫性肿大，边界清楚，表面光滑，质地坚韧而有弹性。提示:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 80
+    },
+    {
+        "question_text": "81.甲状腺癌表现为:",
+        "options": [
+            "A.甲状腺触及震颤",
+            "B.甲状腺弥漫性肿大",
+            "C.甲状腺触及质硬结节",
+            "D.肿大的甲状腺后缘摸到颈总动脉搏动",
+            "E.Oliver征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 81
+    },
+    {
+        "question_text": "82.慢性淋巴性甲状腺炎表现为:",
+        "options": [
+            "A.甲状腺触及震颤",
+            "B.甲状腺弥漫性肿大",
+            "C.甲状腺触及质硬结节",
+            "D.肿大的甲状腺后缘摸到颈总动脉搏动",
+            "E.Oliver征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 82
+    },
+    {
+        "question_text": "83.单纯性甲状腺肿大表现为:",
+        "options": [
+            "A.甲状腺触及震颤",
+            "B.甲状腺弥漫性肿大",
+            "C.甲状腺触及质硬结节",
+            "D.肿大的甲状腺后缘摸到颈总动脉搏动",
+            "E.Oliver征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 83
+    },
+    {
+        "question_text": "84.甲状腺功能亢进表现为:",
+        "options": [
+            "A.甲状腺触及震颤",
+            "B.甲状腺局限性肿大",
+            "C.甲状腺触及质硬结节",
+            "D.肿大的甲状腺后缘摸到颈总动脉搏动",
+            "E.Oliver征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 84
+    },
+    {
+        "question_text": "85.甲状腺可呈对称性或非对称性肿大，质地多柔软，可听到连续性血管杂音并触及震颤，多见于:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 85
+    },
+    {
+        "question_text": "86.甲状腺呈对称性肿大，质地柔软，多为弥漫性，可见于:",
+        "options": [
+            "A.单纯性甲状腺肿",
+            "B.甲状腺功能亢进症",
+            "C.甲状腺腺瘤",
+            "D.甲状腺癌",
+            "E.慢性淋巴细胞性甲状腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 86
+    },
+    {
+        "question_text": "87.甲状腺功能亢进面容的特点，错误的是:",
+        "options": [
+            "A.眼裂增大",
+            "B.眼球突出",
+            "C.目光炯炯有神",
+            "D.面容惊愕",
+            "E.颜面水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 87
+    },
+    {
+        "question_text": "88.气管移位不见于以下哪些病？",
+        "options": [
+            "A.肺不张",
+            "B.肺纤维化",
+            "C.胸腔积液",
+            "D.肺气肿",
+            "E.气胸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 88
+    },
+    {
+        "question_text": "89.下列哪一种疾病气管不应该偏向健侧？",
+        "options": [
+            "A.大量胸腔积液",
+            "B.纵膈肿瘤",
+            "C.大量气胸",
+            "D.肺不张",
+            "E.单侧甲状腺肿大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 89
+    },
+    {
+        "question_text": "90.下列哪项是气管被推向患侧的病因？",
+        "options": [
+            "A.肺不张",
+            "B.气胸",
+            "C.纵膈肿瘤",
+            "D.大量胸腔积液",
+            "E.单侧甲状腺肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 90
+    },
+    {
+        "question_text": "91.患者，女性，17岁，查体发现气管右移，右侧语颤消失，呼吸音消失，叩诊呈浊音，该患者最可能的是:",
+        "options": [
+            "A.右肺不张",
+            "B.左侧胸腔积液",
+            "C.左侧气胸",
+            "D.右侧大叶性肺炎",
+            "E.阻塞性肺气肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 91
+    },
+    {
+        "question_text": "92.下列哪项是气管被推向健侧的病因？",
+        "options": [
+            "A.一侧肺不张",
+            "B.一侧胸膜增厚",
+            "C.一侧胸膜粘连",
+            "D.一侧胸腔积液",
+            "E.一侧肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 92
+    },
+    {
+        "question_text": "93.气管向左移位可见于:",
+        "options": [
+            "A.左上肺结核",
+            "B.右侧大叶性肺炎",
+            "C.左侧肺不张",
+            "D.左侧胸膜肥厚",
+            "E.左侧气胸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 93
+    },
+    {
+        "question_text": "94.患者，男性，61岁，查体:右肺部为实变体征，检查气管偏右，该患者可考虑可能为何种病变？",
+        "options": [
+            "A.右侧大叶性肺炎",
+            "B.左侧胸腔积液",
+            "C.两侧胸腔积液",
+            "D.右肺不张",
+            "E.右侧胸腔积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 94
+    },
+    {
+        "question_text": "95.可将气管拉向患侧的是:",
+        "options": [
+            "A.胸腔积液",
+            "B.气胸",
+            "C.甲状腺肿大",
+            "D.阻塞性肺不张",
+            "E.纵隔肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 95
+    },
+    {
+        "question_text": "96.可将气管推向健侧的是:",
+        "options": [
+            "A.肺不张",
+            "B.肺硬化",
+            "C.胸腔积液",
+            "D.肺纤维化",
+            "E.胸膜粘连"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 96
+    },
+    {
+        "question_text": "97.下列哪种疾病不会发生气管移位？",
+        "options": [
+            "A.慢性阻塞性肺气肿",
+            "B.气胸",
+            "C.胸腔积液",
+            "D.胸膜粘连",
+            "E.肺硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 97
+    },
+    {
+        "question_text": "98.下列哪项疾病可引起气管明显偏移？",
+        "options": [
+            "A.慢性支气管炎",
+            "B.支气管扩张症",
+            "C.肺气肿",
+            "D.一侧肺不张",
+            "E.气管异物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 98
+    },
+    {
+        "question_text": "99.气管明显右移可见于:",
+        "options": [
+            "A.支气管哮喘",
+            "B.慢性支气管炎",
+            "C.左侧胸腔积液",
+            "D.军团菌肺炎",
+            "E.阻塞性肺气肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 99
+    },
+    {
+        "question_text": "100.引起气管向患侧移位的病变是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.气胸",
+            "C.胸腔积液",
+            "D.肺不张",
+            "E.肺气肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 100
+    },
+    {
+        "question_text": "101.阻塞性肺不张时，查体可发现:",
+        "options": [
+            "A.病位闻支气管呼吸音",
+            "B.闻支气管语音",
+            "C.语颤增强",
+            "D.气管移向患侧",
+            "E.胸耳语音明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "101",
+        "number": 101
+    }
+]

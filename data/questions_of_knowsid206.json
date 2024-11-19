@@ -1,0 +1,338 @@
+[
+    {
+        "question_text": "1.2岁以内小儿颅脑超声扫查的最常用窗为：",
+        "options": [
+            "A.\t颞部",
+            "B.\t后囟",
+            "C.\t前囟",
+            "D.\t眼眶",
+            "E.\t前额"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 1
+    },
+    {
+        "question_text": "2.\tTCD探测大脑动脉的主要声窗是：①颞窗；②眼 眶窗；③枕窗；④额上窗",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 2
+    },
+    {
+        "question_text": "3.\tTCD常规探测大脑动脉血流信号，下列选项为血 流背离探头（负向流速曲线）：①椎一基底动脉；②大脑中动脉；③大脑前动脉；④大脑后动脉",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t脑血管狭窄的TCD表现是：",
+        "options": [
+            "A.\t狭窄段血流速度增快",
+            "B.\t狭窄远端血流速度减低",
+            "C.\t流速曲线图形异常（充填）",
+            "D.\t血管杂音",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t脑动脉硬化血流流速曲线图形常表现为：",
+        "options": [
+            "A.\t正常流速曲线",
+            "B.\t极小收缩峰流速曲线",
+            "C.\t舒张期逆行血流流速曲线",
+            "D.\t收缩峰峰顶圆隆，峰时延长流速曲线",
+            "E.\t高阻力频谱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t椎一基底动脉供血不足的TCD主要表现为：",
+        "options": [
+            "A.\t血流速度增快",
+            "B.\t血流速度减低",
+            "C.\t血流速度正常",
+            "D.\t无血流",
+            "E.\t血流速度减低或无血流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t周围血管彩色多普勒检查注意事项中，以下选项 中错误的是：",
+        "options": [
+            "A.\t应进行两侧对比检查",
+            "B.\t取样门放置在管腔中央",
+            "C.\t多普勒增益要适中",
+            "D.\t探头在检查部位的压力宜大不宜小",
+            "E.\t病人在检查时肌肉要处于放松状态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t在做周围血管检查时，应使多普勒声束与血流方 向的夹角：",
+        "options": [
+            "A.\t保持固定角度",
+            "B.\t保持完全平行",
+            "C.\t<60°",
+            "D.\t>30°",
+            "E.\t越大越好"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t正常人颈总动脉内膜一中层厚度（IMT）:",
+        "options": [
+            "A.\t<1.0mm",
+            "B.\t<0.5mm",
+            "C.\t>1.0mm",
+            "D.\t>1.5mm",
+            "E.\t随年龄增加而减小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t正常颈总动脉血流流速曲线具有的特点是：① 收缩期有两峰或三峰；②第一峰大于第二峰；③双 峰之间有切迹；④整个心动周期基线上有血流信号",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t以下有关动脉硬化性闭塞症的描述正确的是：",
+        "options": [
+            "A.\t中老年多见",
+            "B.\t常伴高血压、冠心病、高血脂、糖尿病",
+            "C.\t患肢疼痛、发冷、麻木，远端肢体营养障碍",
+            "D.\t可出现间歇性跛行",
+            "E.\t以上都正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t动脉粥样硬化的二维超声表现包括：①动脉内 膜增厚；②粥样硬化斑块形成；③溃疡形成；④斑 块内出血",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t动脉硬化性闭塞与血栓闭塞性脉管炎的鉴别 中，表现多见于前者的是：①发病年龄老年人多 见；②常伴血栓性浅静脉炎；③常见钙化斑块；④ 受累动脉以中小型动脉为主",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t以下选项中，不符合血栓闭塞性脉管炎的是：",
+        "options": [
+            "A.\t好发于青壮年",
+            "B.\t病变主要发生在中小型动脉及其伴行静脉",
+            "C.\t病变很少呈节段性改变，表现为动静脉弥漫性受 累",
+            "D.\t常伴发血栓性浅静脉炎",
+            "E.\t一般无钙化斑块"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t目前一般认为扩张动脉段内径要大于或等于近 端或远端动脉内径多少倍，才能诊断为动脉瘤：",
+        "options": [
+            "A.\t1.5 倍",
+            "B.\t2倍",
+            "C.\t2.5 倍",
+            "D.\t3倍",
+            "E.\t3.5 倍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t以下选项中，多普勒表现对假性动脉瘤具有相 对特异性的是：",
+        "options": [
+            "A.\t在瘤体内检出高速血流",
+            "B.\t在瘤体内检出低速血流",
+            "C.\t探头对瘤体挤压时瘤内血流信号增加",
+            "D.\t在瘤体开口处检出进一出血流现象",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t以下有关急性深静脉血栓的描述，正确的是：",
+        "options": [
+            "A.\t管腔内为无回声或低回声",
+            "B.\t管腔明显增宽",
+            "C.\t探头加压后，管腔不能被压瘪",
+            "D.\t管腔内完全无血流或仅有极少量血流信号",
+            "E.\t以上均正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t超声诊断下肢深静脉瓣功能不全的主要标准 是：",
+        "options": [
+            "A.\t深静脉瓣游离缘松弛、伸长",
+            "B.\t深静脉流速加快",
+            "C.\t交通支静脉反流",
+            "D.\t浅静脉曲张",
+            "E.\tValsalva试验或挤压远端肢体放松后出现反流 且持续时间〉0.5s，症状明显者＞1s"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t检测患侧下肢动脉闭塞时应与将以下作为对比 的是：",
+        "options": [
+            "A.\t对侧下肢动脉系统",
+            "B.\t腹主动脉",
+            "C.\t颈动脉",
+            "D.\t肱动脉",
+            "E.\t以上均正确"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t引起腹膜后间隙血肿的疾病最常见的是：",
+        "options": [
+            "A.\t肾脏损伤",
+            "B.\t胰腺损伤",
+            "C.\t腰椎和骨盆骨折",
+            "D.\t腹主动脉瘤破裂",
+            "E.\t血流病（血友病）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t下列疾病均可表现为腹膜后实质性均质性的肿 块，其中最多见的疾病是：",
+        "options": [
+            "A.\t放线菌病",
+            "B.\t恶性组织细胞病",
+            "C.\t脂肪瘤",
+            "D.\t脊索瘤",
+            "E.\t恶性淋巴瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t以下有关肾上腺嗜铬细胞瘤的描述，错误的 是：",
+        "options": [
+            "A.\t瘤体常呈中等回声，有时可见到囊性液暗区",
+            "B.\t超声所见包膜呈高回声",
+            "C.\t以良性居多，约有2%为恶性",
+            "D.\t肿瘤多数为双侧性",
+            "E.\t肾上腺外的嗜铬细胞瘤多见于肾门附近"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t患儿女性，2岁，超声检查示一侧肾上腺区6cm X7cm的肿块，边界不规整，内部回声不均匀，并 可见高回声斑块，患侧肾位置下移，眼眶部发现异 常肿块，则该肾上腺肿块最大可能为：",
+        "options": [
+            "A.\t髓性脂肪瘤",
+            "B.\t皮质腺瘤",
+            "C.\t节细胞神经瘤",
+            "D.\t恶性嗜铬细胞瘤",
+            "E.\t神经母细胞瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t腹膜后器官有：①胰腺；②小肠；③双肾；④ 肝",
+        "options": [
+            "A.\t①+②",
+            "B.\t①+②+③",
+            "C.\t②+③",
+            "D.\t①+③",
+            "（十五）儿科及介入超声"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 24
+    }
+]

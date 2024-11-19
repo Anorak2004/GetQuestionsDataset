@@ -1,0 +1,2563 @@
+[
+    {
+        "question_text": "47.被动转运与主动转运的共同点是",
+        "options": [
+            "A.转运离子或小分子物质",
+            "B.均为耗能过程",
+            "C.均需依赖膜蛋白的帮助",
+            "D.均为不耗能过程",
+            "E.均无需膜蛋白的帮助"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 1
+    },
+    {
+        "question_text": "48.对于Na+泵.下列哪项叙述是不正确的",
+        "options": [
+            "A.钠泵循环一次，可将1个Na+移出膜外，3个K+ 移入膜内",
+            "B.Na+泵的作用是维持细胞内外离子的不均衡分布",
+            "C.Na泵的活动与温度有关",
+            "D.缺氧时Na+泵活性降低",
+            "E.酸中毒时Na+泵活性降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 2
+    },
+    {
+        "question_text": "49.激素、酶等物质被分泌到细胞外的过程属于",
+        "options": [
+            "A.出胞作用",
+            "B.通道转运",
+            "C.主动转运",
+            "D.载体转运",
+            "E.自由扩散"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 3
+    },
+    {
+        "question_text": "50.经载体易化扩散的饱和现象的产生是因为",
+        "options": [
+            "A.疲劳",
+            "B.跨膜梯度降低",
+            "C.能量匮乏",
+            "D.载体数量决定的转运极限",
+            "E.竞争性抑制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 4
+    },
+    {
+        "question_text": "51.生物电的跨膜离子移动属于",
+        "options": [
+            "A.单纯扩散",
+            "B.载体中介的易化扩散",
+            "C.通道中介的易化扩散",
+            "D.入胞",
+            "E.出胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 5
+    },
+    {
+        "question_text": "52.细胞膜内外正常钠和钾浓度差的形成和维持是 由于",
+        "options": [
+            "A.膜安静时钾通透性大",
+            "B.膜兴奋时钠通透性增加",
+            "C.钠易化扩散的结果",
+            "D.膜上钠泵的作用",
+            "E.膜上钙泵的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 6
+    },
+    {
+        "question_text": "53.下列跨膜转运的方式中.不存在饱和现象的是",
+        "options": [
+            "A.继发性主动转运",
+            "B.原发性主动转运",
+            "C.易化扩散",
+            "D.单纯扩散",
+            "E.Na+-Ca2+交换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 7
+    },
+    {
+        "question_text": "54.在细胞膜蛋白质的帮助下.物质顺浓度差或电 位差的转运方式是",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.出胞作用",
+            "D.原发性主动转运",
+            "E.继发性主动转运"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 8
+    },
+    {
+        "question_text": "55.大多数细胞产生静息电位的原因是",
+        "options": [
+            "A.细胞内高K+浓度和安静时膜主要对K+有通透性",
+            "B.细胞内高K+浓度和安静时膜主要对Na+有通透性",
+            "C.细胞外高Na+浓度和安静时膜主要对Na+有通透 性",
+            "D.细胞外高Na+浓度和安静时膜主要对K+有通透性",
+            "E.Na+- K+泵的活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 9
+    },
+    {
+        "question_text": "56.静息电位的实测值同K+平衡电位的理论值相比 较（绝对值）",
+        "options": [
+            "A.前者小",
+            "B.两者相等",
+            "C.前者约大10%",
+            "D.前者约大5%",
+            "E.前者约小10%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 10
+    },
+    {
+        "question_text": "57.神经细胞在产生动作电位时.去极化的方向是 朝向下列哪种电位的",
+        "options": [
+            "A.Na+与C1-的平衡电位",
+            "B.K+的平衡电位",
+            "C.Na+的平衡电位",
+            "D.K+与C1-的平衡电位",
+            "E.K+与Na+的平衡电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 11
+    },
+    {
+        "question_text": "58.下述哪项为膜的极化状态",
+        "options": [
+            "A.静息电位存在时膜两侧保持的内负外正状态",
+            "B.静息电位的数值向膜内负值加大的方向变化",
+            "C.经历B项变化后，再向正常安静时膜内的负值 恢复",
+            "D.静息电位的数值向膜内负值减少的方向变化",
+            "E.经历D项变化后，再向正常安静时膜内的负值 恢复"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 12
+    },
+    {
+        "question_text": "59.达到K+平衡电位时",
+        "options": [
+            "A.细胞膜两侧K+浓度梯度为零",
+            "B.细胞膜外K+浓度大于膜内",
+            "C.细胞膜两侧电位梯度为零",
+            "D.细胞膜内较膜外电位相对较正",
+            "E.细胞膜内侧K+的净外流为零"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 13
+    },
+    {
+        "question_text": "60.静息电位的数值向膜内电位升高的方向变化称作膜的",
+        "options": [
+            "A.极化",
+            "B.去极化",
+            "C.反极化",
+            "D.复极化",
+            "E.超级化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 14
+    },
+    {
+        "question_text": "61.细胞膜对Na+通透性增加时.静息电位将",
+        "options": [
+            "A.增大",
+            "B.减小",
+            "C.先增大后减小",
+            "D.不变",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 15
+    },
+    {
+        "question_text": "*62.细胞外液的K+浓度明显降低时.将导致",
+        "options": [
+            "A.K+电导加大",
+            "B.膜电位负值减小",
+            "C.Na+内流的驱动力增加",
+            "D.平衡电位的负值减小",
+            "E.膜电位负值增大"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 16
+    },
+    {
+        "question_text": "63.局部电位的空间性总和是指",
+        "options": [
+            "A.同一部位连续的阈上刺激引起的去极化反应的 叠加",
+            "B.同一部位连续的阈下刺激引起的去极化反应的 叠加",
+            "C.同一时间不同部位的阈下刺激引起的去极化反 应的叠加",
+            "D.同一时间不同部位的阈上刺激引起的去极化反 应的叠加",
+            "E.同一部位连续的阈下刺激引起的超极化反应的 叠加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 17
+    },
+    {
+        "question_text": "64.具有局部电位信号特征的电信号是",
+        "options": [
+            "A.神经于动作电位",
+            "B.神经纤维动作电位",
+            "C.锋电位",
+            "D.终板电位",
+            "E.骨骼肌细胞动作电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 18
+    },
+    {
+        "question_text": "65.可兴奋细胞兴奋的共同标志是",
+        "options": [
+            "A.反射活动",
+            "B.肌肉收缩",
+            "C.腺体分泌",
+            "D.神经冲动",
+            "E.动作电位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 19
+    },
+    {
+        "question_text": "66.通常用于衡量组织兴奋性高低的指标是",
+        "options": [
+            "A.组织反应强度",
+            "B.动作电位幅度",
+            "C.动作电位频率",
+            "D.阈值",
+            "E.阈电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 20
+    },
+    {
+        "question_text": "*67.微终板电位的原因是",
+        "options": [
+            "A.运动神经末梢释放一个递质分子引起的终板膜 电活动",
+            "B.肌膜上一个受体离子通道打开",
+            "C.自发释放小量递质引起的多个离子通道打开",
+            "D.神经末梢不释放递质时肌膜离子通道的自发性 开放",
+            "E.神经末梢单个动作电位引起的终板膜多个离子 通道打开"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 21
+    },
+    {
+        "question_text": "68.细胞在一次兴奋后.阈值最低的时期是",
+        "options": [
+            "A.相对不应期",
+            "B.绝对不应期",
+            "C.超常期",
+            "D.低常期",
+            "E.有效不应期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 22
+    },
+    {
+        "question_text": "69.阈电位是指",
+        "options": [
+            "A.造成膜对K+通透性突然增大的临界膜电位",
+            "B.造成膜对K+通透性突然减小的临界膜电位",
+            "C.超极化到刚能引起动作电位时的膜电位",
+            "D.造成膜对Na+通透性突然增大的临界膜电位",
+            "E.造成膜对Na+通透性突然减小的临界膜电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 23
+    },
+    {
+        "question_text": "70.阈下刺激能导致可兴奋细胞产生",
+        "options": [
+            "A.去极化",
+            "B.极化",
+            "C.局部反应",
+            "D.反极化",
+            "E.超极化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 24
+    },
+    {
+        "question_text": "71.单条神经纤维锋电位的高度取决于膜内外",
+        "options": [
+            "A.K+浓度差",
+            "B.Na+浓度差",
+            "C.Mg2+浓度差",
+            "D.Ca2+浓度差",
+            "E.Cl-浓度差"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 25
+    },
+    {
+        "question_text": "72.将神经纤维膜电位由静息水平突然上升并固定到0mV水平时",
+        "options": [
+            "A.先出现内向电流，而后逐渐变为外向电流",
+            "B.先出现外向电流，而后逐渐变为内向电流",
+            "C.仅出现外向电流",
+            "D.仅出现内向电流",
+            "E.无电流出现"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 26
+    },
+    {
+        "question_text": "73.神经冲动到达运动神经末梢时.可引起接头前 膜",
+        "options": [
+            "A.Na+通道关闭",
+            "B.Ca2+通道开放",
+            "C.K+通道关闭",
+            "D.Cl-通道开放",
+            "E.Ca2+通道关闭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 27
+    },
+    {
+        "question_text": "74.神经和骨骼肌细胞动作电位复极化的产生是由 于",
+        "options": [
+            "A.Na+内流",
+            "B.K+外流",
+            "C.Ca2+内流",
+            "D.Na+外流",
+            "E.K+内流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 28
+    },
+    {
+        "question_text": "75.神经纤维由K+平衡电位转为Na+平衡电位.形 成",
+        "options": [
+            "A.静息电位",
+            "B.动作电位去极相",
+            "C.局部反应",
+            "D.动作电位复极相",
+            "E.正后电位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 29
+    },
+    {
+        "question_text": "76.以不衰减的形式沿可兴奋细胞膜传导的电活动 是",
+        "options": [
+            "A.静息膜电位",
+            "B.锋电位",
+            "C.终板电位",
+            "D.感受器电位",
+            "E.突触后电位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 30
+    },
+    {
+        "question_text": "77.骨骼肌细胞兴奋-收缩耦联过程中.胞质中Ca2+来自于",
+        "options": [
+            "A.细胞膜上Na+受体通道开放引起的Ca2+内流",
+            "B.横管膜上电压门控Ca2+通道开放引起的Ca2+内流",
+            "C.肌质网上Ca2+通道开放引起的内Ca2+释放",
+            "D.肌质网上Ca2+泵的主动转运",
+            "E.细胞膜上电压门控Ca2+通道开放引起的Ca2+内流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 31
+    },
+    {
+        "question_text": "78.运动神经兴奋时.何种离子进入轴突末梢的量 与囊泡释放量呈正比",
+        "options": [
+            "A.Ca2+",
+            "B.Mg2+",
+            "C.K+",
+            "D.Na+",
+            "E.Cl-"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 32
+    },
+    {
+        "question_text": "79.在兴奋一收缩耦联过程中起主要媒介作用的离 子是",
+        "options": [
+            "A.Cl-",
+            "B.Na+",
+            "C.K+",
+            "D.Ca2+",
+            "E.HCO3-"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 33
+    },
+    {
+        "question_text": "80.在神经一肌肉接头处消除乙酰胆碱的酶是",
+        "options": [
+            "A.ATP 酶",
+            "B.单胺氧化酶",
+            "C.磷酸二酯酶",
+            "D.腺苷酶",
+            "E.胆碱酯酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 34
+    },
+    {
+        "question_text": "81.阈刺激是指：",
+        "options": [
+            "A.造成膜对K离子通透性突然增大的最小刺激",
+            "B.造成膜对K离子通透性突然减小的最小刺激",
+            "C.超极化到刚能引起动作电位时的最小刺激",
+            "D.造成膜对Na离子通透性突然增大的最小刺激",
+            "E.造成膜对Na离子通透性突然减小的最小刺激"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 35
+    },
+    {
+        "question_text": "82.钠泵活动最重要的意义是：",
+        "options": [
+            "A.维持细胞内高钾",
+            "B.防止细胞肿胀",
+            "C.建立势能储备",
+            "D.消耗多余的ATP",
+            "E.维持细胞外高钙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 36
+    },
+    {
+        "question_text": "83.与静息电位值的大小无关的",
+        "options": [
+            "A.膜内外离子浓度差",
+            "B.膜对钾离子的通透性",
+            "C.膜的表面积",
+            "D.膜对钠离子的通透性",
+            "E.膜对蛋白质等负离子的通透性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 37
+    },
+    {
+        "question_text": "84.葡萄糖通过红细胞膜的方式是",
+        "options": [
+            "A.单纯扩散",
+            "B.载体介导的易化扩散",
+            "C.原发性主动转运",
+            "D.通道介导的易化扩散",
+            "E.继发性主动转运"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 38
+    },
+    {
+        "question_text": "85.抑制Na+-K+泵活动将导致",
+        "options": [
+            "A.细胞内外Na+、K+浓度差均降低",
+            "B.细胞外K+浓度升高",
+            "C.细胞内外Na+、K+浓度差均增高",
+            "D.细胞内Na+、K+浓度均降低",
+            "E.细胞内K+浓度升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 39
+    },
+    {
+        "question_text": "86.若某种细胞的动作电位持续时间为2 ms.则理 论上每秒内所能产生和传导的动作电位数最多不 超过",
+        "options": [
+            "A.500 次",
+            "B.50 次",
+            "C.100 次",
+            "D.400 次",
+            "E.300 次"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 40
+    },
+    {
+        "question_text": "87.神经纤维细胞外液中的Na+浓度降低.动作电 位的幅度将",
+        "options": [
+            "A.减小",
+            "B.增大",
+            "C.先减小后增大",
+            "D.不变",
+            "E.先增大后减小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 41
+    },
+    {
+        "question_text": "88.阈上刺激的刺激强度增加一倍.单条神经纤维 的动作电位的幅度将",
+        "options": [
+            "A.增加l倍",
+            "B.不变",
+            "C.增加0.5倍",
+            "D.增加2倍",
+            "E.增加1.5倍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 42
+    },
+    {
+        "question_text": "89.美洲箭毒的作用是",
+        "options": [
+            "A.能影响递质的释放",
+            "B.与ACh竞争终板膜上的受体",
+            "C.能水解神经递质",
+            "D.能阻断突触前动作电位产生",
+            "E.抑制胆碱酯酶活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 43
+    },
+    {
+        "question_text": "90.有机磷农药中毒时.可使",
+        "options": [
+            "A.乙酰胆碱与其受体亲和力增高",
+            "B.胆碱酯酶活性降低",
+            "C.乙酰胆碱水解加速",
+            "D.乙酰胆碱释放量增加",
+            "E.胆碱酯酶活性增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 44
+    },
+    {
+        "question_text": "91.下列关于骨骼肌终板电位特点的描述.正确的 是",
+        "options": [
+            "A.其大小与乙酰胆碱释放量无关",
+            "B.不存在时间和空间总和",
+            "C.由Ca2+内流而产生",
+            "D.只去极化，而不出现反极化",
+            "E.受胆碱酯酶活性影响"
+        ],
+        "correct_answer": "E",
+        "analysis": "D项：终板电位是局部电位，以电紧张形式扩布，它是去极化电位，但不会出现反极化。不过这不是终板电位最具特征性的特点。",
+        "total_number": "183",
+        "number": 45
+    },
+    {
+        "question_text": "92.下列关于动作电位的描述中.哪一项是正确的",
+        "options": [
+            "A.刺激强度低于阈值时，出现低幅度的动作电位",
+            "B.刺激强度达到阈值后，再增加刺激强度能使动 作电位幅度增大",
+            "C.动作电位的扩布方式是电紧张性的",
+            "D.动作电位随传导距离增加而变小",
+            "E.在不同的可兴奋细胞，动作电位的幅度和持续 时间是不同的"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 46
+    },
+    {
+        "question_text": "93.下列关于有髓神经纤维跳跃传导的描述.哪一 项是不正确的",
+        "options": [
+            "A.以相邻郎飞结间形成局部电流进行传导",
+            "B.传导速度比无髓纤维快得多",
+            "C.离子跨膜移动总数多，耗能多",
+            "D.可以双向传导",
+            "E.不衰减扩布"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 47
+    },
+    {
+        "question_text": "94.对于入胞跨膜转运方式的描述.下列哪一项不 恰当",
+        "options": [
+            "A.受体介导式入胞是入胞的一种特殊形式",
+            "B.是大分子物质或团块进入细胞的一种方式",
+            "C.蛋白质从肠一侧进入并从另一侧出去均为入胞",
+            "D.吞饮属于入胞的一种",
+            "E.分泌属于出胞的一种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 48
+    },
+    {
+        "question_text": "95.下列有关同一细胞兴奋传导的叙述.哪一项是 错误的--",
+        "options": [
+            "A.动作电位可沿细胞膜传导到整个细胞",
+            "B.传导方式是通过产生局部电流刺激未兴奋部位，使之出现动作电位",
+            "C.有髓纤维的跳跃传导速度与直径成正比",
+            "D.有髓纤维传导动作电位的速度比无髓纤维快",
+            "E.动作电位的幅度随直径增加而降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 49
+    },
+    {
+        "question_text": "96.在神经纤维一次兴奋后的相对不应期时",
+        "options": [
+            "A.全部Na+通道失活",
+            "B.较强的刺激也不能引起动作电位",
+            "C.多数K+通道失活",
+            "D.部分Na+通道失活",
+            "E.膜电位处在去极过程中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 50
+    },
+    {
+        "question_text": "97.人体内02、CO2和NH3进出细胞膜是通过",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.王动转运",
+            "D.入胞出胞",
+            "E.继发性主动转运"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 51
+    },
+    {
+        "question_text": "98.肠上皮细胞由肠腔吸收葡萄糖是属于",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.原发性主动转运",
+            "D.继发性主动转运",
+            "E.入胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 52
+    },
+    {
+        "question_text": "99.产生细胞生物电现象的离子跨膜移动属于",
+        "options": [
+            "A.单纯扩散",
+            "B.载体为中介的易化扩散",
+            "C.通道为中介的易化扩散",
+            "D.入胞",
+            "E.出胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 53
+    },
+    {
+        "question_text": "100.钠钾泵的作用是",
+        "options": [
+            "A.将Na+泵出细胞外，将K+泵入细胞内",
+            "B.将Na+泵入细胞内，将K+泵出细胞外",
+            "C.将Na+泵入细胞内",
+            "D.将Na+和K+泵入细胞内",
+            "E.将Na+和 K+泵出细胞外"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 54
+    },
+    {
+        "question_text": "101.下列关于钠泵生理作用的叙述.错误的是",
+        "options": [
+            "A.可逆浓度差和电位差将进入细胞内的Na+移出膜 外",
+            "B.可顺浓度差使细胞外的K+转入膜内",
+            "C.由于从膜内移出Na+，可防止水分子进入细胞内",
+            "D.造成细胞内高K+，使许多代谢反应得以进行",
+            "E.可造成膜两侧的离子势能储备"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 55
+    },
+    {
+        "question_text": "102.可兴奋细胞兴奋时.共有的特征是",
+        "options": [
+            "A.递质释放",
+            "B.肌肉收缩",
+            "C.腺体分泌",
+            "D.反射活动",
+            "E.动作电位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 56
+    },
+    {
+        "question_text": "103.阈强度是指",
+        "options": [
+            "A.用最小刺激强度，刚能引起组织兴奋的最短作 用时间",
+            "B.保持一定刺激强度不变，能引起组织兴奋的最 短作用时间",
+            "C.保持一定刺激时间和时间-强度变化率不变，引 起组织发生兴奋的最小刺激强度",
+            "D.刺激时间不限，能引起组织兴奋的最小刺激强 度",
+            "E.刺激时间不限，能引起组织最大兴奋的最小刺 激强度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 57
+    },
+    {
+        "question_text": "104.神经细胞在接受一次阈上刺激后.其兴奋性 的周期变化是",
+        "options": [
+            "A.相对不应期一绝对不应期一超常期一低常期",
+            "B.绝对不应期一相对不应期一低常期一超常期",
+            "C.绝对不应期一低常期一相对不应期一超常期",
+            "D.绝对不应期一相对不应期一超常期一低常期",
+            "E.绝对不应期一超常期一低常期一相对不应期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 58
+    },
+    {
+        "question_text": "105.神经纤维中相邻两个锋电位的时间间隔至少 应大于其",
+        "options": [
+            "A.相对不应期",
+            "B.绝对不应期",
+            "C.超常期",
+            "D.低常期",
+            "E.绝对不应期与相对不应期之和"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 59
+    },
+    {
+        "question_text": "106.神经细胞静息电位的大小接近于",
+        "options": [
+            "A.钠平衡电位",
+            "B.钾平衡电位",
+            "C.钠平衡电位与钾平衡电位之和",
+            "D.钠平衡电位与钾平衡电位之差",
+            "E.锋电位与超射值之差"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 60
+    },
+    {
+        "question_text": "107.当达到K+平衡电位时.细胞",
+        "options": [
+            "A.膜两侧K+浓度梯度为零",
+            "B.膜外K+浓度大于膜内",
+            "C.膜两侧电位梯度为零",
+            "D.膜内较膜外电位相对较正",
+            "E.膜内侧K+的净外流为零"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 61
+    },
+    {
+        "question_text": "108.人工增加离体神经纤维浸浴液中K+浓度.静 息电位的绝对值将",
+        "options": [
+            "A.不变",
+            "B.增大",
+            "C.减小",
+            "D.先增大后减小",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 62
+    },
+    {
+        "question_text": "109.神经细胞动作电位的幅度接近于",
+        "options": [
+            "A.钾平衡电位",
+            "B.钠平衡电位",
+            "C.静息电位绝对数值与钠平衡电位之和",
+            "D.静息电位绝对数值与钠平衡电位之差",
+            "E.超射值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 63
+    },
+    {
+        "question_text": "110.动作电位的“全或无\"现象是指同一细胞的 电位幅度",
+        "options": [
+            "A.不受细胞外Na+浓度影响",
+            "B.不受细胞外K+浓度影响",
+            "C.与刺激强度和传导距离无关",
+            "D.与静息电位值无关",
+            "E.与Na+通道复活的量无关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 64
+    },
+    {
+        "question_text": "111.单根神经纤维受刺激而兴奋时.其兴奋性的 相对不应期和超常期相当于动作电位中的",
+        "options": [
+            "A.阈电位",
+            "B.去极相",
+            "C.超射时期",
+            "D.负后电位",
+            "E.正后电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 65
+    },
+    {
+        "question_text": "112.下列叙述中.哪项为膜的去极化",
+        "options": [
+            "A.静息电位存在时膜两侧所保持的内负外正状态",
+            "B.静息电位的数值向膜内负值加大的方向变化",
+            "C.静息电位的数值向膜内负值减小的方向变化",
+            "D.经历C项变化后，再向正常安静时膜内所处的 负值恢复",
+            "E.以上几项变化均无去极化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 66
+    },
+    {
+        "question_text": "*113.局部兴奋的产生是由",
+        "options": [
+            "A.阈下强度的内向电流刺激使细胞超级化",
+            "B.阈下强度的外向电流刺激直接造成膜内外的电 压降",
+            "C.膜自身的去极化反应",
+            "D.阈下强度的外向电流刺激直接造成的电压降和 膜自身轻度去极化叠加的结果",
+            "E.外向电流激活大量Na+通道开放所致"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 67
+    },
+    {
+        "question_text": "114.当神经冲动到达运动神经末梢时.可引起接 头前膜的",
+        "options": [
+            "A.Na+通道关闭",
+            "B.Ca2+通道开放",
+            "C.K+通道关闭",
+            "D.Cl-通道开放",
+            "E.Ca2+通道关闭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 68
+    },
+    {
+        "question_text": "115.骨骼肌收缩时.随之不缩短的有",
+        "options": [
+            "A.肌小节",
+            "B.暗带",
+            "C.明带",
+            "D.H带",
+            "E.肌纤维"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 69
+    },
+    {
+        "question_text": "116.兴奋通过神经-骨骼肌接头时.乙酰胆碱与N- 型Ach门控通道结合.使终板膜",
+        "options": [
+            "A.对Na+、K+通透性增加，发生超级化",
+            "B.对Na+、K+通透性增加，发生去极化",
+            "C.仅对K+通透性增加，发生超级化",
+            "D.仅对Ca2+通透性增加，发生去极化",
+            "E.对Ach通透性增加，发生去极化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 70
+    },
+    {
+        "question_text": "117.骨骼肌细胞中横管的功能是",
+        "options": [
+            "A.Ca2+储存库",
+            "B.Ca2+进出肌纤维的通道",
+            "C.营养物质进出肌细胞的通道",
+            "D.将兴奋传向肌细胞深部",
+            "E.使Ca2+和肌钙蛋白结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 71
+    },
+    {
+        "question_text": "118.在强直收缩中.肌肉产生的动作电位",
+        "options": [
+            "A.发生叠加或总和",
+            "B.不发生叠加或总和",
+            "C.幅值变大",
+            "D.幅值变小",
+            "E.频率变低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 72
+    },
+    {
+        "question_text": "119.下列各脂质成分中几乎全部分布在细胞膜内 侧.并与第二信使二酰甘油和三磷酸肌醇的产生 有关的是",
+        "options": [
+            "A.磷脂酰乙醇胺",
+            "B.磷脂酰胆碱",
+            "C.磷脂酰肌醇",
+            "D.磷脂酰丝氨酸",
+            "E.鞘脂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 73
+    },
+    {
+        "question_text": "120.下列各因素中可影响细胞膜“流动性\"的是",
+        "options": [
+            "A.膜上的水通道",
+            "B.膜蛋白的种类",
+            "C.膜蛋白的含量",
+            "D.脂质分子的排列形式",
+            "E.糖类的含量和种类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 74
+    },
+    {
+        "question_text": "121.推测膜蛋白肽链中可能存在的跨膜a螺旋数 目.其主要依据是肽链中所含的",
+        "options": [
+            "A.氨基酸总数目",
+            "B.疏水性片段数目",
+            "C.亲水性氨基酸数目",
+            "D.疏水性氨基酸数目",
+            "E.亲水性片段数目"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 75
+    },
+    {
+        "question_text": "122.细胞膜内、外钠离子和钾离子不均匀分布的 原因是",
+        "options": [
+            "A.膜在安静时对钾离子通透性较大",
+            "B.膜在兴奋时对钠离子通透性较大",
+            "C.钠离子和钾离子跨膜易化扩散的结果",
+            "D.钠离子-钙离子跨膜交换的结果",
+            "E.膜上钠离子泵的活动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 76
+    },
+    {
+        "question_text": "123.关于钙离子通过细胞膜转运的方式.下列各 项描述中正确的是",
+        "options": [
+            "A.以单纯扩散为主要方式",
+            "B.有易化扩散和主动转运两种方式",
+            "C.以主动转运为唯一方式",
+            "D.以易化扩散为次要方式",
+            "E.有单纯扩散和易化扩散两种方式"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 77
+    },
+    {
+        "question_text": "124.葡萄糖或氨基酸逆浓度梯度跨细胞膜转运的 方式是",
+        "options": [
+            "A.单纯扩散",
+            "B.经载体易化扩散",
+            "C.经通道易化扩散",
+            "D.原发性主动转运",
+            "E.继发性主动转运"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 78
+    },
+    {
+        "question_text": "125.关于钙离子通过细胞膜转运的方式.下列哪 项描述正确--",
+        "options": [
+            "A.以单纯扩散为主要方式",
+            "B.以易化扩散为次要方式",
+            "C.有单纯扩散和主动转运两种方式",
+            "D.有单纯扩散和易化扩散两种方式",
+            "E.有易化扩散和主动转运两种方式"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 79
+    },
+    {
+        "question_text": "126.在膜蛋白的帮助下.某些蛋白质分子选择性 地进入细胞的物质跨膜转运方式是",
+        "options": [
+            "A.原发性主动转运",
+            "B.受体介导人胞",
+            "C.经载体易化扩散",
+            "D.继发性主动转运",
+            "E.液相入胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 80
+    },
+    {
+        "question_text": "127.允许水溶性小分子和离子等物质在细胞间通 行的结构是",
+        "options": [
+            "A.缝隙连接",
+            "B.紧密连接",
+            "C.化学性突触",
+            "D.桥粒",
+            "E.曲张体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 81
+    },
+    {
+        "question_text": "128.在跨膜物质转运中.转运体和载体转运的主 要区别是",
+        "options": [
+            "A.被转运物完全不同",
+            "B.转运体可同时转运多种物质",
+            "C.转运体转运没有饱和现象",
+            "D.转运速率有明显差异",
+            "E.转运体转运需直接耗能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 82
+    },
+    {
+        "question_text": "129.在心肌、平滑肌的同步性收缩中起重要作用 的结构是",
+        "options": [
+            "A.缝隙连接",
+            "B.紧密连接",
+            "C.化学性突触",
+            "D.桥粒",
+            "E.曲张体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 83
+    },
+    {
+        "question_text": "130.下列各跨膜物质转运的方式中无饱和现象的 是",
+        "options": [
+            "A.原发性主动转运",
+            "B.受体介导人胞",
+            "C.单纯扩散",
+            "D.易化扩散",
+            "E.钠-钙交换"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 84
+    },
+    {
+        "question_text": "131.单纯扩散、易化扩散和主动转运的共同特点 是",
+        "options": [
+            "A.要消耗能量",
+            "B.被转运物都是小分子",
+            "C.需膜蛋白帮助",
+            "D.顺浓度梯度",
+            "E.有饱和现象"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 85
+    },
+    {
+        "question_text": "132.乙酰胆碱在骨骼肌终板膜上实现跨膜信号转 导的结构属于",
+        "options": [
+            "A.机械门控通道",
+            "B.电压门控通道",
+            "C.化学门控通道",
+            "D.酶耦联受体",
+            "E.G蛋白耦联受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 86
+    },
+    {
+        "question_text": "133.N2-型乙酰胆碱受体阳离子通道结构上的两个 乙酰胆碱结合位点位于",
+        "options": [
+            "A.两个a亚单位上",
+            "B.两个B亚单位上",
+            "C.一个a亚单位和一个B亚单位上",
+            "D.一个a亚单位和一个y亚单位上",
+            "E.一个Y亚单位和一个6亚单位上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 87
+    },
+    {
+        "question_text": "134.由一条肽链组成且具有7个a跨膜螺旋的膜 蛋白是",
+        "options": [
+            "A.G蛋白",
+            "B.腺苷酸环化酶",
+            "C.配体门控通道",
+            "D.酪氨酸激酶受体",
+            "E.G蛋白耦联受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 88
+    },
+    {
+        "question_text": "135.下列各种物质中不属于第二信使的是",
+        "options": [
+            "A.cAMP",
+            "B.乙酰胆碱",
+            "C.钙离子",
+            "D.三磷酸肌醇",
+            "E.二酰甘油"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 89
+    },
+    {
+        "question_text": "*136.视杆细胞产生超极化的感受器电位的原因是",
+        "options": [
+            "A.钠离子内流减少",
+            "B.钾离子外流增加",
+            "C.氯离子内流增加",
+            "D.钙离子内流减少",
+            "E.胞内cAMP减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 90
+    },
+    {
+        "question_text": "*137.下列各种物质中是鸟苷酸环化酶受体的配体 是",
+        "options": [
+            "A.DA",
+            "B.乙酰胆碱",
+            "C.ANP",
+            "D.IGF",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 91
+    },
+    {
+        "question_text": "*138.下列各种物质中是酪氨酸激酶受体的配体是",
+        "options": [
+            "A.ANP",
+            "B.乙酰胆碱",
+            "C.DA",
+            "D.IGF"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 92
+    },
+    {
+        "question_text": "139.完全由膜固有电学性质决定而非离子通道激 活所引起的电活动是",
+        "options": [
+            "A.动作电位",
+            "B.局部反应",
+            "C.终板电位",
+            "D.电紧张电位",
+            "E.突触后电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 93
+    },
+    {
+        "question_text": "*140.神经细胞在静息电位条件下.电化学驱动力 较小的离子是",
+        "options": [
+            "A.钾离子和钠离子",
+            "B.钠离子和钙离子",
+            "C.钠离子和氯离子",
+            "D.钾离子和氯离子",
+            "E.钾离子和钙离子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 94
+    },
+    {
+        "question_text": "141.神经细胞处于静息电位时.电化学驱动力最 小的离子是",
+        "options": [
+            "A.氯离子",
+            "B.钾离子",
+            "C.钠离子",
+            "D.钙离子",
+            "E.任意一价阳离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 95
+    },
+    {
+        "question_text": "142.在神经轴突膜内外两侧实际测得的静息电位",
+        "options": [
+            "A.等于钾离子的平衡电位",
+            "B.等于钠离子的平衡电位",
+            "C.略小于钾离子的平衡电位",
+            "D.略大于钾离子的平衡电位",
+            "E.接近于钠离子的平衡电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 96
+    },
+    {
+        "question_text": "143.神经细胞处于静息状态时",
+        "options": [
+            "A.仅有少量钾离子外流",
+            "B.有少量钾离子外流和钠离子内流",
+            "C.没有钾离子和钠离子的净扩散",
+            "D.仅有少量钠离子内流",
+            "E.有少量钾离子和钠离子的同向流动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 97
+    },
+    {
+        "question_text": "144.增加细胞外液的钾离子浓度后.静息电位将",
+        "options": [
+            "A.增大",
+            "B.减小",
+            "C.不变",
+            "D.先增大后减小",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 98
+    },
+    {
+        "question_text": "145.增加离体神经纤维浸浴液中的钠离子浓度. 则单根神经纤维动作电位的超射值将",
+        "options": [
+            "A.减小",
+            "B.增大",
+            "C.不变",
+            "D.先增大后减小",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 99
+    },
+    {
+        "question_text": "146.神经细胞膜对钠离子通透性增加时.静息电 位将",
+        "options": [
+            "A.增大",
+            "B.减小",
+            "C.不变",
+            "D.先增大后减小",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 100
+    },
+    {
+        "question_text": "*147.下列关于神经纤维膜上电压门控钠离子通道 与钾离子通道共同点的描述.错误的是",
+        "options": [
+            "A.都有开放状态",
+            "B.都有失活状态",
+            "C.都有激活状态",
+            "D.都有关闭状态",
+            "E.都有静息状态"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 101
+    },
+    {
+        "question_text": "148.生理学所说的可兴奋组织是",
+        "options": [
+            "A.仅指神经",
+            "B.仅指肌肉",
+            "C.仅指腺体",
+            "D.包括神经和腺体",
+            "E.包括神经、肌肉和腺体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 102
+    },
+    {
+        "question_text": "149.可兴奋组织受刺激而兴奋时的共同表现是产生",
+        "options": [
+            "A.收缩",
+            "B.局部电位",
+            "C.动作电位",
+            "D.分泌",
+            "E.收缩和分泌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 103
+    },
+    {
+        "question_text": "150.将一对刺激电极置于神经轴突外表面.当通 以直流电刺激时.兴奋",
+        "options": [
+            "A.发生于刺激电极正极处",
+            "B.在两个刺激电极处均不发生",
+            "C.同时发生于两个刺激电极处",
+            "D.发生于刺激电极负极处",
+            "E.先发生于正极处，后发生于负极处"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 104
+    },
+    {
+        "question_text": "151.细胞内侧负电位值由静息电位水平加大的过 程称为",
+        "options": [
+            "A.去极化",
+            "B.超射",
+            "C.复极化",
+            "D.超极化",
+            "E.极化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 105
+    },
+    {
+        "question_text": "152.神经细胞在发生一次动作电位的全过程中. 钠离子的电化学驱动力",
+        "options": [
+            "A.由大变小而后恢复",
+            "B.持续减小",
+            "C.持续增大",
+            "D.由小变大而后恢复",
+            "E.没有变化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 106
+    },
+    {
+        "question_text": "153.假定神经细胞的静息电位为-70mV.钠离子平 衡电位为+60m V.则钠离子的电化学驱动力为",
+        "options": [
+            "A.+130mV",
+            "B.-80mV",
+            "C.-l0mV",
+            "D.+10mV",
+            "E.-l30mV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 107
+    },
+    {
+        "question_text": "154.骨骼肌终板膜上乙酰胆碱受体阳离子通道与 乙酰胆碱结合而使钠离子内流远大于钾离子外 流.是因为",
+        "options": [
+            "A.钠离子的电化学驱动力远大于钾离子的电化学 驱动力",
+            "B.细胞膜两侧钠离子浓度差远大于钾离子浓度差",
+            "C.乙酰胆碱受体阳离子通道对钠离子通透性远大 于钾离子",
+            "D.钠离子平衡电位距离静息电位较近",
+            "E.钾离子平衡电位距离静息电位较远"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 108
+    },
+    {
+        "question_text": "155 .神经纤维动作电位去极相中.膜电位值超过 0mV的部分称为",
+        "options": [
+            "A.去极化",
+            "B.超射",
+            "C.复极化",
+            "D.超极化",
+            "E.极化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 109
+    },
+    {
+        "question_text": "156.神经纤维动作电位去极相中.膜内外两侧电 位发生倒转.称为",
+        "options": [
+            "A.去极化",
+            "B.复极化",
+            "C.超极化",
+            "D.反极化",
+            "E.极化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 110
+    },
+    {
+        "question_text": "157.下列关于神经纤维动作电位复极相形成机制 的描述.正确的是",
+        "options": [
+            "A.仅因钠离子通道失活所致",
+            "B.仅因氯离子通道激活所致",
+            "C.由钠离子通道失活和钾离子通道激活共同引起",
+            "D.仅因钾离子通道激活所致",
+            "E.由钾离子通道和氯离子通道一同激活所致"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 111
+    },
+    {
+        "question_text": "158.将神经细胞由静息电位水平突然上升并固定 到0mV水平时",
+        "options": [
+            "A.先出现外向电流，而后逐渐变为内向电流",
+            "B.先出现内向电流，而后逐渐变为外向电流",
+            "C.仅出现内向电流",
+            "D.仅出现外向电流",
+            "E.因膜两侧没有电位差而不出现跨膜电流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 112
+    },
+    {
+        "question_text": "159.用相同数目的葡萄糖分子替代浸浴液中的钠 离子后.神经纤维动作电位的幅度将",
+        "options": [
+            "A.基本不变",
+            "B.逐渐减小",
+            "C.逐渐增大",
+            "D.先增大后减小",
+            "E.先减小后增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 113
+    },
+    {
+        "question_text": "*160.神经轴突经河豚毒素处理后，其生物电的改变为",
+        "options": [
+            "A.静息电位值减小，动作电位幅度减小",
+            "B.静息电位值减小，动作电位幅度增大",
+            "C.静息电位值加大，动作电位幅度减小",
+            "D.静息电位值不变，动作电位不能产生",
+            "E.静息电位值加大，动作电位幅度增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 114
+    },
+    {
+        "question_text": "*161.可兴奋细胞电压钳实验所记录的是",
+        "options": [
+            "A.膜电位",
+            "B.离子电流本身",
+            "C.离子电流的镜像电流",
+            "D.动作电位",
+            "E.局部电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 115
+    },
+    {
+        "question_text": "162.可兴奋细胞的正后电位是指",
+        "options": [
+            "A.静息电位基础上发生的缓慢去极化电位",
+            "B.静息电位基础上发生的缓慢超极化电位",
+            "C.锋电位之后的缓慢去极化电位",
+            "D.锋电位之后的缓慢超极化电位",
+            "E.锋电位之后的缓慢去极化和超极化电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 116
+    },
+    {
+        "question_text": "163.可兴奋细胞具有“全或无”特征的电反应是",
+        "options": [
+            "A.终板电位",
+            "B.静息电位",
+            "C.动作电位",
+            "D.感受器电位",
+            "E.突触后电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 117
+    },
+    {
+        "question_text": "164.在可兴奋细胞.能以不衰减的形式在细胞膜 上传导的电活动是",
+        "options": [
+            "A.终板电位",
+            "B.静息电位",
+            "C.动作电位",
+            "D.感受器电位",
+            "E.突触后电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 118
+    },
+    {
+        "question_text": "165.神经细胞在兴奋过程中.钠离子内流和钾离 子外流的量决定于",
+        "options": [
+            "A.各自平衡电位",
+            "B.细胞的阈电位",
+            "C.钠-钾泵的活动程度",
+            "D.绝对不应期长短",
+            "E.刺激的强度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 119
+    },
+    {
+        "question_text": "166.细胞需要直接消耗能量的电活动过程是",
+        "options": [
+            "A.形成静息电位的钾离子外流",
+            "B.动作电位去极相的钠离子内流",
+            "C.动作电位复极相的钾离子外流",
+            "D.静息电位时极少量的钠离子内流",
+            "E.复极后的钠离子外流和钾离子内流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 120
+    },
+    {
+        "question_text": "167.低温、缺氧或代谢抑制剂影响细胞的钠 - 钾泵活动时，生物电的改变为",
+        "options": [
+            "A.静息电位值增大，动作电位幅度增大",
+            "B.静息电位值减小，动作电位幅度增大",
+            "C.静息电位值增大，动作电位幅度减小",
+            "D.静息电位值减小，动作电位幅度减小",
+            "E.静息电位值和动作电位幅度均不改变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 121
+    },
+    {
+        "question_text": "168.采用细胞外电极记录完整神经干的电活动时.可记录到",
+        "options": [
+            "A.静息电位",
+            "B.锋电位",
+            "C.锋电位和后电位",
+            "D.单相动作电位",
+            "E.双相动作电位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 122
+    },
+    {
+        "question_text": "169.用做衡量组织兴奋性高低的指标通常是",
+        "options": [
+            "A.组织反应强度",
+            "B.动作电位幅度",
+            "C.动作电位频率",
+            "D.刺激持续时间",
+            "E.阈刺激或阈强度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 123
+    },
+    {
+        "question_text": "170.阈电位是指一种膜电位临界值.在此电位水 平上.神经细胞膜上的",
+        "options": [
+            "A.钠离子通道开始关闭",
+            "B.钠离子通道少量开放",
+            "C.钠离子通道大量开放",
+            "D.钾离子通道大量开放",
+            "E.钾离子通道开始关闭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 124
+    },
+    {
+        "question_text": "171.—般情况下.神经细胞的阈电位值较其静息 电位值",
+        "options": [
+            "A.小 40--50mV",
+            "B.小 10--20mV",
+            "C.小，但很接近",
+            "D.大 10--20mV",
+            "E.大 40--50mV"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 125
+    },
+    {
+        "question_text": "172.神经纤维上前后两个紧接的锋电位.其中后 一锋电位最早见于前一锋电位兴奋性周期的",
+        "options": [
+            "A.相对不应期",
+            "B.绝对不应期",
+            "C.超常期",
+            "D.低常期",
+            "E.低常期之后"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 126
+    },
+    {
+        "question_text": "173.如果某细胞兴奋性周期的绝对不应期为2ms. 理论上每秒内所能产生和传导的动作电位数最多 不超过",
+        "options": [
+            "A.5次",
+            "B.50 次",
+            "C.100 次",
+            "D.400 次",
+            "E.500 次"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 127
+    },
+    {
+        "question_text": "174.神经细胞在一次兴奋后.阈值最低的时期是",
+        "options": [
+            "A.绝对不应期",
+            "B.相对不应期",
+            "C.低常期",
+            "D.超常期",
+            "E.兴奋性恢复正常后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 128
+    },
+    {
+        "question_text": "*175.实验中.如果同时刺激神经纤维的两端.产 生的两个动作电位",
+        "options": [
+            "A.将各自通过中点后传导到另一端",
+            "B.将在中点相遇，然后传回到起始点",
+            "C.只有较强的动作电位通过中点而到达另一端",
+            "D.将在中点相遇后停止传导",
+            "E.到达中点后将复合成一个更大的动作电位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 129
+    },
+    {
+        "question_text": "176.神经细胞动作电位和局部兴奋的共同点是",
+        "options": [
+            "A.反应幅度都随刺激强度增大而增大",
+            "B.反应幅度都随传播距离增大而减小",
+            "C.都可以叠加或总和",
+            "D.都有不应期",
+            "E.都有钠离子通道的激活"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 130
+    },
+    {
+        "question_text": "177.局部反应的时间总和是指",
+        "options": [
+            "A.同一时间不同部位的阈下刺激引起的去极化反 应的叠加",
+            "B.同一部位连续的阈上刺激引起的去极化反应的 叠加",
+            "C.同一部位连续的阈下刺激引起的去极化反应的 叠加",
+            "D.同一时间不同部位的阈上刺激引起的去极化反 应的叠加",
+            "E.同一部位一个足够大的刺激引起的去极化反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 131
+    },
+    {
+        "question_text": "178.局部反应的空间总和是",
+        "options": [
+            "A.同一时间不同部位的阈下刺激引起的去极化反 应的叠加",
+            "B.同一部位连续的阈上刺激引起的去极化反应的 叠加",
+            "C.同一部位连续的阈下刺激引起的去极化反应的 叠加",
+            "D.同一时间不同部位的阈上刺激引起的去极化反 应的叠加",
+            "E.同一部位一个足够大的刺激引起的去极化反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 132
+    },
+    {
+        "question_text": "179.下列各项在神经末梢递质释放中起关键作用 的是",
+        "options": [
+            "A.动作电位到达神经末梢",
+            "B.神经末梢去极化",
+            "C.神经末梢处的钠离子内流",
+            "D.神经末梢处的钾离子外流",
+            "E.神经末梢处的钙离子内流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 133
+    },
+    {
+        "question_text": "180.在肌细胞兴奋-收缩耦联过程中起媒介作用的 离子是",
+        "options": [
+            "A.钠离子",
+            "B.氯离子",
+            "C.钙离子",
+            "D.钾离子",
+            "E.镁离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 134
+    },
+    {
+        "question_text": "181.在骨骼肌细胞兴奋-收缩耦联过程中.胞质内 的钙离子来自",
+        "options": [
+            "A.横管膜上电压门控钙离子通道开放引起的胞外 钙离子内流",
+            "B.细胞膜上NMDA受体通道开放引起的胞外钙离子 内流",
+            "C.肌质网上钙离子释放通道开放引起的胞内钙离 子释放",
+            "D.肌质网上钙离子泵的反向转运",
+            "E.线粒体内钙离子的释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 135
+    },
+    {
+        "question_text": "182.有机磷农药中毒时.可使",
+        "options": [
+            "A.乙酰胆碱合成加速",
+            "B.乙酰胆碱释放量增加",
+            "C.胆碱酯酶活性降低",
+            "D.乙酰胆碱水解减慢",
+            "E.乙酰胆碱受体功能变异"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 136
+    },
+    {
+        "question_text": "183.重症肌无力患者的骨骼肌对运动神经冲动的 反应降低是由于",
+        "options": [
+            "A.递质含量减少",
+            "B.递质释放量减少",
+            "C.胆碱酯酶活性增高",
+            "D.受体数目减少或功能障碍",
+            "E.微终板电位减小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 137
+    },
+    {
+        "question_text": "184.下列各项中能阻断骨骼肌终板膜上乙酰胆碱 受体的是",
+        "options": [
+            "A.河豚毒素",
+            "B.箭毒",
+            "C.阿托品",
+            "D.心得安（普萘洛尔）",
+            "E.四乙铵"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 138
+    },
+    {
+        "question_text": "185.引发微终板电位（也称小终板电位）的原因是",
+        "options": [
+            "A.神经末梢连续兴奋",
+            "B.一个突触小泡释放的乙酰胆碱",
+            "C.几百个突触小泡释放的乙酰胆碱",
+            "D.神经末梢一次兴奋",
+            "E.自发释放的一个乙酰胆碱分子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 139
+    },
+    {
+        "question_text": "186.在神经-骨骼肌接头处.消除乙酰胆碱的酶是",
+        "options": [
+            "A.胆碱乙酰转移酶",
+            "B.腺苷酸环化酶",
+            "C.胆碱酯酶",
+            "D.钠-钾依赖式ATP酶",
+            "E.单胺氧化酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 140
+    },
+    {
+        "question_text": "187.肌丝滑行理论的直接证据是骨骼肌收缩时",
+        "options": [
+            "A.明带和H带缩短，暗带长度不变",
+            "B.明带缩短，暗带和H带长度不变",
+            "C.暗带长度缩短，明带和H带不变",
+            "D.明带、暗带和H带长度均缩短",
+            "E.明带、暗带和H带长度均不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 141
+    },
+    {
+        "question_text": "188.骨骼肌收缩时.下列结构中长度不变的是",
+        "options": [
+            "A.暗带",
+            "B.明带",
+            "C.H带",
+            "D.肌小节",
+            "E.肌原纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 142
+    },
+    {
+        "question_text": "189.将一条舒张状态的骨骼肌纤维牵拉伸长后. 其",
+        "options": [
+            "A.明带长度不变",
+            "B.暗带长度增加",
+            "C.细肌丝长度增加",
+            "D.H带长度增加",
+            "E.粗、细肌丝长度都增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 143
+    },
+    {
+        "question_text": "190.生理情况下.机体内骨骼肌的收缩形式几乎 都属于",
+        "options": [
+            "A.等张收缩",
+            "B.等长收缩",
+            "C.单收缩",
+            "D.不完全强直收缩",
+            "E.完全强直收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 144
+    },
+    {
+        "question_text": "191.使骨骼肌发生完全强直收缩的刺激条件是",
+        "options": [
+            "A.足够强度和持续时间的单刺激",
+            "B.足够强度-时间变化率的单刺激",
+            "C.间隔大于潜伏期的连续阈下刺激",
+            "D.间隔小于收缩期的连续阈刺激",
+            "E.间隔大于收缩期的连续阈上刺激"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 145
+    },
+    {
+        "question_text": "192.骨骼肌细胞的钙释放通道主要位于下列膜结 构中的",
+        "options": [
+            "A.纵行肌质网",
+            "B.连接肌质网",
+            "C.横管",
+            "D.运动终板",
+            "E.线粒体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 146
+    },
+    {
+        "question_text": "193.骨骼肌舒张时.回收胞质中钙离子的钙泵主 要分布于下列膜结构中的",
+        "options": [
+            "A.纵行肌质网",
+            "B.连接肌质网",
+            "C.横管",
+            "D.一般肌膜",
+            "E.线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 147
+    },
+    {
+        "question_text": "194.肌肉收缩中的后负荷主要影响肌肉的",
+        "options": [
+            "A.兴奋性",
+            "B.初长度",
+            "C.传导性",
+            "D.收缩力量和缩短速度",
+            "E.收缩性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 148
+    },
+    {
+        "question_text": "195.在一定范围内增大后负荷.则骨骼肌收缩时 的",
+        "options": [
+            "A.缩短速度加快",
+            "B.缩短长度增加",
+            "C.初长度增加",
+            "D.缩短起始时间提前",
+            "E.主动张力增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 149
+    },
+    {
+        "question_text": "196.各种平滑肌都有",
+        "options": [
+            "A.自律性",
+            "B.交感和副交感神经支配",
+            "C.细胞间的电耦联",
+            "D.内在神经丛",
+            "E.时相性收缩和紧张性收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 150
+    },
+    {
+        "question_text": "197.与骨骼肌收缩机制相比.平滑肌收缩",
+        "options": [
+            "A.不需要胞质内钙离子浓度升高",
+            "B.横桥激活的机制不同",
+            "C.没有粗、细肌丝的滑行",
+            "D.有赖于钙离子与肌钙蛋白的结合",
+            "E.都具有自律性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 151
+    },
+    {
+        "question_text": "198.下列有关平滑肌收缩机制的各个环节中.与 骨骼肌收缩相类似的环节是",
+        "options": [
+            "A.钙-钙调蛋白复合物的形成",
+            "B.肌球蛋白轻链激酶的激活",
+            "C.肌球蛋白轻链磷酸化",
+            "D.肌球蛋白轻链脱磷酸，粗细肌丝解离",
+            "E.横桥与细肌丝肌动蛋白结合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 152
+    },
+    {
+        "question_text": "199.神经纤维中相邻两个锋电位的时间间隔至少 应大于其",
+        "options": [
+            "A.相对不应期",
+            "B.绝对不应期",
+            "C.超常期",
+            "D.低常期",
+            "E.绝对不应期加相对不应期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 153
+    },
+    {
+        "question_text": "200.骨骼肌细胞中横管的功能是",
+        "options": [
+            "A.钙离子的贮存库",
+            "B.钙离子进出肌纤维的通道",
+            "C.营养物质进出肌细胞的通道",
+            "D.将兴奋传向肌细胞深部",
+            "E.使钙离子和肌钙蛋白结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 154
+    },
+    {
+        "question_text": "201.阈刺激的概念是",
+        "options": [
+            "A.引起组织兴奋的最小刺激强度",
+            "B.引起组织兴奋的最小刺激作用时间",
+            "C.引起组织抑制的最小刺激",
+            "D.引起膜去极化达到阈电位的最小刺激",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 155
+    },
+    {
+        "question_text": "202.神经-肌肉接头传递的阻断剂是",
+        "options": [
+            "A.河豚毒",
+            "B.胆碱酯酶",
+            "C.美洲箭毒",
+            "D.六烃季铵",
+            "E.四乙铵"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 156
+    },
+    {
+        "question_text": "203.不属于原发性主动转运的物质是",
+        "options": [
+            "A.肌浆网钙泵对钙离子的摄取",
+            "B.甲状腺上皮细胞对碘的摄取",
+            "C.钠-钾泵转运钠离子",
+            "D.钠-钾泵转运钾离子",
+            "E.肾小管对葡萄糖的重吸收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 157
+    },
+    {
+        "question_text": "204.动作电位除极相钠离子的转运方式是",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.单纯扩散+易化扩散",
+            "D.主动转运",
+            "E.易化扩散+主动转运"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 158
+    },
+    {
+        "question_text": "205.有关神经纤维的动作电位说法错误的是",
+        "options": [
+            "A.其传导为衰减性传导",
+            "B.其幅度具有“全或无”性质",
+            "C.在神经纤维上的传导是双向性的",
+            "D.升支与钠离子内流有关，降支与钾离子外流有 关",
+            "E.具有不应期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 159
+    },
+    {
+        "question_text": "206.参与神经动作电位形成的离子是",
+        "options": [
+            "A.钠离子和钾离子",
+            "B.钠离子和氯离子",
+            "C.钙离子和镁离子",
+            "D.钙离子和钾离子",
+            "E.钙离子和氯离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 160
+    },
+    {
+        "question_text": "207.相继刺激落在前次收缩的收缩期内引起的复 合收缩称为",
+        "options": [
+            "A.单收缩",
+            "B.不完全强直收缩",
+            "C.完全强直收缩",
+            "D.等张收缩",
+            "E.等长收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 161
+    },
+    {
+        "question_text": "208.在局部电位的下述特征中.错误的是",
+        "options": [
+            "A.电位的大小随刺激的强度的改变而改变",
+            "B.可进行总和",
+            "C.钠离子通道开放",
+            "D.不是全或无的",
+            "E.不衰减性传导"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 162
+    },
+    {
+        "question_text": "209.神经纤维受到刺激而兴奋.当它的兴奋性处 于低常期时.相当于其动作电位的",
+        "options": [
+            "A.阈电位时",
+            "B.去极相",
+            "C.超射时期",
+            "D.负后电位时",
+            "E.正后电位时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 163
+    },
+    {
+        "question_text": "210.不是终板电位的特点的是",
+        "options": [
+            "A.没有“全或无”现象",
+            "B.乙酰胆碱受体激活",
+            "C.可以总和",
+            "D.呈电紧张性扩布",
+            "E.由钙离子内流形成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 164
+    },
+    {
+        "question_text": "211.刺激引起组织兴奋的基本条件是",
+        "options": [
+            "A.刺激的量要达到阈值",
+            "B.组织具有很高的兴奋性",
+            "C.组织处于正常的功能状态",
+            "D.刺激的强度达到最大",
+            "E.组织必须处于极度兴奋状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 165
+    },
+    {
+        "question_text": "212.触发骨骼肌细胞收缩的离子是",
+        "options": [
+            "A.钠离子",
+            "B.钾离子",
+            "C.钙离子",
+            "D.氯离子",
+            "E.镁离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 166
+    },
+    {
+        "question_text": "213.细胞膜在静息情况下.对下列各种离子通透 性最大的是",
+        "options": [
+            "A.钠离子",
+            "B.钾离子",
+            "C.钙离子",
+            "D.镁离子",
+            "E.氯离子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 167
+    },
+    {
+        "question_text": "214.组织兴奋后处于绝对不应期时.其兴奋性为",
+        "options": [
+            "A.0",
+            "B.无限大",
+            "C.大于正常",
+            "D.小于正常",
+            "E.等于正常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 168
+    },
+    {
+        "question_text": "215.运动神经兴奋时.何种离子进入轴突末梢的 量与囊泡释放量呈正交关系",
+        "options": [
+            "A.钙离子",
+            "B.镁离子",
+            "C.钠离子",
+            "D.钾离子",
+            "E.氯离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 169
+    },
+    {
+        "question_text": "216.骨骼肌收缩和舒张的基本功能单位是",
+        "options": [
+            "A.肌原纤维",
+            "B.肌小节",
+            "C.肌纤维",
+            "D.粗肌丝",
+            "E.细肌丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 170
+    },
+    {
+        "question_text": "217.骨骼肌收缩时释放到肌浆中的钙离子被哪个 部位的钙泵转运",
+        "options": [
+            "A.横管",
+            "B.肌膜",
+            "C.线粒体膜",
+            "D.肌质网膜",
+            "E.高尔基体膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 171
+    },
+    {
+        "question_text": "218.组织兴奋后处于相对不应期时.其兴奋性为",
+        "options": [
+            "A.0",
+            "B.无限大",
+            "C.大于正常",
+            "D.小于正常",
+            "E.等于正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 172
+    },
+    {
+        "question_text": "219.在一般的生理情况下.每分解1分子ATP.钠 泵运转可使",
+        "options": [
+            "A.2 个钠离子移出膜外，同时 2 个钾离子移入膜内",
+            "B.2 个钾离子移入膜内，同时 3 个钠离子移出膜外",
+            "C.2 个钠离子移出膜外，同时 3 个钾离子移入膜内",
+            "D.3 个钠离子移出膜外，同时 2 个钾离子移入膜内",
+            "E.2 个钠离子移出膜外，同时 1 个钾离子移入膜内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 173
+    },
+    {
+        "question_text": "220.以下关于动作电位的描述.正确的是",
+        "options": [
+            "A.动作电位是细胞受刺激时出现的快速而不可逆 的电变化",
+            "B.膜电位由内正外负变为内负外正",
+            "C.一般表现为锋电位",
+            "D.刺激强度越大，动作电位幅度也越高",
+            "E.受刺激后，细胞膜电位的变化也可称为复极化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 174
+    },
+    {
+        "question_text": "221.兴奋通过神经-肌接头时.乙酰胆碱与受体结合使终板膜",
+        "options": [
+            "A.对钠、钾离子通透性增加，发生超极化",
+            "B.对钠、钾离子通透性增加，发生去极化",
+            "C.仅对钾离子通透性增加，发生超极化",
+            "D.仅对钙离子通透性增加，发生超极化",
+            "E.对乙酰胆碱通透性增加，发生超极化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 175
+    },
+    {
+        "question_text": "222.美洲箭毒作为肌肉松弛剂是由于",
+        "options": [
+            "A.它和乙酰胆碱竞争终板膜上的受体",
+            "B.它增加接头前膜对镁离子的通透性",
+            "C.抑制钙离子进入接头前膜",
+            "D.抑制囊泡移向接头前膜",
+            "E.抑制终板膜的离子通道开放"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 176
+    },
+    {
+        "question_text": "223.按照滑行理论.安静时阻碍肌纤蛋白同横桥 结合的物质是",
+        "options": [
+            "A.肌凝蛋白",
+            "B.原肌凝蛋白",
+            "C.肌钙蛋白",
+            "D.肌球蛋白",
+            "E.肌纤蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 177
+    },
+    {
+        "question_text": "224.肌肉收缩时.如后负荷越小.则",
+        "options": [
+            "A.收缩最后达到的张力越大",
+            "B.开始出现收缩的时间越迟",
+            "C.缩短的速度越小",
+            "D.缩短的速度越大",
+            "E.完成的机械功越大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 178
+    },
+    {
+        "question_text": "225.膜内电位由0变为正值称为",
+        "options": [
+            "A.极化",
+            "B.超极化",
+            "C.动作电位",
+            "D.超射",
+            "E.复极化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 179
+    },
+    {
+        "question_text": "226.终板膜上与终板电位产生有关的离子通道是",
+        "options": [
+            "A.电压门控钠离子通道",
+            "B.电压门控钾离子通道",
+            "C.电压门控钙离子通道",
+            "D.化学门控非特异性镁通道",
+            "E.化学门控钠离子和钾离子通道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 180
+    },
+    {
+        "question_text": "227.单个细胞的动作电位波形不能完全融合的原 因是",
+        "options": [
+            "A.刺激强度不够",
+            "B.刺激频率不够",
+            "C.不应期",
+            "D.细胞兴奋性过高",
+            "E.离子分布恢复不完全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 181
+    },
+    {
+        "question_text": "228.载体中介的易化扩散产生饱和现象的机制是",
+        "options": [
+            "A.跨膜梯度降低",
+            "B.载体数量减少",
+            "C.能量不够",
+            "D.载体数量和转运能力限制",
+            "E.疲劳"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 182
+    },
+    {
+        "question_text": "229.细胞在安静时对钠离子的通透性",
+        "options": [
+            "A.为0",
+            "B.约为钾离子通透性的2倍",
+            "C.约为钾离子通透性的1/2",
+            "D.约为钾离子通透性的1 /100--1/10",
+            "E.约为钾离子通透性的1/1000"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "183",
+        "number": 183
+    }
+]

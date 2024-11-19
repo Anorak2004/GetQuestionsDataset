@@ -1,0 +1,1458 @@
+[
+    {
+        "question_text": "1.呼吸困难是指:",
+        "options": [
+            "A.剧烈运动时感到的一种气不够用的感觉",
+            "B.患者感到空气不足，呼吸费力",
+            "C.平时有一种气不够用的感觉",
+            "D.是一种二氧化碳猪留的表现",
+            "E.因血含氧量降低引起的一种表现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于呼吸困难的描述哪项是错误的？",
+        "options": [
+            "A.严重的吸气性呼吸困难时患者会出现“三凹征",
+            "B.呼气性呼吸困难表现为呼气时间延长",
+            "C.吸气性呼吸困难时出现哮鸣音",
+            "D.气胸时的呼吸困难属于混合性呼吸困难",
+            "E.慢性阻塞性肺气肿病人常出现呼气性呼吸困难"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列哪种疾病最可能出现呼气性呼吸困难？",
+        "options": [
+            "A.支气管哮喘",
+            "B.重度贫血",
+            "C.吗啡中毒",
+            "D.一氧化碳中毒",
+            "E.主支气管狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 3
+    },
+    {
+        "question_text": "4.混合性呼吸困难可见于:",
+        "options": [
+            "A.肺气肿",
+            "B.支气管哮喘",
+            "C.肺结核",
+            "D.重症肺炎",
+            "E.支气管异物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项是混合性呼吸困难的常见病因？",
+        "options": [
+            "A.肺气肿",
+            "B.支气管哮喘",
+            "C.气管异物",
+            "D.大量胸腔积液",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列关于呼吸困难的描述，错误的是:",
+        "options": [
+            "A.是患者感到的空气不足，并呼吸费力",
+            "B.重者出现鼻翼扇动",
+            "C.呼吸困难常有呼吸频率、深度、节律的异常",
+            "D.仅见于呼吸系统与心脏病变",
+            "E.可出现紫绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 6
+    },
+    {
+        "question_text": "7.按发生机制，呼吸遏制见于哪类呼吸困难？",
+        "options": [
+            "A.肺源性",
+            "B.心源性",
+            "C.中毒性",
+            "D.呼吸中枢性",
+            "E.精神性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 7
+    },
+    {
+        "question_text": "8.易出现呼吸困难的呼吸系统疾病，除外:",
+        "options": [
+            "A.上呼吸道感染",
+            "B.支气管哮喘",
+            "C.肺炎",
+            "D.肺脓肿",
+            "E.慢性阻塞性肺气肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 8
+    },
+    {
+        "question_text": "9.呼气时间延长可出现在:",
+        "options": [
+            "A.上呼吸道阻塞",
+            "B.小支气管阻塞",
+            "C.肺炎",
+            "D.胸腔积液",
+            "E.气胸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 9
+    },
+    {
+        "question_text": "10.左心功能不全时出现呼吸困难主要是由于:",
+        "options": [
+            "A.体循环淤血",
+            "B.腹水",
+            "C.肺淤血",
+            "D.肺动脉压力降低",
+            "E.膈肌活动受阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 10
+    },
+    {
+        "question_text": "11.心源性呼吸困难的主要机制是:",
+        "options": [
+            "A.肺淤血",
+            "B.肺部炎症",
+            "C.呼吸中枢受抑制",
+            "D.肺缺血",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 11
+    },
+    {
+        "question_text": "12.左心衰竭时出现呼吸困难主要是由于:",
+        "options": [
+            "A.腹水",
+            "B.体循环淤血",
+            "C.肺循环淤血",
+            "D.横隔活动障碍",
+            "E.肺小动脉压力降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项不是左心衰竭引起呼吸困难的特点？",
+        "options": [
+            "A.坐位减轻",
+            "B.活动时出现或加重",
+            "C.卧位减轻",
+            "D.休息时减轻或缓解",
+            "E.夜间阵发性呼吸困难"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列哪项不是左心衰竭呼吸困难的特点？",
+        "options": [
+            "A.活动时出现或加重，休息时减轻或缓解",
+            "B.仰卧位加重",
+            "C.多发在夜间阵发性呼吸困难",
+            "D.伴有哮喘",
+            "E.伴咳嗽，咯浆液性痰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪项不是左心衰竭时呼吸困难的临床表现？",
+        "options": [
+            "A.常于睡眠中突然因胸闷气急而惊醒",
+            "B.坐起后气喘加重",
+            "C.面色青紫、出汗",
+            "D.咯粉红色泡沫痰",
+            "E.双肺底闻及湿罗音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 15
+    },
+    {
+        "question_text": "16.中毒性呼吸困难可见于下列各项，但除外:",
+        "options": [
+            "A.尿毒症酸中毒",
+            "B.一氧化碳中毒",
+            "C.吗啡中毒",
+            "D.碱中毒",
+            "E.糖尿病酮症酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 16
+    },
+    {
+        "question_text": "17.中毒性呼吸困难的特点不包括:",
+        "options": [
+            "A.深而规则",
+            "B.深而缓慢",
+            "C.可伴鼾音",
+            "D.由于血中酸性代谢产物多引起",
+            "E.叹息样呼吸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 17
+    },
+    {
+        "question_text": "18.哪项属于中枢性呼吸困难较为确切？",
+        "options": [
+            "A.脑出血、脑疝压迫延髓所致呼吸困难",
+            "B.尿毒症酸中毒刺激呼吸中枢所致Kussmaul呼吸",
+            "C.糖尿病酮症酸中毒所致大呼吸",
+            "D.吗啡、巴比妥中毒所致呼吸抑制",
+            "E.癔症性呼吸浅快或深快"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 18
+    },
+    {
+        "question_text": "19.关于肺源性呼吸困难的机制，哪项是错误的？",
+        "options": [
+            "A.肺通气、换气功能障碍",
+            "B.肺泡氧分压下降",
+            "C.有低氧血症",
+            "D.有高碳酸血症",
+            "E.呼吸中枢受到抑制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 19
+    },
+    {
+        "question_text": "20.吸气性呼吸困难见于:",
+        "options": [
+            "A.脑外伤",
+            "B.甲状腺肿大",
+            "C.心肌病",
+            "D.大量胸腔积液",
+            "E.有机磷中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪一项不是吸气性呼吸困难的特征？",
+        "options": [
+            "A.三凹症",
+            "B.吸气时间缩短",
+            "C.常见于大气道阻塞",
+            "D.喉部闻及喘鸣音",
+            "E.吸气象肺泡内负压很大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列哪项容易出现呼吸性碱中毒？",
+        "options": [
+            "A.呼气性呼吸困难",
+            "B.吸气性呼吸困难",
+            "C.潮式呼吸",
+            "D.枕骨大孔疝时浅呼吸、呼吸暂停",
+            "E.癔症性呼吸困难，呼吸浅而快"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 22
+    },
+    {
+        "question_text": "23.下列可出现吸气性呼吸困难的疾病是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.气管异物",
+            "C.胸腔积液",
+            "D.急性肺水肿",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 23
+    },
+    {
+        "question_text": "24.呼气性呼吸困难见于:",
+        "options": [
+            "A.急性喉炎",
+            "B.气管异物",
+            "C.阻塞性肺气肿",
+            "D.老年性肺气肿",
+            "E.肺不张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 24
+    },
+    {
+        "question_text": "25.吸气性呼吸困难常见的疾病是:",
+        "options": [
+            "A.喘息性支气管炎",
+            "B.喉痉挛",
+            "C.支气管哮喘",
+            "D.贫血",
+            "E.胸腔积液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 25
+    },
+    {
+        "question_text": "26.混合性呼吸困难见于:",
+        "options": [
+            "A.急性喉炎",
+            "B.气管异物",
+            "C.支气管哮喘",
+            "D.重症肺炎",
+            "E.颅脑外伤考"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 26
+    },
+    {
+        "question_text": "27.呼气性呼吸困难主要见于:",
+        "options": [
+            "A.肺实变",
+            "B.大支气管异物阻塞",
+            "C.胸腔积液",
+            "D.支气管哮喘",
+            "E.支气管扩张症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 27
+    },
+    {
+        "question_text": "28.下列哪项提示为吸气性呼吸困难？",
+        "options": [
+            "A.呼吸频率加快",
+            "B.呼吸幅度加大",
+            "C.呼吸节律不齐",
+            "D.三凹征",
+            "E.潮式呼吸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 28
+    },
+    {
+        "question_text": "29.发作性呼吸困难伴哮鸣音，常见于:",
+        "options": [
+            "A.喉头水肿",
+            "B.肺淤血",
+            "C.大量胸水",
+            "D.心源性哮喘",
+            "E.支气管肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪项是呼气性呼吸困难最常见病因？",
+        "options": [
+            "A.喉痉挛",
+            "B.支气管异物",
+            "C.重症肺炎",
+            "D.支气管肿瘤",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 30
+    },
+    {
+        "question_text": "31.吸气时出现胸骨上窝、锁骨上窝和肋间隙明显凹陷，常提示:",
+        "options": [
+            "A.肺气肿",
+            "B.支气管哮喘",
+            "C.重症肺炎",
+            "D.气管内异物",
+            "E.大量胸腔积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 31
+    },
+    {
+        "question_text": "32.“三凹症”表现在:",
+        "options": [
+            "A.胸骨上窝、锁骨上窝、剑突下窝",
+            "B.吸气性呼吸困难出现",
+            "C.常见于支气管哮喘",
+            "D.肋间隙、锁骨上窝、腋窝",
+            "E.Kussmaul呼吸时可见"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 32
+    },
+    {
+        "question_text": "33.支气管哮喘患者的呼吸困难属于:",
+        "options": [
+            "A.呼气性呼吸困难",
+            "B.吸气性呼吸困难",
+            "C.混合性呼吸困难",
+            "D.可出现“三凹征",
+            "E.夜间阵发性呼吸困难"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 33
+    },
+    {
+        "question_text": "34.支气管哮喘患者呼吸困难的特点为:",
+        "options": [
+            "A.间断性吸气性呼吸困难",
+            "B.持续性吸气性呼吸困难",
+            "C.反复发作性呼气性呼吸困难",
+            "D.间歇性叹息性呼吸困难",
+            "E.反复发作的混合性呼吸困难"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 34
+    },
+    {
+        "question_text": "35.吸气性呼吸困难严重时出现三凹征，其原因:",
+        "options": [
+            "A.喉、大气管狭窄或梗阻",
+            "B.小气管痉挛与狭窄",
+            "C.大片肺不张",
+            "D.大量胸腔积液",
+            "E.自发性气胸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪一种疾病存在吸气性呼吸困难？",
+        "options": [
+            "A.轻度支气管哮喘",
+            "B.轻度阻塞性肺气肿",
+            "C.大量胸腔积液",
+            "D.慢性咽炎",
+            "E.慢性喉炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 36
+    },
+    {
+        "question_text": "37.在呼吸系统疾病中，突发呼吸困难（吸气或呼气）或和哮鸣音，下列哪种情况最多见？",
+        "options": [
+            "A.隔肌运动受限",
+            "B.神经肌肉疾病",
+            "C.胸廓疾病",
+            "D.肺疾病",
+            "E.气道阻塞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪项可出现呼气性呼吸困难？",
+        "options": [
+            "A.急性喉炎",
+            "B.气管异物",
+            "C.急性会厌炎",
+            "D.支气管哮喘",
+            "E.喉水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪项是吸气性呼吸困难的常见病因？",
+        "options": [
+            "A.肺淤血、肺水肿",
+            "B.小气管痉挛、狭窄",
+            "C.大气道狭窄或梗阻",
+            "D.肺实质广泛性病变",
+            "E.胸膜腔内有大量气体或液体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列哪项可引起混合性呼吸困难？",
+        "options": [
+            "A.气管异物",
+            "B.喉痉挛",
+            "C.重症肺炎",
+            "D.支气管哮喘",
+            "E.慢性阻塞性肺气肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列哪项不属于肺源性呼吸困难？",
+        "options": [
+            "A.急性喉炎",
+            "B.支气管哮喘",
+            "C.胸腔积液",
+            "D.心包积液",
+            "E.隔肌麻痹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 41
+    },
+    {
+        "question_text": "42.呼吸困难时出现的“三凹症”是指:",
+        "options": [
+            "A.胸骨上窝、锁骨上窝、肋间隙明显下陷",
+            "B.胸骨上窝、锁骨下窝、肋间隙明显下陷",
+            "C.胸骨上窝、双侧锁骨上窝明显下陷",
+            "D.胸骨上窝，双侧锁骨下窝明显下陷",
+            "E.双侧锁骨上窝、肋间隙明显下陷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪项不属于吸气性呼吸困难？",
+        "options": [
+            "A.喉头水肿",
+            "B.气管受压",
+            "C.气管异物",
+            "D.支气管哮喘",
+            "E.喉癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 43
+    },
+    {
+        "question_text": "44.呼吸困难伴昏迷常见于下列各项，但除外:",
+        "options": [
+            "A.脑出血",
+            "B.胸膜炎",
+            "C.肺性脑病",
+            "D.糖尿病酮症酸中毒",
+            "E.脑膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 44
+    },
+    {
+        "question_text": "45.吸气性呼吸困难最主要的特点是:",
+        "options": [
+            "A.端坐呼吸",
+            "B.鼻翼煽动",
+            "C.呼吸费力",
+            "D.呼吸节律异常",
+            "E.三凹征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 45
+    },
+    {
+        "question_text": "46.大支气管的狭窄引起的呼吸困难是:",
+        "options": [
+            "A.呼气性呼吸困难",
+            "B.吸气性呼吸困难",
+            "C.混合性呼吸困难",
+            "D.肺淤血和肺泡弹性降低",
+            "E.呼吸中枢受抑制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 46
+    },
+    {
+        "question_text": "47.自发性气胸引起的呼吸困难是:",
+        "options": [
+            "A.呼气性呼吸困难",
+            "B.吸气性呼吸困难",
+            "C.混合性呼吸困难",
+            "D.肺淤血和肺泡弹性降低",
+            "E.呼吸中枢受抑制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 47
+    },
+    {
+        "question_text": "48.一高血压患者突发夜间呼吸困难和发绀常见于:",
+        "options": [
+            "A.心绞痛",
+            "B.急性心肌梗死",
+            "C.急性左心衰",
+            "D.肺梗死",
+            "E.大叶性肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 48
+    },
+    {
+        "question_text": "49.潮式呼吸、Biot呼吸常见于:",
+        "options": [
+            "A.喉炎",
+            "B.酸中毒",
+            "C.右心功能不全",
+            "D.呼吸中枢功能障碍",
+            "E.情绪激动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 49
+    },
+    {
+        "question_text": "50.一患者突发呼吸困难，吸气时胸骨上窝、锁骨上窝和肋间隙明显凹陷，临床诊断可能是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.右心功能不全",
+            "C.肺气肿",
+            "D.喉头水肿",
+            "E.肺梗死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 50
+    },
+    {
+        "question_text": "51.一年轻女性患者生气后突发呼吸急促，手足抽搐，最可能的诊断是:",
+        "options": [
+            "A.自发性气胸",
+            "B.心绞痛",
+            "C.支气管哮喘",
+            "D.癔病",
+            "E.心源性哮喘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 51
+    },
+    {
+        "question_text": "52.夜间阵发性呼吸困难最主要的特点是:",
+        "options": [
+            "A.急性左心功能不全",
+            "B.右心功能不全",
+            "C.胸腔大量积液",
+            "D.慢性阻塞性肺病",
+            "E.气胸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 52
+    },
+    {
+        "question_text": "53.气管肿瘤引起呼吸困难属于哪一类型？",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.混合性呼吸困难",
+            "D.中枢性呼吸困难",
+            "E.神经性呼吸困难"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列哪项可出现呼气性呼吸困难？",
+        "options": [
+            "A.喉痉挛",
+            "B.胸腔积液",
+            "C.支气管哮喘",
+            "D.气管异物",
+            "E.白喉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 54
+    },
+    {
+        "question_text": "55.发作性呼吸困难最常见于:",
+        "options": [
+            "A.支气管哮喘",
+            "B.慢性支气管炎",
+            "C.大叶性肺炎",
+            "D.大量胸腔积液",
+            "E.重症肺结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 55
+    },
+    {
+        "question_text": "56.吗啡中毒引起呼吸困难的主要原因是:",
+        "options": [
+            "A.呼吸中枢兴奋",
+            "B.支气管痉挛",
+            "C.肺淤血",
+            "D.肺泡弹性减弱",
+            "E.呼吸中枢受抑制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 56
+    },
+    {
+        "question_text": "57.肺气肿时，呼吸困难的主要特点是:",
+        "options": [
+            "A.呼吸浅快",
+            "B.吸气费力",
+            "C.呼吸深慢",
+            "D.呼气费力",
+            "E.吸气和呼气均感费力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 57
+    },
+    {
+        "question_text": "58.夜间阵发性呼吸困难发作的机理主要是:",
+        "options": [
+            "A.迷走神经兴奋性增高",
+            "B.呼吸中枢被抑制",
+            "C.代谢性酸中毒",
+            "D.压力感受器受刺激",
+            "E.肺通气换气功能不良"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 58
+    },
+    {
+        "question_text": "59.夜间阵发性呼吸困难常见于:",
+        "options": [
+            "A.肺气肿",
+            "B.胸腔积液",
+            "C.支气管哮喘",
+            "D.左心衰竭",
+            "E.急性右心衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列哪项是严重吸气性呼吸困难最主要的特征？",
+        "options": [
+            "A.哮鸣音",
+            "B.呼吸频率、节律和深度改变",
+            "C.鼻翼煽动",
+            "D.端坐呼吸",
+            "E.三凹征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 60
+    },
+    {
+        "question_text": "61.下列疾病中不表现为劳力性呼吸困难的是:",
+        "options": [
+            "A.贫血",
+            "B.肺气肿",
+            "C.慢性充血性心力衰竭",
+            "D.肺间质纤维化",
+            "E.癔症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 61
+    },
+    {
+        "question_text": "62.突发呼吸困难患者一侧胸部叩诊呈实音，见于下列哪种情况？",
+        "options": [
+            "A.一侧肺不张",
+            "B.肺栓塞",
+            "C.结核性胸膜炎",
+            "D.肺炎",
+            "E.恶性胸腔积液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列哪种情况下查体时会出现“三凹症”？",
+        "options": [
+            "A.结节性甲状腺肿",
+            "B.肺癌纵隔转移致一侧声带麻痹",
+            "C.右下叶背段支气管内膜结核",
+            "D.气管隆突圆柱状瘤",
+            "E.假性球麻痹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 63
+    },
+    {
+        "question_text": "64.严重吸气性呼吸困难最主要的特点是:",
+        "options": [
+            "A.呼吸不规则",
+            "B.发绀明显",
+            "C.呼吸深而慢",
+            "D.出现“三凹征”",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 64
+    },
+    {
+        "question_text": "65.下列关于严重吸气性呼吸困难的特点正确的是:",
+        "options": [
+            "A.呼吸不规则",
+            "B.发绀明显",
+            "C.呼吸深而慢",
+            "D.出现“三凹征”",
+            "E.出现“潮氏呼吸”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 65
+    },
+    {
+        "question_text": "66.吸气性呼吸困难的特点，下列哪项是正确的？",
+        "options": [
+            "A.呼吸频率增快、变浅",
+            "B.呼气费力、缓慢",
+            "C.可出现“三凹征”",
+            "D.常见于支气管哮喘",
+            "E.咳粉红色泡沫样痰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 66
+    },
+    {
+        "question_text": "67.正常成年男性的呼吸运动表现为:",
+        "options": [
+            "A.胸式呼吸为主",
+            "B.腹式呼吸为主",
+            "C.胸式呼吸与腹式呼吸并存",
+            "D.呼吸运动增强",
+            "E.深长呼吸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 67
+    },
+    {
+        "question_text": "68.正常成人每分钟呼吸次数为:",
+        "options": [
+            "A.12～20次",
+            "B.16～18次",
+            "C.10～20次",
+            "D.14～16次",
+            "E.18～24次"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 68
+    },
+    {
+        "question_text": "69.男，35岁，突发呼吸困难伴窒息感，查体呼吸30次/分，呼气延长，双肺哮鸣音无湿音，该患者的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.混合性呼吸困难",
+            "D.阵发性呼吸困难",
+            "E.心源性哮喘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 69
+    },
+    {
+        "question_text": "70.二尖瓣狭窄患者，随着肺动脉高压的出现，查体可发现:",
+        "options": [
+            "A.下肢出现浮肿",
+            "B.颈静脉怒张",
+            "C.呼吸困难加重",
+            "D.肝脏肿大",
+            "E.静脉压增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 70
+    },
+    {
+        "question_text": "71.对判断急性肺水肿最特异的表现是:",
+        "options": [
+            "A.呼吸困难",
+            "B.烦躁不安",
+            "C.大汗淋漓",
+            "D.两肺哮鸣音",
+            "E.咳大量粉红色泡沫痰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 71
+    },
+    {
+        "question_text": "72.糖尿病酮症酸中毒所致呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 72
+    },
+    {
+        "question_text": "73.急性传染病引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 73
+    },
+    {
+        "question_text": "74.吗啡类药物中毒引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 74
+    },
+    {
+        "question_text": "75.急性喉炎所致的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 75
+    },
+    {
+        "question_text": "76.弥漫性细支气管炎引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 76
+    },
+    {
+        "question_text": "77.重症肺结核所致的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 77
+    },
+    {
+        "question_text": "78.膈肌麻痹引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 78
+    },
+    {
+        "question_text": "79.肺梗死引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 79
+    },
+    {
+        "question_text": "80.慢性缩窄性心包炎所致的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 80
+    },
+    {
+        "question_text": "81.自发性气胸所致的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 81
+    },
+    {
+        "question_text": "82.氰化物中毒引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 82
+    },
+    {
+        "question_text": "83.弥漫性肺间质纤维化引起的呼吸困难属于:",
+        "options": [
+            "A.吸气性呼吸困难",
+            "B.呼气性呼吸困难",
+            "C.心源性呼吸困难",
+            "D.混合性呼吸困难",
+            "E.中毒性呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 83
+    },
+    {
+        "question_text": "84.下列哪项不符合心源性哮喘的特点？",
+        "options": [
+            "A.多出现于右心衰竭",
+            "B.肺内有湿啰音",
+            "C.伴有心率加快",
+            "D.肺内有哮鸣音",
+            "E.咳粉红色痰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 84
+    },
+    {
+        "question_text": "85.癔症患者可出现哪种代谢障碍？",
+        "options": [
+            "A.代谢性碱中毒",
+            "B.代谢性酸中毒",
+            "C.呼吸性酸中毒",
+            "D.呼吸性碱中毒",
+            "E.以上都可以"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 85
+    },
+    {
+        "question_text": "86.吸气时间延长可出现在:",
+        "options": [
+            "A.上呼吸道阻塞",
+            "B.下呼吸道阻塞",
+            "C.肺炎",
+            "D.胸腔积液",
+            "E.气胸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 86
+    },
+    {
+        "question_text": "87.下列哪项不是左心衰竭引起呼吸困难的特点",
+        "options": [
+            "A.活动加重",
+            "B.仰卧位时加重",
+            "C.多伴有肝淤血",
+            "D.患者常采取端坐呼吸体位",
+            "E.可出现心源性哮喘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 87
+    },
+    {
+        "question_text": "88.某病人突发呼吸困难，吸气时胸骨上窝、锁骨上窝和肋间隙明显凹陷，临床诊断可能是:",
+        "options": [
+            "A.左心功能不全",
+            "B.右心功能不全",
+            "C.肺气肿",
+            "D.气管异物",
+            "E.肺梗死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 88
+    },
+    {
+        "question_text": "89.突发剧烈胸痛伴呼吸困难和发绀常见于:",
+        "options": [
+            "A.心绞痛",
+            "B.急性心肌梗死",
+            "C.急性左心衰",
+            "D.肺梗死",
+            "E.大叶性肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 89
+    },
+    {
+        "question_text": "90.吗啡类中毒（急症）的症状是:",
+        "options": [
+            "A.呼吸变慢",
+            "B.发热",
+            "C.睡眠时呼吸困难加重",
+            "D.双肺可闻及哮鸣音",
+            "E.口唇呈樱桃红色"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 90
+    },
+    {
+        "question_text": "91.急性会厌炎可出现:",
+        "options": [
+            "A.混合性呼吸困难",
+            "B.吸气性呼吸困难",
+            "C.呼气性呼吸困难",
+            "D.呼气性呼吸困难伴发热",
+            "E.呼吸困难伴昏迷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 91
+    },
+    {
+        "question_text": "92.心源性哮喘最主要的临床表现是:",
+        "options": [
+            "A.胸闷",
+            "B.气促",
+            "C.发绀",
+            "D.夜间阵发性呼吸困难",
+            "E.心率加快"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 92
+    },
+    {
+        "question_text": "93.急性喉头水肿最重要的体征是:",
+        "options": [
+            "A.呛咳",
+            "B.烦躁不安",
+            "C.声音嘶哑",
+            "D.心率加快",
+            "E.出现三凹征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 93
+    },
+    {
+        "question_text": "94.下列关于心源性呼吸困难的描述不正确的是:",
+        "options": [
+            "A.劳素时发生或加重",
+            "B.休息时缓解或减轻",
+            "C.坐位时加重卧位时减轻",
+            "D.发作时可有发绀",
+            "E.严重时咳粉红色泡沫样痰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 94
+    },
+    {
+        "question_text": "95.突然发生的呼吸困难伴窒息感，且一侧呼吸音消失见于:",
+        "options": [
+            "A.结核性胸膜炎",
+            "B.自发性气胸",
+            "C.支气管哮喘",
+            "D.急性左心衰竭",
+            "E.重症肺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 95
+    },
+    {
+        "question_text": "96.一般下列哪项呼吸系统疾病不会出现呼吸困难？",
+        "options": [
+            "A.上呼吸道感染",
+            "B.支气管哮喘",
+            "C.肺炎",
+            "D.肺脓肿",
+            "E.急性多发性神经根神经炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 96
+    },
+    {
+        "question_text": "97.患者，女性，35岁，发作性呼吸困难6年，今日在做卫生时突然再发，且伴有明显哮鸣音。最可能的疾病是:",
+        "options": [
+            "A.支气管哮喘",
+            "B.心源性哮喘",
+            "C.大面积肺梗死",
+            "D.急性心包炎",
+            "E.急性心肌梗死"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 97
+    },
+    {
+        "question_text": "98.患儿，2岁，吃果冻时突然呼吸困难10分钟，急诊体检时可发现:",
+        "options": [
+            "A.吸气与呼气时间相等",
+            "B.呼气时间延长",
+            "C.吸气性呼吸困难",
+            "D.呼气性呼吸困难",
+            "E.混合性呼吸困难"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 98
+    },
+    {
+        "question_text": "99.下列哪种疾病不会出现心源性哮喘？",
+        "options": [
+            "A.风湿性心脏病二尖瓣狭窄",
+            "B.高血压性心脏病",
+            "C.肺源性心脏病（肺心病）",
+            "D.冠心病",
+            "E.心肌炎、心肌病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 99
+    },
+    {
+        "question_text": "100.患者，男性，67岁，和家人生气后突发呼吸困难，呼吸60次/分，伴手足抽搐，最可能的诊断是:",
+        "options": [
+            "A.癔病",
+            "B.肺梗死",
+            "C.自发性气胸",
+            "D.支气管哮喘",
+            "E.心源性哮喘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 100
+    },
+    {
+        "question_text": "101.呼吸困难伴有大量浆液性泡沫样痰者常见于:",
+        "options": [
+            "A.急性喉炎",
+            "B.气管异物",
+            "C.支气管哮喘",
+            "D.自发性气胸",
+            "E.急性左心衰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 101
+    },
+    {
+        "question_text": "102.呼吸困难伴昏迷多见于:",
+        "options": [
+            "A.急性喉炎",
+            "B.糖尿病酮症酸中毒",
+            "C.支气管哮喘",
+            "D.肺炎球菌肺炎",
+            "E.气管异物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 102
+    },
+    {
+        "question_text": "103.发作性呼吸困难伴有哮鸣音常见于:",
+        "options": [
+            "A.支气管哮喘",
+            "B.大叶性肺炎",
+            "C.胸腔积液",
+            "D.严重贫血",
+            "E.右心功能不全"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 103
+    },
+    {
+        "question_text": "104.夜间阵发性呼吸困难伴有哮鸣音常见于:",
+        "options": [
+            "A.支气管哮喘",
+            "B.右心功能不全",
+            "C.胸腔积液",
+            "D.大叶性肺炎",
+            "E.严重贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "104",
+        "number": 104
+    }
+]

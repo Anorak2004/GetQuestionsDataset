@@ -1,0 +1,184 @@
+[
+    {
+        "question_text": "1.基因诊断的常用技术不包括哪项:",
+        "options": [
+            "A.聚合酶链式反应",
+            "B.核酸分子杂交技术",
+            "C.快速血浆反应素试验",
+            "D.单核苷酸多态性分析",
+            "E.连接酶链式反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 1
+    },
+    {
+        "question_text": "2.DNA变性后，将溶液立即放在冰上，叫做“淬火”。这是为了:",
+        "options": [
+            "A.让DNA变硬",
+            "B.让DNA沉淀",
+            "C.使DNA分解破坏",
+            "D.防止DNA降解",
+            "E.保持DNA的单链状态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 2
+    },
+    {
+        "question_text": "3.扩增RNA首先需要进行逆转录，其原因是下列哪一个？",
+        "options": [
+            "A.Taq聚合酶不能扩增RNA",
+            "B.逆转录后扩增效率高",
+            "C.Taq聚合酶扩增RNA效率低",
+            "D.逆转录可以增加特异性",
+            "E.逆转录可以增加敏感性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 3
+    },
+    {
+        "question_text": "4.基因诊断的检测对象是:",
+        "options": [
+            "A.生物化学代谢产物和酶",
+            "B.识别特定蛋白质分子的差异",
+            "C.DNA或RNA",
+            "D.细胞形态",
+            "E.细胞的数量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 4
+    },
+    {
+        "question_text": "5.轻链病的实验诊断特点哪项是错误的:",
+        "options": [
+            "A.尿中含有大量轻链蛋白",
+            "B.尿中含有大量的完整的免疫球蛋白",
+            "C.血清蛋白电泳不出现I带",
+            "D.血沉不增快",
+            "E.血清内也含有游离的轻链蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 5
+    },
+    {
+        "question_text": "6.重链病是浆细胞病的一种类型，实验诊断特点是:",
+        "options": [
+            "A.浆细胞合成并分泌过量的重链",
+            "B.重链病可分γ型，α型和μ型",
+            "C.重链蛋白可以是单克隆性的",
+            "D.重链蛋白也可以在血清中出现",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 6
+    },
+    {
+        "question_text": "7.聚合酶链反应的英文缩写是:",
+        "options": [
+            "A.FISH",
+            "B.PCR",
+            "C.RELP",
+            "D.SNP",
+            "E.LCR"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 7
+    },
+    {
+        "question_text": "8.荧光原位杂交技术的英文缩写是:",
+        "options": [
+            "A.FISH",
+            "B.PCR",
+            "C.RELP",
+            "D.SNP",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 8
+    },
+    {
+        "question_text": "9.扩增RNA:",
+        "options": [
+            "A.首先需要进行逆转录，其原因是下列哪一个",
+            "B.逆转录后扩增效率高",
+            "C.Taq聚合酶扩增RNA效率低",
+            "D.逆转录可以增加特异性",
+            "E.逆转录可以增加敏感性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 9
+    },
+    {
+        "question_text": "10.流式细胞术的检测特点:",
+        "options": [
+            "A.对静止状态下的单细胞悬液进行单参数测定",
+            "B.对流动状态下的单细胞悬液进行单参数测定",
+            "C.对流动状态下的生物颗粒进行单参数测定",
+            "D.对流动状态下的单细胞悬液进行多参数、快速的定量测定",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 10
+    },
+    {
+        "question_text": "11.流式细胞仪的最基本结构不包括以下哪一项？",
+        "options": [
+            "A.流动室和液流系统",
+            "B.激光源和光学系统",
+            "C.光电管和检测系统",
+            "D.细胞分离纯化系统",
+            "E.计算机和分析系统"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 11
+    },
+    {
+        "question_text": "12.由于病理性浆细胞合成和分泌过量，血中出现大量无免疫功能的Ig重链片段，称为:",
+        "options": [
+            "A.巨球蛋白血症",
+            "B.重链病",
+            "C.轻链病",
+            "D.淋巴细胞型白血病",
+            "E.淋巴瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 12
+    },
+    {
+        "question_text": "13.DOWN综合征是下列哪一对染色体出现异常？",
+        "options": [
+            "A.18",
+            "B.21",
+            "C.13",
+            "D.14",
+            "E.X"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 13
+    }
+]

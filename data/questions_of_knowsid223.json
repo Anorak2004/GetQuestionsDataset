@@ -1,0 +1,1080 @@
+[
+    {
+        "question_text": "1.诊断泌尿系统疾病首选的检查项目是:",
+        "options": [
+            "A.尿常规检查",
+            "B.尿比重测定",
+            "C.尿素氮+肌酐测定",
+            "D.内生肌酐清除率测定",
+            "E.酚红排泌试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 1
+    },
+    {
+        "question_text": "2.常用反映肾脏浓缩稀释功能的指标是:",
+        "options": [
+            "A.尿比重",
+            "B.夜尿量",
+            "C.尿渗量",
+            "D.蛋白尿",
+            "E.24小时尿量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 2
+    },
+    {
+        "question_text": "3.急性肾小球肾炎可有如下几项表现，但例外的是哪一项？",
+        "options": [
+            "A.血尿",
+            "B.蛋白尿",
+            "C.不同程度的高血压",
+            "D.糖尿",
+            "E.水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪一项是诊断肾病综合征的首要条件？",
+        "options": [
+            "A.低蛋白血症",
+            "B.大量蛋白尿（尿蛋白>3.5g/d）",
+            "C.患者明显浮肿",
+            "D.高血脂",
+            "E.血尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 4
+    },
+    {
+        "question_text": "5.女，32岁，高热伴尿路刺激症状，查体双肾区叩击痛。经治疗后体温下降，其下降方式常为",
+        "options": [
+            "A.数周内降至正常",
+            "B.数天内降至正常",
+            "C.24小时内降至正常",
+            "D.数小时内降至正常",
+            "E.1小时内降至正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 5
+    },
+    {
+        "question_text": "6.留取12小时尿作沉渣计数（Addis计数）测定，为防止尿液变质，应加的防腐剂是:",
+        "options": [
+            "A.浓盐酸",
+            "B.甲苯",
+            "C.冰醋酸",
+            "D.甲醛",
+            "E.生理盐水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 6
+    },
+    {
+        "question_text": "7.最常用的采集尿培养标本的方法是:",
+        "options": [
+            "A.导尿",
+            "B.清洁头段尿",
+            "C.留24小时尿",
+            "D.清洁中段尿",
+            "E.膀胱穿刺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 7
+    },
+    {
+        "question_text": "8.尿细胞计数用的防腐剂是:",
+        "options": [
+            "A.37％~40％甲醛溶液",
+            "B.甲苯",
+            "C.盐酸",
+            "D.二甲苯",
+            "E.乙醚"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 8
+    },
+    {
+        "question_text": "9.儿茶酚胺测定的防腐剂是",
+        "options": [
+            "A.37％-40％甲醛溶液",
+            "B.甲苯",
+            "C.盐酸",
+            "D.二甲苯",
+            "E.乙醚"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 9
+    },
+    {
+        "question_text": "10.尿常规化学检查应留取:",
+        "options": [
+            "A.清晨首次尿",
+            "B.餐后随意尿",
+            "C.12小时尿",
+            "D.24小时尿",
+            "E.3小时尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 10
+    },
+    {
+        "question_text": "11.病理性糖尿应留取:",
+        "options": [
+            "A.清晨首次尿",
+            "B.餐后随意尿",
+            "C.12小时尿",
+            "D.24小时尿",
+            "E.3小时尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 11
+    },
+    {
+        "question_text": "12.17-羟皮质类固醇定量检查时应留取:",
+        "options": [
+            "A.清晨首次尿",
+            "B.餐后随意尿",
+            "C.12小时尿",
+            "D.24小时尿",
+            "E.3小时尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 12
+    },
+    {
+        "question_text": "13.新鲜尿液具有烂苹果味，提示:",
+        "options": [
+            "A.有机磷中毒",
+            "B.苯丙酮尿症",
+            "C.晚期膀胱癌",
+            "D.酮症酸中毒",
+            "E.正常尿液久置后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 13
+    },
+    {
+        "question_text": "14.正常人每小时尿量少于多少为少尿？",
+        "options": [
+            "A.10mL",
+            "B.13mL",
+            "C.15mL",
+            "D.17mL",
+            "E.20mL"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 14
+    },
+    {
+        "question_text": "15.正常人的尿比重为:",
+        "options": [
+            "A.1.015",
+            "B.1.01",
+            "C.1.015~1.025",
+            "D.>1.025",
+            "E.>1.030"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于尿比重，哪项描述是错误的？",
+        "options": [
+            "A.受尿中可溶性物质的量级尿量的影响",
+            "B.晨尿最高，一般大于1.020",
+            "C.可粗略地判断肾小管的浓缩和稀释功能",
+            "D.尿比重可粗略代表尿的渗透压",
+            "E.糖尿病患者尿比重下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 16
+    },
+    {
+        "question_text": "17.病人尿比重低且固定于1.010，诊断应考虑为:",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.慢性肾盂肾炎",
+            "C.慢性肾炎肾病型",
+            "D.糖尿病型肾综合征",
+            "E.尿毒症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 17
+    },
+    {
+        "question_text": "18.引起乳糜尿的常见原因:",
+        "options": [
+            "A.肾病综合症",
+            "B.慢性丝虫病",
+            "C.肾小管变性疾病",
+            "D.腹膜结核",
+            "E.先天性淋巴管畸形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 18
+    },
+    {
+        "question_text": "19.正常人尿液中可能见到的是:",
+        "options": [
+            "A.红细胞",
+            "B.白细胞",
+            "C.鳞状上皮细胞",
+            "D.透明管型",
+            "E.以上都可以"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 19
+    },
+    {
+        "question_text": "20.肉眼血尿是指每升尿液中的血液:",
+        "options": [
+            "A.大于1mL",
+            "B.大于2mL",
+            "C.大于3mL",
+            "D.大于4mL",
+            "E.大于10mL"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 20
+    },
+    {
+        "question_text": "21.血尿时，尿液的改变是:",
+        "options": [
+            "A.尿呈红色",
+            "B.尿呈乳白色",
+            "C.尿呈黄色",
+            "D.尿量浓茶酱油色",
+            "E.尿量蓝色"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 21
+    },
+    {
+        "question_text": "22.胆红素尿时，尿液的改变是:",
+        "options": [
+            "A.尿呈红色",
+            "B.尿呈乳白色",
+            "C.尿呈黄色",
+            "D.尿量浓茶酱油色",
+            "E.尿量蓝色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 22
+    },
+    {
+        "question_text": "23.乳糜尿时，尿液的改变是:",
+        "options": [
+            "A.尿呈红色",
+            "B.尿呈乳白色",
+            "C.尿呈黄色",
+            "D.尿呈浓茶酱油色",
+            "E.尿呈蓝色"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 23
+    },
+    {
+        "question_text": "24.血红蛋白尿时",
+        "options": [
+            "A.尿呈红色",
+            "B.尿呈乳白色",
+            "C.尿呈黄色",
+            "D.尿量浓茶酱油色",
+            "E.尿量蓝色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 24
+    },
+    {
+        "question_text": "25.急性溶血时可出现:",
+        "options": [
+            "A.淡黄色尿",
+            "B.淡红色尿",
+            "C.酱油样尿",
+            "D.深黄色尿",
+            "E.乳白色尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 25
+    },
+    {
+        "question_text": "26.区别血尿和血红蛋白尿的主要方法是:",
+        "options": [
+            "A.尿比重",
+            "B.尿胆红素",
+            "C.尿蛋白电泳",
+            "D.尿镜检",
+            "E.尿蛋白定性试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 26
+    },
+    {
+        "question_text": "27.无痛性血尿，多见于:",
+        "options": [
+            "A.前列腺增生",
+            "B.膀胱癌",
+            "C.膀胱结核",
+            "D.前列腺炎",
+            "E.膀胱结石"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 27
+    },
+    {
+        "question_text": "28.血尿最见于:",
+        "options": [
+            "A.运动后",
+            "B.妇女月经后",
+            "C.药物性",
+            "D.泌尿系统结石",
+            "E.泌尿系感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 28
+    },
+    {
+        "question_text": "29.临床上最常见的血尿原因:",
+        "options": [
+            "A.泌尿系统疾病",
+            "B.全身性疾病",
+            "C.药物作用",
+            "D.化学因素",
+            "E.功能性疾病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 29
+    },
+    {
+        "question_text": "30.尿三杯实验时，三杯皆含血液，表明出血部位在:",
+        "options": [
+            "A.尿道",
+            "B.前列腺",
+            "C.膀胱颈部和三角区或后尿道",
+            "D.肾脏或输尿管",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 30
+    },
+    {
+        "question_text": "31.血尿伴有水肿及高血压，多见于哪种疾病？",
+        "options": [
+            "A.肾小球肾炎",
+            "B.肾盂肾炎",
+            "C.肾间质病变",
+            "D.急性膀胱炎",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 31
+    },
+    {
+        "question_text": "32.血尿伴有乳糜尿，多见于下列哪种疾病？",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.丝虫病",
+            "C.肾间质病变",
+            "D.慢性肾小球肾炎",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列除哪一项外，都可出现肉眼血尿:",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.肾动脉狭窄",
+            "C.肾结核",
+            "D.肾结石",
+            "E.出血性疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 33
+    },
+    {
+        "question_text": "34.急性溶血时尿液可出现:",
+        "options": [
+            "A.糖尿",
+            "B.血尿",
+            "C.血红蛋白尿",
+            "D.胆红素尿",
+            "E.乳糜尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 34
+    },
+    {
+        "question_text": "35.梗阻性黄疸者尿液可出现:",
+        "options": [
+            "A.糖尿",
+            "B.血尿",
+            "C.血红蛋白尿",
+            "D.胆红素尿",
+            "E.乳糜尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 35
+    },
+    {
+        "question_text": "36.痛风时尿液呈:",
+        "options": [
+            "A.酸性尿",
+            "B.弱酸性尿",
+            "C.碱性尿",
+            "D.弱碱性尿",
+            "E.中性尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 36
+    },
+    {
+        "question_text": "37.肾小管性酸中毒时尿液呈:",
+        "options": [
+            "A.酸性尿",
+            "B.弱酸性尿",
+            "C.碱性尿",
+            "D.弱碱性尿",
+            "E.中性尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 37
+    },
+    {
+        "question_text": "38.正常新鲜尿呈:",
+        "options": [
+            "A.酸性尿",
+            "B.弱酸性尿",
+            "C.碱性尿",
+            "D.弱碱性尿",
+            "E.中性尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪种情况属于功能性蛋白尿？",
+        "options": [
+            "A.凝溶蛋白尿",
+            "B.发热时",
+            "C.血红蛋白尿",
+            "D.糖尿病肾病综合症患者",
+            "E.系统性红斑狼疮肾炎患者"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 39
+    },
+    {
+        "question_text": "40.选择性蛋白尿是以哪一种尿蛋白为主？",
+        "options": [
+            "A.清蛋白",
+            "B.IgG",
+            "C.转铁蛋白",
+            "D.β2-微球蛋白",
+            "E.B-J蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 40
+    },
+    {
+        "question_text": "41.选择性蛋白尿主要用于检查:",
+        "options": [
+            "A.肾小球滤过率改变",
+            "B.肾小管重吸收功能障碍",
+            "C.肾小球病变程度",
+            "D.肾间质病变程度",
+            "E.肾小管病变程度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 41
+    },
+    {
+        "question_text": "42.选择性蛋白尿的蛋白成分主要是:",
+        "options": [
+            "A.本周氏蛋白",
+            "B.白蛋白",
+            "C.球蛋白",
+            "D.脂蛋白",
+            "E.β2-微球蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 42
+    },
+    {
+        "question_text": "43.以β2-微球蛋白为主的蛋白尿见于:",
+        "options": [
+            "A.高度选择性蛋白尿",
+            "B.非选择性蛋白尿",
+            "C.溢出性蛋白尿",
+            "D.肾小管性蛋白尿",
+            "E.肾组织分泌性蛋白尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 43
+    },
+    {
+        "question_text": "44.肌红蛋白尿属于:",
+        "options": [
+            "A.高度选择性蛋白尿",
+            "B.非选择性蛋白尿",
+            "C.溢出性蛋白尿",
+            "D.肾小管性蛋白尿",
+            "E.肾组织分泌性蛋白尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 44
+    },
+    {
+        "question_text": "45.血红蛋白尿属于:",
+        "options": [
+            "A.高度选择性蛋白尿",
+            "B.非选择性蛋白尿",
+            "C.溢出性蛋白尿",
+            "D.肾小管性蛋白尿",
+            "E.肾组织分泌性蛋白尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 45
+    },
+    {
+        "question_text": "46.出现非选择性蛋白尿主要说明:",
+        "options": [
+            "A.肾小管有严重病变",
+            "B.肾小球滤过膜孔径异常增大",
+            "C.肾小球及肾小管联合病变",
+            "D.肾小球滤过静电屏障受损",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 46
+    },
+    {
+        "question_text": "47.尿中β2-MG升高，而血中β2-MG不升高，此时出现蛋白尿属于:",
+        "options": [
+            "A.肾小球性蛋白尿",
+            "B.溢出性蛋白尿",
+            "C.分泌性蛋白尿",
+            "D.肾小管性蛋白尿",
+            "E.组织性蛋白尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 47
+    },
+    {
+        "question_text": "48.肾小管性蛋白尿和肾小球性蛋白尿区别在于:",
+        "options": [
+            "A.前者尿中β2-MG增高",
+            "B.后者尿中仅β2-MG增高",
+            "C.前者尿中以白蛋白增高为主",
+            "D.后者尿β2-MG和白蛋白均增高",
+            "E.后者尿β2-MG和白蛋白均不增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列尿蛋白可作为肾小管早期损伤的生化指标，但除外:",
+        "options": [
+            "A.溶菌酶",
+            "B.视黄醇结合蛋白",
+            "C.β2-MG",
+            "D.转铁蛋白",
+            "E.尿蛋白-1"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 49
+    },
+    {
+        "question_text": "50.尿液中出现本-周氏蛋白最常见于:",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.多发性骨髓瘤",
+            "C.狼疮性肾炎",
+            "D.糖尿病型肾病综合症",
+            "E.肾盂肾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 50
+    },
+    {
+        "question_text": "51.当血糖浓度超过肾糖阈值多少时，尿糖定性试验呈阳性反应？",
+        "options": [
+            "A.5.20mmol/L",
+            "B.6.20mmol/L",
+            "C.7.20mmol/L",
+            "D.8.20mmol/L",
+            "E.8.88mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 51
+    },
+    {
+        "question_text": "52.正常人尿液可出现:",
+        "options": [
+            "A.透明管型",
+            "B.颗粒管型",
+            "C.脂肪管型",
+            "D.肾衰管型",
+            "E.蜡样管型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 52
+    },
+    {
+        "question_text": "53.尿沉渣镜检，下列哪项提示阴道分泌物污染？",
+        "options": [
+            "A.大量小圆上皮细胞",
+            "B.大量大圆上皮细胞",
+            "C.大量尾形上皮细胞",
+            "D.大量扁平上皮细胞",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列泌尿系统疾病中无管型尿的是:",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.慢性肾小球肾炎",
+            "C.肾病综合症",
+            "D.急性肾盂肾炎",
+            "E.急性膀胱炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 54
+    },
+    {
+        "question_text": "55.正常人尿沉渣中可见哪种管型？",
+        "options": [
+            "A.透明管型",
+            "B.细胞管型",
+            "C.蜡样管型",
+            "D.颗粒管型",
+            "E.脂肪管型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列管型，哪种表示肾脏有长期严重的病变？",
+        "options": [
+            "A.颗粒管型",
+            "B.脂肪管型",
+            "C.透明管型",
+            "D.细胞管型",
+            "E.蜡样管型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 56
+    },
+    {
+        "question_text": "57.镜下脓尿是指尿沉渣镜检时，每高倍镜视野白（脓）细胞大于等于:",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E.5个"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 57
+    },
+    {
+        "question_text": "58.尿中小圆上皮细胞来自于:",
+        "options": [
+            "A.肾小球",
+            "B.肾小管",
+            "C.尿道",
+            "D.阴道",
+            "E.肾盂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 58
+    },
+    {
+        "question_text": "59.尿液中移形上皮细胞的来源，哪一项是错误的？",
+        "options": [
+            "A.肾小管",
+            "B.肾盂",
+            "C.输尿管",
+            "D.膀胱",
+            "E.尿道近膀胱段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 59
+    },
+    {
+        "question_text": "60.属于病理性结晶的是:",
+        "options": [
+            "A.尿酸结晶",
+            "B.亮氨酸结晶",
+            "C.三联磷酸盐结晶",
+            "D.草酸钙结晶",
+            "E.磷酸钙结晶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 60
+    },
+    {
+        "question_text": "61.关于尿液红细胞，错误的叙述是:",
+        "options": [
+            "A.可用于鉴别血尿的来源",
+            "B.可有红细胞淡影",
+            "C.肾性血尿多为变形性红细胞",
+            "D.非肾性血尿多为非均一性红细胞",
+            "E.均一性和非均一性红细胞可同时存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 61
+    },
+    {
+        "question_text": "62.关于管型形成所需的条件，错误的是:",
+        "options": [
+            "A.酸性尿",
+            "B.有可供交替使用的肾单位",
+            "C.原尿中有T-H蛋白",
+            "D.尿流缓慢并有淤积",
+            "E.有红细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列哪项不是形成管型的必须条件？",
+        "options": [
+            "A.有蛋白尿存在",
+            "B.远曲小管有浓缩及酸化尿液的能力",
+            "C.尿流缓慢，有局部性尿积滞",
+            "D.有可供交替使用的肾单位",
+            "E.近曲小管功能障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 63
+    },
+    {
+        "question_text": "64.反映肾小管损害最严重的管型是:",
+        "options": [
+            "A.细胞管型",
+            "B.透明管型",
+            "C.蜡样管型",
+            "D.脂肪管型",
+            "E.颗粒管型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 64
+    },
+    {
+        "question_text": "65.有关管型的临床意义，错误的叙述是:",
+        "options": [
+            "A.透明管型可见于心力衰竭",
+            "B.红细胞管型可见于输尿管结石",
+            "C.白细胞管型可见于肾盂肾炎",
+            "D.脂肪管型可见于肾病综合征",
+            "E.蜡样管型可见于慢性肾衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 65
+    },
+    {
+        "question_text": "66.尿中出现大量管型说明病变部位在:",
+        "options": [
+            "A.肾实质",
+            "B.输尿管",
+            "C.前列腺",
+            "D.膀胱",
+            "E.尿道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 66
+    },
+    {
+        "question_text": "67.急性肾小球肾炎患者尿中可出现:",
+        "options": [
+            "A.粗颗粒管型",
+            "B.红细胞管型",
+            "C.肾衰竭管型",
+            "D.脂肪管型",
+            "E.颗粒管型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 67
+    },
+    {
+        "question_text": "68.肾病综合症患者尿中最常见的管型是:",
+        "options": [
+            "A.细颗粒管型",
+            "B.粗颗粒管型",
+            "C.脂肪管型",
+            "D.蜡样管型",
+            "E.透明管型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 68
+    },
+    {
+        "question_text": "69.肾移植后排斥反应时，尿液镜检可见:",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 69
+    },
+    {
+        "question_text": "70.急性肾盂肾炎，尿液镜检可见:",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 70
+    },
+    {
+        "question_text": "71.慢性肾小球肾炎，尿液镜检可见:",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 71
+    },
+    {
+        "question_text": "72.急性肾小球炎可见",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 72
+    },
+    {
+        "question_text": "73.肾病综合征可见",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 73
+    },
+    {
+        "question_text": "74.慢性肾小球炎可见",
+        "options": [
+            "A.上皮细胞管型",
+            "B.红细胞管型",
+            "C.白细胞管型",
+            "D.脂肪管型",
+            "E.粗颗粒管型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 74
+    },
+    {
+        "question_text": "75.提示肾脏存在实质性病变的管型是:",
+        "options": [
+            "A.透明管型",
+            "B.颗粒管型",
+            "C.红细胞管型",
+            "D.脂肪管型",
+            "E.白细胞管型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 75
+    },
+    {
+        "question_text": "76.心力衰竭病人尿中可出现:",
+        "options": [
+            "A.细颗粒管型",
+            "B.透明管型",
+            "C.脂肪管型",
+            "D.肾衰竭管型",
+            "E.蜡样管型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 76
+    },
+    {
+        "question_text": "77.血尿的正确概念是:",
+        "options": [
+            "A.离心尿沉渣每高倍镜视野3个及以上红细胞",
+            "B.离心尿沉渣低倍镜下偶见个别红细胞",
+            "C.尿呈洗肉水样",
+            "D.显微镜下大量红细胞",
+            "E.离心尿沉渣高倍镜下每视野10个以上红细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "77",
+        "number": 77
+    }
+]

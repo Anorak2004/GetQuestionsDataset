@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "I.\t有一幼儿出现血尿，声像图显示为肾内实质性肿 块，最可能为：",
+        "options": [
+            "A.\t肾上腺髓样脂肪瘤",
+            "B.\tWilms 瘤",
+            "C.\t神经母细胞瘤",
+            "D.\t婴儿型多囊肾",
+            "E.\t肾错构瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t先天性胆总管扩张称为：",
+        "options": [
+            "A.\t硬化性胆管炎",
+            "B.\tCourvoisier 胆囊",
+            "C.\t胆总管囊肿",
+            "D.\t克隆病",
+            "E.\t莫菲征阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t声像图显示为围绕睾丸的液性暗区的疾病是：",
+        "options": [
+            "A.\t肿瘤",
+            "B.\t睾丸炎",
+            "C.\t附睾炎",
+            "D.\t睾丸鞘膜积液",
+            "E.\t精索鞘膜积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t胎儿循环的遗迹是：",
+        "options": [
+            "A.\t静脉韧带和肝圆韧带",
+            "B.\t肝十二指肠韧带",
+            "C.\t冠状韧带",
+            "D.\t小网膜囊",
+            "E.\t大网膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t儿童时期来源于肾上腺的恶性肿瘤常见的是：",
+        "options": [
+            "A.\t血管瘤",
+            "B.\t错构瘤",
+            "C.\t神经母细胞瘤",
+            "D.\t皮质畸胎瘤",
+            "E.\t腺瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t鞘膜积液是指浆液积在：",
+        "options": [
+            "A.\t睾丸两层鞘膜之间",
+            "B.\t睾丸鞘膜和白膜之间",
+            "C.\t两层白膜之间",
+            "D.\t白膜与睾丸之间",
+            "E.\t睾丸与精索之间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t儿童最常见的肾脏恶性肿瘤是：",
+        "options": [
+            "A.\tWilms 瘤",
+            "B.\t脂肪瘤",
+            "C.\t错构瘤",
+            "D.\t畸胎瘤",
+            "E.\t血管瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t儿童最常见的眼内恶性肿瘤是：",
+        "options": [
+            "A.\t脉络膜瘤",
+            "B.\t视网膜母细胞瘤",
+            "C.\t血管瘤",
+            "D.\t黑色素瘤",
+            "E.\t畸胎瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t膀胱三角区发现囊性病变，大小随排尿而改变， 提示：",
+        "options": [
+            "A.\t膀胱疝",
+            "B.\t黏液囊肿",
+            "C.\t输尿管囊肿",
+            "D.\t膀胱憩室",
+            "E.\t巨输尿管症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t下列先天性疾病均可导致儿童肾盂积水，最常 见的是：",
+        "options": [
+            "A.\t肾盂输尿管连接部狭窄",
+            "B.\t膀胱畸形",
+            "C.\t肾盂发育不全",
+            "D.\t重复肾输尿管异位开口",
+            "E.\t输尿管异位开口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t影响超声引导穿刺准确性的因素有：",
+        "options": [
+            "A.\t穿刺针与导引槽不配",
+            "B.\t病人的呼吸运动",
+            "C.\t穿刺针的斜面影响",
+            "D.\t部分容积效应",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下列情况下，不宜做超声引导下无水乙醇治疗 的是：",
+        "options": [
+            "A.\t严重出血倾向",
+            "B.\t肝包虫囊肿病",
+            "C.\t动静脉痿",
+            "D.\t厚壁有分隔的病变",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t超声引导下囊肿无水乙醇治疗错误的是：",
+        "options": [
+            "A.\t囊液应尽可能抽净",
+            "B.\t穿刺针尖置于囊肿的底部",
+            "C.\t无水乙醇浓度应〉90%,停留时间应大于5min, 尽量作用于内壁",
+            "D.\t每次注人无水乙醇的量为囊液量的1/2或1/3, 但总量不超过60ml",
+            "E.\t注入无水乙醇时，要避免气体进入囊腔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下列哪项是超声引导下囊肿无水乙醇治疗的并 发症：①出血；②感染；③腹膜炎；④醉酒",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列哪项为超声引导下穿刺活检的禁忌证：① 难以显示病灶或显示不清；②缺乏合适的进针路 径；③病人呼吸不能配合；④凝血机制不正常",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t超声引导下肝癌的无水乙醇注射治疗，下列叙 述错误的是：",
+        "options": [
+            "A.\t要求肿瘤直径小于3cm",
+            "B.\t肿瘤包膜不完整，结构不均匀，无水乙醇治疗效 果差",
+            "C.\t无水乙醇注射时要越快越好",
+            "D.\t治疗前后要监测肝功能",
+            "E.\t疗程要求每周2次，达到肿瘤内血供基本消失、 肿瘤完全坏死为限"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t关于超声引导胰腺肿块活检，下列说法正确① 取材要求经过越多的正常胰腺组织越好；②取材要 求经过越少组织越好；③穿刺应先用粗针；④穿刺 应选用细针",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t关于超声引导下穿刺活检，下列说法正确的 是：",
+        "options": [
+            "A.\t肝穿刺要求在经过至少1cm肝实质前提下穿刺病 变区",
+            "B.\t经过肝实质穿刺胆囊",
+            "C.\t肾或胰腺穿刺尽可能减少对正常肾或胰腺组织的 损害",
+            "D.\t尽可能短距离小角度穿刺",
+            "E.\t以上均对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t无水乙醇治疗囊肿的禁忌证是：",
+        "options": [
+            "A.\t与胆管相通的肝囊肿",
+            "B.\t与胰管相通的胰腺囊肿",
+            "C.\t与肾盂相通的肾囊肿",
+            "D.\t乙醇过敏者",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t超声引导微波治疗肝癌的原理是：",
+        "options": [
+            "A.\t利用微波的热凝固杀死癌细胞",
+            "B.\t利用微波的尸射线杀死癌细胞",
+            "C.\t利用微波的机械效应杀死癌细胞",
+            "D.\t利用微波的空化效应杀死癌细胞",
+            "E.\t利用微波的电解作用杀死癌细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

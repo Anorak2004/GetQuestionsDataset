@@ -1,0 +1,898 @@
+[
+    {
+        "question_text": "1.关于发绀的正确说法是:",
+        "options": [
+            "A.发绀由于血液中的氧化血红蛋白缺少所致",
+            "B.发绀由于血液中的还原血红蛋白减少所致",
+            "C.发绀由于血液中的还原血红蛋白增高所致",
+            "D.发绀时皮肤颜色晦暗",
+            "E.一氧化碳中毒时会出现紫绀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 1
+    },
+    {
+        "question_text": "2.发生发绀最具体而确切的叙述是:",
+        "options": [
+            "A.血液中还原血红蛋白增多所致",
+            "B.静脉血中还原血红蛋白超过5％",
+            "C.毛细血管中还原血红蛋白超过5％",
+            "D.毛细血管中还原血红蛋白超过5g/dl",
+            "E.动脉血中还原血红蛋白超过50g/dl"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 2
+    },
+    {
+        "question_text": "3.关于紫绀与动脉血氧饱和度（SaO2）的关系，错误的是:",
+        "options": [
+            "A.正常Hb患者，如SaO2＜0.85时，舌面可见紫绀",
+            "B.轻度紫绀患者中，SaO2＞0.85者近60％",
+            "C.在红细胞增多症时，SaO2虽＞0.85，也会出现紫绀",
+            "D.Hb＜60g/L的患者，即使SaO2明显降低，也难发现紫绀",
+            "E.临床所见紫绀，能准确反映动脉血氧下降情况"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪个部位不是发绀的常见部位？",
+        "options": [
+            "A.前额",
+            "B.面颊",
+            "C.舌",
+            "D.唇",
+            "E.耳廓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 4
+    },
+    {
+        "question_text": "5.发绀常见的部位是:",
+        "options": [
+            "A.眼睑",
+            "B.前额",
+            "C.唇舌",
+            "D.手掌",
+            "E.皮肤细嫩处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于紫绀的不正确描述是:",
+        "options": [
+            "A.中心性紫绀为全身性皮肤温暖",
+            "B.周围性紫绀见于末梢部位，皮肤发凉",
+            "C.周围性紫绀的发绀部位加温或按摩后消失",
+            "D.只要血中还原血红蛋白含量不超过50g/L就不会引起紫绀",
+            "E.有紫绀不一定均有呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 6
+    },
+    {
+        "question_text": "7.哪项不是发绀的病因？",
+        "options": [
+            "A.二尖瓣狭窄左心衰",
+            "B.肺心病右心衰",
+            "C.苦杏仁中毒",
+            "D.亚硝酸盐中毒",
+            "E.CO中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 7
+    },
+    {
+        "question_text": "8.有关紫绀的叙述正确的是:",
+        "options": [
+            "A.常见于重度贫血患者",
+            "B.saO2常常小于85％",
+            "C.血清还原血红蛋白浓度必须大于5g/dl",
+            "D.通过吸氧均可缓解",
+            "E.可见于CO中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列说法不准确的是？",
+        "options": [
+            "A.呼吸系统疾病可导致中心性发绀",
+            "B.右心衰竭可导致中心性发绀",
+            "C.先天性心脏病可导致中心性发绀",
+            "D.加温后发绀消退为周围性发绀",
+            "E.严重休克时可导致周围性发绀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 9
+    },
+    {
+        "question_text": "10.形成发绀的最主要原因是:",
+        "options": [
+            "A.黑色素增多",
+            "B.血红蛋白增多",
+            "C.还原血红蛋白增多",
+            "D.氧合血红蛋白",
+            "E.血细胞血红蛋白含量过低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 10
+    },
+    {
+        "question_text": "11.当毛细血管血液的还原血红蛋白含量达到哪一种水平时无发绀出现？",
+        "options": [
+            "A.＜70g/L",
+            "B.＜65g/L",
+            "C.＜60g/L",
+            "D.＜55g/L",
+            "E.＜50g/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列关于发绀不正确的是:",
+        "options": [
+            "A.皮肤发凉",
+            "B.贫血时发绀更明显",
+            "C.出现在肢体的末端",
+            "D.心脏病也可以发绀",
+            "E.消除病因后发绀消失"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 12
+    },
+    {
+        "question_text": "13.对于发绀的描述你认为下列哪项是错误的？",
+        "options": [
+            "A.重度贫血，有时难发现发绀",
+            "B.发绀是由于血液中还原血红蛋白绝对含量增加所致",
+            "C.发绀是由于血液中存在异常血红蛋白衍生物",
+            "D.某些药物或化学物质中毒可引起发绀",
+            "E.某些药物或化学物质中毒时可引起发绀，经氧疗青紫可改善"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 13
+    },
+    {
+        "question_text": "14.以下哪种疾病发绀时不一定缺氧？",
+        "options": [
+            "A.真性红细胞增多症",
+            "B.严重贫血",
+            "C.肺水肿",
+            "D.右心功能不全",
+            "E.ARDS"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 14
+    },
+    {
+        "question_text": "15.亚硝酸盐中毒引起的发绀是由于:",
+        "options": [
+            "A.还原血红蛋白增多",
+            "B.高铁血红蛋白增多",
+            "C.循环血容量不足",
+            "D.周围血管痉挛收缩",
+            "E.红细胞过多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 15
+    },
+    {
+        "question_text": "16.中心性发绀是指:",
+        "options": [
+            "A.大脑疾病所致的发绀",
+            "B.心肺疾病所致的发绀",
+            "C.血氧饱和度降低所致的发绀",
+            "D.血中还原血红蛋白浓度增高所致的发绀",
+            "E.循环缺氧所致的发绀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 16
+    },
+    {
+        "question_text": "17.混合性发绀可见于:",
+        "options": [
+            "A.全心衰竭",
+            "B.左心衰竭",
+            "C.右心衰竭",
+            "D.高原地区心脏病",
+            "E.缩窄性心包炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项不是中心发绀的特点？",
+        "options": [
+            "A.发绀是全身性的",
+            "B.有肺心病史及体征",
+            "C.动脉血氧饱和度为95％",
+            "D.紫绀部位皮肤温暖",
+            "E.不伴周围循环血流障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 18
+    },
+    {
+        "question_text": "19.先心病患者，未经氧合的静脉血进入体循环动脉血中，分流量必须超过心输出量的多少可引起发绀？",
+        "options": [
+            "A.1/2",
+            "B.1/3",
+            "C.1/4",
+            "D.1/5",
+            "E.1/6"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 19
+    },
+    {
+        "question_text": "20.周围性发绀不可能出现:",
+        "options": [
+            "A.皮肤发凉",
+            "B.发绀出现在躯干",
+            "C.发绀出现在肢体的末端与下垂部分",
+            "D.休克",
+            "E.加温可使发绀消失"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 20
+    },
+    {
+        "question_text": "21.中心性发绀与周围性发绀主要鉴别点:",
+        "options": [
+            "A.血氧饱和度不同",
+            "B.还原血红蛋白浓度不同",
+            "C.发绀部位皮肤温度不同",
+            "D.部位不同",
+            "E.发绀颜色不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 21
+    },
+    {
+        "question_text": "22.中心性发绀常具有下列哪项特点？",
+        "options": [
+            "A.常出现在肢体末梢",
+            "B.伴皮肤温度降低",
+            "C.见于右心衰竭时",
+            "D.见于严重休克时",
+            "E.见于发绀型先天性心脏病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 22
+    },
+    {
+        "question_text": "23.肠源性紫绀见于:",
+        "options": [
+            "A.有机磷中毒",
+            "B.酒精中毒",
+            "C.亚硝酸盐中毒",
+            "D.大肠杆菌毒素吸收",
+            "E.内毒素休克"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 23
+    },
+    {
+        "question_text": "24.紫绀患者肺部听诊有爆裂音的疾病是:",
+        "options": [
+            "A.肺炎",
+            "B.慢性充血性心力衰竭",
+            "C.矽肺",
+            "D.特发性肺间质纤维化",
+            "E.急性呼吸窘迫综合征（ARDS）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 24
+    },
+    {
+        "question_text": "25.肠源性紫绀的特点是:",
+        "options": [
+            "A.病情进展缓慢",
+            "B.和肠毒素吸收有关",
+            "C.氧疗后症状迅速改善",
+            "D.使用亚甲蓝可以使紫绀消退",
+            "E.静脉血放置于空气中很快转变为鲜红色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 25
+    },
+    {
+        "question_text": "26.口唇无紫绀，而四肢末端出现紫绀见于下列何种疾病？",
+        "options": [
+            "A.慢性支气管炎",
+            "B.右心衰竭",
+            "C.左心衰竭",
+            "D.肠源性紫绀",
+            "E.高铁血红蛋白血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 26
+    },
+    {
+        "question_text": "27.先天性心脏病法洛四联症的发绀是由于哪种原因造成？",
+        "options": [
+            "A.周围血流的淤滞",
+            "B.周围血管收缩，血流灌注不足",
+            "C.肺换气功能障碍",
+            "D.肺通气功能障碍",
+            "E.血中还原血红蛋白增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 27
+    },
+    {
+        "question_text": "28.下列哪种疾病不会引起中心性发绀？",
+        "options": [
+            "A.心脏疾病",
+            "B.肺部疾病",
+            "C.支气管哮喘",
+            "D.阻塞性肺气肿",
+            "E.先天性高铁血红蛋白血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 28
+    },
+    {
+        "question_text": "29.淤血性周围发绀，错误的是:",
+        "options": [
+            "A.是由于周围循环血流障碍所致",
+            "B.发生的部位常见于肢体的末端",
+            "C.在肢体下垂部位不会出现",
+            "D.使之温暖，发绀立即消失",
+            "E.此类发绀分为淤血性及缺血性两种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 29
+    },
+    {
+        "question_text": "30.异常血红蛋白衍化物增高而至发绀是由于:",
+        "options": [
+            "A.艾森曼格综合征",
+            "B.血栓性静脉炎",
+            "C.真性红细胞增多症",
+            "D.磺胺药物中毒",
+            "E.全心衰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 30
+    },
+    {
+        "question_text": "31.心性混合性发绀可见于:",
+        "options": [
+            "A.艾森曼格综合征",
+            "B.血栓性静脉炎",
+            "C.真性红细胞增多症",
+            "D.磺胺药物中毒",
+            "E.全心衰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 31
+    },
+    {
+        "question_text": "32.混合性发绀常见于:",
+        "options": [
+            "A.艾森曼格综合征",
+            "B.血栓性静脉炎",
+            "C.真性红细胞增多症",
+            "D.磺胺药物中毒",
+            "E.全心衰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 32
+    },
+    {
+        "question_text": "33.淤血性周围性发绀见于:",
+        "options": [
+            "A.艾森曼格综合征",
+            "B.血栓性静脉炎",
+            "C.真性红细胞增多症",
+            "D.磺胺药物中毒",
+            "E.全心衰"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 33
+    },
+    {
+        "question_text": "34.周围性发绀见于:",
+        "options": [
+            "A.艾森曼格综合征",
+            "B.血栓性静脉炎",
+            "C.真性红细胞增多症",
+            "D.磺胺药物中毒",
+            "E.全心衰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 34
+    },
+    {
+        "question_text": "35.肺栓塞属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 35
+    },
+    {
+        "question_text": "36.雷诺（Raynaud）病出现肢端发绀属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 36
+    },
+    {
+        "question_text": "37.肠源性青紫症是由于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 37
+    },
+    {
+        "question_text": "38.高铁血红蛋白含量＞30g/L时出现的发绀是由于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 38
+    },
+    {
+        "question_text": "39.严重受寒时出现的发绀属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 39
+    },
+    {
+        "question_text": "40.上腔静脉阻塞综合征属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 40
+    },
+    {
+        "question_text": "41.急性呼吸窘迫综合征（ARDS）属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 41
+    },
+    {
+        "question_text": "42.法洛四联症属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 42
+    },
+    {
+        "question_text": "43.急性左心衰属于:",
+        "options": [
+            "A.心性混合性发绀",
+            "B.混合性发绀",
+            "C.异常血红蛋白衍化物增高",
+            "D.周围性发绀",
+            "E.肺性发绀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 43
+    },
+    {
+        "question_text": "44.不符合高铁血红蛋白症导致的发绀特点是:",
+        "options": [
+            "A.氧疗无效",
+            "B.急骤出现",
+            "C.静脉血呈深棕色",
+            "D.静脉输注亚甲蓝有效",
+            "E.静脉输注维生素C无效"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 44
+    },
+    {
+        "question_text": "45.关于硫化血红蛋白血症，下列哪种说法不正确？",
+        "options": [
+            "A.患者多半有便秘",
+            "B.发绀时间持续较长",
+            "C.为后天获得性",
+            "D.患者血液呈蓝褐色",
+            "E.当血中硫化血红蛋白＞10g/L时出现发绀"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 45
+    },
+    {
+        "question_text": "46.肠源性青紫症是由于误食哪种物质引起的？",
+        "options": [
+            "A.亚甲蓝",
+            "B.亚硝酸盐",
+            "C.钾盐",
+            "D.维生素C",
+            "E.铋剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列哪些疾病可出现周围性发绀？",
+        "options": [
+            "A.肺炎",
+            "B.法洛四联症",
+            "C.气胸",
+            "D.右心衰竭",
+            "E.大量胸腔积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 47
+    },
+    {
+        "question_text": "48.引起周围发绀的疾病是:",
+        "options": [
+            "A.肺炎",
+            "B.法洛四联症",
+            "C.右心衰竭",
+            "D.肺气肿",
+            "E.高原性发绀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 48
+    },
+    {
+        "question_text": "49.中心性发绀具有:",
+        "options": [
+            "A.多出现在四肢末梢",
+            "B.皮肤温暖",
+            "C.加温可消失",
+            "D.按摩可消失",
+            "E.自幼即有"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 49
+    },
+    {
+        "question_text": "50.不属于周围性发绀的是:",
+        "options": [
+            "A.左心衰竭",
+            "B.右心衰竭",
+            "C.肺动静脉瘘",
+            "D.上腔静脉综合征",
+            "E.渗出性心包炎心脏压塞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 50
+    },
+    {
+        "question_text": "51.周围性发绀与中枢性发绀的鉴别点在于:",
+        "options": [
+            "A.躯干发绀",
+            "B.四肢与面颊发绀",
+            "C.口腔粘膜发绀",
+            "D.耳垂与鼻尖发绀",
+            "E.肢体给予按摩或加温发绀即可消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列哪种疾病可出现周围性发绀？",
+        "options": [
+            "A.先心病",
+            "B.右心衰竭",
+            "C.中毒性肺炎",
+            "D.阻塞性肺气肿",
+            "E.呼吸窘迫综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 52
+    },
+    {
+        "question_text": "53.中心性发绀可见于:",
+        "options": [
+            "A.右心衰竭",
+            "B.缩窄性心包炎",
+            "C.上腔静脉综合征",
+            "D.发绀型先天性心脏病",
+            "E.严重休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列哪种疾病出现的发绀不是中心性发绀？",
+        "options": [
+            "A.大量胸腔积液",
+            "B.肺水肿",
+            "C.先天性心脏病",
+            "D.阻塞性肺气肿",
+            "E.严重休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列哪种食物大量食用可引起高铁血红蛋白血症？",
+        "options": [
+            "A.含有亚硝酸盐的变质蔬菜",
+            "B.变质水果",
+            "C.皮蛋",
+            "D.变质猪肉",
+            "E.咸蛋"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列哪种疾病不会引起中心性发绀？",
+        "options": [
+            "A.法乐氏四联征",
+            "B.肺间质纤维化",
+            "C.支气管哮喘",
+            "D.阻塞性肺气肿",
+            "E.先天性高铁血红蛋白血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 56
+    },
+    {
+        "question_text": "57.中心性紫绀是指:",
+        "options": [
+            "A.大脑疾病所致的紫绀",
+            "B.心肺疾病所致的紫绀",
+            "C.血中SaO2降低所致的紫绀",
+            "D.血中还原血红蛋白浓度增高所致的紫绀",
+            "E.循环缺氧所致的紫绀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 57
+    },
+    {
+        "question_text": "58.淤血性周围紫绀是指:",
+        "options": [
+            "A.因体循环淤血，周围血流缓慢，氧在组织中被过多摄取所致",
+            "B.因周围组织血流灌注不足，缺氧所致",
+            "C.因心脏及大血管间存在异常通道，部分静脉血经异常通道分流混入体循环血中所致",
+            "D.由于呼吸功能衰竭，体循环毛细血管中还原血红蛋白量增多所致",
+            "E.先天性高铁血红蛋白血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 58
+    },
+    {
+        "question_text": "59.关于周围性紫绀，错误的是:",
+        "options": [
+            "A.是由周围循环血流障碍所致",
+            "B.发生的部位常见于肢体的末端",
+            "C.但肢体下垂部位不会出现",
+            "D.使之温暖，紫绀立即消失",
+            "E.此类紫绀分为淤血性及缺血性两种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 59
+    },
+    {
+        "question_text": "60.周围性发绀最常见于:",
+        "options": [
+            "A.严重休克",
+            "B.Fallot四联症",
+            "C.大量胸腔积液",
+            "D.阻塞性肺气肿",
+            "E.Eisenmenger综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 60
+    },
+    {
+        "question_text": "61.下列哪种疾病发绀不伴有呼吸困难？",
+        "options": [
+            "A.气胸",
+            "B.高铁血红蛋白血症",
+            "C.阻塞性肺气肿",
+            "D.大量胸腔积液",
+            "E.弥漫性肺间质纤维化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 61
+    },
+    {
+        "question_text": "62.发绀伴杵状指可见于:",
+        "options": [
+            "A.先天性心脏病",
+            "B.气胸",
+            "C.胸腔积液",
+            "D.肺炎",
+            "E.休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 62
+    },
+    {
+        "question_text": "63.杵状指一般不见于下列哪种疾病？",
+        "options": [
+            "A.支气管肺癌",
+            "B.支气管扩张",
+            "C.肺脓肿",
+            "D.缺铁性贫血",
+            "E.发绀型先天性心脏病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪项不是紫绀伴呼吸困难的常见疾病？",
+        "options": [
+            "A.高铁血红蛋白血症",
+            "B.重症心脏病",
+            "C.肺炎",
+            "D.气胸",
+            "E.气管异物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 64
+    }
+]

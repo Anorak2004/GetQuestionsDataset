@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.纤维酶原激活物有下列几项，但需除外哪一项？",
+        "options": [
+            "A.组织型纤溶酶原激活物",
+            "B.血管型纤溶酶原激活物",
+            "C.尿激酶型纤溶酶原激活物",
+            "D.肿瘤细胞性纤溶酶原激活物",
+            "E.红细胞性纤溶酶原激活物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "2.纤溶酶的主要功能是分解纤维蛋白原和纤维蛋白，其他功能中需除外下列哪一项？",
+        "options": [
+            "A.分解凝血因子Ⅷ、Ⅸ",
+            "B.激活激肽系统",
+            "C.激活补体系统",
+            "D.抑制血小板聚集",
+            "E.引起血管收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "3.FDP增高见于下列疾病，但需除外：",
+        "options": [
+            "A.DIC",
+            "B.原发性纤溶症",
+            "C.血管栓塞性疾病",
+            "D.恶性肿瘤",
+            "E.ITP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪些情况可有3P试验阳性？",
+        "options": [
+            "A.原发性纤维蛋白溶解",
+            "B.DIC",
+            "C.有早期继发性纤维蛋白溶解",
+            "D.胎盘早期剥离",
+            "E.老龄者纤维蛋白原升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

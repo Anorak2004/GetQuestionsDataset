@@ -1,0 +1,450 @@
+[
+    {
+        "question_text": "1.\t眼超声可应用于诊断：①视网膜、脉络膜脱离； ②眼内出血、异物；③眼内和眶内肿瘤；④眼肌异 常",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t正常成年人眼轴长为：",
+        "options": [
+            "A.\t18mm",
+            "B.\t20mm",
+            "C.\t22mm",
+            "D.\t24mm",
+            "E.\t26mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t眼球壁的解剖结构是：",
+        "options": [
+            "A.\t角膜、巩膜、脉络膜、视网膜",
+            "B.\t角膜、巩膜、玻璃体，视网膜",
+            "C.\t角膜、巩膜、晶状体、视网膜",
+            "D.\t角膜、巩膜、品状体、玻璃体",
+            "E.\t玻璃体、巩膜、脉络膜、视网膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t下列视网膜母细胞瘤超声表现最有特征性的是：",
+        "options": [
+            "A.\t肿瘤呈类圆形、半月形或不规则形的低回声团块",
+            "B.\t肿块内见钙化点或钙斑",
+            "C.\t肿块内血供丰富",
+            "D.\t肿块边缘不整",
+            "E.\t肿块内见液性暗区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t视网膜脱离和玻璃体内膜状机化物的超声鉴别点 是：",
+        "options": [
+            "A.\t前者呈“V”形；后者呈不规则膜状，有分叉",
+            "B.\t前者膜状回声尖端与视乳头相连，位置固定；后 者位置不定",
+            "C.\t眼球运动时，前者与眼球壁呈垂直运动；后者呈 不规则运动",
+            "D.\tCDFI在前者可见血供；后者无血供",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t脉络膜黑色素瘤的超声表现是：",
+        "options": [
+            "A.\t肿瘤常呈半球形或蘑菇形",
+            "B.\t肿瘤表面有视网膜，故前缘回声连续光滑",
+            "C.\t前缘回声高而密，向后渐少，近球壁形成无回声 区，即“挖空”征",
+            "D.\t出现脉络膜凹陷征，可继发视网膜脱离和玻璃体 混浊",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t应用眼专业超声诊断可探测：①视网膜剥离；② 玻璃体出血；③视神经异常",
+        "options": [
+            "A.\t①+②+③",
+            "B.\t①+③",
+            "C.\t①",
+            "D.\t①+②",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t涎腺良性肿瘤发病率最高的是：",
+        "options": [
+            "A.\t血管瘤",
+            "B.\t腺淋巴瘤",
+            "C.\t混合瘤",
+            "D.\t黏液表皮样瘤",
+            "E.\t淋巴管瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t正常成年人甲状腺侧叶的上限大小为（上下X左 右X前后）：",
+        "options": [
+            "A.\t3cmX 2cmX lcm",
+            "B.\t4cmX 3cmX 3cm",
+            "C.\t4cmX 3cmX 2cm",
+            "D.\t5cmX 2cmX 2cm",
+            "E.\t6cmX 3cmX 2cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t横断面甲状腺外侧毗邻的颈部大血管是：",
+        "options": [
+            "A.\t颈总动脉和颈内静脉",
+            "B.\t颈内动脉和颈外动脉",
+            "C.\t颈内静脉和颈外静脉",
+            "D.\t颈总动脉和颈总静脉",
+            "E.\t颈外动脉和颈外静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t甲状腺外前方的最粗大肌肉为：",
+        "options": [
+            "A.\t骨舌骨肌",
+            "B.\t胸锁乳突肌",
+            "C.\t颈长肌",
+            "D.\t前斜角肌",
+            "E.\t头长肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下列甲状腺疾病中，通常表现为弥漫性病变的 是：",
+        "options": [
+            "A.\t单纯性甲状腺肿",
+            "B.\t桥本甲状腺炎",
+            "C.\t结节性甲状腺肿",
+            "D.\t弥漫性毒性甲状腺肿",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下列甲状腺癌和腺瘤的超声鉴别点中最主要的 是：",
+        "options": [
+            "A.\t肿块有否囊性变",
+            "B.\t肿块血供是否丰富",
+            "C.\t肿块的回声强弱",
+            "D.\t肿块的边界是否整齐",
+            "E.\t肿块周边血流有否绕行"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下列选项中，不是甲状腺癌的声像图特点的 是：",
+        "options": [
+            "A.\t多为单发",
+            "B.\t瘤体多呈高回声",
+            "C.\t瘤体边界不整",
+            "D.\t瘤体内可见微钙化点",
+            "E.\t瘤体血供较丰富"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t— 3岁儿童，颈中线甲状软骨上方有一囊性肿 块，最可能的诊断是：",
+        "options": [
+            "A.\t囊状淋巴管癯",
+            "B.\t甲状腺腺瘤",
+            "C.\t甲状舌骨囊肿",
+            "D.\t甲状旁腺腺瘤",
+            "E.\t淋巴结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t甲状旁腺位于：",
+        "options": [
+            "A.\t甲状腺侧叶的上方",
+            "B.\t甲状腺侧叶的下方",
+            "C.\t甲状腺侧叶的背侧",
+            "D.\t甲状腺侧叶的前方",
+            "E.\t甲状腺侧叶的内侧方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t甲状腺腺瘤的超声诊断标准是：①边缘规则， 周围常有暗环；②瘤体多呈低回声；③内部回声分 布较均匀；④外周常见血管环绕",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t下列甲状腺腺癌的超声表现，错误的是：",
+        "options": [
+            "A.\t肿块内常见散在性微钙化点",
+            "B.\t肿块边界不规则",
+            "C.\t肿块后方可有声衰减",
+            "D.\t大多数肿块是囊性的",
+            "E.\t大的病灶可探及丰富的血供"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t下列甲状腺内的结节，其外周常见暗环的是：",
+        "options": [
+            "A.\t腺瘤",
+            "B.\t甲状腺癌",
+            "C.\t结节性甲状腺的结节",
+            "D.\t单纯性甲状腺囊肿",
+            "E.\t畸胎瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列疾病中，峡部增厚最明显的是：",
+        "options": [
+            "A.\t弥漫性甲状腺肿",
+            "B.\t单纯性甲状腺肿",
+            "C.\t结节性甲状腺肿",
+            "D.\t亚急性甲状腺肿",
+            "E.\t桥本甲状腺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t甲状腺癌的声像图特点是：",
+        "options": [
+            "A.\t病灶大多呈低回声，单发多见",
+            "B.\t因大多无包膜，故病灶边界大多不规则，呈蟹足 样浸润，少见暗环",
+            "C.\t病灶内可见不规则、沙状钙化点",
+            "D.\t内部血供丰富，边缘环绕血流少见",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t甲状腺炎声像图表现为：",
+        "options": [
+            "A.\t甲状腺内多个囊肿",
+            "B.\t甲状腺弥漫性增大，回声减低",
+            "C.\t甲状腺弥漫性增大，无回声改变",
+            "D.\t甲状腺缩小，回声增强",
+            "E.\t甲状腺呈结节样改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t乳腺纤维腺瘤常见于乳腺的：",
+        "options": [
+            "A.\t外上象限",
+            "B.\t内上象限",
+            "C.\t外下象限",
+            "D.\t内下象限",
+            "E.\t乳头周围"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t关于乳腺纤维腺病（或称乳腺增生症）的概念，正确的是：①本病好发于生育年龄妇女，与卵 巢功能失调有关，月经来潮前疼痛加剧，一旦月经 来潮，疼痛即减轻；②超声表现为腺体回声增强， 分布不均，呈粗大点状或斑片状；③有时可见乳腺 导管扩张或呈类圆形液暗区，边界清，后壁有增强 效应；④有时可见腺体呈片状低回声，边界不整， 球体感不强",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t乳腺癌好发于乳腺的：",
+        "options": [
+            "A.\t外上象限",
+            "B.\t内上象限",
+            "C.\t外下象限",
+            "D.\t内下象限",
+            "E.\t乳头部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t正常成年人的睾丸大小约为：",
+        "options": [
+            "A.\t6cmX5cmX4cm",
+            "B.\t5cmX4cmX3cm",
+            "C.\t4cmX 3cmX 2cm",
+            "D.\t3cmX 2cmX 1cm",
+            "E.\t3cmX 2cmX 2cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t下列选项中是急性睾丸炎和睾丸扭转超声表现 的主要鉴别点：",
+        "options": [
+            "A.\t睾丸大小变化",
+            "B.\t睾丸内回声改变",
+            "C.\t睾丸内血供改变",
+            "D.\t鞘膜腔积液",
+            "E.\t睾丸包膜回声改变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t睾丸大小正常，鞘膜腔内见无回声暗区包绕睾 丸，应诊断为：",
+        "options": [
+            "A.\t睾丸鞘膜积液",
+            "B.\t精索鞘膜积液",
+            "C.\t隐睾",
+            "D.\t腹股沟斜疝",
+            "E.\t睾丸血肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t1岁男婴，声像图显示精索部一囊性肿块，内 无分隔，边界清楚，应诊断为：",
+        "options": [
+            "A.睾丸鞘膜积液",
+            "B.\t精索静脉曲张",
+            "C.\t腹股沟淋巴结肿大",
+            "D.\t精索鞘膜积液",
+            "E.\t腹股沟斜疝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t成年人最常见的睾丸肿瘤是：",
+        "options": [
+            "A.\t精原细胞瘤",
+            "B.\t胚胎瘤",
+            "C.\t恶性畸胎瘤",
+            "D.\t淋巴肉瘤",
+            "E.\t间质细胞肉瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t隐睾大多位于：",
+        "options": [
+            "A.\t腹腔",
+            "B.\t腹膜后",
+            "C.\t腹股沟",
+            "D.\t阴茎根部",
+            "E.\t大腿内侧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t超声诊断睾丸扭转的主要依据是：",
+        "options": [
+            "A.\t睾丸肿大",
+            "B.\t睾丸内出现异常暗区",
+            "C.\t睾丸内无血流信号或血流信号减少",
+            "D.\t精索呈麻花征",
+            "E.\t睾丸鞘膜积液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 32
+    }
+]

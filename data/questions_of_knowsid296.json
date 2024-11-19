@@ -1,0 +1,646 @@
+[
+    {
+        "question_text": "1.机体内环境稳态是指",
+        "options": [
+            "A.细胞外液理化因素保持不变",
+            "B.细胞内液理化因素保持不变",
+            "C.细胞外液理化性质在一定范围内波动",
+            "D.细胞内液理化性质在一定范围内波动",
+            "E.细胞内成分在一定范围内波动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 1
+    },
+    {
+        "question_text": "2.维持内环境稳态主要靠",
+        "options": [
+            "A.体液性调节",
+            "B.自身调节",
+            "C.正反馈调节",
+            "D.负反馈调节",
+            "E.前馈调节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 2
+    },
+    {
+        "question_text": "3.生理学真正成为一门实验性科学是从下列那个 世纪开始",
+        "options": [
+            "A.15世纪",
+            "B.16世纪",
+            "C.17世纪初",
+            "D.17世纪末",
+            "E.18世纪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 3
+    },
+    {
+        "question_text": "4.普通生理学的概念是",
+        "options": [
+            "A.对众多器官研究汇集的生理学知识",
+            "B.对众多系统研究汇集的生理学知识",
+            "C.对体内各器官、系统之间相互联系、协调规律 研究汇集的生理学知识",
+            "D.从细胞水平进行研究汇集的生理学知识",
+            "E.从细胞和构成细胞的分子水平进行研究汇集的 生理学知识"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 4
+    },
+    {
+        "question_text": "5.在自动控制系统中.从受控系统到达控制系统 的信息称为",
+        "options": [
+            "A.控制信息",
+            "B.偏差信息",
+            "C.反馈信息",
+            "D.反射信息",
+            "E.参考信息"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 5
+    },
+    {
+        "question_text": "6.对神经调节特点的叙述.正确的是",
+        "options": [
+            "A.调节幅度小",
+            "B.调节的敏感性差",
+            "C.作用范围广，而且持久",
+            "D.作用范围局限，而且反应缓慢",
+            "E.反应迅速、准确和短暂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 6
+    },
+    {
+        "question_text": "7.对体液调节特点的叙述.正确的是",
+        "options": [
+            "A.调节幅度大",
+            "B.调节敏感性强",
+            "C.作用范围广，而且持久",
+            "D.作用范围局限，而且反应较慢",
+            "E.反应迅速、准确和短暂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 7
+    },
+    {
+        "question_text": "8.机体处于寒冷环境时.甲状腺激素分泌增多是 属于",
+        "options": [
+            "A.神经调节",
+            "B.体液调节",
+            "C.自身调节",
+            "D.正反馈调节",
+            "E.神经-体液调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列生理过程中.属于负反馈调节的是",
+        "options": [
+            "A.排尿反射",
+            "B.减压反射",
+            "C.分娩",
+            "D.血液凝固",
+            "E.动作电位去极化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列生理过程中.属于正反馈调节的是",
+        "options": [
+            "A.减压反射",
+            "B.排尿反射",
+            "C.屈肌反射",
+            "D.肺牵张反射",
+            "E.血糖浓度的调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列各项调节中.属于自身调节的是",
+        "options": [
+            "A.动脉血压在60\\140mmHg范围内变动时，脑血 流量可保持相对恒定",
+            "B.全身动脉血压升高时，血压水平下降",
+            "C.过度通气后，呼吸暂停",
+            "D.水量摄入多时，尿量增加",
+            "E.机体酸中毒时，泌酸增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列实验中.属于慢性实验方法的是",
+        "options": [
+            "A.离体蛙心灌流",
+            "B.狗食道造痿假饲实验",
+            "C.临床胃液分泌实验",
+            "D.血液常规检查",
+            "E.输尿管插管引流尿液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 12
+    },
+    {
+        "question_text": "13.人体生理学的任务是阐明人体",
+        "options": [
+            "A.细胞的生命现象",
+            "B.器官的功能活动",
+            "C.与环境的相互关系",
+            "D.体内的物理化学变化",
+            "E.正常的生命活动及其规律"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 13
+    },
+    {
+        "question_text": "14.自身调节指组织、细胞在不依赖于神经或体液 调节的情况下对刺激所产生的",
+        "options": [
+            "A.适应性反应",
+            "B.旁分泌反应",
+            "C.稳态反应",
+            "D.非自控调节",
+            "E.前馈调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 14
+    },
+    {
+        "question_text": "15.以下各项中由负反馈调节的生理过程是",
+        "options": [
+            "A.分娩",
+            "B.排尿反射",
+            "C.降压反射",
+            "D.小肠运动",
+            "E.血液凝固"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 15
+    },
+    {
+        "question_text": "16.能比较迅速反映内环境变动状况的体液是",
+        "options": [
+            "A.脑脊液",
+            "B.血浆",
+            "C.尿液",
+            "D.淋巴液",
+            "E.细胞内液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 16
+    },
+    {
+        "question_text": "17.在自动控制系统中.从受控部分发出到达控制 部分的信息称为",
+        "options": [
+            "A.偏差信息",
+            "B.干扰信息",
+            "C.控制信息",
+            "D.反馈信息",
+            "E.自控信息"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列各项调节中.属于自身调节的是",
+        "options": [
+            "A.动脉血压在60--140mmHg范围内变动时，脑血 流量可保持相对恒定",
+            "B.全身动脉血压升高时，血压水平下降",
+            "C.过度通气后，呼吸暂停",
+            "D.水量摄入多时，尿量增加",
+            "E.机体酸中毒时，泌酸增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 18
+    },
+    {
+        "question_text": "19.人体生理学的任务主要在于阐明人体各器官和 细胞的",
+        "options": [
+            "A.物理和化学变化过程及规律",
+            "B.形态结构及其与功能的关系",
+            "C.物质与能量代谢的活动规律",
+            "D.功能表现及其内在机制",
+            "E.生长、发育和衰老的整个过程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列关于生理学的叙述.错误的是",
+        "options": [
+            "A.是生物学的一个分支",
+            "B.是一门实验性科学",
+            "C.是一门重要的医学基础理论课程",
+            "D.其研究对象是机体各组成部分的功能",
+            "E.需从系统器官和细胞分子两个水平进行研究"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列各水平的生理学研究中.有助于揭示生命 现象最本质的基本规律的是",
+        "options": [
+            "A.细胞和分子水平",
+            "B.组织和细胞水平",
+            "C.器官和组织水平",
+            "D.器官和系统水平",
+            "E.整体水平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 21
+    },
+    {
+        "question_text": "22.在目前的医学生理学中.对下列功能活动的描 述属于细胞和分子水平的是",
+        "options": [
+            "A.条件反射",
+            "B.肌丝滑行",
+            "C.心脏射血",
+            "D.防御反应",
+            "E.基础代谢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 22
+    },
+    {
+        "question_text": "23.医学生理学课程中的大部分内容所归属的知识 水平是",
+        "options": [
+            "A.细胞和分子水平",
+            "B.组织和细胞水平",
+            "C.器官和组织水平",
+            "D.器官和系统水平",
+            "E.整体水平"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列各项实验中.属于整体水平的研究的是",
+        "options": [
+            "A.在体蛙心搏曲线描记",
+            "B.大脑皮层诱发电位描记",
+            "C.人体高原低氧试验",
+            "D.假饲法分析胃液分泌",
+            "E.活体家兔血压描记"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 24
+    },
+    {
+        "question_text": "25.分析生理学实验研究结果的正确观点是",
+        "options": [
+            "A.分子水平的研究结果最准确",
+            "B.离体细胞的研究结果可直接解释其在整体中的 功能",
+            "C.动物实验的结果可直接解释人体的生理功能",
+            "D.多个水平研究结果的综合有助于阐明生理功能 机制",
+            "E.整体水平的研究结果最不可靠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 25
+    },
+    {
+        "question_text": "26.机体的内环境是指",
+        "options": [
+            "A.体液",
+            "B.细胞内液",
+            "C.细胞外液",
+            "D.血液",
+            "E.组织液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 26
+    },
+    {
+        "question_text": "27.内环境中最活跃的部分是",
+        "options": [
+            "A.组织液",
+            "B.血浆",
+            "C.淋巴",
+            "D.脑脊液",
+            "E.房水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 27
+    },
+    {
+        "question_text": "28.内环境的稳态",
+        "options": [
+            "A.是指细胞内液中各种理化因素保持相对恒定",
+            "B.是指细胞外液的各种理化性质发生小范围变动",
+            "C.使细胞内、外液中各种成分基本保持相同",
+            "D.不依赖于体内各种细胞、器官的正常生理活动",
+            "E.不受机体外部环境因素的影响"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 28
+    },
+    {
+        "question_text": "29.大量出汗后快速大量饮用白开水.其最主要的 危害是",
+        "options": [
+            "A.迅速扩充循环血量",
+            "B.导致尿量明显增多",
+            "C.稀释胃肠道消化液",
+            "D.稀释血浆蛋白浓度",
+            "E.使水和电解质紊乱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 29
+    },
+    {
+        "question_text": "30.酸中毒时肺通气量增加.其意义在于",
+        "options": [
+            "A.排出过多的C02",
+            "B.克服呼吸困难",
+            "C.缓解机体缺氧",
+            "D.适应心功能改变",
+            "E.适应呼吸功能改变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 30
+    },
+    {
+        "question_text": "31.酸中毒时.肾小管重吸收和分泌功能的改变是",
+        "options": [
+            "A.水重吸收增多",
+            "B.钠-氢交换增加",
+            "C.钠-钾交换增加",
+            "D.氨分泌减少",
+            "E.碳酸氢根重吸收减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 31
+    },
+    {
+        "question_text": "32.轻触眼球角膜引起眨眼动作的调节属于",
+        "options": [
+            "A.神经调节",
+            "B.神经-体液调节",
+            "C.局部体液调节",
+            "D.旁分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 32
+    },
+    {
+        "question_text": "33.阻断反射弧中的任何一个环节.受损的调节是",
+        "options": [
+            "A.神经调节",
+            "B.激素远距调节",
+            "C.自身调节",
+            "D.旁分泌调节",
+            "E.自分泌调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 33
+    },
+    {
+        "question_text": "34.应急反应时血中肾上腺素浓度增高.引起心血 管和呼吸等活动加强.这一调节属于",
+        "options": [
+            "A.神经调节",
+            "B.神经-体液调节",
+            "C.旁分泌调节",
+            "D.神经分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 34
+    },
+    {
+        "question_text": "35.餐后胰岛素分泌增加有助于维持血糖水平的稳 定.这一调节属于",
+        "options": [
+            "A.神经调节",
+            "B.激素远距调节",
+            "C.旁分泌调节",
+            "D.自分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 35
+    },
+    {
+        "question_text": "36.胰高血糖素和生长抑素在胰岛内对胰岛素分泌 的调节属于",
+        "options": [
+            "A.神经调节",
+            "B.神经-体液调节",
+            "C.激素远距调节",
+            "D.旁分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 36
+    },
+    {
+        "question_text": "*37.大量饮清水后约半小时尿量开始增多.这一 调节属于",
+        "options": [
+            "A.神经调节",
+            "B.激素远距调节",
+            "C.旁分泌调节",
+            "D.神经分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 37
+    },
+    {
+        "question_text": "38.组织代谢活动增强时.毛细血管床因代谢产物 堆积而开放.这种调节属于",
+        "options": [
+            "A.神经调节",
+            "B.激素远距调节",
+            "C.神经-体液调节",
+            "D.神经分泌调节",
+            "E.局部体液调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 38
+    },
+    {
+        "question_text": "39.肾小球滤过率在肾动脉血压于一定范围内变动 时保持不变.这一调节属于",
+        "options": [
+            "A.神经调节",
+            "B.激素远距调节",
+            "C.神经分泌调节",
+            "D.旁分泌调节",
+            "E.自身调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 39
+    },
+    {
+        "question_text": "*40.非自动控制见于",
+        "options": [
+            "A.排尿反射",
+            "B.应激反应",
+            "C.体温调节",
+            "D.分娩过程",
+            "E.血液凝固"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 40
+    },
+    {
+        "question_text": "41.使机体功能状态保持相对稳定.依靠体内的",
+        "options": [
+            "A.非自动控制系统",
+            "B.负反馈控制系统",
+            "C.正反馈控制系统",
+            "D.前馈控制系统",
+            "E.自主神经系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 41
+    },
+    {
+        "question_text": "42.手术切除动物肾上腺皮质后血中ACTH浓度升 高.说明糖皮质激素对腺垂体促激素分泌具有的 调控作用是",
+        "options": [
+            "A.神经调节",
+            "B.神经-体液调节",
+            "C.正反馈控制",
+            "D.负反馈控制",
+            "E.前馈控制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 42
+    },
+    {
+        "question_text": "43.使某一生理过程很快达到高潮并发挥其最大效 应.依靠体内的",
+        "options": [
+            "A.非自动控制系统",
+            "B.负反馈控制系统",
+            "C.正反馈控制系统",
+            "D.前馈控制系统",
+            "E.神经和内分泌系统"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列各生理或病理过程中属于正反馈的是",
+        "options": [
+            "A.体位由卧位转变为直立时，通过压力感受性反 射使血压回升",
+            "B.激素水平降低时，相应受体的亲和力以及在膜 上表达的数量均增加",
+            "C.大失血使血压降低，心脏血供不足，心排出量 减少而进一步降低血压",
+            "D.应激反应中，血中ACTH和肾上腺糖皮质素水平 持续升高",
+            "E.有关寒冷信息通过视、听等感觉传入中枢即引 起产热增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 44
+    },
+    {
+        "question_text": "*45.动物见到食物就引起唾液分泌.这属于",
+        "options": [
+            "A.非条件反射",
+            "B.非自动控制",
+            "C.正反馈控制",
+            "D.负反馈控制",
+            "E.前馈控制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 45
+    },
+    {
+        "question_text": "46.与反馈相比.前馈控制的特点是",
+        "options": [
+            "A.快速生效",
+            "B.产生震荡",
+            "C.无预见性",
+            "D.适应性差",
+            "E.不会失误"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "46",
+        "number": 46
+    }
+]

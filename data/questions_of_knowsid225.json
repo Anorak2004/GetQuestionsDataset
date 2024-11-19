@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.痰液涂片查找结核杆菌应选用:",
+        "options": [
+            "A.Wright染色",
+            "B.Gram染色",
+            "C.抗酸染色",
+            "D.H-染色",
+            "E.Papanicolaou染色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "2.患者，女，27岁，低热盗汗，乏力纳差伴咳嗽2个月，拟诊肺结核，为尽早明确诊断，应首选的检查是:",
+        "options": [
+            "A.取痰标本做抗酸染色",
+            "B.取痰标本做革兰染色",
+            "C.结核菌素试验",
+            "D.取痰标本做分离培养",
+            "E.取痰标本做动物接种"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "3.患者男性，52岁。糖尿病史5年，1周来低热，37.8℃，伴咳嗽，痰中偶带血，胸片显示在肺中野多发片状结节阴影，ESR85mm/h，痰涂片抗酸染色（+）。该患者最可能的诊断是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.肺结核",
+            "C.肺癌",
+            "D.金葡菌肺炎",
+            "E.真菌性肺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "4.患者男性，52岁。糖尿病史5年，1周来低热，37.8℃，伴咳嗽，痰中偶带血，胸片显示在肺中野多发片状结节阴影，ESR85mm/h，痰涂片抗酸染色（+）。患者所得疾病的主要传播途径是:",
+        "options": [
+            "A.消化道",
+            "B.呼吸道",
+            "C.泌尿道",
+            "D.破损皮肤、黏膜",
+            "E.血液传播"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

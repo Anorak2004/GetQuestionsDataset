@@ -1,0 +1,324 @@
+[
+    {
+        "question_text": "1.新病人的入院记录应在入院后多长时间内完成",
+        "options": [
+            "A.24小时",
+            "B.30分钟",
+            "C.12小时",
+            "D.8小时",
+            "E.6小时"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 1
+    },
+    {
+        "question_text": "2.门诊病历内容不包括:",
+        "options": [
+            "A.主诉",
+            "B.现病史",
+            "C.既往史",
+            "D.个人史",
+            "E.体征及检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 2
+    },
+    {
+        "question_text": "3.门诊病历的问诊应是:",
+        "options": [
+            "A.先住院后问诊",
+            "B.先做辅助检查后问诊",
+            "C.找了解情况的人询问病史",
+            "D.详细询问病史",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 3
+    },
+    {
+        "question_text": "4.手术记录一般应由:",
+        "options": [
+            "A.主治医师书写",
+            "B.手术者书写",
+            "C.第一助手书写",
+            "D.第二助手书写",
+            "E.麻醉师书写"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 4
+    },
+    {
+        "question_text": "5.病历中记录生命体征包括:",
+        "options": [
+            "A.体温、脉搏、呼吸、血压",
+            "B.神志、血压、心率",
+            "C.呼吸、脉搏、心律、血压",
+            "D.瞳孔、呼吸、神志",
+            "E.心电图、血压、体温"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 5
+    },
+    {
+        "question_text": "6.死亡病历讨论应在病人死亡后多长时间内进行:",
+        "options": [
+            "A.3天",
+            "B.5天",
+            "C.1周",
+            "D.2周",
+            "E.1天"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 6
+    },
+    {
+        "question_text": "7.病人，男性，45岁，消化性溃疡反复发作6年，4年前曾做过胃次全切手术，1个月前溃疡又复发，2天前发现柏油样便，当日突然晕倒，急诊入院。该病人的现病史应记录哪段时间？",
+        "options": [
+            "A.从4年前开始记录",
+            "B.从1个月前开始记录",
+            "C.从6年前开始记录",
+            "D.从2天前开始记录",
+            "E.从当日开始记录、其他时间均为既往史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 7
+    },
+    {
+        "question_text": "8.住院病历和首次病程记录应于病人入院后多少时间内完成？",
+        "options": [
+            "A.住院病历——8小时，首次病程——2小时",
+            "B.住院病历——12小时，首次病程——2小时",
+            "C.住院病历——12小时，首次病程——8小时",
+            "D.住院病历——24小时，首次病程——2小时",
+            "E.住院病历——24小时，首次病程——8小时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪项属现病史的内容？",
+        "options": [
+            "A.生育史",
+            "B.习惯与嗜好",
+            "C.本次发病到就诊的时间",
+            "D.曾患过的疾病",
+            "E.职业及工作条件"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 9
+    },
+    {
+        "question_text": "10.客观病历资料不包括下列哪项？",
+        "options": [
+            "A.住院病历入院记录",
+            "B.特殊治疗同意书",
+            "C.病程记录",
+            "D.医嘱单",
+            "E.门诊病历"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 10
+    },
+    {
+        "question_text": "11.医师对患者持有的有关病情介绍的态度应是:",
+        "options": [
+            "A.没价值",
+            "B.全部照搬",
+            "C.没必要",
+            "D.没时间看",
+            "E.参考资料"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 11
+    },
+    {
+        "question_text": "12.收集临床资料最基本的方法是:",
+        "options": [
+            "A.病史采集+诊断思维",
+            "B.体格检查+诊断思维",
+            "C.诊断思维+实验室检查",
+            "D.病史采集+体格检查",
+            "E.体格检查+辅助检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 12
+    },
+    {
+        "question_text": "13.病程记录的内容不包括:",
+        "options": [
+            "A.病人自觉症状、情绪、心理状态",
+            "B.症状、体征的改变",
+            "C.各种诊疗操作的记录",
+            "D.家属及有关人员的反映、意见",
+            "E.有关科室医生会诊记录"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 13
+    },
+    {
+        "question_text": "14.根据医疗机构病历管理规定，有权自由查阅患者病历的是:",
+        "options": [
+            "A.对患者实施医疗活动的医务人员",
+            "B.患者本人",
+            "C.患者代理人",
+            "D.保险公司",
+            "E.公安机关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 14
+    },
+    {
+        "question_text": "15.诊断思维基本原则不正确的是:",
+        "options": [
+            "A.首先考虑常见病与多发病",
+            "B.考虑当地流行病和发生的传染病与地方病",
+            "C.首先考虑器质性疾病",
+            "D.首先考虑可治性疾病",
+            "E.尽可能用多种疾病去解释多种临床表现"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 15
+    },
+    {
+        "question_text": "16.诊断疾病最基本最重要的手段是:",
+        "options": [
+            "A.详细的问诊",
+            "B.全面体检",
+            "C.实验室检查",
+            "D.心电图检查",
+            "E.病理检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列关于诊断思维的基本原则不正确的是:",
+        "options": [
+            "A.首先考虑常见病与多发病",
+            "B.应当考虑当地流行和发生的传染病与地方病",
+            "C.首先应考虑器质性疾病",
+            "D.首先应考虑可治性疾病",
+            "E.尽可能用多种疾病去解释多种临床表现"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 17
+    },
+    {
+        "question_text": "18.以下哪一项不是临床诊断中的思维方法",
+        "options": [
+            "A.推理",
+            "B.猜测",
+            "C.经验再现",
+            "D.根据临床表现对照疾病的诊断标准和诊断条件",
+            "E.根据诊断线索和信息寻找更多的诊断依据"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 18
+    },
+    {
+        "question_text": "19.常见诊断失误的原因不包括",
+        "options": [
+            "A.病史资料不完整、不确切",
+            "B.观察不细致或检查结果误差较大",
+            "C.尽可能用同一种疾病去解释多种临床表现",
+            "D.先入为主、主观臆断",
+            "E.医学知识不足，缺乏临床经验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 19
+    },
+    {
+        "question_text": "20.对危重患者正确的做法是:",
+        "options": [
+            "A.必须仔细问诊，以免误诊",
+            "B.简要问诊，重点体格检查，迅速抢救",
+            "C.全面体格检查，收集完整资料",
+            "D.等实验室检查结果，然后治疗",
+            "E.立即转院"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 20
+    },
+    {
+        "question_text": "21.诊断疾病的基本方法是:",
+        "options": [
+            "A.心电图检查",
+            "B.X线检查",
+            "C.实验室检查",
+            "D.超声检查",
+            "E.体格检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 21
+    },
+    {
+        "question_text": "22.正确诊断的第一步是:",
+        "options": [
+            "A.体格检查",
+            "B.问诊",
+            "C.实验室检查",
+            "D.CT检查",
+            "E.心电图检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 22
+    },
+    {
+        "question_text": "23.通过问诊就可以作出明确诊断的疾病是:",
+        "options": [
+            "A.肺炎球菌性肺炎",
+            "B.风湿性心脏病",
+            "C.慢性支气管炎",
+            "D.肝硬化",
+            "E.肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 23
+    }
+]

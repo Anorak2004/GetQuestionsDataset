@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1.\t肾功能不全严重障碍时首先表现为",
+        "options": [
+            "A.\t尿量变化",
+            "B.\t尿成分变化",
+            "C.\t泌尿功能障碍",
+            "D.\t代谢紊乱",
+            "E.\t肾内分泌功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t下述哪一种内分泌激素不是肾脏分泌产生的？",
+        "options": [
+            "A.\t肾素",
+            "B.\t前列腺素",
+            "C.\t醛固酮",
+            "D.\t红细胞生成素",
+            "E.\t1,\t25 (OH) 2D3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t引起急性功能性肾衰的关键因素是",
+        "options": [
+            "A.\t有效循环血量减少",
+            "B.\t心输出量异常",
+            "C.\t肾灌流不足",
+            "D.\t肾小球滤过面积减小",
+            "E.\t肾血管收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t能引起肾前性急性肾衰竭的原因是",
+        "options": [
+            "A.\t肾动脉硬化",
+            "B.\t急性肾炎",
+            "C.\t肾血栓形成",
+            "D.\t休克早期",
+            "E.\t休克晚期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "5,\t肾毒物作用引起的急性肾衰竭时肾脏损害的突出 表现是",
+        "options": [
+            "A.\t肾血管损害",
+            "B.\t肾小球病变",
+            "C.\t肾间质纤维化",
+            "D.\t肾小管坏死",
+            "E.\t肾间质水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "6,\t下述哪一项不会引起肾小球入球小动脉痉挛？",
+        "options": [
+            "A.\t体内儿茶酚胺增加",
+            "B.\t近球细胞肾素分泌增多",
+            "C.\t血管紧张素II生成增多",
+            "D.\t前列腺素产生减少",
+            "E.\t1,\t25 (OH) 2D3 减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "7,\t下述哪种情况不会产生肾后性急性肾衰竭？",
+        "options": [
+            "A.\t一侧输尿管结石",
+            "B.\t前列腺肥大",
+            "C.\t前列腺癌",
+            "D.\t尿道结石",
+            "E.\t盆腔肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "8,\t急性肾衰竭发病的中心环节是",
+        "options": [
+            "A.\tGFR降低",
+            "B.\t囊内压增高",
+            "C.\t血浆胶渗压降低",
+            "D.\t体内儿茶酚胺增加",
+            "E.\t肾素-血管紧张素系统激活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "9,\t当全身动脉血压在哪一范围内肾血流可维持自身 调节？",
+        "options": [
+            "A.\t12.0-22.7kPa (90-170mmHg)",
+            "B.\t10.7-21.4kPa (80T60mmHg)",
+            "C.\t9.3-20.0kPa (70T50mmHg)",
+            "D.\t8.0-18.7kPa (60T40mmHg)",
+            "E.\t6.7-17.3kPa (50T30mmHg)"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "10,\t急性肾功能不全患者少尿的发生关键机制是",
+        "options": [
+            "A.\t肾灌注压下降",
+            "B.\t肾血管收缩",
+            "C.\t肾小管阻塞",
+            "D.\t肾小管原尿反流",
+            "E.\t肾小球滤过率降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "11,\t急性肾衰竭时肾素-血管紧张素系统被激活的机 制是",
+        "options": [
+            "A.\t远曲小管液[Ca2+] t",
+            "B.\t远曲小管液[K+] t",
+            "C.\t远曲小管液[Mg2+] t",
+            "D.\t远曲小管液[Na+] t",
+            "E.\t近曲小管液[Na+] t"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t肾小管原尿反流是指",
+        "options": [
+            "A.\t肾小管内液反流到肾小球",
+            "B.\t髓祥内液反流到近曲小管",
+            "C.\t髓祥升支内液反流到髓祥降支",
+            "D.\t肾小管内液反流到肾间质",
+            "E.\t集合管内液反流到远曲小管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t急性肾衰竭时血液沾度升高的主要原因是",
+        "options": [
+            "A.\t红细胞聚集",
+            "B.\t红细胞变形能力下降",
+            "C.\t红细胞破裂",
+            "D.\t血小板聚集",
+            "E.\t纤维蛋白原增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t急性肾衰时引起肾小管原尿反流的直接原因是",
+        "options": [
+            "A.\t尿量增多",
+            "B.\t肾小管基膜断裂",
+            "C.\t原尿流速缓慢",
+            "D.\t肾小管阻塞",
+            "E.\t间质水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t急性肾衰竭少尿期患者最危险的变化是",
+        "options": [
+            "A.\t水中毒",
+            "B.\t高钾血症",
+            "C.\t少尿",
+            "D.\t代谢性酸中毒",
+            "E.\t氮质血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t有关非少尿期急性肾衰竭的描述哪项是错误 的？",
+        "options": [
+            "A.\tGFR下降程度不严重，无氮质血症",
+            "B.\t肾小管损伤较轻",
+            "C.\t肾小管浓缩功能障碍，尿量较多",
+            "D.\t尿相对密度较低",
+            "E.\t尿钠含量较低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t下述有关慢性肾衰竭的描述哪项是不正确的？",
+        "options": [
+            "A.\t常见于慢性肾脏疾病",
+            "B.\t肾单位进行性破坏",
+            "C.\t氮质血症进行性加重",
+            "D.\t水、电解质酸碱紊乱",
+            "E.\t无内分泌功能紊乱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t引起慢性肾衰竭最常见的原因是",
+        "options": [
+            "A.\t慢性肾盂肾炎",
+            "B.\t肾结核",
+            "C.\t多囊肾",
+            "D.\t全身性红斑性狼疮",
+            "E.\t慢性肾小球肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t慢性肾衰竭的发展阶段可分为",
+        "options": [
+            "A.\t少尿期、多尿期、恢复期",
+            "B.\t多尿期、少尿期、衰竭期",
+            "C.\t代偿期、失代偿期、尿毒症期",
+            "D.\t代偿期、肾衰竭期、尿毒症期",
+            "E.\t代偿期、肾功能不全期、肾衰竭期、尿毒症期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "20.慢性肾衰竭发展过程中代偿期的内生肌酐清除率是大于",
+        "options": [
+            "A.50%",
+            "B.40%",
+            "C.30%",
+            "D.25%",
+            "E.20%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "21.慢性肾衰竭不全期不会出现",
+        "options": [
+            "A.内生性肌酐清除率下降至正常值的 20-25%",
+            "B.代谢性酸中毒",
+            "C.中度氮质血症",
+            "D.多尿、夜尿",
+            "E.乏力和轻度贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "22.慢性肾衰终末尿毒症阶段时内生性肌酐清除率下降至正常值的百分之多少？",
+        "options": [
+            "A.30%以上",
+            "B.25-30%",
+            "C.20-25%",
+            "D.20%以下",
+            "E.10%以下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "23.慢性肾衰竭患者一般不会出现",
+        "options": [
+            "A.夜尿",
+            "B.多尿",
+            "C.少尿",
+            "D.高渗尿",
+            "E.蛋白尿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "24.多尿，是指 24 小时尿量超过",
+        "options": [
+            "A.1000ml",
+            "B.1500ml",
+            "C.2000ml",
+            "D.2500ml",
+            "E.3000ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "25.少尿是指 24 小时尿量少于",
+        "options": [
+            "A.2000ml",
+            "B.1000ml",
+            "C.800ml",
+            "D.400ml",
+            "E.100ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "26.慢性肾衰时患者出现低渗尿，其相对密度比重最高只能达到",
+        "options": [
+            "A.1.01",
+            "B.1.015",
+            "C.1.O2",
+            "D.1.O25",
+            "E.1.03"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "27.慢性肾衰竭患者尿相对密度固定在 1.010 左右说明肾脏",
+        "options": [
+            "A.浓缩功能下低",
+            "B.稀释功能降低",
+            "C.重吸收功能降低",
+            "D.滤过与重吸收功能受损",
+            "E.浓缩与稀释功能障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "28.慢性肾衰竭的早期常发生",
+        "options": [
+            "A.代谢性碱中毒",
+            "B.呼吸性碱中毒",
+            "C.呼吸性酸中毒",
+            "D.高血氯性酸中毒",
+            "E.正常血氯性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "29.慢性肾衰竭晚期发生代谢性酸中毒主要机制是",
+        "options": [
+            "A.CFR 功能降低致非挥发酸排出↓",
+            "B.肾小管泌 H+↓产氨↓",
+            "C.肾小管重吸收 HCO3-阈值↓",
+            "D.高钾血症影响",
+            "E.乳酸生成↑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "30.慢性肾衰竭常出现的钙磷代谢紊乱是",
+        "options": [
+            "A.血磷↑，血钙↑",
+            "B.血磷↑，血钙↓",
+            "C.血磷↓，血钙↑",
+            "D.血磷↓，血钙↓",
+            "E.血磷正常，血钙↑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "31.产生肾素依赖性高血压的主要机制是",
+        "options": [
+            "A.钠水潴留",
+            "B.外周阻力增加",
+            "C.心输出量增加",
+            "D.血液粘度增加",
+            "E.扩血管物质减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "32.产生钠依赖性高血压的主要机制是",
+        "options": [
+            "A.钠水潴留，血容量增加",
+            "B.血管收缩，外周阻力增加",
+            "C.心率加快，心输出量增加",
+            "D.扩血管物质减少",
+            "E.血液粘度增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "33.慢性肾衰竭引起患者出血倾向的主要原因是",
+        "options": [
+            "A.凝血因子消耗过多",
+            "B.抑制血小板第三因子释放",
+            "C.血小板数量减少",
+            "D.FDP 的抗凝血作用",
+            "E.继发性纤溶活性增强"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "34.下述哪--因素不是肾性骨营养不良的发病因素？",
+        "options": [
+            "A.低钙血症",
+            "B.高磷血症",
+            "C.继发性甲状旁腺功能亢进",
+            "D.维生素 D 代谢障碍",
+            "E.碱中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "35.肾性骨营养不良的常见病理组织学类型不包括",
+        "options": [
+            "A.骨质疏松",
+            "B.骨硬化",
+            "C.骨软化",
+            "D.肾性佝偻病",
+            "E.骨质增生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "36.慢性肾衰竭患者出现继发性甲状旁腺功能亢进的主要原因是",
+        "options": [
+            "A.低血磷",
+            "B.低血钙",
+            "C.高血钾",
+            "D.尿毒症毒素",
+            "E.氮质血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "37.有关尿毒症性脑病的病理和临床表现，哪一项是错误的？",
+        "options": [
+            "A.早期表现为大脑兴奋",
+            "B.晚期可嗜睡与昏迷",
+            "C.脑实质可出血、水肿",
+            "D.神经细胞变性",
+            "E.胶质细胞增生"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "38.有关尿毒症心包炎的描述哪一项是错误的？",
+        "options": [
+            "A.为纤维素性心包炎",
+            "B.可听到心包磨擦音",
+            "C.是由尿毒症性毒素刺激所致",
+            "D.多发病于慢性肾衰早期",
+            "E.及时透析疗法效果较好"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "39.尿毒症时最早最突出症状是",
+        "options": [
+            "A.尿毒症脑病",
+            "B.消化系统症状",
+            "C.心律紊乱",
+            "D.尿毒症肺炎",
+            "E.皮肤瘙痒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "40.尿毒症患者呼出气体有臭味其原因是",
+        "options": [
+            "A.细菌在口腔繁殖产生臭气",
+            "B.酮体生成增多而丙酮呼出",
+            "C.产生硫醇从呼吸道排出",
+            "D.过度换气时呼出 CO2",
+            "E.尿素在口腔分解产生氨"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "41.治疗严重慢性肾衰竭与尿毒症最根本的方法是",
+        "options": [
+            "A.治疗原发病",
+            "B.控制感染",
+            "C.纠正水电解质、酸碱紊乱",
+            "D.透析疗法",
+            "E.肾移植"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "42.引起急性肾功能不全肾后性因素是",
+        "options": [
+            "A.高胆红素血症",
+            "B.挤压伤",
+            "C.前列腺肥大",
+            "D.血红蛋白性肾病",
+            "E.磺胺中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪一项不是急性肾功能不全少尿的主要机制？",
+        "options": [
+            "A.肾缺血",
+            "B.肾小管阻塞",
+            "C.肾小管原尿返流",
+            "D.有效滤过压下降",
+            "E.肾小球超滤系数增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "44.慢性肾功能不全时，血磷增高可引起",
+        "options": [
+            "A.ATP 生成减少",
+            "B.PTH 减少",
+            "C.肠道吸收钙减少",
+            "D.红细胞内 2，3-DPG 减少",
+            "E.血红蛋白氧离曲线左移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

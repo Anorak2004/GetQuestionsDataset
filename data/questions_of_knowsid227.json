@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1.关于浆膜积液的叙述，下列哪项是错误的？",
+        "options": [
+            "A.浆膜腔是指胸腔、腹腔、心包腔等",
+            "B.由局部组织发炎所致的炎性积液称为渗出液",
+            "C.全身疾病如中毒、缺氧也可引起渗出液",
+            "D.肾病可以引起的积液属漏出液",
+            "E.肝硬化腹水可以为漏出液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "2.为了解浆膜腔液的性质而进行的化验检查，称为:",
+        "options": [
+            "A.浆膜腔液检查",
+            "B.病理检查",
+            "C.细胞学检查",
+            "D.化学检查",
+            "E.体格检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常人可见:",
+        "options": [
+            "A.协同凝集试验阳性",
+            "B.乙型脑炎病毒抗原测定阳性",
+            "C.Pandy试验阴性",
+            "D.墨汁染色阳性",
+            "E.脑脊液中氯化物明显减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于浆膜腔滤出液的形成下列哪些是正确的？",
+        "options": [
+            "A.血管内外液体交换失去平衡，回流液多于生成的组织液",
+            "B.水钠潴留使细胞内液增多也是原因之一",
+            "C.血管胶体渗透压主要取决于血清白蛋白的浓度",
+            "D.血管内压力降低",
+            "E.淋巴回流通畅"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "5.浆膜腔浆液性渗出液常见于下列哪种疾病？",
+        "options": [
+            "A.转移癌早期",
+            "B.化脓性胸膜炎",
+            "C.结核性胸膜炎",
+            "D.血吸虫肝硬化",
+            "E.心力衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "6.腹腔渗出液多见于以下哪种疾病？",
+        "options": [
+            "A.结核性腹膜炎",
+            "B.慢性心功能不全",
+            "C.重度营养不良",
+            "D.肾病综合症",
+            "E.肝硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "7.引起胸腔积液最常见的原因是:",
+        "options": [
+            "A.化脓性胸膜炎",
+            "B.结核性胸膜炎",
+            "C.癌性胸膜炎",
+            "D.缩窄性心包炎",
+            "E.肾病综合症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "8.腹腔渗出液见于以下哪种疾病？",
+        "options": [
+            "A.结核性腹膜炎",
+            "B.肝硬化",
+            "C.重度营养不良",
+            "D.肾病综合症",
+            "E.慢性心功能不全"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "9.有关漏出性胸腔积液不正确的是:",
+        "options": [
+            "A.见于心衰、肝硬化与肾病",
+            "B.恶性肿瘤",
+            "C.血浆蛋白量降低",
+            "D.多伴有水肿",
+            "E.胸液比重<1.018，蛋白含量<25g/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "10.肝硬化并发原发性腹膜炎腹腔积液的特点是:",
+        "options": [
+            "A.漏出液",
+            "B.渗出液",
+            "C.血性液",
+            "D.乳糜液",
+            "E.介于漏出液与渗出液之间"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "11.腹腔内渗出液常见于:",
+        "options": [
+            "A.结核性腹膜炎",
+            "B.肝硬变",
+            "C.心功能不全",
+            "D.肾病综合症",
+            "E.重度营养不良"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "12.哪项不是漏出液的常见病因？",
+        "options": [
+            "A.肝硬化",
+            "B.肾病综合症",
+            "C.心力衰竭",
+            "D.结核病",
+            "E.重度营养不良"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "13.浆膜腔积液的量可因病情而异，可以是:",
+        "options": [
+            "A.数毫升",
+            "B.数百毫升",
+            "C.数千毫升",
+            "D.数毫升至数千毫升",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "14.符合渗出液的是:",
+        "options": [
+            "A.淡黄色透明",
+            "B.比重小于1.018",
+            "C.放置后自凝",
+            "D.粘蛋白定性阴性",
+            "E.细胞数低于500×106/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "15.浆膜腔积液的颜色变化原因多种多样，可以是:",
+        "options": [
+            "A.红色可由肿瘤性出血引起",
+            "B.乳白色见于胸导管或淋巴管破裂",
+            "C.绿色见于绿脓杆菌感染",
+            "D.淡黄色透亮可见于漏出液",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "16.由绿脓杆菌引起的渗出液特点是:",
+        "options": [
+            "A.积液浓稠而色深",
+            "B.积液多稀薄呈淡黄色",
+            "C.积液脓稠而带绿色",
+            "D.积液浓稠",
+            "E.脓液无臭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "17.以下符合渗出液的是:",
+        "options": [
+            "A.淡黄色，透明",
+            "B.比重<1.018",
+            "C.细胞数<500×106/",
+            "D.粘蛋白定性试验（-）",
+            "E.放置后自凝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "18.哪项不是漏出液的特点:",
+        "options": [
+            "A.比重<1.018",
+            "B.能自凝",
+            "C.细胞计数<100×106/L",
+            "D.粘蛋白定性阴性",
+            "E.葡萄糖定量与血糖相近"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "19.结核性胸腔积液不正确的是:",
+        "options": [
+            "A.多呈草绿色，易凝固",
+            "B.比重>1.018",
+            "C.蛋白含量>30g/L",
+            "D.葡萄糖与血糖相近",
+            "E.细胞成分以淋巴细胞为主"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "20.不符合渗出液者为:",
+        "options": [
+            "A.穿刺液自凝",
+            "B.呈现不同颜色或混浊",
+            "C.Rivalta试验（-）",
+            "D.比重>1.018",
+            "E.细胞数>500×106/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "21.Rivalta试验阳性反应，与下列哪项蛋白有关？",
+        "options": [
+            "A.球蛋白",
+            "B.白蛋白",
+            "C.总蛋白",
+            "D.浆膜粘蛋白",
+            "E.β2-微球蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "22.浆膜腔穿刺液中的葡萄糖含量:",
+        "options": [
+            "A.与血糖近似",
+            "B.比血糖高",
+            "C.比血糖低",
+            "D.等于血糖浓度",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "23.浆膜腔滤出液中下列哪种成分与血清中含量相似？",
+        "options": [
+            "A.氯化物",
+            "B.葡萄糖",
+            "C.尿素",
+            "D.钙",
+            "E.白蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "24.由淋巴瘤或结核所引起渗出液特点是:",
+        "options": [
+            "A.深黄色",
+            "B.鲜红色",
+            "C.乳白色",
+            "D.绿色",
+            "E.淡黄色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "25.浆膜腔穿刺液的透明度改变，主要原因是",
+        "options": [
+            "A.漏出液中含有大量细菌",
+            "B.漏出液中含有大量的纤维蛋白原",
+            "C.漏中液中含有大量的细胞成分",
+            "D.漏出液含有大量的白蛋白",
+            "E.渗出液中含有较多的细胞、细菌成分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "26.Rivalta试验的临床意义是:",
+        "options": [
+            "A.漏出液为阳性反应",
+            "B.渗出液为阴性反应",
+            "C.漏出液为阴性反应，渗出液为阳性反应",
+            "D.漏出液为阳性反应，渗出液为阴性反应",
+            "E.以上都对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "27.结核性积液检查时可出现:",
+        "options": [
+            "A.黏蛋白试验阴性",
+            "B.蛋白定量试验>25g/L",
+            "C.溶菌酶检查积液/血清比值>1",
+            "D.CEA酶联免疫法>5微克/L",
+            "E.葡萄糖含量正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "28.SLE积液检查时可出现:",
+        "options": [
+            "A.黏蛋白试验阴性",
+            "B.蛋白定量试验>25g/L",
+            "C.溶菌酶检查积液/血清比值>1",
+            "D.CEA酶联免疫法>5微克/L",
+            "E.葡萄糖含量正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "29.恶性肿瘤检查时可出现:",
+        "options": [
+            "A.黏蛋白试验阴性",
+            "B.蛋白定量试验>25g/L",
+            "C.溶菌酶检查积液/血清比值>1",
+            "D.CEA酶联免疫法>5微克/L",
+            "E.葡萄糖含量正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "30.脓性渗出物标本，肉眼观察浓稠，带黄绿色，Rivalta试验强阳性，细胞计数成堆聚积，此时需要做哪项检验才能作出决定性诊断？",
+        "options": [
+            "A.不需要",
+            "B.生化测糖",
+            "C.直接涂片染色，找细菌",
+            "D.作蛋白定量",
+            "E.氯测定"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "31.病理情况下，脉络膜从发生通透性改变，各类蛋白可滤出，滤出的以哪些蛋白为主？",
+        "options": [
+            "A.以小分子蛋白质为主",
+            "B.以微量高分子蛋白质为主",
+            "C.以总蛋白为主",
+            "D.以大分子蛋白质为主",
+            "E.以白蛋白为主"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "32.浆膜腔渗出液中主要含下列哪种特殊蛋白质？",
+        "options": [
+            "A.白蛋白",
+            "B.血红蛋白",
+            "C.黏蛋白",
+            "D.球蛋白",
+            "E.总蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "33.Pandy试验检查下列哪一种蛋白？",
+        "options": [
+            "A.血红蛋白",
+            "B.白蛋白",
+            "C.总蛋白",
+            "D.球蛋白",
+            "E.粘蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "34.癌胚抗原测定用于鉴别恶性与良性积液的界限是:",
+        "options": [
+            "A.10μg/L",
+            "B.8μg/L",
+            "C.6μg/L",
+            "D.5μg/L",
+            "E.3μg/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "35.关于胸腔积液的测定，错误的含量是:",
+        "options": [
+            "A.细菌感染引起的胸腔积液，糖降低",
+            "B.癌性胸腔积液中糖含量与血糖相似",
+            "C.癌细胞广泛浸润胸膜时，积液中糖含量增高",
+            "D.癌性胸腔积液时，乳酸脱氢酶增高",
+            "E.癌性胸腔积液时，淀粉酶活性增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "36.胸腔积液中乳酸脱氢酶活性最高的疾病是:",
+        "options": [
+            "A.结核性胸膜炎",
+            "B.化脓性胸膜炎",
+            "C.癌性胸膜炎",
+            "D.心力衰竭",
+            "E.肝硬化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列胸腔积液中，哪种乳酸脱氢酶（LDH）活性最高？",
+        "options": [
+            "A.漏出液",
+            "B.脓性积液",
+            "C.癌性积液",
+            "D.结核性积液",
+            "E.乳糜性积液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "38.腹腔积液中乳酸脱氢酶活性在下列哪种疾病中活性最高？",
+        "options": [
+            "A.肝硬化",
+            "B.腹膜癌",
+            "C.充血性心力衰竭",
+            "D.肾病综合症",
+            "E.重度营养不良"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "39.结核性积液下列哪项指标可明显增高？",
+        "options": [
+            "A.LDH",
+            "B.淀粉酶",
+            "C.ALP",
+            "D.纤维连接蛋白",
+            "E.溶菌酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "40.漏出液以哪种细胞为主？",
+        "options": [
+            "A.中性粒细胞",
+            "B.淋巴细胞",
+            "C.单核细胞",
+            "D.嗜酸性粒细胞",
+            "E.嗜碱性粒细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "41.关于浆膜腔穿刺液的说法哪项是正确的？",
+        "options": [
+            "A.漏出液细胞数常低于100×106/L",
+            "B.渗出液细胞数常高于500×106/L以上者",
+            "C.无绝对界限",
+            "D.漏出液Rivalta试验阴性",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "42.渗出液细胞计数一般为:",
+        "options": [
+            "A.小于300×106/L",
+            "B.小于400×106/L",
+            "C.小于200×106/L",
+            "D.小于100×106/L",
+            "E.大于500×106/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "43.漏出液的细胞计数多低于:",
+        "options": [
+            "A.100×106/L",
+            "B.400×106/L",
+            "C.200×106/L",
+            "D.300×106/L",
+            "E.500×106/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "44.某老年胸腔积液患者，胸水常规检查:比重1.020，蛋白定量30g/L，细胞总数100×109/L，白细胞500×106/L，细菌培养阴性，该胸水应考虑是:",
+        "options": [
+            "A.乳糜性胸腔积液",
+            "B.化脓性胸腔积液",
+            "C.漏出性胸腔积液",
+            "D.血性胸腔积液",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

@@ -1,0 +1,576 @@
+[
+    {
+        "question_text": "1.\t患者女性，16岁。有周期性腹痛，无发热，超 声检查发现阴道扩张，气体线消失，内见一 80mm X40mm的椭圆形液暗区，有完整边界，内见密集 细小光点，双侧卵巢未见异常。首先考虑为：",
+        "options": [
+            "A.\t盆腔脓肿",
+            "B.\t处女膜闭锁",
+            "C.\t卵巢囊肿",
+            "D.\t盆腔积液",
+            "E.\t巴氏腺囊肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t盆腔子宫内膜异位症最常见的部位是：",
+        "options": [
+            "A.\t卵巢",
+            "B.\t膀胱",
+            "C.\t道格拉斯窝",
+            "D.\t宫骶韧带",
+            "E.\t腹部瘢痕"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t关于黄素囊肿以下哪些正确：B (B)①多与滋养 细胞肿瘤伴发；②多呈单房；③多为双侧性；④其 大小常不超过",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t患者女性，25岁。无临床症状，婚前检查时， 超声发现左卵巢内有一, 30mm X 20mm的肿块，边界 清，内被一水平分界线分成两部分，上部分呈均匀 高回声，下部分呈液暗区。首先考虑为：",
+        "options": [
+            "A.\t巧克力囊肿",
+            "B.\t黏液性囊腺瘤",
+            "C.\t畸胎瘤",
+            "D.\t浆液性囊腺瘤",
+            "E.\t滤泡囊肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t输卵管积水的特征性声像图是：",
+        "options": [
+            "A.\t宫旁曲颈瓶状或藕节状液暗区",
+            "B.\t子宫增大",
+            "C.\t道格拉斯窝积液",
+            "D.\t超声探头压痛阳性",
+            "E.\t宫旁实质性低回声肿块"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t突起剧烈腹痛的年轻女性病人超声检查发现盆腔 大量积液，首先应考虑的疾病是：①黄体破裂；② 急性盆腔炎；③宫外孕破裂；④排卵期积液",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t下列异位妊娠中，最常见的是：",
+        "options": [
+            "A.\t阔韧带妊娠",
+            "B.\t子宫颈妊娠",
+            "C.\t腹腔妊娠",
+            "D.\t宫角妊娠",
+            "E.\t输卵管妊娠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t子官内膜良性侵入子宫肌层称为：",
+        "options": [
+            "A.\t巧克力囊肿",
+            "B.\t盆腔炎性病变",
+            "C.\t子宫肌腺症",
+            "D.\t子宫内膜癌",
+            "E.\t子宫肌瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t超声预示即将排卵的声像图是：",
+        "options": [
+            "A.\t卵泡张力高，透声好，直径20mm左右",
+            "B.\t卵泡外周有回声晕圈",
+            "C.\t卵泡内膜变成锯齿状",
+            "D.\t卵泡向卵巢边缘靠近",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t通常超声测量子宫纵径的方法正确的是：",
+        "options": [
+            "A.\t宫底浆膜层到宫颈内口的距离",
+            "B.\t子宫内膜线的长度",
+            "C.\t宫底浆膜层到宫颈外口的距离",
+            "D.\t子官最长径",
+            "E.\t宫底黏膜层到宫内口的距离"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t年轻女子，子宫三径小，宫体长度：宫颈长度 为1： 2，内膜线可见。则该子宫应为：",
+        "options": [
+            "A.\t幼稚型子宫",
+            "B.\t未产型子官",
+            "C.\t经产型子宫",
+            "D.\t成人子宫",
+            "E.\t畸形子宫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t子宫内膜异位症常见而突出的临床症状是：",
+        "options": [
+            "A.\t痛经",
+            "B.\t月经量过多",
+            "C.\t不孕症",
+            "D.\t性交痛及后骶部坠胀",
+            "E.\t膀胱刺激症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t正常情况下，超声不能显示输卵管，下列情况 中可较清晰显示的是：①盆腔内有腹水衬托；②输 卵管水肿；③输卵管积水；④卵巢囊肿",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t超声判断宫内节育器位置正常的标准是：①节 育器在肌层内；②节育器在宫腔内；③节育器在宫 颈内；④宫腔内节育器上缘与宫底间距离为17— 20mm",
+        "options": [
+            "A.①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列选项中不是良性畸胎瘤的特征性表现的一 项是：",
+        "options": [
+            "A.\t面团征",
+            "B.\t脂液分层征",
+            "C.\t发团征",
+            "D.\t冰山尖顶征",
+            "E.\tWES 征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t较大的肌瘤内部出现边界模糊的无回声区，应 考虑：",
+        "options": [
+            "A.\t玻璃样变",
+            "B.\t囊性变",
+            "C.\t红色变",
+            "D.\t脂肪变",
+            "E.\t肉瘤变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t肌瘤内部出现边界清晰的无回声区，应考虑：",
+        "options": [
+            "A.\t玻璃样变",
+            "B.\t囊性变",
+            "C.\t红色变",
+            "D.\t脂肪变",
+            "E.\t肉瘤变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t脉冲多普勒检测卵巢恶性肿瘤流速曲线特点多 为：",
+        "options": [
+            "A.\t中速中阻",
+            "B.\t高速高阻",
+            "C.\t低速高阻",
+            "D.\t低速低阻",
+            "E.\t高速低阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t对巧克力囊肿的典型声像图的描述中，错误的 是：",
+        "options": [
+            "A.\t囊壁厚",
+            "B.\t壁不光滑",
+            "C.\t囊内充满均匀细小光点或出现高回声团或出现杂 乱回声",
+            "D.\t可出现多个不规则或类圆形无回声区",
+            "E.\t脂液分层征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t声像图上右侧附件区见单房囊性肿块，边界清 晰，透声佳。应考虑为：",
+        "options": [
+            "A.\t多囊卵巢",
+            "B.\t畸胎瘤",
+            "C.\t纤维瘤",
+            "D.\t囊腺瘤",
+            "E.\t卵巢囊肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t声像图上双侧卵巢增大，内见多个大小相似的 小圆形液暗区，直径小于10mm0诊断应考虑为：",
+        "options": [
+            "A.\t多囊卵巢",
+            "B.\t畸胎瘤",
+            "C.\t纤维瘤",
+            "D.\t囊腺瘤",
+            "E.\t卵巢囊肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t引起妇女腹部膨隆的常见原因有：①腹膜后巨 大肿块；②过度肥胖；③腹水；④巨大的卵巢囊肿",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t道格拉斯窝是指：",
+        "options": [
+            "A.\t膀胱与直肠腹膜陷凹",
+            "B.\t子宫与膀胱腹膜陷凹",
+            "C.\t直肠与子宫腹膜陷凹",
+            "D.\t骶骨与直肠腹膜陷凹",
+            "E.\t直肠旁腹膜陷凹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t超声发现盆腔肿瘤附近的膀胱壁黏膜增厚，应 考虑为：",
+        "options": [
+            "A.\t淋巴结肿大",
+            "B.\t膀胱炎",
+            "C.\t盆腔炎症",
+            "D.\t肿瘤浸润膀胱",
+            "E.\t膀胱水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t与早期妊娠伴随的最常见的盆腔肿块是：",
+        "options": [
+            "A.\t多囊卵巢",
+            "B.\t畸胎瘤",
+            "C.\t巧克力囊肿",
+            "D.\t黄体囊肿",
+            "E.\t黄素囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t正常育龄妇女的卵巢大小为：",
+        "options": [
+            "A.\t1cmX3cmX4cm",
+            "B.\tl.5crnX 1.5cmX l.5cm",
+            "C.\t2cmX3cmX4cm",
+            "D.\t2cmX4cmX5cm",
+            "E.\t3cmX 3cmX 4cm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t子宫肌瘤的声像图特点包括：①肌瘤多呈低回 声团块，典型的内部回声呈漩涡状；②肿块周围可 见假包膜形成的低回声晕圏；③大的肌瘤或多发肌 瘤可使子宫增大，形态失常；④浆膜下肌瘤使子宫 变形，靠近黏膜的肌瘤可使内膜移位",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t下列选项中，不属于卵巢非赘生性囊肿的是：",
+        "options": [
+            "A.\t黄体囊肿",
+            "B.\t卵泡囊肿",
+            "C.\t多囊卵巢",
+            "D.\t皮样囊肿",
+            "E.\t巧克力囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t库肯勃瘤是：",
+        "options": [
+            "A.\t良性卵巢肿瘤",
+            "B.\t原发于胃肠道卵巢转移性肿瘤",
+            "C.\t囊性肿瘤",
+            "D.\t子宫肌瘤红色变",
+            "E.\t纤维瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t卵巢肿瘤考虑为恶性肿瘤时，一般有的声像图 表现是：①形态不规则；②囊壁不规则增厚，呈乳 头样突入囊腔；③腹水；④随访中肿块明显增大",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t卵巢赘生性囊肿主要包括：①浆液性囊腺瘤；②黏液性囊腺瘤；③皮样囊肿；④黄素囊肿",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t一位女病人流产后半年，近来阴道不规则出 血，超声发现子宫增大，肌层回声不均匀，并可见 蜂窝状无回声区，CDFI示血供增多，HCG增高。首 先应考虑是：",
+        "options": [
+            "A.\t绒癌",
+            "B.\t部分性葡萄胎",
+            "C.\t不全流产",
+            "D.\t子宫腺肌症",
+            "E.\t子宫肌层内血肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t成熟卵泡的声像图特点为：①直径为20mm左 右；②外形饱满，壁薄而清晰；③移向卵巢表面， 并向外突出；④有时卵泡内可见金字塔形卵丘",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t提示已经排卵的超声表现有：①主卵泡消失； ②主卵泡缩小，内壁塌陷；③缩小的主卵泡内有细 弱光点；④50%以上病人有道格拉斯窝积液",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t多囊卵巢综合征的临床表现为多毛、肥胖、月 经稀少，甚至闭经和不孕，超声表现为：①双侧卵 巢增大；②卵巢内见多个大小不等的圆形无回声区，数目＞10个，直径多数V5mm；③卵泡壁增 厚；④卵巢髓质面积增大，回声增高",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t成年妇女正常子宫纵径、横径、前后径的超声 测值为（单位：cm）:",
+        "options": [
+            "A.\t5.5?7.5,\t4.5?5.5,\t3.0?4.0",
+            "B.\t4.5?5.5,\t5.5?7.5,\t3.0?4.0",
+            "C.\t5.5?7.5,\t3.0?4.0,\t4.5?5.5",
+            "D",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t子宫肌瘤最常见的声像图表现为:",
+        "options": [
+            "A外形不规则，宫区出现强光团 外形不规则，宫区出现不规则液",
+            "B外形规整，宫区出现结节状回声 外形规整，宫区光点弥漫性分布",
+            "C子宫体积增大，外形不规则，宫区出现团块状回",
+            "D",
+            "E"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t下列子宫发育异常中，超声无法显示的是：",
+        "options": [
+            "A.\t先天性无子宫",
+            "B.\t幼稚子宫",
+            "C.\t双子宫",
+            "D.\t双角子官",
+            "E.\t纵隔子宫"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t子宫内膜线是：",
+        "options": [
+            "A.\t子宫底与子宫颈的分界线",
+            "B.\t子宫壁之间的最宽径",
+            "C.\t声像图上子宫中心所见一条线",
+            "D.\t子宫内容物与子宫外盆腔内容物分界线",
+            "E.\t以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t绝经后子宫肌瘤迅速增大，内部回声不均匀, 边界不规则，应考虑为：",
+        "options": [
+            "A.\t肌瘤正常增大",
+            "B.\t肌瘤恶变",
+            "C.\t肌瘤脂肪变性",
+            "D.\t肌瘤红色变性",
+            "E.\t肌瘤继发感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t卵巢最少见的生理性囊肿是：",
+        "options": [
+            "A.\t黄体囊肿",
+            "B.\t滤泡囊肿",
+            "C.\t卵巢冠囊肿",
+            "D.\t黄素囊肿",
+            "E.\t巧克力囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 41
+    }
+]

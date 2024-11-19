@@ -1,0 +1,2130 @@
+[
+    {
+        "question_text": "1.正常人一天中体温最高是",
+        "options": [
+            "A.凌晨2-6点",
+            "B.下午1-6点",
+            "C.中午12点",
+            "D.晚6-9点",
+            "E.上午10-12点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于体温哪项是错误的？",
+        "options": [
+            "A.正常人一天之中体温波动不超过1℃",
+            "B.妇女在月经期体温会轻度升高",
+            "C.进餐可引起体温轻度升高",
+            "D.心机梗死后会出现发热",
+            "E.安眠药中毒可导致中枢性发热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 2
+    },
+    {
+        "question_text": "3.临床上对于婴幼儿及神志不清者，常选择以下哪种体温测量法？",
+        "options": [
+            "A.口测法",
+            "B.肛测法",
+            "C.腋测法",
+            "D.肛测法或腋测法",
+            "E.口测法或腋测法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 3
+    },
+    {
+        "question_text": "4.有关体温测定下列哪项不正确？",
+        "options": [
+            "A.正常口腔温度36.5～37.5℃",
+            "B.正常肛温比口温高0.3～0.5℃",
+            "C.正常腋温36～37℃",
+            "D.一日内体温可波动不超过1℃",
+            "E.腋温应测10分钟"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 4
+    },
+    {
+        "question_text": "5.正常人体温常有变动，下列说法错误的是？",
+        "options": [
+            "A.妇女排卵后体温较高",
+            "B.妇女月经期体温较高",
+            "C.运动后体温略高",
+            "D.进食后体温略高",
+            "E.老年人体温略低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于体温的叙述哪项不正确？",
+        "options": [
+            "A.成人体温腋测法正常值为36～37℃",
+            "B.口腔体温（舌下）比肛测法高0.3～0.5℃",
+            "C.成人24小时内体温波动应小于1℃",
+            "D.妇女月经前及妊娠期体温稍高",
+            "E.体温正常值有个体差异"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于体温的叙述不正确的是？",
+        "options": [
+            "A.腋测法置体温计测量10min",
+            "B.口测法置体温计测试5min",
+            "C.肛测法置体温计深入肛门3cm",
+            "D.肛测法多用于小儿和神志不清者",
+            "E.口测法测温较可靠，腋测法安全、方便"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 7
+    },
+    {
+        "question_text": "8.腋测法体温正常值是:",
+        "options": [
+            "A.35.5～36.5℃",
+            "B.36.0～37.0℃",
+            "C.37.0～37.5℃",
+            "D.36.5～37.5℃",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 8
+    },
+    {
+        "question_text": "9.测量体温时，错误的做法是:",
+        "options": [
+            "A.将腋窝汗液擦干",
+            "B.体温计附近不能有热水袋",
+            "C.检查前将体温计的汞柱甩到36℃以下",
+            "D.测体温时不能饮大量冰水",
+            "E.体温表放置腋窝处5分钟读数"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于体温的叙述不正确的是哪项？",
+        "options": [
+            "A.口腔温度比肛温高0.5℃",
+            "B.成人腋温正常值为36.0～37.0℃",
+            "C.剧烈运动体温稍高",
+            "D.体温正常值有个体差异",
+            "E.妇女排卵期体温稍高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 10
+    },
+    {
+        "question_text": "11.肛测法体温正常值是:",
+        "options": [
+            "A.36～37℃",
+            "B.36.3～37.2℃",
+            "C.36～37.5℃",
+            "D.36.5～37.7℃",
+            "E.36.5～37℃"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 11
+    },
+    {
+        "question_text": "12.正常人肛测体温一般比口测值高:",
+        "options": [
+            "A.0.1～0.4℃",
+            "B.0.2～0.5℃",
+            "C.0.3～0.5℃",
+            "D.0.3～0.6℃",
+            "E.0.3～0.7℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 12
+    },
+    {
+        "question_text": "13.正常人体温可有波动，但24小时内波动幅度一般不超过多少度？",
+        "options": [
+            "A.0.5℃",
+            "B.1℃",
+            "C.1.5℃",
+            "D.2℃",
+            "E.＞2℃"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 13
+    },
+    {
+        "question_text": "14.正常人的体温在24小时内有波动，下午体温较早晨稍高，剧烈运动、劳动或进餐后体温也可略升高，但一般波动范围应不超过:",
+        "options": [
+            "A.0.3",
+            "B.0.5",
+            "C.0.7",
+            "D.1",
+            "E.1.5"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪种情况不会出现体温升高？",
+        "options": [
+            "A.剧烈运动后",
+            "B.进餐后",
+            "C.在高温环境下",
+            "D.劳动后",
+            "E.妇女的排卵期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 15
+    },
+    {
+        "question_text": "16.正常的成年人，清晨安静状态下，肛门内体温测量值:",
+        "options": [
+            "A.应比口温高0.3～0.5℃",
+            "B.应比腋温高0.3～0.5℃",
+            "C.应比口温高0.5～1℃",
+            "D.应比腋温高0.5～1℃",
+            "E.应比口温低0.3～0.5℃"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 16
+    },
+    {
+        "question_text": "17.发热的机理是:",
+        "options": [
+            "A.最常见的是外源性致热源所致",
+            "B.最常见的是内源性致热源所致",
+            "C.最常见的是细菌直接作用于体温中枢所致",
+            "D.最常见的是外源性致热源与细菌共同作用与体温调节中枢的结果",
+            "E.是细菌或病毒产生的内源性致热源所致"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于发热不正确的说法是:",
+        "options": [
+            "A.抗原-抗体反应可引起发热",
+            "B.以正常人口腔温度为准对发热进行分度",
+            "C.疾病的热型可发生改变",
+            "D.大面积烧伤属于感染性发热",
+            "E.重症感染发热可伴皮肤粘膜出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列关于体温变化的叙述不正确的是:",
+        "options": [
+            "A.妇女月经期体温较高",
+            "B.青壮年体温较老年人高",
+            "C.剧烈运动体温可以升高",
+            "D.进餐后体温升高",
+            "E.孕妇体温较高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 19
+    },
+    {
+        "question_text": "20.正常人的体温保持相对恒定的调节中枢是:",
+        "options": [
+            "A.大脑皮质控制",
+            "B.大脑皮质和丘脑下部控制",
+            "C.通过交感神经控制",
+            "D.丘脑下部控制",
+            "E.脑干部控制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 20
+    },
+    {
+        "question_text": "21.正常人的体温保持相对恒定的调节中枢:",
+        "options": [
+            "A.大脑皮质控制",
+            "B.丘脑下部控制",
+            "C.下丘脑的产热中枢控制",
+            "D.大脑皮质和丘脑下部体温调节中枢控制",
+            "E.通过交感神经控制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 21
+    },
+    {
+        "question_text": "22.哪项因素调控正常人的体温，使其一般保持在36～37℃？",
+        "options": [
+            "A.大脑皮质的体温调节中枢",
+            "B.下丘脑后部的产热中枢",
+            "C.下丘脑前部的散热中枢",
+            "D.神经、体液因素调节产热和散热过程",
+            "E.以上各种因素均参与体温的调控"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 22
+    },
+    {
+        "question_text": "23.下列哪项不是非感染性发热的病因:",
+        "options": [
+            "A.无菌性坏死物质吸收",
+            "B.变态反应",
+            "C.病原体感染",
+            "D.自主神经功能紊乱",
+            "E.体温调解中枢功能失调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 23
+    },
+    {
+        "question_text": "24.感染性发热最常见的病原体是:",
+        "options": [
+            "A.病毒",
+            "B.肺炎支原体",
+            "C.真菌",
+            "D.细菌",
+            "E.寄生虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 24
+    },
+    {
+        "question_text": "25.引起发热最常见的物质是:",
+        "options": [
+            "A.细胞代谢主物",
+            "B.致热原",
+            "C.组织坏死物质",
+            "D.抗原抗体复合物",
+            "E.致炎物质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 25
+    },
+    {
+        "question_text": "26.属于感染性发热的疾病是:",
+        "options": [
+            "A.肝癌",
+            "B.斑疹伤寒",
+            "C.白血病",
+            "D.风湿热",
+            "E.广泛性皮炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 26
+    },
+    {
+        "question_text": "27.下列哪项不是感染性发热:",
+        "options": [
+            "A.肺炎发热",
+            "B.外伤发热",
+            "C.上感发热",
+            "D.无菌性坏死组织吸收热",
+            "E.疟疾发热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 27
+    },
+    {
+        "question_text": "28.外源性致热源，除外:",
+        "options": [
+            "A.细菌毒素",
+            "B.炎性渗出物",
+            "C.淋巴细胞激活因子",
+            "D.某些类固醇物质",
+            "E.白细胞介素-1"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项不属于外源性致热源？",
+        "options": [
+            "A.白细胞介素-1",
+            "B.淋巴细胞激活因子",
+            "C.无菌性坏死组织",
+            "D.炎性渗出物",
+            "E.抗原抗体复合物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪项不属于感染性发热？",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.支原体",
+            "D.变态反应",
+            "E.立克次体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列哪一项不属于感染性发热？",
+        "options": [
+            "A.流行性脑膜炎",
+            "B.细菌性痢疾",
+            "C.钩端螺旋体病",
+            "D.药物热",
+            "E.阿米巴脓肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 31
+    },
+    {
+        "question_text": "32.属于非致热源发热的是:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.疟疾",
+            "C.血吸虫",
+            "D.中暑",
+            "E.白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 32
+    },
+    {
+        "question_text": "33.哪项是内源性致热源？",
+        "options": [
+            "A.细菌、病毒或细菌毒素",
+            "B.坏死组织和炎性渗出物",
+            "C.从糖体、淋巴细胞激活因子",
+            "D.白细胞介素-1",
+            "E.抗原抗体复合物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 33
+    },
+    {
+        "question_text": "34.内源性致热源不包括:",
+        "options": [
+            "A.白细胞介素-1",
+            "B.干扰素",
+            "C.淋巴细胞激活因子",
+            "D.肿瘤坏死组织",
+            "E.巨噬细胞炎性蛋白-1"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 34
+    },
+    {
+        "question_text": "35.目前已明确的白细胞致热源不包括:",
+        "options": [
+            "A.白细胞介素-1",
+            "B.肿瘤坏死因子",
+            "C.干扰素",
+            "D.白细胞介素-6",
+            "E.抗原抗体复合物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪种疾病属于感染性发热？",
+        "options": [
+            "A.肺梗死",
+            "B.白血病",
+            "C.药物热",
+            "D.骨折",
+            "E.伤寒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列哪种疾病属于感染性低热？",
+        "options": [
+            "A.内出血",
+            "B.立克次体病",
+            "C.甲状腺功能亢进",
+            "D.重度脱水",
+            "E.慢性心力衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列属感染性发热的疾病是:",
+        "options": [
+            "A.肝癌",
+            "B.伤寒",
+            "C.白血病",
+            "D.脑出血",
+            "E.肢体坏死"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列不属于感染性发热的是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.肺脓肿",
+            "C.中暑",
+            "D.伤寒",
+            "E.流行性脑脊髄膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 39
+    },
+    {
+        "question_text": "40.非感染性发热不包括下列哪项:",
+        "options": [
+            "A.心肌梗死后低热",
+            "B.白血病",
+            "C.甲状腺功能亢进",
+            "D.流行性出血热",
+            "E.感染后低热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 40
+    },
+    {
+        "question_text": "41.不符合感染后低热的是:",
+        "options": [
+            "A.近期有病毒、细菌等感染",
+            "B.低热不退",
+            "C.感染已愈",
+            "D.体温＜38℃",
+            "E.幼儿夏季低热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列是常见的功能性低热，除外:",
+        "options": [
+            "A.原发性低热",
+            "B.变态反应性低热",
+            "C.感染后低热",
+            "D.夏季低热",
+            "E.生理性低热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 42
+    },
+    {
+        "question_text": "43.吸收热是:",
+        "options": [
+            "A.感染性发热",
+            "B.变态反应",
+            "C.体温调节中枢功能失常引起的发热",
+            "D.一种内分泌或代谢性疾病引起的发热",
+            "E.无菌性坏死组织吸收引起的发热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 43
+    },
+    {
+        "question_text": "44.吸收热常见于:",
+        "options": [
+            "A.大面积烧伤",
+            "B.中暑",
+            "C.重度安眠药中毒",
+            "D.血清病",
+            "E.立克次体病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 44
+    },
+    {
+        "question_text": "45.内热性致热源是:",
+        "options": [
+            "A.微生物",
+            "B.炎性渗出物",
+            "C.无菌性坏死组织",
+            "D.抗原抗体复合物",
+            "E.白细胞介素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 45
+    },
+    {
+        "question_text": "46.下列哪种疾病的发热属于中枢性发热？",
+        "options": [
+            "A.肺炎",
+            "B.脑出血",
+            "C.肺梗死",
+            "D.风湿热",
+            "E.心力衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 46
+    },
+    {
+        "question_text": "47.哪种物质直接作用于体温调节中枢引起发热？",
+        "options": [
+            "A.病原体产生的外源性致热原",
+            "B.病原体产生的内源性致热原",
+            "C.血液中白细胞产生的外源性致热原",
+            "D.血液中白细胞产生的内源性致热原",
+            "E.血液中白细胞及病原体的代谢产物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 47
+    },
+    {
+        "question_text": "48.能直接作用于体温调节中枢“调定点”上移，引起发热的:",
+        "options": [
+            "A.细菌产物",
+            "B.内毒素",
+            "C.炎性激活素",
+            "D.内源性致热原",
+            "E.外源性致热原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 48
+    },
+    {
+        "question_text": "49.能直接作用于体温调节中枢的物质是:",
+        "options": [
+            "A.白细胞致热源",
+            "B.细菌毒素",
+            "C.抗原抗体复合物",
+            "D.坏死物质",
+            "E.病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 49
+    },
+    {
+        "question_text": "50.体温过低一般不会出现下列哪项情况？",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.严重营养不良",
+            "C.在低温环境中暴露过久",
+            "D.慢性消耗性疾病",
+            "E.休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 50
+    },
+    {
+        "question_text": "51.因为疾病使体温低于36℃（口温）称为体温过低，主要见于下列哪一种情况？",
+        "options": [
+            "A.神志不清，不能将体温表夹紧",
+            "B.休克",
+            "C.体温附近有冰袋",
+            "D.测体温前半小时内进食",
+            "E.低温环境下暴露过久"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 51
+    },
+    {
+        "question_text": "52.体温调节中枢功能失常导致的发热，常见于:",
+        "options": [
+            "A.中暑",
+            "B.安眠药中毒",
+            "C.脑震荡",
+            "D.颅内压升高",
+            "E.甲亢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 52
+    },
+    {
+        "question_text": "53.体温上升期的表现有下列各种，但除外:",
+        "options": [
+            "A.皮肤发红",
+            "B.皮肤苍白",
+            "C.畏寒或寒战",
+            "D.疲乏无力",
+            "E.肌肉酸痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 53
+    },
+    {
+        "question_text": "54.体温上升期的表现一般不出现下列哪一项？",
+        "options": [
+            "A.肌肉酸痛",
+            "B.面色苍白",
+            "C.大汗淋漓",
+            "D.寒战",
+            "E.疲乏无力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 54
+    },
+    {
+        "question_text": "55.体温上升期临床表现为:",
+        "options": [
+            "A.皮肤潮红而灼热",
+            "B.畏寒或寒战、皮肤苍白无汗",
+            "C.呼吸加快、加强",
+            "D.心率减慢，脉搏有力",
+            "E.可有出汗，尿少色黄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列哪项不是发热时体温上升期的表现？",
+        "options": [
+            "A.疲乏无力",
+            "B.肌肉酸痛",
+            "C.皮肤苍白",
+            "D.出汗多，皮肤潮湿",
+            "E.畏寒或寒战"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 56
+    },
+    {
+        "question_text": "57.发热时伴寒战常见于:",
+        "options": [
+            "A.体温上升期",
+            "B.高热持续期",
+            "C.体温下降期",
+            "D.应用退热药后",
+            "E.间歇热的无热期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 57
+    },
+    {
+        "question_text": "58.可使体温骤升的疾病除外:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.败血症",
+            "C.流行性感冒",
+            "D.输液反应",
+            "E.伤寒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列能直接作用于体温调节中枢使体温上升的因素是:",
+        "options": [
+            "A.肿瘤坏死因子",
+            "B.病原体及其产物",
+            "C.炎症渗出物",
+            "D.无菌坏死组织",
+            "E.抗原抗体复合物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列属于产热过多引起发热的是:",
+        "options": [
+            "A.细菌感染",
+            "B.大面积烧伤",
+            "C.风湿热",
+            "D.甲状腺功能亢进",
+            "E.中暑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 60
+    },
+    {
+        "question_text": "61.下列哪些是产热过多所致的疾病:",
+        "options": [
+            "A.风湿热",
+            "B.血清病",
+            "C.药物热",
+            "D.结缔组织病",
+            "E.甲状腺功能亢进"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 61
+    },
+    {
+        "question_text": "62.甲状腺功能亢进症引起的发热主要是因为:",
+        "options": [
+            "A.产热过多",
+            "B.散热过少",
+            "C.抗原抗体反应",
+            "D.坏死物质吸收",
+            "E.自主神经功能紊乱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 62
+    },
+    {
+        "question_text": "63.脑出血引起的发热主要是因为:",
+        "options": [
+            "A.自主神经功能紊乱",
+            "B.体温调节中枢的功能失常",
+            "C.无菌性坏死物质的吸收",
+            "D.皮肤散热量的减少",
+            "E.感染性发热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪项不是自主神经功能紊乱所致的发热？",
+        "options": [
+            "A.原发性低热",
+            "B.夏季低热",
+            "C.感染后低热",
+            "D.体温调节中枢功能失常",
+            "E.生理性低热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 64
+    },
+    {
+        "question_text": "65.高热指体温在:",
+        "options": [
+            "A.38.0～39.0℃",
+            "B.37.5～38.5℃",
+            "C.37.5～38.5℃",
+            "D.39.1～41.0℃",
+            "E.41.0℃以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 65
+    },
+    {
+        "question_text": "66.低热是指体温在:",
+        "options": [
+            "A.36.3～37.0℃",
+            "B.37.0～37.3℃",
+            "C.37.3～38.0℃",
+            "D.37.0～38.0℃",
+            "E.37.3～38.2℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 66
+    },
+    {
+        "question_text": "67.中度发热的口腔温度是:",
+        "options": [
+            "A.37.0～37.2℃",
+            "B.37.3～38.0℃",
+            "C.38.1～39.0℃",
+            "D.39.1～41.0℃",
+            "E.41℃以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 67
+    },
+    {
+        "question_text": "68.正常的成年人，在清晨安静状态下，口腔体温应为:",
+        "options": [
+            "A.35.0～36.0℃",
+            "B.36.0～37.0℃",
+            "C.36.3～37.2℃",
+            "D.36.5～37.7℃",
+            "E.37.5～38.0℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 68
+    },
+    {
+        "question_text": "69.体温39.3℃，属于:",
+        "options": [
+            "A.正常体温",
+            "B.低热",
+            "C.中等度热",
+            "D.高热",
+            "E.超高热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 69
+    },
+    {
+        "question_text": "70.高热期的表现，除外",
+        "options": [
+            "A.寒战",
+            "B.皮肤发红",
+            "C.呼吸加快",
+            "D.有汗",
+            "E.皮肤灼热感"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 70
+    },
+    {
+        "question_text": "71.下列哪项是高热期的主要表现:",
+        "options": [
+            "A.肌肉酸痛",
+            "B.面色苍白",
+            "C.畏寒或寒战",
+            "D.皮肤发热并灼热",
+            "E.出汗多，皮肤潮湿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 71
+    },
+    {
+        "question_text": "72.不同的发热性疾病各具有相应热型，热型有助于发热病因的诊断和鉴别诊断，下列各因素中，哪一种不会改变热型",
+        "options": [
+            "A.抗生素的广泛应用",
+            "B.解热药的应用",
+            "C.肾上腺皮质激素的应用",
+            "D.个体反应性不同",
+            "E.发热伴随症状的多少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 72
+    },
+    {
+        "question_text": "73.热型是根据下列哪项决定的:",
+        "options": [
+            "A.体温的高低",
+            "B.体温的上升速度",
+            "C.体温的持续时间",
+            "D.体温的曲线形态",
+            "E.体温的波动幅度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 73
+    },
+    {
+        "question_text": "74.发热的体温曲线无定规律的是:",
+        "options": [
+            "A.回归热",
+            "B.波状热",
+            "C.不规则热",
+            "D.弛张热",
+            "E.稽留热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列关于弛张热的叙述正确的是:",
+        "options": [
+            "A.体温升至39.0～40.0℃，持续数天，降至正常",
+            "B.体温升至39℃以上，持续数小时，降至正常，后又升至39℃以上",
+            "C.体温常至39℃以上，24小时波动范围范围大于2℃，但都在正常以上",
+            "D.体温常至39℃以上，24小时波动范围范围小于2℃，均在正常以上",
+            "E.体温常至39℃以上，24小时波动范围范围小于1℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列关于弛张热的特点不正确的是:",
+        "options": [
+            "A.体温常在39℃以上",
+            "B.波动幅度大，24小时内波动范围超过2℃",
+            "C.体温可在正常水平以下",
+            "D.也称为败血症热型",
+            "E.可见于风湿热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 76
+    },
+    {
+        "question_text": "77.弛张热其体温一天波动范围在:",
+        "options": [
+            "A.2℃以上",
+            "B.3℃以上",
+            "C.1℃以上",
+            "D.1～2℃",
+            "E.0.5～1.5℃"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 77
+    },
+    {
+        "question_text": "78.下列哪种疾病不会出现驰张热？",
+        "options": [
+            "A.败血症",
+            "B.风湿热",
+            "C.重症肺结核",
+            "D.化脓性疾病",
+            "E.慢性肾盂肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 78
+    },
+    {
+        "question_text": "79.弛张热不见于:",
+        "options": [
+            "A.败血症",
+            "B.风湿热",
+            "C.重症肺结核",
+            "D.化脓性疾病",
+            "E.急性肾盂肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 79
+    },
+    {
+        "question_text": "80.弛张热一般不见于:",
+        "options": [
+            "A.斑疹伤寒",
+            "B.败血症",
+            "C.风湿热",
+            "D.重症性肺炎",
+            "E.化脓性肺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 80
+    },
+    {
+        "question_text": "81.稽留热是指:",
+        "options": [
+            "A.体温持续39℃持续1日",
+            "B.体温持续在39～40℃左右持续2天",
+            "C.体温持续39～40℃左右，持续几天到几周，一日内波动不超过1℃",
+            "D.体温升高达39℃，每日波动在2℃以上",
+            "E.体温持续升高达38℃，持续2天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 81
+    },
+    {
+        "question_text": "82.稽留热见于:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.疟疾",
+            "C.肾盂肾炎",
+            "D.中暑",
+            "E.风湿热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 82
+    },
+    {
+        "question_text": "83.稽留热的特点不包括:",
+        "options": [
+            "A.体温垣定的升高至39～40℃或以上",
+            "B.体温增高达数天或数周",
+            "C.24小时体温波动范围超过1℃以上",
+            "D.可见于大叶性肺炎",
+            "E.可伴有寒战"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 83
+    },
+    {
+        "question_text": "84.一脓毒败血症患者，最高体温达40.2℃，天内波动范围大，最低时为37.5℃，称为:",
+        "options": [
+            "A.弛张热",
+            "B.波动热",
+            "C.稽留热",
+            "D.间隙热",
+            "E.不规则热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 84
+    },
+    {
+        "question_text": "85.下列哪种疾病临床上常表现为稽留热？",
+        "options": [
+            "A.疟疾",
+            "B.风湿热",
+            "C.败血症",
+            "D.布鲁菌病",
+            "E.大叶性肺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 85
+    },
+    {
+        "question_text": "86.下列疾病中出现波状热的是:",
+        "options": [
+            "A.布氏杆菌病",
+            "B.霍奇金病",
+            "C.结核病",
+            "D.疟疾",
+            "E.斑疹伤寒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 86
+    },
+    {
+        "question_text": "87.疟疾的典型热型是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.回归热",
+            "E.波状热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 87
+    },
+    {
+        "question_text": "88.患者男性，不明原因发热，体温波动在39.～39.8℃之间，已4天未退热，此热型属:",
+        "options": [
+            "A.不规则热",
+            "B.波状热",
+            "C.弛张热",
+            "D.稽留热",
+            "E.回归热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 88
+    },
+    {
+        "question_text": "89.患者因足背外伤，经外缚草药后次日开始发热，一周来体温波动在39.1～41.5℃，住院后经抗感染治疗体温才降至正常，此发热期的体温特点是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.不规则热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 89
+    },
+    {
+        "question_text": "90.患者因发热、尿频-尿急-尿痛伴腰痛3天体温波动在37.0～39.3℃，早晨体温正常，下午至夜间发热此热型属于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.不规则热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 90
+    },
+    {
+        "question_text": "91.患者男性，发热10天，起初为低热，每日逐渐升高，最高达39.5℃，而后又逐渐下降，正常3天后开始低热因按感冒治疗未见效而来院就诊.此热型属于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.回归热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 91
+    },
+    {
+        "question_text": "92.下列哪项不是稽留热的特点？",
+        "options": [
+            "A.体温恒定",
+            "B.维持在39～40℃",
+            "C.可达数周",
+            "D.24小时内波动不超过2℃",
+            "E.可见于大叶性肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 92
+    },
+    {
+        "question_text": "93.表现为典型弛张热的疾病是:",
+        "options": [
+            "A.风湿热",
+            "B.渗出性胸膜炎",
+            "C.疟疾",
+            "D.布鲁斯菌病",
+            "E.肺炎球菌性肺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 93
+    },
+    {
+        "question_text": "94.间歇热可见于:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.疟疾",
+            "C.伤寒",
+            "D.肾炎",
+            "E.败血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 94
+    },
+    {
+        "question_text": "95.回归热可见于:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.疟疾",
+            "C.伤寒",
+            "D.霍奇金病",
+            "E.风湿热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 95
+    },
+    {
+        "question_text": "96.不规则热常见于:",
+        "options": [
+            "A.结核病",
+            "B.疟疾",
+            "C.大叶性肺炎",
+            "D.伤寒",
+            "E.肾盂肾炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 96
+    },
+    {
+        "question_text": "97.急性肾盂肾炎最常见的热型是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.回归热",
+            "E.不规则热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 97
+    },
+    {
+        "question_text": "98.疟疾的热型是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.回归热",
+            "E.波状热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 98
+    },
+    {
+        "question_text": "99.结核病的热型是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.回归热",
+            "E.不规则热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 99
+    },
+    {
+        "question_text": "100.布鲁菌病最常见的热型是:",
+        "options": [
+            "A.波状热",
+            "B.回归热",
+            "C.间歇热",
+            "D.弛张热",
+            "E.不规则热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 100
+    },
+    {
+        "question_text": "101.有一草原牧民，男性，发热10天，起初为低热，每日逐渐升高，最高达39.5℃，而后又渐下降，正常3天后开始低热因按“感冒治疗未见效来院就医。此热型属于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.波状热",
+            "D.间歇热",
+            "E.回归热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 101
+    },
+    {
+        "question_text": "102.患者男性，22岁，因Hodgkin病住院，观察体温变化特点为:突然发热，体温39℃以上，持续3～4天后突然降至正常，数天后又突然发热。此热型属于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.波状热",
+            "D.间歇热",
+            "E.回归热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 102
+    },
+    {
+        "question_text": "103.间歇热与回归热的区别是:",
+        "options": [
+            "A.热度高低不一",
+            "B.体温上升的急缓",
+            "C.体温下降的急缓",
+            "D.发热期与无热期交替存在",
+            "E.发热期与无热期持续时间的长短"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 103
+    },
+    {
+        "question_text": "104.患者，男性，21岁，每天体温最高39.6～40℃，最低体温37.6℃左右，持续10天其热型属于下列哪项？",
+        "options": [
+            "A.波状热",
+            "B.稽留热",
+            "C.弛张热",
+            "D.间歇热",
+            "E.回归热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 104
+    },
+    {
+        "question_text": "105.败血症热又称为:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.回归热",
+            "D.间歇热",
+            "E.不规则热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 105
+    },
+    {
+        "question_text": "106.患者体温逐渐上升至39℃或以上，数天后又逐渐下降至正常水平，持续数天后又升高，如此反复多见于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.回归热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 106
+    },
+    {
+        "question_text": "107.患者，女性，19岁，体温急骤上升至39℃或以上，持续数天后又骤然下降至正常水平高热期与无热期各持续若干天后规律性交替一次，该患者最可能的热型是:",
+        "options": [
+            "A.稽留热",
+            "B.间歇热",
+            "C.弛张热",
+            "D.波状热",
+            "E.回归热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 107
+    },
+    {
+        "question_text": "108.患者，男性，49岁，以发热入院，患者入院后体温维持在39℃以上，波动幅度大，24小时内波动范围超过2℃，但都在正常水平以上，该患者最可能的热型是:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.回归热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 108
+    },
+    {
+        "question_text": "109.一位发热患者，体温在39℃以上，未用任何退热降温措施，24小时内体温波动达2℃以上，最低时体温仍高于正常。这种热型是:",
+        "options": [
+            "A.稽留热",
+            "B.波浪热",
+            "C.间歇热",
+            "D.回归热",
+            "E.弛张热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 109
+    },
+    {
+        "question_text": "110.患者体温持续于39～40℃，达数日或数周，24小时波动范围不超过1℃，多见于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.回归热",
+            "E.波状热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 110
+    },
+    {
+        "question_text": "111.患者体温在39以上，24小时内体温波动范围达2℃以上，最低时一般仍高于正常水平，多见于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.不规则热",
+            "E.波状热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 111
+    },
+    {
+        "question_text": "112.疟疾患者，体温可高达39℃以上，若干小时后降至正常，经一段时间又突然升高，这种高热与无热交替出现的热型，多见于:",
+        "options": [
+            "A.稽留热",
+            "B.弛张热",
+            "C.间歇热",
+            "D.波状热",
+            "E.回归热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 112
+    },
+    {
+        "question_text": "113.一发热病人，近5天来体温维持在39～41℃，24小时内体温波动相差不超过1℃。查体:腹部玫瑰疹，肝脾肿大病人最可能的诊断是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.流行性出血热",
+            "C.伤寒",
+            "D.疟疾",
+            "E.风湿热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 113
+    },
+    {
+        "question_text": "114.一患者体温骤升至39℃，持续4天后骤降至正常水平，发热与体温正常各持续4～5天即交替1次，应考虑:",
+        "options": [
+            "A.败血症",
+            "B.疟疾",
+            "C.周期热",
+            "D.伤寒",
+            "E.重症肺结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 114
+    },
+    {
+        "question_text": "115.某发热病人，体温常在39℃以上，24小时内波动范围超过2℃，但都在正常水平以上下列哪一种疾病不应该出现这种热型？",
+        "options": [
+            "A.败血症",
+            "B.风湿热",
+            "C.重症肺结核",
+            "D.肝脓肿",
+            "E.疟疾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 115
+    },
+    {
+        "question_text": "116.某发热病人，发热的体温曲线无一定规律，不应该考虑下列哪一种疾病出现？",
+        "options": [
+            "A.结核病",
+            "B.风湿热",
+            "C.疟疾",
+            "D.支气管肺炎",
+            "E.渗出性胸膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 116
+    },
+    {
+        "question_text": "117.某病人，男性，40岁，南疆人。发热1周，体温急剧上升至39℃或以上，持续数天后又骤降至正常水平。高热期与无热期各持续若干天后又规律性交替一次。见于下列哪一种疾病？",
+        "options": [
+            "A.结核病",
+            "B.风湿热",
+            "C.布鲁菌病",
+            "D.疟疾",
+            "E.回归热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 117
+    },
+    {
+        "question_text": "118.肺炎链球菌肺炎的典型热型为:",
+        "options": [
+            "A.弛张热",
+            "B.稽留热",
+            "C.间隙热",
+            "D.疟疾",
+            "E.回归热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 118
+    },
+    {
+        "question_text": "119.间歇热常见于下列哪种疾病？",
+        "options": [
+            "A.肺炎球菌肺炎",
+            "B.疟疾",
+            "C.伤寒",
+            "D.肾炎",
+            "E.败血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 119
+    },
+    {
+        "question_text": "120.回归热常见于下列哪种疾病？",
+        "options": [
+            "A.肺炎球菌肺炎",
+            "B.疟疾",
+            "C.伤寒",
+            "D.霍奇金病",
+            "E.风湿热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 120
+    },
+    {
+        "question_text": "121.需要问清发热的伴随症状是:",
+        "options": [
+            "A.寒战",
+            "B.皮疹",
+            "C.关节及肌肉疼痛",
+            "D.咳嗽",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 121
+    },
+    {
+        "question_text": "122.先昏迷后发热常见于:",
+        "options": [
+            "A.中毒性菌痢",
+            "B.巴比妥中毒",
+            "C.败血症",
+            "D.伤寒",
+            "E.病毒性脑炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 122
+    },
+    {
+        "question_text": "123.先昏迷后发热见于哪种疾病？",
+        "options": [
+            "A.流行性出血热",
+            "B.流行性乙型脑炎",
+            "C.脑出血",
+            "D.休克型肺炎",
+            "E.流行性脑脊髓炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 123
+    },
+    {
+        "question_text": "124.下列发热性疾病中，最常伴寒战的是:",
+        "options": [
+            "A.结核病",
+            "B.风湿热",
+            "C.猩红热",
+            "D.败血症",
+            "E.布氏杆菌病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 124
+    },
+    {
+        "question_text": "125.下列哪项发热不伴有寒战？",
+        "options": [
+            "A.败血症",
+            "B.大叶性肺炎",
+            "C.急性肾盂肾炎",
+            "D.伤寒",
+            "E.疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 125
+    },
+    {
+        "question_text": "126.下列哪项不是发热伴寒战的常见疾病？",
+        "options": [
+            "A.败血症",
+            "B.疟疾",
+            "C.肺炎球菌肺炎",
+            "D.病毒性肝炎",
+            "E.急性胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 126
+    },
+    {
+        "question_text": "127.下列哪项不是发热伴结膜充血的常见疾病？",
+        "options": [
+            "A.麻疹",
+            "B.流行性出血热",
+            "C.急性胆囊炎",
+            "D.斑疹伤寒",
+            "E.钩端螺旋体病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 127
+    },
+    {
+        "question_text": "128.下列哪项不是发热伴淋巴结肿大的常见疾病？",
+        "options": [
+            "A.淋巴结结核",
+            "B.局部化脓性感染",
+            "C.白血病",
+            "D.肺炎球菌肺炎",
+            "E.传染性单核细胞增多症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 128
+    },
+    {
+        "question_text": "129.下列为发热伴皮肤黏膜出血的疾病，除外:",
+        "options": [
+            "A.疟疾",
+            "B.病毒性肝炎",
+            "C.斑疹伤寒",
+            "D.急性白血病",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 129
+    },
+    {
+        "question_text": "130.下列发热伴皮疹的疾病，除外:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.药物热",
+            "C.猩红热",
+            "D.结缔组织病",
+            "E.风湿热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 130
+    },
+    {
+        "question_text": "131.下列发热性疾病中，不伴有单纯疱疹的是:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.急性肾盂肾炎",
+            "C.间日疟",
+            "D.流行性感冒",
+            "E.流行性脑脊髄膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 131
+    },
+    {
+        "question_text": "132.下列疾病中，哪项伴发热但无昏迷？",
+        "options": [
+            "A.中暑",
+            "B.流行性乙型脑炎",
+            "C.中毒性痢疾",
+            "D.斑疹伤寒",
+            "E.急性血吸虫病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 132
+    },
+    {
+        "question_text": "133.下列发热性疾病中，不伴有肝脾肿大的是:",
+        "options": [
+            "A.急性ITP（血小板减少性紫癜）",
+            "B.传染性单核细胞增多症",
+            "C.病毒性肝炎",
+            "D.淋巴瘤",
+            "E.白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 133
+    },
+    {
+        "question_text": "134.常见发热伴肝脾肿大的疾病，除外:",
+        "options": [
+            "A.白血病",
+            "B.结缔组织病",
+            "C.淋巴瘤",
+            "D.急性菌痢",
+            "E.血吸虫病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 134
+    },
+    {
+        "question_text": "135.肝脾肿大伴发热多见于下列哪种疾病？",
+        "options": [
+            "A.肾结石",
+            "B.肠道感染",
+            "C.溃疡病发作",
+            "D.肝、胆系统感染",
+            "E.肠系膜淋巴结感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 135
+    },
+    {
+        "question_text": "136.如询问发热患者的病史，应注意以下各项，除外:",
+        "options": [
+            "A.有无钩端螺旋体疫水接触史",
+            "B.有无在野外被虫叮咬",
+            "C.有无受凉",
+            "D.有无劳累",
+            "E.有无不洁饮食史"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 136
+    },
+    {
+        "question_text": "137.如疑钩端螺旋体病所致发热，体格检查时应特别注意:",
+        "options": [
+            "A.皮疹",
+            "B.结膜充血",
+            "C.腋窝淋巴结肿大",
+            "D.带状疱疹",
+            "E.肺部湿啰音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 137
+    },
+    {
+        "question_text": "138.发热伴关节肿痛的疾病，除外:",
+        "options": [
+            "A.败血症",
+            "B.猩红热",
+            "C.风湿热",
+            "D.疟疾",
+            "E.结缔组织病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 138
+    },
+    {
+        "question_text": "139.发热的病人，伴口唇疱疹，不应出现于哪一种疾病？",
+        "options": [
+            "A.大叶性肺炎",
+            "B.流行性脑脊髓膜炎",
+            "C.间日疟",
+            "D.流行性感冒",
+            "E.风湿热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 139
+    },
+    {
+        "question_text": "140.发热伴眼结膜充血，下列中项疾病可能性最大:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.淋巴瘤",
+            "C.流行性脑脊髓膜炎",
+            "D.疟疾",
+            "E.麻疹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 140
+    },
+    {
+        "question_text": "141.急性肾盂肾炎可出现:",
+        "options": [
+            "A.发热伴寒战",
+            "B.发热伴口角疱疹",
+            "C.发热伴肝脾肿大",
+            "D.发热伴出血",
+            "E.发热伴昏迷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 141
+    },
+    {
+        "question_text": "142.流行性出血热可出现:",
+        "options": [
+            "A.发热伴寒战",
+            "B.发热伴口角疱疹",
+            "C.发热伴肝脾肿大",
+            "D.发热伴出血",
+            "E.发热伴昏迷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 142
+    },
+    {
+        "question_text": "143.流行性感冒可出现:",
+        "options": [
+            "A.发热伴寒战",
+            "B.发热伴口角疱疹",
+            "C.发热伴肝脾肿大",
+            "D.发热伴出血",
+            "E.发热伴昏迷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 143
+    },
+    {
+        "question_text": "144.发热伴皮肤黏膜出血多见于:",
+        "options": [
+            "A.疟疾",
+            "B.麻疹",
+            "C.斑疹伤寒",
+            "D.风湿热",
+            "E.大叶性肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 144
+    },
+    {
+        "question_text": "145.下列哪项不是发热伴皮肤粘膜出血的常见疾病？",
+        "options": [
+            "A.感冒",
+            "B.病毒性肝炎",
+            "C.斑疹伤寒",
+            "D.急性白血病",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 145
+    },
+    {
+        "question_text": "146.下列疾病中，哪项伴发热但一般情况下无昏迷？",
+        "options": [
+            "A.中暑",
+            "B.中毒",
+            "C.中毒性痢疾",
+            "D.脑膜炎",
+            "E.上呼吸道感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 146
+    },
+    {
+        "question_text": "147.下列哪项不是发热伴肝脾肿大的常见疾病？",
+        "options": [
+            "A.白血病",
+            "B.疟疾",
+            "C.淋巴瘤",
+            "D.再生障碍性贫血",
+            "E.血吸虫病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 147
+    },
+    {
+        "question_text": "148.发热伴皮肤粘膜出血、淋巴结肿大，常见于:",
+        "options": [
+            "A.败血症",
+            "B.斑诊伤寒",
+            "C.胆道感染",
+            "D.急性白血病",
+            "E.病毒性肝炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 148
+    },
+    {
+        "question_text": "149.可能由输血引起长期发热的疾病是:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.肺结核",
+            "C.爱滋病",
+            "D.禽流感",
+            "E.白血病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 149
+    },
+    {
+        "question_text": "150.男，4岁，发病第1天体温37.5℃，伴咽痛，未予治疗，第2天体温达41℃，伴神志恍惚及抽搐。经输液、抗生素等治疗，第3天体温降至38.2℃，其体温变化过程为:",
+        "options": [
+            "A.低热→过高热→中等热",
+            "B.中等热→高热→中等热",
+            "C.低热→高热→高热",
+            "D.中等热→高热→中等热",
+            "E.低热→高热→中等热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 150
+    },
+    {
+        "question_text": "151.患者，女性，24岁，3天前因野外活动后出现发热，体温39～39.8℃，按中暑处理治疗效果不佳，2天前出现头痛、呕吐，逐渐意识不清，可能的诊断是:",
+        "options": [
+            "A.休克",
+            "B.脑出血",
+            "C.流行性乙型脑炎",
+            "D.间日疟",
+            "E.败血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 151
+    },
+    {
+        "question_text": "152.女，32岁，高热伴尿路刺激症状，查体双肾区叩击痛。经治疗后体温下降，其下降方式常为骤降型。表现呈:",
+        "options": [
+            "A.数周内降至正常",
+            "B.数天内降至正常",
+            "C.24小时内降至正常",
+            "D.数小时内降至正常",
+            "E.1小时内降至正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "152",
+        "number": 152
+    }
+]

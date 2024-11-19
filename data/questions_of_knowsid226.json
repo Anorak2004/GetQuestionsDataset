@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1.正常脑脊液为:",
+        "options": [
+            "A.淡红色水样液体",
+            "B.浅黄色水样液体",
+            "C.无色水样液体",
+            "D.乳白色水样液体",
+            "E.微绿色水样液体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "2.不是脑脊液检查适应证的是:",
+        "options": [
+            "A.脑膜炎",
+            "B.脑炎",
+            "C.白血病合并中枢神经系统入侵",
+            "D.脑瘤合并脑压升高",
+            "E.中枢神经系统疾病椎管内给药治疗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "3.穿刺抽取脑脊液，最初数滴为血性，随后逐渐转清，离心后上清液无色透明，为:",
+        "options": [
+            "A.脑出血所致",
+            "B.蛛网膜下腔出血所致",
+            "C.穿刺时损伤出血所致",
+            "D.蛛网膜下腔粘连梗阻",
+            "E.脑陈旧性出血所致"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列关于脑脊液检查适应证中应除外的是:",
+        "options": [
+            "A.怀疑有颅内出血",
+            "B.脑膜刺激征",
+            "C.疑有脑膜白血病",
+            "D.颅内压显著增高",
+            "E.剧烈头痛而原因不明者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "5.疑似流行性脑脊髓膜炎患者的脑脊液标本应注意:",
+        "options": [
+            "A.置50％甘油盐水中保存送检",
+            "B.冷藏送检",
+            "C.立即接种于普通琼脂平板",
+            "D.保温，迅速送检",
+            "E.低温存放过夜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "6.脑脊液采集的第一管用作下列哪项检查？",
+        "options": [
+            "A.细菌培养",
+            "B.化学分析",
+            "C.免疫学检查",
+            "D.一般性状检查",
+            "E.显微镜检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "7.正常人脑脊液蛋白含量为:",
+        "options": [
+            "A.0.20~0.40g/L",
+            "B.0.15~0.45g/L",
+            "C.0.20~0.45g/L",
+            "D.0.25~0.30g/L",
+            "E.0.25~0.55g/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "8.化脓性脑膜炎时，脑脊液呈:",
+        "options": [
+            "A.无色透明液体",
+            "B.红色",
+            "C.黄色",
+            "D.毛玻璃样混浊",
+            "E.乳白色浑浊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "9.结核性脑膜炎时，脑脊液呈:",
+        "options": [
+            "A.无色透明液体",
+            "B.红色",
+            "C.黄色",
+            "D.毛玻璃样混浊",
+            "E.乳白色浑浊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "10.脑脊液抽取时，穿刺致损伤出血和蛛网膜下腔出血主要鉴别要点:",
+        "options": [
+            "A.外观",
+            "B.透明度",
+            "C.红细胞数量",
+            "D.红细胞形态",
+            "E.离心观察上清液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "11.脑脊液静置12~24小时后出现薄膜，见于下列何种疾病？",
+        "options": [
+            "A.化脓性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.蛛网膜下腔梗阻",
+            "D.流行性乙型脑炎",
+            "E.脑脊髓梅毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "12.脑脊液静置1~2小时即可出现凝块常见于:",
+        "options": [
+            "A.病毒性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.化脓性脑膜炎",
+            "D.流行性乙型脑炎",
+            "E.蛛网膜下腔陈旧性出血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪种物质增加可使脑脊液形成薄膜？",
+        "options": [
+            "A.白蛋白",
+            "B.球蛋白",
+            "C.纤维蛋白",
+            "D.β2-微球蛋白",
+            "E.结合珠蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "14.结核性脑膜炎脑脊液的透明度常为:",
+        "options": [
+            "A.清晰透明",
+            "B.毛玻璃样",
+            "C.黄色胶冻样",
+            "D.脓样",
+            "E.微红色混浊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "15.对诊断多发性硬化最有意义的凝聚态改变是:",
+        "options": [
+            "A.脑脊液β2-微球蛋白",
+            "B.脑脊液寡克隆IgG带",
+            "C.凝聚态蛋白含量>15g/L",
+            "D.脑脊液为均匀血性",
+            "E.脑脊液葡萄糖含量<2.25mmo1/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "16.蛛网膜下腔阻塞是脑脊液呈黄色胶冻样是由于:",
+        "options": [
+            "A.脑脊液β2-微球蛋白",
+            "B.脑脊液寡克隆IgG带",
+            "C.凝聚态蛋白含量>15g/L",
+            "D.脑脊液为均匀血性",
+            "E.脑脊液葡萄糖含量<2.25mmo1/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "17.化脓性脑膜炎和结核性脑膜炎都可出现:",
+        "options": [
+            "A.脑脊液β2-微球蛋白",
+            "B.脑脊液寡克隆IgG带",
+            "C.凝聚态蛋白含量>15g/L",
+            "D.脑脊液为均匀血性",
+            "E.脑脊液葡萄糖含量<2.25mmo1/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "18.脑膜白血病及淋巴瘤可出现:",
+        "options": [
+            "A.脑脊液β2-微球蛋白",
+            "B.脑脊液寡克隆IgG带",
+            "C.凝聚态蛋白含量>15g/L",
+            "D.脑脊液为均匀血性",
+            "E.脑脊液葡萄糖含量<2.25mmo1/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "19.患者脑脊液检查结果:蛋白定性（+++），定量10g/L，氯化物为100mmol/L，糖为2.0mmol/L，可能的诊断为:",
+        "options": [
+            "A.流行性乙型脑炎",
+            "B.化脓性脑膜炎",
+            "C.病毒性脑膜炎",
+            "D.结核性脑膜炎",
+            "E.脑膜白血病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "20.有助于流行性脑脊髓膜炎早期诊断的检测是:",
+        "options": [
+            "A.细胞计数与分类",
+            "B.脑膜炎球菌抗原检测",
+            "C.免疫球蛋白检测",
+            "D.天门氨酸氨基酸转移酶活性检测",
+            "E.LD活性检测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "21.正常脑脊液葡萄糖含量平均为血糖的:",
+        "options": [
+            "A.20%",
+            "B.30%",
+            "C.40%",
+            "D.50%",
+            "E.60%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "22.脑脊液中葡萄糖正常或稍高不见于:",
+        "options": [
+            "A.脑肿瘤",
+            "B.结核性脑膜炎",
+            "C.蛛网膜下腔出血",
+            "D.病毒性脑膜炎",
+            "E.流行性乙型脑炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "23.积液中葡萄糖含量<3.30mmol/L，对哪种疾病最有协助诊断意义？",
+        "options": [
+            "A.化脓性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.癌性胸腔积液",
+            "D.风湿性疾病所致胸腔积液",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列哪种疾病时，脑脊液中葡萄糖含量降低最明显？",
+        "options": [
+            "A.病毒性脑膜炎",
+            "B.化脓性脑膜炎",
+            "C.脑肿瘤",
+            "D.隐球菌性脑膜炎",
+            "E.结核性脑膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "25.脑脊液中氯化物显著减少的疾病是:",
+        "options": [
+            "A.化脓性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.病毒性脑膜炎",
+            "D.蛛网膜下腔出血",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "26.脑脊液中葡萄糖含量显著减少的疾病是:",
+        "options": [
+            "A.化脓性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.病毒性脑膜炎",
+            "D.蛛网膜下腔出血",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "27.脑脊液中蛋白质含量显著增加的疾病是:",
+        "options": [
+            "A.病毒性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.化脓性脑膜炎",
+            "D.蛛网膜上腔出血",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "28.脑脊液中细胞数含量显著增加的疾病是:",
+        "options": [
+            "A.病毒性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.化脓性脑膜炎",
+            "D.脑肿瘤",
+            "E.新型隐球菌性脑膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "29.脑脊液检查结果为细胞数和蛋白量显著增高，葡萄糖明显减少，见于:",
+        "options": [
+            "A.急性脊髓炎",
+            "B.病毒性脑炎",
+            "C.化脓性脑膜炎",
+            "D.感染性多发性神经炎",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪种疾病时，脑脊液中葡萄糖含量可正常？",
+        "options": [
+            "A.结核性脑膜炎",
+            "B.隐球菌性脑膜炎",
+            "C.病毒性脑膜炎",
+            "D.化脓性脑膜炎",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列哪一类疾病中的CSF葡萄糖含量可显著减少？",
+        "options": [
+            "A.急性化脓性脑膜炎",
+            "B.结核性脑膜炎",
+            "C.隐球菌性脑膜炎",
+            "D.梅毒性脑膜炎",
+            "E.糖尿病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列临床标本不能冷冻保存的是:",
+        "options": [
+            "A.脑脊液",
+            "B.尿液",
+            "C.伤口分泌物",
+            "D.深部脓液",
+            "E.胸腔积液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "33.用三只试管收集脑脊液标本时，哪一管最适宜作细胞计数？",
+        "options": [
+            "A.第一管",
+            "B.第二管",
+            "C.第三管",
+            "D.以上都可以",
+            "E.以上都不可以"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "34.急性化脓性脑膜炎，常见下列哪种情况？",
+        "options": [
+            "A.红细胞增多",
+            "B.淋巴细胞极度增多",
+            "C.吞噬细胞增多",
+            "D.用高倍镜直接分类时分叶核细胞（中性粒细胞）为绝大多数。",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "35.结核性脑膜炎下列哪些细胞可增多？",
+        "options": [
+            "A.白细胞中度增加",
+            "B.红细胞增多",
+            "C.淋巴细胞占绝大多数",
+            "D.吞噬细胞轻度增加",
+            "E.肿瘤细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "36.正常人脑脊液中白细胞计数参考值:",
+        "options": [
+            "A.无白细胞",
+            "B.（0~2）×106/L",
+            "C.（0~6）×106/L",
+            "D.（0~8）×106/L",
+            "E.（0~10）×106/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "37.脑脊液中中性粒细胞的数目增加，可能发生在下列何种疾病中？",
+        "options": [
+            "A.结核性脑膜炎",
+            "B.病毒性脑膜炎",
+            "C.多发性硬化症",
+            "D.急性化脓性细菌脑膜炎",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "38.新鲜脑脊液混浊的最常见的原因是:",
+        "options": [
+            "A.脓细胞（白细胞）数量增多",
+            "B.盐类增多",
+            "C.含有大量细菌",
+            "D.含有大量霉菌",
+            "E.含多量蛋白质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "39.确诊化脓性脑膜炎的依据是:",
+        "options": [
+            "A.脑脊液中白细胞数",
+            "B.脑脊液中蛋白质",
+            "C.脑脊液中葡萄糖",
+            "D.找到细菌",
+            "E.脑脊液中出现凝块"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "40.结核性脑膜炎患者可见:",
+        "options": [
+            "A.IgA显著增高",
+            "B.IgM显著增高",
+            "C.IgA显著降低",
+            "D.IgM显著降低",
+            "E.IgA及IgM无明显改变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列哪种情况乳酸脱氢酶可显著增加？",
+        "options": [
+            "A.细菌性脑膜炎",
+            "B.病毒性脑膜炎",
+            "C.脑肿瘤",
+            "D.梅毒性脑膜炎",
+            "E.蛛网膜下腔出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "42.脑膜炎患者蛋白电泳哪一类蛋白显著增多？",
+        "options": [
+            "A.前白蛋白增加",
+            "B.白蛋白增加",
+            "C.α和β球蛋白增加",
+            "D.β球蛋白增加",
+            "E.γ-球蛋白增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "43.脑脊液中溶菌酶活性显著增高达正常30倍，最可能为:",
+        "options": [
+            "A.化脓性脑膜炎",
+            "B.脑肿瘤",
+            "C.病毒性脑膜炎",
+            "D.脑出血",
+            "E.结核性脑膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "44.正常人脑脊液葡萄糖含量为",
+        "options": [
+            "A.2.0-4.0mmol/L",
+            "B.2.8-4.5mmol/L",
+            "C.2.5-4.5mmol/L",
+            "D.3.0-4.5mmol/L",
+            "E.3.0-5.0mmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

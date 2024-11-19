@@ -1,0 +1,1005 @@
+[
+    {
+        "question_text": "1.组织细胞正常的生命活动必须处于",
+        "options": [
+            "A.弱酸性的体液环境中",
+            "B.较强的酸性体液环境中",
+            "C.弱碱性的体液环境中",
+            "D.较强的碱性体液环境中",
+            "E.中性的体液环境中"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列指标中哪一项是反映血中 H2CO3浓度的最佳指标？",
+        "options": [
+            "A.pH",
+            "B.PaCO2",
+            "C.BB",
+            "D.SB",
+            "E.AB"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 2
+    },
+    {
+        "question_text": "3.机体代谢过程中产生最多的酸性物质是",
+        "options": [
+            "A.含硫氨基产生的硫酸",
+            "B.核蛋白和磷脂水解产生的磷酸",
+            "C.嘌呤类化合物氧化分解产生的尿酸",
+            "D.糖、脂肪分解代谢产生的乳酸、β-羟丁酸",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 3
+    },
+    {
+        "question_text": "4.碱性物质的主要来源是",
+        "options": [
+            "A.柠檬酸盐",
+            "B.苹果酸盐",
+            "C.草酸盐",
+            "D.蔬菜和水果中的有机酸盐",
+            "E.氨基酸脱氨后生成的氨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 4
+    },
+    {
+        "question_text": "5.AG 增高反映体内可能发生了",
+        "options": [
+            "A.高氯血性代谢性酸中毒",
+            "B.正常氯血性代谢性酸中毒",
+            "C.低氯血性代谢性碱中毒",
+            "D.低氯血性呼吸性酸中毒",
+            "E.\t高氯血性呼吸性碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t从动脉抽取血样后如不与大气隔绝，下列哪项指 标将会受到影响？",
+        "options": [
+            "A.\tSB",
+            "B.\tAB",
+            "C.\tBE",
+            "D.\tAG",
+            "E.\tBB"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 6
+    },
+    {
+        "question_text": "7. AB减少和AB＜SB 提示：",
+        "options": [
+            "A. 呼吸性酸中毒",
+            "B. 代谢性酸中毒",
+            "C. 混合性酸中毒",
+            "D. 代谢性碱中毒",
+            "E. 代谢性酸中毒合并代谢性碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "AB, SB都是代谢性指标，原发下降代表代酸，原发升高代表代碱但AB受呼吸影响，因为CO2也会形成碳酸氢根，所以原发CO2多，呼酸，实际的碳酸氢根就多，AB＞SB；原发CO2少，呼碱，实际的碳酸氢根就少，AB＜SB",
+        "total_number": "72",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t机体在代谢过程中产生最多的酸性物质是",
+        "options": [
+            "A.\tB -羟丁酸",
+            "B.\t乙酰乙酸",
+            "C.\t丙酮酸",
+            "D.\t乳酸",
+            "E.\t碳酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t正常体液中的H+主要来自",
+        "options": [
+            "A.\t食物摄入的H+",
+            "B.\t含硫氨基酸氧化产生的H+",
+            "C.\t磷酸分解代谢产生的H+",
+            "D.\t酮体和乳酸",
+            "E.\t碳酸释出的H+"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t血液中最强的缓冲系统是",
+        "options": [
+            "A.\tPr/HPr",
+            "B.\tHCO3-/H2CO3",
+            "C.\tHP04-/H2P04-",
+            "D.\tHb-/HHb",
+            "E.\tHb02-/HHb02"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t血液中缓冲挥发酸最强的缓冲系统是",
+        "options": [
+            "A.\tHC03-/H2C0B",
+            "B.\tPr/HPr",
+            "C.\tHPO4-/H2PO4-",
+            "D.\tHb-/HHb 和 Hb02-/HHb02",
+            "E.\t有机磷酸盐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t血液中缓冲固定酸的主要缓冲碱是",
+        "options": [
+            "A.\tNaHCOs",
+            "B.\tNa2HP04",
+            "C.\tNa-Pr",
+            "D.\tK-Hb",
+            "E.\tK-Hb02"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 12
+    },
+    {
+        "question_text": "13.\tPaC02升高兴奋呼吸中枢的机制主要是由于",
+        "options": [
+            "A.\tC02直接刺激延髓中枢化学感受器",
+            "B.\tC02使脑脊液H+增加，H+刺激延髓中枢化学感受器",
+            "C.\tH+刺激颈动脉体化学感受器",
+            "D.\tC02刺激颈动脉体化学感受器",
+            "E.\tC02刺激主动脉体化学感受器"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 13
+    },
+    {
+        "question_text": "14.\tHC03-重吸收的主要部位是",
+        "options": [
+            "A.\t近曲小管",
+            "B.\t远曲小管",
+            "C.\t髓祥升支",
+            "D.\t外髓集合管",
+            "E.\t皮质集合管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t肾小管尿液酸化的部位与方式是",
+        "options": [
+            "A.\t近曲小管H+-ATP酶泵分泌H+",
+            "B.\t近曲小管H+-Na+交换",
+            "C.\t远曲小管H+-Na+交换",
+            "D.\t集合管H+泵泌H+",
+            "E.\t集合管H+-K+交换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t肾小管产生NH4+的主要部位在",
+        "options": [
+            "A.\t皮质集合管",
+            "B.\t髓质集合管",
+            "C.\t远曲小管",
+            "D.\t髓祥",
+            "E.\t近曲小管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t血液pH值主要取决于血浆中",
+        "options": [
+            "A.\t[HP042-]/[[H2P04-]",
+            "B.\t[Pr-]/[HPr]",
+            "C.\t[HC03-]",
+            "D.\t[HC03-]/[H2C03]",
+            "E.\tHCOJ"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 17
+    },
+    {
+        "question_text": "18. 血气分析反映酸碱平衡呼吸性因素的重要指标 是",
+        "options": [
+            "A. BE",
+            "B. PaC0",
+            "C. Pa02",
+            "D. PaC02"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t能直接反映血液中一切具有缓冲作用的负离子 含量的指标是",
+        "options": [
+            "A.\tPaC02",
+            "B.\tAB",
+            "C.\tSB",
+            "D.\tBB",
+            "E.\tBE"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 19
+    },
+    {
+        "question_text": "20.\tAB增加和AB>SB表明可能有",
+        "options": [
+            "A.\t代谢性碱中毒",
+            "B.\t代谢性酸中毒",
+            "C.\t呼吸性碱中毒",
+            "D.\tAG增高型代谢性酸中毒",
+            "E.\t混合性碱中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 20
+    },
+    {
+        "question_text": "21.\tAG正常型代谢性酸中毒常见于",
+        "options": [
+            "A.\t缺氧",
+            "B.\t饥饿",
+            "C.\t严重腹泻",
+            "D.\t严重肾衰竭",
+            "E.\t摄入大量水杨酸制剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 21
+    },
+    {
+        "question_text": "22.\tAG增高型代谢性酸中毒常见于",
+        "options": [
+            "A.\t腹泻",
+            "B.\t使用乙酰唑胺利尿",
+            "C.\t糖尿病",
+            "D.\t肾小管性酸中毒",
+            "E.\t慢性肾衰竭早期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t下列项目不是代谢性酸中毒的原因",
+        "options": [
+            "A.\t咼热",
+            "B.\t休克",
+            "C.\t呕吐",
+            "D.\t饥饿",
+            "E.\t肾衰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t肾衰竭患者发生代谢性酸中毒时机体最主要的 代偿方式是",
+        "options": [
+            "A.\t细胞外液缓冲",
+            "B.\t呼吸代偿",
+            "C.\t细胞内液缓冲",
+            "D.\t肾脏代偿",
+            "E.\t骨骼代偿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t严重酸中毒引起心肌收缩力",
+        "options": [
+            "A.\t先增强后减弱",
+            "B.\t先减弱后增强",
+            "C.\t减弱",
+            "D.\t增强",
+            "E.\t不变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t某肾盂肾炎患者血气分析结果为：pH 7.32，PaCO2 30mmHg (1mmHg=0.133kPa), HCO3- 15mmol/L，可诊断为",
+        "options": [
+            "A.\t代谢性酸中毒",
+            "B.\t代谢性碱中毒",
+            "C.\t呼吸性酸中毒",
+            "D.\t呼吸性碱中毒",
+            "E.\t混合性酸中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t某糖尿病患者血气分析结果：pH 7.30，PaCO2 34mmHg， HCO3- 16mmol/L，血 Na+ 1 40mmo/L， Cl- 104mmol/L， K+ 4. 5mmol/L，可诊断为",
+        "options": [
+            "A.\t代谢性碱中毒",
+            "B.\tAG正常型代谢性酸中毒",
+            "C.\tAG增高型代谢性酸中毒",
+            "D.\t呼吸性酸中毒",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t高血钾引起酸碱失衡的特点是",
+        "options": [
+            "A.\t血浆HCO3- ；，血浆H+ f,细胞内H+ I,尿液H+ t",
+            "B.\t血浆HCO3- ；，血浆H+ t，细胞内H+ I,尿液H+",
+            "C.\t血浆HCO3- t，血浆H+ l,细胞内H+ l,尿液H+",
+            "D.\t血浆HCO3- t，血浆H+ l,细胞内H+ t,尿液H+ t",
+            "E.\t血浆HCO3- l，血浆H+ t,细胞内H+ t,尿液H+l"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t乳酸酸中毒时，血钾变化是",
+        "options": [
+            "A.\t升高",
+            "B.\t不变",
+            "C.\t先降后升",
+            "D.\t降低",
+            "E.\t先升后降"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t下列哪项不是呼吸性酸中毒的病因？",
+        "options": [
+            "A.\t呼吸中枢及呼吸肌麻痹",
+            "B.\t气道阻塞",
+            "C.\t肺部疾患通气障碍",
+            "D.\t肺泡弥散障碍",
+            "E.\t环境通风不良"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t呼吸性酸中毒时血液中起主要作用的缓冲碱是",
+        "options": [
+            "A.\tNaHCO3",
+            "B.\tNaPr",
+            "C.\tK-Hb",
+            "D.\tNa2HPO4",
+            "E.\tK2HPO4"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t急性呼吸性酸中毒时代偿调节主要依靠",
+        "options": [
+            "A.\tHCO3-缓冲系统",
+            "B.\tHCO3-以外的缓冲系统",
+            "C.\t血浆蛋白缓冲系统",
+            "D.\t磷酸盐缓冲系统",
+            "E.\t其他缓冲系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t慢性呼吸性酸中毒时机体的主要代偿方式是",
+        "options": [
+            "A.\t呼吸代偿",
+            "B.\t肾脏代偿",
+            "C.\t骨骼代偿",
+            "D.\t心脏代偿",
+            "E.\t血液代偿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 33
+    },
+    {
+        "question_text": "34. 某溺水窒息患者，经抢救后其血气分析结果 为：pH7. 15， PaCO2 80mmHg, HCO3-27mmol/L，可诊 断为",
+        "options": [
+            "A. 代谢性酸中毒",
+            "B. 急性呼吸性酸中毒",
+            "C. 慢性呼吸性酸中毒",
+            "D. 代谢性碱中毒",
+            "E. 急性呼吸性碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t急性呼吸性酸中毒对机体主要的影响是",
+        "options": [
+            "A.\t心肌收缩减弱",
+            "B.\t高钾引起心律失常",
+            "C.\t肺性脑病",
+            "D.\t功能性肾衰",
+            "E.\t缺氧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t某肺心病患者，因受凉、肺部感染而住院，血 气分析结果如下：pH 7. 33, PaCO2 70mmHg, HCO3- 36mmol/L,可诊断为",
+        "options": [
+            "A.\t代谢性酸中毒",
+            "B.\t代谢性碱中毒",
+            "C.\t急性呼吸性酸中毒",
+            "D.\t慢性呼吸性酸中毒",
+            "E.\t混合性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t严重失代偿性呼吸性酸中毒患者出现精神错乱 和谵妄时，下列治疗措施哪一项是错误的？",
+        "options": [
+            "A.\t治疗原发病",
+            "B.\t使用中枢镇静剂",
+            "C.\t使用呼吸中枢兴奋剂",
+            "D.\t改善肺通气功能",
+            "E.\t使用THAM （三羟甲基氨基甲烷）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t代谢性碱中毒常见的病因是",
+        "options": [
+            "A.\t严重腹泻",
+            "B.\t严重呕吐",
+            "C.\t使用安体舒通等利尿剂",
+            "D.\t正常人摄入 NaHCOs 1000mmol/d",
+            "E.\t高血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t代谢性碱中毒时，起主要作用的缓冲系统是",
+        "options": [
+            "A.\tHCO3-/H2COs",
+            "B.\tPr/HPr",
+            "C.\tHPO42-/H2PO」",
+            "D.\tHb-/HHb",
+            "E.\tHbO2-/HHbO2"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t应用速尿引起代谢性碱中毒时，机体主要的代 偿方式是",
+        "options": [
+            "A.\t肾代偿",
+            "B.\t肺代偿",
+            "C.\t骨代偿",
+            "D.\t血液代偿",
+            "E.\t细胞代偿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 40
+    },
+    {
+        "question_text": "41. 剧烈呕吐引起代谢性碱中毒时机体主要的代偿 调节方式为",
+        "options": [
+            "A. 细胞外液的缓冲作用",
+            "B. 肺的调节",
+            "C. 肾的调节",
+            "D. 骨骼缓冲",
+            "E. 细胞内缓冲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t某溃疡病并发幽门梗阻患者，因反复呕吐入院，血气分析结果如下：pH 7.49，PaCO2 48mmHg， HCO3- 36mmolL，该病人酸碱失衡的类型是",
+        "options": [
+            "A.\t代谢性酸中毒",
+            "B.\t代谢性碱中毒",
+            "C.\t呼吸性酸中毒",
+            "D.\t呼吸性碱中毒",
+            "E.\t混合性碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t某 ARDS 患者，pH.7. 48， PaCO? 29mmHg， HCO3- 23mmolL，可诊断为",
+        "options": [
+            "A.\t急性呼吸性酸中毒",
+            "B.\t慢性呼吸性酸中毒",
+            "C.\t代谢性碱中毒",
+            "D.\t急性呼吸性碱中毒",
+            "E.\t慢性呼吸性碱中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t急性呼吸性碱中毒时起主要作用的缓冲物质是",
+        "options": [
+            "A.\tH2CO2",
+            "B.\t有机磷酸",
+            "C.\tHHb 及 HHbO2",
+            "D.\tH2PO4-",
+            "E.\tHPr"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 44
+    },
+    {
+        "question_text": "45. 慢性呼吸性碱中毒主要靠",
+        "options": [
+            "A. 肺代偿",
+            "B. 血液代偿",
+            "C. 骨代偿",
+            "D. 肾代偿",
+            "E. 胃肠道代偿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 45
+    },
+    {
+        "question_text": "46. 某肺心病患者，血气分析及电解质测定结果如 下：pH 7.28， PaCO2 85.8mmHg， HCO3- 37. 8mmol/L， Cl- 90mmol/L， Na+ 140 mmol/L，可 诊断为",
+        "options": [
+            "A. 呼吸性碱中毒合并代谢性酸中毒",
+            "B. 呼吸性碱中毒合并代谢性碱中毒",
+            "C. 呼吸性酸中毒合并代谢性酸中毒",
+            "D. 呼吸性酸中毒合并代谢性碱中毒",
+            "E. 代谢性碱中毒合并代谢性酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t血气分析结果为PaCO2降低同时伴HCO3-升高， 可诊断为",
+        "options": [
+            "A.\t呼吸性酸中毒合并代谢性碱中毒",
+            "B.\t呼吸性碱中毒合并代谢性酸中毒",
+            "C.\t呼吸性酸中毒合并代谢性酸中毒",
+            "D.\t呼吸性碱中毒合并代谢性碱中毒",
+            "E.\t代谢性酸中毒合并代谢性碱中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t血气分析结果为PaCO2降低同时伴有HCO3-升 高，可诊断为",
+        "options": [
+            "A.\t呼吸性酸中毒",
+            "B.\t代谢性酸中毒",
+            "C.\t呼吸性碱中毒",
+            "D.\t代谢性碱中毒",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t血气分析结果为PaCO2升高同时伴有HCO3-降 低，可诊断为",
+        "options": [
+            "A.\t呼吸性酸中毒合并代谢性酸中毒",
+            "B.\t呼吸性酸中毒合并代谢性碱中毒",
+            "C.\t呼吸性碱中毒合并代谢性酸中毒",
+            "D.\t呼吸性碱中毒合并代谢性碱中毒",
+            "E，以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t某肝性脑病患者，血气分析结果：pH7. 5， PaCO2 13mmHg， HCO3- 11mmol/L，可诊断为",
+        "options": [
+            "A.\t呼吸性酸中毒合并代谢性碱中毒",
+            "B.\t呼吸性碱中毒合并代谢性酸中毒",
+            "C.\t呼吸性酸中毒合并代谢性酸中毒",
+            "D.\t呼吸性碱中毒合并代谢性碱中毒",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t某慢性肺心病患者，血气分析及电解质测定结 果：pH 7.40， PaCO2 67mmHg， HCO3-40mmol/L，可 诊断为",
+        "options": [
+            "A.\t酸碱平衡基本正常",
+            "B.\t呼吸性酸中毒合并代谢性酸中毒",
+            "C.\t代谢性酸中毒合并代谢性碱中毒",
+            "D.\t呼吸性酸中毒合并代谢性碱中毒",
+            "E.\t呼吸性碱中毒合并代谢性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t某慢性肾衰竭患者剧烈呕吐，血气分析结果： pH 7.39， PaCO2 44mmHg， HCO3-26.2mmol/L， Na+142 mmol/L， Cl-91.5 mmol/L，该患者属哪一种酸碱失 衡？",
+        "options": [
+            "A.\tAG增高型代谢性酸中毒合并呼吸性碱中毒",
+            "B.\tAG正常型代谢性酸中毒合并呼吸性碱中毒",
+            "C.\tAG增高型代谢性酸中毒合并代谢性碱中毒",
+            "D.\tAG正常型代谢性酸中毒合并代谢性碱中毒",
+            "E.\t代谢性酸中毒合并呼吸性碱中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t某肺心病患者经人工通气后，血气分析及电解 质分析结果：pH 7. 47， PaCO2 28mmHg， HCO3- 20mmol/L， Na+ 140mmol/L， Cl- 98mmol/L， K+ mmol/L，可诊断为",
+        "options": [
+            "A.\t没有酸碱失衡",
+            "B.\tAG增高型代谢性酸中毒合并代谢性碱中毒",
+            "C.\tAG增高型代谢性酸中毒",
+            "D.\t呼吸性碱中毒合并AG增高型代谢性酸中毒合并 代谢性碱中毒",
+            "E.\t呼吸性酸中毒合并AG增高型代谢性酸中毒合并 代谢性碱中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t某肺心病患者伴水肿，用速尿利尿后，其血气 分析及电解质测定结果如下：pH7.34，PaCO2 66mmHg， HCO3-36mmol/L， Na+ 140 mmol/L， mmol/L，试分析属何种酸碱失衡？",
+        "options": [
+            "A.\t单纯性呼吸性酸中毒",
+            "B.\t呼吸性酸中毒合并代谢性碱中毒",
+            "C.\t呼吸性酸中毒合并AG增高型代谢性酸中毒",
+            "D.\t呼吸性酸中毒合并AG正常型代谢性酸中毒",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t休克伴发代谢性酸中毒中下列哪项变化是不存 在的？",
+        "options": [
+            "A.\t血[K+] f",
+            "B.\t血[Cl-] f",
+            "C.\tAGf",
+            "D.\t尿 pH l",
+            "E.    BB l"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t酮症酸中毒时下列哪项变化是不存在的？",
+        "options": [
+            "A.\t血[K+] f",
+            "B.\t血[Cl-] f",
+            "C.\tAG f",
+            "D.\tPaCO2 l",
+            "E.\tBE负值f"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 56
+    },
+    {
+        "question_text": "57. 酮症酸中毒时，机体可出现",
+        "options": [
+            "A. 细胞内K+释出，肾内H+-Na+交换↓",
+            "B. 细胞内K+释出，肾内H+-Na+交换↑",
+            "C. 细胞外K+内移，肾内H+-Na+交换↓",
+            "D. 细胞外K+内移，肾内H+-Na+交换↑",
+            "E. 细胞外K+内移，肾内K+-Na+交换↓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t乳酸酸中毒时，机体可出现",
+        "options": [
+            "A.\t肾内K+-Na+交换I，细胞内H释出",
+            "B.\t肾内K+-Na+交换f,细胞内H释出",
+            "C.\t肾内K+-Na+交换l,细胞外H+内移",
+            "D.\t肾内K+-Na+交换f,细胞外H+内移",
+            "E.\t肾内H+-Na+交换l,细胞外H+内移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 58
+    },
+    {
+        "question_text": "59. 缺钾性碱中毒时，机体可出现",
+        "options": [
+            "A、 细胞外K+内移，肾近曲小管K+-Na+交换↓B、 细胞外K+内移，肾近曲小管H+-Na+交换↑C、 细胞外K+内移，肾近曲小管H+-Na+交换↓D、 细胞内K+释出，肾近曲小管H+-Na+交换↑E、 细胞内K+释出，肾近曲小管H+-Na+交换↓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t急性呼吸性碱中毒患者发生手足搐搦的机制是",
+        "options": [
+            "A.\t血[K+] l",
+            "B.\t血[Ca2+] l",
+            "C.\t血[Na+] f",
+            "D.\t血[Cl-] f",
+            "E.\t血[Mg2+] f"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t低钾血症引起酸碱平衡紊乱的特点是",
+        "options": [
+            "A.\t血浆 HCO3- l，血浆 H+ f, f",
+            "B.\t血浆 HCO3- l，血浆 H+ f,l",
+            "C.\t血浆 HCO3- f，血浆 H+ l,l",
+            "D.\t血浆 HCO3- f，血浆 H+ l,f",
+            "E.\t血浆 HCO3- l，血浆 H+ f,l"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t代谢性酸中毒时心血管系统的变化中哪项是正 确的？",
+        "options": [
+            "A.\t心肌细胞Em负值f",
+            "B.\tCa2+与肌钙蛋白结合f",
+            "C.\tCa2+ 内流 f",
+            "D.\t肌浆网释Ca2+减少",
+            "E.\t对儿茶酚胺反应性f"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 62
+    },
+    {
+        "question_text": "63.肾小管性酸中毒的特点是",
+        "options": [
+            "A.血 HCO3-↓，血 H+↑，尿液 H+↑",
+            "B.血 HCO3-↓，血 H+↓，尿液 H+↑",
+            "C.血 HCO3-↓，血 H+↓，尿液 H+↓",
+            "D.血 HCO3-↓，血 H+↑，尿液 H+↓",
+            "E.血 HCO3-↑，血 H+↓，尿液 H+↓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 63
+    },
+    {
+        "question_text": "64.肾小管性酸中毒时，机体可出现",
+        "options": [
+            "A.细胞内 K+释出，肾小管 H+-Na+交换↓",
+            "B.细胞内 K+释出，肾小管 H+-Na+交换↑",
+            "C.细胞外 K+内移，肾小管 H+-Na+交换↓",
+            "D.细胞外 K+内移，肾小管 H+-Na+交换↑",
+            "E.细胞外 K+内移，肾小管 K+-Na+交换↓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 64
+    },
+    {
+        "question_text": "65.酸中毒时中枢神经系统酶活性的改变中下列哪一项是正确的？",
+        "options": [
+            "A.γ-氨基丁酸转氨酶活性↑",
+            "B.谷氨酸脱羧酶活性↑",
+            "C.生物氧化酶活性↑",
+            "D.碳酸酐酶活性↓",
+            "E.谷氨酰胺酶活性↓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 65
+    },
+    {
+        "question_text": "66.应用速尿引起的代谢性碱中毒中下列哪一项是正确的？",
+        "options": [
+            "A.K+向细胞内转移引起低血钾",
+            "B.远端肾单位 K+-Na+交换↑，H+-Na+交换↑",
+            "C.醛固酮分泌↓",
+            "D.血[Cl-]正常",
+            "E.用生理盐水治疗有效"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 66
+    },
+    {
+        "question_text": "67.有关盐皮质激素过多引起的代谢性碱中毒，下列哪一项是正确的？",
+        "options": [
+            "A.由肾 H+-ATP 酶泵活性增强所致",
+            "B.K+向细胞内转移致低钾血症",
+            "C.尿 pH↓",
+            "D.血[Cl-]↓",
+            "E.用生理盐水治疗有效"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 67
+    },
+    {
+        "question_text": "68.代谢性碱中毒时中枢抑制介质减少与下列哪些酶活性的变化有关？",
+        "options": [
+            "A.谷氨酸脱羧酶活性↑",
+            "B.碳酸酐酶活性↑",
+            "C.丙酮酸脱氢酶活性↓",
+            "D.γ-氨基丁酸转氨酶活性↑",
+            "E.谷氨酰胺酶活性↑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 68
+    },
+    {
+        "question_text": "69.代谢性酸中毒时不会出现：",
+        "options": [
+            "A.高钾血症",
+            "B.呼吸深而快",
+            "C.骨骼脱钙",
+            "D.肾小管上皮细胞碳酸酐酶活性下降",
+            "E.尿液一般呈酸性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 69
+    },
+    {
+        "question_text": "70.某肾小球肾炎患者，血气分析测定：pH 7.30，PaCO2 30mmHg，HCO3- 18mmol/L，该病人应诊断为：",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.呼吸性酸中毒",
+            "C.代谢性碱中毒",
+            "D.呼吸性碱中毒",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 70
+    },
+    {
+        "question_text": "71.酸中毒时心肌收缩力减弱的机制中下列哪一项不存在？",
+        "options": [
+            "A.血钙浓度降低",
+            "B.血钾浓度升高",
+            "C.H+竞争性抑制 Ca2+与肌钙蛋白结合",
+            "D.H+抑制肌浆网释放 Ca2+",
+            "E.H+抑制 Ca2+内流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 71
+    },
+    {
+        "question_text": "72.剧烈呕吐导致代谢性碱中毒与下列哪种因素无关？",
+        "options": [
+            "A.H+丢失",
+            "B.K+丢失",
+            "C.Cl-丢失",
+            "D.Na+丢失",
+            "E.细胞外液丢失"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 72
+    }
+]

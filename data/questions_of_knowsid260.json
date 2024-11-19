@@ -1,0 +1,296 @@
+[
+    {
+        "question_text": "1.引起心悸的生理原因可见于:",
+        "options": [
+            "A.剧烈运动",
+            "B.精神过度紧张",
+            "C.饮酒后",
+            "D.服用阿托品后",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列哪项不是引起心悸的病因？",
+        "options": [
+            "A.心率增快",
+            "B.心率减慢",
+            "C.心房纤颤",
+            "D.心脏收缩力降低",
+            "E.心室增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 2
+    },
+    {
+        "question_text": "3.关于心悸的说法，错误的是:",
+        "options": [
+            "A.是一种自觉心脏跳动的不适感觉",
+            "B.也称心慌感",
+            "C.心率快时或慢时都可出现",
+            "D.心悸可出现于心律失常",
+            "E.心悸对心脏病有着重要的临床意义"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列属于病理性心悸病因的是:",
+        "options": [
+            "A.剧烈运动",
+            "B.大量饮酒",
+            "C.大量饮咖啡",
+            "D.心脏瓣膜病",
+            "E.应用肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项是引起心悸的常见病因？",
+        "options": [
+            "A.应用阿托品",
+            "B.饮酒和喝浓茶、咖啡后",
+            "C.精神过度紧张",
+            "D.甲状腺功能亢进",
+            "E.剧烈运动时"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪种情况不会出现心悸表现？",
+        "options": [
+            "A.窦性心律不齐",
+            "B.频发早搏",
+            "C.窦性心动过速",
+            "D.心房颤动",
+            "E.窦性心动过缓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 6
+    },
+    {
+        "question_text": "7.应用肾上腺素后出现心悸，易误诊为:",
+        "options": [
+            "A.是自觉心脏跳动的不适感或心慌感",
+            "B.由心脏病引起",
+            "C.心脏搏动增强和心律失常均可引起心悸",
+            "D.有些心脏病患者可无心悸",
+            "E.心悸患者心电图可正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于心悸病人的体格检查，下列意义最小的是:",
+        "options": [
+            "A.脉率和脉律",
+            "B.血压",
+            "C.甲状腺",
+            "D.心脏",
+            "E.脾脏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 8
+    },
+    {
+        "question_text": "9.心悸在病人就诊时申诉为:",
+        "options": [
+            "A.胸部心脏部位有跳痛感",
+            "B.心跳得重而快的感觉",
+            "C.胸部有节奏加快的起伏感",
+            "D.心里有恐惧感",
+            "E.心脏有不停的瞬间针刺感"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 9
+    },
+    {
+        "question_text": "10.最容易产生心悸的是:",
+        "options": [
+            "A.甲状腺功能减退",
+            "B.发热",
+            "C.贫血",
+            "D.甲亢",
+            "E.心功能代偿的风湿性心脏病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 10
+    },
+    {
+        "question_text": "11.哪种情况下不可能有心悸的申诉？",
+        "options": [
+            "A.长期慢性心律失常",
+            "B.窦性心律不齐",
+            "C.窦性心动过速",
+            "D.心房颤动",
+            "E.窦性心动过缓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 11
+    },
+    {
+        "question_text": "12.在下列引起心悸的病因中，哪一项是由心脏搏出量增加所致？",
+        "options": [
+            "A.饮用浓茶后",
+            "B.口服阿托品后",
+            "C.低血糖时",
+            "D.心房颤动发作时",
+            "E.剧烈运动时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列属于病理性的心脏收缩力增强引起的心悸是:",
+        "options": [
+            "A.精神过度紧张时",
+            "B.饮用酒、浓茶或咖啡后",
+            "C.高血压性心脏病",
+            "D.应用甲状腺素后",
+            "E.应用阿托品后"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 13
+    },
+    {
+        "question_text": "14.患者，女性，51岁，糖尿病胰岛素治疗过程中，突发出冷汗、心悸、面色苍白，该患者应首先考虑:",
+        "options": [
+            "A.低血糖",
+            "B.换气过度综合征",
+            "C.重症贫血",
+            "D.急性左心衰",
+            "E.脑出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 14
+    },
+    {
+        "question_text": "15.心悸伴消瘦、出汗可见于:",
+        "options": [
+            "A.心肌炎",
+            "B.甲状腺功能亢进",
+            "C.心包炎",
+            "D.神经官能症",
+            "E.感染性心内膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 15
+    },
+    {
+        "question_text": "16.心悸伴昏厥最常见于:",
+        "options": [
+            "A.贫血",
+            "B.心肌炎",
+            "C.病态窦房结综合征",
+            "D.甲亢",
+            "E.心包炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 16
+    },
+    {
+        "question_text": "17.心悸伴昏厥或抽搐可见于:",
+        "options": [
+            "A.心肌炎",
+            "B.风湿热",
+            "C.心包炎",
+            "D.感染性心内膜炎",
+            "E.病态窦房结综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 17
+    },
+    {
+        "question_text": "18.心悸伴消瘦及出汗可见于:",
+        "options": [
+            "A.心肌炎",
+            "B.心包炎",
+            "C.甲状腺功能亢进症",
+            "D.感染性心内膜炎",
+            "E.心脏神经症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 18
+    },
+    {
+        "question_text": "19.心力衰竭常有:",
+        "options": [
+            "A.心悸伴发热",
+            "B.心悸伴晕厥",
+            "C.心悸伴贫血",
+            "D.劳累后发生心悸",
+            "E.心悸伴发热、多汗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 19
+    },
+    {
+        "question_text": "20.阵发性室性心功过速可有:",
+        "options": [
+            "A.心悸伴发热",
+            "B.心悸伴晕厥",
+            "C.心悸伴贫血",
+            "D.劳累后发生心悸",
+            "E.心悸伴发热、多汗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 20
+    },
+    {
+        "question_text": "21.甲状腺功能亢进症多有:",
+        "options": [
+            "A.心悸伴发热",
+            "B.心悸伴晕厥",
+            "C.心悸伴贫血",
+            "D.劳累后发生心悸",
+            "E.心悸伴发热、多汗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 21
+    }
+]

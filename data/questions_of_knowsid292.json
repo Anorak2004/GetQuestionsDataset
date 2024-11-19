@@ -1,0 +1,2494 @@
+[
+    {
+        "question_text": "1.关于心电图产生原理方面，以下哪一项是错误的？",
+        "options": [
+            "A.心电的产生是心肌细胞随心动周期变化而出现的电位动态改变",
+            "B.在静息状态下心肌细胞膜内为带正电的钾离子反应",
+            "C.在静息状态下心肌细胞内钾离子向细胞外透出",
+            "D.静息状态下心肌细胞膜外为负电，膜内为正电",
+            "E.静息期的心肌细胞呈极化状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 1
+    },
+    {
+        "question_text": "2.反映左右心房除极的电位变化是:",
+        "options": [
+            "A.P波",
+            "B.QRS波",
+            "C.PR间期",
+            "D.T波",
+            "E.ST段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常情况下，心室的除极方向是:",
+        "options": [
+            "A.从心内膜到心外膜",
+            "B.从心外膜到心内膜",
+            "C.从左到右",
+            "D.从心尖到心底",
+            "E.从心底到心尖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 3
+    },
+    {
+        "question_text": "4.心室除极首先从:",
+        "options": [
+            "A.左室开始",
+            "B.右室开始",
+            "C.室间隔中部开始",
+            "D.室间隔上部开始",
+            "E.基底部开始"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 4
+    },
+    {
+        "question_text": "5.代表心室除极的电位变化是:",
+        "options": [
+            "A.P波",
+            "B.QRS波",
+            "C.PR间期",
+            "D.T波",
+            "E.ST段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 5
+    },
+    {
+        "question_text": "6.代表心室快速复极的电位变化是:",
+        "options": [
+            "A.P波",
+            "B.QRS波",
+            "C.PR间期",
+            "D.T波",
+            "E.ST段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 6
+    },
+    {
+        "question_text": "7.心房开始除极至心室开始除极时间是:",
+        "options": [
+            "A.P波",
+            "B.QRS波",
+            "C.PR间期",
+            "D.T波",
+            "E.ST段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪一项代表心电图的心室的除极过程？",
+        "options": [
+            "A.P波",
+            "B.T波",
+            "C.QRS波",
+            "D.U波",
+            "E.ST段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 8
+    },
+    {
+        "question_text": "9.QRS波群只表现为一个向下的大波时，其命名应该是:",
+        "options": [
+            "A.S波",
+            "B.Q波",
+            "C.QS波",
+            "D.qS波",
+            "E.q波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于QRS综合波的命名，错误的是:",
+        "options": [
+            "A.QRS综合波中先出现的负向波为Q波",
+            "B.QRS结合波中先出现的正向波是R波",
+            "C.R波后出现的负向波称S波",
+            "D.S波后再出现的正向波称T波",
+            "E.整个综合波均属负向波者称为QS波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于心电图各波的名称，错误的是:",
+        "options": [
+            "A.R波后再出现的P波称为P'波",
+            "B.S波后再出现的正向波称R'波",
+            "C.R'波后再出现的负向波称为S'波",
+            "D.在一个导联上，可根据波幅的大小，将QRS波写成Q或q，R或r，S或s",
+            "E.ST段之后出现的向上或向下的波为T波"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项是标准Ⅱ导联的联接方式？",
+        "options": [
+            "A.左上肢为阳极，右上肢为阴极",
+            "B.左上肢为阴极，左下肢为阳极",
+            "C.右上肢为阴极，右下肢为阳极",
+            "D.右上肢为阳极，左下肢为阴极",
+            "E.左下肢为阳极，右上肢为阴极"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 12
+    },
+    {
+        "question_text": "13.V1导联放置于:",
+        "options": [
+            "A.胸骨右缘第4肋间",
+            "B.胸骨左缘第4肋间",
+            "C.左锁骨中线与第5肋间相交处",
+            "D.左腋前线与V4同一水平处",
+            "E.左腋中线与V4同一水平处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 13
+    },
+    {
+        "question_text": "14.V2导联放置于:",
+        "options": [
+            "A.胸骨右缘第4肋间",
+            "B.胸骨左缘第4肋间",
+            "C.左锁骨中线与第5肋间相交处",
+            "D.左腋前线与V4同一水平处",
+            "E.左腋中线与V4同一水平处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 14
+    },
+    {
+        "question_text": "15.V4导联放置于:",
+        "options": [
+            "A.胸骨右缘第4肋间",
+            "B.胸骨左缘第4肋间",
+            "C.左锁骨中线与第5肋间相交处",
+            "D.左腋前线与V4同一水平处",
+            "E.左腋中线与V4同一水平处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 15
+    },
+    {
+        "question_text": "16.V5导联放置于:",
+        "options": [
+            "A.胸骨右缘第4肋间",
+            "B.胸骨左缘第4肋间",
+            "C.左锁骨中线与第5肋间相交处",
+            "D.左腋前线与V4同一水平处",
+            "E.左腋中线与V4同一水平处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 16
+    },
+    {
+        "question_text": "17.V6导联放置于:",
+        "options": [
+            "A.胸骨右缘第4肋间",
+            "B.胸骨左缘第4肋间",
+            "C.左锁骨中线与第5肋间相交处",
+            "D.左腋前线与V4同一水平处",
+            "E.左腋中线与V4同一水平处"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于胸导联电极的安放，下列哪项不正确:",
+        "options": [
+            "A.V1——胸骨右缘第4肋间",
+            "B.V2——胸骨左缘第4肋间",
+            "C.V3——V2与V4连线中点",
+            "D.V4——左第5肋间锁骨中线处",
+            "E.V5——左第5肋间腋中线处"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 18
+    },
+    {
+        "question_text": "19.走纸速度是25mm/s时，RR间距为0.8s，心率应是",
+        "options": [
+            "A.80次/分",
+            "B.60次/分",
+            "C.75次/分",
+            "D.100次分",
+            "E.120次/分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 19
+    },
+    {
+        "question_text": "20.常规体表心电图的纸速一般为:",
+        "options": [
+            "A.15mm/s",
+            "B.20mm/s",
+            "C.25mm/s",
+            "D.30mm/s",
+            "E.50mm/s"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于心电轴，下列说法哪项正确？",
+        "options": [
+            "A.I导联主波向上，Ⅲ导联主波向下——电轴右偏",
+            "B.I、Ⅲ导联主波均向下——电轴不偏",
+            "C.I导联主波向下，Ⅲ导联主波向上——电轴右偏",
+            "D.正常心电轴在0°～+110°之间",
+            "E.心电轴轻度右偏是指心电轴在+90°～+120°之间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于估测心电轴的大致方位，错误的是:",
+        "options": [
+            "A.根据I、Ⅲ导联QRS波的主波方向进行估测",
+            "B.I、Ⅲ导联QRS波的主波均为正向波，则可推断为正常心电轴",
+            "C.若I导联为较深的负向波，则为心电轴右偏",
+            "D.若Ⅲ导联为较深的负向波，则属心电轴左偏",
+            "E.还可取心前导联的QRS波的主波方向来估测"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 22
+    },
+    {
+        "question_text": "23.下列哪一种情况，心电轴一般不出现左偏？",
+        "options": [
+            "A.左心室肥厚",
+            "B.左前分支阻滞",
+            "C.肥胖",
+            "D.横位心",
+            "E.左后分支阻滞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 23
+    },
+    {
+        "question_text": "24.窦性P波:",
+        "options": [
+            "A.前半部代表窦房结除极，后半部代表心房除极",
+            "B.前半部代表心房除极，后半部代表心房复极",
+            "C.前半部代表窦房结除极，后半部代表右心房除极",
+            "D.前半部代表左心房除极，后半部代表右心房除极",
+            "E.前半部代表右心房除极，后半部代表左心房除极"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 24
+    },
+    {
+        "question_text": "25.P波代表:",
+        "options": [
+            "A.左心房肥大",
+            "B.房间隔兴奋",
+            "C.室间隔兴奋",
+            "D.心室除极",
+            "E.心房除极"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 25
+    },
+    {
+        "question_text": "26.P波振幅在胸导联应该:",
+        "options": [
+            "A.＜0.25mv",
+            "B.＜0.2mv",
+            "C.＜0.3mv",
+            "D.＜0.15mv",
+            "E.＜0.1mv"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 26
+    },
+    {
+        "question_text": "27.正常窦性P波的描述，下列哪项错误？",
+        "options": [
+            "A.是心脏最早兴奋的标志",
+            "B.宽度不超过0.11秒",
+            "C.肢体导联振幅不超过0.25mv",
+            "D.胸导联振幅不超过0.20mv",
+            "E.avR导联倒置，Ⅱ导联直立"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 27
+    },
+    {
+        "question_text": "28.正常心电图在以下哪一个导联P波是倒置的？",
+        "options": [
+            "A.I导联",
+            "B.Ⅱ导联",
+            "C.avR导联",
+            "D.avF导联",
+            "E.V4～V6导联"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项提示P波异常？",
+        "options": [
+            "A.Ⅱ导联P波直立",
+            "B.Ⅲ导联P波双向",
+            "C.aVR导联P波倒置",
+            "D.aVL导联P波不明显",
+            "E.V5导联P波倒置"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 29
+    },
+    {
+        "question_text": "30.在心电图上最早出现的幅度较小的P波，反映的是:",
+        "options": [
+            "A.心房的复极过程",
+            "B.心房的除极过程",
+            "C.心室的除极过程",
+            "D.心室的复极过程",
+            "E.心房到心室激动的一个完整过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 30
+    },
+    {
+        "question_text": "31.PR间期的意义是:",
+        "options": [
+            "A.心房除极及复极全过程",
+            "B.心房开始除极至心室开始除极过程",
+            "C.心室除极过程",
+            "D.心室快速复极过程",
+            "E.心室缓慢复极过程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 31
+    },
+    {
+        "question_text": "32.心率正常时，成人的PR间期为:",
+        "options": [
+            "A.0.10～0.20秒",
+            "B.0.20～0.22秒",
+            "C.0.12～0.20秒",
+            "D.0.20～0.30秒",
+            "E.0.32～0.42秒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 32
+    },
+    {
+        "question_text": "33.如RR间距为0.6s，则心率为:",
+        "options": [
+            "A.60次/分",
+            "B.75次/分",
+            "C.80次分",
+            "D.100次分",
+            "E.120次/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 33
+    },
+    {
+        "question_text": "34.QRS波群反映的是:",
+        "options": [
+            "A.心室除极",
+            "B.心室复极",
+            "C.心房除极",
+            "D.心房复极",
+            "E.一个心动周期的全部电生理过程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 34
+    },
+    {
+        "question_text": "35.正常的Q波振幅应小于同导联中R波的:",
+        "options": [
+            "A.1/2",
+            "B.1/3",
+            "C.1/4",
+            "D.1/5",
+            "E.1/6"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 35
+    },
+    {
+        "question_text": "36.一般正常的Q波时限应:",
+        "options": [
+            "A.＜0.04秒",
+            "B.＜0.06秒",
+            "C.＜0.08秒",
+            "D.＜0.10秒",
+            "E.＜0.12秒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 36
+    },
+    {
+        "question_text": "37.关于正常人Q波，下列哪项不正确:",
+        "options": [
+            "A.Q波振幅＜1/4R",
+            "B.Q波时间＜0.04秒",
+            "C.aVR导联可见深而宽的Q波",
+            "D.V1导联可呈QS波",
+            "E.V1～V2导联应有q波"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 37
+    },
+    {
+        "question_text": "38.心电图中QRS波群的振幅，错误的是:",
+        "options": [
+            "A.V1导联的R波一般不小于1.0mv",
+            "B.V5导联的R波不超过2.5mv",
+            "C.aVL导联的R波小于1.2mv",
+            "D.aVF导联的R波小于2.0mv",
+            "E.Ⅰ导联的R波小于1.5mv"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列关于室壁激动（R峰）时间正确的是:",
+        "options": [
+            "A.自R波顶峰起至QRS波的时间",
+            "B.自QRS波起始部起至R波顶峰所作垂线间的时间",
+            "C.QRS波时间的总和",
+            "D.自QRS波的起始部至T波开始之间的一段时间",
+            "E.自R波顶峰起作垂线至T波开始之间的一段时间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 39
+    },
+    {
+        "question_text": "40.关于ST段的阐述，下列哪一项不正确？",
+        "options": [
+            "A.ST段是自QRS波群的终点至T波起点间的线段",
+            "B.ST段表示心室除极刚结束尚处在缓慢复极的一段短暂时间",
+            "C.任何导联ST段下移应＜0.05mv",
+            "D.V1、V2导联ST段抬高应＜0.3mv",
+            "E.V5、V6导联ST段抬高应＜0.5mv"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 40
+    },
+    {
+        "question_text": "41.心电图中ST段代表的是:",
+        "options": [
+            "A.心房肌除极的电位变化",
+            "B.心室肌除级的电位变化",
+            "C.心室缓慢复极时的电位变化",
+            "D.心室快速复极时的电位变化",
+            "E.心室后继电位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 41
+    },
+    {
+        "question_text": "42.在正常心电图中任何导联S-T段压低均不应大于:",
+        "options": [
+            "A.0.01mv",
+            "B.0.05mv",
+            "C.0.1mv",
+            "D.0.5mv",
+            "E.1.0mv"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列关于正常心电图S-T段向下偏移的范围正确的是:",
+        "options": [
+            "A.在任何导联，ST段向下偏移不应超过0.05mv",
+            "B.在任何导联，ST段向下偏移不应超过0.1mv",
+            "C.在标准导联，ST段向下偏移不应超过0.1mv",
+            "D.在加压单极肢体导联，ST段向下偏移不应超过0.1mv",
+            "E.在V4～V6导联，ST段后下偏移不应超过0.1mv"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 43
+    },
+    {
+        "question_text": "44.关于ST段的叙述，错误的是:",
+        "options": [
+            "A.正常的ST段多为一等电位线",
+            "B.在任一导联，ST段下移不应超过0.5mV",
+            "C.ST段上升在V1～V2导联不超过0.3mV",
+            "D.ST段上升在V3导联不超过0.5mv",
+            "E.ST段上升在V4～V6不超过0.1mv"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 44
+    },
+    {
+        "question_text": "45.T波的产生是由于:",
+        "options": [
+            "A.心房除极",
+            "B.心房复极",
+            "C.心室除极",
+            "D.心室复极",
+            "E.心房心室复极"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 45
+    },
+    {
+        "question_text": "46.T波振幅低平是指:",
+        "options": [
+            "A.＜同导联R波1/10",
+            "B.＜同导联R波1/4",
+            "C.＜同导联R波1/5",
+            "D.＜0.5mv",
+            "E.＜0.2mv"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 46
+    },
+    {
+        "question_text": "47.心电图中，正常Q-Tc的最高值为:",
+        "options": [
+            "A.0.12秒",
+            "B.0.20秒",
+            "C.0.32秒",
+            "D.0.40秒",
+            "E.0.44秒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 47
+    },
+    {
+        "question_text": "48.心电图各波段的时间哪项不正常？",
+        "options": [
+            "A.P波＜0.11秒",
+            "B.QRS波群0.06～0.10秒",
+            "C.Q波＜0.04秒",
+            "D.PR间期0.20～0.24秒",
+            "E.ST段0.10～0.16秒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列心电图表现异常的是:",
+        "options": [
+            "A.P波时限0.06～0.10秒",
+            "B.PR间期0.12～0.20秒",
+            "C.QRS波群时限0.06～0.10秒",
+            "D.Q-T间期0.60秒",
+            "E.ST段任何导联上抬均＜0.1mv"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 49
+    },
+    {
+        "question_text": "50.P波增宽，呈双峰型见于:",
+        "options": [
+            "A.左房肥大",
+            "B.右房肥大",
+            "C.左室肥大",
+            "D.右室肥大",
+            "E.双室肥大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 50
+    },
+    {
+        "question_text": "51.高尖P波见于:",
+        "options": [
+            "A.左房肥大",
+            "B.右房肥大",
+            "C.左室肥大",
+            "D.右室肥大",
+            "E.双室肥大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 51
+    },
+    {
+        "question_text": "52.心电图上P波宽度为0.14秒，呈双峰，高度0.2mv，诊断是:",
+        "options": [
+            "A.左心房肥大",
+            "B.左心室肥大",
+            "C.左心房和右心房同时肥大",
+            "D.右心房肥大",
+            "E.右心室肥大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 52
+    },
+    {
+        "question_text": "53.下列哪项满足左心房肥大的诊断标准:",
+        "options": [
+            "A.P波时限＞0.10秒",
+            "B.PI、Ⅱ、aVL有切迹，P波时限＞0.12秒",
+            "C.PⅡ、Ⅲ、aVF高尖",
+            "D.V1的正向P波振幅＞0.15mv",
+            "E.P波有切迹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 53
+    },
+    {
+        "question_text": "54.左房肥大的心电图特点是:",
+        "options": [
+            "A.P波高尖",
+            "B.P波增宽呈双峰型",
+            "C.p波振幅≥0.25mv",
+            "D.P波振幅≥0.25mv，又呈双峰型",
+            "E.高大的P波以Ⅱ、Ⅲ导联最突出"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列哪项是右心房大的心电图表现？",
+        "options": [
+            "A.P波增宽大于0.12秒",
+            "B.V1导联P波高大双向",
+            "C.QRS波群电压增高",
+            "D.P波尖而高耸振幅大于0.25mv",
+            "E.V5≥2.5mv"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 55
+    },
+    {
+        "question_text": "56.右心房肥厚、扩张时，心电图表现错误的是:",
+        "options": [
+            "A.P波尖而高耸",
+            "B.P波振幅≥0.25mv",
+            "C.P波高尖以Ⅱ、Ⅲ导联及aVF导联最为突出",
+            "D.P波宽度＜0.11秒",
+            "E.高尖的P波称为“二尖瓣P波”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 56
+    },
+    {
+        "question_text": "57.诊断左心室肥大最主要的条件是:",
+        "options": [
+            "A.QRS波群增宽",
+            "B.左室高电压",
+            "C.心电轴显著左偏",
+            "D.T波倒置明显",
+            "E.ST段可抬高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 57
+    },
+    {
+        "question_text": "58.诊断左心室肥大的基本条件是:",
+        "options": [
+            "A.左心室电压增高",
+            "B.QES时间达0.06～0.10秒",
+            "C.V5导联VAT＞0.05秒",
+            "D.V5或R波为主的导联ST段下移，T波倒置",
+            "E.心电轴左偏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 58
+    },
+    {
+        "question_text": "59.指出下列哪项不是右心室肥大的特征？",
+        "options": [
+            "A.额面心电轴-30°",
+            "B.V1导联R/S≥1",
+            "C.RV1＋SV5＞1.05mv",
+            "D.有的病例可见V1导联呈QS型、QR型",
+            "E.右胸前导联ST-T改变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 59
+    },
+    {
+        "question_text": "60.心电图示:①窦性心律；②P波宽度为0.10s，其振幅在Ⅱ、Ⅲ、aVF导联达0.26mv应考虑为:",
+        "options": [
+            "A.右房肥大",
+            "B.左房肥大",
+            "C.双房肥大",
+            "D.右室肥大",
+            "E.左窒肥大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 60
+    },
+    {
+        "question_text": "61.肺心病的心电图改变中，下列哪项不正确的是？",
+        "options": [
+            "A.肺型P波",
+            "B.肢体导联QRS波群低电压",
+            "C.右心室肥大",
+            "D.左心房肥大",
+            "E.极度顺钟向转位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 61
+    },
+    {
+        "question_text": "62.某风湿性心脏病患者，心电图检查:心室率85次/min，电轴+150°，PI、Ⅱ、aVL切迹明显，P波时限＞0.13秒，V1Ptf为0.08mm·s，V1R/S＞1,V5R/S＜1，P-R间距0.22秒。该患者应考虑为:",
+        "options": [
+            "A.右心房、右心室肥大",
+            "B.左心房、右心室肥大伴Ⅰ度房室传导阻滞",
+            "C.左心房、右心室肥大",
+            "D.右心室肥大",
+            "E.右心室肥大伴Ⅰ度房室传导阻滞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 62
+    },
+    {
+        "question_text": "63.变异性心绞痛的心电图表现是:",
+        "options": [
+            "A.缺血型ST段压低≥0.05mv",
+            "B.T波低平、双向或倒置",
+            "C.ST段下斜型下移≥0.05mv",
+            "D.ST段抬高并常伴有高耸T波",
+            "E.ST段缺血型下移和T波倒置"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪项心电图改变能确定有心肌缺血？",
+        "options": [
+            "A.左心室电压增高",
+            "B.P波电压＞0.3mv",
+            "C.V3导联ST段近似水平抬高0.3mv",
+            "D.电轴显著左偏",
+            "E.V4、V5、V6导联的ST段水平下移＞0.12mv伴T波倒置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 64
+    },
+    {
+        "question_text": "65.心绞痛发作心电图最常见的改变为:",
+        "options": [
+            "A.T波高耸",
+            "B.ST段水平压低0.1mv以上",
+            "C.完全性右束支传导阻滞",
+            "D.异常Q波",
+            "E.QT延长"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 65
+    },
+    {
+        "question_text": "66.变异性心绞痛的心电图表现通常为:",
+        "options": [
+            "A.有关导联一过性Q波",
+            "B.有关导联一过性ST段水平型下移≥0.5mv",
+            "C.有关导联一过性ST段抬高伴对应导联ST段下移",
+            "D.一过性T波高耸或倒置",
+            "E.持续性ST抬高伴T波倒置"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 66
+    },
+    {
+        "question_text": "67.“冠状T”广义上指:",
+        "options": [
+            "A.T波直立高耸，呈帐篷样",
+            "B.T波低平或双向",
+            "C.T波倒置，呈鱼钩样",
+            "D.T波直立或倒置，双支对称，顶端或低端呈箭头样",
+            "E.T波深倒置，呈瀑布样"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 67
+    },
+    {
+        "question_text": "68.典型心绞痛的心电图表现通常不包括:",
+        "options": [
+            "A.T波低平、双向或倒置",
+            "B.ST段压低",
+            "C.ST段抬高",
+            "D.原有ST-T异常，心绞痛发作时ST-T正常",
+            "E.U波倒置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 68
+    },
+    {
+        "question_text": "69.心内膜下心肌缺血时，心电图可出现T波:",
+        "options": [
+            "A.T波低平",
+            "B.T波倒置",
+            "C.T波双相",
+            "D.T波高大直立",
+            "E.没有变化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 69
+    },
+    {
+        "question_text": "70.关于心肌缺血的心电图改变，错误的是:",
+        "options": [
+            "A.心内膜下心肌缺血，出现与QRS主波方向一致的高大T波",
+            "B.心外膜面缺血，出现与正常相反的T波，如下壁缺血出现Ⅱ、Ⅲ、aVF倒置T波",
+            "C.心肌缺血时可出现ST段下移≥0.1mV",
+            "D.心肌缺血时，下移的ST段与R波夹角≥90°",
+            "E.ST段弓背向上抬高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 70
+    },
+    {
+        "question_text": "71.下列哪项反映心肌有损伤？",
+        "options": [
+            "A.期前收缩",
+            "B.心动过速",
+            "C.病理性Q波",
+            "D.ST段抬高",
+            "E.T波倒置"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 71
+    },
+    {
+        "question_text": "72.心肌梗塞者损伤型ST段是指:",
+        "options": [
+            "A.ST段压低呈水平型",
+            "B.ST段抬高弓背向上型",
+            "C.ST段压低下垂型",
+            "D.ST段压低呈上斜型",
+            "E.ST-T连接成鱼勾钩状"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 72
+    },
+    {
+        "question_text": "73.下列哪项是慢性冠状动脉供血不足的心电图表现？",
+        "options": [
+            "A.ST段抬高，弓背向上",
+            "B.ST段抬高，弓背向下",
+            "C.ST段下移0.02毫伏，T波平坦",
+            "D.ST段水平型下移0.05毫伏，T波倒置",
+            "E.QRS波群低电压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 73
+    },
+    {
+        "question_text": "74.下列不支持慢性冠状动脉供血不足的是:",
+        "options": [
+            "A.ST段水平型村低＞0.05mv",
+            "B.T波高耸呈帐篷状",
+            "C.各种心律失常",
+            "D.左心室肥大、Q-T间期延长",
+            "E.U波持续倒置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪项是心绞痛的心电图表现？",
+        "options": [
+            "A.PR间期延长",
+            "B.QRS波群增宽",
+            "C.深宽的Q波",
+            "D.ST段下移，T波倒置",
+            "E.QT延长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列哪项不是心绞痛发作时的心电图改变？",
+        "options": [
+            "A.ST段降低≥0.05mv",
+            "B.T波平坦，双相或倒置",
+            "C.ST段降低，伴T波倒置",
+            "D.QRS波群≥0.12秒",
+            "E.ST段抬高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 76
+    },
+    {
+        "question_text": "77.下列哪项是心肌缺血的心电图特征性表现？",
+        "options": [
+            "A.ST段弓背型抬高",
+            "B.T波深倒置",
+            "C.ST段下斜型降低",
+            "D.病理性Q波",
+            "E.ST-T鱼钩样降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 77
+    },
+    {
+        "question_text": "78.心肌损伤的心电图特征性表现是:",
+        "options": [
+            "A.T波倒置",
+            "B.ST段抬高",
+            "C.ST段下斜型压低0.1mV",
+            "D.病理性Q波",
+            "E.ST鱼钩样降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 78
+    },
+    {
+        "question_text": "79.下列哪项是心肌梗死与心绞痛鉴别最有意义的心电图表现？",
+        "options": [
+            "A.ST段抬高",
+            "B.ST段抬高，伴尖耸T波",
+            "C.异常（病理）Q波",
+            "D.冠状T波",
+            "E.T波高耸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 79
+    },
+    {
+        "question_text": "80.心电图对区别心肌梗死和变异性心绞痛最有诊断意义的改变是:",
+        "options": [
+            "A.频发室性早搏",
+            "B.ST段上抬",
+            "C.T波异常高耸",
+            "D.病理性Q波",
+            "E.T波呈冠状T"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 80
+    },
+    {
+        "question_text": "81.急性心肌梗塞最早的心电图改变是:",
+        "options": [
+            "A.ST段呈弓背向上抬高",
+            "B.异常Q波",
+            "C.T波高耸",
+            "D.T波倒置",
+            "E.室性心律失常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 81
+    },
+    {
+        "question_text": "82.典型的心肌梗死表现为:",
+        "options": [
+            "A.肺型P波",
+            "B.二尖瓣P波",
+            "C.坏死性Q波",
+            "D.F波",
+            "E.f波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 82
+    },
+    {
+        "question_text": "83.下列哪项是急性心肌梗死最早期的心电图改变？",
+        "options": [
+            "A.ST段抬高呈弓背向上",
+            "B.出现异常Q波和ST段抬高",
+            "C.出现异常Q波，ST段抬高和T波倒置",
+            "D.T波高耸",
+            "E.以R波为主的导联ST段呈水平型下移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 83
+    },
+    {
+        "question_text": "84.急性心肌梗死时，对诊断最有价值的心电图改变是:",
+        "options": [
+            "A.Q波＞同导联R波1/5",
+            "B.T波倒置0.2mv",
+            "C.频发室性早搏",
+            "D.T波异常高耸，呈帐篷型改变",
+            "E.病理性Q波伴ST段呈弓背向上型抬高，与T波形成单项曲线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 84
+    },
+    {
+        "question_text": "85.心肌梗死近期的心电图特点主要是:",
+        "options": [
+            "A.ST段抬高",
+            "B.坏死性Q波",
+            "C.心电轴左偏",
+            "D.QRS波时限延长",
+            "E.T波倒置且深"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 85
+    },
+    {
+        "question_text": "86.心肌梗死陈旧期的心电图特点主要是:",
+        "options": [
+            "A.P波消失，代之以f波",
+            "B.持续性存在坏死性Q波",
+            "C.ST段下移",
+            "D.T波倒置",
+            "E.出现U波"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 86
+    },
+    {
+        "question_text": "87.下列哪项是诊断陈旧性心肌梗死的依据？",
+        "options": [
+            "A.冠状T波",
+            "B.ST段弓背向上抬高",
+            "C.ST段弓背向下抬高",
+            "D.持久存在异常Q波",
+            "E.QRS波宽大畸形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 87
+    },
+    {
+        "question_text": "88.下列哪项心电图改变时诊断陈旧性心肌梗死必要的？",
+        "options": [
+            "A.QRS低电压",
+            "B.QT间期延长",
+            "C.病理性Q波",
+            "D.缺血性T波倒置",
+            "E.缺血性ST段压低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 88
+    },
+    {
+        "question_text": "89.病理性Q波心电图特征为:",
+        "options": [
+            "A.Q波≥0.04秒",
+            "B.Q波≥0.08秒，Q波≥1/4R",
+            "C.Q波≥0.04秒，Q波≥1/4R",
+            "D.Q波≥1/2R，Q波≥0.08秒",
+            "E.V1导联出现的QS波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 89
+    },
+    {
+        "question_text": "90.心电图上出现的异常Q波（坏死型Q波）是指:",
+        "options": [
+            "A.Q波深度＞1/4R波",
+            "B.Q波宽度≥0.04秒",
+            "C.Q波宽度≥0.04秒，深度≥1/4R，并排除个别导联的正常变异",
+            "D.V1导联上出现的QS波",
+            "E.aVR导联上出现的QS波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 90
+    },
+    {
+        "question_text": "91.急性前间壁心梗在心电图上出现特征性变化的导联是:",
+        "options": [
+            "A.Ⅰ、aVL",
+            "B.Ⅱ、Ⅲ、aVF",
+            "C.V4～V6",
+            "D.V1～V3",
+            "E.V1～V5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 91
+    },
+    {
+        "question_text": "92.前壁心肌梗死出现特征心电图改变的导联是:",
+        "options": [
+            "A.V1～V3",
+            "B.V3～V5",
+            "C.Ⅱ、Ⅲ、aVF",
+            "D.Ⅰ、aVL",
+            "E.V7～V9"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 92
+    },
+    {
+        "question_text": "93.Ⅱ、Ⅲ、aVF导联出现异常Q波见于:",
+        "options": [
+            "A.下壁心梗",
+            "B.前壁心梗",
+            "C.前间壁心梗",
+            "D.侧壁心梗",
+            "E.心尖部心梗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 93
+    },
+    {
+        "question_text": "94.下壁心肌梗死出现特征性改变的导联是:",
+        "options": [
+            "A.Ⅰ、aVL、V5",
+            "B.V1、V2、v3",
+            "C.V3R、V4R、V5R",
+            "D.V7、V8",
+            "E.Ⅱ、Ⅲ、aVF"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 94
+    },
+    {
+        "question_text": "95.V1～V3导联出现异常Q波或QS波:",
+        "options": [
+            "A.前间壁心肌梗死",
+            "B.广泛前壁心肌梗死",
+            "C.前侧壁心肌梗死",
+            "D.下壁心肌梗死",
+            "E.正后壁心肌梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 95
+    },
+    {
+        "question_text": "96.V1、V2导联出现R波增高，V7～V9导联出现异常Q波，ST段降低及T波增高:",
+        "options": [
+            "A.前间壁心肌梗死",
+            "B.广泛前壁心肌梗死",
+            "C.前侧壁心肌梗死",
+            "D.下壁心肌梗死",
+            "E.正后壁心肌梗死"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 96
+    },
+    {
+        "question_text": "97.V5、V6导联出现异常Q波:",
+        "options": [
+            "A.前间壁心肌梗死",
+            "B.广泛前壁心肌梗死",
+            "C.前侧壁心肌梗死",
+            "D.下壁心肌梗死",
+            "E.正后壁心肌梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 97
+    },
+    {
+        "question_text": "98.下壁心肌梗死的特征性心电图改变，主要表现在:",
+        "options": [
+            "A.V1～V3导联",
+            "B.V3～V5导联",
+            "C.V1～V5导联",
+            "D.I、aVL导联",
+            "E.Ⅱ、Ⅲ、aVF导联"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 98
+    },
+    {
+        "question_text": "99.前间壁心肌梗死在心电图上主要表现在下列哪些导联上？",
+        "options": [
+            "A.Ⅰ、aVL",
+            "B.Ⅱ、Ⅲ、aVF",
+            "C.Vl～V3",
+            "D.V4～V6",
+            "E.V7～V8"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 99
+    },
+    {
+        "question_text": "100.下列哪组导联出现坏死波是前壁心肌梗死的特征心电图改变？",
+        "options": [
+            "A.V1～V3导联",
+            "B.V3～V5导联",
+            "C.V1～V5导联",
+            "D.I、aVL导联",
+            "E.Ⅱ、Ⅲ、aVF导联"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 100
+    },
+    {
+        "question_text": "101.正后壁心肌梗死出现特征性心电图改变的导联是:",
+        "options": [
+            "A.V1～V3",
+            "B.Ⅱ、Ⅲ、aVF",
+            "C.V3～V5",
+            "D.V7～V9",
+            "E.Ⅰ、aVL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 101
+    },
+    {
+        "question_text": "102.前壁心肌梗死出现特征性心电图改变的导联是:",
+        "options": [
+            "A.V1、V2、V3",
+            "B.Ⅱ、Ⅲ、aVF",
+            "C.V3、V4、V5",
+            "D.V5、V6",
+            "E.I、aVL、V5、V6"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 102
+    },
+    {
+        "question_text": "103.患者，男性，因胸骨后剧烈疼痛40分钟就诊，心电图表现为:V1～V2呈QS型，V1～V6，ST段弓背向上抬高，并与T波形成单向曲线.该患者应考虑为:",
+        "options": [
+            "A.急性广泛前壁心肌梗死",
+            "B.急性下壁心肌梗死",
+            "C.前壁心肌梗死",
+            "D.侧壁心肌梗死",
+            "E.前间壁心肌梗死"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 103
+    },
+    {
+        "question_text": "104.某患者，心电图表现为:Ⅱ、Ⅲ、aVF导联有病理性Q波，ST段上抬0.2mv，T波倒置，应考虑为:",
+        "options": [
+            "A.急性下壁心肌梗死",
+            "B.急性前间壁心肌梗死",
+            "C.陈旧性下壁心肌梗死",
+            "D.急性前壁心肌梗死",
+            "E.急性侧壁心肌梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 104
+    },
+    {
+        "question_text": "105.下列哪一项检查对心律失常的诊断最有价值？",
+        "options": [
+            "A.超声心动图",
+            "B.心电图",
+            "C.心音图",
+            "D.心向量图",
+            "E.心阻抗图"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 105
+    },
+    {
+        "question_text": "106.心电图对下列疾病最有诊断价值的是:",
+        "options": [
+            "A.心律失常",
+            "B.低钾血症",
+            "C.心室肥大",
+            "D.心功能不全",
+            "E.心房肥大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 106
+    },
+    {
+        "question_text": "107.心肌细胞中自律性最高的是:",
+        "options": [
+            "A.房室交界区",
+            "B.希氏束",
+            "C.浦肯野纤维",
+            "D.窦房结",
+            "E.结间束"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 107
+    },
+    {
+        "question_text": "108.直接连接心房与心室的一束纤维是:",
+        "options": [
+            "A.Kent束",
+            "B.James束",
+            "C.Machaim束",
+            "D.Bachmann束",
+            "E.His束"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 108
+    },
+    {
+        "question_text": "109.特殊房室旁路，传导缓慢，只有前传功能的是:",
+        "options": [
+            "A.Kent束",
+            "B.James束",
+            "C.Machaim束",
+            "D.Bachmann束",
+            "E.His束"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 109
+    },
+    {
+        "question_text": "110.绕过房室传导的旁路纤维是:",
+        "options": [
+            "A.Kent束",
+            "B.James束",
+            "C.Machaim束",
+            "D.Bachmann束",
+            "E.His束"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 110
+    },
+    {
+        "question_text": "111.起自前结间束的房间束是:",
+        "options": [
+            "A.Kent束",
+            "B.James束",
+            "C.Machaim束",
+            "D.Bachmann束",
+            "E.His束"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 111
+    },
+    {
+        "question_text": "112.下列哪项是诊断窦性心律最主要依据？",
+        "options": [
+            "A.心率在100次/分以下",
+            "B.心率在60次/分以上",
+            "C.P波宽度不超过0.12秒",
+            "D.P波电压不大于0.25mv",
+            "E.Ⅱ、Ⅲ、aVF导联的P波直立，aVR导联的P波倒置，P-R间期＞0.12秒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 112
+    },
+    {
+        "question_text": "113.窦性心律的心电图特征，除外:",
+        "options": [
+            "A.有一系列规律出现的P波",
+            "B.P波形态在Ⅱ、Ⅲ、aVF导联直立，在aVR倒置",
+            "C.PR间期＞0.12s",
+            "D.P波频率40～150次分",
+            "E.P波频率60～100次/分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 113
+    },
+    {
+        "question_text": "114.关于窦性心律不齐，正确的解释是:",
+        "options": [
+            "A.心律起源于心房，但节律不整",
+            "B.心律起源于窦房结，但节律不整",
+            "C.心律起源于房室结以上，但节律不整",
+            "D.心律起源于窦房结，但心率过快",
+            "E.在窦性心律中，偶尔突然在P-P间没有P波"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 114
+    },
+    {
+        "question_text": "115.成人窦性心动过速，是指窦性心律的频率:",
+        "options": [
+            "A.＞80次/分",
+            "B.＞90次/分",
+            "C.＞100次/分",
+            "D.＞120次/分",
+            "E.＞140次/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 115
+    },
+    {
+        "question_text": "116.窦性心动过缓，是指窦性心律的频率:",
+        "options": [
+            "A.＜100次分",
+            "B.＜90次/分",
+            "C.＜80次/分",
+            "D.＜70次分",
+            "E.＜60次/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 116
+    },
+    {
+        "question_text": "117.房室交界区心率为:",
+        "options": [
+            "A.60～100次/分",
+            "B.40～60次/分",
+            "C.25～40次/分",
+            "D.350～600次分",
+            "E.250～350次/分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 117
+    },
+    {
+        "question_text": "118.房室束以下心率为:",
+        "options": [
+            "A.60～100次/分",
+            "B.40～60次/分",
+            "C.25～40次/分",
+            "D.350～600次分",
+            "E.250～350次/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 118
+    },
+    {
+        "question_text": "119.期前收缩常见的机制有:",
+        "options": [
+            "A.折返激动",
+            "B.异位起搏点自律性增高",
+            "C.触发活动",
+            "D.以上都是",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 119
+    },
+    {
+        "question_text": "120.房性早搏的表现，错误的是:",
+        "options": [
+            "A.提前出现一个变异的P波",
+            "B.QRS波一般不变形",
+            "C.PR间期＞0.12秒，代偿间期不完全",
+            "D.部分P波之后无QRS波",
+            "E.PR间期＜0.12秒，代偿间期不完全"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 120
+    },
+    {
+        "question_text": "121.关于室性早搏叙述不正确的是:",
+        "options": [
+            "A.宽大畸形QRS波",
+            "B.完全性代偿间歇",
+            "C.提前出现的P-QRS-T系列波群",
+            "D.T波可与主波方向相反",
+            "E.可不影响正常RR间期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 121
+    },
+    {
+        "question_text": "122.室性早搏应符合下列条件，但除外:",
+        "options": [
+            "A.提早出现一个宽大畸形的QRS-T波群",
+            "B.QRS波时限＞0.12秒",
+            "C.T波与主波方向相反",
+            "D.早搏的QRS波前有P波",
+            "E.有完全性代偿间期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 122
+    },
+    {
+        "question_text": "123.下列哪项不是室性期前收缩的心电图特征？",
+        "options": [
+            "A.提前出现QRS-T，其前无提早出现的P波",
+            "B.QRS与正常窦性者相同",
+            "C.提前出现的QRS-T中的T波与QRS主波方向相反",
+            "D.代偿间歇完全",
+            "E.室早的QRS可落在前面的T波上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 123
+    },
+    {
+        "question_text": "124.下列各项中，哪一项不是室性早搏的条件？",
+        "options": [
+            "A.提早出现一个增宽的QRS-T波群",
+            "B.QRS时限常＞0.12秒",
+            "C.T波方向多与主波相反",
+            "D.代偿间歇不完全",
+            "E.早搏的QRS波前无P波，窦性P波可巧合于早搏波的任意位置"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 124
+    },
+    {
+        "question_text": "125.快速性心律失常最常见的发生机制:",
+        "options": [
+            "A.触发活动",
+            "B.折返",
+            "C.后除极",
+            "D.自律性增加",
+            "E.交感神经兴奋"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 125
+    },
+    {
+        "question_text": "126.刺激迷走神经可以终止哪种心律失常？",
+        "options": [
+            "A.窦性心律不齐",
+            "B.心房颤动",
+            "C.心房扑动",
+            "D.阵发性室上性心动过速",
+            "E.阵发性室性心动过速"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 126
+    },
+    {
+        "question_text": "127.ECG上所谓房性心动过速是指:",
+        "options": [
+            "A.心室率＞100/分",
+            "B.心房率＞100/分",
+            "C.P波与QRS波等比例出现",
+            "D.心室率＞心房率",
+            "E.QRS波出现宽大畸形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 127
+    },
+    {
+        "question_text": "128.以下不符合病态窦房结综合征的心电图表现是:",
+        "options": [
+            "A.房性心动过速，心房扑动、心房颤动",
+            "B.慢心室率心房颤动",
+            "C.持续而严重的窦性心动过缓，心率＜50次/分",
+            "D.窦性停搏、窦房阻滞",
+            "E.使用阿托品后常可纠正窦性心动过缓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 128
+    },
+    {
+        "question_text": "129.阵发性室上性心动过速发作时，下列哪一项是错误的？",
+        "options": [
+            "A.P'易辨认",
+            "B.有突发、突止的特点",
+            "C.频率在160～250次分",
+            "D.节律快而规则",
+            "E.QRS形态一般正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 129
+    },
+    {
+        "question_text": "130.室性心动过速特征性心电图表现:",
+        "options": [
+            "A.QRS波群增宽",
+            "B.发生在器质性心脏病",
+            "C.心室夺获和心室融合波",
+            "D.RR间期可不固定",
+            "E.心室率大于150次/分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 130
+    },
+    {
+        "question_text": "131.阵发性室性心动过速的心电图特征，除外:",
+        "options": [
+            "A.QRS波宽大、畸形",
+            "B.心室律基本均齐",
+            "C.频率140～200次/分",
+            "D.P波规律出现",
+            "E.有时可见保持固有节律的窦性P波融合于QRS波的不同部位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 131
+    },
+    {
+        "question_text": "132.下列哪项有利于室性心动过速和室上性心动过速的鉴别？",
+        "options": [
+            "A.心室率160次/分",
+            "B.心脏扩大",
+            "C.QRS波群宽大畸形",
+            "D.心室夺获和室性融合波",
+            "E.过去发现有室性早搏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 132
+    },
+    {
+        "question_text": "133.下列哪项属于被动性异位心律失常？",
+        "options": [
+            "A.房性早搏",
+            "B.心房颤动",
+            "C.心室颤动",
+            "D.阵发性心动过速",
+            "E.交界性逸搏心律"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 133
+    },
+    {
+        "question_text": "134.下列哪项不是主动性心律失常？",
+        "options": [
+            "A.房性过早搏动",
+            "B.阵发性心动过速",
+            "C.心房扑动与颤动",
+            "D.交界性逸搏心律",
+            "E.心室扑动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 134
+    },
+    {
+        "question_text": "135.房扑F波频率为:",
+        "options": [
+            "A.60～100次/分",
+            "B.400～600次/分",
+            "C.250～400次分",
+            "D.350～600次/分",
+            "E.250～350次/分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 135
+    },
+    {
+        "question_text": "136.心房扑动的心电图表现，错误的是:",
+        "options": [
+            "A.无正常P波，代之为F波",
+            "B.F波间为等电位线，波幅大小不等",
+            "C.频率为250～350次/分",
+            "D.心室律规则",
+            "E.QRS波时限一般不增宽"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 136
+    },
+    {
+        "question_text": "137.房颤f波频率为:",
+        "options": [
+            "A.60～100次/分",
+            "B.400～600次/分",
+            "C.250～400次/分",
+            "D.350～600次/分",
+            "E.250～350次/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 137
+    },
+    {
+        "question_text": "138.心室律绝对不规则最常见于:",
+        "options": [
+            "A.心房扑动",
+            "B.心房颤动",
+            "C.房性心动过速",
+            "D.室性心动过速",
+            "E.偶发室性早搏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 138
+    },
+    {
+        "question_text": "139.房颤时，若心室率慢而绝对规则，说明合并:",
+        "options": [
+            "A.几乎完全性房室传导阻滞",
+            "B.三度房室传导阻滞",
+            "C.高度房室传导阻滞",
+            "D.二度房室传导阻滞",
+            "E.一度房室传导阻滞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 139
+    },
+    {
+        "question_text": "140.在房室传导阻滞中，若房室传导比例为4:1，则为:",
+        "options": [
+            "A.几乎完全性房室传导阻滞",
+            "B.三度房室传导阻滞",
+            "C.高度房室传导阻滞",
+            "D.二度型房室传导阻滞",
+            "E.二度型房室传导阻滞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 140
+    },
+    {
+        "question_text": "141.关于房颤的心电图改变，下列哪项是错误的？",
+        "options": [
+            "A.心室律绝对不齐",
+            "B.P波消失",
+            "C.Ⅱ、Ⅲ、aVF、V1导联的颤动波最清楚",
+            "D.RR间期不等",
+            "E.心室率大于心房率"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 141
+    },
+    {
+        "question_text": "142.心房颤动的心电图特点，错误的是:",
+        "options": [
+            "A.各导联无正常P波，代之以f",
+            "B.f波频率为350～600次/分",
+            "C.心室律规则",
+            "D.QRS波一般不增宽",
+            "E.f波通常以V1导联最明显"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 142
+    },
+    {
+        "question_text": "143.心室律绝对不规则的心律失常是:",
+        "options": [
+            "A.左后分支传导阻滞",
+            "B.阵发性室性心动过速",
+            "C.房性心动过速",
+            "D.心房纤颤",
+            "E.室性逸搏心律"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 143
+    },
+    {
+        "question_text": "144.下列关于心房纤颤的心电图表现不正确的是:",
+        "options": [
+            "A.P波消失，代之以f波",
+            "B.f波的频率为350～600次/分",
+            "C.心室律绝对不规则",
+            "D.QRS波一般不增宽",
+            "E.V5导联f波最为明显"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 144
+    },
+    {
+        "question_text": "145.女性，有风心病史10年，突发性心慌1天，查心电图:P波消失，代之以大小不等，形态各异的f波，频率约500次分，心室律绝对不规则，心率为130次/分.脉率110次/分，应考虑为:",
+        "options": [
+            "A.窦性心律不齐",
+            "B.早搏",
+            "C.心房纤颤",
+            "D.心房扑动",
+            "E.非阵发性心动过速"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 145
+    },
+    {
+        "question_text": "146.关于心室颤动，下列说法错误的是:",
+        "options": [
+            "A.是极严重的致死性心律失常",
+            "B.常见于严重器质性心脏病",
+            "C.心脏完全失去排血功能",
+            "D.常是心脏停跳前的短暂征象",
+            "E.心电图上QRS-T波消失，代之以快速而相对规则的大振幅波动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 146
+    },
+    {
+        "question_text": "147.一度房室传导阻滞时，PR间期应达到以下标准:",
+        "options": [
+            "A.≥0.12秒",
+            "B.≥0.18秒",
+            "C.≥0.21秒",
+            "D.≥0.26秒",
+            "E.≥0.30秒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 147
+    },
+    {
+        "question_text": "148.一度房室传导阻滞的心电图特点主要是:",
+        "options": [
+            "A.P波增宽",
+            "B.出现P'或F或f波",
+            "C.PR间期延长",
+            "D.PR间期逐渐延长，直至一个P波后脱漏一个QRS波群",
+            "E.P波与QRS波毫无相关性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 148
+    },
+    {
+        "question_text": "149.符合一度房室传导阻滞特点的是:",
+        "options": [
+            "A.PR固定，部分P波后无QRS波",
+            "B.PR间期逐渐延长至QRS脱落",
+            "C.PR间期延长，PR≥0.20秒",
+            "D.PR间期缩短，QRS增宽且有δ波",
+            "E.间期逐渐缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 149
+    },
+    {
+        "question_text": "150.一度房室传导阻滞的心电图特点，主要是:",
+        "options": [
+            "A.P波增宽",
+            "B.出现P'或F或f波",
+            "C.PR间期延长",
+            "D.PR间期逐渐延长，直至一个P波后漏脱一个QRS波群",
+            "E.P波与QRS波毫无相关性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 150
+    },
+    {
+        "question_text": "151.符合二度I型房室传导阻滞特点的是:",
+        "options": [
+            "A.PR固定，部分P波后无QRS波",
+            "B.PR间期逐渐延长至QRS脱落",
+            "C.PR间期延长，PR≥0.20秒",
+            "D.PR间期缩短，QRS增宽且有δ波",
+            "E.PR间期逐渐缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 151
+    },
+    {
+        "question_text": "152.关于二度型房室传导阻滞的叙述，下列哪项是错误的:",
+        "options": [
+            "A.PR间期逐渐延长至脱落",
+            "B.P波在aVR倒置，Ⅱ、avF直立",
+            "C.可见QRS波群脱落",
+            "D.房室传导比例常为2:1～4:1",
+            "E.PR间期不固定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 152
+    },
+    {
+        "question_text": "153.男性，18岁，感冒后心悸，听诊心律不齐，心电图示:P-R间期逐渐延长，且P波后有QRS波脱落，诊断应是:",
+        "options": [
+            "A.房性搏动",
+            "B.室性早搏",
+            "C.室性并行心律",
+            "D.交界性早搏",
+            "E.二度I型房室传导阻滞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 153
+    },
+    {
+        "question_text": "154.关于二度Ⅱ型房室传导阻滞的叙述，下列哪项是错误的？",
+        "options": [
+            "A.P波与QRS波群有关",
+            "B.PR间期固定（可为正常或延长）",
+            "C.QRS＜0.10秒",
+            "D.无QRS波群脱落",
+            "E.房室传导比例常为2:1、3:1、3:2、4:3"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 154
+    },
+    {
+        "question_text": "155.莫氏Ⅱ型房室传导阻滞的特点是:",
+        "options": [
+            "A.PR间期恒定，部分P波后无QRS波群",
+            "B.PR间期逐渐延长，直至一个P波后漏脱一个QRS波群，周而复始",
+            "C.PR间期逐渐延长",
+            "D.P波与QRS波群毫无相关性",
+            "E.P波增宽＞0.11秒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 155
+    },
+    {
+        "question_text": "156.符合二度Ⅱ型房室传导阻滞的是:",
+        "options": [
+            "A.PR固定，部分P波后无QRS波",
+            "B.PR间期逐渐延长至QRS脱落",
+            "C.PR间期延长，PR≥0.20秒",
+            "D.PR间期缩短，QRS增宽且有δ波",
+            "E.PR间期逐渐缩短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 156
+    },
+    {
+        "question_text": "157.一度房室传导阻滞与二度Ⅱ型房室传导阻滞的区别是:",
+        "options": [
+            "A.PR间期延长",
+            "B.PR间期＜RR间期",
+            "C.有QRS波群脱落",
+            "D.QRS波群形态正常",
+            "E.无QRS波群脱落"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 157
+    },
+    {
+        "question_text": "158.下列哪项符合二度Ⅰ型房室传导阻滞的心电图表现？",
+        "options": [
+            "A.PP间期及R-R间期均不等",
+            "B.相邻的PP间期进行性缩短至产生脱落",
+            "C.包含受阻P波在内的R-R间期小于正常P-P间期的两倍",
+            "D.最常见的传导比例为4：2",
+            "E.只有受阻P波前的一个PR间期延长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 158
+    },
+    {
+        "question_text": "159.三度房室传导阻滞心电图特点为:",
+        "options": [
+            "A.P波与QRS波无关，P波频率慢于QRS波频率",
+            "B.P波与QRS波无关，P波频率快于QRS波频率",
+            "C.P波消失，出现F波",
+            "D.PR间期固定，部分P波后无QRS波",
+            "E.PR间期不固定，部分P波后无QRS波"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 159
+    },
+    {
+        "question_text": "160.下列哪项不是三度房室传导阻滞的心电图表现？",
+        "options": [
+            "A.P波与QRS波无关",
+            "B.R波频率大于P波频率",
+            "C.PR间期相等",
+            "D.RR间期相等",
+            "E.心室率30～40次/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 160
+    },
+    {
+        "question_text": "161.三度房室传导阻滞中，下列哪项是错误的？",
+        "options": [
+            "A.P波规则出现",
+            "B.QRS波群规则出现",
+            "C.P波与QRS波群无固定关系",
+            "D.PR间期固定",
+            "E.心房率大于心室率"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 161
+    },
+    {
+        "question_text": "162.三度房室传导阻滞的心电图特征是:",
+        "options": [
+            "A.P波与QRS波毫无相关性",
+            "B.部分P波后QRS波脱漏",
+            "C.PR间期延长",
+            "D.P波增宽",
+            "E.QRS波群时限延长"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 162
+    },
+    {
+        "question_text": "163.完全性右束支传导阻滞，心电图最有价值的是:",
+        "options": [
+            "A.PR间期0.16秒",
+            "B.电轴左偏",
+            "C.电轴右偏",
+            "D.V1导联呈rsR'型",
+            "E.有除极迟缓的S波，QRS＞0.12s"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 163
+    },
+    {
+        "question_text": "164.下列哪项不是度房室传导阻滞的心电图表现为？",
+        "options": [
+            "A.P波与QRS波群无关",
+            "B.R波频率大于P波频率",
+            "C.RR间距相等",
+            "D.PP间距相等",
+            "E.心室率多在30～40次/分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 164
+    },
+    {
+        "question_text": "165.心电图上P波与QRS波无关，心室率38次/分，律齐，该患者最可能的诊断为:",
+        "options": [
+            "A.窦性心动过缓",
+            "B.二度Ⅱ型房室传导阻滞",
+            "C.交界性心律",
+            "D.三度房室传导阻滞",
+            "E.高度房室传导阻滞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 165
+    },
+    {
+        "question_text": "166.心室率每分钟40次，律齐，P波与QRS波群无关，该患者应考虑为:",
+        "options": [
+            "A.二度房室传导阻滞",
+            "B.三度房室传导阻滞",
+            "C.窦性心动过缓",
+            "D.窦性心动过速",
+            "E.交界性心律"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 166
+    },
+    {
+        "question_text": "167.左前分支传导阻滞的心电图特点，下列哪项不正确？",
+        "options": [
+            "A.电轴明显右偏",
+            "B.Ⅱ、Ⅲ、aVF导联呈rS型",
+            "C.Ⅰ、aVL导联呈gR型",
+            "D.RaVL＞RI",
+            "E.QRS时限不增宽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 167
+    },
+    {
+        "question_text": "168.下列哪一项提示为完全性右束支传导阻滞？",
+        "options": [
+            "A.P波与QRS波有固定关系",
+            "B.QRS波时限＞0.12秒",
+            "C.V1导联的QRS波呈rSR'，且时限＞0.12秒",
+            "D.V1导联S-T段下移＞0.1秒",
+            "E.V1导联T波倒置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 168
+    },
+    {
+        "question_text": "169.完全性右束支传导阻滞的心电图表现，除外:",
+        "options": [
+            "A.QRS波群时限≥0.12s",
+            "B.QRS波后半部在Ⅰ、Ⅱ、aVL等导联为宽而有切迹的S波",
+            "C.aVR呈QR型，其R波宽而有切迹",
+            "D.V1、V2导联ST段轻度压低，T波倒置",
+            "E.P波消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 169
+    },
+    {
+        "question_text": "170.符合预激综合征的是:",
+        "options": [
+            "A.PR间期固定，部分P波后无QRS波",
+            "B.PR间期逐渐延长至QRS脱落",
+            "C.PR间期延长，PR间期≥0.20秒",
+            "D.PR间期缩短，QRS增宽且有δ波",
+            "E.PR间期逐渐缩短"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 170
+    },
+    {
+        "question_text": "171.低血钾的心电图主要特点是:",
+        "options": [
+            "A.ST段弓背向上",
+            "B.U波增高",
+            "C.T波高耸",
+            "D.T波倒置",
+            "E.QT间期缩短"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 171
+    },
+    {
+        "question_text": "172.低钾血症最典型的心电图表现为:",
+        "options": [
+            "A.QRS波群增宽",
+            "B.QT间期延长",
+            "C.ST段压低，T波低平及U波增高",
+            "D.U波倒置",
+            "E.T波倒置"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 172
+    },
+    {
+        "question_text": "173.高血钾的心电图，主要诊断条件是:",
+        "options": [
+            "A.T波倒置",
+            "B.U波倒置",
+            "C.T波高耸变尖，基底部变窄，呈帐篷型T波",
+            "D.ST段水平下移",
+            "E.QRS波群增宽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 173
+    },
+    {
+        "question_text": "174.心电图诊断高血钾，更重要的是:",
+        "options": [
+            "A.ST段下移",
+            "B.基底较窄的高耸T波",
+            "C.QRS波群时间延长",
+            "D.U波增高",
+            "E.PR间期延长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 174
+    },
+    {
+        "question_text": "175.低钙血症的心电图表现不包括:",
+        "options": [
+            "A.明显U波",
+            "B.ST段平直延长",
+            "C.T波窄而对称",
+            "D.严重低钙血症时T波可低平或倒置",
+            "E.QT间期延长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 175
+    },
+    {
+        "question_text": "176.高钙血症的典型心电图表现是:",
+        "options": [
+            "A.ST段缩短，QT间期缩短，常伴有明显U波",
+            "B.ST段延长",
+            "C.ST段缩短，T波高尖",
+            "D.ST段延长，T波低平",
+            "E.PR间期变短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 176
+    },
+    {
+        "question_text": "177.除以下哪项，其余均为洋地黄效应的心电图表现？",
+        "options": [
+            "A.QT间期缩短",
+            "B.ST段抬高",
+            "C.U波振幅轻度增高",
+            "D.R波为主的导联上ST-T呈鱼钩样改变",
+            "E.P波振幅降低或出现切迹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 177
+    },
+    {
+        "question_text": "178.洋地黄中毒最常见的心律失常:",
+        "options": [
+            "A.室性期前收缩二联律、三联律",
+            "B.心房颤动",
+            "C.阵发性心动过速",
+            "D.双向性心动过速",
+            "E.窦性停搏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "178",
+        "number": 178
+    }
+]

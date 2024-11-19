@@ -1,0 +1,408 @@
+[
+    {
+        "question_text": "1.下列哪一项异常与止血和凝血障碍产生的机制有关？",
+        "options": [
+            "A.血管异常",
+            "B.血小板异常",
+            "C.凝血因子异常",
+            "D.纤维蛋白溶解异常",
+            "E.红细胞异常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 1
+    },
+    {
+        "question_text": "2.血栓和止血常用筛选试验中属于人体试验的是：",
+        "options": [
+            "A.出血时间（BT）",
+            "B.血块收缩时间（CRT）",
+            "C.血浆凝血酶原时间（PT）",
+            "D.凝血时间测定（CT）",
+            "E.活化部分凝血酶原时间（APTT）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常人体的止血机制包括：",
+        "options": [
+            "A.血管壁的结构和功能",
+            "B.血小板的质量和数量",
+            "C.血浆凝血因子活性",
+            "D.健全的神经体液调节",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 3
+    },
+    {
+        "question_text": "4.血管受损后，机体止血系统最先出现的反应是：",
+        "options": [
+            "A.凝血因子被激活",
+            "B.血小板黏附于血管壁",
+            "C.血管平滑肌收缩",
+            "D.血小板释放多种促凝物质",
+            "E.血小板聚集"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 4
+    },
+    {
+        "question_text": "5.全身多发性、自发性出血倾向，检查血小板减少、血浆凝血酶原时间延长，鱼精蛋白副凝试验阳性，可考虑诊断为",
+        "options": [
+            "A.血友病",
+            "B.DIC",
+            "C.严重肝病",
+            "D.维生素K缺乏",
+            "E.贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于DIC，错误的是：",
+        "options": [
+            "A.DIC可由多种严重疾病引起",
+            "B.主要是血栓形成的过程，但临床可表现为严重的出血",
+            "C.伴大量血小板和凝血因子消耗",
+            "D.通过内激活途径发生继发性纤溶亢进",
+            "E.纤维蛋白溶解系统被抑制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 6
+    },
+    {
+        "question_text": "7.不属于DIC诊断内容的是：",
+        "options": [
+            "A.毛细血管脆性试验",
+            "B.PT",
+            "C.纤维蛋白原",
+            "D.凝血酶时间（TT）",
+            "E.血涂片红细胞形态学检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪项实验能区别原发性纤溶与DIC？",
+        "options": [
+            "A.凝血酶原时间",
+            "B.优球蛋白溶解时间",
+            "C.凝血酶时间",
+            "D.部分凝血活酶时间",
+            "E.D-二聚体测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪项不符合原发性纤维蛋白溶解症？",
+        "options": [
+            "A.纤维蛋白原降低",
+            "B.试管内凝块在1-2h内溶解",
+            "C.周围血片有破碎红细胞",
+            "D.纤维蛋白原降解产物增多",
+            "E.血小板计数正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 9
+    },
+    {
+        "question_text": "10.FDP增高主要见于DIC的基础疾病，下列DIC的常见病因中哪一项需除外？",
+        "options": [
+            "A.严重感染",
+            "B.休克",
+            "C.病理产科",
+            "D.组织损伤",
+            "E.上消化道出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 10
+    },
+    {
+        "question_text": "11.凝血时间延长，出血时间正常的疾病是：",
+        "options": [
+            "A.原发性血小板减少性紫癜",
+            "B.过敏性紫癜",
+            "C.血友病",
+            "D.血管性血友病",
+            "E.DIC"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 11
+    },
+    {
+        "question_text": "12.有易出血家族史，自幼即有轻伤后出血不止，常有关节腔内出血最可能的疾病是：",
+        "options": [
+            "A.遗传性出血性毛细血管扩张症",
+            "B.血小板减少性紫癜",
+            "C.新生儿血小板减少症",
+            "D.血友病",
+            "E.维生素E缺乏症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 12
+    },
+    {
+        "question_text": "13.由凝血障碍引起皮肤粘膜出血的疾病是：",
+        "options": [
+            "A.原发性血小板减少性紫癜",
+            "B.严重肝脏疾病",
+            "C.再生障碍性贫血",
+            "D.巨幼细胞性贫血",
+            "E.过敏性紫癜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列各种原因引起皮肤粘膜出血特点的叙述，哪项是正确的？",
+        "options": [
+            "A.凝血因子活性不足引起的出血常有内脏、肌肉出血",
+            "B.毛细血管壁缺陷引起软组织血肿及内脏出血较多见",
+            "C.血小板异常所致皮肤粘膜淤点、淤斑较少见",
+            "D.凝血因子缺乏不常引起内脏、肌肉出血",
+            "E.凝血障碍所致出血常无家族史或肝脏病史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 14
+    },
+    {
+        "question_text": "15.由血小板异常引起皮肤粘膜出血可见于下列哪种疾病？",
+        "options": [
+            "A.血友病",
+            "B.维生素K缺乏症",
+            "C.血管性紫癜",
+            "D.遗传性出血性毛细血管扩张症",
+            "E.脾功能亢进症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 15
+    },
+    {
+        "question_text": "16.四肢对称性紫癜伴关节痛或腹痛，血尿者常见于：",
+        "options": [
+            "A.血小板减少性紫癜",
+            "B.过敏性紫癜",
+            "C.血友病",
+            "D.维生素K缺乏症",
+            "E.维生素C缺乏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 16
+    },
+    {
+        "question_text": "17.毛细血管壁缺陷致皮肤粘膜出血可见于：",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.脾功能亢进症",
+            "C.维生素K缺乏症",
+            "D.老年性紫癜",
+            "E.血友病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 17
+    },
+    {
+        "question_text": "18.女，18岁，皮肤反复紫癜和瘀斑、月经量多2年。既往经常关节痛，并因此经常服用保泰松等药物，家中无类似疾患者，10岁起经常刷牙出血。本患者的诊断，不应考虑哪种情况",
+        "options": [
+            "A.先天性血小板功能异常",
+            "B.获得性血小板功能异常",
+            "C.血友病",
+            "D.维生素C缺乏",
+            "E.过敏性紫癜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 18
+    },
+    {
+        "question_text": "19.女，18岁，皮肤反复紫癜和瘀斑、月经量多2年。既往经常关节痛，并因此经常服用保泰松等药物，家中无类似疾患者，10岁起经常刷牙出血。该患者紫癜如疑为血小板功能不良所致，应进一步选择哪项检查？",
+        "options": [
+            "A.阿司匹林耐量试验",
+            "B.复钙试验",
+            "C.血小板相关抗体测定",
+            "D.血小板因子Ⅳ测定",
+            "E.血小板聚集试验及粘附试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 19
+    },
+    {
+        "question_text": "20.血友病属于以下哪项发病机制？",
+        "options": [
+            "A.血小板生成减少",
+            "B.遗传性凝血因子缺乏",
+            "C.化学物质所致血管壁功能异常",
+            "D.血小板消耗过多",
+            "E.血小板第3因子异常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 20
+    },
+    {
+        "question_text": "21.最能提示为过敏性紫瘢的特点是：",
+        "options": [
+            "A.紫瘢伴有月经过多",
+            "B.紫瘢时血小板计数正常",
+            "C.紫瘢伴关节腔出血",
+            "D.四肢或臀部有对称性紫瘢伴关节痛",
+            "E.紫瘢有家族史，轻伤后出血不止"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 21
+    },
+    {
+        "question_text": "22.患者，男性15岁，有顽固性鼻出血，并多次跌伤后关节肿胀，查体：轻微贫血面貌，巩膜不黄，肝，脾不大，左膝和右踝关节畸形。血小板计数120×109/L，PT12秒（对照11秒），PTT108秒（对照45秒）。下述哪项诊断可成立？",
+        "options": [
+            "A.类风湿性关节炎",
+            "B.血友病",
+            "C.血管性血友病",
+            "D.血小板无力症",
+            "E.过敏性紫癜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 22
+    },
+    {
+        "question_text": "23.在DIC时下列哪项检查不存在？",
+        "options": [
+            "A.血小板减少",
+            "B.出血时间延长",
+            "C.凝血酶原时间延长",
+            "D.凝血酶原消耗时间延长",
+            "E.白陶土部分凝血活酶时间延长"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列哪项对血友病甲是错误的？",
+        "options": [
+            "A.凝血时间延长",
+            "B.APTT延长",
+            "C.PT延长",
+            "D.血小板计数减少",
+            "E.血清凝血酶原时间缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 24
+    },
+    {
+        "question_text": "25.过敏性紫癜可出现：",
+        "options": [
+            "A.血小板减少",
+            "B.出血时间延长",
+            "C.凝血时间延长",
+            "D.凝血酶原消耗不佳",
+            "E.毛细血管脆性试验阳性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 25
+    },
+    {
+        "question_text": "26.对血管性血友病，下列哪项检查是错误的？",
+        "options": [
+            "A.血小板计数减少",
+            "B.出血时间延长",
+            "C.阿斯匹林耐量试验阳性",
+            "D.血小板粘附率减低",
+            "E.APTT延长"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 26
+    },
+    {
+        "question_text": "27.在凝血过程中，血小板的作用是：",
+        "options": [
+            "A.与FⅦ接触，参与内源凝血系统",
+            "B.作为组织因子，参与外源性凝血系统",
+            "C.稳定纤维蛋白",
+            "D.为FⅨa、Ⅹa提供了催化表面",
+            "E.阻止Ⅱa的形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 27
+    },
+    {
+        "question_text": "28.发热伴出血疹可见于以下疾病，除了",
+        "options": [
+            "A.伤寒",
+            "B.斑疹伤寒",
+            "C.流行性脑脊髓膜炎",
+            "D.麻疹",
+            "E.败血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 28
+    },
+    {
+        "question_text": "29.血友病A时",
+        "options": [
+            "A.血小板减少",
+            "B.纤维蛋白原增高",
+            "C.APTT延长",
+            "D.Ⅶ因子缺乏",
+            "E.BT缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 29
+    }
+]

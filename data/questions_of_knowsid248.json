@@ -1,0 +1,226 @@
+[
+    {
+        "question_text": "1.\t下列哪种属于多器官衰竭",
+        "options": [
+            "A.\t肺心病",
+            "B.\t肺性脑病",
+            "C.\t肝肾综合征",
+            "D.\t尿毒症",
+            "E.\t挤压综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t引起多器官功能障碍综合征的感染性病因中，主 要的感染部位是",
+        "options": [
+            "A.\t肺部",
+            "B.\t胸腔",
+            "C.\t腹腔",
+            "D.\t肾脏",
+            "E.\t心包腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t老年人发生的多器官功能障碍综合征，以下列哪 种感染作为最常见的原发病因？",
+        "options": [
+            "A.\t腹腔内感染",
+            "B.\t泌尿系统感染",
+            "C.\t脑膜炎",
+            "D.\t肺部感染",
+            "E.\t皮肤感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t下列哪种是多器官功能障碍综合征的病因？",
+        "options": [
+            "A.\t输液过多",
+            "B.\t机体抵抗力明显低下",
+            "C.\t大手术创伤",
+            "D.\t吸氧浓度过高",
+            "E.\t单核吞噬细胞系统功能明显低下"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t下列哪项不是多系统器官衰竭时肺的大体急性病 理变化？",
+        "options": [
+            "A.\t肺水肿",
+            "B.\t肺出血",
+            "C.\t肺不张",
+            "D.\t肺纤维化",
+            "E.\t肺透明膜形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t多系统器官衰竭时，肺的组织病理学检查可见",
+        "options": [
+            "A.\t肺毛细血管管腔增大",
+            "B.\t毛细血管内皮细胞肿胀",
+            "C.\t肺泡上皮细胞皱缩",
+            "D.\tII型肺泡上皮细胞内板层体数目增多",
+            "E.\t微血管基底膜与内皮细胞的粘合增强"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t多器官功能障碍综合征或多系统器官衰竭时，肾 功能障碍的最初表现为",
+        "options": [
+            "A.\t肾小球滤过率下降",
+            "B.\t蛋白尿",
+            "C.\t尿量减少",
+            "D.\t尿钠排出减少",
+            "E.\t肾小管细胞管型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t多系统器官衰竭时发生的应激性溃疡，最多见于",
+        "options": [
+            "A.\t食管上段",
+            "B.\t食管下段",
+            "C.\t胃近端",
+            "D.\t胃远端",
+            "E.\t十二指肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t有关多系统器官衰竭时免疫系统的变化，下述哪 一项是错误的？",
+        "options": [
+            "A.\t血浆补体水平降低",
+            "B.\t血浆纤维连接蛋白减少",
+            "C.\t中性粒细胞的吞噬和杀菌功能低下",
+            "D.\t外周血淋巴细胞数减少",
+            "E.\tB细胞分泌抗体的能力减弱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t多器官衰竭患者出现凝血系统衰竭时，表现为",
+        "options": [
+            "A.\t血小板计数进行性增加",
+            "B.\t凝血时间缩短",
+            "C.\t凝血酶原时间缩短",
+            "D.\t血浆纤维蛋白原减少",
+            "E.\t血浆鱼精蛋白副凝试验（3P试验）阴性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t属内源性抗炎介质的是",
+        "options": [
+            "A.\tIL-1",
+            "B.\tIL-4",
+            "C.\tIFN",
+            "D.\tIL-8",
+            "E.\tTNF a"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t多系统器官衰竭时，血浆补体的变化下列哪一 项是正确的？",
+        "options": [
+            "A.\tCla升高",
+            "B.\tC2a升高",
+            "C.\tC3a升高",
+            "D.\tC5a升高",
+            "E.\tC5-7升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下列哪一项是多器官功能障碍综合征“二次打 击''的原因？",
+        "options": [
+            "A.\t大手术",
+            "B.\t失血",
+            "C.\t创伤",
+            "D.\t感染",
+            "E.\t休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 13
+    },
+    {
+        "question_text": "14.\tMODS时体内新陈代谢改变的主要表现是",
+        "options": [
+            "A.\t心输出量f,外周阻力f",
+            "B.\t心输出量f,外周阻力I",
+            "C.\t心输出量I,外周阻力I",
+            "D.\t心输出量正常，外周阻力f",
+            "E.\t心输出量I,外周阻力正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t符合MODS时体内分解代谢的表现是",
+        "options": [
+            "A.\t糖分解减少",
+            "B.\t蛋白质负氮平衡",
+            "C.\t乳酸减少",
+            "D.\t二氧化碳产生减少",
+            "E.\t尿素氮减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t为衡量细胞线粒体氧化磷酸化反应，常测量血 中下列哪种变化？",
+        "options": [
+            "A.\t乙酰乙酸",
+            "B.\t乙酰乙酸/B-羟丁酸的比例",
+            "C.\tB -羟丁酸",
+            "D.\t3-羟丁酸/乙酰乙酸的比例",
+            "E.\t乙酰乙酸与B -羟丁酸的乘积"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 16
+    }
+]

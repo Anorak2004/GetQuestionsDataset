@@ -1,0 +1,1136 @@
+[
+    {
+        "question_text": "1.胸痛的病因一般不见于:",
+        "options": [
+            "A.肺结核大空洞",
+            "B.肋软骨炎",
+            "C.带状疱疹",
+            "D.胸膜炎",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 1
+    },
+    {
+        "question_text": "2.对胸痛的描述不正确的是:",
+        "options": [
+            "A.心绞痛呈压榨性疼痛",
+            "B.自发性气胸疼痛剧烈",
+            "C.胸膜炎时胸痛可随咳嗽而加剧",
+            "D.带状疱疹呈刺痛或灼痛",
+            "E.心肌梗死时胸痛含服硝酸甘油后可缓解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列对胸痛的描述哪项是不正确的？",
+        "options": [
+            "A.带状疱疹呈刀割样疼痛",
+            "B.纵隔肿瘤可有胸部闷痛",
+            "C.心绞痛为胸骨后压榨样疼痛",
+            "D.气管炎为烧灼样疼痛",
+            "E.肺癌为发作性绞痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 3
+    },
+    {
+        "question_text": "4.持续性胸痛常由下列疾病引起，但除外:",
+        "options": [
+            "A.心绞痛",
+            "B.肺栓塞",
+            "C.胸膜炎",
+            "D.肺炎",
+            "E.急性心包炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项是引起胸痛的胸壁疾病？",
+        "options": [
+            "A.自发性气胸",
+            "B.肋间神经炎",
+            "C.胸膜炎",
+            "D.肺肿瘤",
+            "E.胸膜肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项不是胸壁疾病引起的胸痛？",
+        "options": [
+            "A.胸膜肿瘤",
+            "B.肋间神经炎",
+            "C.肋骨骨折",
+            "D.胸部带状疱诊",
+            "E.非化脓性肋软骨炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列引起胸痛的原因，其中哪项不是胸壁疾病？",
+        "options": [
+            "A.胸膜肿瘤",
+            "B.肋间神经炎",
+            "C.肋间骨折",
+            "D.乳腺炎",
+            "E.带状疱疹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 7
+    },
+    {
+        "question_text": "8.一般情况下，不会导致胸痛的疾病是:",
+        "options": [
+            "A.纵膈炎",
+            "B.食管裂开疝",
+            "C.痛风",
+            "D.肝炎",
+            "E.脾梗死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪项不是胸痛的性质？",
+        "options": [
+            "A.刺痛",
+            "B.绞痛",
+            "C.烧灼痛",
+            "D.牵涉痛",
+            "E.刀割样痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪项不符合胸壁疾患所致胸痛的特点？",
+        "options": [
+            "A.疼痛部位较固定",
+            "B.局部有压痛",
+            "C.举臂动作时可加剧",
+            "D.因情绪激动而诱发",
+            "E.深呼吸或咳嗽可加剧"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 10
+    },
+    {
+        "question_text": "11.可出现牵涉痛的疾病是:",
+        "options": [
+            "A.带状疱疹",
+            "B.肋软骨炎",
+            "C.肋间神经炎",
+            "D.心绞痛",
+            "E.肺癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 11
+    },
+    {
+        "question_text": "12.内脏器官或深部组织的疾病引起的疼痛，可在体表某部位发生痛感或感觉过敏区，这称为:",
+        "options": [
+            "A.内脏痛",
+            "B.深部痛",
+            "C.皮肤痛",
+            "D.牵拉痛",
+            "E.牵涉痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 12
+    },
+    {
+        "question_text": "13.心前区及胸骨后疼痛，有时向左肩及左手放射者常见于:",
+        "options": [
+            "A.肺癌",
+            "B.自发性气胸",
+            "C.干性胸膜炎",
+            "D.心绞痛",
+            "E.大叶性肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 13
+    },
+    {
+        "question_text": "14.心绞痛的牵涉痛表现为:",
+        "options": [
+            "A.剑突下痛",
+            "B.胸骨体中段痛",
+            "C.左前臂内侧痛",
+            "D.胸骨体上段之后痛",
+            "E.心前区痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 14
+    },
+    {
+        "question_text": "15.“亚甲炎”出现右侧下颌、耳廓、枕骨部疼痛是属于下列哪类型疼痛？",
+        "options": [
+            "A.局部疼痛",
+            "B.内脏痛",
+            "C.牵涉痛",
+            "D.痉挛痛",
+            "E.扩散痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 15
+    },
+    {
+        "question_text": "16.心绞痛的胸痛部位最常见于:",
+        "options": [
+            "A.第1、2肋软骨",
+            "B.胸骨后或胸前区",
+            "C.侧胸部",
+            "D.胸背部",
+            "E.腋中线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列表现为心绞痛的特点，除外:",
+        "options": [
+            "A.好发于胸骨后",
+            "B.呈针刺样胸痛",
+            "C.可以放射至腹部",
+            "D.发作多与劳力有关",
+            "E.舌下含服硝酸甘油后3分钟内缓解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 17
+    },
+    {
+        "question_text": "18.心绞痛及心肌梗死时，胸痛的部位可多处，但主要在:",
+        "options": [
+            "A.前胸",
+            "B.左颈部",
+            "C.胸骨后",
+            "D.左上肢",
+            "E.上腹部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 18
+    },
+    {
+        "question_text": "19.胸痛的性质可提示某种疾病，下列哪项正确？",
+        "options": [
+            "A.烧灼痛——肺梗死",
+            "B.闷痛——肺癌",
+            "C.撕裂痛——带状疱疹",
+            "D.刀割样痛——干性胸膜炎",
+            "E.尖锐刺痛——心绞痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 19
+    },
+    {
+        "question_text": "20.胸骨压痛和叩击痛常见于:",
+        "options": [
+            "A.胸壁软组织",
+            "B.肋间神经痛",
+            "C.肋软骨炎",
+            "D.白血病",
+            "E.骨折"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 20
+    },
+    {
+        "question_text": "21.胸骨后痛可见于:",
+        "options": [
+            "A.胸膜炎",
+            "B.心脏神经官能症",
+            "C.肺梗死",
+            "D.自发性气胸",
+            "E.反流性食管炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于胸痛的部位，错误的是:",
+        "options": [
+            "A.胸壁炎症性病变，局部可有红、肿、痛、热表现",
+            "B.带状疱疹伴同侧肋间神经痛",
+            "C.食管病变多在胸骨后痛",
+            "D.心绞痛局限于心前区",
+            "E.自发性气胸多位于腋下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 22
+    },
+    {
+        "question_text": "23.发作性胸骨后压榨性疼痛，体力负荷增加时诱发，应考虑:",
+        "options": [
+            "A.气胸",
+            "B.心包炎",
+            "C.肺栓塞",
+            "D.反流性食管炎",
+            "E.心绞痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 23
+    },
+    {
+        "question_text": "24.心肌对哪项损伤性刺激最敏感？",
+        "options": [
+            "A.刺伤",
+            "B.切割",
+            "C.烧伤",
+            "D.挤压",
+            "E.缺血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 24
+    },
+    {
+        "question_text": "25.青年患者，第二肋软骨局部有压痛，胸片无异常，最可能的诊断是:",
+        "options": [
+            "A.心绞痛",
+            "B.气胸",
+            "C.胸膜炎",
+            "D.肺炎",
+            "E.肋软骨炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 25
+    },
+    {
+        "question_text": "26.突然出现胸背部难忍撕裂样剧痛，向下放射这至下腹、腰部与两侧腹股沟和下肢，应考虑",
+        "options": [
+            "A.自发性气胸",
+            "B.肺梗死",
+            "C.夹层动脉瘤",
+            "D.心肌梗死",
+            "E.胸膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 26
+    },
+    {
+        "question_text": "27.突然出现的胸部剧烈刺痛或绞痛，常伴有呼吸困难与发绀，考虑为:",
+        "options": [
+            "A.肺梗死",
+            "B.心绞痛",
+            "C.夹层动脉瘤",
+            "D.急性胸膜炎",
+            "E.气胸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 27
+    },
+    {
+        "question_text": "28.引起心绞痛与急性心肌梗死疼痛的原因是:",
+        "options": [
+            "A.挤压",
+            "B.出血",
+            "C.坏死",
+            "D.扩张",
+            "E.缺血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 28
+    },
+    {
+        "question_text": "29.典型心绞痛常呈:",
+        "options": [
+            "A.灼痛",
+            "B.刺痛",
+            "C.闷痛",
+            "D.压榨样痛",
+            "E.酸痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 29
+    },
+    {
+        "question_text": "30.有关心绞痛和心血管神经官能症所致胸痛的鉴别最重要的是:",
+        "options": [
+            "A.心电图",
+            "B.病史",
+            "C.超声心电图",
+            "D.冠脉造影",
+            "E.运动试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 30
+    },
+    {
+        "question_text": "31.胸痛随深呼吸而加重的情况最常见于:",
+        "options": [
+            "A.心肌梗死",
+            "B.带状疱疹",
+            "C.胸膜炎",
+            "D.肺栓塞",
+            "E.肺癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 31
+    },
+    {
+        "question_text": "32.心肌梗死的叙述哪项不确切？",
+        "options": [
+            "A.疼痛位于胸骨后或心前区",
+            "B.胸痛持续而剧烈",
+            "C.硝酸甘油较难缓解心前区疼痛",
+            "D.血清肌酸磷酸激酶升高",
+            "E.心电图有助于与心绞痛鉴别和确诊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 32
+    },
+    {
+        "question_text": "33.胆道疾病引起的胸痛放射至肩部是引诱病变累及:",
+        "options": [
+            "A.肺尖部胸膜",
+            "B.纵隔胸膜",
+            "C.肋胸膜",
+            "D.膈胸膜的周围部分",
+            "E.膈胸膜的中心部分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 33
+    },
+    {
+        "question_text": "34.患者胸腔积液合并剧烈胸痛，最可能的诊断是:",
+        "options": [
+            "A.胸膜间皮瘤",
+            "B.右心衰竭合并胸水",
+            "C.结核性胸膜炎",
+            "D.肝硬化引起胸水",
+            "E.肺炎合并反应性胸膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 34
+    },
+    {
+        "question_text": "35.老年人胸骨后疼痛伴左肩部放射痛，最有可能的诊断是:",
+        "options": [
+            "A.心绞痛",
+            "B.气胸",
+            "C.胸膜炎",
+            "D.肺炎",
+            "E.肋软骨炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 35
+    },
+    {
+        "question_text": "36.用力屏气后，感觉左侧胸痛伴胸闷，查体左侧叩呈鼓音，语颤减弱，呼吸音减弱，最可能的诊断是:",
+        "options": [
+            "A.心绞痛",
+            "B.气胸",
+            "C.胸膜炎",
+            "D.肺炎",
+            "E.肋软骨炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 36
+    },
+    {
+        "question_text": "37.长期卧床，有下肢静脉血栓形成，突然胸痛气急、咯血，最可能的诊断是:",
+        "options": [
+            "A.左侧胸水",
+            "B.心绞痛发作",
+            "C.大叶性肺炎",
+            "D.肺结核",
+            "E.肺梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 37
+    },
+    {
+        "question_text": "38.哪项符合心肌梗死而非心绞痛的胸痛？",
+        "options": [
+            "A.剧烈的胸骨后疼痛",
+            "B.向左肩左臂内侧放射",
+            "C.在劳累、情绪激动或安静状态时发生",
+            "D.有绞窄和窒息感",
+            "E.硝酸甘油不能缓解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪一项不是胸壁带状疱疹的特点？",
+        "options": [
+            "A.成族水泡",
+            "B.沿一侧肋间神经分布",
+            "C.疱疹不超过体表中线",
+            "D.剧烈疼痛",
+            "E.疼痛游走不定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列哪一项不是非化脓性肋软骨炎的特点？",
+        "options": [
+            "A.多侵犯第1、2肋软骨",
+            "B.可成单个或多个隆起",
+            "C.局部明显充血",
+            "D.局部有压痛",
+            "E.局部皮肤无发炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 40
+    },
+    {
+        "question_text": "41.与胸膜炎胸痛特点相符的表现是:",
+        "options": [
+            "A.咳嗽时胸痛加剧",
+            "B.胸壁局部皮肤有红肿热痛",
+            "C.胸部皮肤有成簇水疱沿一侧助间神经分布",
+            "D.呈胸部闷痛",
+            "E.进食或吞咽时加重"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 41
+    },
+    {
+        "question_text": "42.胸膜炎的疼痛性质多为:",
+        "options": [
+            "A.烧灼痛",
+            "B.刀割样痛",
+            "C.刺痛",
+            "D.绞窄性痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 42
+    },
+    {
+        "question_text": "43.干性胸膜炎的疼痛性质多为:",
+        "options": [
+            "A.烧灼痛",
+            "B.刀割样痛",
+            "C.刺痛",
+            "D.绞窄性痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 43
+    },
+    {
+        "question_text": "44.肺癌引起的疼痛是:",
+        "options": [
+            "A.闷痛",
+            "B.刺痛",
+            "C.绞痛",
+            "D.撕裂痛",
+            "E.刀割样痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 44
+    },
+    {
+        "question_text": "45.男，45岁，反复出现胸骨后烧灼样痛，多在餐后出现，该患者最可能的诊断是:",
+        "options": [
+            "A.变异型心绞痛",
+            "B.陈旧性心肌梗死",
+            "C.食管癌",
+            "D.反流性食管炎",
+            "E.纵隔肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 45
+    },
+    {
+        "question_text": "46.心绞痛与心肌梗死在临床表现上的主要鉴别点是:",
+        "options": [
+            "A.疼痛性质",
+            "B.疼痛持续时间长短",
+            "C.听诊是否有频发期前收缩",
+            "D.心尖区有否收缩期杂音",
+            "E.休息后疼痛是否缓解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列哪项不属于疼痛的性质是？",
+        "options": [
+            "A.刺痛",
+            "B.刀割样痛",
+            "C.烧灼痛",
+            "D.绞痛",
+            "E.牵涉痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 47
+    },
+    {
+        "question_text": "48.带状疱疹的疼痛性质多为:",
+        "options": [
+            "A.隐痛",
+            "B.烧灼样或刀割样痛",
+            "C.刺痛",
+            "D.绞窄性痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 48
+    },
+    {
+        "question_text": "49.心前区疼痛，含化硝酸甘油后很快缓解，多见于:",
+        "options": [
+            "A.心肌梗死",
+            "B.心绞痛",
+            "C.心包积液",
+            "D.肺梗死",
+            "E.肺栓塞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 49
+    },
+    {
+        "question_text": "50.突然出现得胸部剧烈绞痛或刺痛，常伴有呼吸困难、咯血与发绀，考虑为:",
+        "options": [
+            "A.急性胸膜炎",
+            "B.肺梗死",
+            "C.肺癌",
+            "D.心绞痛",
+            "E.主动脉夹层动脉瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 50
+    },
+    {
+        "question_text": "51.反流性食管炎导致的胸痛多表现为:",
+        "options": [
+            "A.撕裂痛",
+            "B.刀割痛",
+            "C.绞窄痛",
+            "D.烧灼痛",
+            "E.胀痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 51
+    },
+    {
+        "question_text": "52.突然出现胸背部难忍撕裂样剧痛，向下放射这至下腹、腰部与两侧腹股沟和下肢，应考虑:",
+        "options": [
+            "A.肺梗死",
+            "B.急性胸膜炎",
+            "C.自发性气胸",
+            "D.主动脉夹层动脉瘤",
+            "E.心肌梗死"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 52
+    },
+    {
+        "question_text": "53.胸骨后疼痛并向左肩和左臂内侧放射提示:",
+        "options": [
+            "A.纵膈肿瘤",
+            "B.急性心肌梗死",
+            "C.食管炎",
+            "D.急性心包炎",
+            "E.心绞痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 53
+    },
+    {
+        "question_text": "54.临床上鉴别心绞痛和心肌梗死的要点是:",
+        "options": [
+            "A.疼痛的部位",
+            "B.疼痛的诱因",
+            "C.诱发因素",
+            "D.疼痛性质",
+            "E.对硝酸甘油的反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 54
+    },
+    {
+        "question_text": "55.心肌梗死的叙述哪项不正确？",
+        "options": [
+            "A.血清肌酸磷酸激酶升高",
+            "B.胸痛持续而剧烈",
+            "C.心电图出现坏死性Q波",
+            "D.疼痛位于胸骨后或心前区",
+            "E.老年人不会出现牙痛、腹痛、腹泻等症状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 55
+    },
+    {
+        "question_text": "56.关于心肌梗死所致胸痛的说法，错误的是:",
+        "options": [
+            "A.老年人多发",
+            "B.部位多在心前区或胸骨后",
+            "C.劳累可诱发",
+            "D.为持续性剧痛并向左肩等反射",
+            "E.用硝酸甘油可使疼痛缓解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 56
+    },
+    {
+        "question_text": "57.男性，20岁，低热5天，右侧胸痛，深呼吸时加剧。查体:右肺呼吸音稍减弱，并闻及胸膜摩擦音。最可能的诊断为:",
+        "options": [
+            "A.流行性胸痛",
+            "B.肋间神经痛",
+            "C.纤维素性胸膜炎",
+            "D.渗出性胸膜炎",
+            "E.肺炎球菌肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 57
+    },
+    {
+        "question_text": "58.肋间神经痛的疼痛性质多为:",
+        "options": [
+            "A.隐痛",
+            "B.刀割样痛",
+            "C.阵发性灼痛或刺痛",
+            "D.绞窄性痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 58
+    },
+    {
+        "question_text": "59.心绞痛的疼痛性质多为:",
+        "options": [
+            "A.隐痛",
+            "B.烧灼样或刀割样痛",
+            "C.刺痛",
+            "D.绞窄性痛并伴有重压窒息感",
+            "E.闷痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列哪项不符合典型心绞痛疼痛特点？",
+        "options": [
+            "A.情绪激动时易发生",
+            "B.疼痛位于胸骨后",
+            "C.疼痛性质呈刀割样",
+            "D.疼痛可放射至左肩",
+            "E.疼痛常不超过15分钟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 60
+    },
+    {
+        "question_text": "61.心肌梗死的疼痛性质多为:",
+        "options": [
+            "A.隐痛",
+            "B.烧灼样或刀割样痛",
+            "C.剧痛并有恐惧濒死感",
+            "D.绞窄性痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 61
+    },
+    {
+        "question_text": "62.气胸的疼痛性质多为:",
+        "options": [
+            "A.隐痛",
+            "B.烧灼样或刀割样痛",
+            "C.刺痛",
+            "D.绞窄性痛",
+            "E.发病初期有撕裂样痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列关于心绞痛时胸痛的描述，错误的是:",
+        "options": [
+            "A.多发生于老年人",
+            "B.精神紧张可诱发",
+            "C.多表现为心前区痛",
+            "D.呈撕裂样疼痛",
+            "E.服用硝酸甘油可缓解"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 63
+    },
+    {
+        "question_text": "64.夹层动脉瘤所致的疼痛呈:",
+        "options": [
+            "A.烧灼样痛",
+            "B.撕裂样剧痛或锥桶",
+            "C.闷痛",
+            "D.绞窄性痛",
+            "E.胀痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 64
+    },
+    {
+        "question_text": "65.典型心绞痛疼痛性质常呈:",
+        "options": [
+            "A.刀割样痛",
+            "B.刺痛",
+            "C.压榨性疼痛",
+            "D.灼痛",
+            "E.闷痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 65
+    },
+    {
+        "question_text": "66.心绞痛与急性心肌梗死的疼痛是由哪种刺激引起的？",
+        "options": [
+            "A.出血",
+            "B.缺血",
+            "C.坏死",
+            "D.挤压",
+            "E.扩张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 66
+    },
+    {
+        "question_text": "67.心绞痛与急性心肌梗死最主要的鉴别点在于:",
+        "options": [
+            "A.疼痛诱因",
+            "B.疼痛部位",
+            "C.疼痛性质",
+            "D.疼痛持续时间",
+            "E.疼痛发生规律"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 67
+    },
+    {
+        "question_text": "68.突发剧烈胸痛伴呼吸困难和发绀，常见于:",
+        "options": [
+            "A.心绞痛",
+            "B.急性左心衰",
+            "C.急性肺动脉栓塞",
+            "D.急性心肌梗死",
+            "E.肺炎链球菌性肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 68
+    },
+    {
+        "question_text": "69.下列哪项疾病可出现胸痛伴咯血和大量脓臭痰？",
+        "options": [
+            "A.肺炎",
+            "B.肺癌",
+            "C.肺梗死",
+            "D.肺脓肿",
+            "E.支气管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 69
+    },
+    {
+        "question_text": "70.长期卧床患者，有下肢静脉血栓形成，突然胸痛、气急、咯血。最可能的诊断是:",
+        "options": [
+            "A.左侧胸腔积液",
+            "B.心绞痛发作",
+            "C.大叶性肺炎",
+            "D.肺结核",
+            "E.肺梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 70
+    },
+    {
+        "question_text": "71.胸痛部位固定，局部有压痛，患部可有隆起，提示:",
+        "options": [
+            "A.心绞痛",
+            "B.心肌梗死",
+            "C.食管炎",
+            "D.肋软骨炎",
+            "E.干性胸膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 71
+    },
+    {
+        "question_text": "72.用力呼吸或胸廓活动时加剧，暂停呼吸运动时缓解的是:",
+        "options": [
+            "A.心绞痛",
+            "B.心肌梗死",
+            "C.食管炎",
+            "D.肋软骨炎",
+            "E.干性胸膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 72
+    },
+    {
+        "question_text": "73.进食刺激性物质时胸痛加重，服用抗酸剂后减轻或消失的是:",
+        "options": [
+            "A.心绞痛",
+            "B.心肌梗死",
+            "C.食管炎",
+            "D.肋软骨炎",
+            "E.干性胸膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 73
+    },
+    {
+        "question_text": "74.下列哪种疾病不会导致胸痛的发生？",
+        "options": [
+            "A.纵膈炎",
+            "B.食管裂孔疝",
+            "C.肝脓肿",
+            "D.肝炎",
+            "E.脾梗塞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪项是食管炎引起的胸痛？",
+        "options": [
+            "A.烧灼痛",
+            "B.刀割样痛",
+            "C.刺痛",
+            "D.闷痛",
+            "E.绞痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 75
+    },
+    {
+        "question_text": "76.因咳嗽或用力呼吸后胸痛加剧，最常见于:",
+        "options": [
+            "A.心包炎",
+            "B.心肌梗死",
+            "C.食道炎",
+            "D.心绞痛",
+            "E.过度通气综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 76
+    },
+    {
+        "question_text": "77.患者，女性，43岁，用力屏气后，感左侧胸痛伴胸闷。查体:左胸叩呈鼓音，语颤减弱，呼吸音减弱，该患者最可能的诊断是:",
+        "options": [
+            "A.心绞痛",
+            "B.左侧气胸",
+            "C.胸膜炎",
+            "D.肺炎",
+            "E.肋软骨炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 77
+    },
+    {
+        "question_text": "78.患者，女性，68岁，突发胸骨后疼痛向左肩和左臂内侧放射，服用硝酸甘油可迅速缓解，结合病史，下列哪项符合患者的诊断",
+        "options": [
+            "A.食管炎",
+            "B.纵隔炎",
+            "C.心绞痛",
+            "D.急性心包炎",
+            "E.急性心肌梗死"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 78
+    },
+    {
+        "question_text": "79.患者，男性，40岁，曾有结核病史。搬重物时突感在上胸短暂刺痛，继而渐感呼吸困难，不能平卧，首先应考虑为",
+        "options": [
+            "A.心绞痛",
+            "B.气胸",
+            "C.胸膜炎",
+            "D.支气管哮喘",
+            "E.急性左心衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 79
+    },
+    {
+        "question_text": "80.患者，男性，50岁，既往健康。与子女生气后突感前胸闷痛，在压榨感，同时左臂也痛，休息后自行缓解，历时约3分钟。该患者最可能是:",
+        "options": [
+            "A.肋间神经痛",
+            "B.急性心肌梗死",
+            "C.急性左心衰",
+            "D.心绞痛",
+            "E.急性肺梗死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 80
+    },
+    {
+        "question_text": "81.患者，男性，12岁，阵发性剑突下钻顶样疼痛，辗转不安，缓解时无不适，查体:腹软，无压痛及反跳痛，Murphy征（-），肝区叩击痛（-），该患者最可能的诊断为:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.消化性溃疡穿孔",
+            "C.急性肠梗阻",
+            "D.胆道蛔虫症",
+            "E.结核性腹膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 81
+    }
+]

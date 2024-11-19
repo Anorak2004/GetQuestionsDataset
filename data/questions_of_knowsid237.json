@@ -1,0 +1,86 @@
+[
+    {
+        "question_text": "1.\t病理生理学是",
+        "options": [
+            "A.\t以动物疾病模型阐述人类疾病规律的学科",
+            "B.\t主要从功能代谢角度揭示疾病本质的学科",
+            "C.\t从形态角度解释病理过程的学科",
+            "D.\t解释临床症状体征的桥梁学科",
+            "E.\t多种学科综合解释疾病规律的边缘学科"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t病理生理学主要教学任务是讲授",
+        "options": [
+            "A.\t疾病过程中的病理变化",
+            "B.\t疾病发生发展的一般规律与机制",
+            "C.\t动物身上复制的人类疾病过程",
+            "D.\t疾病的症状和体征及其机理解释",
+            "E.\t临床诊断治疗的理论基础"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t病理生理学大量研究成果主要来自",
+        "options": [
+            "A.\t流行病学调查",
+            "B.\t推理判断",
+            "C.\t动物实验研究",
+            "D.\t临床实验研究",
+            "E.\t临床观察病人"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t不同疾病过程中共同的、成套的功能、代谢和形 态结构的病理性改变称为",
+        "options": [
+            "A.\t病理状态",
+            "B.\t病理障碍",
+            "C.\t病理过程",
+            "D.\t病理表现",
+            "E.\t病理反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t病理生理学的主要任务是",
+        "options": [
+            "A.\t诊断疾病",
+            "B.\t研究疾病的归转",
+            "C.\t研究疾病的表现",
+            "D.\t探索治疗疾病的手段",
+            "E.\t揭示疾病的机制与规律"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下列哪项不属于基本病理过程",
+        "options": [
+            "A.\t缺氧",
+            "B.\t创伤性休克",
+            "C.\t酸碱平衡紊乱",
+            "D.\t呼吸衰竭",
+            "E.\t水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 6
+    }
+]

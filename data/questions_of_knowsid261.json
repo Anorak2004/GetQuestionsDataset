@@ -1,0 +1,1332 @@
+[
+    {
+        "question_text": "1.关于水肿，下列哪项说法不正确？",
+        "options": [
+            "A.指人体组织间隙有过多的液体积聚",
+            "B.全身性水肿多为凹陷性",
+            "C.非凹陷性水肿是由于组织内钠水潴留过多引起的",
+            "D.腹水是一种特殊形式的水肿",
+            "E.一般情况下，肺水肿不包括在水肿范围内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 1
+    },
+    {
+        "question_text": "2.皮下组织的细胞内及组织间隙体液积聚过多，用手指加压组织可出现局部凹陷，属于下列哪一种病症？",
+        "options": [
+            "A.粘液性水肿",
+            "B.橡皮肿",
+            "C.脓肿",
+            "D.血肿",
+            "E.水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列关于肾源性水肿特点不正确的是:",
+        "options": [
+            "A.主要由于肾小球滤过率下降导致水钠潴留",
+            "B.大量蛋白尿的肾病患者可以出现",
+            "C.伴有其他肾病症状",
+            "D.常由足部开始向上蔓延全身",
+            "E.水肿性质软"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 3
+    },
+    {
+        "question_text": "4.水肿这一症状的概念不包括:",
+        "options": [
+            "A.肺水肿",
+            "B.腹水",
+            "C.胸腔积液",
+            "D.心包积液",
+            "E.橡皮肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 4
+    },
+    {
+        "question_text": "5.水肿这一术语不包括下列哪种情况？",
+        "options": [
+            "A.阴囊积水",
+            "B.腹腔积水",
+            "C.心包积水",
+            "D.胸腔积水",
+            "E.脑水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 5
+    },
+    {
+        "question_text": "6.水肿的病因不同，其伴随症状也不同，下列各项中，哪项的描述正确？",
+        "options": [
+            "A.水肿伴肝大者见于肝性水肿",
+            "B.水肿伴心率快为心性水肿",
+            "C.水肿伴呼吸困难和紫绀常为心性水肿",
+            "D.水肿伴消瘦为营养不良性水肿",
+            "E.浮肿伴腹水为肝性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 6
+    },
+    {
+        "question_text": "7.对于水肿的描述，错误的是:",
+        "options": [
+            "A.人体组织间隙有过多的液体积聚使组织肿胀称为水肿",
+            "B.水肿可分为体表性或体腔性",
+            "C.液体在组织间隙弥漫分布时呈全身性水肿",
+            "D.液体积聚在局部组织间隙称局限性水肿",
+            "E.发生于体腔内称积水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于水肿，下列哪项描述是不正确的:",
+        "options": [
+            "A.心源性水肿常从身体的低位开始",
+            "B.肾源性水肿常发展迅速",
+            "C.肝源性水肿常以腹水为主要表现",
+            "D.肾源性水肿常伴有高血压",
+            "E.甲状腺功能低下的病人常出现下肢可凹陷性水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 8
+    },
+    {
+        "question_text": "9.全身性水肿的原因不包括:",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.下肢静脉栓塞",
+            "E.黏液性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 9
+    },
+    {
+        "question_text": "10.全身性水肿见于:",
+        "options": [
+            "A.上腔静脉阻塞综合征",
+            "B.淋巴管炎",
+            "C.血栓性静脉炎",
+            "D.肾小球肾炎",
+            "E.血管神经性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 10
+    },
+    {
+        "question_text": "11.不引起全身性水肿的疾病是:",
+        "options": [
+            "A.心功能不全",
+            "B.尿毒症",
+            "C.晚期肝硬化",
+            "D.肾病综合征",
+            "E.丝虫病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项不是导致全身性水肿的病因？",
+        "options": [
+            "A.过敏",
+            "B.急性肾小球肾炎",
+            "C.右心功能不全",
+            "D.肿瘤晚期",
+            "E.肝癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项可引起局部水肿？",
+        "options": [
+            "A.右心衰竭",
+            "B.肾病综合征",
+            "C.营养不良",
+            "D.丝虫病",
+            "E.肝硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 13
+    },
+    {
+        "question_text": "14.肝硬化引起的全身水肿主要是:",
+        "options": [
+            "A.血浆蛋白降低",
+            "B.淋巴回流受阻",
+            "C.毛细血管内静水压增高",
+            "D.下肢静脉血栓形成",
+            "E.钠、水潴留"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 14
+    },
+    {
+        "question_text": "15.局限性水肿常见于:",
+        "options": [
+            "A.心力衰竭",
+            "B.肾病综合征",
+            "C.肝硬化",
+            "D.局部静脉回流受阻",
+            "E.血管神经性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪项可引起局部性水肿？",
+        "options": [
+            "A.肝硬化",
+            "B.丝虫病",
+            "C.右心功能不全",
+            "D.营养不良",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 16
+    },
+    {
+        "question_text": "17.产生水肿的几项主要因素，除外:",
+        "options": [
+            "A.钠与水的潴留",
+            "B.毛细血管滤过压升高",
+            "C.毛细血管通透性增强",
+            "D.丝虫病或血栓性静脉炎",
+            "E.血浆胶体渗透压降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项水肿属于局部水肿？",
+        "options": [
+            "A.心源性水肿",
+            "B.肝源性水肿",
+            "C.过敏性水肿",
+            "D.肾源性水肿",
+            "E.营养不良性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列可引起局限性水肿的是:",
+        "options": [
+            "A.创伤或过敏",
+            "B.肝硬化",
+            "C.肾小球肾炎",
+            "D.右心衰竭",
+            "E.重度烧伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 19
+    },
+    {
+        "question_text": "20.局部性水肿见于:",
+        "options": [
+            "A.上腔静脉阻塞综合征",
+            "B.蛋白丢失性胃肠病",
+            "C.胸腔积液",
+            "D.黏液性水肿",
+            "E.慢性肾小球肾炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 20
+    },
+    {
+        "question_text": "21.非凹陷性水肿主要见于哪种疾病？",
+        "options": [
+            "A.甲状腺功能减退",
+            "B.肝硬化",
+            "C.肾病综合征",
+            "D.右心衰",
+            "E.左心衰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 21
+    },
+    {
+        "question_text": "22.心源性水肿的主要发生机制是:",
+        "options": [
+            "A.低蛋白血症",
+            "B.肾排泄水、钠减少",
+            "C.有效循环血量减少",
+            "D.肝淋巴液回流障碍",
+            "E.毛细血管静水压升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 22
+    },
+    {
+        "question_text": "23.心源性水肿的特点是:",
+        "options": [
+            "A.从眼睑、颜面开始而延及全身",
+            "B.首先出现在身体下垂部分",
+            "C.伴有门脉高压",
+            "D.非压陷性水肿",
+            "E.水肿发展缓慢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 23
+    },
+    {
+        "question_text": "24.心源性水肿的特点是:",
+        "options": [
+            "A.首先出现在右胸腔",
+            "B.首先出现在眼睑部位",
+            "C.首先出现在下肢踝部",
+            "D.首先出现在身体的下垂部位",
+            "E.首先出现在颜面部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 24
+    },
+    {
+        "question_text": "25.心源性水肿的特点正确的一项是:",
+        "options": [
+            "A.从眼睑面部开始延及全身",
+            "B.从足部开始向上延及全身",
+            "C.水肿时最先出现腹水",
+            "D.上肢、颈部水肿",
+            "E.单侧、下肢、压陷性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 25
+    },
+    {
+        "question_text": "26.对心源性水肿描述错误的是:",
+        "options": [
+            "A.可伴有胸、腹腔积液",
+            "B.对称性、移动性小",
+            "C.从颜面开始而延及全身",
+            "D.常伴肝肿大",
+            "E.常有颈静脉怒张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 26
+    },
+    {
+        "question_text": "27.下列因素中，支持心源性水肿的是:",
+        "options": [
+            "A.血压增高",
+            "B.肝大",
+            "C.先消瘦，后水肿",
+            "D.蛋白尿，管型尿，血尿",
+            "E.肝功能减退"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 27
+    },
+    {
+        "question_text": "28.心源性水肿的主要表现，除外:",
+        "options": [
+            "A.水肿特点是首先出现于身体下垂部分",
+            "B.静脉压升高",
+            "C.水肿性质软而移动性大",
+            "D.有肝肿大及颈静脉怒张",
+            "E.严重时可出现胸、腹水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项是心源性水肿的特点？",
+        "options": [
+            "A.门静脉压升高",
+            "B.多伴有淋巴回流受阻",
+            "C.肝颈静脉回流征阳性",
+            "D.水肿常眼睑颜面开始延及全身",
+            "E.水肿常从下肢开始向上延及全身"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪项是心源性水肿最常见的病因？",
+        "options": [
+            "A.左心衰竭",
+            "B.肺水肿",
+            "C.右心衰竭",
+            "D.肺栓塞",
+            "E.感染性心内膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 30
+    },
+    {
+        "question_text": "31.心源性水肿的特点不正确的是:",
+        "options": [
+            "A.从眼睑、颜面开始而延及全身",
+            "B.比较坚实，移动性小",
+            "C.从足开始，向上延及全身",
+            "D.发展缓慢",
+            "E.伴有心功能不全病征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 31
+    },
+    {
+        "question_text": "32.提示存在心源性水肿的体征，正确的是:",
+        "options": [
+            "A.肝颈静脉回流征阳性",
+            "B.腹腔积水",
+            "C.肝脾肿大",
+            "D.胸腔积水",
+            "E.双踝部水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列关于心源性水肿的说法，不正确的一项是:",
+        "options": [
+            "A.行走活动后明显，休息后减轻",
+            "B.常有肝颈静脉回流征阳性",
+            "C.水肿的基本机制是钠水潴留",
+            "D.可有肝肿大",
+            "E.多呈不对称性、非凹陷性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 33
+    },
+    {
+        "question_text": "34.心性水肿最先出现的部位:",
+        "options": [
+            "A.下肢",
+            "B.眼睑",
+            "C.胸腔",
+            "D.腹腔",
+            "E.外阴"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 34
+    },
+    {
+        "question_text": "35.肾性水肿最先出现的部位:",
+        "options": [
+            "A.下肢",
+            "B.眼睑",
+            "C.胸腔",
+            "D.腹腔",
+            "E.外阴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 35
+    },
+    {
+        "question_text": "36.肝性水肿最先出现的部位:",
+        "options": [
+            "A.下肢",
+            "B.眼睑",
+            "C.胸腔",
+            "D.腹腔",
+            "E.外阴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 36
+    },
+    {
+        "question_text": "37.右心功能不全引起的水肿主要由于:",
+        "options": [
+            "A.血浆蛋白降低",
+            "B.淋巴回流受阻",
+            "C.毛细血管内压力增高",
+            "D.下肢静脉血栓形成",
+            "E.下肢动脉血梗阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列是右心衰竭致心源性水肿时的体征，除外:",
+        "options": [
+            "A.双下肢水肿",
+            "B.肝肿大",
+            "C.颈静脉怒张",
+            "D.双肺底对称性湿罗音",
+            "E.肝颈静脉回流征阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 38
+    },
+    {
+        "question_text": "39.右心衰竭晚期水肿的特征是:",
+        "options": [
+            "A.双下肢水肿",
+            "B.合并胸、腹腔积水",
+            "C.右下肢水肿",
+            "D.肝脏肿大",
+            "E.腰骶部水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 39
+    },
+    {
+        "question_text": "40.引起心源性水肿正确的机制是:",
+        "options": [
+            "A.毛细血管通透性增高",
+            "B.淋巴液回流受阻",
+            "C.毛细血管滤过压升高",
+            "D.血浆胶体渗透压降低",
+            "E.组织液蛋白含量高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 40
+    },
+    {
+        "question_text": "41.肾性水肿的主要表现是:",
+        "options": [
+            "A.疾病早期，晨间有眼睑与颜面水肿",
+            "B.水肿从足部开始",
+            "C.发展较缓慢",
+            "D.水肿比较坚实，移动性小",
+            "E.静脉压升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列哪项不符合肾源性水肿的特点？",
+        "options": [
+            "A.可见与各型肾炎及肾病",
+            "B.从眼睑及面部开始",
+            "C.发展迅速",
+            "D.比较坚实，移动性较少",
+            "E.可伴有高血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 42
+    },
+    {
+        "question_text": "43.肾性水肿的特征为:",
+        "options": [
+            "A.晨起有眼睑与颜面水肿",
+            "B.主要表现为腹水",
+            "C.首先出现于身体下垂部位",
+            "D.为非凹陷性水肿",
+            "E.多见于月经前1～2周"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪项是肾源性水肿的特点？",
+        "options": [
+            "A.钠、水潴留",
+            "B.血浆胶体渗透压降低",
+            "C.水肿常眼睑颜面开始延及全身",
+            "D.水肿部位可随体变化而改变",
+            "E.水肿常从下肢开始向上延及全身"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 44
+    },
+    {
+        "question_text": "45.患者眼睑浮肿，逐渐蔓延至全身，为哪种水肿？",
+        "options": [
+            "A.肾源性水肿",
+            "B.心源性水肿",
+            "C.肝源性水肿",
+            "D.内分泌水肿",
+            "E.营养不良性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 45
+    },
+    {
+        "question_text": "46.下列有助于肾源性水肿与心源性水肿的鉴别，除外:",
+        "options": [
+            "A.水肿开始部位",
+            "B.水肿发展快慢",
+            "C.水肿性质",
+            "D.伴随病症",
+            "E.水肿严重程度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 46
+    },
+    {
+        "question_text": "47.心源性水中与肝源性水肿的鉴别要点是:",
+        "options": [
+            "A.水肿程度",
+            "B.水肿性质",
+            "C.有无肝肿大",
+            "D.有无颈静脉怒张",
+            "E.有无腹水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 47
+    },
+    {
+        "question_text": "48.关于肝性水肿，错误的是:",
+        "options": [
+            "A.失代偿期肝硬化可出现腹水",
+            "B.肝肿大，高蛋白血症",
+            "C.水肿也可首先出现于踝部",
+            "D.头部、面部及上肢常无水肿",
+            "E.有肝功能减退的表现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 48
+    },
+    {
+        "question_text": "49.肝源性水肿的主要特点是:",
+        "options": [
+            "A.多从下肢开始继而遍及全身",
+            "B.多从眼睑颜面开始而遍及全身",
+            "C.多为压陷性水肿",
+            "D.主要表现为腹水和轻度下肢水肿",
+            "E.多有双上肢静脉压升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列各项中，不是肝源性水肿发生机制的是:",
+        "options": [
+            "A.门静脉压力增高",
+            "B.组织液交替渗透压增高",
+            "C.肝淋巴液生成增多",
+            "D.血浆胶体渗透压降低",
+            "E.钠与水猪留"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 50
+    },
+    {
+        "question_text": "51.肝源性水肿不应该有:",
+        "options": [
+            "A.肝颈静脉回流征阳性",
+            "B.正常的静脉压",
+            "C.血浆白蛋白与球蛋白比例倒置",
+            "D.腹水",
+            "E.脾脏肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 51
+    },
+    {
+        "question_text": "52.肝源性水肿的主要表现是:",
+        "options": [
+            "A.晨起可见颜面及眼睑浮肿",
+            "B.颈静脉怒张",
+            "C.腹水",
+            "D.头面部水肿",
+            "E.水肿前常有消瘦"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 52
+    },
+    {
+        "question_text": "53.肝源性水肿发生机制不包括:",
+        "options": [
+            "A.低蛋白血症",
+            "B.门脉高压",
+            "C.继发性醛固酮增多",
+            "D.大量蛋白尿",
+            "E.肝淋巴回流受阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列哪项是肝源性水肿的特点？",
+        "options": [
+            "A.从头面部开始延及全身",
+            "B.失代偿期肝硬化主要表现为腹水",
+            "C.轻而移动性大",
+            "D.主要与尿潴留有关",
+            "E.从足开始，向上延及全身"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 54
+    },
+    {
+        "question_text": "55.丝虫病引起水肿的原因是:",
+        "options": [
+            "A.淋巴回流受阻",
+            "B.血浆胶体渗透压降低",
+            "C.毛细血管通透性增高",
+            "D.毛细血管滤过压升高",
+            "E.首先出现在下垂部位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 55
+    },
+    {
+        "question_text": "56.非凹陷性水肿常见于:",
+        "options": [
+            "A.黏液性水肿",
+            "B.慢性肾小球肾炎",
+            "C.右心功能不全",
+            "D.药物过敏",
+            "E.肝硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 56
+    },
+    {
+        "question_text": "57.非凹陷性水肿见于:",
+        "options": [
+            "A.心力衰竭",
+            "B.慢性肾炎",
+            "C.肝硬化",
+            "D.黏液性水肿",
+            "E.血管神经性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 57
+    },
+    {
+        "question_text": "58.重度烧伤引起的水肿主要是:",
+        "options": [
+            "A.血浆蛋白降低",
+            "B.淋巴回流受阻",
+            "C.毛细血管内静压水压增高",
+            "D.下肢静脉血栓形成",
+            "E.钠、水潴留"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 58
+    },
+    {
+        "question_text": "59.鉴别肝原性与心源性水肿，最有意义的是:",
+        "options": [
+            "A.腹水",
+            "B.颈静脉怒张",
+            "C.肝肿大",
+            "D.颜面部水肿",
+            "E.脚部水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 59
+    },
+    {
+        "question_text": "60.鉴别肝源性与心源性水肿，下列哪项检查最有意义？",
+        "options": [
+            "A.心尖收缩期杂音",
+            "B.蛋白尿",
+            "C.肝肿大",
+            "D.腹壁静脉曲张",
+            "E.肝功能检查"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 60
+    },
+    {
+        "question_text": "61.关于黏液性水肿，正确的是:",
+        "options": [
+            "A.是长期营养缺乏所致",
+            "B.为非凹陷性水肿",
+            "C.四肢末端较明显",
+            "D.见于肢端肥大症",
+            "E.月经前期明显"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 61
+    },
+    {
+        "question_text": "62.关于营养不良性水肿，错误的是:",
+        "options": [
+            "A.常在肉类食物摄入较少时发生",
+            "B.重度烧伤可产生营养不良性水肿",
+            "C.脚气病是营养不良性水肿",
+            "D.水肿前常有消瘦",
+            "E.水肿常从足部开始"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列哪项不是轻度水肿的特点？",
+        "options": [
+            "A.仅见于眼睑下软组织",
+            "B.见于胫骨前、踝部皮下组织",
+            "C.指压后可见组织轻度下陷",
+            "D.指压后平复较快",
+            "E.指压后可见较深的组织下陷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪项不是中度水肿的特点？",
+        "options": [
+            "A.全身疏松组织均有可见性水肿",
+            "B.外阴部明显水肿",
+            "C.指压后可出现明显的组织下陷",
+            "D.指压后平复缓慢",
+            "E.指压后可出现较深的组织下陷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 64
+    },
+    {
+        "question_text": "65.对粘液性水肿昏迷的描述，下列哪项是错误的？",
+        "options": [
+            "A.寒冷、感染、镇静剂、麻醉剂可诱发",
+            "B.多见于老年人",
+            "C.表现为躁动、高热",
+            "D.表现为嗜睡、低体温",
+            "E.严重时休克、呼吸衰竭、心肾功能不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 65
+    },
+    {
+        "question_text": "66.以下哪种不是水肿形成的重要介质？",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.肾素",
+            "C.心房利钠因子",
+            "D.血管紧张素Ⅱ",
+            "E.醛固酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 66
+    },
+    {
+        "question_text": "67.原发性醛固酮增多症时，产生水肿的主要始动因素是？",
+        "options": [
+            "A.毛细血管滤过压增高",
+            "B.毛细血管通透性增高",
+            "C.水与钠潴留",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液回流受阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 67
+    },
+    {
+        "question_text": "68.右心衰竭时，产生水肿的主要始动因素是:",
+        "options": [
+            "A.毛细血管滤过压增高",
+            "B.毛细血管通透性增高",
+            "C.水与钠潴留",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液回流受阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 68
+    },
+    {
+        "question_text": "69.急性肾炎时，产生水肿的主要始动因素是:",
+        "options": [
+            "A.毛细血管滤过压增高",
+            "B.毛细血管通透性增高",
+            "C.水与钠潴留",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液回流受阻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 69
+    },
+    {
+        "question_text": "70.肾病综合征时，产生水肿的主要始动因素是:",
+        "options": [
+            "A.毛细血管滤过压增高",
+            "B.毛细血管通透性增高",
+            "C.水与钠潴留",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液回流受阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 70
+    },
+    {
+        "question_text": "71.丝虫病时，产生水肿的主要因素是:",
+        "options": [
+            "A.毛细血管滤过压增高",
+            "B.毛细血管通透性增高",
+            "C.水与钠潴留",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液回流受阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 71
+    },
+    {
+        "question_text": "72.非凹陷性水肿见于:",
+        "options": [
+            "A.上腔静脉阻塞综合征",
+            "B.蛋白丢失性胃肠病",
+            "C.胸腔积液",
+            "D.黏液性水肿",
+            "E.慢性肾小球肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 72
+    },
+    {
+        "question_text": "73.非凹陷性水肿常见于:",
+        "options": [
+            "A.药物性水肿",
+            "B.特发性水肿",
+            "C.黏液性水肿",
+            "D.营养不良性水肿",
+            "E.肝源性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 73
+    },
+    {
+        "question_text": "74.下垂性水肿，常见于下列哪种水肿？",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.营养不良性水肿",
+            "E.内分泌源性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪种水肿，及时补充了足够的蛋白质及维生素B1后，水肿迅速消退:",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.营养不良性水肿",
+            "E.内分泌源性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列哪项水肿为非凹陷性水肿？",
+        "options": [
+            "A.炎性水肿",
+            "B.粘液性水肿",
+            "C.特发性水肿",
+            "D.血管神经性水肿",
+            "E.药物性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 76
+    },
+    {
+        "question_text": "77.下列哪种水肿最早出现于颜面部或眼睑？",
+        "options": [
+            "A.心源性水肿",
+            "B.肝源性水肿",
+            "C.肾源性水肿",
+            "D.营养不良性水肿",
+            "E.内分泌源性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 77
+    },
+    {
+        "question_text": "78.为了鉴别诊断，对水肿患者在收集病史中下列哪项相对不重要？",
+        "options": [
+            "A.水肿首先发生的部位",
+            "B.水肿是否为凹陷性",
+            "C.伴随水肿发生的症状",
+            "D.水肿与体位改变有无关系",
+            "E.水肿发生后尿量的变化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 78
+    },
+    {
+        "question_text": "79.全身水肿伴胸腹水，下列哪项疾病不予考虑？",
+        "options": [
+            "A.肺心病心衰",
+            "B.晚期肝硬化",
+            "C.尿毒症",
+            "D.肾病综合征",
+            "E.席汉综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 79
+    },
+    {
+        "question_text": "80.一病人清晨眼睑水肿逐渐蔓延全身，应考虑哪种？",
+        "options": [
+            "A.肝源性水肿",
+            "B.肾源性水肿",
+            "C.心源性水肿",
+            "D.内分泌性水肿",
+            "E.营养严重不良"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 80
+    },
+    {
+        "question_text": "81.水肿伴高血压、蛋白尿、管型尿见于:",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.营养不良性水肿",
+            "E.内分泌源性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 81
+    },
+    {
+        "question_text": "82.水肿伴有肝肿大、颈静脉怒张常见于:",
+        "options": [
+            "A.肾源性水肿",
+            "B.肝源性水肿",
+            "C.心源性水肿",
+            "D.营养不良性水肿",
+            "E.黏液性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 82
+    },
+    {
+        "question_text": "83.水肿伴体重减轻、消瘦者多见于:",
+        "options": [
+            "A.肝源性水肿",
+            "B.心源性水肿",
+            "C.营养不良性水肿",
+            "D.肾源性水肿",
+            "E.特发性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 83
+    },
+    {
+        "question_text": "84.全身性水肿伴有颈静脉怒张，应疑为:",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.营养不良性水肿",
+            "E.特发性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 84
+    },
+    {
+        "question_text": "85.水肿伴肝肿大、肝颈静脉回流征阳性最可能的诊断是:",
+        "options": [
+            "A.慢性肾炎",
+            "B.右心衰竭",
+            "C.左心衰竭",
+            "D.肝硬化",
+            "E.重度营养不良"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 85
+    },
+    {
+        "question_text": "86.水肿伴大量蛋白尿见于:",
+        "options": [
+            "A.右心衰竭",
+            "B.慢性肾小球肾炎",
+            "C.肝硬化",
+            "D.蛋白丢失性胃肠病",
+            "E.全心衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 86
+    },
+    {
+        "question_text": "87.女患，35岁，心悸，气短二年，颈静脉怒张，心尖部可闻及舒张期杂音，S1亢进，早出现水肿的部位是:",
+        "options": [
+            "A.眼睑、面",
+            "B.腹部",
+            "C.双下肢",
+            "D.单侧下肢来源",
+            "E.周身"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 87
+    },
+    {
+        "question_text": "88.女性，30岁，怕冷，腹胀，经期延长，量多，全身肿胀，以经期为甚，较硬。B超示甲状腺肿大、肝肿大及脂肪肝。其皮肤肿胀的原因是:",
+        "options": [
+            "A.神经血管性水肿",
+            "B.肝硬化",
+            "C.甲状腺功能减退症",
+            "D.淡漠型甲状腺功能亢进",
+            "E.营养不良"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 88
+    },
+    {
+        "question_text": "89.女，40岁，下肢水肿，查体:心尖区限局性舒张期隆隆杂音，肺部听诊正常，肝大（-），腹水（-），双下肢水肿（+）及皮肤呈暗紫色，右侧重于左侧，月经期未检查尿该患者排除心源性水肿的主要依据是:",
+        "options": [
+            "A.无心尖区收缩期杂音",
+            "B.肺听诊正常",
+            "C.肝不肿大",
+            "D.双下肢水肿程度不一致",
+            "E.下肢皮肤呈暗紫色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 89
+    },
+    {
+        "question_text": "90.女，45岁，甲状腺131放射治疗史。3年来水肿、畏寒，化验血FT3及FT4均降低。该患者水肿的特征表现是:",
+        "options": [
+            "A.非炎症性水肿",
+            "B.身体下垂部位水肿",
+            "C.全身性水肿",
+            "D.压陷性水肿",
+            "E.非压陷性水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 90
+    },
+    {
+        "question_text": "91.女，36岁，患糖尿病1个月，胰岛素治疗过程中出现全身性轻至中度水肿。该患者发生水肿是由于:",
+        "options": [
+            "A.胰岛素过敏",
+            "B.维生素B1缺乏",
+            "C.蛋白质缺乏",
+            "D.水、钠潴留",
+            "E.特发性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 91
+    },
+    {
+        "question_text": "92.女，40岁，心脏听诊有心尖区舒张期限局性隆隆性杂音，肝大，下肢水肿。化验:肝功正常，尿蛋白（+），血清白蛋白30g/L。该患者水肿是来自:",
+        "options": [
+            "A.心源性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.营养不良性水肿",
+            "E.下腔静脉阻塞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 92
+    },
+    {
+        "question_text": "93.男，50岁，咯痰带血查体:颈部、上肢水肿，胸前部淤血及静脉曲张，该患者水肿的原因考虑为:",
+        "options": [
+            "A.下腔静脉阻塞",
+            "B.上腔静脉阻塞",
+            "C.胸导管阻塞",
+            "D.缩窄性心包炎",
+            "E.丝虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 93
+    },
+    {
+        "question_text": "94.女，61岁，双下肢水肿2个月，查体:肝肋下3cm，有触痛，颈静脉怒张，腹水征阳性双下肢凹陷性水肿。考虑水肿原因为:",
+        "options": [
+            "A.特发性水肿",
+            "B.肾源性水肿",
+            "C.肝源性水肿",
+            "D.心源性水肿",
+            "E.营养不良性水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 94
+    },
+    {
+        "question_text": "95.男性，18岁，1周前“感冒”后出现眼睑水肿，逐渐发展至下肢水肿来院门诊。查体示:T37.8℃,心率100次/分，腹水征（+）,下肢呈压陷性水肿。尿常规示:蛋白（+++），RBC（+）,WBC（+）。水肿最可能是:",
+        "options": [
+            "A.心源性",
+            "B.肾源性",
+            "C.肝源性",
+            "D.黏液性",
+            "E.营养不良性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 95
+    }
+]

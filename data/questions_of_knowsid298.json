@@ -1,0 +1,1052 @@
+[
+    {
+        "question_text": "230.正常成年女性血液中红细胞计数是",
+        "options": [
+            "A.(4—10)X1012 个/L",
+            "B.4000—10000 个/cm3",
+            "C.(100--300)X1012 个/L",
+            "D.400万--500万个/ml",
+            "E.(3.5—5.0)X1012 个/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 1
+    },
+    {
+        "question_text": "231.正常人安静时血液中白细胞计数是",
+        "options": [
+            "A.(4—10)X109 个/L",
+            "B.4000—10000 个/cm3",
+            "C.(100—300)X109 个/L",
+            "D.400万--500万个/ml",
+            "E.(3.5—5.0)X109 个/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 2
+    },
+    {
+        "question_text": "232.血浆与组织液各种成分浓度的主要区别是",
+        "options": [
+            "A.钠离子",
+            "B.葡萄糖",
+            "C.白蛋白",
+            "D.球蛋白",
+            "E.纤维蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 3
+    },
+    {
+        "question_text": "233.下列各项中不是血浆蛋白的主要功能的是",
+        "options": [
+            "A.运输物质",
+            "B.参与机体的免疫",
+            "C.缓冲pH值",
+            "D.参与生理止血",
+            "E.维持血浆晶体渗透压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 4
+    },
+    {
+        "question_text": "234.全血的比重主要取决于",
+        "options": [
+            "A.NaCl的浓度",
+            "B.渗透压的高低",
+            "C.白细胞的数量",
+            "D.红细胞的数量",
+            "E.血浆蛋白的含量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 5
+    },
+    {
+        "question_text": "235.血浆胶体渗透压降低时可引起",
+        "options": [
+            "A.组织液减少",
+            "B.组织液增多",
+            "C.尿少",
+            "D.红细胞萎缩",
+            "E.红细胞膨胀和破裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 6
+    },
+    {
+        "question_text": "236.当红细胞渗透脆性增大时",
+        "options": [
+            "A.红细胞不易破裂",
+            "B.对高渗盐溶液抵抗力增大",
+            "C.对高渗盐溶液抵抗力减小",
+            "D.对低渗盐溶液抵抗力减小",
+            "E.对低渗盐溶液抵抗力增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 7
+    },
+    {
+        "question_text": "237.红细胞的变形能力的大小取决于红细胞的",
+        "options": [
+            "A.数量",
+            "B.比重",
+            "C.体积",
+            "D.表面积",
+            "E.表面积与体积的比值"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 8
+    },
+    {
+        "question_text": "238.血浆晶体渗透压降低时可引起",
+        "options": [
+            "A.组织液减少",
+            "B.组织液增加",
+            "C.尿少",
+            "D.红细胞萎缩",
+            "E.红细胞膨胀和破裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 9
+    },
+    {
+        "question_text": "239.血浆的pH值主要取决于下列各缓冲对中的",
+        "options": [
+            "A.碳酸氢钾/碳酸",
+            "B.磷酸氢二钾/磷酸二氢钾",
+            "C.碳酸氢钠/碳酸",
+            "D.磷酸氢二钠/磷酸二氢钠",
+            "E.蛋白质-钠/蛋白质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 10
+    },
+    {
+        "question_text": "240.红细胞比容是指红细胞",
+        "options": [
+            "A.与血清容积之比",
+            "B.与血浆容积之比",
+            "C.与血管容积之比",
+            "D.在血液中所占容积百分比",
+            "E.在血液中所占重量百分比"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 11
+    },
+    {
+        "question_text": "241.红细胞的主要功能是",
+        "options": [
+            "A.提供营养",
+            "B.缓冲温度",
+            "C.运输激素",
+            "D.运输氧气和二氧化碳",
+            "E.提供铁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 12
+    },
+    {
+        "question_text": "242.中性粒细胞的主要功能是",
+        "options": [
+            "A.产生抗体",
+            "B.吞噬异物",
+            "C.参与止血",
+            "D.释放细胞毒素",
+            "E.释放组胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 13
+    },
+    {
+        "question_text": "243.下列细胞中呑噬能力最强的是",
+        "options": [
+            "A.单核巨噬细胞",
+            "B.淋巴细胞",
+            "C.中性粒细胞",
+            "D.嗜酸粒细胞",
+            "E.嗜碱粒细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 14
+    },
+    {
+        "question_text": "244.小血管损伤后止血栓正确定位于损伤部位取 决下列于血小板生理特性中的",
+        "options": [
+            "A.吸附",
+            "B.黏附",
+            "C.聚集",
+            "D.收缩",
+            "E.E、释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 15
+    },
+    {
+        "question_text": "245.对于血小板的聚集起重要作用的物质是",
+        "options": [
+            "A.纤维蛋白原",
+            "B.凝血酶",
+            "C.钙离子",
+            "D.ADP与血栓素A2",
+            "E.花生四烯酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 16
+    },
+    {
+        "question_text": "246.内源性凝血途径的始动因子是",
+        "options": [
+            "A.因子Ⅻ",
+            "B.因子Ⅱ",
+            "C.因子X",
+            "D.因子Ⅲ",
+            "E.因子Ⅳ"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 17
+    },
+    {
+        "question_text": "247.外源性凝血途径的始动因子是",
+        "options": [
+            "A.因子VII",
+            "B.因子II",
+            "C.因子X",
+            "D.因子III",
+            "E.因子W"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 18
+    },
+    {
+        "question_text": "248.血液凝固的内源性与外源性途径的最主要差 别在于",
+        "options": [
+            "A.因子X的激活过程",
+            "B.凝血酶激活过程",
+            "C.凝血速度快慢",
+            "D.纤维蛋白形成过程",
+            "E.是否有血小板参与"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 19
+    },
+    {
+        "question_text": "249.血液凝固的本质是",
+        "options": [
+            "A.纤维蛋白的溶解",
+            "B.纤维蛋白的激活",
+            "C.纤维蛋白原变为纤维蛋白",
+            "D.血小板的聚集",
+            "E.凝血因子刈的激活"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 20
+    },
+    {
+        "question_text": "250.凝血酶的主要作用是",
+        "options": [
+            "A.激活因子刈",
+            "B.促进血小板聚集",
+            "C.使纤维蛋白原转变为纤维蛋白",
+            "D.加速因子W复合物的形成",
+            "E.加速凝血酶原复合物的形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 21
+    },
+    {
+        "question_text": "251.正常人血液中的血小板计数是",
+        "options": [
+            "A.(4—10)X109 个/L",
+            "B.4000—10000 个/cm3",
+            "C.(100—300)X109 个/L",
+            "D.400万--500万个/ml",
+            "E.(3.5—5.0)X109 个/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 22
+    },
+    {
+        "question_text": "252.血浆胶体渗透压主要来自血浆的",
+        "options": [
+            "A.钠离子",
+            "B.葡萄糖",
+            "C.白蛋白",
+            "D.球蛋白",
+            "E.纤维蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 23
+    },
+    {
+        "question_text": "253.血浆晶体渗透压主要来自血浆的",
+        "options": [
+            "A.钠离子",
+            "B.葡萄糖",
+            "C.白蛋白",
+            "D.球蛋白",
+            "E.纤维蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 24
+    },
+    {
+        "question_text": "254.血液凝固的实质是生成了",
+        "options": [
+            "A.钠离子",
+            "B.葡萄糖",
+            "C.白蛋白",
+            "D.球蛋白",
+            "E.纤维蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 25
+    },
+    {
+        "question_text": "255.抵御化脓性细菌入侵的细胞是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜碱粒细胞",
+            "C.嗜酸粒细胞",
+            "D.淋巴细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 26
+    },
+    {
+        "question_text": "256.释放组胺引起过敏症状的细胞是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜碱粒细胞",
+            "C.嗜酸粒细胞",
+            "D.淋巴细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 27
+    },
+    {
+        "question_text": "257.参与生理止血多个环节的细胞是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜碱粒细胞",
+            "C.嗜酸粒细胞",
+            "D.淋巴细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 28
+    },
+    {
+        "question_text": "258.A型血人的红细胞与B型血人的血清相遇时. 红细胞发生的变化是",
+        "options": [
+            "A.聚集",
+            "B.黏着",
+            "C.叠连",
+            "D.凝集",
+            "E.凝固"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 29
+    },
+    {
+        "question_text": "259.组织破损时.创面上血液发生的变化是",
+        "options": [
+            "A.聚集",
+            "B.黏着",
+            "C.叠连",
+            "D.凝集",
+            "E.凝固"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 30
+    },
+    {
+        "question_text": "260.红细胞悬浮稳定性差时.红细胞出现",
+        "options": [
+            "A.聚集",
+            "B.黏着",
+            "C.叠连",
+            "D.凝集",
+            "E.凝固"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 31
+    },
+    {
+        "question_text": "261.某患者血浆白蛋白低于30g/L.出现水肿.其 主要原因是",
+        "options": [
+            "A.毛细血管的通透性增加",
+            "B.组织液胶体渗透压下降",
+            "C.血浆胶体渗透压下降",
+            "D.血浆晶体渗透压下降",
+            "E.淋巴回流增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 32
+    },
+    {
+        "question_text": "262.某患者血沉增快.若将该患者的红细胞置于 正常人血浆中.则其血沉速度将",
+        "options": [
+            "A.正常",
+            "B.下降",
+            "C.增快",
+            "D.无变化",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 33
+    },
+    {
+        "question_text": "263.阿司匹林具有抗血小板聚集作用.是因为阿 司匹林可抑制血小板的",
+        "options": [
+            "A.磷脂酶A2",
+            "B.过氧化酶",
+            "C.环氧化酶",
+            "D.血栓素合成酶",
+            "E.前列环素合成酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 34
+    },
+    {
+        "question_text": "264.甲状腺或肺手术后易发生渗血.主要是由于 这些组织",
+        "options": [
+            "A.肝素含量多",
+            "B.血管丰富",
+            "C.血流量大",
+            "D.凝血酶原激活物多",
+            "E.纤溶酶原组织激活物含量多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 35
+    },
+    {
+        "question_text": "265.关于输血的原则.错误的是",
+        "options": [
+            "A.必须保证ABO血型相合",
+            "B.输同型血经交叉配血试验主、次侧均不凝集为 首选",
+            "C.紧急情况下O型血可少量缓慢接受其他型血液",
+            "D.AB型的人可少量缓慢接受其他型血液",
+            "E.反复输血的患者必须保证Rh血型相合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 36
+    },
+    {
+        "question_text": "266.某人的红细胞与B型血的血清凝集.而其血 清与B型血的红细胞不凝集.此人血型为",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.O型",
+            "D.AB 型",
+            "E.Rh 型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 37
+    },
+    {
+        "question_text": "267.某人的红细胞与B型血的血清凝集.其血清 与B型血的红细胞也凝集.此人血型为",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.O型",
+            "D.AB 型",
+            "E.Rh 型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 38
+    },
+    {
+        "question_text": "268.某人的红细胞与B型血的血清不凝集.其血 清与B型血的红细胞也不凝集.此人血型为",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.O型",
+            "D.AB 型",
+            "E.Rh 型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 39
+    },
+    {
+        "question_text": "269.正常成人的血液总量约相当于体重的",
+        "options": [
+            "A.8%",
+            "B.15%",
+            "C.20%",
+            "D.60%",
+            "E.40%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 40
+    },
+    {
+        "question_text": "*270.低温库存较久的血液.血浆中哪种离子浓度 升高",
+        "options": [
+            "A.Cl-",
+            "B.Ca2+",
+            "C.K宇",
+            "D.Na+",
+            "E.有机负离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 41
+    },
+    {
+        "question_text": "*271.下列哪种情况血沉加快",
+        "options": [
+            "A.血沉快的红细胞置于正常血浆",
+            "B.红细胞比容大",
+            "C.血浆白蛋白增多",
+            "D.血浆球蛋白和纤维蛋白原增多",
+            "E.血浆中血红蛋白增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 42
+    },
+    {
+        "question_text": "272.构成血浆胶体渗透压的主要成分是",
+        "options": [
+            "A.白蛋白",
+            "B.球蛋白",
+            "C.珠蛋白",
+            "D.血红蛋白",
+            "E.纤维蛋白原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 43
+    },
+    {
+        "question_text": "273.维生素B12和叶酸缺乏将导致",
+        "options": [
+            "A.缺铁性贫血",
+            "B.再生障碍性贫血",
+            "C.地中海贫血",
+            "D.巨幼红细胞性贫血",
+            "E.溶血性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 44
+    },
+    {
+        "question_text": "*274.在过敏反应时.其数量明显增加的血细胞是",
+        "options": [
+            "A.淋巴细胞",
+            "B.嗜中性粒细胞",
+            "C.嗜酸性粒细胞",
+            "D.嗜碱性粒细胞",
+            "E.单核细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 45
+    },
+    {
+        "question_text": "275.血管外破坏红细胞的主要场所是",
+        "options": [
+            "A.肝和脾",
+            "B.脾和骨髓",
+            "C.肾和淋巴结",
+            "D.肾和骨髓",
+            "E.胸腺和骨髓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 46
+    },
+    {
+        "question_text": "276.不属于生理性止血过程的是",
+        "options": [
+            "A.血小板粘着于受损血管",
+            "B.血小板聚集形成血小板血栓",
+            "C.血小板释放5-羟色胺，使小血管收缩",
+            "D.参与血液凝固过程",
+            "E.使凝血块液化脱落，恢复正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 47
+    },
+    {
+        "question_text": "277.纤维蛋白溶解系统的组成成分之一是",
+        "options": [
+            "A.纤维蛋白溶解酶原",
+            "B.抗凝血酶I",
+            "C.抗凝血酶III",
+            "D.肝素",
+            "E.维生素K"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 48
+    },
+    {
+        "question_text": "278.纤溶酶的特点是",
+        "options": [
+            "A.特异性高，只水解纤维蛋白",
+            "B.特异性不高，对所有蛋白质类物质均有强烈水 解作用",
+            "C.特异性高，只水解纤维蛋白原",
+            "D.特异性不高，主要水解纤维蛋白和纤维蛋白 原，对因子v、w、ix、x、n等也有水解作用",
+            "E.主要水解因子II和因子X"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 49
+    },
+    {
+        "question_text": "279.50Kg体重的正常人的体液量和血液量分别为",
+        "options": [
+            "A.40.0L 和 4.0L",
+            "B.30.0L 和 3.5\\4.0L",
+            "C.20.0L 和 4.0L",
+            "D.30.0L 和 2.5L",
+            "E.20.0L 和 2.5L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 50
+    },
+    {
+        "question_text": "280.具有变形性运动和吞噬能力.并参与激活淋 巴特异性免疫功能的是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜酸性粒细胞",
+            "C.嗜碱性粒细胞",
+            "D.单核巨噬细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 51
+    },
+    {
+        "question_text": "*281.0型血的红细胞膜上含",
+        "options": [
+            "A.A抗原",
+            "B.B抗原",
+            "C.D抗原",
+            "D.A和B抗原",
+            "E.H抗原"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 52
+    },
+    {
+        "question_text": "282.下列哪种情况的病人需要输血时.通常不易 找到合适的血液",
+        "options": [
+            "A.曾经接受过Rh阳性的血液",
+            "B.曾经接受过马血清注射（如破伤风血清）",
+            "C.曾多次接受输血",
+            "D.患梅毒病",
+            "E.乙型肝炎患者"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 53
+    },
+    {
+        "question_text": "283.对红细胞生成的叙述.错误的是",
+        "options": [
+            "A.红细胞的主要成分是血红蛋白",
+            "B.制造血红蛋白的主要原料是叶酸和维生素B12",
+            "C.只有Fe2+才能被肠上皮细胞吸收",
+            "D.促红细胞生成素主要在肾合成",
+            "E.雄激素可使红细胞数量增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 54
+    },
+    {
+        "question_text": "284.父母一方为A型.另一方为B型.其子女可 能的血型为",
+        "options": [
+            "A.只有AB型",
+            "B.只有A型和B型",
+            "C.只可能是A型、B型、AB型",
+            "D.A型、B型、AB型、0型都有可能",
+            "E.只可能是AB型或0型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 55
+    },
+    {
+        "question_text": "285.60kg体重的正常成年人的血量为",
+        "options": [
+            "A.2.8-4.0 L",
+            "B.4.2-4.8 L",
+            "C.7.0-8.0 L",
+            "D.5.0-7.0 L",
+            "E.25 L 和 3.5 L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 56
+    },
+    {
+        "question_text": "286.决定血浆pH的主要缓冲对是",
+        "options": [
+            "A.KHCO3 / H2CO3",
+            "B.K2HPO4 / KH2 PO4",
+            "C.K2HPO4 / Na H2 PO4",
+            "D.NaHCO3 / H2CO3",
+            "E.血红蛋白钾盐/血红蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 57
+    },
+    {
+        "question_text": "287.血浆胶体渗透压的形成主要取决于血浆中的",
+        "options": [
+            "A.a 2球蛋白",
+            "B.a 1球蛋白",
+            "C.Y-球蛋白",
+            "D.白蛋白",
+            "E.B-球蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 58
+    },
+    {
+        "question_text": "288.促血小板生成素刺激的靶细胞主要是",
+        "options": [
+            "A.巨核系祖细胞",
+            "B.粒系祖细胞",
+            "C.淋巴系祖细胞",
+            "D.红系祖细胞",
+            "E.多系祖细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 59
+    },
+    {
+        "question_text": "289.调节红细胞生成的特异性体液因子是",
+        "options": [
+            "A.促红细胞生成素",
+            "B.生长激素",
+            "C.雌激素",
+            "D.雄激素",
+            "E.肾上腺糖皮质激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 60
+    },
+    {
+        "question_text": "290.对于白细胞功能的描述.不正确的是",
+        "options": [
+            "A.中性粒细胞有吞噬外来微生物的作用",
+            "B.单核细胞的吞噬能力最强",
+            "C.B淋巴细胞参与体液免疫",
+            "D.T淋巴细胞参与细胞免疫",
+            "E.嗜酸粒细胞的吞噬能力最强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 61
+    },
+    {
+        "question_text": "291.红细胞比容是指红细胞",
+        "options": [
+            "A.与血浆容积之比",
+            "B.与白细胞容积之比",
+            "C.在血液中所占的重量百分比",
+            "D.异常红细胞与正常红细胞的容积百分比",
+            "E.在血液中所占的容积百分比"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 62
+    },
+    {
+        "question_text": "*292.静脉快速输入1 000ml生理盐水.血浆渗透 压将",
+        "options": [
+            "A.降低",
+            "B.升高",
+            "C.不变",
+            "D.先升高后降低",
+            "E.先降低后升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 63
+    },
+    {
+        "question_text": "293.生成红细胞所必需的成熟因子有",
+        "options": [
+            "A.维生素C",
+            "B.维生素A和D",
+            "C.维生素B12+叶酸",
+            "D.维生素E",
+            "E.维生素C+B12"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 64
+    },
+    {
+        "question_text": "294.我国健康成年人安静时白细胞总数是",
+        "options": [
+            "A.(10-30) X 109 /L",
+            "B.500 X 109 /L",
+            "C.(4-10) X 109/L",
+            "D.(100-1000) X 109 /L",
+            "E.小于 10X109/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 65
+    },
+    {
+        "question_text": "295.血小板止血栓的形成需依赖于血小板的",
+        "options": [
+            "A.黏附与凝集",
+            "B.黏附与聚集",
+            "C.凝集与收缩",
+            "D.凝集与聚集",
+            "E.黏附与释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 66
+    },
+    {
+        "question_text": "296.血液凝固的主要步骤是",
+        "options": [
+            "A.凝血酶原酶复合物的形成一凝血酶原形成一纤 维蛋白原形成",
+            "B.凝血酶原形成一凝血酶形成一纤维蛋白形成",
+            "C.凝血酶原酶复合物的形成一凝血酶形成一纤维 蛋白形成",
+            "D.凝血酶原形成一纤维蛋白原形成一纤维蛋白形 成",
+            "E.凝血酶原形成一凝血酶原激活一纤维蛋白形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 67
+    },
+    {
+        "question_text": "*297.血液中最主要的生理性抗凝物质是",
+        "options": [
+            "A.组织因子途径抑制物",
+            "B.肝素",
+            "C.蛋白质S",
+            "D.抗凝血酶III",
+            "E.蛋白质C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 68
+    },
+    {
+        "question_text": "298.下述有关ABO血型的描述不恰当的是",
+        "options": [
+            "A.A型红细胞不被AB型血清凝集",
+            "B.A型红细胞可被B型血清凝集",
+            "C.O型红细胞不被AB型血清凝集",
+            "D.B型红细胞不被O型血清凝集",
+            "E.AB型红细胞可被O型血清凝集"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 69
+    },
+    {
+        "question_text": "299.下列关于输血的描述.哪一项是不正确的",
+        "options": [
+            "A.ABO血型系统相符合便可输血，不需进行交叉配血",
+            "B.O型血的人为“万能供血者”",
+            "C.AB型血的人为“万能受血者”",
+            "D.将O型血液输给其他血型的人时，应少量而且缓慢",
+            "E.Rh阳性的人可接受Rh阴性的血液"
+        ],
+        "correct_answer": "A",
+        "analysis": "A 选项：仅仅 ABO 血型系统相符合是不能直接输血的，必须进行交叉配血试验。因为除 ABO 血型系统外，还有其他血型抗原如 Rh 血型系统等可能会引起输血反应。所以 A 选项不正确。B 选项：O 型血红细胞上没有 A、B 抗原，在紧急且少量输血的情况下，可输给其他血型的人，因此 O 型血的人被称为 “万能供血者”，不过这种情况是有条件限制的。该选项正确。C 选项：AB 型血的人血清中没有抗 A 和抗 B 抗体，在紧急且少量输血时可接受其他血型的血液，所以 AB 型血的人被称为 “万能受血者”，同样存在条件限制。该选项正确。D 选项：将 O 型血输给其他血型的人时，应少量且缓慢。这是因为 O 型血血清中有抗 A 和抗 B 抗体，大量快速输入会导致受血者红细胞凝集和溶血。该选项正确。E 选项：Rh 阳性的人可以接受 Rh 阴性的血液。因为 Rh 阴性血红细胞上没有 D 抗原，不会与 Rh 阳性受血者体内的抗体发生反应。该选项正确。",
+        "total_number": "75",
+        "number": 70
+    },
+    {
+        "question_text": "300.在某凝血功能障碍患者血浆中加入足量组织 因子和Ca2+后血浆凝固时间明显较正常人延长.该 患者可能缺乏下列哪种物质",
+        "options": [
+            "A.Ca2+",
+            "B.因子刈",
+            "C.因子训",
+            "D.血小板",
+            "E.因子V"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 71
+    },
+    {
+        "question_text": "301.某患者在胃大部分切除后出现巨幼红细胞性 贫血的原因是对哪项物质吸收障碍",
+        "options": [
+            "A.蛋白质",
+            "B.叶酸",
+            "C.维生素B12",
+            "D.脂肪",
+            "E.铁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 72
+    },
+    {
+        "question_text": "302.血小板减少的患者.皮肤粘膜常自发性出现 出血点和紫瘢.主要是由于",
+        "options": [
+            "A.不易形成止血栓",
+            "B.血管不易收缩",
+            "C.不能维持血管内皮的完整性",
+            "D.血凝块回缩障碍",
+            "E.血液凝固障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 73
+    },
+    {
+        "question_text": "303.Rh阴性母亲.其胎儿若Rh阳性.胎儿生后易 患",
+        "options": [
+            "A.血友病",
+            "B.白血病",
+            "C.红细胞增多症",
+            "D.新生儿溶血病",
+            "E.巨幼红细胞性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 74
+    },
+    {
+        "question_text": "304.男.60岁.肝硬化患者.常有鼻出血、牙龈 出血、皮肤紫瘢和胃肠出血等倾向.其原因可能 为",
+        "options": [
+            "A.某些凝血因子合成减少",
+            "B.血小板减少",
+            "C.凝血因子III不足",
+            "D.血中抗凝物质增加",
+            "E.纤溶亢进"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "75",
+        "number": 75
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "question_text": "1.血管内皮细胞有下列作用，但需除外哪一项？",
+        "options": [
+            "A.产生前列腺环素",
+            "B.产生血栓调节素",
+            "C.合成肝素样物质",
+            "D.释放t-PA",
+            "E.释放血栓素B2（TXB2）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 1
+    },
+    {
+        "question_text": "2.直径5cm圆圈内毛细血管抵抗力试验新出血点异常值为：",
+        "options": [
+            "A.男性＞5个，女性及儿童＞10个",
+            "B.男性＞10个，女性及儿童＞15个",
+            "C.男性＞15个，女性及儿童＞20个",
+            "D.男性＞20个，女性及儿童＞25个",
+            "E.男性＞25个，女性及儿童＞30个"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 2
+    },
+    {
+        "question_text": "3.出血时间延长不常见于以下哪种情况？",
+        "options": [
+            "A.血管异常",
+            "B.血小板明显减少",
+            "C.Ⅷ因子减少",
+            "D.长期服用潘生丁",
+            "E.血小板功能异常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 3
+    },
+    {
+        "question_text": "4.出血时间测定Duke法的异常值为：",
+        "options": [
+            "A.＞2cm",
+            "B.＞4cm",
+            "C.＞6cm",
+            "D.＞8cm",
+            "E.＞10cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 4
+    },
+    {
+        "question_text": "5.出血时间延长见于下列疾病，但需除外哪一项？",
+        "options": [
+            "A.血小板减少性紫癜",
+            "B.血小板无力症",
+            "C.血管型紫癜",
+            "D.遗传性毛细血管扩张症",
+            "E.血友病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于血块收缩试验（CRT），正确的是：",
+        "options": [
+            "A.CRT主要反映的是血小板的数量",
+            "B.CRT反映血小板膜磷脂与膜糖蛋白的功能",
+            "C.正常时血块在30-60min开始收缩，48h完全收缩",
+            "D.全血定量法测定的血块收缩率为48％-60％",
+            "E.CRT在临床较为常用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 6
+    },
+    {
+        "question_text": "7.毛细血管脆性试验阳性见于：",
+        "options": [
+            "A.维生素K不足",
+            "B.过敏性紫癜",
+            "C.先天性纤维蛋白原缺乏症",
+            "D.凝血酶原缺乏",
+            "E.DIC早期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 7
+    },
+    {
+        "question_text": "8.毛细血管脆性增加见于下列疾病，但需除外哪一项？",
+        "options": [
+            "A.血小板减少性紫癜",
+            "B.血小板无力症",
+            "C.血管型紫癜",
+            "D.血管性血友病（vWD）",
+            "E.血友病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 8
+    },
+    {
+        "question_text": "9.毛细血管抵抗力减低不见于：",
+        "options": [
+            "A.血小板减少症",
+            "B.再生障碍性贫血",
+            "C.血友病",
+            "D.血小板功能异常",
+            "E.血管性血友病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 9
+    }
+]

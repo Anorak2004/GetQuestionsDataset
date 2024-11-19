@@ -1,0 +1,996 @@
+[
+    {
+        "question_text": "1.下列临床表现属于体征的是:",
+        "options": [
+            "A.头痛",
+            "B.胸闷",
+            "C.心尖部抬举样搏动",
+            "D.恶性",
+            "E.呕血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 1
+    },
+    {
+        "question_text": "2.近视力表是:",
+        "options": [
+            "A.体格检查必需的器械",
+            "B.体格检查选择性的器械",
+            "C.冲击触诊法",
+            "D.双手触诊法",
+            "E.深压触诊法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 2
+    },
+    {
+        "question_text": "3.电筒是:",
+        "options": [
+            "A.体格检查必需的器械",
+            "B.体格检查选择性的器械",
+            "C.冲击触诊法",
+            "D.双手触诊法",
+            "E.深压触诊法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项需要某些仪器帮助检查？",
+        "options": [
+            "A.眼底",
+            "B.黏膜",
+            "C.皮肤",
+            "D.舌苔",
+            "E.腹形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 4
+    },
+    {
+        "question_text": "5.在下列诊断方法中，使用器械最少、最难学，但是得到的体征却最多的是:",
+        "options": [
+            "A.视诊",
+            "B.触叩",
+            "C.诊诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项属于局部视诊内容？",
+        "options": [
+            "A.发育、营养",
+            "B.面容、表情",
+            "C.胸、腹外形",
+            "D.意识状态",
+            "E.体位步态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 6
+    },
+    {
+        "question_text": "7.视诊能观察到全身一般状态和许多全身或局部的体征，除了:",
+        "options": [
+            "A.年龄",
+            "B.发育营养",
+            "C.肝脏肿大",
+            "D.表情",
+            "E.体位及步态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列临床表现属于症状的是:",
+        "options": [
+            "A.淋巴结肿大",
+            "B.口唇紫绀",
+            "C.皮肤出血点",
+            "D.心悸",
+            "E.下肢肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪项不属于触诊内容？",
+        "options": [
+            "A.气管位置",
+            "B.胸膜摩擦感",
+            "C.呼吸动度",
+            "D.语音震颤",
+            "E.呼吸频率"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于触诊，下列哪项正确？",
+        "options": [
+            "A.触诊仅适用于腹部",
+            "B.触诊时多用指腹和掌指关节部掌面的皮肤",
+            "C.触诊不能明确视诊所不能明确的体征",
+            "D.触诊的适用范围很广，可遍及全身各部，尤以胸部最重要",
+            "E.触诊以手掌和手背皮肤最为敏感"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 10
+    },
+    {
+        "question_text": "11.检查肝、脾、肾和腹腔肿块采用（无腹水）:",
+        "options": [
+            "A.体格检查必需的器械",
+            "B.体格检查选择性的器械",
+            "C.冲击触诊法",
+            "D.双手触诊法",
+            "E.深压触诊法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 11
+    },
+    {
+        "question_text": "12.浅部触诊法适用于下列哪项检查:",
+        "options": [
+            "A.关节、阴囊、精索",
+            "B.阑尾压痛点",
+            "C.腹部反跳痛",
+            "D.肾脏",
+            "E.大量腹水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 12
+    },
+    {
+        "question_text": "13.触诊腹肌有无抵抗感，首选触诊方法为:",
+        "options": [
+            "A.浅部触诊法",
+            "B.滑动触诊法",
+            "C.深部冲击触诊法",
+            "D.深部双手触诊法",
+            "E.深部插入触诊法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 13
+    },
+    {
+        "question_text": "14.触诊有无明显的深压痛点，常用的方法有:",
+        "options": [
+            "A.滑动触诊法",
+            "B.双手触诊法",
+            "C.深压触诊法",
+            "D.浅部触诊法",
+            "E.冲击触诊法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 14
+    },
+    {
+        "question_text": "15.双手触诊法用以检查:",
+        "options": [
+            "A.有无阑尾炎",
+            "B.有无触痛",
+            "C.肾脏是否肿大",
+            "D.有无肠梗阻",
+            "E.有无腹水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 15
+    },
+    {
+        "question_text": "16.触诊腹水病人腹腔内有无肿物，最好用:",
+        "options": [
+            "A.滑动触诊法",
+            "B.双手触诊法",
+            "C.插入触诊法",
+            "D.浅部触诊法",
+            "E.冲击触诊法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于深压触诊法下列哪项正确？",
+        "options": [
+            "A.用于脾脏的触诊",
+            "B.用于检查腹部有无肌紧张",
+            "C.用于检查有无腹水",
+            "D.用于肝脏触诊",
+            "E.用于探测腹腔深在病变的部位，以确定腹腔压痛点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 17
+    },
+    {
+        "question_text": "18.深部触诊法根据检查目的和手法的不同分为4种，但不包括:",
+        "options": [
+            "A.单手触诊法",
+            "B.双手触诊法",
+            "C.深部滑行触诊法",
+            "D.深压触诊法",
+            "E.冲击触诊法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 18
+    },
+    {
+        "question_text": "19.关于浅部触诊，下列哪项不正确？",
+        "options": [
+            "A.浅部触诊一般不引起病人痛苦",
+            "B.浅部触诊法不致于引起肌肉紧张",
+            "C.浅部触诊有利于检查腹部有无反跳痛",
+            "D.浅部触诊适用于体表浅在部位、关节、软组织、浅部动脉、静脉、神经等",
+            "E.用一手轻轻放在被检查部位，利用掌指关节和腕关节的协调动作，轻柔进行滑动触摸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 19
+    },
+    {
+        "question_text": "20.检查阑尾炎压痛点时宜采用:",
+        "options": [
+            "A.深部滑行触诊",
+            "B.双合诊",
+            "C.深压（插）触诊",
+            "D.冲击触诊",
+            "E.浅部触诊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 20
+    },
+    {
+        "question_text": "21.检查胰腺肿瘤时宜采用:",
+        "options": [
+            "A.深部滑行触诊",
+            "B.双合诊",
+            "C.深压（插）触诊",
+            "D.冲击触诊",
+            "E.浅部触诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 21
+    },
+    {
+        "question_text": "22.检查大量腹水时检查肝、脾宜采用:",
+        "options": [
+            "A.深部滑行触诊",
+            "B.双合诊",
+            "C.深压（插）触诊",
+            "D.冲击触诊",
+            "E.浅部触诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 22
+    },
+    {
+        "question_text": "23.肝、脾、肾、子宫，腹腔肿块的检查，应当选用:",
+        "options": [
+            "A.深部滑行触诊法",
+            "B.双手对应触诊法",
+            "C.深压触诊法",
+            "D.冲击触诊法",
+            "E.浅部触诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 23
+    },
+    {
+        "question_text": "24.触诊肝脏时食指、中指、无名指三并拢，最敏感的部位是:",
+        "options": [
+            "A.食指尖端",
+            "B.中指尖端",
+            "C.无名指尖端",
+            "D.中指前端桡侧",
+            "E.食指前端桡侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列哪种方法最适用于检查肠管或索条状包块？",
+        "options": [
+            "A.浅部触诊法",
+            "B.深部滑行触诊法",
+            "C.双手触诊法",
+            "D.深压触诊法",
+            "E.冲击触诊法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 25
+    },
+    {
+        "question_text": "26.探查腹腔深在病变的压痛和反跳痛常采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深压触诊",
+            "C.滑动触诊",
+            "D.双手触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 26
+    },
+    {
+        "question_text": "27.肝、脾、肾和腹腔内肿块的检查常采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深压触诊",
+            "C.滑动触诊",
+            "D.双手触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 27
+    },
+    {
+        "question_text": "28.探查脏器或肿块的形态和大小常采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深压触诊",
+            "C.滑动触诊",
+            "D.双手触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 28
+    },
+    {
+        "question_text": "29.用于发现腹部的紧张度、表浅的压痛、肿块等常采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深压触诊",
+            "C.滑动触诊",
+            "D.双手触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 29
+    },
+    {
+        "question_text": "30.大量腹水时检查深部脏器或肿块常采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深压触诊",
+            "C.滑动触诊",
+            "D.双手触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 30
+    },
+    {
+        "question_text": "31.肝脏、脾脏、肾脏的触诊:",
+        "options": [
+            "A.浅部触诊",
+            "B.双手触诊",
+            "C.深部滑行触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 31
+    },
+    {
+        "question_text": "32.横结肠、乙状结肠的触诊:",
+        "options": [
+            "A.浅部触诊",
+            "B.双手触诊",
+            "C.深部滑行触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 32
+    },
+    {
+        "question_text": "33.腹肌紧张度的触诊:",
+        "options": [
+            "A.浅部触诊",
+            "B.双手触诊",
+            "C.深部滑行触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 33
+    },
+    {
+        "question_text": "34.大量腹水而肝脾难以触及时，应当采用的触诊方法是:",
+        "options": [
+            "A.浅部触诊",
+            "B.深部滑行触诊",
+            "C.双手触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 34
+    },
+    {
+        "question_text": "35.肝脾肾子宫和腹腔肿物的检查，应当采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深部滑行触诊",
+            "C.双手触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 35
+    },
+    {
+        "question_text": "36.腹腔深部包块和胃肠病变的检查，应当采用:",
+        "options": [
+            "A.浅部触诊",
+            "B.深部滑行触诊",
+            "C.双手触诊",
+            "D.深压触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 36
+    },
+    {
+        "question_text": "37.探测腹腔深部病变部位或确定腹腔压痛点、反跳痛，应当采用",
+        "options": [
+            "A.深压触诊",
+            "B.深部滑行触诊",
+            "C.双手触诊",
+            "D.浅部触诊",
+            "E.冲击触诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 37
+    },
+    {
+        "question_text": "38.正确的叩诊方法是:",
+        "options": [
+            "A.叩诊时叩击方向应与叩诊部位垂直，只用掌指关节及腕关节的力量",
+            "B.叩击可连续叩击2～3次，叩后叩指可不抬起",
+            "C.肝脏叩诊绝对浊音区的叩音",
+            "D.心脏叩诊相对浊音界的叩音",
+            "E.鼓音的音响较清音强"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 38
+    },
+    {
+        "question_text": "39.正确的间接叩诊手法是:",
+        "options": [
+            "A.左手所有手指均与体表接触",
+            "B.采用轻叩法确定心脏相对浊音界",
+            "C.要不间断地连续叩击",
+            "D.以右手中间3指指端叩击被检查部位",
+            "E.所有检查部位均应采用轻到中等力量叩击"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 39
+    },
+    {
+        "question_text": "40.不正确的叩诊方法是:",
+        "options": [
+            "A.叩诊时叩击方向应与叩诊部位垂直，只用掌指关节及腕关节的力量",
+            "B.叩击可连续叩击2～6次，叩后叩指可不抬起",
+            "C.肝脏叩诊绝对浊音区的叩音",
+            "D.心脏叩诊相对浊音界的叩音",
+            "E.鼓音的音响较清音强"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 40
+    },
+    {
+        "question_text": "41.直接叩诊法不包括下列哪一项？",
+        "options": [
+            "A.适用于检查大量的胸水或腹水",
+            "B.适用于检查少量的胸水或腹水",
+            "C.适用于胸部或腹部的面积较广泛的病变，如胸膜粘连与增厚",
+            "D.用右手中间三指的掌面直接拍击被检查的部位",
+            "E.借拍击的反响和指下的振动感来判断病变情况的办法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列体征均可适用叩诊法检查，除外:",
+        "options": [
+            "A.肺下界移动度",
+            "B.肝大小",
+            "C.二头肌腱反射",
+            "D.Oppenhein征",
+            "E.脾大小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列关于腹部叩诊的内容哪项不正确？",
+        "options": [
+            "A.肝脏叩诊",
+            "B.移动性浊音",
+            "C.脾叩诊",
+            "D.胰叩诊",
+            "E.膀胱叩诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 43
+    },
+    {
+        "question_text": "44.实音是:",
+        "options": [
+            "A.叩诊时叩击方向应与叩诊部位垂直，只用掌指关节及腕关节的力量",
+            "B.叩击可连续叩击2～4次，叩后叩指可不抬起",
+            "C.肝脏叩诊绝对浊音区的叩音",
+            "D.心脏叩诊相对浊音界的叩音",
+            "E.鼓音的音响较清音强"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 44
+    },
+    {
+        "question_text": "45.浊音是:",
+        "options": [
+            "A.叩诊时叩击方向应与叩诊部位垂直，只用掌指关节及腕关节的力量",
+            "B.叩击可连续叩击2～5次，叩后叩指可不抬起",
+            "C.肝脏叩诊绝对浊音区的叩音",
+            "D.心脏叩诊相对浊音界的叩音",
+            "E.鼓音的音响较清音强"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 45
+    },
+    {
+        "question_text": "46.肺部叩诊时板指的规范性手法为:",
+        "options": [
+            "A.板指与心缘平行",
+            "B.板指紧贴胸壁并与肋间隙、肋骨平行",
+            "C.肩胛间区叩诊仍应保持板指与肋间隙平行",
+            "D.板指与肋骨垂直",
+            "E.板指与肋间隙垂直"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 46
+    },
+    {
+        "question_text": "47.肺内巨大空洞、气胸、气腹叩诊音为:",
+        "options": [
+            "A.实音",
+            "B.过清音",
+            "C.清音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 47
+    },
+    {
+        "question_text": "48.肺脏叩诊呈过清音常见于:",
+        "options": [
+            "A.气胸",
+            "B.肺脓肿",
+            "C.肺淤血",
+            "D.肺气肿",
+            "E.肺结核"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 48
+    },
+    {
+        "question_text": "49.大量胸腔积液或肺实变时的叩诊音是:",
+        "options": [
+            "A.浊音",
+            "B.过清音",
+            "C.鼓音",
+            "D.清音",
+            "E.实音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 49
+    },
+    {
+        "question_text": "50.慢性阻塞性肺气肿及支气管哮喘发作时胸部叩诊音是:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 50
+    },
+    {
+        "question_text": "51.下列哪项不能通过叩诊来确定的？",
+        "options": [
+            "A.肺尖宽度",
+            "B.腹水的有无",
+            "C.肺部病变的大小与性质",
+            "D.心界的大小与形态",
+            "E.软组织肿胀的程度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 51
+    },
+    {
+        "question_text": "52.正常的胃泡区叩诊音是:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 52
+    },
+    {
+        "question_text": "53.生理情况下见于心脏、肝脏，病理状态下见于大量胸腔积液或肺实变的叩诊音是:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 53
+    },
+    {
+        "question_text": "54.叩击被少量含气组织覆盖的实质脏器时产生:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 54
+    },
+    {
+        "question_text": "55.关于听诊法，下列错误的是:",
+        "options": [
+            "A.听诊环境要求安静、温暖、避风",
+            "B.钟型听诊器适用于听取低调声音",
+            "C.应根据病情和听诊需要，瞩病人采取适当的体位",
+            "D.听诊器要直接接触皮肤，不可隔着衣服听诊",
+            "E.听诊心脏时，要瞩患者屏住呼吸配合听诊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列哪项不是腹部听诊的内容？",
+        "options": [
+            "A.肠鸣音",
+            "B.血管杂音",
+            "C.振水音",
+            "D.摩擦音",
+            "E.搔弹音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 56
+    },
+    {
+        "question_text": "57.对心、肺疾病的诊断尤为重要的诊断方法是:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 57
+    },
+    {
+        "question_text": "58.主要用于腹腔内病变和脏器的检查方法是:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列哪种情况，不会出现鼓音？",
+        "options": [
+            "A.气胸",
+            "B.肺空洞",
+            "C.正常胃泡区",
+            "D.肺气肿",
+            "E.正常腹部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 59
+    },
+    {
+        "question_text": "60.检查皮肤湿度、震颤、波动、摩擦感及包快的位置、大小、表面性质、硬度，采用:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 60
+    },
+    {
+        "question_text": "61.根据病人身体各部分活动发出的声音判断正常与否的检查方法是:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 61
+    },
+    {
+        "question_text": "62.确定肺下界、胸腔中液体的多少、心界的大小与形状、肝脾的边界、腹水的有无常采用:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 62
+    },
+    {
+        "question_text": "63.用于检查全身一般状态和体征以及病人皮肤、黏膜等身体各部分的改变的方法是:",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 63
+    },
+    {
+        "question_text": "64.胸腔积液时，积液区叩诊呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 64
+    },
+    {
+        "question_text": "65.肺张力减弱而含气量增多时叩诊呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 65
+    },
+    {
+        "question_text": "66.空洞型肺结核叩诊呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 66
+    },
+    {
+        "question_text": "67.正常肺部叩诊音呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 67
+    },
+    {
+        "question_text": "68.叩击被肺遮盖的肝脏及心脏呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 68
+    },
+    {
+        "question_text": "69.慢性阻塞性肺气肿患者叩诊呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 69
+    },
+    {
+        "question_text": "70.病理状态下大量胸腔积液或肺实变呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 70
+    },
+    {
+        "question_text": "71.肺内空洞、气胸或是正常情况下胃泡区叩诊呈:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.实音",
+            "D.鼓音",
+            "E.过清音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "71",
+        "number": 71
+    }
+]

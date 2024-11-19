@@ -1,0 +1,772 @@
+[
+    {
+        "question_text": "1.\t前置胎盘超声诊断的假阳性可能由于：",
+        "options": [
+            "A.\t膀胱过度充盈",
+            "B.\t膀胱不充盈",
+            "C.\t胎儿横位",
+            "D.\t胎儿臀位",
+            "E.\t膀胱肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t晚期妊娠时有无痛性阴道流血，超声检查应特别 注意观察：",
+        "options": [
+            "A.\t羊水过多",
+            "B.\t胎儿脑积水",
+            "C.\t前置胎盘",
+            "D.\t胎盘剥离",
+            "E.\t环形胎盘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t异位妊娠最常见的部位在何处：",
+        "options": [
+            "A.\t卵巢",
+            "B.\t腹腔内",
+            "C.\t输卵管",
+            "D.\t阔韧带",
+            "E.\t宫颈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t脐带内血管结构包括：",
+        "options": [
+            "A.\t2条脐动脉，1条脐静脉",
+            "B.\t2条脐动脉，2条脐静脉",
+            "C.\t2条脐静脉，1条脐动脉",
+            "D.\t1条脐动脉，1条脐静脉",
+            "E.\t1条脐动脉，数条脐静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t水泡状胎块又称葡萄胎，其声像图特征是：①子 宫大于孕周；②宫腔内充满大小不等的液性暗区， 间以强度不等的高回声，呈蜂窝状改变；③通常宫 内不能发现胎儿、胎盘；④宫旁有时可见囊性肿块",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t在40%葡萄胎病例的超声检查中，可以发现有：",
+        "options": [
+            "A.\t萎缩的卵巢",
+            "B.\t畸胎瘤",
+            "C.\t黄体囊肿",
+            "D.\t黄素囊肿",
+            "E.\t内膜囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t超声诊断前置胎盘至少要到：",
+        "options": [
+            "A.\t10孕周后",
+            "B.\t20孕周后",
+            "C.\t25孕周后",
+            "D.\t28孕周后",
+            "E.\t35孕周后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t在声像图评估胎盘成熟度中，0级胎盘绒毛膜板 应：",
+        "options": [
+            "A.\t与基底层有切迹状交通",
+            "B.\t有稠密的线状回声",
+            "C.\t有不完全的分叶",
+            "D光滑平整",
+            "E.有弥散性的暗区"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t胎儿脑积水的超声表现是：①20孕周以后，胎 儿脑室扩大，侧脑室指数大于1/3；②头围明显大 于腹围；③双顶径较同孕周为大；④颅内可见高回 声团块",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t如果胎儿脊柱纵切面结构中断，不完整，横切 面椎体失去正常三足鼎立光团，而呈“U\"形图 像，可能是：",
+        "options": [
+            "A.\t脊柱前移",
+            "B.\t脊柱侧凸",
+            "C.\t脊柱裂",
+            "D.\t脊柱前凸",
+            "E.\t脊膜膨出"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t典型葡萄胎的二维超声表现是：",
+        "options": [
+            "A.\t高回声团块",
+            "B.\t蜂窝状或落雪状回声",
+            "C.\t低回声团块",
+            "D.\t脂液分层征",
+            "E.\t牛眼征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t脐带中携带含氧红细胞和营养物质自胎盘到胎 儿的血管是：",
+        "options": [
+            "A.\t1条脐动脉",
+            "B.\t2条脐静脉",
+            "C.\t1条脐静脉",
+            "D.\t1条脐动脉和1条脐静脉",
+            "E.\t2条脐动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t怀孕多少周时羊水量最大：",
+        "options": [
+            "A.\t26 周",
+            "B.\t28 周",
+            "C.\t30 周",
+            "D.\t32 周",
+            "E.\t34 周"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 13
+    },
+    {
+        "question_text": "14,\t胎儿脊柱的正常声像图表现为：①纵切面呈一 条排列整齐的光带；②纵切面呈串珠状的小光团排 列成两条弓状平行光带；③纵切面呈一连串念珠状 的小光团；④横切面可见3个强回声团，呈“品” 形",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 14
+    },
+    {
+        "question_text": "15,\t超声测量胎儿腹围的平面，下列说法正确的 是：",
+        "options": [
+            "A.\t肾脏水平平面",
+            "B.\t心脏水平平面",
+            "C.\t冒泡水平平面",
+            "D.\t肝脏水平平面",
+            "E.\t见有脐静脉的肝脏水平平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 15
+    },
+    {
+        "question_text": "16,\t胎盘成熟度的超声分级的分级依据是：",
+        "options": [
+            "A.\t胎盘实质回声",
+            "B.\t绒毛膜板回声",
+            "C.\t胎盘基底膜回声",
+            "D.\t胎盘绒毛膜板、胎盘基底膜、胎盘实质三部分结 构的回声",
+            "E.\t脐带血流多普勒流速曲线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 16
+    },
+    {
+        "question_text": "17,\t胎儿脐带的超声图像特征是：①一端连接胎 盘，一端连接胎儿脐部；②横切呈“品”形；③纵 切呈麻花样；④多普勒超声显示1条脐静脉和2条 脐动脉",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 17
+    },
+    {
+        "question_text": "18,\t胎儿十二指肠闭锁的特征性超声图像是：",
+        "options": [
+            "A.\t单泡状",
+            "B.\t双泡征",
+            "C.\t双叶征",
+            "D.\t双管征",
+            "E.\t双环征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 18
+    },
+    {
+        "question_text": "19,\t脊柱裂最多见的部位是：",
+        "options": [
+            "A.\t腰骶椎",
+            "B.\t胸椎",
+            "C.\t颈椎",
+            "D.\t腰椎",
+            "E.\t后枕部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 19
+    },
+    {
+        "question_text": "20,\t一孕妇，G1P0孕28周，超声示胎盘下缘距宫 内口约2cm，最可能的诊断为：",
+        "options": [
+            "A.\t中央性前置胎盘",
+            "B.\t边缘性前置胎盘",
+            "C.\t部分性前置胎盘",
+            "D.\t胎盘前置状态",
+            "E.\t低置胎盘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t一妊高征孕妇，孕晚期出现腹痛、休克等症状。体检：胎心不清，板状腹，超声示胎盘明显增 厚，其内血流信号消失，胎心胎动消失。此时应考 虑：",
+        "options": [
+            "A.\t前置胎盘",
+            "B.\t子宫破裂",
+            "C.\t胎盘早剥、死胎",
+            "D.\t先兆子宫破裂",
+            "E.\t子痫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t一孕36周妇女突然出现阴道大量出血，无明显 其他症状。体检：腹软，无压痛，胎心胎动可及。 此时最需要的检查为：",
+        "options": [
+            "A.\t超声",
+            "B.\t阴道检查",
+            "C.\t肛查",
+            "D.\t胎心监护仪",
+            "E.\t胎动监护"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t一孕36周妇女突然出现阴道大量出血，无明显 其他症状。体检：腹软，无压痛，胎心胎动可及。 最可能诊断为：",
+        "options": [
+            "A.\t胎盘早剥",
+            "B.\t先兆流产",
+            "C.\t前置胎盘",
+            "D.\t胎膜早破",
+            "E.\t植入胎盘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t一产妇胎儿娩出后1h，胎盘未娩出，阴道未见 出血，超声显示胎盘位于前壁，厚38mm，胎盘与 子宫肌层间隙消失,此时诊断为：",
+        "options": [
+            "A.\t胎盘剥离",
+            "B.\t子宫卒中",
+            "C.\t胎盘粘连",
+            "D.\t低置胎盘",
+            "E.\t胎盘前置"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t早期妊娠时，妊娠囊的典型超声图像是：",
+        "options": [
+            "A.\t双环征",
+            "B.\t单个回声增强环状囊性结构",
+            "C.\t双泡征",
+            "D.\t三环征",
+            "E.\t以上各项均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t真孕囊与假孕囊的超声鉴别要点是：",
+        "options": [
+            "A.\t前者呈双环征，后者缺乏典型的双环征",
+            "B.\t前者偏向于宫腔一侧，后者位于宫腔正中",
+            "C.\t前者呈扁圆形或椭圆形，后者与宫腔形态一致， 有时见延续至宫内口",
+            "D.\t前者可见胚芽和卵黄囊，后者无",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t疑为前置胎盘的孕妇进行超声检查时应：",
+        "options": [
+            "A.\t排空膀胱",
+            "B.\t膀胱尿液越多越好",
+            "C.\t适当充盈膀胱",
+            "D.\t不需要做任何准备",
+            "E.\t不需要克盈膀胱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t胚胎组织部分排出宫腔，部分仍留在宫腔内称 为：",
+        "options": [
+            "A.\t先兆流产",
+            "B.\t不全流产",
+            "C.\t过期流产",
+            "D.\t稽留流产",
+            "E.\t难免流产"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t足月孕期胎盘的厚度一般为：",
+        "options": [
+            "A.\t1 ?2cm",
+            "B.\t2 ?3cm",
+            "C.\t2.5 ?3.5cm",
+            "D.\t4 ?5cm",
+            "E.\t5 ?6cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t孕28周后超声发现胎盘附着在于宫内口周围， 但没有遮盖宫颈口，称为：",
+        "options": [
+            "A.\t完全性前置胎盘",
+            "B.\t部分性前置胎盘",
+            "C.\t低置胎盘",
+            "D.\t胎盘早剥",
+            "E.\t边缘性前置胎盘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t卵黄囊在超声诊断学上的意义是：①卵黄囊是 宫内妊娠的标志；②指示有胚胎组织存在标志；③ 胚胎良好预后佳的标志；④孕8周内反复检查仍不 能发现，提示枯萎孕卵可能或提示胎儿发生畸形的 机会增大",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t受精卵形成的部位是：",
+        "options": [
+            "A.\t腹腔内",
+            "B.\t输卵管内",
+            "C.\t宫腔内",
+            "D.\t宫颈内",
+            "E.\t阴道内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t关于胎方位的正确概念是：",
+        "options": [
+            "A.\t胎先露的指示点（如枕骨、骶骨）与母体骨盆前 后左右的关系",
+            "B.\t临产时最先进入骨盆的部位",
+            "C.\t胎儿采取的姿势",
+            "D.\t胎体纵轴与母体纵轴的关系",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t产科B超检查可以判定：",
+        "options": [
+            "A.\t胎位",
+            "B.\t胎盘附着部位",
+            "C.\t胎头大小",
+            "D.\t上述三者均可",
+            "E.\t上述三者不能完全确定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t在下列何种情况，顶径不能准确显示胎儿的孕 周：",
+        "options": [
+            "A.\t糖尿病患者妊娠",
+            "B.\t横位",
+            "C.\t多胎妊娠",
+            "D.\t首次妊娠",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t多少孕周前不能做出前置胎盘的诊断：",
+        "options": [
+            "A.\t10 周",
+            "B.\t20 周",
+            "C.\t30 周",
+            "D.\t35 周",
+            "E"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t妊娠仰卧位低血压综合征的产生，是由于：",
+        "options": [
+            "A.\t快速用血",
+            "B.\t妊娠子宫压迫腔静脉",
+            "C.\t妊娠囊引起腹主动脉轻度闭塞",
+            "D.\t胎儿供血不足",
+            "E"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t下列症状和体征与葡萄胎有关的是：",
+        "options": [
+            "A.\t妊娠高血压综合征",
+            "B.\t先兆子痫",
+            "C.\t子宫大于妊娠月份",
+            "D.\t血HCG升高",
+            "E.\t以上各项均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t— 30岁孕妇，妊娠8个月，主诉无痛性阴道流 血5天。超声首先应排除的情况是",
+        "options": [
+            "A.\t异位妊娠",
+            "B.\t前置胎盘",
+            "C.\t卵巢囊肿",
+            "D.\t葡萄胎",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t临床需要做超声的情况是：①估计胎儿体重和 胎龄；③评价胎儿生长发育是否正常；③确定胎儿 发育与胎龄不相称时；④横膈下",
+        "options": [
+            "A.\t①",
+            "B.\t①+②",
+            "C.\t①+②+③",
+            "D.\t②+③",
+            "E"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t超声最早能显示胎心的周数为：",
+        "options": [
+            "A.\t5周",
+            "B.\t6周",
+            "C.\t7周",
+            "D.\t7周以后",
+            "E.\t5周以前"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t先兆流产的超声表现为：",
+        "options": [
+            "A.\t子宫体积小于妊娠周数",
+            "B.\t看不到胎心或胎动",
+            "C.\t胎囊变形",
+            "D.\t测量头径小于妊娠周数",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t完全性前置胎盘，声像图上可见：",
+        "options": [
+            "A.\t胎盘附着于子宫前壁下方",
+            "B.\t胎盘附着于子宫后壁",
+            "C.\t胎盘边缘位于宫内口附近",
+            "D.\t胎盘边缘遮盖部分宫内口",
+            "E.\t子宫峡部以下前后壁均可见胎盘回声"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t皮样囊肿（畸胎瘤），典型的声像图特征为:",
+        "options": [
+            "A.\t囊性肿块",
+            "B.\t囊性和实质性肿块",
+            "C.\t实质性肿块",
+            "D.\t囊性、实质性及混合性肿块",
+            "E.\t囊性、实质性及含气性肿块"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t葡萄胎时易出现的囊肿是：",
+        "options": [
+            "A.\t黄体囊肿",
+            "B.\t黄素囊肿",
+            "C.\t卵巢囊肿",
+            "D.\t输卵管伞囊肿",
+            "E"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t最常与葡萄胎并发的囊肿是：",
+        "options": [
+            "A.\t黄素囊肿",
+            "B.\t卵巢旁囊肿",
+            "C.\t黄体囊肿",
+            "D.\t卵泡囊肿",
+            "E.\t肠系膜囊肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t最早在多少周时能够测量双顶径：",
+        "options": [
+            "A.\t14 周",
+            "B.\t12 周",
+            "C.\t8周",
+            "D.\t6周",
+            "E.\t10 周"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t无脑畸形常伴随的异常是：",
+        "options": [
+            "A.\t脊柱裂",
+            "B.\t脑积水",
+            "C.\t前脑无裂畸形",
+            "D.\t积水性无脑畸形",
+            "E.\t肾发育畸形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t葡萄胎的典型声像图为：",
+        "options": [
+            "A.\t子宫增大，大于妊娠月份",
+            "B.\t子宫内见出血形成的不规则暗区",
+            "C.\t子宫大于妊娠月份，宫内见密集粗大的点状和片 状强回声及大小不等的液性暗区",
+            "D.\t子宫增大不著，宫内见密集粗大的点状或片状强 回声",
+            "E.\t子宫增大，宫内见内出血形成的不规则暗区"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t一孕妇在超声检查时出现眩晕、恶心是由于：",
+        "options": [
+            "A.\t子宫压迫肠道",
+            "B.\t子宫压迫主动脉",
+            "C.\t子宫压迫下腔静脉",
+            "D.\t探头压迫皮肤",
+            "E.\t探头压迫子宫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t如果在脑室内见到回声增强物质，称之为：",
+        "options": [
+            "A.\t脑实质出血",
+            "B.\t室管膜下出血",
+            "C.\t蛛网膜下隙出血",
+            "D.\t脑室内出血",
+            "E.\t脑实质及脑室内出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t晚期妊娠时有无痛性阴道流血，超声检查应特 别注意观察：",
+        "options": [
+            "A.\t羊水过多",
+            "B.\t胎儿脑积水",
+            "C.\t前置胎盘",
+            "D.\t胎盘剥离",
+            "E.\t环形胎盘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t关于黄素囊肿的说法，正确的是：E （E）①多 与滋养细胞肿瘤伴发；②多呈单房；③多为双侧 性；④其大小常不超过",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t下列异位妊娠中，最常见的是：",
+        "options": [
+            "A.\t阔韧带",
+            "B.\t子宫颈妊娠",
+            "C.\t腹腔妊娠",
+            "D.\t输卵管妊娠",
+            "E"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t皮样囊肿的内容包括：①脂肪；②毛发；③钙 质；④牙齿",
+        "options": [
+            "A.\t②+③+④",
+            "B.\t①+②+③",
+            "C.\t①+③+④",
+            "D.\t①+②+③+④",
+            "E.\t②"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 55
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "question_text": "1.阿米巴痢疾时可出现:",
+        "options": [
+            "A.洗肉水样便",
+            "B.柏油样便",
+            "C.果酱样便",
+            "D.红豆汤样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 1
+    },
+    {
+        "question_text": "2.上消化道出血时可造成:",
+        "options": [
+            "A.洗肉水样便",
+            "B.柏油样便",
+            "C.果酱样便",
+            "D.红豆汤样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 2
+    },
+    {
+        "question_text": "3.急性出血性坏死性小肠炎可出现:",
+        "options": [
+            "A.洗肉水样便",
+            "B.柏油样便",
+            "C.果酱样便",
+            "D.红豆汤样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 3
+    },
+    {
+        "question_text": "4.重症霍乱时可造成:",
+        "options": [
+            "A.洗肉水样便",
+            "B.柏油样便",
+            "C.果酱样便",
+            "D.红豆汤样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 4
+    },
+    {
+        "question_text": "5.副溶血性弧菌引起的食物中毒可引起:",
+        "options": [
+            "A.洗肉水样便",
+            "B.柏油样便",
+            "C.果酱样便",
+            "D.红豆汤样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 5
+    },
+    {
+        "question_text": "6.粘液样粪便见于:",
+        "options": [
+            "A.急性胃肠炎",
+            "B.急性菌痢",
+            "C.阿米巴痢疾",
+            "D.直肠癌",
+            "E.慢性菌痢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 6
+    },
+    {
+        "question_text": "7.米泔样粪便见于:",
+        "options": [
+            "A.霍乱，副霍乱病人",
+            "B.感染性腹泻",
+            "C.直肠癌病人",
+            "D.阿米巴痢疾",
+            "E.急性胃肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 7
+    },
+    {
+        "question_text": "8.黑色粪便常见于:",
+        "options": [
+            "A.进食少量动物血",
+            "B.服用铁剂等药物",
+            "C.下消化道出血",
+            "D.便秘",
+            "E.痔疮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 8
+    },
+    {
+        "question_text": "9.消化道出血粪便检查下列哪项描述是错误的？",
+        "options": [
+            "A.消化道出血，粪便外观检查就可查出",
+            "B.上消化道出血，粪便可呈暗红色或柏油样",
+            "C.鲜红色粪便为下消化道出血",
+            "D.溃疡性结肠炎常为粘液血便",
+            "E.阿米巴痢疾粪便为果酱色"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 9
+    },
+    {
+        "question_text": "10.可作为肠道肿瘤筛选检查的是:",
+        "options": [
+            "A.粪便隐血试验",
+            "B.粪便中找癌细胞",
+            "C.粪便中有红细胞",
+            "D.肠纤维镜检查",
+            "E.粪胆原试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 10
+    },
+    {
+        "question_text": "11.柏油样粪便产生的机理，哪一种是正确的？",
+        "options": [
+            "A.食物中叶绿素的作用",
+            "B.药物中含铁成分的作用",
+            "C.上消化道出血后经与胃酸的作用",
+            "D.血液与粪便接触的作用",
+            "E.胃液的粘液作用于粪便"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 11
+    },
+    {
+        "question_text": "12.用于消化道肿瘤筛查最简便最快捷的实验是:",
+        "options": [
+            "A.便隐血试验",
+            "B.尿液有形成分检查",
+            "C.便消化吸收实验",
+            "D.血液一般检查",
+            "E.浆膜腔脱落细胞检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 12
+    },
+    {
+        "question_text": "13.关于大便潜血试验，下列哪项正确:",
+        "options": [
+            "A.消化性溃疡大便潜血试验阴性",
+            "B.晚期消化道恶性肿瘤患者大便，潜血试验阳性率100％",
+            "C.抗人红细胞基质抗体可检",
+            "D.粪便潜血试验有助于早期诊断出血热",
+            "E.早期消化道恶性肿瘤阳性率可达50％"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 13
+    },
+    {
+        "question_text": "14.粪便隐血试验持续阳性常见于:",
+        "options": [
+            "A.溃疡病",
+            "B.胃癌",
+            "C.食肉动物血",
+            "D.肠结核",
+            "E.溃疡性结肠息"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 14
+    },
+    {
+        "question_text": "15.临床判断消化道出血完全停止的最可靠实验指标结果是:",
+        "options": [
+            "A.粪镜检无红细胞",
+            "B.无柏油样黑便",
+            "C.粪隐血试验阴性",
+            "D.粪胆素试验阴性",
+            "E.粪胆原试验阴性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 15
+    },
+    {
+        "question_text": "16.正常粪便中不应有:",
+        "options": [
+            "A.红细胞",
+            "B.白细胞",
+            "C.淀粉颗粒",
+            "D.植物纤维",
+            "E.脂肪小滴"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 16
+    },
+    {
+        "question_text": "17.取病人粪便标本做悬滴法检查，发现运动极活泼，而革兰染色呈阴性的细菌可能是:",
+        "options": [
+            "A.变形杆菌",
+            "B.大肠杆菌",
+            "C.霍乱弧菌",
+            "D.痢疾杆菌",
+            "E.肠炎沙门菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 17
+    },
+    {
+        "question_text": "18.取米泔水样粪便作悬滴观察，可见到做“穿梭”运动的细菌是:",
+        "options": [
+            "A.肠侵袭性大肠杆菌",
+            "B.伤寒杆菌",
+            "C.变形杆菌",
+            "D.猪霍乱沙门菌",
+            "E.霍乱弧菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 18
+    },
+    {
+        "question_text": "19.粪便中最常见的寄生虫卵为:",
+        "options": [
+            "A.蛲虫卵",
+            "B.血吸虫卵",
+            "C.钩虫卵",
+            "D.蛔虫卵",
+            "E.鞭虫卵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 19
+    },
+    {
+        "question_text": "20.肠炎细菌病原学检测，不宜用粪便标本作:",
+        "options": [
+            "A.直接显微镜检查",
+            "B.分离、培养、鉴定",
+            "C.抗原检测",
+            "D.抗体检测",
+            "E.核酸检测"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 20
+    },
+    {
+        "question_text": "21.粪便中有意义的结晶为:",
+        "options": [
+            "A.草酸盐",
+            "B.磷酸盐",
+            "C.碳酸盐",
+            "D.胆固醇结晶",
+            "E.夏科-莱登结晶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 21
+    },
+    {
+        "question_text": "22.粪便镜检有大量脂肪滴常见于:",
+        "options": [
+            "A.慢性胆囊炎",
+            "B.阿米巴痢疾",
+            "C.细菌性痢疾",
+            "D.消化吸收不良综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 22
+    }
+]

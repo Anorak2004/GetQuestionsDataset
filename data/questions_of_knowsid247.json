@@ -1,0 +1,576 @@
+[
+    {
+        "question_text": "1.\t弥散性血管内凝血是一种",
+        "options": [
+            "A.\t独立疾病",
+            "B.\t临床症候群",
+            "C.\t病理过程",
+            "D.\t体征",
+            "E.\t症状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 1
+    },
+    {
+        "question_text": "2.\tDIC时血液凝固功能异常表现为",
+        "options": [
+            "A.\t血液凝固性增高",
+            "B.\t血液凝固性降低",
+            "C.\t血液凝固性先增高后降低",
+            "D.\t血液凝固性先降低后增高",
+            "E.\t血液凝固性增高和降低同时发生"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t弥散性血管内凝血的基本特征是",
+        "options": [
+            "A.\t凝血因子和血小板的激活",
+            "B.\t凝血酶原的激活",
+            "C.\t凝血因子和血小板的消耗",
+            "D.\t纤溶亢进",
+            "E.\t凝血功能异常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t引起弥散性血管内凝血的最常见的疾病是",
+        "options": [
+            "A.\t败血症",
+            "B.\t宫内死胎",
+            "C.\t大面积烧伤",
+            "D.\t胰腺癌",
+            "E.\t器官移植"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 4
+    },
+    {
+        "question_text": "5. 外源性凝血系统的触发是由于组织细胞损伤释放出的组织因子与下列哪一凝血因子结合而开始的？",
+        "options": [
+            "A. 凝血因子X",
+            "B. 凝血因子IX",
+            "C. 凝血因子XI",
+            "D. 凝血因子Ⅷ",
+            "E. 凝血因子Ⅶ"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t组织因子是一种由263个氨基酸构成的",
+        "options": [
+            "A.\t钙调蛋白",
+            "B.\t脂蛋白",
+            "C.\t跨膜糖蛋白",
+            "D.\t纤维蛋白",
+            "E.\t粘附蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 6
+    },
+    {
+        "question_text": "7. 激活的凝血因子Wa与组织因子（TF）复合物可 激活",
+        "options": [
+            "A. 凝血因子V和凝血因子X",
+            "B. 凝血因子X和凝血因子Ⅺ",
+            "C. 凝血因子III和凝血因子Ⅷ",
+            "D. 凝血因子Ⅺ和凝血因子Ⅻ",
+            "E. 凝血因子Ⅲ和凝血因子Ⅷ"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t内皮细胞受损，启动内源性凝血途径是通过活化",
+        "options": [
+            "A.\t凝血酶原",
+            "B.\t纤维蛋白原",
+            "C.\t钙离子",
+            "D.\tXH因子",
+            "E.\t组织因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t产生凝血因子XXf的途径是",
+        "options": [
+            "A.\t凝血因子XX的酶性激活",
+            "B.\t凝血因子X的接触激活",
+            "C.\t内毒素作用于凝血因子X",
+            "D.\t凝血酶作用于凝血因子X",
+            "E.\t肝素作用于凝血因子X"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t导致DIC发病的关键环节是",
+        "options": [
+            "A.\t组织凝血因子大量入血",
+            "B.\t凝血因子刈的激活",
+            "C.\t凝血酶生成增加",
+            "D.\t纤溶酶原激活物生成增加",
+            "E.\t凝血因子V的激活"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t血小板的激活在DIC的发生中具有原发作用的 疾病是",
+        "options": [
+            "A.\t败血症",
+            "B.\t急性坏死性胰腺炎",
+            "C.\t继发性血小板减少性紫瘢",
+            "D.\t血栓性血小板减少性紫癫",
+            "E.\t急性白血病化疗、放疗患者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t血小板在凝血中具有下列哪种作用？",
+        "options": [
+            "A.\t释放凝血酶",
+            "B.\t释放组织因子",
+            "C.\t释放凝血因子刈",
+            "D.\t为内源性凝血系统提供反应表面",
+            "E.\t提供Ca2+"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t以下哪项是DIC时对血栓形成中具有重要作用 的粘附分子？",
+        "options": [
+            "A.\t蛋白C、蛋白S",
+            "B.\t糖蛋白II b/糖蛋白Illa",
+            "C.\t蛋白激酶C、G蛋白",
+            "D.\t前列腺素G2/前列腺素H2",
+            "E.\tY-羧基谷氨酸、钙离子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t蝰蛇毒诱发弥散性血管内凝血的机制与下列哪 一项无关？",
+        "options": [
+            "A.\t加强因子V的活性",
+            "B.\t激活因子X的活性",
+            "C.\t激活因子刈的活性",
+            "D.\t促进纤维蛋白溶解",
+            "E.\t促使血小板聚集、释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t单核吞噬细胞系统功能受损诱发DIC的机制是",
+        "options": [
+            "A.\t机体抗血栓形成能力降低",
+            "B.\t激活凝血酶原",
+            "C.\t激活纤维蛋白原",
+            "D.\t继发细菌感染",
+            "E.\t增加组织因子的释放"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t肝功能严重障碍诱发DIC与下列哪一过程无 关？",
+        "options": [
+            "A.\t抗凝血酶-I生成减少",
+            "B.\t血小板生成减少",
+            "C.\t清除凝血因子IXa、Xa、Xia的作用减弱",
+            "D.\t组织因子释放增多",
+            "E.\t解毒功能障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t激活的蛋白C（APC）无下列哪一项作用？",
+        "options": [
+            "A.\t限制因子Xa与血小板的结合",
+            "B.\t限制激肽释放酶原的分解",
+            "C.\t阻碍X因子激活物的形成",
+            "D.\t阻碍凝血酶原激活物的形成",
+            "E.\t刺激纤溶酶原激活物的释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t使凝血酶由促凝转向抗凝的重要血管内凝血抑 制成分是",
+        "options": [
+            "A.\t抗凝血酶TII（AT-III）",
+            "B.\t血栓调节蛋白（TM）",
+            "C.\t组织因子途径抑制物（TFP I）",
+            "D.\t蛋白 S （PS）",
+            "E.\t蛋白 C （PC）"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t妊娠末期时，下列哪一项不是引起血液高凝状 态的原因？",
+        "options": [
+            "A.\t血小板和凝血因子增多",
+            "B.\t抗凝血酶活性降低",
+            "C.\t纤溶酶原激活物活性增加",
+            "D.\t纤溶酶原激活物抑制剂增多",
+            "E.\t高脂血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 19
+    },
+    {
+        "question_text": "20.\tDIC时，凝血因子和血小板生成多于消耗的情 况可见于",
+        "options": [
+            "A.\t过度代偿型DIC",
+            "B.\t代偿型DIC",
+            "C.\t失代偿型DIC",
+            "D.\t急性型DIC",
+            "E.\t亚急性型DIC"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t急性DIC过程中各种凝血因子显著减少，其中 变化最为突出的是",
+        "options": [
+            "A.\t凝血因子刈",
+            "B.\t凝血因子X",
+            "C.\t凝血酶原",
+            "D.\t纤维蛋白原",
+            "E.\t钙离子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t失代偿型DIC时",
+        "options": [
+            "A.\t凝血因子和血小板均正常，3P试验（+ ）",
+            "B.\t凝血因子和血小板均升高，3P试验（+ ）",
+            "C.\t凝血因子和血小板均减少，3P试验（-）",
+            "D.\t纤维蛋白原和血小板均减少，3P试验（+ ）",
+            "E.\t纤维蛋白原升高和血小板减少，3P试验（+ ）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t慢性型DIC",
+        "options": [
+            "A.\t常继发于革兰阴性菌引起的败血症休克",
+            "B.\t常以多器官功能衰竭为主要表现",
+            "C.\t不可转为急性型",
+            "D.\t凝血因子和血小板均减少",
+            "E.\t单核巨噬细胞系统功能较完善"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 23
+    },
+    {
+        "question_text": "24.\tDIC患者出血与下列哪一项因素关系最密切？",
+        "options": [
+            "A.\t凝血因子刈的被激活",
+            "B.\t凝血因子大量消耗和纤溶活性增强",
+            "C.\t抗凝血酶物质增加",
+            "D.\t肝脏合成凝血因子障碍",
+            "E.\t血管通透性增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 24
+    },
+    {
+        "question_text": "25.\tDIC患者晚期出血的原因",
+        "options": [
+            "A.\t凝血系统被激活",
+            "B.\t纤溶系统被激活?",
+            "C.\t凝血和纤溶系统同时被激活",
+            "D.\t凝血系统活性大于纤溶系统活性",
+            "E.\t凝血系统活性小于纤溶系统活性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 25
+    },
+    {
+        "question_text": "26.\tDIC所致出血时，下列哪一项不会直接激活纤 溶系统？",
+        "options": [
+            "A.\tXHa因子",
+            "B.\t激肽释放酶",
+            "C.\t缺血、缺氧",
+            "D.\t肾上腺素",
+            "E.\t组织变性坏死"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t纤维蛋白原被纤溶酶水解后生成",
+        "options": [
+            "A.\t纤维肽A（FPA）和纤维肽B（FPB）",
+            "B.\t纤维蛋白单体",
+            "C.\t纤维蛋白（原）降解产物（FDP）",
+            "D.\t交联纤维蛋白（Fbn）",
+            "E.\tD-二聚体（DD）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t子宫、肺等脏器手术或损伤出血导致原发性纤 溶亢进时，以下哪项实验室检查是不正确的？",
+        "options": [
+            "A.\t凝血酶原时间延长",
+            "B.\t纤维蛋白原含量降低",
+            "C.\t凝血酶时间延长",
+            "D.\t鱼精蛋白副凝试验阳性",
+            "E.\tD-二聚体增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t下列哪一项不是直接引起DIC出血的原因？",
+        "options": [
+            "A.\t凝血因子大量消耗",
+            "B.\t血小板大量减少",
+            "C.\t继发性纤溶系统激活",
+            "D.\t微循环障碍",
+            "E.\t纤维蛋白（原）降解产物的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t华-佛综合征的机制是",
+        "options": [
+            "A.\t肾上腺急性缺血坏死",
+            "B.\t肾上腺皮质出血性坏死",
+            "C.\t肾上腺髓质出血性坏死",
+            "D.\t肾上腺血管栓塞",
+            "E.\t肾上腺血管内皮细胞损伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 30
+    },
+    {
+        "question_text": "31.\tDIC晩期时高度纤溶亢进使D-二聚体含量降低 的原因是",
+        "options": [
+            "A.\t尿激酶作用减弱",
+            "B.\ta 1-抗胰蛋白酶抑制减轻",
+            "C.\tD-二聚体分解为小分子物质",
+            "D.\t纤溶酶分解纤维蛋白多聚体作用减弱",
+            "E.\t凝血酶分解纤维蛋白原减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 31
+    },
+    {
+        "question_text": "32.\tC3a和C5a在DIC发病过程中的作用是",
+        "options": [
+            "A.\t促使组胺释放",
+            "B.\t促使激肽释放",
+            "C.\t激活纤溶酶原",
+            "D.\t促进血小板聚集和释放",
+            "E.\t激活凝血因子XX"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t大量使用肾上腺皮质激素容易诱发DIC与下列 哪一项因素有关？",
+        "options": [
+            "A.\t组织凝血活酶大量入血",
+            "B.\t血管内皮细胞广泛受损",
+            "C.\t增加溶酶体膜稳定性",
+            "D.\t单核吞噬细胞系统功能抑制",
+            "E.\t肝素的抗凝活性减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 33
+    },
+    {
+        "question_text": "34.\tDIC产生的贫血属于",
+        "options": [
+            "A.\t中毒性贫血",
+            "B.\t失血性贫血",
+            "C.\t溶血性贫血",
+            "D.\t缺铁性贫血",
+            "E.\t再生障碍性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t裂体细胞的产生是因为",
+        "options": [
+            "A.\t微血管内微血栓形成",
+            "B.\t纤维蛋白丝在微血管腔内形成细网",
+            "C.\t异型输血",
+            "D.\t微循环血液“泥化”淤滞",
+            "E.\t微血管内皮细胞受损"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 35
+    },
+    {
+        "question_text": "36.\tDIC低凝期",
+        "options": [
+            "A.\t血小板计数减少, 量增加",
+            "B.\t血小板计数增加, 量增加",
+            "C.\t血小板计数增加, 量降低",
+            "D.\t血小板计数减少, 量降低",
+            "E.\t血小板计数减少, 量降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t凝血酶原时间测定能反映下列哪一项凝血因子 含量？",
+        "options": [
+            "A.\t凝血因子II、V、训、XI",
+            "B.\t凝血因子II、V、W、X",
+            "C.\t凝血因子 V、IX、XI、XIII",
+            "D.\t凝血因子V、训、X、XIII",
+            "E.\t凝血因子 I、II、XX、XIII"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t血浆鱼精蛋白副凝试验（3P试验）是检测",
+        "options": [
+            "A.\t纤维蛋白原",
+            "B.\t纤维蛋白单体",
+            "C.\t纤维蛋白原降解产物",
+            "D.\t凝血酶原",
+            "E.\t纤溶酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t有关DIC的实验室检查，下列哪种说法是错误的？",
+        "options": [
+            "A.\t凝血酶时间检查血浆中凝血酶活性",
+            "B.\t凝血酶原时间检查外源性凝血系统凝血因子消耗 情况",
+            "C.\t纤维蛋白原定量检查凝血物质消耗情况",
+            "D.\t血浆鱼精蛋白副凝试验检查血液中FDP-纤维蛋 白单体复合物存在",
+            "E.\t优球蛋白溶解时间检查血液中纤溶活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t关于DIC的治疗，下列哪一项治疗原则是正确 的？",
+        "options": [
+            "A.\t首先治疗DIC,然后处理原发病",
+            "B.\t对早期疑似DIC者可先用肝素作试验性治疗",
+            "C.\t一经确诊为DIC，应立即进行抗凝治疗",
+            "D.\t在DIC早期应使用抗纤溶药物预防纤溶发生",
+            "E.\t在DIC后期禁用肝素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t妊娠末期的产科意外易诱发DIC,主要是由 于：",
+        "options": [
+            "A.\t单核吞噬细胞系统功能低下",
+            "B.\t血液处于高凝状态",
+            "C.\t微循环血流淤滞",
+            "D.\t纤溶系统活性增高",
+            "E.\t血中促凝物质含量增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "41",
+        "number": 41
+    }
+]

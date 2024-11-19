@@ -1,0 +1,716 @@
+[
+    {
+        "question_text": "1.\t肝功能不全是指",
+        "options": [
+            "A.\t肝脏分泌功能障碍",
+            "B.\t肝脏合成功能障碍",
+            "C.\t肝细胞功能障碍所致的临床综合征",
+            "D.\t肝脏解毒功能障碍",
+            "E.\t肝细胞广泛坏死"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t肝功能衰竭是指",
+        "options": [
+            "A.\t肝功能不全早期阶段",
+            "B.\t肝功能不全中期阶段",
+            "C.\t肝功能不全晚期阶段",
+            "D.\t肝性昏迷",
+            "E.\t肝性脑病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t肝功能障碍不包括",
+        "options": [
+            "A.\t代谢和生化转化障碍",
+            "B.\t胆汁分泌、排泄障碍",
+            "C.\t凝血障碍",
+            "D.\t免疫功能障碍",
+            "E.\t胃泌素灭活障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t肝功能障碍时代谢障碍不会表现出",
+        "options": [
+            "A.\t低糖血症",
+            "B.\t低蛋白血症",
+            "C.\t低钾血症",
+            "D.\t低钠血症",
+            "E.\t低球蛋白血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t肝功能障碍时产生高胆红素血症的原因中下列哪 一项不存在？",
+        "options": [
+            "A.\t肝脏摄取胆红素障碍",
+            "B.\t肝脏结合胆红素障碍",
+            "C.\t肝脏排泄胆红素障碍",
+            "D.\t肝脏合成胆红素障碍",
+            "E.\t肝脏转运胆红素障碍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 5
+    },
+    {
+        "question_text": "6. 肝功能障碍时容易出血的主要原因是",
+        "options": [
+            "A. 肝素产生增多",
+            "B. 血小板产生减少",
+            "C. 毛细血管壁受损害",
+            "D. 凝血因子产生减少",
+            "E. 纤溶酶产生增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t严重肝病时下列哪一种激素灭活不受影响？",
+        "options": [
+            "A.\t雌激素",
+            "B.\t胰岛素",
+            "C.\t皮质激素",
+            "D.\t甲状腺激素",
+            "E.\t抗利尿激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t严重肝病出现肠源性内毒素血症的原因不包括",
+        "options": [
+            "A.\t肠吸收内毒素绕过肝脏直接入血",
+            "B.\t枯否细胞功能受抑制",
+            "C.\t肠粘膜屏障功能降低而吸收内毒素增多",
+            "D.\t胆汁排出受阻使肠腔中内毒素增多",
+            "E.\tNO产生和释放减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t在内毒素引起肝损害中，下列哪一种物质起关键 作用？",
+        "options": [
+            "A.\tIL-1",
+            "B.\tIL-6",
+            "C.\tTNF a",
+            "D.\t白三烯",
+            "E.\t血小板活化因子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t肠源性内毒素血症一般不会引起肝脏发生",
+        "options": [
+            "A.\t肝纤维化",
+            "B.\t肝硬化",
+            "C.\t肝坏死",
+            "D.\t肝癌",
+            "E.\t肝细胞气球样变?"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t严重肝病时出现生物转化增多的是",
+        "options": [
+            "A.\t氨",
+            "B.\t胺类",
+            "C.\t酚类",
+            "D.\tY -氨基丁酸",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t一般认为血浆白蛋白浓度在何值以下可产生腹 水？",
+        "options": [
+            "A.\t<5g",
+            "B.\t<4g",
+            "C.\t<3g",
+            "D.\t<2g",
+            "E.\t<1g"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t严重肝病伴腹水患者体内不存在下列哪一项变 化？",
+        "options": [
+            "A.\t醛固酮增多",
+            "B.\t排钠激素减少",
+            "C.\t心房利钠因子增多",
+            "D.\t一氧化氮增多",
+            "E.\t内皮素增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t肝性脑病的正确概念应是",
+        "options": [
+            "A.\t严重肝病并发脑水肿",
+            "B.\t严重肝病所致的昏迷",
+            "C.\t严重肝病所致的神经症状",
+            "D.\t严重肝病所致的精神紊乱性疾病",
+            "E.\t严重肝病所致的精神神经综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t有关肝性脑病的神经精神症状的描述哪项是错 误的？",
+        "options": [
+            "A.\t轻微性格和行为改变",
+            "B.\t睡眠障碍和行为失常",
+            "C.\t精神错乱",
+            "D.\t最后阶段可出现昏迷",
+            "E.\t发病早期就出现昏迷表现，故临床上常称肝昏迷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t肝性脑病的发生机制学说中较为全面的是",
+        "options": [
+            "A.\t氨中毒学说",
+            "B.\t假性神经递质学说",
+            "C.\t综合学说",
+            "D.\tY-氨基丁酸学说",
+            "E.\t血浆氨基酸失衡学说"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t肝硬化病人血氨增高的常见诱因是",
+        "options": [
+            "A.\t胃肠运动增强",
+            "B.\t胃肠道出血",
+            "C.\t肠道内细菌活动减弱",
+            "D.\t脂肪摄入减少",
+            "E.\t糖类摄入增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t严重肝病时氨清除不足的主要原因是",
+        "options": [
+            "A.\t谷氨酰胺合成障碍",
+            "B.\t尿素合成障碍",
+            "C.\t乙酰胆碱合成障碍",
+            "D.\t谷氨酸合成障碍",
+            "E.\tY -氨基丁酸合成障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t氨对脑组织的毒性作用是",
+        "options": [
+            "A.\t干扰脑组织的能量代谢",
+            "B.\t使兴奋性神经递质增多",
+            "C.\t使抑制性神经递质减少",
+            "D.\t刺激神经细胞膜兴奋",
+            "E.\t使NADH增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 19
+    },
+    {
+        "question_text": "20. 血氨升高引起肝性脑病的主要机制是",
+        "options": [
+            "A. 影响大脑皮质的兴奋传导过程",
+            "B. 使乙酰胆碱产生过多",
+            "C. 干扰脑组织的能量代谢",
+            "D. 使脑干网状结构不能正常活动",
+            "E. 使去甲肾上腺素作用减弱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 20
+    },
+    {
+        "question_text": "21. 氨中毒患者脑内能量产生减少的主要机制是",
+        "options": [
+            "A. 鸟氨酸循环障碍",
+            "B. 磷酸肌酸分解障碍",
+            "C. 脂肪氧化障碍",
+            "D. 三羧酸循环障碍",
+            "E. 氧化磷酸化障碍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t氨对脑能量代谢的影响中，下列哪项使还原型 辅酶I (NADH)消耗增多？",
+        "options": [
+            "A.\t氨与a -酮戊二酸结合形成谷氨酸",
+            "B.\t谷氨酸与氨结合形成谷氨酰胺",
+            "C.\t糖酵解增强",
+            "D.\t丙酮酸氧化脱羧",
+            "E.\t乙酰辅酶A与胆碱合成乙酰胆碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t在氨中毒中下列哪一项属耗能过程？",
+        "options": [
+            "A.\t氨与a -酮戊二酸形成谷氨酰胺",
+            "B.\t氨与谷氨酸结合形成谷氨酰胺",
+            "C.\t氨促进磷酸果糖激酶活性",
+            "D.\t氨抑制丙酮酸氧化脱羧",
+            "E.\t氨抑制Y-氨基丁酸转氨酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t肝性脑病时脑组织内乙酰胆碱(Ach)的变化是 由于",
+        "options": [
+            "A.\t肝脏合成胆碱酯酶减少而使乙酰胆碱分解减少",
+            "B.\t血氨升高而抑制乙酰胆碱合成",
+            "C.\t血氨使乙酰胆碱分解加速",
+            "D.\t由于肝脏合成乙酰辅酶A增多而使乙酰胆碱生成 增多",
+            "E.\t乙酰胆碱的合成减少和分解减少并存而含量正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t血氨增高对神经递质的影响应为下列哪一项？",
+        "options": [
+            "A.\t乙酰胆碱I ,I,谷氨酰胺f",
+            "B.\t乙酰胆碱I ,I,谷氨酰胺I",
+            "C.\t乙酰胆碱I ,f,谷氨酰胺f",
+            "D.\t乙酰胆碱f ,f,谷氨酰胺I",
+            "E.\t乙酰胆碱I,谷氨酸I,早期，Y-氨基丁酸 f,谷氨酰胺f"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t脑组织内氨增多可使脑内神经递质不发生",
+        "options": [
+            "A.\t谷氨酸减少",
+            "B.\t乙酰胆碱减少",
+            "C.\tY-氨基丁酸增多",
+            "D.\t谷氨酰胺增多",
+            "E.\t5-羟色胺减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t氨对神经细胞膜离子转运的影响是造成",
+        "options": [
+            "A.\t细胞内钾增多",
+            "B.\t细胞内钾缺乏",
+            "C.\t细胞内钠增多",
+            "D.\t细胞内钙减少",
+            "E.\t细胞内钙增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t下列哪一种不是中枢神经系统内的真性神经递 质？",
+        "options": [
+            "A.\t去甲肾上腺素",
+            "B.\t多巴胺",
+            "C.\t肾上腺素",
+            "D.\t谷氨酸",
+            "E.\tY -氨基丁酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t脑神经细胞内苯丙氨酸浓度升高时会出现",
+        "options": [
+            "A.\t芳香族氨基酸脱羧酶活性f ,酪氨酸羟化酶活性 f",
+            "B.\t芳香族氨基酸脱羧酶活性I ,酪氨酸羟化酶活性",
+            "C.\t芳香族氨基酸脱羧酶活性f ,酪氨酸羟化酶活性",
+            "D.\t芳香族氨基酸脱羧酶活性I ,酪氨酸羟化酶活性 f",
+            "E.\t芳香族氨基酸脱羧酶活性不变，酪氨酸羟化酶活 性f"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t肝性脑病的假性神经递质学说中的假性神经递 质是指",
+        "options": [
+            "A.\t苯乙胺和酪胺",
+            "B.\t苯乙胺和苯乙醇胺",
+            "C.\t酪胺和羟苯乙醇胺",
+            "D.\t多巴胺和苯乙醇胺",
+            "E.\t苯乙醇胺和羟苯乙醇胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 30
+    },
+    {
+        "question_text": "31. 假性神经递质羟苯乙醇胺与下列哪种神经递质 化学结构相似？",
+        "options": [
+            "A. 5-羟色胺",
+            "B. 乙酰胆碱",
+            "C. 去甲肾上腺素",
+            "D. Y -氨基丁酸",
+            "E. 谷氨酰胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t假性神经递质的毒性作用是",
+        "options": [
+            "A.\t对抗乙酰胆碱",
+            "B.\t干扰去甲肾上腺素和多巴胺的功能",
+            "C.\t阻碍三羧酸循环",
+            "D.\t抑制糖酵解",
+            "E.\t引起碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t假性神经递质的作用部位在",
+        "options": [
+            "A.\t大脑皮质",
+            "B.\t小脑",
+            "C.\t丘脑",
+            "D.\t间脑",
+            "E.\t脑千网状结构"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 33
+    },
+    {
+        "question_text": "34.5 -羟色胺在肝性脑病发病中的作用是",
+        "options": [
+            "A.\t对抗乙酰胆碱",
+            "B.\t对抗多巴胺",
+            "C.\t对抗去甲肾上腺素",
+            "D.\t替代多巴胺",
+            "E.\t替代去甲肾上腺素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t正常人血浆中支链氨基酸与芳香族氨基酸之比 值接近",
+        "options": [
+            "A.\t1-1.5",
+            "B.\t2-2.5",
+            "C.\t3-3.5",
+            "D.\t4-4.5",
+            "E.\t5-5.5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t肝性脑病病人血液中支链氨基酸浓度降低的机 制是",
+        "options": [
+            "A.\t支链氨基酸合成蛋白质",
+            "B.\t支链氨基酸经肠道排出",
+            "C.\t支链氨基酸经肾脏排出",
+            "D.\t肌肉等组织摄取、分解、利用支链氨基酸增多",
+            "E.\t支链氨基酸进入中枢神经系统"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t肝功能严重损害时血浆芳香族氨基酸含量增加 的机制是",
+        "options": [
+            "A.\t芳香族氨基酸合成加速",
+            "B.\t芳香族氨基酸异生增多",
+            "C.\t芳香族氨基酸排出减少",
+            "D.\t芳香族氨基酸分解减少",
+            "E.\t芳香族氨基酸利用减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t肝性脑病患者血液中的芳香族氨基酸含量增多 的毒性影响是使",
+        "options": [
+            "A.\t支链氨基酸浓度减少",
+            "B.\t支链氨基酸浓度增加",
+            "C.\tATP减少",
+            "D.\t假性神经递质增多",
+            "E.\t真性神经递质减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t肝性脑病时芳香族氨基酸入脑增多的机制是",
+        "options": [
+            "A.\t血氨浓度增加",
+            "B.\t芳香族脂肪酸增加",
+            "C.\t血脑屏障破坏",
+            "D.\t血硫醇含量增多",
+            "E.\t血支链氨基酸减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t肝性脑病使血浆氨基酸比例失常表现为",
+        "options": [
+            "A.芳香族氨基酸f ,支链氨基酸f",
+            "B.\t芳香族氨基酸I ,支链氨基酸f",
+            "C.\t芳香族氨基酸f ,支链氨基酸I",
+            "D.\t芳香族氨基酸正常，支链氨基酸f",
+            "E.\t芳香族氨基酸I ,支链氨基酸I"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t色氨酸在肝性脑病发病中的作用是",
+        "options": [
+            "A.\t对抗去甲肾上腺素",
+            "B.\t对抗乙酰胆碱",
+            "C.\t直接抑制中枢神经系统",
+            "D.\t直接兴奋中枢神经系统",
+            "E.\t转变为5-羟色胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t肝性脑病时血浆内丫-氨基丁酸(GABA)水平升 高的机制是",
+        "options": [
+            "A.\t突触前神经元囊泡释放GABA增多",
+            "B.\t肝脏清除GABA减少",
+            "C.\tGABA不能穿过血脑屏障",
+            "D.\t脑内GABA储存减少",
+            "E.\t来自肠道的GABA增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t丫-氨基丁酸使下列哪一种离子向神经元内流而 使其呈超极化状态？",
+        "options": [
+            "A.\tNa+",
+            "B.\tK+",
+            "C.\tCa2+",
+            "D.\tHCO3-",
+            "E.\tCl-"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t下述哪一物质不是促进肝性脑病发生的神经毒 质？",
+        "options": [
+            "A.\t硫醇",
+            "B.\t胺类",
+            "C.\t短链脂肪酸",
+            "D.\t酚类",
+            "E.\t多巴胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t肝性肾衰竭的发生机制中下列哪一项不存在？",
+        "options": [
+            "A.\t肾血管收缩",
+            "B.\t肾血栓形成",
+            "C.\t肾血流减少",
+            "D.\t肾小管坏死",
+            "E.\t肾小球滤过率下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t肝性肾衰竭的肾血管收缩的发生机制是",
+        "options": [
+            "A.\t交感神经系统活性f,肾素-血管紧张素系统活 性f,激肽释放酶激肽系统活性f",
+            "B.\t交感神经系统活性f,肾素-血管紧张素系统活 性f,激肽释放酶激肽系统活性I",
+            "C.\t交感神经系统活性f,肾素-血管紧张素系统活 性I,激肽释放酶激肽系统活性I",
+            "D.\t交感神经系统活性I,肾素-血管紧张素系统活 性I,激肽释放酶激肽系统活性I",
+            "E.\t交感神经系统活性f,肾素-血管紧张素系统活 性I,激肽释放酶激肽系统活性f"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t下述哪一因素不会使肝性脑病时脑对神经毒质 敏感性增高？",
+        "options": [
+            "A.\t缺氧",
+            "B.\t感染",
+            "C.\t碱中毒",
+            "D.\t镇静剂",
+            "E.\t左旋多巴"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t肝性肾衰竭时体内有",
+        "options": [
+            "A.\tPGE2增多",
+            "B.\tTXA2减少",
+            "C.\t假性神经递质减少",
+            "D.\t内毒素增多",
+            "E.\t激肽增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 48
+    },
+    {
+        "question_text": "49. 肝肾综合征是指",
+        "options": [
+            "A. 假性肾衰竭",
+            "B. 真性肾衰竭",
+            "C. 肝性肾衰竭",
+            "D. 肝性功能性肾衰竭",
+            "E. 肝性器质性肾衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t治疗肝性脑病的措施中下列哪一项是不妥当 的？",
+        "options": [
+            "A.\t静脉点滴谷氨酸钠",
+            "B.\t补充葡萄糖",
+            "C.\t给予碱性药物",
+            "D.\t口服乳果糖",
+            "E.\t给予左旋多巴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 50
+    },
+    {
+        "question_text": "51. 肝性脑病病人血浆氨基酸比例失调可表现为:",
+        "options": [
+            "A. 芳香氨基酸和支链氨基酸均增多",
+            "B. 芳香氨基酸增多，支链氨基酸减少",
+            "C. 芳香氨基酸和支链氨基酸均减少",
+            "D. 芳香氨基酸减少,支链氨基酸增多",
+            "E. 芳香氨基酸正常，支链氨基酸增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 51
+    }
+]

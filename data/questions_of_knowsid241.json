@@ -1,0 +1,814 @@
+[
+    {
+        "question_text": "1.缺氧的概念是",
+        "options": [
+            "A.血液氧饱和度降低",
+            "B.吸入气体氧分压降低",
+            "C.组织供氧不足或不能充分利用氧",
+            "D.血液氧含量过低",
+            "E.血液氧容量降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 1
+    },
+    {
+        "question_text": "2.低张性低氧血症主要血气特点是",
+        "options": [
+            "A.血液氧分压低于正常",
+            "B.血液氧含量低于正常",
+            "C.血液氧容量低于正常",
+            "D.动脉血氧含量低于正常",
+            "E.动脉血氧分压低于正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 2
+    },
+    {
+        "question_text": "3.等张性低氧血症时",
+        "options": [
+            "A.血氧容量降低",
+            "B.动脉血氧分压降低",
+            "C.血氧饱和度降低",
+            "D.组织细胞利用氧障碍",
+            "E.血氧含量正常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 3
+    },
+    {
+        "question_text": "4.低氧血症是指",
+        "options": [
+            "A.血液氧分压低于正常",
+            "B.动脉血氧含量低于正常",
+            "C.血液氧含量低于正常",
+            "D.动脉血氧分压低于正常",
+            "E.血液氧容量低于正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 4
+    },
+    {
+        "question_text": "5.动脉血氧分压是指",
+        "options": [
+            "A.100ml 血液中实际含有 O2的毫升数",
+            "B.溶解在动脉血液中氧分子所产生的张力",
+            "C.血红蛋白和氧结合力的大小",
+            "D.血红蛋白氧饱和度为 50%时的氧分压",
+            "E.血液中血红蛋白的氧饱和度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 5
+    },
+    {
+        "question_text": "6.血氧饱和度一般是指",
+        "options": [
+            "A.血液中溶解的 O2量和总 O2量的比值",
+            "B.Hb 结合的 O2量和所能结合的最大 O2量的比值",
+            "C.HbO2和未结合 O2的 Hb 的比值",
+            "D.HbO2和 Hb 总量的比值",
+            "E.未结合 O2的 Hb 量和 Hb 总量的比值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t决定血氧饱和度最主要的因素是",
+        "options": [
+            "A.\t血液pH值",
+            "B.\t血液温度",
+            "C.\t血氧分压",
+            "D.\t血液CO2分压",
+            "E.\t红细胞内2, 3-DPG的含量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t缺氧时氧合血红蛋白解离曲线右移的最主要原因 是",
+        "options": [
+            "A.\t红细胞内2，3-DPG浓度升高",
+            "B.\t血液H+浓度升高",
+            "C.\t血液CO2分压升高",
+            "D.\t血液温度升高",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t有关血氧指标的叙述，下列哪一项是不确切的？",
+        "options": [
+            "A.\t血氧容量决定于血液中Hb的浓度及Hb和O2的结 合力",
+            "B.\t血氧饱和度的高低与血液中血红蛋白的量无关",
+            "C.\t动脉血氧分压取决于吸入气中氧分压的高低",
+            "D.\t血氧含量是指100ml血液中实际含有O2的亳升数",
+            "E.\t正常动、静脉血氧含量差约为5ml/dl"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 9
+    },
+    {
+        "question_text": "10.\tP50是指",
+        "options": [
+            "A.\t氧含量50%时氧分压值",
+            "B.\t氧容量50%时氧分压值",
+            "C.\t氧饱和度50%时氧分压值",
+            "D.\t溶解氧量50%时氧分压值",
+            "E.\t动静脉血氧含量差的50%时氧分压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t下列关于P50的描述，哪一项是错误的？",
+        "options": [
+            "A.\tP?是指血红蛋白氧饱和度为50%时的氧分压",
+            "B.\tP?是反映Hb与O2的亲和力的指标",
+            "C.\tP50 的正常值为 3.47-3.60 kPa (26-27mmHg)",
+            "D.\tP50降低表明氧离曲线右移",
+            "E.\tP50升高0.1kPa可由红细胞内2, 3-DPG浓度增高1umol/gHb所致"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t低张性低氧血症引起组织缺氧其动脉血氧分压 须低于",
+        "options": [
+            "A.\t12.0kPa (90mmHg)",
+            "B.\t10.7 kKPa (80mmHg)",
+            "C.\t9.3 kPa( 70mmHg)",
+            "D.\t8.0 kPa( 60mmHg)",
+            "E.\t6.7 kPa( 50mmHg)"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下列关于低张性低氧血症的叙述哪一项是错误 的？",
+        "options": [
+            "A.\t血氧容量正常",
+            "B.\t动脉血氧分压和氧含量降低",
+            "C.\t动静脉血氧含量差大于正常",
+            "D.\t静脉血分流入动脉是病因之一",
+            "E.\t可出现呼吸性碱中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t某患者的血氧检查结果，血氧容量20ml%，动 脉血氧含量15ml%，动脉血氧分压6.7kPa(50mmHg)，动静脉氧差4ml%，其缺氧类型为",
+        "options": [
+            "A.\t低张性缺氧",
+            "B.\t血液性缺氧",
+            "C.\t循环性缺氧",
+            "D.\t组织性缺氧",
+            "E.\t混合性缺氧"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t大叶性肺炎患者引起低张性缺氧时血氧改变是",
+        "options": [
+            "A.\t血氧容量下降",
+            "B.\t动脉血氧分压下降",
+            "C.\t动脉血氧饱和度正常",
+            "D.\t静脉血氧含量升高",
+            "E.\t动静脉氧差增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t慢性阻塞性肺病患者发生缺氧的始动因素是",
+        "options": [
+            "A.\t吸入气的氧分压过低",
+            "B.\t肺泡气的氧分压降低",
+            "C.\t动脉血氧分压降低",
+            "D.\t动脉血氧饱和度降低",
+            "E.\t动脉血氧容量降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t血液性缺氧的血氧指标变化是",
+        "options": [
+            "A.\t动脉血氧分压下降",
+            "B.\t动脉血氧含量正常",
+            "C.\t动脉血氧饱和度下降",
+            "D.\t血氧容量降低",
+            "E.\t动静脉氧含量差增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t关于一氧化碳中毒的叙述，下列哪一项不适 宜？",
+        "options": [
+            "A.\tCO和Hb结合生成的碳氧血红蛋白无携氧能力",
+            "B.\tCO抑制RBC内糖酵解，使2, 3-DPG减少，氧离 曲线左移",
+            "C.\t吸入气中CO浓度为0.1%时，可致中枢神经系统 和心脏难以恢复的损伤",
+            "D.\t呼吸加深变快，肺通气量增加",
+            "E.\t皮肤、粘膜呈樱桃红色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t一氧化碳中毒造成缺氧的主要原因",
+        "options": [
+            "A.\tO2与脱氧(还原)Hb结合速率变慢",
+            "B.\tHbO2解离速度减慢",
+            "C.\tHbCO无携O2能力",
+            "D.\tCO 使 RBC 内 2，3-DPG 减少",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t引起肠源性发绀的原因是",
+        "options": [
+            "A.\t一氧化碳中毒",
+            "B.\t亚硝酸盐中毒",
+            "C.\t氤化物中毒",
+            "D.\t肠系膜血管痉挛",
+            "E.\t肠道淤血水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t某患者血氧检查为：血氧容量12ml%，动脉血 氧含量 11.4ml%,氧分压 13.3 kPa (100mmHg)， 动-静脉氧差3. 5ml%,患下列哪一-种疾病的可能 性最大？",
+        "options": [
+            "A.\t慢性支气管炎",
+            "B.\t慢性贫血",
+            "C.\t矽肺",
+            "D.\t严重维生素B2缺乏",
+            "E.\t慢性充血性心力衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 21
+    },
+    {
+        "question_text": "22,\t循环性缺氧时血氧指标最特征性的变化是",
+        "options": [
+            "A.\t动脉血氧分压正常",
+            "B.\t血氧容量正常",
+            "C.\t动脉血氧含量正常",
+            "D.\t动脉血氧饱和度正常",
+            "E.\t动静脉血氧含量差增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 22
+    },
+    {
+        "question_text": "23,\t最能反映组织性缺氧的指标是",
+        "options": [
+            "A.\t血氧容量降低",
+            "B.\t动脉血氧分压降低",
+            "C.\t动脉血氧含量降低",
+            "D.\t静脉血氧含量增加",
+            "E.\t动静脉血氧含量差增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 23
+    },
+    {
+        "question_text": "24,\t氰化物抑制生物氧化使组织利用氧能力减弱的 机制是",
+        "options": [
+            "A.\t与氧化细胞色素氧化酶结合",
+            "B.\t与还原型细胞色素氧化酶结合",
+            "C.\t增高线粒体内膜对H的通透性",
+            "D.\t抑制ATP合成酶的活性",
+            "E.\t造成氧化磷酸化脱耦联"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 24
+    },
+    {
+        "question_text": "25,\t下列哪一种疾病发生的缺氧，其动脉血氧含量 可明显下降？",
+        "options": [
+            "A.\t脑血栓形成",
+            "B.\t冠状动脉痉挛",
+            "C.\t肾小动脉硬化",
+            "D.\t肺栓塞",
+            "E.\t食管静脉曲张"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 25
+    },
+    {
+        "question_text": "26,\t动静脉血氧含量差大于正常见于",
+        "options": [
+            "A.\t低输出量性心力衰竭",
+            "B.\t慢性阻塞性肺气肿",
+            "C.\t一氧化碳中毒",
+            "D.\t氤化物中毒",
+            "E.\t亚硝酸盐中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 26
+    },
+    {
+        "question_text": "27,\t下列哪一种物质导致的缺氧不属于组织性缺氧",
+        "options": [
+            "A.\tH2S",
+            "B.\tNH4CN",
+            "C.\tNaClO4",
+            "D.\tAs2O3",
+            "E.\tP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 27
+    },
+    {
+        "question_text": "28, 血氧容量正常，动脉血氧分压和氧含量正常， 静脉血氧分压与氧含量高于正常见于",
+        "options": [
+            "A. 心力衰竭",
+            "B. 呼吸衰竭",
+            "C. 失血性休克",
+            "D. 氰化钠中毒",
+            "E. 慢性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t支气管哮喘引起的缺氧中下列哪一项血氧指标 的变化不存在？",
+        "options": [
+            "A.\t动脉血氧分压降低",
+            "B.\t动脉血氧含量降低",
+            "C.\t动脉血氧饱和度正常",
+            "D.\t动静脉氧差正常或下降",
+            "E.\t静脉血氧分压降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t造成组织缺氧的主要机制是",
+        "options": [
+            "A.\t动脉血氧分压降低",
+            "B.\t血氧含量降低",
+            "C.\t血液氧饱和度降低",
+            "D.\t单位时间内流过毛细血管血量减少",
+            "E.\t细胞组织与血液之间氧分压梯度变小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t常用下列哪项指标反映内呼吸情况？",
+        "options": [
+            "A.\t动脉血氧分压",
+            "B.\tP50",
+            "C.\t静脉血氧分压",
+            "D.\t动脉血氧饱和度",
+            "E.\t动脉血氧含量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t低张性缺氧导致细胞缺氧的机制是",
+        "options": [
+            "A.\t静脉氧分压降低",
+            "B.\t静脉血液氧饱和度降低",
+            "C.\t毛细血管平均氧分压降低",
+            "D.\t毛细血管血量减少",
+            "E.\t血氧容量降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t血液性缺氧导致细胞缺氧的机制是",
+        "options": [
+            "A.\t动脉氧分压降低",
+            "B.\t单位时间内毛细血管血量减少",
+            "C.\t血氧容量降低",
+            "D.\t静脉血氧含量增高",
+            "E.\t细胞内呼吸障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t循环性缺氧导致细胞缺氧的机制是",
+        "options": [
+            "A.\t动脉氧分压降低",
+            "B.\t单位时间内毛细血管血量减少",
+            "C.\t血氧容量降低",
+            "D.\t血液氧饱和度降低",
+            "E.\tP50降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t组织性缺氧导致细胞缺氧的机制是",
+        "options": [
+            "A.\t动脉血氧分压降低",
+            "B.\t血液氧饱和度降低",
+            "C.\t组织利用氧障碍",
+            "D.\t毛细血管血液量减少",
+            "E.\t血液氧容量降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t急性缺氧引起下列哪一类变化？",
+        "options": [
+            "A.\t肺小动脉收缩，肺血流阻力增大，肺动脉压升高",
+            "B.\t刺激化学感受器，反射性通过交感神经兴奋，引 起脑血管收缩，出现精神症状",
+            "C.\t心肌活动加强，代谢旺盛，腺苷产生增多，使冠 状动脉收缩",
+            "D.\t交感神经兴奋，小动脉收缩，心输出量减少",
+            "E.\t使血浆中促红细胞生成素增多，使红细胞数及血 红蛋白量明显增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t细胞感受缺氧刺激与产生反应的可能机制是通 过",
+        "options": [
+            "A.\t红细胞生成素增高",
+            "B.\t血红素氧合酶-1活性增高",
+            "C.\t糖酵解酶活性增高",
+            "D.\t缺氧诱导因子或其它转录因子激活",
+            "E.\t颈动脉体和主动脉体化学感受器对缺氧刺激反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t急性低张性缺氧时机体最重要的代偿反应是",
+        "options": [
+            "A.\t心率加快",
+            "B.\t心肌收缩性增强",
+            "C.\t肺通气量增加",
+            "D.\t脑血流量增加",
+            "E.\t腹腔内脏血流量减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t低张性缺氧引起肺通气量增加的主要机制是",
+        "options": [
+            "A.\t刺激颈动脉窦和主动脉弓压力感受器",
+            "B.\t刺激颈动脉体化学感受器",
+            "C.\t直接刺激呼吸中枢",
+            "D.\t刺激肺牵张感受器",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t肺通气量增加是下述哪种缺氧最重要的代偿反 应？",
+        "options": [
+            "A.\t血液性缺氧",
+            "B.\t组织性缺氧",
+            "C.\t单纯性循环性缺氧",
+            "D.\t急性低张性缺氧",
+            "E.\t长期、慢性低张性缺氧"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t急性缺氧引起下列的血管效应是",
+        "options": [
+            "A.\t冠脉收缩、脑血管收缩、肺血管扩张",
+            "B.\t冠脉扩张、脑血管收缩、肺血管扩张",
+            "C.\t冠脉扩张、脑血管扩张、肺血管扩张",
+            "D.\t冠脉扩张、脑血管扩张、肺血管收缩",
+            "E.\t冠脉收缩、脑血管扩张、肺血管收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t急性缺氧时血管收缩和血流量减少最明显的器 官为",
+        "options": [
+            "A.\t肝脏",
+            "B.\t肾脏",
+            "C.\t肺",
+            "D.\t胃肠道",
+            "E.\t胰腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t心肌缺氧的主要代偿方式是",
+        "options": [
+            "A.\t提咼摄氧率",
+            "B.\t降低耗氧量",
+            "C.\t释放储备氧",
+            "D.\t增加冠状动脉血流量",
+            "E.\t增加血流携氧能力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t心肌缺氧引起冠状血管扩张的最重要的局部代 谢物质是",
+        "options": [
+            "A.\t腺苷",
+            "B.\t前列环素",
+            "C.\tK+",
+            "D.\tCO2",
+            "E.\tH+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t最易引起肺动脉高压的病因是",
+        "options": [
+            "A.\t高血压性心脏病",
+            "B.\t亚硝酸盐中毒",
+            "C.\t慢性贫血",
+            "D.\t咼热",
+            "E.\t慢性阻塞性肺病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t急性缺氧导致肺动脉压力升高的主要机制是",
+        "options": [
+            "A.\t右心输出量增加",
+            "B.\t肺小动脉收缩",
+            "C.\t左心功能不全",
+            "D.\t肺小静脉淤血",
+            "E.\t肺血流量增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t慢性缺氧使红细胞数及血红蛋白量明显增加的 主要机制是",
+        "options": [
+            "A.\t刺激肝脏使促红细胞生成素原生成增加",
+            "B.\t增强促红细胞生成素对骨髓的生理效应",
+            "C.\t抑制脾和肝对红细胞的破坏",
+            "D.\t刺激肾脏近球细胞促进促红细胞生成素的形成与 释放",
+            "E.\t交感神经兴奋、肝脾储血库收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t以下哪一种原因引起的缺氧往往无发绀？",
+        "options": [
+            "A.\t呼吸功能不全",
+            "B.\t组织用氧障碍",
+            "C.\t心力衰竭",
+            "D.\t静脉血掺杂",
+            "E.\t窒息"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t关于发绀的描述下列哪一项是错误的？",
+        "options": [
+            "A.\t缺氧不一定有发绀",
+            "B.\t血液中脱氧血红蛋白超过5g/dl便可发生发绀绀",
+            "C.\t动脉血氧分压低于6.7kPa (50mmHg)、血氧饱 和度低于80%时易出现",
+            "D.\t严重贫血引起的缺氧，其发绀一般较明显",
+            "E.\t发绀是否明确，还和皮肤、粘膜血管中的血量有 关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t以下哪一种病因导致缺氧时，红细胞内2，3- DPG不增加？",
+        "options": [
+            "A.\t阻塞性肺气肿",
+            "B.\t肺水肿",
+            "C.\t严重维生素B2缺乏",
+            "D.\t肺纤维化",
+            "E.\t心力衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t脑静脉血氧分压低于何值时可出现意识丧失？",
+        "options": [
+            "A.5.33 kPa (40mmHg)",
+            "B.\t4.53 kPa (34mmHg)",
+            "C.\t3.73 kPa (28mmHg)",
+            "D.\t2.53 kPa (19mmHg)",
+            "E.\t1.60 kPa (l2mmHg)"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t严重缺氧致细胞损伤时，细胞膜内外的离子浓 度变化为",
+        "options": [
+            "A.\t细胞内Na+增多",
+            "B.\t细胞外K+减少",
+            "C.\t细胞内Ca2+减少",
+            "D.\t细胞外H+减少",
+            "E.\t细胞内H+减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t循环性缺氧患者进行氧疗的主要目的是",
+        "options": [
+            "A.\t提咼PA。?",
+            "B.\t提咼PaO?",
+            "C.\t提咼SaO2",
+            "D.\t增加血浆中溶解的氧",
+            "E.\t促使CO2的排出"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t氧中毒发生主要取决于",
+        "options": [
+            "A.\t氧的湿化程度",
+            "B.\t氧分压",
+            "C.\t氧流量",
+            "D.\t给氧时间",
+            "E.\t给氧方式"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t下列哪一种物质是氧中毒时细胞受损的主要因 素？",
+        "options": [
+            "A.\t氢离子",
+            "B.\t组胺",
+            "C.\t前列腺素",
+            "D.\t白三烯",
+            "E.\t活性氧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t氧疗对下述哪类病人效果最好？",
+        "options": [
+            "A.\t室间隔缺损伴有肺动脉狭窄",
+            "B.\t外呼吸功能障碍",
+            "C.\t一氧化碳中毒",
+            "D.\t心力衰竭",
+            "E.\t氤化物中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t缺氧性细胞膜电位改变主要是由于",
+        "options": [
+            "A.\t脱氧酶活性下降导致线粒体呼吸功能降低",
+            "B.\t溶酶体肿胀、破裂",
+            "C.\t细胞内ATP含量降低",
+            "D.\t细胞膜对离子通透性增高，钠、钙内流，钾外流",
+            "E.\t胞浆内缺氧诱导因子活性增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t一氧化碳中毒时，皮肤粘膜的特征颜色是",
+        "options": [
+            "A.\t紫蓝色",
+            "B.\t樱桃红色",
+            "C.\t咖啡色",
+            "D.\t苍白色",
+            "E.\t紫红色"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "58",
+        "number": 58
+    }
+]

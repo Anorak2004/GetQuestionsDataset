@@ -1,0 +1,380 @@
+[
+    {
+        "question_text": "1.\t细胞凋亡的概念是",
+        "options": [
+            "A.\t由体内外因素引起的细胞渐进、缓慢的病变导致 的细胞死亡过程",
+            "B.\t由体内外因素触发细胞内预存的死亡程序而导致 的细胞死亡过程",
+            "C.\t由体内外因素诱导的一种生理性、主动的细胞死 亡方式",
+            "D.\t由体内外因素引起的细胞急性、严重的改变导致 的细胞死亡过程",
+            "E.\t由体内外因素诱导的一种病理性、被动的细胞死 亡：方式"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t有关细胞凋亡的生理和病理意义下列哪一项是错 误的？",
+        "options": [
+            "A.\t确保机体正常发育",
+            "B.\t维持内环境稳定",
+            "C.\t促进生物进化",
+            "D.\t保证机体正常生长",
+            "E.\t发挥积极的防御功能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t有关细胞凋亡的特征下列哪一项是错误的？",
+        "options": [
+            "A.\t由较弱刺激触发，可见于生理或病理情况",
+            "B.\tDNA片段化，电泳时呈“梯”状条带",
+            "C.\t溶酶体相对完整，局部无炎症反应",
+            "D.\t主动过程，耗能，无需新蛋白合成",
+            "E.\t胞膜皱缩内陷，分割胞浆成凋亡小体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t有关内源性核酸内切酶的叙述下列哪一项是错误 的？",
+        "options": [
+            "A.\t以无活性形式存在于细胞内",
+            "B.\t能在核小体连接区切断DNA",
+            "C.\tCa2+、Mg2+和Zn2+能增强其活性",
+            "D.\t细胞内也有不依赖于二价金属离子的内切酶",
+            "E.\t需经一系列胞内信号转导环节才能被激活"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t促进细胞凋亡的基因是",
+        "options": [
+            "A.\tBCl-2",
+            "B.\tFas",
+            "C.\t突变型p53",
+            "D.\tc-myc",
+            "E.\tBCl-kL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t抑制细胞凋亡的基因是",
+        "options": [
+            "A.\tFas",
+            "B.\t野生型p53",
+            "C.\tc-myc",
+            "D.\tBCl-2",
+            "E.\tBCl-kL"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t下列哪项不属于凋亡相关基因？",
+        "options": [
+            "A.\tBCl-2",
+            "B.\tICE",
+            "C.\tFas",
+            "D.\tHSP",
+            "E.\tBax"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t细胞凋亡最显著的形态学特征是",
+        "options": [
+            "A.\t胞浆脱水，胞膜迅速空泡化",
+            "B.\t细胞体积逐渐缩小，出现固缩",
+            "C.\t内质网与胞膜融合，形成表面芽状突起",
+            "D.\t核质高度浓缩成团，染色质边集",
+            "E.\t胞膜内陷，分割胞浆，形成凋亡小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列哪项不是细胞凋亡的特征性酶学改变",
+        "options": [
+            "A.\t核酸内切酶激活",
+            "B.\t凋亡蛋白酶激活",
+            "C.\t需钙蛋白酶激活",
+            "D.\t嘌吟氧化酶激活",
+            "E.\t谷氨酰胺转移酶激活"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t细胞凋亡时发生的变化下列哪一项出现最早？",
+        "options": [
+            "A.\t线粒体膜通透性增加",
+            "B.\t线粒体跨膜电位下降",
+            "C.\t凋亡蛋白酶激活",
+            "D.\t核酸内切酶激活",
+            "E.\t核转录因子激活"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t细胞凋亡的双向调节基因是",
+        "options": [
+            "A.\t野生型p53",
+            "B.\tFas",
+            "C.\tc-myc",
+            "D.\tBCl-2",
+            "E.\tBax"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t细胞凋亡时不发生炎症反应的原因主要是",
+        "options": [
+            "A.\t凋亡细胞被邻近的吞噬细胞吞噬、消化",
+            "B.\t凋亡细胞的内容物没有外漏",
+            "C.\t有炎症抑制物产生",
+            "D.\t凋亡蛋白酶能抑制炎症介质产生",
+            "E.\tp53蛋白有抗炎作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t细胞凋亡的主要执行者是",
+        "options": [
+            "A.\t核转录因子和核酸内切酶",
+            "B.\t核酸内切酶和需钙蛋白酶",
+            "C.\t核转录因子和凋亡蛋白酶",
+            "D.\t凋亡蛋白酶和谷氨酰胺转移酶",
+            "E.\t核酸内切酶和凋亡蛋白酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下列哪一项变化不是钙稳态失衡引起细胞凋亡 机制？",
+        "options": [
+            "A.\t激活Ca2+/Mg2+依赖性核酸内切酶",
+            "B.\t激活凋亡蛋白酶，直接促进蛋白质降解",
+            "C.\t激活核转录因子，加速凋亡相关基因转录",
+            "D.\t在ATP的配合下使DNA链舒展，暴露核小体间连 接区的酶切位点",
+            "E.\t激活谷氨酰胺转移酶，促进凋亡小体形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t与细胞凋亡密切相关的心血管疾病是",
+        "options": [
+            "A.\t原发性高血压",
+            "B.\t病毒性心肌炎",
+            "C.\t动脉粥样硬化",
+            "D.\t风湿性心脏病",
+            "E.\t高血压性心脏病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t与细胞凋亡不相关的疾病是",
+        "options": [
+            "A.\t帕金森病",
+            "B.\t艾滋病",
+            "C.\t心力衰竭",
+            "D.\t自身免疫性疾病",
+            "E.\t呼吸衰竭"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t能诱导较多细胞种类发生凋亡的因素是",
+        "options": [
+            "A.\tTNF",
+            "B.\tIFN",
+            "C.\tILTB",
+            "D.\t组胺",
+            "E.\t粒酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t凋亡蛋白酶的活性部位富含",
+        "options": [
+            "A.\t天冬氨酸",
+            "B.\t亮氨酸",
+            "C.\t胱氨酸",
+            "D.\t丝氨酸",
+            "E.\t半胱氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t凋亡蛋白酶对底物的酶切部位是",
+        "options": [
+            "A.\t天冬氨酸",
+            "B.\t谷氨酰胺",
+            "C.\t半胱氨酸",
+            "D.\t异亮氨酸",
+            "E.\t丝氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t放射线引起细胞凋亡的主要机制是",
+        "options": [
+            "A.\t引起细胞膜死亡受体结构和功能改变",
+            "B.\t引起线粒体结构和功能改变",
+            "C.\t引起胞浆蛋白损害",
+            "D.\t引起核内DNA损害",
+            "E.\t引起细胞内生物大分子交联"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t细胞毒性T淋巴细胞引起靶细胞凋亡的机制是",
+        "options": [
+            "A.\t释放IFN",
+            "B.\t释放IL-2",
+            "C.\t释放粒酶",
+            "D.\t释放TNF",
+            "E.\t释放IL-6"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t艾滋病发生凋亡的细胞主要是",
+        "options": [
+            "A.\t中性粒细胞",
+            "B.\tCD4+细胞",
+            "C.\tCD8+细胞",
+            "D.\tCD4+/CD8+细胞",
+            "E.\t巨噬细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t有关艾滋病时细胞毒性淋巴细胞发生凋亡的机 制下列哪一项是错误的？",
+        "options": [
+            "A.\t膜糖蛋白gpl20表达增高",
+            "B.\tFas基因表达上调",
+            "C.\t受感染的巨噬细胞分泌TNF增多",
+            "D.\tHIV破坏细胞DNA",
+            "E.\t受感染的淋巴细胞形成合胞体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t有关阿尔茨海默病的叙述下列哪一项是正确 的？",
+        "options": [
+            "A.\t神经元发生细胞性水肿",
+            "B.\t神经元内B-淀粉样蛋白沉积",
+            "C.\t胆碱能神经元异常增多",
+            "D.\t抗氧化剂治疗无效",
+            "E.\t钙拮抗剂治疗无效"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t糖皮质激素治疗自身免疫性疾病的机制是",
+        "options": [
+            "A.\t抑制体液和细胞免疫反应",
+            "B.\t抑制组织蛋白酶活性",
+            "C.\t抑制细胞免疫反应",
+            "D.\t保护溶酶体膜",
+            "E.\t抑制体液免疫反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t关于细胞凋亡与坏死的区别，下列哪项是错误 的？",
+        "options": [
+            "A.\t细胞凋亡是一个被动过程，细胞坏死则是一个主 动过程",
+            "B.\t细胞凋亡时，DNA片段化，电泳呈“梯”状条 带；细胞坏死时，DNA弥散性降解，电泳呈均一片 状",
+            "C.\t细胞凋亡时，胞膜与细胞器相对完整；细胞坏死 时，细胞结构全部溶解",
+            "D.\t细胞凋亡过程中有新蛋白的合成，细胞坏死过程 中无新蛋白合成",
+            "E.\t细胞凋亡时局部无炎症反应，细胞坏死时局部有 炎症反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t细胞凋亡不足参入下列哪种疾病的发生？",
+        "options": [
+            "A.\t心肌缺血",
+            "B.\t肿瘤",
+            "C.\t阿尔茨海默病",
+            "D.\t缺血-再灌注损伤",
+            "E.\t艾滋病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 27
+    }
+]

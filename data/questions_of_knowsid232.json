@@ -1,0 +1,1094 @@
+[
+    {
+        "question_text": "1.某病人，男性，45岁，肝硬化2年，入院后做靛氰绿（ICG）潴留率试验，有关ICG的临床意义下列哪项不正确？",
+        "options": [
+            "A.潴留率增加不能代表肝脏灭活功能减退",
+            "B.结果正常表示肝脏染料排泌功能正常",
+            "C.肝硬化病人潴留率往往增加",
+            "D.ICG不是鉴别肝硬化与肝癌的敏感试验",
+            "E.ICG是鉴别肝细胞性与胆汁淤积性黄疸的有效方法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 1
+    },
+    {
+        "question_text": "2.诊断急性肝炎或慢性肝炎活动期最敏感的试验项目为:",
+        "options": [
+            "A.血白蛋白电泳",
+            "B.A/G比值",
+            "C.转氨酶ALT",
+            "D.血清胆固醇酯",
+            "E.血清前白蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 2
+    },
+    {
+        "question_text": "3.需了解慢性肝病肝脏功能受阻程度时应选择:",
+        "options": [
+            "A.异常凝血酶原与甲胎蛋白",
+            "B.血白蛋白电泳与A/G",
+            "C.ALT/AST",
+            "D.碱性磷酸酶（ALP）",
+            "E.血清铜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 3
+    },
+    {
+        "question_text": "4.在判断血清转氨酶增高的临床意义时，哪种情况时错误的？",
+        "options": [
+            "A.急性病毒性肝炎时ALT明显增高",
+            "B.ALT增高是病毒性肝炎特异性指标",
+            "C.ALT是反映肝细胞坏死的最敏感的指标",
+            "D.慢性病毒性肝炎活动期ALT可轻度增高",
+            "E.肝硬化如有转氨酶的异常以AST>ALT居多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 4
+    },
+    {
+        "question_text": "5.反映胆汁淤滞的酶学标志中，下列哪项指标升高较为显著？",
+        "options": [
+            "A.ALT",
+            "B.AST",
+            "C.ALP",
+            "D.A/G",
+            "E.LDH"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项酶学检查能反应肝脏纤维化及程度？",
+        "options": [
+            "A.ALT",
+            "B.AST",
+            "C.ALP",
+            "D.GDH",
+            "E.MAO"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 6
+    },
+    {
+        "question_text": "7.反映肝细胞损伤最敏感的酶:",
+        "options": [
+            "A.ALT",
+            "B.AST",
+            "C.GGT",
+            "D.ALP",
+            "E.MAO"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 7
+    },
+    {
+        "question_text": "8.肝细胞核破裂时升高的酶是:",
+        "options": [
+            "A.GGT",
+            "B.ALT",
+            "C.ALP",
+            "D.LDH",
+            "E.AST"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列试验中，何者对诊断急性病毒性肝炎最为重要？",
+        "options": [
+            "A.碱性磷酸酶",
+            "B.血白蛋白电泳",
+            "C.丙氨酸氨基转移酶（ALT）",
+            "D.血清胆固醇",
+            "E.血清白蛋白/球蛋白比值（A/G）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 9
+    },
+    {
+        "question_text": "10.单胺氧化酶主要用于诊断:",
+        "options": [
+            "A.原发性肝癌",
+            "B.继发性肝癌",
+            "C.阻塞性黄疸",
+            "D.肝硬化",
+            "E.脂肪肝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 10
+    },
+    {
+        "question_text": "11.γ-谷氨酰转移酶存在于:",
+        "options": [
+            "A.肝细胞线粒体中",
+            "B.肝细胞内质网中",
+            "C.肝细胞核内",
+            "D.肝细胞高尔基器中",
+            "E.肝细胞毛细胆管侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 11
+    },
+    {
+        "question_text": "12.在急性无黄疸型肝炎时，下列哪一种酶的活力仍是正常的？",
+        "options": [
+            "A.ALT",
+            "B.LDH",
+            "C.γ-GT",
+            "D.AKP",
+            "E.AST"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项不符合肝细胞性黄疸的诊断？",
+        "options": [
+            "A.ALT、AST增高",
+            "B.尿胆红素（+），尿胆原（+）",
+            "C.周围血网织红细胞增高",
+            "D.非结合胆红素和结合胆红素均增高",
+            "E.急性肝炎黄疸高峰期尿胆原及粪胆原减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 13
+    },
+    {
+        "question_text": "14.有关碱性磷酸酶（ALP）的叙述，下列哪项是错误的？",
+        "options": [
+            "A.肝外胆道梗阻时ALP增高",
+            "B.肝癌发生局限性胆道阻塞时ALP不增高",
+            "C.骨骼疾病时ALP增高",
+            "D.肝细胞性黄疸时ALT明显增高而ALP轻度增高",
+            "E.胆汁淤积性黄疸时ALP明显增高而ALT轻度增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 14
+    },
+    {
+        "question_text": "15.某病人，男性，48岁，乏力、纳差5年余，下肢水肿2个月，面部毛细血管扩张，肝掌（+），体格检查:心肺无特殊，腹平软，肝肋下刚及，脾侧卧3cm，移动浊音（+），下肢凹陷性水肿，下列肝功能检查哪项对诊断帮助最大？",
+        "options": [
+            "A.总胆红素及结合胆红素",
+            "B.转氨酶（ALT、AST）",
+            "C.血清总蛋白及白蛋白",
+            "D.碱性磷酸酶",
+            "E.γ-谷氨酰转肽酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 15
+    },
+    {
+        "question_text": "16.ALT升高超过AST升高提示:",
+        "options": [
+            "A.心肌坏死",
+            "B.肝脏病变",
+            "C.骨骼肌病变",
+            "D.骨骼",
+            "E.肾脏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 16
+    },
+    {
+        "question_text": "17.天门冬酸氨基转移酶同功酶（ASTm）升高对下列哪种疾病的诊断最有意义？",
+        "options": [
+            "A.肝硬变",
+            "B.慢性肝炎",
+            "C.重症肝炎、肝坏死",
+            "D.肝癌",
+            "E.阻塞性黄疸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 17
+    },
+    {
+        "question_text": "18.Ⅲ型前胶原氨基末端、脯氨酰羟化酶、单氨氧化酶等三项主要是:",
+        "options": [
+            "A.反映肝纤维化较好的指标",
+            "B.反映急性肝炎较好的指标",
+            "C.反映胆汁淤积较好的指标",
+            "D.提示肝癌可能的指标",
+            "E.反映肝淤血最好的肝功能指标"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 18
+    },
+    {
+        "question_text": "19.碱性磷酸酶、总胆汁酸、总胆红素等三项主要是:",
+        "options": [
+            "A.反映肝纤维化较好的指标",
+            "B.反映急性肝炎较好的指标",
+            "C.反映胆汁淤积较好的指标",
+            "D.提示肝癌可能的指标",
+            "E.反映肝淤血最好的肝功能指标"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 19
+    },
+    {
+        "question_text": "20.丙氨酸氨基转移酶、天门冬氨酸氨基转移酶、总胆红素等三项主要是:",
+        "options": [
+            "A.反映肝纤维化较好的指标",
+            "B.反映急性肝炎较好的指标",
+            "C.反映胆汁淤积较好的指标",
+            "D.提示肝癌可能的指标",
+            "E.反映肝淤血最好的肝功能指标"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 20
+    },
+    {
+        "question_text": "21.γ-谷氨酰转移酶及其同工酶和碱性磷酸酶及其同工酶主要是:",
+        "options": [
+            "A.反映肝纤维化较好的指标",
+            "B.反映急性肝炎较好的指标",
+            "C.反映胆汁淤积较好的指标",
+            "D.提示肝癌可能的指标",
+            "E.反映肝淤血最好的肝功能指标"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 21
+    },
+    {
+        "question_text": "22.丙氨酸氨基转移酶和肝炎病毒标志物的检查，临床常用于:",
+        "options": [
+            "A.疑为急性病毒性肝炎可查",
+            "B.疑为慢性肝炎患者可查",
+            "C.健康人体格检查时可查",
+            "D.疑为肝豆状核变性可查",
+            "E.疑为先天性黄疸时可查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 22
+    },
+    {
+        "question_text": "23.血清总胆红素、非结合胆红素、结合胆红素、靛青绿滞留率等试验，临床常用于:",
+        "options": [
+            "A.疑为急性病毒性肝炎可查",
+            "B.疑为慢性肝炎患者可查",
+            "C.健康人体格检查时可查",
+            "D.疑为肝豆状核变性可查",
+            "E.疑为先天性黄疸时可查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 23
+    },
+    {
+        "question_text": "24.丙氨酸氨基转移酶、总胆汁酸、前白蛋白、肝炎病毒标志物等项目，临床常用于:",
+        "options": [
+            "A.疑为急性病毒性肝炎可查",
+            "B.疑为慢性肝炎患者可查",
+            "C.健康人体格检查时可查",
+            "D.疑为肝豆状核变性可查",
+            "E.疑为先天性黄疸时可查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 24
+    },
+    {
+        "question_text": "25.γ-谷氨酰转移酶、碱性磷酸酶、丙氨酸氨基转移酶、天门冬氨酸氨基转移酶血清蛋白含量及A/G比值、蛋白电泳等项目，临床常用于:",
+        "options": [
+            "A.疑为急性病毒性肝炎可查",
+            "B.疑为慢性肝炎患者可查",
+            "C.健康人体格检查时可查",
+            "D.疑为肝豆状核变性可查",
+            "E.疑为先天性黄疸时可查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 25
+    },
+    {
+        "question_text": "26.肝硬化病人常见的肝功能障碍，以下哪项正确？",
+        "options": [
+            "A.血胆固醇升高",
+            "B.血结合胆红素显著升高",
+            "C.血胆固醇酯升高",
+            "D.碱性磷酸酶升高",
+            "E.γ-球蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 26
+    },
+    {
+        "question_text": "27.急性病毒性肝炎时，首先检测的酶是:",
+        "options": [
+            "A.转氨酶",
+            "B.碱性磷酸酶",
+            "C.单胺氧化酶",
+            "D.乳酸脱氢酶",
+            "E.脯氨酰羟化酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 27
+    },
+    {
+        "question_text": "28.某患者，ATL400U/L、ALP280U/L、γ-GT120U/L，尿内尿胆原增高，尿胆红素阳性，应考虑该患者的病因是",
+        "options": [
+            "A.原发性肝癌",
+            "B.维发性肝癌",
+            "C.脂肪肝",
+            "D.急性病毒性肝炎",
+            "E.慢性肝炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 28
+    },
+    {
+        "question_text": "29.慢性活动性肝炎的实验室检查可出现:",
+        "options": [
+            "A.血清转氨酶活力反复/持续升高",
+            "B.白/球蛋白的比例明显异常",
+            "C.γ-球蛋白明显增高",
+            "D.血清胆红素长期/反复增高",
+            "E.以上都可能有改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 29
+    },
+    {
+        "question_text": "30.阻塞性黄疸时，除黄疸指数升高外，其特有的血清酶谱变化是:",
+        "options": [
+            "A.GOT活性升高",
+            "B.GPT活性升高",
+            "C.碱性磷酸酶（ALP）活性显著升高",
+            "D.LDH活性升高",
+            "E.醛缩酶活性升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 30
+    },
+    {
+        "question_text": "31.与肝纤维化有关的是:",
+        "options": [
+            "A.肝性脑病",
+            "B.黄疸",
+            "C.为肝移植时选择供肝的依据",
+            "D.肝豆状核变性",
+            "E.Ⅲ型前胶原氨基末端肽升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 31
+    },
+    {
+        "question_text": "32.与肝脏的胆红素代谢障碍有关的是:",
+        "options": [
+            "A.肝性脑病",
+            "B.黄疸",
+            "C.为肝移植时选择供肝的依据",
+            "D.肝豆状核变性",
+            "E.Ⅲ型前胶原氨基末端肽升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 32
+    },
+    {
+        "question_text": "33.与肝脏的铜代谢障碍有关的是:",
+        "options": [
+            "A.肝性脑病",
+            "B.黄疸",
+            "C.为肝移植时选择供肝的依据",
+            "D.肝豆状核变性",
+            "E.Ⅲ型前胶原氨基末端肽升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 33
+    },
+    {
+        "question_text": "34.利多卡因试验是:",
+        "options": [
+            "A.肝性脑病",
+            "B.黄疸",
+            "C.为肝移植时选择供肝的依据",
+            "D.肝豆状核变性",
+            "E.Ⅲ型前胶原氨基末端肽升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 34
+    },
+    {
+        "question_text": "35.血清TCHO增高可见于以下疾病，除了:",
+        "options": [
+            "A.冠心病",
+            "B.糖尿病",
+            "C.严重肝病",
+            "D.肾病综合征、类脂性肾病",
+            "E.长期高脂饮食"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 35
+    },
+    {
+        "question_text": "36.血氨升高见于:",
+        "options": [
+            "A.慢性肝炎",
+            "B.肝硬变早期",
+            "C.肝性脑病",
+            "D.慢性肾炎",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 36
+    },
+    {
+        "question_text": "37.测定血清总蛋白、白蛋白与球蛋白比值的临床意义是：",
+        "options": [
+            "A.了解糖代谢",
+            "B.了解脂肪代谢",
+            "C.了解蛋白代谢",
+            "D.了解核酸代谢",
+            "E.了解肝功能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 37
+    },
+    {
+        "question_text": "38.低蛋白血症是指血清总蛋白:",
+        "options": [
+            "A.<60g/L",
+            "B.<40g/L",
+            "C.<35g/L",
+            "D.<30g/L",
+            "E.<25g/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 38
+    },
+    {
+        "question_text": "39.高蛋白血症是指血清总蛋白:",
+        "options": [
+            "A.>35g/L",
+            "B.>45g/L",
+            "C.>55g/L",
+            "D.>60g/L",
+            "E.>80g/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 39
+    },
+    {
+        "question_text": "40.血清总蛋白和球蛋白增高见于:",
+        "options": [
+            "A.慢性活动性肝炎",
+            "B.应用免疫抑制剂",
+            "C.严重烧伤",
+            "D.急性出血",
+            "E.肾病综合症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 40
+    },
+    {
+        "question_text": "41.血清白蛋白减少、球蛋白增加主要见于下列哪种疾病？",
+        "options": [
+            "A.急性肝炎",
+            "B.肾病综合征",
+            "C.急性肾小球肾炎",
+            "D.肝硬化",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 41
+    },
+    {
+        "question_text": "42.关于血清白蛋白和球蛋白，下列哪种说法是错误的？",
+        "options": [
+            "A.白蛋白是由肝细胞制造的",
+            "B.白蛋白＜25g/L易产生水肿",
+            "C.A/G倒置是诊断肝硬化的特异指标",
+            "D.白蛋白的量与有功能肝细胞的数量呈正比",
+            "E.急性或局灶性肝损伤时A/G多正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 42
+    },
+    {
+        "question_text": "43.慢性肝脏疾病时，血清蛋白检查结果可出现:",
+        "options": [
+            "A.血清前白蛋白显著增高",
+            "B.甲胎蛋白持续显著增高",
+            "C.白蛋白减少，球蛋白增加",
+            "D.癌胎抗原显著增高",
+            "E.白蛋白和球蛋白均显著增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 43
+    },
+    {
+        "question_text": "44.肝硬化时，血清蛋白检查结果可出现:",
+        "options": [
+            "A.血清前白蛋白显著增高",
+            "B.甲胎蛋白持续性增高",
+            "C.白蛋白减少，球蛋白增高",
+            "D.异常凝血酶原增高",
+            "E.球蛋白减低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 44
+    },
+    {
+        "question_text": "45.肝硬化病人当血清白蛋白低于多少时可出现下肢水肿及腹腔积液？",
+        "options": [
+            "A.35g/L",
+            "B.30g/L",
+            "C.25g/L",
+            "D.40g/L",
+            "E.45g/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 45
+    },
+    {
+        "question_text": "46.肝硬化可见:",
+        "options": [
+            "A.血清白蛋白升高",
+            "B.血清球蛋白升高",
+            "C.血清白蛋白和球蛋白均降低",
+            "D.血清白蛋白和球蛋白均升高",
+            "E.血清白蛋白降低和球蛋白升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 46
+    },
+    {
+        "question_text": "47.类风湿关节炎可见:",
+        "options": [
+            "A.血清白蛋白升高",
+            "B.血清球蛋白升高",
+            "C.血清白蛋白和球蛋白均降低",
+            "D.血清白蛋白和球蛋白均升高",
+            "E.血清白蛋白降低和球蛋白升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 47
+    },
+    {
+        "question_text": "48.小于3岁的婴幼儿可见:",
+        "options": [
+            "A.血清白蛋白升高",
+            "B.血清球蛋白升高",
+            "C.血清白蛋白和球蛋白均降低",
+            "D.血清白蛋白和球蛋白均升高",
+            "E.血清白蛋白降低和球蛋白升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 48
+    },
+    {
+        "question_text": "49.急性失水常见:",
+        "options": [
+            "A.血清白蛋白升高",
+            "B.血清球蛋白升高",
+            "C.血清白蛋白和球蛋白均降低",
+            "D.血清白蛋白和球蛋白均升高",
+            "E.血清白蛋白降低和球蛋白升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列哪一项是肝脏清除胆固醇的主要方式？",
+        "options": [
+            "A.转变成类固醇",
+            "B.转变成维生素D",
+            "C.在肝细胞内转变成胆汁酸",
+            "D.合成低密度脂蛋白",
+            "E.合成甘油三酯"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 50
+    },
+    {
+        "question_text": "51.肝病患者，血浆胆固醇酯水平降低是因为:",
+        "options": [
+            "A.胆固醇酯酶活性增加",
+            "B.脂蛋白脂肪酶（LPL）活性增加",
+            "C.胆固醇（ch）合成减少",
+            "D.胆固醇酯分解加强",
+            "E.磷脂酰胆碱-胆固醇酰基转移酶（LCAT）活性下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 51
+    },
+    {
+        "question_text": "52.肝病变可引起下列蛋白质合成下降，例外的是:",
+        "options": [
+            "A.白蛋白",
+            "B.凝血因子Ⅱ，Ⅶ",
+            "C.凝因子Ⅸ",
+            "D.纤维蛋白原",
+            "E.γ-球蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 52
+    },
+    {
+        "question_text": "53.关于胆红素的正确叙述是:",
+        "options": [
+            "A.未结合胆红素能直接与重氮试剂反应",
+            "B.结合胆红素能直接与重氮试剂反应",
+            "C.尿中胆红素即为血中同一种胆红素",
+            "D.血中结合胆红素增加时，尿中三胆试验均呈阳性",
+            "E.尿胆元的增多与直接胆红素增高有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 53
+    },
+    {
+        "question_text": "54.肝内胆红素的代谢产物最多的是:",
+        "options": [
+            "A.双葡萄糖醛酸胆红素酯",
+            "B.单葡萄糖醛酸胆红素酯",
+            "C.胆红素硫酸酯",
+            "D.甘氨酸结合物",
+            "E.甲基结合物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 54
+    },
+    {
+        "question_text": "55.血浆胆红素以哪一种为主要的运输形式？",
+        "options": [
+            "A.胆红素-Y蛋白",
+            "B.胆红素-球蛋白",
+            "C.胆红素-白蛋白",
+            "D.胆红素-Z蛋白",
+            "E.游离胆红素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 55
+    },
+    {
+        "question_text": "56.血清胆红素测定的标本，必须避免阳光直接照射，以免结果降低，其原因是:",
+        "options": [
+            "A.胆红素氧化成胆绿素",
+            "B.胆红素分子构型改变",
+            "C.直接胆红素变成间接胆红素",
+            "D.胆红素分解",
+            "E.使血清颜色改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 56
+    },
+    {
+        "question_text": "57.隐性黄疸是指血清总胆红素:",
+        "options": [
+            "A.>17.1μmol/L",
+            "B.17.1-34.2μmol/L",
+            "C.>34.2μmol/L",
+            "D.10.0-20.0μmol/L",
+            "E.30.0-40.0μmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 57
+    },
+    {
+        "question_text": "58.隐性黄疸指:",
+        "options": [
+            "A.血清胆红素低于17.1μmol/L",
+            "B.非结合胆红素低于13.68μmol/L",
+            "C.血清胆红素低于34.2μmol/L",
+            "D.胆红素代谢正常",
+            "E.血清胆红素介于17.1-34.2μmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 58
+    },
+    {
+        "question_text": "59.轻度黄疸是指血清总胆红素:",
+        "options": [
+            "A.>34μmol/L",
+            "B.17.1-34.2μmol/L",
+            "C.34.2-171μmol/L",
+            "D.171-342μmol/L",
+            "E.>34.2μmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 59
+    },
+    {
+        "question_text": "60.中度黄疸是指血清总胆红素:",
+        "options": [
+            "A.>34μmol/L",
+            "B.17.1-34.2μmol/L",
+            "C.34.2-171μmol/L",
+            "D.171-342μmol/L",
+            "E.>34.2μmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 60
+    },
+    {
+        "question_text": "61.重度黄疸是指血清总胆红素:",
+        "options": [
+            "A.>34μmol/L",
+            "B.34-171μmol/L",
+            "C.171-342μmol/L",
+            "D.171-342μmol/L",
+            "E.>342μmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 61
+    },
+    {
+        "question_text": "62.非结合胆红素为65μmol/L，结合胆红素为12μmol/L，总胆汁酸为10.1μmol/L，最有可能为:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.溶血性贫血并黄疸",
+            "C.胆汁淤积型肝炎",
+            "D.Dubin-Johnson综合征",
+            "E.肝硬化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 62
+    },
+    {
+        "question_text": "63.溶血性黄疸的实验室检查表现为:",
+        "options": [
+            "A.血清TB增加，以UCB增加为主",
+            "B.血清CB与UCB均显著增加",
+            "C.血清TB增加，以CB增加为主",
+            "D.血清TB增加，CB减少",
+            "E.CB与UCB均减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 63
+    },
+    {
+        "question_text": "64.UCB为65μmol/L，CB为14μmol/L，该患者最有可能为:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.溶血性黄疸",
+            "C.淤胆性肝炎",
+            "D.胆石症",
+            "E.Rotor综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 64
+    },
+    {
+        "question_text": "65.溶血性黄疸时，胆红素代谢主要特点是:",
+        "options": [
+            "A.血清非结合胆红素增多",
+            "B.血清结合胆红素明显增多",
+            "C.粪胆原减少",
+            "D.尿胆红素阳性",
+            "E.尿胆原减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 65
+    },
+    {
+        "question_text": "66.下列关于溶血性黄疸的说法正确的是:",
+        "options": [
+            "A.总胆红素正常，结合胆红素升高",
+            "B.总胆红素升高，结合胆红素升高",
+            "C.总胆红素正常，游离胆红素升高",
+            "D.总胆红素升高，游离胆红素正常",
+            "E.总胆红素升高，结合胆红素正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 66
+    },
+    {
+        "question_text": "67.下列哪项不符合溶血性黄疸的诊断？",
+        "options": [
+            "A.以STB升高且非结合胆红素增高为主",
+            "B.外周血网织红细胞增高",
+            "C.骨髓中红系增生明显活跃",
+            "D.尿含铁血黄素（+）",
+            "E.尿胆红素（+）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 67
+    },
+    {
+        "question_text": "68.Gilbert综合征（体质性肝功能不良性黄疸）是由于:",
+        "options": [
+            "A.肝细胞对胆红素排泄障碍",
+            "B.肝细胞对胆红素转运障碍",
+            "C.肝细胞对胆红素结合障碍",
+            "D.超过肝脏对胆红素的处理能力",
+            "E.胆管炎症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 68
+    },
+    {
+        "question_text": "69.Crigler-Najjar综合征（先天性非梗阻性非溶血性黄疸）是由于:",
+        "options": [
+            "A.肝细胞对胆红素排泄障碍",
+            "B.肝细胞对胆红素转运障碍",
+            "C.肝细胞对胆红素结合障碍",
+            "D.超过肝脏对胆红素的处理能力",
+            "E.胆管炎症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 69
+    },
+    {
+        "question_text": "70.Dubin-Johnson综合征（慢性特发性黄疸）是由于:",
+        "options": [
+            "A.肝细胞对胆红素排泄障碍",
+            "B.肝细胞对胆红素转运障碍",
+            "C.肝细胞对胆红素结合障碍",
+            "D.超过肝脏对胆红素的处理能力",
+            "E.胆管炎症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 70
+    },
+    {
+        "question_text": "71.关于粪胆红素检查，错误的是:",
+        "options": [
+            "A.肠蠕动加快，粪胆红素呈强阳性",
+            "B.乳幼儿因肝脏细胞缺乏葡萄糖醛酸转移酶，粪胆红素阳性",
+            "C.粪胆素减少有助于胆道梗阻的诊断",
+            "D.粪胆原，粪胆素增加，有助于溶血性黄疸的诊断",
+            "E.胆红素还原为粪胆原、氧化为粪胆素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 71
+    },
+    {
+        "question_text": "72.溶血性黄疸时，下列何种结果是正确的？",
+        "options": [
+            "A.血中结合胆红素增多，尿中胆红素试验阳性",
+            "B.血中结合胆红素增多，尿中尿胆原增高",
+            "C.血中未结合胆红素增多，尿中尿胆原增高",
+            "D.血中未结合胆红素增多，尿中胆红素试验阳性",
+            "E.血中未结合胆红素增多，粪中粪胆元增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 72
+    },
+    {
+        "question_text": "73.患阻塞性黄疸时尿中胆红素:",
+        "options": [
+            "A.阴性",
+            "B.正常",
+            "C.增加",
+            "D.减少",
+            "E.不定"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 73
+    },
+    {
+        "question_text": "74.核性黄疸（Kernicterus）描述:",
+        "options": [
+            "A.胆红素在皮肤中存积产生黄疸",
+            "B.胆红素存积于巩膜引起“黄眼”",
+            "C.血清胆红素增高的黄疸颜色",
+            "D.新生儿脑组织中胆红素沉积",
+            "E.细胞核中胆红素淤积"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 74
+    },
+    {
+        "question_text": "75.阻塞性黄疸时，下列何种结果是正确的？",
+        "options": [
+            "A.血中结合胆红素增多，尿中尿胆原增高",
+            "B.血中结合胆红素增多，尿中胆红素阳性",
+            "C.血中未结合胆红素增多，尿中尿胆原增高",
+            "D.血中未结合胆红素增多，尿中胆红素阳性",
+            "E.血肿结合胆红素增多，粪中粪胆元增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 75
+    },
+    {
+        "question_text": "76.尿胆原减少或缺如见于:",
+        "options": [
+            "A.胆道梗阻",
+            "B.肝细胞受损",
+            "C.溶血",
+            "D.内出血",
+            "E.心功能衰竭"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 76
+    },
+    {
+        "question_text": "77.某病人，男性，47岁，有肝硬化1年，因腹胀，纳差月余就诊，GI疑为胃癌，为确诊应选择下列哪项检查",
+        "options": [
+            "A.肝功能试验",
+            "B.粪隐血试验",
+            "C.纤维胃镜检查加病变活组织检查",
+            "D.癌胚抗原（CEA）检测",
+            "E.上腹CT"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 77
+    },
+    {
+        "question_text": "78.在血清总胆红素（STB）测定中，隐性黄疸指",
+        "options": [
+            "A.STB~1.71-17.1μmol/L",
+            "B.STB~-171-342μmol/L",
+            "C.STB-~17.1-34.2μmol/L",
+            "D.STB-~1.71-3.42μmol/L",
+            "E.STB-~34.2-171μmol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 78
+    }
+]

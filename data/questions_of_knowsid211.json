@@ -1,0 +1,156 @@
+[
+    {
+        "question_text": "1.影响红细胞沉降率的最主要因素是：",
+        "options": [
+            "A.电解质",
+            "B.血浆中大分子物质",
+            "C.淋巴细胞",
+            "D.白细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 1
+    },
+    {
+        "question_text": "2.血沉增快的主要原因是：",
+        "options": [
+            "A.红细胞减少",
+            "B.血中白蛋白增高",
+            "C.细菌感染",
+            "D.发热",
+            "E.血中γ-球蛋白增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 2
+    },
+    {
+        "question_text": "3.成年人红细胞沉降率（魏氏法）的正常参考范围是：",
+        "options": [
+            "A.男性0-5mm/h，女性0-10mm/h",
+            "B.男性0-10mm/h，女性0-15mm/h",
+            "C.男性0-15mm/h，女性0-20mm/h",
+            "D.男性0-20mm/h，女性0-25mm/h",
+            "E.男性0-25mm/h，女性0-30mm/h"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于红细胞沉降率的描述下列哪项是错误的？",
+        "options": [
+            "A.可作为诊断某些疾病的特异性检查方法",
+            "B.可作良性和恶性肿瘤的鉴别参考",
+            "C.可观察结核病变的活动与否",
+            "D.红细胞沉降率减慢的临床意义较小",
+            "E.很多疾病都可以引起红细胞沉降率增快"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列疾病除了哪项之外血沉均增快？",
+        "options": [
+            "A.多发性骨髓瘤",
+            "B.肝癌",
+            "C.活动性肺结核",
+            "D.风湿热",
+            "E.真性红细胞增多症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 5
+    },
+    {
+        "question_text": "6.红细胞沉降率对下列哪项无帮助？",
+        "options": [
+            "A.鉴别良性、恶性肿瘤",
+            "B.观察风湿病病情变化",
+            "C.鉴别心肌梗死和心绞痛",
+            "D.组织损伤坏死",
+            "E.炎症病因检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 6
+    },
+    {
+        "question_text": "7.有关病理性血沉增快的疾病，下列哪项不正确？",
+        "options": [
+            "A.心绞痛",
+            "B.动脉粥样硬化",
+            "C.恶性肿瘤",
+            "D.大手术后",
+            "E.活动性肺结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 7
+    },
+    {
+        "question_text": "8.血沉增快可见于：",
+        "options": [
+            "A.心绞痛",
+            "B.血液浓缩",
+            "C.活动性结核",
+            "D.真性红细胞增多症",
+            "E.良性肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 8
+    },
+    {
+        "question_text": "9.血沉增快见于以下疾病，但除了：",
+        "options": [
+            "A.多发性骨髓瘤",
+            "B.妊娠期",
+            "C.系统性红斑狼疮",
+            "D.真性红细胞增多症",
+            "E.严重贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪项不会引起红细胞沉降率减慢？",
+        "options": [
+            "A.血液浓缩",
+            "B.纤维蛋白原含量严重减低",
+            "C.高球蛋白血症",
+            "D.真性红细胞增多症",
+            "E.球形红细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 10
+    },
+    {
+        "question_text": "11.以下除哪个外均可引起血沉增快？",
+        "options": [
+            "A.恶性肿瘤",
+            "B.高胆固醇血症",
+            "C.红细胞增多症",
+            "D.高球蛋白血症",
+            "E.贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 11
+    }
+]

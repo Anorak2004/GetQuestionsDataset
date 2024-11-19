@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.下列属于动力性咽下困难的病因的是:",
+        "options": [
+            "A.食管内异物",
+            "B.食管平滑肌瘤",
+            "C.甲状腺极度肿大",
+            "D.贲门失迟缓",
+            "E.食管裂孔疝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.动力性咽下困难最常见的原因是:",
+        "options": [
+            "A.食管癌",
+            "B.咽喉壁包块",
+            "C.延髓麻痹",
+            "D.主动脉瘤",
+            "E.食管下端粘膜环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.食管癌时的主要症状是:",
+        "options": [
+            "A.只存在机械性咽下困难",
+            "B.只存在动力性咽下困难",
+            "C.主要是动力性咽下困难，可伴随机械性咽下困难",
+            "D.主要是机械性咽下困难，可伴随动力性咽下困难",
+            "E.不存在机械性咽下困难或动力性咽下困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.贲门失迟缓症是由下列哪一项引起？",
+        "options": [
+            "A.肌丛内神经节细胞减弱",
+            "B.延髓麻痹",
+            "C.食管平滑肌痉挛",
+            "D.食管平滑肌收缩无力",
+            "E.食管异常收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.狂犬病所致咽下困难是由下列哪项引起？",
+        "options": [
+            "A.食管异常收缩",
+            "B.肌痉挛",
+            "C.延髓麻痹",
+            "D.肌丛内神经节细胞减弱",
+            "E.食管平滑肌收缩无力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.食管具有一定弹性，正常时管腔可扩张至:",
+        "options": [
+            "A.6cm",
+            "B.5cm",
+            "C.4cm",
+            "D.3cm",
+            "E.2cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.以下都属于以机械性咽下困难为主的疾病，除了:",
+        "options": [
+            "A.食管裂孔疝",
+            "B.外压性狭窄",
+            "C.食管狭窄",
+            "D.食管异物",
+            "E.重症肌无力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.以下都属于以动力性咽下困难为主的疾病，除了:",
+        "options": [
+            "A.反流性食管炎",
+            "B.贲门失迟缓症",
+            "C.干燥综合征",
+            "D.重症肌无力",
+            "E.缺铁性咽下困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.食管管腔扩张直径属于下列哪一项时，必然出现咽下困难？",
+        "options": [
+            "A.＜4cm",
+            "B.＜2.5cm",
+            "C.＜2cm",
+            "D.＜1.5cm",
+            "E.＜1.3cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.咽下困难病程较短，呈进行性经过，半年内从干食发噎到半流质、流质亦难咽下，多见于:",
+        "options": [
+            "A.食管癌",
+            "B.食管痉挛",
+            "C.反流性食管炎",
+            "D.吞咽麻痹",
+            "E.食管外压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.咽下困难不重，伴有反食、烧心、胸痛等症状的多见于:",
+        "options": [
+            "A.食管平滑肌瘤",
+            "B.反流性食管炎",
+            "C.贲门失迟缓",
+            "D.食管癌",
+            "E.食管脂肪瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.恶性肿瘤引起的咽下困难多伴有:",
+        "options": [
+            "A.流延、恶心和呕吐，呕吐物带有发酵的臭味",
+            "B.餐后或晚上出现呛咳",
+            "C.贫血、消瘦，呈进行性经过",
+            "D.呼吸困难、咳喘及哮鸣音",
+            "E.构音不良、发音含糊、声嘶、呛咳、流延等"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

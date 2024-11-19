@@ -1,0 +1,1668 @@
+[
+    {
+        "question_text": "1.关于问诊内容的描述，错误的是：",
+        "options": [
+            "A.问诊又称为病史采集",
+            "B.问诊时一般应从主诉开始",
+            "C.问诊时应使用特定意义的医学术语",
+            "D.问诊时应及时核实患者陈述中有疑惑之处",
+            "E.问诊是医生通过与患者的交谈而获得病史资料的过程"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 1
+    },
+    {
+        "question_text": "2.在问诊方法上，下列哪项是不正确的？",
+        "options": [
+            "A.最好让患者自己叙述",
+            "B.医生必须耐心，态度和蔼",
+            "C.为获得完整、满意的资料，询问时可以给予必要的提示，以启发患者的思考",
+            "D.对患者不能进行套问和逼问",
+            "E.对危重患者问诊应简要，体格检查要有重点"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 2
+    },
+    {
+        "question_text": "3.正确的询问方式应该是:",
+        "options": [
+            "A.你心前区疼痛向左肩、左前臂内侧放射吗",
+            "B.你是不是午后低热",
+            "C.发热前有寒战吗",
+            "D.你腹痛时还有别的什么不舒服",
+            "E.你头痛时伴有呕吐吗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 3
+    },
+    {
+        "question_text": "4.问诊中应遵循的最主要原则是:",
+        "options": [
+            "A.重点突出，首先用重点选择性提问获得重要资料",
+            "B.病人讲述容易离题万里，因此要由针对性地直接提问获取关键资料",
+            "C.要遵循从一般到特殊的提问进程",
+            "D.避免重复性提问，以免患者产生不信任感",
+            "E.避免诱导性提问"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 4
+    },
+    {
+        "question_text": "5.关于问诊内容不确切的是:",
+        "options": [
+            "A.首先从一般项目问起",
+            "B.主诉是描述主要症状、体征加时间",
+            "C.现病史不是描述病情演变全过程",
+            "D.既往史是指过去所患疾病",
+            "E.诊治过程可以忽略"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 5
+    },
+    {
+        "question_text": "6.危重病人问诊应该是:",
+        "options": [
+            "A.详细询问病史",
+            "B.问诊要简明扼要",
+            "C.避免用医学术语",
+            "D.避免诱导和暗示",
+            "E.先抢救后问诊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 6
+    },
+    {
+        "question_text": "7.对晚期病人不正确的问诊是:",
+        "options": [
+            "A.对诊断、预后的回答要中肯",
+            "B.不要与其他医生的回答发生矛盾",
+            "C.可适当做出许诺",
+            "D.问诊时脚不停地敲击底板",
+            "E.表示愿在床旁多待些时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列何种问诊技巧是不正确的？",
+        "options": [
+            "A.你为什么来看病",
+            "B.你曾经有过类似的腹痛吗",
+            "C.是不是咳铁锈色痰",
+            "D.除了胸痛外还有什么地方痛吗",
+            "E.腹痛有多久了"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 8
+    },
+    {
+        "question_text": "9.对精神病人的问诊应是:",
+        "options": [
+            "A.问诊要简明扼要",
+            "B.和病人亲切交谈后问诊",
+            "C.边询问边观察",
+            "D.从病人本人获得资料",
+            "E.从家属或相关人员中获得资料"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 9
+    },
+    {
+        "question_text": "10.问诊时应避免下列哪项？",
+        "options": [
+            "A.一般由主述开始",
+            "B.先由简易问题开始",
+            "C.先进行过渡性交流",
+            "D.医生的态度要诚恳友善",
+            "E.使用特定意义的医学术语"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列属于诱导性提问的是:",
+        "options": [
+            "A.“您感觉哪里不舒服？”",
+            "B.“你上腹痛时向右肩放射吗？”",
+            "C.“您什么时候开始发病的？”",
+            "D.“多在什么情况下发病？”",
+            "E.“您哪里感到疼痛？”"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪句话属诱导性问诊？",
+        "options": [
+            "A.“您感到哪里不舒服？”",
+            "B.“病了多久？”",
+            "C.“您腹痛的部位在何处？”",
+            "D.“您是否下午发热？”",
+            "E.“您病后用过什么药物治疗？"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项描述是诱导性提问？",
+        "options": [
+            "A.“您哪里疼痛？”",
+            "B.“您感觉哪儿不舒服？",
+            "C.“多在什么情况下发病的？”",
+            "D.“您起病有什么原因？”",
+            "E.“您上腹痛时向右肩放射吗？”"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列问话中，哪项属于选择性提问？",
+        "options": [
+            "A.“在其他医院看过吗？",
+            "B.“疼痛多久了？”",
+            "C.“疼痛是阵发性还是持续性？”",
+            "D.“疼痛在什么情况下容易发生？”",
+            "E.“有什么办法减轻疼痛？”"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪项属于“直接选择性提问”？",
+        "options": [
+            "A.“你哪里不舒服？”",
+            "B.“你曾有过严重的头痛吗？”",
+            "C.“服用这种药物后你的头痛有什么变化？”",
+            "D.“你的头痛是一种什么样的头痛呢？”",
+            "E.“请告诉我头痛的部位。”"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 15
+    },
+    {
+        "question_text": "16.问诊时，下列哪句话欠妥？",
+        "options": [
+            "A.“病了多久？",
+            "B.“您什么情况下疼痛加重？",
+            "C.“您的大便发黑吗？”",
+            "D.“您感到哪里不舒服？”",
+            "E.“您病后用过什么药治疗？”"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 16
+    },
+    {
+        "question_text": "17.问诊时，下列哪句话不妥当？",
+        "options": [
+            "A.“您的腹痛像什么样？”",
+            "B.“您病后到哪里就诊过？”",
+            "C.“您腹痛的部位在何处？”",
+            "D.“您是否下午发热？”",
+            "E.“请谈谈您起病的情况。”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项是属于暗示性提问或逼问？",
+        "options": [
+            "A.“您哪儿不舒服？”",
+            "B.“您腹痛有多久？”",
+            "C.“您什么时间开始起病的？”",
+            "D.“您的大便是黑色的吗？”",
+            "E.“您曾经有过类似的腹痛吗？”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 18
+    },
+    {
+        "question_text": "19.医师正确的询问方法应是:",
+        "options": [
+            "A.“你心前区疼痛向左肩、左前臂内侧放射吗？”",
+            "B.“你是不是下午发热？”",
+            "C.“发热前有寒战吗？”",
+            "D.“你腹痛时还有别的什么不舒服吗？”",
+            "E.“你头痛时伴有呕吐吗？”"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 19
+    },
+    {
+        "question_text": "20.属于医学术语的是:",
+        "options": [
+            "A.心慌",
+            "B.心悸",
+            "C.肚子痛",
+            "D.拉肚子",
+            "E.抽烟"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 20
+    },
+    {
+        "question_text": "21.问诊时遇到多话与唠叨的病人应:",
+        "options": [
+            "A.打断病人说话",
+            "B.中间插话",
+            "C.让病人一旁休息",
+            "D.适当启发和引导",
+            "E.限制病人说话时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 21
+    },
+    {
+        "question_text": "22.“你吃了这种药后好多了吧？”属于:",
+        "options": [
+            "A.直接提问",
+            "B.开放性提问",
+            "C.诱导性提问",
+            "D.诘难性提问",
+            "E.连续性提问"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 22
+    },
+    {
+        "question_text": "23.“你的头痛是钝痛，还是锐痛？”属于:",
+        "options": [
+            "A.直接提问",
+            "B.开放性提问",
+            "C.诱导性提问",
+            "D.诘难性提问",
+            "E.连续性提问"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 23
+    },
+    {
+        "question_text": "24.“你这次来哪里不舒服？”属于:",
+        "options": [
+            "A.直接提问",
+            "B.开放性提问",
+            "C.诱导性提问",
+            "D.诘难性提问",
+            "E.连续性提问"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 24
+    },
+    {
+        "question_text": "25.“你曾经换过肝炎吗？”属于:",
+        "options": [
+            "A.直接提问",
+            "B.开放性提问",
+            "C.诱导性提问",
+            "D.诘难性提问",
+            "E.连续性提问"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 25
+    },
+    {
+        "question_text": "26.完整的问诊内容应包括:",
+        "options": [
+            "A.一般项目、主诉、现病史、既往史、个人史、月经婚育史、家族史",
+            "B.一般项目、主诉、现病史、系统回顾、个人史、月经婚育史、家族史",
+            "C.一般项目、主诉、现病史、既往史、系统回顾、个人史、月经史、家族史",
+            "D.一般项目、主诉、现病史、既往史、系统回顾、个人史、婚育史、家族史",
+            "E.一般项目、主诉、现病史、既往史、系统回顾、个人史、月经婚育史、家族史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 26
+    },
+    {
+        "question_text": "27.下列哪项不是问诊中一般项目的内容？",
+        "options": [
+            "A.姓名、性别",
+            "B.年龄、籍贯",
+            "C.出生地、住址",
+            "D.习惯、嗜好",
+            "E.民族、婚姻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 27
+    },
+    {
+        "question_text": "28.下列对“主诉”的描述，正确的是:",
+        "options": [
+            "A.患者心病后两年，加重2个月",
+            "B.活动后心慌气促5年，加重2个月",
+            "C.拉肚子、气短、头晕、出汗咳嗽",
+            "D.拉肚子3天，烧心、反酸半年",
+            "E.咳嗽、周身不适20天，加重伴脚痛，脚肿3天"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 28
+    },
+    {
+        "question_text": "29.主诉的含义是:",
+        "options": [
+            "A.指患者的主要症状或体征及其就诊时间",
+            "B.指患者的主要症状或体征及其严重程度",
+            "C.指患者的主要症状或体征及其持续发作频率",
+            "D.指患者的主要症状或体征及其持续时间",
+            "E.指患者的主要症状或体征及其时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 29
+    },
+    {
+        "question_text": "30.主诉的含义下列哪项正确？",
+        "options": [
+            "A.指患者的主要症状或体征及其用过的治疗",
+            "B.指患者的主要症状或体征及其持续的时间",
+            "C.指患者的主要症状或体征的特点",
+            "D.指患者的主要症状或体征及其看病的续时间",
+            "E.指患者的主要症状或体征及其起病的时间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 30
+    },
+    {
+        "question_text": "31.以下哪项属于主诉内容？",
+        "options": [
+            "A.子女的健康状况",
+            "B.尿频，尿急，尿痛3天",
+            "C.曾接种卡介苗",
+            "D.治疗经过，重要的阴性症状",
+            "E.冶游史"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列关于主诉的叙述错误的是:",
+        "options": [
+            "A.患者感受最主要的痛苦",
+            "B.最明显的症状或体征",
+            "C.本次就诊最主要的原因",
+            "D.主诉可能并非现症的主要表现",
+            "E.医生患者的诊断用语"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列关于主诉的描述，不正确的是:",
+        "options": [
+            "A.可反映患病的时间",
+            "B.本次就诊最主要的原因",
+            "C.可初步反映病情轻重与缓急",
+            "D.绝对不可出现诊断用语",
+            "E.可反映患者最主要的症状或最明显的体征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列主诉中，正确的是:",
+        "options": [
+            "A.高血压病10年，神志不清2小时",
+            "B.寒战、高热、咳嗽、咯脓痰2天",
+            "C.反复上腹疼痛，突然呕血一天",
+            "D.下肢水肿2天，慢性咳嗽10年",
+            "E.心累、气短5年，右上腹疼痛2周，下肢麻木2天"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 34
+    },
+    {
+        "question_text": "35.对主诉的正确理解是:",
+        "options": [
+            "A.症状加持续时间",
+            "B.体征加持续时间",
+            "C.病名加持续时间",
+            "D.症状和体征加持续时间",
+            "E.症状和体征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 35
+    },
+    {
+        "question_text": "36.关于主诉的描述下列哪项是错误的？",
+        "options": [
+            "A.病人最主要最痛苦的感受",
+            "B.病人最明显的症状或体征",
+            "C.医生对病人的诊断用语",
+            "D.病人本次就诊的原因",
+            "E.病人最主要的痛苦及时间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列主诉的描述，正确的是:",
+        "options": [
+            "A.发现左颈部无痛性肿块1周",
+            "B.喉咙痛2天伴发烧1天",
+            "C.心脏病2年，加重1周",
+            "D.糖尿病1年",
+            "E.咽痛，高热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪项主诉正确？",
+        "options": [
+            "A.咳嗽三天，咯血1小时",
+            "B.发热两天，头痛两天",
+            "C.肺结核两个月",
+            "D.肝大半年、咳嗽两天",
+            "E.发热伴头痛数日"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 38
+    },
+    {
+        "question_text": "39.受凉感冒后咳嗽、咯痰、紧张、劳累、情绪激动时心绞痛等，属于:",
+        "options": [
+            "A.病因",
+            "B.诱因",
+            "C.起病情况",
+            "D.病情发展与演变",
+            "E.缓解或加剧的因素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列主诉，哪项最为确切？",
+        "options": [
+            "A.咽痛、高热、寒战、气短",
+            "B.右胸痛、咳嗽",
+            "C.胃溃疡3年，呕血1小时",
+            "D.活动后心慌气短2年，下肢水肿2周",
+            "E.2天来无诱因发热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列各项中合乎要求的主诉是:",
+        "options": [
+            "A.经常头痛、乏力、四肢麻木",
+            "B.反射性呕吐伴腹泻",
+            "C.气管炎10年",
+            "D.刺激性咳嗽",
+            "E.反复发作性上腹痛2年，加重3天"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 41
+    },
+    {
+        "question_text": "42.现病史是指:",
+        "options": [
+            "A.疾病的原因和诱因",
+            "B.疾病的发生、发展、和诊治过程",
+            "C.患者就诊的主要原因",
+            "D.疾病诊治过程",
+            "E.主要症状的特点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 42
+    },
+    {
+        "question_text": "43.现病史不包括:",
+        "options": [
+            "A.起病情况",
+            "B.主要症状的特点",
+            "C.病情的发展与演变",
+            "D.凡与现病直接有关的病史，虽年代久远亦应包括在内",
+            "E.与本病无关的药物过敏史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪项属于现病史内容？",
+        "options": [
+            "A.至今未能痊愈的疾病（如糖尿病）",
+            "B.有无药物过敏",
+            "C.烟酒嗜好",
+            "D.系统回顾",
+            "E.工作条件"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 44
+    },
+    {
+        "question_text": "45.下列哪项属于现病史内容？",
+        "options": [
+            "A.社会经历",
+            "B.职业及工作条件",
+            "C.习惯与嗜好",
+            "D.生育史",
+            "E.治疗经过"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 45
+    },
+    {
+        "question_text": "46.以下哪项属于现病史？",
+        "options": [
+            "A.子女的健康状况",
+            "B.尿频，尿急，尿痛4天",
+            "C.曾接种卡介苗",
+            "D.治疗经过，重要的阴性症状",
+            "E.冶游史"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 46
+    },
+    {
+        "question_text": "47.属现病史内容的是:",
+        "options": [
+            "A.咳嗽，发热3天",
+            "B.青霉素80万u一日3次肌注治疗3天",
+            "C.三年前因急性阑尾炎行阑尾切除",
+            "D.每日饮酒100ml",
+            "E.28岁结婚，配偶健康"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 47
+    },
+    {
+        "question_text": "48.下列不属于现病史的是:",
+        "options": [
+            "A.起病时的主要症状",
+            "B.病情演变",
+            "C.病因诱因",
+            "D.精神状态、体力、饮食、大小便情况",
+            "E.体检发现的重要体征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列各项中不属于现病史的是:",
+        "options": [
+            "A.一般情况",
+            "B.主要症状",
+            "C.习惯与嗜好",
+            "D.诊断经过",
+            "E.伴随症状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列关于现病史的说法哪项是正确的:",
+        "options": [
+            "A.疾病的原因和诱因",
+            "B.主要症状的特点",
+            "C.病人就诊的主要原因",
+            "D.疾病诊治经过",
+            "E.疾病的发生、发展和演变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 50
+    },
+    {
+        "question_text": "51.下列哪项不属于现病史内容:",
+        "options": [
+            "A.病情的发展与演变",
+            "B.伴随症状",
+            "C.诊疗经过",
+            "D.系统查询",
+            "E.病程中的一般情况"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列哪项不是现病史:",
+        "options": [
+            "A.起病情况",
+            "B.发病过程中的相关阴性资料",
+            "C.病情的发展与演变",
+            "D.患病后在外院的诊疗情况",
+            "E.职业、劳动环境及毒物接触情况"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 52
+    },
+    {
+        "question_text": "53.以下哪项不属于“现病史七要素”？",
+        "options": [
+            "A.起病地点、环境",
+            "B.疾病诱发因素",
+            "C.病情演变过程",
+            "D.阳性或阴性伴随症状",
+            "E.药物、食物过敏情况"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列哪项是有关现病史的内容？",
+        "options": [
+            "A.手术史",
+            "B.外伤史",
+            "C.过敏史",
+            "D.曾经患过的疾病",
+            "E.病因与诱因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 54
+    },
+    {
+        "question_text": "55.以下哪项属于既往史？",
+        "options": [
+            "A.子女的健康状况",
+            "B.尿频，尿急，尿痛5天",
+            "C.曾接种卡介苗",
+            "D.治疗经过，重要的阴性症状",
+            "E.冶游史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列各项中属于既往史的是:",
+        "options": [
+            "A.社会经历",
+            "B.职业及工作条件",
+            "C.习惯与嗜好",
+            "D.冶游史",
+            "E.过敏史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 56
+    },
+    {
+        "question_text": "57.下列哪项属于既往史的内容？",
+        "options": [
+            "A.病因与诱因",
+            "B.诊疗经过",
+            "C.预防注射",
+            "D.有无不洁性交史",
+            "E.工业毒物接触史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 57
+    },
+    {
+        "question_text": "58.下列哪项不属于既往史？",
+        "options": [
+            "A.传染病史",
+            "B.外伤手术史",
+            "C.预防注射史",
+            "D.过敏史",
+            "E.血吸虫疫水接触史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列哪项属于既往史的内容？",
+        "options": [
+            "A.发病时间",
+            "B.预防注射",
+            "C.血吸虫疫水接触史",
+            "D.病因与诱因",
+            "E.工业毒物接触史"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 59
+    },
+    {
+        "question_text": "60.既往史不包括下列哪一项？",
+        "options": [
+            "A.传染病史及接触史",
+            "B.手术、外伤史",
+            "C.家族史、遗传病史",
+            "D.输血史",
+            "E.预防接种史及药物过敏史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 60
+    },
+    {
+        "question_text": "61.下列哪项属于既往史的内容？",
+        "options": [
+            "A.接触化工产品已20年",
+            "B.母健在，父死于脑出血",
+            "C.6个月前去过血吸虫流行区",
+            "D.10年前注射青霉素后过敏",
+            "E.人工流产2次及自然流产1次"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 61
+    },
+    {
+        "question_text": "62.下列哪一项不属于既往史内容？",
+        "options": [
+            "A.传染病史",
+            "B.外伤史",
+            "C.手术史",
+            "D.生长史",
+            "E.过敏史"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 62
+    },
+    {
+        "question_text": "63.下列除哪项外，均是采录“既往史”所要求的内容？",
+        "options": [
+            "A.过去健康情况",
+            "B.预防接种情况",
+            "C.传染病史",
+            "D.过敏史",
+            "E.是否到过传染病的流行地区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 63
+    },
+    {
+        "question_text": "64.属既往史内容的是:",
+        "options": [
+            "A.咳嗽，发热4天",
+            "B.青霉素80万u一日3次肌注治疗4天",
+            "C.三年前因急性阑尾炎行阑尾切除",
+            "D.每日饮酒100ml",
+            "E.29岁结婚，配偶健康"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 64
+    },
+    {
+        "question_text": "65.疑为风湿性心脏病，采集既往史，下列哪项对诊断有支持意义？",
+        "options": [
+            "A.游走性关节炎",
+            "B.肝炎",
+            "C.高血压",
+            "D.高血脂",
+            "E.过敏症状"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 65
+    },
+    {
+        "question_text": "66.下列哪项属于既往史？",
+        "options": [
+            "A.病因与诱因",
+            "B.预防注射",
+            "C.诊疗经过",
+            "D.工业毒物接触史",
+            "E.生活习惯"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 66
+    },
+    {
+        "question_text": "67.系统回顾重要性不包括:",
+        "options": [
+            "A.是问诊的内容之一",
+            "B.避免忽略或遗漏问诊内容",
+            "C.帮助医生短时间内了解病人其他系统尚存或痊愈的疾病",
+            "D.有助于了解病人的社会经历，职业及工作条件",
+            "E.了解本次患病与其他疾病的因果关系"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 67
+    },
+    {
+        "question_text": "68.下列哪项表现属于泌尿系统疾病的症状？",
+        "options": [
+            "A.眩晕、记忆力减退",
+            "B.情绪异常、睡眠障碍",
+            "C.恶心、呕吐、腹胀",
+            "D.尿量异常、夜尿增多",
+            "E.多饮、多尿、双手震额"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 68
+    },
+    {
+        "question_text": "69.下列哪一项与消化系统疾病问诊无关？",
+        "options": [
+            "A.有无食物、药物中毒史",
+            "B.有无腹痛、食欲及大便改变",
+            "C.有无体重、体力改变及其速度",
+            "D.有无饮酒嗜好及摄入量的多少",
+            "E.工作环境和居住条件"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 69
+    },
+    {
+        "question_text": "70.咳嗽、咯血、哮喘、呼吸困难、胸痛等属于哪个系统表现？",
+        "options": [
+            "A.循环系统",
+            "B.呼吸系统",
+            "C.消化系统",
+            "D.内分泌及代谢",
+            "E.神经系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 70
+    },
+    {
+        "question_text": "71.多汗、畏寒、多饮、双手震颤、色素沉着等，属于哪个系统的表现？",
+        "options": [
+            "A.循环系统",
+            "B.呼吸系统",
+            "C.消化系统",
+            "D.泌尿系统",
+            "E.内分泌系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 71
+    },
+    {
+        "question_text": "72.属循环系统问诊要点的是:",
+        "options": [
+            "A.咳嗽，胸痛，呼吸困难",
+            "B.活动后气急，心前区疼痛",
+            "C.多饮，多尿，多食，消瘦",
+            "D.尿频，尿急，尿痛，腰痛",
+            "E.皮肤苍白，头昏眼花"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 72
+    },
+    {
+        "question_text": "73.属泌尿系统问诊要点的是:",
+        "options": [
+            "A.咳嗽，胸痛，呼吸困难",
+            "B.活动后气急，心前区疼痛",
+            "C.多饮，多尿，多食，消瘦",
+            "D.尿频，尿急，尿痛，腰痛",
+            "E.皮肤苍白，头昏眼花"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 73
+    },
+    {
+        "question_text": "74.属消化系统问诊要点的是:",
+        "options": [
+            "A.头痛，记忆力减退，抽搐",
+            "B.腹痛，腹泻，恶心，吐",
+            "C.头昏眼花，虚弱，黏膜苍白",
+            "D.关节畸形，肌肉萎缩",
+            "E.耳聋耳鸣，眩晕"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 74
+    },
+    {
+        "question_text": "75.属神经系统问诊要点的是:",
+        "options": [
+            "A.头痛，记忆力减退，抽搐",
+            "B.腹痛，腹泻，恶心，吐",
+            "C.头昏眼花，虚弱，黏膜苍白",
+            "D.关节畸形，肌肉萎缩",
+            "E.耳聋耳鸣，眩晕"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 75
+    },
+    {
+        "question_text": "76.属血液系统问诊要点的是:",
+        "options": [
+            "A.尿急，尿频，尿痛，腰膝酸痛",
+            "B.多尿，多饮，多食，乏力",
+            "C.食欲减退，吞咽困难",
+            "D.皮肤出血点，瘀斑",
+            "E.端坐呼吸，血压增高，心累"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 76
+    },
+    {
+        "question_text": "77.属循环系统问诊要点的是:",
+        "options": [
+            "A.尿急，尿频，尿痛，腰膝酸痛",
+            "B.多尿，多饮，多食，乏力",
+            "C.食欲减退，吞咽困难",
+            "D.皮肤出血点，瘀斑",
+            "E.端坐呼吸，血压增高，心累"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 77
+    },
+    {
+        "question_text": "78.属运动系统问诊要点的是:",
+        "options": [
+            "A.乏力，显著肥胖或消瘦",
+            "B.感觉异常，瘫痪",
+            "C.定向力障碍，情绪异常",
+            "D.血压增高，下肢水肿",
+            "E.关节肿胀疼痛，活动受限"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 78
+    },
+    {
+        "question_text": "79.属神经系统问诊要点的是:",
+        "options": [
+            "A.乏力，显著肥胖或消瘦",
+            "B.感觉异常，瘫痪",
+            "C.定向力障碍，情绪异常",
+            "D.血压增高，下肢水肿",
+            "E.关节肿胀疼痛，活动受限"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 79
+    },
+    {
+        "question_text": "80.个人史不应询问:",
+        "options": [
+            "A.药物过敏史",
+            "B.社会经历",
+            "C.职业与工种",
+            "D.冶游史",
+            "E.吸毒史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 80
+    },
+    {
+        "question_text": "81.下列各项中属于个人史的是:",
+        "options": [
+            "A.曾患过的疾病",
+            "B.外伤手术",
+            "C.预防注射",
+            "D.过敏史",
+            "E.冶游史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 81
+    },
+    {
+        "question_text": "82.下列哪项不包括在个人史？",
+        "options": [
+            "A.社会经历",
+            "B.职业及工作条件",
+            "C.婚外性生活史",
+            "D.药敏史",
+            "E.习惯于嗜好"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 82
+    },
+    {
+        "question_text": "83.以下哪项属于个人史？",
+        "options": [
+            "A.子女的健康状况",
+            "B.尿频，尿急，尿痛6天",
+            "C.曾接种卡介苗",
+            "D.治疗经过，重要的阴性症状",
+            "E.冶游史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 83
+    },
+    {
+        "question_text": "84.下列哪项不属于个人史内容？",
+        "options": [
+            "A.受教育程度",
+            "B.业余爱好",
+            "C.工业毒物接触情况",
+            "D.饮食的规律",
+            "E.计划生育状况"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 84
+    },
+    {
+        "question_text": "85.下列哪项不属于个人史？",
+        "options": [
+            "A.出生地",
+            "B.居留地",
+            "C.工作条件",
+            "D.子女数目",
+            "E.业余爱好"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 85
+    },
+    {
+        "question_text": "86.婚姻史包括:",
+        "options": [
+            "A.妊娠与生育次数",
+            "B.人工或自然流产次数",
+            "C.未婚或已婚年龄",
+            "D.月经周期与经期天数",
+            "E.计划生育情况"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 86
+    },
+    {
+        "question_text": "87.家族史不包括:",
+        "options": [
+            "A.双亲的健康与疾病的情况",
+            "B.兄弟姐妹的健康与疾病的情况",
+            "C.配偶的健康与疾病的情况",
+            "D.已故的直系亲属的死因",
+            "E.父母双方亲属有无遗传性疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 87
+    },
+    {
+        "question_text": "88.下列哪项不是家族史的内容？",
+        "options": [
+            "A.父母健康状况",
+            "B.兄弟姐妹健康状况",
+            "C.爱人健康状况",
+            "D.子女健康状况",
+            "E.有无与遗传有关的疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 88
+    },
+    {
+        "question_text": "89.以下哪项属于家族史？",
+        "options": [
+            "A.子女的健康状况",
+            "B.尿频，尿急，尿痛7天",
+            "C.曾接种卡介苗",
+            "D.治疗经过，重要的阴性症状",
+            "E.冶游史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 89
+    },
+    {
+        "question_text": "90.哪些疾病与家族史中的遗传有关？",
+        "options": [
+            "A.白血病",
+            "B.白化病",
+            "C.心肌梗死",
+            "D.慢性支气管炎",
+            "E.慢性肾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 90
+    },
+    {
+        "question_text": "91.下列哪项不是与遗传有关的疾病？",
+        "options": [
+            "A.血友病",
+            "B.白化病",
+            "C.糖尿病",
+            "D.精神病",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 91
+    },
+    {
+        "question_text": "92.病史的核心是:",
+        "options": [
+            "A.既往史",
+            "B.主诉",
+            "C.现病史",
+            "D.家族史",
+            "E.系统回顾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 92
+    },
+    {
+        "question_text": "93.患者配偶的健康状况应写入:",
+        "options": [
+            "A.现病史",
+            "B.家族史",
+            "C.系统回顾",
+            "D.个人史",
+            "E.一般项目"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 93
+    },
+    {
+        "question_text": "94.患者就诊的最主要原因称为:",
+        "options": [
+            "A.主诉",
+            "B.现病史",
+            "C.个人史",
+            "D.症状",
+            "E.体征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 94
+    },
+    {
+        "question_text": "95.问诊时的“病情的发展与演变”属于:",
+        "options": [
+            "A.主诉",
+            "B.现病史",
+            "C.既往史",
+            "D.个人史",
+            "E.一般项目"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 95
+    },
+    {
+        "question_text": "96.“发热、左胸痛、咳嗽4天”的描述属于:",
+        "options": [
+            "A.主诉",
+            "B.现病史",
+            "C.既往史",
+            "D.个人史",
+            "E.一般项目"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 96
+    },
+    {
+        "question_text": "97.问诊时的“主要症状特点”属于:",
+        "options": [
+            "A.一般项目",
+            "B.现病史",
+            "C.既往史",
+            "D.个人史",
+            "E.主诉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 97
+    },
+    {
+        "question_text": "98.问诊时的“伴随症状”属于:",
+        "options": [
+            "A.一般项目",
+            "B.主诉",
+            "C.现病史",
+            "D.既往史",
+            "E.个人史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 98
+    },
+    {
+        "question_text": "99.问诊时的“治疗经过”属于:",
+        "options": [
+            "A.一般项目",
+            "B.主诉",
+            "C.现病史",
+            "D.既往史",
+            "E.个人史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 99
+    },
+    {
+        "question_text": "100.患者病后对机体生理功能异常的自身体验和感觉，属于:",
+        "options": [
+            "A.主诉",
+            "B.症体",
+            "C.状征",
+            "D.诊断",
+            "E.印象"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 100
+    },
+    {
+        "question_text": "101.患者的体表或内部结构发生的可察觉改变，属于:",
+        "options": [
+            "A.主诉",
+            "B.症体",
+            "C.状征",
+            "D.诊断",
+            "E.印象"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 101
+    },
+    {
+        "question_text": "102.一般情况下，对临床诊断的建立发挥主导作用的是:",
+        "options": [
+            "A.症状",
+            "B.体征",
+            "C.实验室检查",
+            "D.辅助检查",
+            "E.问诊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 102
+    },
+    {
+        "question_text": "103.男性，50岁，近一周出现胸痛，每次持续10～20分钟，常在劳累时出现，与呼吸无关，感乏力，必须问诊的是:",
+        "options": [
+            "A.疼痛缓解方式",
+            "B.疼痛部位",
+            "C.有无外伤史",
+            "D.有无呼吸困难",
+            "E.伴随症状"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 103
+    },
+    {
+        "question_text": "104.父亲患高血压，弟弟患糖尿病，妹妹有甲状腺功能亢进症属于:",
+        "options": [
+            "A.个人史",
+            "B.婚姻史",
+            "C.月经与生育史",
+            "D.家族史",
+            "E.既往史"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 104
+    },
+    {
+        "question_text": "105.过去患过的疾病、手术及外伤、预防接种、过敏史属于:",
+        "options": [
+            "A.个人史",
+            "B.婚姻史",
+            "C.月经与生育史",
+            "D.家族史",
+            "E.既往史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 105
+    },
+    {
+        "question_text": "106.出生地，居住地，受教育程度，业余爱好，习惯与爱好属于:",
+        "options": [
+            "A.个人史",
+            "B.婚姻史",
+            "C.月经与生育史",
+            "D.家族史",
+            "E.既往史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 106
+    },
+    {
+        "question_text": "107.烟酒嗜好一般在病史的哪一部分:",
+        "options": [
+            "A.现病史",
+            "B.既往史",
+            "C.个人史",
+            "D.家族史",
+            "E.系统回顾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 107
+    },
+    {
+        "question_text": "108.问诊中“阴性伴随症状”应属于:",
+        "options": [
+            "A.一般项目",
+            "B.主诉",
+            "C.现病史",
+            "D.既往史",
+            "E.个人史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 108
+    },
+    {
+        "question_text": "109.20岁女性患者，间隔咯血4年，每月约发作一次，同时伴腹痛，无发热，盗汗，无胸痛及咳嗽，无咳脓痰，必须补充的问诊是:",
+        "options": [
+            "A.有无冠心病史",
+            "B.月经史",
+            "C.结核病接触史",
+            "D.血中有无食物残渣",
+            "E.有无鼻出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 109
+    },
+    {
+        "question_text": "110.问诊中询问“诊治经过”的目的，错误的是:",
+        "options": [
+            "A.可用来替代初步诊断",
+            "B.可为初步诊断提供参考",
+            "C.可为选用药物提供参考",
+            "D.可为药物剂量提供参考",
+            "E.可为采取治疗措施提供参考"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 110
+    },
+    {
+        "question_text": "111.下列哪项不属于病史采集的内容？",
+        "options": [
+            "A.主诉",
+            "B.现病史",
+            "C.既往史",
+            "D.个人史",
+            "E.病程记录"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 111
+    },
+    {
+        "question_text": "112.男，45岁，反复出现胸骨后烧灼样痛，多在餐后出现，补充追问病史，哪项对明确诊断最有意义？",
+        "options": [
+            "A.劳累是否加重疼痛",
+            "B.紧张是否加重疼痛",
+            "C.咳嗽是否加重疼痛",
+            "D.服用硝酸甘油可否减轻疼痛",
+            "E.服用抗酸剂可否减轻疼痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 112
+    },
+    {
+        "question_text": "113.腹胀，腹痛属于哪个系统的疾病？",
+        "options": [
+            "A.循环系统疾病",
+            "B.呼吸系统疾病",
+            "C.消化系统疾病",
+            "D.泌尿系统疾病",
+            "E.内分泌系统疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 113
+    },
+    {
+        "question_text": "114.心慌，晕厥属于哪个系统的疾病？",
+        "options": [
+            "A.循环系统疾病",
+            "B.呼吸系统疾病",
+            "C.消化系统疾病",
+            "D.泌尿系统疾病",
+            "E.内分泌系统疾病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 114
+    },
+    {
+        "question_text": "115.怕热，多汗，色素沉着属于哪个系统的疾病？",
+        "options": [
+            "A.循环系统疾病",
+            "B.呼吸系统疾病",
+            "C.消化系统疾病",
+            "D.泌尿系统疾病",
+            "E.内分泌系统疾病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 115
+    },
+    {
+        "question_text": "116.尿急，尿痛，尿频，面部浮肿属于哪个系统的疾病？",
+        "options": [
+            "A.循环系统疾病",
+            "B.呼吸系统疾病",
+            "C.消化系统疾病",
+            "D.泌尿系统疾病",
+            "E.内分泌系统疾病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 116
+    },
+    {
+        "question_text": "117.咳嗽，咳痰，咯血，呼吸困难属于哪个系统的疾病？",
+        "options": [
+            "A.循环系统疾病",
+            "B.呼吸系统疾病",
+            "C.消化系统疾病",
+            "D.泌尿系统疾病",
+            "E.内分泌系统疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 117
+    },
+    {
+        "question_text": "118.患者，女性，17岁，间断咯血2年，几乎每月发作一次，同时伴下腹坠痛，无皮肤点，无心悸气短，无发热盗汗，无胸痛及咳脓痰，为明确诊断该患者需进一步询问:",
+        "options": [
+            "A.月经史",
+            "B.吸烟史",
+            "C.结核病史",
+            "D.家族史",
+            "E.过敏史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 118
+    },
+    {
+        "question_text": "119.男性，68岁，确诊慢性阻塞性肺病10年，因呼吸困难一直需要家人护理和照顾起居。晨起大便时突然气急加重，伴胸痛，送来急诊。采集病史时应特别注意询问:",
+        "options": [
+            "A.胸痛部位、性质和伴随症状",
+            "B.冠心病、心绞痛病史",
+            "C.吸烟史",
+            "D.近期胸部X线检查情况",
+            "E.近期服药史"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 119
+    }
+]

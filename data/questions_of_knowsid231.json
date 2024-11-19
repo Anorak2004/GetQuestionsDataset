@@ -1,0 +1,1766 @@
+[
+    {
+        "question_text": "1.以下可导致肾前性少尿的是:",
+        "options": [
+            "A.消化道大出血",
+            "B.急性肾炎",
+            "C.急性间质性肾炎",
+            "D.输尿管结石",
+            "E.前列腺肥大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 1
+    },
+    {
+        "question_text": "2.少尿伴有大量蛋白尿多见于哪种疾病？",
+        "options": [
+            "A.急性肾炎",
+            "B.急性间质性肾炎",
+            "C.肝肾综合征",
+            "D.肾病综合征",
+            "E.肾小管性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 2
+    },
+    {
+        "question_text": "3.多尿伴有低血钾、酸中毒、骨痛和肌麻痹多见于哪种疾病？",
+        "options": [
+            "A.尿崩症",
+            "B.急性肾小管坏死",
+            "C.原发性醛固酮多症",
+            "D.糖尿病",
+            "E.肾小管性酸中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于肾性糖尿，哪项描述是正确的？",
+        "options": [
+            "A.血糖浓度正常，肾阈值下降产生的糖尿",
+            "B.血糖浓度正常，肾阈值上升产生的糖尿",
+            "C.血糖浓度超过正常水平，肾阈值正常产生的糖尿",
+            "D.血糖浓度超过正常水平，肾阈值升高产生的糖尿",
+            "E.血糖浓度超过正常水平，肾阈值下降产生的糖尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 4
+    },
+    {
+        "question_text": "5.哪一项不是导致多尿的原因？",
+        "options": [
+            "A.抗利尿激素（ADH）不足或肾小管对ADH反应性降低",
+            "B.慢性肾盂肾炎、慢性肾间质肾炎",
+            "C.糖尿病",
+            "D.高血压肾病",
+            "E.休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 5
+    },
+    {
+        "question_text": "6.哪一项不是导致少尿的常见原因？",
+        "options": [
+            "A.心衰",
+            "B.休克",
+            "C.尿路梗阻",
+            "D.糖尿病",
+            "E.急性肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 6
+    },
+    {
+        "question_text": "7.鉴别上或下尿路感染的可靠指标是:",
+        "options": [
+            "A.红细胞",
+            "B.白细胞",
+            "C.脓细胞",
+            "D.β2-微球蛋白",
+            "E.尿蛋白定量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 7
+    },
+    {
+        "question_text": "8.慢性肾炎晚期出现大量蛋白尿时，尿蛋白为:",
+        "options": [
+            "A.小分子量蛋白尿",
+            "B.中分子量蛋白尿",
+            "C.高分子量蛋白尿",
+            "D.大分子量蛋白尿",
+            "E.混合性蛋白尿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 8
+    },
+    {
+        "question_text": "9.β2-微球蛋白在尿中的浓度升高则提示:",
+        "options": [
+            "A.肾小管的功能障碍",
+            "B.肾小球的功能障碍",
+            "C.肝癌",
+            "D.胃癌",
+            "E.肺癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 9
+    },
+    {
+        "question_text": "10.膀胱炎患者可出现:",
+        "options": [
+            "A.肾小球性蛋白尿",
+            "B.溢出性蛋白尿",
+            "C.混合性蛋白尿",
+            "D.组织性蛋白尿",
+            "E.假性蛋白尿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 10
+    },
+    {
+        "question_text": "11.尿渗量测定是检测:",
+        "options": [
+            "A.近端肾小管排泌功能",
+            "B.远端肾单位浓缩稀释功能",
+            "C.肾小球滤过功能",
+            "D.远端肾小管最大吸收功能",
+            "E.远端肾小管排泌功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 11
+    },
+    {
+        "question_text": "12.对尿渗量影响最小的是以下哪项物质？",
+        "options": [
+            "A.NaCl",
+            "B.CaCl2",
+            "C.Na2HPO4",
+            "D.Na2HPO4",
+            "E.白蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 12
+    },
+    {
+        "question_text": "13.慢性间质性肾炎可出现:",
+        "options": [
+            "A.禁饮尿渗量<600mOsm/kg·H2O",
+            "B.禁饮尿渗量300mOsm/kg·H2O",
+            "C.一次性尿渗量>450mOsm/kg·H2O",
+            "D.一次性尿渗量<300mOsm/kg·H2O",
+            "E.禁饮尿渗量600~1000mOsm/kg·H2O"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 13
+    },
+    {
+        "question_text": "14.等渗尿时可出现:",
+        "options": [
+            "A.禁饮尿渗量<600mOsm/kg·H2O",
+            "B.禁饮尿渗量300mOsm/kg·H2O",
+            "C.一次性尿渗量>450mOsm/kg·H2O",
+            "D.一次性尿渗量<300mOsm/kg·H2O",
+            "E.禁饮尿渗量600~1000mOsm/kg·H2O"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 14
+    },
+    {
+        "question_text": "15.肾小管坏死时可引起:",
+        "options": [
+            "A.禁饮尿渗量<600mOsm/kg·H2O",
+            "B.禁饮尿渗量300mOsm/kg·H2O",
+            "C.一次性尿渗量>450mOsm/kg·H2O",
+            "D.一次性尿渗量<300mOsm/kg·H2O",
+            "E.禁饮尿渗量600~1000mOsm/kg·H2O"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 15
+    },
+    {
+        "question_text": "16.正常肾浓缩功能是:",
+        "options": [
+            "A.禁饮尿渗量<600mOsm/kg·H2O",
+            "B.禁饮尿渗量300mOsm/kg·H2O",
+            "C.一次性尿渗量>450mOsm/kg·H2O",
+            "D.一次性尿渗量300mOsm/kg·H2O",
+            "E.禁饮尿渗量600~1000mOsm/kg·H2O"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 16
+    },
+    {
+        "question_text": "17.肾前性少尿时可引起:",
+        "options": [
+            "A.禁饮尿渗量<600mOsm/kg·H2O",
+            "B.禁饮尿渗量300mOsm/kg·H2O",
+            "C.一次性尿渗量>450mOsm/kg·H2O",
+            "D.一次性尿渗量<300mOsm/kg·H2O",
+            "E.禁饮尿渗量600~1000mOsm/kg·H2O"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 17
+    },
+    {
+        "question_text": "18.肾前性少尿的原因不包括:",
+        "options": [
+            "A.肾缺血",
+            "B.血液浓缩",
+            "C.血容量减少",
+            "D.肾结石",
+            "E.应激状态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 18
+    },
+    {
+        "question_text": "19.慢性肾衰可出现:",
+        "options": [
+            "A.尿Na>40mmol/L",
+            "B.尿Na<30mmol/L",
+            "C.尿Ca>7.5mmol/24小时",
+            "D.尿Ca<2.5mmol/24小时",
+            "E.尿K>102mmol/24小时"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 19
+    },
+    {
+        "question_text": "20.慢性间质性肾炎可出现:",
+        "options": [
+            "A.尿蛋白电泳显示小分子蛋白",
+            "B.尿蛋白电泳显示中、大分子蛋白",
+            "C.混合性蛋白",
+            "D.T-H糖蛋白",
+            "E.免疫球蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 20
+    },
+    {
+        "question_text": "21.慢性肾炎可出现:",
+        "options": [
+            "A.尿蛋白电泳显示小分子蛋白",
+            "B.尿蛋白电泳显示中、大分子蛋白",
+            "C.混合性蛋白",
+            "D.T-H糖蛋白",
+            "E.免疫球蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 21
+    },
+    {
+        "question_text": "22.慢性肾衰可出现:",
+        "options": [
+            "A.尿蛋白电泳显示小分子蛋白",
+            "B.尿蛋白电泳显示中、大分子蛋白",
+            "C.混合性蛋白",
+            "D.T-H糖蛋白",
+            "E.免疫球蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 22
+    },
+    {
+        "question_text": "23.肾小管性酸中毒时可出现:",
+        "options": [
+            "A.尿Na>40mmol/L",
+            "B.尿Na<30mmol/L",
+            "C.尿Ca>7.5mmol/24小时",
+            "D.尿Ca<2.5mmol/24小时",
+            "E.尿K>102mmol/24小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 23
+    },
+    {
+        "question_text": "24.甲状旁腺功能亢进时可出现:",
+        "options": [
+            "A.尿Na>40mmol/L",
+            "B.尿Na<30mmol/L",
+            "C.尿Ca>7.5mmol/24小时",
+            "D.尿Ca<2.5mmol/24小时",
+            "E.尿K>102mmol/24小时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 24
+    },
+    {
+        "question_text": "25.肾前性肾衰可出现:",
+        "options": [
+            "A.尿Na>40mmol/L",
+            "B.尿Na<30mmol/L",
+            "C.尿Ca>7.5mmol/24小时",
+            "D.尿Ca<2.5mmol/24小时",
+            "E.尿K>102mmol/24小时"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 25
+    },
+    {
+        "question_text": "26.急性肾小管坏死可出现:",
+        "options": [
+            "A.尿Na>40mmol/L",
+            "B.尿Na<30mmol/L",
+            "C.尿Ca>7.5mmol/24小时",
+            "D.尿Ca<2.5mmol/24小时",
+            "E.尿K>102mmol/24小时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 26
+    },
+    {
+        "question_text": "27.某疑诊为肾小管酸中毒的病人，其血PH下降，血二氧化碳结合力（CO2CP）下降，NH4Cl负荷试验各份尿PH>5.5，尿HCO3-部分排泄率<5％，该病人最可能属于哪一类型肾小管酸中毒",
+        "options": [
+            "A.I型肾小管酸中毒",
+            "B.II型肾小管酸中毒",
+            "C.III型肾小管酸中毒",
+            "D.IV型肾小管酸中毒",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 27
+    },
+    {
+        "question_text": "28.某疑诊为肾小管酸中毒的病人，其血PH下降，血二氧化碳结合力（CO2CP）下降，NH4Cl负荷试验各份尿PH<6.0，尿HCO3-部分排泄率>15％，该病人最可能属于哪一类型肾小管酸中毒",
+        "options": [
+            "A.I型肾小管酸中毒",
+            "B.II型肾小管酸中毒",
+            "C.III型肾小管酸中毒",
+            "D.IV型肾小管酸中毒",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 28
+    },
+    {
+        "question_text": "29.膀胱刺激症是指:",
+        "options": [
+            "A.排尿时耻骨上区似针刺样痛",
+            "B.排尿时尿道疼痛",
+            "C.尿频、尿急",
+            "D.尿频、尿痛",
+            "E.尿频、尿急、尿痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 29
+    },
+    {
+        "question_text": "30.肾小球的主要功能包括:",
+        "options": [
+            "A.排泄代谢产物和废物",
+            "B.维持体内水、电解质平衡",
+            "C.维持体内酸碱平衡",
+            "D.内分泌功能",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 30
+    },
+    {
+        "question_text": "31.临床上最常用于测定肾小球滤过功能的方法是:",
+        "options": [
+            "A.菊粉清除率",
+            "B.内生肌酐清除率",
+            "C.血清肌酐测定",
+            "D.血尿素氮",
+            "E.尿肌酐测定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 31
+    },
+    {
+        "question_text": "32.以下判断肾小球滤过功能的指标不包括:",
+        "options": [
+            "A.内生肌酐清除率",
+            "B.血尿酸",
+            "C.血β2-MG",
+            "D.尿β2-MG",
+            "E.血尿素氮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 32
+    },
+    {
+        "question_text": "33.临床上判断肾小球损害的敏感指标是下列哪一项？",
+        "options": [
+            "A.血清肌酐浓度",
+            "B.血清尿素氮浓度",
+            "C.血清尿酸浓度",
+            "D.内生肌酐清除率",
+            "E.尿肌酐浓度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 33
+    },
+    {
+        "question_text": "34.肾小球滤过率的正确定义为:",
+        "options": [
+            "A.单位时间内（分钟）经肾小球滤出的血浆液体量",
+            "B.单位时间内（分钟）经肾小球滤出的某物质的量",
+            "C.单位时间内（分钟）经肾小球滤出的葡萄糖量",
+            "D.单位时间内（分钟）经肾小球滤出的某溶质的量",
+            "E.单位时间内（分钟）经肾小球滤出的总溶质的量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 34
+    },
+    {
+        "question_text": "35.反映肾小球滤过率最准确的指标是下列哪一项？",
+        "options": [
+            "A.内生肌酐清除率",
+            "B.菊粉清除率",
+            "C.同位素肾图测定",
+            "D.血肌酐",
+            "E.血尿素氮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 35
+    },
+    {
+        "question_text": "36.某男性患者，近日来少尿、恶性、呕吐，血清内生肌酐清除率测定为10ml/min，诊断应考虑为:",
+        "options": [
+            "A.早期肾功能衰竭",
+            "B.晚期肾功能衰竭",
+            "C.终末期肾功能衰竭",
+            "D.肾功能正常",
+            "E.肾功能不全氮质血症期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 36
+    },
+    {
+        "question_text": "37.判断肾小球损害程度较敏感的指标是:",
+        "options": [
+            "A.尿PH值",
+            "B.血清尿素氮（BUN）",
+            "C.血清肌酐（Cr）",
+            "D.血清尿酸（UA）",
+            "E.内生肌酐清除率（Ccr）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 37
+    },
+    {
+        "question_text": "38.尿浓缩稀释试验主要检查以下哪段肾小管功能？",
+        "options": [
+            "A.近端肾小管",
+            "B.远端肾小管",
+            "C.近端肾小管及远端肾小管",
+            "D.近端肾小管、远端肾小管及集合管",
+            "E.髓袢、远端肾小管和集合管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 38
+    },
+    {
+        "question_text": "39.肾脏的浓缩与稀释功能是建立在逆流倍增机制基础上的，以下哪项与逆流倍增机制无明显关系？",
+        "options": [
+            "A.肾小球滤过率",
+            "B.肾单位及肾血管的独特解剖结构",
+            "C.亨利袢、远端肾小管及集合管对电解质的各种主动转运系统的控制",
+            "D.亨利袢升支、远端肾小管及集合管对电解质的各种主动转运系统的控制",
+            "E.血流量的肾内调节及神经、内分泌激素，特别是ADH的调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 39
+    },
+    {
+        "question_text": "40.以下哪项试验最能精确反映肾浓缩稀释功能？",
+        "options": [
+            "A.3小时尿比重试验",
+            "B.MosenthalTest",
+            "C.尿渗量测定",
+            "D.渗透溶质清除率测定",
+            "E.自由水清除率测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 40
+    },
+    {
+        "question_text": "41.关于酚红排泄试验，以下描述正确的是:",
+        "options": [
+            "A.大部分经近端肾小管分泌排出",
+            "B.大部分经肾小球滤过后，经近端肾小管重吸收并分泌",
+            "C.主要经肾小球滤过和肾小管上皮细胞主动排泌",
+            "D.酚红排泄试验主要反映远端肾小管及集合管的功能",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 41
+    },
+    {
+        "question_text": "42.对氨马尿酸盐清除率（CPAH）试验主要检测以下哪项功能指标？",
+        "options": [
+            "A.肾血浆流量（RPF）",
+            "B.有效肾血浆流量（ERPF）",
+            "C.肾小球滤过率",
+            "D.肾小管排泌功能",
+            "E.肾全血流量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 42
+    },
+    {
+        "question_text": "43.氯化铵负荷试验用于协助诊断以下哪种类型肾小管酸中毒？",
+        "options": [
+            "A.I型肾小管酸中毒",
+            "B.II型肾小管酸中毒",
+            "C.III型肾小管酸中毒",
+            "D.IV型肾小管酸中毒",
+            "E.近端肾小管酸中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 43
+    },
+    {
+        "question_text": "44.碳酸氢离子重吸收排泄试验用于协助诊断以下哪种类型肾小管酸中毒？",
+        "options": [
+            "A.近端肾小管酸中毒",
+            "B.远端肾小管酸中毒",
+            "C.IV型肾小管酸中毒",
+            "D.III型肾小管酸中毒",
+            "E.I型肾小管酸中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 44
+    },
+    {
+        "question_text": "45.进行碳酸氢离子重吸收排泄试验的目的是什么",
+        "options": [
+            "A.判断近端肾小管重吸收NaHCO3的能力",
+            "B.判断近端肾小管重吸收及分泌NaHCO3的能力",
+            "C.判断远端肾小管重吸收NaHCO3的能力",
+            "D.判断远端肾小管重吸收及分泌NaHCO3的能力",
+            "E.判断远端肾小管分泌H+的能力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 45
+    },
+    {
+        "question_text": "46.正常人经肾小球滤过的碳酸氢根（HCO3-）主要由以下哪段肾小管重吸收？",
+        "options": [
+            "A.近端肾小管",
+            "B.髓袢",
+            "C.远端肾小管",
+            "D.连接小管",
+            "E.集合小管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 46
+    },
+    {
+        "question_text": "47.诊断近端肾小管酸中毒，其部分HCO3-排泄率应为:",
+        "options": [
+            "A.≤1％",
+            "B.<3%",
+            "C.3％~5％",
+            "D.>15%",
+            "E.>20％"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 47
+    },
+    {
+        "question_text": "48.对肾小管酸中毒病人进行酸负荷试验的目的是:",
+        "options": [
+            "A.判断近端肾小管上皮细胞主动分泌H+的能力",
+            "B.判断近端肾小管上皮细胞被动分泌H+的能力",
+            "C.判断远端肾小管上皮细胞主动分泌H+的能力",
+            "D.判断远端肾小管上皮细胞被动分泌H+的能力",
+            "E.判断整个肾小管上皮细胞分泌H+、酸化尿液的能力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 48
+    },
+    {
+        "question_text": "49.以下哪项符合远端肾小管酸中毒的诊断？",
+        "options": [
+            "A.血PH值下降，尿PH>6.0，NH4Cl负荷试验，尿PH>5.5",
+            "B.血PH值下降，尿PH<6.0，NH4Cl负荷试验，尿PH>5.5",
+            "C.血PH值下降，尿PH<6.0，NH4Cl负荷试验，尿PH<5.5",
+            "D.血PH值升高，尿PH>6.0，NH4Cl负荷试验，尿PH>5.5",
+            "E.血PH值升高，尿PH>6.0，NH4Cl负荷试验，尿PH<5.5"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 49
+    },
+    {
+        "question_text": "50.以下哪项符合近端肾小管酸中毒的诊断?",
+        "options": [
+            "A.血PH值升高，尿PH>6.0，尿HCO3-部分排泄率>5%",
+            "B.血PH值下降，尿PH>6.0，尿HCO3-部分排泄率>15%",
+            "C.血PH值下降，尿PH<6.0，尿HCO3-部分排泄率>15%",
+            "D.血PH值下降，尿PH>6.0，尿HCO3-部分排泄率>5%",
+            "E.血PH值下降，尿PH>6.0，尿HCO3-部分排泄率<15%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 50
+    },
+    {
+        "question_text": "51.正常人每日从远端肾单位排泄多少H+？",
+        "options": [
+            "A.10~20mmol",
+            "B.30~40mmol",
+            "C.40~80mmol",
+            "D.80~100mmol",
+            "E.100~200mmol"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 51
+    },
+    {
+        "question_text": "52.以下哪项指标不是影响肾自由水清除率的主要因素？",
+        "options": [
+            "A.单位时间尿量",
+            "B.渗透溶质清除率",
+            "C.尿渗量",
+            "D.血渗量",
+            "E.尿比重"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 52
+    },
+    {
+        "question_text": "53.以下哪项不参与肾脏对酸碱平衡的调节？",
+        "options": [
+            "A.排泄H+，重新合成HCO3-",
+            "B.排出酸性阴离子",
+            "C.HCO3-滤过后的重吸收",
+            "D.交换和排泌H+",
+            "E.ADH对远端肾小管和集合管的上皮细胞的作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 53
+    },
+    {
+        "question_text": "54.引起急性尿潴留的原因，除外:",
+        "options": [
+            "A.精神过度紧张",
+            "B.机械性肠梗阻",
+            "C.动力性梗阻",
+            "D.昏迷",
+            "E.会阴部手术因疼痛不能用力排尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 54
+    },
+    {
+        "question_text": "55.患者男性，60岁，间歇排尿困难5年，12小时未排尿，初步诊断为:",
+        "options": [
+            "A.慢性肾炎",
+            "B.尿毒症",
+            "C.输尿管",
+            "D.前列腺增生症",
+            "E.尿道炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 55
+    },
+    {
+        "question_text": "56.肾小球滤过率是指:",
+        "options": [
+            "A.肾小球滤出的血液量",
+            "B.单位时间内肾小球的滤出量",
+            "C.单位时间内肾小球滤出的血浆液体量",
+            "D.肾小球滤出的液体量",
+            "E.单位时间内肾小球滤出的液体量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 56
+    },
+    {
+        "question_text": "57.关于内生肌酐清除率的定义，以下描述正确的是:",
+        "options": [
+            "A.单位时间（分钟）内，肾将若干毫升血浆中的内生肌酐全部清除",
+            "B.单位时间（分钟）内，肾将若干毫升全血中的内生肌酐全部清除",
+            "C.单位时间（分钟）内，肾脏将血浆中的内生肌酐全部清除",
+            "D.单位时间（分钟）内，肾将全血中的内生肌酐全部清除",
+            "E.单位时间（分钟）内，经肾小球滤过的内生肌酐的量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 57
+    },
+    {
+        "question_text": "58.正常人内生肌酐清除率为:",
+        "options": [
+            "A.70~50ml/min",
+            "B.30~50ml/min",
+            "C.70~80ml/min",
+            "D.80~120ml/min",
+            "E.<50ml/min"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 58
+    },
+    {
+        "question_text": "59.内生肌酐清除率测定是反映:",
+        "options": [
+            "A.近端肾小管排泌功能",
+            "B.远端肾小管排泌",
+            "C.肾小球滤过功能测定",
+            "D.肾脏浓缩稀释功能",
+            "E.肾血流量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 59
+    },
+    {
+        "question_text": "60.一般来说，内生肌酐清除率下降多少，血浆肌酐和尿素才开始升高？",
+        "options": [
+            "A.10%",
+            "B.20%",
+            "C.30%",
+            "D.50%",
+            "E.70%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 60
+    },
+    {
+        "question_text": "61.Ccr:37ml/min，为肾功能第几期:",
+        "options": [
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4",
+            "E.5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 61
+    },
+    {
+        "question_text": "62.肾衰竭失代偿期，Ccr的范围是:",
+        "options": [
+            "A.Ccr80~51ml/分",
+            "B.Ccr50~20ml/分",
+            "C.Ccr19~10ml/分",
+            "D.Ccr<10ml/分",
+            "E.Ccr80~120ml/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 62
+    },
+    {
+        "question_text": "63.肾衰竭代偿期，Ccr的范围是:",
+        "options": [
+            "A.Ccr80~51ml/分",
+            "B.Ccr50~20ml/分",
+            "C.Ccr19~10ml/分",
+            "D.Ccr<10ml/分",
+            "E.Ccr80~120ml/分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 63
+    },
+    {
+        "question_text": "64.肾衰竭期，Ccr的范围是:",
+        "options": [
+            "A.Ccr80~51ml/分",
+            "B.Ccr50~20ml/分",
+            "C.Ccr19~10ml/分",
+            "D.Ccr<10ml/分",
+            "E.Ccr80~120ml/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 64
+    },
+    {
+        "question_text": "65.尿毒症期，Ccr的范围是:",
+        "options": [
+            "A.Ccr80~51ml/分",
+            "B.Ccr50~20ml/分",
+            "C.Ccr19~10ml/分",
+            "D.Ccr<10ml/分",
+            "E.Ccr80~120ml/分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 65
+    },
+    {
+        "question_text": "66.肾功能轻度损害，Ccr的范围是:",
+        "options": [
+            "A.Ccr70~51ml/分",
+            "B.Ccr50~31ml/分",
+            "C.Ccr<30ml/分",
+            "D.Ccr>80ml/分",
+            "E.Ccr120ml/分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 66
+    },
+    {
+        "question_text": "67.肾功能中度损害，Ccr的范围是:",
+        "options": [
+            "A.Ccr70~51ml/分",
+            "B.Ccr50~31ml/分",
+            "C.Ccr<30ml/分",
+            "D.Ccr>80m/分",
+            "E.Ccr120ml/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 67
+    },
+    {
+        "question_text": "68.肾功能重度损害，Ccr的范围是:",
+        "options": [
+            "A.Ccr70~51ml/分",
+            "B.Ccr50~31ml/分",
+            "C.Ccr<30ml/分",
+            "D.Ccr>80ml/分",
+            "E.Ccr120ml/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 68
+    },
+    {
+        "question_text": "69.氢氯噻嗪类利尿剂利尿无效时，Ccr的范围是:",
+        "options": [
+            "A.Ccr<30ml/分",
+            "B.Ccr30~40ml/分",
+            "C.Ccr<10ml/分",
+            "D.Ccr50ml/分",
+            "E.Ccr80ml/分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 69
+    },
+    {
+        "question_text": "70.开始限制蛋白饮食时，Ccr的范围是:",
+        "options": [
+            "A.Ccr<30ml/分",
+            "B.Ccr30~40ml/分",
+            "C.Ccr<10ml/分",
+            "D.Ccr50ml/分",
+            "E.Ccr80ml/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 70
+    },
+    {
+        "question_text": "71.开始进行肾替代治疗时，Ccr的范围是:",
+        "options": [
+            "A.Ccr<30ml/分",
+            "B.Ccr30~40ml/分",
+            "C.Ccr<10ml/分",
+            "D.Ccr50ml/分",
+            "E.Ccr80ml/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 71
+    },
+    {
+        "question_text": "72.慢性肾功能不全尿毒症期血肌酐达到多少μmol/L？",
+        "options": [
+            "A.Cr>445",
+            "B.Cr>178",
+            "C.Ccr>100",
+            "D.Cr>278",
+            "E.Cr>800"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 72
+    },
+    {
+        "question_text": "73.测定肾小球功能可选:",
+        "options": [
+            "A.内生肌酐清除率",
+            "B.尿渗量测定",
+            "C.氯化铵试验",
+            "D.尿NAG",
+            "E.对氨马尿酸盐清除试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 73
+    },
+    {
+        "question_text": "74.测定肾血浆流量可选:",
+        "options": [
+            "A.内生肌酐清除率",
+            "B.尿渗量测定",
+            "C.氯化铵试验",
+            "D.尿NAG",
+            "E.对氨马尿酸盐清除试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 74
+    },
+    {
+        "question_text": "75.测定近端肾小管功能可选:",
+        "options": [
+            "A.内生肌酐清除率",
+            "B.尿渗量测定",
+            "C.氯化铵试验",
+            "D.尿NAG",
+            "E.对氨马尿酸盐清除试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 75
+    },
+    {
+        "question_text": "76.巨球蛋白血症可出现:",
+        "options": [
+            "A.肾小球性蛋白尿",
+            "B.肾小管性蛋白尿",
+            "C.溢出性蛋白尿",
+            "D.偶然性蛋白尿",
+            "E.组织性蛋白尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 76
+    },
+    {
+        "question_text": "77.慢性肾盂肾炎可出现:",
+        "options": [
+            "A.肾小球性蛋白尿",
+            "B.肾小管性蛋白尿",
+            "C.溢出性蛋白尿",
+            "D.偶然性蛋白尿",
+            "E.组织性蛋白尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 77
+    },
+    {
+        "question_text": "78.肾小管功能不全可出现:",
+        "options": [
+            "A.尿中本周氏蛋白升高",
+            "B.尿肌红蛋白升高",
+            "C.尿血红蛋白升高",
+            "D.尿补体C3升高",
+            "E.尿α1微球蛋白升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 78
+    },
+    {
+        "question_text": "79.多发性骨髓瘤可出现:",
+        "options": [
+            "A.尿中本周氏蛋白升高",
+            "B.尿肌红蛋白升高",
+            "C.尿血红蛋白升高",
+            "D.尿补体C3升高",
+            "E.尿α1微球蛋白升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 79
+    },
+    {
+        "question_text": "80.心肌梗死时引起:",
+        "options": [
+            "A.尿中本周氏蛋白升高",
+            "B.尿肌红蛋白升高",
+            "C.尿血红蛋白升高",
+            "D.尿补体C3升高",
+            "E.尿α1微球蛋白升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 80
+    },
+    {
+        "question_text": "81.重症烧伤时引起:",
+        "options": [
+            "A.尿中本周氏蛋白升高",
+            "B.尿肌红蛋白升高",
+            "C.尿血红蛋白升高",
+            "D.尿补体C3升高",
+            "E.尿α1微球蛋白升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 81
+    },
+    {
+        "question_text": "82.肾小球肾炎引起:",
+        "options": [
+            "A.尿中本周氏蛋白升高",
+            "B.尿肌红蛋白升高",
+            "C.尿血红蛋白升高",
+            "D.尿补体C3升高",
+            "E.尿α1微球蛋白升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 82
+    },
+    {
+        "question_text": "83.全部由肾小球滤过，肾小管不分泌、不吸收的是:",
+        "options": [
+            "A.菊粉",
+            "B.酚红",
+            "C.葡萄糖",
+            "D.肌酐",
+            "E.对氨马尿酸盐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 83
+    },
+    {
+        "question_text": "84.全部由肾小球滤过，肾小管不重吸收的是:",
+        "options": [
+            "A.菊粉",
+            "B.酚红",
+            "C.葡萄糖",
+            "D.肌酐",
+            "E.对氨马尿酸盐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 84
+    },
+    {
+        "question_text": "85.用于检查近端肾小管的排泌功能的是:",
+        "options": [
+            "A.菊粉",
+            "B.酚红",
+            "C.葡萄糖",
+            "D.肌酐",
+            "E.对氨马尿酸盐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 85
+    },
+    {
+        "question_text": "86.全部由肾小球滤过，被肾小管分泌的是",
+        "options": [
+            "A.菊粉",
+            "B.酚红",
+            "C.葡萄糖",
+            "D.肌酐",
+            "E.对氨马尿酸盐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 86
+    },
+    {
+        "question_text": "87.肾小管对钠的重吸收主要在哪一段肾小管？",
+        "options": [
+            "A.远曲小管",
+            "B.髓袢降支",
+            "C.髓袢升支",
+            "D.近曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 87
+    },
+    {
+        "question_text": "88.急性肾小管坏死致急性肾衰竭时，哪一项描述是正确的？",
+        "options": [
+            "A.尿钠增加，FeNa>1",
+            "B.尿钠增加，FeNa<1",
+            "C.尿钠减少，FeNa>1",
+            "D.尿钠减少，FeNa<1",
+            "E.尿钠减少，FeNa=1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 88
+    },
+    {
+        "question_text": "89.关于尿β2-微球蛋白，哪项描述是错误的？",
+        "options": [
+            "A.尿β2-MG增多较敏感地反映近端肾小管重吸收功能受阻",
+            "B.尿β2-MG升高就能反映肾小管受伤",
+            "C.肾小管重吸收β2-MG的值为5mg/L",
+            "D.正常人β2-MG生成量较恒定",
+            "E.β2-MG是体内有核细胞包括淋巴细胞、血小板、多形核白细胞产生的一种小分子球蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 89
+    },
+    {
+        "question_text": "90.能较早反映肾小球滤过功能受损的指标是:",
+        "options": [
+            "A.血清尿素氮测定",
+            "B.血清肌酐测定",
+            "C.内生肌酐清除率测定",
+            "D.血清尿酸测定",
+            "E.血清磷酸肌酸测定"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 90
+    },
+    {
+        "question_text": "91.某男性病人，近日来少尿、恶心、呕吐，血清内生肌酐清除率测定为10ml/min，诊断应考虑为:",
+        "options": [
+            "A.早期肾功能衰竭",
+            "B.晚期肾功能衰竭",
+            "C.终末期肾功能衰竭",
+            "D.肾功能正常",
+            "E.肾功能不全氮质血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 91
+    },
+    {
+        "question_text": "92.下列哪个不是肾小球滤过功能检查试验？",
+        "options": [
+            "A.CCr",
+            "B.SCr",
+            "C.BUN",
+            "D.GFR",
+            "E.UPE"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 92
+    },
+    {
+        "question_text": "93.肾脏排泄H+，重新合成HCO3-的主要部位在哪一段肾小管",
+        "options": [
+            "A.近端肾小管",
+            "B.亨利袢",
+            "C.远端肾小管",
+            "D.集合管",
+            "E.远端肾小管和集合管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 93
+    },
+    {
+        "question_text": "94.肾脏对机体酸碱平衡的调节中，肾小管上皮细胞分泌的H+主要来自于以下哪一条途径？",
+        "options": [
+            "A.肾小管上皮细胞内生成",
+            "B.血液HCO3-中的H+",
+            "C.血液NaH2PO4中的H+",
+            "D.血液NH4Cl中的H+",
+            "E.血液有机酸中的H+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 94
+    },
+    {
+        "question_text": "95.尿液中酸性产物主要以可滴定酸及铵盐的形式排泄，其中可滴定酸是指以下哪一个指标",
+        "options": [
+            "A.HCl",
+            "B.H2CO3",
+            "C.NaH2PO4",
+            "D.尿酸",
+            "E.有机酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 95
+    },
+    {
+        "question_text": "96.排除远端肾小管酸中毒最可靠的根据是",
+        "options": [
+            "A.血清钾在正常范围",
+            "B.CO2CP降低不显著",
+            "C.清晨尿pH小于5.5",
+            "D.血pH正常",
+            "E.尿比重1.018"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 96
+    },
+    {
+        "question_text": "97.目前临床上用于测定肾血流量的检查方法是:",
+        "options": [
+            "A.菊糖清除率",
+            "B.对氨马尿酸清除",
+            "C.内生肌酐清除率",
+            "D.尿素清除率",
+            "E.血肌酐测定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 97
+    },
+    {
+        "question_text": "98.肾脏维持体液的酸碱平衡，主要通过下列哪项完成的？",
+        "options": [
+            "A.H+-Na+的交换",
+            "B.H+-K+的交换",
+            "C.H+-NH4+的交换",
+            "D.Na+-K+的交换",
+            "E.NH3-Na+的交换"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 98
+    },
+    {
+        "question_text": "99.正常情况下，使肾小球滤过率增加的主要因素是:",
+        "options": [
+            "A.动脉压的升高",
+            "B.血浆胶体渗透压的升高",
+            "C.血浆晶体渗透压的升高",
+            "D.肾小囊内压增加",
+            "E.肾血流量的增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 99
+    },
+    {
+        "question_text": "100.肾脏的血流量供应和肾血流量，下述哪项正确？",
+        "options": [
+            "A.正常人两肾血流量相当于心输出量的10-15％",
+            "B.肾脏的血流90％以上供应皮质，仅不到10％供应髓质",
+            "C.肾脏的血流90％以上供应髓质，仅不到10％供应皮质",
+            "D.肾脏的血流50％供应皮质，50％供应髓质",
+            "E.当肾内血流重新分配时，大部分血液流过肾皮质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 100
+    },
+    {
+        "question_text": "101.非肾性高血压病人尿浓缩功能下降，主要是由于以下哪个原因所致",
+        "options": [
+            "A.ADH释放减少",
+            "B.肾小管对水的通透性下降",
+            "C.肾小管对水的通透性升高",
+            "D.肾髓质直小血管内血流加快",
+            "E.髓质渗透梯度升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 101
+    },
+    {
+        "question_text": "102.临床上检查肾小球功能的方法是",
+        "options": [
+            "A.酚红排泌试验",
+            "B.尿浓缩稀释试验",
+            "C.内生肌酐清除率试验",
+            "D.尿三杯试验",
+            "E.菊糖清除率试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 102
+    },
+    {
+        "question_text": "103.某病人尿蛋白（-），尿渗量800mOsm/kg·H2O，肾葡萄糖最大重吸收量为320mg/min/1.73m2，内生肌酐清除率为60ml/min，血清肌酐值为1.0mg/dl，该病人可能是:",
+        "options": [
+            "A.肾小糖阈下降",
+            "B.远曲肾小管功能损害",
+            "C.近曲肾小管功能损害",
+            "D.肾小球滤过功能损害",
+            "E.正常肾功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 103
+    },
+    {
+        "question_text": "104.怀疑肾小球功能受损应检查:",
+        "options": [
+            "A.酚红排泄试验",
+            "B.肾葡萄糖最大吸收试验",
+            "C.尿浓缩稀释试验",
+            "D.内生肌酐清除率试验",
+            "E.对氨基马尿酸清除率试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 104
+    },
+    {
+        "question_text": "105.目前临床上检查肾小球滤过率最合适的方法是:",
+        "options": [
+            "A.对氨基马尿酸清除试验",
+            "B.内生肌酐清除试验",
+            "C.酚红排泌试验",
+            "D.菊粉清除试验",
+            "E.尿浓缩稀释试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 105
+    },
+    {
+        "question_text": "106.对肾功能试验的评价以下哪项错误？",
+        "options": [
+            "A.尿常规检查对了解肾单位受损程度及肾功能有重要作用",
+            "B.尿浓缩稀释试验不能精确反映肾组织损害范围",
+            "C.血清尿素测定方法简便但敏感性不高",
+            "D.内生肌酐清除率试验敏感度高可精确反映肾小球功能",
+            "E.对氨马尿酸清除率可精确反映肾脏的血流量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 106
+    },
+    {
+        "question_text": "107.关于内生肌酐清除率，以下哪项是错误的？",
+        "options": [
+            "A.受试者须短期限制肌酐饮食，以清除外源性肌酐",
+            "B.肌酐全部从肾小球滤过，肾小管对其有吸收",
+            "C.当血清肌酐值正常时，内生肌酐清除率亦可能异常",
+            "D.内生肌酐清除率可反映有效肾单位的数量",
+            "E.大量蛋白尿时，内生肌酐清除率可增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 107
+    },
+    {
+        "question_text": "108.肾脏浓缩功能检查的指标是:",
+        "options": [
+            "A.蛋白质定性和定量",
+            "B.pH值",
+            "C.尿渗透量",
+            "D.尿体积",
+            "E.尿无机盐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 108
+    },
+    {
+        "question_text": "109.患者男性，18岁，因发热，咽痛后一周出现眼睑，双下肢浮肿，尿少，血压正常，尿常规镜检示红细胞(+)，蛋白质（++++），可见透明管型及脂肪管型，最有可能是哪种疾病？",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.急性肾功能衰竭",
+            "C.急性膀胱炎",
+            "D.糖尿病肾病",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 109
+    },
+    {
+        "question_text": "110.某物质完全由肾小球滤过，由肾完全重吸收，则该物质的清除率是:",
+        "options": [
+            "A.0%",
+            "B.5%",
+            "C.75%",
+            "D.1%",
+            "E.100%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 110
+    },
+    {
+        "question_text": "111.以下哪项不是血尿素氮升高的原因？",
+        "options": [
+            "A.高蛋白饮食",
+            "B.心力衰竭",
+            "C.消化道出血",
+            "D.肝功能衰竭",
+            "E.急、慢性肾衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 111
+    },
+    {
+        "question_text": "112.下列哪项可使尿素氮值增高？",
+        "options": [
+            "A.脱水",
+            "B.心力衰竭",
+            "C.高蛋白饮食",
+            "D.消化道出血",
+            "E.以上都可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 112
+    },
+    {
+        "question_text": "113.不能影响血清尿素浓度的是:",
+        "options": [
+            "A.肝功能状态",
+            "B.饮食中蛋白质摄入量",
+            "C.肾功能状态",
+            "D.全身肌肉重量",
+            "E.运动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 113
+    },
+    {
+        "question_text": "114.与尿素合成减少有关的是:",
+        "options": [
+            "A.肝性脑病",
+            "B.黄疸",
+            "C.为肝移植时选择供肝的依据",
+            "D.肝豆状核变性",
+            "E.Ⅲ型前胶原氨基末端肽升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 114
+    },
+    {
+        "question_text": "115.关于尿素的排泄，以下描述正确的是:",
+        "options": [
+            "A.经肾小球滤过而不被肾小管重吸收及分泌",
+            "B.经肾小球滤过，可被肾小管重吸收，但肾小管不分泌尿素",
+            "C.经肾小球滤过，不被肾小管重吸收，但肾小管可少量分泌尿素",
+            "D.经肾小球滤过，在肾小管各阶段均可被重吸收，且肾小管还可少量分泌尿素",
+            "E.经肾小球滤过，但在集合管被重吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 115
+    },
+    {
+        "question_text": "116.血肌酐值为600mmol/L，可能是下列哪种情况？",
+        "options": [
+            "A.正常值范围",
+            "B.高蛋白饮食",
+            "C.心力衰竭",
+            "D.肾衰竭",
+            "E.感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 116
+    },
+    {
+        "question_text": "117.关于肌酐的排泄，以下哪项描述是正确的？",
+        "options": [
+            "A.肌酐全部由肾小球滤过，不被肾小管重吸收，不被肾小管排泄",
+            "B.肌酐大部分由肾小球滤过，不被肾小管重吸收，排泄量很少",
+            "C.肌酐大部分由肾小球滤过，且由肾小管重吸收，由肾小管排泄",
+            "D.肌酐大部分由肾小球滤过，且由肾小管重吸收，不被肾小管排泄",
+            "E.肌酐全部由肾小球滤过后，被肾小管部分重吸收，不被肾小管排泄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 117
+    },
+    {
+        "question_text": "118.早期肾功能减退时，血尿酸、尿素氮及肌酐升高的顺序是:",
+        "options": [
+            "A.血肌酐（Cr）>血尿素氮（BUN）>血尿酸（UA）",
+            "B.UA>BUN>Cr",
+            "C.BUN>Cr>UA",
+            "D.UA>Cr>BUN",
+            "E.BUN>UA>Cr"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 118
+    },
+    {
+        "question_text": "119.以下哪项不是血尿酸升高的原因？",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.痛风",
+            "C.白血病",
+            "D.使用噻嗪类利尿剂",
+            "E.急性尿路感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 119
+    },
+    {
+        "question_text": "120.关于尿酸的排泄，以下正确的是:",
+        "options": [
+            "A.主要从肾脏排出，经肾小球滤过后在近段肾小管中重吸收",
+            "B.主要从肾脏排出，经肾小球滤过后在肾小管中被重吸收和分泌",
+            "C.主要从肾脏排出，经肾小球滤过后，不被重吸收而直接排出",
+            "D.经肾小球滤过及肾小管分泌，不被重吸收",
+            "E.经肾小球滤过后，在近段肾小管被大部分重吸收，但肾小管不分泌尿酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 120
+    },
+    {
+        "question_text": "121.尿毒症时，BUN和血浆CO2CP结果应为:",
+        "options": [
+            "A.两者均升高",
+            "B.两者均降低",
+            "C.前者降低，后者升高",
+            "D.前者升高，后者降低",
+            "E.前者升高，后者正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 121
+    },
+    {
+        "question_text": "122.氨（NH3）由肾小管上皮细胞合成，而合成NH3的原料是下列哪种物质",
+        "options": [
+            "A.尿素氮",
+            "B.蛋白质",
+            "C.谷氨酸",
+            "D.α-酮戊二酸",
+            "E.尿酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 122
+    },
+    {
+        "question_text": "123.临床判断病人酸碱是否平衡，通过二氧化碳结合力可了解以下哪项指标的变化",
+        "options": [
+            "A.血PH",
+            "B.PaCO2",
+            "C.TCO2",
+            "D.HCO3-",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 123
+    },
+    {
+        "question_text": "124.能较为准确反映肾小球滤过率的指标是",
+        "options": [
+            "A.菊粉清除率",
+            "B.血肌酐",
+            "C.肌酐清除率",
+            "D.尿素清除率",
+            "E.血尿素氮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 124
+    },
+    {
+        "question_text": "125.慢性肾衰时可见",
+        "options": [
+            "A.尿Na＞40mmol/L",
+            "B.尿Na＜30mmol/L",
+            "C.尿Ca＞7.5mmol/24小时",
+            "D.尿Ca＜2.5mmol/24小时",
+            "E.尿K＞102mmol/24小时"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 125
+    },
+    {
+        "question_text": "126.肾小管少尿的特点是",
+        "options": [
+            "A.禁饮尿渗量＜600mOsm/kgH20",
+            "B.禁饮尿渗量300mOsm/kgH20",
+            "C.一次性尿渗量＞450mOsm/kg20",
+            "D.一次性尿渗量＜350mOsm/kgH20",
+            "E.禁饮尿渗量600-1000mOsm/kgH20"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 126
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.结核性变态反应性关节炎的最主要特点是:",
+        "options": [
+            "A.日久易形成冷脓肿",
+            "B.膝关节疼痛最常见",
+            "C.髋关节疼痛最常见",
+            "D.腰椎关节疼痛最常见",
+            "E.多发性游走性关节疼痛最常见"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "2.患者，女性，38岁，双手小关节疼痛5年，检查发现双手指间关节肿胀，呈梭形状，关节活动受限。该患者最可能患有:",
+        "options": [
+            "A.指骨结核",
+            "B.进行性肌萎缩",
+            "C.风湿热",
+            "D.类风湿关节炎",
+            "E.指间关节积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "3.发作性关节痛伴血尿酸增高多见于下列哪种疾病？",
+        "options": [
+            "A.痛风",
+            "B.关节结核",
+            "C.系统性红斑狼疮",
+            "D.风湿热",
+            "E.骨质疏松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "4.关节痛呈游走性，伴心脏炎、舞蹈病见于:",
+        "options": [
+            "A.结核",
+            "B.风湿热",
+            "C.类风湿",
+            "D.痛风",
+            "E.系统性红斑狼疮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

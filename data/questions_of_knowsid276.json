@@ -1,0 +1,310 @@
+[
+    {
+        "question_text": "1.膀胱刺激征是指:",
+        "options": [
+            "A.排尿时耻骨上区似针刺样痛",
+            "B.排尿时尿道疼痛",
+            "C.排尿频、急",
+            "D.排尿频、尿痛",
+            "E.排尿频，尿急，尿痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 1
+    },
+    {
+        "question_text": "2.排尿次数增多，每次尿量减少的病变，除外:",
+        "options": [
+            "A.精神紧张",
+            "B.神经原性膀胱",
+            "C.糖尿病",
+            "D.下尿路有梗阻",
+            "E.后尿道炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 2
+    },
+    {
+        "question_text": "3.排尿次数增多而每次尿量正常的情况，除外:",
+        "options": [
+            "A.饮水多",
+            "B.糖尿病",
+            "C.尿崩症",
+            "D.肾衰的多尿期",
+            "E.老年人肾功能减退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 3
+    },
+    {
+        "question_text": "4.引起尿急的因素中，哪项是错误的？",
+        "options": [
+            "A.尿道炎症",
+            "B.尿中含糖量高",
+            "C.膀胱异物",
+            "D.前列腺肿瘤",
+            "E.尿浓缩、酸性高的尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 4
+    },
+    {
+        "question_text": "5.尿频、尿急、尿痛同时出现常见于以下疾病，但除外:",
+        "options": [
+            "A.急性膀胱炎",
+            "B.急性前列腺炎",
+            "C.膀胱结石",
+            "D.狼疮肾病",
+            "E.慢性阑尾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 5
+    },
+    {
+        "question_text": "6.以下哪种疾病不会引起多尿性尿频？",
+        "options": [
+            "A.糖尿病",
+            "B.尿崩症",
+            "C.急性肾衰多尿期",
+            "D.神经性多饮",
+            "E.膀胱炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 6
+    },
+    {
+        "question_text": "7.尿痛的疾病除外:",
+        "options": [
+            "A.尿道炎",
+            "B.前列腺炎",
+            "C.肾炎",
+            "D.膀胱炎",
+            "E.膀胱结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 7
+    },
+    {
+        "question_text": "8.急性前列腺炎时有膀胱刺激症状，其常见伴随症状除外:",
+        "options": [
+            "A.会阴部发胀",
+            "B.肛门下坠",
+            "C.腰背酸痛并放射到腹股沟、睪丸及大腿部",
+            "D.常引起便秘",
+            "E.耻骨上也隐痛不适"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 8
+    },
+    {
+        "question_text": "9.尿失禁的类型，除外:",
+        "options": [
+            "A.精神性尿失禁",
+            "B.功能性尿失禁",
+            "C.充溢性尿失禁",
+            "D.压力性尿失禁",
+            "E.急迫性尿失禁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪种疾病引起的尿频不伴尿急、尿痛？",
+        "options": [
+            "A.膀胱炎",
+            "B.尿道炎",
+            "C.肾盂肾炎",
+            "D.尿崩症",
+            "E.尿道综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 10
+    },
+    {
+        "question_text": "11.患者，女性，35岁，尿频、尿急、尿痛伴腰痛、发热、寒战1天，右侧肾区压痛、叩击痛，其发热原因最可能是:",
+        "options": [
+            "A.膀胱炎",
+            "B.慢性肾盂肾炎",
+            "C.急性肾盂肾炎",
+            "D.急性肾小球肾炎",
+            "E.慢性肾小球肾炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 11
+    },
+    {
+        "question_text": "12.尿频但无尿急、尿痛表现，常见于:",
+        "options": [
+            "A.糖尿病",
+            "B.膀胱炎",
+            "C.泌尿系结核",
+            "D.泌尿系结石",
+            "E.附件炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项可引起急性尿潴留？",
+        "options": [
+            "A.尿道炎",
+            "B.膀胱癌",
+            "C.麻醉手术后",
+            "D.急性膀胱炎",
+            "E.早期前列腺癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 13
+    },
+    {
+        "question_text": "14.排尿开始出现的疼痛多见于:",
+        "options": [
+            "A.尿崩症",
+            "B.习惯性尿频",
+            "C.尿道炎",
+            "D.膀胱炎",
+            "E.糖尿病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 14
+    },
+    {
+        "question_text": "15.老年患者尿频伴排尿困难首先考虑:",
+        "options": [
+            "A.膀胱肿瘤",
+            "B.前列腺增生症",
+            "C.尿道结石",
+            "D.前列腺炎",
+            "E.肾结石"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 15
+    },
+    {
+        "question_text": "16.尿频伴真性尿失禁常见于:",
+        "options": [
+            "A.前列腺增生症",
+            "B.神经性膀胱",
+            "C.急性膀胱炎",
+            "D.前列腺炎",
+            "E.膀胱结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 16
+    },
+    {
+        "question_text": "17.发热伴尿频、尿急、尿痛及肾区叩击痛，多见于:",
+        "options": [
+            "A.急性肾盂肾炎",
+            "B.急性膀胱炎",
+            "C.急性前列腺炎",
+            "D.急性阑尾炎",
+            "E.尿道综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 17
+    },
+    {
+        "question_text": "18.老年男性尿频伴有尿线细，进行性排尿困难多见于:",
+        "options": [
+            "A.肾结石",
+            "B.膀胱结石",
+            "C.膀胱结核",
+            "D.输尿管末端结石",
+            "E.前列腺增生症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 18
+    },
+    {
+        "question_text": "19.患者65岁，男性，尿频、尿急、尿痛伴尿后部血尿半年，初步诊断是:",
+        "options": [
+            "A.尿道炎",
+            "B.膀胱炎",
+            "C.输尿管结石",
+            "D.膀胱癌",
+            "E.膀胱结核"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 19
+    },
+    {
+        "question_text": "20.患者，女性，50岁，尿频，尿急，无发热，多次尿检及尿培养均未见异常，影像学检查泌尿系统无异常发现，应考虑:",
+        "options": [
+            "A.感染性尿道综合征",
+            "B.非感染性尿道综合征",
+            "C.膀胱炎",
+            "D.肾盂肾炎",
+            "E.膀胱结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 20
+    },
+    {
+        "question_text": "21.患者男性，70岁，无痛性血尿1个月，尿潴留1天，诊断初步考虑为:",
+        "options": [
+            "A.尿道炎",
+            "B.前列腺增生症",
+            "C.前列腺癌",
+            "D.膀胱结石",
+            "E.膀胱癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 21
+    },
+    {
+        "question_text": "22.患者，男性，60岁，有排尿不畅史1年。检查发现前列腺增大，表面光滑，质韧，无压痛，最可能的诊断为:",
+        "options": [
+            "A.正常前列腺",
+            "B.良性前列腺肥大",
+            "C.前列腺癌",
+            "D.急性前列腺炎",
+            "E.前列腺发育异常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 22
+    }
+]

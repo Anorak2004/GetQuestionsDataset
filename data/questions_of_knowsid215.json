@@ -1,0 +1,436 @@
+[
+    {
+        "question_text": "1.关于ABO血型系统，下列哪项是错误的？",
+        "options": [
+            "A.ABO血型决定于红细胞表面抗原",
+            "B.血清中存在ABO血型的天然抗体",
+            "C.ABO血型也与天然抗体的类型相关",
+            "D.ABO血型物质存在于白细胞和血小板表面",
+            "E.ABO血型一般终身不变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 1
+    },
+    {
+        "question_text": "2.组织相溶性抗原是指：",
+        "options": [
+            "A.人类白细胞抗原",
+            "B.红细胞抗原",
+            "C.血小板抗原",
+            "D.血清蛋白抗原",
+            "E.细菌抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 2
+    },
+    {
+        "question_text": "3.血型系统是指若干个相互关系的抗原、抗体组成的血型体系，下列哪一项为非血型系统？",
+        "options": [
+            "A.红细胞抗原系统",
+            "B.白细胞抗原系统",
+            "C.血小板抗原系统",
+            "D.血清蛋白抗原系统",
+            "E.细菌抗原系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 3
+    },
+    {
+        "question_text": "4.ABO血型系统中重要的亚型是A抗原，比较重要的A亚型应除外下列哪一种亚型？",
+        "options": [
+            "A.A1亚型",
+            "B.A2亚型",
+            "C.A3亚型",
+            "D.A4亚型",
+            "E.Ax亚型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 4
+    },
+    {
+        "question_text": "5.ABO血型系统的临床意义除外下列哪一项？",
+        "options": [
+            "A.指导输血",
+            "B.新生儿同种免疫溶血病",
+            "C.器官移植",
+            "D.亲缘鉴定",
+            "E.病毒中和抗体检测"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 5
+    },
+    {
+        "question_text": "6.ABO血型检查应除外下列哪一种鉴定？",
+        "options": [
+            "A.亲缘",
+            "B.可疑血迹",
+            "C.精斑",
+            "D.毛发",
+            "E.性别"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 6
+    },
+    {
+        "question_text": "7.ABO血型鉴定：抗A和抗B血清中受检红细胞均凝集，A型和B型红细胞加入受检者血清中均不凝集，其血型为：",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.AB型",
+            "D.0型",
+            "E.A1型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 7
+    },
+    {
+        "question_text": "8.ABO血型系统最重要的亚型是",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.AB型",
+            "D.O型",
+            "E.Ax型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 8
+    },
+    {
+        "question_text": "9.O型血的血清中含有：",
+        "options": [
+            "A.抗A凝集素",
+            "B.抗B凝集素",
+            "C.抗A及抗B凝集素",
+            "D.抗A或抗B凝集素",
+            "E.以上均不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 9
+    },
+    {
+        "question_text": "10.父母血型分别是A型和B型，子代的血型可能是：",
+        "options": [
+            "A.0",
+            "B.A",
+            "C.B",
+            "D.AB",
+            "E.以上都有可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 10
+    },
+    {
+        "question_text": "11.与0型血易混淆的A亚型是：",
+        "options": [
+            "A.A1",
+            "B.A2",
+            "C.A3",
+            "D.Ax",
+            "E.Am"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 11
+    },
+    {
+        "question_text": "12.与B型血清（抗A抗体）不发生凝集或凝集反应衰弱，但却能为0型血清发生凝集的A亚型是：",
+        "options": [
+            "A.A1",
+            "B.A2",
+            "C.A3",
+            "D.Ax",
+            "E.Am"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 12
+    },
+    {
+        "question_text": "13.引起输血反应常见的原因是：",
+        "options": [
+            "A.ABO血型不符",
+            "B.抗原-抗体复合物",
+            "C.RF因子",
+            "D.抗核抗体",
+            "E.HL-A抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 13
+    },
+    {
+        "question_text": "14.A亚型之间输血可能引起输血反应的是：",
+        "options": [
+            "A.A1与A2",
+            "B.A1与A3",
+            "C.A1与Ax",
+            "D.A1与Am",
+            "E.A1与A1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 14
+    },
+    {
+        "question_text": "15.输血产生的血型抗体以哪种免疫球蛋白为主？",
+        "options": [
+            "A.IgA",
+            "B.IgD",
+            "C.IgE",
+            "D.IgG",
+            "E.IgM"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 15
+    },
+    {
+        "question_text": "16.Rh血型系统是指：",
+        "options": [
+            "A.红细胞抗原",
+            "B.白细胞抗原",
+            "C.血小板抗原",
+            "D.血清蛋白抗原",
+            "E.细菌抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 16
+    },
+    {
+        "question_text": "17.Rh血型系统主要的抗原有下列几种？",
+        "options": [
+            "A.B",
+            "B.C",
+            "C.c",
+            "D.E",
+            "E.e"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 17
+    },
+    {
+        "question_text": "18.Rh血型抗原性最强指：",
+        "options": [
+            "A.C",
+            "B.D",
+            "C.E",
+            "D.e",
+            "E.d"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 18
+    },
+    {
+        "question_text": "19.在Rh血型系统的抗原中抗原性最强，临床意义最重要的是：",
+        "options": [
+            "A.C",
+            "B.c",
+            "C.D",
+            "D.e",
+            "E.E"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 19
+    },
+    {
+        "question_text": "20.Rh血型抗原性最强的是",
+        "options": [
+            "A.C",
+            "B.D",
+            "C.E",
+            "D.e",
+            "E.d"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 20
+    },
+    {
+        "question_text": "21.Rh血型系统的抗原主要有下列几种，但哪种抗原理论上有，但目前未能发现和肯定：",
+        "options": [
+            "A.C",
+            "B.c",
+            "C.D",
+            "D.d",
+            "E.E"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于Rh血型系统，下列哪项不正确？",
+        "options": [
+            "A.汉族人红细胞上没有Rh抗原的（Rh阴性）比例＜1％",
+            "B.Rh血型系统5种抗原中抗原性最强的是D",
+            "C.Rh抗体主要是免疫性抗体，天然抗体极少",
+            "D.Rh阴性母亲产出新生儿的Ph溶血病多发在第一胎",
+            "E.Rh血型不合输血极易发生血管外溶血反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 22
+    },
+    {
+        "question_text": "23.至今国际组织公认的白细胞抗原有：",
+        "options": [
+            "A.20多种",
+            "B.100多种",
+            "C.200多种",
+            "D.300多种",
+            "E.500多种"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 23
+    },
+    {
+        "question_text": "24.与移植成活率相关性最高的人类白细胞表面抗原（HLA）是：",
+        "options": [
+            "A.HLA-A",
+            "B.HLA-C",
+            "C.HLA-B",
+            "D.HLA-D",
+            "E.HLA-DR"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 24
+    },
+    {
+        "question_text": "25.HLA血型系统主要抗原有下列几种，哪项抗原需除外？",
+        "options": [
+            "A.A",
+            "B.B",
+            "C.C",
+            "D.D",
+            "E.E"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 25
+    },
+    {
+        "question_text": "26.关于HLA系统，下列哪一条是错误的？",
+        "options": [
+            "A.HLA存在于各种白细胞和多种组织细胞上",
+            "B.HLA又称为组织相容性抗原",
+            "C.HLA遗传基因位于第六号染色体上",
+            "D.HLA可有十余种不同组合的抗原型",
+            "E.HLA配型与器官移植成活率相关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 26
+    },
+    {
+        "question_text": "27.HLA分型的主流技术是：",
+        "options": [
+            "A.血清学分型",
+            "B.交叉配型",
+            "C.DNA分型",
+            "D.HLA抗原测定",
+            "E.细胞学分型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 27
+    },
+    {
+        "question_text": "28.血小板非特异性抗原与红细胞共有抗原有下列几种，其中哪项抗原需除外？",
+        "options": [
+            "A.ABO",
+            "B.Mn",
+            "C.P",
+            "D.Ii",
+            "E.HLA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 28
+    },
+    {
+        "question_text": "29.献血员的两次献血间隔应为：",
+        "options": [
+            "A.大于1月",
+            "B.大于2月",
+            "C.大于3月",
+            "D.大于4月",
+            "E.小于1月"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 29
+    },
+    {
+        "question_text": "30.最主要的红细胞血型系统是：",
+        "options": [
+            "A.ABO血型系统",
+            "B.Rh血型系统",
+            "C.P血型系统",
+            "D.Lewis血型系统",
+            "E.Li血型系统"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 30
+    },
+    {
+        "question_text": "31.保证输血安全的关键措施是：",
+        "options": [
+            "A.ABO血型鉴定",
+            "B.同型输血",
+            "C.交叉配血",
+            "D.输注O型血",
+            "E.盐水介质凝集试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 31
+    }
+]

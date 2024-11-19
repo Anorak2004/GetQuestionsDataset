@@ -1,0 +1,716 @@
+[
+    {
+        "question_text": "1.\t心力衰竭概念的主要内容是",
+        "options": [
+            "A.\t心肌收缩功能障碍",
+            "B.\t心肌舒张功能障碍",
+            "C.\t心输出量绝对下降",
+            "D.\t心输出量相对下降",
+            "E.\t心输出量不能满足机体需要"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t引起心肌损害导致舒缩功能障碍的直接因素是",
+        "options": [
+            "A.\t动脉瓣膜关闭不全",
+            "B.\t室间隔缺损",
+            "C.\t高血压",
+            "D.\t心肌炎",
+            "E.\t肺源性心脏病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t引起心脏容量负荷过重的因素是",
+        "options": [
+            "A.\t动脉瓣膜狭窄",
+            "B.\t肺动脉高压",
+            "C.\t肺栓塞",
+            "D.\t肺源性心脏病",
+            "E.\t动脉瓣膜关闭不全"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t引起心脏压力负荷过重的因素是",
+        "options": [
+            "A.\t高血压",
+            "B.\t室间隔缺损",
+            "C.\t甲亢",
+            "D.\t动静脉痿",
+            "E.\t慢性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 4
+    },
+    {
+        "question_text": "5.\tIII级心功能不全的表现是",
+        "options": [
+            "A.\t在休息时无症状和体征",
+            "B.\t轻体力劳动时无症状和体征",
+            "C.\t一般体力劳动时可出现气急、心悸",
+            "D.\t轻体力劳动时即出现心衰的症状和体征",
+            "E.\t安静时即出现心衰的症状和体征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下述哪一因素不会引起低输出量性心力衰竭？",
+        "options": [
+            "A.\t冠心病",
+            "B.\t严重贫血",
+            "C.\t心瓣膜病",
+            "D.\t心肌炎",
+            "E.高血压病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t横桥是下述哪一种蛋白的重要组成部分？",
+        "options": [
+            "A.\t肌球蛋白",
+            "B.\t肌动蛋白",
+            "C.\t向肌球蛋白",
+            "D.\t肌钙蛋白",
+            "E.\t收缩蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t横桥的主要作用是",
+        "options": [
+            "A.\t与Ca2+结合产生变构效应",
+            "B.\t与Mg2+结合产生激活作用",
+            "C.\t与肌动蛋白上“作用点”可逆性结合",
+            "D.\t与肌动蛋白上“作用点”不可逆性结合",
+            "E.\t与肌球蛋白上“作用点”可逆性结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t有关高输出量性心力衰竭特点的描述哪一项是错 误的？",
+        "options": [
+            "A.\t心输出量较发病前有所下降",
+            "B.\t心输出量可高于正常水平",
+            "C.\t回心血量多于正常水平",
+            "D.\t心脏负荷明显增大",
+            "E.\t其产生主要原因是高血压病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 9
+    },
+    {
+        "question_text": "10,\t下述哪一因素不会使心肌的收缩性减弱？",
+        "options": [
+            "A.\t心肌收缩蛋白和调节蛋白被破坏",
+            "B.\t心肌能量代谢紊乱",
+            "C.\t急性低钾血症",
+            "D.\t心肌兴奋-收缩耦联障碍",
+            "E.\t心肌肥大的不平衡生长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t临床上引起心肌细胞坏死最常见的原因是",
+        "options": [
+            "A.\t病毒感染",
+            "B.\t细菌感染",
+            "C.\t锑中毒",
+            "D.\t阿霉素中毒",
+            "E.\t急性心肌梗死"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 11
+    },
+    {
+        "question_text": "12,\t下述哪一因素不是心衰时氧自由基产生增多的 原因？",
+        "options": [
+            "A.\t儿茶酚胺的大量分泌和自氧化",
+            "B.\t肿瘤坏死因子合成分泌增加",
+            "C.\tY-干扰素合成分泌增加",
+            "D.\t磷脂酶A2受抑制",
+            "E.\t黄嘌吟氧化酶被激活"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 12
+    },
+    {
+        "question_text": "13,\t心力衰竭时出现能量利用障碍的最常见原因是",
+        "options": [
+            "A.\t心肌过度肥大",
+            "B.\t心脏缺血缺氧",
+            "C.\t维生素B1缺乏",
+            "D.\t肌浆网Ca2+摄取能力减弱",
+            "E.\t肌钙蛋白与Ca2+结合障碍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 13
+    },
+    {
+        "question_text": "14,\t能将心肌的兴奋与耦联联系在一起的因子是",
+        "options": [
+            "A.\tCa2+",
+            "B.\tMg2+",
+            "C.\tCl-",
+            "D.\tK+",
+            "E.\tNa+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t启动心肌收缩的［Ca2+］的阈值是",
+        "options": [
+            "A.\t10~-3mol/L",
+            "B.\t10~-4mol/L",
+            "C.\t10~-5mol/L",
+            "D.\t10~-6mol/L",
+            "E.\t10~-7mol/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t心肌肌浆网Ca2+摄取能力下降的后果是",
+        "options": [
+            "A.\t心肌收缩性下降",
+            "B.\t心肌不能充分舒张",
+            "C.\t心肌能量产生障碍",
+            "D.\t心肌能量利用障碍",
+            "E.\t肌钙蛋白与Ca2+结合障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t心肌从兴奋的电活动转为收缩的机械活动的关 键点是",
+        "options": [
+            "A.\t肌浆网Ca2+摄取能力",
+            "B.\t肌浆网Ca2+储存量",
+            "C.\t肌浆网Ca2+释放量",
+            "D.\t胞外Ca2+内流",
+            "E.\t肌钙蛋白与Ca2+结合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t心肌肥大的不平衡生长导致心衰的原因是",
+        "options": [
+            "A.\t心肌细胞体积过度增大",
+            "B.\t心肌细胞重量过度增加",
+            "C.\t心肌细胞表面积相对不足",
+            "D.\t心肌细胞表面积过度增加",
+            "E.\t心肌重量的增加与心功能的增加不成比例"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t心肌收缩完毕后，产生正常舒张的首要因素是",
+        "options": [
+            "A.\t胞浆Ca2+浓度迅速下降",
+            "B.\t胞浆Ca2+浓度迅速上升",
+            "C.\t细胞外Ca2+迅速内流",
+            "D.\t肌钙蛋白与Ca2+迅速结合",
+            "E.\t肌钙蛋白与Ca2+迅速解离"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下述有关心室舒张势能的描述哪一项是错误 的？",
+        "options": [
+            "A.\t心室舒张势能来自心室的收缩",
+            "B.\t心室收缩愈好其势能就愈大",
+            "C.\t心室收缩性减弱其势能就减小",
+            "D.\t冠状动脉充盈情况也是影响心室舒张势能的因素",
+            "E.\t高血压时心室内压增高其舒张势能增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t心室顺应性是指",
+        "options": [
+            "A.\t心室单位容积变化所出现的压力改变",
+            "B.\t心室在单位压力变化下所引起的容积改变",
+            "C.\t心室在单位压力变化下所引起的心肌长度改变",
+            "D.\t心室在单位压力变化下所引起的心肌体积改变",
+            "E.\t心室在单位压力变化下所引起的心脏大小改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t下述有关心室顺应性的描述哪项是不正确的？",
+        "options": [
+            "A.\t心室顺应性的倒数称心室僵硬度",
+            "B.\t心室舒张末期压力容积曲线（P-V曲线）可反映 心室的顺应性",
+            "C.\t心室顺应性下降时P-V曲线右移",
+            "D.\t室壁增厚可引起心室顺应性下降",
+            "E.\t心室顺应性下降可出现肺淤血、肺水肿等表现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t破坏心脏舒缩活动协调性最常见的原因是",
+        "options": [
+            "A.\t各类心律失常",
+            "B.\t心室舒张势能减少",
+            "C.\t心肌能量代谢紊乱",
+            "D.\t心室顺应性降低",
+            "E.\t心肌肥大的不平衡生长"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t左心衰引起呼吸困难的病理生理基础是",
+        "options": [
+            "A.\t左心室收缩功能减弱",
+            "B.\t肺顺应性增强",
+            "C.\t肺泡敏感性增加",
+            "D.\t肺静脉回流增多",
+            "E.\t肺动脉高压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t心衰患者出现端坐呼吸的机制是",
+        "options": [
+            "A.\t端坐体位迷走神经兴奋性增高",
+            "B.\t端坐时回心血量增多",
+            "C.\t端坐时机体缺氧加剧",
+            "D.\t端坐时减轻肺淤血",
+            "E.\t端坐时膈肌位置相应上移"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t心衰患者出现夜间阵发性呼吸困难，其产生的 主要机制是",
+        "options": [
+            "A.\t夜间周围血管紧张性增高",
+            "B.\t神经反射的敏感性增高",
+            "C.\t迷走神经相对抑制",
+            "D.\t平卧时水肿液吸收入血减少",
+            "E.\t平卧后胸腔容积减少不利于通气"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t左心衰患者最严重的临床表现是",
+        "options": [
+            "A.\t肝淤血肿大",
+            "B.\t全身性水肿",
+            "C.\t全身静脉淤血",
+            "D.\t肺水肿",
+            "E.\t臂肺循环时间延长"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t左心衰患者出现劳力性呼吸困难的机制是",
+        "options": [
+            "A.\t体力活动时部分血液转移到躯体下半部",
+            "B.\t体力活动时膈肌位置相对下移",
+            "C.\t体力活动时机体需氧增加",
+            "D.\t体力活动时迷走神经相对兴奋",
+            "E.\t体力活动时神经反射敏感性降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t心力衰竭发病的关键环节是",
+        "options": [
+            "A.\t心肌收缩性减弱",
+            "B.\t心肌舒张功能异常",
+            "C.\t心脏各部分舒缩活动不协调",
+            "D.\t心输出量减少",
+            "E.\t心肌细胞凋亡坏死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t成人心率加快超过多少次反而心输出量下降？",
+        "options": [
+            "A.\t120次/分",
+            "B.\t140次/分",
+            "C.\t160次/分",
+            "D.\t180次/分",
+            "E.\t200次/分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t心衰患者出现心率加快的机制是",
+        "options": [
+            "A.\t颈动脉窦压力感受器传入冲动增多",
+            "B.\t主动脉弓上的压力感受器传入冲动增多",
+            "C.\t心交感神经兴奋性增高",
+            "D.\t心房“容量感受器”刺激减少",
+            "E.\t心肌细胞肥大和数量增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t心肌肌节的最适长度是",
+        "options": [
+            "A.\t2.0 卩 m",
+            "B.\t2.2 卩 m",
+            "C.\t2.4 卩 m",
+            "D.\t2.6 卩 m",
+            "E.\t2.8 卩 m"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t心脏肌源性扩张的特点是",
+        "options": [
+            "A.\t容量减小伴有收缩力增强",
+            "B.\t容量加大伴有收缩力增强",
+            "C.\t肌节长度小于2.2 um",
+            "D.\t肌节长度正处于2.2 um",
+            "E.\t心肌拉长不伴有收缩力增强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t心脏紧张源性扩张的特点是",
+        "options": [
+            "A.\t容量增大并伴有收缩力增强",
+            "B.\t容量减小并伴有收缩力增强",
+            "C.\t心肌拉长不伴有收缩力增强",
+            "D.\t是一种失代偿后出现的扩张",
+            "E.\t肌节长度达到3.65 u m"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t引起心肌离心性肥大的原因是",
+        "options": [
+            "A.\t主动脉瓣闭锁不全",
+            "B.\t肺动脉高压",
+            "C.\t高血压",
+            "D.\t主动脉瓣狭窄",
+            "E.\t肺源性心脏病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t引起心肌向心性肥大的原因是",
+        "options": [
+            "A.\t高血压",
+            "B.\t动脉瓣膜关闭不全",
+            "C.\t动静脉痿",
+            "D.\t室间隔缺损",
+            "E.\t甲状腺功能亢进"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 36
+    },
+    {
+        "question_text": "37. 心肌向心性肥大的最基本特性是",
+        "options": [
+            "A. 心肌纤维呈并联性增生",
+            "B. 心肌纤维呈串联性增生",
+            "C. 心肌细胞体积增大",
+            "D. 心肌细胞重量增加",
+            "E. 心肌肌纤维长度增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t心肌离心性肥大的最基本特性是",
+        "options": [
+            "A.\t心肌肌纤维变粗",
+            "B.\t心肌细胞体积增大",
+            "C.\t心肌细胞重量增加",
+            "D.\t心肌纤维呈串联性增生",
+            "E.\t心肌纤维呈并联性增生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t下述哪一因素不是慢性心衰时引起血容量增加 的原因？",
+        "options": [
+            "A.\t儿茶酚胺增多",
+            "B.\t肾素分泌增多",
+            "C.\t血管紧张素II增多",
+            "D.\tPGE2产生增多",
+            "E.\t心房肽分泌减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t心衰时出现血流重新分布，以保证",
+        "options": [
+            "A.\t心、肺的供血",
+            "B.\t心、脑的供血",
+            "C.\t心、肾的供血",
+            "D.\t肝、脑的供血",
+            "E.\t肾、脑的供血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t心衰时出现红细胞增多的原因是",
+        "options": [
+            "A.\t红细胞寿命延长",
+            "B.\t红细胞脆性降低",
+            "C.\t肾合成红细胞生成素增多",
+            "D.\t肝细胞合成红细胞生成素原增多",
+            "E.\t骨髓造血功能亢进"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t心肌重构是指",
+        "options": [
+            "A.\t心肌细胞在结构、功能、数量及遗传表型方面所 出现的适应性、增生性变化",
+            "B.\t心肌及心肌间质在细胞结构、功能、数量及遗传 表型方面所出现的适应性、增生性变化",
+            "C.\t心肌细胞在结构方面所出现的适应性、增生性变 化",
+            "D.\t心肌间质细胞在结构方面所出现的适应性、增生 性变化",
+            "E.\t心肌及心肌间质在遗传表型方面所出现的适应 性、增生性变化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t心衰时重构心肌收缩性减弱的分子基础是",
+        "options": [
+            "A.\t表达a -MHC为主",
+            "B.\t表达B -MHC为主",
+            "C.\t表达a -MHC和B -MHC为主",
+            "D.\t心肌细胞体积缩小",
+            "E.\t心肌细胞线粒体数量减小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t产生心性水肿最主要的发病因素是",
+        "options": [
+            "A.\t水钠潴留",
+            "B.\t毛细血管压升高",
+            "C.\t血浆胶渗压下降",
+            "D.\t淋巴回流受阻",
+            "E.\t水钠潴留和毛细血管压升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t心源性肝硬化是指",
+        "options": [
+            "A.\t急性右心衰引起肝严重淤血、质地变硬",
+            "B.\t长期慢性右心衰引起肝小叶纤维化",
+            "C.\t长期慢性左心衰引起肝小叶纤维化",
+            "D.\t长期慢性右心衰引起肝窦纤维化",
+            "E.\t长期慢性右心衰引起肝小叶中央静脉纤维化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t心力衰竭患者最具有特征性的血流动力学变化 是",
+        "options": [
+            "A.\t心输出量绝对减少",
+            "B.\t心输出量相对减少",
+            "C.\t输出量绝对或相对减少",
+            "D.\t心脏储备功能降低",
+            "E.\t外周血液灌注不足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t左心衰竭的临床表现是",
+        "options": [
+            "A.\t肺循环充血伴有心输出量不足",
+            "B.\t心输出量相对不足",
+            "C.\t体循环静脉淤血",
+            "D.\t肺循环充血伴有体循环静脉淤血",
+            "E.\t体循环静脉淤血伴有心输出量减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t慢性右心衰竭主要表现为",
+        "options": [
+            "A.\t心输出量绝对减少",
+            "B.\t心输出量相对减少",
+            "C.\t肺循环充血",
+            "D.\t体循环静脉淤血",
+            "E.\t肺循环充血伴有心输出量减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t钙拮抗剂治疗心袞患者的病理生理基础是",
+        "options": [
+            "A.\t清除诱因",
+            "B.\t增强心肌收缩功能",
+            "C.\t改善心肌舒张性能",
+            "D.\t减轻心脏的前负荷",
+            "E.\t调整心脏的前负荷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t使用血管紧张素转换酶抑制剂治疗心力衰竭的 病理生理基础是",
+        "options": [
+            "A.\t减轻心脏后负荷",
+            "B.\t降低心脏前负荷",
+            "C.\t增强心肌收缩功能",
+            "D.\t改善心肌舒张性能",
+            "E.\t清除心衰的诱发因素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t左心衰竭引起呼吸困难的主要原因是",
+        "options": [
+            "A.\t肺不张",
+            "B.\t肺实变",
+            "C.\t肺淤血",
+            "D.\t肺气肿",
+            "E.\t肺纤维化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "51",
+        "number": 51
+    }
+]

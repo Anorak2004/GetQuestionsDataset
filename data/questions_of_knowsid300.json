@@ -1,0 +1,1680 @@
+[
+    {
+        "question_text": "581.肺通气的原动力来自",
+        "options": [
+            "A.肺内压和胸膜腔内压之差",
+            "B.肺的扩大和缩小",
+            "C.胸廓的扩大和缩小",
+            "D.呼吸肌的收缩和舒张",
+            "E.胸膜腔内压的周期性变化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 1
+    },
+    {
+        "question_text": "582.平静呼吸时.肺内压在下列各时相内低于大气压的是",
+        "options": [
+            "A.吸气过程中",
+            "B.吸气末",
+            "C.呼气过程中",
+            "D.呼气末",
+            "E.呼吸暂停而气道通畅时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 2
+    },
+    {
+        "question_text": "583.下列各项中.能较好地反映肺通气功能好坏的指标是",
+        "options": [
+            "A.肺活量",
+            "B.用力呼气量",
+            "C.补吸气量",
+            "D.补呼气量",
+            "E.肺扩散容量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 3
+    },
+    {
+        "question_text": "584.氧解离曲线由正常位置向左移.可见于",
+        "options": [
+            "A.血液在一定氧分压时氧含量减少",
+            "B.贫血",
+            "C.从血液进入组织的氧量增加",
+            "D.储存数周的血液",
+            "E.组织代谢增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 4
+    },
+    {
+        "question_text": "585.可引起氧解离曲线由正常位置右移的是",
+        "options": [
+            "A.二氧化碳分压升高",
+            "B.2，3-DPG浓度降低",
+            "C.pH升高",
+            "D.温度降低",
+            "E.吸入气中CO含量增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 5
+    },
+    {
+        "question_text": "586.1g血红蛋白可结合的氧量为",
+        "options": [
+            "A.0.34--0.39ml",
+            "B.1.34 --1.39ml",
+            "C.1.39 --2.34ml",
+            "D.2.34--2.39ml",
+            "E.2.39--3.34ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 6
+    },
+    {
+        "question_text": "587.氧解离曲线是表示下列关系中的",
+        "options": [
+            "A.Hb含量与氧解离量",
+            "B.Hb氧饱和度与血氧分压",
+            "C.Hb氧饱和度与Hb氧含量",
+            "D.Hb浓度与Hb氧容量",
+            "E.Hb浓度与Hb氧含量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 7
+    },
+    {
+        "question_text": "588.血液中二氧化碳的含量主要取决于",
+        "options": [
+            "A.二氧化碳分压",
+            "B.氧分压",
+            "C.血液的pH",
+            "D.血液的温度",
+            "E.血红蛋白浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 8
+    },
+    {
+        "question_text": "589.血液中二氧化碳的主要运输形式是",
+        "options": [
+            "A.物理溶解",
+            "B.氨基甲酰血红蛋白",
+            "C.碳酸氢盐",
+            "D.氧合血红蛋白",
+            "E.去氧血红蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 9
+    },
+    {
+        "question_text": "590.延髓呼吸神经元主要分布在",
+        "options": [
+            "A.迷走神经背核和孤束核背侧",
+            "B.孤束核背外侧区和疑核区",
+            "C.网状结构背侧部",
+            "D.网状结构腹侧部",
+            "E.孤束核腹外侧、后疑核、疑核和面神经后核"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 10
+    },
+    {
+        "question_text": "591.产生呼吸节律的基本中枢位于",
+        "options": [
+            "A.脊髓",
+            "B.延髓",
+            "C.脑桥",
+            "D.下丘脑",
+            "E.大脑皮层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 11
+    },
+    {
+        "question_text": "592.脑桥呼吸调整中枢的主要功能是",
+        "options": [
+            "A.促使吸气转为呼气",
+            "B.促使呼气转为吸气",
+            "C.减慢呼吸频率",
+            "D.接受肺牵张反射的传入信息",
+            "E.使吸气缩短和呼气延长"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 12
+    },
+    {
+        "question_text": "593.实验切断双侧颈迷走神经后.兔的呼吸",
+        "options": [
+            "A.频率加快，幅度减小",
+            "B.频率加快，幅度增大",
+            "C.频率和幅度均不变",
+            "D.频率减慢，幅度减小",
+            "E.频率减慢，幅度增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 13
+    },
+    {
+        "question_text": "594.下列关于肺牵张反射的叙述.错误的是",
+        "options": [
+            "A.感受器存在于支气管和细支气管的平滑肌层中",
+            "B.传入纤维在迷走神经中上行至延髓",
+            "C.可促进吸气及时转入呼气",
+            "D.正常人平静呼吸时，对呼吸节律起重要调节作 用",
+            "E.有明显的种属差异"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 14
+    },
+    {
+        "question_text": "595.关于动脉血二氧化碳分压升高引起的各种效 应.下列叙述错误的是",
+        "options": [
+            "A.刺激外周化学感受器，使呼吸运动增强",
+            "B.刺激中枢化学感受器，使呼吸运动增强",
+            "C.直接兴奋呼吸中枢",
+            "D.使氧解离曲线右移",
+            "E.使血液中二氧化碳容积百分数增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 15
+    },
+    {
+        "question_text": "596.血中二氧化碳分压升高使呼吸运动加强.主 要通过刺激",
+        "options": [
+            "A.脑桥呼吸相关神经元",
+            "B.中枢化学敏感区",
+            "C.延髓呼吸神经元",
+            "D.颈动脉窦和主动脉弓",
+            "E.颈动脉体和主动脉体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 16
+    },
+    {
+        "question_text": "597.缺氧使呼吸活动增强.主要通过刺激",
+        "options": [
+            "A.延髓呼吸中枢",
+            "B.中枢化学敏感区",
+            "C.颈动脉窦和主动脉弓",
+            "D.脑桥呼吸中枢",
+            "E.颈动脉体和主动脉体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 17
+    },
+    {
+        "question_text": "598.下列关于胸膜腔内压的叙述.错误的是",
+        "options": [
+            "A.等于肺内压与肺回缩压之差",
+            "B.总是低于大气压",
+            "C.可用食管内压间接表示",
+            "D.有利于维持肺的扩张状态",
+            "E.有利于静脉血液回流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 18
+    },
+    {
+        "question_text": "599.胸膜腔内压在平静呼气末",
+        "options": [
+            "A.高于大气压",
+            "B.等于大气压",
+            "C.比呼气时的负值小",
+            "D.比吸气时的负值大",
+            "E.比吸气末的负值大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 19
+    },
+    {
+        "question_text": "600.肺表面活性物质减少将导致",
+        "options": [
+            "A.肺难以扩张",
+            "B.小肺泡内压小于大肺泡内压",
+            "C.肺弹性阻力减小",
+            "D.肺泡表面张力降低",
+            "E.肺顺应性增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 20
+    },
+    {
+        "question_text": "601.下列各种情况能使静脉血PO2降低的是",
+        "options": [
+            "A.贫血",
+            "B.一氧化碳中毒",
+            "C.剧烈运动",
+            "D.亚硝酸盐中毒",
+            "E.过度通气"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 21
+    },
+    {
+        "question_text": "602.推动气体进出肺的直接动力是",
+        "options": [
+            "A.肺内压与大气压之差",
+            "B.肺内压与胸膜腔内压之差",
+            "C.胸膜腔内压与大气压之差",
+            "D.肺弹性回缩压与肺内压之差",
+            "E.胸廓弹性回位压与胸膜腔内压之差"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 22
+    },
+    {
+        "question_text": "603.肺内压在下列各时相内等于大气压的是",
+        "options": [
+            "A.吸气中和呼气中",
+            "B.吸气中和呼气末",
+            "C.吸气末和呼气中",
+            "D.吸气末和呼气末",
+            "E.呼气中和呼气末"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 23
+    },
+    {
+        "question_text": "604.维持胸膜腔内负压的必要条件是",
+        "options": [
+            "A.胸膜脏层和壁层紧贴",
+            "B.胸膜腔与外界封闭",
+            "C.胸膜腔内有少量液体",
+            "D.吸气肌收缩",
+            "E.肺内压低于大气压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 24
+    },
+    {
+        "question_text": "605.肺表面活性物质",
+        "options": [
+            "A.能增加肺泡表面张力",
+            "B.能增加肺顺应性",
+            "C.由肺泡I型细胞分泌",
+            "D.主要成分是二硬脂酰卵磷脂",
+            "E.分布于肺泡上皮细胞与表面液体层之间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 25
+    },
+    {
+        "question_text": "606.跨肺压是指",
+        "options": [
+            "A.肺内压与大气压之差",
+            "B.肺内压与胸膜腔内压之差",
+            "C.大气压与胸膜腔内压之差",
+            "D.大气压与胸廓回缩压之差",
+            "E.大气压与肺回缩压之差"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 26
+    },
+    {
+        "question_text": "607.正常成年人平静呼吸时.肺顺应性",
+        "options": [
+            "A.2L/cmH2O",
+            "B.位于肺静态顺应性曲线上段",
+            "C.大，呼吸省力",
+            "D.与肺泡表面张力大小无关",
+            "E.受残气量大小的影响"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 27
+    },
+    {
+        "question_text": "608.根据Laplace定律.如果大小肺泡彼此相 通.且表面张力相等.那么",
+        "options": [
+            "A.小肺泡内压力大，大肺泡内压力小",
+            "B.小肺泡内压力小，大肺泡内压力大",
+            "C.大小肺泡内压力相等",
+            "D.吸气时气体主要进入小肺泡",
+            "E.呼气时气体主要出自大肺泡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 28
+    },
+    {
+        "question_text": "609.当肺容量约为肺总量的67%时.胸廓",
+        "options": [
+            "A.缩小，弹性阻力向外",
+            "B.扩大，弹性阻力向内",
+            "C.弹性阻力是吸气的阻力",
+            "D.弹性阻力是呼气的阻力",
+            "E.无变形，不表现出弹性阻力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 29
+    },
+    {
+        "question_text": "610.平静呼气末存留于肺内的气量称为",
+        "options": [
+            "A.潮气量",
+            "B.残气量",
+            "C.补呼气量",
+            "D.功能残气量",
+            "E.补吸气量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 30
+    },
+    {
+        "question_text": "611.下列各种物质中可减小气道阻力的是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.儿茶酚胺",
+            "C.内皮素",
+            "D.组胺",
+            "E.白三烯"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 31
+    },
+    {
+        "question_text": "612.下列各种情况中能使肺的静态顺应性增加的 是",
+        "options": [
+            "A.呼吸膜增厚",
+            "B.气道阻力减小",
+            "C.肺惯性阻力减小",
+            "D.肺弹性阻力减小",
+            "E.肺表面活性物质减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 32
+    },
+    {
+        "question_text": "613.当呼吸幅度减小而呼吸频率加快时.受影响 最大的是",
+        "options": [
+            "A.肺通气量",
+            "B.无效腔气量",
+            "C.肺泡通气量",
+            "D.功能残气量",
+            "E.肺扩散容量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 33
+    },
+    {
+        "question_text": "614.对肺泡气体分压变化起缓冲作用的是",
+        "options": [
+            "A.补吸气量",
+            "B.补呼气量",
+            "C.深吸气量",
+            "D.功能残气量",
+            "E.残气量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 34
+    },
+    {
+        "question_text": "615.决定肺部气体交换方向最主要的因素是",
+        "options": [
+            "A.气体的溶解度",
+            "B.气体的分压差",
+            "C.气体的分子量",
+            "D.呼吸膜的通透性",
+            "E.气体和血红蛋白的亲和力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 35
+    },
+    {
+        "question_text": "616.体内二氧化碳分压最高的部位是",
+        "options": [
+            "A.组织液",
+            "B.细胞内液",
+            "C.毛细血管血液",
+            "D.动脉血液",
+            "E.静脉血液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 36
+    },
+    {
+        "question_text": "617.气体的肺扩散容量是指",
+        "options": [
+            "A.每分钟经肺部扩散的气体总量",
+            "B.每平方米体表面积每分钟经肺部扩散的气体总 量",
+            "C.基础状态下每分钟经肺部扩散的气体总量",
+            "D.在ImmHg分压差作用下，每平方米体表面积经 肺部扩散的气体总量",
+            "E.在ImmHg分压差作用下，每分钟经肺部扩散的 气体总量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 37
+    },
+    {
+        "question_text": "618.衡量肺的可扩张性大小的指标是",
+        "options": [
+            "A.弹性阻力",
+            "B.气道阻力",
+            "C.肺扩散容量",
+            "D.肺顺应性",
+            "E.肺回缩力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 38
+    },
+    {
+        "question_text": "619.当肺容量大于肺总量的67%时",
+        "options": [
+            "A.胸廓以其弹性向外扩展，肺的弹性回缩力消失",
+            "B.胸廓以其弹性向内回缩，肺的弹性回缩力向内",
+            "C.胸廓以其弹性向外扩展，肺的弹性回缩力向内",
+            "D.胸廓弹性作用消失，肺的弹性回缩力消失",
+            "E.胸廓弹性作用消失，肺的弹性回缩力向内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 39
+    },
+    {
+        "question_text": "620.当肺容量小于肺总量的67%时",
+        "options": [
+            "A.胸廓以其弹性向外扩展，肺的弹性回缩力消失",
+            "B.胸廓以其弹性向内回缩，肺的弹性回缩力向内",
+            "C.胸廓以其弹性向外扩展，肺的弹性回缩力向内",
+            "D.胸廓以其弹性向内回缩，肺的弹性回缩力消失",
+            "E.胸廓的弹性作用消失，肺的弹性回缩力向内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 40
+    },
+    {
+        "question_text": "621.下列各种情况中能引起动脉血PCO2降低的是",
+        "options": [
+            "A.增大无效腔",
+            "B.肺气肿",
+            "C.肺水肿",
+            "D.呼吸性酸中毒",
+            "E.过度通气"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 41
+    },
+    {
+        "question_text": "622.一氧化碳与血红蛋白的亲和力是氧与血红蛋 白亲和力的",
+        "options": [
+            "A.20 倍",
+            "B.50 倍",
+            "C.100 倍",
+            "D.150 倍",
+            "E.210倍以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 42
+    },
+    {
+        "question_text": "623.血中氢离子浓度升高使呼吸运动增强.主要 通过刺激",
+        "options": [
+            "A.延髓呼吸中枢",
+            "B.脑桥呼吸中枢",
+            "C.中枢化学敏感区",
+            "D.颈动脉体和主动脉体",
+            "E.颈动脉窦和主动脉弓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 43
+    },
+    {
+        "question_text": "624.衡量肺通气潜能的指标是",
+        "options": [
+            "A.肺通气量",
+            "B.肺泡通气量",
+            "C.用力肺活量",
+            "D.用力呼气量",
+            "E.通气储量百分比"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 44
+    },
+    {
+        "question_text": "625.正常人第1秒末用力呼气量约占用力肺活量 的",
+        "options": [
+            "A.50%",
+            "B.60%",
+            "C.70%",
+            "D.80%",
+            "E.90%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 45
+    },
+    {
+        "question_text": "626.下列各种肺容量在严重哮喘病患者降低最为 显著的是",
+        "options": [
+            "A.肺活量",
+            "B.用力肺活量",
+            "C.用力呼气量",
+            "D.深吸气量",
+            "E.补呼气量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 46
+    },
+    {
+        "question_text": "627.肺气肿患者的",
+        "options": [
+            "A.肺顺应性增大",
+            "B.肺弹性阻力增大",
+            "C.吸气困难明显",
+            "D.吸气时程延长",
+            "E.呼气时程缩短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 47
+    },
+    {
+        "question_text": "628.血中二氧化碳分压升高使呼吸运动增强.其 有效刺激是",
+        "options": [
+            "A.脑脊液中氢离子浓度增加",
+            "B.动脉血中氧分压降低",
+            "C.动脉血中氢离子浓度增加",
+            "D.脑脊液中氧分压降低",
+            "E.脑脊液中二氧化碳分压升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 48
+    },
+    {
+        "question_text": "629.增大无效腔使实验动物的呼吸加深加快.与 此调节活动无关的感受器是",
+        "options": [
+            "A.肺牵张感受器",
+            "B.呼吸肌本体感受器",
+            "C.颈动脉窦和主动脉弓感受器",
+            "D.颈动脉体和主动脉体感受器",
+            "E.中枢化学感受器"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 49
+    },
+    {
+        "question_text": "630.作用于二级支气管以下部位的感受器而引起 咳嗽反射的有效刺激是",
+        "options": [
+            "A.机械牵张",
+            "B.温度改变",
+            "C.刺激性气味",
+            "D.二氧化碳浓度升高",
+            "E.缺氧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 50
+    },
+    {
+        "question_text": "631.下列有关肺表面活性物质结合蛋白的叙述. 错误的是",
+        "options": [
+            "A.主要由I型肺泡细胞合成",
+            "B.有多种蛋白质所组成",
+            "C.影响DPPC的分泌",
+            "D.影响DPPC的清除",
+            "E.影响DPPC的再利用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 51
+    },
+    {
+        "question_text": "632.正常人平静呼吸时的频率为",
+        "options": [
+            "A.6--8次/分",
+            "B.8--10次/分",
+            "C.10--12次/分",
+            "D.12--18次/分",
+            "E.20--25次/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 52
+    },
+    {
+        "question_text": "633.正常人用力吸气时.肺内压可比大气压低",
+        "options": [
+            "A.1 --2mmHg",
+            "B.2--10mmHg",
+            "C.10--20mmHg",
+            "D.20--30mmHg",
+            "E.30--100mmHg"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 53
+    },
+    {
+        "question_text": "634平静呼吸时.无论吸气或呼气.胸膜腔内压 均为负值.主要因为",
+        "options": [
+            "A.肺的生长速度比胸廓快",
+            "B.胸廓自然容积大于肺的自然容积",
+            "C.肺的回缩力小于胸廓回缩力",
+            "D.肺表面活性物质的作用",
+            "E.胸廓的弹性阻力大于肺内压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 54
+    },
+    {
+        "question_text": "635. 大小肺泡稳定性的维持.有赖于肺表面活性 物质在",
+        "options": [
+            "A.大肺泡内密度低，小肺泡内密度高",
+            "B.大肺泡内密度高，小肺泡内密度低",
+            "C.大小肺泡内的密度均高",
+            "D.大小肺泡内的密度均低",
+            "E.大小肺泡内的密度于呼吸周期中稳定不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 55
+    },
+    {
+        "question_text": "636.能使肺回缩力减小.肺顺应性增大的是",
+        "options": [
+            "A.肺纤维化",
+            "B.肺充血",
+            "C.肺水肿",
+            "D.肺气肿",
+            "E.肺毛细血管阻塞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 56
+    },
+    {
+        "question_text": "637.由于功能残气量的作用.每次平静呼吸可更 新的肺泡内气体约为",
+        "options": [
+            "A.1/2",
+            "B.1/3",
+            "C.1/5",
+            "D.1/7",
+            "E.1/10"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 57
+    },
+    {
+        "question_text": "638.安静状态下.呼吸膜的扩散面积约为",
+        "options": [
+            "A.40m",
+            "B.50m",
+            "C.60m",
+            "D.70m",
+            "E.80m"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 58
+    },
+    {
+        "question_text": "639.由于气体分子的不同特性.二氧化碳的扩散系数约为氧气的",
+        "options": [
+            "A.10 倍",
+            "B.20 倍",
+            "C.30 倍",
+            "D.40 倍",
+            "E.50 倍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 59
+    },
+    {
+        "question_text": "640.气体扩散速率与下列各因素成反比的是",
+        "options": [
+            "A.气体分压差",
+            "B.气体扩散面积",
+            "C.气体扩散距离",
+            "D.气体溶解度",
+            "E.温度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 60
+    },
+    {
+        "question_text": "641.下列各项中.能使通气/血流比值升高的是",
+        "options": [
+            "A.肺水肿",
+            "B.肺气肿",
+            "C.哮喘发作",
+            "D.肺纤维化",
+            "E.肺毛细血管阻塞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 61
+    },
+    {
+        "question_text": "642. 在高原、高空环境下.只要吸入气氧分压大于60mmHg.Hb氧饱和度仍可达",
+        "options": [
+            "A.50%--60%",
+            "B.70%--80%",
+            "C.80%--90%",
+            "D.90%以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 62
+    },
+    {
+        "question_text": "643.氧的利用系数是指",
+        "options": [
+            "A.血液流经组织时所含氧量占氧容量的百分数",
+            "B.血液流经组织时释放出的氧容积占动脉血氧含 量的百分数",
+            "C.血液流经组织时释放出的氧容积占动脉血氧容 量的百分数",
+            "D.血液流经组织时释放出的氧含量占动脉血氧含 量的百分数",
+            "E.动脉血氧含量/静脉血氧含量比值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 63
+    },
+    {
+        "question_text": "644.Hb的构型由R型变为T型时",
+        "options": [
+            "A.氧离曲线左移",
+            "B.Hb与氧的亲和力降低",
+            "C.Hb与氧的亲和力不变",
+            "D.Hb与二氧化碳结合能力降低",
+            "E.Hb与氢离子结合能力降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 64
+    },
+    {
+        "question_text": "645.二氧化碳与Hb结合生成氨基甲酰血红蛋白的 反应的调节因素是",
+        "options": [
+            "A.氧分压",
+            "B.二氧化碳分压",
+            "C.氧化作用",
+            "D.氧合作用",
+            "E.碳酸酐酶作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 65
+    },
+    {
+        "question_text": "646.中枢化学感受器",
+        "options": [
+            "A.对氧含量变化敏感",
+            "B.对二氧化碳浓度变化敏感",
+            "C.对血中氢离于浓度变化敏感",
+            "D.在低氧时对维持呼吸十分重要",
+            "E.接受刺激后迅速引起呼吸反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 66
+    },
+    {
+        "question_text": "647.调节呼吸最重要的生理因素是",
+        "options": [
+            "A.二氧化碳",
+            "B.氧气",
+            "C.氢离子",
+            "D.2，3-DPG",
+            "E.CO"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 67
+    },
+    {
+        "question_text": "648.颈动脉体的I型细胞受刺激时.胞质内成分 升高而触发递质释放的是",
+        "options": [
+            "A.三磷酸肌醇",
+            "B.二酰甘油",
+            "C.cAMP",
+            "D.cGMP",
+            "E.钙离子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 68
+    },
+    {
+        "question_text": "649.外周化学感受器感受的适宜刺激是它所处环 境的",
+        "options": [
+            "A.氧分压",
+            "B.氧含量",
+            "C.氧容量",
+            "D.氧饱和度",
+            "E.氧利用系数"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 69
+    },
+    {
+        "question_text": "650.引起胸廓顺应性降低的因素是",
+        "options": [
+            "A.肺纤维化",
+            "B.肺水肿",
+            "C.肺气肿",
+            "D.胸膜增厚",
+            "E.消瘦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 70
+    },
+    {
+        "question_text": "651.下列有关呼吸和呼吸过程的描述.错误的是",
+        "options": [
+            "A.机体与外界环境之间的气体交换过程，称为呼 吸",
+            "B.肺与外环境之间的气体交换，称为肺通气",
+            "C.外呼吸是指肺通气与肺换气的过程",
+            "D.气体进出肺的过程叫呼吸",
+            "E.内呼吸是指血液与组织细胞之间的气体交换过 程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 71
+    },
+    {
+        "question_text": "652.肺通气的直接动力来自",
+        "options": [
+            "A.呼吸肌的舒缩",
+            "B.肺舒缩活动",
+            "C.肺内压与大气压之差",
+            "D.胸廓的舒缩",
+            "E.肺内压与胸内压之差"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 72
+    },
+    {
+        "question_text": "653.关于呼吸运动的描述.下列哪项错误",
+        "options": [
+            "A.平静呼吸时，呼气运动是由吸气肌舒张引起的",
+            "B.用力呼吸时，吸气和呼气都主动",
+            "C.用力呼吸时，胸锁乳突肌和斜角肌参与呼气运 动",
+            "D.一般情况下，呈混合式呼吸",
+            "E.平静呼吸时，膈肌所起的作用比肋间外肌大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 73
+    },
+    {
+        "question_text": "654.胸壁穿刺伤使胸膜壁层与大气相通.将造成 该侧",
+        "options": [
+            "A.胸膜腔压力高于大气压",
+            "B.胸膜腔压力等于大气压",
+            "C.胸膜腔压力低于大气压",
+            "D.肺脏明显扩张",
+            "E.肺泡表面活性物质增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 74
+    },
+    {
+        "question_text": "655.对肺弹性阻力的叙述.错误的是",
+        "options": [
+            "A.肺弹性阻力包括肺泡表面张力所产生的回缩力",
+            "B.肺组织本身的弹性阻力主要来自弹性纤维和胶 原纤维",
+            "C.肺组织本身的弹性阻力约占肺总弹性阻力的2/3",
+            "D.肺弹性阻力大小一般用肺顺应性来度量",
+            "E.肺弹性阻力与肺顺应性成反变关系"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 75
+    },
+    {
+        "question_text": "656.关于比顺应性.下列叙述正确的是",
+        "options": [
+            "A.是指一侧肺的顺应性",
+            "B.它等于全肺顺应性除以肺总量",
+            "C.两人肺顺应性相通，比顺应性也相同",
+            "D.两人肺总量相同，比顺应性一定相同",
+            "E.肺总量较大者，肺比顺应性也较大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 76
+    },
+    {
+        "question_text": "657.关于离体肺的实验.下列叙述正确的是",
+        "options": [
+            "A.扩张充气肺比扩张充生理盐水肺容易",
+            "B.与充气肺比较，扩张生理盐水肺所需的跨肺压 较小",
+            "C.与充生理盐水肺比较，扩张充气肺所需的跨肺 压较小",
+            "D.充生理盐水肺的弹性阻力将增大",
+            "E.充生理盐水肺的顺应性将变小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 77
+    },
+    {
+        "question_text": "658.胸廓向内回位的弹性阻力表现在",
+        "options": [
+            "A.深吸气时",
+            "B.深呼气时",
+            "C.平静吸气末",
+            "D.平静呼气末",
+            "E.平静吸气时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 78
+    },
+    {
+        "question_text": "659.下列哪项能使呼吸道口径增大",
+        "options": [
+            "A.跨壁压减小",
+            "B.副交感神经兴奋",
+            "C.呼气时",
+            "D.交感神经兴奋",
+            "E.吸入气中C02含量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 79
+    },
+    {
+        "question_text": "660.肺气肿患者.下列哪项气体量增加",
+        "options": [
+            "A.潮气量",
+            "B.补吸气量",
+            "C.肺活量",
+            "D.用力肺活量",
+            "E.功能残气量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 80
+    },
+    {
+        "question_text": "661.评价肺通气功能.用下列哪个指标较好",
+        "options": [
+            "A.潮气量",
+            "B.补吸气量",
+            "C.肺活量",
+            "D.用力呼气量",
+            "E.功能残气量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 81
+    },
+    {
+        "question_text": "662.关于无效腔的叙述.下列哪项错误",
+        "options": [
+            "A.呼吸性细支气管以前的呼吸道容积被称为解剖 无效腔",
+            "B.肺泡无效腔是由于血流在肺内分布不均所造成 的",
+            "C.生理无效腔与解剖无效腔之差等与肺泡无效腔",
+            "D.健康人平卧时的生理无效腔大于解剖无效腔",
+            "E.人在直立位时，肺尖部的肺泡无效腔将增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 82
+    },
+    {
+        "question_text": "663.某胸部手术后病人.呼吸频率从12次/分增 到24次/分.潮气量从500m l减少到250m I.则其",
+        "options": [
+            "A.肺通气量增加",
+            "B.肺泡通气量不变",
+            "C.肺通气量减少",
+            "D.肺泡通气量增加",
+            "E.肺泡通气量减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 83
+    },
+    {
+        "question_text": "664.体内PO2最高的部位是",
+        "options": [
+            "A.肺泡气",
+            "B.动脉血",
+            "C.细胞内液",
+            "D.组织液",
+            "E.静脉血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 84
+    },
+    {
+        "question_text": "665.肺换气中.造成临床上缺O2比CO2潴留 更为常见的主要原因是",
+        "options": [
+            "A.02分压差比C02大",
+            "B.C02的溶解度比02大",
+            "C.C02分子量比02大",
+            "D.C02通过呼吸膜的距离比02小",
+            "E.C02-的扩散速率比02大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 85
+    },
+    {
+        "question_text": "666.在单位分压差下.每分钟通过呼吸膜扩散的 某种气体的毫升数称为",
+        "options": [
+            "A.肺扩散能力",
+            "B.肺扩散指数",
+            "C.肺扩散容量",
+            "D.呼吸膜通透性",
+            "E.肺通气/血流比值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 86
+    },
+    {
+        "question_text": "667.有关02的运输的叙述.下列哪项错误",
+        "options": [
+            "A.02的运输形式有物理溶解和化学结合两种形 式",
+            "B.02的结合形式是氧和血红蛋白",
+            "C.血液中化学结合02量远大于物理溶解02量",
+            "D.02与Hb的结合反应快，不需要酶的催化，且 可逆的",
+            "E.吸入高压氧主要是增加化学结合的02量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 87
+    },
+    {
+        "question_text": "668.血液流经组织时释放出的O2容积占动脉血 02含量的百分数.是指",
+        "options": [
+            "A.Hb氧含量",
+            "B.Hb氧饱和度",
+            "C.Hb氧容量",
+            "D.O2-的利用系数",
+            "E.氧解离曲线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 88
+    },
+    {
+        "question_text": "669.有关发绀的叙述.错误的是",
+        "options": [
+            "A.100ml血液中去氧Hb含量达到5g以上时，可出 现发绀",
+            "B.高原性红细胞增多症患者易出现发绀",
+            "C.CO中毒时不应出现发绀",
+            "D.严重贫血时可出现发绀",
+            "E.肺原性心脏病时可出现发绀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 89
+    },
+    {
+        "question_text": "670.使氧解离曲线左移的是",
+        "options": [
+            "A.PCO2 升高",
+            "B.pH降低",
+            "C.温度升高",
+            "D.2，3-DPG 升高",
+            "E.库存三周后的血液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 90
+    },
+    {
+        "question_text": "671.波尔效应是指",
+        "options": [
+            "A.2，3-二磷酸甘油酸对Hb氧亲和力的影响",
+            "B.酸度对Hb氧亲和力的影响",
+            "C.PCO2对Hb氧亲和力的影响",
+            "D.温度对Hb氧亲和力的影响",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 91
+    },
+    {
+        "question_text": "672.关于呼吸中枢的叙述.错误的是",
+        "options": [
+            "A.产生节律性呼吸的基本中枢在延髓",
+            "B.脑桥呼吸调整中枢的主要功能是限制吸气相的 时间",
+            "C.脑桥呼吸调整中枢的主要功能是形成基本的呼 吸节律",
+            "D.在脑桥与中脑之间横断脑干后仍能保持正常呼 吸节律",
+            "E.在脊髓与延髓之间横断脑干后呼吸停止"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 92
+    },
+    {
+        "question_text": "673.关于肺牵张反射的叙述.下列哪项错误",
+        "options": [
+            "A.肺扩张反射是抑制吸气的反射",
+            "B.肺萎陷反射是兴奋吸气的反射",
+            "C.该反射的感受器均位于气管和支气管的平滑肌 中",
+            "D.平静呼吸时，肺扩张反射参与人的呼吸调节",
+            "E.肺扩张反射有种属差异，兔的最强，人的最弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 93
+    },
+    {
+        "question_text": "674.生理情况下.血液中调节呼吸的最主要因素 是",
+        "options": [
+            "A.OH-",
+            "B.H宇",
+            "C.O2",
+            "D.CO2",
+            "E.NaHCO3"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 94
+    },
+    {
+        "question_text": "675.动脉血PCO2升高对呼吸的兴奋作用主要是 通过下列哪条途径实现的",
+        "options": [
+            "A.直接刺激呼吸中枢",
+            "B.刺激外周化学感受器",
+            "C.刺激中枢化学感受期",
+            "D.刺激颈动脉窦、主动脉弓压力感受器",
+            "E.直接兴奋呼吸肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 95
+    },
+    {
+        "question_text": "676.肺通气的原动力来自",
+        "options": [
+            "A.肺内压与胸内压之差",
+            "B.肺内压与大气压之差",
+            "C.肺的弹性回缩",
+            "D.呼吸肌舒缩运动",
+            "E.肺内压周期性变化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 96
+    },
+    {
+        "question_text": "677.在下列哪一时相中.肺内压等于大气压",
+        "options": [
+            "A.呼气全程",
+            "B.吸气末和呼气末",
+            "C.呼气末和吸气初",
+            "D.吸气全程",
+            "E.呼吸全程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 97
+    },
+    {
+        "question_text": "678.肺表面活性物质是由肺内哪种细胞合成分泌 的",
+        "options": [
+            "A.肺泡I型上皮细胞",
+            "B.肺泡II型上皮细胞",
+            "C.气道上皮细胞",
+            "D.肺成纤维细胞",
+            "E.肺泡巨噬细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 98
+    },
+    {
+        "question_text": "679.肺表面活性物质的主要作用是",
+        "options": [
+            "A.保护肺泡上皮细胞",
+            "B.增加肺弹性阻力",
+            "C.降低气道阻力",
+            "D.降低肺泡表面张力",
+            "E.降低呼吸膜通透性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 99
+    },
+    {
+        "question_text": "680.肺的弹性阻力表现在",
+        "options": [
+            "A.呼吸全程",
+            "B.吸气初",
+            "C.吸气末",
+            "D.呼气初",
+            "E.呼气末"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 100
+    },
+    {
+        "question_text": "681.在下列哪种情况下.肺顺应性增加",
+        "options": [
+            "A.肺弹性阻力增加",
+            "B.肺弹性阻力减小",
+            "C.气道阻力增加",
+            "D.气道阻力减小",
+            "E.肺表面活性物质减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 101
+    },
+    {
+        "question_text": "682.平静呼气末肺内的气体量为",
+        "options": [
+            "A.肺活量",
+            "B.用力时间肺活量",
+            "C.补呼气量和潮气量",
+            "D.补吸气量和余气量",
+            "E.功能余气量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 102
+    },
+    {
+        "question_text": "683.最大呼气末存留于肺中的气体量是",
+        "options": [
+            "A.余气量",
+            "B.功能余气量",
+            "C.肺泡气量",
+            "D.闭合气量",
+            "E.补呼气量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 103
+    },
+    {
+        "question_text": "684.反映单位时间内充分发挥全部通气能力所达 到的通气量称为",
+        "options": [
+            "A.通气储量百分比",
+            "B.最大通气量",
+            "C.用力肺活量",
+            "D.肺泡通气量",
+            "E.深吸气量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 104
+    },
+    {
+        "question_text": "685.肺气肿患者的肺弹性回缩力降低.下列哪项 气体量增加",
+        "options": [
+            "A.功能余气量",
+            "B.潮气量",
+            "C.肺活量",
+            "D.用力肺活量",
+            "E.补吸气量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 105
+    },
+    {
+        "question_text": "686.下列哪项能引起呼吸道口径变小",
+        "options": [
+            "A.交感神经兴奋",
+            "B.肽能神经兴奋",
+            "C.呼吸道跨壁压减小",
+            "D.呼吸道口径",
+            "E.呼吸道长度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 106
+    },
+    {
+        "question_text": "687.影响气道阻力最重要的因素是",
+        "options": [
+            "A.气流速度",
+            "B.气流形式",
+            "C.呼吸时相",
+            "D.呼吸道口径",
+            "E.呼吸道长度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 107
+    },
+    {
+        "question_text": "688.决定肺内气体交换方向的主要因素是",
+        "options": [
+            "A.气体的分压差",
+            "B.气体的分子量",
+            "C.气体的溶解度",
+            "D.气体与血红蛋白亲和力",
+            "E.呼吸膜通透性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 108
+    },
+    {
+        "question_text": "689.体内氧分压最高的部位是",
+        "options": [
+            "A.肺泡气",
+            "B.细胞内液",
+            "C.组织液",
+            "D.动脉血",
+            "E.静脉血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 109
+    },
+    {
+        "question_text": "690.对于通气/血流比值的描述.哪一项是不正确的",
+        "options": [
+            "A.安静时正常值为0.84",
+            "B.肺底部增大，可达2.5以上",
+            "C.肺下部减小",
+            "D.肺尖部增大，可达2.5以上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 110
+    },
+    {
+        "question_text": "691 .CO2在血液中运输的主要形式是",
+        "options": [
+            "A.和 H2O 结合形成 H2CO3",
+            "B.物理溶解",
+            "C.形成碳酸氢盐",
+            "D.形成HbCO",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 111
+    },
+    {
+        "question_text": "692.导致氧离曲线右移的原因是",
+        "options": [
+            "A.血液中H+浓度下降",
+            "B.体温下降",
+            "C.血液中CO2分压下降",
+            "D.血浆中pH值下降",
+            "E.CO中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 112
+    },
+    {
+        "question_text": "*693.对于Hb与O2的结合中.哪一项是不恰当 的",
+        "options": [
+            "A.1分子Hb可以结合4分子O2",
+            "B.100 ml血液中，Hb所能结合的最大O2量称为 Hb的氧含量",
+            "C.Hb与O2的结合或解离曲线呈S形",
+            "D.HbO2呈鲜红色，氧离Hb呈紫蓝色",
+            "E.CO促进Hb释放O2"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 113
+    },
+    {
+        "question_text": "694.感受动脉血氧分压降低引起肺通气增强最主 要的感受器位于",
+        "options": [
+            "A.颈动脉体",
+            "B.颈动脉窦",
+            "C.主动脉体",
+            "D.主动脉弓",
+            "E.延髓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 114
+    },
+    {
+        "question_text": "695.通过兴奋中枢化学感受器增强肺通气的有效 刺激是",
+        "options": [
+            "A.脑脊液H+浓度升高",
+            "B.脑脊液CO2分压升高",
+            "C.脑脊液O2分压降低",
+            "D.动脉血H+浓度升高",
+            "E.动脉血O2分压降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 115
+    },
+    {
+        "question_text": "696.男.65岁.有45年吸烟史.主诉气促.尤其 呼气困难。门诊诊断为肺气肿。该患者的肺部出 现了下列何种情况",
+        "options": [
+            "A.功能余气量减少",
+            "B.肺顺应性增加",
+            "C.胸廓顺应性降低",
+            "D.余气减少",
+            "E.肺表面活性物质减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 116
+    },
+    {
+        "question_text": "697.进入肺泡内的气体.可因血液在肺内分布不 均而未全部与血液进行气体交换。没有发生气体 交换的这部分肺泡容量.称为",
+        "options": [
+            "A.解剖无效腔",
+            "B.生理无效腔",
+            "C.肺泡无效腔",
+            "D.气道无效腔",
+            "E.无效腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 117
+    },
+    {
+        "question_text": "698.人类在空气稀薄、氧分压较低的高原上会出 现代偿性呼吸增强。这主要依赖于何种感受器对 呼吸中枢的兴奋作用。",
+        "options": [
+            "A.中枢化学感受器",
+            "B.主动脉体化学感受器",
+            "C.颈动脉体化学感受器",
+            "D.主动脉弓压力感受器",
+            "E.颈动脉窦压力感受器"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 118
+    },
+    {
+        "question_text": "699.某人解剖无效腔为150ml.正常平静呼吸时潮 气量500ml.呼吸频率每分钟12次。今患肺炎. 呼吸变浅、加速.若潮气量减半.呼吸频率加 倍.其肺泡通气量（L/min）应是下列哪个数据。",
+        "options": [
+            "A.1.2",
+            "B.1.6",
+            "C.2.0",
+            "D.2.4",
+            "E.3.6"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 119
+    },
+    {
+        "question_text": "700.肺的通气/血流比值反映肺部气体交换的气泵 与血泵的匹配情况。如果通气/血流比值增大.表 明该受试者肺内出现",
+        "options": [
+            "A.解剖无效腔增大",
+            "B.肺泡无效腔增大",
+            "C.解剖动-静脉短路",
+            "D.功能性动-静脉短路",
+            "E.肺内气体交换障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "120",
+        "number": 120
+    }
+]

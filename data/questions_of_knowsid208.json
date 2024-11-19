@@ -1,0 +1,1428 @@
+[
+    {
+        "question_text": "1.关于反应性中性粒细胞增多，下列哪项是错误的？",
+        "options": [
+            "A.增多的粒细胞都是成熟的，因而属生理性的",
+            "B.是对各种病因刺激的应激反应",
+            "C.增多的粒细胞来源于骨髓储存池",
+            "D.增多的粒细胞来源于边缘池",
+            "E.杆状核粒细胞也可增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 1
+    },
+    {
+        "question_text": "2.急性感染的恢复期可见：",
+        "options": [
+            "A.嗜酸性粒细胞增多",
+            "B.嗜碱性粒细胞增多",
+            "C.淋巴细胞增多",
+            "D.单核细胞增多",
+            "E.异型淋巴细胞增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 2
+    },
+    {
+        "question_text": "3.急性感染的恢复期可见：",
+        "options": [
+            "A.单核细胞增多",
+            "B.嗜酸粒细胞增多",
+            "C.淋巴细胞增多",
+            "D.嗜碱粒细胞增多",
+            "E.中性粒细胞增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 3
+    },
+    {
+        "question_text": "4.中性、嗜酸和嗜碱性粒细胞胞质中的特殊颗粒经瑞氏染色后颜色依次为",
+        "options": [
+            "A.深紫蓝色、橘红色、淡紫红色",
+            "B.深紫蓝色、淡紫红色、橘红色",
+            "C.橘红色、淡紫红色、深紫蓝色",
+            "D.淡紫红色、橘红色、深紫黑色",
+            "E.橘红色、深紫蓝色、淡紫红色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 4
+    },
+    {
+        "question_text": "5.白细胞总数及中性粒细胞百分率增高，但见核左移或仅核左移时表示：",
+        "options": [
+            "A.感染较重，预后不良",
+            "B.感染较轻，预后尚好",
+            "C.急性感染恢复期",
+            "D.慢性感染恢复期",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 5
+    },
+    {
+        "question_text": "6.急性化脓性感染时，如白细胞总数明显增多，并伴有明显核左移说明：",
+        "options": [
+            "A.感染局限，机体反应性良好",
+            "B.感染严重，机体反应性良好",
+            "C.感染局限，机体反应性较差",
+            "D.感染严重，机体反应性较差",
+            "E.感染严重，机体反应性极差"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 6
+    },
+    {
+        "question_text": "7.巨幼细胞性贫血易引起以下哪种改变？",
+        "options": [
+            "A.空泡变性",
+            "B.棒状小体",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.核右移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 7
+    },
+    {
+        "question_text": "8.某些传染病可引起以下哪种中性粒细胞的形态异常？",
+        "options": [
+            "A.空泡变性",
+            "B.棒状小体",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.核右移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于白细胞严重感染易引起以下哪种改变？",
+        "options": [
+            "A.空泡变性",
+            "B.棒状小体",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.核右移"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 9
+    },
+    {
+        "question_text": "10.新生儿支气管哮喘发作时，可见：",
+        "options": [
+            "A.血沉加快",
+            "B.红细胞比积减少",
+            "C.嗜中性粒细胞明显升高",
+            "D.嗜酸性粒细胞增多",
+            "E.淋巴细胞增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 10
+    },
+    {
+        "question_text": "11.循环血液中重要的免疫活性细胞是：",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜酸性粒细胞",
+            "C.嗜碱性粒细胞",
+            "D.单核细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 11
+    },
+    {
+        "question_text": "12.蛔虫病时可引起：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 12
+    },
+    {
+        "question_text": "13.急性心肌梗死时可引起：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 13
+    },
+    {
+        "question_text": "14.疟疾时可引起：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 14
+    },
+    {
+        "question_text": "15.类风湿关节炎时可引起：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 15
+    },
+    {
+        "question_text": "16.传染性单核细胞增多症可引起：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 16
+    },
+    {
+        "question_text": "17.支气管哮喘时可见：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 17
+    },
+    {
+        "question_text": "18.麻疹时可见：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 18
+    },
+    {
+        "question_text": "19.急性内出血可造成：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 19
+    },
+    {
+        "question_text": "20.活动性肺结核可造成：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 20
+    },
+    {
+        "question_text": "21.湿疹可造成：",
+        "options": [
+            "A.中性粒细胞增多",
+            "B.淋巴细胞增多",
+            "C.嗜酸性粒细胞增多",
+            "D.嗜碱性粒细胞增多",
+            "E.单核细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 21
+    },
+    {
+        "question_text": "22.白细胞的寿命是：",
+        "options": [
+            "A.8-10天",
+            "B.120天",
+            "C.1-3天",
+            "D.4-5天",
+            "E.数月至数年"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 22
+    },
+    {
+        "question_text": "23.反应性中性粒细胞增多的增高程度与下列哪项关系不大？",
+        "options": [
+            "A.性别",
+            "B.病原体种类",
+            "C.感染部位",
+            "D.感染程度",
+            "E.机体反应性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 23
+    },
+    {
+        "question_text": "24.剧烈运动引起中性粒细胞的暂时增加其主要原因是：",
+        "options": [
+            "A.神经兴奋",
+            "B.血管收缩",
+            "C.骨髓刺激",
+            "D.体内白细胞重新分布",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 24
+    },
+    {
+        "question_text": "25.中性粒细胞功能不包括：",
+        "options": [
+            "A.合成抗体",
+            "B.趋化",
+            "C.变形和粘附",
+            "D.吞噬",
+            "E.杀菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 25
+    },
+    {
+        "question_text": "26.正常人循环血液中嗜酸性粒细胞大部分存在于：",
+        "options": [
+            "A.淋巴组织",
+            "B.外周血液",
+            "C.骨髓和组织",
+            "D.肺和肾脏",
+            "E.肝和脾脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于嗜酸性粒细胞，下列哪项是错误的？",
+        "options": [
+            "A.都是由造血干细胞产生",
+            "B.起源于粒-单核系祖细胞",
+            "C.其分化和成熟有赖于嗜酸性粒细胞集落形成因子",
+            "D.嗜酸性粒细胞集落形成因子由淋巴细胞产生",
+            "E.与免疫系统有密切关系"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 27
+    },
+    {
+        "question_text": "28.关于单核-巨噬细胞系统功能亢进，正确的是：",
+        "options": [
+            "A.可引起全血细胞减少",
+            "B.仅引起粒细胞缺乏",
+            "C.仅引起贫血",
+            "D.仅引起血小板减少",
+            "E.骨髓内有核细胞减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项不是单核-巨噬细胞系统所具备的功能？",
+        "options": [
+            "A.诱导免疫反应",
+            "B.产生免疫球蛋白",
+            "C.吞噬和杀灭某些病原体",
+            "D.吞噬红细胞的清除损伤组织及死亡细胞",
+            "E.抗肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 29
+    },
+    {
+        "question_text": "30.不应列为生理性中性粒细胞增多的为：",
+        "options": [
+            "A.妊娠5个月以上",
+            "B.原因不明的中性粒细胞增多持续2个月以上",
+            "C.新生儿",
+            "D.剧烈运动、情绪激动",
+            "E.手术及麻醉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 30
+    },
+    {
+        "question_text": "31.血白细胞总数增多，可见于：",
+        "options": [
+            "A.伤寒杆菌感染",
+            "B.再生障碍性贫血",
+            "C.急性失血",
+            "D.使用氯霉素的影响",
+            "E.脾功能亢进"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 31
+    },
+    {
+        "question_text": "32.血象中粒细胞增多常见于：",
+        "options": [
+            "A.病毒感染",
+            "B.化脓性感染",
+            "C.系统性红斑狼疮",
+            "D.脾功能亢进",
+            "E.伤寒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 32
+    },
+    {
+        "question_text": "33.中性粒细胞增多常见于：",
+        "options": [
+            "A.伤寒",
+            "B.系统性红斑狼疮",
+            "C.脾功能亢进",
+            "D.再生障碍性贫血",
+            "E.金黄色葡萄球菌性感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 33
+    },
+    {
+        "question_text": "34.中性粒细胞增多，最常见的原因是：",
+        "options": [
+            "A.急性感染和化脓性炎症",
+            "B.中毒",
+            "C.急性出血",
+            "D.恶性肿瘤",
+            "E.急性溶血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 34
+    },
+    {
+        "question_text": "35.急性大出血时外周血可见：",
+        "options": [
+            "A.红细胞正常",
+            "B.血红蛋白含量正常",
+            "C.白细胞计数明显增多",
+            "D.淋巴细胞比率相对增多",
+            "E.单核细胞反应性增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 35
+    },
+    {
+        "question_text": "36.判断早期急性内出血，下列哪项检查最有价值？",
+        "options": [
+            "A.红细胞数目减少",
+            "B.红细胞压积减少",
+            "C.白细胞总数升高",
+            "D.白细胞总数下降",
+            "E.网织红细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 36
+    },
+    {
+        "question_text": "37.中性粒细胞增多者，下列各项中，哪项不成为其原因？",
+        "options": [
+            "A.伤寒",
+            "B.脾破裂",
+            "C.急性阑尾炎",
+            "D.肺炎双球菌肺炎",
+            "E.大面积烧伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 37
+    },
+    {
+        "question_text": "38.中性粒细胞减少常见于：",
+        "options": [
+            "A.安眠药中毒",
+            "B.脾功能亢进",
+            "C.较严重的组织损伤",
+            "D.大量的血细胞破坏",
+            "E.慢性肾炎尿毒症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 38
+    },
+    {
+        "question_text": "39.中性粒细胞减少见于：",
+        "options": [
+            "A.胎儿、新儿时期",
+            "B.伤寒、副伤寒",
+            "C.急性大出血",
+            "D.糖尿病酮症酸中毒",
+            "E.急性心肌梗塞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 39
+    },
+    {
+        "question_text": "40.白细胞总数与中性粒细胞减少见于：",
+        "options": [
+            "A.糖尿病酮症酸中毒",
+            "B.心肌梗死",
+            "C.大面积烧伤",
+            "D.恶性肿瘤和白血病",
+            "E.系统性红斑狼疮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 40
+    },
+    {
+        "question_text": "41.伤寒、副伤寒感染引起白细胞总数：",
+        "options": [
+            "A.减低",
+            "B.增多",
+            "C.正常",
+            "D.不定",
+            "E.明显增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 41
+    },
+    {
+        "question_text": "42.中性粒细胞不增加的疾病是：",
+        "options": [
+            "A.脾功能亢进",
+            "B.尿毒症",
+            "C.急性链球菌感染",
+            "D.急性溶血",
+            "E.肺吸虫病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 42
+    },
+    {
+        "question_text": "43.以下哪种情况不属于反应型中性粒细胞增多？",
+        "options": [
+            "A.急性感染",
+            "B.心肌梗塞",
+            "C.急性溶血",
+            "D.急性中毒",
+            "E.慢性粒细胞白血病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 43
+    },
+    {
+        "question_text": "44.外周血中性粒细胞减少可见于下列几种情况，但除外：",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.伤寒、副伤寒杆菌感染",
+            "C.水痘、风疹病毒感染",
+            "D.急性心肌梗死后12-36小时",
+            "E.某些原虫感染，如疟疾、黑热病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 44
+    },
+    {
+        "question_text": "45.可引起中性粒细胞减少的疾病有：",
+        "options": [
+            "A.金黄色葡萄球菌感染",
+            "B.大手术后",
+            "C.伤寒",
+            "D.糖尿病酮症酸中毒",
+            "E.急性粒细胞白血病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 45
+    },
+    {
+        "question_text": "46.成人白细胞增多和减少的诊断标准分别是：",
+        "options": [
+            "A.＞12×109/L和＜4×109/L",
+            "B.＞11×109/L和＜4×109/L",
+            "C.＞10×109/L和＜4×109/L",
+            "D.＞10×109/L和＜5×109/L",
+            "E.＞10×109/L和＜6×109/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 46
+    },
+    {
+        "question_text": "47.正常成人外周血液白细胞计数参考值是：",
+        "options": [
+            "A.(4-10)×1012/L",
+            "B.(4-10)×109/L",
+            "C.(5-10)×109/L",
+            "D.(5-10)×109/L",
+            "E.(5-10)×1012/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 47
+    },
+    {
+        "question_text": "48.中性粒细胞减少和缺乏症的诊断标准为：中性粒细胞绝对计数分别低于：",
+        "options": [
+            "A.1.5×109/L和0.5×109/L",
+            "B.1.0×109/L和0.5×109/L",
+            "C.1.5×109/L和1.0×109/L",
+            "D.4×109/L和0.5×109/L",
+            "E.2.0×109/L和1.0×109/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 48
+    },
+    {
+        "question_text": "49.引起中性粒细胞减少的感染性疾病中哪些病原体最常见？",
+        "options": [
+            "A.流感病毒、肝炎病毒和伤寒病毒",
+            "B.流感病毒、巨细胞病毒和结核杆菌",
+            "C.流感病毒、肝炎病毒和溶血性链球菌",
+            "D.流感病毒、肝炎病毒和金黄色葡萄球菌",
+            "E.流感病毒、肝炎病毒和脑膜炎双球菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 49
+    },
+    {
+        "question_text": "50.最易引起粒细胞减少的药品为：",
+        "options": [
+            "A.退热镇痛药",
+            "B.抗生素",
+            "C.抗糖尿病药",
+            "D.磺胺类药",
+            "E.抗肿瘤药"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 50
+    },
+    {
+        "question_text": "51.正常外周血中可见少量中性杆状核细胞，但比例不超过：",
+        "options": [
+            "A.1%",
+            "B.2%",
+            "C.3%",
+            "D.4%",
+            "E.5%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列哪种情况可引起中性粒细胞核左移？",
+        "options": [
+            "A.血型不合的输血反应",
+            "B.流行性感冒",
+            "C.急性大出血",
+            "D.巨幼细胞性贫血",
+            "E.风湿热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 52
+    },
+    {
+        "question_text": "53.中性粒细胞核左移是指外周血中：",
+        "options": [
+            "A.杆状核粒细胞比例＞6％",
+            "B.杆状核粒细胞比例＞10％",
+            "C.杆状核粒细胞比例＞10％，并伴有少数晚幼粒细胞",
+            "D.杆状核粒细胞比例＞25％，并出现更幼稚的粒细胞",
+            "E.不分叶核粒细胞＞5％"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 53
+    },
+    {
+        "question_text": "54.中性粒细胞核极度左移最常见于：",
+        "options": [
+            "A.慢性感染",
+            "B.出血",
+            "C.溶血",
+            "D.粒细胞白细胞或类白血病反应",
+            "E.心肌梗死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 54
+    },
+    {
+        "question_text": "55.化脓性感染会出现：",
+        "options": [
+            "A.中性粒细胞核左移",
+            "B.白细胞计数减少",
+            "C.血小板增多",
+            "D.淋巴细胞增多",
+            "E.嗜酸性粒细胞增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列中性粒细胞核右移指的是：",
+        "options": [
+            "A.分叶在5叶以上的细胞超过0.05",
+            "B.分叶在3叶以上的细胞超过0.03",
+            "C.分叶在3叶以上的细胞超过0.05",
+            "D.分叶在5叶以上的细胞超过0.06",
+            "E.分叶在5叶以上的细胞超过0.03"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 56
+    },
+    {
+        "question_text": "57.核右移常见于：",
+        "options": [
+            "A.类白血病反应",
+            "B.急性白血病",
+            "C.骨髓造血功能减退",
+            "D.败血症",
+            "E.慢性粒细胞性白血病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 57
+    },
+    {
+        "question_text": "58.中性分叶核细胞核右移主要见于：",
+        "options": [
+            "A.缺铁",
+            "B.造血功能衰退",
+            "C.感染",
+            "D.大出血",
+            "E.白血病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 58
+    },
+    {
+        "question_text": "59.中性粒细胞受损后并发脂肪变性，胞浆中出现：",
+        "options": [
+            "A.中毒颗粒",
+            "B.空泡",
+            "C.球形包涵体",
+            "D.棒状小体",
+            "E.嗜碱性点彩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列哪项不是中性粒细胞改变？",
+        "options": [
+            "A.中毒颗粒",
+            "B.Dohle小体",
+            "C.howell-Jolly小体",
+            "D.空泡变性",
+            "E.核变性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 60
+    },
+    {
+        "question_text": "61.下列哪项形态异常不属于中性粒细胞中毒改变？",
+        "options": [
+            "A.核变性",
+            "B.细胞大小不一",
+            "C.巨多分叶核",
+            "D.胞质内出现紫黑色中毒颗粒",
+            "E.胞质内出现空泡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 61
+    },
+    {
+        "question_text": "62.下列哪项不会引起中性粒细胞发生毒性和退行性变？",
+        "options": [
+            "A.猩红热",
+            "B.各种化脓性疾病",
+            "C.败血症",
+            "D.大面积烧伤",
+            "E.急性出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 62
+    },
+    {
+        "question_text": "63.以下中性粒细胞的形态改变，可以确诊为白血病的是：",
+        "options": [
+            "A.核变性",
+            "B.空泡形成",
+            "C.巨多分叶核粒细胞",
+            "D.棒状小体",
+            "E.中毒颗粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 63
+    },
+    {
+        "question_text": "64.Auer小体见于下列哪一类疾病？",
+        "options": [
+            "A.急性淋巴细胞白血病",
+            "B.急性非淋巴细胞白血病",
+            "C.慢性淋巴细胞白血病",
+            "D.慢性粒细胞白血病",
+            "E.骨髓纤维化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 64
+    },
+    {
+        "question_text": "65.Pelger-Huet畸形是指：",
+        "options": [
+            "A.中性粒细胞胞质内有粉红色包涵体",
+            "B.中性粒细胞胞质内有巨大蓝紫色颗粒",
+            "C.中性粒细胞胞质内有淡蓝色包涵体",
+            "D.中性粒细胞胞核分叶呈肾形或哑铃形",
+            "E.中性粒细胞胞核分叶在5叶以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 65
+    },
+    {
+        "question_text": "66.棒状小体（Auer小体）见于",
+        "options": [
+            "A.骨髓增生异常综合征",
+            "B.急性粒细胞性白血病",
+            "C.慢性淋巴细胞性白血病",
+            "D.慢性单核细胞性白血病",
+            "E.严重感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 66
+    },
+    {
+        "question_text": "67.成熟粒细胞胞核呈杆状，肾形或哑铃形称为：",
+        "options": [
+            "A.Auer小体",
+            "B.Dohle体",
+            "C.Pelger-Huet畸形",
+            "D.Alder-Reilly畸形",
+            "E.May-Hegglin畸形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 67
+    },
+    {
+        "question_text": "68.白细胞胞质中紫红色细杆状物称为：",
+        "options": [
+            "A.Auer小体",
+            "B.Dohle体",
+            "C.Pelger-Huet畸形",
+            "D.Alder-Reilly畸形",
+            "E.May-Hegglin畸形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 68
+    },
+    {
+        "question_text": "69.中性粒细胞巨大深染嗜天青颗粒称为：",
+        "options": [
+            "A.Auer小体",
+            "B.Dohle体",
+            "C.Pelger-Huet畸形",
+            "D.Alder-Reilly畸形",
+            "E.May-Hegglin畸形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 69
+    },
+    {
+        "question_text": "70.粒细胞中终身含有淡蓝色包涵体的是：",
+        "options": [
+            "A.Auer小体",
+            "B.Dohle体",
+            "C.Pelger-Huet畸形",
+            "D.Alder-Reilly畸形",
+            "E.May-Hegglin畸形"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 70
+    },
+    {
+        "question_text": "71.中性粒细胞胞质中出现的局部嗜碱性着色区域称为：",
+        "options": [
+            "A.Auer小体",
+            "B.Dohle体",
+            "C.Pelger-Huet畸形",
+            "D.Alder-Reilly畸形",
+            "E.May-Hegglin畸形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 71
+    },
+    {
+        "question_text": "72.正常人循环血液中嗜酸性粒细胞占白细胞总数的比例是：",
+        "options": [
+            "A.0.2-4.0％",
+            "B.0.2-5.0％",
+            "C.0.3-5.0％",
+            "D.0.3-6.0％",
+            "E.0.4-6.0％"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 72
+    },
+    {
+        "question_text": "73.正常人循环血液中嗜酸性粒细胞绝对值不超过：",
+        "options": [
+            "A.0.1×109/L",
+            "B.0.2×109/L",
+            "C.0.3×109/L",
+            "D.0.4×109/L",
+            "E.0.5×109/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 73
+    },
+    {
+        "question_text": "74.患下列哪种疾病时嗜酸性粒细胞常减少？",
+        "options": [
+            "A.血吸虫病",
+            "B.支气管哮喘",
+            "C.伤寒",
+            "D.湿疹",
+            "E.猩红热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 74
+    },
+    {
+        "question_text": "75.正常人循环血液中嗜碱性粒细胞占白细胞总数的比例为：",
+        "options": [
+            "A.0-1％",
+            "B.1-5％",
+            "C.5-10％",
+            "D.1.5-2.0％",
+            "E.2.0-2.5％"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 75
+    },
+    {
+        "question_text": "76.嗜酸性粒细胞不增多的疾病是：",
+        "options": [
+            "A.支气管哮喘",
+            "B.流行性腮腺炎",
+            "C.钩虫病",
+            "D.牛皮癣",
+            "E.猩红热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 76
+    },
+    {
+        "question_text": "77.嗜酸性粒细胞增多一般不见于：",
+        "options": [
+            "A.变态反应",
+            "B.寄生虫病",
+            "C.慢性粒细胞白血病",
+            "D.长期应用肾上腺皮质激素类药物",
+            "E.恶性肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 77
+    },
+    {
+        "question_text": "78.嗜酸性粒细胞增多不应见于下列何种疾病？",
+        "options": [
+            "A.支气管哮喘",
+            "B.湿疹",
+            "C.血吸虫病",
+            "D.应用肾上腺皮质激素",
+            "E.慢性粒细胞白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 78
+    },
+    {
+        "question_text": "79.嗜酸性粒细胞增多常见于：",
+        "options": [
+            "A.化脓性球菌感染",
+            "B.寄生虫感染",
+            "C.病毒感染",
+            "D.放射线损害",
+            "E.伤寒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 79
+    },
+    {
+        "question_text": "80.嗜碱性粒细胞增多见于：",
+        "options": [
+            "A.荨麻疹",
+            "B.钩虫感染",
+            "C.多发性骨髓瘤",
+            "D.慢性粒细胞性白血病",
+            "E.过敏性肉芽肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 80
+    },
+    {
+        "question_text": "81.嗜碱性粒细胞增多可见于：",
+        "options": [
+            "A.支气管哮喘",
+            "B.伤寒",
+            "C.寄生虫病",
+            "D.银屑病",
+            "E.慢性粒细胞性白血病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 81
+    },
+    {
+        "question_text": "82.淋巴细胞的寿命为",
+        "options": [
+            "A.8-10天",
+            "B.120天",
+            "C.1-3天",
+            "D.4-5天",
+            "E.数月至数年"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 82
+    },
+    {
+        "question_text": "83.T淋巴细胞的寿命为",
+        "options": [
+            "A.8-10天",
+            "B.120天",
+            "C.1-3天",
+            "D.4-5天",
+            "E.数月至数年"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 83
+    },
+    {
+        "question_text": "84.下列哪种疾病淋巴细胞减少？",
+        "options": [
+            "A.放射病",
+            "B.伤寒",
+            "C.淋巴瘤",
+            "D.传染性单核细胞增多症",
+            "E.淋巴细胞性白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 84
+    },
+    {
+        "question_text": "85.下列哪种疾病最常见异性淋巴细胞增多？",
+        "options": [
+            "A.细菌感染",
+            "B.贫血",
+            "C.病毒感染",
+            "D.白血病",
+            "E.免疫缺陷性白血病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 85
+    },
+    {
+        "question_text": "86.淋巴细胞比例相对增高见于：",
+        "options": [
+            "A.传染性单核细胞增多症",
+            "B.病毒性肝炎",
+            "C.再生障碍性贫血",
+            "D.淋巴细胞白血病",
+            "E.淋巴瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 86
+    },
+    {
+        "question_text": "87.淋巴细胞增多可见于：",
+        "options": [
+            "A.急性化脓性感染",
+            "B.心肌梗死",
+            "C.糖尿病酮症酸中毒",
+            "D.异位妊娠所致出血",
+            "E.流行性腮腺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 87
+    },
+    {
+        "question_text": "88.淋巴细胞增多见于：",
+        "options": [
+            "A.病毒性感染",
+            "B.寄生虫感染",
+            "C.化脓菌感染",
+            "D.血清病",
+            "E.放射病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 88
+    },
+    {
+        "question_text": "89.长期应用糖皮质激素，下列哪种细胞减少？",
+        "options": [
+            "A.中性粒细胞",
+            "B.单核细胞",
+            "C.嗜碱性粒细胞",
+            "D.淋巴细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 89
+    },
+    {
+        "question_text": "90.淋巴细胞减少一般见于：",
+        "options": [
+            "A.病毒感染",
+            "B.结核杆菌感染",
+            "C.百日咳",
+            "D.接触放射线",
+            "E.组织移植后排斥反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 90
+    },
+    {
+        "question_text": "91.以下疾病均可出现淋巴细胞减少，但除外：",
+        "options": [
+            "A.应用肾上腺皮质激素",
+            "B.应用促肾上腺皮质激素",
+            "C.接触放射线",
+            "D.风疹",
+            "E.急性化脓性感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 91
+    },
+    {
+        "question_text": "92.一长期低热的患者，外周血白细胞总数不高，淋巴细胞比例增多，常见于：",
+        "options": [
+            "A.严重的化脓菌感染",
+            "B.传染性淋巴细胞增多",
+            "C.慢性淋巴细胞白血病",
+            "D.伤寒",
+            "E.结核病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 92
+    },
+    {
+        "question_text": "93.当人体受到电离辐射后，最早发生的变化是：",
+        "options": [
+            "A.红细胞计数下降",
+            "B.中性粒细胞减少",
+            "C.嗜酸性粒细胞减少",
+            "D.淋巴细胞减少",
+            "E.血小板数减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 93
+    },
+    {
+        "question_text": "94.异形淋巴细胞是指：",
+        "options": [
+            "A.原始淋巴细胞",
+            "B.幼稚淋巴细胞",
+            "C.形态变异的不典型淋巴细胞",
+            "D.破碎淋巴细胞",
+            "E.淋巴肉瘤细胞进入血液后"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 94
+    },
+    {
+        "question_text": "95.常见的异形淋巴细胞有哪三种类型？",
+        "options": [
+            "A.泡沫型、不规则型和单核细胞型",
+            "B.泡沫型、不规则型和幼稚型",
+            "C.泡沫型、不规则型和退化型",
+            "D.泡沫型、不规则型和成熟型",
+            "E.浆细胞形、泡沫型和成熟型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 95
+    },
+    {
+        "question_text": "96.关于异形淋巴细胞，下列叙述哪项不正确？",
+        "options": [
+            "A.系外周血中一种形态变异的不典型淋巴细胞",
+            "B.异形淋巴细胞分为3型：泡沫型、不规则型、幼稚型",
+            "C.正常人外周血中偶尔可见到＜2％",
+            "D.病毒感染性疾病时最为常见",
+            "E.再生障碍性贫血病人，外周多见"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 96
+    },
+    {
+        "question_text": "97.异性淋巴细胞一般不见于：",
+        "options": [
+            "A.病毒感染",
+            "B.细菌感染",
+            "C.手术",
+            "D.放射治疗",
+            "E.输血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 97
+    },
+    {
+        "question_text": "98.病理性单核细胞增多多见于：",
+        "options": [
+            "A.珠蛋白生成障碍性贫血",
+            "B.感染性心内膜炎",
+            "C.再生障碍性贫血",
+            "D.淋巴细胞性白血病",
+            "E.传染性单核细胞增多症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 98
+    },
+    {
+        "question_text": "99.常见单核细胞增多的疾病有：",
+        "options": [
+            "A.结核病",
+            "B.亚急性感染性心内膜炎",
+            "C.骨髓增生异常综合征",
+            "D.单核细胞白血病",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 99
+    },
+    {
+        "question_text": "100.单核细胞增多可见于：",
+        "options": [
+            "A.急性化脓性感染",
+            "B.流行性出血热",
+            "C.寄生虫病",
+            "D.中毒",
+            "E.感染性心内膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 100
+    },
+    {
+        "question_text": "101.类白血病反应的中性粒细胞型最常见于：",
+        "options": [
+            "A.各种感染",
+            "B.恶性肿瘤骨转移",
+            "C.有机磷农药或一氧化碳中毒",
+            "D.急性溶血或出血",
+            "E.严重外伤或大面积烧伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 101
+    },
+    {
+        "question_text": "102.下列哪项不符合类白血病反应的特点？",
+        "options": [
+            "A.白细胞增多",
+            "B.血液中出现幼稚细胞",
+            "C.白细胞碱性磷酸酶增高",
+            "D.有原发病因",
+            "E.中性粒细胞核右移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "102",
+        "number": 102
+    }
+]

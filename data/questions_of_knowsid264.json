@@ -1,0 +1,702 @@
+[
+    {
+        "question_text": "1.下列关于腹泻的定义，错误的是:",
+        "options": [
+            "A.是指排便次数增加",
+            "B.腹泻指粪便稀薄",
+            "C.腹泻指粪便多带有粘液或脓血",
+            "D.腹泻是指每天排便超过两次",
+            "E.腹泻是指粪便稀薄并常有不消化的食物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 1
+    },
+    {
+        "question_text": "2.叙述腹泻哪项不正确？",
+        "options": [
+            "A.分泌性腹泻肠黏膜组织学基本正常",
+            "B.渗透性腹泻指肠壁细胞间渗透压升高",
+            "C.腹泻的各种机制往往互为因果",
+            "D.病程两个月以上称慢性腹泻",
+            "E.变态反应可发生腹泻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 2
+    },
+    {
+        "question_text": "3.关于腹泻的叙述，哪项是不正确的？",
+        "options": [
+            "A.变态反应可引起腹泻",
+            "B.腹泻的某些发病因素互为因果",
+            "C.病程超过二个月者为慢性腹泻",
+            "D.分泌型腹泻是由于胃肠粘膜分泌过多的液体所致",
+            "E.渗出性腹泻粘膜组织学基本正常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列不属于引起腹泻的全身性疾病的是:",
+        "options": [
+            "A.甲状腺功能亢进症",
+            "B.尿毒症",
+            "C.慢性胰腺炎",
+            "D.神经功能性腹泻",
+            "E.糖尿病性肠病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 4
+    },
+    {
+        "question_text": "5.引起腹泻病的主要病原体居首位的是:",
+        "options": [
+            "A.志贺菌及轮状病毒",
+            "B.肠致泻性大肠埃希菌",
+            "C.空肠弯曲菌及沙门菌",
+            "D.其他致泻性弧菌",
+            "E.小肠结肠炎耶尔森菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 5
+    },
+    {
+        "question_text": "6.急性腹泻最常见的病因是:",
+        "options": [
+            "A.急性肠道缺血",
+            "B.急性肠道感染",
+            "C.急性全身感染",
+            "D.变态反应性疾病",
+            "E.药物副作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 6
+    },
+    {
+        "question_text": "7.急性腹泻的特点不包括:",
+        "options": [
+            "A.起病急骤",
+            "B.病程较短",
+            "C.常伴有腹痛",
+            "D.多见于吸收不良或肠道肿瘤",
+            "E.每天排便次数可多达10次以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 7
+    },
+    {
+        "question_text": "8.腹泻超过以下哪项者为慢性腹泻:",
+        "options": [
+            "A.3个月",
+            "B.2个月",
+            "C.1个月",
+            "D.2周",
+            "E.3周"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 8
+    },
+    {
+        "question_text": "9.属于典型分泌性腹泻的是:",
+        "options": [
+            "A.硫酸镁导泻",
+            "B.小肠大部分切除后",
+            "C.甲亢腹泻",
+            "D.霍乱腹泻",
+            "E.肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 9
+    },
+    {
+        "question_text": "10.分泌性腹泻最常见",
+        "options": [
+            "A.霍乱",
+            "B.急性肠炎",
+            "C.细菌性痢疾",
+            "D.甲亢",
+            "E.食物中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 10
+    },
+    {
+        "question_text": "11.胃泌素瘤引起的腹泻属于:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗出性腹泻",
+            "C.渗透性腹泻",
+            "D.动力性腹泻",
+            "E.吸收不良性腹泻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 11
+    },
+    {
+        "question_text": "12.肠道炎症时腹泻属于:",
+        "options": [
+            "A.渗出性腹泻",
+            "B.渗透性腹泻",
+            "C.吸收不良性腹泻",
+            "D.动力性腹泻",
+            "E.分泌性腹泻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 12
+    },
+    {
+        "question_text": "13.严重感染性肠病多属于:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.渗出性腹泻",
+            "D.动力性腹泻",
+            "E.吸收不良性腹泻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 13
+    },
+    {
+        "question_text": "14.胃肠粘膜分泌过多液体引起的腹泻称为:",
+        "options": [
+            "A.动力性腹泻",
+            "B.吸收不良性腹泻",
+            "C.渗出性腹泻",
+            "D.渗透性腹泻",
+            "E.分泌性腹泻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 14
+    },
+    {
+        "question_text": "15.胃肠粘膜因炎症等病变致血浆、粘液渗出所致的腹泻称为:",
+        "options": [
+            "A.动力性腹泻",
+            "B.吸收不良性腹泻",
+            "C.渗出性腹泻",
+            "D.渗透性腹泻",
+            "E.分泌性腹泻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 15
+    },
+    {
+        "question_text": "16.甲亢引起的腹泻是:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.渗出性腹泻",
+            "D.动力性腹泻",
+            "E.吸收不良性腹泻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 16
+    },
+    {
+        "question_text": "17.溃疡性结肠炎引起的腹泻是:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.渗出性腹泻",
+            "D.动力性腹泻",
+            "E.吸收不良性腹泻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 17
+    },
+    {
+        "question_text": "18.服用甘露醇引起的腹泻属于:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.吸收不良性腹泻",
+            "D.消化功能障碍性腹泻",
+            "E.动力性腹泻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 18
+    },
+    {
+        "question_text": "19.慢性胰腺炎所引起的腹泻属于:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.吸收不良性腹泻",
+            "D.消化功能障碍性腹泻",
+            "E.动力性腹泻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 19
+    },
+    {
+        "question_text": "20.胃肠功能紊乱所引起的腹泻属于:",
+        "options": [
+            "A.分泌性腹泻",
+            "B.渗透性腹泻",
+            "C.吸收不良性腹泻",
+            "D.消化功能障碍性腹泻",
+            "E.动力性腹泻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 20
+    },
+    {
+        "question_text": "21.服盐类泻药引起腹泻的原因是:",
+        "options": [
+            "A.肠粘膜分泌增多",
+            "B.肠腔内渗透压增高",
+            "C.肠粘膜吸收障碍",
+            "D.肠蠕动过快",
+            "E.肠腔内渗透压降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列哪种疾病常引起便秘与腹泻交替出现？",
+        "options": [
+            "A.结肠炎",
+            "B.慢性菌痢",
+            "C.阿米巴痢疾",
+            "D.肠易激综合征",
+            "E.慢性非特异性溃疡性结肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 22
+    },
+    {
+        "question_text": "23.便泌与腹泻交替出现常见于:",
+        "options": [
+            "A.肠梗阻",
+            "B.肠结核",
+            "C.慢性功能性便秘",
+            "D.慢性痢疾",
+            "E.血吸虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 23
+    },
+    {
+        "question_text": "24.阿米巴痢疾的粪便特点是:",
+        "options": [
+            "A.黏液脓血便",
+            "B.洗肉水样便",
+            "C.果酱样便",
+            "D.柏油样便",
+            "E.成形粪便外带鲜血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 24
+    },
+    {
+        "question_text": "25.阿米巴痢疾的大便性状为:",
+        "options": [
+            "A.柏油样便",
+            "B.粘液性脓性鲜血便",
+            "C.暗红色果酱样脓血便",
+            "D.洗肉水样血便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 25
+    },
+    {
+        "question_text": "26.一患者腹泻与呕吐均剧烈，不伴腹痛与里急后重，粪便呈白色水样，应考虑:",
+        "options": [
+            "A.急性胃肠炎",
+            "B.急性细菌性痢疾",
+            "C.伤寒",
+            "D.变态反应性肠病",
+            "E.霍乱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 26
+    },
+    {
+        "question_text": "27.进食虾、蟹、奶类发生腹痛、腹泻者，常见于:",
+        "options": [
+            "A.食物中毒",
+            "B.病毒性肠炎",
+            "C.急性细菌性痢疾",
+            "D.变态反应性肠病",
+            "E.伪膜性肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 27
+    },
+    {
+        "question_text": "28.一患者在用林可霉素5天后，突然腹泻呈水样，每天10次左右，停药后自愈，应考虑为:",
+        "options": [
+            "A.急性胃肠炎",
+            "B.病毒性肠炎",
+            "C.溃疡性结肠炎",
+            "D.胃肠功能紊",
+            "E.伪膜性肠炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 28
+    },
+    {
+        "question_text": "29.大便带有腐败性臭味多见于:",
+        "options": [
+            "A.消化性不良或胰腺功能不足",
+            "B.阿米巴痢疾",
+            "C.溃疡性结肠炎",
+            "D.细菌性痢疾",
+            "E.肠结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 29
+    },
+    {
+        "question_text": "30.腹泻粪便中含少许粘液而无病理成分，多见于:",
+        "options": [
+            "A.肠易激综合征",
+            "B.阿米巴痢疾",
+            "C.急性肠炎",
+            "D.细菌性痢疾",
+            "E.肠伤寒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 30
+    },
+    {
+        "question_text": "31.典型霍乱腹泻的临床特点为:",
+        "options": [
+            "A.剧烈腹痛和腹泻",
+            "B.腹泻伴里急后重",
+            "C.无腹痛性剧烈腹泻",
+            "D.发热伴腹泻",
+            "E.粘液脓血便伴腹痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 31
+    },
+    {
+        "question_text": "32.急性出血性坏死性肠炎:",
+        "options": [
+            "A.米泔水样稀便",
+            "B.果酱样脓血便",
+            "C.蛋清样稀便",
+            "D.粘液脓性鲜血便",
+            "E.洗肉水样粪便"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 32
+    },
+    {
+        "question_text": "33.慢性腹泻伴脐周阵痛，大便量多，灰白色粪苏丹染色阳性。首先考虑为:",
+        "options": [
+            "A.肠易激综合征",
+            "B.甲状腺功能亢进性腹泻",
+            "C.药物性腹泻",
+            "D.小肠性腹泻",
+            "E.大肠性扶腹泻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列哪项属于阿米巴痢疾？",
+        "options": [
+            "A.柏油样便",
+            "B.暗红色果酱样粪便",
+            "C.粘液脓血便",
+            "D.洗肉水样便",
+            "E.粘液便，无物理成分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 34
+    },
+    {
+        "question_text": "35.患者的临床表现为畏寒、发热、腹痛、大便频繁、里急后重，大便早期呈水样便，后转为粘液脓血便，应诊断为:",
+        "options": [
+            "A.阿米巴痢疾",
+            "B.细菌性食物中毒",
+            "C.消化不良性腹泻",
+            "D.急性肠炎",
+            "E.细菌性痢疾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 35
+    },
+    {
+        "question_text": "36.以下何种腹泻是由于肠粘膜分泌增多引起？",
+        "options": [
+            "A.急性肠炎",
+            "B.服5％硫酸镁",
+            "C.服甘露醇",
+            "D.肠蠕动过快",
+            "E.服蓖麻油"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 36
+    },
+    {
+        "question_text": "37.果酱样便常提示:",
+        "options": [
+            "A.细菌性痢疾",
+            "B.肠结核",
+            "C.溃疡性结肠炎",
+            "D.阿米巴痢疾",
+            "E.慢性痢疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 37
+    },
+    {
+        "question_text": "38.腹泻，大便呈米泔样，常见于:",
+        "options": [
+            "A.急性肠炎",
+            "B.霍乱",
+            "C.直肠癌",
+            "D.伤寒",
+            "E.过敏性肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪种疾病呈粘液脓性鲜血便同时伴里急后重肛门坠胀感？",
+        "options": [
+            "A.白血病",
+            "B.肠结核",
+            "C.直肠息肉",
+            "D.消化性溃疡",
+            "E.急性细菌性痢疾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 39
+    },
+    {
+        "question_text": "40.急性细菌性痢疾的大便性状为:",
+        "options": [
+            "A.暗红色果酱样的脓血便",
+            "B.粘液性脓性鲜血便",
+            "C.洗肉水样血便",
+            "D.柏油样便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 40
+    },
+    {
+        "question_text": "41.根据腹泻的伴随症状推测腹泻的病因，哪种说法是不正确的？",
+        "options": [
+            "A.腹泻伴急性发热和腹痛可能为肠道感染",
+            "B.腹泻伴里急后重可诊断为细菌性痢疾",
+            "C.腹泻伴明显消瘦可见于胃肠道肿瘤或吸收不良综合征",
+            "D.腹泻伴腹部包块见于肠道恶性肿瘤或肠结核",
+            "E.腹泻伴重度脱水常见于分泌性腹泻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 41
+    },
+    {
+        "question_text": "42.急性出血性坏死性肠炎的大便性状为:",
+        "options": [
+            "A.暗红色果酱样脓血便",
+            "B.粘液性脓性鲜血便",
+            "C.柏油样便",
+            "D.洗肉水样血便",
+            "E.米泔水样便"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 42
+    },
+    {
+        "question_text": "43.腹泻伴皮疹见于:",
+        "options": [
+            "A.肠结核",
+            "B.慢性尿毒症",
+            "C.败血症",
+            "D.病毒性肠炎",
+            "E.小肠恶性淋巴瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 43
+    },
+    {
+        "question_text": "44.腹泻伴里急后重常见于:",
+        "options": [
+            "A.沙门菌食物中毒",
+            "B.直肠癌",
+            "C.过敏性紫癜",
+            "D.肠结核",
+            "E.克隆病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 44
+    },
+    {
+        "question_text": "45.腹泻伴皮疹或皮下出血可见于:",
+        "options": [
+            "A.急性细菌性痢疾",
+            "B.伤寒或副伤寒",
+            "C.肠结核",
+            "D.霍乱",
+            "E.细菌性食物中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 45
+    },
+    {
+        "question_text": "46.腹泻伴重度脱水见于:",
+        "options": [
+            "A.胃肠炎",
+            "B.霍乱",
+            "C.血吸虫",
+            "D.肠结核",
+            "E.伤寒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 46
+    },
+    {
+        "question_text": "47.长期腹泻伴有消瘦，腹部发现包块，可见于:",
+        "options": [
+            "A.结肠癌",
+            "B.胃肠炎",
+            "C.阿米巴痢疾",
+            "D.细菌性食物中毒",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 47
+    },
+    {
+        "question_text": "48.男性，16岁。腹泻三天，每日排粘液脓血便7～8次，有里急后重，伴左下腹痛，粪检:WBC10～20/HP，RBC5～6/HP，吞噬细胞0～2/HP，最可能诊断是:",
+        "options": [
+            "A.肠结核",
+            "B.结肠癌",
+            "C.阿米巴痢疾",
+            "D.细菌性痢疾",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 48
+    },
+    {
+        "question_text": "49.女性，30岁，发热2月伴盗汗，常有腹泻，便秘交替，右下腹可扪及一边界不清的包块，粪培养（-）,X线胸片右上肺结核，最有可能诊断是:",
+        "options": [
+            "A.肠结核",
+            "B.结肠癌",
+            "C.阿米巴痢疾",
+            "D.细菌性痢疾",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 49
+    },
+    {
+        "question_text": "50.男性，65岁。右下腹痛3月，常有便秘。查体:右下腹扪及鸡蛋大小肿块，质硬，压痛不明显最可能诊断是:",
+        "options": [
+            "A.肠结核",
+            "B.结肠癌",
+            "C.阿米巴痢疾",
+            "D.细菌性痢疾",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 50
+    }
+]
