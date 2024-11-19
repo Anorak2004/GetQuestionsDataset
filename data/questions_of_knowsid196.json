@@ -1,0 +1,744 @@
+[
+    {
+        "question_text": "1.\t空腹病人，超声不能显示胆囊的最常见原因为：",
+        "options": [
+            "A.\t慢性胆囊炎",
+            "B.\t胆汁淤积",
+            "C.\t活动结石",
+            "D.\t胆囊结石合并萎缩性胆囊炎",
+            "E.\t在超声检查前使用X线口服造影剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t正常胆囊径线下列选项的说法正确的是：",
+        "options": [
+            "A.\t前后径V2.5cm，长径V5cm",
+            "B.\t前后径V3cm,长径V6cm",
+            "C.\t前后径V4cm,长径V7cm",
+            "D.\t前后径V4cm,长径V9cm",
+            "E.\t前后径V5cm,长径V12cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t空腹胆囊囊壁厚度超过多少具有病理性意义：",
+        "options": [
+            "A.\t2mm",
+            "B.\t3mm",
+            "C.\t4mm",
+            "D.\t5mm",
+            "E.\t6mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t关于胆总管的说法，正确的是：",
+        "options": [
+            "A.\t由肝总管和胆囊管汇合而成",
+            "B.\t起始于胆囊颈",
+            "C.\t下降于胰头的左侧、十二指肠降部的右侧",
+            "D.\t在肝十二指肠韧带内下行于肝同有动脉的左侧",
+            "E.\t下段在进入胰头前膨大，形成壶腹部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t胆总管结石在哪一段最容易嵌顿：",
+        "options": [
+            "A.\t十二指肠上段",
+            "B.\t十二指肠后段",
+            "C.\t胰腺段",
+            "D.\t十二指肠壁内段",
+            "E.\t十二指肠侧段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t胆总管和胰管通常在何处汇合成Vater壶腹：",
+        "options": [
+            "A.\t十二指肠上段",
+            "B.\t十二指肠后段",
+            "C.\t十二指肠壁内段",
+            "D.\t十二指肠和空肠交界处",
+            "E.\t十二指肠升部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t肝外胆道包括：①胆囊、胆囊管；②肝总管；③ 胆总管；④胰管",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t左右肝管扩张，胆囊不大，提示梗阻在：",
+        "options": [
+            "A.\t胆总管",
+            "B.\t肝总管",
+            "C.\t胆囊管",
+            "D.\tVater 壶腹",
+            "E.\t胰管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t肝内外胆管、胆囊扩大及主胰管扩张，其梗阻部 位可能在：",
+        "options": [
+            "A.\t胆总管的近端",
+            "B.\t胆囊管",
+            "C.\t肝总管",
+            "D.\t十二指肠壶腹",
+            "E.\t胆总管的远端"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t下列除哪一项外其余均为肝内胆管扩张的特征 性表现：",
+        "options": [
+            "A.\t平行管征",
+            "B.\t胆管增宽，其壁不规则",
+            "C.\t胆管增宽，后方回声增强",
+            "D.\t自肝门向肝内呈枯树枝状改变",
+            "E.\t朝向肝门的胆管内径逐渐变小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t典型胆囊结石的声像图特征是：①囊内出现单 枚或多枚团块状强回声；②强回声团可随体位改变 而移动；③强回声团后方伴有声影；④胆总管扩张",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下列除哪项外，其余胆囊壁均可呈弥漫性增 厚：",
+        "options": [
+            "A.\t急性胆囊炎",
+            "B.\t急性黄疸性肝炎",
+            "C.\t胆囊腺瘤",
+            "D.\t充血性心力衰竭",
+            "E.\t门静脉高压症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t怀疑胆囊结石时首选的影像诊断方法是：",
+        "options": [
+            "A.\tCT",
+            "B.\tX线胆囊造影",
+            "C.\tERCP",
+            "D.\tB型超声",
+            "E.\t放射性核素扫描"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t改善胆总管下段超声显像的方法是：",
+        "options": [
+            "A.\t饮水法",
+            "B.\t探头加压侧转法",
+            "C.\t脂餐法",
+            "D.\t体位法",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t根据“ WES\"征(Wall-Echo-Shadow)可诊断：",
+        "options": [
+            "A.\t胆囊癌",
+            "B.\t胆囊息肉样病变",
+            "C.\t慢性萎缩性胆囊炎，其内充满结石",
+            "D.\t胆总管囊肿",
+            "E.\t胆囊穿孔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t易误诊为肝内肿瘤的胆囊癌类型是：",
+        "options": [
+            "A.\t蕈伞型",
+            "B.\t厚壁型",
+            "C.\t混合型",
+            "D.\t实块型",
+            "E.\t结节型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t胆囊内见一附壁高回声团，直径约4mm,后无 声影，不移动，最恰当的超声诊断是：",
+        "options": [
+            "A.\t息肉样病变",
+            "B.\t胆泥球",
+            "C.\t钙化",
+            "D.\t结石",
+            "E.\t腺瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t应与胆囊息肉慎重鉴别的是：",
+        "options": [
+            "A.\t胆囊内蛔虫",
+            "B.\t与囊壁粘连的结石",
+            "C.\t胆囊肿瘤",
+            "D.\t胆泥",
+            "E.\t胆囊腺肌病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t对于胆管腔内无声影的低回声团，应考虑：① 伪像；②化脓性炎症；③胆管肿瘤；④管腔内凝血 块",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t先天性胆管囊性扩张症可发生在：",
+        "options": [
+            "A.\t肝内胆管",
+            "B.\t肝外胆管",
+            "C.\t肝内胆管和肝外胆管均可发生",
+            "D.\t胰管",
+            "E.\t胆囊管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t下列外科手术中，易引起胆道内积气的是：",
+        "options": [
+            "A.\t肝左叶切除术",
+            "B.\t胆囊切除术",
+            "C.\t胆总管空肠吻合术",
+            "D.\t胃切除术",
+            "E.\t脾切除术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t下列选项中，与急性胆囊炎无联系的是：",
+        "options": [
+            "A.\t胆囊壁增厚超过3mm",
+            "B.\t胆囊体积增大",
+            "C.\t胆囊管阻塞",
+            "D.\t肝静脉扩张",
+            "E.\tMurphys征阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t应与肝内胆管结石作鉴别的常有：①肝内钙化 灶；②肝圆韧带；③胆道气体；④门静脉血栓",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t胆囊颈部成袋状扩张，称哈德(Hartman)囊，是 超声探测须注意的部位，它的临床意义是：",
+        "options": [
+            "A.\t是胆囊癌多发部位",
+            "B.\t是胆囊结石常嵌顿部位",
+            "C.\t是变异较大的地方",
+            "D.\t易穿孔",
+            "E.\t是息肉易发处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t患儿，男，8岁，突发剑突下阵发性钻顶样剧 痛，超声探查发现胆囊内长条形双线状回声。超声 诊断为：",
+        "options": [
+            "A.\t胆囊炎",
+            "B.\t胆囊蛔虫症",
+            "C.\t胆囊癌",
+            "D.\t化脓性胆管炎",
+            "E.\t胆结石"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t左右肝管内径大于多少则提示扩张：",
+        "options": [
+            "A.\t2mm",
+            "B.\t3mm",
+            "C.\t4mm",
+            "D.\t5mm",
+            "E.\t6mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t超声发现胆总管呈梭形或圆形扩张时，应首先 考虑：",
+        "options": [
+            "A.\t胆总管下段梗阻",
+            "B.\t胆总管炎",
+            "C.\t胆总管囊肿",
+            "D.\t胆总管癌",
+            "E.\t胆总管结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t胆囊肿大，正常液性腔消失，呈现为一低回声 团，不随体位改变而移动，CDFI可见血供。这时 应首先考虑为：",
+        "options": [
+            "A.\t胆囊癌",
+            "B.\t胆囊炎",
+            "C.\t胆泥淤积",
+            "D.\t胆囊肌腺症",
+            "E.\t胆囊充满结石"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t胆总管长度为：",
+        "options": [
+            "A.\t1 ?2cm",
+            "B.\t2 ?4cm",
+            "C.\t4 ?8cm",
+            "D.\t8 ?12cm",
+            "E.\t12 ?14cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t胆总管梗阻时，超声显示肝内平行管征的构成 是：",
+        "options": [
+            "A.\t肝动脉、门静脉",
+            "B.\t门静脉、肝内胆管",
+            "C.\t肝静脉、肝内胆管",
+            "D.\t肝动脉、肝内胆管",
+            "E.\t肝静脉、门静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t胆囊疾病最常见的是：",
+        "options": [
+            "A.\t胆囊腺肌症",
+            "B.\t胆囊结石伴胆囊炎",
+            "C.\t胆囊癌",
+            "D.\t胆囊息肉",
+            "E.\t胆囊蛔虫症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t—老年男性患者，原有糖尿病，右上腹隐痛数 日，突发腹痛弥漫加剧。超声表现：胆囊偏小，壁厚毛糙，胆汁少，透声差，囊内见多枚强回声团伴 声影，胆囊周围可见液性暗区。可诊断为：",
+        "options": [
+            "A.\t胆结石伴急性胆囊炎",
+            "B.\t胆囊结石伴胆囊癌",
+            "C.\t坏疽性胆囊炎",
+            "D.\t胆囊结石、胆囊炎伴胆囊穿孔",
+            "E.\t胆囊结石、伴慢性胆囊炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t超声仔细检查右上腹，未显示胆囊，原因可能 为：①餐后；②胆囊位置异常；③胆囊发育不良或 缺如；④萎缩性胆囊炎",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t胆总管分4段，依次为：",
+        "options": [
+            "A.\t十二指肠上段一十二指肠后段一胰腺段一肠壁内 段",
+            "B.\t十二指肠前段一十二指肠上段一胰腺段一肠壁内 段",
+            "C.\t十二指肠上段一十二指肠下段一胰腺段一肠壁内 段",
+            "D.\t十二指肠上段一十二指肠后段一肠壁内段一胰腺 段",
+            "E.\t十二指肠前段一十二指肠后段一胰腺段一肠壁内 段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t胆囊癌转移最常见的途径是：",
+        "options": [
+            "A.\t血行转移",
+            "B.\t直接侵犯肝脏",
+            "C.\t淋巴结转移",
+            "D.\t腹膜种植",
+            "E.\t以上发生率无区别"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t关于胆管癌的特点下列哪些是正确的：①好发 于左右肝管汇合处、胆囊管与肝总管汇合处及壶腹 部；②女性发病高于男性；③起病隐袭，而早期出 现黄疸；④声像图可表现为团块型、截断型和狭窄 型",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t超声检查胆囊时，病人通常采取的体位应是：",
+        "options": [
+            "A.\t仰卧位",
+            "B.\t左侧卧位",
+            "C.\t坐位",
+            "D.\t仰卧位十左侧卧位",
+            "E.\t俯卧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t急性胆囊炎最常见的原因是：",
+        "options": [
+            "A.\t胆囊管过长，扭曲",
+            "B.\t螺旋瓣异常",
+            "C.\t胆瘤压迫",
+            "D.\t结石嵌顿",
+            "E.\t蛔虫阻塞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t胆囊壁增厚是",
+        "options": [
+            "A.\t腹水",
+            "B.\t低蛋白血症",
+            "C.\t右心衰竭",
+            "D.\t肝炎",
+            "E.\t急性胆囊炎F.以上各项均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t早期即可引起胰管和胆总管同时扩张的疾病最 常见的是：",
+        "options": [
+            "A.\t胆总管结石",
+            "B.\t壶腹癌",
+            "C.\t胰头癌",
+            "D.\t慢性胰腺炎",
+            "E.\t胰岛细胞瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t总胆管进入十二指肠的部位是：",
+        "options": [
+            "A.\t幽门和十二指肠连接部",
+            "B.\t十二指肠的乳头部",
+            "C.\tVater壶腹部",
+            "D.\t总胰管部",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t胆囊壁出现双边效应多见于：",
+        "options": [
+            "A.\t肾盂积水",
+            "B.\t胆囊慢性炎症",
+            "C.\t肝硬化、腹水",
+            "D.\t脓肿",
+            "E.\t肝癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t肝门部肿块引起阻塞性黄疸时，胆囊的声像图 改变为：",
+        "options": [
+            "A.\t胆囊大小无改变",
+            "B.\t胆囊轻度肿大",
+            "C.\t胆囊中度肿大",
+            "D.\t胆囊重度肿大",
+            "E.\t胆囊萎缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t胆囊明显肿大见于:",
+        "options": [
+            "A.\t变异",
+            "B.\t胆囊炎",
+            "C.\t胆囊积液",
+            "D.\t胆囊结石",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 44
+    },
+    {
+        "question_text": "45.胆囊结石嵌顿于胆囊颈部时，超声检查除发现结石外尚可见：",
+        "options": [
+            "A.胆囊肿大不明显，但局部有压痛",
+            "B.胆囊肿大明显，且有压痛",
+            "C.胆囊中度肿大",
+            "D.胆囊轻度肿大，局部有压痛",
+            "E.胆囊大小正常，但囊壁水肿成“双边”状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t严重慢性胆囊炎病例超声图像为:",
+        "options": [
+            "A.\t胆囊萎缩",
+            "B.\t胆囊壁增厚",
+            "C.\t高脂肪餐收缩率低",
+            "D.\t胆囊积液或萎缩、囊壁增厚",
+            "E.\t胆囊萎缩、高脂肪餐收缩率低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t超声诊断胆囊结石与胆管结石，其正确性比 较：",
+        "options": [
+            "A.\t胆管结石高于胆囊结石",
+            "B.\t胆囊结石高于胆管结石",
+            "C.\t胆总管结石高于肝内胆管结石",
+            "D.\t胆总管结石高于胆囊结石",
+            "E.\t两者差不多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t超声诊断急性胆囊炎的要点为：",
+        "options": [
+            "A.\t胆囊不一定肿大，但可有压痛",
+            "B.\t胆囊肿大，胆囊壁明显水肿",
+            "C.\t胆囊肿大，胆囊壁水肿且有压痛，胆汁透声差",
+            "D.\t胆囊肿大，囊内见结石回声",
+            "E.\t胆囊肿大，胆汁透声度降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t典型胆囊结石声像图可见：",
+        "options": [
+            "A.\t强回声团，胆汁透声度降低",
+            "B.\t强回声团及其后方的声影",
+            "C.\t强回声团，胆囊壁增厚，胆汁透声度差",
+            "D.\t强回声团并沿重力方向运动",
+            "E.\t强回声团及后方的声影，并沿重力方向运动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t超声诊断胆囊结石与肾结石，其可靠性比较:",
+        "options": [
+            "A.\t两者的可靠性差不多",
+            "B.\t两者均不理想",
+            "C.\t胆囊结石优于肾结石",
+            "D.\t肾结石优于胆囊结石",
+            "E.\t只有较大的肾结石优于胆囊结石"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t右上腹痛、发热、白细胞计数升高患者，超声 显示胆囊肿大，内伴有回声增强的碎片，这可能提 示为：",
+        "options": [
+            "A.\t瓷状胆囊",
+            "B.\t水肿胆囊",
+            "C.\t胆囊积脓",
+            "D.\t胆囊癌",
+            "E.\t胆囊积血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t下列选项中，胆囊壁均呈弥漫性增厚，除了：",
+        "options": [
+            "A.\t急性胆囊炎",
+            "B.\t急性黄疸性肝炎",
+            "C.\t胆囊腺瘤",
+            "D.\t充血性心力衰竭",
+            "E.\t门静脉高压症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t胆囊癌转移最常见的途径是：",
+        "options": [
+            "A.\t血行转移",
+            "B.\t淋巴结转移",
+            "C.\t直接侵犯肝脏",
+            "D.\t腹膜种植",
+            "E.\t以上均有可能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 53
+    }
+]

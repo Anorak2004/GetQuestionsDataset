@@ -1,0 +1,926 @@
+[
+    {
+        "question_text": "1.\t肝静脉出肝后汇人：",
+        "options": [
+            "A.\t下腔静脉",
+            "B.\t胃冠状静脉",
+            "C.\t上腔静脉",
+            "D.\t奇静脉",
+            "E.\t右肾静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t肝脏超声“米老鼠征”的解剖基础是：",
+        "options": [
+            "A.\t肝外胆管、门静脉与肝动脉在肝门附近横断面的 图像",
+            "B.\t胆囊管、肝静脉与门静脉在肝门附近横断面的图 像",
+            "C.\t肝总管、肝静脉与门静脉在肝门附近横断面的图 像",
+            "D.\t胆囊管、肝动脉与门静脉在肝门附近横断面的图 像",
+            "E.\t胆总管、肝动脉与肝静脉在肝门附近横断面的图 像"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t在第一肝门区出入的管道结构是：①门静脉；② 肝固有动脉；③胆总管；④肝静脉",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t触诊时，扪及右肋缘下肿块，可能是：①肿大的 胆囊；②肿大的肝脏；③右肾下极；④阑尾炎性肿 块",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t门静脉主干由下列哪几条静脉汇合而成：",
+        "options": [
+            "A.\t肠系膜上静脉和门静脉左支",
+            "B.\t门静脉左、右支",
+            "C.\t脾静脉与肠系膜上静脉",
+            "D.\t右肾静脉和门静脉右支",
+            "E.\t右肾静脉和门静脉左支"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t肝内门静脉和肝静脉所显示的不同超声表现是：",
+        "options": [
+            "A.\t门静脉管壁厚且回声高，肝静脉的管壁薄且回声 减弱",
+            "B.\t门静脉内径较粗，肝静脉较细",
+            "C.\t门静脉有搏动，肝静脉无搏动",
+            "D.\t门静脉较直，肝静脉较弯曲",
+            "E.\t门静脉较弯曲，肝静脉较直"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t正常情况下，肝门处下列管道的前后排列顺序 为：",
+        "options": [
+            "A.\t门静脉、胆管、肝动脉三者平行",
+            "B.\t肝动脉、门静脉、胆管三者平行",
+            "C.\t胆囊管、肝动脉、肝静脉三者交叉",
+            "D.\t胆总管、门静脉、肝动脉三者平行",
+            "E.\t胆总管、肝动脉、门静脉三者平行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t左肝内外叶的分界标志为：",
+        "options": [
+            "A.\t肝中静脉",
+            "B.\t门静脉左支矢状部",
+            "C.\t肝右静脉",
+            "D.\t肝动脉左支",
+            "E.\t门静脉左支横部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t肝左右叶的分界标志是：",
+        "options": [
+            "A.\t肝右静脉",
+            "B.\t肝中静脉",
+            "C.\t肝左静脉",
+            "D.\t门静脉的横部",
+            "E.\t门静脉的矢状部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t肝左叶与尾状叶的分界标志是：",
+        "options": [
+            "A.\t门静脉左支横部",
+            "B.\t肝左静脉",
+            "C.\t肝中静脉",
+            "D.\t肝右静脉",
+            "E.\t门静脉左支囊部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t右肝前叶与后叶的分界标志是：",
+        "options": [
+            "A.\t肝右静脉",
+            "B.\t肝左静脉",
+            "C.\t肝中静脉",
+            "D.\t门静脉左支横部",
+            "E.\t门静脉左支矢状部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t镰状韧带的肝外部分：",
+        "options": [
+            "A.\t走行于下腔静脉与胆囊之间",
+            "B.\t肝与前腹壁间的高回声带，伴腹水时可见到",
+            "C.\t连接肝脏至小网膜囊",
+            "D.\t与门静脉左支矢状部伴行",
+            "E.\t以上均对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t左、右肝管汇合形成肝总管常见于：",
+        "options": [
+            "A.\t第一肝门外",
+            "B.\t肝实质内",
+            "C.\t胰腺水平",
+            "D.\t第二肝门处",
+            "E.\t胆总管胰头段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t肝脏可分为左半肝、右半肝和尾状叶，右半肝 可分为前叶和后叶，而左半肝可分为内叶和外叶， 方叶是指：",
+        "options": [
+            "A.\t肝外叶",
+            "B.\t右肝前叶",
+            "C.\t右肝前叶上段",
+            "D.\t右肝后叶下段",
+            "E.\t左肝内叶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t正常肝脏超声检查时，“工\"字形图像指的 是：",
+        "options": [
+            "A.\t肝脏内门静脉右支的走形图像",
+            "B.\t肝脏内门静脉左支的走形图像",
+            "C.\t肝内胆管右支的走形图像",
+            "D.\t肝内胆管左支的走形图像",
+            "E.\t肝内左中右肝静脉的走形图像"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t肝脏的第二肝门指的是：",
+        "options": [
+            "A.\t门静脉、胆总管和肝固有动脉人肝处",
+            "B.\t肝脏尾状叶的静脉回流处",
+            "C.\t肝脏左中右静脉出肝处",
+            "D.\t肝内胆管、淋巴管回流处",
+            "E.\t门静脉人肝处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t正常肝脏组织的声像图特点是：",
+        "options": [
+            "A.\t实质回声细小，分布均匀，回声低于中年以上的 胰腺而较肾皮质略高",
+            "B.\t均匀细小的光点，回声较脾低",
+            "C.\t低回声与脾回声相等",
+            "D.\t高回声与脾回声相等",
+            "E.\t低回声区中有形态不一的条索状结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t下列选项中的肝内疾病超声可表现为混合性团 块的是：",
+        "options": [
+            "A.\t胆管囊腺瘤",
+            "B.\t巨大海绵状血管瘤",
+            "C.\t肝内血肿",
+            "D.\t包囊虫病",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t下列肝硬化声像图表现中，正确的是：",
+        "options": [
+            "A.\t肝回声增高、增粗、分布不均",
+            "B.\t肝表面不平",
+            "C.\t尾状叶增大",
+            "D.\t门静脉增宽和肝静脉变细",
+            "E.\t以上均有可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列选项中，门静脉高压的特征性表现是：",
+        "options": [
+            "A.\t脾肿大",
+            "B.\t脾静脉直径大于10mm，不随呼吸变化",
+            "C.\t门静脉直径大于12mm，不随呼吸变化",
+            "D.\t腹水",
+            "E.\t门静脉侧支循环形成，如脐静脉开放，胃左静脉 扩张直径大于4mm,腹壁静脉曲张等"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t严重肝硬化合并门静脉高压时，胆囊壁水肿增 厚呈“双边征”，其主要原因是：",
+        "options": [
+            "A.\t大量腹水",
+            "B.\t低蛋白血症",
+            "C.\t胆囊静脉及淋巴回流受阻",
+            "D.\t水、电解质代谢紊乱",
+            "E.\t门静脉内血栓形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t在我国，下列肝硬化中最常见的是：",
+        "options": [
+            "A.\t酒精性肝硬化",
+            "B.\t病毒性肝炎肝硬化",
+            "C.\t胆汁性肝硬化",
+            "D.\t寄生虫性肝硬化",
+            "E.\t色素性肝硬化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t淤血性肝硬化或称心源性肝硬化，其特征性超 声表现为：",
+        "options": [
+            "A.\t肝右下缘及左侧缘较锐薄",
+            "B.\t门静脉增宽",
+            "C.\t胆囊壁水肿",
+            "D.\t肝实质回声增高、密集",
+            "E.\t下腔静脉及肝静脉增宽"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t下列超声表现中，血吸虫性肝病的特点是：",
+        "options": [
+            "A.\t肝回声呈地图样（或网格状或鳞片状或沙漠样改 变）",
+            "B.\t左叶增大明显",
+            "C.\t门静脉增宽",
+            "D.\t肝包膜不平",
+            "E.\t脾肿大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t均匀性脂肪肝的超声表现为：",
+        "options": [
+            "A.\t肝脏增大，实质回声降低",
+            "B.\t肝表面尚光滑，实质回声均匀性增高、细密，常 伴深部回声衰减，肝静脉变细",
+            "C.\t肝脏增大，实质回声增粗、增高，分布不均匀",
+            "D.\t实质回声呈网状",
+            "E.\t肝实质内可见众多的片状低回声区，边缘欠清， 无球体感"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t下列疾病中，超声检查是首选且可靠性最高的 是：",
+        "options": [
+            "A.\t肝血管瘤",
+            "B.\t肝腺瘤",
+            "C.\t肝囊肿",
+            "D.\t肝内转移灶",
+            "E.\t炎性假瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t肝脏良性肿瘤中最常见的是：",
+        "options": [
+            "A.\t海绵状血管瘤",
+            "B.\t肝脏纤维瘤",
+            "C.\t肝腺瘤",
+            "D.\t肝错构瘤",
+            "E.\t肝脂肪瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t下列选项中，肝肿瘤与口服避孕药有关：",
+        "options": [
+            "A.\t海绵状血管瘤",
+            "B.\t脂肪瘤",
+            "C.\t腺瘤",
+            "D.\t错构瘤",
+            "E.\t崎胎瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t弥漫性脂肪肝的声像图表现主要有：①肝脏增 大；②回声增高密集；③远区回声衰减，④肝内血 管模糊不清",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t若发现患者有多囊肝，应特别注意检查的其他 器官是：",
+        "options": [
+            "A.\t肾脏",
+            "B.\t胰腺",
+            "C.\t脾脏",
+            "D.\t心脏",
+            "E.\t胆囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t肝包虫病为一种人畜共患的寄生虫病，病原体 为棘球蜘和包球拗，其声像图特征为：",
+        "options": [
+            "A.\t肝内一个或多个圆形液性暗区，壁厚而清晰，有 的壁可见钙化，外壁光滑，内壁不整，大的囊腔内 可见子囊孙囊，呈“囊中囊”征",
+            "B.\t肝实质回声正常",
+            "C.\t肝包膜可见驼蜂样",
+            "D.\t肝内管道可见挤压现象",
+            "E.\t肝增大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t肝内胆管结石和肝内钙化灶的超声鉴别要点 是：①前者比后者大。②前者为强回声，后方声影 明显；后者为强回声，后方声影模糊。③前者常伴 胆囊壁增厚；后者无。④前者常为多发，沿胆管分 布，并可引起远端肝管扩张；而后者则?单发，不 一定沿胆管分布，无胆管扩张",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t肝囊肿与肝脓肿的超声鉴别要点是：①脓肿是 实性的，囊肿是液性的；②脓肿边缘不规则、壁模 糊不清而厚，囊肿边缘清晰、壁薄；③脓肿为低回 声肿块，囊肿为透声佳的液暗区；④早期脓肿内可 见血流，囊肿内无血流",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t肝癌组织发生坏死时，超声可见的特点是：",
+        "options": [
+            "A.\t肿块中出现边界整齐的液暗区",
+            "B.\t肿块中出现边界不规则的液暗区",
+            "C.\t肿块中出现高回声团",
+            "D.\t肿块的后方有衰减效应",
+            "E.\t肿块的后方有增强效应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t原发性肝癌的超声表现多种多样，其声像图分 为：",
+        "options": [
+            "A.\t低回声型",
+            "B.\t高回声型",
+            "C.\t等回声型",
+            "D.\t弥漫型与混合型",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t下列哪种实验室检查是诊断原发性肝癌的常用 指标：",
+        "options": [
+            "A.\tY-GT",
+            "B.\tAKP",
+            "C.\tGOT",
+            "D.\tGPT",
+            "E.\tAFP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t肝癌结节外周暗环（声晕）的病理学基础是：① 提示肿瘤周围水肿；②提示肿瘤生长速度快；③提 示肿瘤外周浸润；④提示肿瘤外周血管生长明显",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t原发性肝癌是指：",
+        "options": [
+            "A.\t肝细胞发生的恶性肿瘤",
+            "B.\t胆管上皮发生的恶性肿瘤",
+            "C.\t肝细胞或肝内间质细胞发生的恶性肿瘤",
+            "D.\t肝内间质细胞发生的恶性肿瘤",
+            "E.\t肝细胞和（或）肝内胆管上皮细胞发生的恶性肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t转移性肝癌的声像图特征有：",
+        "options": [
+            "A.\t病灶多发、大小相近",
+            "B.\t病灶多分布在静脉侧端",
+            "C.\t病灶血供相对比原发性肝癌少",
+            "D.\t除病灶外肝实质的背景回声可正常",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t肝癌除癌灶超声表现外，最常见的继发声像图 表现是：①压迫周围血管，肝门区病变常压迫胆管 及门静脉；②门静脉及下腔静脉中癌栓；③肝内转 移卫星病灶；④肝门和腹腔淋巴结肿大",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t门静脉癌栓和血栓的鉴别要点是：",
+        "options": [
+            "A.\t前者门静脉增宽明显，后者不明显",
+            "B.\t前者不完全堵塞血管，后者则完全堵塞血管",
+            "C.\t前者回声高，后者回声低",
+            "D.\t前者CDFI示门静脉周围小动脉增多、增粗，部 分可见搏动性细小血管进人癌栓中，后者无",
+            "E.\t以上说法均正确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t肝脏占位性病变二维超声不能肯定诊断时，最 好用的检查方法是：",
+        "options": [
+            "A.\t多普勒超声",
+            "B.\t三维超声",
+            "C.\tM型超声",
+            "D.\t超声引导穿刺活检",
+            "E.\t内镜超声"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t大肠癌肝转移的常见超声表现是：",
+        "options": [
+            "A.\t牛眼征",
+            "B.\t地图样征",
+            "C.\t面团征",
+            "D.\t周缘裂缺征",
+            "E.\t类囊肿征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t隔下脓肿常见并发症为：",
+        "options": [
+            "A.\t门静脉增宽",
+            "B.\t右心衰竭",
+            "C.\t心包积液",
+            "D.\t胸腔积液",
+            "E.\t脾脓肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t在国内下列化学制剂中，最常用于超声引导下 肝癌介人治疗的是：",
+        "options": [
+            "A.\t蒸馏水",
+            "B.\t热生理盐水",
+            "C.\t热蒸馏水",
+            "D.\t冰醋酸",
+            "E.\t无水乙醇"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t肝脏回声呈地图样改变常见于哪种肝脏疾病：",
+        "options": [
+            "A.\t肝豆状核变性",
+            "B.\t坏死性肝硬化",
+            "C.\t血吸虫病肝硬化",
+            "D.\t弥漫性脂肪肝",
+            "E.\t华支睾吸虫病性肝病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t肝豆状核变性(Wilson病)的临床表现是：①可 出现神经系统症状，如傻笑②超声表现为肝硬 化，门静脉高压③血清铜蓝蛋白和游离铜减低；④角膜可见色素环(Ksyer-Fleischer)",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 47
+    },
+    {
+        "question_text": "48.\tBudd-Chiari综合征的概念正确的是：",
+        "options": [
+            "A.\t肝静脉阻塞引起的门静脉高压综合征",
+            "B.\t下腔静脉阻塞引起的下腔静脉高压",
+            "C.\t肝段下腔静脉、肝静脉部分或完全阻塞引起的下 腔静脉和门静脉高压综合征",
+            "D.\t肝静脉阻塞引起尾状叶增大",
+            "E.\t下腔静脉狭窄、血栓形成闭塞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t对肝血管瘤的影像学检查首选是：",
+        "options": [
+            "A.\tCT",
+            "B.\t超声",
+            "C.\tDSA",
+            "D.\tMRI",
+            "E.\tECT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t以下选项不会引起肝脏上移的是：",
+        "options": [
+            "A.\t结肠重度扩张",
+            "B.\t腹水",
+            "C.\t腹部肿瘤",
+            "D.\t隔下脓肿",
+            "E.\t肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t患门静脉高压症时患者可有：",
+        "options": [
+            "A.\t门静脉扩张",
+            "B.\t在门静脉与体循环中有侧支循环吻合",
+            "C.\t脾肿大",
+            "D.\t腹水",
+            "E.\t以上各项均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t肝门部的三结构是：",
+        "options": [
+            "A.\t肝动脉、肝静脉、肝门",
+            "B.\t门静脉、肝动脉、胆总管",
+            "C.\t脾静脉、门静脉、肝静脉",
+            "D.\t总胆管、胆囊管、左右肝管",
+            "E.\t肝动脉、门静脉、肝门"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t肝脏的四叶是：",
+        "options": [
+            "A.\t左叶、右叶、方叶、尾叶",
+            "B.\t上叶、下叶、方叶、尾叶",
+            "C.\t前叶、后叶、方叶、尾叶",
+            "D.\t内叶、外叶、方叶、后叶",
+            "E.\t左叶、右叶、前叶、后叶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t右季肋部的肿块多见于：①肿大的胆囊；②肿 大的肝脏；③右肾上极",
+        "options": [
+            "A.\t①+②+③",
+            "B.\t①+②",
+            "C.\t②+③",
+            "D.\t③",
+            "E.\t②"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t肝肿瘤的临床特征为：①腹水；②黄疽；③肝 肿大；④脾肿大",
+        "options": [
+            "A.\t①+②",
+            "B.\t①+②+③",
+            "C.\t①+②+③+④",
+            "D.\t①+④",
+            "E.\t②"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t正常人的门静脉主干内径超声侧值参考数为：",
+        "options": [
+            "A.\t<1.2cm",
+            "B.\t上限值为1.6cm",
+            "C.\t<1.4cm",
+            "D.\t上限值为1.5cm",
+            "E.\t1.2 ?1.5crn"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 56
+    },
+    {
+        "question_text": "57 .超声图像上，发现肝脏内部出现一个高回声团，境界清，边界不大规则，内部回声不均匀，肿 块后方出现衰减。应考虑为：",
+        "options": [
+            "A.\t肝血管瘤",
+            "B.\t肝脓肿早期",
+            "C.\t肝硬化",
+            "D.\t肝癌",
+            "E.\t肝组织坏死灶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t超声图像上，肝脏实质内出现一个圆形液性暗区，首先应考虑为：",
+        "options": [
+            "A.\t包囊虫病",
+            "B.\t肝内出血灶",
+            "C.\t肝脓肿液化",
+            "D.\t肝癌液化或出血",
+            "E.\t肝囊肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t肝硬化的声像图特征是：①肝表面不平整；② 肝内回声不均；③门静脉增宽；④脾大",
+        "options": [
+            "A.\t①+②",
+            "B.\t②+③",
+            "C.\t①+②+③",
+            "D.\t①+②+③+④",
+            "E.\t②"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t血吸虫肝病的声像图特征为：",
+        "options": [
+            "A.\t肝缩小",
+            "B.\t肝肿大",
+            "C.\t肝区回声呈网络状改变",
+            "D.\t尾叶增大",
+            "E.\t无特殊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t腹腔动脉位于肠系膜上动脉的：",
+        "options": [
+            "A.\t上方",
+            "B.\t下方",
+            "C.\t腹面",
+            "D.\t背面",
+            "E.\t左面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t下列肝硬化声像图表现中，正确的是：",
+        "options": [
+            "A.\t肝回声增强增粗，分布不均",
+            "B.\t肝表面不平",
+            "C.\t尾状叶增大",
+            "D.\t门静脉增宽和肝静脉变细",
+            "E.\t以上均有可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 62
+    },
+    {
+        "question_text": "63.\t我国肝癌病理协作组制定的小肝癌的诊断标准 是：C (C)①单个结节直径W2.0cm；②单个结节 直径N3.0cm:③多个结节数目W3个，相邻两个 结节最大直径总和W2.0cm :④多个结节数目W2 个，其中最大直径总和W3.",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t膈下脓肿位于：①左侧腹部；②上腹后部；③ 右侧腹部；④横膈下",
+        "options": [
+            "A.\t①",
+            "B.\t①+②",
+            "C.\t②+③",
+            "D.\t④",
+            "E"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 64
+    },
+    {
+        "question_text": "65.\t与正常肝实质回声强度比较，肝癌回声可分 为：",
+        "options": [
+            "A.\t强回声型和低回声型",
+            "B.\t强回声型和等回声型",
+            "C.\t低回声型和等回声型",
+            "D.\t强回声型、等回声型和低回声型",
+            "E.\t强回声型、等回声型、低回声型和混合回声型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 65
+    },
+    {
+        "question_text": "66.\t门静脉癌栓的超声表现为：",
+        "options": [
+            "A.\t门静脉内单个或多个回声增高的结节，CDFI可 见结节内有血供",
+            "B.\t门静脉内布满低至中等回声的实质性结构，有时 充满整个门静脉",
+            "C.\t门静脉增宽明显，各段增宽程度不一致",
+            "D.\t门静脉血液可逆流，故癌栓可生长至脾静脉和肠 系膜上静脉",
+            "E.\t以上说法均正确"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 66
+    }
+]

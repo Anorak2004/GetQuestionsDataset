@@ -1,0 +1,702 @@
+[
+    {
+        "question_text": "1.\t颈内动脉虹吸段一般分为：",
+        "options": [
+            "A.\t2段",
+            "B.\t3段",
+            "C.\t4段",
+            "D.\t5段",
+            "E.\t6段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t颅内较常见的生理钙化，除了：",
+        "options": [
+            "A.\t大脑镰钙化",
+            "B.\t床突间韧带钙化",
+            "C.\t松果体钙化",
+            "D.\t脉络膜丛钙化",
+            "E.\t垂体钙化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t蝶鞍侧位片上可测量其前后径及深径，其平均值 分别为：",
+        "options": [
+            "A.\t10.5mm,\t9.5mm",
+            "B.\t11.7mm,\t9.5mm",
+            "C.\t12.0mm,\t10.0mm",
+            "D.\t5.0mm,\t10.0mm",
+            "E.\t10.0mm,\t20.0mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t确诊早期听神经瘤的理想方法是：",
+        "options": [
+            "A.\tX线平片",
+            "B.\t桥小脑池空气造影",
+            "C.\t脑池造影CT检查",
+            "D.\t超声检查",
+            "E.\tMRI检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t头颅CT所示与肿瘤无关的是：",
+        "options": [
+            "A.\t中线结构移位",
+            "B.\t脑水肿",
+            "C.\t颅骨吸收或破坏",
+            "D.\t脑积水",
+            "E.\t脑沟增宽"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t脑脓肿壁形成早期，CT表现为：",
+        "options": [
+            "A.\t水肿最明显",
+            "B.\t结节样增强",
+            "C.\t不均匀环形增强",
+            "D.\t均匀环形增强",
+            "E.\t无水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t神经胶质瘤又称胶质瘤，起源于神经胶质细胞， 不包括：",
+        "options": [
+            "A.\t星形细胞瘤",
+            "B.\t脑膜瘤",
+            "C.\t少突胶质细胞瘤",
+            "D.\t室管膜瘤",
+            "E.\t髓母细胞瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t新鲜出血的CT值为：",
+        "options": [
+            "A.\t20?40HU",
+            "B.\t30?50HU",
+            "C.\t40?60HU",
+            "D.\t50?70HU",
+            "E.\t60 ?80HU"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列选项中，脑膜瘤的典型CT表现是：",
+        "options": [
+            "A.\t钙化、囊变坏死",
+            "B.\t骨质破坏",
+            "C.\t明显瘤周水肿",
+            "D.\t占位效应明显",
+            "E.\t多为等密度，明显均匀增强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t髓母细胞瘤好发于：",
+        "options": [
+            "A.\t儿童",
+            "B.\t青壮年",
+            "C.\t中年",
+            "D.\t中老年",
+            "E.\t老年"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t女，6岁，头痛，CT示小脑蚓部有3cmX3.5cm高密度影，明显增强，四脑室受压变窄，前移，幕上脑积水。最可能的诊断为：",
+        "options": [
+            "A.\t髓母细胞瘤",
+            "B.\t脑膜瘤",
+            "C.\t脉络丛乳头状瘤",
+            "D.\t脑结核",
+            "E.\t血管网状细胞瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t胶质瘤的CT表现为：",
+        "options": [
+            "A.\t可为不规则低密度",
+            "B.\t可呈囊状低密度",
+            "C.\t可强化",
+            "D.\t可不强化",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t急性硬膜外出血典型的CT表现是：",
+        "options": [
+            "A.\t颅骨内板下方双凸形低密度区",
+            "B.\t颅骨内板下方双凸形高密度区",
+            "C.\t颅骨内板下方新月形高密度区",
+            "D.\t颅骨内板下方新月形低密度区",
+            "E.\t颅骨内板下方双凹形高密度区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t急性硬膜下出血典型的CT表现是：",
+        "options": [
+            "A.\t颅骨内板下方双凸形低密度区",
+            "B.\t颅骨内板下方双凸形高密度区",
+            "C.\t颅骨内板下方新月形高密度区",
+            "D.\t颅骨内板下方新月形低密度区",
+            "E.\t颅骨内板下方双凹形低密度区"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列选项中，不是化脓性脑脓肿CT表现的是：",
+        "options": [
+            "A.\t可有占位效应",
+            "B.\t强化环完整、均匀、光滑",
+            "C.\t可见气液平",
+            "D.\t强化环厚薄不均",
+            "E.\t周围可有低密度水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t头颅CT上高密度病灶可以是：",
+        "options": [
+            "A.\t室管膜瘤",
+            "B.\t出血",
+            "C.\t钙化",
+            "D.\t脑膜瘤",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t中线结构同侧移位提示同侧：",
+        "options": [
+            "A.\t脑萎缩",
+            "B.\t胶质瘤",
+            "C.\t脑脓肿",
+            "D.\t脑膜瘤",
+            "E.\t硬膜下血肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t急性脑中风影像诊断宜选择：",
+        "options": [
+            "A.\t颅骨平片",
+            "B.\t脑室造影",
+            "C.\t血管造影",
+            "D.\tCT扫描",
+            "E.\t超声成像"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t女，30岁，腰痛2年。CT示腰4右侧锥旁有一 2cmX3cm软组织密度肿块，呈哑铃形，强化明显，腰4、5右侧椎间孔扩大。最可能诊断为：",
+        "options": [
+            "A.\t神经源性肿瘤",
+            "B.\t转移瘤",
+            "C.\t巨细胞瘤",
+            "D.\t淋巴瘤",
+            "E.\t椎间盘突出"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t最容易损伤脊髓的外伤是：",
+        "options": [
+            "A.\t横突孔骨折伴附件骨折",
+            "B.\t椎体压缩性骨折伴横突骨折",
+            "C.\t胸椎骨折伴肋骨骨折",
+            "D.\t下腰椎骨折，骨折碎片进入椎管",
+            "E.\t胸椎附件骨折，骨折碎片进入椎管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t最常见的椎管内神经源性肿瘤是：",
+        "options": [
+            "A.\t神经鞘瘤",
+            "B.\t神经纤维瘤",
+            "C.\t神经纤维肉瘤",
+            "D.\t神经节细胞瘤",
+            "E.\t神经节母细胞瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t急性颅脑损伤影像宜选择：",
+        "options": [
+            "A.\t颅骨平片",
+            "B.\t脑室造影",
+            "C.\t血管造影",
+            "D.\tCT扫描",
+            "E.\tMRI成像"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t当疑有脑转移瘤时，优先的影像检查方法是：",
+        "options": [
+            "A.\t头颅平片",
+            "B.\t脑血管造影",
+            "C.\tCT",
+            "D.\t脑室造影",
+            "E.\t核素扫描"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t髓鞘形成异常病不包括：",
+        "options": [
+            "A.\t髓鞘形成不足",
+            "B.\t脱髓鞘病变",
+            "C.\t肾上腺脑白质营养不良",
+            "D.\t海绵状变性",
+            "E.\t异染性脑白质营养不良"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t脑挫裂伤CT表现为：",
+        "options": [
+            "A.\t局部呈低密度改变",
+            "B.\t散在点片状出血",
+            "C.\t占位表现",
+            "D.\t可合并蛛网膜下隙出血",
+            "E.\t以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t关于颅咽管瘤的描述，不正确的是：",
+        "options": [
+            "A.\t常见于儿童",
+            "B.\t多为囊性",
+            "C.\t对有钙化",
+            "D.\t均发生于鞍上",
+            "E.\t可出现脑积水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t下列关于脑膜瘤的描述，不正确的是：",
+        "options": [
+            "A.\t女性多见",
+            "B.\t与硬脑膜粘连紧",
+            "C.\t多有包膜",
+            "D.\t均为实性肿块",
+            "E.\t多呈较高密度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t脑内多发性硬化最常见的部位是：",
+        "options": [
+            "A.\t侧脑室周围白质",
+            "B.\t视交叉及视神经",
+            "C.\t基底节",
+            "D.\t脑干",
+            "E.\t小脑白质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t有关腔隙性脑梗死错误的描述是：",
+        "options": [
+            "A.\t好发于大脑深部、基底节区",
+            "B.\t皮层支动脉梗死",
+            "C.\t大小约0.5?1.5cm",
+            "D.\t常多发",
+            "E.\t可无临床症状"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t颅脑先天性畸形神经管闭合障碍见于以下各病，错误的是：",
+        "options": [
+            "A.\t脑膨出",
+            "B.\tChiari II 畸形",
+            "C.\t脑裂畸形",
+            "D.\t颅裂畸形",
+            "E.\t胼胝体发育不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t男，36岁，头痛，癫痫，CT示脑实质多数高密 度点状影和0.5?1cm圆形低密度灶，呈环形增强。最可能的诊断是：",
+        "options": [
+            "A.\t多发性硬化",
+            "B.\t脑脓肿",
+            "C.\t结节性硬化",
+            "D.\t脑囊虫病",
+            "E.\t病毒性脑炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t女，25岁，癫痫，CT示侧脑室旁多发低密度 灶，结节样或块状增强。最大可能是：",
+        "options": [
+            "A.\t转移瘤",
+            "B.\t脑囊虫",
+            "C.\t脑脓肿",
+            "D.\t多发性硬化",
+            "E.\t髓鞘形成异常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t有关颅内压增高平片表现的描述，错误是：",
+        "options": [
+            "A.\t颅缝增宽",
+            "B.\t脑沟增宽",
+            "C.\t蝶鞍增大",
+            "D.\t脑回压迹增多",
+            "E.\t颅壁变薄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t脑转移瘤好发于",
+        "options": [
+            "A.\t大脑皮层",
+            "B.\t小脑皮层",
+            "C.\t大、小脑皮层",
+            "D.\t脑髓质",
+            "E.\t皮髓质交界区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t头颅平片确定颅内压增高的主要依据是：",
+        "options": [
+            "A.\t颅骨骨质吸收，脑回压迹增多、增深",
+            "B.\t蝶鞍改变，颅骨骨质吸收",
+            "C.\t颅缝增宽，脑回压迹增多、增深",
+            "D.\t颅缝增宽，蝶鞍改变，脑回压迹增多、增深",
+            "E.\t颅缝增宽，颅骨骨质吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 35
+    },
+    {
+        "question_text": "36.\tMRI上、短T1、短T2信号主要见于：",
+        "options": [
+            "A.\t胶质瘤",
+            "B.\t脑膜瘤",
+            "C.\t转移瘤",
+            "D.\t黑色素瘤",
+            "E.\t听神经瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t脑脓肿形成期增强扫描脓肿壁明显强化具有以 下特点，除了：",
+        "options": [
+            "A.\t完整",
+            "B.\t光滑",
+            "C.\t壁薄",
+            "D.\t壁厚",
+            "E.\t均匀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t头颅CT上低密度病灶常见于以下病变，错误的 是：",
+        "options": [
+            "A.\t组织坏死",
+            "B.\t脑水肿",
+            "C.\t急性出血",
+            "D.\t软化灶",
+            "E.\t脂肪瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t常见的占位征象有以下病变：",
+        "options": [
+            "A.\t中线结构移位",
+            "B.\t脑室移位",
+            "C.\t脑室变形",
+            "D.\t脑沟变化",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t星形细胞瘤与脑梗死的鉴别最有意义的是：",
+        "options": [
+            "A.\t低密度",
+            "B.\t不增强",
+            "C.\t单脑叶分布",
+            "D.\t多脑叶分布",
+            "E.\t不按血管支配区分布"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t确认小脑扁桃体延髓联合畸形，-一般认为扁桃 体低于枕大孔：",
+        "options": [
+            "A.\t10mm",
+            "B.\t7.5mm",
+            "C.\t6.0mm",
+            "D.\t5.0mm",
+            "E.\t4.0mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t脑血管畸形最常见的是：",
+        "options": [
+            "A.\t静脉畸形",
+            "B.\t烟雾病",
+            "C.\t动静脉畸形",
+            "D.\t海绵状血管瘤",
+            "E.\t毛细血管扩张症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t颅咽管瘤和髓母细胞瘤都好发于：",
+        "options": [
+            "A.\t儿童",
+            "B.\t青壮年",
+            "C.\t中年",
+            "D.\t中老年",
+            "E.\t老年"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t脑转移瘤的常见CT表现不包括：",
+        "options": [
+            "A.\t多发",
+            "B.\t瘤周水肿显著",
+            "C.\t出血、坏死",
+            "D.\t不同形式的强化并存",
+            "E.\t钙化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 44
+    },
+    {
+        "question_text": "45.\tCT脊髓造影示脊髓增粗，蛛网膜下隙变窄，定 位诊断为：",
+        "options": [
+            "A.\t髓内",
+            "B.\t髓外硬膜外",
+            "C.\t髓外硬膜内",
+            "D.\t髓外硬膜内外",
+            "E.\t髓内和硬膜内"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t增强CT扫描，下列病变不增强的是：",
+        "options": [
+            "A.\t垂体腺瘤",
+            "B.\t动脉瘤",
+            "C.\t脑膜瘤",
+            "D.\t蛛网膜囊肿",
+            "E.\t髓质细胞瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t由于血脑屏障破坏所致的肿瘤增强是：",
+        "options": [
+            "A.\t脑膜瘤",
+            "B.\t垂体瘤",
+            "C.\t听神经瘤",
+            "D.\t胶质瘤",
+            "E.\t三叉神经瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t患者男，26岁。头颅外伤4h。CT轴位平扫示 右颞骨骨折，头皮血肿，右颞部梭形不均匀高密 度，中线结构左移。最可能的诊断为：",
+        "options": [
+            "A.\t右颞部急性硬膜外血肿",
+            "B.\t右颞部急性硬膜下血肿",
+            "C.\t右顯叶急性脑血肿",
+            "D.\t右颞叶脑挫裂伤伴硬膜下血肿",
+            "E.\t右颞叶亚急性硬膜外血肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t儿童最常见的脊髓肿瘤是：",
+        "options": [
+            "A.\t髓母细胞瘤",
+            "B.\t少突胶质细胞瘤",
+            "C.\t星形细胞瘤",
+            "D.\t生殖细胞瘤",
+            "E.\t畸胎瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t脊髓损伤包括以下各项，错误的是：",
+        "options": [
+            "A.\t脊髓震荡",
+            "B.\t脊髓挫裂伤",
+            "C.\t脊髓压迫",
+            "D.\t脊髓横断",
+            "E.\t脊髓空洞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 50
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "question_text": "1.\t超声波是人耳听不到的声波，其频率大于：",
+        "options": [
+            "A.\t1000Hz",
+            "B.\t2000Hz",
+            "C.\t20kHz",
+            "D.\t2MHz",
+            "E.\t10kHz"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t超声波可以纵波、横波、表面波等波型传播，在 超声诊断中主要应用的是：",
+        "options": [
+            "A.\t横波",
+            "B.\t表面波",
+            "C.\t纵波",
+            "D.\t球面波",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t声波的周期为：",
+        "options": [
+            "A.\t不能探测到的时间",
+            "B.\t取决于多种因素",
+            "C.\t一个波长的时间",
+            "D.\t与频率无关",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t若频率增大，波长将：",
+        "options": [
+            "A.\t减少",
+            "B.\t增大",
+            "C.\t增加10倍",
+            "D.\t不变",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t下列情况下可获得最大的多普勒频移的是：",
+        "options": [
+            "A.\t当声束以锐角人射血管上时",
+            "B.\t当声束以垂直方向入射血管上时",
+            "C.\t当声束与血管平行时",
+            "D.\t声束的角度对多普勒无影响",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t当介质的运动平行于声波的传播方向时发射波称 为：",
+        "options": [
+            "A.\t纵波",
+            "B.\t切变波",
+            "C.\t表面波",
+            "D.\t兰姆波",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t人体软组织中的声速接近：",
+        "options": [
+            "A.\t3600m/s",
+            "B.\t1540m/s",
+            "C.\t1860m/s",
+            "D.\t1450m/s",
+            "E.\t2000m/s"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t血液中的声速大约是：",
+        "options": [
+            "A.\t330m/s",
+            "B.\t1000m/s",
+            "C.\t1570m/s",
+            "D.\t5000m/s",
+            "E.\t8000m/s"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t空气中的声速大约是：",
+        "options": [
+            "A.\t300m/s",
+            "B.\t1500m/s",
+            "C.\t1570m/s",
+            "D.\t5000m/s",
+            "E.\t8000m/s"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t当超声波通过弹性媒质时，其声能量损失称 为：",
+        "options": [
+            "A.\t反射",
+            "B.\t衰减",
+            "C.\t吸收",
+            "D.\t散射",
+            "E.\t折射"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t可闻声的声波频率范围是：",
+        "options": [
+            "A.\t1 ?20Hz",
+            "B.\t5 ?20Hz",
+            "C.\t5Hz ?5kHz",
+            "D.\t20Hz ?20kHz",
+            "E.\t1 ?15Hz"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t超声多普勒技术可用来检查：①血流状态；② 血流速度；③血流方向；④脏器的结构",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 12
+    },
+    {
+        "question_text": "13.\tA型超声提供的信息是：",
+        "options": [
+            "A.\t振幅",
+            "B.\t深度与厚度",
+            "C.\t时间和振幅",
+            "D.\t振幅和运动",
+            "E.\t衰减"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t声束能量的丧失是由于反射和吸收等原因，这 称为：",
+        "options": [
+            "A.\t吸收",
+            "B.\t反射",
+            "C.\t松弛",
+            "D.\t衰减",
+            "E.\t转换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t低频探头的特点是：",
+        "options": [
+            "A.\t波长长和穿透力较大",
+            "B.\t波长短和穿透力较大",
+            "C.\t波长短和穿透力较弱",
+            "D.\t波长长和穿透力较弱",
+            "E.\t较差的分辨力和较差的穿透力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t下列组织中对传人的超声衰减最小的是：",
+        "options": [
+            "A.\t肌肉",
+            "B.\t脂肪",
+            "C.\t骨骼",
+            "D.\t血液",
+            "E.\t气体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t反射回声的强度取决于：①界面两边声阻抗 差；②声速的衰减程度；③人射声束与界面的角 度；④声束传播距离",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t超声换能器可以：",
+        "options": [
+            "A.\t变机械能为声能",
+            "B.\t电能与机械能互变",
+            "C.\t变热能为声能",
+            "D.\t变任意能为电能",
+            "E.\t变电能为热能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t造成混响伪像的主要因素是：",
+        "options": [
+            "A.\t电噪声",
+            "B.\tTGC设置不当",
+            "C.\t入射角过小",
+            "D.\t存在两个或多个强反射界面",
+            "E.\t声束剖面过大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t声束穿过界面时方向发生改变，称做：",
+        "options": [
+            "A.\t入射角度",
+            "B.\t折射",
+            "C.\t正常反射",
+            "D.\t后散射",
+            "E.\t衰减"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t由于反射体的运动使反射回来的声波频率发生 改变，这称为：",
+        "options": [
+            "A.\t入射角度",
+            "B.\tDoppler 效应",
+            "C.\t传播",
+            "D.\t自然反射",
+            "E.\t混响"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t发生镜面反射的条件是：",
+        "options": [
+            "A.\t频率大于波长",
+            "B.\t引超反射的物体较小",
+            "C.\t反射面远大于声波波长",
+            "D.\t入射角与反射角之差大于45°",
+            "E.\t反射面不规则"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t超声波生物效应主要指：",
+        "options": [
+            "A.\t振动和传输热效应",
+            "B.\t吸收和反射",
+            "C.\t机械效应、热效应和空化效应",
+            "D.\t散射与非线性效应",
+            "E.\t多普勒效应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t声速(c)、波长(入)、频率(f)的正确关系 是：",
+        "options": [
+            "A.\tc= fX",
+            "B.\tc=f/X",
+            "C.\tc=X/ f",
+            "D.\tc=f+X",
+            "E.\tc=f—X"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t超声换能器(探头)的作用是：",
+        "options": [
+            "A.\t发射超声波",
+            "B.\t接收超声波",
+            "C.\t发射和接收超声波",
+            "D.\t放大超声波",
+            "E.\t滤过超声波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t彩色多普勒血流显像中的彩色镶嵌表示：",
+        "options": [
+            "A.\t层流",
+            "B.\t湍流",
+            "C.\t迎向探头的血流",
+            "D.\t离开探头的血流",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t在脉冲多普勒系统中可检测出的最高频移只能 是脉冲重复率的：",
+        "options": [
+            "A.\tl/2",
+            "B.\t1/3",
+            "C.\t1/6",
+            "D.\t1/8",
+            "E.\t1/16"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t关于彩色多普勒血流显像的概念，下列选项中 错误的是：",
+        "options": [
+            "A.\t彩色血流图像叠加在二维解剖结构图像上",
+            "B.\t红色代表迎向探头的血流，蓝色代表背离探头的 血流，彩色镶嵌代表湍流",
+            "C.\t颜色亮度表示血流速度，速度越快，亮度越亮， 否则越暗",
+            "D.\t当血流速度超过尼奎斯特极限时发生彩色混叠",
+            "E.\t红色表示动脉血，蓝色表示静脉血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t产生彗尾征的原因是：",
+        "options": [
+            "A.\t多次内部混响",
+            "B.\t旁瓣伪像",
+            "C.\t镜面伪像",
+            "D.\t棱镜伪像",
+            "E.\t声束失真"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t多普勒能量图的主要特点有：",
+        "options": [
+            "A.\t显示的信号不受探测角度的影响",
+            "B.\t可显示平均速度极低的灌注区",
+            "C.\t能显示低流量、低速度的血流",
+            "D.\t不受现象的影响",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t诊断用超声频率一般为：",
+        "options": [
+            "A.\t2.5 ?5.0MHz",
+            "B.\t2.5 ?7.5MHz",
+            "C.\t1.0 ?10.0MHz",
+            "D.\t5.0 ?10.0MHz",
+            "E.\t5.0 ?7.5MHz"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t下列有关多普勒频移的描述，正确的是：",
+        "options": [
+            "A.\t与反射体的速度成正比",
+            "B.\t在脉冲多普勒系统中较大",
+            "C.\t在声强极高时较大",
+            "D.\t取决于所用探头阵元数",
+            "E.\t连续多普勒最大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t下列有关软组织中的声衰减量的描述，正确的 是：",
+        "options": [
+            "A.\t随软组织厚度而增加",
+            "B.\t由TCG曲线的范围决定",
+            "C.\t随着波长减小而增大",
+            "D.\t使用数字转换扫描器时无关紧要",
+            "E.\t与频率无关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t下列方法中，可以得到较大的近场区是：",
+        "options": [
+            "A.\t使用高频探头",
+            "B.\t在探头上加一个凸透镜",
+            "C.\t减少探头直径",
+            "D.\t增大阻尼",
+            "E.\t使扫描速度增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t下面组织中，对声传播阻碍最小的是：",
+        "options": [
+            "A.\t肌肉",
+            "B.\t脂肪",
+            "5",
+            "D.\t血液",
+            "E.\t脾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 35
+    }
+]

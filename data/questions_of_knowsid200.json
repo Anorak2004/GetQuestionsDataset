@@ -1,0 +1,408 @@
+[
+    {
+        "question_text": "1.\t肾窦超声表现为一椭圆形的高回声区，其解剖基 础为：",
+        "options": [
+            "A.\t肾盂、肾盏、肾血管、脂肪组织",
+            "B.\t肾周脂肪",
+            "C.\t肾实质",
+            "D.\t肾皮质",
+            "E.\t肾髓质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t正常肾内围绕着肾窦的回声较低的结构是:",
+        "options": [
+            "A.\t肾实质",
+            "B.\t肾皮质",
+            "C.\t肾髓质",
+            "D.\t肾小盏",
+            "E.\t肾柱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t左肾静脉穿行于：",
+        "options": [
+            "A.\t腹主动脉与肠系膜上动脉之间",
+            "B.\t腹主动脉的前方",
+            "C.\t下腔静脉的前方",
+            "D.\t与门静脉并行",
+            "E.\t以上均对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t左肾静脉走行于：",
+        "options": [
+            "A.\t腹主动脉后方",
+            "B.\t腹主动脉与肠系膜上动脉之间",
+            "C.\t下腔静脉后方",
+            "D.\t与门静脉伴行",
+            "E.\t与脾静脉伴行"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t肾窦的回声产生于：",
+        "options": [
+            "A.\t肾盂、肾血管、脂肪",
+            "B.\t肾周脂肪",
+            "C.\t肾实质",
+            "D.\t以上均是",
+            "E.\t以上均不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下列情况中，正常肾脏可出现肾窦回声分离的 是：",
+        "options": [
+            "A.\t利尿药物和解痉药物的应用",
+            "B.\t膀胱过度充盈",
+            "C.\t妊娠期",
+            "D.\t大量饮水",
+            "E.\t以上均可"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t检查肾动脉首选的方法是：",
+        "options": [
+            "A.\t肾动脉造影",
+            "B.\t肾图",
+            "C.\tCT",
+            "D.\t彩色多普勒血流显像",
+            "E.\tMRI"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t肾积水的测量通常取：",
+        "options": [
+            "A.\t前后径",
+            "B.\t上下径",
+            "C.\t左右径",
+            "D.\t横径",
+            "E.\t以上均对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 8
+    },
+    {
+        "question_text": "9.肾脏增大应考虑：①多囊肾；②多发性肾囊肿；③肾移植的排异反应③肾移植的排异反应",
+        "options": [
+            "A.\t①",
+            "B.\t②+③",
+            "C.\t①+②",
+            "D.\t①+②+③",
+            "E.\t②"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t肾盂积液声像图具有下列特征即：",
+        "options": [
+            "A.\t肾盂回声扩张，见lcm以上液性暗区",
+            "B.\t肾盂回声无扩张，肾实质内见lcm以上液性暗区",
+            "C.\t肾盂回声无扩张",
+            "D.\t肾外形增大",
+            "E.\t肾外形增大，肾实质内见1cm以上液性暗区"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t多囊肾患者声像图最常见的改变为：",
+        "options": [
+            "A.\t两侧肾脏多囊改变",
+            "B.\t一侧肾脏多囊改变",
+            "C.\t一侧肾及肝脏多囊改变",
+            "D.\t两侧肾及肝脏多囊改变",
+            "E.\t两肾肿大，外侧不规则"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t肾结石声像图表现为：",
+        "options": [
+            "A.\t肾盂或肾盏内强回声团",
+            "B.\t肾盂或肾盏内强回声团及后方伴有声影",
+            "C.\t肾盂或肾盏内强回声团，伴有肾盂或肾盏积液",
+            "D.\t肾盂和肾盏积液",
+            "E.\t肾盂积液，输尿管扩张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t在声像图上，单侧肾实质内出现边界整齐的圆 形液性暗区，首先应考虑为：",
+        "options": [
+            "A.\t肾囊肿",
+            "B.\t肾脓肿",
+            "C.\t肾实质内出血灶",
+            "D.\t肾包囊虫病",
+            "E.\t肾肿瘤坏死液化灶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t上腹部横切扫查时，近后腹壁的卵圆形结构为：",
+        "options": [
+            "A.\t肝",
+            "B.\t胆",
+            "C.\t肾",
+            "D.\t胰",
+            "E.\t子宫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t肾门又称肾蒂，其内所包含的结构有：",
+        "options": [
+            "A.\t肾动脉",
+            "B.\t肾静脉",
+            "C.\t近端输尿管",
+            "D.\t淋巴管和神经",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t慢性肾衰竭声像图表现为：①肾皮质回声增 高，大于脾回声；②肾锥体回声增强导致皮髓质界 限不清；③CDFI示轻者呈边缘缺损型，重者显示 呈星点型和无血流型；④多普勒频谱显示肾动脉血 流呈低速高阻型",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t成人肾积水的最常见原因是：",
+        "options": [
+            "A.\t妊娠",
+            "B.\t泌尿系结石",
+            "C.\t先天性输尿管狭窄",
+            "D.\t输尿管肿瘤",
+            "E.\t泌尿系结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t有一 3岁男孩出现血尿，左侧腹部扪及肿块， 超声表现为肾脏实质性肿块。最可能的诊断是：",
+        "options": [
+            "A.\t肾上腺肿瘤",
+            "B.\t神经母细胞瘤",
+            "C.\tWilms 瘤",
+            "D.\t婴儿型多囊肾",
+            "E.\t肾结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t一种两侧肾脏下极相连接的先天异常称为：",
+        "options": [
+            "A.\t重复肾",
+            "B.\t马蹄肾",
+            "C.\t驼峰肾",
+            "D.\t“S”形肾",
+            "E.\t游走肾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t患者女性，发作性右腰部剧痛，向右下腹及膀 胱放射。如果超声检查已排除妇产科疾病，那么超 声最常见、最易显示的是：",
+        "options": [
+            "A.\t右肾结石",
+            "B.\t阑尾炎",
+            "C.\t右侧输尿管结石",
+            "D.\t右肾囊肿",
+            "E.\t右肾肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t超声若发现肾脏内实质性均匀或不均匀低回声 团块，首先应考虑：",
+        "options": [
+            "A.\t肾孤立性囊肿",
+            "B.\t肾盏局限性积水",
+            "C.\t肾结核",
+            "D.\t肾癌",
+            "E.\t肾错构瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t超声发现肾实质内高回声团，边界清晰，常见 疾病是：",
+        "options": [
+            "A.\t肾囊出血",
+            "B.\t肾细胞癌",
+            "C.\t肾结核",
+            "D.\t肾 Wilms 瘤",
+            "E.\t肾血管平滑肌脂肪瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 22
+    },
+    {
+        "question_text": "23.\tB超引导肾活检取材的部位常在：",
+        "options": [
+            "A.\t肾上极的实质区",
+            "B.\t肾下极的实质区",
+            "C.\t肾中部的实质区",
+            "D.\t肾上极的肾窦区",
+            "E.\t肾下极的肾窦区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t患者男性，50岁，间歇性无痛性肉眼血尿，超 声检查发现左肾下极一实性肿块，并向包膜外明显 突出，超声检查时应特别注意：",
+        "options": [
+            "A.\t鉴别病灶的良、恶性",
+            "B.\t肝脏和胰腺有无转移",
+            "C.\t膀胱内有无转移",
+            "D.\t下腔静脉和肾静脉内有无癌栓",
+            "E.\t腹膜后有无淋巴结肿大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t肾的良性肿瘤下列哪一种最多见：",
+        "options": [
+            "A.\t血管平滑肌脂肪瘤",
+            "B.\t肾肌血管瘤",
+            "C.\t肾腺瘤",
+            "D.\t肾肌脂肪瘤",
+            "E.\t肾纤维瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t肾囊肿最常用、最好的治疗方法是：",
+        "options": [
+            "A.\t囊肿摘除",
+            "B.\t切开排液",
+            "C.\t在超声引导下无水乙醇硬化治疗",
+            "D.\t肾脏摘除",
+            "E.\t肾静脉结扎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t超声引导下进行肾脏穿刺活检，最易产生的并 发症是：",
+        "options": [
+            "A.\t尿路感染",
+            "B.\t肾内血肿",
+            "C.\t血尿",
+            "D.\t肾包膜下血肿",
+            "E.\t肾包膜外血肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t比较以下各个器官的回声强度并列出依次增强 的顺序：",
+        "options": [
+            "A.\t肾实质、脾、肝、胰腺、肾窦",
+            "B.\t胰腺、肾窦、肝、脾、肾实质",
+            "C.\t脾、肝、胰腺、肾实质、肾窦",
+            "D.\t脾，肝、肾窦、肾实质、胰腺",
+            "E.\t胰腺、肾窦、肾实质、肝、脾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t根据肾盂积水声像图形态判断肾积水的程度， 正确的是：",
+        "options": [
+            "A.\t菱角形、花朵形为轻度",
+            "B.\t烟斗形为轻至中度",
+            "C.\t调色碟形为重度",
+            "D.\t巨大囊肿型为极重度积水或肾外肾盂重度积水",
+            "E.\t以上均正确."
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 29
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.\t内耳道狭窄的诊断依据是内耳道小于：",
+        "options": [
+            "A.\tlmm",
+            "B.\t3mm",
+            "C.\t5mm",
+            "D.\t7mm",
+            "E.\t9mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t鼻咽癌常规X线检查位置为：",
+        "options": [
+            "A.\t鼻咽侧位",
+            "B.\t颅底位",
+            "C.\t颈侧位",
+            "D.\t汤氏位",
+            "E.\t鼻咽侧位+颏顶位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t颅底前后分3个颅凹，后颅凹有：",
+        "options": [
+            "A.\t破裂孔",
+            "B.\t卵圆孔",
+            "C.\t棘孔",
+            "D.\t枕大孔",
+            "E.\t视神经孔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t成人最常见的眼眶内原发性肿瘤是：",
+        "options": [
+            "A.\t泪腺多形性腺瘤",
+            "B.\t海绵状血管瘤",
+            "C.\t视神经胶质瘤",
+            "D.\t脑膜瘤",
+            "E.\t神经鞘膜瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t副鼻窦中恶性肿瘤最多发生于：",
+        "options": [
+            "A.\t额窦",
+            "B.\t前组筛窦",
+            "C.\t后组筛窦",
+            "D.\t上颌窦",
+            "E.\t蝶窦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t最常见的喉癌类型为：",
+        "options": [
+            "A.\t黑色素瘤",
+            "B.\t鳞癌",
+            "C.\t腺癌",
+            "D.\t未分化癌",
+            "E.\t淋巴瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t关于鼻窦开口的叙述正确的是：",
+        "options": [
+            "A.\t额窦和上颌窦开口于中鼻道",
+            "B.\t额窦开口于下鼻道",
+            "C.\t筛窦和蝶窦开口于中鼻道",
+            "D.\t额窦和蝶窦开口于中鼻道",
+            "E.\t额窦开口于上鼻道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t继发性胆脂瘤多发生于：",
+        "options": [
+            "A.\t鼓窦",
+            "B.\t外耳道",
+            "C.\t上鼓室",
+            "D.\t中鼓室",
+            "E.\t下鼓室"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t鼻咽常见良性肿瘤是：",
+        "options": [
+            "A.\t纤维血管瘤",
+            "B.\t出血坏死性息肉",
+            "C.\t乳头状瘤",
+            "D.\t多形性腺瘤",
+            "E.\t神经鞘膜瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t颈部肿块最多见的是：",
+        "options": [
+            "A.\t甲状腺肿",
+            "B.\t神经鞘瘤",
+            "C.\t颈动脉瘤",
+            "D.\t神经纤维瘤",
+            "E.\t肿大的淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t观察上颌窦首选X线投照位置为：",
+        "options": [
+            "A.\t头颅正位",
+            "B.\t头颅侧位",
+            "C.\t颅底位",
+            "D.\t华氏位",
+            "E.\t柯氏位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t诊断鼻窦霉菌的最佳检查方法是：",
+        "options": [
+            "A.\t平片",
+            "B.\tCT平扫",
+            "C.\tCT增强扫描",
+            "D.\tMRI",
+            "E.\tB超"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t视网膜母细胞瘤的首选检查方法是:",
+        "options": [
+            "A.\tB超",
+            "B.\tCT",
+            "C.\tMRI",
+            "D.\t平片",
+            "E.\t眼底荧光摄影"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下列有关眼眶内海绵状血管瘤，错误的是：",
+        "options": [
+            "A.\t是成人最常见的眼眶内原发性肿瘤",
+            "B.\t中年女性多见",
+            "C.\t眼外肌明显增粗",
+            "D.\t可有眼球突出",
+            "E.\tMR上明显长T2信号"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列有关眼眶内炎性假瘤，错误的是：",
+        "options": [
+            "A.\t一般为单侧",
+            "B.\t泪腺增大",
+            "C.\t眼外肌增粗，以肌腹增粗为主，肌腱正常",
+            "D.\t可有眼球突出",
+            "E.\t增强后轻中度强化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t下列有关眼型Graves病的描述，错误的是：",
+        "options": [
+            "A.\t多双侧发病",
+            "B.\t中年女性多见",
+            "C.\t眼外肌增粗，以肌腹增粗为主，肌腱正常",
+            "D.\t可有眼球突出",
+            "E.\t眼外肌增粗，以肌腹、肌腱同时增粗为主"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t诊断视神经胶质瘤，下列检查方法中最佳的 是：",
+        "options": [
+            "A.\t平片",
+            "B.\tCT平扫",
+            "C.\tCT增强扫描",
+            "D.\tMRI",
+            "E.\tB超"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t关于甲状腺肿物CT检查的描述，不正确的是：",
+        "options": [
+            "A.\t确定肿瘤性与非肿瘤性病变非常困难",
+            "B.\t不能鉴别肿瘤的良恶性",
+            "C.\t不能确定肿瘤的范围",
+            "D.\t增强扫描有助于病变检出",
+            "E.\t可判断有无淋巴结转移"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t下列选项中，不是视网膜母细胞瘤的常见CT表 现的是：",
+        "options": [
+            "A.\t位于眼球壁内",
+            "B.\t肿瘤内团块状钙化",
+            "C.\t肿瘤密度较低",
+            "D.\t肿瘤增强明显",
+            "E.\t肿瘤可向眼球外膨出"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列选项中关于鼻咽癌CT表现的描述，不正确 的是：",
+        "options": [
+            "A.\t一侧咽隐窝变浅",
+            "B.\t一侧腭肌肥大",
+            "C.\t同侧鼓室含气消失",
+            "D.\t咽旁间隙向内移位",
+            "E.\t两侧咽腔不对称"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

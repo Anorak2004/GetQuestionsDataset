@@ -1,0 +1,898 @@
+[
+    {
+        "question_text": "1.\t肺癌引起的阻塞性肺炎与一般肺炎区别有以下几 点，不正确的是：",
+        "options": [
+            "A.\t体积缩小",
+            "B.\t有支气管充气像",
+            "C.\t同一部位反复发作",
+            "D.\t合并肿块",
+            "E.\t常有淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t肺内直径小于2cm病灶的最佳检查方法是：",
+        "options": [
+            "A.\tHRCT",
+            "B.\t透视",
+            "C.\t胸部摄片",
+            "D.\tMRI",
+            "E.\t螺旋CT"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t胸部增强CT有利于以下病变的诊断：",
+        "options": [
+            "A.\t纵隔淋巴结肿大",
+            "B.\t肺炎",
+            "C.\t胸水性质的判断",
+            "D.\t粟粒型肺结核",
+            "E.\t肺挫伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t胸部增强CT不用于以下病变的诊断：",
+        "options": [
+            "A.\t发现肺门淋巴结",
+            "B.\t纵隔淋巴结肿大",
+            "C.\t肺内结节性病变的区别",
+            "D.\t肺血管性病变",
+            "E.\t胸水性质的判断"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 4
+    },
+    {
+        "question_text": "5.\tCT纵隔淋巴结肿大的标准为其短径大于：",
+        "options": [
+            "A.\tlmm",
+            "B.\t0.5mm",
+            "C.\t8mm",
+            "D.\tlOmm",
+            "E.\t15mm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t构成肺门阴影最主要的结构是：",
+        "options": [
+            "A.\t肺动、静脉",
+            "B.\t神经",
+            "C.\t主支气管",
+            "D.\t肺组织",
+            "E.\t淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 6
+    },
+    {
+        "question_text": "7.\tCT肺门淋巴结肿大的标准为其短径大于：",
+        "options": [
+            "A.\tlmm",
+            "B.\t5mm",
+            "C.\t8mm",
+            "D.\tlOmm",
+            "E.\t15mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t肺部空腔性病变常见于：",
+        "options": [
+            "A.\t肺癌",
+            "B.\t结核厚壁空洞",
+            "C.\t虫蚀样空洞",
+            "D.\t支气管扩张",
+            "E.\t气胸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列关于病变空洞的描述，错误的是：",
+        "options": [
+            "A.\t肺气囊：薄壁空洞",
+            "B.\t肺脓肿：均匀厚壁空洞",
+            "C.\t浸润性肺结核：薄壁空洞，有卫星灶",
+            "D.\t肺癌：偏心空洞，有壁结节",
+            "E.\t慢性纤维空洞性肺结核：纤维厚壁空洞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t下列支气管扩张的影像特点，不正确的是：",
+        "options": [
+            "A.\t局部肺纹理增多",
+            "B.\t环状或蜂窝状影",
+            "C.\t斑片状、索条状影",
+            "D.\t可有葡萄征、手套征",
+            "E.\t普通胸片正常可除外本病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t大叶性肺炎的典型影像学变化见于病变的：",
+        "options": [
+            "A.\t充血期",
+            "B.\t实变期",
+            "C.\t消散期",
+            "D.\t消散期之初",
+            "E.\t病变全程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t肺部肿块内有一90\t50HU密度区，常见于",
+        "options": [
+            "A.\t结核球",
+            "B.\t外围型肺癌伴坏死",
+            "C.\t炎性假瘤",
+            "D.\t错构瘤",
+            "E.\t肺囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t肺间质疾病无纤维化的有：",
+        "options": [
+            "A.\t结节病",
+            "B.\t系统性红斑狼疮",
+            "C.\t癌性淋巴管炎",
+            "D.\t矽肺",
+            "E.\t类风湿关节炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 13
+    },
+    {
+        "question_text": "14. 肺内球形病灶称为肿块的直径应大于：",
+        "options": [
+            "A. 2cm",
+            "B. 3cm",
+            "C. 4cm",
+            "D. 5cm",
+            "E. 6cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t两肺粟粒型病变除肺结核外，还可见于：",
+        "options": [
+            "A.\t小叶性肺炎",
+            "B.\t过敏性肺炎",
+            "C.\t支原体性肺炎",
+            "D.\t吸入性肺炎",
+            "E.\t中央性肺癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t无壁空洞最常见于：",
+        "options": [
+            "A.\t周围性肺癌",
+            "B.\t干酪性肺炎",
+            "C.\t肺转移瘤",
+            "D.\t肺脓肿",
+            "E.\t浸润性肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t粟粒型肺结核是指：",
+        "options": [
+            "A.\t原发性肺结核",
+            "B.\t浸润性肺结核",
+            "C.\t慢性纤维空洞型肺结核",
+            "D.\t结核性胸膜炎",
+            "E.\t血行播散型肺结核"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t急性血行播散型肺结核的特点为：",
+        "options": [
+            "A.\t渗出病灶为主",
+            "B.\t增殖性病灶为主",
+            "C.\t纤维性病灶为主",
+            "D.\t钙化病灶为主",
+            "E.\t混合性病灶为主"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t下列关于结核瘤的特点，错误的是：",
+        "options": [
+            "A.\t较高密度，可有钙化",
+            "B.\t为2cm以下球形影",
+            "C.\t常有卫星灶",
+            "D.\t可有小空洞形成",
+            "E.\t边缘不清晰，有分叶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t肺部X线表现为锁骨下区纤维条索状阴影，应 属于：",
+        "options": [
+            "A.\t原发性肺结核",
+            "B.\t血行播散型肺结核",
+            "C.\t浸润性肺结核",
+            "D.\t结核性胸膜炎",
+            "E.\t慢性纤维空洞型肺结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t肺癌性淋巴管炎之微结节常位于：",
+        "options": [
+            "A.\t肺门周围",
+            "B.\t肺底部",
+            "C.\t支气管血管束周围",
+            "D.\t肺尖部",
+            "E.\t纵隔旁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t影像学表现不是浸润性肺结核常见征象的是：",
+        "options": [
+            "A.\t肺部病变位于下叶背段",
+            "B.\t虫蚀样空洞",
+            "C.\t球形病灶",
+            "D.\t结核球在CT增强时增强明显",
+            "E.\t胸腔积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t游离性胸膜腔积液在胸部摄片上就可见到，一 般体积应为",
+        "options": [
+            "A.\t10ml",
+            "B.\t30ml",
+            "C.\t100ml",
+            "D.\t200ml",
+            "E.\t300ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t肺部良性肿瘤和肿瘤样病变最常见的是：",
+        "options": [
+            "A.\t平滑肌瘤",
+            "B.\t纤维瘤",
+            "C.\t脂肪瘤",
+            "D.\t错构瘤",
+            "E.\t腺瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t双肺弥漫粟粒样阴影可见于下列病变，除了:",
+        "options": [
+            "A.\t血源播散性肺结核",
+            "B.\t肺转移瘤",
+            "C.\t支气管肺炎",
+            "D.\t结节病",
+            "E.\t矽肺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t外围性错构瘤的特征性表现为：",
+        "options": [
+            "A.\t肿瘤小于2cm",
+            "B.\t肿块有分叶",
+            "C.\t边缘光滑",
+            "D.\t内有爆米花样钙化",
+            "E.\t空洞形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t细支气管肺泡癌属于：",
+        "options": [
+            "A.\t鳞癌",
+            "B.\t大细胞癌",
+            "C.\t小细胞癌",
+            "D.\t腺癌",
+            "E.\t表皮样癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t中晚期肺癌生长方式常表现为：",
+        "options": [
+            "A.\t管内型",
+            "B.\t管壁型",
+            "C.\t管外型",
+            "D.\t混合型",
+            "E.\t都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t厚壁空洞的洞壁厚度超过：",
+        "options": [
+            "A.\t3mm",
+            "B.\t5mm",
+            "C.\t7mm",
+            "D.\t9mm",
+            "E.\t10mm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t早期中央型肺癌常表现为：",
+        "options": [
+            "A.\t肺门淋巴结肿大",
+            "B.\t肺门部肿块",
+            "C.\t支气管腔内结节",
+            "D.\t胸水",
+            "E.\t肾上腺转移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t支气管阻塞引起的支气管扩张常表现为：",
+        "options": [
+            "A.\t囊状透亮影",
+            "B.\t卷发状透亮影",
+            "C.\t蜂窝状透亮影",
+            "D.\t含气支气管征",
+            "E.\t柱状条索状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t局限性肺气肿不发生于：",
+        "options": [
+            "A.中央型肺癌",
+            "B.\t支气管异物",
+            "C.\t中央型错构瘤",
+            "D.\t肺炎",
+            "E.\t肺结核纤维化周围"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t中央型肺癌的直接征象不包括：",
+        "options": [
+            "A.\t肺门增大",
+            "B.\t肺门肿块",
+            "C.\t阻塞性肺不张",
+            "D.\t支气管壁增厚",
+            "E.\t支气管狭窄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t异物引起的阻塞性肺炎常不出现：",
+        "options": [
+            "A.\t小叶或小叶融合阴影",
+            "B.\t肺段实变",
+            "C.\t肺叶实变",
+            "D.\t肺体积缩小",
+            "E.\t肺门部肿块"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t肺转移性肿瘤常不出现：",
+        "options": [
+            "A.\t多发性结节",
+            "B.\t粟粒样结节",
+            "C.\t转移灶可有空洞",
+            "D.\t转移灶可有钙化",
+            "E.\t肺叶实变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t肺挫伤不出现：",
+        "options": [
+            "A.\t肺纹理模糊",
+            "B.\t斑片状阴影",
+            "C.\t病灶不按肺段分布",
+            "D.\t肺门淋巴结肿大",
+            "E.\t可合并肺撕裂伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 36
+    },
+    {
+        "question_text": "37.\tCR、MRI上有以下表现，可提示胸腺瘤恶变， 错误的是：",
+        "options": [
+            "A.\t肿瘤短期内明显增大",
+            "B.\t肿瘤边界不清，向临近组织浸润",
+            "C.\t点状、曲线状钙化",
+            "D.\t轮廓不规则、分叶状",
+            "E.\t出现胸腔积液和胸膜肿瘤结节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t纵隔畸胎瘤的CT、MRI表现特点如下，其中错 误的是：",
+        "options": [
+            "A.\t囊性病灶",
+            "B.\t圆形、椭圆形或不规则形",
+            "C.\t其中可有脂肪、骨骼",
+            "D.\t囊壁可有钙化",
+            "E.\tMRI不仅可显示囊变、脂肪，而且可显示钙化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t下列关于纵隔神经源性肿瘤的描述，错误的 是：",
+        "options": [
+            "A.\t多位于后纵隔，以良性肿瘤为主",
+            "B.\tMRI对显示伴椎管内的肿瘤更好",
+            "C.\tCT呈边缘清楚光滑的肿块，有时可见椎间孔扩 大",
+            "D.\tMRI上信号复杂，可有不同信号强度",
+            "E.\t有明显钙化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t纵隔囊肿常见的有以下几种，错误的是：",
+        "options": [
+            "A.\t淋巴管囊肿",
+            "B.\t支气管囊肿",
+            "C.\t心包囊肿",
+            "D.\t食管囊肿",
+            "E.\t假性动脉瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 40
+    },
+    {
+        "question_text": "41.\tMRI在肺癌诊断上有以下作用，错误的是：",
+        "options": [
+            "A.\t根据流空效应判断肺门及纵隔淋巴结转移",
+            "B.\t判断肿瘤与血管的关系",
+            "C.\t了解胸壁的侵犯",
+            "D.\t可增强，以便与结核球区别",
+            "E.\t根据钙化状况，以便与结核球区别"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t纵隔恶性淋巴瘤有以下表现，错误的是：",
+        "options": [
+            "A.\t上纵隔增宽呈波浪状",
+            "B.\t常多组淋巴结受累",
+            "C.\t常有包膜钙化",
+            "D.\t可侵犯心包",
+            "E.\t向肺内浸润呈线状、小结节状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t胸内甲状腺有以下表现，错误的是：",
+        "options": [
+            "A.\t大多位于胸骨后",
+            "B.\t恶性者较少见",
+            "C.\t因甲状腺含碘CT值较高",
+            "D.\t气管常向前侧方移位",
+            "E.\t气管常向后侧方移位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t周围型肺癌可有以下表现，错误的是：",
+        "options": [
+            "A.\t分叶",
+            "B.\t有毛刺",
+            "C.\t有小泡征",
+            "D.\t空洞形成",
+            "E.\tCT不增强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t周围型肺癌CT三维重建可有以下显示，错误的 是：",
+        "options": [
+            "A.\t肿块分叶",
+            "B.\t胸膜凹陷",
+            "C.\t肿块累及胸膜",
+            "D.\t肿块与血管的关系",
+            "E.\t清晰显示纵隔淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t下列胸部CT检查特点的描述，错误的是：",
+        "options": [
+            "A.\t横断面显示，克服胸片上的影像重叠",
+            "B.\t对纵隔旁、横膈周围及胸膜下病灶显示教胸片好",
+            "C.\t是肺部疾病诊断的首选方法",
+            "D.\t冠状面和矢状面重建图像分辨率较低",
+            "E.\t对纵隔内软组织分辨率不高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t胸片上所示的密度减低阴影是指病变密度低于：",
+        "options": [
+            "A.\t肺组织",
+            "B.\t胸大肌",
+            "C.\t胸壁软组织",
+            "D.\t肋骨",
+            "E.\t心脏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t由3?5支终末细支气管组成的肺结构称为：",
+        "options": [
+            "A.\t肺小叶",
+            "B.\t初级小叶",
+            "C.\t次级小叶",
+            "D.\t肺段",
+            "E.\t肺腺泡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t构成肺门阴影最主要的结构是：",
+        "options": [
+            "A.\t肺动、静脉",
+            "B.\t神经",
+            "C.\t主支气管",
+            "D.\t肺组织",
+            "E.\t淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t胸片上双侧肺门影增大可见于：",
+        "options": [
+            "A.\t大叶性肺炎",
+            "B.\t慢性肺原性心脏病",
+            "C.\t慢性纤维空洞型肺结核",
+            "D.\t法洛四联征",
+            "E.\t肺隔离症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t无壁空洞最常见于：",
+        "options": [
+            "A.\t周围性肺癌",
+            "B.\t干酪性肺炎",
+            "C.\t肺转移瘤",
+            "D.\t肺脓肿",
+            "E.\t浸润性肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t最易出现空洞内液平的病变是：",
+        "options": [
+            "A.\t浸润性肺结核",
+            "B.\t急性肺脓肿",
+            "C.\t慢性纤维空洞型肺结核",
+            "D.\t肺癌",
+            "E.\t肺囊肿合并感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t双肺弥漫粟粒样阴影可见于下列病变，除了:",
+        "options": [
+            "A.\t血行播散型肺结核",
+            "B.\t肺转移瘤",
+            "C.\t支气管肺炎",
+            "D.\t结节病",
+            "E.\t矽肺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t大叶性肺炎的典型影像学变化见于病变的：",
+        "options": [
+            "A.\t充血期",
+            "B.\t实变期",
+            "C.\t消散期",
+            "D.\t消散期之初",
+            "E.\t病变全程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t下述选项不是原发综合征的影像特点的是：",
+        "options": [
+            "A.\t病灶呈哑铃状",
+            "B.\t原发灶多位于右肺上叶下部和下叶肺上部",
+            "C.\t肺门淋巴结炎吸收比肺内病灶快",
+            "D.\t原发灶为中央密度深、边缘淡而模糊的片状阴影",
+            "E.\t一般淋巴管炎不易显示"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t继发性肺结核影像的特点，除了：",
+        "options": [
+            "A.\t纤维灶",
+            "B.\t增殖灶",
+            "C.\t钙化",
+            "D.\t肺门淋巴结肿大",
+            "E.\t肺内病灶新旧不一"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t下列有关周围性肺癌的胸片影像，错误的是：",
+        "options": [
+            "A.\t病变早期与炎症有时难以鉴别",
+            "B.\t反“S”征",
+            "C.\t短小毛刺",
+            "D.\t癌性空洞，少有液平面",
+            "E.\t合并炎症时，其周缘模糊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t下列关于肺转移瘤的观点，错误的是：",
+        "options": [
+            "A.\t肺动脉是最常见的转移途径",
+            "B.\t胃癌是最常见的原发肿瘤",
+            "C.\tCT检出率高于胸片",
+            "D.\t对肺内小灶显示，MRI不及CT",
+            "E.\t肺尖、胸膜下、肋膈角等处病变，胸片易漏诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t肺转移瘤最常见的CT表现是：",
+        "options": [
+            "A.\t多发结节影",
+            "B.\t粟粒状影",
+            "C.\t小斑片状影",
+            "D.\t蜂窝状影",
+            "E.\t孤立性结节影"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t下列关于气胸的描述，正确的是：",
+        "options": [
+            "A.\t气胸区域可见到肺纹理",
+            "B.\t张力性气胸，纵隔可向健侧移位",
+            "C.\tMRI对本病的诊断价值最高",
+            "D.\t不同病因气胸的影像表现不同",
+            "E.\t单纯性气胸：立位胸片示外高内低致密影"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t关于纵隔神经源性肿瘤的诊断要点，错误的 是：",
+        "options": [
+            "A.\t好发于后上纵隔脊柱旁",
+            "B.\t多为恶性肿瘤",
+            "C.\t多为均匀强化",
+            "D.\t平扫 CT 值 30—50HU",
+            "E.\t形态规则，边缘光滑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t下列检查中，最有助于支气管扩张诊断的是：",
+        "options": [
+            "A.\t胸片",
+            "B.\t超声",
+            "C.\t高分辨率CT扫描",
+            "D.\tMRI",
+            "E.\tDSA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 62
+    },
+    {
+        "question_text": "63.\t中央型肺癌的胸片表现，最早出现的通常是：",
+        "options": [
+            "A.\t阻塞性肺炎",
+            "B.\t局限性肺不张",
+            "C.\t局限性肺气肿",
+            "D.\t肺门肿块影",
+            "E.\t反“S”征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t中央型肺癌一般发生在：",
+        "options": [
+            "A.\t主支气管",
+            "B.\t叶支气管",
+            "C.\t段支气管",
+            "D.\t段以下支气管",
+            "E.\t段以上支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 64
+    }
+]

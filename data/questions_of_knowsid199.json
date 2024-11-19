@@ -1,0 +1,100 @@
+[
+    {
+        "question_text": "1.\t胃肠癌的共同声像图特征是：",
+        "options": [
+            "A.\t假肾征",
+            "B.\t驼峰征",
+            "C.\t琴键征",
+            "D.\t越峰征",
+            "E.\t彗星尾征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t超声识别结肠的特征性标志是：",
+        "options": [
+            "A.\t结肠内径较小肠大",
+            "B.\t结肠袋与半月襞",
+            "C.\t结肠壁比小肠厚",
+            "D.\t结肠位于中上腹",
+            "E.\t结肠内容物多，且回声高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t小肠平滑肌瘤的超声特点是：",
+        "options": [
+            "A.\t假肾征",
+            "B.\t圆形的均匀低回声",
+            "C.\t不均匀低回声",
+            "D.\t圆形的强回声",
+            "E.\t牛眼型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t消化道穿孔的超声表现中最有意义的是：",
+        "options": [
+            "A.\t腹腔液性暗区",
+            "B.\t腹腔游离气体，改变体位始终在最高处",
+            "C.\t肠襻蠕动减弱或消失",
+            "D.\t腹肌紧张而腹胀不明显",
+            "E.\t肠腔扩张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t肠梗阻的超声诊断依据是：",
+        "options": [
+            "A.\t小肠内径大于2cm，",
+            "B.\t小肠内径大于3cm，",
+            "C.\t小肠内径大于4cm，",
+            "D.\t小肠内径大于5cm，",
+            "E.\t小肠内径大于6cm，"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t下列哪项是小肠梗阻的超声表现：",
+        "options": [
+            "A.\t驼峰征",
+            "B.\t鱼刺征",
+            "C.\t假肾征",
+            "D.\t靶环征",
+            "E.\t越峰征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t胃平滑肌瘤的超声表现是：①胃壁可见类圆形肿 块，边界清，内部回声较均匀；②肿块部位胃黏膜 正常；③CDFI检查肿块可见血供；④胃蠕动正常",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 7
+    }
+]

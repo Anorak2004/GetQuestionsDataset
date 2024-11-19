@@ -1,0 +1,772 @@
+[
+    {
+        "question_text": "1.血红蛋白测定的临床意义，下列哪项是错误的？",
+        "options": [
+            "A.贫血时红细胞减少、血红蛋白降低，两者减少程度是一致的",
+            "B.红细胞的主要成分为血红蛋白",
+            "C.每个红细胞含有一定量的血红蛋白",
+            "D.一般情况下随红细胞的增多和减少，血红蛋白常随之发生相应的变化",
+            "E.血红蛋白是由血红素和珠蛋白肽链联结而成的一种结合蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 1
+    },
+    {
+        "question_text": "2.血液中红细胞平均生存时间约为：",
+        "options": [
+            "A.100天",
+            "B.110天",
+            "C.120天",
+            "D.90天",
+            "E.130天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列哪项是错误的？",
+        "options": [
+            "A.红细胞的生成和破坏维持动态平衡",
+            "B.上述平衡遭到破坏就会发生贫血或红细胞增多",
+            "C.正常人红细胞数和血红蛋白量相对恒定的",
+            "D.血液中红细胞数和血红蛋白量的数值大致呈平行的相对应关系",
+            "E.红细胞计数和血红蛋白量两顶只需测一项即可"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 3
+    },
+    {
+        "question_text": "4.影响红细胞生成最主要的因素是：",
+        "options": [
+            "A.睾丸激素",
+            "B.雌激素",
+            "C.甲状腺素",
+            "D.红细胞生成素",
+            "E.肾上腺皮质激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 4
+    },
+    {
+        "question_text": "5.衰老的红细胞降解产生的铁主要去路是：",
+        "options": [
+            "A.由尿路排出体外",
+            "B.由肝脏分解",
+            "C.供机体重新利用",
+            "D.通过胆道排出体外",
+            "E.储存于体内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 5
+    },
+    {
+        "question_text": "6.衰老破坏的红细胞降解的主要部位是：",
+        "options": [
+            "A.循环血液中",
+            "B.骨髓内",
+            "C.单核-巨噬细胞系统",
+            "D.淋巴结内",
+            "E.肾脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 6
+    },
+    {
+        "question_text": "7.成年男性红细胞及血红蛋白增多的参考值是：",
+        "options": [
+            "A.RBC＞6.0×109/L，Hb＞170g/L",
+            "B.RBC＞5.5×109/L，Hb＞170g/L",
+            "C.RBC＞5.5×1012/L，Hb＞160g/L",
+            "D.RBC＞6.0×1012/L，Hb＞170g/L",
+            "E.RBC＞6.0×1012/L，Hb＞160g/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 7
+    },
+    {
+        "question_text": "8.红细胞相对增多是指：",
+        "options": [
+            "A.成年男性红细胞＞6.0×1012/L",
+            "B.成年女性红细胞＞5.5×1012/L",
+            "C.红细胞容量增多",
+            "D.血浆容量减少，血液浓缩",
+            "E.血容量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 8
+    },
+    {
+        "question_text": "9.引起相对性红细胞增多的原因是：",
+        "options": [
+            "A.胎儿及新儿",
+            "B.严重的心肺疾患",
+            "C.大面积烧伤",
+            "D.高原生活",
+            "E.肝细胞癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 9
+    },
+    {
+        "question_text": "10.引起绝对性红细胞增多的原因是：",
+        "options": [
+            "A.脱水致血液浓缩",
+            "B.严重的心肺疾患",
+            "C.严重的组织损伤",
+            "D.急性大出血",
+            "E.甲状腺亢进危象"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于继发性红细胞增多症，正确的是：",
+        "options": [
+            "A.是造血系统疾病",
+            "B.发病的主要环节是组织缺氧",
+            "C.血氧饱和度增高所致",
+            "D.发病的主要环节是红细胞生成素增多",
+            "E.由骨髓代偿增生引起"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项不是引起血红蛋白及红细胞代偿增生的原因？",
+        "options": [
+            "A.真性红细胞增多症",
+            "B.新生儿",
+            "C.高山居民和登山运动员",
+            "D.慢性肺心病继发性增多",
+            "E.紫绀型先天性心脏病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列情况红细胞增多，哪项不是由于血液浓缩？",
+        "options": [
+            "A.连续呕吐",
+            "B.高山居民",
+            "C.反复腹泻",
+            "D.出汗过多",
+            "E.大面积烧伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 13
+    },
+    {
+        "question_text": "14.早期癌肿也可出现红细胞增多，是因为：",
+        "options": [
+            "A.血液浓缩",
+            "B.红细胞生成素代偿性增加",
+            "C.红细胞生成素非代偿性增加",
+            "D.组织缺氧",
+            "E.骨髓增生"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于真性红细胞增多症正确的是：",
+        "options": [
+            "A.相对性红细胞增多",
+            "B.红细胞可达（7-10）×1012/L",
+            "C.血红蛋白量减少，血容量显著增加",
+            "D.血液高度浓缩的结果",
+            "E.血液中粒细胞与血小板减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪项与真性红细胞增多症无关？",
+        "options": [
+            "A.缺氧刺激",
+            "B.红细胞数可高达7×1012/L",
+            "C.造血干细胞受累",
+            "D.白细胞和血小板增高",
+            "E.可转化为白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 16
+    },
+    {
+        "question_text": "17.有关真性红细胞增多症下列哪项是错误的？",
+        "options": [
+            "A.原因未明",
+            "B.骨髓内红细胞增多",
+            "C.全身总血容量正常",
+            "D.红细胞持续增多",
+            "E.骨髓增殖性疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 17
+    },
+    {
+        "question_text": "18.目前血红蛋白的法定计量单位是：",
+        "options": [
+            "A.g/dl",
+            "B.g/L",
+            "C.g%",
+            "D.mmol/L",
+            "E.mg/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 18
+    },
+    {
+        "question_text": "19.正常成熟红细胞大小为：",
+        "options": [
+            "A.大小不一",
+            "B.直径平均为7.2μm",
+            "C.直径平均为6.5μm",
+            "D.直径为5-10μm",
+            "E.直径7-10μm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 19
+    },
+    {
+        "question_text": "20.正常成熟红细胞的形态是：",
+        "options": [
+            "A.球状",
+            "B.圆盘状",
+            "C.双凹圆盘状",
+            "D.椭圆形",
+            "E.圆饼形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 20
+    },
+    {
+        "question_text": "21.正常红细胞直径平均为",
+        "options": [
+            "A.6um",
+            "B.7.5um",
+            "C.9um",
+            "D.10um",
+            "E.15um"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 21
+    },
+    {
+        "question_text": "22.小红细胞直径小于：",
+        "options": [
+            "A.6μm",
+            "B.7.5μm",
+            "C.9μm",
+            "D.10μm",
+            "E.15μm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 22
+    },
+    {
+        "question_text": "23.大红细胞直径大于：",
+        "options": [
+            "A.6μm",
+            "B.7.5μm",
+            "C.9μm",
+            "D.10μm",
+            "E.15μm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 23
+    },
+    {
+        "question_text": "24.巨红细胞直径大于：",
+        "options": [
+            "A.6μm",
+            "B.7.5μm",
+            "C.9μm",
+            "D.10μm",
+            "E.15μm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 24
+    },
+    {
+        "question_text": "25.小红细胞直径是指：",
+        "options": [
+            "A.＜7μm",
+            "B.≤7μm",
+            "C.＜6μm",
+            "D.＜9μm",
+            "E.＜8μm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 25
+    },
+    {
+        "question_text": "26.下列中哪项最符合大红细胞直径？",
+        "options": [
+            "A.12μm",
+            "B.11μm",
+            "C.10μm",
+            "D.＞10μm",
+            "E.≥10μm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 26
+    },
+    {
+        "question_text": "27.巨红细胞直径是指：",
+        "options": [
+            "A.≥15μm",
+            "B.＞15μm",
+            "C.＞16μm",
+            "D.≥14μm",
+            "E.＞10μm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 27
+    },
+    {
+        "question_text": "28.红细胞形态极不规则，梨形、泪滴形、新月形、哑铃形、三角形、逗点形等改变的主要机制是：",
+        "options": [
+            "A.动脉硬化",
+            "B.尿毒症",
+            "C.机械或物理性因素的破坏",
+            "D.化学因素的破坏",
+            "E.体温过高或过低的破坏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 28
+    },
+    {
+        "question_text": "29.异常血红蛋白病时红细胞形态改变，可见：",
+        "options": [
+            "A.球形红细胞",
+            "B.椭圆形巨红细胞",
+            "C.口形红细胞",
+            "D.靶形红细胞",
+            "E.泪滴红细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 29
+    },
+    {
+        "question_text": "30.弥漫性血管内凝血时红细胞形态改变，可见",
+        "options": [
+            "A.球形红细胞",
+            "B.椭圆形巨红细胞",
+            "C.口形红细胞",
+            "D.靶形红细胞",
+            "E.泪滴红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 30
+    },
+    {
+        "question_text": "31.巨幼细胞贫血时红细胞形态改变，可见：",
+        "options": [
+            "A.球形红细胞",
+            "B.椭圆形巨红细胞",
+            "C.口形红细胞",
+            "D.靶形红细胞",
+            "E.泪滴红细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 31
+    },
+    {
+        "question_text": "32.多发性骨髓瘤病人血片中最易见到的红细胞改变是：",
+        "options": [
+            "A.口形",
+            "B.镰形",
+            "C.棘形",
+            "D.泪滴形",
+            "E.缗钱状排列"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 32
+    },
+    {
+        "question_text": "33.DIC时血液中可见：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 33
+    },
+    {
+        "question_text": "34.脾切除后红细胞形态改变可呈：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 34
+    },
+    {
+        "question_text": "35.骨髓纤维化可造成红细胞呈：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 35
+    },
+    {
+        "question_text": "36.自身免疫性溶血性贫血时红细胞形态改变可呈：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 36
+    },
+    {
+        "question_text": "37.原发性巨球蛋白血症时红细胞形态改变可呈：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 37
+    },
+    {
+        "question_text": "38.严重烧伤患者红细胞形态改变可呈：",
+        "options": [
+            "A.球形细胞",
+            "B.泪滴形细胞",
+            "C.棘细胞",
+            "D.裂细胞",
+            "E.红细胞缗钱形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 38
+    },
+    {
+        "question_text": "39.嗜多色性红细胞与下列哪项不符？",
+        "options": [
+            "A.染色呈淡灰蓝色或紫灰色",
+            "B.是刚脱核而未完全成熟的红细胞",
+            "C.体积较正常红细胞大",
+            "D.嗜碱性物质为残留的核糖体及核糖核酸",
+            "E.增多反映骨髓红系低下"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 39
+    },
+    {
+        "question_text": "40.红细胞染色呈嗜多色性常表示：",
+        "options": [
+            "A.刚脱核的年轻红细胞",
+            "B.红细胞衰老",
+            "C.血红蛋白过多",
+            "D.血红蛋白过少",
+            "E.骨髓红细胞增生低下"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 40
+    },
+    {
+        "question_text": "41.关于嗜多色性红细胞，下列叙述哪项正确？",
+        "options": [
+            "A.增多提示骨髓造血功能减退",
+            "B.属于刚脱核未完全成熟的红细胞",
+            "C.胞内可见灰蓝色嗜碱性网状结构",
+            "D.正常人外周血中不能见到此种细胞",
+            "E.增多不支持增生性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 41
+    },
+    {
+        "question_text": "42.关于红细胞内嗜碱性点彩，正确的是：",
+        "options": [
+            "A.呈紫红色圆形小体",
+            "B.呈圆形或8字形细线状环",
+            "C.深蓝色单个颗粒",
+            "D.多见于铅中毒",
+            "E.常见于白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪项组合是正确的？",
+        "options": [
+            "A.红细胞大小不等中心淡染——地中海贫血",
+            "B.红细胞呈靶形——缺铁性贫血",
+            "C.红细胞呈乌缗钱状——溶血性贫血",
+            "D.红细胞呈小球形——椭圆形红细胞增多症",
+            "E.红细胞呈盔形、三角形及碎片——DIC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 43
+    },
+    {
+        "question_text": "44.染色血片中嗜多色性红细胞增多见于：",
+        "options": [
+            "A.溶血性贫血",
+            "B.再生障碍性贫血",
+            "C.粒细胞缺乏症",
+            "D.多发性骨髓瘤",
+            "E.急性白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 44
+    },
+    {
+        "question_text": "45.不属于未完全成熟的红细胞为：",
+        "options": [
+            "A.嗜多色性红细胞",
+            "B.网织红细胞",
+            "C.有核红细胞",
+            "D.含染色质小体的红细胞",
+            "E.早幼红细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 45
+    },
+    {
+        "question_text": "46.铅中毒时血片中可见：",
+        "options": [
+            "A.有核红细胞",
+            "B.点彩红细胞",
+            "C.大红细胞",
+            "D.小红细胞",
+            "E.巨幼红细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 46
+    },
+    {
+        "question_text": "47.嗜碱性点彩红细胞常作为哪种疾病的重要诊断指标之一？",
+        "options": [
+            "A.珠蛋白生成障碍性贫血",
+            "B.酒精中毒",
+            "C.铅中毒",
+            "D.血吸虫病",
+            "E.巨幼红细胞贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 47
+    },
+    {
+        "question_text": "48.嗜碱性点彩红细胞增多不见于",
+        "options": [
+            "A.正常人",
+            "B.巨幼细胞性贫血",
+            "C.再生障碍性贫血",
+            "D.铅中毒",
+            "E.汞中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 48
+    },
+    {
+        "question_text": "49.染色质小体不见于哪种疾病？",
+        "options": [
+            "A.溶血性贫血",
+            "B.巨幼细胞贫血",
+            "C.脾切除术后",
+            "D.铅中毒",
+            "E.红白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 49
+    },
+    {
+        "question_text": "50.成人血液中出现有核红细胞属于：",
+        "options": [
+            "A.缺氧",
+            "B.出血",
+            "C.溶血",
+            "D.应急反应",
+            "E.均为病理现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 50
+    },
+    {
+        "question_text": "51.关于有核RBC以下哪种说法最正确？",
+        "options": [
+            "A.成人外周血出现有核RBC一般属病理现象",
+            "B.成人外周血出现有核RBC一般不属病理现象",
+            "C.正常成人外周血中可出现有核RBC",
+            "D.正常成人外周血中较少出现有核RBC",
+            "E.成人外周血出现有核RBC均属病理现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 51
+    },
+    {
+        "question_text": "52.成人外周血涂片中出现有核红细胞常见于：",
+        "options": [
+            "A.再障贫血",
+            "B.恶性组织细胞病",
+            "C.急性肺炎",
+            "D.多发性骨髓瘤",
+            "E.溶血性贫血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 52
+    },
+    {
+        "question_text": "53.有关有核红细胞的叙述，下列哪个是正确的？",
+        "options": [
+            "A.正常成人外周血液中偶见",
+            "B.三个月内的婴儿血涂片中可见到少量",
+            "C.正常成人外周血中不能见到",
+            "D.一个月内的婴儿血片中可见到少量",
+            "E.正常成人外周血液中常见"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 53
+    },
+    {
+        "question_text": "54.有核红细胞的出现最常见：",
+        "options": [
+            "A.失血性贫血",
+            "B.溶血性贫血",
+            "C.巨幼红细胞性贫血",
+            "D.缺铁性贫血",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列外周血象哪项肯定属于病理现象？",
+        "options": [
+            "A.大红细胞占1％",
+            "B.点彩红细胞占0.01％",
+            "C.网织红细胞占0.5％",
+            "D.有核红细胞占0.5％",
+            "E.嗜多色性红细胞占1％"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "55",
+        "number": 55
+    }
+]

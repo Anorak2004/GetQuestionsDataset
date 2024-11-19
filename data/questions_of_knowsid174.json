@@ -1,0 +1,522 @@
+[
+    {
+        "question_text": "54、下列各项属于实践对认识的决定作用的有（   ）",
+        "options": [
+            "A. 实践是认识的来源",
+            "B. 实践是认识发展的动力",
+            "C. 实践是检验认识真理性的唯一标准",
+            "D.实践是认识的目的"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 1
+    },
+    {
+        "question_text": "55、认识的本质是主体对客体的能动反映。马克思主义认识论对认识本质的概括揭示了（   ）",
+        "options": [
+            "A. 主观唯心主义和客观唯心主义的对立",
+            "B. 唯物论的反映论与唯心论的先验论的对立",
+            "C. 可知论与不可知论的对立",
+            "D. 辩证唯物论的能动反映论与旧唯物论的直观反映论的对立"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 2
+    },
+    {
+        "question_text": "56、 下列选项中属于理性认识形式的有（   ）",
+        "options": [
+            "A. 概念",
+            "B. 感觉",
+            "C. 判断",
+            "D. 推理"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 3
+    },
+    {
+        "question_text": "57、 下列各项属于感性认识的形式的有（   ）",
+        "options": [
+            "A. 感觉",
+            "B. 概念",
+            "C. 知觉",
+            "D. 表象"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 4
+    },
+    {
+        "question_text": "58、下列各项正确说明认识主体与认识客体之间的关系的有（   ）",
+        "options": [
+            "A.二者具有改造与被改造的实践关系",
+            "B. 二者具有反映与被反映的认识关系",
+            "C. 二者之间只有这两种关系",
+            "D. 二者是第一性与第二性的关系"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 5
+    },
+    {
+        "question_text": "59、从理性认识到实践的飞跃比从实践到认识的飞跃更重要，这是因为（   ）",
+        "options": [
+            "A. 认识的真正任务在于揭示事物的本质",
+            "B. 认识的目的在于实现对客观世界的改造",
+            "C. 从理性认识到实践的飞跃可以使认识得到检验",
+            "D.从理性认识到实践的飞跃使认识得到丰富和发展"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 6
+    },
+    {
+        "question_text": "60、 一个正确的认识常常不是一次完成的，而是要经过由实践到认识，再由认识到实践的多次反复才能完成。这是因为（   ）",
+        "options": [
+            "A. 客观事物是多种矛盾组成的复杂统一体",
+            "B. 事物的矛盾有个展开和发展的过程",
+            "C. 人的认识受社会历史条件和科学技术条件的限制",
+            "D. 认识受主体认识能力和实践范围的限制"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 7
+    },
+    {
+        "question_text": "61、真理的客观性是指（   ）",
+        "options": [
+            "A. 真理是不依赖于意识的客观实在",
+            "B.真理中包含着不依赖于人类的客观内容",
+            "C. 真理是不以人的意识为转移的客观规律",
+            "D. 检验真理的标准是客观的社会实践"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 8
+    },
+    {
+        "question_text": "62、 真理具有绝对性，下列各项正确说明真理的绝对性的含义的有（   ）",
+        "options": [
+            "A. 任何真理都包含着不依赖于主体的客观内容",
+            "B. 任何真理都是对客观世界各个方面的正确认识",
+            "C. 任何真理的认识都会随着客观世界的变化而变化",
+            "D. 每一个真理性认识都是向着无限发展着的物质世界的接近"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 9
+    },
+    {
+        "question_text": "63、 真理具有相对性，下列各项正确说明真理的相对性的含义的有（   ）",
+        "options": [
+            "A. 相对真理中都包含错误成分，需要修正",
+            "B. 任何真理都是具体的，没有普遍性",
+            "C. 任何真理都只能是对客观世界的某一部分的正确认识，需要进一步扩展",
+            "D. 任何真理都只能是对客观世界的某一部分一定程度和一定层次近似正确的反映，有待于深化"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 10
+    },
+    {
+        "question_text": "64、下列各项正确说明绝对真理和相对真理的关系的有（   ）",
+        "options": [
+            "A. 相对真理中包含着绝对真理的颗粒",
+            "B. 绝对真理通过相对真理表现出来",
+            "C. 无数相对真理的总和构成绝对真理",
+            "D. 人的认识是一个由相对真理向绝对真理的转化的过程"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 11
+    },
+    {
+        "question_text": "65、 在关于真理标准的问题上，下列说法中属于唯心主义观点的有（   ）",
+        "options": [
+            "A. 符合圣人之言的就是真理",
+            "B. 公说公有理，婆说婆有理",
+            "C. 多数人认为正确的就是真理",
+            "D. 对我有用的认识就是真理"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 12
+    },
+    {
+        "question_text": "66、 下列各项正确说明价值特征的有（   ）",
+        "options": [
+            "A. 价值具有客观性",
+            "B. 价值具有主体性",
+            "C. 价值具有社会历史性",
+            "D. 价值具有多维性"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 13
+    },
+    {
+        "question_text": "67、 判断一个认识是否为真理，就看（   ）",
+        "options": [
+            "A. 它是否有用",
+            "B. 在它面前是否人人平等",
+            "C. 它是否与客观实际相符合",
+            "D. 它是否经得起实践的检验"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 14
+    },
+    {
+        "question_text": "68、 实践标准的确定性是指它（   ）",
+        "options": [
+            "A.是多样性",
+            "B. 是唯一性",
+            "C. 是绝对的",
+            "D. 是客观的"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 15
+    },
+    {
+        "question_text": "69、对同一句格言，年轻人所理解的意义，总没有饱经风霜的老年人所理解得广泛和深刻。这一哲学观点在认识论上说明了（   ）",
+        "options": [
+            "A. 认识的深刻性与知识的积累有密切联系",
+            "B. 在经验的积累中加深认识",
+            "C. 认识的深刻性与经验的多少在一定意义上成正比例",
+            "D. 老年人的认识在一切方面都超过青年人认识"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 16
+    },
+    {
+        "question_text": "70、 “实践、认识、再实践、再认识”的原理，表明（   ）",
+        "options": [
+            "A. 人的认识运动的反复性和无限性",
+            "B. 人的认识运动是主观与客观的矛盾运动",
+            "C. 认识论和辩证法的一致性",
+            "D. 人类认识是不可靠的"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 17
+    },
+    {
+        "question_text": "71、 马克思主义认识论与唯心主义认识论的区别在于是否承认（   ）",
+        "options": [
+            "A. 世界的可知性",
+            "B. 客观事物是认识的对象",
+            "C. 认识起源于经验",
+            "D. 社会实践是认识的基础"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 18
+    },
+    {
+        "question_text": "72、实践主体有如下三种基本形态（   ）",
+        "options": [
+            "A. 个体主体",
+            "B. 群体主体",
+            "C. 人类主体",
+            "D. 天然主体"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 19
+    },
+    {
+        "question_text": "73、 “批判的武器当然不能代替武器的批评，物质力量只能用物质力量来摧毁，但是理论一经掌握群众，也会变成物质力量。”这一论断的哲学思想是（   ）",
+        "options": [
+            "A. 理论对实践具有指导作用",
+            "B. 理论不能代替实践",
+            "C. 理论本身就是物质的力量",
+            "D. 理论的作用可以通过实践表现出来"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 20
+    },
+    {
+        "question_text": "74、 “感觉到了的东西，我们不能立刻理解它，只有理解了的东西才更深刻地感觉它。”这一观点说明（   ）",
+        "options": [
+            "A. 感性认识对于认识事物的本质没有任何帮助",
+            "B. 感性认识具有局限性，有待于上升为理性认识",
+            "C. 感性认识是认识的初级阶段，理性认识是认识的高级阶段",
+            "D. 感性认识和理性认识是相互依存和渗透的"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 21
+    },
+    {
+        "question_text": "75、 理性认识向实践飞跃的意义在于（   ）",
+        "options": [
+            "A. 理论接受实践的检验",
+            "B. 理论可以改变事物发展的总趋势",
+            "C. 理论可以指导实践",
+            "D. 理论在实践的发展中得到发展"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 22
+    },
+    {
+        "question_text": "76、 “跟着感觉走”，在本质上是(   )",
+        "options": [
+            "A. 唯心主义经验论的观点",
+            "B. 唯物主义反映论的观点",
+            "C. 唯我主义观点",
+            "D. 反理论主义观点"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 23
+    },
+    {
+        "question_text": "77、 下列属于中国传统哲学中唯心主义知行观的有（   ）",
+        "options": [
+            "A. 生而知之（孔子）",
+            "B. 不虑而知（孟子）",
+            "C. 不行而知（老子）",
+            "D. 不登高山，不知天之高也，不临深溪，不知地之厚也（荀子）"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 24
+    },
+    {
+        "question_text": "78、 马克思主义认为，认识的辩证过程是（   ）",
+        "options": [
+            "A. 从间接经验到直接经验的转化",
+            "B. 从抽象到具体再到抽象的上升运动",
+            "C. 实践—认识—实践的无限循环往复",
+            "D. 从相对真理到绝对真理的发展"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 25
+    },
+    {
+        "question_text": "79、实践的基本特征有（   ）",
+        "options": [
+            "A. 直接现实性",
+            "B. 自觉能动性",
+            "C. 社会历史性",
+            "D. 主观性"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 26
+    },
+    {
+        "question_text": "80、价值的客观性在于（   ）",
+        "options": [
+            "A. 真理的客观性决定了价值的客观性",
+            "B. 人的需要具有客观性",
+            "C. 满足人的需要的对象具有客观性",
+            "D. 满足人的需要的过程和结果具有客观性"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 27
+    },
+    {
+        "question_text": "81、 实践的基本类型有（   ）",
+        "options": [
+            "A. 物质生产实践",
+            "B. 社会政治实践",
+            "C.科学文化实践",
+            "D.模仿实践"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 28
+    },
+    {
+        "question_text": "82、 实践是检验真理的唯一标准，在于（   ）",
+        "options": [
+            "A. 实践具有直接现实性",
+            "B. 实践具有普遍性的特点",
+            "C. 实践是联系主观和客观的桥梁",
+            "D.实践是主观见之于客观的活动"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 29
+    },
+    {
+        "question_text": "83、 “有用的就是真理”的错误实质是（   ）",
+        "options": [
+            "A. 夸大了真理的绝对性",
+            "B. 把真理性和有用性混同",
+            "C. 主观唯心主义真理观",
+            "D. 歪曲了真理的本性"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 30
+    },
+    {
+        "question_text": "84、 唯物主义认识路线是（   ）",
+        "options": [
+            "A. 从物质到感觉和思想",
+            "B. 从思想和感觉到物质",
+            "C. 认为物质和思想同时存在",
+            "D.反映论"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 31
+    },
+    {
+        "question_text": "85、下列正确说明感性认识和理性认识联系的有（   ）",
+        "options": [
+            "A. 感性认识可以自然而然地上升到理性认识",
+            "B. 理性认识依赖于感性认识",
+            "C. 感性认识有待于发展到理性认识",
+            "D. 理性认识是在感性认识指导下进行的"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 32
+    },
+    {
+        "question_text": "86、 割裂感性认识和理性认识的联系，会导致（   ）",
+        "options": [
+            "A. 经验论的错误",
+            "B. 唯理论的错误",
+            "C. 实际工作中的经验主义的错误",
+            "D. 实际工作中的教条主义的错误"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 33
+    },
+    {
+        "question_text": "87、 真理和谬论的界限在于（   ）",
+        "options": [
+            "A. 是否符合马列主义",
+            "B. 是否符合人民意愿",
+            "C. 是否符合客观实际",
+            "D. 是否正确反映了客观对象的本质和规律"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 34
+    },
+    {
+        "question_text": "88、 “伟大的实践需要伟大的理论”这段话包含的哲理是（   ）",
+        "options": [
+            "A. 实践是理论的源泉",
+            "B. 实践需要理论做指导",
+            "C. 理论对实践有反作用",
+            "D. 理论随着实践的发展而发展"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 35
+    },
+    {
+        "question_text": "89、 非理性因素对人的认识活动起着重要的调节作用,主要表现在(   )",
+        "options": [
+            "A. 诱导作用",
+            "B. 激发作用",
+            "C. 控制作用",
+            "D. 主导作用"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 36
+    },
+    {
+        "question_text": "90、在真理的客观性问题上，存在两种真理观（   ）",
+        "options": [
+            "A. 客观真理观",
+            "B. 实用主义真理观",
+            "C. 主观真理观",
+            "D. 绝对主义"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 37
+    },
+    {
+        "question_text": "91、真理的发展是一个（   ）",
+        "options": [
+            "A. 由相对真理走向绝对真理的永无止境的发展过程",
+            "B. 主观真理和客观真理相互转化的过程",
+            "C. 从真理中不断排除谬论的过程",
+            "D. 真理和谬论不断斗争的过程"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 38
+    },
+    {
+        "question_text": "92、 认识世界和改造世界是辩证的统一，表现在（   ）",
+        "options": [
+            "A. 认识的任务归根到底在于解释世界",
+            "B. 认识的任务不仅在于解释世界，更重要在于改造世界",
+            "C. 要有效地改造世界，必须正确地认识世界",
+            "D. 认识和改造客观世界的过程也是认识和改造主观世界的过程"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 39
+    },
+    {
+        "question_text": "93、 感觉和概念的区别在于（   ）",
+        "options": [
+            "A. 感觉是感性认识的形式，概念是理性认识的形式",
+            "B. 感觉是对客观现象的反映，概念是对事物本质的反映",
+            "C. 感觉具有直接性，概念具有间接性",
+            "D. 感觉不可靠，概念真实可靠"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 40
+    }
+]

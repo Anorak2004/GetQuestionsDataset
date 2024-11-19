@@ -1,0 +1,842 @@
+[
+    {
+        "question_text": "1.\t下列不是成人长骨结构的是：",
+        "options": [
+            "A.\t骨膜",
+            "B.\t骨皮质",
+            "C.\t骨髓腔",
+            "D.\t骨端",
+            "E.\t骨骺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t下列不是儿童长骨结构的是：",
+        "options": [
+            "A.\t骨骺",
+            "B.\t骨端",
+            "C.\t干骺端",
+            "D.\t骨干",
+            "E.\t骨骺板"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t骨质疏松是指：",
+        "options": [
+            "A.\t骨的有机成分减少",
+            "B.\t骨的无机成分减少",
+            "C.\t骨的有机成分增加",
+            "D.\t骨的无机成分增加",
+            "E.\t骨的有机成分和无机成分都减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t骨质软化是指：",
+        "options": [
+            "A.\t骨的有机成分增加",
+            "B.\t骨的无机成分减少",
+            "C.\t骨的有机成分正常，骨的无机成分减少",
+            "D.\t骨的有机成分减少",
+            "E.\t骨的有机成分和无机成分都减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t鉴别骨质软化与骨质疏松的X线表现是：",
+        "options": [
+            "A.\t骨小梁数目减少",
+            "B.\t骨小梁间隙增宽",
+            "C.\t骨小梁变细",
+            "D.\t骨皮质变薄，骨髓腔增宽",
+            "E.\t骨小梁骨皮质边缘模糊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t关节破坏的早期X线表现是：",
+        "options": [
+            "A.\t关节间隙增宽",
+            "B.\t关节间隙变窄",
+            "C.\t软骨下骨质破坏",
+            "D.\t骨端松质骨破坏",
+            "E.\t关节面糜烂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t“骨性”与“纤维性”关节强直的X线鉴别点 是：",
+        "options": [
+            "A.\t关节间隙变窄",
+            "B.\t关节面糜烂",
+            "C.\t关节狭窄，硬化增生",
+            "D.\t关节狭窄，关节缘骨破坏",
+            "E.\t骨小梁通过关节间隙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t柯雷氏（Colles）骨折是指：",
+        "options": [
+            "A.\t桡骨远端2cm以内的伸展型骨折",
+            "B.\t桡骨远端3cm以内的伸展型骨折",
+            "C.\t尺骨上端骨折合并桡骨小头脱位",
+            "D.\t桡骨远端2?3cm骨折断端向掌侧成角",
+            "E.\t桡骨远端3cm骨折断端向背侧成角"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t急性化脓性骨髓炎最早出现的X线征象为：",
+        "options": [
+            "A.\t干骺端骨质破坏",
+            "B.\t在骨皮质旁见平行带状骨膜反应",
+            "C.\t弥漫性软组织肿块",
+            "D.\t局限性骨质疏松",
+            "E.\t死骨片形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t脊椎结核典型X线表现为：",
+        "options": [
+            "A.\t胸椎多见",
+            "B.\t骨质密度增高",
+            "C.\t椎体楔形改变",
+            "D.\t多累及相邻两个椎体，椎间隙变窄",
+            "E.\t附近受累较多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t下述作为良性骨肿瘤的X线表现，错误的是：",
+        "options": [
+            "A.\t膨胀性骨质破坏",
+            "B.\t病变边缘有硬化",
+            "C.\t局部骨皮质断裂",
+            "D.\t病变边缘骨膜反应",
+            "E.\t病变边界清楚"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下述骨肿瘤的X线表现中，恶性骨肿瘤的表现 为：",
+        "options": [
+            "A.\t类圆形透光区边缘增生硬化",
+            "B.\t骨膨胀性破坏",
+            "C.\t骨破坏区边缘模糊",
+            "D.\t骨破坏区内有残留骨小梁",
+            "E.\t骨破坏区边缘清晰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下述骨巨细胞瘤的描述中，不正确的是：",
+        "options": [
+            "A.\t病变骨皮质变薄并向外膨出",
+            "B.\t可见囊状透光区向一侧生长",
+            "C.\t起源于间充质细胞",
+            "D.\t多见于股骨、胫骨、桡骨骨端",
+            "E.\t发生在干骺端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下述骨肉瘤的影像学描述中，错误的是：",
+        "options": [
+            "A.\t原发性恶性骨肿瘤中发病率最高",
+            "B.\t发生在长管状骨干骺端",
+            "C.\t溶骨性骨破坏，无肿瘤性成骨性改变",
+            "D.\t葱皮样骨膜反应",
+            "E.\t肿瘤内骨化和钙化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t膝关节在X线平片所见到的下述解剖结构，不 正确的是：",
+        "options": [
+            "A.\t关节间隙",
+            "B.\t骨性关节面",
+            "C.\t籽骨",
+            "D.\t关节内外脂肪层",
+            "E.\t关节软骨和关节盘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t骨质破坏的影像学表现，不正确的是：",
+        "options": [
+            "A.\t局部密度减低",
+            "B.\t骨小梁稀疏消失",
+            "C.\t骨轮廓膨胀",
+            "D.\t斑片状骨缺损",
+            "E.\t骨小梁增粗，骨质增厚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t骨质增生硬化的影像学表现，不正确的是：",
+        "options": [
+            "A.\t骨密度增高",
+            "B.\t骨骼增大变形",
+            "C.\t骨刺、骨桥、骨骼缘唇样改变",
+            "D.\t骨小梁变细减少，骨皮质变薄",
+            "E.\tMRIL和T2WI呈低信号影"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t下述不是急性化脓性骨髓炎的影像学表现的一 项是：",
+        "options": [
+            "A.\t软组织肿胀",
+            "B.\t骨质破坏与骨质疏松并存",
+            "C.\t片状或条状死骨",
+            "D.\t层状及花边状骨膜反应",
+            "E.\t骨包壳形成，骨干不规则增粗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t化脓性关节炎最早出现的影像学征象是：",
+        "options": [
+            "A.\t关节间隙增宽",
+            "B.\t关节囊增大，密度增高",
+            "C.\t关节周围软组织炎性肿胀",
+            "D.\t关节软骨下骨质破坏",
+            "E.\t局部骨质疏松"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t关节结核的影像学不常见的表现是：",
+        "options": [
+            "A.\t关节面的骨性破坏及关节间隙不对称狭窄",
+            "B.\t骨型关节结核以髋、肘关节多见",
+            "C.\t滑膜型关节结核以膝、踝关节多见",
+            "D.\t骨质破坏与骨膜增生并存伴软组织肿胀",
+            "E.\t关节积液，关节囊肿胀，冷脓肿形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t下列为化脓性关节炎与关节结核所致骨质破坏 的鉴别要点是：",
+        "options": [
+            "A.\t筛孔状骨质破坏",
+            "B.\t斑片状骨质破坏",
+            "C.\t虫蚀样骨质破坏",
+            "D.\t承重关节面及非承重关节面的骨质破坏",
+            "E.\t不规则溶骨性破坏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t强直性脊柱炎最早受累的部位是：",
+        "options": [
+            "A.\t腕关节",
+            "B.\t指间关节",
+            "C.\t骶骼关节",
+            "D.\t髋关节",
+            "E.\t脊椎小关节突关节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t“竹节样脊柱\"可见于下列哪些疾病：",
+        "options": [
+            "A.\t化脓性腰椎炎",
+            "B.\t退行性骨关节病",
+            "C.\t类风湿性脊柱炎",
+            "D.\t肥大性脊椎炎、骨桥形成",
+            "E.\t强直性脊柱炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t骨肿瘤及肿瘤样病变的影像学首选方法是：",
+        "options": [
+            "A.\tMRI",
+            "B.\tCT",
+            "C.\tX线平片",
+            "D.\tECT",
+            "E.\tDSA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t多发性穿凿样骨质破坏多见于：",
+        "options": [
+            "A.\t嗜酸性肉芽肿",
+            "B.\t多发性骨髓瘤",
+            "C.\t内生软骨瘤",
+            "D.\t骨转移瘤",
+            "E.\t骨肉瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t恶性骨肿瘤中最常见的是：",
+        "options": [
+            "A.\t骨肉瘤",
+            "B.\t骨转移瘤",
+            "C.\t骨髓瘤",
+            "D.\t纤维肉瘤",
+            "E.\t骨巨细胞瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t局部骨组织被病理组织所取代称为：",
+        "options": [
+            "A.\t骨质疏松",
+            "B.\t骨质软化",
+            "C.\t骨质破坏",
+            "D.\t骨质坏死",
+            "E.\t骨质增生硬化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t骨组织代谢停止称为：",
+        "options": [
+            "A.\t骨质疏松",
+            "B.\t骨质软化",
+            "C.\t骨质破坏",
+            "D.\t骨质坏死",
+            "E.\t骨质增生硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t关节软骨及其下方的骨质为病理组织所侵犯、 代替称为：",
+        "options": [
+            "A.\t关节肿胀",
+            "B.\t关节破坏",
+            "C.\t关节退行性变",
+            "D.\t关节强直",
+            "E.\t关节脱位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t关节软骨变性坏死，逐渐被纤维组织取代，引 起不同程度的关节间隙狭窄称为：",
+        "options": [
+            "A.\t关节肿胀",
+            "B.\t关节破坏",
+            "C.\t关节退行性变",
+            "D.\t关节强直",
+            "E.\t关节脱位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t诊断骨折最简便有效而常用的影像学检查方法 是：",
+        "options": [
+            "A.\tX线平片",
+            "B.\tCT",
+            "C.\tMRI",
+            "D.\t超声",
+            "E.\t核素显像"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t椎体骨折最常见的表现为：",
+        "options": [
+            "A.\t横形骨折",
+            "B.\t斜形骨折",
+            "C.\t螺旋形骨折",
+            "D.\t压缩骨折",
+            "E.\t凹陷骨折"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t关于儿童青枝骨折的说法，错误的是：",
+        "options": [
+            "A.\t常见于四肢长骨干",
+            "B.\t骨皮质发生皱褶或凹陷或隆起",
+            "C.\t可以看不见骨折线",
+            "D.\t发生原因是儿童骨柔韧性较大",
+            "E.\t属于完全骨折"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t关于骨骺骨折的描述，不正确的是：",
+        "options": [
+            "A.\t发生在骺板软骨",
+            "B.\t不累及干骺端",
+            "C.\tX线上显示骺线增宽",
+            "D.\tX线上显示骨骺干骺端对位异常",
+            "E.\tMR有助于骨骺骨折的诊断"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t关于脊柱结核影像学表现，叙述正确的是：",
+        "options": [
+            "A.\t最多见于胸椎",
+            "B.\t骨破坏可以开始于椎体内或终板",
+            "C.\t椎间隙保持正常",
+            "D.\t骨质增生硬化明显",
+            "E.\t椎体周围软组织正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t关节结构MRI的描述，不正确的是：",
+        "options": [
+            "A.\tX线上关节软骨不显影，MRI上为光滑线状低信 号影",
+            "B.\t韧带MRI上为低信号影",
+            "C.\t膝关节半月板LWI为低信号，T2WI为高信号",
+            "D.\t关节囊MRI上为线状低信号影",
+            "E.\t关节内滑液LWI为低信号，T2WI为高信号"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t下列关节脊柱MRI不正确的是：",
+        "options": [
+            "A.\t骨皮质LWI、T2WI均为低信号",
+            "B.\t椎间盘髓核T2WI为高信号",
+            "C.\t椎间盘在LWI上能区分出纤维环和髓核",
+            "D.\t前纵韧带和后纵韧带在LWI和T2WI上均为低信 号",
+            "E.\t脊髓在T2WI上信号低于脑脊液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t纤维性骨痂在骨折后形成时间是：",
+        "options": [
+            "A.\t2?3天",
+            "B.\t5?7天",
+            "C.\t7?14天",
+            "D.\t4—5 周",
+            "E.\t2?3月"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t关于骨折X线诊断的叙述，不正确的是：",
+        "options": [
+            "A.\t需摄正侧位片",
+            "B.\t摄片时至少包括邻近的2个关节",
+            "C.\t注意两侧对比",
+            "D.\t必要时加拍特殊位置",
+            "E.\t摄片时至少包括邻近的1个关节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t关于脊柱骨折不正确的是：",
+        "options": [
+            "A.\t椎体压缩呈楔形",
+            "B.\t可以不见骨折线",
+            "C.\t上下椎间隙常有狭窄",
+            "D.\t常合并棘间韧带撕裂",
+            "E.\t横突可发生骨折"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t关于脊柱骨折正确的是：",
+        "options": [
+            "A.\tX线能够显示椎管内碎片和椎管内血肿",
+            "B.\tCT可显示脊髓出血和水肿",
+            "C.\tCT可显示韧带的撕裂",
+            "D.\tCT检查的重点是骨折片对脊髓和神经根的压迫",
+            "E.\tX线可充分显示骨折类型和骨折片移位情况"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t下列关于椎间盘突出的描述，正确的是：",
+        "options": [
+            "A.\tX线常表现为椎间隙对称性狭窄",
+            "B.\t椎体上下缘Schmorl结节是髓核向椎体内脱出形 成的",
+            "C.\tCT上椎间盘的密度低于硬膜囊",
+            "D.\t常合并椎间孔扩大",
+            "E.\t正常椎间盘T1WI、T2WI均为低信号"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t化脓性骨髓炎骨改变出现的时间是：",
+        "options": [
+            "A.\t3天后",
+            "B.\t1周后",
+            "C.\t2周后",
+            "D.\t1个月后",
+            "E.\t2周后"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t下列关于慢性骨脓肿的说法，不正确的是：",
+        "options": [
+            "A.\t大多发生于长骨的干骺端",
+            "B.\t最常见于胫骨下端和桡骨远端",
+            "C.\t骨破坏区周围常有硬化环",
+            "D.\t破坏区内少有死骨",
+            "E.\t多有骨膜增生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t化脓性关节炎影像学表现，错误的是：",
+        "options": [
+            "A.\t可出现关节脱位或半脱位",
+            "B.\t软骨破坏可引起关节间隙的狭窄",
+            "C.\t骨破坏多发生在关节的非承重面",
+            "D.\t骨修复开始后出现骨质增生硬化",
+            "E.\tMRI可显示滑膜的炎症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t化脓性关节炎关节面骨质破坏发生在发病后：",
+        "options": [
+            "A.\t1个月",
+            "B.\t2个月",
+            "C.\t3个月",
+            "D.\t4个月",
+            "E.\t5个月"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t骨气鼓征见于：",
+        "options": [
+            "A.\t骨结核",
+            "B.\t骨髓炎",
+            "C.\t痛风",
+            "D.\t类风湿关节炎",
+            "E.\t骨巨细胞瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t下列选项中，不是关节结核的表现：",
+        "options": [
+            "A.\t最常累及髋关节和膝关节",
+            "B.\t邻近骨骼骨质疏松",
+            "C.\t周围组织形成冷性脓肿",
+            "D.\t关节面的破坏开始于关节的承重面",
+            "E.\t病变愈合后可有关节强直"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t关于类风湿关节炎的影像学表现，正确的是：",
+        "options": [
+            "A.\t多发生在大关节",
+            "B.\t骨破坏呈穿凿样",
+            "C.\t常累及远端指间关节",
+            "D.\t关节邻近骨骼发生骨质疏松",
+            "E.\t常有死骨和窦道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t色素沉着绒毛结节滑膜炎，最常见于：",
+        "options": [
+            "A.\t膝关节",
+            "B.\t踝关节",
+            "C.\t肩关节",
+            "D.\t肘关节",
+            "E.\t腕关节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t痛风常引起的关节骨质破坏是：",
+        "options": [
+            "A.\t骶骼关节",
+            "B.\t第一跖趾关节",
+            "C.\t第五跖趾关节",
+            "D.\t远端指间关节",
+            "E.\t掌指关节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t下列选项中，不是佝偻病活动期的X线表现的 是：",
+        "options": [
+            "A.\t临时钙化带不规则",
+            "B.\t干骺端增宽，中心凹陷",
+            "C.\t骨骺出现延迟",
+            "D.\t下肢畸形",
+            "E.\t临时钙化带增厚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t最常见的原发恶性骨肿瘤是：",
+        "options": [
+            "A.\t骨肉瘤",
+            "B.\t骨纤维肉瘤",
+            "C.\t软骨肉瘤",
+            "D.\t脊索瘤",
+            "E.\t骨髓瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t关于骨巨细胞瘤，错误的是：",
+        "options": [
+            "A.\t常侵犯骨端",
+            "B.\t内可有骨崎形成的分房",
+            "C.\t骨破坏呈偏侧性",
+            "D.\t肿瘤内常有钙化，有骨膜增生",
+            "E.\t肿瘤一般不穿破软骨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t提示骨巨细胞瘤恶变的征象是：",
+        "options": [
+            "A.\t有骨膜增生",
+            "B.\t包壳不完整",
+            "C.\t无骨崎，呈单一的骨质破坏",
+            "D.\t肿瘤膨明显",
+            "E.\t肿瘤边缘出现筛孔样骨质破坏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t最常见的良性骨肿瘤是：",
+        "options": [
+            "A.\t骨软骨瘤",
+            "B.\t软骨瘤",
+            "C.\t骨瘤",
+            "D.\t成软骨细胞瘤",
+            "E.\t骨巨细胞瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t关于骨软骨瘤的影像学表现，错误的是：",
+        "options": [
+            "A.\t好发于股骨下端和胫骨上端",
+            "B.\t多位于干骺端",
+            "C.\t瘤体有蒂与骨相连",
+            "D.\t瘤顶部有不规则高密度影为软骨帽的钙化",
+            "E.\t常有骨膜反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t下列征象提示骨软骨瘤恶变的是：",
+        "options": [
+            "A.\t软骨帽内钙化",
+            "B.\t肿瘤较大，压迫邻近骨骼",
+            "C.\t瘤体出现骨皮质或边缘部骨质破坏",
+            "D.\t瘤体有宽基底蒂与骨相连",
+            "E.\t病灶呈分叶状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t下列关于骨纤维异常增殖症的X线表现，不正 确的是：",
+        "options": [
+            "A.\t股骨、胫骨和肋骨多见",
+            "B.\t不累及面颅骨",
+            "C.\t呈囊状改变的骨纤维异常增殖症边缘有硬化",
+            "D.\t内可有粗大骨纹",
+            "E.\t可呈单发或多发的虫蚀样骨破坏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t下列关于骨肉瘤的X线表现，不正确的是：",
+        "options": [
+            "A.\t混合型骨肉瘤最多见",
+            "B.\t溶骨型骨肉瘤以骨破坏为主，很少有骨质增生",
+            "C.\t成骨型骨肉瘤以肿瘤骨形成为主",
+            "D.\tMRI发现细小瘤骨优于X线",
+            "E.\tMRI可以显示血管、神经和肌肉的关系"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 60
+    }
+]

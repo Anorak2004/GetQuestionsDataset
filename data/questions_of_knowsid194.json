@@ -1,0 +1,562 @@
+[
+    {
+        "question_text": "1.\t诊断先天性心脏病首选的技术是：",
+        "options": [
+            "A.\t心电图",
+            "B.\t超声心动图",
+            "C.\tX线胸片",
+            "D.\t磁共振",
+            "E.\tCT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t在二维超声扫查时，连枷样二尖瓣尖端在期，指 向：",
+        "options": [
+            "A.\t收缩；左室",
+            "B.\t收缩；左房",
+            "C.\t舒张；右室",
+            "D.\t舒张；右房",
+            "E.\t以上均是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t肺动脉瓣关闭不全的常见原因是：",
+        "options": [
+            "A.\t风湿热",
+            "B.\t肺动脉瓣狭窄",
+            "C.\t肺动脉高压",
+            "D.\t肺动脉栓塞",
+            "E.\t冠心病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t主动脉瓣在M型超声心动图上的形态是：",
+        "options": [
+            "A.\tW形",
+            "B.\tM形",
+            "C.\t钻石形",
+            "D.\t六角盒形",
+            "E.\t戒指样"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 4
+    },
+    {
+        "question_text": "5.\tM型超声心动图中，二尖瓣最早完全关闭点是：",
+        "options": [
+            "A.\tC点",
+            "B.\tD点",
+            "C.\tE点",
+            "D.\tF点",
+            "E.\tB点"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t等容收缩期的定义是：",
+        "options": [
+            "A.\t心房去极化期",
+            "B.\t二尖瓣关闭到主动脉瓣开放间期",
+            "C.\t二尖瓣叶开放的第一个峰",
+            "D.\t心室快速充盈早期",
+            "E.\t心室舒张晚期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t等容舒张期的定义是：",
+        "options": [
+            "A.\t主动脉瓣关闭到二尖瓣开放间期",
+            "B.\t心室快速充盈早期",
+            "C.\t心室舒张晚期",
+            "D.\t二尖瓣关闭到主动脉瓣开放间期",
+            "E.\t二尖瓣M形曲线的CD段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t正常成人室间隔厚度与左室后壁厚度的关系是：",
+        "options": [
+            "A.\t大致相等",
+            "B.\t前者大于后者",
+            "C.\t前者小于后者",
+            "D.\t无一定关系",
+            "E.\t前者是后者的2倍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t室间隔缺损杂音的听诊位置是：",
+        "options": [
+            "A.\t胸骨左缘第2、3肋间",
+            "B.\t胸骨右缘第2、3肋间",
+            "C.\t胸骨左缘第3、4肋间",
+            "D.\t胸骨右缘第3、4肋间",
+            "E.\t心尖部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t房间隔缺损的血流动力学改变正确的是：",
+        "options": [
+            "A.\t左心容量负荷加重",
+            "B.\t右心容量负荷加重",
+            "C.\t肺动脉收缩压降低",
+            "D.\t右心压力负荷过重",
+            "E.\t左心压力负荷过重"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t心尖四腔观常显示正常房间隔回声失落，这是 因为：",
+        "options": [
+            "A.\t房间隔与声束平行",
+            "B.\t房间隔与声束垂直",
+            "C.\t超声仪器的分辨力不够",
+            "D.\t卵圆孔房间隔菲薄并与声束平行",
+            "E.\t以上都有可能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t能显示动脉导管未闭直接征象的二维观是：① 主动脉根部短轴观；②心尖四腔观；③胸骨上凹降 主动脉长轴观；④胸骨旁左室长轴观",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t左右心室认别的根据是：",
+        "options": [
+            "A.\t房室瓣数目和开放的形态",
+            "B.\t房室瓣的位置",
+            "C.\t心室内膜面粗糙或光滑",
+            "D.\t乳头肌数目",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t左右心房的识别可根据：",
+        "options": [
+            "A.\t与肺静脉的连接",
+            "B.\t与腔静脉的连接",
+            "C.\t与肝脏的关系",
+            "D.\t声学造影",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t夹层动脉瘤最有特征的声像图是：",
+        "options": [
+            "A.\t双腔征",
+            "B.\t血栓",
+            "C.\t狭窄的腔",
+            "D.\t内膜瓣",
+            "E.\t动脉壁溃疡形成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t二维超声心动图诊断二尖瓣狭窄的主要依据是：",
+        "options": [
+            "A.\t瓣口开放面积变小",
+            "B.\t瓣叶增厚",
+            "C.\t腱索粗大",
+            "D.\t瓣膜活动受限",
+            "E.\t左房明显增大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t估测二尖瓣瓣口面积最常用、最可靠的方法 为：",
+        "options": [
+            "A.\t二维测量瓣口面积法",
+            "B.\t跨瓣压差测量法",
+            "C.\t频谱多普勒连续方程法",
+            "D.\t近端等速表面积法(PISA)",
+            "E.\t二尖瓣口压力减半时间法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t心内血栓形成最常见的部位是：",
+        "options": [
+            "A.\t左心耳",
+            "B.\t右心耳",
+            "C.\t左心室",
+            "D.\t右心室",
+            "E.\t肺动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t风湿性心脏病最常累及的瓣膜是：",
+        "options": [
+            "A.\t二尖瓣",
+            "B.\t三尖瓣",
+            "C.\t肺动脉瓣",
+            "D.\t主动脉瓣",
+            "E.\t二尖瓣和肺动脉瓣"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t超声诊断二尖瓣脱垂的标准是：",
+        "options": [
+            "A.\t左室长轴观和心尖四腔观见二尖瓣瓣体凸向左 房，跨越二尖瓣环＞ 2mm",
+            "B.\t二尖瓣有皱褶",
+            "C.\tCDFI示二尖瓣重度反流",
+            "D.\t二尖瓣呈连枷样",
+            "E.\t无标准"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t正常成人二尖瓣口面积为：",
+        "options": [
+            "A.\t1 ?2cm2",
+            "B.\t2 ?4cm2",
+            "C.\t4 ?6cm2",
+            "D.\t6 ?8cm2",
+            "E.\t2 ?3cm2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t引起主动脉瓣关闭不全最常见的病因是：",
+        "options": [
+            "A.\t风湿性心脏病",
+            "B.\t主动脉窦瘤",
+            "C.\t马凡综合征",
+            "D.\t升主动脉粥样硬化",
+            "E.\t主动脉瓣脱垂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t二尖瓣狭窄M型超声的特征性表现是：",
+        "options": [
+            "A.\t左房后壁活动曲线上的“C”形凹消失",
+            "B.\tCD段出现一个收缩期向前的异常运动",
+            "C.\t尖瓣前叶曲线舒张期有高速颤动",
+            "D.\t二尖瓣前叶呈城墙样改变，后叶与前叶呈同向运 动",
+            "E.\t左房增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t高血压心脏病的二维声像图特征是：",
+        "options": [
+            "A.\t双房增大",
+            "B.\t室间隔和（或）左室后壁增厚",
+            "C.\t主动脉瓣增厚，开放幅度增大",
+            "D.\t右室明显增大",
+            "E.\t左房室瓣增厚"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t某患者心肌梗死6个月，出现严重心绞痛，血 压140/90mmHg，心电图示ST段持续抬高，X线透 视可见心脏有反常搏动，超声心动图可能表现为：",
+        "options": [
+            "A.\t腔见大量液性暗区",
+            "B.\t室间隔回声中断，CDFI见该处有左向右分流",
+            "C.\t二尖瓣前叶呈连枷样运动",
+            "D.\t左房极度增大",
+            "E.\t梗死区心肌变薄，呈灯泡样向外膨出，与正常心 肌有一交界点，心动周期中呈矛盾运动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t直接引起左心后负荷加重的瓣膜病变为：",
+        "options": [
+            "A.\t二尖瓣狭窄",
+            "B.\t主动脉瓣关闭不全",
+            "C.\t主动脉瓣狭窄",
+            "D.\t二尖瓣关闭不全",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t“荡击征”是下列何种疾病的超声表现：",
+        "options": [
+            "A.\t大量心包积液",
+            "B.\t少量心包积液",
+            "C.\t心包钙化",
+            "D.\t心包囊肿",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t心脏摇摆征见于：",
+        "options": [
+            "A.\t法洛四联征",
+            "B.\t二尖瓣脱垂",
+            "C.\t左室流出道梗阻",
+            "D.\t心包积液",
+            "E.\t缩窄性心包炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t二尖瓣前叶细颤可见于：",
+        "options": [
+            "A.\t二尖瓣关闭不全",
+            "B.\t主动脉瓣关闭不全",
+            "C.\t三尖瓣关闭不全",
+            "D.\t二尖瓣脱垂",
+            "E.\t左室内径增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t房间隔缺损超声心动图的特征是：",
+        "options": [
+            "A.\t右室内径小",
+            "B.\t室间隔矛盾运动",
+            "C.\t房间隔回声失落",
+            "D.\t左房内径增大",
+            "E.\t左室内径增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t川崎病的特征性超声征象为：",
+        "options": [
+            "A.\t左房增大",
+            "B.\t左室增大",
+            "C.\t冠状动脉呈瘤样扩张",
+            "D.\t心包积液",
+            "E.\t二尖瓣反流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t室间隔异常运动和右室增大，是下列哪项的特 征：",
+        "options": [
+            "A.\t右心衰竭",
+            "B.\t左室压力负荷过重",
+            "C.\t右室容量负荷过重",
+            "D.\t右室压力负荷过重",
+            "E.\t左室容量负荷过重"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t心肌梗死后室壁瘤常发生在：",
+        "options": [
+            "A.\t左房",
+            "B.\t室间隔",
+            "C.\t心尖部",
+            "D.\t右室",
+            "E.\t左室底部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t心房纤颤在M型超声心动图上可出现：",
+        "options": [
+            "A.\tE峰消失",
+            "B.\tE峰和A峰呈现不清",
+            "C.\tE峰和A峰较正常人容易显示",
+            "D.\tA峰消失",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t黏液瘤好发于：",
+        "options": [
+            "A.\t左房",
+            "B.\t右房",
+            "C.\t左室",
+            "D.\t右室外E右室流出道",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t法洛四联征最具特征性的超声征象是：",
+        "options": [
+            "A.\t室间隔运动障碍",
+            "B.\t左室后壁运动减弱",
+            "C.\t主动脉瓣收缩期呈渐进性关闭",
+            "D.\t主动脉前壁与室间隔连续性中断，主动脉骑跨与 室间隔",
+            "E.\t房间隔回声失落"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t评价左室收缩功能的效率性指标是：",
+        "options": [
+            "A.\t每搏输出量",
+            "B.\t射血分数",
+            "C.\t左室短轴缩短率",
+            "D.\t左室周径纤维平均缩短速度",
+            "E.\t室壁收缩期增厚率"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t最常见的心脏肿瘤是：",
+        "options": [
+            "A.\t横纹肌肉瘤",
+            "B.\t心房黏液瘤",
+            "C.\t纤维瘤",
+            "D.\t错构瘤",
+            "E.\t间皮瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t奇脉最常见于：",
+        "options": [
+            "A.\t缩窄性心包炎",
+            "B.\t动脉导管未闭",
+            "C.\t室缺",
+            "D.\t房缺",
+            "E.\t二尖瓣狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t大血管畸形包括：①法洛四联征；②永存动脉 干；③大动脉转位；④右室双出口",
+        "options": [
+            "A.\t①+②+③+④",
+            "B.\t①+②+②",
+            "C.\t①",
+            "D.\t①+②",
+            "E.\t②"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 40
+    }
+]

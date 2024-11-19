@@ -1,0 +1,1122 @@
+[
+    {
+        "question_text": "1.\t介入放射学的概念中，下列选项中错误的是：",
+        "options": [
+            "A.\t介入放射学是以影像诊断为基础，医学影像诊断 设备作引导，利用介入器材对疾病进行诊断与治疗 的学科",
+            "B.\t介入放射学是通过临床与影像诊断结合进行微创 治疗的医学专业",
+            "C.\t介入放射医师是利用影像引导进行微创治疗的专 业临床医师",
+            "D.\t介入放射治疗是已经在许多方面取代了开放性手 术的现代医学",
+            "E.\t介入放射学是以影像诊断为主要任务的临床辅助 学科"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t第一个系统阐述了介入放射学概念，并形成共识 的学者是：",
+        "options": [
+            "A.\tMargulis",
+            "B.\tWallance",
+            "C.\tDotter",
+            "D.\tForssmann",
+            "E.\tSeldinger"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t介入放射学中最基本的技术“经皮穿刺动脉插管 术”的发明者是：",
+        "options": [
+            "A.\tAndreasGruntzig",
+            "B.\tCharlesDotter",
+            "C.\tAlexanderMargulis",
+            "D.\tWernerForssmann",
+            "E.\tSven—IvarSeldinger"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t堪称血管成形术之父，1964年首先发明同轴导 管的是：",
+        "options": [
+            "A.\tAndreasGruntzig",
+            "B.\tCharlesDotter",
+            "C.\tAlexanderMargulis",
+            "D.\tWernerForssmann",
+            "E.\tSven—IvarSeldinger"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 4
+    },
+    {
+        "question_text": "5.1977年首先使用双腔球囊导管进行冠状动脉成 形术的是：",
+        "options": [
+            "A.\tAndreasGruntzig",
+            "B.\tCharlesDotter",
+            "C.\tAlexanderMargulis",
+            "D.\tWernerForssmann",
+            "E.\tSven—IvarSeldinger"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t在介入血管造影中，常使用血管活性药物提高造 影诊断的准确性。下面药物中，不是血管扩张剂的 是：",
+        "options": [
+            "A.\t罂粟碱",
+            "B.\t前列腺素",
+            "C.\t肾上腺素",
+            "D.\t妥拉苏林",
+            "E.\t缓激肽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t介入治疗中常用的抗凝药物是：",
+        "options": [
+            "A.\t低分子肝素",
+            "B.\t鱼精蛋白",
+            "C.\t阿司匹林",
+            "D.\t肝素钠",
+            "E.\t华法林钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t下面的药物中不是溶栓药物的是：",
+        "options": [
+            "A.\t双香豆素",
+            "B.\t尿激酶",
+            "C.\t组织纤溶酶原激活因子",
+            "D.\t链激酶",
+            "E.\t冬凌克栓酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t肿瘤介入常用的抗肿瘤药中，细胞周期特异性药 物是：",
+        "options": [
+            "A.\t顺铂",
+            "B.\t表阿霉素",
+            "C.\t环磷酰胺",
+            "D.\t5-FU",
+            "E.\t丝裂霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t介入放射学按照介入治疗的方法进行分类，应 分为：",
+        "options": [
+            "A.\t穿刺术",
+            "B.\t肿瘤介入",
+            "C.\t灌注术",
+            "D.\t栓塞术",
+            "E.\t成形术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t根据治疗领域分类，下列手术中不属于血管系 统介入放射学的是：",
+        "options": [
+            "A.\t颅内动脉瘤电解式可脱弹簧圈栓塞术",
+            "B.\t原发性肝癌化疗栓塞术",
+            "C.\t下腔静脉滤器置入术",
+            "D.\t原发性肝癌射频消融术",
+            "E.\tTIPSS 术"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下列关于经导管动脉栓塞术治疗的机制中，不 正确的是：",
+        "options": [
+            "A.\t阻塞靶血管，使肿瘤或靶器官造成缺血、坏死",
+            "B.\t提高病变局部的药物浓度，可以增强治疗效果， 减少药物对全身的不良反应",
+            "C.\t阻塞或破坏异常血管床、腔隙或通道使血流动力 学恢复正常",
+            "D.\t阻塞血管使之压力下降利于止血",
+            "E.\t血管内封堵破裂的血管利于止血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下列选项中，不符合介入术放射学中使用的栓 塞物质的说法是：",
+        "options": [
+            "A.\t能顺利通过导管注入",
+            "B.\t无毒或低毒",
+            "C.\t人体组织相容性好，不产生排斥反应",
+            "D.\t能够短时间内被吸收或代谢",
+            "E.\t无致畸和致癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t根据药代动力学原理，药物经过静脉注入体内 后的分布为：",
+        "options": [
+            "A.\t1期",
+            "B.\t2期",
+            "C.\t3期",
+            "D.\t4期",
+            "E.\t5期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t药物经动脉注入后，药物分布I相（吸收期） 中，关于靶器官内药物分布量叙述中正确的是：",
+        "options": [
+            "A.\t受到药物脂溶性和蛋白结合性的影响",
+            "B.\t受到血压和心率的影响",
+            "C.\t不受血流分布的影响",
+            "D.\t受到血流分布的影响",
+            "E.\t是全身药物分布量最大的器官"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t药物经动脉注入血管后，下列叙述中正确的 是：",
+        "options": [
+            "A.\t能够很快和血液混合均匀",
+            "B.\t药物能在血柱的上层流动",
+            "C.\t药物能在血柱的下层流动",
+            "D.\t药物能在血柱的中层流动",
+            "E.\t患者卧位时，药物优先进入向背侧开口的血管分 支"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t下列选项不是球囊血管成形术的治疗机制的是：",
+        "options": [
+            "A.\t血管壁内一中膜局限性撕裂",
+            "B.\t中膜组织的过度伸展",
+            "C.\t动脉粥样硬化斑撕裂",
+            "D.\t血管外膜部分性损伤",
+            "E.\t控制性损伤学说是球囊血管成形术的治疗机制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t血管支架扩张血管的机制中，下列叙述正确的 是：",
+        "options": [
+            "A.\t目前血管支架是使狭窄血管管腔扩张的主要手段",
+            "B.\t血管支架置入后，容易刺激动脉粥样斑块形成",
+            "C.\t血管支架置入后，分支血管口不发生阻塞",
+            "D.\t血管支架置入后，狭窄血管不会发生再狭窄",
+            "E.\t血管支架成形术后血管再狭窄的几率比球囊扩张 血管成形术后再狭窄几率高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t关于肾血管性高血压的形成机制，下列叙述错 误的是：",
+        "options": [
+            "A.\t肾动脉狭窄造成肾灌注压降低，刺激肾素分泌量 增加",
+            "B.\t肾素转化为血管紧张素I",
+            "C.\t血管紧张素I在水解酶的作用下转化为血管紧张 素II",
+            "D.\t血管紧张素I刺激肾上腺皮质分泌醛固酮，造成 水钠潴留，使血压进一步升高",
+            "E.\t血管紧张素II刺激肾上腺皮质分泌醛固酮，造成 水钠潴留，使血压进一步升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下面影像设备在血管系统介入放射学最常用的 是：",
+        "options": [
+            "A.\t彩色多普勒",
+            "B.\t多排螺旋CT机",
+            "C.\tDSA 机",
+            "D.\t开放型MR机",
+            "E.\t电视透视"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t穿刺活检术常用的导引设备是：",
+        "options": [
+            "A.\tB超",
+            "B.\tCT 机",
+            "C.\tDSA 机",
+            "D.\t开放型MR机",
+            "E.\t电视透视机"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t介入手术中，通常描述导丝直径的单位是：",
+        "options": [
+            "A.\t厘米",
+            "B.\t毫米",
+            "C.\tGauge",
+            "D.\tFrench",
+            "E.\t英寸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t介入手术中，通常描述穿刺针直径的单位是：",
+        "options": [
+            "A.\t厘米",
+            "B.\t毫米",
+            "C.\tGauge",
+            "D.\tFrench",
+            "E.\t英寸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t介入手术中，通常描述导管直径的单位是：",
+        "options": [
+            "A.\t厘米",
+            "B.\t毫米",
+            "C.\tGauge",
+            "D.\tFrench",
+            "E.\t英寸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t下列选项不是介入治疗前术前的常规准备项目 的是：",
+        "options": [
+            "A.\t术前禁食4h",
+            "B.\t血常规和凝血功能检查",
+            "C.\t肝功能、生化、电解质检查",
+            "D.\tCT或MR检查",
+            "E.\t术前谈话，患者或家属在治疗同意书上签字"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t股动脉穿刺插管术后，通常穿刺点压迫多长时 间后局部加压包扎：",
+        "options": [
+            "A.\t3 ?5min",
+            "B.\t5 ?8min",
+            "C.\t6 ?10min",
+            "D.\t10 ?15min",
+            "E.\t15 ?20min"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t股动脉穿刺插管术后的处理中，下列选项中不 正确的是：",
+        "options": [
+            "A.\t术后观察穿刺点有无出血",
+            "B.\t穿刺侧下肢制动8h",
+            "C.\t穿刺侧下肢制动24h",
+            "D.\t观察下肢皮肤温度与足背动脉搏动情况",
+            "E.\t24h后患者可下床活动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t经皮经肝胆道引流术的适应证中，下列选项中 正确的是：",
+        "options": [
+            "A.\t肝内胆管扩张NlOmm，血清胆红素〉120 nmol / L",
+            "B.\t肝内胆管扩张N3mm，血清胆红素＞170 nmol / L",
+            "C.\t血清胆红素升高以间接胆红素升高尤为严重时",
+            "D.\t大量腹水",
+            "E.\t全身极度衰弱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t下列情况下不是肾盂造痿术的适应证的是：",
+        "options": [
+            "A.\t解除尿路梗阻所致的肾盂肾盏扩张",
+            "B.\t输尿管痿做上段分流",
+            "C.\t结核性肾积水",
+            "D.\t肾盂输尿管的刷片活检",
+            "E.\t诊断尿路梗阻的原因和部位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t下列选项中，不是富血管肿瘤动脉造影的典型 表现的是：",
+        "options": [
+            "A.\t肿瘤供血动脉增粗",
+            "B.\t肿瘤内可见到排列紊乱、增生的新生血管",
+            "C.\t肿瘤内可见异常引流静脉，动静脉痿",
+            "D.\t肿瘤染色",
+            "E.\t邻近血管被推移包绕"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t下列选项中，不是部分脾动脉栓塞术适应证的 是：",
+        "options": [
+            "A.\t脾功能亢进",
+            "B.\t地中海贫血",
+            "C.\t特发性血小板减少性紫瘢",
+            "D.\t门静脉高压引起的上消化道大出血",
+            "E.\t脾破裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t部分脾动脉栓塞术如果过量栓塞，最容易引发 的并发症是：",
+        "options": [
+            "A.\t腹腔出血",
+            "B.\t白细胞下降",
+            "C.\t血小板升高",
+            "D.\t黄疸",
+            "E.\t脾脓肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t下列栓塞剂中，最容易造成靶器官组织缺血坏 死的是：",
+        "options": [
+            "A.\t明胶海绵",
+            "B.\t弹簧圈",
+            "C.\t可脱球囊",
+            "D.\t无水乙醇",
+            "E.\t超液化碘油"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t下列栓塞剂中，哪一种不是永久栓塞剂：",
+        "options": [
+            "A.\t明胶海绵",
+            "B.\t弹簧圈",
+            "C.\t可脱球囊",
+            "D.\t无水乙醇",
+            "E.\t碘化油化疗药物乳剂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t下列哪项不是液体栓塞剂：",
+        "options": [
+            "A.\t碘化油化疗药物乳剂",
+            "B.\t无水乙醇",
+            "C.\t鱼肝油酸钠",
+            "D.\t泡沫聚乙烯醇",
+            "E.\t组织胶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t介入性栓塞术可用于以下情况，不适宜的是：",
+        "options": [
+            "A.\t产后大出血",
+            "B.\t肾挫伤",
+            "C.\t胃冠状静脉出血",
+            "D.\t蛛网膜下隙出血",
+            "E.\t脑实质内出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t恶性肿瘤适应做动脉栓塞治疗的，不是适应证 的是：",
+        "options": [
+            "A.\t原发性肝细胞性肝癌",
+            "B.\t原发性胆管细胞性肝癌",
+            "C.\t肾脏肿瘤",
+            "D.\t肾上腺肿瘤",
+            "E.\t盆腔恶性富血管性肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t下列恶性肿瘤中不能进行栓塞治疗的是：",
+        "options": [
+            "A.\t原发性肝细胞肝癌",
+            "B.\t肾上腺癌",
+            "C.\t盆腔富血管性恶性肿瘤",
+            "D.\t颌面部恶性肿瘤",
+            "E.\t大脑星性胶质瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t良性肿瘤适应做动脉栓塞治疗，以下选项中不 属于适应证的是：",
+        "options": [
+            "A.\t脑膜瘤",
+            "B.\t鼻咽纤维血管瘤",
+            "C.\t颈动脉球瘤",
+            "D.\t小肠平滑肌瘤",
+            "E.\t症状性子宫肌瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t关于栓塞后并发症的叙述中，不正确的是：",
+        "options": [
+            "A.\t栓塞后并发症是术后不希望发生的症状或体征",
+            "B.\t误栓的后果与被误栓的器官的重要性和误栓的程 度有关",
+            "C.\t栓塞后出现的发热是正常现象，不属栓塞后并发 症",
+            "D.\t过度栓塞是引起栓塞后并发症的原因之一",
+            "E.\t误栓分为反流性误栓和顺流性误栓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t动脉药物灌注术中，选择化疗药物时，下列叙 述不正确的是：",
+        "options": [
+            "A.\t细胞周期特异性药物对癌细胞的杀伤作用较弱且 缓慢",
+            "B.\t细胞周期非特异性药物对癌细胞的杀伤作用较强 烈",
+            "C.\t细胞周期非特异性药物为剂量依赖型，适宜一次 性冲击性动脉灌注化疗",
+            "D.\t细胞周期特异性药物为剂量依赖型，适宜一次性 冲击性动脉灌注化疗",
+            "E.\t动脉灌注化疗术中，应该联合应用不同种类的化 疗药物，以提咼疗效"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t局部灌注溶拴药物治疗血栓形成性疾病时，需 要监测凝血酶原时间，当凝血酶原时间延长至正常 的几倍时，应该停止减慢溶栓剂的注入速度或停止 溶栓：",
+        "options": [
+            "A.\tO.5 倍",
+            "B.\t1倍",
+            "C.\t2倍",
+            "D.\t4倍",
+            "E.\t8倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t下列溶栓药物中，溶栓药物对血栓作用的选择 性最好，溶栓并发症少的是：",
+        "options": [
+            "A.\t蝮蛇抗栓酶",
+            "B.\t尿激酶",
+            "C.\t组织纤溶酶原激活因子",
+            "D.\t链激酶",
+            "E.\t冬凌克栓酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t下列溶栓药物中，目前临床最为常用的是：",
+        "options": [
+            "A.\t蝮蛇抗栓酶",
+            "B.\t尿激酶",
+            "C.\t组织纤溶酶原激活因子",
+            "D.\t链激酶",
+            "E.\t冬凌克栓酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t下列溶栓药物中，溶栓药物过敏反应发生率高，临床现已很少使用的是：",
+        "options": [
+            "A.\t蝮蛇抗栓酶",
+            "B.\t尿激酶",
+            "C.\t组织纤溶酶原激活因子",
+            "D.\t链激酶",
+            "E.\t冬凌克栓酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t下列选项中，不是经皮经腔血管成形术适应证 的一项是：",
+        "options": [
+            "A.\t动脉粥样硬化引起的有血流动力学意义的血管狭 窄",
+            "B.\t血管搭桥术后所致的吻合口狭窄及移植血管狭窄",
+            "C.\t肾动脉狭窄所致的继发性高血压",
+            "D.\t动脉狭窄段合并有溃疡或钙化者",
+            "E.\t血管肌性发育不良所致的局限性狭窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t下列选项中，不是经皮经腔血管成形术常见并 发症的一项是：",
+        "options": [
+            "A.\t穿刺部位血肿",
+            "B.\t动脉瘤形成",
+            "C.\t空气栓塞",
+            "D.\t血栓形成",
+            "E.\t血管壁破裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t布加综合征的概念，下列选项中叙述不正确的 是：",
+        "options": [
+            "A.\t下腔静脉肝段发生的阻塞",
+            "B.\t可以合并有肝静脉或者不合并有肝静脉的阻塞",
+            "C.\t通常合并肾静脉狭窄，肾功能受到影响",
+            "D.\t下腔静脉阻塞可以有膜形或节段形",
+            "E.\t肝静脉狭窄时，可以出现门静脉高压症状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t布加综合征通常分为：",
+        "options": [
+            "A.\t2型",
+            "B.\t3型",
+            "C.\t4型",
+            "D.\t5型",
+            "E.\t6型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t布加综合征的临床表现中，不正确的一项是：",
+        "options": [
+            "A.\t以青壮年多见，男性多于女性",
+            "B.\t以中老年多见，女性多于男性",
+            "C.\t腹痛、腹胀、黄疸、腹水、肝脾肿大等门静脉高 压的症状和体征",
+            "D.\t双下肢肿胀",
+            "E.\t活动后常感心悸、气短"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t肾动脉球囊扩张成形术的适应证中，下列叙述 正确的一项是：",
+        "options": [
+            "A.\t理想的适应证是单侧肾动脉长段、单发、无钙化 的狭窄，狭窄程度大于50%",
+            "B.\t理想的适应证是单侧肾动脉短段、单发、无钙化 的狭窄，狭窄程度大于70%",
+            "C.\t理想的适应证是单侧肾动脉短段、多发、无钙化 的狭窄，狭窄程度大于70%",
+            "D.\t理想的适应证是单侧肾动脉短段、多发、无钙化 的狭窄，狭窄程度大于50%",
+            "E.\t大动脉炎症活动期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t肾动脉支架扩张成形术的适应证中，下列叙述 正确的是：",
+        "options": [
+            "A.\t理想的适应证是单侧肾动脉长段、单发、无钙化 的狭窄，狭窄程度大于50%",
+            "B.\t理想的适应证是单侧肾动脉短段、单发、无钙化 的狭窄，狭窄程度大于70%",
+            "C.\t理想的适应证是单侧肾动脉短段、多发、无钙化 的狭窄，狭窄程度大于70%",
+            "D.\t大动脉炎活动期",
+            "E.\t年龄较小的少儿患者"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t下列途径中是介人手术中最常用的穿刺途径的 是：",
+        "options": [
+            "A.\t桡动脉",
+            "B.\t肱动脉",
+            "C.\t股动脉",
+            "D.\t颈总动脉",
+            "E.\t锁骨下动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t下列器材中，不在血管系统介入手术中使用的 是：",
+        "options": [
+            "A.\t穿刺针",
+            "B.\t导丝",
+            "C.\t导管鞘",
+            "D.\t内涵管",
+            "E.\t金属支架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t在介入灌注与栓塞术中，下列介入器材中的常 规器材是：",
+        "options": [
+            "A.\t同轴导管系统",
+            "B.\t灌注导丝",
+            "C.\tPCS",
+            "D.\t微导管",
+            "E.\t球囊阻塞导管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t下列造影剂中，离子型造影剂是：",
+        "options": [
+            "A.\t优维显",
+            "B.\t欧乃派克",
+            "C.\t泛影葡胺",
+            "D.\tCO2",
+            "E.\t碘化油"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t碘剂过敏的患者需要行血管造影，可以替代以：",
+        "options": [
+            "A.\t优维显",
+            "B.\t欧乃派克",
+            "C.\t泛影葡胺",
+            "D.\tCO2",
+            "E.\t碘化油"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t选择性腹腔干动脉造影中，下列动脉中不会显 影的是：",
+        "options": [
+            "A.\t胃左动脉",
+            "B.\t肝总动脉",
+            "C.\t脾动脉",
+            "D.\t肠系膜上动脉",
+            "E.\t胃右动脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t血管内药物灌注术理论依据及适应证的描述 中，不正确的是：",
+        "options": [
+            "A.\t血管内药物灌注术注重药物的局部效应，使药物 直接作用于病变的局部",
+            "B.\t提高病变局部的药物浓度，可以增强治疗效果， 减少药物对全身的不良反应",
+            "C.\t治疗肝、脾、肾、消化道及盆腔脏器的出血",
+            "D.\t尿激酶灌注溶栓的风险比全身静脉溶栓的风险明 显降低",
+            "E.\t转移性肿瘤的治疗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t原发性肝癌，下列情况下适宜进行肝动脉栓塞 治疗的是：",
+        "options": [
+            "A.\t大量腹水",
+            "B.\t门静脉主干有癌栓，没有明显的门静脉侧支循环 形成",
+            "C.\t血清胆红素大于50 〃mol / L",
+            "D.\t肝脏肿瘤体积巨大，占据肝脏体积的40%，肝 功能ChildB级",
+            "E.\t弥漫性少血供型肝癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t原发性肝癌进行肝动脉栓塞治疗时常用的栓塞 剂是：",
+        "options": [
+            "A.\t碘化油化疗药物乳剂",
+            "B.\tPVA",
+            "C.\t无水乙醇",
+            "D.\t明胶海绵",
+            "E.\t金属弹簧圈"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t外伤性肾挫伤做肾动脉栓塞止血，通常选用的 栓塞物质是：",
+        "options": [
+            "A.\t碘化油化疗药物乳剂",
+            "B.\tPVA",
+            "C.\t无水乙醇",
+            "D.\t明胶海绵",
+            "E.\t金属弹簧圈"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 62
+    },
+    {
+        "question_text": "63.\t外伤性肾挫伤合并假性动脉瘤形成，通常选用 的栓塞物质是：",
+        "options": [
+            "A.\t碘化油化疗药物乳剂",
+            "B.\tPVA",
+            "C.\t无水乙醇",
+            "D.\t明胶海绵",
+            "E.\t金属弹簧圈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t症状性子宫肌瘤介入治疗时通常采用的栓塞剂 是：",
+        "options": [
+            "A.\t碘化油化疗药物乳剂",
+            "B.\tPVA",
+            "C.\t无水乙醇",
+            "D.\t明胶海绵",
+            "E.\t金属弹簧圈"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 64
+    },
+    {
+        "question_text": "65.\t血管内金属支架的材料与类型描述，哪项不正 确：",
+        "options": [
+            "A.\t根据制作材料分为不锈钢支架、镍钛合金支架和 内涵管",
+            "B.\t根据展开的方式分为自膨式支架和球扩式",
+            "C.\t根据表面处理情况分为裸露型、涂层型和覆膜型",
+            "D.\t按照功能分为单纯支撑型和治疗型",
+            "E.\t根据制作工艺分为编织型和激光切割型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 65
+    },
+    {
+        "question_text": "66.\t下列选项不是血管内金属支架成形术的适应证 的是：",
+        "options": [
+            "A.\t骼动脉、股动脉、冠状动脉、肾动脉、肺动脉、 腔静脉、主动脉狭窄性疾病",
+            "B.\t偏心性狭窄等不适宜做单纯球囊扩张成形术者",
+            "C.\t经皮腔内球囊扩张成形术后再狭窄或者急性闭塞 以及发生动脉痉挛者",
+            "D.\t经皮腔内球囊扩张成形术后，为预防再狭窄或急 性闭塞时",
+            "E.\t广泛的末梢血管狭窄"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 66
+    },
+    {
+        "question_text": "67.\t下面对球囊血管成形术后再狭窄的描述，不正 确的是：",
+        "options": [
+            "A.\tPTA后再狭窄分为急性血管闭塞、早期再狭窄、 晚期再狭窄",
+            "B.\t早期再狭窄是PTA后1年内发生的再狭窄",
+            "C.\t早期再狭窄是PTA后1个月内发生的再狭窄",
+            "D.\t急性血管闭塞是指操作成功，但PTA后立刻或不 久发生血管闭塞",
+            "E.\tPTA后再狭窄总平均发生率约为30%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 67
+    },
+    {
+        "question_text": "68.\t下列关于血管成形术后再狭窄防治措施的描 述，不正确的是：",
+        "options": [
+            "A.\tPTA后再狭窄确切机制尚不清楚",
+            "B.\t抗血栓形成、抗平滑肌细胞增生和放射治疗是目 前的三大措施",
+            "C.\t防止血栓形成是防治再狭窄的重要环节",
+            "D.\t抗平滑肌细胞增生的基因治疗目前还没有进入临 床",
+            "E.\t在防治PTA后血管再狭窄时，体外照射治疗比体 内照射效果好"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 68
+    },
+    {
+        "question_text": "69.\t球囊血管成形术后再狭窄机制中，不是导致血 管急性闭塞的原因的是：",
+        "options": [
+            "A.\t内-中膜撕裂",
+            "B.\t内膜剥离",
+            "C.\t血管痉挛",
+            "D.\t血栓形成",
+            "E.\t血管破裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 69
+    },
+    {
+        "question_text": "70.\t下列哪种不是理想静脉滤器的特征：",
+        "options": [
+            "A.\t能够阻止较大的血栓块通过",
+            "B.\t不影响正常的血流",
+            "C.\t置放容易",
+            "D.\t置人后滤器稳定，不移位",
+            "E.\t滤器网孔越密越好"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 70
+    },
+    {
+        "question_text": "71.\t功能性胰岛细胞腺瘤需要采血检查，采血导管 的位置叙述不正确的是：",
+        "options": [
+            "A.\t门静脉主干远端",
+            "B.\t门静脉主干近端",
+            "C.\t肠系膜上静脉",
+            "D.\t肠系膜下静脉",
+            "E.\t脾静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 71
+    },
+    {
+        "question_text": "72.\t以下选项中，不是PTCD手术的禁忌证的是：",
+        "options": [
+            "A.\t有明显的出血征象",
+            "B.\t大量腹水",
+            "C.\t肝功能衰竭",
+            "D.\t碘剂过敏",
+            "E.\t胰腺十二指肠区恶性肿瘤侵犯、压迫了胆总管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 72
+    },
+    {
+        "question_text": "73.\t有关Seldinger穿刺法的叙述，不正确的是：",
+        "options": [
+            "A.\t穿刺前局部麻醉时，要先做皮内麻醉",
+            "B.\t尖刀片挑开皮肤2mm,穿刺针斜面朝向上",
+            "C.\t30。?40。快速穿透血管前后壁，退出针心，缓 慢退针至见血液从针尾射出",
+            "D.\t30°?40°缓慢穿透血管前壁，见血液从针尾射 出",
+            "E.\t引入导丝，退针置鞘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 73
+    },
+    {
+        "question_text": "74.\t经导管药物灌注化疗有以下几种方法，能够兼 顾提高靶器官局部药物浓度并能延长药物作用时 间，减少正常组织药物接受量的方法是：",
+        "options": [
+            "A.\t一次冲击性动脉内药物灌注术",
+            "B.\t动脉阻滞化疗",
+            "C.\t导管留置长期药物灌注",
+            "D.\t经皮导管药盒系统植入术",
+            "E.\t降主动脉内药物灌注"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 74
+    },
+    {
+        "question_text": "75.\t关于输卵管成形术，下列叙述不正确的一项 是：",
+        "options": [
+            "A.\t输卵管再通适用于输卵管阻塞者",
+            "B.\t壶腹部远端、伞端组织不宜进行再通术",
+            "C.\t子宫角部严重闭塞者、结核性输卵管炎不宜进行 再通术",
+            "D.\t金属支架成形术可用于输卵管局限性狭窄的治疗",
+            "E.\t输卵管再通后要继续给予药物性通水，维持输卵 管通畅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 75
+    },
+    {
+        "question_text": "76.\t下列消化道哪个部位还不能进行管腔成形术的 介入治疗：",
+        "options": [
+            "A.\t食管",
+            "B.\t胃",
+            "C.\t十二指肠",
+            "D.\t空肠",
+            "E.\t直肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 76
+    },
+    {
+        "question_text": "77.\t食管狭窄金属支架成形术不适宜：",
+        "options": [
+            "A.\t食管癌晚期",
+            "B.\t年龄偏小的儿童食管化学性烧伤",
+            "C.\t食管气管痿的病人",
+            "D.\t食管肿瘤术后复发病人",
+            "E.\t贲门癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 77
+    },
+    {
+        "question_text": "78.\t下列选项不属于介入治疗非血管管腔成形术范 围：",
+        "options": [
+            "A.\t胆道成形术",
+            "B.\t鼻泪管成形术",
+            "C.\t泌尿道成形术",
+            "D.\t消化道成形术",
+            "E.\t椎管成形术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 78
+    },
+    {
+        "question_text": "79.\tTIPSS手术主要用于：",
+        "options": [
+            "A.\t原发性肝癌",
+            "B.\t阻塞性黄疸",
+            "C.\t肝硬化、门静脉高压",
+            "D.\t下消化道出血",
+            "E.\t脾功能亢进"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 79
+    },
+    {
+        "question_text": "80.\t下列操作步骤不是TIPSS手术中的必须步骤：",
+        "options": [
+            "A.\t经股静脉穿刺",
+            "B.\t经颈内静脉穿刺",
+            "C.\t肝静脉造影后经肝静脉向门静脉穿刺",
+            "D.\t门静脉造影后，引入球囊导管扩张分流道",
+            "E.\t分流道扩张后，留置支架，支架置放成功后，再 次做门静脉造影"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "80",
+        "number": 80
+    }
+]

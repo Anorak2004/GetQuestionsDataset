@@ -1,0 +1,156 @@
+[
+    {
+        "question_text": "1.正常成人脾厚径不超过：",
+        "options": [
+            "A.2cm",
+            "B.3cm",
+            "C.4cm",
+            "D.5cm",
+            "E.6cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 1
+    },
+    {
+        "question_text": "2.正常成人脾长径不超过：",
+        "options": [
+            "A.6cm",
+            "B.8cm",
+            "C.l0cm",
+            "D.12cm",
+            "E.14cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常脾静脉的内径为：",
+        "options": [
+            "A.2～4mm",
+            "B.3～5mm",
+            "C.5～7mm",
+            "D.7～11mm",
+            "E.8～12mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 3
+    },
+    {
+        "question_text": "4.副脾是类圆形低回声团块，可以单个或多个，最常见的位置在：",
+        "options": [
+            "A.脾门",
+            "B.胰尾部",
+            "C.脾上缘",
+            "D.脾下缘",
+            "E.左肾上极"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 4
+    },
+    {
+        "question_text": "5.腹腔脏器中，最易在外伤中破裂的器官是：",
+        "options": [
+            "A.肝",
+            "B.脾",
+            "C.肾",
+            "D.胰",
+            "E.胃"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 5
+    },
+    {
+        "question_text": "6.真性脾破裂是指：",
+        "options": [
+            "A.脾包膜下可见血肿",
+            "B.脾实质内血肿",
+            "C.脾实质和包膜同时破裂，可见腹腔积液，包膜回声中断，可同时存在脾实质和包膜下血肿",
+            "D.脾周血肿",
+            "E.脾内液实相间肿块"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列脾脏良性肿瘤中，最常见的是：",
+        "options": [
+            "A.纤维瘤",
+            "B.错构瘤",
+            "C.组织细胞瘤",
+            "D.血管瘤",
+            "E.脂肪瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列脾脏恶性肿瘤中，最常见的是：",
+        "options": [
+            "A.恶性淋巴瘤",
+            "B.转移性瘤",
+            "C.纤维肉瘤",
+            "D.组织细胞瘤",
+            "E.血管内皮细胞肉瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t脾梗死声像图是：①病变常位于近脾门处，呈楔 形或不规则形，基底较宽，有时直达脾包膜，常呈 低回声；②病变内无血供；③病变内可出现钙化的 强回声，或坏死出现无回声区；④伴有腹水",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t横膈与脾脏之间出现液性暗区，最常见于：",
+        "options": [
+            "A.\t胸腔积液",
+            "B.\t包膜下血肿",
+            "C.\t肾周积血",
+            "D.\t膈下脓肿",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t充血性脾肿大常见的原因是：",
+        "options": [
+            "A.\t脾结核",
+            "B.\t脾肿瘤",
+            "C.\t肝硬化",
+            "D.\t玻璃样变",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 11
+    }
+]

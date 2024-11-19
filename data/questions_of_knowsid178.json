@@ -1,0 +1,1136 @@
+[
+    {
+        "question_text": "1.根据血红蛋白量，成人贫血的诊断标准是：",
+        "options": [
+            "A.男性＜140g/L，女性＜130g/L",
+            "B.男性＜130g/L，女性＜120g/L",
+            "C.男性＜120g/L，女性＜110g/L",
+            "D.男性＜110g/L，女性＜100g/L",
+            "E.男性＜100g/L，女性＜90g/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 1
+    },
+    {
+        "question_text": "2.成年女性轻度贫血标准：",
+        "options": [
+            "A.＜120g/L",
+            "B.＜110g/L",
+            "C.＜100g/L",
+            "D.90g/L",
+            "E.80g/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 2
+    },
+    {
+        "question_text": "3.重度贫血是指减低至：",
+        "options": [
+            "A.90g/L",
+            "B.60-90g/L",
+            "C.30-60g/L",
+            "D.＜30g/L",
+            "E.＜15g/L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 3
+    },
+    {
+        "question_text": "4.海洋性贫血引起的红细胞形态异常为：",
+        "options": [
+            "A.嗜碱点彩RBC",
+            "B.球形RBC",
+            "C.RBC缗钱状改变",
+            "D.镰形RBC",
+            "E.靶形RBC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 4
+    },
+    {
+        "question_text": "5.溶血性贫血时不会见到的现象是：",
+        "options": [
+            "A.较多的点彩红细胞",
+            "B.有核红细胞",
+            "C.网织红细胞",
+            "D.显著的缗钱状形成",
+            "E.红细胞寿命缩短"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列除哪项外，均出现于增生性贫血血象中？",
+        "options": [
+            "A.染色质小体",
+            "B.Cabot环",
+            "C.镰刀红细胞",
+            "D.嗜多色性红细胞",
+            "E.点彩红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 6
+    },
+    {
+        "question_text": "7.缺铁性贫血治疗后，多少天网织红细胞增加达高峰？",
+        "options": [
+            "A.5-8天",
+            "B.6-9天",
+            "C.7-10天",
+            "D.8-11天",
+            "E.9-12天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 7
+    },
+    {
+        "question_text": "8.缺铁性贫血患者治疗后可见红细胞及网织红细胞的变化是：",
+        "options": [
+            "A.红细胞升高在网织红细胞之前",
+            "B.红细胞升高在网织红细胞之后",
+            "C.红细胞与网织红细胞同时升高",
+            "D.网织红细胞降低，红细胞升高",
+            "E.红细胞与网织红细胞均不升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 8
+    },
+    {
+        "question_text": "9.网织红细胞绝对值低于多少乘以10的9次方为诊断再障的指标：",
+        "options": [
+            "A.10",
+            "B.15",
+            "C.20",
+            "D.25",
+            "E.30"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 9
+    },
+    {
+        "question_text": "10.经治疗后，网织红细胞不升高的贫血是：",
+        "options": [
+            "A.蚕豆病",
+            "B.营养不良性贫血",
+            "C.再生障碍性贫血",
+            "D.铁粒幼细胞贫血",
+            "E.缺铁性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 10
+    },
+    {
+        "question_text": "11.急性溶血性贫血的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV101fl，MCH35pg，MCHC36％，网织红细胞数正常",
+            "B.MCV78fl，MCH26pg，MCHC32％，网织红细胞数正常",
+            "C.MCV85fl，MCH28pg，MCHC33％，网织红细胞数降低",
+            "D.MCV65fl，MCH24pg，MCHC27％，网织红细胞数正常",
+            "E.MCV90fl，MCH30pg，MCHC32％，网织红细胞数增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 11
+    },
+    {
+        "question_text": "12.再生障碍性贫血的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV101fl，MCH35pg，MCHC36％，网织红细胞数正常",
+            "B.MCV78fl，MCH26pg，MCHC32％，网织红细胞数正常",
+            "C.MCV85fl，MCH28pg，MCHC33％，网织红细胞数降低",
+            "D.MCV65fl，MCH24pg，MCHC27％，网织红细胞数正常",
+            "E.MCV90fl，MCH30pg，MCHC32％，网织红细胞数增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 12
+    },
+    {
+        "question_text": "13.慢性感染性贫血的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV101fl，MCH35pg，MCHC36％，网织红细胞数正常",
+            "B.MCV78fl，MCH26pg，MCHC32％，网织红细胞数正常",
+            "C.MCV85fl，MCH28pg，MCHC33％，网织红细胞数降低",
+            "D.MCV65fl，MCH24pg，MCHC27％，网织红细胞数正常",
+            "E.MCV90fl，MCH30pg，MCHC32％，网织红细胞数增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 13
+    },
+    {
+        "question_text": "14.缺铁性贫血的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV101fl，MCH35pg，MCHC36％，网织红细胞数正常",
+            "B.MCV78fl，MCH26pg，MCHC32％，网织红细胞数正常",
+            "C.MCV85fl，MCH28pg，MCHC33％，网织红细胞数降低",
+            "D.MCV65fl，MCH24pg，MCHC27％，网织红细胞数正常",
+            "E.MCV90fl，MCH30pg，MCHC32％，网织红细胞数增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 14
+    },
+    {
+        "question_text": "15.巨幼细胞性贫血的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV101fl，MCH35pg，MCHC36％，网织红细胞数正常",
+            "B.MCV78fl，MCH26pg，MCHC32％，网织红细胞数正常",
+            "C.MCV85fl，MCH28pg，MCHC33％，网织红细胞数降低",
+            "D.MCV65fl，MCH24pg，MCHC27％，网织红细胞数正常",
+            "E.MCV90fl，MCH30pg，MCHC32％，网织红细胞数增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 15
+    },
+    {
+        "question_text": "16.小细胞低色素贫血时红细胞平均值的主要特征为",
+        "options": [
+            "A.MCV＞100fl，MCH＞31pg，MCHC32-36％",
+            "B.MCV82-95fl，MCH27-31pg，MCHC32-36％",
+            "C.MCV＜80fl，MCH＜27pg，MCHC＜32％",
+            "D.MCV＜80fl，MCH＜27pg，MCHC32-36％",
+            "E.MCV＜80fl，MCH＞31pg，MCHC＜32％"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 16
+    },
+    {
+        "question_text": "17.MCHC正常，MCV及MCH均大于正常，其贫血原因为：",
+        "options": [
+            "A.急性溶血性贫血",
+            "B.慢性失血性贫血",
+            "C.急性失血性贫血",
+            "D.营养性巨幼细胞性贫血",
+            "E.缺铁性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 17
+    },
+    {
+        "question_text": "18.MCV、MCH、MCHC均小于正常，其贫血原因为：",
+        "options": [
+            "A.感染性贫血",
+            "B.白血病所致贫血",
+            "C.慢性失血性贫血",
+            "D.再生障碍性贫血",
+            "E.急性失血性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 18
+    },
+    {
+        "question_text": "19.大细胞均一性贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 19
+    },
+    {
+        "question_text": "20.正常细胞非均一性贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 20
+    },
+    {
+        "question_text": "21.小细胞非均一性贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 21
+    },
+    {
+        "question_text": "22.急性失血性贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 22
+    },
+    {
+        "question_text": "23.巨幼细胞贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 23
+    },
+    {
+        "question_text": "24.缺铁性贫血时红细胞相关参数特点是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 24
+    },
+    {
+        "question_text": "25.骨髓增生异常综合征的红细胞相关参数特征是：",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 25
+    },
+    {
+        "question_text": "26.阵发性睡眠性血红蛋白尿可见",
+        "options": [
+            "A.MCV增高，RDW正常",
+            "B.MCV增高，RDW增高",
+            "C.MCV正常，RDW正常",
+            "D.MCV正常，RDW增高",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 26
+    },
+    {
+        "question_text": "27.再生障碍性贫血的特点",
+        "options": [
+            "A.MCV正常，RDW增高",
+            "B.MCV正常，RDW正常",
+            "C.MCV增高，RDW增高",
+            "D.MCV减低，RDW正常",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 27
+    },
+    {
+        "question_text": "28.海洋性贫血的特点",
+        "options": [
+            "A.MCV正常，RDW增高",
+            "B.MCV正常，RDW正常",
+            "C.MCV增高，RDW增高",
+            "D.MCV减低，RDW正常",
+            "E.MCV减低，RDW增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项结果对诊断缺铁性贫血最有意义？",
+        "options": [
+            "A.红细胞计数减少",
+            "B.血红蛋白降低",
+            "C.MCHC正常",
+            "D.红细胞大小不均",
+            "E.红细胞中心染色过浅"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 29
+    },
+    {
+        "question_text": "30.正常细胞性贫血的病因有：",
+        "options": [
+            "A.急性失血性贫血",
+            "B.急性溶血性贫血",
+            "C.再生障碍性贫血",
+            "D.骨髓病性贫血",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 30
+    },
+    {
+        "question_text": "31.大细胞性贫血的论述哪项是错误的？",
+        "options": [
+            "A.大细胞贫血的红细胞平均体积为82-92μm",
+            "B.大细胞贫血的红细胞平均血红蛋白含量27-31pg",
+            "C.大细胞贫血的红细胞平均血红蛋白浓度为大于32-36％",
+            "D.慢性感染为大细胞贫血的原因",
+            "E.以上都错"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 31
+    },
+    {
+        "question_text": "32.大细胞性贫血包括下列何种疾病？",
+        "options": [
+            "A.恶性贫血",
+            "B.缺铁性贫血",
+            "C.地中海贫血",
+            "D.再生障碍性贫血",
+            "E.骨髓瘤性贫血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 32
+    },
+    {
+        "question_text": "33.巨幼细胞性贫血时，外周血中易见：",
+        "options": [
+            "A.大红细胞",
+            "B.球形红细胞",
+            "C.靶形红细胞",
+            "D.小红细胞",
+            "E.口形红细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列贫血何者为小细胞均一性贫血？",
+        "options": [
+            "A.急性失血性贫血",
+            "B.珠蛋白生成障碍性贫血",
+            "C.缺铁性贫血",
+            "D.再生障碍性贫血",
+            "E.感染性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 34
+    },
+    {
+        "question_text": "35.男，30岁，贫血貌，MCV86fl，MCH29pg，MCHC340g/L，其贫血属于",
+        "options": [
+            "A.大细胞性贫血",
+            "B.小细胞低色素性贫血",
+            "C.正常细胞性贫血",
+            "D.单纯小细胞性贫血",
+            "E.肾性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 35
+    },
+    {
+        "question_text": "36.某女患，28岁，妊娠28周，以两个月来头迷，乏力，心悸为主诉来诊。医生检查后，为了明确是否有贫血等，应选用下列哪组实验室检查？",
+        "options": [
+            "A.RBC、Hb、MCV、MCH",
+            "B.RBC、Hb、HCT、MCV",
+            "C.MCV、MCHC、RBC、Hb",
+            "D.MCV、MCHC、HCT、RBC",
+            "E.RBC、Hb、HCT、MCV、MCH、MCHC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 36
+    },
+    {
+        "question_text": "37.一产后患者，Hb70g/L，MCV74fl，MCH24pg，其贫血的形态学分类为",
+        "options": [
+            "A.小细胞低色素性贫血",
+            "B.单纯小细胞性贫血",
+            "C.正常细胞性贫血",
+            "D.大细胞性贫血",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 37
+    },
+    {
+        "question_text": "38.贫血患者，血片示红细胞大小不等，中心淡染。最可能的诊断是：",
+        "options": [
+            "A.铁粒幼细胞性贫血",
+            "B.缺铁性贫血",
+            "C.再生障碍性贫血",
+            "D.巨幼红细胞贫血",
+            "E.蚕豆病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪项结果不符合缺铁性贫血之诊断？",
+        "options": [
+            "A.Hb100g/L",
+            "B.网织红细胞正常",
+            "C.平均红细胞体积（MCV）减少",
+            "D.平均红细胞血红蛋白含量（MCH）正常",
+            "E.红细胞中心染色过浅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 39
+    },
+    {
+        "question_text": "40.小细胞低色素贫血的形态学的主要特征是：",
+        "options": [
+            "A.红细胞体积变小，染色深浅不匀，中央苍白区消失",
+            "B.红细胞体积变小，染色深浅不匀，中央苍白区扩大",
+            "C.红细胞体积变小，染色过浅，中央苍白区扩大",
+            "D.红细胞体积变小，染色过浅，中央苍白区消失",
+            "E.红细胞体积变小，染色过深，中央苍白区扩大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 40
+    },
+    {
+        "question_text": "41.巨幼细胞性贫血的原因是：",
+        "options": [
+            "A.铁缺乏",
+            "B.RBC内在缺陷",
+            "C.RBC以外因素",
+            "D.骨髓造血功能障碍",
+            "E.叶酸缺乏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 41
+    },
+    {
+        "question_text": "42.免疫性溶血性贫血见于下列哪一种原因：",
+        "options": [
+            "A.铁缺乏",
+            "B.RBC内在缺陷",
+            "C.RBC以外因素",
+            "D.骨髓造血功能障碍",
+            "E.叶酸缺乏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 42
+    },
+    {
+        "question_text": "43.缺铁性贫血的形态学分类应为：",
+        "options": [
+            "A.正常红细胞性贫血",
+            "B.小细胞低色素性贫血",
+            "C.单纯小细胞性贫血",
+            "D.大细胞性贫血",
+            "E.大细胞低色素性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪种疾病为小细胞低色素性贫血？",
+        "options": [
+            "A.再障",
+            "B.巨幼贫",
+            "C.缺铁贫",
+            "D.失血性贫血",
+            "E.慢性病贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 44
+    },
+    {
+        "question_text": "45.典型缺铁性贫血可见：",
+        "options": [
+            "A.红细胞体积分布直方图示波峰左移，波峰基底增宽",
+            "B.红细胞体积分布直方图示波峰左移，波峰基底变窄",
+            "C.红细胞体积分布直方图示波峰左移，峰底增宽的双峰",
+            "D.红细胞体积分布直方图示波峰右移，波峰基底增宽",
+            "E.红细胞体积分布直方图示波峰右移，波峰基底变窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 45
+    },
+    {
+        "question_text": "46.典型巨幼细胞贫血可见：",
+        "options": [
+            "A.红细胞体积分布直方图示波峰左移，波峰基底增宽",
+            "B.红细胞体积分布直方图示波峰左移，波峰基底变窄",
+            "C.红细胞体积分布直方图示波峰左移，峰底增宽的双峰",
+            "D.红细胞体积分布直方图示波峰右移，波峰基底增宽",
+            "E.红细胞体积分布直方图示波峰右移，波峰基底变窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 46
+    },
+    {
+        "question_text": "47.铁粒幼细胞性贫血可见：",
+        "options": [
+            "A.红细胞体积分布直方图示波峰左移，波峰基底增宽",
+            "B.红细胞体积分布直方图示波峰左移，波峰基底变窄",
+            "C.红细胞体积分布直方图示波峰左移，峰底增宽的双峰",
+            "D.红细胞体积分布直方图示波峰右移，波峰基底增宽",
+            "E.红细胞体积分布直方图示波峰右移，波峰基底变窄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 47
+    },
+    {
+        "question_text": "48.轻型β-珠蛋白生成障碍性贫血可见：",
+        "options": [
+            "A.红细胞体积分布直方图示波峰左移，波峰基底增宽",
+            "B.红细胞体积分布直方图示波峰左移，波峰基底变窄",
+            "C.红细胞体积分布直方图示波峰左移，峰底增宽的双峰",
+            "D.红细胞体积分布直方图示波峰右移，波峰基底增宽",
+            "E.红细胞体积分布直方图示波峰右移，波峰基底变窄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 48
+    },
+    {
+        "question_text": "49.缺铁性贫血治疗有效可见",
+        "options": [
+            "A.红细胞体积分布直方图示波峰左移，波峰基底增宽",
+            "B.红细胞体积分布直方图示波峰左移，波峰基底变窄",
+            "C.红细胞体积分布直方图示波峰左移，波峰增宽的双峰",
+            "D.红细胞体积分布直方图示波峰右移，波峰基底增宽",
+            "E.红细胞体积分布直方图示波峰右移，波峰基底变窄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 49
+    },
+    {
+        "question_text": "50.患者男性，16岁，因发热一周，静滴氯霉素3天，而后迅速出现Hb50g/L，WBC1.5×109/L，PLT30×109/L，网织红细胞0.3％，可能是：",
+        "options": [
+            "A.急性溶血性贫血",
+            "B.急性失血性贫血",
+            "C.再生障碍性贫血",
+            "D.营养性巨幼红细胞贫血",
+            "E.慢性失血性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 50
+    },
+    {
+        "question_text": "51.缺铁性贫血，下列哪项是错误的？",
+        "options": [
+            "A.小细胞低色素性贫血",
+            "B.红细胞中心淡染",
+            "C.骨髓红细胞系统增生",
+            "D.骨髓铁粒幼红细胞增多",
+            "E.红细胞大小不均"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 51
+    },
+    {
+        "question_text": "52.小细胞低色素贫血最主要的发生机制是：",
+        "options": [
+            "A.血红蛋白合成减少",
+            "B.骨髓造血功能障碍",
+            "C.慢性疾病致骨髓造血不良",
+            "D.溶血",
+            "E.DNA合成障碍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 52
+    },
+    {
+        "question_text": "53.小细胞低色素贫血最常见的病因是：",
+        "options": [
+            "A.维生素B12缺乏",
+            "B.叶酸缺乏",
+            "C.缺铁",
+            "D.铁利用障碍",
+            "E.血红蛋白分子结构异常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 53
+    },
+    {
+        "question_text": "54.溶血性贫血患者外周血中不会出现：",
+        "options": [
+            "A.涂片中可见幼红细胞",
+            "B.网织红细胞减少",
+            "C.血红蛋白减少",
+            "D.血涂片中出现点彩红细胞",
+            "E.血涂片中成熟红细胞出现Howell-Jolly小体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列哪种疾病属于小细胞低色素贫血？",
+        "options": [
+            "A.叶酸缺乏",
+            "B.再生障碍性贫血",
+            "C.自身免疫性溶血性贫血",
+            "D.慢性感染",
+            "E.海洋性贫血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 55
+    },
+    {
+        "question_text": "56.以下哪项可做为贫血治疗疗效判定的指标？",
+        "options": [
+            "A.白细胞",
+            "B.血小板",
+            "C.网织红细胞",
+            "D.单核细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 56
+    },
+    {
+        "question_text": "57.某病人实验室检查示：红细胞平均体积70fl，红细胞平均血红蛋白含量是25pg，红细胞平均血红蛋白浓度0.26g，该患者可诊断为哪种贫血？",
+        "options": [
+            "A.巨幼红细胞性贫血",
+            "B.再生障碍性贫血",
+            "C.溶血性贫血",
+            "D.缺铁性贫血",
+            "E.慢性疾病性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 57
+    },
+    {
+        "question_text": "58.下列对缺铁性贫血进展过程的叙述，最恰当的是：",
+        "options": [
+            "A.血清铁↓→红细胞↓→血红蛋白↓→骨髓铁",
+            "B.血清铁↓→骨髓铁↓→红细胞↓→血红蛋白",
+            "C.骨髓铁↓→血清铁↓→红细胞↓→小细胞低色素性贫血",
+            "D.血清铁↓→红细胞↓→骨髓铁↓→血红蛋白",
+            "E.骨髓铁↓→血清铁↓→血红蛋白↓→红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 58
+    },
+    {
+        "question_text": "59.慢性感染性贫血属于：",
+        "options": [
+            "A.大细胞性贫血",
+            "B.正常细胞性贫血",
+            "C.小细胞低色素性贫血",
+            "D.单纯小细胞性贫血",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 59
+    },
+    {
+        "question_text": "60.再生障碍性贫血属于：",
+        "options": [
+            "A.大细胞性贫血",
+            "B.单纯小细胞性贫血",
+            "C.正常细胞性贫血",
+            "D.小细胞低色素性贫血",
+            "E.海洋性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 60
+    },
+    {
+        "question_text": "61.缺铁性贫血为",
+        "options": [
+            "A.正常细胞性",
+            "B.大细胞性",
+            "C.单纯小细胞性",
+            "D.小细胞低色素性",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 61
+    },
+    {
+        "question_text": "62.下面组合中哪些项目是不相关的？",
+        "options": [
+            "A.巨幼红细胞增多——恶性贫血",
+            "B.网织红细胞增多——再生障碍性贫血",
+            "C.有核红细胞增多——溶血性贫血",
+            "D.红细胞易形成铜钱状——多发性骨髓瘤",
+            "E.缺铁——小细胞低色素性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 62
+    },
+    {
+        "question_text": "63.缺铁性贫血时，红细胞直方图呈",
+        "options": [
+            "A.波峰位置正常，峰底增宽",
+            "B.波峰左移，峰底增宽",
+            "C.波峰位置正常，峰底变窄",
+            "D.波峰右移，峰底增宽",
+            "E.波峰左移，峰底增宽的双峰"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 63
+    },
+    {
+        "question_text": "64.缺铁性贫血时，红细胞直方图呈",
+        "options": [
+            "A.波峰位置正常，峰底增宽",
+            "B.波峰左移，峰底增宽",
+            "C.波峰位置正常，峰底变窄",
+            "D.波峰右移，峰底增宽",
+            "E.波峰左移，峰底增宽的双峰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 64
+    },
+    {
+        "question_text": "65.巨幼细胞性贫血时，红细胞直方图呈",
+        "options": [
+            "A.波峰位置正常，峰底增宽",
+            "B.波峰移，峰底增宽",
+            "C.波峰位置正常，峰底变窄",
+            "D.波峰右移，峰底增宽",
+            "E.波峰左移，峰底增宽的双峰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 65
+    },
+    {
+        "question_text": "66.海洋性贫血时，红细胞直方图呈",
+        "options": [
+            "A.波峰位置正常，峰底增宽",
+            "B.波峰左移，峰底增宽",
+            "C.波峰位置正常，峰底变窄",
+            "D.波峰右移，峰底增宽",
+            "E.波峰左移，峰底增宽的双峰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 66
+    },
+    {
+        "question_text": "67.混合性营养性贫血时，红细胞直方图特征是：",
+        "options": [
+            "A.波峰位置正常，峰底增宽",
+            "B.波峰左移，峰底增宽",
+            "C.波峰位置正常，峰底变窄",
+            "D.波峰右移，峰底增宽",
+            "E.波峰左移，峰底增宽的双峰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 67
+    },
+    {
+        "question_text": "68.巨幼细胞性贫血最主要的血液学特征是：",
+        "options": [
+            "A.大细胞性贫血",
+            "B.骨髓内红系明显增生",
+            "C.骨髓内出现巨幼红细胞",
+            "D.骨髓内可见巨晚幼粒细胞和巨杆状核细胞",
+            "E.血小板正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 68
+    },
+    {
+        "question_text": "69.巨幼红细胞贫血时，血片中易见到：",
+        "options": [
+            "A.大红细胞",
+            "B.小红细胞",
+            "C.有核红细胞",
+            "D.点彩红细胞",
+            "E.球形红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 69
+    },
+    {
+        "question_text": "70.白血病属于：",
+        "options": [
+            "A.体内贮存铁缺乏",
+            "B.骨髓造血干细胞减少和（或）功能异常",
+            "C.叶酸及维生素B12缺乏",
+            "D.造血系统的恶性肿瘤",
+            "E.造血干细胞克隆性疾病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 70
+    },
+    {
+        "question_text": "71.巨幼细胞性贫血是由于：",
+        "options": [
+            "A.体内贮存铁缺乏",
+            "B.骨髓造血干细胞减少和（或）功能异常",
+            "C.叶酸及维生素B12缺乏",
+            "D.造血系统的恶性肿瘤",
+            "E.造血干细胞克隆性疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 71
+    },
+    {
+        "question_text": "72.缺铁性贫血是由于：",
+        "options": [
+            "A.体内贮存铁缺乏",
+            "B.骨髓造血干细胞减少和（或）功能异常",
+            "C.叶酸及维生素B12缺乏",
+            "D.造血系统的恶性肿瘤",
+            "E.造血干细胞克隆性疾病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 72
+    },
+    {
+        "question_text": "73.再生障碍性贫血是由于：",
+        "options": [
+            "A.体内贮存铁缺乏",
+            "B.骨髓造血干细胞减少和（或）功能异常",
+            "C.叶酸及维生素B12缺乏",
+            "D.造血系统的恶性肿瘤",
+            "E.造血干细胞克隆性疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 73
+    },
+    {
+        "question_text": "74.骨髓增生异常综合征是属于：",
+        "options": [
+            "A.体内贮存铁缺乏",
+            "B.骨髓造血干细胞减少和（或）功能异常",
+            "C.叶酸及维生素B12缺乏",
+            "D.造血系统的恶性肿瘤",
+            "E.造血干细胞克隆性疾病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 74
+    },
+    {
+        "question_text": "75.急性白血病引起贫血的原因，以下哪项最重要：",
+        "options": [
+            "A.红细胞生成障碍",
+            "B.红细胞破坏过多",
+            "C.正常造血受抑",
+            "D.丢失过多",
+            "E.原位溶血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列哪项与缺铁性贫血的血液学特点不相符？",
+        "options": [
+            "A.骨髓红系增生明显",
+            "B.幼稚红细胞＞0.30",
+            "C.早期表现为小细胞低色素性贫血",
+            "D.幼红细胞体积小，边缘不整齐",
+            "E.成熟红细胞中心淡染区扩大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 76
+    },
+    {
+        "question_text": "77.再生障碍性贫血骨髓像特点除了",
+        "options": [
+            "A.三系细胞减少",
+            "B.骨髓增生明显活跃",
+            "C.巨核细胞缺如",
+            "D.淋巴细胞比例增高",
+            "E.大量脂肪细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 77
+    },
+    {
+        "question_text": "78.诊断再生障碍性贫血主要方法是：",
+        "options": [
+            "A.血常规",
+            "B.网织红细胞计数",
+            "C.贫血形态分类",
+            "D.骨髓检查",
+            "E.无肝脾淋巴结肿大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 78
+    },
+    {
+        "question_text": "79.骨髓增生良好的贫血称为增生性贫血，它不包括：",
+        "options": [
+            "A.缺铁性贫血",
+            "B.急性失血性贫血",
+            "C.再生障碍性贫血",
+            "D.溶血性贫血",
+            "E.巨幼细胞性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 79
+    },
+    {
+        "question_text": "80.巨幼细胞贫血最主要的血液学特征是：",
+        "options": [
+            "A.大细胞性贫血",
+            "B.骨髓内出现巨幼红细胞",
+            "C.骨髓内红系明显增生",
+            "D.骨髓内可见巨晚幼粒细胞和巨杆状粒细胞",
+            "E.血小板正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 80
+    },
+    {
+        "question_text": "81.染色血片中靶形红细胞增多见于",
+        "options": [
+            "A.白血病性贫血",
+            "B.海洋性贫血",
+            "C.恶性贫血",
+            "D.失血性贫血",
+            "E.缺铁性贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 81
+    }
+]

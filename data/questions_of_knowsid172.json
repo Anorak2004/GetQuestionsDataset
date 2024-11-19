@@ -1,0 +1,132 @@
+[
+    {
+        "question_text": "1、 下列各项属于马克思主义的直接理论来源的有（     ）",
+        "options": [
+            "A. 文艺复兴时期的人道主义",
+            "B. 德国古典哲学",
+            "C. 英国古典经济学",
+            "D. 英法两国的空想社会主义学说"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2、 马克思主义是严密而完整的科学体系。下列各项属于马克思主义科学体系的主要组成部分的有（   ）",
+        "options": [
+            "A. 自然科学的具体知识",
+            "B. 马克思主义哲学",
+            "C. 马克思主义政治经济学",
+            "D. 科学社会主义学说"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3、 下列关于马克思主义的判断，正确的有（   ）",
+        "options": [
+            "A. 马克思主义是关于无产阶级和人类解放的科学",
+            "B. 马克思主义的根本理论特征是科学性和革命性的统一",
+            "C. 马克思主义崇高的社会理想是实现社会主义",
+            "D. 马克思主义的理论品质是与时俱进"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4、 马克思主义哲学的产生是哲学史上的的伟大变革，这是由于（   ）",
+        "options": [
+            "A. 实现了辩证法同唯物论的统一",
+            "B. 实现了唯物主义自然观同唯物主义历史观的统一",
+            "C. 无产阶级和被压迫群众第一次有了自己的理论武器",
+            "D. 发现了唯物史观"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5、 下列各项属于马克思主义产生的社会根源的有（   ）",
+        "options": [
+            "A. 资产阶级自由、平等、博爱的学说广泛传播",
+            "B. 生产的社会化与生产资料私人占有之间的矛盾激化",
+            "C. 无产阶级和资产阶级之间的矛盾激化",
+            "D. 无产阶级以独立的政治力量登上历史舞台"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6、 19世纪的三大科学发现是（   ）",
+        "options": [
+            "A. 能量守恒与转化定律",
+            "B.元素周期表",
+            "C. 细胞学说",
+            "D. 生物进化论"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7、 马克思主义的本质特征是（   ）",
+        "options": [
+            "A. 科学性",
+            "B.革命性",
+            "C. 针对性",
+            "D. 实践性"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8、 马克思一生的两个伟大发现是（   ）",
+        "options": [
+            "A. 辩证法",
+            "B. 劳动价值论",
+            "C. 唯物史观",
+            "D. 剩余价值学说"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9、 在理论和实践的结合中学习和掌握马克思主义，必须做到（   ）",
+        "options": [
+            "A. 学习理论，武装头脑，做到三个“下功夫”",
+            "B. 坚持和弘扬理论联系实际的学风",
+            "C. 用科学的态度对待马克思主义",
+            "D. 严格按照马克思主义的教条办事，不得逾越"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10、马克思和恩格斯完成了从唯心主义向唯物主义、从革命民主主义向共产主义的转变的标志性论文是（   ）",
+        "options": [
+            "A.《神圣家族》",
+            "B. 论基督教的本质》",
+            "C. 《论犹太人问题》",
+            "D. 《黑格尔法哲学批判》"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

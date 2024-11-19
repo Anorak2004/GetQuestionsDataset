@@ -1,0 +1,2522 @@
+[
+    {
+        "question_text": "1.\t组成原子的是：",
+        "options": [
+            "A.\t原于核和核外电子",
+            "B.\t原子和中子",
+            "C.\t中子和核外电子",
+            "D.\t原子核和质子",
+            "E.\t质子和核外电子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t高速电子与阳极靶物质发生相互作用时：",
+        "options": [
+            "A.\t产生连续X线",
+            "B.\t只产生特性X线",
+            "C.\t产生连续X线和特性X线",
+            "D.\t不产生X线",
+            "E.\t产生电子线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 2
+    },
+    {
+        "question_text": "3.\tX线摄影中表示X线量的是：",
+        "options": [
+            "A.\t半值层",
+            "B.\t靶物质",
+            "C.\tkV",
+            "D.\tmAs",
+            "E.\t电压波形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 3
+    },
+    {
+        "question_text": "4.\tX线管中，当高速电子与阳极靶相互作用时，绝 大部分高速电子的能量转变为：",
+        "options": [
+            "A.\tX线的能量",
+            "B.\t热能",
+            "C.\t连续X线的能量",
+            "D.\t特性X线的能量",
+            "E.\t电子对的能量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t导致X线衰减的原因是：",
+        "options": [
+            "A.\t物质和距离",
+            "B.\tX线不可见",
+            "C.\tX线波长短",
+            "D.\tX线能量大",
+            "E.\tX线是电磁渡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 5
+    },
+    {
+        "question_text": "6.\tX线在医学上利用的原理中不包括：",
+        "options": [
+            "A.\t利用其穿透性进行X线检查",
+            "B.\t利用其荧光作用进行透视检查",
+            "C.\t利用其摄影作用进行照片检查",
+            "D.\t利用其电离作用进行CT扫描",
+            "E.\t利用其生物效用进行肿瘤治疗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t常用X射线管的阴极类型有：",
+        "options": [
+            "A.\t平面焦点型",
+            "B.\t圆焦点型",
+            "C.\t三角焦点型",
+            "D.\t螺旋管型",
+            "E.\t有B或C项所述的两种类型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 7
+    },
+    {
+        "question_text": "8.\tX射线的量和质，其含意正确的是：",
+        "options": [
+            "A.\tX射线的量和质之和表示X射线的强度",
+            "B.\t量就是X射线光子的数量，质则是X射线光子的 能量",
+            "C.\tX射线的量和质之积表示X射线的强度",
+            "D.\tX射线的量和质成反比关系",
+            "E.\tX射线的量和质成正比关系"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t作为X线照片影像的可供诊断的密度范围是：",
+        "options": [
+            "A.\t0.5 ?1.0",
+            "B.\tO.5 ?2.0",
+            "C.\t0.25 ?2.0",
+            "D.\t0.25 ?2.5",
+            "E.\t0.5 ?2.5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t对影像半影模糊的控制阙值为：",
+        "options": [
+            "A.\t0.02mm",
+            "B.\t0.20mm",
+            "C.\t0.25mm",
+            "D.\t05mm",
+            "E.\t06mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t与X线量无关的因素是：",
+        "options": [
+            "A.\t管电流",
+            "B.\t管电压",
+            "C.\t给予X线管的电能",
+            "D.\t靶物质的原子序数",
+            "E.\tX线管阳极、阴极间的距离"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t对X线产生效率的说法，正确的是：",
+        "options": [
+            "A.\t很高",
+            "B.\t很低",
+            "C.\t一般",
+            "D.\t50%",
+            "E.\t100%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t物质对X线的总衰减系数包括：",
+        "options": [
+            "A.\t光电衰减系数",
+            "B.\t相干散射衰减系数",
+            "C.\t康普顿衰减系数",
+            "D.\t电子对效应衰减系数",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t人体各组织对X线的衰减，由大变小的顺序 是：",
+        "options": [
+            "A.\t骨、脂肪、肌肉、空气",
+            "B.\t骨、肌肉、脂肪、空气",
+            "C.\t脂肪、骨、肌肉、空气",
+            "D.\t肌肉、骨、脂肪、空气",
+            "E.\t肌肉、脂肪、骨、空气"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t有效焦点与实际焦点的关系，正确的描述是:",
+        "options": [
+            "A.\t实际焦点一定等于有效焦点",
+            "B.\t实际焦点的长度越长，有效焦点也就越大",
+            "C.\t靶角越小，有效焦点面积也就越小",
+            "D.\t实际焦点一定大于或等于有效焦点",
+            "E.\t实际焦点与有效焦点无定量关系"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t关于X线照片影像的形成要素，不包括：",
+        "options": [
+            "A.\t照片密度",
+            "B.\t照片的感度",
+            "C.\t照片的对比度",
+            "D.\t照片的锐利度",
+            "E.\t照片的放大与变形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t观察小儿发育情况，需摄取：",
+        "options": [
+            "A.\t腕关节正位",
+            "B.\t腕关节侧位",
+            "C.\t双腕关节斜位",
+            "D.\t双腕关节正位",
+            "E.\t双腕关节侧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t肩关节正位摄影，中心线正确射入点为：",
+        "options": [
+            "A.\t锁骨的中点",
+            "B.\t关节盂",
+            "C.\t肩峰",
+            "D.\t肩胛骨喙突",
+            "E.\t肱骨头"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t锁骨正位片：锁骨显示为“s”形弯曲为：",
+        "options": [
+            "A.\t肩关节旋转所致",
+            "B.\t肩关节抬咼所致",
+            "C.\t肩关节外展所致",
+            "D.\t肩关节内收所致",
+            "E.\t肩关节倾斜所致"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t膝关节侧位摄影，关节需屈曲多少度：",
+        "options": [
+            "A.\t105°",
+            "B.\t115°",
+            "C.\t125°",
+            "D.\t135°",
+            "E.\t145°"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t类风湿性关节炎，正确的摄影体位是：",
+        "options": [
+            "A.\t双手正位",
+            "B.\t单侧腕关节正位",
+            "C.\t双侧腕关节正位",
+            "D.\t单手正位，包括腕关节",
+            "E.\t双手正位，包括腕关节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t有关X线束、照射野的叙述，错误的是；",
+        "options": [
+            "A.\tX线球管发射锥形X线束",
+            "B.\tX线束入射被照体曝光面的大小称照射野",
+            "C.\t摄影时照射野应尽量太",
+            "D.\t摄影中的X线束有一定的穿透能力",
+            "E.\tX线束中心部分的X线为中心线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t放大摄影X线管焦点为0.05，允许的最大放大 率为",
+        "options": [
+            "A.\t3倍",
+            "B.\t4倍",
+            "C.\t5倍",
+            "D.\t6倍",
+            "E.\t7倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t关于滤线栅使用注意事项的叙述，错误的是：",
+        "options": [
+            "A.\t将滤线栅置于焦点和被照体之间",
+            "B.\t焦点到滤线栅的距离与栅焦距相等",
+            "C.\tX线中心线对准滤线栅的中心",
+            "D.\t原射线投射方向与滤线栅铅条排列间隙平行",
+            "E.\t原发X线与滤线栅铅条平行"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t机洗的干燥温度一般设定在：",
+        "options": [
+            "A.\t18 ?20°C",
+            "B.\t22 ?30°C",
+            "C.\t34—40C",
+            "D.\t45 ?55C",
+            "E.\t60 ?65C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t放大摄影的定位方法，错误的是：",
+        "options": [
+            "A.\t解剖学定位法",
+            "B.\t透视定位法",
+            "C.\tX线平片定位法",
+            "D.\t生理定位法",
+            "E.\t透视、照片综合法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t幼儿胸部正位摄影，中心线经：",
+        "options": [
+            "A.\t第5胸椎",
+            "B.\t第6胸椎",
+            "C.\t第7胸椎",
+            "D.\t胸骨角水平",
+            "E.\t腋中线前5cm水平、"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t摄影中减小运动模糊的叙述，错误的是：",
+        "options": [
+            "A.\t被照体固定",
+            "B.\t选择适当的呼吸方法",
+            "C.\t缩短曝光时问",
+            "D.\t短焦片距",
+            "E.\t选用高速增感屏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 28
+    },
+    {
+        "question_text": "29.\tX线透过被照体后形成的X线强度的差异，称 为；",
+        "options": [
+            "A.\t人工对比度",
+            "B.\t天然对比度",
+            "C.\tX线射线对比度",
+            "D.\t胶片对比度",
+            "E.\t照片对比度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t病人仰卧，影像增强器转至病人左前方的摄影 方向称：",
+        "options": [
+            "A.\t头足位",
+            "B.\t足头位",
+            "C.\t复合位",
+            "D.\t左前斜位",
+            "E.\t右前斜位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t平静呼吸下屏气，常用检查：",
+        "options": [
+            "A.\t手",
+            "B.\t下肢",
+            "C.\t前臂",
+            "D.\t心脏",
+            "E.\t躯干"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t人体水平面又称为：",
+        "options": [
+            "A.\t横切面",
+            "B.\t矢状面",
+            "C.\t额状面",
+            "D.\t冠状面",
+            "E.\t正中矢状面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 32
+    },
+    {
+        "question_text": "33.\tX线自被照体的前面投向后面称为：",
+        "options": [
+            "A.\t前后方向投射",
+            "B.\t后前方向投射",
+            "C.\t冠状方向投射",
+            "D.\t轴方向投射",
+            "E.\t切线方向投射"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 33
+    },
+    {
+        "question_text": "34.\tX线呈矢状方向从患者的后方垂直射人胶片时 的体位是：",
+        "options": [
+            "A.\t侧位",
+            "B.\t前后位",
+            "C.\t后前位",
+            "D.\t颌顶位",
+            "E.\t顶颌位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t通常照片铅字标记应置于暗盒边缘内：",
+        "options": [
+            "A.\t0.5cm 处",
+            "B.\tl.Ocm 处",
+            "C.\t1.5cm 处",
+            "D.\t3cm 处",
+            "E.\t5cm 处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t外耳孔与同侧眼眶下缘的连线称为：",
+        "options": [
+            "A.\t听眦线",
+            "B.\t听眶线",
+            "C.\t昕鼻线",
+            "D.\t昕口线",
+            "E.\t瞳间线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t脐上3cm与哪个腰椎同一平面：",
+        "options": [
+            "A.\t第12胸椎",
+            "B.\t第1腰椎",
+            "C.\t第2腰椎",
+            "D.\t第3腰椎",
+            "E.\t第4腰椎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 37
+    },
+    {
+        "question_text": "38,\t关于胶片的叙述，错误的是：",
+        "options": [
+            "A.\t晶体颗粒大，感光度高",
+            "B.\t晶体颗粒分布均匀，对比度高",
+            "C.\t晶体颗粒大小不一，宽容度高",
+            "D.\t晶体颗粒小，分辨率低",
+            "E.\t晶体颗粒小，涂层薄，清晰度好"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 38
+    },
+    {
+        "question_text": "39,\tX线胶片特性曲线的直线部是指：",
+        "options": [
+            "A.\t密度与照射量的变化不成比例的部分",
+            "B.\t密度与照射量的变化成比例的部分",
+            "C.\t不是摄影中力求应用的部分",
+            "D.\t密度与照射量没联系的部分",
+            "E.\t称为反转部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 39
+    },
+    {
+        "question_text": "40,\t胶片特性曲线不能直接反映的是：",
+        "options": [
+            "A.\t反差系数",
+            "B.\t宽容度",
+            "C.\t感色性",
+            "D.\t分辨率",
+            "E.\t本底灰雾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 40
+    },
+    {
+        "question_text": "41,\t不属于一般摄影用X线胶片的是：",
+        "options": [
+            "A.\t感蓝胶片",
+            "B.\t感绿胶片",
+            "C.\t荧光缩影胶片",
+            "D.\t乳腺摄影用正色胶片",
+            "E.\t高清晰度摄影用胶片"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 41
+    },
+    {
+        "question_text": "42,\t关于阴性对比剂的叙述，错误的是:",
+        "options": [
+            "A.\t空气是阴性对比剂",
+            "B.\t空气在器官内吸收较快",
+            "C.\t空气易产生气体栓塞",
+            "D.\t二氧化碳的溶度较大",
+            "E.\t二氧化碳不易产生气体栓塞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列不同类型肠梗阻的影像描述，错误的是：",
+        "options": [
+            "A.不完全性肠梗阻：结肠内可见到少量气体影",
+            "B.粘连性肠梗阻：假肿瘤征",
+            "C.绞窄性肠梗阻：空回肠换位征",
+            "D.小肠高位梗阻：消化管无明显积气、扩张",
+            "E.麻痹性肠梗阻：全消化管不同程度积气、扩张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t膈上肋骨摄影，采用的呼吸方式为:",
+        "options": [
+            "A.\t浅呼吸屏气",
+            "B.\t深呼气屏气",
+            "C.\t深吸气屏气",
+            "D.\t平静呼吸屏气",
+            "E.\t腹式呼吸屏气"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t心脏右前斜位，摄影的角度是：",
+        "options": [
+            "A.\t45° ?55°",
+            "B.\t56° ?65°",
+            "C.\t66° ?70°",
+            "D.\t71° ?80°",
+            "E.\t81° ?85°"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t上颌窦摄影，常规首选位置是：",
+        "options": [
+            "A.\t柯氏位",
+            "B.\t瓦氏位",
+            "C.\t斯氏位",
+            "D.\t劳氏位",
+            "E.\t瑞氏位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 46
+    },
+    {
+        "question_text": "47.\t正确选择乳突梅氏位的摄影角度，应是：",
+        "options": [
+            "A.\t双 25°",
+            "B.\t双 35°",
+            "C.\t双 45°",
+            "D.\t双 55°",
+            "E.\t双 65°"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t外伤性颅底骨折，禁止使用的摄影体位是:",
+        "options": [
+            "A.\t颅底侧位",
+            "B.\t颅底颌顶位",
+            "C.\t头颅汤氏位",
+            "D.\t头颅半轴位",
+            "E.\t高颈椎颅底侧位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t腰椎椎弓峡部断裂，正确的摄影体位是：",
+        "options": [
+            "A.\t腰椎正位",
+            "B.\t腰椎侧位",
+            "C.\t腰椎双斜位",
+            "D.\t胸腰段斜位",
+            "E.\t胸腰段侧位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t细小玻璃碎片进入眼内，该异物属于：",
+        "options": [
+            "A.\t不透性异物",
+            "B.\t半透性异物",
+            "C.\t透过性异物",
+            "D.\t金属性异物",
+            "E.\t磁性异物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t有关乳腺摄影的叙述，错误的是：",
+        "options": [
+            "A.\t需要加压",
+            "B.\t使用单乳剂腔片",
+            "C.\t使用高速增感屏",
+            "D.\t常规摄影取轴位和侧斜位",
+            "E.\t依发育期确定曝光条件"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 51
+    },
+    {
+        "question_text": "52.\t肱骨穿胸侧位，适用的病变是：",
+        "options": [
+            "A.\t肱骨骨折",
+            "B.\t肱骨骨疣",
+            "C.\t肱骨骨髓炎",
+            "D.\t肱骨成骨内瘤",
+            "E.\t肱骨外科颈骨折"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t下列疾患，不能由腹部平片诊断的是：",
+        "options": [
+            "A.\t胆囊阳性结石",
+            "B.\t肠梗阻",
+            "C.\t慢性胰腺炎",
+            "D.\t消化道穿孔",
+            "E.\t小儿先天性肛门闭锁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t减少和排除散射线的方法中，错误的是：",
+        "options": [
+            "A.\t缩小照射野减少散射线",
+            "B.\t用金属后背盖的暗盒减少散射线",
+            "C.\t用遮线筒或缩光器来减少散射线",
+            "D.\t选择高电压摄影的方法",
+            "E.\t使用滤线栅法排除散射线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t造影前不需做肠道清洁准备的是；",
+        "options": [
+            "A.\t静脉肾盂造影",
+            "B.\t膀胱造影",
+            "C.\t肝动脉造影",
+            "D.\t输卵管造影",
+            "E.\t四肢静脉造影"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t能较好地反映胆囊浓缩功能的造影方法是：",
+        "options": [
+            "A.\t静脉法胆系造影",
+            "B.\t口服法胆系造影",
+            "C.\t术中胆管造影",
+            "D.\t经皮肝穿刺胆管造影",
+            "E"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t子宫输卵管造影的禁忌证是：",
+        "options": [
+            "A.\t子宫输卵管慢性炎症",
+            "B.\t子宫输卵管结核",
+            "C.\t子宫输卵管良性肿瘤",
+            "D.\t子宫输卵管位置、形态异常",
+            "E.\t子官输卵管出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t眼球异物定位检查的主要目的是：",
+        "options": [
+            "A.\t确定有无异物",
+            "B.\t确定异物大小",
+            "C.\t确定异物位置",
+            "D.\t确定异物性质",
+            "E.\t确定手术方案"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 58
+    },
+    {
+        "question_text": "59.\t增感屏的保养、使用中，错误的是：",
+        "options": [
+            "A.\t防高温、防潮湿",
+            "B.\t防阳光曝晒",
+            "C.\t防止水或药液溅人",
+            "D.\t发现灰尘即用口吹清除",
+            "E.\t暗盒应直立放置，避免重压变形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 59
+    },
+    {
+        "question_text": "60.\t不能显示跟骨影像的摄影体位是：",
+        "options": [
+            "A.\t足正位",
+            "B.\t足侧位",
+            "C.\t全足正位",
+            "D.\t跟骨侧位",
+            "E.\t跟骨轴位像"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 60
+    },
+    {
+        "question_text": "61.\tCT与X线照片比较，X线照片不易显示的病变 是；",
+        "options": [
+            "A.\t骨折",
+            "B.\t异物",
+            "C.\t骨结核",
+            "D.\t骨肿瘤",
+            "E.\t软组织内出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t不适宜进行DSA检查的是：",
+        "options": [
+            "A.\t出血性病变",
+            "B.\t血管性疾病的介入治疗",
+            "C.\t冠状动脉病变",
+            "D.\t良、恶性肿瘤的鉴别诊断",
+            "E.\t严重的心、肝、肾疾病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 62
+    },
+    {
+        "question_text": "63.\tDSA常用的减影方法是：",
+        "options": [
+            "A.\t时间减影法",
+            "B.\t能量减影法",
+            "C.\t混合减影法",
+            "D.\t电视减影法",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t关于前臂侧位摄影，错误的叙述是：",
+        "options": [
+            "A.\t尺侧靠近暗盒",
+            "B.\t桡侧靠近暗盒",
+            "C.\t肘部屈曲约90°",
+            "D.\t肩部尽量放低",
+            "E.\t掌面垂直暗盒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 64
+    },
+    {
+        "question_text": "65.\t肩关节前后位摄影，中心线应对准：",
+        "options": [
+            "A.\t肱骨头",
+            "B.\t喙突",
+            "C.\t喙突下2cm",
+            "D.\t喙突下5cm",
+            "E.\t肩锁关节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 65
+    },
+    {
+        "question_text": "66.\t足前后位摄影，中心线应对准：",
+        "options": [
+            "A.\t第三跖骨头",
+            "B.\t第三跖骨基底部",
+            "C.\t第三跖趾关节",
+            "D.\t内、外踝连线中点",
+            "E.\t距骨中点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 66
+    },
+    {
+        "question_text": "67.\t检查小儿髋关节脱位复位情况的体位是:",
+        "options": [
+            "A.\t髋关节前后位",
+            "B.\t髋关节侧位",
+            "C.\t髋关节侧斜位",
+            "D.\t髋关节蛙形位",
+            "E.\t髋关节后前斜位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 67
+    },
+    {
+        "question_text": "68.\t第3—7颈椎前后位摄影时，中心线应：",
+        "options": [
+            "A.\t向头侧倾斜20°",
+            "B.\t向头侧倾斜10°",
+            "C.\t垂直入射胶片",
+            "D.\t向足侧倾斜10°",
+            "E.\t向足侧倾斜20°"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 68
+    },
+    {
+        "question_text": "69.\t骶骨前后位摄影的中心线是：",
+        "options": [
+            "A.\t垂直投射",
+            "B.\t向头侧倾斜15°",
+            "C.\t向足侧倾斜15°",
+            "D.\t向头侧倾斜45°",
+            "E.\t向足侧倾斜45°"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 69
+    },
+    {
+        "question_text": "70.\t心脏左前斜位摄影，身体冠状位与胶片夹角为：",
+        "options": [
+            "A.\t15° ?20°",
+            "B.\t25° ?30°",
+            "C.\t35° ?40°",
+            "D.\t45° ?55°",
+            "E.\t55° ?65°"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 70
+    },
+    {
+        "question_text": "71.\t成人心脏摄影的焦片距为：",
+        "options": [
+            "A.\t50cm",
+            "B.\t85cm",
+            "C.\t100cm",
+            "D.\t120cm",
+            "E.\t200cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 71
+    },
+    {
+        "question_text": "72.\t关于头颅侧位摄影的叙述，错误的是：",
+        "options": [
+            "A.\t可用于了解蝶鞍的大小和形态",
+            "B.\t是头颅常规摄影位置",
+            "C.\t被检者取仰卧位",
+            "D.\t矢状面与床面平行",
+            "E.\t瞳间线与床面垂直"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 72
+    },
+    {
+        "question_text": "73.\t岩骨双45°轴位，又称为：",
+        "options": [
+            "A.\t劳氏位(Law' s)",
+            "B.\t许氏位(Suhuller' s)",
+            "C.\t低氏位(Runstrom' s)",
+            "D.\t梅氏位(Mayer' s)",
+            "E.\t斯氏位(Stenever' s)"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 73
+    },
+    {
+        "question_text": "74.\t乳突双15°侧位，亦称为：",
+        "options": [
+            "A.\t劳氏位(Law' s)",
+            "B.\t许氏位(Suhuller' s)",
+            "C.\t低氏位(Runstrom' s)",
+            "D.\t梅氏位(Mayer' s)",
+            "E.\t斯氏位(Stenever' s)"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 74
+    },
+    {
+        "question_text": "75.\t下列组合中，正确的是：",
+        "options": [
+            "A.\t视神经孔一 Rhees' s",
+            "B.\t岩骨半轴位—ToWne' s",
+            "C.\t鼻窦瓦氏位一Water' s",
+            "D.\t鼻窦柯氏位—Caldweell' s",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 75
+    },
+    {
+        "question_text": "76.\t颈椎张口位摄影，中心线经：",
+        "options": [
+            "A.\t上颌切牙咬合面中点",
+            "B.\t下颌切牙咬合面中点",
+            "C.\t上颈磨牙咬合面中点",
+            "D.\t下颌磨牙咬合面中点",
+            "E.\t上领尖牙咬台面中点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 76
+    },
+    {
+        "question_text": "77.\t有关肾盂造影时压迫腹部的叙述，错误的是:",
+        "options": [
+            "A.\t防止对比剂流人膀胱",
+            "B.\t压迫点为脐水平两侧",
+            "C.\t压迫球呈倒“八”字形放置",
+            "D.\t压力为5.3?8.0kPa",
+            "E.\t观察全尿路时解除压迫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 77
+    },
+    {
+        "question_text": "78.\t解除因腹部加压引起迷走神经反应的最有效措 施是：",
+        "options": [
+            "A.\t抗休克措施",
+            "B.\t注射阿托品",
+            "C.\t注射肾上腺素",
+            "D.\t立即解除压迫",
+            "E.\t输液以加速对比剂的排泄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 78
+    },
+    {
+        "question_text": "79.\t阴性对比剂的特点，错误的是：",
+        "options": [
+            "A.\t密度低",
+            "B.\t成本低",
+            "C.\t质量轻",
+            "D.\t原子序数高",
+            "E.\tX线易穿过"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 79
+    },
+    {
+        "question_text": "80.\t肾盂造影检查的禁忌证是：",
+        "options": [
+            "A.\t肾盂积水",
+            "B.\t肾结石",
+            "C.\t尿路狭窄",
+            "D.\t肾部肿瘤",
+            "E.\t肾功能严重损伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 80
+    },
+    {
+        "question_text": "81.\t用于胃肠道造影的对比剂是：",
+        "options": [
+            "A.\t硫化钡",
+            "B.\t氯化钡",
+            "C.\t碳酸钡",
+            "D.\t硫酸钡",
+            "E.\t氤化铂钡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 81
+    },
+    {
+        "question_text": "82.\t静脉肾盂造影中腹部压迫点，正确的是：",
+        "options": [
+            "A.\t脐水平两侧",
+            "B.\t第一腰椎水平两侧",
+            "C.\t耻骨联合上方3cm",
+            "D.\t两侧骼前上棘连线水平",
+            "E.\t脐下两侧，骶骨岬水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 82
+    },
+    {
+        "question_text": "83.\t下列选项，不属于膀胱造影的术前准备的是：",
+        "options": [
+            "A.\t排尿",
+            "B.\t清洁肠道",
+            "C.\t备好导尿管",
+            "D.\t碘过敏试验",
+            "E.\t备好注射用水和容器"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 83
+    },
+    {
+        "question_text": "84.\t下列属于无机碘对比剂的是：",
+        "options": [
+            "A.\t泛影葡胺",
+            "B.\t胆影钠",
+            "C.\t碘化油",
+            "D.\t碘化钠",
+            "E.\t碘必乐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 84
+    },
+    {
+        "question_text": "85.\t经肾脏排泄的非离子型对比剂是：",
+        "options": [
+            "A.\t胆影钠",
+            "B.\t碘番酸",
+            "C.\t胆影葡胺",
+            "D.\t泛影葡胺",
+            "E.\t优维显"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 85
+    },
+    {
+        "question_text": "86.\t工作中常用的钨酸钙增感屏是：",
+        "options": [
+            "A.\t超低速",
+            "B.\t低速",
+            "C.\t中速",
+            "D.\t高速",
+            "E.\t超高速"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 86
+    },
+    {
+        "question_text": "87.\t增感屏结构中反射层的作用是：",
+        "options": [
+            "A.\t提高发光效率",
+            "B.\t提高清晰度",
+            "C.\t改善颗粒度",
+            "D.\t控制量子斑点",
+            "E.\t提高对比度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 87
+    },
+    {
+        "question_text": "88.\t单纯型增感屏的荧光体为：",
+        "options": [
+            "A.\t钨酸钙",
+            "B.\t硫氧化钆",
+            "C.\t硫氧化钇",
+            "D.\t氟氯化钡",
+            "E.\t漠氧化镧"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 88
+    },
+    {
+        "question_text": "89.\t利用碘化铯闪烁体和非晶硅作为探测元的检测 器是：",
+        "options": [
+            "A.\t硒鼓检测器",
+            "B.\tIP成像转化器",
+            "C.\t直接转化平板探测器",
+            "D.\t间接转化平板探测器",
+            "E.\t多丝正比室检测器"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 89
+    },
+    {
+        "question_text": "90.\tDR使用的检测装置是：",
+        "options": [
+            "A.\tIP 板",
+            "B.\t影像增强器",
+            "C.\t平板探测器",
+            "D.\t电离室",
+            "E.\t光电管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 90
+    },
+    {
+        "question_text": "91.\tDR系统与屏片系统相比，其优点不包括：",
+        "options": [
+            "A.\tX线剂量低",
+            "B.\tX线曝光宽，容度大",
+            "C.\t图像可进行后处理",
+            "D.\t分辨率高",
+            "E.\t图像可进行数字化存贮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 91
+    },
+    {
+        "question_text": "92.\tCR中可记录与读出X线影像信息的载体是：",
+        "options": [
+            "A.\t胶片",
+            "B.\t磁盘",
+            "C.\tIP 板",
+            "D.\t荧光屏",
+            "E.\t平板探测器"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 92
+    },
+    {
+        "question_text": "93.\t用于读出CR中X线影像信息的光束是：",
+        "options": [
+            "A.\t可见光",
+            "B.\t红外线",
+            "C.\t紫外线",
+            "D.\t激光",
+            "E.\t电子扫描线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 93
+    },
+    {
+        "question_text": "94.\tCR的调谐处理参数包括：",
+        "options": [
+            "A.\t调谐类型",
+            "B.\t旋转量",
+            "C.\t旋转中心",
+            "D.\t调谐移动量",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 94
+    },
+    {
+        "question_text": "95.\tCR系统影像信息具有的动态范围是:",
+        "options": [
+            "A.\t1：\t10",
+            "B.\t1：\t100",
+            "C.\t1：1000",
+            "D.\t1：10000",
+            "E.\t1：100000"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 95
+    },
+    {
+        "question_text": "96.\tCR经X线照射后在IP板上存留的是",
+        "options": [
+            "A.\t模拟信号",
+            "B.\t数字信号",
+            "C.\t黑白影像",
+            "D.\t彩色影像",
+            "E.\t电信号"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 96
+    },
+    {
+        "question_text": "97.\tIP板的类型通常有：",
+        "options": [
+            "A.\t标准型",
+            "B.\t高分辨率型",
+            "C.\t减影型",
+            "D.\t多体层摄影型",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 97
+    },
+    {
+        "question_text": "98.\tIP板的结构通常不包括：",
+        "options": [
+            "A.\t保护层",
+            "B.\t反射层",
+            "C.\t荧光层",
+            "D.\t背衬层",
+            "E.\t支持层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 98
+    },
+    {
+        "question_text": "99.\t决定DSA信号强度的主要因素是：",
+        "options": [
+            "A.\tX线管电压",
+            "B.\tX线量",
+            "C.\t曝光时间",
+            "D.\t摄影部位",
+            "E.\t血管内碘浓度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 99
+    },
+    {
+        "question_text": "100.\tMSCT的层厚最小可达：",
+        "options": [
+            "A.\t5mm",
+            "B.\t2mm",
+            "C.\t3mm",
+            "D.\t4mm",
+            "E.\t0.5mm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 100
+    },
+    {
+        "question_text": "101.\t模拟量转换为数字量由模数转换器进行，称 做：",
+        "options": [
+            "A.\tB/D转换",
+            "B.\tA/D转换",
+            "C.\tD/B转换",
+            "D.\tA/B转换",
+            "E.\tA/C转换"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 101
+    },
+    {
+        "question_text": "102.\t下列技术中，不是CT扫描中常用的影像放大 技术：",
+        "options": [
+            "A.\t几何放大",
+            "B.\t变域图像放大",
+            "C.\t宏观图像放大",
+            "D.\t内插图像放大",
+            "E.\t外插图像放大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 102
+    },
+    {
+        "question_text": "103.\t病人做CT增强扫描前的禁食时间为：",
+        "options": [
+            "A.\t1h",
+            "B.\t4h",
+            "C.\t8h",
+            "D.\t12h",
+            "E.\t24h"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 103
+    },
+    {
+        "question_text": "104.\tCT拍片时，通常需要放大照相的是：",
+        "options": [
+            "A.\t图像模糊不清",
+            "B.\t需重点观察、有病变的层面",
+            "C.\t图像分辨率不够",
+            "D.\t图像的噪声较大",
+            "E.\t观察部位有异影重叠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 104
+    },
+    {
+        "question_text": "105.\t与图像显示上下位置偏移有关的操作是：",
+        "options": [
+            "A.\t病人摆位左右偏离",
+            "B.\t扫描机架倾角过大",
+            "C.\t床面升降调节有误",
+            "D.\t床面进出调节有误",
+            "E.\t扫描野选择有误"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 105
+    },
+    {
+        "question_text": "106.\tX线管围绕人体腹背轴（前后轴）旋转的扫描方 式为：",
+        "options": [
+            "A.\t横断位扫描",
+            "B.\t冠状位扫描",
+            "C.\t矢状位扫描",
+            "D.\t正位定位扫描",
+            "E.\t侧位定位扫描"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 106
+    },
+    {
+        "question_text": "107.\t不属于颅脑平扫适应证的是：",
+        "options": [
+            "A.\t颅脑出血",
+            "B.\t脑萎缩",
+            "C.\t脑梗死",
+            "D.\t脑血管畸形",
+            "E.\t先天性无脑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 107
+    },
+    {
+        "question_text": "108.\t不宜做眼及眶部CT扫描的是：",
+        "options": [
+            "A.\t眼部外伤",
+            "B.\t眼眶内异物",
+            "C.\t眼的先天性疾病",
+            "D.\t近视眼",
+            "E.\t眼球及眶内肿物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 108
+    },
+    {
+        "question_text": "109.\t副鼻窦CT扫描参数选择，错误的是：",
+        "options": [
+            "A.\t层厚5cm",
+            "B.\t层距5cm",
+            "C.\t采用小FOV",
+            "D.\t观察薄骨有否破坏改用薄扫",
+            "E.\t薄扫时需降低条件"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 109
+    },
+    {
+        "question_text": "110.\t喉部常规扫描，正确的屏气状态是：",
+        "options": [
+            "A.\t吸气后屏气扫描",
+            "B.\t呼气后屏气扫描",
+            "C.\t平静呼吸状态下扫描",
+            "D.\t发“依”情况下扫描",
+            "E.\t鼓气状态下扫描"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 110
+    },
+    {
+        "question_text": "111.\t人眼视觉的最大灰阶等级范围是：",
+        "options": [
+            "A.\t8级",
+            "B.\t16 级",
+            "C.\t21 级",
+            "D.\t32 级",
+            "E.\t64 级"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 111
+    },
+    {
+        "question_text": "112.\t将射线能量转换为可供记录的电信号的装置是：",
+        "options": [
+            "A.\t滤过器",
+            "B.\t探测器",
+            "C.\t准直器",
+            "D.\tA/ D转换器",
+            "E.\t显示器"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 112
+    },
+    {
+        "question_text": "113.\t下列哪种不是特殊CT造影增强法：",
+        "options": [
+            "A.\t脑池造影CT",
+            "B.\t脑室造影CT",
+            "C.\t肝脏造影CT",
+            "D.\t关节造影CT",
+            "E.\t脊髓造影CT"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 113
+    },
+    {
+        "question_text": "114.\t蝶鞍CT的最佳扫描方式是：",
+        "options": [
+            "A.\t冠状扫描",
+            "B.\t横断扫描",
+            "C.\t矢状扫描",
+            "D.\t横断扫描+矢状扫描",
+            "E.\t横断扫描多方位重建"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 114
+    },
+    {
+        "question_text": "115.\t水的CT值范围是：",
+        "options": [
+            "A.\t22—32HU",
+            "B.\t46—66HU",
+            "C.\t10 ?20HU",
+            "D.\t—10 ?OHU",
+            "E.\t120 ?150HU"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 115
+    },
+    {
+        "question_text": "116.\t实现人机对话的系统是：",
+        "options": [
+            "A.\t扫描系统",
+            "B.\t图像处理系统",
+            "C.\t视频显示系统",
+            "D.\t电视组件系统",
+            "E.\t软盘系统"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 116
+    },
+    {
+        "question_text": "117.\tCT扫描成像基本步骤中不包括：",
+        "options": [
+            "A.\tX线产生",
+            "B.\t采集数据",
+            "C.\t重建图像",
+            "D.\t显示图像",
+            "E.\t图像后处理"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 117
+    },
+    {
+        "question_text": "118.\t螺旋CT,螺距为1,床速为10mm/s,层厚 为：",
+        "options": [
+            "A.\t2.5mm",
+            "B.\t5mm",
+            "C.\t10mm",
+            "D.\t15mm",
+            "E.\t20mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 118
+    },
+    {
+        "question_text": "119.\t每日开机进行CT球管训练的目的是：",
+        "options": [
+            "A.\t升高球管温度",
+            "B.\t启动旋转阳极",
+            "C.\t测试球管好坏",
+            "D.\t保护X线管",
+            "E.\t增加阴极电子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 119
+    },
+    {
+        "question_text": "120.\t不能在定位像（TOP像）上确定的是：",
+        "options": [
+            "A.\t扫描起始线",
+            "B.\t扫描终止线",
+            "C.\t扫描范围",
+            "D.\t扫描角度",
+            "E.\t扫描参数"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 120
+    },
+    {
+        "question_text": "121.\t肺部CT图像拍摄时，对于窗的基本要求是:",
+        "options": [
+            "A.\t一般采用双窗拍摄",
+            "B.\t只需拍摄肺窗",
+            "C.\t必须要拍摄骨窗",
+            "D.\t必须包括肺的宽窗和窄窗各一套",
+            "E.\t必须拍摄肺窗和纵隔软组织窗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 121
+    },
+    {
+        "question_text": "122.\t在CT扫描前需要大量饮水的检查部位是：",
+        "options": [
+            "A.\t肝胆",
+            "B.\t肺",
+            "C.\t肾脏",
+            "D.\t胰腺",
+            "E.\t膀胱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 122
+    },
+    {
+        "question_text": "123.\t肝、胆、胰检查口服稀释阳性对比剂的目的 是：",
+        "options": [
+            "A.\t能使被观察部位与胃肠道区分开来",
+            "B.\t观察肝胆消化液的分泌功能",
+            "C.\t观察肝胆内病变是否引起胃肠道阻塞",
+            "D.\t保护胃黏膜不受辐射线的损伤",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 123
+    },
+    {
+        "question_text": "124.\t与普通CT相比，螺旋CT的缺点不包括：",
+        "options": [
+            "A.\t纵向分辨率下降",
+            "B.\tX线管损耗大",
+            "C.\tX线剂量大",
+            "D.\t价格贵",
+            "E.\t可回顾性地重建"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 124
+    },
+    {
+        "question_text": "125.\t前列腺常用的扫描模式和层厚、层距是：",
+        "options": [
+            "A.\t高分辨率扫描模式，层厚层距各5mm",
+            "B.\t软组织扫描模式，层厚层距各5mm",
+            "C.\t标准扫描模式，层厚层距各5mm",
+            "D.\t软组织扫描模式，层厚层距各lOmm",
+            "E.\t标准扫描模式，层厚层距各lOmm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 125
+    },
+    {
+        "question_text": "126.\tCT机的扫描方法有：",
+        "options": [
+            "A.\t低压滑环螺旋扫描",
+            "B.\t高压滑环螺旋扫描",
+            "C.\t球管旋转、探测器不动",
+            "D.\t旋转",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 126
+    },
+    {
+        "question_text": "127.\tCT的脊髓造影，其对比剂的注射方法是:",
+        "options": [
+            "A.\t动脉插管给药",
+            "B.\t静脉给药",
+            "C.\t通过口服给药",
+            "D.\t经腰穿蛛网膜下隙给药",
+            "E.\t通过直肠灌注给药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 127
+    },
+    {
+        "question_text": "128.\t常规CT扫描采取俯卧位的是：",
+        "options": [
+            "A.\t头颅轴扫",
+            "B.\t双膝轴扫",
+            "C.\t双踝轴扫",
+            "D.\t双腕轴扫",
+            "E.\t双髋轴扫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 128
+    },
+    {
+        "question_text": "129.\tCT平扫无法显示的是：",
+        "options": [
+            "A.\t软组织",
+            "B.\t骨骼",
+            "C.\t血掖",
+            "D.\t肾上腺",
+            "E.\t脑白质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 129
+    },
+    {
+        "question_text": "130.\tCT图像中从白到黑的灰度影像，称为：",
+        "options": [
+            "A.\t密度分辨率高",
+            "B.\t空间分辨率高",
+            "C.\t灰阶",
+            "D.\t窗宽窗位",
+            "E.\t噪声"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 130
+    },
+    {
+        "question_text": "131.\t图像未发现扫描层面外病灶，原因是：",
+        "options": [
+            "A.\t密度分辨率高",
+            "B.\t空间分辨率高",
+            "C.\t无层面外结构干扰",
+            "D.\t灰阶范围小",
+            "E.\t矩阵大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 131
+    },
+    {
+        "question_text": "132.\tCT与常规X线体层摄影比较，最主要的不同 是：",
+        "options": [
+            "A.\t采用激光机拍照",
+            "B.\t无层面外组织结构干扰重叠",
+            "C.\tX线辐射剂量较小",
+            "D.\t可使用对比剂增加",
+            "E.\t病人摆位置较简便"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 132
+    },
+    {
+        "question_text": "133.\t关于部分容积效应的叙述，错误的是：",
+        "options": [
+            "A.\t高密度组织中的低密度病灶，测出的CT值偏高",
+            "B.\t低密度组织中的高密度病灶，测出的CT值偏低",
+            "C.\tCT扫描中的部分容积效应是不可避免的",
+            "D.\t是同一层面中，不同密度的组织CT值均化现象",
+            "E.\t高档CT机，不存在部分容积效应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 133
+    },
+    {
+        "question_text": "134.\t关于CT噪声的叙述，正确的是：",
+        "options": [
+            "A.\t噪声的大小与扫描层厚有关",
+            "B.\tCT的图像质量与噪声无关",
+            "C.\t噪声不受X线照射剂量的影响",
+            "D.\t噪声与激光胶片上的曝光量有关",
+            "E.\t噪声是一种外界干扰因素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 134
+    },
+    {
+        "question_text": "135.\tCT质控测试认为，理想的水模CT值应为：",
+        "options": [
+            "A.\t±3HU",
+            "B.\t-1000HU",
+            "C.\t+1000HU",
+            "D.\t0HU",
+            "E.\t±5HU"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 135
+    },
+    {
+        "question_text": "136.\t影响空间分辨率的因素中，受人为因素制约的 是：",
+        "options": [
+            "A.\tX射线扇形束的角度",
+            "B.\t空间采样频率",
+            "C.\t探测器孔径的大小",
+            "D.\t图像重建算法",
+            "E.\t采样间距"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 136
+    },
+    {
+        "question_text": "137.\tCT值为0时，其建立依据是：",
+        "options": [
+            "A.\t空气",
+            "B.\t致密骨",
+            "C.\t脂肪",
+            "D.\t水",
+            "E.\t软组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 137
+    },
+    {
+        "question_text": "138.\t下列人体组织器官CT值低于0的是；",
+        "options": [
+            "A.\t肝脏",
+            "B.\t脑白质",
+            "C.\t肺",
+            "D.\t甲状腺",
+            "E.\t肌肉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 138
+    },
+    {
+        "question_text": "139.\t下列组合错误的是：",
+        "options": [
+            "A.\t模/数转换器一一模拟信号转换为数字信号",
+            "B.\t阵列处理器一一重建图像",
+            "C.\t图像以数字形式存入一一硬盘",
+            "D.\tX线透过人体时\t衰减",
+            "E.\t从球管射出的X线首先通过一一准直器"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 139
+    },
+    {
+        "question_text": "140.\tCT机空间分辨率的测量，常用的方法是：",
+        "options": [
+            "A.\t目测",
+            "B.\t仿真人体体模",
+            "C.\t分辨率体模",
+            "D.\t分辨率测试线对板",
+            "E.\t星模卡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 140
+    },
+    {
+        "question_text": "141.\t与CT扫描伪影无关的是：",
+        "options": [
+            "A.\t扫描中病人的移动",
+            "B.\t显示器故障",
+            "C.\t探测器故障",
+            "D.\t体内有金属异物",
+            "E.\t扫描层面中有高密度骨出现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 141
+    },
+    {
+        "question_text": "142.\t关于CT空间分辨率的解释，正确的是：",
+        "options": [
+            "A.\t分辨组织之间最小密度差别的能力",
+            "B.\t高对比度时，区分相邻最小物体的能力",
+            "C.\t与CT探测器孔径大小无关",
+            "D.\t与图像重建的滤波函数无关",
+            "E.\t高于X线屏/片摄影"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 142
+    },
+    {
+        "question_text": "143.\t同一扫描层面，不同CT值的组织被平均计 算，称为：",
+        "options": [
+            "A.\t射线能量均衡分配",
+            "B.\t部分容积效应",
+            "C.\tCT值同化",
+            "D.\tCT值的衰减",
+            "E.\t体积同一性现象"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 143
+    },
+    {
+        "question_text": "144.\t根据灰阶与CT值关系的叙述，正确的是：",
+        "options": [
+            "A.\t高CT值部分被转换为黑色",
+            "B.\t高CT值部分被转换为白色",
+            "C.\tX射线衰减越大，转换成灰阶后颜色越深",
+            "D.\t图像中X射线未被衰减，它将显示为白色图像",
+            "E.\t改变窗宽，也可改变被显示物体的CT值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 144
+    },
+    {
+        "question_text": "145.\t使用CT增强扫描的主要目的是：",
+        "options": [
+            "A.\t可以减少扫描时毫安秒的用量",
+            "B.\t帮助确定病变的位置",
+            "C.\t提高病变组织的空间分辨率",
+            "D.\t增强物体的对比度和观察病变组织的血供",
+            "E.\t提高CT机的密度分辨率"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 145
+    },
+    {
+        "question_text": "146.\tCT扫描中，边缘增强滤过的作用是：",
+        "options": [
+            "A.\t增强所显示图像组织结构的边缘",
+            "B.\t只增强组织中血管的边缘",
+            "C.\t只增强病灶的边缘",
+            "D.\t只增强高密度组织结构的进缘",
+            "E.\t低密度的组织结构都被去除"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 146
+    },
+    {
+        "question_text": "147.\tCT中体素与像素区别的叙述，正确的是：",
+        "options": [
+            "A.\t体素是三维的概念，像素是二维的概念",
+            "B.\t体素与像素的尺寸一致",
+            "C.\t体素只有模拟图像才有，像素属于数字图像",
+            "D.\t体素是图像重建过程中的产物",
+            "E.\t矩阵中的一个小方格，被称为体素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 147
+    },
+    {
+        "question_text": "148 .为显示肝内高密度转移灶，窗宽的设置是：",
+        "options": [
+            "A.\t约在 100?250HU",
+            "B.\t约在。?350HU",
+            "C.\t约在 250—450HU",
+            "D.\t约在一 50?150HU",
+            "E.\t约在 200?500HU"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 148
+    },
+    {
+        "question_text": "149.\t关于CT多方位和三维图像的叙述，正确的 是：",
+        "options": [
+            "A.\t可直接用于影像诊断而不再需要横断面图像",
+            "B.\t需通过横断面图像的重组才能获得",
+            "C.\t一般都直接从原始扫描数据重建而成",
+            "D.\t尚无任何诊断的参考价值",
+            "E.\t其重组所需时间太长，无实用意义"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 149
+    },
+    {
+        "question_text": "150.\t扫描总剂量不变，CT的采样频率越高，结果 是：",
+        "options": [
+            "A.\t密度分辨率越高",
+            "B.\t噪声越小",
+            "C.\t密度分辨率降低",
+            "D.\t空间分辨率降低",
+            "E.\t低对比度分辨率越高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 150
+    },
+    {
+        "question_text": "151.\t在内耳CT扫描时，常选用：",
+        "options": [
+            "A.\t软组织算法",
+            "B.\t傅立叶图像重建算法",
+            "C.\t高分辨率算法",
+            "D.\t标准算法",
+            "E.\t低通滤过加权算法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 151
+    },
+    {
+        "question_text": "152.\t将探测器接收的信息转换为数字信号的是：",
+        "options": [
+            "A.\t信号放大器",
+            "B.\t探测器",
+            "C.\tA/D转换器",
+            "D.\t信号比较器",
+            "E.\t后组探测器"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 152
+    },
+    {
+        "question_text": "153.\t表示空间分辨率的单位是：",
+        "options": [
+            "A.\t半值全宽",
+            "B.\t对比度指数",
+            "C.\t百分线对数(LP%)",
+            "D.\t平方厘米线对数(LP/cm2)",
+            "E.\t厘米线对数(LP / cm)"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 153
+    },
+    {
+        "question_text": "154.\tCT扫描中常用的FOV是指：",
+        "options": [
+            "A.\t矩阵大小",
+            "B.\t兴趣区",
+            "C.\t灰阶标尺",
+            "D.\t扫描野",
+            "E.\t激光胶片的分辨率"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 154
+    },
+    {
+        "question_text": "155.\tCT扫描层厚的确定是通过改变X线束的：",
+        "options": [
+            "A.\t准直宽度",
+            "B.\t硬度",
+            "C.\t强度",
+            "D.\t剂量",
+            "E.\t强弱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 155
+    },
+    {
+        "question_text": "156.\t决定CT机连续工作时间长短的关键指标是:",
+        "options": [
+            "A.\t磁盘容量",
+            "B.\t电源容量",
+            "C.\tX线管阳热容量",
+            "D.\tX线管焦点",
+            "E.\t计算机性能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 156
+    },
+    {
+        "question_text": "157.\tCT成像设备即将发生的重大变化是：",
+        "options": [
+            "A.\t全身螺旋CT",
+            "B.\t多排螺旋CT",
+            "C.\t双排螺旋CT",
+            "D.\t平板探测器CT",
+            "E.\t大孔径CT"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 157
+    },
+    {
+        "question_text": "158.\tCT扫描常见的伪影有：",
+        "options": [
+            "A.\t月牙状伪影",
+            "B.\t卷褶伪影",
+            "C.\t中心线伪影",
+            "D.\t放射状伪影",
+            "E.\t以上全是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 158
+    },
+    {
+        "question_text": "159.\t与梯度磁场强度变化无关的因素有：",
+        "options": [
+            "A.\t层厚",
+            "B.\t扫描野",
+            "C.\t空间分辨率",
+            "D.\t扫描时间",
+            "E.\t磁共振信号强度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 159
+    },
+    {
+        "question_text": "160.\t超导开放型MRI机优势的论述，错误的是：",
+        "options": [
+            "A.\t便于开展介人操作",
+            "B.\t便于检查中观察病人",
+            "C.\t便于儿童及不合作病人的检查",
+            "D.\t能使幽闭恐惧病人顺利进行MR检查",
+            "E.\t提供的固有磁场强度比常导型低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 160
+    },
+    {
+        "question_text": "161.\t组织磁化氢质子的取向是：",
+        "options": [
+            "A.\t杂乱无章",
+            "B.\t顺磁场及逆磁场",
+            "C.\t90°排列",
+            "D.\t30。排列",
+            "E.\t顺磁场排列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 161
+    },
+    {
+        "question_text": "162.\t生物组织中T2值约为：",
+        "options": [
+            "A.\t数千毫秒",
+            "B.\t数十毫秒",
+            "C.\t数百毫秒",
+            "D.\t数万毫秒",
+            "E.\t数毫秒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 162
+    },
+    {
+        "question_text": "163.\t在MR成像装置中，共设计梯度磁场的数量 有：",
+        "options": [
+            "A.\t1种",
+            "B.\t2种",
+            "C.\t3种",
+            "D.\t4种",
+            "E.\t5种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 163
+    },
+    {
+        "question_text": "164.\t在层面选择、频率编码、相位编码梯度磁场之 间：",
+        "options": [
+            "A.\t层面选择与频率编码间可以互换，相位编码不行",
+            "B.\t层面选择与相位编码间可以互换，相位编码不行",
+            "C.\t频率编码与相位编码间可以互换，层面选择不行",
+            "D.\t3种梯度磁场间可以互换",
+            "E.\t3种梯度磁场间不可以互换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 164
+    },
+    {
+        "question_text": "165.\t旋进的质子处于哪种状态时才产生回波：",
+        "options": [
+            "A.\t相位离散",
+            "B.\t相位重聚",
+            "C.\t质子旋进",
+            "D.\t质子静息",
+            "E.\t激励质子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 165
+    },
+    {
+        "question_text": "166.SE序列中180°脉冲的作用是：",
+        "options": [
+            "A.\t使静磁化向量从Z轴转向平面上作旋进运 动，随之失相",
+            "B.\t使静磁化向量从朋平面转向Z轴，随之失相",
+            "C.\t使静磁化向量从*轴转向P轴，随之相位重聚",
+            "D.\t使静磁化向量从P轴转向X轴，随之相位重聚",
+            "E.\t相位重聚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 166
+    },
+    {
+        "question_text": "167.SE序列中，质子密度加权像是选用：",
+        "options": [
+            "A.\t短TR短TE所获得的图像",
+            "B.\t短TR长TE所获得的图像",
+            "C.\t长TR长TE所获得的图像",
+            "D.\t长TR短TE所获得的图像",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 167
+    },
+    {
+        "question_text": "168.\t在IR序列中，如果某一组织的T1值接近反转 时间，则该组织在图像上表现为：",
+        "options": [
+            "A.\t信号增强",
+            "B.\t信号较强",
+            "C.\t信号抑制",
+            "D.\t中等信号",
+            "E.\t无信号"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 168
+    },
+    {
+        "question_text": "169.\t短时反转恢复(STIR)序列常用于：",
+        "options": [
+            "A.\t呼吸控制",
+            "B.\t脂肪控制",
+            "C.\t心电控制",
+            "D.\t抑制运动",
+            "E.\t水抑制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 169
+    },
+    {
+        "question_text": "170.\t在快速自旋回波(TSE)序列中：",
+        "options": [
+            "A.\t回波链越长，扫描时间越长",
+            "B.\t回波链越短，扫描时间越短",
+            "C.\t回波链越长，扫描时间越短",
+            "D.\t回波链可以无限制地长",
+            "E.\t扫描时间与回波链无关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 170
+    },
+    {
+        "question_text": "171.\t梯度回波(GRE)与自旋回波(SE)相比：",
+        "options": [
+            "A.\tGRE幅值较SE小，",
+            "B.\tGRE幅值较SE小，",
+            "C.\tGRE幅值较SE大，",
+            "D.\tGRE幅值较SE大，",
+            "E.\tGRE幅值较SE小，"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 171
+    },
+    {
+        "question_text": "172.\t增加平均次数会导致：",
+        "options": [
+            "A.\t延长扫描时间，",
+            "B.\t延长扫描时间，",
+            "C.\t缩短扫描时间，",
+            "D.\t缩短扫描时间，",
+            "E.\t以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 172
+    },
+    {
+        "question_text": "173.\t为鉴别是否化学位移伪影可采用的方法是：",
+        "options": [
+            "A.\t变化频率编码方向",
+            "B.\t变化相位编码方向",
+            "C.\t增大FOV (视察视野)",
+            "D.\t减小层厚",
+            "E.\t全矩阵采集"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 173
+    },
+    {
+        "question_text": "174.\t不属于磁共振伪影的是：",
+        "options": [
+            "A.\t化学位移伪影",
+            "B.\t运动伪影",
+            "C.\t卷褶伪影",
+            "D.\t截断伪影",
+            "E.\t放射状伪影"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 174
+    },
+    {
+        "question_text": "175.\t为消除部分容积效应的影响可采用：",
+        "options": [
+            "A.\t变化频率编码方向",
+            "B.\t变化相位编码方向",
+            "C.\t增大FOV",
+            "D.\t减小层厚",
+            "E.\t全矩阵采集"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 175
+    },
+    {
+        "question_text": "176.\t常规诊断剂量的Gd-DTPA，图像上所反映的主 要为：",
+        "options": [
+            "A.\tT1延长",
+            "B.\tT1缩短",
+            "C.\tT2延长",
+            "D.\tT2缩短",
+            "E.\t质子密度增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 176
+    },
+    {
+        "question_text": "177.\t为使眼眶病变显示清楚，常在T1和T2加权扫 描时，利用的技术是：",
+        "options": [
+            "A.\t呼吸门控技术",
+            "B.\t梯度运动相位重聚技术",
+            "C.\t脂肪抑制技术",
+            "D.\t血流补偿技术",
+            "E.\tMRA技术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 177
+    },
+    {
+        "question_text": "178.\t与空间分辨率无关的因素是：",
+        "options": [
+            "A.\t信噪比",
+            "B.\t矩阵",
+            "C.\tFOV",
+            "D.\t数据读取次数",
+            "E.\t磁场种类"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 178
+    },
+    {
+        "question_text": "179.\t下列造影技术中，不属于MR水成像范畴的 是：",
+        "options": [
+            "A.\tMR胰胆管造影",
+            "B.\tMR尿路造影",
+            "C.\tMR血管造影",
+            "D.\tMR泪道造影",
+            "E.\tMR腮腺管造影"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 179
+    },
+    {
+        "question_text": "180.\t在颈椎MR成像中，预饱和技术常用于抑制：",
+        "options": [
+            "A.\t吞咽运动伪影",
+            "B.\t心搏伪影",
+            "C.\t呼吸运动伪影",
+            "D.\t化学位移伪影",
+            "E.\t逆向流动液体信号"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "180",
+        "number": 180
+    }
+]

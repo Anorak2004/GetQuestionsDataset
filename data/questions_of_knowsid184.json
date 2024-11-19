@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.\t透视检查的基础是利用X线的是：",
+        "options": [
+            "A.\t光学作用",
+            "B.\t生物作用",
+            "C.\t穿透作用",
+            "D.\t电离作用",
+            "E.\t荧光作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t孕妇需避免X线检查，是因为：",
+        "options": [
+            "A.\tX线的光化学效应",
+            "B.\tX线的荧光作用",
+            "C.\tX线的生物效应",
+            "D.\tX线的感光作用",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.\tCR与普通X线成像比较其优点，叙述错误的 是：",
+        "options": [
+            "A.\t提高了图像密度分辨率",
+            "B.\t提高了图像显示能力",
+            "C.\t降低X线曝光量",
+            "D.\t提高了图像空间分辨率",
+            "E.\t曝光宽容度增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t关于DR成像优点的叙述，错误的是：",
+        "options": [
+            "A.\t成像慢",
+            "B.\t噪声小",
+            "C.\t图像质量好",
+            "D.\t可转入PACS中",
+            "E.\tX线信息损失小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t根据CT工作原理，X线穿过人体后首先接收到 的部分是：",
+        "options": [
+            "A.\t计算机",
+            "B.\t阵列处理机",
+            "C.\t探测器",
+            "D.\t磁盘",
+            "E.\t照相机"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t螺旋CT扫描与传统CT扫描相比最重要的优势是：",
+        "options": [
+            "A.\t扫描速度快",
+            "B.\t二维或三维成像效果好",
+            "C.\t重建速度快",
+            "D.\t容积扫描",
+            "E.\t单层或多层连续扫描"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t关于碘过敏反应的描述，错误的是：",
+        "options": [
+            "A.\t检查室应备足抢救设备和药品",
+            "B.\t造影前用抗过敏药可减少碘过敏反应",
+            "C.\t碘过敏试验阴性则不会发生碘过敏反应",
+            "D.\t多见于血管内给予含碘造影剂",
+            "E.\t用同一批号含碘造影剂也要做碘过敏试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t下列MRI检查的禁忌证，除了：",
+        "options": [
+            "A.\t有心脏起搏器",
+            "B.\t幽闭恐惧症患者",
+            "C.\t有心肺监护仪者",
+            "D.\t有碘过敏史",
+            "E.\t体内有铁磁金属植入物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列关于窗位的概念，正确的是：",
+        "options": [
+            "A.\t窗位相当于显示灰阶的中心",
+            "B.\t窗位规定所显示CT值的范围",
+            "C.\t不同机器的窗位值不同",
+            "D.\t窗位与所显示的组织CT值无关",
+            "E.\t通常窗位选择以水的CT值为标准"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t下列关于CT值的概念，正确的是：",
+        "options": [
+            "A.\t根据CT值可以对病变做出定性诊断",
+            "B.\tCT值反映了物质内的成分",
+            "C.\tCT值是物质密度的绝对值",
+            "D.\t不同机器产生的CT值不同",
+            "E.\tCT值反映了物质的密度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t人体MRI最常用的成像原子核是：",
+        "options": [
+            "A.\t氢原子核",
+            "B.\t钠原子核",
+            "C.\t钙原子核",
+            "D.\t磷原子核",
+            "E.\t氮原子核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t关于窗宽，下列说法不正确的是：",
+        "options": [
+            "A.\t窗宽规定了显示CT值的范围",
+            "B.\t调节窗宽的大小可改变图像中组织的密度对比",
+            "C.\t组织CT值超过窗宽规定的范围时为全白密度",
+            "D.\t缩小窗宽使图像中组织的密度对比缩小",
+            "E.\t通常窗宽除以16等于每个灰阶包含的CT值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t以下临床表现中，不是血管内应用碘对比剂的 不良反应：",
+        "options": [
+            "A.\t荨麻疹",
+            "B.\t面部潮红",
+            "C.\t腹泻",
+            "D.\t球结膜水肿",
+            "E.\t呕吐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t根据CT值的定义公式。空气的CT值为：",
+        "options": [
+            "A.\t-700HU",
+            "B.\t-800HU",
+            "C.\t-900HU",
+            "D.\t-1000HU",
+            "E.\t-1100HU"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t当窗宽为250，窗位为50时，其CT值显示范 围为：",
+        "options": [
+            "A.\t50 ?250HU",
+            "B.\t-75—175HU",
+            "C.\t-125?125HU",
+            "D.\t0—250HU",
+            "E.\t50—300HU"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.\tCT基本设备不包括：",
+        "options": [
+            "A.\t扫描架、扫描床和X线发生系统",
+            "B.\t计算机和数据采集、阵列处理系统",
+            "C.\t操作台",
+            "D.\t图像显示系统",
+            "E.\t照相机"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.\tCT值的定义是以的衰减系数为标准来计算各种 组织的CT值：",
+        "options": [
+            "A.\t空气",
+            "B.\t骨",
+            "C.\t水",
+            "D.\t脑组织",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t减轻或消除CT图像部分容积效应，可采用：",
+        "options": [
+            "A.\t提咼扫描矩阵",
+            "B.\t缩小扫描层厚",
+            "C.\t骨算法重建",
+            "D.\t提高扫描X线条件",
+            "E.\t加大扫描层距"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t在日常工作中，通过调节窗宽窗位来观察图像，要提高观察范围内组织的对比分辨率，首先应采取：",
+        "options": [
+            "A.\t适当减小窗宽",
+            "B.\t适当增大窗宽",
+            "C.\t适当提咼窗位",
+            "D.\t适当降低窗位",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t下列“碘过敏反应”中，最危险的是：",
+        "options": [
+            "A.\t面部潮红",
+            "B.\t喉部发痒",
+            "C.\t皮肤瘙痒",
+            "D.\t打喷嚏",
+            "E.\t皮肤丘疹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

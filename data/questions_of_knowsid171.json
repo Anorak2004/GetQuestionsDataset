@@ -1,0 +1,522 @@
+[
+    {
+        "question_text": "281、商品是（）",
+        "options": [
+            "A.用于满足人们需要的劳动产品",
+            "B.为市场交换而生产的有用的劳动产品",
+            "C.一切物品",
+            "D.一切有用的物品"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 1
+    },
+    {
+        "question_text": "282、一定社会财富的物质内容由（）",
+        "options": [
+            "A.使用价值构成",
+            "B.交换价值构成",
+            "C.价值构成",
+            "D.货币构成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 2
+    },
+    {
+        "question_text": "283、价值或交换价值的物质承担者是（）",
+        "options": [
+            "A.商品",
+            "B.货币",
+            "C.价格",
+            "D.使用价值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 3
+    },
+    {
+        "question_text": "284、商品的二因素是由（）",
+        "options": [
+            "A.劳动生产率决定的",
+            "B.劳动时间的二重性决定的",
+            "C.生产商品的劳动二重性决定的",
+            "D.劳动的复杂程度决定的"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 4
+    },
+    {
+        "question_text": "285、商品是使用价值和价值的对立统一体，因此（）",
+        "options": [
+            "A.没有使用价值的东西就不会有价值",
+            "B.没有价值的东西就不会有使用价值",
+            "C.具有使用价值的东西就一定有价值",
+            "D.产品中只要有劳动就一定有使用价值"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 5
+    },
+    {
+        "question_text": "286、商品的价值量取决于（）",
+        "options": [
+            "A.必要劳动时间",
+            "B.剩余劳动时间",
+            "C.个别劳动时间",
+            "D.社会必要劳动时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 6
+    },
+    {
+        "question_text": "287、货币转化为资本的前提条件是（）",
+        "options": [
+            "A.不等价交换",
+            "B.劳动成为商品",
+            "C.劳动力成为商品",
+            "D.货币所有者把货币投入生产领域"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 7
+    },
+    {
+        "question_text": "288、剩余价值来源于（）",
+        "options": [
+            "A.不等价交换",
+            "B.工人工资的扣除",
+            "C.工人的剩余劳动",
+            "D.劳动力的价值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 8
+    },
+    {
+        "question_text": "289、资本主义生产过程是（）",
+        "options": [
+            "A.劳动过程和使用价值生产过程的统一",
+            "B.劳动过程和价值形成过程的统一",
+            "C.劳动过程和价值增殖过程的统一",
+            "D.价值形成和价值增殖过程的统一"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 9
+    },
+    {
+        "question_text": "290、区分不变资本和可变资本的依据是资本的不同部分（）",
+        "options": [
+            "A.在生产中位置是否移动",
+            "B.在运动中职能是否变化",
+            "C.在价值增殖中的作用不同",
+            "D.根据价值周转方式不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 10
+    },
+    {
+        "question_text": "291、资本主义基本矛盾是（）",
+        "options": [
+            "A.生产与需要的矛盾",
+            "B.无产阶级和资产阶级的矛盾",
+            "C.生产力和上层建筑的矛盾",
+            "D.生产社会化和生产资料资本主义私人占有的矛盾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 11
+    },
+    {
+        "question_text": "292、资本主义经济危机的实质是（）",
+        "options": [
+            "A.生产过剩的经济危机",
+            "B.生产不足的经济危机",
+            "C.生产相对过剩的经济危机",
+            "D.生产严重短缺的经济危机"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 12
+    },
+    {
+        "question_text": "293、产业资本在其循环运动中所采取的三种职能形式是（）",
+        "options": [
+            "A.固定资本、流动资本、货币资本",
+            "B.不变资本、可变资本、商品资本",
+            "C.产业资本、商业资本、借贷资本",
+            "D.货币资本、生产资本、商品资本"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 13
+    },
+    {
+        "question_text": "294、商品价值量是由生产商品的社会必要劳动时间决定，它是在（ ）",
+        "options": [
+            "A.同类商品的生产者之间的竞争中实现的",
+            "B.不同部门之间的竞争实现的",
+            "C.商品的生产者和消费者之间的竞争中实现的",
+            "D.商品的生产者和销售者之间的竞争中实现的"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 14
+    },
+    {
+        "question_text": "295、下列选项中属于不变资本又属于固定资本的是（）",
+        "options": [
+            "A.原料",
+            "B.燃料",
+            "C.辅助材料",
+            "D.机器、设备"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 15
+    },
+    {
+        "question_text": "296、研究社会资本再生产的核心问题是（）",
+        "options": [
+            "A.剩余价值的实现问题",
+            "B.社会总产品的实现问题",
+            "C.社会总产值的构成问题",
+            "D.国民收入的分配问题"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 16
+    },
+    {
+        "question_text": "297、利润本质上是（）",
+        "options": [
+            "A.成本价格的产物",
+            "B.所费资本的产物",
+            "C.全部预付资本的产物",
+            "D.剩余价值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 17
+    },
+    {
+        "question_text": "298、平均利润率的形成是（）",
+        "options": [
+            "A.不同部门的资本家之间竞争的结果",
+            "B.同一部门内部的资本家之间竞争的结果",
+            "C.同一部门资本家追求超额利润的结果",
+            "D.资本有机构成提高的结果"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 18
+    },
+    {
+        "question_text": "299、商品的二因素之所以是使用价值和价值，而不是使用价值和交换价值，是因为 （ ）",
+        "options": [
+            "A.商品的二因素是由生产商品的劳动二重性决定的",
+            "B.价值是交换价值的内容和基础，交换价值是价值的表现形式",
+            "C.使用价值是价值的物质承担者",
+            "D.价值是一般人类劳动的凝结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 19
+    },
+    {
+        "question_text": "300、马克思指出：“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动。因此\n不形成价值。”这段话说明（ ）",
+        "options": [
+            "A.价值的存在以物的有用性为前提",
+            "B.价值的存在与物的有用性互为前提",
+            "C.只要物是有用的，它就有价值",
+            "D.物越是有用就越有价值"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 20
+    },
+    {
+        "question_text": "301、劳动生产率的变化（ ）",
+        "options": [
+            "A.与单位商品价值量成反比，与商品使用价值总量成正比",
+            "B.与商品使用价值数量成反比，与单位商品价值量成正比",
+            "C.与商品使用价值数量成反比，与单位时间内商品价值总量成正比",
+            "D.与单位时间内商品价值总量成反比，与商品使用价值数量成正比"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 21
+    },
+    {
+        "question_text": "302、生产商品的劳动二重性是指（ ）",
+        "options": [
+            "A.简单劳动和复杂劳动",
+            "B.私人劳动和社会劳动",
+            "C.具体劳动和抽象劳动",
+            "D.生产劳动和非生产劳动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 22
+    },
+    {
+        "question_text": "303、商品生产者要获得更多的收益，必须使生产商品的个别劳动时间（ ）",
+        "options": [
+            "A.大大高于社会必要劳动时间",
+            "B.低于社会必要劳动时间",
+            "C.等于社会必要劳动时间",
+            "D.略高于社会必要劳动时间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 23
+    },
+    {
+        "question_text": "304、资本家改进技术提高劳动生产率的直接目的是（ ）",
+        "options": [
+            "A.提高产品的质量",
+            "B.减轻劳动强度",
+            "C.获取相对剩余价值",
+            "D.获取超额剩余价值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 24
+    },
+    {
+        "question_text": "305、棉纺厂因棉花价格上涨而增加了资本的垫支，它影响该厂的（ ）",
+        "options": [
+            "A.资本技术构成",
+            "B.资本价值构成",
+            "C.资本物质构成",
+            "D.资本有机构成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 25
+    },
+    {
+        "question_text": "306、相对剩余价值的获得是（ ）",
+        "options": [
+            "A.延长工人劳动时间的结果",
+            "B.社会普遍提高劳动生产率的结果",
+            "C.普遍提高工人劳动强度的结果",
+            "D.个别资本家提高劳动生产率的结果"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 26
+    },
+    {
+        "question_text": "307、资产阶级意识形态的核心是（ ）",
+        "options": [
+            "A.利己主义",
+            "B.利他主义",
+            "C.集体主义",
+            "D.享乐主义"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 27
+    },
+    {
+        "question_text": "308、马克思指出：生产剩余价值或赚钱，是这个生产方式的绝对规律。这表明：资本主义的基本经济规律是（）",
+        "options": [
+            "A.价值规律",
+            "B.剩余价值规律",
+            "C.劳动力成为商品规律",
+            "D.部门之间竞争规律"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 28
+    },
+    {
+        "question_text": "309、某工厂原工作日为8 小时，必要劳动时间和剩余劳动时间各为4 小时，若采用绝对剩余\n价值生产方法，增加剩余劳动时间2 小时，则剩余价值率为（ ）",
+        "options": [
+            "A.1.2",
+            "B.1.5",
+            "C.1.8",
+            "D.2"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 29
+    },
+    {
+        "question_text": "310、在简单商品经济中，价值规律作用的表现形式是（）",
+        "options": [
+            "A.商品价格与价值经常保持一致",
+            "B.商品价格围绕价值上下波动",
+            "C.商品价格围绕生产价格上下波动",
+            "D.商品价格围绕垄断价格上下波动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 30
+    },
+    {
+        "question_text": "311、资本主义扩大再生产的重要源泉是（ ）",
+        "options": [
+            "A.剩余价值",
+            "B.可变资本",
+            "C.资本积累",
+            "D.剩余劳动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 31
+    },
+    {
+        "question_text": "312、货币的本质是（ ）",
+        "options": [
+            "A.价值符号",
+            "B.流通手段",
+            "C.支付手段",
+            "D.固定充当一般等价物的特殊商品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 32
+    },
+    {
+        "question_text": "313、资本的有机构成可表示为（ ）",
+        "options": [
+            "A.c∶v",
+            "B.m∶c",
+            "C.c∶m",
+            "D.m∶v"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 33
+    },
+    {
+        "question_text": "314、资本主义社会中工人的工资是（ ）",
+        "options": [
+            "A.工人全部劳动的报酬",
+            "B.劳动价值或价格的转化形式",
+            "C.劳动力价值或价格的转化形式",
+            "D.工人在剩余劳动时间内创造的新价值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 34
+    },
+    {
+        "question_text": "315、社会生产过程包括的环节是（ ）",
+        "options": [
+            "A.购买、生产和销售",
+            "B.生产、分配、交换和消费",
+            "C.循环、周转和社会资本再生产",
+            "D.危机、萧条、复苏和高涨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 35
+    },
+    {
+        "question_text": "316、劳动力商品与其他商品不同的最根本特征是（ ）",
+        "options": [
+            "A.劳动力存在于人的身体之内",
+            "B.劳动力在一定条件下可以转化为商品",
+            "C.劳动力使用价值是价值与剩余价值的源泉",
+            "D.劳动力价值受历史道德因素影响"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 36
+    },
+    {
+        "question_text": "317、在资本主义生产过程中，生产资料的价值（ ）",
+        "options": [
+            "A.随着生产耗费而逐渐消失",
+            "B.能够发生价值增殖",
+            "C.借助具体劳动转移到产品中去",
+            "D.借助抽象劳动而再生产出来"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 37
+    },
+    {
+        "question_text": "318、不同的商品之所以能按一定的量的比例相交换，其原因在于它们 （ ）",
+        "options": [
+            "A.有不同的使用价值",
+            "B.可以满足人们不同的需要",
+            "C.都是具体劳动的产物",
+            "D.都凝结了一般人类劳动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 38
+    },
+    {
+        "question_text": "319、“我们从小麦的滋味中根本无法判断它是封建农民生产的，还是资本主义制度下农业工\n人生产的。”这说明（）",
+        "options": [
+            "A.使用价值是个历史的范畴",
+            "B.同一商品的使用价值会随生产关系的变化而变化",
+            "C.有使用价值的物品一定是商品",
+            "D.一种物品具有的使用价值并不反映生产关系的性质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 39
+    },
+    {
+        "question_text": "320、技师的工资高于清洁工的工资，是因为他们的劳动体现的是两种不同性质的劳动，即\n（ ）",
+        "options": [
+            "A.具体劳动与抽象劳动",
+            "B.简单劳动与复杂劳动",
+            "C.个别劳动与社会劳动",
+            "D.必要劳动与剩余劳动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 40
+    }
+]

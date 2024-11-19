@@ -1,0 +1,1528 @@
+[
+    {
+        "question_text": "1.\t关于食管的影像解剖描述，下列错误的是：",
+        "options": [
+            "A.\t食管入口处相当于颈6椎体水平，止于胸10? 11椎体水平与贲门连接",
+            "B.\t食管全长约25?30cm，自门齿至贲门40? 45cm，食管宽约2?3cm",
+            "C.\t左前斜位，吞钡造影食管前缘可见主动脉弓压 迹、左主支气管压迹和左心房压迹",
+            "D.\t第三蠕动波常见于老年人，边缘可呈波浪状或锯 齿状",
+            "E.\t吞钡造影时，食管黏膜像可见3?5条食管黏膜 线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t下述正常食管X线解剖中，错误的是：",
+        "options": [
+            "A.\t通常有3个狭窄",
+            "B.\t老年人可见第三收缩波",
+            "C.\t通常分颈段、胸段、腹段",
+            "D.\t黏膜纹与胃相似",
+            "E.\t钡剂检查时可见到3个生理压迹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t下述胃X线解剖知识，错误的是：",
+        "options": [
+            "A.\t角切迹至幽门间为胃窦",
+            "B.\t仰卧位检查，胃窦靠右侧，胃底靠左侧",
+            "C.\t胃大弯黏膜皱襞比胃小弯黏膜皱襞粗",
+            "D.\t胃底黏膜皱襞走向比胃窦部黏膜皱襞规则",
+            "E.\t胃窦部胃小区显示率最高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t正常胃体部黏膜皱襞宽度一般不超过：",
+        "options": [
+            "A.\t3mm",
+            "B.\t4mm",
+            "C.\t5mm",
+            "D.\t6mm",
+            "E.\t8mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t下列关于胃的钡剂检查的说法，错误的是：",
+        "options": [
+            "A.\t正常胃一般可同时有3?4个收缩波",
+            "B.\t胃蠕动一般由胃体上部开始",
+            "C.\t胃蠕动为向心性收缩",
+            "D.\t胃排空时间一般为1.5?3h",
+            "E.\t胃排空与胃张力、蠕动和幽门功能等有关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t上消化道钡餐检查，正常空肠黏膜皱襞多呈：",
+        "options": [
+            "A.\t弹簧状",
+            "B.\t腊肠状",
+            "C.\t羽毛状或雪花状",
+            "D.\t鱼骨状",
+            "E.\t线状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t右侧膈下游离气主要须相鉴别的症状是：",
+        "options": [
+            "A.\t胃泡",
+            "B.\t间位结肠",
+            "C.\t先天性巨结肠",
+            "D.\t气胸",
+            "E.\t气肿性胆囊炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t立位片上，腹部游离气体的典型影像为：",
+        "options": [
+            "A.\t球形",
+            "B.\t不规则形",
+            "C.\t新月形",
+            "D.\t半球形，有“气液面”",
+            "E.\t与胸腔间距大于15mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t下列疾病中，没有龛影表现的是：",
+        "options": [
+            "A.\t食管憩室",
+            "B.\t胃溃疡",
+            "C.\t胃癌",
+            "D.\t食管癌",
+            "E.\t肠结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t食管静脉曲张的影像学检查方法中最常应用的 简便有效的方法是：",
+        "options": [
+            "A.\t食管钡餐检查",
+            "B.\t食管CT检查",
+            "C.\t食管MRI检查",
+            "D.\t血管造影检查",
+            "E.\t超声检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t下列食管癌与食管静脉曲张的鉴别诊断中，最 有价值的是：",
+        "options": [
+            "A.\t发生部位",
+            "B.\t呕血",
+            "C.\t男性多见",
+            "D.\t中老年多见",
+            "E.\t食管钡餐透视观察食管的蠕动情况"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t关于食管静脉曲张的描述，不正确的是：",
+        "options": [
+            "A.\t是门静脉高压的主要并发症，常见于肝硬化患者",
+            "B.\t轻度患者，病变主要局限于食管下段，黏膜皱襞 稍增宽，管腔边缘稍不平整",
+            "C.\t中度患者，病变累及食管中下段，黏膜皱襞增粗 呈结节状或串珠状充盈缺损",
+            "D.\t重度患者，可累及食管全长，黏膜皱襞增粗呈结 节状或串珠状充盈缺损，排空延迟",
+            "E.\t只有中度或重度患者才能在吞钡造影时发现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t早期食管癌的检出率在检查中较高的方法是：",
+        "options": [
+            "A.\tX线",
+            "B.\tCT",
+            "C.\tMRI",
+            "D.\t超声",
+            "E.\tDSA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t疑有食管异物，在X线检查时，下列说法错误 的是：",
+        "options": [
+            "A.\t食管异物最易停留在食管的生理狭窄处",
+            "B.\t透视可清晰显示如金属或骨类的不透X线异物影",
+            "C.\t透X线的异物需要用钡棉检查，无挂棉现象即可 排除异物",
+            "D.\t食管异物可引起食管周围脓肿",
+            "E.\t食管异物可引起大血管破裂导致大出血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t关于食管平滑肌瘤，下列描述错误的是：",
+        "options": [
+            "A.\t患者病史较长，可以有进食梗阻和胸骨后疼痛感",
+            "B.\t肿瘤边界锐利，充盈缺损明显",
+            "C.\t肿瘤表面钡剂涂抹不均匀，可有小的溃疡形成",
+            "D.\t食管壁光滑柔软，食管蠕动正常",
+            "E.\t食管黏膜皱襞无黏膜破坏，典型征象可见“环形 征\""
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t早期食管癌的描述，错误的是：",
+        "options": [
+            "A.\t指局限于黏膜和黏膜下层的病变",
+            "B.\t不论病变范围多大，无周围及远处淋巴结转移",
+            "C.\t吞钡检查可见黏膜有中断和破坏",
+            "D.\t吞钡检查可见小的龛影和充盈缺损",
+            "E.\t双对比造影和食管吞钡连续摄影检查可以提高阳 性检出率"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 16
+    },
+    {
+        "question_text": "17.\tCT可对食管癌进行分期，对其可切除性和预后 的评估有重要作用。下列叙述中恰当的是：",
+        "options": [
+            "A.\t一期：腔内肿块，食管壁无增厚，无纵隔蔓延或 转移，食管周围脂肪清晰",
+            "B.\t二期：食管壁增厚超过5mm,无纵隔蔓延或转 移，食管周围脂肪清晰",
+            "C.\t三期：食管壁增厚并累及周围组织，纵隔淋巴结 转移，无远处转移",
+            "D.\t四期：有远处转移",
+            "E.\t以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t反流性食管炎，下列叙述错误的是：",
+        "options": [
+            "A.\t反流性食管炎又称消化性食管炎，可以分为生理 性或病理性两种",
+            "B.\t轻度患者，仅见食管下段痉挛性收缩和黏膜皱襞 增粗以及食管反流",
+            "C.\t中度患者，食管下段痉挛明显，可见小结节样充 盈缺损",
+            "D.\t重度患者，食管狭窄明显，可呈漏斗状，食管壁 毛糙并可见小的溃疡形成",
+            "E.\t钡餐检查时，只有立位看到食管反流，才能诊断 反流性食管炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t38岁女性患者，钡餐示食管壁张力减低，蠕动 减弱，钡剂排空延迟，并在食管下段见到串珠状充 盈缺损影。首先考虑：",
+        "options": [
+            "A.\t反流性食管炎",
+            "B.\t食管下段平滑肌瘤",
+            "C.\t食管下段静脉曲张",
+            "D.\t食管癌",
+            "E.\t食管裂孔疝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t26岁，因进食困难，加重1年就诊。钡餐检查 示食管重度扩张，黏膜完整，蠕动减弱，食管下段 贲门开口处呈鸟嘴样狭窄，钡剂通过缓慢。最困难 的诊断为：",
+        "options": [
+            "A.\t贲门失弛缓症",
+            "B.\t贲门癌",
+            "C.\t反流性食管炎",
+            "D.\t食管下段静脉曲张",
+            "E.\t食管下段憩室"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t胃溃疡好发于：",
+        "options": [
+            "A.\t胃底部",
+            "B.\t胃体部",
+            "C.\t胃窦部小弯侧",
+            "D.\t胃窦部大弯侧",
+            "E.\t幽门部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 21
+    },
+    {
+        "question_text": "22,\t胃溃疡的征象中，下列叙述最为恰当的是：",
+        "options": [
+            "A.\t胃溃疡可以见到龛影，其形态可以多变，可呈乳 头状、半圆形或锥形",
+            "B.\t根据龛影周围水肿带的不同龛影有黏膜线、项圈 征和狭颈征",
+            "C.\t溃疡周围黏膜可以呈放射状改变，为溃疡修复性 改变",
+            "D.\t可以引起胃的变形，幽门梗阻可导致胃扩张和胃 潴留",
+            "E.\t以上叙述都正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 22
+    },
+    {
+        "question_text": "23,\t溃疡出现下列征象中，提示溃疡可能发生恶变 的是：",
+        "options": [
+            "A.\t溃疡龛影形态呈半圆形突出于胃腔之外",
+            "B.\t龛影周围发现项圈征和狭颈征",
+            "C.\t溃疡周围胃变形或胃潴留",
+            "D.\t溃疡周围出现充盈缺损、黏膜破坏或环堤形成",
+            "E.\t以上都不正确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 23
+    },
+    {
+        "question_text": "24,\t胃癌好发于：",
+        "options": [
+            "A.\t贲门部",
+            "B.\t胃底部",
+            "C.\t胃体部",
+            "D.\t胃窦部",
+            "E.\t幽门部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 24
+    },
+    {
+        "question_text": "25,\t下列关于早期胃癌的描述，错误的是：",
+        "options": [
+            "A.\t病变局限于黏膜层",
+            "B.\t病变局限性黏膜层或黏膜下层",
+            "C.\t病变的大小与早期胃癌的定义无关",
+            "D.\t有无周围淋巴结转移与早期胃癌的定义无关",
+            "E.\t病变仅累及黏膜肌层"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 25
+    },
+    {
+        "question_text": "26,\t早期胃癌，下列影像学检查方法中首选的是：",
+        "options": [
+            "A.\t传统的钡餐检查技术",
+            "B.\t气钡双重检查技术",
+            "C.\t低张气钡双重检查技术",
+            "D.\tCT",
+            "E.\tMRI"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 26
+    },
+    {
+        "question_text": "27,\t溃疡型胃癌的X表现，下列选项错误的是：",
+        "options": [
+            "A.\t溃疡大而浅，位于胃轮廓之内，称为腔内龛影",
+            "B.\t龛影周围可见环堤和指压迹样改变",
+            "C.\t溃疡周围出现项圈征或狭颈征",
+            "D.\t溃疡周围胃黏膜中断、破坏",
+            "E.\t病变部位胃壁僵硬，蠕动消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 27
+    },
+    {
+        "question_text": "28,\t下列X线征象中，可作为食管静脉曲张与食管 癌的鉴别要点的是：",
+        "options": [
+            "A.\t充盈缺损",
+            "B.\t管腔边缘凹凸不平",
+            "C.\t钡剂通过缓慢",
+            "D.\t管壁仍见扩张与收缩现象",
+            "E.\t纵行黏膜皱襞消失"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t食管贲门失弛缓症与食管下段癌的鉴别要点 是：",
+        "options": [
+            "A.\t狭窄上方食管明显扩张",
+            "B.\t食管蠕动减弱或消失",
+            "C.\t狭窄段黏膜完整，管壁柔软",
+            "D.\t钡剂通过缓慢",
+            "E.\t扩张食管内出现液平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t关于胃窦炎的描述，错误的是：",
+        "options": [
+            "A.\t肩胛征",
+            "B.\t胃窦黏膜粗大",
+            "C.\t黏膜皱襞斜行、横行或交叉排列",
+            "D.\t胃窦张力增高",
+            "E.\t充盈像，胃窦轮廓呈细齿状"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t下述胃溃疡征象中，提示为恶性的是：",
+        "options": [
+            "A.\t项圈征",
+            "B.\t狭颈征",
+            "C.\t黏膜纠集",
+            "D.\t腔外龛影",
+            "E.\t局部胃壁僵硬"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t下列中晚期胃癌分型中，不包括：",
+        "options": [
+            "A.\t增生型",
+            "B.\t表浅型",
+            "C.\t浸润型",
+            "D.\t溃疡型",
+            "E.\t混合型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t下述小肠Crohn病的影像，应除外：",
+        "options": [
+            "A.\t环肠壁对称性侵犯",
+            "B.\t小肠多发狭窄",
+            "C.\t鹅卵石征",
+            "D.\t肠壁增厚",
+            "E.\t口疮样小溃疡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t十二指肠溃疡好发于：",
+        "options": [
+            "A.\t球部",
+            "B.\t球后部",
+            "C.\t降部",
+            "D.\t水平部",
+            "E.\t升部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t下列有关溃疡型胃癌的X线征象，错误的是:",
+        "options": [
+            "A.\t放射状黏膜纠集，直抵龛影口部",
+            "B.\t不规则状黏膜纠集，杵状增粗",
+            "C.\t腔内龛影",
+            "D.\t指压迹",
+            "E.\t蠕动消失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t下列为良性溃疡的X线表现，错误的是：",
+        "options": [
+            "A.狭颈征",
+            "B.\t项圈征",
+            "C.\t肩胛征",
+            "D.\t放射状黏膜纠集",
+            "E.\t溃疡口部黏膜线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t肠道结核好发于：",
+        "options": [
+            "A.\t空肠",
+            "B.\t回肠",
+            "C.\t回盲部",
+            "D.\t横结肠",
+            "E.\t乙状结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t关于单纯性小肠梗阻的X线表现描述.，错误的 是：",
+        "options": [
+            "A.\t阶梯状液气平面",
+            "B.\t大跨度的襻",
+            "C.\t鱼肋征",
+            "D.\t透视下可见液面上下移动",
+            "E.\t假肿瘤征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t绞窄性肠梗阻的X表现，错误的是：",
+        "options": [
+            "A.\t假肿瘤征",
+            "B.\t咖啡豆征",
+            "C.\t大跨度的襻",
+            "D.\t多个小跨度卷曲肠襻",
+            "E.\t空回肠换位征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t腹部外伤，尤其是疑有实质性脏器损伤时，影 像学检查应首选：",
+        "options": [
+            "A.\tX平片",
+            "B.\t超声或CT",
+            "C.\tMRI",
+            "D.\tDSA",
+            "E.\t同位素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t大肠癌好发于：",
+        "options": [
+            "A.\t直肠和乙状结肠",
+            "B.\t乙状结肠和降结肠",
+            "C.\t横结肠",
+            "D.\t升结肠",
+            "E.\t盲肠和回盲部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t消化道息肉最好发于：",
+        "options": [
+            "A.\t食管",
+            "B.\t胃",
+            "C.\t空肠和回肠",
+            "D.\t升结肠和横结肠",
+            "E.\t直肠和乙状结肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t下列不同类型肠梗阻的影像描述，错误的是：",
+        "options": [
+            "A.\t不完全性肠梗阻：结肠内可见到少量气体影",
+            "B.\t粘连性肠梗阻：假肿瘤征",
+            "C.\t绞窄性肠梗阻：空回肠换位征",
+            "D.\t小肠高位梗阻：消化管无明显积气、扩张",
+            "E.\t麻痹性肠梗阻：全消化管不同程度积气、扩张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t皮革胃属于：",
+        "options": [
+            "A.\t溃疡型胃癌",
+            "B.\t蕈伞型胃癌",
+            "C.\t浸润型胃癌",
+            "D.\t混合型胃癌",
+            "E.\t平坦型胃癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t关于结肠息肉，下列描述中错误的是：",
+        "options": [
+            "A.\t好发于直肠和乙状结肠",
+            "B.\t多见于儿童",
+            "C.\t息肉病有明显的家族遗传性",
+            "D.\t病理上是炎性增生性病变",
+            "E.\t双重造影时呈环形阴影，轮廓光整，密度均匀"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 45
+    },
+    {
+        "question_text": "46.\t下列关于结肠癌的描述，错误的是：",
+        "options": [
+            "A.\t好发于降结肠",
+            "B.\t大多数结肠癌是腺癌",
+            "C.\t浸润型表现为肠腔狭窄，局限于一侧或呈环形",
+            "D.\t增生型表现为腔内充盈缺损",
+            "E.\t混合型多是晚期表现"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 46
+    },
+    {
+        "question_text": "47.\tCT平扫时，正常肝实质平均CT值为：",
+        "options": [
+            "A.\t0—30HU",
+            "B.\t30—40HU",
+            "C.\t50 ?70HU",
+            "D.\t75 ?100HU",
+            "E.\t100 ?130HU"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 47
+    },
+    {
+        "question_text": "48.\t增强扫描动脉期，肝实质强化程度：",
+        "options": [
+            "A.\t无明显强化",
+            "B.\t比脾脏高",
+            "C.\t比腹主动脉高",
+            "D.\t比肾脏高",
+            "E.\t与脾脏强化程度相仿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 48
+    },
+    {
+        "question_text": "49.\t男性患者，45岁，突发性右上腹痛，急诊CT 平扫发现肝右叶后下段有一约6cmX6cmX7cm大小 低密度病变，境界较清楚，密度不均匀，病变内尚 可见片状高密度影。应首先考虑为：",
+        "options": [
+            "A.\t肝囊肿合并出血",
+            "B.\t胆管细胞癌",
+            "C.\t肝转移瘤",
+            "D.\t肝脓肿",
+            "E.\t原发性肝癌破裂出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 49
+    },
+    {
+        "question_text": "50.\t关于肝细胞癌的MRI表现，下列说法错误的 是：",
+        "options": [
+            "A.\tTMI呈低信号，病变信号不均匀",
+            "B.\tT2WI呈稍高信号，比正常肝组织信号稍高",
+            "C.\t可见假包膜",
+            "D.\tT2WI随回波时间延长，病变信号逐渐增高",
+            "E.\t增强扫描病变可有轻到中度强化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 50
+    },
+    {
+        "question_text": "51.\t原发性肝癌的影像检查描述中，不正确的是：",
+        "options": [
+            "A.\t病变可以单发或多发，病变密度多为低密度，但 也可以是等密度或高密度",
+            "B.\t增强扫描的典型特点为“快进快出”",
+            "C.\t可有门静脉或下腔静脉瘤栓形成",
+            "D.\t可伴有肝硬化、门脉高压、腹水以及腹腔、肝门 淋巴结肿大",
+            "E.\tMR组织分辨率较高，对大部分肿瘤都能清楚地 显示病变与正常肝组织的界限"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 51
+    },
+    {
+        "question_text": "52.\tCT平扫，肝脏密度一致性减低，CT值低于脾 脏。应首先考虑为：",
+        "options": [
+            "A.\t弥漫性肝癌",
+            "B.\t肝脓肿",
+            "C.\t血色病",
+            "D.\t脂肪肝",
+            "E.\t肝淋巴瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 52
+    },
+    {
+        "question_text": "53.\t肝脏局灶性增生影像表现，下述说法不正确的 是：",
+        "options": [
+            "A.\t病变多位于肝包膜下，密度均匀，呈等密度或低 密度",
+            "B.\t病变较大时，其中心可见放射状分布的纤维瘢痕",
+            "C.\t增强早期呈均匀一致的明显强化，中心部位可以 不强化",
+            "D.\t静脉期或延期扫描，病变密度降低，最后呈相对 低密度和肝脏密度相一致",
+            "E.\tMR表现和CT扫描相似，LWI呈等信号或低信 号，T2WI呈稍高信号，增强明显强化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 53
+    },
+    {
+        "question_text": "54.\t中年女性，黄疸1个月，实验室检查提示梗阻 性黄疸，CT扫描示肝脏一致明显增大，肝内外胆 管无明显扩张。应首先考虑为：",
+        "options": [
+            "A.\t肝内胆管结石",
+            "B.\t肝门部胆管癌",
+            "C.\t壶腹癌",
+            "D.\t原发性胆汁性肝硬化",
+            "E.\t胆总管结石"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 54
+    },
+    {
+        "question_text": "55.\t下列关于肝腺瘤的叙述，错误的是：",
+        "options": [
+            "A.\t女性多见，与服用类固醇药物有关",
+            "B.\t瘤内没有胆管结构和肿瘤细胞，主要由排列紊乱 的正常肝细胞组成",
+            "C.\tCT平扫可以呈等密度或高密度、圆形或类圆形 病变",
+            "D.\t增强扫描早期多呈明显均匀强化，随后密度下降 变为等密度或低密度",
+            "E.\t因肿瘤富血供，有出血倾向，应手术切除"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 55
+    },
+    {
+        "question_text": "56.\t下述肝腺瘤影像，错误的是：",
+        "options": [
+            "A.\tCT平扫可以呈等密度或低密度、圆形或类圆形 病变",
+            "B.\tCT增强扫描表现为富血管肿瘤的强化特点",
+            "C.\t早期多呈明显不均匀强化，随后变为等密度或低 密度",
+            "D.\tMR平扫可见连续或不连续的包膜",
+            "E.\tLWI呈等信号或低信号，T2WI呈稍高信号，因出 血等原因病变信号可以不均匀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 56
+    },
+    {
+        "question_text": "57.\t肝脏血管瘤的MRI描述，错误的是：",
+        "options": [
+            "A.\t典型的血管瘤LWI呈低信号，病变边界清楚",
+            "B.\tT2WI呈高信号",
+            "C.\tT2WI随回波时间延长，病变信号逐渐增高，可见 “灯泡征”",
+            "D.\t增强扫描病变呈明显强化",
+            "E.\t增强扫描一般不强化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 57
+    },
+    {
+        "question_text": "58.\t靶征是哪种病变的影像特点：",
+        "options": [
+            "A.\t肝囊肿",
+            "B.\t肝脓肿",
+            "C.\t肝脏炎性假瘤",
+            "D.\t原发性肝癌",
+            "E.\t转移性肝癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 58
+    },
+    {
+        "question_text": "59.\tMRI扫描，包膜征最常见于",
+        "options": [
+            "A.\t原发性肝癌",
+            "B.\t转移性肝癌",
+            "C.\t肝血管瘤",
+            "D.\t肝腺瘤",
+            "E.\t炎性假瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 59
+    },
+    {
+        "question_text": "60.\tT1加权像略低信号、质子加权像和T2加权像 明显高信号的现象，称为：",
+        "options": [
+            "A.\t晕环征",
+            "B.\t牛眼征",
+            "C.\t电灯泡征",
+            "D.\t不定形征",
+            "E.\t靶征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 60
+    },
+    {
+        "question_text": "61.\t灯泡征最常见于：",
+        "options": [
+            "A.\t原发性肝癌",
+            "B.\t肝血管瘤",
+            "C.\t肝脓肿",
+            "D.\t转移性肝癌",
+            "E.\t肝囊肿合并出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 61
+    },
+    {
+        "question_text": "62.\t下列关于肝脓肿的MR表现，错误的是：",
+        "options": [
+            "A.\tLWI呈低信号",
+            "B.\tT2WI呈高信号",
+            "C.\t脓肿腔内发现气体影不是肝脓肿的表现",
+            "D.\t增强扫描脓肿壁可以呈环状强化",
+            "E.\t脓肿壁的信号稍高于脓腔，但低于正常肝组织"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 62
+    },
+    {
+        "question_text": "63.\t关于胆管细胞癌，错误的是：",
+        "options": [
+            "A.\t好发于肝门部，通常可引起梗阻性黄疸",
+            "B.\tMRI能较好地显示肝门区的肿块",
+            "C.\tMRCP可以显示胆管梗阻的部位",
+            "D.\tMRI能显示扩张的胆管",
+            "E.\tMRI分辨肝门区肿大的淋巴结不如CT清楚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 63
+    },
+    {
+        "question_text": "64.\t增强CT扫描，转移性肝癌最常见的强化类型 是：",
+        "options": [
+            "A.\t充填式强化",
+            "B.\t环形强化",
+            "C.\t轻到中度不均匀性强化",
+            "D.\t明显均匀强化",
+            "E.\t包膜征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 64
+    },
+    {
+        "question_text": "65.\t下列关于胆囊癌的描述正确的是：",
+        "options": [
+            "A.\t多为鳞癌",
+            "B.\t直接侵犯以消化管最常见",
+            "C.\t多为浸润型，以肝脏浸润常见",
+            "D.\t胆囊造影表现正常就可除外胆囊癌",
+            "E.\t胆囊壁增厚是本病特有影像"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 65
+    },
+    {
+        "question_text": "66.\t女性，56岁，右上腹隐痛3个月就诊。腹部平 片示右上腹一圆形致密影，侧位片示致密影位于脊 柱前方。应首先考虑为：",
+        "options": [
+            "A.\t右肾结石",
+            "B.\t胆囊结石",
+            "C.\t淋巴结钙化",
+            "D.\t右输尿管结石",
+            "E.\t以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 66
+    },
+    {
+        "question_text": "67.\tB超发现右肝一直径约3cm低回声，CT平扫示 右肝一直径3cm低密度病变，境界清楚，密度均 匀，CT值为10HU，增强扫描无强化。首先考虑 为：",
+        "options": [
+            "A.\t肝转移癌",
+            "B.\t肝囊肿",
+            "C.\t肝血管瘤",
+            "D.\t肝脓肿",
+            "E.\t局灶性脂肪变性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 67
+    },
+    {
+        "question_text": "68.\t患者10岁，上腹痛三月余。体检右上腹可扪及 一直径约5cm大包块，CT扫描发现肝门区有一梭 形囊性包块，增强扫描无强化，肝内胆管轻度扩 张。其最可能的诊断为：",
+        "options": [
+            "A.\t胆囊炎",
+            "B.\t先天性胆总管囊肿",
+            "C.\t胆囊癌",
+            "D.\t胰腺囊肿",
+            "E.\t十二指肠憩室"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 68
+    },
+    {
+        "question_text": "69.\t下列有关肝血管瘤CT表现的描述，错误的是：",
+        "options": [
+            "A.\t通常是超声首先发现，超声多为强回声表现",
+            "B.\tCT平扫通常呈高密度样团块",
+            "C.\tCT增强扫描，早期呈结节样强化，随增强时间 延长，病变不断被造影剂充填",
+            "D.\t增强呈快进慢出的特点",
+            "E.\t延迟扫描，病变甚至不能被发现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 69
+    },
+    {
+        "question_text": "70.\t男性患者，56岁，右上腹隐痛一月余，伴有低 热。超声发现左肝内低回声病变，直径约5cm大 小，CT平扫左肝内低密度病变，增强病变呈环状 强化。应考虑为：",
+        "options": [
+            "A.\t转移癌",
+            "B.\t囊肿",
+            "C.\t肝脏亚急性血肿",
+            "D.\t肝脏血管瘤",
+            "E.\t肝脓肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 70
+    },
+    {
+        "question_text": "71.\t下列关于肝转移癌的描述中，错误的是：",
+        "options": [
+            "A.\t常见于消化道肿瘤的转移",
+            "B.\t通常是多发",
+            "C.\t典型的CT征像是牛眼征或靶征",
+            "D.\t增强扫描病变呈多样性表现",
+            "E.\t常常有肝硬化的病变基础"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 71
+    },
+    {
+        "question_text": "72.\t下列关于胰腺炎的CT检查的描述，错误的是：",
+        "options": [
+            "A.\t胰腺多为弥漫性肿大",
+            "B.\t胰腺密度减低",
+            "C.\t胰腺边缘变模糊",
+            "D.\t胰腺坏死为低密度，出血为高密度",
+            "E.\t增强扫描胰腺肿块呈明显强化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 72
+    },
+    {
+        "question_text": "73.\t43岁男性，上腹隐痛半年就诊，ERCP示主胰管 粗细不均，扭曲，僵硬，胆总管下端向内移位。应 首先考虑：",
+        "options": [
+            "A.\t急性胰腺炎",
+            "B.\t慢性胰腺炎",
+            "C.\t胰腺假性囊肿",
+            "D.\t胰腺癌",
+            "E.\t先天性胆总管囊样扩张症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 73
+    },
+    {
+        "question_text": "74.\t典型急性出血性坏死性胰腺炎患者，CT扫描可 见到：",
+        "options": [
+            "A.\t胰腺表面光滑",
+            "B.\t胰腺萎缩",
+            "C.\t胰腺边缘锐利",
+            "D.\t肾前筋膜增厚",
+            "E.\t胰腺密度均匀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 74
+    },
+    {
+        "question_text": "75.\t下列急性胰腺炎CT检查的表现，错误的是：",
+        "options": [
+            "A.\t胰腺弥漫性肿大",
+            "B.\t胰腺假性囊肿形成",
+            "C.\t胰腺轮廓不清",
+            "D.\t胰内、胰周出现边缘不清的低密度区",
+            "E.\t肾前筋膜增厚"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 75
+    },
+    {
+        "question_text": "76.\t中年男性，上腹隐痛四月余就诊。CT示胰头肿 大，密度尚均匀，肝内外胆管无明显扩张，半年后 随访，病灶无明显变化。应首先考虑：",
+        "options": [
+            "A.\t胆总管结石",
+            "B.\t胰头癌",
+            "C.\t胰头炎症",
+            "D.\t胆管炎",
+            "E.\t十二指肠憩室炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 76
+    },
+    {
+        "question_text": "77.\t关于慢性胰腺炎CT表现的描述，错误的是：",
+        "options": [
+            "A.\t胰管可呈串珠状扩张，偶可中断不连续",
+            "B.\t胰腺明显肿大",
+            "C.\t胰腺内可见到钙化斑",
+            "D.\t肾周筋膜增厚",
+            "E.\t可有胰腺假性囊肿形成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 77
+    },
+    {
+        "question_text": "78.\t下列关于胰腺癌的CT表现，错误的是：",
+        "options": [
+            "A.\t平扫时胰腺肿块为低密度",
+            "B.\t可伴有肝内外胆管和胰管的扩张",
+            "C.\t增强扫描动脉期，病变由低密度肿块变为高密度 肿块",
+            "D.\t可以侵犯胰周血管",
+            "E.\t可伴有后腹膜淋巴结转移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 78
+    },
+    {
+        "question_text": "79.\t脾脏良性肿瘤最常见的是：",
+        "options": [
+            "A.\t血管瘤",
+            "B.\t纤维瘤",
+            "C.\t血管内皮细胞瘤",
+            "D.\t囊肿",
+            "E.\t错构瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 79
+    },
+    {
+        "question_text": "80.\t脾肿大最常见于的病变是：",
+        "options": [
+            "A.\t炎症",
+            "B.\t寄生虫",
+            "C.\t肿瘤",
+            "D.\t白血病",
+            "E.\t门脉高压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 80
+    },
+    {
+        "question_text": "81.\t下列关于脾脏的影像学检查，叙述错误的是：",
+        "options": [
+            "A.\t脾脏血管瘤的CT、MR表现与肝脏血管瘤的CT、 MR表现相类似",
+            "B.\t脾脏转移瘤也可见“牛眼征”或“靶征”",
+            "C.\t脾囊肿CT表现可为圆形低密度，CT值0-20HU, 增强扫描无强化",
+            "D.\t脾梗死CT表现为脾内三角形低密度影，尖端指 向脾门，增强扫描无强化",
+            "E.\tCT增强扫描动脉期，脾脏转移瘤显示最清楚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 81
+    },
+    {
+        "question_text": "82.\t泌尿系统的有关解剖，下列说法错误的是：",
+        "options": [
+            "A.\t腹部平片通常仅能显示肾脏的轮廓，而输尿管和 膀胱常常不能显示",
+            "B.\t输尿管有3个生理性狭窄，分别是与肾盂连接 处、越过骨盆边缘处和进入膀胱处",
+            "C.\t尿道也有3个生理性狭窄，分别是尿道内口、尿 道膜部和尿道外口",
+            "D.\t肾脏为腹膜后脏器，通常右侧肾脏比左侧肾脏位 置稍高1?2cm",
+            "E.\t肾盏可分为上、中、下三组，肾盂可分为喇叭 形、分枝形和壶腹形三型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 82
+    },
+    {
+        "question_text": "83.\t肾脏MRI的表现，错误的是：",
+        "options": [
+            "A.\t由于肾脏周围有脂肪组织的衬托，肾脏显示比较 清楚",
+            "B.\tT1WI上，肾皮质信号比髓质信号高",
+            "C.\tT2WI上，皮、髓质信号都高，难以分辨",
+            "D.\tT2WI上，肾皮质信号比髓质信号低",
+            "E.\t肾窦脂肪在T1WI和T2WI上分别呈高信号和中等 信号"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 83
+    },
+    {
+        "question_text": "84.\t关于泌尿系统结石，叙述错误的是：",
+        "options": [
+            "A.\t尿路结石多位于肾脏、输尿管或尿道的生理性狭 窄处",
+            "B.\t肾脏结石表现为肾区内形态多变的高密度影，侧 位片高密度影多位于脊柱的前方",
+            "C.\t输尿管结石表现为输尿管行径上高密度影，其纵 轴与输尿管走行常常一致",
+            "D.\t输尿管下端结石尿路造影可以有肾积水、肾脏延 迟显影、不显影，也可以表现正常",
+            "E.\t尿路造影时肾盂、膀胱内结石可表现为充盈缺损"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 84
+    },
+    {
+        "question_text": "85.\t关于肾脏结核的影像学检查，下列叙述错误的 是：",
+        "options": [
+            "A.\t平片可发现肾脏的改变，包括肾脏体积的缩小、 肾脏多发性形态不一的钙化灶",
+            "B.\t肾小盏正常杯口结构消失，肾小盏变形或消失， 可见虫蚀样破坏",
+            "C.\t因为发生干酪样坏死形成空洞，造影可有“云朵 状,，、“小水潭样,，改变",
+            "D.\t晚期可形成“肾自截”，输尿管、膀胱也可受累",
+            "E.\tCT可较好地显示肾脏结核病变的钙化和脂肪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 85
+    },
+    {
+        "question_text": "86.\t下列肾脏疾病中，常见不到钙化斑的是：",
+        "options": [
+            "A.\t肾结石",
+            "B.\t肾癌",
+            "C.\t肾囊肿",
+            "D.\t肾结核",
+            "E.\t肾错构瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 86
+    },
+    {
+        "question_text": "87.\t下列关于肾癌的MRI表现，叙述错误的是：",
+        "options": [
+            "A.\t肿块在T1WI上，其信号要稍低于正常肾皮质",
+            "B.\t小的肿块信号可以均匀",
+            "C.\t较大的肿块因出血、坏死和囊变，信号可以不均 匀",
+            "D.\tMRI增强扫描一般不强化",
+            "E.\t有时可以有假包膜征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 87
+    },
+    {
+        "question_text": "88.\t关于肾盂癌的描述，不恰当的是：",
+        "options": [
+            "A.\tT1加权，肾盂内可见肿块影",
+            "B.\tT1加权，肿块信号比尿液信号高",
+            "C.\tT2加权，肿块信号比尿液信号低",
+            "D.\t可以伴有肾盂积水",
+            "E.\t造影时肾盂内充盈缺损就可诊断为肾盂肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 88
+    },
+    {
+        "question_text": "89.\t关于肾错构瘤的MRI表现，错误的是：",
+        "options": [
+            "A.\t肿块内有脂肪信号即可诊断为错构瘤",
+            "B.\t肿块内脂肪信号LWI为低信号，T2WI为高信号",
+            "C.\t增强扫描，肿块可以有不均匀性强化",
+            "D.\t肿块可以有出血，为长TMI、长T2WI信号",
+            "E.\tCT扫描也能发现肿块内脂肪组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 89
+    },
+    {
+        "question_text": "90.\t下列关于肾上腺病变MRI表现的描述，错误的 是：",
+        "options": [
+            "A.\t长TMI、长T2WI信号，并且无强化的类圆形肿 块，通常是肾上腺囊肿",
+            "B.\t较大的类圆形肿块，信号不均匀，并且呈明显均 一的强化，多为嗜铬细胞瘤",
+            "C.\t不均质性肿块，高信号可以被脂肪抑制序列抑制 的病变，可为肾上腺髓质瘤",
+            "D.\t肾上腺肿块LWI和T2WI均和肝实质的信号相类 似，可为肾上腺腺瘤或转移瘤",
+            "E.\tMRI除了横断面外，可以矢状面和冠状面扫描， 可以清楚地显示肾上腺病变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 90
+    },
+    {
+        "question_text": "91.\t肾上腺疾病，下列叙述错误的是：",
+        "options": [
+            "A.\t肾上腺皮质癌，肿块常大于5cm，肿块内密度多 不均匀，易发生囊变、坏死和出血",
+            "B.\t肾上腺腺瘤肿块多较小，多为1?3cm,增强呈 轻度强化",
+            "C.\t肾上腺转移瘤，可为单侧或双侧，MRI表现其信 号和肝脏基本相似",
+            "D.\t嗜铬细胞瘤，可单侧或异位，CT扫描其密度不 均匀，增强有明显强化",
+            "E.\tCushing综合征可由肾上腺增生、肾上腺腺瘤和 肾上腺皮质癌引起"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 91
+    },
+    {
+        "question_text": "92.\t可同时累及两侧肾上腺的疾病有：",
+        "options": [
+            "A.\t转移癌",
+            "B.\t结核",
+            "C.\t增生",
+            "D.\t嗜铬细胞瘤",
+            "E.\t以上都可以"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 92
+    },
+    {
+        "question_text": "93.\t关于前列腺癌的MRI描述，错误的是：",
+        "options": [
+            "A.\t前列腺癌多发生于边缘区",
+            "B.\tT1加权，瘤体为等高信号",
+            "C.\tT1加权，瘤体为稍低信号",
+            "D.\tT2加权，瘤体信号有所增高，瘤体周围有低信号",
+            "E.\t前列腺癌检出，主要以T2加权为主"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 93
+    },
+    {
+        "question_text": "94.\t前列腺癌的影像学检查，下列叙述中错误的 是：",
+        "options": [
+            "A.\t肾盂造影膀胱显像期无助于前列腺增生和前列腺 癌的鉴别",
+            "B.\t前列腺癌多发生在前列腺的外围叶，MR组织分 辨率高，有助于病变的显示",
+            "C.\tT2加权像，外围带呈高信号改变，内如发现低 信号结节影要考虑前列腺癌",
+            "D.\tT2加权像，外围带呈低信号改变，内如发现高 信号结节影要考虑前列腺癌",
+            "E.\t用直肠线圈来进行前列腺MRI检查，可以提高前 列腺癌的检出率"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 94
+    },
+    {
+        "question_text": "95.\t下列关于腹膜后肿瘤，叙述错误的是：",
+        "options": [
+            "A.\t腹膜后肿瘤，常因临床症状出现迟，发现时肿块 较大，因此常常难以作出定性诊断",
+            "B.\t脂肪肉瘤仍然可以发现脂肪成分，但增强扫描时 肿块会有明显强化",
+            "C.\t平滑肌肉瘤常常较大，增强扫描呈不均匀性强 化，肿瘤中心可发生坏死囊变和出血",
+            "D.\t神经源性肿瘤一般境界不清楚，可发生钙化，增 强扫描呈均一性明显强化",
+            "E.\t腹膜后纤维化病程进展性改变，可累及输尿管而 导致肾盂积水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 95
+    },
+    {
+        "question_text": "96.\t上消化道检查应检查至：",
+        "options": [
+            "A.\t食管",
+            "B.\t胃",
+            "C.\t十二指肠",
+            "D.\t空肠",
+            "E.\t回肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 96
+    },
+    {
+        "question_text": "97. 下列X线征象中，提示为恶性的是：",
+        "options": [
+            "A. 放射状黏膜纠集",
+            "B. 腔外龛影",
+            "C. 环堤",
+            "D. 项圈征",
+            "E. 狭颈征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 97
+    },
+    {
+        "question_text": "98.\t下列消化道功能异常，钡餐不能检出的是：",
+        "options": [
+            "A.\t张力增高",
+            "B.\t分泌减少",
+            "C.\t逆蠕动",
+            "D.\t排空加快",
+            "E.\t分泌增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 98
+    },
+    {
+        "question_text": "99.\t肩胛征常见于：",
+        "options": [
+            "A.\t胃溃疡",
+            "B.\t胃窦癌",
+            "C.\t十二指肠溃疡",
+            "D.\t胃体部癌",
+            "E.\t结肠癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 99
+    },
+    {
+        "question_text": "100.\t发现尿路阳性结石最常用的方法是：",
+        "options": [
+            "A.\tB超检查",
+            "B.\t腹部平片检查",
+            "C.\t腹部CT检查",
+            "D.\t静脉尿路造影检查",
+            "E.\t逆行尿路造影检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 100
+    },
+    {
+        "question_text": "101.\t自截肾常见于：",
+        "options": [
+            "A.\t慢性肾炎",
+            "B.\t肾结核",
+            "C.\t肾结石",
+            "D.\t肾癌",
+            "E.\t慢性肾盂肾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 101
+    },
+    {
+        "question_text": "102.\t诊断肾上腺疾病的最佳方法是：",
+        "options": [
+            "A.\t腹膜后充气造影检查",
+            "B.\t腹部平片检查",
+            "C.\t腹部薄层CT检查",
+            "D.\t肾上腺血管造影检查",
+            "E.\t静脉肾盂造影检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 102
+    },
+    {
+        "question_text": "103.\t腹部平片，对下列状况诊断价值最低的是：",
+        "options": [
+            "A.\t尿路结石",
+            "B.\t肾结核",
+            "C.\t肾萎缩",
+            "D.\t膀胱肿瘤",
+            "E.\t了解节育环位置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 103
+    },
+    {
+        "question_text": "104.\t尿路平片不能显示：",
+        "options": [
+            "A.\t尿路结石",
+            "B.\t腰大肌轮廓",
+            "C.\t肾功能",
+            "D.\t肾轮廓",
+            "E.\t腹腔、盆腔异常钙化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 104
+    },
+    {
+        "question_text": "105.\t双侧肾影增大则可除外：",
+        "options": [
+            "A.\t自截肾",
+            "B.\t双侧重复肾",
+            "C.\t多囊肾",
+            "D.\t肾囊肿",
+            "E.\t双侧肾盂积水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 105
+    },
+    {
+        "question_text": "106.\t下述尿路结石知识，错误的是：",
+        "options": [
+            "A.\t常有肾绞痛",
+            "B.\t常有肾盂积水",
+            "C.\t多为阴性结石",
+            "D.\t常有血尿",
+            "E.\t平片检出率高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 106
+    },
+    {
+        "question_text": "107.\t超声提示肾实质小占位，进一步检查应首选:",
+        "options": [
+            "A.\tIVP",
+            "B.\tCT",
+            "C.\tKUB",
+            "D.\t同位素扫描",
+            "E.\t血管造影"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 107
+    },
+    {
+        "question_text": "108.\t下列关于乳房纤维瘤的描述，错误的是：",
+        "options": [
+            "A.\t多为青壮年患者",
+            "B.\t妊辰期肿瘤增大",
+            "C.\t绝经后肿瘤缩小",
+            "D.\t常为双侧、多发",
+            "E.\t分叶状肿块"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 108
+    },
+    {
+        "question_text": "109.\t下列关于乳腺癌的诊断要点，错误的是：",
+        "options": [
+            "A.\t40—60岁妇女",
+            "B.\t局部皮肤增厚、回缩",
+            "C.\t沙粒样钙化",
+            "D.\tCT增强明显强化",
+            "E.\t乳腺内圆形肿块，边缘规则"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 109
+    }
+]

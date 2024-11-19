@@ -1,0 +1,366 @@
+[
+    {
+        "question_text": "1.\t下列腹腔器官中，外周无包膜的是：",
+        "options": [
+            "A.\t肝",
+            "B.\t胰",
+            "C.\t脾",
+            "D.\t肾",
+            "E.\t子宫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t胰腺钩突为胰头组成部分，它位于哪两条血管中 间：",
+        "options": [
+            "A.\t肠系膜上静脉和下腔静脉",
+            "B.\t肠系膜上动脉和下腔静脉",
+            "C.\t肠系膜上静脉和腹主动脉",
+            "D.\t肠系膜上动脉和腹主动脉",
+            "E.\t腹主动脉和脾静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t胰腺的后方紧邻的结构是：",
+        "options": [
+            "A.\t脾静脉",
+            "B.\t腹主动脉",
+            "C.\t下腔静脉",
+            "D.\t十二指肠横部",
+            "E.\t胆总管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 3
+    },
+    {
+        "question_text": "4.\t从超声横切面观察，胰腺的形态最常见的是：",
+        "options": [
+            "A.\t蝌蚪形",
+            "B.\t哑铃形",
+            "C.\t腊肠形",
+            "D.\t马蹄形",
+            "E.\t环形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 4
+    },
+    {
+        "question_text": "5.\t检查胰腺的体位以仰卧位最常用，当胃肠气体 多，胰腺显示困难时，有利于胰腺显示的体位是：",
+        "options": [
+            "A.\t左侧卧位",
+            "B.\t右侧卧位",
+            "C.\t半卧位",
+            "D.\t坐位",
+            "E.\t俯卧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 5
+    },
+    {
+        "question_text": "6.\t通常称胰头增大，其前后径测值应：",
+        "options": [
+            "A.\t>2.0cm",
+            "B.\t>2.5cm",
+            "C.\t>3.0cm",
+            "D.\t>3.5cm",
+            "E.\t>4.0cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t正常主胰管内径是：",
+        "options": [
+            "A.\tWlmm",
+            "B.\tW2mm",
+            "C.\tW3mm",
+            "D.\tW4mm",
+            "E.\tW5mm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t急性胰腺炎最常见的局部并发症是：",
+        "options": [
+            "A.\t假性囊肿",
+            "B.\t休克",
+            "C.\t成人呼吸窘迫综合征",
+            "D.\t糖尿病",
+            "E.\t胰周脓肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t胰腺假性囊肿与真性囊肿超声鉴别要点是：①假 性囊肿在胰周，真性囊肿在胰内；②前者较大，后 者较小；③前者有胰腺炎病史，后者一般为先天 性；④前者穿刺液为胰液，后方为黏液",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t壶腹癌与胰头癌的超声鉴别要点是：①前者常 呈高回声，后者常呈低回声；②前者胰头大小正 常，后者胰头增大；③前者下腔静脉不受压，后者 下腔静脉常受压；④前者胰管、胆总管同时扩张， 后者胰管、胆总管扩张常较前者迟：",
+        "options": [
+            "A.\t①②③",
+            "B.\t①③",
+            "C.\t②④",
+            "D.\t④",
+            "E.\t①②③④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t胰腺癌最常见的回声类型是：",
+        "options": [
+            "A.\t高回声",
+            "B.\t低回声",
+            "C.\t等回声",
+            "D.\t混合回声",
+            "E.\t杂乱回声"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t引起胰管不均匀串珠状增宽的胰腺疾病中，最 常见的是：",
+        "options": [
+            "A.\t胰头癌",
+            "B.\t胰岛细胞瘤",
+            "C.\t胰管蛔虫",
+            "D.\t慢性胰腺炎",
+            "E.\t胰腺囊腺瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t引起急性胰腺炎的最常见原因是：",
+        "options": [
+            "A.\t胆系感染",
+            "B.\t外伤",
+            "C.\t流行性腮腺炎",
+            "D.\t败血症",
+            "E.\t甲状旁腺功能亢进"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t早期即可引起胰管和胆总管同时扩张的疾病， 最常见的是：",
+        "options": [
+            "A.\t胆总管结石",
+            "B.\t壶腹癌",
+            "C.\t胰头癌",
+            "D.\t慢性胰腺炎",
+            "E.\t胰岛细胞瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t胰腺囊肿和实质性肿块最好的超声鉴别方法 是：",
+        "options": [
+            "A.\tM型超声",
+            "B.\tB型超声",
+            "C.\tA型超声",
+            "D.\t彩色多普勒",
+            "E.\t超声造影"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t常见的原发性胰腺癌是：",
+        "options": [
+            "A.\t平滑肌肉瘤",
+            "B.\t腺瘤",
+            "C.\t淋巴瘤",
+            "D.\t导管腺癌",
+            "E.\t以上各项均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t慢性胰腺炎胰腺的声像特征为：①钙化；②均 匀性增大；③分叶状多块状；④多囊性改变",
+        "options": [
+            "A.\t①+③",
+            "B.\t②+④",
+            "C.\t①+②+③",
+            "D.\t①+②+③+④",
+            "E"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t胰腺最常见的肿瘤是：",
+        "options": [
+            "A.\t腺癌",
+            "B.\t假性囊肿",
+            "C.\t胰岛细胞瘤",
+            "D.\t囊腺癌",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t胰腺颈部可见下列结构会合：",
+        "options": [
+            "A.\t脾静脉、肠系膜上静脉会合为门静脉",
+            "B.脾静脉、门静脉\t1.正常成人脾厚径不超过：",
+            "C.肠系膜上静脉、门静脉\tA.2cm",
+            "D.脾静脉、肾静脉\tB.3cm",
+            "E"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 19
+    },
+    {
+        "question_text": "20,随着年龄增大，胰腺显示为：\tC.4cm",
+        "options": [
+            "A.回声强度降低，形状增大\tD.5cm",
+            "B.形状缩小而回声增强\tE.6cm",
+            "C.形状增大但无回声改变\t2.正常成人脾长径不超过：",
+            "D.形态增大并有回声减低\tA.6cm",
+            "E.无变化\tB.8cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 20
+    },
+    {
+        "question_text": "21.正常胰腺头、体、尾各部前后径的超声测值为\tC.l0cm（单位：cm）：\tD.12cm",
+        "options": [
+            "A.3.0，3.0，3.0\tE.14cm",
+            "B.2.5，\t2.5，\t2.0\t3.正常脾静脉的内径为：",
+            "C.3.0，\t2.5，\t2.5\tA.2 ?4mm",
+            "D.3.0，2.5，2.0\tB.3 ?5mm",
+            "E.3.0，2.0，2.0\tC.5 ?7mm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 21
+    },
+    {
+        "question_text": "22.胰头癌出现压迫症状时，超声图像可显示：\tD.7 ?11mm",
+        "options": [
+            "A.肝内胆管、胆囊、胆总管扩张\tE.8 ?12mm",
+            "B.肝内胆管、胆囊、胆总管及下腔静脉扩张\t4,副脾是类圆形低回声团块，可以单个或多个，最",
+            "C.肝内胆管、胆囊、胆总管及胰腺导管扩张\t常见的位置在：",
+            "D.肝内胆管、胆囊、胆总管、胰腺导管及门静脉扩",
+            "E"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 22
+    },
+    {
+        "question_text": "23.胰腺癌最常发生在：",
+        "options": [
+            "A.胰头",
+            "B.胰颈",
+            "C.胰体",
+            "D.脾下缘",
+            "E.左肾上极"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 23
+    },
+    {
+        "question_text": "24.胰腺钩突部肿瘤可引起：",
+        "options": [
+            "A.下腔静脉前移",
+            "B.肠系膜上静脉前移",
+            "C.腹主动脉前移",
+            "D.左肾静脉前移",
+            "E.肠系膜下动脉前移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 24
+    },
+    {
+        "question_text": "25.胰腺的下方与胰腺平行的结构是：\t声中断，可同时存在脾实质和包膜下血肿",
+        "options": [
+            "A.腹腔动脉",
+            "B.脾静脉",
+            "C.肾静脉",
+            "D.门静脉",
+            ""
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 25
+    },
+    {
+        "question_text": "26.胰头肿瘤病人，临床上常在其右上腹触及肿块，超声认为该肿块大多为：",
+        "options": [
+            "A.胰头肿块",
+            "B.转移性病灶",
+            "C.肿大之肝脏",
+            "D.粘连性肿块",
+            "E.肿大的胆囊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 26
+    }
+]

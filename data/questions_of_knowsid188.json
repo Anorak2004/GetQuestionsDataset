@@ -1,0 +1,702 @@
+[
+    {
+        "question_text": "1.\t一般不用于检查心脏的体位是：",
+        "options": [
+            "A.\t后前立位片",
+            "B.\t左前斜位",
+            "C.\t右前斜位",
+            "D.\t左侧位",
+            "E.\t右侧位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 1
+    },
+    {
+        "question_text": "2.\t在远达片后前立位上，右心缘上段为：",
+        "options": [
+            "A.\t上腔静脉及升主动脉的复合投影",
+            "B.\t上腔静脉",
+            "C.\t升主动脉",
+            "D.\t右心房",
+            "E.\t左心房"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 2
+    },
+    {
+        "question_text": "3.\t在远达片后前立位上，正常情况下左心缘看不 到：",
+        "options": [
+            "A.\t主动脉结",
+            "B.\t肺动脉段",
+            "C.\t左心耳",
+            "D.\t右心室",
+            "E.\t左心室"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 3
+    },
+    {
+        "question_text": "4.45。右前斜位片，正常情况下心前缘自上而下 为：",
+        "options": [
+            "A.\t升主动脉、主肺动脉干、右心室圆锥部、右心室",
+            "B.\t升主动脉、右心室圆锥部、右心室、左心室",
+            "C.\t升主动脉、主肺动脉干、右心室、左心室",
+            "D.\t主肺动脉干、右心室圆锥部、左心房、左心室",
+            "E.\t主肺动脉干、右心室圆锥部、右心房、右心室"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 4
+    },
+    {
+        "question_text": "5.60。左前斜位片，正常情况下心后缘自上而下 为：",
+        "options": [
+            "A.\t右心房、右心室",
+            "B.\t右心房、左心房",
+            "C.\t左心房、左心室",
+            "D.\t右心室、左心室",
+            "E.\t右心房、左心室"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 5
+    },
+    {
+        "question_text": "6.\tX线平片判断心脏增大的方法，心脏横径是：",
+        "options": [
+            "A.\t左、右心缘至体中线的最大距离之和",
+            "B.\t左心缘至右心缘的距离",
+            "C.\t左心缘至体中线的最大距离",
+            "D.\t右心缘至体中线的最大距离",
+            "E.\t右膈顶水平胸廓的内径"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 6
+    },
+    {
+        "question_text": "7.\t下列关于二尖瓣型心脏的描述，错误的是：",
+        "options": [
+            "A.\t肺动脉段凸出及心尖上翘",
+            "B.\t主动脉结缩小",
+            "C.\t形如梨形",
+            "D.\t反映右心负荷或以其为主的心腔变化",
+            "E.\t肺动脉段凹陷及心尖下移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 7
+    },
+    {
+        "question_text": "8.\t气管隆凸开大，一般见于：",
+        "options": [
+            "A.\t右心房增大",
+            "B.\t左心房增大",
+            "C.\t右心室增大",
+            "D.\t左心室增大",
+            "E.\t膈肌上台"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 8
+    },
+    {
+        "question_text": "9.\t右前斜位，服钡检查示中下段食管有局限性压迹 和移位，此征像表示：",
+        "options": [
+            "A.\t右心房增大",
+            "B.\t左心房增大",
+            "C.\t右心室增大",
+            "D.\t左心室增大",
+            "E.\t右心增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 9
+    },
+    {
+        "question_text": "10.\t在远达片上，心尖下移、相反搏动点上移、心 腰凹陷，此征像表示：",
+        "options": [
+            "A.\t右心房增大",
+            "B.\t左心房增大",
+            "C.\t右心室增大",
+            "D.\t左心室增大",
+            "E.\t右心增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 10
+    },
+    {
+        "question_text": "11.\t在远达片上出现双方影，此征像表示：",
+        "options": [
+            "A.\t右心房增大",
+            "B.\t左心房增大",
+            "C.\t右心室增大",
+            "D.\t左心室增大",
+            "E.\t胸主动脉屈曲延长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 11
+    },
+    {
+        "question_text": "12.\t下列X线征像中，不是肺血增多的表现的是：",
+        "options": [
+            "A.\t肺血管纹理增多",
+            "B.\t肺动脉段凸出，两肺门动脉扩张，搏动增强",
+            "C.\t扩张的血管边缘清楚",
+            "D.\t肺野透明度正常",
+            "E.\t肺野内出现扭曲而紊乱的血管影"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 12
+    },
+    {
+        "question_text": "13.\t下列X线征像中，不是肺血减少的表现的是：",
+        "options": [
+            "A.\t肺血管纹理变细",
+            "B.\t肺门动脉正常",
+            "C.\t肺野透明度增加",
+            "D.\t肺动脉段凸出",
+            "E.\t肺静脉扩张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 13
+    },
+    {
+        "question_text": "14.\t下列X线征像中，不是肺动脉高压的表现的 是：",
+        "options": [
+            "A.\t肺动脉段明显凸出",
+            "B.\t肺门动脉扩张、搏动增强",
+            "C.\t出现肺门截断现象",
+            "D.\t右心室增大",
+            "E.\t肺纹理增多，边缘模糊"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 14
+    },
+    {
+        "question_text": "15.\t下列关于K氏B线的描述错误的是：",
+        "options": [
+            "A.\t是一种间隔线",
+            "B.\t是肺泡间隔水肿增厚的投影",
+            "C.\t见于间质性肺水肿",
+            "D.\t呈网格状影",
+            "E.\t常见于二尖瓣狭窄和慢性左心衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 15
+    },
+    {
+        "question_text": "16.\t关于肺泡性肺水肿的描述，正确的是：",
+        "options": [
+            "A.\t上肺静脉扩张、下肺静脉正常或缩窄",
+            "B.\t胸膜下或（和）胸腔少量积液",
+            "C.\t肺门影增大，边缘模糊",
+            "D.\t一侧或两侧广泛分布的斑片状阴影，边缘模糊， 在短期内变化较大",
+            "E.\t肺野透明度增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 16
+    },
+    {
+        "question_text": "17.\t左心衰竭的X线表现，应除外：",
+        "options": [
+            "A.\t较重的肺淤血+肋膈角或（和）叶间少量积液",
+            "B.\t间质性肺水肿",
+            "C.\t上腔静脉扩张",
+            "D.\t肺泡性肺水肿",
+            "E.\t左室房的增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 17
+    },
+    {
+        "question_text": "18.\t目前首选的无创检查房间隔缺损的方法是：",
+        "options": [
+            "A.\tX线平片",
+            "B.\tCT",
+            "C.\tMRI",
+            "D.\t超声心动图",
+            "E.\t心血管造影"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 18
+    },
+    {
+        "question_text": "19.\t迄今，诊断动脉导管未闭的“金标准”是：",
+        "options": [
+            "A.\tX线平片",
+            "B.\tCT",
+            "C.\tMRI",
+            "D.\t超声心动图",
+            "E.\t心血管造影"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 19
+    },
+    {
+        "question_text": "20.\t目前，诊断肺动脉瓣狭窄首选的无创影像技术 是：",
+        "options": [
+            "A.\tX线平片",
+            "B.\tCT",
+            "C.\tPET",
+            "D.\tMRI",
+            "E.\t超声心动图"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 20
+    },
+    {
+        "question_text": "21.\t下列畸形，不属于法洛四联征的是：",
+        "options": [
+            "A.\t肺动脉狭窄",
+            "B.\t右心室肥厚",
+            "C.\t房间隔缺损",
+            "D.\t主动脉骑跨",
+            "E.\t室间隔缺损"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 21
+    },
+    {
+        "question_text": "22.\t下列X线征像，不属于法洛四联征的是：",
+        "options": [
+            "A.\t肺血减少",
+            "B.\t两肺门动脉细小",
+            "C.\t主动脉升弓部增宽、凸出",
+            "D.\t心脏近似靴形",
+            "E.\t肺动脉段一心腰部膨隆，心尖圆隆"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 22
+    },
+    {
+        "question_text": "23.\t用于心脏的检查，与CT比较，MRI具有下列优 势，除了：",
+        "options": [
+            "A.\t可获得标准的三维图像和斜位图像",
+            "B.\t改变扫描序列可提高病变的识别和鉴别能力",
+            "C.\t无X射线的副作用",
+            "D.\t检查的时间更短",
+            "E.\t对心脏形态、结构和病变的显示能力更强"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 23
+    },
+    {
+        "question_text": "24.\t下列X线征像，不属于单纯典型风湿性心脏病 二尖瓣狭窄的表现：",
+        "options": [
+            "A.\t肺淤血",
+            "B.\t心脏呈“二尖瓣”型",
+            "C.\t左心房增大",
+            "D.\t右心室增大",
+            "E.\t肺纹理稀疏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 24
+    },
+    {
+        "question_text": "25.\t风湿性心脏病二尖瓣狭窄时，心影呈：",
+        "options": [
+            "A.\t梨形心",
+            "B.\t横位心",
+            "C.\t靴形心",
+            "D.\t悬滴状心",
+            "E.\t球形心"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 25
+    },
+    {
+        "question_text": "26.\t风湿性心脏病最常见的瓣膜病变是：",
+        "options": [
+            "A.\t二尖瓣狭窄",
+            "B.\t二尖瓣关闭不全",
+            "C.\t三尖瓣狭窄",
+            "D.\t主动脉瓣狭窄",
+            "E.\t主动脉瓣关闭不全"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 26
+    },
+    {
+        "question_text": "27.\t心室壁瘤的X线表现不包括：",
+        "options": [
+            "A.\t左室缘局限性膨凸",
+            "B.\t左心室“不自然”增大",
+            "C.\t左室缘博动异常",
+            "D.\t左室壁钙化",
+            "E.\t心腰部膨凸，心尖圆隆上翘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 27
+    },
+    {
+        "question_text": "28.\t下列疾病特点是心脏局部出现矛盾运动的是：",
+        "options": [
+            "A.\t缩窄性心包炎",
+            "B.\t心肌炎",
+            "C.\t心包积液",
+            "D.\t克山病",
+            "E.\t室壁瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 28
+    },
+    {
+        "question_text": "29.\t肺原性心脏病，心影有时可呈：",
+        "options": [
+            "A.\t梨形心",
+            "B.\t横位心",
+            "C.\t悬垂型心",
+            "D.\t靴形心",
+            "E.\t主动脉型心"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 29
+    },
+    {
+        "question_text": "30.\t下列对于肥厚型心肌病的描述，错误的是：",
+        "options": [
+            "A.\t心肌肥厚",
+            "B.\t心腔不扩张，且多缩小、变形",
+            "C.\t最常累及肌部室间隔",
+            "D.\t心室舒张受限",
+            "E.\t心室的收缩功能降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 30
+    },
+    {
+        "question_text": "31.\t大量心包积液的典型X线征象，应除外：",
+        "options": [
+            "A.\t肺纹理增多、增粗",
+            "B.\t心影向两侧扩大",
+            "C.\t心腰及心缘各弓的正常分界消失",
+            "D.\t心缘搏动普遍减低",
+            "E.\t短期内心影大小可有明显变化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 31
+    },
+    {
+        "question_text": "32.\t诊断缩窄性心包炎较可靠的X线征象是：",
+        "options": [
+            "A.\t心脏搏动减弱",
+            "B.\t心缘僵直，正常弧形消失",
+            "C.\t心包钙化",
+            "D.\t间质性肺水肿",
+            "E.\t上腔静脉影增宽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 32
+    },
+    {
+        "question_text": "33.\t用CT来诊断缩窄性心包炎，错误的是：",
+        "options": [
+            "A.\t平扫显示心包异常不规则增厚",
+            "B.\t不能发现X线平片未能显示的钙化灶",
+            "C.\tEBCT增强扫描能观察到左、右心室内径缩小",
+            "D.\t可显示腔静脉扩张，左、右心房扩大",
+            "E.\t可显示腹水及胸腔积液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 33
+    },
+    {
+        "question_text": "34.\t关于胸主动脉瘤的描述，错误的是：",
+        "options": [
+            "A.\t可分为真性和假性动脉瘤",
+            "B.\t真性动脉瘤可分为囊状、梭形和混合型",
+            "C.\t假性动脉瘤的瘤壁由动脉壁的3层组织构成",
+            "D.\t基本X线征象是纵隔阴影增宽或形成局限性块影",
+            "E.\t肿块或纵隔增宽影可见扩张性搏动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 34
+    },
+    {
+        "question_text": "35.\t关于胸主动脉夹层动脉瘤的描述，错误的是：",
+        "options": [
+            "A.\tDebakey将主动脉夹层分为三型",
+            "B.\t主要症状是胸背痛、气短、咳嗽、声音嘶哑等",
+            "C.\t特征性CT征象是内膜钙化外移，并显示真假腔 及内膜瓣片",
+            "D.\tCT增强扫描可显示附壁血栓",
+            "E.\tCT三维重建可从不同解剖角度观察其主要征象 和病变范围"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 35
+    },
+    {
+        "question_text": "36.\t下列征象中，不属于右心室增大的表现的是：",
+        "options": [
+            "A.\t心尖圆隆、上翘",
+            "B.\t心腰凸出",
+            "C.\t右前斜位示圆锥部膨凸",
+            "D.\t左前斜位示心前缘右室段向前膨凸",
+            "E.\t左前斜位示心室间沟向前下移位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 36
+    },
+    {
+        "question_text": "37.\t一般来说，成人心胸比率的正常上限为：",
+        "options": [
+            "A.\t0.40",
+            "B.\t0.50",
+            "C.\t0.55",
+            "D.\t0.60",
+            "E.\t0.65"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 37
+    },
+    {
+        "question_text": "38.\t下列哪个征象不属于肺栓塞的X线表现：",
+        "options": [
+            "A.\t一侧或某个区域肺血管纹理显著稀疏",
+            "B.\t同侧肺门或相应叶、段动脉阴影细小",
+            "C.\t对侧肺门阴影扩张",
+            "D.\t叶、段动脉或分支粗细不均，走行异常",
+            "E.\t心影呈主动脉型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 38
+    },
+    {
+        "question_text": "39.\t正常成人右下肺动脉主干直径一般为：",
+        "options": [
+            "A.\tW3mm",
+            "B.\tW8mm",
+            "C.\tW10mm",
+            "D.\tW15mm",
+            "E.\tW20mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 39
+    },
+    {
+        "question_text": "40.\t右前斜位X线摄片上食管压迹加深，提示：",
+        "options": [
+            "A.\t左心室增大",
+            "B.\t右心房增大",
+            "C.\t右心室增大",
+            "D.\t主动脉增宽，扭曲",
+            "E.\t左心房增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 40
+    },
+    {
+        "question_text": "41.\t风湿性心脏病二尖瓣病变时肺血管的改变是：",
+        "options": [
+            "A.\t肺充血",
+            "B.\t肺出血",
+            "C.\t肺淤血",
+            "D.\t肺栓塞",
+            "E.\t肺缺血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 41
+    },
+    {
+        "question_text": "42.\t下述风湿性心脏病二尖瓣狭窄的影像，错误的 是：",
+        "options": [
+            "A.\t间质性肺水肿",
+            "B.\t肺门影增大",
+            "C.\t梨形心",
+            "D.\t双房影",
+            "E.\t主动脉结增大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 42
+    },
+    {
+        "question_text": "43.\t左前斜位上，心后间隙消失见于：",
+        "options": [
+            "A.\t左心房增大",
+            "B.\t左心室增大",
+            "C.\t右心房增大",
+            "D.\t右心室增大",
+            "E.\t二尖瓣狭窄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 43
+    },
+    {
+        "question_text": "44.\t肺血减少的X线平片表现，除了：",
+        "options": [
+            "A.\t肺门缩小",
+            "B.\t右下肺动脉干变细",
+            "C.\t肺野透亮度减低",
+            "D.\t肺野内见走行紊乱的网状血管影",
+            "E.\t肺纹理稀疏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 44
+    },
+    {
+        "question_text": "45.\t下列关于MRI检查循环系统的描述错误的是：",
+        "options": [
+            "A.\tMRI仅可从冠状面、矢状面与横断面来显示心脏 大血管的解剖结构",
+            "B.\tMRI在循环系统的临床应用广泛",
+            "C.\tMRI可用于检查心脏瓣膜疾病",
+            "D.\t屏气法MRI电影可观察左室收缩率的变化",
+            "E.\t心肌标记技术可以鉴别慢速血流和血栓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 45
+    },
+    {
+        "question_text": "46.\tMRI用于诊断主动脉瘤，错误的是：",
+        "options": [
+            "A.\t可显示瘤体大小",
+            "B.\t可显示瘤壁钙化",
+            "C.\t可显示瘤内附壁血栓",
+            "D.\t可显示瘤腔外的情况",
+            "E.\t可显示受累的动脉大分支"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 46
+    },
+    {
+        "question_text": "47.\tMRI可显示下列心脏结构，除了：",
+        "options": [
+            "A.\t房室间隔",
+            "B.\t心肌壁厚度",
+            "C.\t心腔大小",
+            "D.\t人工生物瓣膜",
+            "E.\t金属瓣膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 47
+    },
+    {
+        "question_text": "48. MRI显示主动脉夹层真腔与假腔主要基于两者血流速度不同。以下叙述中正确的是：",
+        "options": [
+            "A.  真腔内血流速度快,一般显示为高信号",
+            "B.  真腔内血流速度慢,一般显示为低信号",
+            "C.  真腔内血流速度快,一般显示为无信号",
+            "D.  假腔内血流速度快,一般显示为低信号",
+            "E.  真腔内血流速度慢,一般显示为高信号"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 48
+    },
+    {
+        "question_text": "49.\tMRI诊断心包积液的优点，除了：",
+        "options": [
+            "A.\t发现少量心包积液敏感",
+            "B.\t定位准确",
+            "C.\t价格便宜",
+            "D.\t可作半定量分析",
+            "E.\t对包裹性积液定位较佳"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 49
+    },
+    {
+        "question_text": "50.\tMRI诊断法洛四联征的优点是：",
+        "options": [
+            "A.\t大视野",
+            "B.\t多体位直接成像",
+            "C.\t空间分辨率优于超声心动图",
+            "D.\t对左右肺动脉观察优于超声心动图",
+            "E.\t以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 50
+    }
+]
