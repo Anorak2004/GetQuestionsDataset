@@ -1,0 +1,926 @@
+[
+    {
+        "question_text": "51、α螺旋和β折叠是蛋白质的（   ）",
+        "options": [
+            "A.一级结构",
+            "B. 二级结构",
+            "C.三级结构",
+            "D.四级结构",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 1
+    },
+    {
+        "question_text": "52、在活细胞中，所占细胞质量比例最大的小分子是（   ）",
+        "options": [
+            "A.单糖",
+            "B.核苷酸",
+            "C.氨基酸",
+            "D.水",
+            "E.脂肪酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 2
+    },
+    {
+        "question_text": "53、以下分子不具有双亲性的是（   ）",
+        "options": [
+            "A.磷脂",
+            "B.胆固醇",
+            "C.氨基酸",
+            "D.脂肪酸",
+            "E.葡萄糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 3
+    },
+    {
+        "question_text": "54、以下哪个不属于细胞内主要的有机小分子（   ）",
+        "options": [
+            "A.单糖",
+            "B. 脂肪酸",
+            "C.氨基酸",
+            "D. 核苷酸",
+            "E.RNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 4
+    },
+    {
+        "question_text": "55、维系蛋白质一级结构的主要化学键是（   ）",
+        "options": [
+            "A.肽键",
+            "B.二硫键",
+            "C.离子键",
+            "D.氢键",
+            "E.高能磷酸键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 5
+    },
+    {
+        "question_text": "56、维持蛋白质二级结构的主要化学键是（   ）",
+        "options": [
+            "A.肽键",
+            "B.二硫键",
+            "C.离子键",
+            "D.氢键",
+            "E.高能磷酸键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 6
+    },
+    {
+        "question_text": "57、蛋白质是重要的生命大分子，以下哪项不属于其功能（   ）",
+        "options": [
+            "A.是细胞的主要组成成分",
+            "B.能自我复制",
+            "C.可催化细胞内的生化反应",
+            "D.传递遗传信息",
+            "E.为细胞的生命活动供能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 7
+    },
+    {
+        "question_text": "58、真核细胞内储存遗传物质的分子是（  ）",
+        "options": [
+            "A.蛋白质",
+            "B.DNA",
+            "C.RNA",
+            "D.脂类",
+            "E.多糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 8
+    },
+    {
+        "question_text": "59、人类血红蛋白到达蛋白质的（ ）结构才表现出生物活性",
+        "options": [
+            "A.一级",
+            "B.二级",
+            "C.三级",
+            "D.四级",
+            "E.变构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 9
+    },
+    {
+        "question_text": "60、由一条多肽链构成的蛋白质，到达（ ）结构后才具有生物学活性",
+        "options": [
+            "A.一级",
+            "B.二级",
+            "C.三级",
+            "D.四级",
+            "E.变构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 10
+    },
+    {
+        "question_text": "61、四级结构中每个具有独立三级结构的肽链称为（  ）",
+        "options": [
+            "A.亚基",
+            "B.配体",
+            "C.受体",
+            "D.抗体",
+            "E.抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 11
+    },
+    {
+        "question_text": "62、蛋白质的一级结构是指（   ）",
+        "options": [
+            "A.氨基酸的组成",
+            "B.核苷酸的组成",
+            "C.脂肪酸的组成",
+            "D.高能磷酸键",
+            "E.氢键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 12
+    },
+    {
+        "question_text": "63、常见的蛋白质的二级结构不包括（   ）",
+        "options": [
+            "A.α螺旋",
+            "B.发卡结构",
+            "C.β折叠",
+            "D.三股螺旋",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 13
+    },
+    {
+        "question_text": "64、核苷酸之间的连接，主要需借助于（   ）",
+        "options": [
+            "A.磷酸二酯键",
+            "B.氢键",
+            "C.二硫键",
+            "D.肽键",
+            "E.糖苷键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 14
+    },
+    {
+        "question_text": "65、在DNA分子中，若A+T＝60％，则G的含量是（  ）",
+        "options": [
+            "A.0.1",
+            "B.0.2",
+            "C.0.3",
+            "D.0.4",
+            "E.0.5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 15
+    },
+    {
+        "question_text": "66、遗传密码位于",
+        "options": [
+            "A.DNA",
+            "B.mRNA",
+            "C.tRNA",
+            "D.rRNA",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 16
+    },
+    {
+        "question_text": "67、以下关于酶作为生物催化剂的描述，不正确的是（   ）",
+        "options": [
+            "A.高度催化性",
+            "B.高度专一性",
+            "C.高度稳定性",
+            "D.高度特异性",
+            "E.以上都对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 17
+    },
+    {
+        "question_text": "68、由22个单核苷酸所组成的单链RNA分子，无编码功能的RNA是（   ）",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 18
+    },
+    {
+        "question_text": "69、由25-30个单核苷酸所组成的双链RNA分子，能够通过同源互补将靶序列mRNA降解的是(   )",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 19
+    },
+    {
+        "question_text": "70、由24-31个单核苷酸所组成的单链RNA分子，主要存在于精子细胞中(    )",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 20
+    },
+    {
+        "question_text": "71、原核细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 21
+    },
+    {
+        "question_text": "72、植物细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 22
+    },
+    {
+        "question_text": "73、动物细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 23
+    },
+    {
+        "question_text": "74、体积最小的是\n（   ）",
+        "options": [
+            "A.肝细胞",
+            "B.红细胞",
+            "C.大肠杆菌",
+            "D.葡萄球菌",
+            "E.支原体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 24
+    },
+    {
+        "question_text": "75、在不同的多细胞生物体内，下列说法不对的是（     ）",
+        "options": [
+            "A.细胞数目差异很大",
+            "B.个体越大，细胞数目越多",
+            "C.细胞数目增加是通过分裂实现的",
+            "D.细胞数目减少是由于细胞死亡",
+            "E.所有细胞的增殖能力都是一样的"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 25
+    },
+    {
+        "question_text": "76、正常生理状态下，人类成熟红细胞的形状是（   ）",
+        "options": [
+            "A.纺锤形",
+            "B.长梭状",
+            "C.柱状",
+            "D.圆盘形",
+            "E.星芒形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 26
+    },
+    {
+        "question_text": "77、正常生理状态下，人类神经细胞的形状是（   ）",
+        "options": [
+            "A.纺锤形",
+            "B.长梭状",
+            "C.柱状",
+            "D.圆盘形",
+            "E.星芒形"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 27
+    },
+    {
+        "question_text": "78、不属于膜相结构的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.中心体",
+            "C.高尔基体",
+            "D.内质网",
+            "E.溶酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 28
+    },
+    {
+        "question_text": "79、属于膜相结构的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.中心体",
+            "C.核糖体",
+            "D.染色体",
+            "E.核基质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 29
+    },
+    {
+        "question_text": "80、物质的新陈代谢包括合成代谢和分解代谢，又称（   ）和（  ）",
+        "options": [
+            "A.同化作用，异化作用",
+            "B.异化作用，同化作用",
+            "C.同化作用，同化作用",
+            "D.异化作用，异化作用",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 30
+    },
+    {
+        "question_text": "81、有机体的生长与发育是通过细胞哪些生命活动实现的（   ）",
+        "options": [
+            "A.分裂",
+            "B.分化",
+            "C.迁移",
+            "D.凋亡",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 31
+    },
+    {
+        "question_text": "82、细胞的生命特征有（   ）",
+        "options": [
+            "A.以新陈代谢为基础",
+            "B.生长发育繁殖的基础",
+            "C.具有遗传性",
+            "D.具有进化性",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 32
+    },
+    {
+        "question_text": "83、生命进化的历程包括（   ）",
+        "options": [
+            "A.从无机物到有机物",
+            "B.从非细胞到细胞",
+            "C.从原核细胞到真核细胞",
+            "D.从单细胞生物到多细胞生物",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 33
+    },
+    {
+        "question_text": "51、α螺旋和β折叠是蛋白质的（   ）",
+        "options": [
+            "A.一级结构",
+            "B. 二级结构",
+            "C.三级结构",
+            "D.四级结构",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 34
+    },
+    {
+        "question_text": "52、在活细胞中，所占细胞质量比例最大的小分子是（   ）",
+        "options": [
+            "A.单糖",
+            "B.核苷酸",
+            "C.氨基酸",
+            "D.水",
+            "E.脂肪酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 35
+    },
+    {
+        "question_text": "53、以下分子不具有双亲性的是（   ）",
+        "options": [
+            "A.磷脂",
+            "B.胆固醇",
+            "C.氨基酸",
+            "D.脂肪酸",
+            "E.葡萄糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 36
+    },
+    {
+        "question_text": "54、以下哪个不属于细胞内主要的有机小分子（   ）",
+        "options": [
+            "A.单糖",
+            "B. 脂肪酸",
+            "C.氨基酸",
+            "D. 核苷酸",
+            "E.RNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 37
+    },
+    {
+        "question_text": "55、维系蛋白质一级结构的主要化学键是（   ）",
+        "options": [
+            "A.肽键",
+            "B.二硫键",
+            "C.离子键",
+            "D.氢键",
+            "E.高能磷酸键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 38
+    },
+    {
+        "question_text": "56、维持蛋白质二级结构的主要化学键是（   ）",
+        "options": [
+            "A.肽键",
+            "B.二硫键",
+            "C.离子键",
+            "D.氢键",
+            "E.高能磷酸键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 39
+    },
+    {
+        "question_text": "57、蛋白质是重要的生命大分子，以下哪项不属于其功能（   ）",
+        "options": [
+            "A.是细胞的主要组成成分",
+            "B.能自我复制",
+            "C.可催化细胞内的生化反应",
+            "D.传递遗传信息",
+            "E.为细胞的生命活动供能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 40
+    },
+    {
+        "question_text": "58、真核细胞内储存遗传物质的分子是（  ）",
+        "options": [
+            "A.蛋白质",
+            "B.DNA",
+            "C.RNA",
+            "D.脂类",
+            "E.多糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 41
+    },
+    {
+        "question_text": "59、人类血红蛋白到达蛋白质的（   ）结构才表现出生物活性",
+        "options": [
+            "A.一级",
+            "B.二级",
+            "C.三级",
+            "D.四级",
+            "E.变构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 42
+    },
+    {
+        "question_text": "60、由一条多肽链构成的蛋白质，到达（   ）结构后才具有生物学活性",
+        "options": [
+            "A.一级",
+            "B.二级",
+            "C.三级",
+            "D.四级",
+            "E.变构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 43
+    },
+    {
+        "question_text": "61、四级结构中每个具有独立三级结构的肽链称为（  ）",
+        "options": [
+            "A.亚基",
+            "B.配体",
+            "C.受体",
+            "D.抗体",
+            "E.抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 44
+    },
+    {
+        "question_text": "62、蛋白质的一级结构是指（   ）",
+        "options": [
+            "A.氨基酸的组成",
+            "B.核苷酸的组成",
+            "C.脂肪酸的组成",
+            "D.高能磷酸键",
+            "E.氢键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 45
+    },
+    {
+        "question_text": "63、常见的蛋白质的二级结构不包括（   ）",
+        "options": [
+            "A.α螺旋",
+            "B.发卡结构",
+            "C.β折叠",
+            "D.三股螺旋",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 46
+    },
+    {
+        "question_text": "64、核苷酸之间的连接，主要需借助于（   ）",
+        "options": [
+            "A.磷酸二酯键",
+            "B.氢键",
+            "C.二硫键",
+            "D.肽键",
+            "E.糖苷键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 47
+    },
+    {
+        "question_text": "65、在DNA分子中，若A+T＝60％，则G的含量是（  ）",
+        "options": [
+            "A.0.1",
+            "B.0.2",
+            "C.0.3",
+            "D.0.4",
+            "E.0.5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 48
+    },
+    {
+        "question_text": "66、遗传密码位于",
+        "options": [
+            "A.DNA",
+            "B.mRNA",
+            "C.tRNA",
+            "D.rRNA",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 49
+    },
+    {
+        "question_text": "67、以下关于酶作为生物催化剂的描述，不正确的是（   ）",
+        "options": [
+            "A.高度催化性",
+            "B.高度专一性",
+            "C.高度稳定性",
+            "D.高度特异性",
+            "E.以上都对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 50
+    },
+    {
+        "question_text": "68、由22个单核苷酸所组成的单链RNA分子，无编码功能的RNA是（   ）",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 51
+    },
+    {
+        "question_text": "69、由25-30个单核苷酸所组成的双链RNA分子，能够通过同源互补将靶序列mRNA降解的是(   )",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 52
+    },
+    {
+        "question_text": "70、由24-31个单核苷酸所组成的单链RNA分子，主要存在于精子细胞中(    )",
+        "options": [
+            "A.microRNA",
+            "B.siRNA",
+            "C.hnRNA",
+            "D.mRNA",
+            "E.piRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 53
+    },
+    {
+        "question_text": "71、原核细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 54
+    },
+    {
+        "question_text": "72、植物细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 55
+    },
+    {
+        "question_text": "73、动物细胞的直径一般为（    ）",
+        "options": [
+            "A.0.1微米",
+            "B.1-10微米",
+            "C.10-30微米",
+            "D.10-100微米",
+            "E.100-300微米"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 56
+    },
+    {
+        "question_text": "74、体积最小的是\n（   ）",
+        "options": [
+            "A.肝细胞",
+            "B.红细胞",
+            "C.大肠杆菌",
+            "D.葡萄球菌",
+            "E.支原体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 57
+    },
+    {
+        "question_text": "75、在不同的多细胞生物体内，下列说法不对的是（     ）",
+        "options": [
+            "A.细胞数目差异很大",
+            "B.个体越大，细胞数目越多",
+            "C.细胞数目增加是通过分裂实现的",
+            "D.细胞数目减少是由于细胞死亡",
+            "E.所有细胞的增殖能力都是一样的"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 58
+    },
+    {
+        "question_text": "76、正常生理状态下，人类成熟红细胞的形状是（   ）",
+        "options": [
+            "A.纺锤形",
+            "B.长梭状",
+            "C.柱状",
+            "D.圆盘形",
+            "E.星芒形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 59
+    },
+    {
+        "question_text": "77、正常生理状态下，人类神经细胞的形状是（   ）",
+        "options": [
+            "A.纺锤形",
+            "B.长梭状",
+            "C.柱状",
+            "D.圆盘形",
+            "E.星芒形"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 60
+    },
+    {
+        "question_text": "78、不属于膜相结构的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.中心体",
+            "C.高尔基体",
+            "D.内质网",
+            "E.溶酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 61
+    },
+    {
+        "question_text": "79、属于膜相结构的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.中心体",
+            "C.核糖体",
+            "D.染色体",
+            "E.核基质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 62
+    },
+    {
+        "question_text": "80、物质的新陈代谢包括合成代谢和分解代谢，又称（   ）和（  ）",
+        "options": [
+            "A.同化作用，异化作用",
+            "B.异化作用，同化作用",
+            "C.同化作用，同化作用",
+            "D.异化作用，异化作用",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 63
+    },
+    {
+        "question_text": "81、有机体的生长与发育是通过细胞哪些生命活动实现的（   ）",
+        "options": [
+            "A.分裂",
+            "B.分化",
+            "C.迁移",
+            "D.凋亡",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 64
+    },
+    {
+        "question_text": "82、细胞的生命特征有（   ）",
+        "options": [
+            "A.以新陈代谢为基础",
+            "B.生长发育繁殖的基础",
+            "C.具有遗传性",
+            "D.具有进化性",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 65
+    },
+    {
+        "question_text": "83、生命进化的历程包括（   ）",
+        "options": [
+            "A.从无机物到有机物",
+            "B.从非细胞到细胞",
+            "C.从原核细胞到真核细胞",
+            "D.从单细胞生物到多细胞生物",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 66
+    }
+]

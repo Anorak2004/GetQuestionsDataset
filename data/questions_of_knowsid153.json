@@ -1,0 +1,184 @@
+[
+    {
+        "question_text": "1.中肾发生的描述中哪一项错误",
+        "options": [
+            "A.发生于前肾尾侧的中肾嵴",
+            "B.中肾管的一端膨大，并内陷成肾小囊",
+            "C.背主动脉分支而来的毛细血管与肾小囊共同构成 肾小囊",
+            "D.中肾管由前肾管演化而来",
+            "E.中肾小管的外侧端开口于体腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 1
+    },
+    {
+        "question_text": "2.生后肾组织来自",
+        "options": [
+            "A.中肾旁管末端",
+            "B.生肾索尾侧",
+            "C.尿生殖嵴内侧",
+            "D.生肾索头部",
+            "E.中肾管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 2
+    },
+    {
+        "question_text": "3.泌尿和生殖系统的主要结构起源于",
+        "options": [
+            "A.间介中胚层",
+            "B.体壁中胚层",
+            "C.脏壁中胚层",
+            "D.脊索",
+            "E.体节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于女性假两性畸形的描述哪一项正确",
+        "options": [
+            "A.同时具有睾丸和卵巢，外阴呈两性状态",
+            "B.具有卵巢，但外阴呈两性状态",
+            "C.具有睾丸，但外阴呈两性状态",
+            "D.具有卵巢，但外阴似男性",
+            "E.染色体核型为4 6,XY"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 4
+    },
+    {
+        "question_text": "5.后肾发生的描述中哪一项错误",
+        "options": [
+            "A.后肾演变出终生的肾",
+            "B.肾盂、肾盏和集合小管来自输尿管芽",
+            "C.最初位置较高，以后下降至永久位置",
+            "D.肾门由腹侧转向内侧",
+            "E.肾单位来自生后肾原基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 5
+    },
+    {
+        "question_text": "6.输尿管芽来自于",
+        "options": [
+            "A.中肾管末端近泄殖腔处",
+            "B.中肾旁管末端",
+            "C.尿生殖嵴内侧",
+            "D.生肾索尾端",
+            "E.中肾管头端近泄殖腔处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 6
+    },
+    {
+        "question_text": "7.生后肾原基可演变为",
+        "options": [
+            "A.肾盂",
+            "B.肾盏",
+            "C.弓形集合小管",
+            "D.输尿管",
+            "E.肾小管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 7
+    },
+    {
+        "question_text": "8.输尿管芽可演变为",
+        "options": [
+            "A.直集合小管",
+            "B.细段",
+            "C.肾小体",
+            "D.肾小囊",
+            "E.远端小管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 8
+    },
+    {
+        "question_text": "9.中肾旁管形成下列结构，其中哪一项除外",
+        "options": [
+            "A.输卵管",
+            "B.输卵管漏斗部",
+            "C.子宫",
+            "D.阴道穹窿部",
+            "E.阴道前庭"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 9
+    },
+    {
+        "question_text": "10.抗中肾旁管激素来自于",
+        "options": [
+            "A.睾丸的间充质细胞",
+            "B.睾丸的支持细胞",
+            "C.卵巢的卵泡细胞",
+            "D.睾丸的生精细胞",
+            "E.中肾管的上皮细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于多囊肾哪一项错误",
+        "options": [
+            "A.远曲小管未与集合小管接通",
+            "B.尿液在肾小管内积聚，",
+            "C.肾内出现大小不等的囊泡",
+            "D.肾小管内积聚的尿液可慢慢吸收",
+            "E.集合小管发育异常，管腔阻塞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 11
+    },
+    {
+        "question_text": "12.SRY 基因存在于",
+        "options": [
+            "A.男性Y染色体上的性别决定区",
+            "B.男性生殖腺嵴细胞的细胞膜上",
+            "C.女性X染色体上的性别决定区",
+            "D.女性生殖腺嵴细胞的细胞膜上",
+            "E.卵巢及子宫上皮细胞中."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 12
+    },
+    {
+        "question_text": "13.关于睾丸发生的描述哪一项错误",
+        "options": [
+            "A.第8周时表面上皮下方的间充质形成白膜",
+            "B.生精小管之间的间充质细胞分化为睾丸间质细胞",
+            "C.原始生殖细胞增殖分化为精原细胞",
+            "D.初级性索分化成支持细胞",
+            "E.初级性索退化形成次级性索"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 13
+    }
+]

@@ -1,0 +1,3193 @@
+[
+    {
+        "question_text": "685、下列哪种结构不属于核孔复合体？ （   ）",
+        "options": [
+            "A.胞质纤维",
+            "B.胞质环",
+            "C.致密纤维",
+            "D.轮辐",
+            "E.核质环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 1
+    },
+    {
+        "question_text": "686、关于核孔复合体，下列描述中哪项是不正确的？",
+        "options": [
+            "A.在代谢或增殖不活跃的细胞中核孔数目较多",
+            "B.核孔复合体是一种复合性结构",
+            "C.核孔复合体由内外两层核被膜融合形成",
+            "D.核孔复合体是胞质和核内物质交换的主要通道",
+            "E.广为人们接受的核孔复合体的结构模型是捕鱼笼式结构模型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 2
+    },
+    {
+        "question_text": "687、可与核膜的外膜相连的细胞器是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.微体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 3
+    },
+    {
+        "question_text": "688、细胞核与细胞质之间主要的物质转运通道称为\n（   ）",
+        "options": [
+            "A.核孔",
+            "B.核间隙",
+            "C.外核膜",
+            "D.内核膜",
+            "E.核纤层"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 4
+    },
+    {
+        "question_text": "689、外核膜的特点不包括（   ）",
+        "options": [
+            "A.与粗面内质网相连",
+            "B.表面有核糖体附着",
+            "C.内侧与核纤层相贴",
+            "D.是单位膜",
+            "E.在某些地方与内核膜相融合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 5
+    },
+    {
+        "question_text": "690、关于核膜的错误叙述是\n（   ）",
+        "options": [
+            "A.是细胞质与细胞核之间的界膜",
+            "B.主要含有蛋白质和脂类",
+            "C.由两层单位膜构成",
+            "D.普通光镜下可见其微细结构",
+            "E.所含酶类与内质网相似"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 6
+    },
+    {
+        "question_text": "691、关于核孔复合体的描述，错误的是（   ）",
+        "options": [
+            "A.捕鱼笼模型是描述其超微结构的一种学说",
+            "B.中央栓可能是正在通过核孔复合体的物质",
+            "C.核孔复合体在进化上高度保守",
+            "D.核孔复合体是单向选择性亲水通道",
+            "E.细胞合成蛋白质功能越旺盛，核孔越多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 7
+    },
+    {
+        "question_text": "692、以下哪一个是双层单位膜结构\n？（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.核膜",
+            "C.溶酶体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 8
+    },
+    {
+        "question_text": "693、核孔复合体中有（ ）",
+        "options": [
+            "A.6个环孔颗粒和1个中央颗粒",
+            "B.6对环孔颗粒和1个中央颗粒",
+            "C.8个环孔颗粒和1个中央颗粒",
+            "D.8对环孔颗粒和1个中央颗粒",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 9
+    },
+    {
+        "question_text": "694、在电镜下可见细胞核的外膜与细胞质中哪种细胞器相连？（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.滑面内质网",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 10
+    },
+    {
+        "question_text": "695、在核孔的位置，内外核膜（   ）",
+        "options": [
+            "A.重叠",
+            "B. 融合",
+            "C.接触",
+            "D.交叉",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 11
+    },
+    {
+        "question_text": "696、核孔复合体的“捕鱼笼”模型中不与轮辐相连的结构是（   ）",
+        "options": [
+            "A.胞质环",
+            "B.核质环",
+            "C.中央栓",
+            "D. 核篮",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 12
+    },
+    {
+        "question_text": "697、关于核被膜，下列说法错误的是（   ）",
+        "options": [
+            "A.核被膜是包被核内含物的双层膜结构",
+            "B.外核膜与粗面内质网相连续，被认为是内质网膜的特化区域",
+            "C.内核膜内表面附着有一层核纤层，外表面有核糖体附着",
+            "D.核孔是内外核膜融合产生的圆环状结构",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 13
+    },
+    {
+        "question_text": "698、为染色质提供核周锚定部位的结构是（   ）",
+        "options": [
+            "A.核孔复合体",
+            "B.外核膜",
+            "C.核仁",
+            "D.内核膜",
+            "E.核骨架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 14
+    },
+    {
+        "question_text": "699、以下参与生物大分子合成的结构是（   ）",
+        "options": [
+            "A.核膜",
+            "B.核孔",
+            "C.核基质",
+            "D.核小体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 15
+    },
+    {
+        "question_text": "700、核定位信号位于蛋白质的（   ）",
+        "options": [
+            "A. N端",
+            "B.C端",
+            "C.中间",
+            "D.任何部位",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 16
+    },
+    {
+        "question_text": "701、核膜的功能不包括（   ）",
+        "options": [
+            "A.控制细胞核与细胞质物质交换",
+            "B.参与染色体的定位和分离",
+            "C.核编码蛋白质的分泌",
+            "D.合成生物大分子",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 17
+    },
+    {
+        "question_text": "702、可以自由通过核孔的是（   ）",
+        "options": [
+            "A.亲核蛋白",
+            "B.核糖体小亚基",
+            "C.核苷酸",
+            "D.mRNA",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 18
+    },
+    {
+        "question_text": "703、不能够被核孔复合体主动运输的分子是（   ）",
+        "options": [
+            "A.核糖体亚基",
+            "B. mRNA",
+            "C.胰岛素",
+            "D.结合有NLS的胶体金",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 19
+    },
+    {
+        "question_text": "704、关于核孔的描述不正确的是（   ）",
+        "options": [
+            "A.核孔的数目在代谢旺盛的细胞中较多",
+            "B.核孔复合体是不对称结构",
+            "C.核孔复合体是可以用“捕鱼笼”模型来解释",
+            "D.在高等真核生物的细胞核上均匀分布有核孔",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 20
+    },
+    {
+        "question_text": "705、关于核定位信号（NLS）的描述不正确的是（   ）",
+        "options": [
+            "A.NLS可以存在于蛋白质的任何部位",
+            "B.NLS帮助蛋白质入核时需要核转运受体的参与",
+            "C.RNA分子也可以借助其中的NLS跨核膜运输",
+            "D.不同的亲核蛋白上的NLS不同",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 21
+    },
+    {
+        "question_text": "706、核纤层的主要化学成分是（   ）",
+        "options": [
+            "A.核纤层蛋白",
+            "B.核内DNA",
+            "C.染色体组蛋白",
+            "D.核糖体",
+            "E.染色体RNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 22
+    },
+    {
+        "question_text": "707、核纤层蛋白不具有的功能是（   ）",
+        "options": [
+            "A.核膜的崩解和重建",
+            "B.参与DNA复制的调控",
+            "C.染色质的定位和功能",
+            "D.染色质的异染色质化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 23
+    },
+    {
+        "question_text": "708、核骨架又称为（   ）",
+        "options": [
+            "A.内核膜",
+            "B.核基质",
+            "C.染色质",
+            "D.组蛋白",
+            "E.核仁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 24
+    },
+    {
+        "question_text": "709、核骨架的主要成分是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.DNA",
+            "C.RNA",
+            "D.纤维蛋白",
+            "E.脂类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 25
+    },
+    {
+        "question_text": "710、真核细胞染色体的化学组成是（   ）",
+        "options": [
+            "A.DNA或RNA",
+            "B.DNA+组蛋白",
+            "C.mRNA",
+            "D.DNA+rRNA+蛋白",
+            "E.DNA+组蛋白+非组蛋白+RNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 26
+    },
+    {
+        "question_text": "711、真核细胞核小体的化学组成是（   ）",
+        "options": [
+            "A.核纤层蛋白",
+            "B.DNA和核小体组蛋白",
+            "C.H1组蛋白",
+            "D.核糖体",
+            "E.染色体RNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 27
+    },
+    {
+        "question_text": "712、组成核小体DNA的碱基对的数目约是（ ）",
+        "options": [
+            "A.146个",
+            "B.53个",
+            "C.200个",
+            "D.346个",
+            "E.253个"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 28
+    },
+    {
+        "question_text": "713、非组蛋白的功能不包括（   ）",
+        "options": [
+            "A.协助DNA分子折叠",
+            "B.参与DNA复制的启动",
+            "C.调控基因转录",
+            "D.催化酶促反应",
+            "E.构成核小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 29
+    },
+    {
+        "question_text": "714、构成染色质的主要蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.微管蛋白",
+            "C.中间纤维蛋白",
+            "D.非组蛋白",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 30
+    },
+    {
+        "question_text": "715、下列成分中不属于染色质化学组成的是（   ）",
+        "options": [
+            "A.DNA",
+            "B.糖类",
+            "C.组蛋白",
+            "D.非组蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 31
+    },
+    {
+        "question_text": "716、下列哪种组蛋白在进化上最不保守（   ）",
+        "options": [
+            "A.H1",
+            "B.H2A",
+            "C.H3",
+            "D.H4",
+            "E.H2B"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 32
+    },
+    {
+        "question_text": "717、染色体的组蛋白属于（   ）",
+        "options": [
+            "A.酸性蛋白",
+            "B.碱性蛋白",
+            "C.中性蛋白",
+            "D.核蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 33
+    },
+    {
+        "question_text": "718、下列具有较高保守性的蛋白是（   ）",
+        "options": [
+            "A.核小体组蛋白",
+            "B.核纤层蛋白",
+            "C.核基质蛋白",
+            "D.中间纤维",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 34
+    },
+    {
+        "question_text": "719、常染色质在电镜下显示出（   ）",
+        "options": [
+            "A.电子密度低",
+            "B.电子密度高",
+            "C.靠近核仁",
+            "D.靠近核膜",
+            "E.靠近核孔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 35
+    },
+    {
+        "question_text": "720、人类染色体中随体的位置在（   ）",
+        "options": [
+            "A.第13、14、15、16、21号染色体上",
+            "B.第14、15、16、21、22号染色体上",
+            "C.第13、14、15、21、22号染色体上",
+            "D.第14、15、16、20、21号染色体上",
+            "E.第12、13、14、15、21号染色体上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 36
+    },
+    {
+        "question_text": "721、细胞遗传物质的复制是（   ）",
+        "options": [
+            "A.常染色质先复制",
+            "B.异染色质先复制",
+            "C.常染色质与异染色质同时复制",
+            "D.异染色质少复制，常染色质大量复制",
+            "E.异染色质大量复制，常染色质少复制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 37
+    },
+    {
+        "question_text": "722、在电子显微镜下，间期核膜内侧电子密度大的物质是（   ）",
+        "options": [
+            "A.核基质",
+            "B.常染色质",
+            "C.异染色体",
+            "D.核仁",
+            "E.核小体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 38
+    },
+    {
+        "question_text": "723、下面关于染色质叙述正确的是（   ）",
+        "options": [
+            "A.常染色质和异染色质化学本质相同的，并且在一定条件下可以相互转化",
+            "B.常染色质无转录活性，异染色质有转录活性",
+            "C.常染色质在电镜下是深染的，异染色质是浅染的",
+            "D.常染色质和异染色质的化学本质是不相同的，因此不可以相互转化",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 39
+    },
+    {
+        "question_text": "724、异染色质的复制时间是S期的（   ）",
+        "options": [
+            "A.早期",
+            "B.中期",
+            "C.晚期",
+            "D.早期和中期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 40
+    },
+    {
+        "question_text": "725、构成结构异染色质的主要是（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.异常重复序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 41
+    },
+    {
+        "question_text": "726、位于染色体常染色质区的结构是（   ）",
+        "options": [
+            "A.次缢痕",
+            "B. 端粒",
+            "C.着丝粒",
+            "D.动粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 42
+    },
+    {
+        "question_text": "727、关于常染色质的描述，下列哪项是正确的（   ）",
+        "options": [
+            "A.在间期细胞中结构较为松散、碱性染料着色较浅的染色质",
+            "B.在间期细胞中结构较为紧密、碱性染料着色较深的染色质",
+            "C.核小体不是其基本结构单位",
+            "D.常染色质纤维直径约20-30 nm，螺旋化程度较高",
+            "E.常染色质大多位于核的边缘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 43
+    },
+    {
+        "question_text": "728、下列哪种组蛋白不是构成核小体核心的成分（   ）",
+        "options": [
+            "A.H1",
+            "B.H2A",
+            "C.H2B",
+            "D.H3",
+            "E.H4"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 44
+    },
+    {
+        "question_text": "729、染色质的基本结构单位是（   ）",
+        "options": [
+            "A.DNA双螺旋",
+            "B.染色粒",
+            "C.核小体",
+            "D.螺线管",
+            "E.染色线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 45
+    },
+    {
+        "question_text": "730、核型是指（   ）",
+        "options": [
+            "A.一个物种所具有的染色体数目",
+            "B.每一条染色体所特有的形态特征",
+            "C.一个体细胞中的全套染色体按照形态特征进行的分组排列",
+            "D.对染色体进行一定处理后所呈现的特殊带型",
+            "E.一个体细胞中全套染色体的形态结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 46
+    },
+    {
+        "question_text": "731、染色质二级结构螺线管每圈含核小体的数目是（   ）",
+        "options": [
+            "A.3个",
+            "B.4个",
+            "C.5个",
+            "D.6个",
+            "E.7个"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 47
+    },
+    {
+        "question_text": "732、由H1参与形成染色体的（ ）",
+        "options": [
+            "A.一级结构",
+            "B.二级结构",
+            "C.三级结构",
+            "D.四级结构",
+            "E.组蛋白核心"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 48
+    },
+    {
+        "question_text": "733、核小体是由DNA片段缠绕组蛋白（   ）聚体形成的",
+        "options": [
+            "A.8",
+            "B.6",
+            "C.4",
+            "D.2",
+            "E.1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 49
+    },
+    {
+        "question_text": "734、H1组蛋白的结构和功能特点不包括（   ）",
+        "options": [
+            "A.参与染色体高级结构组装",
+            "B.参与核小体八聚体核心的形成",
+            "C.具有组织特异性",
+            "D.在S期与DNA同时合成",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 50
+    },
+    {
+        "question_text": "735、着丝粒序列属于（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.复制起始序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 51
+    },
+    {
+        "question_text": "736、端粒序列属于（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.复制起始序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 52
+    },
+    {
+        "question_text": "737、染色体上与动粒结合的结构是（   ）",
+        "options": [
+            "A.动粒微管",
+            "B.着丝粒",
+            "C.端粒",
+            "D.核小体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 53
+    },
+    {
+        "question_text": "738、以下不参与核小体构建的组蛋白是（   ）",
+        "options": [
+            "A.H1组蛋白",
+            "B.H2A组蛋白",
+            "C.H3组蛋白",
+            "D.H4组蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 54
+    },
+    {
+        "question_text": "739、核小体结构的直径大约是（   ）",
+        "options": [
+            "A.1nm",
+            "B.10nm",
+            "C.100nm",
+            "D.110nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 55
+    },
+    {
+        "question_text": "740、组蛋白的主要功能是（   ）",
+        "options": [
+            "A.染色体的定位",
+            "B.启动DNA的复制",
+            "C.参与形成染色体高级结构",
+            "D.调控基因的转录",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 56
+    },
+    {
+        "question_text": "741、从DNA分子包装成染色单体，其总长度压缩了大约（   ）倍",
+        "options": [
+            "A. 100倍",
+            "B.1000倍",
+            "C. 10000倍",
+            "D.100000倍",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 57
+    },
+    {
+        "question_text": "742、属于染色体的异染色质区的结构是（   ）",
+        "options": [
+            "A.中心粒",
+            "B.端粒",
+            "C.动粒",
+            "D.基粒",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 58
+    },
+    {
+        "question_text": "743、人类体细胞46条染色体中，不具备的染色体类型是 （   ）",
+        "options": [
+            "A.中着丝粒染色体",
+            "B.亚中着丝粒染色体",
+            "C.近端着丝粒染色体",
+            "D.端着丝粒染色体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 59
+    },
+    {
+        "question_text": "744、细胞中所有染色体的相对大小，着丝粒的位置，臂的长短，随体的有无等特征描述了细胞的（   ）",
+        "options": [
+            "A.核型",
+            "B.基因组",
+            "C.染色体类型",
+            "D.带型",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 60
+    },
+    {
+        "question_text": "745、染色体上非组蛋白的功能不包括（   ）",
+        "options": [
+            "A.参与染色体的构建",
+            "B.染色体的定位",
+            "C.启动基因复制",
+            "D.调控基因转录",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 61
+    },
+    {
+        "question_text": "746、染色质二级结构螺线管的直径大约是（   ）",
+        "options": [
+            "A.11nm",
+            "B.30nm",
+            "C. 100nm",
+            "D.400nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 62
+    },
+    {
+        "question_text": "747、放射环模型是用来描述（   ）",
+        "options": [
+            "A.中心体形态",
+            "B.染色体高级结构",
+            "C.核仁组织区",
+            "D.星体分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 63
+    },
+    {
+        "question_text": "748、位于染色体着丝粒和臂的两端，由高度重复序列组成的染色质是（   ）",
+        "options": [
+            "A.常染色质",
+            "B.结构异染色质",
+            "C.兼性异染色质",
+            "D.核仁相随染色质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 64
+    },
+    {
+        "question_text": "749、端粒存在于（    ）",
+        "options": [
+            "A.细胞质中",
+            "B.中心体",
+            "C.线粒体上",
+            "D.染色体上",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 65
+    },
+    {
+        "question_text": "750、端粒存在于染色体DNA两端，是一富含 的简单重复序列（ ）",
+        "options": [
+            "A.UT",
+            "B.GC",
+            "C.AG",
+            "D.CG",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 66
+    },
+    {
+        "question_text": "751、染色体的核型不包括（   ）",
+        "options": [
+            "A.着丝粒的位置",
+            "B.动粒的大小",
+            "C.臂的长短",
+            "D.染色体的大小",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 67
+    },
+    {
+        "question_text": "752、核仁的化学组成为（ ）",
+        "options": [
+            "A.DNA+蛋白质",
+            "B.DNA+rRNA",
+            "C.rRNA+蛋白质",
+            "D.RNA+DNA+蛋白质+脂类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 68
+    },
+    {
+        "question_text": "753、真核细胞结构中，下列哪种结构表面无膜包裹（   ）",
+        "options": [
+            "A.细胞核",
+            "B.核仁",
+            "C.线粒体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 69
+    },
+    {
+        "question_text": "754、核仁的纤维中心实际上是（   ）",
+        "options": [
+            "A.装配的核糖体亚基",
+            "B.转录的rRNA分子",
+            "C.rDNA袢环",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 70
+    },
+    {
+        "question_text": "755、核仁颗粒成分（   ）",
+        "options": [
+            "A.DNA+RNA+蛋白质",
+            "B.RNA+蛋白质",
+            "C.蛋白质",
+            "D.DNA+蛋白质",
+            "E.DNA+RNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 71
+    },
+    {
+        "question_text": "756、光学显微镜下,真核细胞间期核中最明显的结构是\n（   ）",
+        "options": [
+            "A.核孔",
+            "B.核仁",
+            "C.染色质",
+            "D.核基质",
+            "E.核纤层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 72
+    },
+    {
+        "question_text": "757、核仁中含有核糖体前体颗粒的部分称为\n（   ）",
+        "options": [
+            "A.纤维中心",
+            "B.致密纤维组分",
+            "C.颗粒成分",
+            "D.核仁基质",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 73
+    },
+    {
+        "question_text": "758、属于核仁化学组成的是（ ）",
+        "options": [
+            "A.蛋白质",
+            "B.RNA",
+            "C.DNA",
+            "D.脂类",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 74
+    },
+    {
+        "question_text": "759、rRNA的合成在（   ）",
+        "options": [
+            "A.细胞核内",
+            "B.核仁组织区",
+            "C.粗面内质网",
+            "D.滑面内质网",
+            "E.核糖体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 75
+    },
+    {
+        "question_text": "760、核仁组织者编码（   ）",
+        "options": [
+            "A.核糖体RNA",
+            "B.核仁DNA",
+            "C.mRNA",
+            "D.核糖体蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 76
+    },
+    {
+        "question_text": "761、核仁组织者位于中期染色体的（   ）",
+        "options": [
+            "A.主缢痕",
+            "B.随体",
+            "C.着丝粒",
+            "D.次缢痕",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 77
+    },
+    {
+        "question_text": "762、真核生物中，不定位在核仁组织者区NORs的rRNA基因是（   ）",
+        "options": [
+            "A.28S",
+            "B. 18S?",
+            "C.5.8S?",
+            "D.5S",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 78
+    },
+    {
+        "question_text": "763、rDNA基因是（   ）",
+        "options": [
+            "A.单拷贝基因",
+            "B.多拷贝基因",
+            "C.中度重复序列",
+            "D.高度重复序列",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 79
+    },
+    {
+        "question_text": "764、核仁合成（   ）",
+        "options": [
+            "A.tRNA",
+            "B.mRNA",
+            "C.rRNA",
+            "D.mtRNA",
+            "E. cDNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 80
+    },
+    {
+        "question_text": "765、组成核糖体的rRNA来自（   ）",
+        "options": [
+            "A.线粒体DNA",
+            "B.异染色质",
+            "C.核仁",
+            "D.粗面内质网",
+            "E.mRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 81
+    },
+    {
+        "question_text": "766、关于核仁，描述错误的是（   ）",
+        "options": [
+            "A.rDNA基因通常位于染色体次缢痕部位",
+            "B.rDNA基因呈串联重复排列",
+            "C.哺乳动物细胞编码5S rRNA的基因位于核仁以外区域",
+            "D.哺乳动物细胞的所有rRNA分子都在核仁形成",
+            "E.核仁的大小取决于核仁颗粒成分的多少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 82
+    },
+    {
+        "question_text": "767、构建核糖体的RNA是（   ）",
+        "options": [
+            "A.SiRNA",
+            "B.mRNA",
+            "C.miRNA",
+            "D.tRNA",
+            "E.rRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 83
+    },
+    {
+        "question_text": "768、核仁的大小取决于（ ）",
+        "options": [
+            "A.细胞内蛋白质合成的多少",
+            "B.核仁组织区的大小",
+            "C.线粒体的多少",
+            "D.内质网的多少",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 84
+    },
+    {
+        "question_text": "769、核仁的功能是（   ）",
+        "options": [
+            "A.合成DNA",
+            "B.合成mRNA",
+            "C.合成tRNA",
+            "D.合成rRNA",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 85
+    },
+    {
+        "question_text": "770、核糖体亚基的组装是在（   ）",
+        "options": [
+            "A.细胞核中完成",
+            "B.细胞质中完成",
+            "C.核仁中完成",
+            "D.内质网中完成",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 86
+    },
+    {
+        "question_text": "771、关于核糖体合成和组装的正确描述是（   ）",
+        "options": [
+            "A.核糖体RNA的基因都位于核仁组织区中",
+            "B.核糖体RNA与蛋白结合后可以被转运出细胞核",
+            "C.核仁负责合成和组装为成熟的核糖体",
+            "D.核糖体蛋白可以自由扩散进入核仁区",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 87
+    },
+    {
+        "question_text": "772、下列哪种结构贮存遗传信息（   ）",
+        "options": [
+            "A.核纤层",
+            "B.核孔复合体",
+            "C.核膜",
+            "D.核膜间隙",
+            "E.染色质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 88
+    },
+    {
+        "question_text": "773、DNA分子构成氢键的是（   ）",
+        "options": [
+            "A.碱基",
+            "B.戊糖",
+            "C.磷酸",
+            "D.组蛋白",
+            "E.以上都正确"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 89
+    },
+    {
+        "question_text": "774、在DNA双链复制中，首先需要一段引物，它是（   ）",
+        "options": [
+            "A.mRNA",
+            "B.tRNA",
+            "C.蛋白质",
+            "D.hnRNA(异质性核RNA)",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 90
+    },
+    {
+        "question_text": "775、原核细胞的遗传物质是（   ）",
+        "options": [
+            "A.与RNA、组蛋白结合在一起的DNA",
+            "B.与组蛋白结合在一起的DNA",
+            "C.不与RNA、组蛋白结合在一起的裸露的DNA",
+            "D.双螺旋DNA",
+            "E.一条以上与RNA 结合在一起的DNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 91
+    },
+    {
+        "question_text": "776、mRNA分子上的6个相邻碱基代表（     ）密码子",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E. 6个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 92
+    },
+    {
+        "question_text": "777、一段mRNA的顺序为5’AUGGUGGCGAAUGGCUAA3’，它的翻译产物为（   ）",
+        "options": [
+            "A.6肽",
+            "B.5肽",
+            "C.4肽",
+            "D.3肽",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 93
+    },
+    {
+        "question_text": "778、关于rRNA正确的表述是（   ）",
+        "options": [
+            "A.有反密码子",
+            "B.携带指导蛋白质翻译的遗传信息",
+            "C.参与构成核糖体",
+            "D.易降解",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 94
+    },
+    {
+        "question_text": "779、有关RNA的描述不正确的是（   ）",
+        "options": [
+            "A.由DNA转录生成",
+            "B.结构上包含核糖",
+            "C.含有尿嘧啶而非胸腺嘧啶",
+            "D.总是以双链形式存在",
+            "E.细胞中RNA的种类多样"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 95
+    },
+    {
+        "question_text": "780、RNA经核孔复合体输出至细胞质后，一部分到（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.高尔基复合体",
+            "E.滑面内质网"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 96
+    },
+    {
+        "question_text": "781、密码表中的密码子一般是指（   ）",
+        "options": [
+            "A.DNA分子中三个随机的碱基对顺序",
+            "B.rRNA分子中三个相邻的碱基顺序",
+            "C.tRNA分子中反密码环上的三个碱基顺序",
+            "D.mRNA分子中随机组合的三个碱基顺序",
+            "E.mRNA分子中相邻的三个碱基顺序"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 97
+    },
+    {
+        "question_text": "782、反转录是指（   ）",
+        "options": [
+            "A.DNA→RNA",
+            "B.RNA→RNA",
+            "C.RNA→DNA",
+            "D.RNA→蛋白质",
+            "E.蛋白质→核酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 98
+    },
+    {
+        "question_text": "783、在蛋白质合成过程中，tRNA的生物学功能是（   ）",
+        "options": [
+            "A.提供多肽链合成的场所",
+            "B.作为供能物质",
+            "C.运送氨基酸",
+            "D.起酶的作用",
+            "E.起模板作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 99
+    },
+    {
+        "question_text": "784、rRNA，tRNA和mRNA中，只参与各种蛋白质的合成，而自身不翻译蛋白质的RNA是（   ）",
+        "options": [
+            "A.rRNA和mRNA",
+            "B.rRNA和tRNA",
+            "C.tRNA和mRNA",
+            "D.tRNA",
+            "E.rRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 100
+    },
+    {
+        "question_text": "785、蛋白质翻译起始最先与mRNA分子结合的是（   ）",
+        "options": [
+            "A.核糖体大亚基",
+            "B.核糖体小亚基",
+            "C.成熟核糖体",
+            "D.氨基酰-tRNA合成酶",
+            "E.甲硫氨酰tRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 101
+    },
+    {
+        "question_text": "786、关于细胞核的描述,下列哪一项是不正确的（   ）",
+        "options": [
+            "A.细胞核是膜相结构",
+            "B.遗传物质DNA主要存在于细胞核中",
+            "C.细胞核随着细胞周期的进行发生周期性变化",
+            "D.细胞核的形状可为杆状和分叶状",
+            "E.细胞核占细胞比例大通常意味着细胞分化程度较高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 102
+    },
+    {
+        "question_text": "787、细胞中最大最重要的亚细胞结构（   ）",
+        "options": [
+            "A.线粒体",
+            "B.初级溶酶体",
+            "C.高尔基复合体",
+            "D.细胞核",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 103
+    },
+    {
+        "question_text": "788、哪个不是DNA复制所必须的条件（   ）",
+        "options": [
+            "A.解链酶",
+            "B.DNA聚合酶",
+            "C.RNA引物合成酶",
+            "D.脱氢酶",
+            "E.DNA模板和能量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 104
+    },
+    {
+        "question_text": "789、在原核细胞DNA复制过程中，转录活动（   ）",
+        "options": [
+            "A.全部停止",
+            "B.同时进行",
+            "C.在未复制部分进行",
+            "D.交替进行",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 105
+    },
+    {
+        "question_text": "790、细胞核不是位于细胞中央的细胞是（   ）",
+        "options": [
+            "A.淋巴细胞",
+            "B.受精卵",
+            "C.干细胞",
+            "D.脂肪细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 106
+    },
+    {
+        "question_text": "791、下列有关核质比的说法不正确的是（   ）",
+        "options": [
+            "A.核质比大表示细胞核所占比例相对较大",
+            "B.核质比=细胞核的体积/细胞质的体积",
+            "C.幼稚细胞的核质比较小，成熟细胞的核质比较大",
+            "D.干细胞的核质比较大",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 107
+    },
+    {
+        "question_text": "792、核质比相对较大的细胞是（   ）",
+        "options": [
+            "A.脂肪细胞",
+            "B.肌肉细胞",
+            "C.干细胞",
+            "D.肥大细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 108
+    },
+    {
+        "question_text": "793、贯穿细胞核与细胞质的网架结构体系中不包括（   ）",
+        "options": [
+            "A.微丝",
+            "B.核骨架",
+            "C.核纤层",
+            "D.中间纤维",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 109
+    },
+    {
+        "question_text": "794、结合于染色体的异染色质区的是（   ）",
+        "options": [
+            "A.星体",
+            "B.核小体",
+            "C.动粒",
+            "D.周期蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 110
+    },
+    {
+        "question_text": "795、核仁体积相对较大的细胞是（   ）",
+        "options": [
+            "A.精子",
+            "B.肌肉细胞",
+            "C.红细胞",
+            "D.卵母细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 111
+    },
+    {
+        "question_text": "796、以下不属于纤维网状结构成分的是（   ）",
+        "options": [
+            "A.核仁基质",
+            "B.核纤层",
+            "C.核骨架",
+            "D.核仁",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 112
+    },
+    {
+        "question_text": "797、以下不具有膜结构的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.核仁",
+            "C.凋亡小体",
+            "D.吞噬体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 113
+    },
+    {
+        "question_text": "798、与核基质形态结构相似的成分是（   ）",
+        "options": [
+            "A.细胞外基质",
+            "B.线粒体基质",
+            "C.细胞骨架",
+            "D.核仁基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 114
+    },
+    {
+        "question_text": "685、下列哪种结构不属于核孔复合体？ （   ）",
+        "options": [
+            "A.胞质纤维",
+            "B.胞质环",
+            "C.致密纤维",
+            "D.轮辐",
+            "E.核质环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 115
+    },
+    {
+        "question_text": "686、关于核孔复合体，下列描述中哪项是不正确的？",
+        "options": [
+            "A.在代谢或增殖不活跃的细胞中核孔数目较多",
+            "B.核孔复合体是一种复合性结构",
+            "C.核孔复合体由内外两层核被膜融合形成",
+            "D.核孔复合体是胞质和核内物质交换的主要通道",
+            "E.广为人们接受的核孔复合体的结构模型是捕鱼笼式结构模型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 116
+    },
+    {
+        "question_text": "687、可与核膜的外膜相连的细胞器是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.微体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 117
+    },
+    {
+        "question_text": "688、细胞核与细胞质之间主要的物质转运通道称为\n（   ）",
+        "options": [
+            "A.核孔",
+            "B.核间隙",
+            "C.外核膜",
+            "D.内核膜",
+            "E.核纤层"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 118
+    },
+    {
+        "question_text": "689、外核膜的特点不包括（   ）",
+        "options": [
+            "A.与粗面内质网相连",
+            "B.表面有核糖体附着",
+            "C.内侧与核纤层相贴",
+            "D.是单位膜",
+            "E.在某些地方与内核膜相融合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 119
+    },
+    {
+        "question_text": "690、关于核膜的错误叙述是\n（   ）",
+        "options": [
+            "A.是细胞质与细胞核之间的界膜",
+            "B.主要含有蛋白质和脂类",
+            "C.由两层单位膜构成",
+            "D.普通光镜下可见其微细结构",
+            "E.所含酶类与内质网相似"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 120
+    },
+    {
+        "question_text": "691、关于核孔复合体的描述，错误的是（   ）",
+        "options": [
+            "A.捕鱼笼模型是描述其超微结构的一种学说",
+            "B.中央栓可能是正在通过核孔复合体的物质",
+            "C.核孔复合体在进化上高度保守",
+            "D.核孔复合体是单向选择性亲水通道",
+            "E.细胞合成蛋白质功能越旺盛，核孔越多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 121
+    },
+    {
+        "question_text": "692、以下哪一个是双层单位膜结构\n？（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.核膜",
+            "C.溶酶体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 122
+    },
+    {
+        "question_text": "693、核孔复合体中有（   ）",
+        "options": [
+            "A.6个环孔颗粒和1个中央颗粒",
+            "B.6对环孔颗粒和1个中央颗粒",
+            "C.8个环孔颗粒和1个中央颗粒",
+            "D.8对环孔颗粒和1个中央颗粒",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 123
+    },
+    {
+        "question_text": "694、在电镜下可见细胞核的外膜与细胞质中哪种细胞器相连？（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.滑面内质网",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 124
+    },
+    {
+        "question_text": "695、在核孔的位置，内外核膜（   ）",
+        "options": [
+            "A.重叠",
+            "B. 融合",
+            "C.接触",
+            "D.交叉",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 125
+    },
+    {
+        "question_text": "696、核孔复合体的“捕鱼笼”模型中不与轮辐相连的结构是（   ）",
+        "options": [
+            "A.胞质环",
+            "B.核质环",
+            "C.中央栓",
+            "D. 核篮",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 126
+    },
+    {
+        "question_text": "697、关于核被膜，下列说法错误的是（   ）",
+        "options": [
+            "A.核被膜是包被核内含物的双层膜结构",
+            "B.外核膜与粗面内质网相连续，被认为是内质网膜的特化区域",
+            "C.内核膜内表面附着有一层核纤层，外表面有核糖体附着",
+            "D.核孔是内外核膜融合产生的圆环状结构",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 127
+    },
+    {
+        "question_text": "698、为染色质提供核周锚定部位的结构是（   ）",
+        "options": [
+            "A.核孔复合体",
+            "B.外核膜",
+            "C.核仁",
+            "D.内核膜",
+            "E.核骨架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 128
+    },
+    {
+        "question_text": "699、以下参与生物大分子合成的结构是（   ）",
+        "options": [
+            "A.核膜",
+            "B.核孔",
+            "C.核基质",
+            "D.核小体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 129
+    },
+    {
+        "question_text": "700、核定位信号位于蛋白质的（   ）",
+        "options": [
+            "A. N端",
+            "B.C端",
+            "C.中间",
+            "D.任何部位",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 130
+    },
+    {
+        "question_text": "701、核膜的功能不包括（   ）",
+        "options": [
+            "A.控制细胞核与细胞质物质交换",
+            "B.参与染色体的定位和分离",
+            "C.核编码蛋白质的分泌",
+            "D.合成生物大分子",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 131
+    },
+    {
+        "question_text": "702、可以自由通过核孔的是（   ）",
+        "options": [
+            "A.亲核蛋白",
+            "B.核糖体小亚基",
+            "C.核苷酸",
+            "D.mRNA",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 132
+    },
+    {
+        "question_text": "703、不能够被核孔复合体主动运输的分子是（   ）",
+        "options": [
+            "A.核糖体亚基",
+            "B. mRNA",
+            "C.胰岛素",
+            "D.结合有NLS的胶体金",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 133
+    },
+    {
+        "question_text": "704、关于核孔的描述不正确的是（   ）",
+        "options": [
+            "A.核孔的数目在代谢旺盛的细胞中较多",
+            "B.核孔复合体是不对称结构",
+            "C.核孔复合体是可以用“捕鱼笼”模型来解释",
+            "D.在高等真核生物的细胞核上均匀分布有核孔",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 134
+    },
+    {
+        "question_text": "705、关于核定位信号（NLS）的描述不正确的是（   ）",
+        "options": [
+            "A.NLS可以存在于蛋白质的任何部位",
+            "B.NLS帮助蛋白质入核时需要核转运受体的参与",
+            "C.RNA分子也可以借助其中的NLS跨核膜运输",
+            "D.不同的亲核蛋白上的NLS不同",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 135
+    },
+    {
+        "question_text": "706、核纤层的主要化学成分是（   ）",
+        "options": [
+            "A.核纤层蛋白",
+            "B.核内DNA",
+            "C.染色体组蛋白",
+            "D.核糖体",
+            "E.染色体RNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 136
+    },
+    {
+        "question_text": "707、核纤层蛋白不具有的功能是（   ）",
+        "options": [
+            "A.核膜的崩解和重建",
+            "B.参与DNA复制的调控",
+            "C.染色质的定位和功能",
+            "D.染色质的异染色质化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 137
+    },
+    {
+        "question_text": "708、核骨架又称为（   ）",
+        "options": [
+            "A.内核膜",
+            "B.核基质",
+            "C.染色质",
+            "D.组蛋白",
+            "E.核仁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 138
+    },
+    {
+        "question_text": "709、核骨架的主要成分是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.DNA",
+            "C.RNA",
+            "D.纤维蛋白",
+            "E.脂类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 139
+    },
+    {
+        "question_text": "710、真核细胞染色体的化学组成是（   ）",
+        "options": [
+            "A.DNA或RNA",
+            "B.DNA+组蛋白",
+            "C.mRNA",
+            "D.DNA+rRNA+蛋白",
+            "E.DNA+组蛋白+非组蛋白+RNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 140
+    },
+    {
+        "question_text": "711、真核细胞核小体的化学组成是（   ）",
+        "options": [
+            "A.核纤层蛋白",
+            "B.DNA和核小体组蛋白",
+            "C.H1组蛋白",
+            "D.核糖体",
+            "E.染色体RNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 141
+    },
+    {
+        "question_text": "712、组成核小体DNA的碱基对的数目约是（ ）",
+        "options": [
+            "A.146个",
+            "B.53个",
+            "C.200个",
+            "D.346个",
+            "E.253个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 142
+    },
+    {
+        "question_text": "713、非组蛋白的功能不包括（   ）",
+        "options": [
+            "A.协助DNA分子折叠",
+            "B.参与DNA复制的启动",
+            "C.调控基因转录",
+            "D.催化酶促反应",
+            "E.构成核小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 143
+    },
+    {
+        "question_text": "714、构成染色质的主要蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.微管蛋白",
+            "C.中间纤维蛋白",
+            "D.非组蛋白",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 144
+    },
+    {
+        "question_text": "715、下列成分中不属于染色质化学组成的是（   ）",
+        "options": [
+            "A.DNA",
+            "B.糖类",
+            "C.组蛋白",
+            "D.非组蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 145
+    },
+    {
+        "question_text": "716、下列哪种组蛋白在进化上最不保守（   ）",
+        "options": [
+            "A.H1",
+            "B.H2A",
+            "C.H3",
+            "D.H4",
+            "E.H2B"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 146
+    },
+    {
+        "question_text": "717、染色体的组蛋白属于（   ）",
+        "options": [
+            "A.酸性蛋白",
+            "B.碱性蛋白",
+            "C.中性蛋白",
+            "D.核蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 147
+    },
+    {
+        "question_text": "718、下列具有较高保守性的蛋白是（   ）",
+        "options": [
+            "A.核小体组蛋白",
+            "B.核纤层蛋白",
+            "C.核基质蛋白",
+            "D.中间纤维",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 148
+    },
+    {
+        "question_text": "719、常染色质在电镜下显示出（   ）",
+        "options": [
+            "A.电子密度低",
+            "B.电子密度高",
+            "C.靠近核仁",
+            "D.靠近核膜",
+            "E.靠近核孔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 149
+    },
+    {
+        "question_text": "720、人类染色体中随体的位置在（   ）",
+        "options": [
+            "A.第13、14、15、16、21号染色体上",
+            "B.第14、15、16、21、22号染色体上",
+            "C.第13、14、15、21、22号染色体上",
+            "D.第14、15、16、20、21号染色体上",
+            "E.第12、13、14、15、21号染色体上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 150
+    },
+    {
+        "question_text": "721、细胞遗传物质的复制是（   ）",
+        "options": [
+            "A.常染色质先复制",
+            "B.异染色质先复制",
+            "C.常染色质与异染色质同时复制",
+            "D.异染色质少复制，常染色质大量复制",
+            "E.异染色质大量复制，常染色质少复制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 151
+    },
+    {
+        "question_text": "722、在电子显微镜下，间期核膜内侧电子密度大的物质是（   ）",
+        "options": [
+            "A.核基质",
+            "B.常染色质",
+            "C.异染色体",
+            "D.核仁",
+            "E.核小体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 152
+    },
+    {
+        "question_text": "723、下面关于染色质叙述正确的是（   ）",
+        "options": [
+            "A.常染色质和异染色质化学本质相同的，并且在一定条件下可以相互转化",
+            "B.常染色质无转录活性，异染色质有转录活性",
+            "C.常染色质在电镜下是深染的，异染色质是浅染的",
+            "D.常染色质和异染色质的化学本质是不相同的，因此不可以相互转化",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 153
+    },
+    {
+        "question_text": "724、异染色质的复制时间是S期的（   ）",
+        "options": [
+            "A.早期",
+            "B.中期",
+            "C.晚期",
+            "D.早期和中期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 154
+    },
+    {
+        "question_text": "725、构成结构异染色质的主要是（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.异常重复序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 155
+    },
+    {
+        "question_text": "726、位于染色体常染色质区的结构是（   ）",
+        "options": [
+            "A.次缢痕",
+            "B. 端粒",
+            "C.着丝粒",
+            "D.动粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 156
+    },
+    {
+        "question_text": "727、关于常染色质的描述，下列哪项是正确的（   ）",
+        "options": [
+            "A.在间期细胞中结构较为松散、碱性染料着色较浅的染色质",
+            "B.在间期细胞中结构较为紧密、碱性染料着色较深的染色质",
+            "C.核小体不是其基本结构单位",
+            "D.常染色质纤维直径约20-30 nm，螺旋化程度较高",
+            "E.常染色质大多位于核的边缘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 157
+    },
+    {
+        "question_text": "728、下列哪种组蛋白不是构成核小体核心的成分（   ）",
+        "options": [
+            "A.H1",
+            "B.H2A",
+            "C.H2B",
+            "D.H3",
+            "E.H4"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 158
+    },
+    {
+        "question_text": "729、染色质的基本结构单位是（   ）",
+        "options": [
+            "A.DNA双螺旋",
+            "B.染色粒",
+            "C.核小体",
+            "D.螺线管",
+            "E.染色线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 159
+    },
+    {
+        "question_text": "730、核型是指（   ）",
+        "options": [
+            "A.一个物种所具有的染色体数目",
+            "B.每一条染色体所特有的形态特征",
+            "C.一个体细胞中的全套染色体按照形态特征进行的分组排列",
+            "D.对染色体进行一定处理后所呈现的特殊带型",
+            "E.一个体细胞中全套染色体的形态结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 160
+    },
+    {
+        "question_text": "731、染色质二级结构螺线管每圈含核小体的数目是（   ）",
+        "options": [
+            "A.3个",
+            "B.4个",
+            "C.5个",
+            "D.6个",
+            "E.7个"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 161
+    },
+    {
+        "question_text": "732、由H1参与形成染色体的（   ）",
+        "options": [
+            "A.一级结构",
+            "B.二级结构",
+            "C.三级结构",
+            "D.四级结构",
+            "E.组蛋白核心"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 162
+    },
+    {
+        "question_text": "733、核小体是由DNA片段缠绕组蛋白（   ）聚体形成的",
+        "options": [
+            "A.8",
+            "B.6",
+            "C.4",
+            "D.2",
+            "E.1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 163
+    },
+    {
+        "question_text": "734、H1组蛋白的结构和功能特点不包括（   ）",
+        "options": [
+            "A.参与染色体高级结构组装",
+            "B.参与核小体八聚体核心的形成",
+            "C.具有组织特异性",
+            "D.在S期与DNA同时合成",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 164
+    },
+    {
+        "question_text": "735、着丝粒序列属于（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.复制起始序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 165
+    },
+    {
+        "question_text": "736、端粒序列属于（   ）",
+        "options": [
+            "A.单一序列",
+            "B.中度重复序列",
+            "C.高度重复序列",
+            "D.复制起始序列",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 166
+    },
+    {
+        "question_text": "737、染色体上与动粒结合的结构是（   ）",
+        "options": [
+            "A.动粒微管",
+            "B.着丝粒",
+            "C.端粒",
+            "D.核小体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 167
+    },
+    {
+        "question_text": "738、以下不参与核小体构建的组蛋白是（   ）",
+        "options": [
+            "A.H1组蛋白",
+            "B.H2A组蛋白",
+            "C.H3组蛋白",
+            "D.H4组蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 168
+    },
+    {
+        "question_text": "739、核小体结构的直径大约是（   ）",
+        "options": [
+            "A.1nm",
+            "B.10nm",
+            "C.100nm",
+            "D.110nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 169
+    },
+    {
+        "question_text": "740、组蛋白的主要功能是（   ）",
+        "options": [
+            "A.染色体的定位",
+            "B.启动DNA的复制",
+            "C.参与形成染色体高级结构",
+            "D.调控基因的转录",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 170
+    },
+    {
+        "question_text": "741、从DNA分子包装成染色单体，其总长度压缩了大约（   ）倍",
+        "options": [
+            "A. 100倍",
+            "B.1000倍",
+            "C. 10000倍",
+            "D.100000倍",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 171
+    },
+    {
+        "question_text": "742、属于染色体的异染色质区的结构是（   ）",
+        "options": [
+            "A.中心粒",
+            "B.端粒",
+            "C.动粒",
+            "D.基粒",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 172
+    },
+    {
+        "question_text": "743、人类体细胞46条染色体中，不具备的染色体类型是 （   ）",
+        "options": [
+            "A.中着丝粒染色体",
+            "B.亚中着丝粒染色体",
+            "C.近端着丝粒染色体",
+            "D.端着丝粒染色体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 173
+    },
+    {
+        "question_text": "744、细胞中所有染色体的相对大小，着丝粒的位置，臂的长短，随体的有无等特征描述了细胞的（   ）",
+        "options": [
+            "A.核型",
+            "B.基因组",
+            "C.染色体类型",
+            "D.带型",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 174
+    },
+    {
+        "question_text": "745、染色体上非组蛋白的功能不包括（   ）",
+        "options": [
+            "A.参与染色体的构建",
+            "B.染色体的定位",
+            "C.启动基因复制",
+            "D.调控基因转录",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 175
+    },
+    {
+        "question_text": "746、染色质二级结构螺线管的直径大约是（   ）",
+        "options": [
+            "A.11nm",
+            "B.30nm",
+            "C. 100nm",
+            "D.400nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 176
+    },
+    {
+        "question_text": "747、放射环模型是用来描述（   ）",
+        "options": [
+            "A.中心体形态",
+            "B.染色体高级结构",
+            "C.核仁组织区",
+            "D.星体分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 177
+    },
+    {
+        "question_text": "748、位于染色体着丝粒和臂的两端，由高度重复序列组成的染色质是（   ）",
+        "options": [
+            "A.常染色质",
+            "B.结构异染色质",
+            "C.兼性异染色质",
+            "D.核仁相随染色质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 178
+    },
+    {
+        "question_text": "749、端粒存在于（    ）",
+        "options": [
+            "A.细胞质中",
+            "B.中心体",
+            "C.线粒体上",
+            "D.染色体上",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 179
+    },
+    {
+        "question_text": "750、端粒存在于染色体DNA两端，是一富含 的简单重复序列（ ）",
+        "options": [
+            "A.UT",
+            "B.GC",
+            "C.AG",
+            "D.CG",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 180
+    },
+    {
+        "question_text": "751、染色体的核型不包括（   ）",
+        "options": [
+            "A.着丝粒的位置",
+            "B.动粒的大小",
+            "C.臂的长短",
+            "D.染色体的大小",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 181
+    },
+    {
+        "question_text": "752、核仁的化学组成为（   ）",
+        "options": [
+            "A.DNA+蛋白质",
+            "B.DNA+rRNA",
+            "C.rRNA+蛋白质",
+            "D.DNA+蛋白质+脂类",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 182
+    },
+    {
+        "question_text": "753、真核细胞结构中，下列哪种结构表面无膜包裹（   ）",
+        "options": [
+            "A.细胞核",
+            "B.核仁",
+            "C.线粒体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 183
+    },
+    {
+        "question_text": "754、核仁的纤维中心实际上是（   ）",
+        "options": [
+            "A.装配的核糖体亚基",
+            "B.转录的rRNA分子",
+            "C.rDNA袢环",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 184
+    },
+    {
+        "question_text": "755、核仁颗粒成分（   ）",
+        "options": [
+            "A.DNA+RNA+蛋白质",
+            "B.RNA+蛋白质",
+            "C.蛋白质",
+            "D.DNA+蛋白质",
+            "E.DNA+RNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 185
+    },
+    {
+        "question_text": "756、光学显微镜下,真核细胞间期核中最明显的结构是\n（   ）",
+        "options": [
+            "A.核孔",
+            "B.核仁",
+            "C.染色质",
+            "D.核基质",
+            "E.核纤层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 186
+    },
+    {
+        "question_text": "757、核仁中含有核糖体前体颗粒的部分称为\n（   ）",
+        "options": [
+            "A.纤维中心",
+            "B.致密纤维组分",
+            "C.颗粒成分",
+            "D.核仁基质",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 187
+    },
+    {
+        "question_text": "758、不属于核仁化学组成的是（   ）",
+        "options": [
+            "A.蛋白质",
+            "B.RNA",
+            "C.DNA",
+            "D.脂类",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 188
+    },
+    {
+        "question_text": "759、rRNA的合成在（   ）",
+        "options": [
+            "A.细胞核内",
+            "B.核仁组织区",
+            "C.粗面内质网",
+            "D.滑面内质网",
+            "E.核糖体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 189
+    },
+    {
+        "question_text": "760、核仁组织者编码（   ）",
+        "options": [
+            "A.核糖体RNA",
+            "B.核仁DNA",
+            "C.mRNA",
+            "D.核糖体蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 190
+    },
+    {
+        "question_text": "761、核仁组织者位于中期染色体的（   ）",
+        "options": [
+            "A.主缢痕",
+            "B.随体",
+            "C.着丝粒",
+            "D.次缢痕",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 191
+    },
+    {
+        "question_text": "762、真核生物中，不定位在核仁组织者区NORs的rRNA基因是（   ）",
+        "options": [
+            "A.28S",
+            "B. 18S?",
+            "C.5.8S?",
+            "D.5S",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 192
+    },
+    {
+        "question_text": "763、rDNA基因是（   ）",
+        "options": [
+            "A.单拷贝基因",
+            "B.多拷贝基因",
+            "C.中度重复序列",
+            "D.高度重复序列",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 193
+    },
+    {
+        "question_text": "764、核仁合成（   ）",
+        "options": [
+            "A.tRNA",
+            "B.mRNA",
+            "C.rRNA",
+            "D.mtRNA",
+            "E. cDNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 194
+    },
+    {
+        "question_text": "765、组成核糖体的rRNA来自（   ）",
+        "options": [
+            "A.线粒体DNA",
+            "B.异染色质",
+            "C.核仁",
+            "D.粗面内质网",
+            "E.mRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 195
+    },
+    {
+        "question_text": "766、关于核仁，描述错误的是（   ）",
+        "options": [
+            "A.rDNA基因通常位于染色体次缢痕部位",
+            "B.rDNA基因呈串联重复排列",
+            "C.哺乳动物细胞编码5S rRNA的基因位于核仁以外区域",
+            "D.哺乳动物细胞的所有rRNA分子都在核仁形成",
+            "E.核仁的大小取决于核仁颗粒成分的多少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 196
+    },
+    {
+        "question_text": "767、构建核糖体的RNA是（   ）",
+        "options": [
+            "A.SiRNA",
+            "B.mRNA",
+            "C.miRNA",
+            "D.tRNA",
+            "E.rRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 197
+    },
+    {
+        "question_text": "768、核仁的大小取决于（   ）",
+        "options": [
+            "A.细胞内蛋白质合成的程度",
+            "B.核仁组织区的大小",
+            "C.线粒体的多少",
+            "D.内质网的多少",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 198
+    },
+    {
+        "question_text": "769、核仁的功能是（   ）",
+        "options": [
+            "A.合成DNA",
+            "B.合成mRNA",
+            "C.合成tRNA",
+            "D.合成rRNA",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 199
+    },
+    {
+        "question_text": "770、核糖体亚基的组装是在（   ）",
+        "options": [
+            "A.细胞核中完成",
+            "B.细胞质中完成",
+            "C.核仁中完成",
+            "D.内质网中完成",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 200
+    },
+    {
+        "question_text": "771、关于核糖体合成和组装的正确描述是（   ）",
+        "options": [
+            "A.核糖体RNA的基因都位于核仁组织区中",
+            "B.核糖体RNA与蛋白结合后可以被转运出细胞核",
+            "C.核仁负责合成和组装为成熟的核糖体",
+            "D.核糖体蛋白可以自由扩散进入核仁区",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 201
+    },
+    {
+        "question_text": "772、下列哪种结构贮存遗传信息（   ）",
+        "options": [
+            "A.核纤层",
+            "B.核孔复合体",
+            "C.核膜",
+            "D.核膜间隙",
+            "E.染色质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 202
+    },
+    {
+        "question_text": "773、DNA分子构成氢键的是（   ）",
+        "options": [
+            "A.碱基",
+            "B.戊糖",
+            "C.磷酸",
+            "D.组蛋白",
+            "E.以上都正确"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 203
+    },
+    {
+        "question_text": "774、在DNA双链复制中，首先需要一段引物，它是（   ）",
+        "options": [
+            "A.mRNA",
+            "B.tRNA",
+            "C.蛋白质",
+            "D.hnRNA(异质性核RNA)",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 204
+    },
+    {
+        "question_text": "775、原核细胞的遗传物质是（   ）",
+        "options": [
+            "A.与RNA、组蛋白结合在一起的DNA",
+            "B.与组蛋白结合在一起的DNA",
+            "C.不与RNA、组蛋白结合在一起的裸露的DNA",
+            "D.双螺旋DNA",
+            "E.一条以上与RNA 结合在一起的DNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 205
+    },
+    {
+        "question_text": "776、mRNA分子上的6个相邻碱基代表（     ）密码子",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E. 6个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 206
+    },
+    {
+        "question_text": "777、一段mRNA的顺序为5’AUGGUGGCGAAUGGCUAA3’，它的翻译产物为（   ）",
+        "options": [
+            "A.6肽",
+            "B.5肽",
+            "C.4肽",
+            "D.3肽",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 207
+    },
+    {
+        "question_text": "778、关于rRNA正确的表述是（   ）",
+        "options": [
+            "A.有反密码子",
+            "B.携带指导蛋白质翻译的遗传信息",
+            "C.参与构成核糖体",
+            "D.易降解",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 208
+    },
+    {
+        "question_text": "779、有关RNA的描述不正确的是（   ）",
+        "options": [
+            "A.由DNA转录生成",
+            "B.结构上包含核糖",
+            "C.含有尿嘧啶而非胸腺嘧啶",
+            "D.总是以双链形式存在",
+            "E.细胞中RNA的种类多样"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 209
+    },
+    {
+        "question_text": "780、RNA经核孔复合体输出至细胞质后，一部分到（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.高尔基复合体",
+            "E.滑面内质网"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 210
+    },
+    {
+        "question_text": "781、密码表中的密码子一般是指（   ）",
+        "options": [
+            "A.DNA分子中三个随机的碱基对顺序",
+            "B.rRNA分子中三个相邻的碱基顺序",
+            "C.tRNA分子中反密码环上的三个碱基顺序",
+            "D.mRNA分子中随机组合的三个碱基顺序",
+            "E.mRNA分子中相邻的三个碱基顺序"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 211
+    },
+    {
+        "question_text": "782、反转录是指（   ）",
+        "options": [
+            "A.DNA→RNA",
+            "B.RNA→RNA",
+            "C.RNA→DNA",
+            "D.RNA→蛋白质",
+            "E.蛋白质→核酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 212
+    },
+    {
+        "question_text": "783、在蛋白质合成过程中，tRNA的生物学功能是（   ）",
+        "options": [
+            "A.提供多肽链合成的场所",
+            "B.作为供能物质",
+            "C.运送氨基酸",
+            "D.起酶的作用",
+            "E.起模板作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 213
+    },
+    {
+        "question_text": "784、rRNA，tRNA和mRNA中，只参与各种蛋白质的合成，而自身不翻译蛋白质的RNA是（   ）",
+        "options": [
+            "A.rRNA和mRNA",
+            "B.rRNA和tRNA",
+            "C.tRNA和mRNA",
+            "D.tRNA",
+            "E.rRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 214
+    },
+    {
+        "question_text": "785、蛋白质翻译起始最先与mRNA分子结合的是（   ）",
+        "options": [
+            "A.核糖体大亚基",
+            "B.核糖体小亚基",
+            "C.成熟核糖体",
+            "D.氨基酰-tRNA合成酶",
+            "E.甲硫氨酰tRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 215
+    },
+    {
+        "question_text": "786、关于细胞核的描述,下列哪一项是不正确的（   ）",
+        "options": [
+            "A.细胞核是膜相结构",
+            "B.遗传物质DNA主要存在于细胞核中",
+            "C.细胞核随着细胞周期的进行发生周期性变化",
+            "D.细胞核的形状可为杆状和分叶状",
+            "E.细胞核占细胞比例大通常意味着细胞分化程度较高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 216
+    },
+    {
+        "question_text": "787、细胞中最大最重要的亚细胞结构（   ）",
+        "options": [
+            "A.线粒体",
+            "B.初级溶酶体",
+            "C.高尔基复合体",
+            "D.细胞核",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 217
+    },
+    {
+        "question_text": "788、哪个不是DNA复制所必须的条件（   ）",
+        "options": [
+            "A.解链酶",
+            "B.DNA聚合酶",
+            "C.RNA引物合成酶",
+            "D.脱氢酶",
+            "E.DNA模板和能量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 218
+    },
+    {
+        "question_text": "789、在原核细胞DNA复制过程中，转录活动（   ）",
+        "options": [
+            "A.全部停止",
+            "B.同时进行",
+            "C.在未复制部分进行",
+            "D.交替进行",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 219
+    },
+    {
+        "question_text": "790、细胞核不是位于细胞中央的细胞是（   ）",
+        "options": [
+            "A.淋巴细胞",
+            "B.受精卵",
+            "C.干细胞",
+            "D.脂肪细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 220
+    },
+    {
+        "question_text": "791、下列有关核质比的说法不正确的是（   ）",
+        "options": [
+            "A.核质比大表示细胞核所占比例相对较大",
+            "B.核质比=细胞核的体积/细胞质的体积",
+            "C.幼稚细胞的核质比较小，成熟细胞的核质比较大",
+            "D.干细胞的核质比较大",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 221
+    },
+    {
+        "question_text": "792、核质比相对较大的细胞是（   ）",
+        "options": [
+            "A.脂肪细胞",
+            "B.肌肉细胞",
+            "C.干细胞",
+            "D.肥大细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 222
+    },
+    {
+        "question_text": "793、贯穿细胞核与细胞质的网架结构体系中不包括（   ）",
+        "options": [
+            "A.微丝",
+            "B.核骨架",
+            "C.核纤层",
+            "D.中间纤维",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 223
+    },
+    {
+        "question_text": "794、结合于染色体的异染色质区的是（   ）",
+        "options": [
+            "A.星体",
+            "B.核小体",
+            "C.动粒",
+            "D.周期蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 224
+    },
+    {
+        "question_text": "795、核仁体积相对较大的细胞是（   ）",
+        "options": [
+            "A.精子",
+            "B.肌肉细胞",
+            "C.红细胞",
+            "D.卵母细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 225
+    },
+    {
+        "question_text": "796、以下不属于纤维网状结构成分的是（   ）",
+        "options": [
+            "A.核仁基质",
+            "B.核纤层",
+            "C.核骨架",
+            "D.核仁",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 226
+    },
+    {
+        "question_text": "797、以下不具有膜结构的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.核仁",
+            "C.凋亡小体",
+            "D.吞噬体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 227
+    },
+    {
+        "question_text": "798、与核基质形态结构相似的成分是（   ）",
+        "options": [
+            "A.细胞外基质",
+            "B.线粒体基质",
+            "C.细胞骨架",
+            "D.核仁基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "228",
+        "number": 228
+    }
+]

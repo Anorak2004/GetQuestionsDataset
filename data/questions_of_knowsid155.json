@@ -1,0 +1,1010 @@
+[
+    {
+        "question_text": "1、细胞生物学是从细胞的哪几个水平研究细胞生命活动的学科的？",
+        "options": [
+            "A.分子",
+            "B.亚细胞",
+            "C.细胞整体",
+            "D.分子和亚细胞",
+            "E.分子、亚细胞、细胞整体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 1
+    },
+    {
+        "question_text": "2、医学细胞生物学是一门（   )的科学",
+        "options": [
+            "A.研究细胞生命现象发生规律及其本质",
+            "B.从细胞角度探讨人体结构功能",
+            "C.从细胞角度探寻人体发育、遗传、运动等各种现象的机制",
+            "D.探讨疾病发生、防治的细胞水平机制",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 2
+    },
+    {
+        "question_text": "3、细胞生物学研究的细胞生命现象包括以下（   ）",
+        "options": [
+            "A.细胞的生长、分裂、分化",
+            "B.细胞的遗传、变异、发育",
+            "C.细胞的运动、信号传导",
+            "D.细胞的癌变、衰老死亡",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 3
+    },
+    {
+        "question_text": "4、以下属于细胞生物学分支学科的是（   ）",
+        "options": [
+            "A.分子生物学",
+            "B.分子遗传学",
+            "C.细胞遗传学",
+            "D.基因组学",
+            "E.分子病理学"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 4
+    },
+    {
+        "question_text": "5、以下不属于细胞生物学分支学科的是（   ）",
+        "options": [
+            "A.细胞生理学",
+            "B.细胞化学",
+            "C.细胞遗传学",
+            "D.分子生物学",
+            "E.细胞形态学"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 5
+    },
+    {
+        "question_text": "6、（   ）是生物体形态与结构的功能单位",
+        "options": [
+            "A.蛋白质",
+            "B.糖类与脂类",
+            "C.遗传物质",
+            "D.细胞核",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 6
+    },
+    {
+        "question_text": "7、最早发现细胞的科学家是(  )",
+        "options": [
+            "A.Robert Hooke",
+            "B.Leeuwenhoek",
+            "C.Flemming",
+            "D.Schwann",
+            "E.Hertwig"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 7
+    },
+    {
+        "question_text": "8、（  ）设计制造了第一台电子显微镜",
+        "options": [
+            "A.Robert Hooke",
+            "B.Virchow",
+            "C.Ruska",
+            "D.Hertwig",
+            "E.Schwann"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 8
+    },
+    {
+        "question_text": "9、(   )最早发现了细胞的有丝分裂现象",
+        "options": [
+            "A.Ruska",
+            "B.Virchow",
+            "C.Flemming",
+            "D.Hertwig",
+            "E.Leeuwenhoek"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 9
+    },
+    {
+        "question_text": "10、光学显微镜是由(   )发明的",
+        "options": [
+            "A.Ruska",
+            "B.Hooke",
+            "C.Leeuwenhoek",
+            "D.Janssen父子",
+            "E.Schwann"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 10
+    },
+    {
+        "question_text": "11、最早观察到青蛙血细胞的科学家是（  ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 11
+    },
+    {
+        "question_text": "12、最早在无脊椎动物红细胞中观察到细胞核的科学家是（   ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 12
+    },
+    {
+        "question_text": "13、在鳗鱼上皮细胞中发现细胞核的科学家是（  )",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 13
+    },
+    {
+        "question_text": "14、发现植物中相邻细胞有膜间隔并由此提出“细胞是彼此分离的单位”观点的科学家是（   ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Treviranus"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 14
+    },
+    {
+        "question_text": "15、细胞学说不包括的内容是(  )",
+        "options": [
+            "A.细胞是生命活动的基本结构单位和功能单位",
+            "B.多细胞生物由单细胞生物发育而来",
+            "C.细胞只能来自细胞",
+            "D.细胞的增殖方式都是有丝分裂",
+            "E.所有生物体都是由细胞构成的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 15
+    },
+    {
+        "question_text": "16、对细胞学说具有突出贡献的科学家是（  ）",
+        "options": [
+            "A.Robert Hooke and Leeuwenhoek",
+            "B.Schleiden and Schwann",
+            "C.Virchow and Braun",
+            "D.Watson and Crick",
+            "E.Hertwig and Flemming"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 16
+    },
+    {
+        "question_text": "17、第一个将细胞学说应用于医学的人是（  ）",
+        "options": [
+            "A.Robert Hooke",
+            "B.Mendel",
+            "C.Virchow",
+            "D.Crick",
+            "E.Watson"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 17
+    },
+    {
+        "question_text": "18、“细胞来源于细胞”这一观点是由（   ）提出的",
+        "options": [
+            "A.Robert Hooke",
+            "B.Virchow",
+            "C.Ruska",
+            "D.Hertwig",
+            "E.Schwann"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 18
+    },
+    {
+        "question_text": "19、线粒体、内质网、高尔基体等细胞器的发现，从根本上改变了早先（   ）观点",
+        "options": [
+            "A.细胞是一个小室",
+            "B.细胞是由膜包围的",
+            "C.细胞质是由均一的原生质组成",
+            "D.细胞来源于细胞",
+            "E.生物体由细胞组成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 19
+    },
+    {
+        "question_text": "20、细胞学作为独立学科的标志是(   )",
+        "options": [
+            "A.细胞学说的提出",
+            "B.细胞核的发现",
+            "C.内质网、高尔基体等细胞器的发现",
+            "D.有丝分裂的发现",
+            "E.《细胞学杂志》的创刊和《细胞与组织》的出版"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 20
+    },
+    {
+        "question_text": "21、最早对于细胞产生的方式提出“细胞重建”观点的科学家是（   ）",
+        "options": [
+            "A.贝时璋",
+            "B.竺可桢",
+            "C.孟德尔",
+            "D.摩尔根",
+            "E.哈里森"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 21
+    },
+    {
+        "question_text": "22、“蛙胚神经管组织在淋巴液中培养长出神经细胞”这一技术的建立其意义不包括以下哪项（  )",
+        "options": [
+            "A.细胞可以体外培养",
+            "B.体外培养的细胞可作为研究实验材料",
+            "C.使体外活细胞研究成为可能",
+            "D.使人们认识到细胞膜的属性",
+            "E.使细胞学进一步深入发展"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 22
+    },
+    {
+        "question_text": "23、C.E.Overton的渗透实验证明了（    ）",
+        "options": [
+            "A.细胞膜具有半透性",
+            "B.细胞膜是由脂质双分子层构成",
+            "C.细胞膜的结构模型是液态镶嵌模型",
+            "D.细胞膜不具备通透性",
+            "E.细胞膜的存在"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 23
+    },
+    {
+        "question_text": "24、20世纪初哪些研究进展促进了细胞学进入新的发展时期（   ）",
+        "options": [
+            "A.组织细胞培养技术的建立",
+            "B.细胞膜理化特性认识的加深",
+            "C.细胞中核酸和蛋白质分析技术的出现",
+            "D.电子显微镜的出现与应用",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 24
+    },
+    {
+        "question_text": "25、人体的发育是从（   ）开始的",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.精子",
+            "D.卵子",
+            "E.受精卵"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 25
+    },
+    {
+        "question_text": "26、人体结构和功能的基础单位是（   ）",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.葡萄糖",
+            "D.脂肪",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 26
+    },
+    {
+        "question_text": "27、胚胎发育过程实质上是（    ）",
+        "options": [
+            "A.生物大分子的合成过程",
+            "B.生物小分子的转化过程",
+            "C.细胞的分裂过程",
+            "D.细胞的分化过程",
+            "E.细胞的增殖与分化过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 27
+    },
+    {
+        "question_text": "28、（    ）是疾病发生发展的基本单位",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.葡萄糖",
+            "D.脂肪",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 28
+    },
+    {
+        "question_text": "29、肿瘤的治疗实质上就是通过手术、药物或射线杀灭或抑制（    ）",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.支原体",
+            "D.恶性细胞",
+            "E.衣原体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 29
+    },
+    {
+        "question_text": "30、以下哪项符合细胞生物学在医学科学发展中具有重要意义的说法（   ）",
+        "options": [
+            "A.掌握细胞生命活动相关的分子基础可以帮助设计靶向性药物治疗",
+            "B.干细胞研究可以拓展肿瘤、遗传性疾病治疗手段",
+            "C.加强感染性疾病的进一步防治",
+            "D.增加代谢性疾病治疗的新靶点",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 30
+    },
+    {
+        "question_text": "31、以下研究内容属于细胞生物学应用研究领域新进展的是（   ）",
+        "options": [
+            "A.干细胞研究",
+            "B.细胞与组织工程",
+            "C.基因诊断与治疗",
+            "D.遗传工程",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 31
+    },
+    {
+        "question_text": "32、当今细胞生物学研究的热点有（  ）",
+        "options": [
+            "A.细胞增殖、分化与细胞周期的调控",
+            "B.细胞的衰老与死亡及其调控",
+            "C.细胞工程",
+            "D.干细胞及其应用",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 32
+    },
+    {
+        "question_text": "33、在电镜下可以观察到的细胞内结构有（    ）",
+        "options": [
+            "A.细胞内的膜相结构",
+            "B.中心体",
+            "C.细胞膜“暗-明-暗”的结构特点",
+            "D.线粒体嵴",
+            "E.以上都可看到"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 33
+    },
+    {
+        "question_text": "34、以下哪项不能说明细胞的“时空”特性（   ）",
+        "options": [
+            "A.细胞中不同作用的酶分布在不同细胞器中",
+            "B.生物膜都有共同的结构属性",
+            "C.中心体在细胞有丝分裂期向细胞两极移动",
+            "D.遗传物质的转录和翻译分别在核内和核外进行",
+            "E.线粒体多分布在细胞内能量需求大的部位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 34
+    },
+    {
+        "question_text": "35、下列生物中，不是由细胞所构成的是（   ）",
+        "options": [
+            "A.支原体",
+            "B.病毒",
+            "C.细菌",
+            "D.蓝藻",
+            "E.衣原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 35
+    },
+    {
+        "question_text": "36、目前发现的最小的细胞是（   ）",
+        "options": [
+            "A.细菌",
+            "B.双线菌",
+            "C.支原体",
+            "D.立克次体",
+            "E.病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 36
+    },
+    {
+        "question_text": "1、细胞生物学是从细胞的哪几个水平研究细胞生命活动的学科的？",
+        "options": [
+            "A.分子",
+            "B.亚细胞",
+            "C.细胞整体",
+            "D.分子和亚细胞",
+            "E.分子、亚细胞、细胞整体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 37
+    },
+    {
+        "question_text": "2、医学细胞生物学是一门（   )的科学",
+        "options": [
+            "A.研究细胞生命现象发生规律及其本质",
+            "B.从细胞角度探讨人体结构功能",
+            "C.从细胞角度探寻人体发育、遗传、运动等各种现象的机制",
+            "D.探讨疾病发生、防治的细胞水平机制",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 38
+    },
+    {
+        "question_text": "3、细胞生物学研究的细胞生命现象包括以下（   ）",
+        "options": [
+            "A.细胞的生长、分裂、分化",
+            "B.细胞的遗传、变异、发育",
+            "C.细胞的运动、信号传导",
+            "D.细胞的癌变、衰老死亡",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 39
+    },
+    {
+        "question_text": "4、以下属于细胞生物学分支学科的是（   ）",
+        "options": [
+            "A.分子生物学",
+            "B.分子遗传学",
+            "C.细胞遗传学",
+            "D.基因组学",
+            "E.分子病理学"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 40
+    },
+    {
+        "question_text": "5、以下不属于细胞生物学分支学科的是（   ）",
+        "options": [
+            "A.细胞生理学",
+            "B.细胞化学",
+            "C.细胞遗传学",
+            "D.分子生物学",
+            "E.细胞形态学"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 41
+    },
+    {
+        "question_text": "6、（   ）是生物体形态与结构的功能单位",
+        "options": [
+            "A.蛋白质",
+            "B.糖类与脂类",
+            "C.遗传物质",
+            "D.细胞核",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 42
+    },
+    {
+        "question_text": "7、最早发现细胞的科学家是(  )",
+        "options": [
+            "A.Robert Hooke",
+            "B.Leeuwenhoek",
+            "C.Flemming",
+            "D.Schwann",
+            "E.Hertwig"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 43
+    },
+    {
+        "question_text": "8、（  ）设计制造了第一台电子显微镜",
+        "options": [
+            "A.Robert Hooke",
+            "B.Virchow",
+            "C.Ruska",
+            "D.Hertwig",
+            "E.Schwann"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 44
+    },
+    {
+        "question_text": "9、(   )最早发现了细胞的有丝分裂现象",
+        "options": [
+            "A.Ruska",
+            "B.Virchow",
+            "C.Flemming",
+            "D.Hertwig",
+            "E.Leeuwenhoek"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 45
+    },
+    {
+        "question_text": "10、光学显微镜是由(   )发明的",
+        "options": [
+            "A.Ruska",
+            "B.Hooke",
+            "C.Leeuwenhoek",
+            "D.Janssen父子",
+            "E.Schwann"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 46
+    },
+    {
+        "question_text": "11、最早观察到青蛙血细胞的科学家是（  ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 47
+    },
+    {
+        "question_text": "12、最早在无脊椎动物红细胞中观察到细胞核的科学家是（   ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 48
+    },
+    {
+        "question_text": "13、在鳗鱼上皮细胞中发现细胞核的科学家是（  )",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Moldenhawer"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 49
+    },
+    {
+        "question_text": "14、发现植物中相邻细胞有膜间隔并由此提出“细胞是彼此分离的单位”观点的科学家是（   ）",
+        "options": [
+            "A.Swammerdan",
+            "B.Leeuwenhoek",
+            "C.Hewson",
+            "D.Fontana",
+            "E.Treviranus"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 50
+    },
+    {
+        "question_text": "15、细胞学说不包括的内容是(  )",
+        "options": [
+            "A.细胞是生命活动的基本结构单位和功能单位",
+            "B.多细胞生物由单细胞生物发育而来",
+            "C.细胞只能来自细胞",
+            "D.细胞的增殖方式都是有丝分裂",
+            "E.所有生物体都是由细胞构成的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 51
+    },
+    {
+        "question_text": "16、对细胞学说具有突出贡献的科学家是（  ）",
+        "options": [
+            "A.Robert Hooke and Leeuwenhoek",
+            "B.Schleiden and Schwann",
+            "C.Virchow and Braun",
+            "D.Watson and Crick",
+            "E.Hertwig and Flemming"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 52
+    },
+    {
+        "question_text": "17、第一个将细胞学说应用于医学的人是（  ）",
+        "options": [
+            "A.Robert Hooke",
+            "B.Mendel",
+            "C.Virchow",
+            "D.Crick",
+            "E.Watson"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 53
+    },
+    {
+        "question_text": "18、“细胞来源于细胞”这一观点是由（   ）提出的",
+        "options": [
+            "A.Robert Hooke",
+            "B.Virchow",
+            "C.Ruska",
+            "D.Hertwig",
+            "E.Schwann"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 54
+    },
+    {
+        "question_text": "19、线粒体、内质网、高尔基体等细胞器的发现，从根本上改变了早先（   ）观点",
+        "options": [
+            "A.细胞是一个小室",
+            "B.细胞是由膜包围的",
+            "C.细胞质是由均一的原生质组成",
+            "D.细胞来源于细胞",
+            "E.生物体由细胞组成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 55
+    },
+    {
+        "question_text": "20、细胞学作为独立学科的标志是(   )",
+        "options": [
+            "A.细胞学说的提出",
+            "B.细胞核的发现",
+            "C.内质网、高尔基体等细胞器的发现",
+            "D.有丝分裂的发现",
+            "E.《细胞学杂志》的创刊和《细胞与组织》的出版"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 56
+    },
+    {
+        "question_text": "21、最早对于细胞产生的方式提出“细胞重建”观点的科学家是（   ）",
+        "options": [
+            "A.贝时璋",
+            "B.竺可桢",
+            "C.孟德尔",
+            "D.摩尔根",
+            "E.哈里森"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 57
+    },
+    {
+        "question_text": "22、“蛙胚神经管组织在淋巴液中培养长出神经细胞”这一技术的建立其意义不包括以下哪项（  )",
+        "options": [
+            "A.细胞可以体外培养",
+            "B.体外培养的细胞可作为研究实验材料",
+            "C.使体外活细胞研究成为可能",
+            "D.使人们认识到细胞膜的属性",
+            "E.使细胞学进一步深入发展"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 58
+    },
+    {
+        "question_text": "23、C.E.Overton的渗透实验证明了（    ）",
+        "options": [
+            "A.细胞膜具有半透性",
+            "B.细胞膜是由脂质双分子层构成",
+            "C.细胞膜的结构模型是液态镶嵌模型",
+            "D.细胞膜不具备通透性",
+            "E.细胞膜的存在"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 59
+    },
+    {
+        "question_text": "24、20世纪初哪些研究进展促进了细胞学进入新的发展时期（   ）",
+        "options": [
+            "A.组织细胞培养技术的建立",
+            "B.细胞膜理化特性认识的加深",
+            "C.细胞中核酸和蛋白质分析技术的出现",
+            "D.电子显微镜的出现与应用",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 60
+    },
+    {
+        "question_text": "25、人体的发育是从（   ）开始的",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.精子",
+            "D.卵子",
+            "E.受精卵"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 61
+    },
+    {
+        "question_text": "26、人体结构和功能的基础单位是（   ）",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.葡萄糖",
+            "D.脂肪",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 62
+    },
+    {
+        "question_text": "27、胚胎发育过程实质上是（    ）",
+        "options": [
+            "A.生物大分子的合成过程",
+            "B.生物小分子的转化过程",
+            "C.细胞的分裂过程",
+            "D.细胞的分化过程",
+            "E.细胞的增殖与分化过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 63
+    },
+    {
+        "question_text": "28、（    ）是疾病发生发展的基本单位",
+        "options": [
+            "A.蛋白质",
+            "B.核酸",
+            "C.葡萄糖",
+            "D.脂肪",
+            "E.细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 64
+    },
+    {
+        "question_text": "29、肿瘤的治疗实质上就是通过手术、药物或射线杀灭或抑制（    ）",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.支原体",
+            "D.恶性细胞",
+            "E.衣原体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 65
+    },
+    {
+        "question_text": "30、以下哪项符合细胞生物学在医学科学发展中具有重要意义的说法（   ）",
+        "options": [
+            "A.掌握细胞生命活动相关的分子基础可以帮助设计靶向性药物治疗",
+            "B.干细胞研究可以拓展肿瘤、遗传性疾病治疗手段",
+            "C.加强感染性疾病的进一步防治",
+            "D.增加代谢性疾病治疗的新靶点",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 66
+    },
+    {
+        "question_text": "31、以下研究内容属于细胞生物学应用研究领域新进展的是（   ）",
+        "options": [
+            "A.干细胞研究",
+            "B.细胞与组织工程",
+            "C.基因诊断与治疗",
+            "D.遗传工程",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 67
+    },
+    {
+        "question_text": "32、当今细胞生物学研究的热点有（  ）",
+        "options": [
+            "A.细胞增殖、分化与细胞周期的调控",
+            "B.细胞的衰老与死亡及其调控",
+            "C.细胞工程",
+            "D.干细胞及其应用",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 68
+    },
+    {
+        "question_text": "33、在电镜下可以观察到的细胞内结构有（    ）",
+        "options": [
+            "A.细胞内的膜相结构",
+            "B.中心体",
+            "C.细胞膜“暗-明-暗”的结构特点",
+            "D.线粒体嵴",
+            "E.以上都可看到"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 69
+    },
+    {
+        "question_text": "34、以下哪项不能说明细胞的“时空”特性（   ）",
+        "options": [
+            "A.细胞中不同作用的酶分布在不同细胞器中",
+            "B.生物膜都有共同的结构属性",
+            "C.中心体在细胞有丝分裂期向细胞两极移动",
+            "D.遗传物质的转录和翻译分别在核内和核外进行",
+            "E.线粒体多分布在细胞内能量需求大的部位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 70
+    },
+    {
+        "question_text": "35、下列生物中，不是由细胞所构成的是（   ）",
+        "options": [
+            "A.支原体",
+            "B.病毒",
+            "C.细菌",
+            "D.蓝藻",
+            "E.衣原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 71
+    },
+    {
+        "question_text": "36、目前发现的最小的细胞是（   ）",
+        "options": [
+            "A.细菌",
+            "B.双线菌",
+            "C.支原体",
+            "D.立克次体",
+            "E.病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "72",
+        "number": 72
+    }
+]

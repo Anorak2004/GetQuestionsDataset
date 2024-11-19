@@ -1,0 +1,702 @@
+[
+    {
+        "question_text": "1051、下列干细胞中分化潜能最高的是（  ）",
+        "options": [
+            "A.胚胎内细胞团细胞",
+            "B.8细胞期的卵裂球细胞",
+            "C.间充质干细胞",
+            "D.造血干细胞",
+            "E.神经干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 1
+    },
+    {
+        "question_text": "1052、有关干细胞，下列说法正确的是 （  ）",
+        "options": [
+            "A.具有自我更新能力",
+            "B.每分裂一次，子代细胞均分化一步",
+            "C.形态上无十分明显特点",
+            "D.不同类型的干细胞形态差别大，体积大，核质比相对较小",
+            "E.出生后器官中都有全能干细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 2
+    },
+    {
+        "question_text": "1053、下列细胞中能称为干细胞的是（  ）",
+        "options": [
+            "A.皮肤的角质层细胞",
+            "B.皮肤的生发层细胞",
+            "C.皮肤中的汗腺细胞",
+            "D.皮下脂肪细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 3
+    },
+    {
+        "question_text": "1054、胚胎干细胞通常获得是从（  ）",
+        "options": [
+            "A.内细胞团",
+            "B.滋养层细胞",
+            "C.蜕膜细胞",
+            "D.颗粒细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 4
+    },
+    {
+        "question_text": "1055、下述哪个是全能干细胞（  ）",
+        "options": [
+            "A.造血干细胞",
+            "B.脂肪干细胞",
+            "C.肿瘤干细胞",
+            "D.神经干细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 5
+    },
+    {
+        "question_text": "1056、下列哪个是多能干细胞？",
+        "options": [
+            "A.神经干细胞",
+            "B.囊胚内细胞团细胞",
+            "C.8细胞期的卵裂球细胞",
+            "D.间充质干细胞",
+            "E.肠干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 6
+    },
+    {
+        "question_text": "1057、下列哪个是全能干细胞？",
+        "options": [
+            "A.胚胎生殖细胞",
+            "B.囊胚内细胞团",
+            "C.8细胞期的卵裂球细胞",
+            "D.间充质干细胞",
+            "E.畸胎瘤细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 7
+    },
+    {
+        "question_text": "1058、生物体的细胞中，全能性最高的细胞是（  ）",
+        "options": [
+            "A.体细胞",
+            "B.生殖细胞",
+            "C.干细胞",
+            "D.受精卵",
+            "E.上皮细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 8
+    },
+    {
+        "question_text": "1059、在个体发育中，细胞分化的规律是：",
+        "options": [
+            "A.单能细胞-多能细胞-全能细胞",
+            "B.全能细胞-多能细胞-单能细胞",
+            "C.全能细胞-单能细胞-多能细胞",
+            "D.单能细胞-全能细胞-多能细胞",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 9
+    },
+    {
+        "question_text": "1060、一般情况下，下列的细胞中分化的程度由高到低的顺序依次是a卵原细胞 b受精卵 c胚胎干细胞  d造血干细胞 e神经细胞（  ）",
+        "options": [
+            "A.eabcd",
+            "B.ecabd",
+            "C.eadbc",
+            "D.eadcb",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 10
+    },
+    {
+        "question_text": "1061、下列哪个不是干细胞的特征\n（  ）",
+        "options": [
+            "A.不对称分裂",
+            "B.核质比例较大",
+            "C.细胞内膜性细胞器较丰富",
+            "D.端粒酶活性高",
+            "E.细胞体积小，多为圆形或椭圆形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 11
+    },
+    {
+        "question_text": "1062、人体出生后，干细胞的数目 （  ）",
+        "options": [
+            "A.越来越多",
+            "B.越来越少",
+            "C.基本恒定",
+            "D.30岁以前最多",
+            "E.40岁以后减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 12
+    },
+    {
+        "question_text": "1063、干细胞总数 （  ）",
+        "options": [
+            "A.出生后持续减少",
+            "B.10岁后迅速减少",
+            "C.20岁后迅速减少",
+            "D.50岁后迅速减少",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 13
+    },
+    {
+        "question_text": "1064、下列哪种现象是干细胞的去分化现象（  ）",
+        "options": [
+            "A.神经干细胞转变为神经胶质细胞",
+            "B.神经干细胞转变为神经元",
+            "C.神经干细胞转变为造血细胞",
+            "D.造血干细胞转变为胚胎干细胞",
+            "E.造血干细胞转变为肌细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 14
+    },
+    {
+        "question_text": "1065、一定条件下具有横向分化能力的细胞是（  ）",
+        "options": [
+            "A.全能干细胞",
+            "B.胚胎干细胞",
+            "C.成体干细胞",
+            "D.终末分化细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 15
+    },
+    {
+        "question_text": "1066、下列关于干细胞叙述不正确的是（  ）",
+        "options": [
+            "A.各种组织干细胞分化形成各种不同组织细胞是基因选择性表达的结果",
+            "B.胚胎干细胞有细胞周期，神经干细胞分化形成的神经细胞没有细胞周期",
+            "C.正常生理条件下，造血干细胞分化形成红细胞、白细胞的过程是不可逆的",
+            "D.肝脏干细胞分化形成肝脏细胞的过程表现了细胞的全能性",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 16
+    },
+    {
+        "question_text": "1067、下列哪类细胞不具分化能力（  ）",
+        "options": [
+            "A.胚胎干细胞",
+            "B.精原细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.间充质干细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 17
+    },
+    {
+        "question_text": "1068、胚胎干细胞通常指的是（  ）",
+        "options": [
+            "A.受精卵",
+            "B.内细胞团",
+            "C.内胚层",
+            "D.中胚层",
+            "E.外胚层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 18
+    },
+    {
+        "question_text": "1069、胚胎干细胞通常获得是从（  ）",
+        "options": [
+            "A.内细胞团",
+            "B.滋养层细胞",
+            "C.蜕膜细胞",
+            "D.颗粒细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 19
+    },
+    {
+        "question_text": "1070、人工获得胚胎干细胞的方法是：将细胞核移植到去核的卵细胞内，经过一定的处理\n使其发育到某一时期，从而获得胚胎干细胞，“某一时期”最可能是（  ）",
+        "options": [
+            "A.受精卵",
+            "B.八细胞胚",
+            "C.囊胚",
+            "D.原肠胚",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 20
+    },
+    {
+        "question_text": "1071、原始生殖细胞最早出现于（ ）",
+        "options": [
+            "A.外胚层",
+            "B.中胚层",
+            "C.内胚层",
+            "D.羊膜腔",
+            "E.尿囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 21
+    },
+    {
+        "question_text": "1072、人造血干细胞是（  ）",
+        "options": [
+            "A.全能干细胞",
+            "B.终末分化细胞",
+            "C.专能干细胞",
+            "D.胚胎干细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 22
+    },
+    {
+        "question_text": "1073、间充质干细胞的主要来源是（  ）",
+        "options": [
+            "A.肝脏",
+            "B.胸腺",
+            "C.卵黄囊",
+            "D.骨髓",
+            "E.脾脏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 23
+    },
+    {
+        "question_text": "1074、间充质干细胞是一类多能干细胞，来源于胚胎发育早期的（  ）",
+        "options": [
+            "A.外胚层",
+            "B.中胚层",
+            "C.内胚层",
+            "D.外胚层和中胚层",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 24
+    },
+    {
+        "question_text": "1075、最先被认识的成体干细胞是（  ）",
+        "options": [
+            "A.造血干细胞",
+            "B.间充质干细胞",
+            "C.神经干细胞",
+            "D.肝干细胞",
+            "E.皮肤干细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 25
+    },
+    {
+        "question_text": "1051、下列干细胞中分化潜能最高的是（  ）",
+        "options": [
+            "A.胚胎内细胞团细胞",
+            "B.8细胞期的卵裂球细胞",
+            "C.间充质干细胞",
+            "D.造血干细胞",
+            "E.神经干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 26
+    },
+    {
+        "question_text": "1052、有关干细胞，下列说法正确的是 （  ）",
+        "options": [
+            "A.具有自我更新能力",
+            "B.每分裂一次，子代细胞均分化一步",
+            "C.形态上无十分明显特点",
+            "D.不同类型的干细胞形态差别大，体积大，核质比相对较小",
+            "E.出生后器官中都有全能干细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 27
+    },
+    {
+        "question_text": "1053、下列细胞中能称为干细胞的是（  ）",
+        "options": [
+            "A.皮肤的角质层细胞",
+            "B.皮肤的生发层细胞",
+            "C.皮肤中的汗腺细胞",
+            "D.皮下脂肪细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 28
+    },
+    {
+        "question_text": "1054、胚胎干细胞通常获得是从（  ）",
+        "options": [
+            "A.内细胞团",
+            "B.滋养层细胞",
+            "C.蜕膜细胞",
+            "D.颗粒细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 29
+    },
+    {
+        "question_text": "1055、下述哪个是全能干细胞（  ）",
+        "options": [
+            "A.造血干细胞",
+            "B.脂肪干细胞",
+            "C.肿瘤干细胞",
+            "D.神经干细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 30
+    },
+    {
+        "question_text": "1056、下列哪个是多能干细胞？",
+        "options": [
+            "A.神经干细胞",
+            "B.囊胚内细胞团细胞",
+            "C.8细胞期的卵裂球细胞",
+            "D.间充质干细胞",
+            "E.肠干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 31
+    },
+    {
+        "question_text": "1057、下列哪个是全能干细胞？",
+        "options": [
+            "A.胚胎生殖细胞",
+            "B.囊胚内细胞团",
+            "C.8细胞期的卵裂球细胞",
+            "D.间充质干细胞",
+            "E.畸胎瘤细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 32
+    },
+    {
+        "question_text": "1058、生物体的细胞中，全能性最高的细胞是（  ）",
+        "options": [
+            "A.体细胞",
+            "B.生殖细胞",
+            "C.干细胞",
+            "D.受精卵",
+            "E.上皮细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 33
+    },
+    {
+        "question_text": "1059、在个体发育中，细胞分化的规律是：",
+        "options": [
+            "A.单能细胞-多能细胞-全能细胞",
+            "B.全能细胞-多能细胞-单能细胞",
+            "C.全能细胞-单能细胞-多能细胞",
+            "D.单能细胞-全能细胞-多能细胞",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 34
+    },
+    {
+        "question_text": "1060、一般情况下，下列的细胞中分化的程度由高到低的顺序依次是a卵原细胞 b受精卵 c胚胎干细胞  d造血干细胞 e神经细胞（  ）",
+        "options": [
+            "A.eabcd",
+            "B.ecabd",
+            "C.eadbc",
+            "D.eadcb",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 35
+    },
+    {
+        "question_text": "1061、下列哪个不是干细胞的特征\n（  ）",
+        "options": [
+            "A.不对称分裂",
+            "B.核质比例较大",
+            "C.细胞内膜性细胞器较丰富",
+            "D.端粒酶活性高",
+            "E.细胞体积小，多为圆形或椭圆形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 36
+    },
+    {
+        "question_text": "1062、人体出生后，干细胞的数目 （  ）",
+        "options": [
+            "A.越来越多",
+            "B.越来越少",
+            "C.基本恒定",
+            "D.30岁以前最多",
+            "E.40岁以后减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 37
+    },
+    {
+        "question_text": "1063、干细胞总数 （  ）",
+        "options": [
+            "A.出生后持续减少",
+            "B.10岁后迅速减少",
+            "C.20岁后迅速减少",
+            "D.50岁后迅速减少",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 38
+    },
+    {
+        "question_text": "1064、下列哪种现象是干细胞的去分化现象（  ）",
+        "options": [
+            "A.神经干细胞转变为神经胶质细胞",
+            "B.神经干细胞转变为神经元",
+            "C.神经干细胞转变为造血细胞",
+            "D.造血干细胞转变为胚胎干细胞",
+            "E.造血干细胞转变为肌细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 39
+    },
+    {
+        "question_text": "1065、一定条件下具有横向分化能力的细胞是（  ）",
+        "options": [
+            "A.全能干细胞",
+            "B.胚胎干细胞",
+            "C.成体干细胞",
+            "D.终末分化细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 40
+    },
+    {
+        "question_text": "1066、下列关于干细胞叙述不正确的是（  ）",
+        "options": [
+            "A.各种组织干细胞分化形成各种不同组织细胞是基因选择性表达的结果",
+            "B.胚胎干细胞有细胞周期，神经干细胞分化形成的神经细胞没有细胞周期",
+            "C.正常生理条件下，造血干细胞分化形成红细胞、白细胞的过程是不可逆的",
+            "D.肝脏干细胞分化形成肝脏细胞的过程表现了细胞的全能性",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 41
+    },
+    {
+        "question_text": "1067、下列哪类细胞不具分化能力（  ）",
+        "options": [
+            "A.胚胎干细胞",
+            "B.精原细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.间充质干细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 42
+    },
+    {
+        "question_text": "1068、胚胎干细胞通常指的是（  ）",
+        "options": [
+            "A.受精卵",
+            "B.内细胞团",
+            "C.内胚层",
+            "D.中胚层",
+            "E.外胚层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 43
+    },
+    {
+        "question_text": "1069、胚胎干细胞通常获得是从（  ）",
+        "options": [
+            "A.内细胞团",
+            "B.滋养层细胞",
+            "C.蜕膜细胞",
+            "D.颗粒细胞",
+            "E.受精卵"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 44
+    },
+    {
+        "question_text": "1070、人工获得胚胎干细胞的方法是：将细胞核移植到去核的卵细胞内，经过一定的处理\n使其发育到某一时期，从而获得胚胎干细胞，“某一时期”最可能是（  ）",
+        "options": [
+            "A.受精卵",
+            "B.八细胞胚",
+            "C.囊胚",
+            "D.原肠胚",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 45
+    },
+    {
+        "question_text": "1071、原始生殖细胞最早出现于（  ）",
+        "options": [
+            "A.外胚层",
+            "B.中胚层",
+            "C.内胚层",
+            "D.羊膜腔",
+            "E.尿囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 46
+    },
+    {
+        "question_text": "1072、人造血干细胞是（  ）",
+        "options": [
+            "A.全能干细胞",
+            "B.终末分化细胞",
+            "C.专能干细胞",
+            "D.胚胎干细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 47
+    },
+    {
+        "question_text": "1073、间充质干细胞的主要来源是（  ）",
+        "options": [
+            "A.肝脏",
+            "B.胸腺",
+            "C.卵黄囊",
+            "D.骨髓",
+            "E.脾脏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 48
+    },
+    {
+        "question_text": "1074、间充质干细胞是一类多能干细胞，来源于胚胎发育早期的（ ）",
+        "options": [
+            "A.外胚层",
+            "B.中胚层",
+            "C.内胚层",
+            "D.外胚层和中胚层",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 49
+    },
+    {
+        "question_text": "1075、最先被认识的成体干细胞是（  ）",
+        "options": [
+            "A.造血干细胞",
+            "B.间充质干细胞",
+            "C.神经干细胞",
+            "D.肝干细胞",
+            "E.皮肤干细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "50",
+        "number": 50
+    }
+]

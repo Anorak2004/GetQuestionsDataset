@@ -1,0 +1,4425 @@
+[
+    {
+        "question_text": "457、核糖体上肽酰基位点的作用是（   ）",
+        "options": [
+            "A.接受并结合新掺入的氨酰基-tRNA",
+            "B.结合延伸中的肽酰基-tRNA",
+            "C.在肽链延伸过程中催化氨基酸残基之间形成肽键",
+            "D. 供给催化肽酰基-tRNA转位时所需的能量",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 1
+    },
+    {
+        "question_text": "458、真核细胞中核糖体大亚基是由（   ）组成",
+        "options": [
+            "A.1个23S rRNA、1个5S rRNA 和30多种r蛋白",
+            "B.1个23S rRNA、1个5.8S rRNA 和50多种r蛋白",
+            "C. 1个28S rRNA、1个5.8S rRNA 和30多种r蛋白",
+            "D.1个28S rRNA、1个5.8S rRNA、1个5S rRNA和50多种r蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 2
+    },
+    {
+        "question_text": "459、下列细胞结构中，在光镜下不能观察到的是（   ）",
+        "options": [
+            "A.细胞骨架",
+            "B.高尔基复合体",
+            "C.核糖体",
+            "D. 中心体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 3
+    },
+    {
+        "question_text": "460、核糖体的大、小亚基是在细胞的（   ）内合成的",
+        "options": [
+            "A.内质网",
+            "B.溶酶体",
+            "C. 核仁",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 4
+    },
+    {
+        "question_text": "461、下列哪种细胞器的膜上分布有大量的核糖体？",
+        "options": [
+            "A.高尔基体",
+            "B.滑面内质网",
+            "C.粗面内质网",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 5
+    },
+    {
+        "question_text": "462、核糖体主要由（ ）构成",
+        "options": [
+            "A.蛋白质和DNA",
+            "B.蛋白质和tRNA",
+            "C.DNA和RNA",
+            "D.蛋白质和rRNA",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 6
+    },
+    {
+        "question_text": "463、核糖体小亚基的功能是（   ）",
+        "options": [
+            "A.将mRNA结合到核糖体上",
+            "B.提供反密码子识别部位",
+            "C.提供部分tRNA结合部位",
+            "D.激活转肽酶",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 7
+    },
+    {
+        "question_text": "464、真核细胞核糖体的大亚基是60S，小亚基是40S，一个完整的核糖体是（   ）",
+        "options": [
+            "A.100S",
+            "B.90S",
+            "C.80S",
+            "D.70S",
+            "E.50S"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 8
+    },
+    {
+        "question_text": "465、真核细胞核糖体小亚基中含有（   ）",
+        "options": [
+            "A.5SrRNA",
+            "B.5.8SrRNA",
+            "C.18SrRNA",
+            "D.28SrRNA",
+            "E.38SrRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 9
+    },
+    {
+        "question_text": "466、构成核糖体的主要核酸是（   ）",
+        "options": [
+            "A.rRNA",
+            "B.cDNA",
+            "C.mRNA",
+            "D.tRNA",
+            "E.hnRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 10
+    },
+    {
+        "question_text": "467、在核糖体大小亚基组装时起重要作用的离子是（   ）",
+        "options": [
+            "A.Mg2+",
+            "B.Cl-",
+            "C.K+",
+            "D.H+",
+            "E.Ca2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 11
+    },
+    {
+        "question_text": "468、在外源性蛋白质合成旺盛的细胞中，含量较多的细胞器是（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.溶酶体",
+            "C.游离的多聚核糖体",
+            "D.中心体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 12
+    },
+    {
+        "question_text": "469、多聚核糖体是指（   ）",
+        "options": [
+            "A.rRNA的聚合物",
+            "B.核糖体之间的聚合",
+            "C.多个核糖体与多条mRNA的聚合物",
+            "D.多个核糖体与一条mRNA的聚合物",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 13
+    },
+    {
+        "question_text": "470、核糖体大亚基中催化多肽形成的酶是（   ）",
+        "options": [
+            "A.解旋酶",
+            "B.连接酶",
+            "C.转肽酶",
+            "D.反转录酶",
+            "E.限制性内切酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 14
+    },
+    {
+        "question_text": "471、合成蛋白质的细胞内结构是（   ）",
+        "options": [
+            "A.rRNA",
+            "B.核蛋白",
+            "C.中心体",
+            "D.核糖体",
+            "E.类核体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 15
+    },
+    {
+        "question_text": "472、tRNA在细胞的蛋白质合成过程中的作用是（   ）",
+        "options": [
+            "A.激活氨基酸",
+            "B.传递遗传信息",
+            "C.构成核糖体",
+            "D.运送氨基酸",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 16
+    },
+    {
+        "question_text": "473、在蛋白质合成过程中，mRNA的功能是（   ）",
+        "options": [
+            "A.运输氨基酸",
+            "B.起合成模板的作用",
+            "C.提供能量来源",
+            "D.提供合成场所",
+            "E.识别遗传密码"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 17
+    },
+    {
+        "question_text": "474、在蛋白质合成过程中，氨基酸的激活需要（   ）",
+        "options": [
+            "A.RNA聚合酶",
+            "B.DNA聚合酶",
+            "C.氨酰基-tRNA合成酶",
+            "D.转肽酶",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 18
+    },
+    {
+        "question_text": "475、mRNA分子中，翻译的三个终止密码是（   ）",
+        "options": [
+            "A.UAA，UGA，UAG",
+            "B.UUA，UUG，UGU",
+            "C.AUG，AGU，AGA",
+            "D.GAA，GAG，GGA",
+            "E.CAA，CAG，CGA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 19
+    },
+    {
+        "question_text": "476、mRNA分子中，翻译的起始信号是（   ）",
+        "options": [
+            "A.AUG",
+            "B.GAU",
+            "C.GUA",
+            "D.UAG",
+            "E.UGA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 20
+    },
+    {
+        "question_text": "477、下列蛋白中，不是在糙面内质网上合成的是（   ）",
+        "options": [
+            "A.分泌性蛋白",
+            "B.溶酶体酶蛋白",
+            "C.膜整合蛋白",
+            "D.肌动蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 21
+    },
+    {
+        "question_text": "478、新生肽链的折叠与装配是在下列哪种细胞器内完成的？",
+        "options": [
+            "A.溶酶体",
+            "B.粗面内质网",
+            "C.高尔基体",
+            "D.滑面内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 22
+    },
+    {
+        "question_text": "479、内质网最重要的标志酶是（   ）",
+        "options": [
+            "A.葡萄糖-6-磷酸酶",
+            "B.ATP酶",
+            "C.蛋白激酶",
+            "D.碱性磷酸酶",
+            "E.酸性水解酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 23
+    },
+    {
+        "question_text": "480、蛋白质的N-连接的糖基化作用首先发生在（   ）",
+        "options": [
+            "A.滑面内质网",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.溶酶体",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 24
+    },
+    {
+        "question_text": "481、哪种结构含核糖体?",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.粗面内质网"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 25
+    },
+    {
+        "question_text": "482、粗面内质网不合成（   ）",
+        "options": [
+            "A.抗体",
+            "B.细胞因子",
+            "C.细胞膜糖脂",
+            "D.膜受体蛋白",
+            "E.细胞外基质蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 26
+    },
+    {
+        "question_text": "483、滑面内质网的功能不包括（   ）",
+        "options": [
+            "A.与糖类合成有关",
+            "B.参与脂类代谢",
+            "C.合成甾类激素",
+            "D.合成分泌性蛋白",
+            "E.肝细胞的解毒作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 27
+    },
+    {
+        "question_text": "484、肌细胞中，Ca2+的摄取与释放与下列结构有关（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.溶酶体",
+            "D.吞噬体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 28
+    },
+    {
+        "question_text": "485、细胞内的膜性管网状结构是（   ）",
+        "options": [
+            "A.细胞骨架",
+            "B.溶酶体",
+            "C.线粒体",
+            "D.滑面内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 29
+    },
+    {
+        "question_text": "486、下列不是由粗面内质网上附着核糖体合成的蛋白是（   ）",
+        "options": [
+            "A.溶酶体酶蛋白",
+            "B.抗体",
+            "C.消化酶",
+            "D.肌动蛋白",
+            "E.驻留蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 30
+    },
+    {
+        "question_text": "487、肝细胞的解毒功能发生于（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.滑面内质网",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 31
+    },
+    {
+        "question_text": "488、横纹肌细胞中的肌质网是由下列哪种细胞器形成的 ?",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 32
+    },
+    {
+        "question_text": "489、粗面内质网表面附有许多颗粒，这些颗粒是（   ）",
+        "options": [
+            "A.微体",
+            "B.微粒体",
+            "C.核糖体",
+            "D.酶颗粒",
+            "E.ATP酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 33
+    },
+    {
+        "question_text": "490、下列哪项不属于滑面内质网的主要功能",
+        "options": [
+            "A.脂质合成与转运",
+            "B.糖原代谢",
+            "C.Ca2+的储存及Ca2+浓度的调节",
+            "D.解毒作用",
+            "E.蛋白质合成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 34
+    },
+    {
+        "question_text": "491、内质网腔内能参与蛋白质折叠的是",
+        "options": [
+            "A.过氧化氢酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.蛋白酶",
+            "D.分子伴侣",
+            "E.磷脂酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 35
+    },
+    {
+        "question_text": "492、在内质网里进行的蛋白质糖基化多属于哪种连接方式",
+        "options": [
+            "A.N-连接",
+            "B.O-连接",
+            "C.P-连接",
+            "D.A-连接",
+            "E.S-连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 36
+    },
+    {
+        "question_text": "493、肝脏有害代谢物的解毒发生于",
+        "options": [
+            "A.粗面内质网",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.高尔基复合体",
+            "E.滑面内质网"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 37
+    },
+    {
+        "question_text": "494、指导蛋白质从胞质到内质网上合成的氨基酸序列被称为",
+        "options": [
+            "A.导肽",
+            "B.信号肽",
+            "C.转运肽",
+            "D.新生肽",
+            "E.肽键"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 38
+    },
+    {
+        "question_text": "495、真核细胞中合成脂类分子的场所主要是",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 39
+    },
+    {
+        "question_text": "496、内质网的附着核糖体主要合成",
+        "options": [
+            "A.机构蛋白",
+            "B.分泌蛋白",
+            "C.糖蛋白",
+            "D.线粒体蛋白",
+            "E.肌动蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 40
+    },
+    {
+        "question_text": "497、粗面内质网和滑面内质网的区别是",
+        "options": [
+            "A.粗面内质网形态主要为管状，膜的外表面有核糖体",
+            "B.粗面内质网形态主要为扁平囊状，膜的内表面有核糖体",
+            "C.滑面内质网形态主要为扁平囊状，膜上无核糖体",
+            "D.粗面内质网形态主要为扁平囊状，膜的外表面有核糖体",
+            "E.粗面内质网形态主要为管状，膜上无核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 41
+    },
+    {
+        "question_text": "498、与粗面内质网糖基化过程无关的成分是",
+        "options": [
+            "A.N-乙酰葡萄糖胺",
+            "B.寡糖转移酶",
+            "C.天冬酰胺",
+            "D.多萜醇",
+            "E.丝氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 42
+    },
+    {
+        "question_text": "499、下列何种细胞的粗面内质网发达?",
+        "options": [
+            "A.胰腺细胞",
+            "B.胚胎细胞",
+            "C.干细胞",
+            "D.肿瘤细胞",
+            "E.低分化细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 43
+    },
+    {
+        "question_text": "500、滑面内质网发达的细胞是 （   ）",
+        "options": [
+            "A.胰腺细胞",
+            "B.肌细胞",
+            "C.浆细胞",
+            "D.皮肤细胞",
+            "E.干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 44
+    },
+    {
+        "question_text": "501、蛋白质涉及N-连接的糖基化作用发生在（   ）",
+        "options": [
+            "A.滑面内质网腔内",
+            "B.粗面内质网腔内",
+            "C.滑面内质网膜上",
+            "D.粗面内质网膜上",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 45
+    },
+    {
+        "question_text": "502、粗面内质网不具备的功能是（   ）",
+        "options": [
+            "A.核蛋白体附着的支架",
+            "B.参与蛋白质合成",
+            "C.解毒作用",
+            "D.蛋白质的加工和运输",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 46
+    },
+    {
+        "question_text": "503、下列细胞器的膜中，膜蛋白高度糖基化的是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.线粒体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 47
+    },
+    {
+        "question_text": "504、附着于粗面内质网膜上核糖体合成的蛋白质不包括（   ）",
+        "options": [
+            "A.分泌蛋白",
+            "B.膜蛋白",
+            "C.热休克蛋白蛋白",
+            "D.溶酶体蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 48
+    },
+    {
+        "question_text": "505、科学家在研究家蚕丝腺细胞的亚显微结构时，取得了这样的数据（   ）粗面内质网的含量为N时，蚕丝产量为P；粗面内质网的含量为2N时，蚕丝产量为1.5P；粗面内质网的含量为3N时，蚕丝产量为2P。研究结果表明（   ）凡是高产品种蚕，丝腺细胞中粗面内质网特别发达。以上事实说明（   ）",
+        "options": [
+            "A.所有蛋白质都在粗面内质网上合成",
+            "B.高尔基复合体与蛋白质的加工和运输有关",
+            "C.粗面内质网与蛋白质合成、加工和分泌有关",
+            "D.分泌蛋白不是在核糖体上合成的",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 49
+    },
+    {
+        "question_text": "506、在电镜下可见细胞核的外膜与细胞质中哪种细胞器相连？",
+        "options": [
+            "A.高尔基复合体",
+            "B.滑面内质网",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 50
+    },
+    {
+        "question_text": "507、高尔基复合体的扁平囊的层数通常是（   ）",
+        "options": [
+            "A.1-4",
+            "B.2-6",
+            "C.3-8",
+            "D.4-10",
+            "E.5-11"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 51
+    },
+    {
+        "question_text": "508、高尔基复合体的主要生物学功能是（",
+        "options": [
+            "A.消耗O2，产生CO2",
+            "B.合成蛋白质",
+            "C.糖酵解",
+            "D.加工和包装分泌颗粒",
+            "E.消化作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 52
+    },
+    {
+        "question_text": "509、高尔基复合体形成面的小囊泡主要来自（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.粗面内质网",
+            "C.多囊体",
+            "D.吞噬体",
+            "E.微粒体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 53
+    },
+    {
+        "question_text": "510、高尔基复合体中最具特征性的酶是（   ）",
+        "options": [
+            "A.糖基转移酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.酪蛋白磷酸激酶",
+            "D.NADH-细胞色素C还原酶",
+            "E.葡萄糖醛酸转移酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 54
+    },
+    {
+        "question_text": "511、高尔基体的主要生物学功能是（   ）",
+        "options": [
+            "A.蛋白质合成",
+            "B.合成脂类",
+            "C.对蛋白质进行加工和转运",
+            "D.参与细胞氧化过程",
+            "E.合成糖类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 55
+    },
+    {
+        "question_text": "512、下列具有极性的细胞器是（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.核糖体",
+            "C.溶酶体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 56
+    },
+    {
+        "question_text": "513、高尔基复合体的扁平膜囊内物质通常主要来自（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 57
+    },
+    {
+        "question_text": "514、下列细胞结构中，不是由两层单位膜所构成的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.线粒体",
+            "C.高尔基复合体",
+            "D.叶绿体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 58
+    },
+    {
+        "question_text": "515、蛋白质在高尔基体中分选及转运的信息存在于（   ）",
+        "options": [
+            "A.核糖体",
+            "B.内质网",
+            "C.高尔基体",
+            "D.蛋白质本身",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 59
+    },
+    {
+        "question_text": "516、下列蛋白质的修饰加工不是在高尔基体里完成的有（   ）",
+        "options": [
+            "A.蛋白质寡聚糖磷酸化",
+            "B.蛋白质加甘露糖",
+            "C.蛋白质加半乳糖",
+            "D.蛋白质糖基硫酸化",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 60
+    },
+    {
+        "question_text": "517、关于N-连接糖基化，叙述正确的是（   ）",
+        "options": [
+            "A.只发生在粗面内质网",
+            "B.连接的第一个糖基为N-乙酰半乳糖胺",
+            "C.寡糖链是一次性连接",
+            "D.连接的氨基酸残基为苏氨酸",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 61
+    },
+    {
+        "question_text": "518、溶酶体的类型有（   ）",
+        "options": [
+            "A.2种",
+            "B.3种",
+            "C.4种",
+            "D.5种",
+            "E.6种"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 62
+    },
+    {
+        "question_text": "519、类风湿关节炎的产生可能与下述哪种结构损伤有关？",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.溶酶体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 63
+    },
+    {
+        "question_text": "520、心肌细胞内的脂褐素（质）是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.吞噬溶酶体",
+            "D.三级溶酶体（后溶酶体）",
+            "E.多泡小体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 64
+    },
+    {
+        "question_text": "521、形态、分布、理化性质等高度异质性的细胞器是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 65
+    },
+    {
+        "question_text": "522、自噬作用中，溶酶体消化水解的对象是（   ）",
+        "options": [
+            "A.吞饮体",
+            "B.吞噬体",
+            "C.多囊体",
+            "D.残质体",
+            "E.自噬体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 66
+    },
+    {
+        "question_text": "523、初级溶酶体的蛋白分选在哪个细胞器中进行（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 67
+    },
+    {
+        "question_text": "524、溶酶体膜的特殊性在于（   ）",
+        "options": [
+            "A.是单位膜",
+            "B.由磷脂及蛋白质组成",
+            "C.膜内侧有较多糖类",
+            "D.膜成分具有不对称性和流动性",
+            "E.高蛋白性膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 68
+    },
+    {
+        "question_text": "525、顶体被认为是动物精子中一个巨大的特异的细胞器，即（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.溶酶体",
+            "C.中心体",
+            "D.微体",
+            "E.线粒体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 69
+    },
+    {
+        "question_text": "526、溶酶体的标志酶是（   ）",
+        "options": [
+            "A.糖基转移酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.碱性磷酸酶",
+            "D.葡萄糖醛酸转移酶",
+            "E.酸性磷酸酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 70
+    },
+    {
+        "question_text": "527、若溶酶体中所包含的作用底物来自于细胞自身的各种组分，或者衰老、残损和破碎的细胞器，则此溶酶体称为（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.自噬溶酶体",
+            "C.异噬溶酶体",
+            "D.残留小体",
+            "E.终末溶酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 71
+    },
+    {
+        "question_text": "528、在动物精子中，头部最前端的顶体是下列哪种细胞器特化产生的？",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 72
+    },
+    {
+        "question_text": "529、常见职业病矽肺的发病与下列哪一种细胞器有关？",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 73
+    },
+    {
+        "question_text": "530、溶酶体内含量最多的酶是（   ）",
+        "options": [
+            "A.酸性水解酶",
+            "B.ATP酶",
+            "C.氧化酶",
+            "D.脱羧酶",
+            "E.糖基转移酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 74
+    },
+    {
+        "question_text": "531、与来源于胞内和胞外的作用底物融合，形成吞噬性溶酶体的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 75
+    },
+    {
+        "question_text": "532、将细菌水解消化的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 76
+    },
+    {
+        "question_text": "533、将衰老的线粒体分解消化的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 77
+    },
+    {
+        "question_text": "534、消化糖原的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 78
+    },
+    {
+        "question_text": "535、消化LDL颗粒的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 79
+    },
+    {
+        "question_text": "536、溶酶体对损伤的细胞器的分解过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 80
+    },
+    {
+        "question_text": "537、液体小分子进入细胞的过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 81
+    },
+    {
+        "question_text": "538、衰老红细胞进入巨噬细胞的过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 82
+    },
+    {
+        "question_text": "539、细胞对胞质中大分子的消化过程（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 83
+    },
+    {
+        "question_text": "540、类风湿性关节炎的发病原因可能是（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 84
+    },
+    {
+        "question_text": "541、先天性溶酶体病（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 85
+    },
+    {
+        "question_text": "542、矽肺的形成是由于（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 86
+    },
+    {
+        "question_text": "543、真核细胞中，酸性水解酶多存在于（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基体",
+            "C.中心体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 87
+    },
+    {
+        "question_text": "544、被称为细胞内消化器官的细胞器是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基体",
+            "C.过氧化物酶体",
+            "D.溶酶体",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 88
+    },
+    {
+        "question_text": "545、溶酶体酶发挥活性的最适pH范围是（   ）",
+        "options": [
+            "A.2-4",
+            "B.3-6",
+            "C.5-6",
+            "D.7-9",
+            "E.8-10"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 89
+    },
+    {
+        "question_text": "546、自噬作用是指（   ）",
+        "options": [
+            "A.溶酶体消化吞噬体的过程",
+            "B.溶酶体消除自身无用的生物大分子及衰老、崩解的细胞器的过程",
+            "C.溶酶体释放内部酶消化分解整个细胞",
+            "D.溶酶体分解多余营养颗粒的作用",
+            "E.将外源性的有害因子消化、分解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 90
+    },
+    {
+        "question_text": "547、可参与溶酶体形成的分选信号是（   ）",
+        "options": [
+            "A.M-6-P",
+            "B.  LDL",
+            "C.G-6-P",
+            "D. MPF",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 91
+    },
+    {
+        "question_text": "548、矽肺、痛风和下列哪种细胞器的异常有关？",
+        "options": [
+            "A.溶酶体",
+            "B.高尔基复合体",
+            "C.粗面内质网",
+            "D.滑面内质网",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 92
+    },
+    {
+        "question_text": "549、膜蛋白高度糖基化的细胞器是（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.高尔基体",
+            "C.过氧化物酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 93
+    },
+    {
+        "question_text": "550、细胞摄取利用胆固醇过程中，将低密度脂蛋白分解为游离胆固醇是在下列哪种细胞器中完成的？",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基体",
+            "D. 溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 94
+    },
+    {
+        "question_text": "551、下列哪种特点是溶酶体膜不具备的？",
+        "options": [
+            "A.膜蛋白高度糖基化",
+            "B.膜上有Na+通道",
+            "C.膜上有H+泵",
+            "D.膜上有多种载体蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 95
+    },
+    {
+        "question_text": "552、溶酶体膜的特殊性在于 （   ）",
+        "options": [
+            "A.是单位膜",
+            "B.由磷脂及蛋白质组成",
+            "C.膜内侧有较多糖类",
+            "D.膜成分具有不对称性和流动性",
+            "E.高蛋白性膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 96
+    },
+    {
+        "question_text": "553、以下哪一个是双层单位膜结构？",
+        "options": [
+            "A.细胞膜",
+            "B.核膜",
+            "C.溶酶体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 97
+    },
+    {
+        "question_text": "554、过氧化物酶体的标志性酶是（   ）",
+        "options": [
+            "A.过氧化氢酶",
+            "B.尿酸氧化酶",
+            "C.过氧化物酶",
+            "D.L-氨基酸氧化酶",
+            "E.酸性磷酸酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 98
+    },
+    {
+        "question_text": "555、下列哪种疾病发生是与过氧化物酶体有关的？",
+        "options": [
+            "A.Zellweger肝脑肾综合征",
+            "B.II型糖原积累病",
+            "C. 泰萨病",
+            "D.矽肺",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 99
+    },
+    {
+        "question_text": "556、下列哪种膜泡不参与细胞内分选蛋白质的靶向运输？",
+        "options": [
+            "A.吞噬小体",
+            "B.网格蛋白衣被小泡",
+            "C. COP I 膜泡",
+            "D.COP II膜泡",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 100
+    },
+    {
+        "question_text": "557、下列哪种膜性结构不属于内膜系统",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.核膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 101
+    },
+    {
+        "question_text": "558、主要负责内质网逃逸蛋白的捕捉、回收转运以及高尔基体膜内蛋白的逆向运输的囊泡是",
+        "options": [
+            "A.无被转运囊泡",
+            "B.网格蛋白有被囊泡",
+            "C.COPⅠ有被囊泡",
+            "D.COPⅡ有被囊泡",
+            "E.COPⅢ有被囊泡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 102
+    },
+    {
+        "question_text": "559、从内质网到高尔基复合体的物质转运是",
+        "options": [
+            "A.未全成熟的糖类",
+            "B.未全成熟的脂类",
+            "C.未全成熟的配体",
+            "D.未全成熟的蛋白质或酶",
+            "E.未全成熟的核酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 103
+    },
+    {
+        "question_text": "560、下列哪种蛋白质转运过程以囊泡转运方式进行？",
+        "options": [
+            "A.胞质→细胞核",
+            "B.内质网→高尔基复合体",
+            "C.胞质→内质网",
+            "D.胞质→线粒体",
+            "E.胞质→过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 104
+    },
+    {
+        "question_text": "561、分泌蛋白质的合成、加工、运输过程的顺序是（   ）",
+        "options": [
+            "A.高尔基体→粗面内质网→细胞外",
+            "B.粗面内质网→高尔基体→分泌泡→细胞外",
+            "C.粗面内质网→溶酶体→细胞外",
+            "D.粗面内质网→滑面内质网→高尔基体→细胞外",
+            "E.细胞核→分泌泡→细胞外"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 105
+    },
+    {
+        "question_text": "562、细胞内不含内膜系统的是（   ）",
+        "options": [
+            "A.肝细胞",
+            "B.肿瘤细胞",
+            "C.胰腺细胞",
+            "D.胚胎细胞",
+            "E.红细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 106
+    },
+    {
+        "question_text": "563、有关内膜系统的说法错误的是（   ）",
+        "options": [
+            "A.内膜系统是胞内那些在结构、功能乃至发生上密切相关的膜性结构细胞器之总称。",
+            "B.内膜系统是真核细胞特有的结构。",
+            "C.内膜系统包括内质网、高尔基复合体、溶酶体、转运小泡、核膜以及线粒体等功能结构。",
+            "D.内膜系统存在的生物学意义是房室性区域化效应。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 107
+    },
+    {
+        "question_text": "564、下列细胞器中，不属于细胞内膜系统的是（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.内质网",
+            "C. 高尔基体",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 108
+    },
+    {
+        "question_text": "565、所有膜蛋白都具有方向性，其方向性在什么部位中确定？",
+        "options": [
+            "A.细胞质基质",
+            "B.高尔基体",
+            "C.内质网",
+            "D.质膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 109
+    },
+    {
+        "question_text": "566、帮助细胞质基质中变性或错误折叠的蛋白质重新折叠成正确分子构象的物质是（   ）",
+        "options": [
+            "A.热休克蛋白",
+            "B.Bip（binding protein）",
+            "C.拓扑异构酶",
+            "D.信号识别颗粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 110
+    },
+    {
+        "question_text": "567、下列哪种功能是信号识别颗粒不具备的？",
+        "options": [
+            "A.结合信号肽",
+            "B.结合核糖体A位点",
+            "C.结合BIP 蛋白",
+            "D.结合内质网膜上的特异性受体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 111
+    },
+    {
+        "question_text": "568、心肌细胞内的脂褐素（质）是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.吞噬溶酶体",
+            "D.残余体",
+            "E.多泡小体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 112
+    },
+    {
+        "question_text": "569、将细胞内的分泌泡或其他某些膜泡中的物质通过细胞质膜运出细胞的过程称为(   )",
+        "options": [
+            "A.胞吐作用",
+            "B.内化作用",
+            "C.胞吞作用",
+            "D.吞噬作用",
+            "E.受体介导的内吞作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 113
+    },
+    {
+        "question_text": "570、线粒体的嵴来源于（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间腔",
+            "C.内膜",
+            "D.基质颗粒衍生",
+            "E.内外膜共同形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 114
+    },
+    {
+        "question_text": "571、催化ADP磷酸化形成ATP的部位是（   ）",
+        "options": [
+            "A.基粒头部",
+            "B.基粒柄部",
+            "C.基粒基片",
+            "D.膜间隙",
+            "E.嵴间隙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 115
+    },
+    {
+        "question_text": "572、关干线粒体的形态数量大小和分布的说法错误的是（   ）",
+        "options": [
+            "A.光镜下线粒体的形态可表现为线状和杆状",
+            "B.线粒体形态、大小和数量受环境影响不大。",
+            "C.生命活动旺盛时多，疾病、营养不良代谢水平下降时少",
+            "D.细胞发育早期较小，成熟时较大。",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 116
+    },
+    {
+        "question_text": "573、由两层单位膜围成的细胞器是（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 117
+    },
+    {
+        "question_text": "574、关于线粒体的结构不正确的是（   ）",
+        "options": [
+            "A.是由单层膜包裹而成的细胞器",
+            "B.是由双层单位膜封闭的细胞器",
+            "C.线粒体嵴上有许多基粒",
+            "D.线粒体基质中含有核糖体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 118
+    },
+    {
+        "question_text": "575、下列细胞中含线粒体最多的是（   ）",
+        "options": [
+            "A.上皮细胞",
+            "B.心肌细胞",
+            "C.成纤维细胞",
+            "D.淋巴细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 119
+    },
+    {
+        "question_text": "576、下列有关线粒体的结构描述，不正确的是（   ）",
+        "options": [
+            "A.线粒体是由双层单位膜套叠而成的封闭性膜囊结构",
+            "B.线粒体内膜上有大量向内腔突起的折叠，形成嵴",
+            "C.电镜下可观察到线粒体内、外膜上存在相互接触的地方，即转位接触点",
+            "D.线粒体内膜的外表面附着许多突出的颗粒，即基粒",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 120
+    },
+    {
+        "question_text": "577、下列说法中对线粒体内膜通透性描述正确的是（   ）",
+        "options": [
+            "A.线粒体内膜含有孔蛋白，当孔蛋白完全打开时，可通过相对分子质量高达5000的分子。",
+            "B.线粒体内膜上的孔蛋白可允许分子量小于1000的物质自由通过。",
+            "C.线粒体内膜富含心磷脂，与离子的不可通透性有关。",
+            "D.线粒体内膜较外膜通透性大。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 121
+    },
+    {
+        "question_text": "578、对于基粒的结构描述不正确的是（   ）",
+        "options": [
+            "A.基粒头部与柄部突出于内膜表面称为F1偶联因子，基部嵌入内膜称为F0偶联因子。",
+            "B.F0偶联因子自然状态下正常功能是催化ATP合成。",
+            "C.F0还是质子（H+）流向F1的穿膜通道。",
+            "D.基粒由多个蛋白质亚基组成。",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 122
+    },
+    {
+        "question_text": "579、线粒体基质的标志酶是（   ）",
+        "options": [
+            "A.细胞色素C氧化酶（Cytc氧化酶）",
+            "B.单胺氧化酶",
+            "C.琥珀酸脱氢酶",
+            "D.腺苷酸激酶",
+            "E.苹果酸脱氢酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 123
+    },
+    {
+        "question_text": "580、下列物质线粒体基质中不存在的是（   ）",
+        "options": [
+            "A.孔蛋白",
+            "B.双链环状DNA",
+            "C.核糖体",
+            "D.三羧酸循环相关酶类",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 124
+    },
+    {
+        "question_text": "581、线粒体外膜的标志酶是（   ）",
+        "options": [
+            "A.单胺氧化酶",
+            "B.苹果酸脱氢酶",
+            "C.细胞色素氧化酶",
+            "D.腺苷酸激酶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 125
+    },
+    {
+        "question_text": "582、电子传递发生在线粒体的（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间隙",
+            "C.内膜",
+            "D.嵴间隙",
+            "E.基质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 126
+    },
+    {
+        "question_text": "583、ATP在线粒体内合成的地方是（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间隙",
+            "C.内膜",
+            "D.基质",
+            "E.基粒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 127
+    },
+    {
+        "question_text": "584、线粒体中ADP磷酸化合成ATP发生在（   ）",
+        "options": [
+            "A.基质",
+            "B.内膜",
+            "C.膜间腔",
+            "D.基粒",
+            "E.嵴膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 128
+    },
+    {
+        "question_text": "585、丙酮酸→二氧化碳+水的过程发生在（   ）",
+        "options": [
+            "A.细胞质基质",
+            "B.内质网",
+            "C.溶酶体",
+            "D.线粒体基质",
+            "E.核糖体内膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 129
+    },
+    {
+        "question_text": "586、1分子葡萄糖在线粒体内进行有氧氧化全过程可形成多少个ATP？",
+        "options": [
+            "A.4",
+            "B.36",
+            "C.6",
+            "D.2",
+            "E.48"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 130
+    },
+    {
+        "question_text": "587、线粒体中三羧酸循环发生在",
+        "options": [
+            "A.线粒体基质",
+            "B.线粒体基粒",
+            "C.线粒体外膜",
+            "D.线粒体内膜",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 131
+    },
+    {
+        "question_text": "588、细胞内消耗游离氧的代谢发生在（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.中心体",
+            "E.染色体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 132
+    },
+    {
+        "question_text": "589、动物细胞中能够产生ATP的细胞器是",
+        "options": [
+            "A.中心体",
+            "B.溶酶体",
+            "C.线粒体",
+            "D.核糖体",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 133
+    },
+    {
+        "question_text": "590、供能物质彻底转换成ATP，要依次经过的步骤（   ）",
+        "options": [
+            "A.有氧酵解，三羧酸循环，氧化磷酸化，电子传递",
+            "B.无氧酵解，三羧酸循环，电子传递，氧化磷酸化",
+            "C.有氧酵解，三羧酸循环，电子传递，氧化磷酸化",
+            "D.无氧酵解，三羧酸循环，氧化磷酸化，电子传递",
+            "E.三羧酸循环，电子传递，氧化磷酸化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 134
+    },
+    {
+        "question_text": "591、氧化磷酸化发生在线粒体的",
+        "options": [
+            "A.基粒头部",
+            "B.基粒柄部",
+            "C.基粒基片",
+            "D.膜间隙",
+            "E.基质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 135
+    },
+    {
+        "question_text": "592、与细胞中大分子糖合成有关的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 136
+    },
+    {
+        "question_text": "593、动物细胞所特有的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 137
+    },
+    {
+        "question_text": "594、进行无氧酵解的场所是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 138
+    },
+    {
+        "question_text": "595、以下哪些反应不在线粒体进行（   ）",
+        "options": [
+            "A.糖酵解",
+            "B.乙酰辅酶A的生成",
+            "C.三羧酸循环",
+            "D.氧化磷酸化",
+            "E.电子传递"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 139
+    },
+    {
+        "question_text": "596、细胞中进行生物氧化和能量转换的主要场所是（   ）",
+        "options": [
+            "A.核糖体",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.细胞质基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 140
+    },
+    {
+        "question_text": "597、线粒体的功能是（   ）",
+        "options": [
+            "A.蛋白质合成场所",
+            "B.营养和保护作用",
+            "C.细胞的供能中心",
+            "D.物质储存与加工",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 141
+    },
+    {
+        "question_text": "598、具有“动力工厂”之称的细胞器是（   ）",
+        "options": [
+            "A.中心体",
+            "B.高尔基复合体",
+            "C.核糖体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 142
+    },
+    {
+        "question_text": "599、生物氧化中释放能量生成ATP的主要环节是（   ）",
+        "options": [
+            "A.糖酵解",
+            "B.脂肪酸分解",
+            "C.三羧酸循环",
+            "D.电子传递和氧化磷酸化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 143
+    },
+    {
+        "question_text": "600、与氧化磷酸化有关的电子传递和氧化磷酸化发生在（   ）",
+        "options": [
+            "A.细胞质中",
+            "B.线粒体外膜",
+            "C.线粒体基质",
+            "D.线粒体内膜",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 144
+    },
+    {
+        "question_text": "601、线粒体内三羧酸循环的特点是（ ）",
+        "options": [
+            "A.脱羧产生CO2、放出氢原子",
+            "B.放出氢原子和电子",
+            "C.脱羧产生CO2、放出ADP",
+            "D.脱羧放出ATP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 145
+    },
+    {
+        "question_text": "602、生物氧化过程中质子驱动力的维持依赖的结构基础是（   ）",
+        "options": [
+            "A.线粒体内外膜转位接触点。",
+            "B.线粒体外膜上的孔蛋白允许分子量小于1000的物质自由通过。",
+            "C.线粒体外膜对质子保持高度不通透。",
+            "D.线粒体内膜对质子保持高度不通透。",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 146
+    },
+    {
+        "question_text": "603、细胞中进行生物氧化和能量转换的主要场所是（   ）",
+        "options": [
+            "A.核糖体",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.细胞质基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 147
+    },
+    {
+        "question_text": "604、葡萄糖分解过程中产生的能量主要以（   ）分子形式被利用和储存",
+        "options": [
+            "A.ATP",
+            "B.GTP",
+            "C.NADH",
+            "D.CTP",
+            "E.ATP和NADH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 148
+    },
+    {
+        "question_text": "605、下列哪一种说法描述线粒体DNA比较确切？",
+        "options": [
+            "A.线状DNA",
+            "B.环状DNA",
+            "C.是与核DNA密码略有不同的环状DNA",
+            "D.是与核DNA密码略有不同的线状DNA",
+            "E.含线粒体全部蛋白的遗传信息"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 149
+    },
+    {
+        "question_text": "606、下列哪些体现了线粒体半自主性",
+        "options": [
+            "A.DNA能独立复制",
+            "B.含有核糖体",
+            "C.在遗传上由线粒体基因组和细胞核基因组共同控制",
+            "D.线粒体DNA与细胞核的遗传密码有所不同",
+            "E.线粒体DNA不与组蛋白结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 150
+    },
+    {
+        "question_text": "607、真核细胞的核膜外DNA存在于（   ）",
+        "options": [
+            "A.核膜",
+            "B.线粒体",
+            "C.内质网",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 151
+    },
+    {
+        "question_text": "608、下列有关线粒体的描述，不正确的是（   ）",
+        "options": [
+            "A.线粒体DNA分子为双链环状",
+            "B.线粒体遗传密码子表与通用密码子表不完全相同",
+            "C.线粒体核糖体为80S型",
+            "D.线粒体所需的蛋白质大部分由核编码后转运进线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 152
+    },
+    {
+        "question_text": "609、关于线粒体基因组，下列说法错误的是（   ）",
+        "options": [
+            "A.线粒体DNA为一条双链环状的DNA分子，全长16569个碱基对",
+            "B.线粒体DNA可以编码线粒体的tRNA、rRNA及全部线粒体蛋白质",
+            "C.线粒体合成蛋白质的过程与原核细胞相似",
+            "D.线粒体遗传系统受控于细胞核的遗传系统",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 153
+    },
+    {
+        "question_text": "610、线粒体作为半自主细胞器，下列论述有误的是（   ）",
+        "options": [
+            "A.线粒体具有环状双链DNA，可以自我复制",
+            "B.线粒体可以像细菌一样自我增殖分裂",
+            "C.线粒体具有核糖体，可以合成蛋白质，但线粒体核糖体与胞质中核糖体并不相同",
+            "D.线粒体蛋白质均靠自身合成，且不受细胞核的调控",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 154
+    },
+    {
+        "question_text": "611、关于线粒体基质蛋白定位过程的描述不正确的是（   ）",
+        "options": [
+            "A.定位于线粒体基质前体蛋白在细胞质中的游离核糖体合成。",
+            "B.前体在细胞质分子伴侣Hsp70的帮助下解折叠,然后通过N-端的导肽同线粒体外膜上的受体蛋白识别。",
+            "C.进入基质前，前体蛋白在Hsp60的帮助下折叠",
+            "D.前体蛋白在受体(或附近)的内外膜接触点(contact site)处内膜,进入线粒体基质。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 155
+    },
+    {
+        "question_text": "612、下列细胞器中在起源上不属于内膜系统的是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 156
+    },
+    {
+        "question_text": "613、有人认为线粒体的行为类似于细菌，下列说法中与该观点不相符合的是（ ）",
+        "options": [
+            "A.DNA分子均为环形",
+            "B.蛋白质合成的起始氨基酸均为N-甲酰甲硫氨酸",
+            "C.核糖体均70S型",
+            "D.均能合成自身所需的全部蛋白质",
+            "E."
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 157
+    },
+    {
+        "question_text": "614、下列哪一项不是细胞生存与增殖必须具备结构装置？",
+        "options": [
+            "A.细胞膜",
+            "B.遗传信息载体",
+            "C.线粒体",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 158
+    },
+    {
+        "question_text": "457、核糖体上肽酰基位点的作用是（   ）",
+        "options": [
+            "A.接受并结合新掺入的氨酰基-tRNA",
+            "B.结合延伸中的肽酰基-tRNA",
+            "C.在肽链延伸过程中催化氨基酸残基之间形成肽键",
+            "D. 供给催化肽酰基-tRNA转位时所需的能量",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 159
+    },
+    {
+        "question_text": "458、真核细胞中核糖体大亚基是由（   ）组成",
+        "options": [
+            "A.1个23S rRNA、1个5S rRNA 和30多种r蛋白",
+            "B.1个23S rRNA、1个5.8S rRNA 和50多种r蛋白",
+            "C. 1个28S rRNA、1个5.8S rRNA 和30多种r蛋白",
+            "D.1个28S rRNA、1个5.8S rRNA、1个5S rRNA和50多种r蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 160
+    },
+    {
+        "question_text": "459、下列细胞结构中，在光镜下不能观察到的是（   ）",
+        "options": [
+            "A.细胞骨架",
+            "B.高尔基复合体",
+            "C.核糖体",
+            "D. 中心体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 161
+    },
+    {
+        "question_text": "460、核糖体的大、小亚基是在细胞的（   ）内合成的",
+        "options": [
+            "A.内质网",
+            "B.溶酶体",
+            "C. 核仁",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 162
+    },
+    {
+        "question_text": "461、下列哪种细胞器的膜上分布有大量的核糖体？",
+        "options": [
+            "A.高尔基体",
+            "B.滑面内质网",
+            "C.粗面内质网",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 163
+    },
+    {
+        "question_text": "462、核糖体主要由（ ）构成",
+        "options": [
+            "A.蛋白质和DNA",
+            "B.蛋白质和tRNA",
+            "C.DNA和RNA",
+            "D.蛋白质和rRNA",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 164
+    },
+    {
+        "question_text": "463、核糖体小亚基的功能是（   ）",
+        "options": [
+            "A.将mRNA结合到核糖体上",
+            "B.提供反密码子识别部位",
+            "C.提供部分tRNA结合部位",
+            "D.激活转肽酶",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 165
+    },
+    {
+        "question_text": "464、真核细胞核糖体的大亚基是60S，小亚基是40S，一个完整的核糖体是（   ）",
+        "options": [
+            "A.100S",
+            "B.90S",
+            "C.80S",
+            "D.70S",
+            "E.50S"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 166
+    },
+    {
+        "question_text": "465、真核细胞核糖体小亚基中含有（   ）",
+        "options": [
+            "A.5SrRNA",
+            "B.5.8SrRNA",
+            "C.18SrRNA",
+            "D.28SrRNA",
+            "E.38SrRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 167
+    },
+    {
+        "question_text": "466、构成核糖体的主要核酸是（   ）",
+        "options": [
+            "A.rRNA",
+            "B.cDNA",
+            "C.mRNA",
+            "D.tRNA",
+            "E.hnRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 168
+    },
+    {
+        "question_text": "467、在核糖体大小亚基组装时起重要作用的离子是（   ）",
+        "options": [
+            "A.Mg2+",
+            "B.Cl-",
+            "C.K+",
+            "D.H+",
+            "E.Ca2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 169
+    },
+    {
+        "question_text": "468、在外源性蛋白质合成旺盛的细胞中，含量较多的细胞器是（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.溶酶体",
+            "C.游离的多聚核糖体",
+            "D.中心体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 170
+    },
+    {
+        "question_text": "469、多聚核糖体是指（   ）",
+        "options": [
+            "A.rRNA的聚合物",
+            "B.核糖体之间的聚合",
+            "C.多个核糖体与多条mRNA的聚合物",
+            "D.多个核糖体与一条mRNA的聚合物",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 171
+    },
+    {
+        "question_text": "470、核糖体大亚基中催化多肽形成的酶是（   ）",
+        "options": [
+            "A.解旋酶",
+            "B.连接酶",
+            "C.转肽酶",
+            "D.反转录酶",
+            "E.限制性内切酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 172
+    },
+    {
+        "question_text": "471、合成蛋白质的细胞内结构是（   ）",
+        "options": [
+            "A.rRNA",
+            "B.核蛋白",
+            "C.中心体",
+            "D.核糖体",
+            "E.类核体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 173
+    },
+    {
+        "question_text": "472、tRNA在细胞的蛋白质合成过程中的作用是（   ）",
+        "options": [
+            "A.激活氨基酸",
+            "B.传递遗传信息",
+            "C.构成核糖体",
+            "D.运送氨基酸",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 174
+    },
+    {
+        "question_text": "473、在蛋白质合成过程中，mRNA的功能是（   ）",
+        "options": [
+            "A.运输氨基酸",
+            "B.起合成模板的作用",
+            "C.提供能量来源",
+            "D.提供合成场所",
+            "E.识别遗传密码"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 175
+    },
+    {
+        "question_text": "474、在蛋白质合成过程中，氨基酸的激活需要（   ）",
+        "options": [
+            "A.RNA聚合酶",
+            "B.DNA聚合酶",
+            "C.氨酰基-tRNA合成酶",
+            "D.转肽酶",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 176
+    },
+    {
+        "question_text": "475、mRNA分子中，翻译的三个终止密码是（   ）",
+        "options": [
+            "A.UAA，UGA，UAG",
+            "B.UUA，UUG，UGU",
+            "C.AUG，AGU，AGA",
+            "D.GAA，GAG，GGA",
+            "E.CAA，CAG，CGA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 177
+    },
+    {
+        "question_text": "476、mRNA分子中，翻译的起始信号是（   ）",
+        "options": [
+            "A.AUG",
+            "B.GAU",
+            "C.GUA",
+            "D.UAG",
+            "E.UGA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 178
+    },
+    {
+        "question_text": "477、下列蛋白中，不是在糙面内质网上合成的是（   ）",
+        "options": [
+            "A.分泌性蛋白",
+            "B.溶酶体酶蛋白",
+            "C.膜整合蛋白",
+            "D.肌动蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 179
+    },
+    {
+        "question_text": "478、新生肽链的折叠与装配是在下列哪种细胞器内完成的？",
+        "options": [
+            "A.溶酶体",
+            "B.粗面内质网",
+            "C.高尔基体",
+            "D.滑面内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 180
+    },
+    {
+        "question_text": "479、内质网最重要的标志酶是（   ）",
+        "options": [
+            "A.葡萄糖-6-磷酸酶",
+            "B.ATP酶",
+            "C.蛋白激酶",
+            "D.碱性磷酸酶",
+            "E.酸性水解酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 181
+    },
+    {
+        "question_text": "480、蛋白质的N-连接的糖基化作用首先发生在（   ）",
+        "options": [
+            "A.滑面内质网",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.溶酶体",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 182
+    },
+    {
+        "question_text": "481、哪种结构含核糖体?",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.粗面内质网"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 183
+    },
+    {
+        "question_text": "482、粗面内质网不合成（   ）",
+        "options": [
+            "A.抗体",
+            "B.细胞因子",
+            "C.细胞膜糖脂",
+            "D.膜受体蛋白",
+            "E.细胞外基质蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 184
+    },
+    {
+        "question_text": "483、滑面内质网的功能不包括（   ）",
+        "options": [
+            "A.与糖类合成有关",
+            "B.参与脂类代谢",
+            "C.合成甾类激素",
+            "D.合成分泌性蛋白",
+            "E.肝细胞的解毒作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 185
+    },
+    {
+        "question_text": "484、肌细胞中，Ca2+的摄取与释放与下列结构有关（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.溶酶体",
+            "D.吞噬体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 186
+    },
+    {
+        "question_text": "485、细胞内的膜性管网状结构是（   ）",
+        "options": [
+            "A.细胞骨架",
+            "B.溶酶体",
+            "C.线粒体",
+            "D.滑面内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 187
+    },
+    {
+        "question_text": "486、下列不是由粗面内质网上附着核糖体合成的蛋白是（   ）",
+        "options": [
+            "A.溶酶体酶蛋白",
+            "B.抗体",
+            "C.消化酶",
+            "D.肌动蛋白",
+            "E.驻留蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 188
+    },
+    {
+        "question_text": "487、肝细胞的解毒功能发生于（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.滑面内质网",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 189
+    },
+    {
+        "question_text": "488、横纹肌细胞中的肌质网是由下列哪种细胞器形成的 ?",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 190
+    },
+    {
+        "question_text": "489、粗面内质网表面附有许多颗粒，这些颗粒是（   ）",
+        "options": [
+            "A.微体",
+            "B.微粒体",
+            "C.核糖体",
+            "D.酶颗粒",
+            "E.ATP酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 191
+    },
+    {
+        "question_text": "490、下列哪项不属于滑面内质网的主要功能",
+        "options": [
+            "A.脂质合成与转运",
+            "B.糖原代谢",
+            "C.Ca2+的储存及Ca2+浓度的调节",
+            "D.解毒作用",
+            "E.蛋白质合成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 192
+    },
+    {
+        "question_text": "491、内质网腔内能参与蛋白质折叠的是",
+        "options": [
+            "A.过氧化氢酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.蛋白酶",
+            "D.分子伴侣",
+            "E.磷脂酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 193
+    },
+    {
+        "question_text": "492、在内质网里进行的蛋白质糖基化多属于哪种连接方式",
+        "options": [
+            "A.N-连接",
+            "B.O-连接",
+            "C.P-连接",
+            "D.A-连接",
+            "E.S-连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 194
+    },
+    {
+        "question_text": "493、肝脏有害代谢物的解毒发生于",
+        "options": [
+            "A.粗面内质网",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.高尔基复合体",
+            "E.滑面内质网"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 195
+    },
+    {
+        "question_text": "494、指导蛋白质从胞质到内质网上合成的氨基酸序列被称为",
+        "options": [
+            "A.导肽",
+            "B.信号肽",
+            "C.转运肽",
+            "D.新生肽",
+            "E.肽键"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 196
+    },
+    {
+        "question_text": "495、真核细胞中合成脂类分子的场所主要是",
+        "options": [
+            "A.滑面内质网",
+            "B.高尔基体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 197
+    },
+    {
+        "question_text": "496、内质网的附着核糖体主要合成",
+        "options": [
+            "A.机构蛋白",
+            "B.分泌蛋白",
+            "C.糖蛋白",
+            "D.线粒体蛋白",
+            "E.肌动蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 198
+    },
+    {
+        "question_text": "497、粗面内质网和滑面内质网的区别是",
+        "options": [
+            "A.粗面内质网形态主要为管状，膜的外表面有核糖体",
+            "B.粗面内质网形态主要为扁平囊状，膜的内表面有核糖体",
+            "C.滑面内质网形态主要为扁平囊状，膜上无核糖体",
+            "D.粗面内质网形态主要为扁平囊状，膜的外表面有核糖体",
+            "E.粗面内质网形态主要为管状，膜上无核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 199
+    },
+    {
+        "question_text": "498、与粗面内质网糖基化过程无关的成分是",
+        "options": [
+            "A.N-乙酰葡萄糖胺",
+            "B.寡糖转移酶",
+            "C.天冬酰胺",
+            "D.多萜醇",
+            "E.丝氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 200
+    },
+    {
+        "question_text": "499、下列何种细胞的粗面内质网发达?",
+        "options": [
+            "A.胰腺细胞",
+            "B.胚胎细胞",
+            "C.干细胞",
+            "D.肿瘤细胞",
+            "E.低分化细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 201
+    },
+    {
+        "question_text": "500、滑面内质网发达的细胞是 （   ）",
+        "options": [
+            "A.胰腺细胞",
+            "B.肌细胞",
+            "C.浆细胞",
+            "D.皮肤细胞",
+            "E.干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 202
+    },
+    {
+        "question_text": "501、蛋白质涉及N-连接的糖基化作用发生在（   ）",
+        "options": [
+            "A.滑面内质网腔内",
+            "B.粗面内质网腔内",
+            "C.滑面内质网膜上",
+            "D.粗面内质网膜上",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 203
+    },
+    {
+        "question_text": "502、粗面内质网不具备的功能是（   ）",
+        "options": [
+            "A.核蛋白体附着的支架",
+            "B.参与蛋白质合成",
+            "C.解毒作用",
+            "D.蛋白质的加工和运输",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 204
+    },
+    {
+        "question_text": "503、下列细胞器的膜中，膜蛋白高度糖基化的是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.线粒体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 205
+    },
+    {
+        "question_text": "504、附着于粗面内质网膜上核糖体合成的蛋白质不包括（   ）",
+        "options": [
+            "A.分泌蛋白",
+            "B.膜蛋白",
+            "C.热休克蛋白蛋白",
+            "D.溶酶体蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 206
+    },
+    {
+        "question_text": "505、科学家在研究家蚕丝腺细胞的亚显微结构时，取得了这样的数据（   ）粗面内质网的含量为N时，蚕丝产量为P；粗面内质网的含量为2N时，蚕丝产量为1.5P；粗面内质网的含量为3N时，蚕丝产量为2P。研究结果表明（   ）凡是高产品种蚕，丝腺细胞中粗面内质网特别发达。以上事实说明（   ）",
+        "options": [
+            "A.所有蛋白质都在粗面内质网上合成",
+            "B.高尔基复合体与蛋白质的加工和运输有关",
+            "C.粗面内质网与蛋白质合成、加工和分泌有关",
+            "D.分泌蛋白不是在核糖体上合成的",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 207
+    },
+    {
+        "question_text": "506、在电镜下可见细胞核的外膜与细胞质中哪种细胞器相连？",
+        "options": [
+            "A.高尔基复合体",
+            "B.滑面内质网",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 208
+    },
+    {
+        "question_text": "507、高尔基复合体的扁平囊的层数通常是（   ）",
+        "options": [
+            "A.1-4",
+            "B.2-6",
+            "C.3-8",
+            "D.4-10",
+            "E.5-11"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 209
+    },
+    {
+        "question_text": "508、高尔基复合体的主要生物学功能是（",
+        "options": [
+            "A.消耗O2，产生CO2",
+            "B.合成蛋白质",
+            "C.糖酵解",
+            "D.加工和包装分泌颗粒",
+            "E.消化作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 210
+    },
+    {
+        "question_text": "509、高尔基复合体形成面的小囊泡主要来自（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.粗面内质网",
+            "C.多囊体",
+            "D.吞噬体",
+            "E.微粒体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 211
+    },
+    {
+        "question_text": "510、高尔基复合体中最具特征性的酶是（   ）",
+        "options": [
+            "A.糖基转移酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.酪蛋白磷酸激酶",
+            "D.NADH-细胞色素C还原酶",
+            "E.葡萄糖醛酸转移酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 212
+    },
+    {
+        "question_text": "511、高尔基体的主要生物学功能是（   ）",
+        "options": [
+            "A.蛋白质合成",
+            "B.合成脂类",
+            "C.对蛋白质进行加工和转运",
+            "D.参与细胞氧化过程",
+            "E.合成糖类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 213
+    },
+    {
+        "question_text": "512、下列具有极性的细胞器是（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.核糖体",
+            "C.溶酶体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 214
+    },
+    {
+        "question_text": "513、高尔基复合体的扁平膜囊内物质通常主要来自（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 215
+    },
+    {
+        "question_text": "514、下列细胞结构中，不是由两层单位膜所构成的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.线粒体",
+            "C.高尔基复合体",
+            "D.叶绿体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 216
+    },
+    {
+        "question_text": "515、蛋白质在高尔基体中分选及转运的信息存在于（   ）",
+        "options": [
+            "A.核糖体",
+            "B.内质网",
+            "C.高尔基体",
+            "D.蛋白质本身",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 217
+    },
+    {
+        "question_text": "516、下列蛋白质的修饰加工不是在高尔基体里完成的有（   ）",
+        "options": [
+            "A.蛋白质寡聚糖磷酸化",
+            "B.蛋白质加甘露糖",
+            "C.蛋白质加半乳糖",
+            "D.蛋白质糖基硫酸化",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 218
+    },
+    {
+        "question_text": "517、关于N-连接糖基化，叙述正确的是（   ）",
+        "options": [
+            "A.只发生在粗面内质网",
+            "B.连接的第一个糖基为N-乙酰半乳糖胺",
+            "C.寡糖链是一次性连接",
+            "D.连接的氨基酸残基为苏氨酸",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 219
+    },
+    {
+        "question_text": "518、溶酶体的类型有（   ）",
+        "options": [
+            "A.2种",
+            "B.3种",
+            "C.4种",
+            "D.5种",
+            "E.6种"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 220
+    },
+    {
+        "question_text": "519、类风湿关节炎的产生可能与下述哪种结构损伤有关？",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.溶酶体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 221
+    },
+    {
+        "question_text": "520、心肌细胞内的脂褐素（质）是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.吞噬溶酶体",
+            "D.三级溶酶体（后溶酶体）",
+            "E.多泡小体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 222
+    },
+    {
+        "question_text": "521、形态、分布、理化性质等高度异质性的细胞器是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.线粒体",
+            "D.粗面内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 223
+    },
+    {
+        "question_text": "522、自噬作用中，溶酶体消化水解的对象是（   ）",
+        "options": [
+            "A.吞饮体",
+            "B.吞噬体",
+            "C.多囊体",
+            "D.残质体",
+            "E.自噬体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 224
+    },
+    {
+        "question_text": "523、初级溶酶体的蛋白分选在哪个细胞器中进行（   ）",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基复合体",
+            "D.过氧化物酶体",
+            "E.线粒体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 225
+    },
+    {
+        "question_text": "524、溶酶体膜的特殊性在于（   ）",
+        "options": [
+            "A.是单位膜",
+            "B.由磷脂及蛋白质组成",
+            "C.膜内侧有较多糖类",
+            "D.膜成分具有不对称性和流动性",
+            "E.高蛋白性膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 226
+    },
+    {
+        "question_text": "525、顶体被认为是动物精子中一个巨大的特异的细胞器，即（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.溶酶体",
+            "C.中心体",
+            "D.微体",
+            "E.线粒体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 227
+    },
+    {
+        "question_text": "526、溶酶体的标志酶是（   ）",
+        "options": [
+            "A.糖基转移酶",
+            "B.葡萄糖-6-磷酸酶",
+            "C.碱性磷酸酶",
+            "D.葡萄糖醛酸转移酶",
+            "E.酸性磷酸酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 228
+    },
+    {
+        "question_text": "527、若溶酶体中所包含的作用底物来自于细胞自身的各种组分，或者衰老、残损和破碎的细胞器，则此溶酶体称为（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.自噬溶酶体",
+            "C.异噬溶酶体",
+            "D.残留小体",
+            "E.终末溶酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 229
+    },
+    {
+        "question_text": "528、在动物精子中，头部最前端的顶体是下列哪种细胞器特化产生的？",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 230
+    },
+    {
+        "question_text": "529、常见职业病矽肺的发病与下列哪一种细胞器有关？",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 231
+    },
+    {
+        "question_text": "530、溶酶体内含量最多的酶是（   ）",
+        "options": [
+            "A.酸性水解酶",
+            "B.ATP酶",
+            "C.氧化酶",
+            "D.脱羧酶",
+            "E.糖基转移酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 232
+    },
+    {
+        "question_text": "531、与来源于胞内和胞外的作用底物融合，形成吞噬性溶酶体的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 233
+    },
+    {
+        "question_text": "532、将细菌水解消化的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 234
+    },
+    {
+        "question_text": "533、将衰老的线粒体分解消化的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 235
+    },
+    {
+        "question_text": "534、消化糖原的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 236
+    },
+    {
+        "question_text": "535、消化LDL颗粒的结构是（   ）",
+        "options": [
+            "A.异噬性溶酶体",
+            "B.自噬性溶酶体",
+            "C.内体性溶酶体",
+            "D.自噬体",
+            "E.吞噬体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 237
+    },
+    {
+        "question_text": "536、溶酶体对损伤的细胞器的分解过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 238
+    },
+    {
+        "question_text": "537、液体小分子进入细胞的过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 239
+    },
+    {
+        "question_text": "538、衰老红细胞进入巨噬细胞的过程是（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 240
+    },
+    {
+        "question_text": "539、细胞对胞质中大分子的消化过程（   ）",
+        "options": [
+            "A.自噬作用",
+            "B.异噬作用",
+            "C.细胞自溶",
+            "D.胞吞作用",
+            "E.胞饮作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 241
+    },
+    {
+        "question_text": "540、类风湿性关节炎的发病原因可能是（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 242
+    },
+    {
+        "question_text": "541、先天性溶酶体病（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 243
+    },
+    {
+        "question_text": "542、矽肺的形成是由于（   ）",
+        "options": [
+            "A.溶酶体内PH下降",
+            "B.溶酶体膜脆性下降",
+            "C.溶酶体酶缺乏或缺陷",
+            "D.溶酶体酶释出",
+            "E.溶酶体酶耗竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 244
+    },
+    {
+        "question_text": "543、真核细胞中，酸性水解酶多存在于（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基体",
+            "C.中心体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 245
+    },
+    {
+        "question_text": "544、被称为细胞内消化器官的细胞器是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基体",
+            "C.过氧化物酶体",
+            "D.溶酶体",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 246
+    },
+    {
+        "question_text": "545、溶酶体酶发挥活性的最适pH范围是（   ）",
+        "options": [
+            "A.2-4",
+            "B.3-6",
+            "C.5-6",
+            "D.7-9",
+            "E.8-10"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 247
+    },
+    {
+        "question_text": "546、自噬作用是指（   ）",
+        "options": [
+            "A.溶酶体消化吞噬体的过程",
+            "B.溶酶体消除自身无用的生物大分子及衰老、崩解的细胞器的过程",
+            "C.溶酶体释放内部酶消化分解整个细胞",
+            "D.溶酶体分解多余营养颗粒的作用",
+            "E.将外源性的有害因子消化、分解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 248
+    },
+    {
+        "question_text": "547、可参与溶酶体形成的分选信号是（   ）",
+        "options": [
+            "A.M-6-P",
+            "B.  LDL",
+            "C.G-6-P",
+            "D. MPF",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 249
+    },
+    {
+        "question_text": "548、矽肺、痛风和下列哪种细胞器的异常有关？",
+        "options": [
+            "A.溶酶体",
+            "B.高尔基复合体",
+            "C.粗面内质网",
+            "D.滑面内质网",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 250
+    },
+    {
+        "question_text": "549、膜蛋白高度糖基化的细胞器是（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.高尔基体",
+            "C.过氧化物酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 251
+    },
+    {
+        "question_text": "550、细胞摄取利用胆固醇过程中，将低密度脂蛋白分解为游离胆固醇是在下列哪种细胞器中完成的？",
+        "options": [
+            "A.粗面内质网",
+            "B.滑面内质网",
+            "C.高尔基体",
+            "D. 溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 252
+    },
+    {
+        "question_text": "551、下列哪种特点是溶酶体膜不具备的？",
+        "options": [
+            "A.膜蛋白高度糖基化",
+            "B.膜上有Na+通道",
+            "C.膜上有H+泵",
+            "D.膜上有多种载体蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 253
+    },
+    {
+        "question_text": "552、溶酶体膜的特殊性在于 （   ）",
+        "options": [
+            "A.是单位膜",
+            "B.由磷脂及蛋白质组成",
+            "C.膜内侧有较多糖类",
+            "D.膜成分具有不对称性和流动性",
+            "E.高蛋白性膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 254
+    },
+    {
+        "question_text": "553、以下哪一个是双层单位膜结构？",
+        "options": [
+            "A.细胞膜",
+            "B.核膜",
+            "C.溶酶体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 255
+    },
+    {
+        "question_text": "554、过氧化物酶体的标志性酶是（   ）",
+        "options": [
+            "A.过氧化氢酶",
+            "B.尿酸氧化酶",
+            "C.过氧化物酶",
+            "D.L-氨基酸氧化酶",
+            "E.酸性磷酸酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 256
+    },
+    {
+        "question_text": "555、下列哪种疾病发生是与过氧化物酶体有关的？",
+        "options": [
+            "A.Zellweger肝脑肾综合征",
+            "B.II型糖原积累病",
+            "C. 泰萨病",
+            "D.矽肺",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 257
+    },
+    {
+        "question_text": "556、下列哪种膜泡不参与细胞内分选蛋白质的靶向运输？",
+        "options": [
+            "A.吞噬小体",
+            "B.网格蛋白衣被小泡",
+            "C. COP I 膜泡",
+            "D.COP II膜泡",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 258
+    },
+    {
+        "question_text": "557、下列哪种膜性结构不属于内膜系统",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E.核膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 259
+    },
+    {
+        "question_text": "558、主要负责内质网逃逸蛋白的捕捉、回收转运以及高尔基体膜内蛋白的逆向运输的囊泡是",
+        "options": [
+            "A.无被转运囊泡",
+            "B.网格蛋白有被囊泡",
+            "C.COPⅠ有被囊泡",
+            "D.COPⅡ有被囊泡",
+            "E.COPⅢ有被囊泡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 260
+    },
+    {
+        "question_text": "559、从内质网到高尔基复合体的物质转运是",
+        "options": [
+            "A.未全成熟的糖类",
+            "B.未全成熟的脂类",
+            "C.未全成熟的配体",
+            "D.未全成熟的蛋白质或酶",
+            "E.未全成熟的核酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 261
+    },
+    {
+        "question_text": "560、下列哪种蛋白质转运过程以囊泡转运方式进行？",
+        "options": [
+            "A.胞质→细胞核",
+            "B.内质网→高尔基复合体",
+            "C.胞质→内质网",
+            "D.胞质→线粒体",
+            "E.胞质→过氧化物酶体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 262
+    },
+    {
+        "question_text": "561、分泌蛋白质的合成、加工、运输过程的顺序是（   ）",
+        "options": [
+            "A.高尔基体→粗面内质网→细胞外",
+            "B.粗面内质网→高尔基体→分泌泡→细胞外",
+            "C.粗面内质网→溶酶体→细胞外",
+            "D.粗面内质网→滑面内质网→高尔基体→细胞外",
+            "E.细胞核→分泌泡→细胞外"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 263
+    },
+    {
+        "question_text": "562、细胞内不含内膜系统的是（   ）",
+        "options": [
+            "A.肝细胞",
+            "B.肿瘤细胞",
+            "C.胰腺细胞",
+            "D.胚胎细胞",
+            "E.红细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 264
+    },
+    {
+        "question_text": "563、有关内膜系统的说法错误的是（   ）",
+        "options": [
+            "A.内膜系统是胞内那些在结构、功能乃至发生上密切相关的膜性结构细胞器之总称。",
+            "B.内膜系统是真核细胞特有的结构。",
+            "C.内膜系统包括内质网、高尔基复合体、溶酶体、转运小泡、核膜以及线粒体等功能结构。",
+            "D.内膜系统存在的生物学意义是房室性区域化效应。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 265
+    },
+    {
+        "question_text": "564、下列细胞器中，不属于细胞内膜系统的是（   ）",
+        "options": [
+            "A.溶酶体",
+            "B.内质网",
+            "C. 高尔基体",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 266
+    },
+    {
+        "question_text": "565、所有膜蛋白都具有方向性，其方向性在什么部位中确定？",
+        "options": [
+            "A.细胞质基质",
+            "B.高尔基体",
+            "C.内质网",
+            "D.质膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 267
+    },
+    {
+        "question_text": "566、帮助细胞质基质中变性或错误折叠的蛋白质重新折叠成正确分子构象的物质是（   ）",
+        "options": [
+            "A.热休克蛋白",
+            "B.Bip（binding protein）",
+            "C.拓扑异构酶",
+            "D.信号识别颗粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 268
+    },
+    {
+        "question_text": "567、下列哪种功能是信号识别颗粒不具备的？",
+        "options": [
+            "A.结合信号肽",
+            "B.结合核糖体A位点",
+            "C.结合BIP 蛋白",
+            "D.结合内质网膜上的特异性受体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 269
+    },
+    {
+        "question_text": "568、心肌细胞内的脂褐素（质）是（   ）",
+        "options": [
+            "A.初级溶酶体",
+            "B.次级溶酶体",
+            "C.吞噬溶酶体",
+            "D.残余体",
+            "E.多泡小体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 270
+    },
+    {
+        "question_text": "569、将细胞内的分泌泡或其他某些膜泡中的物质通过细胞质膜运出细胞的过程称为(   )",
+        "options": [
+            "A.胞吐作用",
+            "B.内化作用",
+            "C.胞吞作用",
+            "D.吞噬作用",
+            "E.受体介导的内吞作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 271
+    },
+    {
+        "question_text": "570、线粒体的嵴来源于（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间腔",
+            "C.内膜",
+            "D.基质颗粒衍生",
+            "E.内外膜共同形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 272
+    },
+    {
+        "question_text": "571、催化ADP磷酸化形成ATP的部位是（   ）",
+        "options": [
+            "A.基粒头部",
+            "B.基粒柄部",
+            "C.基粒基片",
+            "D.膜间隙",
+            "E.嵴间隙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 273
+    },
+    {
+        "question_text": "572、关干线粒体的形态数量大小和分布的说法错误的是（   ）",
+        "options": [
+            "A.光镜下线粒体的形态可表现为线状和杆状",
+            "B.线粒体形态、大小和数量受环境影响不大。",
+            "C.生命活动旺盛时多，疾病、营养不良代谢水平下降时少",
+            "D.细胞发育早期较小，成熟时较大。",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 274
+    },
+    {
+        "question_text": "573、由两层单位膜围成的细胞器是（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.内质网",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 275
+    },
+    {
+        "question_text": "574、关于线粒体的结构不正确的是（   ）",
+        "options": [
+            "A.是由单层膜包裹而成的细胞器",
+            "B.是由双层单位膜封闭的细胞器",
+            "C.线粒体嵴上有许多基粒",
+            "D.线粒体基质中含有核糖体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 276
+    },
+    {
+        "question_text": "575、下列细胞中含线粒体最多的是（   ）",
+        "options": [
+            "A.上皮细胞",
+            "B.心肌细胞",
+            "C.成纤维细胞",
+            "D.淋巴细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 277
+    },
+    {
+        "question_text": "576、下列有关线粒体的结构描述，不正确的是（   ）",
+        "options": [
+            "A.线粒体是由双层单位膜套叠而成的封闭性膜囊结构",
+            "B.线粒体内膜上有大量向内腔突起的折叠，形成嵴",
+            "C.电镜下可观察到线粒体内、外膜上存在相互接触的地方，即转位接触点",
+            "D.线粒体内膜的外表面附着许多突出的颗粒，即基粒",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 278
+    },
+    {
+        "question_text": "577、下列说法中对线粒体内膜通透性描述正确的是（   ）",
+        "options": [
+            "A.线粒体内膜含有孔蛋白，当孔蛋白完全打开时，可通过相对分子质量高达5000的分子。",
+            "B.线粒体内膜上的孔蛋白可允许分子量小于1000的物质自由通过。",
+            "C.线粒体内膜富含心磷脂，与离子的不可通透性有关。",
+            "D.线粒体内膜较外膜通透性大。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 279
+    },
+    {
+        "question_text": "578、对于基粒的结构描述不正确的是（   ）",
+        "options": [
+            "A.基粒头部与柄部突出于内膜表面称为F1偶联因子，基部嵌入内膜称为F0偶联因子。",
+            "B.F0偶联因子自然状态下正常功能是催化ATP合成。",
+            "C.F0还是质子（H+）流向F1的穿膜通道。",
+            "D.基粒由多个蛋白质亚基组成。",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 280
+    },
+    {
+        "question_text": "579、线粒体基质的标志酶是（   ）",
+        "options": [
+            "A.细胞色素C氧化酶（Cytc氧化酶）",
+            "B.单胺氧化酶",
+            "C.琥珀酸脱氢酶",
+            "D.腺苷酸激酶",
+            "E.苹果酸脱氢酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 281
+    },
+    {
+        "question_text": "580、下列物质线粒体基质中不存在的是（   ）",
+        "options": [
+            "A.孔蛋白",
+            "B.双链环状DNA",
+            "C.核糖体",
+            "D.三羧酸循环相关酶类",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 282
+    },
+    {
+        "question_text": "581、线粒体外膜的标志酶是（   ）",
+        "options": [
+            "A.单胺氧化酶",
+            "B.苹果酸脱氢酶",
+            "C.细胞色素氧化酶",
+            "D.腺苷酸激酶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 283
+    },
+    {
+        "question_text": "582、电子传递发生在线粒体的（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间隙",
+            "C.内膜",
+            "D.嵴间隙",
+            "E.基质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 284
+    },
+    {
+        "question_text": "583、ATP在线粒体内合成的地方是（   ）",
+        "options": [
+            "A.外膜",
+            "B.膜间隙",
+            "C.内膜",
+            "D.基质",
+            "E.基粒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 285
+    },
+    {
+        "question_text": "584、线粒体中ADP磷酸化合成ATP发生在（   ）",
+        "options": [
+            "A.基质",
+            "B.内膜",
+            "C.膜间腔",
+            "D.基粒",
+            "E.嵴膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 286
+    },
+    {
+        "question_text": "585、丙酮酸→二氧化碳+水的过程发生在（   ）",
+        "options": [
+            "A.细胞质基质",
+            "B.内质网",
+            "C.溶酶体",
+            "D.线粒体基质",
+            "E.核糖体内膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 287
+    },
+    {
+        "question_text": "586、1分子葡萄糖在线粒体内进行有氧氧化全过程可形成多少个ATP？",
+        "options": [
+            "A.4",
+            "B.36",
+            "C.6",
+            "D.2",
+            "E.48"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 288
+    },
+    {
+        "question_text": "587、线粒体中三羧酸循环发生在",
+        "options": [
+            "A.线粒体基质",
+            "B.线粒体基粒",
+            "C.线粒体外膜",
+            "D.线粒体内膜",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 289
+    },
+    {
+        "question_text": "588、细胞内消耗游离氧的代谢发生在（   ）",
+        "options": [
+            "A.高尔基复合体",
+            "B.线粒体",
+            "C.溶酶体",
+            "D.中心体",
+            "E.染色体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 290
+    },
+    {
+        "question_text": "589、动物细胞中能够产生ATP的细胞器是",
+        "options": [
+            "A.中心体",
+            "B.溶酶体",
+            "C.线粒体",
+            "D.核糖体",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 291
+    },
+    {
+        "question_text": "590、供能物质彻底转换成ATP，要依次经过的步骤（   ）",
+        "options": [
+            "A.有氧酵解，三羧酸循环，氧化磷酸化，电子传递",
+            "B.无氧酵解，三羧酸循环，电子传递，氧化磷酸化",
+            "C.有氧酵解，三羧酸循环，电子传递，氧化磷酸化",
+            "D.无氧酵解，三羧酸循环，氧化磷酸化，电子传递",
+            "E.三羧酸循环，电子传递，氧化磷酸化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 292
+    },
+    {
+        "question_text": "591、氧化磷酸化发生在线粒体的",
+        "options": [
+            "A.基粒头部",
+            "B.基粒柄部",
+            "C.基粒基片",
+            "D.膜间隙",
+            "E.基质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 293
+    },
+    {
+        "question_text": "592、与细胞中大分子糖合成有关的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 294
+    },
+    {
+        "question_text": "593、动物细胞所特有的细胞器是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 295
+    },
+    {
+        "question_text": "594、进行无氧酵解的场所是（   ）",
+        "options": [
+            "A.线粒体",
+            "B.高尔基复合体",
+            "C.细胞质基质",
+            "D.核糖体",
+            "E.中心体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 296
+    },
+    {
+        "question_text": "595、以下哪些反应不在线粒体进行（   ）",
+        "options": [
+            "A.糖酵解",
+            "B.乙酰辅酶A的生成",
+            "C.三羧酸循环",
+            "D.氧化磷酸化",
+            "E.电子传递"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 297
+    },
+    {
+        "question_text": "596、细胞中进行生物氧化和能量转换的主要场所是（   ）",
+        "options": [
+            "A.核糖体",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.细胞质基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 298
+    },
+    {
+        "question_text": "597、线粒体的功能是（   ）",
+        "options": [
+            "A.蛋白质合成场所",
+            "B.营养和保护作用",
+            "C.细胞的供能中心",
+            "D.物质储存与加工",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 299
+    },
+    {
+        "question_text": "598、具有“动力工厂”之称的细胞器是（   ）",
+        "options": [
+            "A.中心体",
+            "B.高尔基复合体",
+            "C.核糖体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 300
+    },
+    {
+        "question_text": "599、生物氧化中释放能量生成ATP的主要环节是（   ）",
+        "options": [
+            "A.糖酵解",
+            "B.脂肪酸分解",
+            "C.三羧酸循环",
+            "D.电子传递和氧化磷酸化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 301
+    },
+    {
+        "question_text": "600、与氧化磷酸化有关的电子传递和氧化磷酸化发生在（   ）",
+        "options": [
+            "A.细胞质中",
+            "B.线粒体外膜",
+            "C.线粒体基质",
+            "D.线粒体内膜",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 302
+    },
+    {
+        "question_text": "601、线粒体内三羧酸循环的特点是（ ）",
+        "options": [
+            "A.脱羧产生CO2、放出氢原子",
+            "B.放出氢原子和电子",
+            "C.脱羧产生CO2、放出ADP",
+            "D.脱羧放出ATP",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 303
+    },
+    {
+        "question_text": "602、生物氧化过程中质子驱动力的维持依赖的结构基础是（   ）",
+        "options": [
+            "A.线粒体内外膜转位接触点。",
+            "B.线粒体外膜上的孔蛋白允许分子量小于1000的物质自由通过。",
+            "C.线粒体外膜对质子保持高度不通透。",
+            "D.线粒体内膜对质子保持高度不通透。",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 304
+    },
+    {
+        "question_text": "603、细胞中进行生物氧化和能量转换的主要场所是（   ）",
+        "options": [
+            "A.核糖体",
+            "B.粗面内质网",
+            "C.线粒体",
+            "D.细胞质基质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 305
+    },
+    {
+        "question_text": "604、葡萄糖分解过程中产生的能量主要以（   ）分子形式被利用和储存",
+        "options": [
+            "A.ATP",
+            "B.GTP",
+            "C.NADH",
+            "D.CTP",
+            "E.ATP和NADH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 306
+    },
+    {
+        "question_text": "605、下列哪一种说法描述线粒体DNA比较确切？",
+        "options": [
+            "A.线状DNA",
+            "B.环状DNA",
+            "C.是与核DNA密码略有不同的环状DNA",
+            "D.是与核DNA密码略有不同的线状DNA",
+            "E.含线粒体全部蛋白的遗传信息"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 307
+    },
+    {
+        "question_text": "606、下列哪些体现了线粒体半自主性",
+        "options": [
+            "A.DNA能独立复制",
+            "B.含有核糖体",
+            "C.在遗传上由线粒体基因组和细胞核基因组共同控制",
+            "D.线粒体DNA与细胞核的遗传密码有所不同",
+            "E.线粒体DNA不与组蛋白结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 308
+    },
+    {
+        "question_text": "607、真核细胞的核膜外DNA存在于（   ）",
+        "options": [
+            "A.核膜",
+            "B.线粒体",
+            "C.内质网",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 309
+    },
+    {
+        "question_text": "608、下列有关线粒体的描述，不正确的是（   ）",
+        "options": [
+            "A.线粒体DNA分子为双链环状",
+            "B.线粒体遗传密码子表与通用密码子表不完全相同",
+            "C.线粒体核糖体为80S型",
+            "D.线粒体所需的蛋白质大部分由核编码后转运进线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 310
+    },
+    {
+        "question_text": "609、关于线粒体基因组，下列说法错误的是（   ）",
+        "options": [
+            "A.线粒体DNA为一条双链环状的DNA分子，全长16569个碱基对",
+            "B.线粒体DNA可以编码线粒体的tRNA、rRNA及全部线粒体蛋白质",
+            "C.线粒体合成蛋白质的过程与原核细胞相似",
+            "D.线粒体遗传系统受控于细胞核的遗传系统",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 311
+    },
+    {
+        "question_text": "610、线粒体作为半自主细胞器，下列论述有误的是（   ）",
+        "options": [
+            "A.线粒体具有环状双链DNA，可以自我复制",
+            "B.线粒体可以像细菌一样自我增殖分裂",
+            "C.线粒体具有核糖体，可以合成蛋白质，但线粒体核糖体与胞质中核糖体并不相同",
+            "D.线粒体蛋白质均靠自身合成，且不受细胞核的调控",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 312
+    },
+    {
+        "question_text": "611、关于线粒体基质蛋白定位过程的描述不正确的是（   ）",
+        "options": [
+            "A.定位于线粒体基质前体蛋白在细胞质中的游离核糖体合成。",
+            "B.前体在细胞质分子伴侣Hsp70的帮助下解折叠,然后通过N-端的导肽同线粒体外膜上的受体蛋白识别。",
+            "C.进入基质前，前体蛋白在Hsp60的帮助下折叠",
+            "D.前体蛋白在受体(或附近)的内外膜接触点(contact site)处内膜,进入线粒体基质。",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 313
+    },
+    {
+        "question_text": "612、下列细胞器中在起源上不属于内膜系统的是（   ）",
+        "options": [
+            "A.内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 314
+    },
+    {
+        "question_text": "613、有人认为线粒体的行为类似于细菌，下列说法中与该观点不相符合的是（   ）",
+        "options": [
+            "A.DNA分子均为环形",
+            "B.蛋白质合成的起始氨基酸均为N-甲酰甲硫氨酸",
+            "C.核糖体均为70S型",
+            "D.均能合成自身所需的全部蛋白质",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 315
+    },
+    {
+        "question_text": "614、下列哪一项不是细胞生存与增殖必须具备结构装置？",
+        "options": [
+            "A.细胞膜",
+            "B.遗传信息载体",
+            "C.线粒体",
+            "D.核糖体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "316",
+        "number": 316
+    }
+]

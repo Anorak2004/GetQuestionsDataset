@@ -1,0 +1,5210 @@
+[
+    {
+        "question_text": "799、染色质凝集、核仁解体和核膜消失发生在（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 1
+    },
+    {
+        "question_text": "800、在细胞周期中，核仁、核膜要消失，这一消失出现在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 2
+    },
+    {
+        "question_text": "801、有丝分裂前期的最主要特征是（   ）",
+        "options": [
+            "A.核仁、核膜、核仁组织者都要消失",
+            "B.染色质凝缩成染色体",
+            "C.核糖体解体",
+            "D.中心体消失",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 3
+    },
+    {
+        "question_text": "802、在有丝分裂过程中，姐妹染色单体着丝粒的分开发生于（   ）",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 4
+    },
+    {
+        "question_text": "803、有丝分裂早中期时核膜破裂是由于核纤层蛋白被（   ）",
+        "options": [
+            "A.磷酸化",
+            "B.脱磷酸化",
+            "C.大量合成",
+            "D.大量降解",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 5
+    },
+    {
+        "question_text": "804、在有丝分裂的哪个时期染色体最松散（   ）",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 6
+    },
+    {
+        "question_text": "805、有丝分裂过程的中期，发生的主要事件是（   ）",
+        "options": [
+            "A.核仁消失",
+            "B.染色体排列在赤道板",
+            "C.染色质凝缩成染色体",
+            "D.姐妹染色单体的着丝粒分开",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 7
+    },
+    {
+        "question_text": "806、当细胞进入M期后下列哪些现象不发生（   ）",
+        "options": [
+            "A.染色质浓缩",
+            "B.组蛋白和H1脱磷酸化",
+            "C.核膜、内质网和高尔基体解体",
+            "D.纺锤体形成",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 8
+    },
+    {
+        "question_text": "807、有丝分裂后期，染色体向两端移动，主要是靠（   ）的收缩",
+        "options": [
+            "A.星体微管",
+            "B.极微管",
+            "C.动粒微管",
+            "D.游离微管",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 9
+    },
+    {
+        "question_text": "808、纺锤体的形成是在（   ）",
+        "options": [
+            "A.间期",
+            "B.中期",
+            "C.前期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 10
+    },
+    {
+        "question_text": "809、在细胞有丝分裂前期，核纤层蛋白发生（   ）",
+        "options": [
+            "A.磷酸化",
+            "B.去磷酸化",
+            "C.甲基化",
+            "D.去甲基化",
+            "E.水解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 11
+    },
+    {
+        "question_text": "810、细胞有丝分裂开始的标志是（ ）",
+        "options": [
+            "A.收缩环的形成",
+            "B.有丝分裂器的形成",
+            "C.核被膜和核仁的消失",
+            "D.染色质纤维凝集变短变粗",
+            "E.核被膜的重建"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 12
+    },
+    {
+        "question_text": "811、有丝分裂中期发生的主要事件有（ ）",
+        "options": [
+            "A.染色质组装成染色体",
+            "B.收缩环的形成",
+            "C.核被膜和核仁的消失",
+            "D.有丝分裂器的形成",
+            "E.核被膜的重建"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 13
+    },
+    {
+        "question_text": "812、染色质凝集、核仁解体和核膜消失发生在（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 14
+    },
+    {
+        "question_text": "813、对动物细胞有丝分裂的下列叙述，哪一项是正确的（   ）",
+        "options": [
+            "A.所有的动物细胞都一直在进行有丝分裂",
+            "B.分裂产生的子细胞染色体数目相同",
+            "C.分裂产生的子细胞染色体数目不同",
+            "D.分裂产生的子细胞染色体数目和受精卵不同",
+            "E.胞质分裂中在细胞中部形成细胞板，直接间隔形成2个子细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 15
+    },
+    {
+        "question_text": "814、在有丝分裂过程中，使用（   ）可抑制纺锤体的形成",
+        "options": [
+            "A.秋水仙素",
+            "B.鬼笔环肽",
+            "C.细胞松弛素B",
+            "D.紫杉醇",
+            "E.羟基脲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 16
+    },
+    {
+        "question_text": "815、有丝分裂器形成的开始阶段是（   ）",
+        "options": [
+            "A.前期",
+            "B.前中期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 17
+    },
+    {
+        "question_text": "816、与保证两个子细胞中染色体形态和数目与亲代细胞完全相同无关的是(　　)",
+        "options": [
+            "A.染色体复制",
+            "B.着丝点分裂",
+            "C.纺锤体的牵引",
+            "D.分裂末期染色体变为染色质",
+            "E.动粒的存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 18
+    },
+    {
+        "question_text": "817、细胞分裂时纺锤丝的排列方式和染色体移动和下列哪个结构有关\n（   ）",
+        "options": [
+            "A.中心粒",
+            "B.线粒体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 19
+    },
+    {
+        "question_text": "818、动物细胞有丝分裂前期不具有的特征是（   ）",
+        "options": [
+            "A.染色质凝集成染色体",
+            "B.核膜消失",
+            "C.核仁消失",
+            "D.中心粒复制",
+            "E.中心粒周围出现星射线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 20
+    },
+    {
+        "question_text": "819、细胞有丝分裂中期最明显特点（   ）",
+        "options": [
+            "A.核仁消失",
+            "B.核膜消失",
+            "C.染色体形成",
+            "D.所有染色体的着丝粒均位于同一平面",
+            "E.染色体分离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 21
+    },
+    {
+        "question_text": "820、有丝分裂器的形成是在（ ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.前中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 22
+    },
+    {
+        "question_text": "821、在细胞有丝分裂中，参与染色体运动的细胞骨架结构是：",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.核纤层",
+            "E.以上都不正确"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 23
+    },
+    {
+        "question_text": "822、原核细胞不能完成的生理作用是(   )",
+        "options": [
+            "A.细胞的生长和运动",
+            "B.蛋白质合成",
+            "C.糖酵解",
+            "D.有丝分裂",
+            "E.遗传物质复制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 24
+    },
+    {
+        "question_text": "823、减数分裂前期Ⅰ的偶线期配对的二条染色体是（   ）",
+        "options": [
+            "A.姐妹染色单体",
+            "B.非姐妹染色单体",
+            "C.二分体",
+            "D.同源染色体",
+            "E.非同源染色体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 25
+    },
+    {
+        "question_text": "824、第二次减数分裂完成的主要标志是（   ）",
+        "options": [
+            "A.同源染色体分离",
+            "B.姐妹染色单体分离",
+            "C.同源染色体配对",
+            "D.同源染色体交换",
+            "E.同源染色体重组"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 26
+    },
+    {
+        "question_text": "825、一个卵母细胞经过二次减数分裂形成几个卵细胞（   ）",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E.8个"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 27
+    },
+    {
+        "question_text": "826、同源染色体配对完成，这时的染色体称（   ）",
+        "options": [
+            "A.四联体",
+            "B.二价体",
+            "C.二分体",
+            "D.一价体",
+            "E.四价体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 28
+    },
+    {
+        "question_text": "827、下列减数分裂过程中，要发生染色体减数，此过程发生在（   ）",
+        "options": [
+            "A.前期Ⅰ",
+            "B.中期Ⅰ",
+            "C.后期I",
+            "D.后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 29
+    },
+    {
+        "question_text": "828、在减数分裂的粗线期，（    ）",
+        "options": [
+            "A.常发生同源染色体非姐妹染色单体间的交换从而导致重组配子的产生",
+            "B.常发生姐妹染色体单体间的交叉从而导致重组配子的产生",
+            "C.RNA聚合酶明显增多",
+            "D.组蛋白成倍增加",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 30
+    },
+    {
+        "question_text": "829、在第一次减数分裂时，核膜的解体主要是在（   ）",
+        "options": [
+            "A.偶线期",
+            "B.粗线期",
+            "C.终变期",
+            "D.中期Ⅰ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 31
+    },
+    {
+        "question_text": "830、在减数分裂过程中，同源染色体要进行配对，形成联会复合体，这种现象会出现在前期Ⅰ的（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 32
+    },
+    {
+        "question_text": "831、减数分裂过程中变化最为复杂的时期为（   ）",
+        "options": [
+            "A.前期Ⅰ",
+            "B.前期Ⅱ",
+            "C.后期Ⅰ",
+            "D.后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 33
+    },
+    {
+        "question_text": "832、在减数分裂过程中，同源染色体进行交叉和互换的这个时期成为（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 34
+    },
+    {
+        "question_text": "833、同源染色体的联会开始于减数分裂的（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 35
+    },
+    {
+        "question_text": "834、下列对四分体的叙述正确的是（   ）",
+        "options": [
+            "A.一个细胞中含有4条染色体",
+            "B.一个细胞中含有4对染色体",
+            "C.一个细胞中含有4条染色单体",
+            "D.一对同源染色体含4条染色单体",
+            "E.一对同源染色体含4对染色单体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 36
+    },
+    {
+        "question_text": "835、减数分裂过程中,染色体数目减半发生在（   ）",
+        "options": [
+            "A.精原细胞生长增大时",
+            "B.第一次分裂结束时",
+            "C.第二次分裂结束时",
+            "D.精细胞变成精子时",
+            "E.第一次分裂前期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 37
+    },
+    {
+        "question_text": "836、人类的卵母细胞要经过几次分裂才能成熟（   ）",
+        "options": [
+            "A.1次",
+            "B.2次",
+            "C.3次",
+            "D.4次",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 38
+    },
+    {
+        "question_text": "837、有性生殖个体形成生殖细胞的特有分裂方式为（   ）",
+        "options": [
+            "A.无丝分裂",
+            "B.有丝分裂",
+            "C.减数分裂",
+            "D.出芽生殖",
+            "E.对数分裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 39
+    },
+    {
+        "question_text": "838、一条染色体的两条染色单体是（   ）",
+        "options": [
+            "A.二价体",
+            "B.同源染色体",
+            "C.非姐妹染色单体",
+            "D.姐妹染色单体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 40
+    },
+    {
+        "question_text": "839、减数分裂偶线期配对的两条染色体是（   ）",
+        "options": [
+            "A.姐妹染色单体",
+            "B.非姐妹染色单体",
+            "C.二分体",
+            "D.同源染色体",
+            "E.非同源染色体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 41
+    },
+    {
+        "question_text": "840、减数分裂中，同源染色体形成二价体是发生在（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 42
+    },
+    {
+        "question_text": "841、在第一次减数分裂过程中（   ）",
+        "options": [
+            "A.同源染色体不分离",
+            "B.着丝粒不分裂",
+            "C.染色单体分离",
+            "D.不出现交叉",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 43
+    },
+    {
+        "question_text": "842、联会复合物完全形成时，同源染色体配对完成，这时的染色体称（   ）",
+        "options": [
+            "A.四价体",
+            "B.二价体",
+            "C.二分体",
+            "D.一价体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 44
+    },
+    {
+        "question_text": "843、减数分裂中同源染色体发生等位基因交换是在（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 45
+    },
+    {
+        "question_text": "844、非姐妹染色体之间开始出现交叉的时期是（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 46
+    },
+    {
+        "question_text": "845、正常配子的染色体与体细胞相比（   ）",
+        "options": [
+            "A.数目增加",
+            "B.数目相同",
+            "C.数目减少80%",
+            "D.数目减少60%",
+            "E.数目减半"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 47
+    },
+    {
+        "question_text": "846、减数分裂发生在（   ）",
+        "options": [
+            "A.肾细胞",
+            "B.干细胞",
+            "C.造血细胞",
+            "D.卵母细胞",
+            "E.精子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 48
+    },
+    {
+        "question_text": "847、下述哪种细胞属于暂不增殖型细胞（   ）",
+        "options": [
+            "A.神经细胞",
+            "B.肌细胞",
+            "C.肝细胞",
+            "D.胃肠上皮细胞",
+            "E.骨髓造血干细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 49
+    },
+    {
+        "question_text": "848、细胞周期包括（   ）两个主要时期",
+        "options": [
+            "A.G1期和G2期",
+            "B.间期和M期",
+            "C.间期和S期",
+            "D.M期和G1期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 50
+    },
+    {
+        "question_text": "849、虽然不同的细胞有不同的细胞周期，但一般来说，都是（   ）",
+        "options": [
+            "A.G1期长，S期短",
+            "B.S期长，G2期短",
+            "C.S期长，M期短",
+            "D.M期长，G1期短",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 51
+    },
+    {
+        "question_text": "850、人体肝细胞属于（   ）",
+        "options": [
+            "A.周期性细胞",
+            "B.暂不增殖细胞",
+            "C.G1期细胞",
+            "D.M期细胞",
+            "E.干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 52
+    },
+    {
+        "question_text": "851、下述哪种细胞属于G0期细胞（   ）",
+        "options": [
+            "A.神经细胞",
+            "B.肌细胞",
+            "C.肝细胞",
+            "D.胃肠上皮细胞",
+            "E.骨髓造血干细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 53
+    },
+    {
+        "question_text": "852、下述哪种细胞最易分裂（   ）",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃、肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 54
+    },
+    {
+        "question_text": "853、下列细胞中属于G0期细胞的是（   ）",
+        "options": [
+            "A.人类成熟的红细胞",
+            "B.肿瘤细胞",
+            "C.从组织损伤中恢复的肝细胞",
+            "D.精原细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 55
+    },
+    {
+        "question_text": "854、正常细胞生命活动中可能发生的细胞周期时相顺序是（   ）",
+        "options": [
+            "A.G1→M→G2→S→G1",
+            "B.G1→G2→M→S→G1",
+            "C.G1→S→G2→M",
+            "D.G0→M→G0",
+            "E.G0→S→G0"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 56
+    },
+    {
+        "question_text": "855、细胞中DNA加倍开始于（   ）",
+        "options": [
+            "A.G0期",
+            "B.G1期",
+            "C.G2期",
+            "D.S期",
+            "E.M期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 57
+    },
+    {
+        "question_text": "856、在细胞周期的G2期，细胞核的DNA含量为G1期的（   ）",
+        "options": [
+            "A.多1/2倍",
+            "B.一样多",
+            "C.多一倍",
+            "D.多两倍",
+            "E.多四倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 58
+    },
+    {
+        "question_text": "857、下述哪种细胞的细胞周期时间最短（   ）",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃、肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 59
+    },
+    {
+        "question_text": "858、胃上皮细胞群体增殖比胃癌细胞群体增殖慢，主要是因为（   ）",
+        "options": [
+            "A.G2期长",
+            "B.G0期细胞多",
+            "C.G1期长",
+            "D.S期长",
+            "E.M期长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 60
+    },
+    {
+        "question_text": "859、中心粒复制发生在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.前期",
+            "E.前中期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 61
+    },
+    {
+        "question_text": "860、DNA合成是在（   ）",
+        "options": [
+            "A.M期",
+            "B.G1期",
+            "C.S期",
+            "D.G2期",
+            "E.G0期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 62
+    },
+    {
+        "question_text": "861、下述哪种细胞属于不再分裂的细胞（   ）",
+        "options": [
+            "A.胃上皮细胞",
+            "B.皮肤基底层细胞",
+            "C.成纤维细胞",
+            "D.神经元",
+            "E.肝细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 63
+    },
+    {
+        "question_text": "862、G0期细胞一般是从（   ）即脱离了细胞周期。",
+        "options": [
+            "A.S",
+            "B.M",
+            "C.G1",
+            "D.G2",
+            "E.中期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 64
+    },
+    {
+        "question_text": "863、在一般情况下，能反复进行细胞周期的细胞是（   ）",
+        "options": [
+            "A.红细胞",
+            "B.角质层细胞",
+            "C.精子细胞",
+            "D.神经细胞",
+            "E.上皮组织基底层细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 65
+    },
+    {
+        "question_text": "864、下列关于细胞周期的叙述，正确的是（　　）",
+        "options": [
+            "A.成熟的生殖细胞产生后立即进入下一个细胞周期",
+            "B.机体内所有体细胞处于细胞周期中",
+            "C.细胞周期由前期、中期、后期、末期组成",
+            "D.细胞种类不同，细胞周期持续时间不同",
+            "E.抑制DNA的合成，细胞将停留在分裂期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 66
+    },
+    {
+        "question_text": "865、细胞周期的顺序是（   ）",
+        "options": [
+            "A.M期，G1期，S期G2期",
+            "B.M期，G1期，G2期，S期",
+            "C.G1期，G2期，S期，M期",
+            "D.G1期，S期，G2期，M期",
+            "E.G1期，S期，M期，G2期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 67
+    },
+    {
+        "question_text": "866、细胞周期特点一般是（   ）",
+        "options": [
+            "A.G1期短",
+            "B.G1期长",
+            "C.S期短",
+            "D.S期长",
+            "E.G2期长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 68
+    },
+    {
+        "question_text": "867、DNA半保留复制发生于（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 69
+    },
+    {
+        "question_text": "868、细胞周期的概念是（   ）",
+        "options": [
+            "A.细胞从前一次分裂开始到下一次分裂结束为止",
+            "B.细胞从上一次分裂结束开始到下一次分裂结束为止",
+            "C.细胞从这一次分裂开始到分裂结束为止",
+            "D.细胞从这一次分裂结束到下一次分裂开始为止",
+            "E.细胞从前一次分裂开始到下一次分裂开始为止"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 70
+    },
+    {
+        "question_text": "869、间期细胞中的遗传物质（   ）",
+        "options": [
+            "A.常染色质与异染色质同时复制",
+            "B.常染色质复制，异染色质不复制",
+            "C.常染色质不复制，异染色质复制",
+            "D.常染色质先复制，异染色质后复制",
+            "E.常染色质与异染色质都不复制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 71
+    },
+    {
+        "question_text": "870、组蛋白合成主要是在细胞周期的（   ）",
+        "options": [
+            "A.G1期",
+            "B.G2期",
+            "C.S期",
+            "D.M期",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 72
+    },
+    {
+        "question_text": "871、细胞周期中，DNA复制是在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E.G0期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 73
+    },
+    {
+        "question_text": "872、染色体出现成倍状态发生于细胞周期中的（   ）",
+        "options": [
+            "A.G2期和早M期",
+            "B.G1期和S期",
+            "C.晚M期和G1期",
+            "D.G0期和G1期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 74
+    },
+    {
+        "question_text": "873、核糖体的合成是在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.G1期和S期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 75
+    },
+    {
+        "question_text": "874、细胞处于暂不增殖状态的时期是（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G0期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 76
+    },
+    {
+        "question_text": "875、细胞周期中的限制点（R点，哺乳动物中）存在于（   ）",
+        "options": [
+            "A.G1期",
+            "B.G2期",
+            "C.S期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 77
+    },
+    {
+        "question_text": "876、细胞周期的长短取决于（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 78
+    },
+    {
+        "question_text": "877、细胞通过细胞周期中的限制点（R点，哺乳动物中）时，（    ）",
+        "options": [
+            "A.DNA开始复制",
+            "B.RNA开始转录",
+            "C.蛋白质开始合成",
+            "D.细胞进入有丝分裂期（M期）",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 79
+    },
+    {
+        "question_text": "878、关于细胞周期限制点描述，错误的是（   ）",
+        "options": [
+            "A.限制点对正常周期运转并不是必需的",
+            "B.它的作用是细胞遇到环境压力或者DNA受损时使细胞周期停止的‘刹车’作用，对细胞进入下一期之前进行检查。",
+            "C.细胞周期主要有四个限制点：G1/S、S/G2、G2/M和M/G1",
+            "D.最重要的是G1/S限制点",
+            "E.限制点和细胞周期蛋白及激酶等一起参与细胞周期的调控"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 80
+    },
+    {
+        "question_text": "879、细胞周期蛋白A（Cyclin A）含量最高的时期是（   ）",
+        "options": [
+            "A.有丝分裂前期",
+            "B.有丝分裂后期",
+            "C.G1期",
+            "D.S期",
+            "E.G2期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 81
+    },
+    {
+        "question_text": "880、下列关于细胞周期蛋白和CDK，说法错误的是（   ）",
+        "options": [
+            "A.只要周期蛋白结合CDK，后者即可表现出激酶活性",
+            "B.周期蛋白结合的CDK部位氨基酸顺序比较保守",
+            "C.不同的周期蛋白在细胞周期中表达的时期不同，并与不同CDK结合，调节不同的CDK激酶的活性",
+            "D.\nCDK激活必须以结合周期蛋白为前提",
+            "E.细胞周期蛋白D主要与激酶CDK4和CDK6结合，调节G1/S期转化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 82
+    },
+    {
+        "question_text": "881、能抑制CDK活性的酶是（ ）",
+        "options": [
+            "A.Well",
+            "B.CAK",
+            "C.CDC25",
+            "D.p21",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 83
+    },
+    {
+        "question_text": "882、同步生长于M期的HeLa细胞与另一同步生长的细胞融合，除看到中期染色体外还见到凝缩成粉末状的染色体，推测这种同步生长的细胞是处于（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 84
+    },
+    {
+        "question_text": "883、目前认为核被膜破裂是由于核纤层蛋白的（   ）",
+        "options": [
+            "A.去磷酸化",
+            "B.磷酸化",
+            "C.水解",
+            "D.羟基化",
+            "E.脱氨基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 85
+    },
+    {
+        "question_text": "884、哺乳动物细胞周期中，启动细胞从G2期进入M期的MPF是由（   ）两个亚基构成",
+        "options": [
+            "A.CyclinD. Cdk4,6",
+            "B.CyclinE. Cdk2",
+            "C.CyclinB. Cdk1",
+            "D.CyclinA. Cdk2",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 86
+    },
+    {
+        "question_text": "885、cdc2基因的产物是（   ）",
+        "options": [
+            "A.细胞周期蛋白",
+            "B.P53",
+            "C.细胞周期蛋白依赖性蛋白激酶",
+            "D.CAK",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 87
+    },
+    {
+        "question_text": "886、成熟促进因子是在（   ）合成的",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 88
+    },
+    {
+        "question_text": "887、MPF（成熟促进因子）的作用是能够细胞（    ）",
+        "options": [
+            "A.从G1期进入S期",
+            "B.从G2期进入M期",
+            "C.从S期进入G2期",
+            "D.从中期进入后期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 89
+    },
+    {
+        "question_text": "888、要产生不同组织类型的细胞需通过（   ）",
+        "options": [
+            "A.有丝分裂",
+            "B.减数分裂",
+            "C.细胞分化",
+            "D.细胞去分化",
+            "E.细胞增殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 90
+    },
+    {
+        "question_text": "889、同源细胞逐渐变为结构和功能及生化特征上相异细胞的过程是（   ）",
+        "options": [
+            "A.增殖",
+            "B.分裂",
+            "C.分化",
+            "D.发育",
+            "E.衰老"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 91
+    },
+    {
+        "question_text": "890、在个体发育中，细胞分化的规律是（   ）",
+        "options": [
+            "A.单能细胞-多能细胞-全能细胞",
+            "B.全能细胞-多能细胞-单能细胞",
+            "C.全能细胞-单能细胞-多能细胞",
+            "D.单能细胞-全能细胞-多能细胞",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 92
+    },
+    {
+        "question_text": "891、多细胞生物的所有不同类型的细胞都是由（   ）",
+        "options": [
+            "A.体细胞发育而成",
+            "B.体细胞和生殖细胞同时发育而成",
+            "C.生殖细胞发育而成",
+            "D.受精卵发育而成",
+            "E.卵细胞发育而成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 93
+    },
+    {
+        "question_text": "892、下列细胞表现出最高全能性的是（   ）",
+        "options": [
+            "A.卵细胞",
+            "B.精子",
+            "C.受精卵",
+            "D.体细胞",
+            "E.生殖细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 94
+    },
+    {
+        "question_text": "893、下列哪类细胞不具分化能力（   ）",
+        "options": [
+            "A.胚胎干细胞",
+            "B.间充质干细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.精原干细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 95
+    },
+    {
+        "question_text": "894、从受精卵到成熟个体需进行(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 96
+    },
+    {
+        "question_text": "895、细胞形态和功能逐渐特化的过程是(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 97
+    },
+    {
+        "question_text": "896、神经细胞形成过程(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 98
+    },
+    {
+        "question_text": "897、关于细胞分化的概念叙述错误的是 (   )",
+        "options": [
+            "A.细胞分化使机体不同细胞之间产生稳定的差异",
+            "B.细胞分化是细胞由非专一性状态向形态和功能专一性状态的转变",
+            "C.细胞分化进程是细胞原有的高度可塑性潜能逐渐增加的过程",
+            "D.细胞分化进程是细胞原有的高度可塑性潜能逐渐降低的过程",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 99
+    },
+    {
+        "question_text": "898、生物体的各种类型的细胞中，表现最高全能性的细胞是(   )",
+        "options": [
+            "A.体细胞",
+            "B.生殖细胞",
+            "C.干细胞",
+            "D.受精卵",
+            "E.精细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 100
+    },
+    {
+        "question_text": "899、每一个分化的细胞核中都含有(   )",
+        "options": [
+            "A.大部分遗传信息",
+            "B.小部分遗传信息",
+            "C.全部遗传信息",
+            "D.不同分化细胞核中有着不同的遗传信息",
+            "E.亲代细胞1/2的遗传信息"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 101
+    },
+    {
+        "question_text": "900、在动物组织中，细胞分化的一个普遍原则是(   )",
+        "options": [
+            "A.细胞一旦转化为稳定类型后，就不能逆转到未分化状态",
+            "B.细胞一旦转化为稳定类型后，可以逆转到未分化状态",
+            "C.细胞分化是一种暂时性的变化",
+            "D.细胞分化发生在生物体整个生命进程的某一阶段",
+            "E.细胞分化仅发生在胚胎期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 102
+    },
+    {
+        "question_text": "901、细胞分化一般是(   )",
+        "options": [
+            "A.可逆的",
+            "B.不可逆的",
+            "C.间断进行的",
+            "D.不稳定的",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 103
+    },
+    {
+        "question_text": "902、从体细胞克隆高等哺乳动物的成功说明了（   ）",
+        "options": [
+            "A.体细胞的全能性",
+            "B.体细胞去分化还原性",
+            "C.体细胞核的全能性",
+            "D.体细胞核的去分化还原性",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 104
+    },
+    {
+        "question_text": "903、单个植物生殖细胞可体外培育成完整个体说明（   ）",
+        "options": [
+            "A.细胞是有机体的结构单位",
+            "B.细胞是有机体的功能单位",
+            "C.细胞有新陈代谢",
+            "D.细胞有进化性",
+            "E.细胞有遗传的全能性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 105
+    },
+    {
+        "question_text": "904、下列哪个属于奢侈基因表达的蛋白（   ）",
+        "options": [
+            "A.血红蛋白",
+            "B.线粒体蛋白",
+            "C.染色质的组蛋白",
+            "D.核糖体蛋白",
+            "E.溶酶体蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 106
+    },
+    {
+        "question_text": "905、从分子水平看，细胞分化的实质是（ ）",
+        "options": [
+            "A.特异性蛋白质的合成",
+            "B.基本蛋白质的合成",
+            "C.结构蛋白质的合成",
+            "D.酶蛋白质的合成",
+            "E.基因的选择性表达"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 107
+    },
+    {
+        "question_text": "906、维持细胞各种活动后最低限度的基因是（   ）",
+        "options": [
+            "A.奢侈基因",
+            "B.结构基因",
+            "C.调节基因",
+            "D.管家基因",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 108
+    },
+    {
+        "question_text": "907、奢侈基因(   )",
+        "options": [
+            "A.只在特定细胞中表达",
+            "B.只在分裂细胞中表达",
+            "C.不能表达的基因片段",
+            "D.多余的基因",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 109
+    },
+    {
+        "question_text": "908、细胞分化的实质是（   ）",
+        "options": [
+            "A.基因选择性丢失",
+            "B.基因选择性表达",
+            "C.基因突变",
+            "D.基因扩展",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 110
+    },
+    {
+        "question_text": "909、红细胞中由奢侈基因编码的蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.线粒体蛋白",
+            "C.核糖体蛋白",
+            "D.糖酵解酶",
+            "E.血红蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 111
+    },
+    {
+        "question_text": "910、细胞分化的机制在于（   ）",
+        "options": [
+            "A.基因丢失的结果",
+            "B.部分基因永久失活的结果",
+            "C.蛋白质选择性翻译的结果",
+            "D.基因选择性转录的结果",
+            "E.基因随机性表达的结果"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 112
+    },
+    {
+        "question_text": "911、细胞分化的实质是（   ）",
+        "options": [
+            "A.细胞结构的改变",
+            "B.基因的选择性表达",
+            "C.原癌基因的激活",
+            "D.细胞亚显微结构的变化",
+            "E.细胞周期调控的改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 113
+    },
+    {
+        "question_text": "912、基因选择性表达是在(    )水平进行的基因表达调控",
+        "options": [
+            "A.翻译",
+            "B.转录",
+            "C.复制",
+            "D.以上都是",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 114
+    },
+    {
+        "question_text": "913、细胞分化的普遍规律是\n（   ）",
+        "options": [
+            "A.基因组改变",
+            "B.基因组不发生变化",
+            "C.染色体丢失",
+            "D.基因发生不可逆变化",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 115
+    },
+    {
+        "question_text": "914、细胞分化中，为什么具有相同基因组成的细胞会表现出不同的性状（   ）",
+        "options": [
+            "A.全部基因的有序表达",
+            "B.全部基因的无序表达",
+            "C.基因选择性表达",
+            "D.基因随机表达",
+            "E.基因稳定性表达"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 116
+    },
+    {
+        "question_text": "915、维持细胞生存所必需的基因称为（   ）",
+        "options": [
+            "A.编码基因",
+            "B.非编码基因",
+            "C.奢侈基因",
+            "D.管家基因",
+            "E.重叠基因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 117
+    },
+    {
+        "question_text": "916、下列不是由奢侈基因编码的蛋白是（   ）",
+        "options": [
+            "A.血红蛋白",
+            "B.微管蛋白",
+            "C.角蛋白",
+            "D.胶原蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 118
+    },
+    {
+        "question_text": "917、细胞分化的内在基础是（   ）",
+        "options": [
+            "A.遗传物质的丢失",
+            "B.基因的选择表达",
+            "C.遗传信息的改造",
+            "D.其他",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 119
+    },
+    {
+        "question_text": "918、细胞分化最主要的原因是(   )",
+        "options": [
+            "A.染色体的选择性表达",
+            "B.基因重排",
+            "C.不同奢侈基因的选择表达",
+            "D.不同管家基因的选择表达",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 120
+    },
+    {
+        "question_text": "919、持家基因编码的蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.血红蛋白",
+            "C.分泌蛋白",
+            "D.胶原蛋白",
+            "E.巢蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 121
+    },
+    {
+        "question_text": "920、要产生不同组织类型细胞需通过(   )",
+        "options": [
+            "A.有丝分裂",
+            "B.减数分裂",
+            "C.细胞分化",
+            "D.细胞去分化",
+            "E.细胞增殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 122
+    },
+    {
+        "question_text": "921、在表达过程中不受时间限制的基因是(   )",
+        "options": [
+            "A.管家基因",
+            "B.奢侈基因",
+            "C.免疫球蛋白",
+            "D.血红蛋白基因",
+            "E.肌动蛋白基因"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 123
+    },
+    {
+        "question_text": "922、与各种细胞分化的特殊性状有直接关系的基因是(   )",
+        "options": [
+            "A.断裂基因",
+            "B.管家基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.非编码基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 124
+    },
+    {
+        "question_text": "923、对细胞分化起协助作用，维持细胞最低限度的功能所不可缺少的基因是(   )",
+        "options": [
+            "A.断裂基因",
+            "B.管家基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.非编码基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 125
+    },
+    {
+        "question_text": "924、细胞进行正常生理活动必需的基因是(   )",
+        "options": [
+            "A.重叠基因",
+            "B.非编码基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.管家基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 126
+    },
+    {
+        "question_text": "925、只在特定细胞表达的基因是(   )",
+        "options": [
+            "A.调控基因",
+            "B.奢侈基因",
+            "C.持家基因",
+            "D.编码基因",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 127
+    },
+    {
+        "question_text": "926、关于管家蛋白，下列叙述不正确的是(   )",
+        "options": [
+            "A.细胞生命活动所必须的",
+            "B.各类细胞普遍共有的",
+            "C.细胞向特殊类型分化的物质基础",
+            "D.包括核糖体蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 128
+    },
+    {
+        "question_text": "927、细胞分化是由于（   ）中某些或某种基因选择性地表达的结果",
+        "options": [
+            "A.奢侈基因",
+            "B.持家基因",
+            "C.结构基因",
+            "D.转录调控因子基因家族",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 129
+    },
+    {
+        "question_text": "928、细胞分化过程中，基因表达的调节主要是（   ）",
+        "options": [
+            "A.DNA复制水平",
+            "B.转录和翻译水平",
+            "C.翻译水平",
+            "D.翻译后水平",
+            "E.转录水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 130
+    },
+    {
+        "question_text": "929、在胚胎发育中，一部分细胞对临近的细胞产生影响，并诱导这些细胞向特定方向分化的现象称为（   ）",
+        "options": [
+            "A.胚胎诱导",
+            "B.细胞分化",
+            "C.细胞决定",
+            "D.转分化",
+            "E.去分化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 131
+    },
+    {
+        "question_text": "930、胚胎细胞影响另一部分细胞并决定其分化方向是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 132
+    },
+    {
+        "question_text": "931、不同来源的细胞核移植到相同胚层的胞质中都可随胞质形成相应的组织细胞,原因是（   ）",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 133
+    },
+    {
+        "question_text": "932、高度分化的细胞重新分裂,失去原来的结构和功能的现象是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 134
+    },
+    {
+        "question_text": "933、无核受精卵不卵裂或最多无序分裂细胞分化,原因是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 135
+    },
+    {
+        "question_text": "934、对药物的作用相对不敏感的时期是（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E.G0期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 136
+    },
+    {
+        "question_text": "935、有丝分裂与无丝分裂的主要区别在于后者（   ）",
+        "options": [
+            "A.不经过染色体的变化，无纺锤体出现",
+            "B.经过染色体的变化，有纺锤体出现",
+            "C.遗传物质不能平均分配",
+            "D.细胞核先分裂，核仁后分裂",
+            "E.细胞核和核仁同时分裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 137
+    },
+    {
+        "question_text": "936、细胞分化程度越高，其分裂能力（   ）",
+        "options": [
+            "A.越强",
+            "B.越弱",
+            "C.无变化",
+            "D.无法定论",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 138
+    },
+    {
+        "question_text": "937、机体的发育过程主要以（   ）为基础",
+        "options": [
+            "A.细胞的增殖",
+            "B.细胞的生长",
+            "C.细胞的分化",
+            "D.细胞的增殖和细胞的分化",
+            "E.细胞的分裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 139
+    },
+    {
+        "question_text": "938、下列哪项不是恶性肿瘤细胞的基本特征（   ）",
+        "options": [
+            "A.无限增殖",
+            "B.迁移能力强",
+            "C.失去接触抑制",
+            "D.体外培养的恶性肿瘤细胞汇合成层即不再生长",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 140
+    },
+    {
+        "question_text": "939、下列哪项不是良性肿瘤细胞的基本特征（   ）",
+        "options": [
+            "A.很少侵袭和转移",
+            "B.有包膜，边界清楚",
+            "C.常通过血液发生骨转移",
+            "D.生长较缓慢",
+            "E.对机体危害一般不大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 141
+    },
+    {
+        "question_text": "940、下列哪项不是恶性肿瘤细胞的基本形态特征（   ）",
+        "options": [
+            "A.肌动蛋白丝减少",
+            "B.微管变短",
+            "C.核分裂相多见",
+            "D.核质比显著高于正常细胞",
+            "E.形态特征与其来源细胞完全相同"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 142
+    },
+    {
+        "question_text": "941、对于恶性肿瘤细胞的迁移能力变化及相关的形态学变化的描述中，下列哪项正确（   ）",
+        "options": [
+            "A.细胞迁移能力增强而粘附能力减弱",
+            "B.细胞粘附能力显著增强",
+            "C.细胞骨架组装正常",
+            "D.细胞迁移能力显著减弱",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 143
+    },
+    {
+        "question_text": "942、下列哪项不是恶性肿瘤细胞的基本生物化学特征（   ）",
+        "options": [
+            "A.细胞膜表面的纤连蛋白表达量显著降低",
+            "B.线粒体功能障碍，主要依靠糖酵解获取能量",
+            "C.蛋白合成能力显著降低",
+            "D.端粒酶活性相对于正常细胞明显升高",
+            "E.糖链缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 144
+    },
+    {
+        "question_text": "943、正常时,形成100个精子所需要的初级精母细胞数为（   ）",
+        "options": [
+            "A.50",
+            "B.100",
+            "C.25",
+            "D.400",
+            "E.200"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 145
+    },
+    {
+        "question_text": "944、根据已有研究成果，下列哪项不是产生肿瘤细胞的直接诱发因素（   ）",
+        "options": [
+            "A.长期食用富含亚硝酸盐的食品",
+            "B.长期食用含黄曲霉的谷物",
+            "C.长期接触放射性同位素钴60",
+            "D.在切尔诺贝利核电站核泄露处居住20年",
+            "E.急性上呼吸道感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 146
+    },
+    {
+        "question_text": "945、根据当前研究成果，假定其余条件不变时，下列哪项因素可能导致肿瘤细胞的产生（   ）",
+        "options": [
+            "A.癌基因的过度失活",
+            "B.抑癌基因的过度激活",
+            "C.抗凋亡基因的过度激活",
+            "D.促凋亡基因的过度激活",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 147
+    },
+    {
+        "question_text": "946、甲胎蛋白（AFP）是下列那种恶性肿瘤的最特异、最灵敏的肿瘤标志物？（   ）",
+        "options": [
+            "A.前列腺癌",
+            "B.乳腺癌",
+            "C.原发性肺癌",
+            "D.原发性肝癌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 148
+    },
+    {
+        "question_text": "947、癌胚抗原(CEA)是下列哪一种恶性肿瘤的标志物？（   ）",
+        "options": [
+            "A.前列腺癌",
+            "B.乳腺癌",
+            "C.消化道肿瘤如胃癌",
+            "D.神经胶质瘤",
+            "E.皮肤癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 149
+    },
+    {
+        "question_text": "948、对于恶性肿瘤细胞周期的描述，下列哪项是错误的（   ）",
+        "options": [
+            "A.癌基因的激活可导致细胞越过限制点",
+            "B.抑癌基因的失活可能导致细胞通过限制点",
+            "C.细胞周期素－细胞周期素依赖性激酶（cyclin-CKK）可能过度激活",
+            "D.CDK抑制因子（CKI）可能失活",
+            "E.恶性肿瘤细胞增殖周期远短于同一来源的正常细胞周期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 150
+    },
+    {
+        "question_text": "949、动物受精卵的早期分裂是（   ）",
+        "options": [
+            "A.无丝分裂",
+            "B.有丝分裂",
+            "C.减数分裂",
+            "D.无丝分裂和减数分裂均有",
+            "E.无丝分裂和有丝分裂均有"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 151
+    },
+    {
+        "question_text": "950、有丝分裂和减数分裂相同点是（   ）",
+        "options": [
+            "A.有DNA的复制",
+            "B.有染色体的联会",
+            "C.有同源染色体的分离",
+            "D.联会的染色体之间可形成交叉",
+            "E.细胞中染色体数目不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 152
+    },
+    {
+        "question_text": "951、细胞的分化方向决定于（   ）",
+        "options": [
+            "A.受精卵",
+            "B.8细胞时期",
+            "C.卵裂期",
+            "D.桑葚胚",
+            "E.中、内、外胚层形成后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 153
+    },
+    {
+        "question_text": "952、DNA受损伤,P53将细胞阻滞在G1期的机制是（   ）",
+        "options": [
+            "A.通过P21基因作用于周期蛋白",
+            "B.通过抑制P21基因的启动",
+            "C.P53蛋白直接作用于周期蛋白",
+            "D.P53与P21共同作用于周期蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 154
+    },
+    {
+        "question_text": "953、在有丝分裂中，（   ）",
+        "options": [
+            "A.细胞周期长短主要由S期长短决定",
+            "B.这个时期对不利条件敏感导致G1期阻滞",
+            "C.S期的长短与染色体的倍数有关",
+            "D.G1期是M期物质准备阶段",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 155
+    },
+    {
+        "question_text": "954、哺乳动物成熟的红细胞（   ）",
+        "options": [
+            "A.没有细胞核",
+            "B.没有线粒体",
+            "C.永远失去了分裂能力",
+            "D.以上都正确",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 156
+    },
+    {
+        "question_text": "955、T、B淋巴细胞在正常情况下是（    ）",
+        "options": [
+            "A.G0细胞",
+            "B.永不增殖细胞",
+            "C.持续分裂细胞",
+            "D.间期细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 157
+    },
+    {
+        "question_text": "956、下列哪项最好地证明了后期染色体像在一条线上的鱼儿一样被拉向两极（   ）",
+        "options": [
+            "A.动力蛋白与驱动蛋白相关蛋白与着丝粒相连接",
+            "B.纺锤体微管蛋白在着丝粒部位去聚合",
+            "C.微管蛋白的分解决定了染色体运动速率",
+            "D.以上都正确",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 158
+    },
+    {
+        "question_text": "957、细胞分裂的哪个阶段可以观察到孟德尔自由组合定律的证据（   ）",
+        "options": [
+            "A.有丝分裂后期",
+            "B.有丝分裂中期",
+            "C.减数分裂后期Ⅰ",
+            "D.减数分裂后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 159
+    },
+    {
+        "question_text": "958、肝细胞具有高度的特化性，但是当肝被破坏或者手术切除其中的一部分，组织仍会生长。那么，肝细胞属于哪一类细胞（   ）",
+        "options": [
+            "A.永久处于G0期的细胞",
+            "B.可以被诱导进入S期的细胞",
+            "C.持续再生的细胞",
+            "D.无法从题目的条件中推出结果",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 160
+    },
+    {
+        "question_text": "959、在细胞间期，（   ）处于一个相对恒定的合成状态，而（   ）仅在S期内合成",
+        "options": [
+            "A.多数的蛋白质，DNA复制酶",
+            "B.组蛋白，DNA复制酶",
+            "C.结构蛋白，功能蛋白",
+            "D.大多数蛋白质，组蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 161
+    },
+    {
+        "question_text": "960、在细胞培养基中加入H-胸腺嘧啶核苷，培养30min，随后取样进行固定及放射自显影，结果发现（   ）",
+        "options": [
+            "A.所有进行有丝分裂的细胞的染色体中都掺入了标记的胸腺嘧啶核苷",
+            "B.所有进行有丝分裂的细胞的染色体中都没有掺入标记的胸腺嘧啶核苷",
+            "C.有的细胞，不论是否进行有丝分裂，其染色体中均掺入标记的胸腺嘧啶核苷",
+            "D.所有的细胞，不论是否进行有丝分裂，其染色体中均没有掺入标记的胸腺嘧啶核苷",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 162
+    },
+    {
+        "question_text": "961、如果将一个处于S期的细胞与一个处于G1期的细胞融合，那么（   ）",
+        "options": [
+            "A.G1期细胞核将会进入S期",
+            "B.S期细胞核将会进入G1期",
+            "C.两个核均进入G2期",
+            "D.两个核均被抑制",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 163
+    },
+    {
+        "question_text": "962、如果将S期细胞和G1期细胞诱导融合，可观察到的现象是（    ）",
+        "options": [
+            "A.G1期细胞启动DNA复制",
+            "B.G1期细胞进入M期",
+            "C.S期细胞停止DNA复制",
+            "D.G1期细胞没有任何变化",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 164
+    },
+    {
+        "question_text": "963、若在显微镜下观察到的某细胞具有核仁，并且核物质与细胞质的界限清晰，则可定此细胞处于细胞的（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 165
+    },
+    {
+        "question_text": "964、将血清从处于S期的原代细胞的培养液中去除后，细胞将停在（   ）",
+        "options": [
+            "A.S",
+            "B.G2",
+            "C.M",
+            "D.G0",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 166
+    },
+    {
+        "question_text": "965、秋水仙素可抑制纺锤丝形成，从而使细胞分裂停止在（ ）期",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 167
+    },
+    {
+        "question_text": "966、紫杉醇是临床一线化疗药物，其作用机制是（   ），从而抑制有丝分裂，使细胞阻滞于G2/M期，最终导致肿瘤细胞凋亡",
+        "options": [
+            "A.促进微丝聚合",
+            "B.抑制微丝聚合",
+            "C.抑制微管解聚",
+            "D.抑制微管聚合",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 168
+    },
+    {
+        "question_text": "967、在自然条件下，有遗传效应的染色体交换发生在（   ）",
+        "options": [
+            "A.姊妹染色体之间",
+            "B.同源染色体之间",
+            "C.同源染色体的非姊妹染色体之间",
+            "D.非同源染色体的姊妹染色体之间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 169
+    },
+    {
+        "question_text": "968、细胞分裂时纺锤丝的排列方式和染色体移动与下列哪个结构有关（   ）",
+        "options": [
+            "A.中心粒",
+            "B.线粒体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 170
+    },
+    {
+        "question_text": "969、受精卵中的中心体由（   ）提供",
+        "options": [
+            "A.精子",
+            "B.卵子",
+            "C.精子卵子各提供一个",
+            "D.精子卵子都不提供",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 171
+    },
+    {
+        "question_text": "970、假设某个细胞G1期的DNA含量为n，则G2期的DNA含量为2n，则S期的DNA含量为（    ）",
+        "options": [
+            "A.n",
+            "B.介于n与2n之间",
+            "C.2n",
+            "D.4n",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 172
+    },
+    {
+        "question_text": "971、癌细胞通常由正常细胞转化而来，与原来的细胞相比，癌细跑的分化程度通常表现为（   ）",
+        "options": [
+            "A.分化程度高",
+            "B.分化程度低",
+            "C.分化程度相同",
+            "D.成为多能干细胞",
+            "E.单能干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 173
+    },
+    {
+        "question_text": "972、肿瘤细胞常旺盛地进行（   ）",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 174
+    },
+    {
+        "question_text": "973、有丝分裂间期细胞通常进行(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 175
+    },
+    {
+        "question_text": "974、在个体发育过程中，通常是通过（   ）来增加细胞的数目",
+        "options": [
+            "A.细胞分化",
+            "B.细胞分裂",
+            "C.细胞选择",
+            "D.细胞决定",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 176
+    },
+    {
+        "question_text": "975、在个体发育过程中，通常是通过（   ）来增加细胞的类型",
+        "options": [
+            "A.细胞分化",
+            "B.细胞分裂",
+            "C.细胞选择",
+            "D.细胞决定",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 177
+    },
+    {
+        "question_text": "976、机体发生的过程主要是以(   )为基础",
+        "options": [
+            "A.细胞的增殖",
+            "B.细胞的生长",
+            "C.细胞的分化",
+            "D.细胞的增殖与细胞的分化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 178
+    },
+    {
+        "question_text": "977、多细胞生物的所有不同类型的细胞都是由(   )",
+        "options": [
+            "A.体细胞发育而成",
+            "B.体细胞和生殖细胞二者同时发育而成",
+            "C.生殖细胞发育而成",
+            "D.受精卵发育而成",
+            "E.卵细胞发育而成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 179
+    },
+    {
+        "question_text": "978、下列哪类细胞不具分化能力(   )",
+        "options": [
+            "A.胚胎干细胞",
+            "B.基底细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.精原细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 180
+    },
+    {
+        "question_text": "979、下述哪种细胞最易分裂\n：",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 181
+    },
+    {
+        "question_text": "980、对细胞癌基因的说法正确的是(   )",
+        "options": [
+            "A.正常细胞接触致癌因素后形成",
+            "B.存在于正常体细胞中",
+            "C.只存在于肿瘤细胞中",
+            "D.只存在于正常细胞中",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 182
+    },
+    {
+        "question_text": "981、关于细胞分化的叙述，错误的是（   ）",
+        "options": [
+            "A.高度分化的动物体细胞的细胞核保持着全能性",
+            "B.随着细胞分化的进行，细胞中的遗传物质会发生改化",
+            "C.细胞分化贯穿于整个生命过程中",
+            "D.细胞分化使多细胞生物体中的细胞趋向专门化，有利于提高生理功能的效率",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 183
+    },
+    {
+        "question_text": "982、癌细胞的基本特征是（   ）",
+        "options": [
+            "A.细胞分裂速度增快",
+            "B.失去了运动和分裂的接触抑制，所以不能在琼脂中形成克隆",
+            "C.肿瘤抑制基因表达增高",
+            "D.具有侵润性和扩散性",
+            "E.以上答案都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 184
+    },
+    {
+        "question_text": "983、分化程度高的细胞比分化程度低的细胞对于外界因子的反应能力（   ）",
+        "options": [
+            "A.一样",
+            "B.下降",
+            "C.上升",
+            "D.前三者都有可能",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 185
+    },
+    {
+        "question_text": "984、下列哪一种蛋白质或酶最不可能是癌基因（   ）",
+        "options": [
+            "A.GTP 酶",
+            "B.蛋白质磷酸激酶",
+            "C.蛋白质磷酸酶",
+            "D.转录因子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 186
+    },
+    {
+        "question_text": "799、染色质凝集、核仁解体和核膜消失发生在（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 187
+    },
+    {
+        "question_text": "800、在细胞周期中，核仁、核膜要消失，这一消失出现在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 188
+    },
+    {
+        "question_text": "801、有丝分裂前期的最主要特征是（   ）",
+        "options": [
+            "A.核仁、核膜、核仁组织者都要消失",
+            "B.染色质凝缩成染色体",
+            "C.核糖体解体",
+            "D.中心体消失",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 189
+    },
+    {
+        "question_text": "802、在有丝分裂过程中，姐妹染色单体着丝粒的分开发生于（   ）",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 190
+    },
+    {
+        "question_text": "803、有丝分裂早中期时核膜破裂是由于核纤层蛋白被（   ）",
+        "options": [
+            "A.磷酸化",
+            "B.脱磷酸化",
+            "C.大量合成",
+            "D.大量降解",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 191
+    },
+    {
+        "question_text": "804、在有丝分裂的哪个时期染色体最松散（   ）",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 192
+    },
+    {
+        "question_text": "805、有丝分裂过程的中期，发生的主要事件是（   ）",
+        "options": [
+            "A.核仁消失",
+            "B.染色体排列在赤道板",
+            "C.染色质凝缩成染色体",
+            "D.姐妹染色单体的着丝粒分开",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 193
+    },
+    {
+        "question_text": "806、当细胞进入M期后下列哪些现象不发生（   ）",
+        "options": [
+            "A.染色质浓缩",
+            "B.组蛋白和H1脱磷酸化",
+            "C.核膜、内质网和高尔基体解体",
+            "D.纺锤体形成",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 194
+    },
+    {
+        "question_text": "807、有丝分裂后期，染色体向两端移动，主要是靠（   ）的收缩",
+        "options": [
+            "A.星体微管",
+            "B.极微管",
+            "C.动粒微管",
+            "D.游离微管",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 195
+    },
+    {
+        "question_text": "808、纺锤体的形成是在（   ）",
+        "options": [
+            "A.间期",
+            "B.中期",
+            "C.前期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 196
+    },
+    {
+        "question_text": "809、在细胞有丝分裂前期，核纤层蛋白发生（   ）",
+        "options": [
+            "A.磷酸化",
+            "B.去磷酸化",
+            "C.甲基化",
+            "D.去甲基化",
+            "E.水解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 197
+    },
+    {
+        "question_text": "810、细胞有丝分裂开始的标志是（   ）",
+        "options": [
+            "A.收缩环的形成",
+            "B.有丝分裂器的形成",
+            "C.核被膜和核仁的消失",
+            "D.染色质组装成染色体",
+            "E.核被膜的重建"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 198
+    },
+    {
+        "question_text": "811、有丝分裂中期发生的主要事件有（ ）",
+        "options": [
+            "A.染色质组装成染色体",
+            "B.收缩环的形成",
+            "C.核被膜和核仁的消失",
+            "D.有丝分裂器的形成",
+            "E.核被膜的重建"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 199
+    },
+    {
+        "question_text": "812、染色质凝集、核仁解体和核膜消失发生在（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 200
+    },
+    {
+        "question_text": "813、对动物细胞有丝分裂的下列叙述，哪一项是正确的（   ）",
+        "options": [
+            "A.所有的动物细胞都一直在进行有丝分裂",
+            "B.分裂产生的子细胞染色体数目相同",
+            "C.分裂产生的子细胞染色体数目不同",
+            "D.分裂产生的子细胞染色体数目和受精卵不同",
+            "E.胞质分裂中在细胞中部形成细胞板，直接间隔形成2个子细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 201
+    },
+    {
+        "question_text": "814、在有丝分裂过程中，使用（   ）可抑制纺锤体的形成",
+        "options": [
+            "A.秋水仙素",
+            "B.鬼笔环肽",
+            "C.细胞松弛素B",
+            "D.紫杉醇",
+            "E.羟基脲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 202
+    },
+    {
+        "question_text": "815、有丝分裂器形成的开始阶段是（   ）",
+        "options": [
+            "A.前期",
+            "B.前中期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 203
+    },
+    {
+        "question_text": "816、与保证两个子细胞中染色体形态和数目与亲代细胞完全相同无关的是(　　)",
+        "options": [
+            "A.染色体复制",
+            "B.着丝点分裂",
+            "C.纺锤体的牵引",
+            "D.分裂末期染色体变为染色质",
+            "E.动粒的存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 204
+    },
+    {
+        "question_text": "817、细胞分裂时纺锤丝的排列方式和染色体移动和下列哪个结构有关\n（   ）",
+        "options": [
+            "A.中心粒",
+            "B.线粒体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E.过氧化物酶体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 205
+    },
+    {
+        "question_text": "818、动物细胞有丝分裂前期不具有的特征是（   ）",
+        "options": [
+            "A.染色质凝集成染色体",
+            "B.核膜消失",
+            "C.核仁消失",
+            "D.中心粒复制",
+            "E.中心粒周围出现星射线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 206
+    },
+    {
+        "question_text": "819、细胞有丝分裂中期最明显特点（   ）",
+        "options": [
+            "A.核仁消失",
+            "B.核膜消失",
+            "C.染色体形成",
+            "D.所有染色体的着丝粒均位于同一平面",
+            "E.染色体分离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 207
+    },
+    {
+        "question_text": "820、有丝分裂器的形成是在（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.前中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 208
+    },
+    {
+        "question_text": "821、在细胞有丝分裂中，参与染色体运动的细胞骨架结构是：",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.核纤层",
+            "E.以上都不正确"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 209
+    },
+    {
+        "question_text": "822、原核细胞不能完成的生理作用是(   )",
+        "options": [
+            "A.细胞的生长和运动",
+            "B.蛋白质合成",
+            "C.糖酵解",
+            "D.有丝分裂",
+            "E.遗传物质复制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 210
+    },
+    {
+        "question_text": "823、减数分裂前期Ⅰ的偶线期配对的二条染色体是（   ）",
+        "options": [
+            "A.姐妹染色单体",
+            "B.非姐妹染色单体",
+            "C.二分体",
+            "D.同源染色体",
+            "E.非同源染色体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 211
+    },
+    {
+        "question_text": "824、第二次减数分裂完成的主要标志是（   ）",
+        "options": [
+            "A.同源染色体分离",
+            "B.姐妹染色单体分离",
+            "C.同源染色体配对",
+            "D.同源染色体交换",
+            "E.同源染色体重组"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 212
+    },
+    {
+        "question_text": "825、一个卵母细胞经过二次减数分裂形成几个卵细胞（   ）",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E.8个"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 213
+    },
+    {
+        "question_text": "826、同源染色体配对完成，这时的染色体称（   ）",
+        "options": [
+            "A.四联体",
+            "B.二价体",
+            "C.二分体",
+            "D.一价体",
+            "E.四价体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 214
+    },
+    {
+        "question_text": "827、下列减数分裂过程中，要发生染色体减数，此过程发生在（   ）",
+        "options": [
+            "A.前期Ⅰ",
+            "B.中期Ⅰ",
+            "C.后期I",
+            "D.后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 215
+    },
+    {
+        "question_text": "828、在减数分裂的粗线期，（    ）",
+        "options": [
+            "A.常发生同源染色体非姐妹染色单体间的交换从而导致重组配子的产生",
+            "B.常发生姐妹染色体单体间的交叉从而导致重组配子的产生",
+            "C.RNA聚合酶明显增多",
+            "D.组蛋白成倍增加",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 216
+    },
+    {
+        "question_text": "829、在第一次减数分裂时，核膜的解体主要是在（   ）",
+        "options": [
+            "A.偶线期",
+            "B.粗线期",
+            "C.终变期",
+            "D.中期Ⅰ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 217
+    },
+    {
+        "question_text": "830、在减数分裂过程中，同源染色体要进行配对，形成联会复合体，这种现象会出现在前期Ⅰ的（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 218
+    },
+    {
+        "question_text": "831、减数分裂过程中变化最为复杂的时期为（   ）",
+        "options": [
+            "A.前期Ⅰ",
+            "B.前期Ⅱ",
+            "C.后期Ⅰ",
+            "D.后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 219
+    },
+    {
+        "question_text": "832、在减数分裂过程中，同源染色体进行交叉和互换的这个时期成为（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 220
+    },
+    {
+        "question_text": "833、同源染色体的联会开始于减数分裂的（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 221
+    },
+    {
+        "question_text": "834、下列对四分体的叙述正确的是（   ）",
+        "options": [
+            "A.一个细胞中含有4条染色体",
+            "B.一个细胞中含有4对染色体",
+            "C.一个细胞中含有4条染色单体",
+            "D.一对同源染色体含4条染色单体",
+            "E.一对同源染色体含4对染色单体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 222
+    },
+    {
+        "question_text": "835、减数分裂过程中,染色体数目减半发生在（   ）",
+        "options": [
+            "A.精原细胞生长增大时",
+            "B.第一次分裂结束时",
+            "C.第二次分裂结束时",
+            "D.精细胞变成精子时",
+            "E.第一次分裂前期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 223
+    },
+    {
+        "question_text": "836、人类的卵母细胞要经过几次分裂才能成熟（   ）",
+        "options": [
+            "A.1次",
+            "B.2次",
+            "C.3次",
+            "D.4次",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 224
+    },
+    {
+        "question_text": "837、有性生殖个体形成生殖细胞的特有分裂方式为（   ）",
+        "options": [
+            "A.无丝分裂",
+            "B.有丝分裂",
+            "C.减数分裂",
+            "D.出芽生殖",
+            "E.对数分裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 225
+    },
+    {
+        "question_text": "838、一条染色体的两条染色单体是（   ）",
+        "options": [
+            "A.二价体",
+            "B.同源染色体",
+            "C.非姐妹染色单体",
+            "D.姐妹染色单体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 226
+    },
+    {
+        "question_text": "839、减数分裂偶线期配对的两条染色体是（   ）",
+        "options": [
+            "A.姐妹染色单体",
+            "B.非姐妹染色单体",
+            "C.二分体",
+            "D.同源染色体",
+            "E.非同源染色体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 227
+    },
+    {
+        "question_text": "840、减数分裂中，同源染色体形成二价体是发生在（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 228
+    },
+    {
+        "question_text": "841、在第一次减数分裂过程中（   ）",
+        "options": [
+            "A.同源染色体不分离",
+            "B.着丝粒不分裂",
+            "C.染色单体分离",
+            "D.不出现交叉",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 229
+    },
+    {
+        "question_text": "842、联会复合物完全形成时，同源染色体配对完成，这时的染色体称（   ）",
+        "options": [
+            "A.四价体",
+            "B.二价体",
+            "C.二分体",
+            "D.一价体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 230
+    },
+    {
+        "question_text": "843、减数分裂中同源染色体发生等位基因交换是在（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 231
+    },
+    {
+        "question_text": "844、非姐妹染色体之间开始出现交叉的时期是（   ）",
+        "options": [
+            "A.细线期",
+            "B.偶线期",
+            "C.粗线期",
+            "D.双线期",
+            "E.终变期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 232
+    },
+    {
+        "question_text": "845、正常配子的染色体与体细胞相比（   ）",
+        "options": [
+            "A.数目增加",
+            "B.数目相同",
+            "C.数目减少80%",
+            "D.数目减少60%",
+            "E.数目减半"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 233
+    },
+    {
+        "question_text": "846、减数分裂发生在（   ）",
+        "options": [
+            "A.肾细胞",
+            "B.干细胞",
+            "C.造血细胞",
+            "D.卵母细胞",
+            "E.精子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 234
+    },
+    {
+        "question_text": "847、下述哪种细胞属于暂不增殖型细胞（   ）",
+        "options": [
+            "A.神经细胞",
+            "B.肌细胞",
+            "C.肝细胞",
+            "D.胃肠上皮细胞",
+            "E.骨髓造血干细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 235
+    },
+    {
+        "question_text": "848、细胞周期包括（   ）两个主要时期",
+        "options": [
+            "A.G1期和G2期",
+            "B.间期和M期",
+            "C.间期和S期",
+            "D.M期和G1期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 236
+    },
+    {
+        "question_text": "849、虽然不同的细胞有不同的细胞周期，但一般来说，都是（   ）",
+        "options": [
+            "A.G1期长，S期短",
+            "B.S期长，G2期短",
+            "C.S期长，M期短",
+            "D.M期长，G1期短",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 237
+    },
+    {
+        "question_text": "850、人体肝细胞属于（   ）",
+        "options": [
+            "A.周期性细胞",
+            "B.暂不增殖细胞",
+            "C.G1期细胞",
+            "D.M期细胞",
+            "E.干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 238
+    },
+    {
+        "question_text": "851、下述哪种细胞属于G0期细胞（   ）",
+        "options": [
+            "A.神经细胞",
+            "B.肌细胞",
+            "C.肝细胞",
+            "D.胃肠上皮细胞",
+            "E.骨髓造血干细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 239
+    },
+    {
+        "question_text": "852、下述哪种细胞最易分裂（   ）",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃、肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 240
+    },
+    {
+        "question_text": "853、下列细胞中属于G0期细胞的是（   ）",
+        "options": [
+            "A.人类成熟的红细胞",
+            "B.肿瘤细胞",
+            "C.从组织损伤中恢复的肝细胞",
+            "D.精原细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 241
+    },
+    {
+        "question_text": "854、正常细胞生命活动中可能发生的细胞周期时相顺序是（   ）",
+        "options": [
+            "A.G1→M→G2→S→G1",
+            "B.G1→G2→M→S→G1",
+            "C.G1→S→G2→M",
+            "D.G0→M→G0",
+            "E.G0→S→G0"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 242
+    },
+    {
+        "question_text": "855、细胞中DNA加倍开始于（   ）",
+        "options": [
+            "A.G0期",
+            "B.G1期",
+            "C.G2期",
+            "D.S期",
+            "E.M期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 243
+    },
+    {
+        "question_text": "856、在细胞周期的G2期，细胞核的DNA含量为G1期的（   ）",
+        "options": [
+            "A.多1/2倍",
+            "B.一样多",
+            "C.多一倍",
+            "D.多两倍",
+            "E.多四倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 244
+    },
+    {
+        "question_text": "857、下述哪种细胞的细胞周期时间最短（   ）",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃、肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 245
+    },
+    {
+        "question_text": "858、胃上皮细胞群体增殖比胃癌细胞群体增殖慢，主要是因为（   ）",
+        "options": [
+            "A.G2期长",
+            "B.G0期细胞多",
+            "C.G1期长",
+            "D.S期长",
+            "E.M期长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 246
+    },
+    {
+        "question_text": "859、中心粒复制发生在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.前期",
+            "E.前中期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 247
+    },
+    {
+        "question_text": "860、DNA合成是在（   ）",
+        "options": [
+            "A.M期",
+            "B.G1期",
+            "C.S期",
+            "D.G2期",
+            "E.G0期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 248
+    },
+    {
+        "question_text": "861、下述哪种细胞属于不再分裂的细胞（   ）",
+        "options": [
+            "A.胃上皮细胞",
+            "B.皮肤基底层细胞",
+            "C.成纤维细胞",
+            "D.神经元",
+            "E.肝细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 249
+    },
+    {
+        "question_text": "862、G0期细胞一般是从（   ）即脱离了细胞周期。",
+        "options": [
+            "A.S",
+            "B.M",
+            "C.G1",
+            "D.G2",
+            "E.中期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 250
+    },
+    {
+        "question_text": "863、在一般情况下，能反复进行细胞周期的细胞是（   ）",
+        "options": [
+            "A.红细胞",
+            "B.角质层细胞",
+            "C.精子细胞",
+            "D.神经细胞",
+            "E.上皮组织基底层细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 251
+    },
+    {
+        "question_text": "864、下列关于细胞周期的叙述，正确的是（　　）",
+        "options": [
+            "A.成熟的生殖细胞产生后立即进入下一个细胞周期",
+            "B.机体内所有体细胞处于细胞周期中",
+            "C.细胞周期由前期、中期、后期、末期组成",
+            "D.细胞种类不同，细胞周期持续时间不同",
+            "E.抑制DNA的合成，细胞将停留在分裂期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 252
+    },
+    {
+        "question_text": "865、细胞周期的顺序是（   ）",
+        "options": [
+            "A.M期，G1期，S期G2期",
+            "B.M期，G1期，G2期，S期",
+            "C.G1期，G2期，S期，M期",
+            "D.G1期，S期，G2期，M期",
+            "E.G1期，S期，M期，G2期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 253
+    },
+    {
+        "question_text": "866、细胞周期特点一般是（   ）",
+        "options": [
+            "A.G1期短",
+            "B.G1期长",
+            "C.S期短",
+            "D.S期长",
+            "E.G2期长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 254
+    },
+    {
+        "question_text": "867、DNA半保留复制发生于（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E.末期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 255
+    },
+    {
+        "question_text": "868、细胞周期的概念是（   ）",
+        "options": [
+            "A.细胞从前一次分裂开始到下一次分裂结束为止",
+            "B.细胞从上一次分裂结束开始到下一次分裂结束为止",
+            "C.细胞从这一次分裂开始到分裂结束为止",
+            "D.细胞从这一次分裂结束到下一次分裂开始为止",
+            "E.细胞从前一次分裂开始到下一次分裂开始为止"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 256
+    },
+    {
+        "question_text": "869、间期细胞中的遗传物质（   ）",
+        "options": [
+            "A.常染色质与异染色质同时复制",
+            "B.常染色质复制，异染色质不复制",
+            "C.常染色质不复制，异染色质复制",
+            "D.常染色质先复制，异染色质后复制",
+            "E.常染色质与异染色质都不复制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 257
+    },
+    {
+        "question_text": "870、组蛋白合成主要是在细胞周期的（   ）",
+        "options": [
+            "A.G1期",
+            "B.G2期",
+            "C.S期",
+            "D.M期",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 258
+    },
+    {
+        "question_text": "871、细胞周期中，DNA复制是在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E.G0期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 259
+    },
+    {
+        "question_text": "872、染色体出现成倍状态发生于细胞周期中的（   ）",
+        "options": [
+            "A.G2期和早M期",
+            "B.G1期和S期",
+            "C.晚M期和G1期",
+            "D.G0期和G1期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 260
+    },
+    {
+        "question_text": "873、核糖体的合成是在（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.G1期和S期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 261
+    },
+    {
+        "question_text": "874、细胞处于暂不增殖状态的时期是（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G0期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 262
+    },
+    {
+        "question_text": "875、细胞周期中的限制点（R点，哺乳动物中）存在于（   ）",
+        "options": [
+            "A.G1期",
+            "B.G2期",
+            "C.S期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 263
+    },
+    {
+        "question_text": "876、细胞周期的长短取决于（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 264
+    },
+    {
+        "question_text": "877、细胞通过细胞周期中的限制点（R点，哺乳动物中）时，（    ）",
+        "options": [
+            "A.DNA开始复制",
+            "B.RNA开始转录",
+            "C.蛋白质开始合成",
+            "D.细胞进入有丝分裂期（M期）",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 265
+    },
+    {
+        "question_text": "878、关于细胞周期限制点描述，错误的是（   ）",
+        "options": [
+            "A.限制点对正常周期运转并不是必需的",
+            "B.它的作用是细胞遇到环境压力或者DNA受损时使细胞周期停止的‘刹车’作用，对细胞进入下一期之前进行检查。",
+            "C.细胞周期主要有四个限制点：G1/S、S/G2、G2/M和M/G1",
+            "D.最重要的是G1/S限制点",
+            "E.限制点和细胞周期蛋白及激酶等一起参与细胞周期的调控"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 266
+    },
+    {
+        "question_text": "879、细胞周期蛋白A（Cyclin A）含量最高的时期是（   ）",
+        "options": [
+            "A.有丝分裂前期",
+            "B.有丝分裂后期",
+            "C.G1期",
+            "D.S期",
+            "E.G2期"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 267
+    },
+    {
+        "question_text": "880、下列关于细胞周期蛋白和CDK，说法错误的是（   ）",
+        "options": [
+            "A.只要周期蛋白结合CDK，后者即可表现出激酶活性",
+            "B.周期蛋白结合的CDK部位氨基酸顺序比较保守",
+            "C.不同的周期蛋白在细胞周期中表达的时期不同，并与不同CDK结合，调节不同的CDK激酶的活性",
+            "D.\nCDK激活必须以结合周期蛋白为前提",
+            "E.细胞周期蛋白D主要与激酶CDK4和CDK6结合，调节G1/S期转化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 268
+    },
+    {
+        "question_text": "881、能抑制CDK活性的酶是（    ）",
+        "options": [
+            "A.Well",
+            "B.CAK",
+            "C.CDC25",
+            "D.p21",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 269
+    },
+    {
+        "question_text": "882、同步生长于M期的HeLa细胞与另一同步生长的细胞融合，除看到中期染色体外还见到凝缩成粉末状的染色体，推测这种同步生长的细胞是处于（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 270
+    },
+    {
+        "question_text": "883、目前认为核被膜破裂是由于核纤层蛋白的（   ）",
+        "options": [
+            "A.去磷酸化",
+            "B.磷酸化",
+            "C.水解",
+            "D.羟基化",
+            "E.脱氨基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 271
+    },
+    {
+        "question_text": "884、哺乳动物细胞周期中，启动细胞从G2期进入M期的MPF是由（   ）两个亚基构成",
+        "options": [
+            "A.CyclinD. Cdk4,6",
+            "B.CyclinE. Cdk2",
+            "C.CyclinB. Cdk1",
+            "D.CyclinA. Cdk2",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 272
+    },
+    {
+        "question_text": "885、cdc2基因的产物是（   ）",
+        "options": [
+            "A.细胞周期蛋白",
+            "B.P53",
+            "C.细胞周期蛋白依赖性蛋白激酶",
+            "D.CAK",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 273
+    },
+    {
+        "question_text": "886、成熟促进因子是在（   ）合成的",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 274
+    },
+    {
+        "question_text": "887、MPF（成熟促进因子）的作用是能够细胞（    ）",
+        "options": [
+            "A.从G1期进入S期",
+            "B.从G2期进入M期",
+            "C.从S期进入G2期",
+            "D.从中期进入后期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 275
+    },
+    {
+        "question_text": "888、要产生不同组织类型的细胞需通过（   ）",
+        "options": [
+            "A.有丝分裂",
+            "B.减数分裂",
+            "C.细胞分化",
+            "D.细胞去分化",
+            "E.细胞增殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 276
+    },
+    {
+        "question_text": "889、同源细胞逐渐变为结构和功能及生化特征上相异细胞的过程是（   ）",
+        "options": [
+            "A.增殖",
+            "B.分裂",
+            "C.分化",
+            "D.发育",
+            "E.衰老"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 277
+    },
+    {
+        "question_text": "890、在个体发育中，细胞分化的规律是（   ）",
+        "options": [
+            "A.单能细胞-多能细胞-全能细胞",
+            "B.全能细胞-多能细胞-单能细胞",
+            "C.全能细胞-单能细胞-多能细胞",
+            "D.单能细胞-全能细胞-多能细胞",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 278
+    },
+    {
+        "question_text": "891、多细胞生物的所有不同类型的细胞都是由（   ）",
+        "options": [
+            "A.体细胞发育而成",
+            "B.体细胞和生殖细胞同时发育而成",
+            "C.生殖细胞发育而成",
+            "D.受精卵发育而成",
+            "E.卵细胞发育而成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 279
+    },
+    {
+        "question_text": "892、下列细胞表现出最高全能性的是（   ）",
+        "options": [
+            "A.卵细胞",
+            "B.精子",
+            "C.受精卵",
+            "D.体细胞",
+            "E.生殖细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 280
+    },
+    {
+        "question_text": "893、下列哪类细胞不具分化能力（   ）",
+        "options": [
+            "A.胚胎干细胞",
+            "B.间充质干细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.精原干细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 281
+    },
+    {
+        "question_text": "894、从受精卵到成熟个体需进行(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 282
+    },
+    {
+        "question_text": "895、细胞形态和功能逐渐特化的过程是(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 283
+    },
+    {
+        "question_text": "896、神经细胞形成过程(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 284
+    },
+    {
+        "question_text": "897、关于细胞分化的概念叙述错误的是 (   )",
+        "options": [
+            "A.细胞分化使机体不同细胞之间产生稳定的差异",
+            "B.细胞分化是细胞由非专一性状态向形态和功能专一性状态的转变",
+            "C.细胞分化进程是细胞原有的高度可塑性潜能逐渐增加的过程",
+            "D.细胞分化进程是细胞原有的高度可塑性潜能逐渐降低的过程",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 285
+    },
+    {
+        "question_text": "898、生物体的各种类型的细胞中，表现最高全能性的细胞是(   )",
+        "options": [
+            "A.体细胞",
+            "B.生殖细胞",
+            "C.干细胞",
+            "D.受精卵",
+            "E.精细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 286
+    },
+    {
+        "question_text": "899、每一个分化的细胞核中都含有(   )",
+        "options": [
+            "A.大部分遗传信息",
+            "B.小部分遗传信息",
+            "C.全部遗传信息",
+            "D.不同分化细胞核中有着不同的遗传信息",
+            "E.亲代细胞1/2的遗传信息"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 287
+    },
+    {
+        "question_text": "900、在动物组织中，细胞分化的一个普遍原则是(   )",
+        "options": [
+            "A.细胞一旦转化为稳定类型后，就不能逆转到未分化状态",
+            "B.细胞一旦转化为稳定类型后，可以逆转到未分化状态",
+            "C.细胞分化是一种暂时性的变化",
+            "D.细胞分化发生在生物体整个生命进程的某一阶段",
+            "E.细胞分化仅发生在胚胎期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 288
+    },
+    {
+        "question_text": "901、细胞分化一般是(   )",
+        "options": [
+            "A.可逆的",
+            "B.不可逆的",
+            "C.间断进行的",
+            "D.不稳定的",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 289
+    },
+    {
+        "question_text": "902、从体细胞克隆高等哺乳动物的成功说明了（   ）",
+        "options": [
+            "A.体细胞的全能性",
+            "B.体细胞去分化还原性",
+            "C.体细胞核的全能性",
+            "D.体细胞核的去分化还原性",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 290
+    },
+    {
+        "question_text": "903、单个植物生殖细胞可体外培育成完整个体说明（   ）",
+        "options": [
+            "A.细胞是有机体的结构单位",
+            "B.细胞是有机体的功能单位",
+            "C.细胞有新陈代谢",
+            "D.细胞有进化性",
+            "E.细胞有遗传的全能性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 291
+    },
+    {
+        "question_text": "904、下列哪个属于奢侈基因表达的蛋白（   ）",
+        "options": [
+            "A.血红蛋白",
+            "B.线粒体蛋白",
+            "C.染色质的组蛋白",
+            "D.核糖体蛋白",
+            "E.溶酶体蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 292
+    },
+    {
+        "question_text": "905、从分子水平看，细胞分化的实质是（   ）",
+        "options": [
+            "A.特异性蛋白质的合成",
+            "B.基本蛋白质的合成",
+            "C.结构蛋白质的合成",
+            "D.酶蛋白质的合成",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 293
+    },
+    {
+        "question_text": "906、维持细胞各种活动后最低限度的基因是（   ）",
+        "options": [
+            "A.奢侈基因",
+            "B.结构基因",
+            "C.调节基因",
+            "D.管家基因",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 294
+    },
+    {
+        "question_text": "907、奢侈基因(   )",
+        "options": [
+            "A.只在特定细胞中表达",
+            "B.只在分裂细胞中表达",
+            "C.不能表达的基因片段",
+            "D.多余的基因",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 295
+    },
+    {
+        "question_text": "908、细胞分化的实质是（   ）",
+        "options": [
+            "A.基因选择性丢失",
+            "B.基因选择性表达",
+            "C.基因突变",
+            "D.基因扩展",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 296
+    },
+    {
+        "question_text": "909、红细胞中由奢侈基因编码的蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.线粒体蛋白",
+            "C.核糖体蛋白",
+            "D.糖酵解酶",
+            "E.血红蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 297
+    },
+    {
+        "question_text": "910、细胞分化的机制在于（   ）",
+        "options": [
+            "A.基因丢失的结果",
+            "B.部分基因永久失活的结果",
+            "C.蛋白质选择性翻译的结果",
+            "D.基因选择性转录的结果",
+            "E.基因随机性表达的结果"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 298
+    },
+    {
+        "question_text": "911、细胞分化的实质是（   ）",
+        "options": [
+            "A.细胞结构的改变",
+            "B.基因的选择性表达",
+            "C.原癌基因的激活",
+            "D.细胞亚显微结构的变化",
+            "E.细胞周期调控的改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 299
+    },
+    {
+        "question_text": "912、基因选择性表达是在(    )水平进行的基因表达调控",
+        "options": [
+            "A.翻译",
+            "B.转录",
+            "C.复制",
+            "D.以上都是",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 300
+    },
+    {
+        "question_text": "913、细胞分化的普遍规律是\n（   ）",
+        "options": [
+            "A.基因组改变",
+            "B.基因组不发生变化",
+            "C.染色体丢失",
+            "D.基因发生不可逆变化",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 301
+    },
+    {
+        "question_text": "914、细胞分化中，为什么具有相同基因组成的细胞会表现出不同的性状（   ）",
+        "options": [
+            "A.全部基因的有序表达",
+            "B.全部基因的无序表达",
+            "C.基因选择性表达",
+            "D.基因随机表达",
+            "E.基因稳定性表达"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 302
+    },
+    {
+        "question_text": "915、维持细胞生存所必需的基因称为（   ）",
+        "options": [
+            "A.编码基因",
+            "B.非编码基因",
+            "C.奢侈基因",
+            "D.管家基因",
+            "E.重叠基因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 303
+    },
+    {
+        "question_text": "916、下列不是由奢侈基因编码的蛋白是（   ）",
+        "options": [
+            "A.血红蛋白",
+            "B.微管蛋白",
+            "C.角蛋白",
+            "D.胶原蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 304
+    },
+    {
+        "question_text": "917、细胞分化的内在基础是（   ）",
+        "options": [
+            "A.遗传物质的丢失",
+            "B.基因的选择表达",
+            "C.遗传信息的改造",
+            "D.其他",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 305
+    },
+    {
+        "question_text": "918、细胞分化最主要的原因是(   )",
+        "options": [
+            "A.染色体的选择性表达",
+            "B.基因重排",
+            "C.不同奢侈基因的选择表达",
+            "D.不同管家基因的选择表达",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 306
+    },
+    {
+        "question_text": "919、持家基因编码的蛋白是（   ）",
+        "options": [
+            "A.组蛋白",
+            "B.血红蛋白",
+            "C.分泌蛋白",
+            "D.胶原蛋白",
+            "E.巢蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 307
+    },
+    {
+        "question_text": "920、要产生不同组织类型细胞需通过(   )",
+        "options": [
+            "A.有丝分裂",
+            "B.减数分裂",
+            "C.细胞分化",
+            "D.细胞去分化",
+            "E.细胞增殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 308
+    },
+    {
+        "question_text": "921、在表达过程中不受时间限制的基因是(   )",
+        "options": [
+            "A.管家基因",
+            "B.奢侈基因",
+            "C.免疫球蛋白",
+            "D.血红蛋白基因",
+            "E.肌动蛋白基因"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 309
+    },
+    {
+        "question_text": "922、与各种细胞分化的特殊性状有直接关系的基因是(   )",
+        "options": [
+            "A.断裂基因",
+            "B.管家基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.非编码基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 310
+    },
+    {
+        "question_text": "923、对细胞分化起协助作用，维持细胞最低限度的功能所不可缺少的基因是(   )",
+        "options": [
+            "A.断裂基因",
+            "B.管家基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.非编码基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 311
+    },
+    {
+        "question_text": "924、细胞进行正常生理活动必需的基因是(   )",
+        "options": [
+            "A.重叠基因",
+            "B.非编码基因",
+            "C.奢侈基因",
+            "D.编码基因",
+            "E.管家基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 312
+    },
+    {
+        "question_text": "925、只在特定细胞表达的基因是(   )",
+        "options": [
+            "A.调控基因",
+            "B.奢侈基因",
+            "C.持家基因",
+            "D.编码基因",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 313
+    },
+    {
+        "question_text": "926、关于管家蛋白，下列叙述不正确的是(   )",
+        "options": [
+            "A.细胞生命活动所必须的",
+            "B.各类细胞普遍共有的",
+            "C.细胞向特殊类型分化的物质基础",
+            "D.包括核糖体蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 314
+    },
+    {
+        "question_text": "927、细胞分化是由于（   ）中某些或某种基因选择性地表达的结果",
+        "options": [
+            "A.奢侈基因",
+            "B.持家基因",
+            "C.结构基因",
+            "D.转录调控因子基因家族",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 315
+    },
+    {
+        "question_text": "928、细胞分化过程中，基因表达的调节主要是（   ）",
+        "options": [
+            "A.DNA复制水平",
+            "B.转录和翻译水平",
+            "C.翻译水平",
+            "D.翻译后水平",
+            "E.转录水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 316
+    },
+    {
+        "question_text": "929、在胚胎发育中，一部分细胞对临近的细胞产生影响，并诱导这些细胞向特定方向分化的现象称为（   ）",
+        "options": [
+            "A.胚胎诱导",
+            "B.细胞分化",
+            "C.细胞决定",
+            "D.转分化",
+            "E.去分化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 317
+    },
+    {
+        "question_text": "930、胚胎细胞影响另一部分细胞并决定其分化方向是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 318
+    },
+    {
+        "question_text": "931、不同来源的细胞核移植到相同胚层的胞质中都可随胞质形成相应的组织细胞,原因是（   ）",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 319
+    },
+    {
+        "question_text": "932、高度分化的细胞重新分裂,失去原来的结构和功能的现象是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 320
+    },
+    {
+        "question_text": "933、无核受精卵不卵裂或最多无序分裂细胞分化,原因是(   )",
+        "options": [
+            "A.细胞质因素",
+            "B.细胞核因素",
+            "C.胚胎诱导",
+            "D.分化",
+            "E.去分化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 321
+    },
+    {
+        "question_text": "934、对药物的作用相对不敏感的时期是（   ）",
+        "options": [
+            "A.G1期",
+            "B.S期",
+            "C.G2期",
+            "D.M期",
+            "E.G0期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 322
+    },
+    {
+        "question_text": "935、有丝分裂与无丝分裂的主要区别在于后者（   ）",
+        "options": [
+            "A.不经过染色体的变化，无纺锤体出现",
+            "B.经过染色体的变化，有纺锤体出现",
+            "C.遗传物质不能平均分配",
+            "D.细胞核先分裂，核仁后分裂",
+            "E.细胞核和核仁同时分裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 323
+    },
+    {
+        "question_text": "936、细胞分化程度越高，其分裂能力（   ）",
+        "options": [
+            "A.越强",
+            "B.越弱",
+            "C.无变化",
+            "D.无法定论",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 324
+    },
+    {
+        "question_text": "937、机体的发育过程主要以（   ）为基础",
+        "options": [
+            "A.细胞的增殖",
+            "B.细胞的生长",
+            "C.细胞的分化",
+            "D.细胞的增殖和细胞的分化",
+            "E.细胞的分裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 325
+    },
+    {
+        "question_text": "938、下列哪项不是恶性肿瘤细胞的基本特征（   ）",
+        "options": [
+            "A.无限增殖",
+            "B.迁移能力强",
+            "C.失去接触抑制",
+            "D.体外培养的恶性肿瘤细胞汇合成层即不再生长",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 326
+    },
+    {
+        "question_text": "939、下列哪项不是良性肿瘤细胞的基本特征（   ）",
+        "options": [
+            "A.很少侵袭和转移",
+            "B.有包膜，边界清楚",
+            "C.常通过血液发生骨转移",
+            "D.生长较缓慢",
+            "E.对机体危害一般不大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 327
+    },
+    {
+        "question_text": "940、下列哪项不是恶性肿瘤细胞的基本形态特征（   ）",
+        "options": [
+            "A.肌动蛋白丝减少",
+            "B.微管变短",
+            "C.核分裂相多见",
+            "D.核质比显著高于正常细胞",
+            "E.形态特征与其来源细胞完全相同"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 328
+    },
+    {
+        "question_text": "941、对于恶性肿瘤细胞的迁移能力变化及相关的形态学变化的描述中，下列哪项正确（   ）",
+        "options": [
+            "A.细胞迁移能力增强而粘附能力减弱",
+            "B.细胞粘附能力显著增强",
+            "C.细胞骨架组装正常",
+            "D.细胞迁移能力显著减弱",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 329
+    },
+    {
+        "question_text": "942、下列哪项不是恶性肿瘤细胞的基本生物化学特征（   ）",
+        "options": [
+            "A.细胞膜表面的纤连蛋白表达量显著降低",
+            "B.线粒体功能障碍，主要依靠糖酵解获取能量",
+            "C.蛋白合成能力显著降低",
+            "D.端粒酶活性相对于正常细胞明显升高",
+            "E.糖链缩短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 330
+    },
+    {
+        "question_text": "943、正常时,形成100个精子所需要的初级精母细胞数为（   ）",
+        "options": [
+            "A.50",
+            "B.100",
+            "C.25",
+            "D.400",
+            "E.200"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 331
+    },
+    {
+        "question_text": "944、根据已有研究成果，下列哪项不是产生肿瘤细胞的直接诱发因素（   ）",
+        "options": [
+            "A.长期食用富含亚硝酸盐的食品",
+            "B.长期食用含黄曲霉的谷物",
+            "C.长期接触放射性同位素钴60",
+            "D.在切尔诺贝利核电站核泄露处居住20年",
+            "E.急性上呼吸道感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 332
+    },
+    {
+        "question_text": "945、根据当前研究成果，假定其余条件不变时，下列哪项因素可能导致肿瘤细胞的产生（   ）",
+        "options": [
+            "A.癌基因的过度失活",
+            "B.抑癌基因的过度激活",
+            "C.抗凋亡基因的过度激活",
+            "D.促凋亡基因的过度激活",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 333
+    },
+    {
+        "question_text": "946、甲胎蛋白（AFP）是下列那种恶性肿瘤的最特异、最灵敏的肿瘤标志物？（   ）",
+        "options": [
+            "A.前列腺癌",
+            "B.乳腺癌",
+            "C.原发性肺癌",
+            "D.原发性肝癌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 334
+    },
+    {
+        "question_text": "947、癌胚抗原(CEA)是下列哪一种恶性肿瘤的标志物？（   ）",
+        "options": [
+            "A.前列腺癌",
+            "B.乳腺癌",
+            "C.消化道肿瘤如胃癌",
+            "D.神经胶质瘤",
+            "E.皮肤癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 335
+    },
+    {
+        "question_text": "948、对于恶性肿瘤细胞周期的描述，下列哪项是错误的（   ）",
+        "options": [
+            "A.癌基因的激活可导致细胞越过限制点",
+            "B.抑癌基因的失活可能导致细胞通过限制点",
+            "C.细胞周期素－细胞周期素依赖性激酶（cyclin-CKK）可能过度激活",
+            "D.CDK抑制因子（CKI）可能失活",
+            "E.恶性肿瘤细胞增殖周期远短于同一来源的正常细胞周期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 336
+    },
+    {
+        "question_text": "949、动物受精卵的早期分裂是（   ）",
+        "options": [
+            "A.无丝分裂",
+            "B.有丝分裂",
+            "C.减数分裂",
+            "D.无丝分裂和减数分裂均有",
+            "E.无丝分裂和有丝分裂均有"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 337
+    },
+    {
+        "question_text": "950、有丝分裂和减数分裂相同点是（   ）",
+        "options": [
+            "A.有DNA的复制",
+            "B.有染色体的联会",
+            "C.有同源染色体的分离",
+            "D.联会的染色体之间可形成交叉",
+            "E.细胞中染色体数目不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 338
+    },
+    {
+        "question_text": "951、细胞的分化方向决定于（   ）",
+        "options": [
+            "A.受精卵",
+            "B.8细胞时期",
+            "C.卵裂期",
+            "D.桑葚胚",
+            "E.中、内、外胚层形成后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 339
+    },
+    {
+        "question_text": "952、DNA受损伤,P53将细胞阻滞在G1期的机制是（   ）",
+        "options": [
+            "A.通过P21基因作用于周期蛋白",
+            "B.通过抑制P21基因的启动",
+            "C.P53蛋白直接作用于周期蛋白",
+            "D.P53与P21共同作用于周期蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 340
+    },
+    {
+        "question_text": "953、在有丝分裂中，（   ）",
+        "options": [
+            "A.细胞周期长短主要由S期长短决定",
+            "B.这个时期对不利条件敏感导致G1期阻滞",
+            "C.S期的长短与染色体的倍数有关",
+            "D.G1期是M期物质准备阶段",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 341
+    },
+    {
+        "question_text": "954、哺乳动物成熟的红细胞（   ）",
+        "options": [
+            "A.没有细胞核",
+            "B.没有线粒体",
+            "C.永远失去了分裂能力",
+            "D.以上都正确",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 342
+    },
+    {
+        "question_text": "955、T、B淋巴细胞在正常情况下是（    ）",
+        "options": [
+            "A.G0细胞",
+            "B.永不增殖细胞",
+            "C.持续分裂细胞",
+            "D.间期细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 343
+    },
+    {
+        "question_text": "956、下列哪项最好地证明了后期染色体像在一条线上的鱼儿一样被拉向两极（   ）",
+        "options": [
+            "A.动力蛋白与驱动蛋白相关蛋白与着丝粒相连接",
+            "B.纺锤体微管蛋白在着丝粒部位去聚合",
+            "C.微管蛋白的分解决定了染色体运动速率",
+            "D.以上都正确",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 344
+    },
+    {
+        "question_text": "957、细胞分裂的哪个阶段可以观察到孟德尔自由组合定律的证据（   ）",
+        "options": [
+            "A.有丝分裂后期",
+            "B.有丝分裂中期",
+            "C.减数分裂后期Ⅰ",
+            "D.减数分裂后期Ⅱ",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 345
+    },
+    {
+        "question_text": "958、肝细胞具有高度的特化性，但是当肝被破坏或者手术切除其中的一部分，组织仍会生长。那么，肝细胞属于哪一类细胞（   ）",
+        "options": [
+            "A.永久处于G0期的细胞",
+            "B.可以被诱导进入S期的细胞",
+            "C.持续再生的细胞",
+            "D.无法从题目的条件中推出结果",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 346
+    },
+    {
+        "question_text": "959、在细胞间期，（   ）处于一个相对恒定的合成状态，而（   ）仅在S期内合成",
+        "options": [
+            "A.多数的蛋白质，DNA复制酶",
+            "B.组蛋白，DNA复制酶",
+            "C.结构蛋白，功能蛋白",
+            "D.大多数蛋白质，组蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 347
+    },
+    {
+        "question_text": "960、在细胞培养基中加入H-胸腺嘧啶核苷，培养30min，随后取样进行固定及放射自显影，结果发现（   ）",
+        "options": [
+            "A.所有进行有丝分裂的细胞的染色体中都掺入了标记的胸腺嘧啶核苷",
+            "B.所有进行有丝分裂的细胞的染色体中都没有掺入标记的胸腺嘧啶核苷",
+            "C.有的细胞，不论是否进行有丝分裂，其染色体中均掺入标记的胸腺嘧啶核苷",
+            "D.所有的细胞，不论是否进行有丝分裂，其染色体中均没有掺入标记的胸腺嘧啶核苷",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 348
+    },
+    {
+        "question_text": "961、如果将一个处于S期的细胞与一个处于G1期的细胞融合，那么（   ）",
+        "options": [
+            "A.G1期细胞核将会进入S期",
+            "B.S期细胞核将会进入G1期",
+            "C.两个核均进入G2期",
+            "D.两个核均被抑制",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 349
+    },
+    {
+        "question_text": "962、如果将S期细胞和G1期细胞诱导融合，可观察到的现象是（    ）",
+        "options": [
+            "A.G1期细胞启动DNA复制",
+            "B.G1期细胞进入M期",
+            "C.S期细胞停止DNA复制",
+            "D.G1期细胞没有任何变化",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 350
+    },
+    {
+        "question_text": "963、若在显微镜下观察到的某细胞具有核仁，并且核物质与细胞质的界限清晰，则可定此细胞处于细胞的（   ）",
+        "options": [
+            "A.间期",
+            "B.前期",
+            "C.中期",
+            "D.后期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 351
+    },
+    {
+        "question_text": "964、将血清从处于S期的原代细胞的培养液中去除后，细胞将停在（   ）",
+        "options": [
+            "A.S",
+            "B.G2",
+            "C.M",
+            "D.G0",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 352
+    },
+    {
+        "question_text": "965、秋水仙素可抑制纺锤丝形成，从而使细胞分裂停止在（   ）期",
+        "options": [
+            "A.前期",
+            "B.中期",
+            "C.后期",
+            "D.末期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 353
+    },
+    {
+        "question_text": "966、紫杉醇是临床一线化疗药物，其作用机制是（   ），从而抑制有丝分裂，使细胞阻滞于G2/M期，最终导致肿瘤细胞凋亡",
+        "options": [
+            "A.促进微丝聚合",
+            "B.抑制微丝聚合",
+            "C.抑制微管解聚",
+            "D.抑制微管聚合",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 354
+    },
+    {
+        "question_text": "967、在自然条件下，有遗传效应的染色体交换发生在（   ）",
+        "options": [
+            "A.姊妹染色体之间",
+            "B.同源染色体之间",
+            "C.同源染色体的非姊妹染色体之间",
+            "D.非同源染色体的姊妹染色体之间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 355
+    },
+    {
+        "question_text": "968、细胞分裂时纺锤丝的排列方式和染色体移动与下列哪个结构有关（   ）",
+        "options": [
+            "A.中心粒",
+            "B.线粒体",
+            "C.核糖体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 356
+    },
+    {
+        "question_text": "969、受精卵中的中心体由（   ）提供",
+        "options": [
+            "A.精子",
+            "B.卵子",
+            "C.精子卵子各提供一个",
+            "D.精子卵子都不提供",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 357
+    },
+    {
+        "question_text": "970、假设某个细胞G1期的DNA含量为n，则G2期的DNA含量为2n，则S期的DNA含量为（    ）",
+        "options": [
+            "A.n",
+            "B.介于n与2n之间",
+            "C.2n",
+            "D.4n",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 358
+    },
+    {
+        "question_text": "971、癌细胞通常由正常细胞转化而来，与原来的细胞相比，癌细跑的分化程度通常表现为（   ）",
+        "options": [
+            "A.分化程度高",
+            "B.分化程度低",
+            "C.分化程度相同",
+            "D.成为多能干细胞",
+            "E.单能干细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 359
+    },
+    {
+        "question_text": "972、肿瘤细胞常旺盛地进行（   ）",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 360
+    },
+    {
+        "question_text": "973、有丝分裂间期细胞通常进行(   )",
+        "options": [
+            "A.细胞分裂",
+            "B.细胞分化",
+            "C.二者均有",
+            "D.二者均无",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 361
+    },
+    {
+        "question_text": "974、在个体发育过程中，通常是通过（   ）来增加细胞的数目",
+        "options": [
+            "A.细胞分化",
+            "B.细胞分裂",
+            "C.细胞选择",
+            "D.细胞决定",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 362
+    },
+    {
+        "question_text": "975、在个体发育过程中，通常是通过（   ）来增加细胞的类型",
+        "options": [
+            "A.细胞分化",
+            "B.细胞分裂",
+            "C.细胞选择",
+            "D.细胞决定",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 363
+    },
+    {
+        "question_text": "976、机体发生的过程主要是以(   )为基础",
+        "options": [
+            "A.细胞的增殖",
+            "B.细胞的生长",
+            "C.细胞的分化",
+            "D.细胞的增殖与细胞的分化",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 364
+    },
+    {
+        "question_text": "977、多细胞生物的所有不同类型的细胞都是由(   )",
+        "options": [
+            "A.体细胞发育而成",
+            "B.体细胞和生殖细胞二者同时发育而成",
+            "C.生殖细胞发育而成",
+            "D.受精卵发育而成",
+            "E.卵细胞发育而成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 365
+    },
+    {
+        "question_text": "978、下列哪类细胞不具分化能力(   )",
+        "options": [
+            "A.胚胎干细胞",
+            "B.基底细胞",
+            "C.骨髓干细胞",
+            "D.神经细胞",
+            "E.精原细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 366
+    },
+    {
+        "question_text": "979、下述哪种细胞最易分裂\n：",
+        "options": [
+            "A.神经元",
+            "B.心肌细胞",
+            "C.胃肠上皮细胞",
+            "D.脂肪细胞",
+            "E.肝细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 367
+    },
+    {
+        "question_text": "980、对细胞癌基因的说法正确的是(   )",
+        "options": [
+            "A.正常细胞接触致癌因素后形成",
+            "B.存在于正常体细胞中",
+            "C.只存在于肿瘤细胞中",
+            "D.只存在于正常细胞中",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 368
+    },
+    {
+        "question_text": "981、关于细胞分化的叙述，错误的是（   ）",
+        "options": [
+            "A.高度分化的动物体细胞的细胞核保持着全能性",
+            "B.随着细胞分化的进行，细胞中的遗传物质会发生改化",
+            "C.细胞分化贯穿于整个生命过程中",
+            "D.细胞分化使多细胞生物体中的细胞趋向专门化，有利于提高生理功能的效率",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 369
+    },
+    {
+        "question_text": "982、癌细胞的基本特征是（   ）",
+        "options": [
+            "A.细胞分裂速度增快",
+            "B.失去了运动和分裂的接触抑制，所以不能在琼脂中形成克隆",
+            "C.肿瘤抑制基因表达增高",
+            "D.具有侵润性和扩散性",
+            "E.以上答案都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 370
+    },
+    {
+        "question_text": "983、分化程度高的细胞比分化程度低的细胞对于外界因子的反应能力（   ）",
+        "options": [
+            "A.一样",
+            "B.下降",
+            "C.上升",
+            "D.前三者都有可能",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 371
+    },
+    {
+        "question_text": "984、下列哪一种蛋白质或酶最不可能是癌基因（ ）",
+        "options": [
+            "A.GTP 酶",
+            "B.蛋白质磷酸激酶",
+            "C.蛋白质磷酸酶",
+            "D.转录因子",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "372",
+        "number": 372
+    }
+]

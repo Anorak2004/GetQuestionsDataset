@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.精子发生是指",
+        "options": [
+            "A.精子细胞变态形成精子的过程",
+            "B.精原细胞形成精子的过程",
+            "C.初级精母细胞至精子形成的过程",
+            "D.生精细胞的两次成熟分裂过程",
+            "E.精子形成以后到受精的过程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.成人生精小管管壁的生精上皮由以下哪些细胞组成",
+        "options": [
+            "A.支持细胞和生精细胞",
+            "B.支持细胞和间质细胞.",
+            "C.生精细胞和间质细胞",
+            "D.支持细胞和精原细胞",
+            "E.精原细胞和间质细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.睾丸间质细胞属于下列哪类细胞",
+        "options": [
+            "A.分泌粘液的细胞",
+            "B.分泌类固醇激素细胞",
+            "C.分泌蛋白质类激素的细胞",
+            "D.肌上皮细胞",
+            "E.吞噬细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于支持细胞描述下列哪项是错误的",
+        "options": [
+            "A.呈柱状，轮廓清晰",
+            "B.核不规则，浅染，核仁明显",
+            "C.细胞基部位于基膜上，顶部伸至腔面",
+            "D.胞质内细胞器发达",
+            "E.相邻细胞基部侧面有紧密连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.支持细胞的功能哪项是错误的",
+        "options": [
+            "A.对生精细胞有支持.营养.保护等作用",
+            "B.参与精子的释放",
+            "C.吞噬精子形成时脱落的残余胞质",
+            "D.合成雄激素",
+            "E.参与血一睾屏障的形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.睾丸间质细胞的描述下列哪项是错误的",
+        "options": [
+            "A.呈圆形或多边形，成群分布",
+            "B.胞质丰富,嗜酸性",
+            "C.胞质内含分泌颗粒",
+            "D.胞质含滑面内质网,管状嵴线粒体",
+            "E.合成雄激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.睾丸合成和分泌雄激素的细胞是",
+        "options": [
+            "A.支持细胞",
+            "B.生精细胞",
+            "C.精原细胞",
+            "D.间质细胞",
+            "E.精母细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于精子的结构哪项是错误的",
+        "options": [
+            "A.头部主要含有一浓缩的细胞核和顶体",
+            "B.顶体内含有水解酶",
+            "C.主段有轴丝和线粒体鞘",
+            "D.中段有轴丝和线粒体鞘",
+            "E.末段只有轴丝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.血-睾屏障的组成中不含有",
+        "options": [
+            "A.生精上皮基膜外侧的结缔组织",
+            "B.生精上皮基膜",
+            "C.支持细胞基底面细胞膜",
+            "D.血管内皮及其基膜",
+            "E.支持细胞间的紧密连接"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.形成精子顶体的细胞器是",
+        "options": [
+            "A.高尔基复合体",
+            "B.中心体",
+            "C.核糖体",
+            "D.线粒体",
+            "E.粗面内质网"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.睾丸的功能是",
+        "options": [
+            "A.产生精子",
+            "B.产生精子和分泌雄激素",
+            "C.产生精子和分泌雄激素.雌激素",
+            "D.产生精子和分泌雄激素结合蛋白",
+            "E.产生精子细胞和支持细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.生精小管内最先形成的单倍体细胞是",
+        "options": [
+            "A.初级精母细胞",
+            "B.次级精母细胞",
+            "C.精子细胞",
+            "D.精原细胞",
+            "E.精子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

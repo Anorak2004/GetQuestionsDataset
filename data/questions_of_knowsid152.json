@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1.形成咽鼓管和中耳鼓室的咽囊是 。",
+        "options": [
+            "A.第一对",
+            "B.第二对",
+            "C.第三对",
+            "D.第四对",
+            "E.第五对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.参与形成腭扁桃体的咽囊是 。",
+        "options": [
+            "A.第一对",
+            "B.第二对",
+            "C.第三对",
+            "D.第四对",
+            "E.第五对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.以下哪一结构的上皮不是前肠分化而来的？",
+        "options": [
+            "A.胃",
+            "B.肝",
+            "C.肺",
+            "D.横结肠的右2/3",
+            "E.胰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.将泄殖腔分割为直肠肛管和尿生殖窦的结构是：",
+        "options": [
+            "A.尿直肠隔",
+            "B.尿囊",
+            "C.泄殖腔膜",
+            "D.肛膜",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.以下哪一部分不是背胰形成的：",
+        "options": [
+            "A.胰头上部",
+            "B.胰头下部",
+            "C.胰体",
+            "D.胰尾",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.炎症时易于阑尾炎混淆的先天畸形是 。",
+        "options": [
+            "A.先天性脐疝",
+            "B.先天性巨结肠",
+            "C.肠狭窄",
+            "D.回肠憩室",
+            "E.脐痿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.肝憩室的头支形成：",
+        "options": [
+            "A.肝的原基",
+            "B.胆囊的原基",
+            "C.背胰的原基",
+            "D.腹胰的原基",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于肠发生，以下哪项是错误的。",
+        "options": [
+            "A.由胃以下的原始消化管分化形成",
+            "B.肠祥最初为“U”型，称中肠袢",
+            "C.中肠祥的顶端连于卵黄囊",
+            "D.中肠祥近卵黄蒂处形成盲肠突。",
+            "E.肠上皮来自于内胚层。"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

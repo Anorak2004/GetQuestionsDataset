@@ -1,0 +1,3747 @@
+[
+    {
+        "question_text": "84、普通光镜下能见到的结构是（     ）",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.中心粒",
+            "E.核纤层"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 1
+    },
+    {
+        "question_text": "85、光学显微镜观察切片的厚度一般不应超过 （     ）",
+        "options": [
+            "A.2μm",
+            "B.4μm",
+            "C.6μm",
+            "D.8μm",
+            "E.10μm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 2
+    },
+    {
+        "question_text": "86、光学显微镜有几部分组成 （     ）",
+        "options": [
+            "A.2部分",
+            "B.3部分",
+            "C.4部分",
+            "D.5部分",
+            "E.6部分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 3
+    },
+    {
+        "question_text": "87、用可见光做光源，光镜的分辨率是 （     ）",
+        "options": [
+            "A.0.1μm",
+            "B.0.2μm",
+            "C.0.3μm",
+            "D.0.4μm",
+            "E.0.5μm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 4
+    },
+    {
+        "question_text": "88、提高显微镜的分辨率最好的办法是（     ）",
+        "options": [
+            "A.增加放大倍数",
+            "B.缩短光的波长",
+            "C.增加光的波长",
+            "D.给标本染色",
+            "E.增加光的亮度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 5
+    },
+    {
+        "question_text": "89、用于观察和研究细胞三维结构的仪器是 （     ）",
+        "options": [
+            "A.透射电子显微镜",
+            "B.相差显微镜",
+            "C.扫描电子显微镜",
+            "D.暗视野显微镜",
+            "E.荧光显微镜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 6
+    },
+    {
+        "question_text": "90、在光学显微镜下所观察到的组织或细胞结构一般称为 （     ）",
+        "options": [
+            "A.显微结构",
+            "B.超微结构",
+            "C.亚显微结构",
+            "D.分子结构",
+            "E.微细结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 7
+    },
+    {
+        "question_text": "91、以紫外线为光源，激发生物标本中的荧光物质产生能观察到的荧光的光镜是 （     ）",
+        "options": [
+            "A.荧光显微镜",
+            "B.相差显微镜",
+            "C.普通显微镜",
+            "D.暗视野显微镜",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 8
+    },
+    {
+        "question_text": "92、用于观察无色透明的活细胞结构的显微镜是（ ）",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.偏光显微镜",
+            "D.相差显微镜",
+            ""
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 9
+    },
+    {
+        "question_text": "93、在普通光镜下可以观察到的细胞结构是 （     ）",
+        "options": [
+            "A.核孔",
+            "B.核仁",
+            "C.微管",
+            "D.核糖体",
+            "E.微丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 10
+    },
+    {
+        "question_text": "94、改变显微镜分辨率的关键是（     ）",
+        "options": [
+            "A.目镜",
+            "B.放大倍数",
+            "C.光源的波长",
+            "D.机械装置",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 11
+    },
+    {
+        "question_text": "95、普通光学显微镜分辨能力 （     ）",
+        "options": [
+            "A.0.2微米",
+            "B.0.4微米",
+            "C.0.6微米",
+            "D.0.8微米",
+            "E.1.0微米"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 12
+    },
+    {
+        "question_text": "96、一般显微镜的分辨力数值约为0.2μm，人眼在25cm处的分辨力是0.2mm，所以一般显微镜设计的最高放大倍率为（     ）",
+        "options": [
+            "A.2000X",
+            "B.1000X",
+            "C.100X",
+            "D.200X",
+            "E.4OOX"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 13
+    },
+    {
+        "question_text": "97、下列显微镜中，可以对活细胞进行观察的是（     ）",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.相差显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 14
+    },
+    {
+        "question_text": "98、下列显微镜中，可以用于细胞工程中显微操作的是（     ）",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.微分干涉显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 15
+    },
+    {
+        "question_text": "99、下列显微镜中，用于荧光染料标记细胞结构后观察的是（     ）",
+        "options": [
+            "A.荧光显微镜",
+            "B.普通光学显微镜",
+            "C.相差显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 16
+    },
+    {
+        "question_text": "100、相差显微镜是将相位差转变成（     ）",
+        "options": [
+            "A.明暗差",
+            "B.焦距差",
+            "C.景深差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 17
+    },
+    {
+        "question_text": "101、用于观察无色透明的活细胞结构的显微镜是：",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.偏光显微镜",
+            "D.相差显微镜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 18
+    },
+    {
+        "question_text": "102、微分干涉显微镜的光源采用（ ）",
+        "options": [
+            "A.日光",
+            "B.荧光",
+            "C.激光",
+            "D.偏振光",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 19
+    },
+    {
+        "question_text": "103、微粉干涉显微镜由于使用（     ），从而降低光噪声，其图像质量明显高于相差显微镜。",
+        "options": [
+            "A.日光",
+            "B.荧光",
+            "C.激光",
+            "D.偏振光",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 20
+    },
+    {
+        "question_text": "104、微粉干涉显微镜是将（     ）转变成明暗差",
+        "options": [
+            "A.景深差",
+            "B.焦距差",
+            "C.相位差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 21
+    },
+    {
+        "question_text": "105、微粉干涉显微镜是将（     ）转变成振幅差",
+        "options": [
+            "A.焦距差",
+            "B.景深差",
+            "C.光程差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 22
+    },
+    {
+        "question_text": "106、暗视野显微镜具有很高的分辨率，可以达到（     ）",
+        "options": [
+            "A.0.4nm",
+            "B.4nm",
+            "C.40nm",
+            "D.400nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 23
+    },
+    {
+        "question_text": "107、下列属于激光共聚焦显微镜的用途的是（     ）",
+        "options": [
+            "A.荧光检测",
+            "B.扩增DNA片段",
+            "C.分离蛋白质",
+            "D.基因替换",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 24
+    },
+    {
+        "question_text": "108、下列属于激光共聚焦显微镜的用途的是（ ）",
+        "options": [
+            "A.检测",
+            "B.三维结构重建",
+            "C.分离蛋白质",
+            "D.基因替换"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 25
+    },
+    {
+        "question_text": "109、下列属于激光共聚焦显微镜的用途的是（ ）",
+        "options": [
+            "A.检测",
+            "B.扩增DNA片段",
+            "C.显微操作",
+            "D.基因替换"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 26
+    },
+    {
+        "question_text": "110、下列属于激光共聚焦显微镜的用途的是（ ）",
+        "options": [
+            "A.检测",
+            "B.扩增DNA片段",
+            "C.分离蛋白质",
+            "D.定点破坏细胞内结构",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 27
+    },
+    {
+        "question_text": "111、以下内容不属于荧光显微镜的结构的是（     ）",
+        "options": [
+            "A.光源系统",
+            "B.滤色系统",
+            "C.电极系统",
+            "D.成像系统",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 28
+    },
+    {
+        "question_text": "112、电子显微镜使用（     ）替代光学显微镜的聚光镜、目镜和物镜",
+        "options": [
+            "A.电极",
+            "B.滤色片",
+            "C.气压",
+            "D.液压",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 29
+    },
+    {
+        "question_text": "113、电子显微镜使用（     ）替代光学显微镜的聚光镜、目镜和物镜",
+        "options": [
+            "A.气压",
+            "B.液压",
+            "C.磁极",
+            "D.滤色片",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 30
+    },
+    {
+        "question_text": "114、扫面电镜能够获得细胞的精细的（     ）三维形态结构",
+        "options": [
+            "A.垂直方向",
+            "B.水平方向",
+            "C.表面",
+            "D.内部",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 31
+    },
+    {
+        "question_text": "115、高压电镜的样品穿透能力强，观察样本的厚度可以达到（     ）",
+        "options": [
+            "A.0.1um",
+            "B.1um",
+            "C.10um",
+            "D.100um",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 32
+    },
+    {
+        "question_text": "116、扫面隧道显微镜检测的是（     ）",
+        "options": [
+            "A.偏置电流",
+            "B.偏置电压",
+            "C.隧道电压",
+            "D.隧道电流",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 33
+    },
+    {
+        "question_text": "117、扫描隧道显微镜的应用前提是样品表面一定要有（     ）",
+        "options": [
+            "A.导电性",
+            "B.亲水性",
+            "C.导热性",
+            "D.疏水性",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 34
+    },
+    {
+        "question_text": "118、原子力显微镜的应用前提是否必须要求样品表面具有导电性（     ）",
+        "options": [
+            "A.是",
+            "B.否",
+            "C.不影响",
+            "D.随机",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 35
+    },
+    {
+        "question_text": "119、研究组织或细胞亚显微结构的主要技术是 （     ）",
+        "options": [
+            "A.离心技术",
+            "B.电泳技术",
+            "C.电镜技术",
+            "D.光镜技术",
+            "E.层析技术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 36
+    },
+    {
+        "question_text": "120、电子显微镜的发明标志着对细胞的研究进入（     ）",
+        "options": [
+            "A.细胞水平",
+            "B.亚细胞水平",
+            "C.分子水平",
+            "D.结构水平",
+            "E.整体水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 37
+    },
+    {
+        "question_text": "121、电镜的分辨率可达（ ）",
+        "options": [
+            "A.0.1nm",
+            "B.0.4nm",
+            "C.0.6nm",
+            "D.0.8nm",
+            "E.1nm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 38
+    },
+    {
+        "question_text": "122、目前最好的透射电镜能将物体放大多少倍？",
+        "options": [
+            "A.40万",
+            "B.60万",
+            "C.80万",
+            "D.100万",
+            "E.120万"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 39
+    },
+    {
+        "question_text": "123、研究细胞的超微结构一般要利用下列哪种技术 （     ）",
+        "options": [
+            "A.光学显微镜技术",
+            "B.电子显微镜技术",
+            "C.X射线衍射技术",
+            "D.离心技术",
+            "E.电泳技术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 40
+    },
+    {
+        "question_text": "124、以下关于透射电镜（TM）的描述，哪一条不正确 （     ）",
+        "options": [
+            "A.分辨力为0.1-0.3nm",
+            "B.采用电子束照明",
+            "C.镜筒内为真空环境",
+            "D.用来观察样品的表面结构",
+            "E.可观察对象放大100万倍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 41
+    },
+    {
+        "question_text": "125、冷冻蚀刻技术是（     ）样品制备的一种方法。",
+        "options": [
+            "A.普通光镜",
+            "B.透射电镜",
+            "C.暗视野显微镜",
+            "D.相差显微镜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 42
+    },
+    {
+        "question_text": "126、流式细胞术可用于测定 （     ）",
+        "options": [
+            "A.细胞的大小和特定细胞类群的数量",
+            "B.分选出特定的细胞器",
+            "C.细胞中DNA，RNA或某种蛋白的含量",
+            "D.细胞的形态",
+            "E.以上四种功能都有"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 43
+    },
+    {
+        "question_text": "127、要得到实验用的活细胞，需要下述哪种技术 （     ）",
+        "options": [
+            "A.电镜染色技术",
+            "B.放射自显影技术",
+            "C.免疫荧光技术",
+            "D.酶细胞化学技术",
+            "E.细胞培养技术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 44
+    },
+    {
+        "question_text": "128、直接取材于机体组织的细胞培养称为",
+        "options": [
+            "A.细胞培养",
+            "B.原代培养",
+            "C.传代培养",
+            "D.细胞克隆",
+            "E.细胞融合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 45
+    },
+    {
+        "question_text": "129、群体倍增时间越短，表明细胞的增殖速度（     ）",
+        "options": [
+            "A.越快",
+            "B.越慢",
+            "C.维持不变",
+            "D.无关",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 46
+    },
+    {
+        "question_text": "130、如果一种细胞在体外不能传代，或者只能传少数几代，就可以将其称为（     ）",
+        "options": [
+            "A.有限性细胞系",
+            "B.永生性细胞系",
+            "C.转化性细胞系",
+            "D.细胞株",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 47
+    },
+    {
+        "question_text": "131、如果一种细胞在体外能无限的传代，永远的活下去，就可以将其称为（     ）",
+        "options": [
+            "A.有限性细胞系",
+            "B.永生性细胞系",
+            "C.转化性细胞系",
+            "D.细胞株",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 48
+    },
+    {
+        "question_text": "132、有关体外培养细胞，下列说法不正确的是（     ）",
+        "options": [
+            "A.可根据需要人为地建立培养条件，来观察和研究细胞生命活动的规律",
+            "B.通过传代培养可获得研究所需要的细胞量",
+            "C.可摆脱活体组织的复杂背景",
+            "D.可获得与其在活体组织中完全相同的实验结果",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 49
+    },
+    {
+        "question_text": "133、处于连续分裂状态的细胞，在两次分裂之间的间隔时间是（     ）",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂时间",
+            "C.DNA复制时间",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 50
+    },
+    {
+        "question_text": "134、一个细胞系或细胞株从体外生长开始，能够发生群体倍增的总次数是指",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂水平",
+            "C.细胞倍增水平",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 51
+    },
+    {
+        "question_text": "135、由起始实验材料所进行的细胞培养叫（     ）",
+        "options": [
+            "A.原位培养",
+            "B.三维培养",
+            "C.传代培养",
+            "D.原代培养",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 52
+    },
+    {
+        "question_text": "136、对已有细胞进行的继续培养叫（     ）",
+        "options": [
+            "A.原位培养",
+            "B.三维培养",
+            "C.传代培养",
+            "D.原代培养",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 53
+    },
+    {
+        "question_text": "137、下面描述不属于永生性细胞系产生来源的是（     ）",
+        "options": [
+            "A.通过自然转化而来",
+            "B.肿瘤细胞",
+            "C.人工转化而来",
+            "D.正常的上皮细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 54
+    },
+    {
+        "question_text": "138、由单一类型的细胞所组成的细胞系称为（     ）",
+        "options": [
+            "A.细胞株",
+            "B.有限性细胞系",
+            "C.永生性细胞系",
+            "D.转化性细胞系",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 55
+    },
+    {
+        "question_text": "139、处于对数生长期的细胞群体，当它的细胞数量增加一倍所需要的时间称为",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂水平",
+            "C.细胞倍增时间",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 56
+    },
+    {
+        "question_text": "140、相差显微镜是将光程差转变成（     ）",
+        "options": [
+            "A.焦距差",
+            "B.景深差",
+            "C.色差",
+            "D.振幅差",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 57
+    },
+    {
+        "question_text": "141、促进细胞融合的物质为（     ）",
+        "options": [
+            "A.丙三醇",
+            "B.秋水仙素",
+            "C.聚乙二醇",
+            "D.无水乙醇",
+            "E.75%乙醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 58
+    },
+    {
+        "question_text": "142、细胞融合又称（     ）",
+        "options": [
+            "A.体细胞培养",
+            "B.细胞并合工程",
+            "C.细胞拆合工程",
+            "D.DNA重组",
+            "E.染色体操作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 59
+    },
+    {
+        "question_text": "143、下列哪些物质能促进细胞之间发生融合（     ）",
+        "options": [
+            "A.聚乙二醇",
+            "B.细胞松弛素",
+            "C.鬼笔环肽",
+            "D.秋水仙素",
+            "E.长春花碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 60
+    },
+    {
+        "question_text": "144、在制备单克隆抗体的过程中，使得与骨髓瘤细胞发生融合的细胞是（     ）",
+        "options": [
+            "A.B淋巴细胞",
+            "B.T淋巴细胞",
+            "C.巨噬细胞",
+            "D.粒细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 61
+    },
+    {
+        "question_text": "145、如果两个不同的细胞融合到了一起，但其核仍然是分开的，这种细胞就叫做（     ）",
+        "options": [
+            "A.合核体",
+            "B.异核体",
+            "C.单倍体",
+            "D.干细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 62
+    },
+    {
+        "question_text": "146、如果两个不同的细胞融合到了一起，在最初的一次分裂中，两个核的核膜消失，其染色体合并到一起，形成一个大核细胞，这种细胞被称为（ ）",
+        "options": [
+            "A.融核体",
+            "B.异核体",
+            "C.单倍体",
+            "D.干细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 63
+    },
+    {
+        "question_text": "147、分离细胞内不同细胞器的主要技术是 （     ）",
+        "options": [
+            "A.离心技术",
+            "B.电泳技术",
+            "C.层析技术",
+            "D.光镜技术",
+            "E.电镜技术"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 64
+    },
+    {
+        "question_text": "148、在差速离心中最先沉降的细胞器是（     ）",
+        "options": [
+            "A.线粒体",
+            "B.溶酶体",
+            "C.核",
+            "D.过氧化物酶体",
+            "E.内质网"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 65
+    },
+    {
+        "question_text": "149、下面描述不属于密度梯度离心的是（     ）",
+        "options": [
+            "A.溶液介质本身不会形成密度梯度",
+            "B.细胞各组分按照密度分离",
+            "C.离心速度恒定",
+            "D.大分子量组分位于离心管底部",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 66
+    },
+    {
+        "question_text": "150、以下不属于细胞破碎的方法是（     ）",
+        "options": [
+            "A.低渗裂解",
+            "B.超声粉碎",
+            "C.机械研磨",
+            "D.等渗液置换",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 67
+    },
+    {
+        "question_text": "151、差速离心技术通过选择不同的（     ）从而分离特定的细胞组分",
+        "options": [
+            "A.离心力",
+            "B.温度",
+            "C.pH",
+            "D.压强",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 68
+    },
+    {
+        "question_text": "152、密度梯度离心技术使用（     ）作为介质形成密度梯度",
+        "options": [
+            "A.氯化铯",
+            "B.水",
+            "C.乙醇",
+            "D.丙酮",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 69
+    },
+    {
+        "question_text": "153、人工制备密度梯度时，使用蔗糖溶液，比重大的层面位于离心管的（     ）",
+        "options": [
+            "A.顶部",
+            "B.中间",
+            "C.底部",
+            "D.随机分布",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 70
+    },
+    {
+        "question_text": "154、常见的蛋白质层析技术不包括以下（     ）",
+        "options": [
+            "A.离子交换",
+            "B.疏水",
+            "C.PCR",
+            "D.亲和",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 71
+    },
+    {
+        "question_text": "155、离子交换层析是依靠填充物将溶液中的蛋白质按其（     ）差异分开",
+        "options": [
+            "A.电荷",
+            "B.分子量",
+            "C.抗原",
+            "D.等电点",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 72
+    },
+    {
+        "question_text": "156、疏水层析是依靠填充物的（     ）将蛋白质按其疏水性的强弱分开",
+        "options": [
+            "A.亲和基团",
+            "B.电荷",
+            "C.分子量",
+            "D.疏水基团",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 73
+    },
+    {
+        "question_text": "157、分子筛层析是利用填充物的孔径将蛋白质按照（     ）大小分开",
+        "options": [
+            "A.电荷",
+            "B.分子量",
+            "C.亲和部位",
+            "D.疏水部位",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 74
+    },
+    {
+        "question_text": "158、亲和层析是依靠填充物的（     ）将蛋白质选择性的分离",
+        "options": [
+            "A.孔径",
+            "B.电荷",
+            "C.配体",
+            "D.分子量",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 75
+    },
+    {
+        "question_text": "159、HPLC需要一个特殊的（     ）系统，因此能迫使溶液快速地通过柱子",
+        "options": [
+            "A.孔径",
+            "B.电荷",
+            "C.配体",
+            "D.高压泵",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 76
+    },
+    {
+        "question_text": "160、下面描述不属于双向电泳的是",
+        "options": [
+            "A.等电聚焦",
+            "B.SDS-PAGE",
+            "C.Coomassie染色",
+            "D.Western Blot",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 77
+    },
+    {
+        "question_text": "161、在电场中，蛋白质的迁移率与下列哪一项无关？",
+        "options": [
+            "A.蛋白质大小",
+            "B.蛋白质序列",
+            "C.蛋白质电荷",
+            "D.蛋白质空间结构",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 78
+    },
+    {
+        "question_text": "162、在SDS-PAGE凝胶电泳中使用的蛋白质变性剂属于（     ）",
+        "options": [
+            "A.阴离子去垢剂",
+            "B.阳离子去垢剂",
+            "C.碱性去垢剂",
+            "D.酸性去垢剂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 79
+    },
+    {
+        "question_text": "163、在SDS-PAGE凝胶电泳中，蛋白质的运动方向是（ ）",
+        "options": [
+            "A.正极",
+            "B.负极",
+            "C.随机",
+            "D.静止",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 80
+    },
+    {
+        "question_text": "164、在SDS-PAGE凝胶电泳中，蛋白质的迁移率取决于（     ）",
+        "options": [
+            "A.组织分布",
+            "B.种属",
+            "C.分子量",
+            "D.空间结构",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 81
+    },
+    {
+        "question_text": "165、双向点用的第一步电泳是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.亲和层析",
+            "C.等电聚焦",
+            "D.SDS-PAGE",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 82
+    },
+    {
+        "question_text": "166、双向点用的第二步电泳是（ ）",
+        "options": [
+            "A.分子筛层析",
+            "B.亲和层析",
+            "C.等电聚焦",
+            "D.SDS-PAGE"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 83
+    },
+    {
+        "question_text": "167、双向电泳利用了蛋白质的分子大小和（     ）特性，具有很高的分辨率。",
+        "options": [
+            "A.种属",
+            "B.电荷",
+            "C.组织分布",
+            "D.免疫",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 84
+    },
+    {
+        "question_text": "168、mRNA的分离操作前提是抑制（     ）",
+        "options": [
+            "A.DNA酶",
+            "B.RNA酶",
+            "C.乳酸脱氢酶",
+            "D.苹果酸脱氢酶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 85
+    },
+    {
+        "question_text": "169、RNA提取实验中mRNA可以沉淀于",
+        "options": [
+            "A.水",
+            "B.三氯甲烷",
+            "C.DEPC",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 86
+    },
+    {
+        "question_text": "170、RNA分析的主要目的是了解特定细胞中某个mRNA的表达水平，采用的方法不包括（     ）",
+        "options": [
+            "A.PCR",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.测序",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 87
+    },
+    {
+        "question_text": "171、从总RNA中分离mRNA需要利用带有ploy T的柱子结合样品的（ ）",
+        "options": [
+            "A.启动子",
+            "B.增强子",
+            "C.CpG island",
+            "D.poly A"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 88
+    },
+    {
+        "question_text": "172、细胞内DNA或RNA的定性测试通常采用的技术是（     ）",
+        "options": [
+            "A.普通光镜技术",
+            "B.普通电镜技术",
+            "C.细胞培养技术",
+            "D.细胞融合技术",
+            "E.细胞化学技术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 89
+    },
+    {
+        "question_text": "173、DNA提取实验中mRNA可以沉淀于（     ）",
+        "options": [
+            "A.水",
+            "B.三氯甲烷",
+            "C.DEPC",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 90
+    },
+    {
+        "question_text": "174、DNA分析的主要目的是认识与细胞某一特定生命活动相关基因的结构和功能，采用的方法不包括（     ）",
+        "options": [
+            "A.PCR",
+            "B.Northern blot",
+            "C.Southern blot",
+            "D.测序",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 91
+    },
+    {
+        "question_text": "175、单细胞分析指在单个细胞水平上通过对（     ）的结构或其表达谱的分析实现对其细胞生物学特性认识的技术体系",
+        "options": [
+            "A.基因组",
+            "B.蛋白组",
+            "C.细胞器",
+            "D.细胞核",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 92
+    },
+    {
+        "question_text": "176、单细胞分析技术的建立需要两个必要条件，即扩增技术和（     ）",
+        "options": [
+            "A.电泳技术",
+            "B.离心技术",
+            "C.培养技术",
+            "D.测序技术",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 93
+    },
+    {
+        "question_text": "177、若要了解核酸和细胞周期的关系，可以使用（     ）充当DNA合成的前提物质",
+        "options": [
+            "A.3H胸腺嘧啶",
+            "B.3H半乳糖",
+            "C.3H甘露糖",
+            "D.3H赖氨酸",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 94
+    },
+    {
+        "question_text": "178、若要了解细胞中染色体DNA切除修复的情况，可以使用（     ）掺入修复的染色体中",
+        "options": [
+            "A.3H赖氨酸",
+            "B.3H半乳糖",
+            "C.3H甘露糖",
+            "D.3H胸腺嘧啶",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 95
+    },
+    {
+        "question_text": "179、若要了解某一状态的细胞中RNA的合成情况，可以使用（     ）加入细胞培养液中",
+        "options": [
+            "A.3H赖氨酸",
+            "B.3H尿嘧啶",
+            "C.3H甘露糖",
+            "D.3H胸腺嘧啶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 96
+    },
+    {
+        "question_text": "180、若要了解分泌蛋白在内质网上合成后的运输途径，可以使用（     ）标记追踪。",
+        "options": [
+            "A.3H胸腺嘧啶",
+            "B.3H亮氨酸",
+            "C.3H尿嘧啶",
+            "D.3H赖氨酸",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 97
+    },
+    {
+        "question_text": "181、膜片钳技术分析的是（     ）的特定离子通道的离子运动情况",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 98
+    },
+    {
+        "question_text": "182、微电极技术测量离子浓度时只能对（     ）进行操作",
+        "options": [
+            "A.单个细胞",
+            "B.群体细胞",
+            "C.局部组织",
+            "D.细胞外基质",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 99
+    },
+    {
+        "question_text": "183、发光指示剂测定细胞内部的离子浓度的最大优点是可以对（     ）进行同步检测",
+        "options": [
+            "A.单个细胞",
+            "B.群体细胞",
+            "C.局部组织",
+            "D.细胞外基质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 100
+    },
+    {
+        "question_text": "184、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.显微注射法",
+            "B.分子筛层析",
+            "C.Western blot",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 101
+    },
+    {
+        "question_text": "185、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.直接扩散法",
+            "C.Western blot",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 102
+    },
+    {
+        "question_text": "186、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.Western blot",
+            "C.膜泡介导法",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 103
+    },
+    {
+        "question_text": "187、要探知细胞内某一蛋白质的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 104
+    },
+    {
+        "question_text": "188、要探知细胞内某一DNA的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 105
+    },
+    {
+        "question_text": "189、要探知细胞内某一RNA的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 106
+    },
+    {
+        "question_text": "190、要探知细胞内某一DNA的空间分布，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 107
+    },
+    {
+        "question_text": "191、要探知细胞内某一蛋白质的表达水平，可以通过（   ）实现",
+        "options": [
+            "A.Southern  blot",
+            "B.Northern  blot",
+            "C.Western  blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 108
+    },
+    {
+        "question_text": "192、荧光物质PKH26或放射性核素标记物主要用于植入细胞的（     ）行为分析",
+        "options": [
+            "A.长期",
+            "B.短期",
+            "C.永久",
+            "D.以上三种",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 109
+    },
+    {
+        "question_text": "193、GFP基因或LacZ基因表达载体转染细胞后经过筛选主要用于植入细胞的（     ）行为追踪分析",
+        "options": [
+            "A.长期",
+            "B.短期",
+            "C.永久",
+            "D.以上三种",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 110
+    },
+    {
+        "question_text": "194、细胞活体内移植的受体动物一般采用（     ）小鼠",
+        "options": [
+            "A.普通",
+            "B.封闭系",
+            "C.杂合系",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 111
+    },
+    {
+        "question_text": "195、活体内植入细胞的行为分析内容不包括（     ）",
+        "options": [
+            "A.细胞是否真正植入了相应组织器官",
+            "B.细胞是否具有相应的生物学功能",
+            "C.植入细胞在组织器官中的稳定性",
+            "D.植入细胞是否进入细胞周期",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 112
+    },
+    {
+        "question_text": "196、转基因小鼠是在（     ）插入特定的外源基因",
+        "options": [
+            "A.细胞外基质",
+            "B.内质网",
+            "C.染色体DNA",
+            "D.细胞膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 113
+    },
+    {
+        "question_text": "197、以实验的方法在小鼠的染色体DNA中插入特定的外源基因是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 114
+    },
+    {
+        "question_text": "198、以实验的方法在小鼠的基因组中定点突变某一个基因是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 115
+    },
+    {
+        "question_text": "199、以实验的方法在小鼠的某一个基因的下游插入一个基因的编码区是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 116
+    },
+    {
+        "question_text": "200、在观察牛脊神经节切片时，当转动细调节器时，不管如何调节总是有一部分细胞看得很清晰，另一部分细胞较模糊。这是由于（ ）。（实验）",
+        "options": [
+            "A.反光镜未调节好",
+            "B.标本切得厚薄不均",
+            "C.细准焦螺旋未调好",
+            "D.显微镜物镜损坏",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 117
+    },
+    {
+        "question_text": "201、在洋葱表皮细胞临时制片的实验中，为了将细胞内除细胞骨架以外的蛋白质溶解，采用（     ）对洋葱内表皮进行处理。",
+        "options": [
+            "A.tritonX-100",
+            "B.M-缓冲液",
+            "C.考马斯亮兰",
+            "D.戊二醛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 118
+    },
+    {
+        "question_text": "202、以下哪种细胞没有核结构（     ）。（实验）",
+        "options": [
+            "A.平滑肌细胞",
+            "B.神经细胞",
+            "C.脂肪细胞",
+            "D.人血细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 119
+    },
+    {
+        "question_text": "203、下列细胞中，哪种细胞的细胞核不在细胞中央（     ）。 （实验）",
+        "options": [
+            "A.脊神经节细胞",
+            "B.神经细胞",
+            "C.脂肪细胞",
+            "D.平滑肌细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 120
+    },
+    {
+        "question_text": "204、在《酸性蛋白和碱性蛋白分布》的实验中，酸性和碱性蛋白应分别染色在（     ）。 （实验）",
+        "options": [
+            "A.酸性蛋白在细胞浆，碱性蛋白在细胞核",
+            "B.均在细胞浆",
+            "C.碱性蛋白在细胞浆，酸性蛋白在细胞核",
+            "D.均在细胞核",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 121
+    },
+    {
+        "question_text": "205、蛙血细胞的细胞核呈（     ）",
+        "options": [
+            "A.圆形",
+            "B.椭圆形",
+            "C.菱形",
+            "D.梭形",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 122
+    },
+    {
+        "question_text": "206、成熟的人血细胞的细胞核呈（     ）",
+        "options": [
+            "A.圆形",
+            "B.椭圆形",
+            "C.菱形",
+            "D.无",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 123
+    },
+    {
+        "question_text": "207、牛脊髓涂片观察的细胞属于（     ）",
+        "options": [
+            "A.神经细胞",
+            "B.骨骼肌细胞",
+            "C.上皮细胞",
+            "D.内皮细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 124
+    },
+    {
+        "question_text": "208、牛脊髓涂片观察的细胞形态是（     ）",
+        "options": [
+            "A.梭形",
+            "B.圆形",
+            "C.椭圆形",
+            "D.星形",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 125
+    },
+    {
+        "question_text": "209、牛脊神经节切片所观察的神经节细胞外围分布有（     ）",
+        "options": [
+            "A.脂肪细胞",
+            "B.平滑肌细胞",
+            "C.血细胞",
+            "D.被囊细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 126
+    },
+    {
+        "question_text": "210、细胞骨架染色实验中稳定细胞骨架聚合的试剂是（     ）",
+        "options": [
+            "A.Triton-X100",
+            "B.M-buffer",
+            "C.三氯醋酸",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 127
+    },
+    {
+        "question_text": "211、细胞骨架染色实验中使用的固定剂是（     ）",
+        "options": [
+            "A.戊二醛",
+            "B.乙醇",
+            "C.丙酮",
+            "D.甲醛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 128
+    },
+    {
+        "question_text": "212、酸碱蛋白染色实验中观察到的酸性蛋白主要分布在（     ）",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.核膜",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 129
+    },
+    {
+        "question_text": "213、酸碱蛋白染色实验中观察到的碱性蛋白主要分布在（     ）",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.核膜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 130
+    },
+    {
+        "question_text": "214、酸碱蛋白染色实验中使用（     ）抽提去除核酸",
+        "options": [
+            "A.Triton-X100",
+            "B.M-buffer",
+            "C.三氯醋酸",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 131
+    },
+    {
+        "question_text": "215、酸碱蛋白染色实验中使用三氯醋酸的目的是（     ）",
+        "options": [
+            "A.去除酸性蛋白",
+            "B.去除碱性蛋白",
+            "C.去除核酸",
+            "D.去除细胞膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 132
+    },
+    {
+        "question_text": "216、减数分裂的标本细胞中观察到V形或O形的染色体，表明细胞处于（     ）",
+        "options": [
+            "A.终变期",
+            "B.双线期",
+            "C.粗线期",
+            "D.偶线期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 133
+    },
+    {
+        "question_text": "217、细胞计数实验中，由盖玻片和细胞计数板组成的计数区域的高度是（     ）",
+        "options": [
+            "A.0.1mm",
+            "B.1mm",
+            "C.10mm",
+            "D.100mm",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 134
+    },
+    {
+        "question_text": "84、普通光镜下能见到的结构是（     ）",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.中心粒",
+            "E.核纤层"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 135
+    },
+    {
+        "question_text": "85、光学显微镜观察切片的厚度一般不应超过 （     ）",
+        "options": [
+            "A.2μm",
+            "B.4μm",
+            "C.6μm",
+            "D.8μm",
+            "E.10μm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 136
+    },
+    {
+        "question_text": "86、光学显微镜有几部分组成 （     ）",
+        "options": [
+            "A.2部分",
+            "B.3部分",
+            "C.4部分",
+            "D.5部分",
+            "E.6部分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 137
+    },
+    {
+        "question_text": "87、用可见光做光源，光镜的分辨率是 （     ）",
+        "options": [
+            "A.0.1μm",
+            "B.0.2μm",
+            "C.0.3μm",
+            "D.0.4μm",
+            "E.0.5μm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 138
+    },
+    {
+        "question_text": "88、提高显微镜的分辨率最好的办法是（     ）",
+        "options": [
+            "A.增加放大倍数",
+            "B.缩短光的波长",
+            "C.增加光的波长",
+            "D.给标本染色",
+            "E.增加光的亮度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 139
+    },
+    {
+        "question_text": "89、用于观察和研究细胞三维结构的仪器是 （     ）",
+        "options": [
+            "A.透射电子显微镜",
+            "B.相差显微镜",
+            "C.扫描电子显微镜",
+            "D.暗视野显微镜",
+            "E.荧光显微镜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 140
+    },
+    {
+        "question_text": "90、在光学显微镜下所观察到的组织或细胞结构一般称为 （     ）",
+        "options": [
+            "A.显微结构",
+            "B.超微结构",
+            "C.亚显微结构",
+            "D.分子结构",
+            "E.微细结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 141
+    },
+    {
+        "question_text": "91、以紫外线为光源，激发生物标本中的荧光物质产生能观察到的荧光的光镜是 （     ）",
+        "options": [
+            "A.荧光显微镜",
+            "B.相差显微镜",
+            "C.普通显微镜",
+            "D.暗视野显微镜",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 142
+    },
+    {
+        "question_text": "92、用于观察无色透明的活细胞结构的显微镜是（     ）",
+        "options": [
+            "A.暗视野显微镜",
+            "B.荧光显微镜",
+            "C.偏光显微镜",
+            "D.相差显微镜",
+            "E.普通光学显微镜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 143
+    },
+    {
+        "question_text": "93、在普通光镜下可以观察到的细胞结构是 （     ）",
+        "options": [
+            "A.核孔",
+            "B.核仁",
+            "C.微管",
+            "D.核糖体",
+            "E.微丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 144
+    },
+    {
+        "question_text": "94、改变显微镜分辨率的关键是（     ）",
+        "options": [
+            "A.目镜",
+            "B.放大倍数",
+            "C.光源的波长",
+            "D.机械装置",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 145
+    },
+    {
+        "question_text": "95、普通光学显微镜分辨能力 （     ）",
+        "options": [
+            "A.0.2微米",
+            "B.0.4微米",
+            "C.0.6微米",
+            "D.0.8微米",
+            "E.1.0微米"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 146
+    },
+    {
+        "question_text": "96、一般显微镜的分辨力数值约为0.2μm，人眼在25cm处的分辨力是0.2mm，所以一般显微镜设计的最高放大倍率为（     ）",
+        "options": [
+            "A.2000X",
+            "B.1000X",
+            "C.100X",
+            "D.200X",
+            "E.4OOX"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 147
+    },
+    {
+        "question_text": "97、下列显微镜中，可以对活细胞进行观察的是（     ）",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.相差显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 148
+    },
+    {
+        "question_text": "98、下列显微镜中，可以用于细胞工程中显微操作的是（     ）",
+        "options": [
+            "A.普通光学显微镜",
+            "B.荧光显微镜",
+            "C.微分干涉显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 149
+    },
+    {
+        "question_text": "99、下列显微镜中，用于荧光染料标记细胞结构后观察的是（     ）",
+        "options": [
+            "A.荧光显微镜",
+            "B.普通光学显微镜",
+            "C.相差显微镜",
+            "D.电子显微镜",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 150
+    },
+    {
+        "question_text": "100、相差显微镜是将相位差转变成（     ）",
+        "options": [
+            "A.明暗差",
+            "B.焦距差",
+            "C.景深差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 151
+    },
+    {
+        "question_text": "101、用于观察无色透明的活细胞结构的显微镜是：",
+        "options": [
+            "A.暗视野显微镜",
+            "B.荧光显微镜",
+            "C.偏光显微镜",
+            "D.相差显微镜",
+            "E.普通光学显微镜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 152
+    },
+    {
+        "question_text": "102、微粉干涉显微镜的光源采用（     ）",
+        "options": [
+            "A.日光",
+            "B.荧光",
+            "C.激光",
+            "D.偏振光",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 153
+    },
+    {
+        "question_text": "103、微粉干涉显微镜由于使用（     ），从而降低光噪声，其图像质量明显高于相差显微镜。",
+        "options": [
+            "A.日光",
+            "B.荧光",
+            "C.激光",
+            "D.偏振光",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 154
+    },
+    {
+        "question_text": "104、微粉干涉显微镜是将（     ）转变成明暗差",
+        "options": [
+            "A.景深差",
+            "B.焦距差",
+            "C.相位差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 155
+    },
+    {
+        "question_text": "105、微粉干涉显微镜是将（     ）转变成振幅差",
+        "options": [
+            "A.焦距差",
+            "B.景深差",
+            "C.光程差",
+            "D.色差",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 156
+    },
+    {
+        "question_text": "106、暗视野显微镜具有很高的分辨率，可以达到（     ）",
+        "options": [
+            "A.0.4nm",
+            "B.4nm",
+            "C.40nm",
+            "D.400nm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 157
+    },
+    {
+        "question_text": "107、下列属于激光共聚焦显微镜的用途的是（     ）",
+        "options": [
+            "A.荧光检测",
+            "B.扩增DNA片段",
+            "C.分离蛋白质",
+            "D.基因替换",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 158
+    },
+    {
+        "question_text": "108、下列属于激光共聚焦显微镜的用途的是（ ）",
+        "options": [
+            "A.扩增DNA片段",
+            "B.荧光检测",
+            "C.分离蛋白质",
+            "D.基因替换"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 159
+    },
+    {
+        "question_text": "109、下列属于激光共聚焦显微镜的用途的是（     ）",
+        "options": [
+            "A.荧光检测",
+            "B.扩增DNA片段",
+            "C.显微操作",
+            "D.基因替换",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 160
+    },
+    {
+        "question_text": "110、下列属于激光共聚焦显微镜的用途的是（     ）",
+        "options": [
+            "A.荧光检测",
+            "B.扩增DNA片段",
+            "C.分离蛋白质",
+            "D.定点破坏细胞内结构",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 161
+    },
+    {
+        "question_text": "111、以下内容不属于荧光显微镜的结构的是（     ）",
+        "options": [
+            "A.光源系统",
+            "B.滤色系统",
+            "C.电极系统",
+            "D.成像系统",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 162
+    },
+    {
+        "question_text": "112、电子显微镜使用（     ）替代光学显微镜的聚光镜、目镜和物镜",
+        "options": [
+            "A.电极",
+            "B.滤色片",
+            "C.气压",
+            "D.液压",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 163
+    },
+    {
+        "question_text": "113、电子显微镜使用（     ）替代光学显微镜的聚光镜、目镜和物镜",
+        "options": [
+            "A.气压",
+            "B.液压",
+            "C.磁极",
+            "D.滤色片",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 164
+    },
+    {
+        "question_text": "114、扫面电镜能够获得细胞的精细的（     ）三维形态结构",
+        "options": [
+            "A.垂直方向",
+            "B.水平方向",
+            "C.表面",
+            "D.内部",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 165
+    },
+    {
+        "question_text": "115、高压电镜的样品穿透能力强，观察样本的厚度可以达到（     ）",
+        "options": [
+            "A.0.1um",
+            "B.1um",
+            "C.10um",
+            "D.100um",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 166
+    },
+    {
+        "question_text": "116、扫面隧道显微镜检测的是（     ）",
+        "options": [
+            "A.偏置电流",
+            "B.偏置电压",
+            "C.隧道电压",
+            "D.隧道电流",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 167
+    },
+    {
+        "question_text": "117、扫描隧道显微镜的应用前提是样品表面一定要有（     ）",
+        "options": [
+            "A.导电性",
+            "B.亲水性",
+            "C.导热性",
+            "D.疏水性",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 168
+    },
+    {
+        "question_text": "118、原子力显微镜的应用前提是否必须要求样品表面具有导电性（     ）",
+        "options": [
+            "A.是",
+            "B.否",
+            "C.不影响",
+            "D.随机",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 169
+    },
+    {
+        "question_text": "119、研究组织或细胞亚显微结构的主要技术是 （     ）",
+        "options": [
+            "A.离心技术",
+            "B.电泳技术",
+            "C.电镜技术",
+            "D.光镜技术",
+            "E.层析技术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 170
+    },
+    {
+        "question_text": "120、电子显微镜的发明标志着对细胞的研究进入（     ）",
+        "options": [
+            "A.细胞水平",
+            "B.亚细胞水平",
+            "C.分子水平",
+            "D.结构水平",
+            "E.整体水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 171
+    },
+    {
+        "question_text": "121、电镜的分辨率可达（     ）",
+        "options": [
+            "A.0.2nm",
+            "B.0.4nm",
+            "C.0.6nm",
+            "D.0.8nm",
+            "E.1nm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 172
+    },
+    {
+        "question_text": "122、目前最好的透射电镜能将物体放大多少倍？",
+        "options": [
+            "A.40万",
+            "B.60万",
+            "C.80万",
+            "D.100万",
+            "E.120万"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 173
+    },
+    {
+        "question_text": "123、研究细胞的超微结构一般要利用下列哪种技术 （     ）",
+        "options": [
+            "A.光学显微镜技术",
+            "B.电子显微镜技术",
+            "C.X射线衍射技术",
+            "D.离心技术",
+            "E.电泳技术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 174
+    },
+    {
+        "question_text": "124、以下关于透射电镜（TM）的描述，哪一条不正确 （     ）",
+        "options": [
+            "A.分辨力为0.1-0.3nm",
+            "B.采用电子束照明",
+            "C.镜筒内为真空环境",
+            "D.用来观察样品的表面结构",
+            "E.可观察对象放大100万倍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 175
+    },
+    {
+        "question_text": "125、冷冻蚀刻技术是（     ）样品制备的一种方法。",
+        "options": [
+            "A.普通光镜",
+            "B.透射电镜",
+            "C.暗视野显微镜",
+            "D.相差显微镜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 176
+    },
+    {
+        "question_text": "126、流式细胞术可用于测定 （     ）",
+        "options": [
+            "A.细胞的大小和特定细胞类群的数量",
+            "B.分选出特定的细胞器",
+            "C.细胞中DNA，RNA或某种蛋白的含量",
+            "D.细胞的形态",
+            "E.以上四种功能都有"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 177
+    },
+    {
+        "question_text": "127、要得到实验用的活细胞，需要下述哪种技术 （     ）",
+        "options": [
+            "A.电镜染色技术",
+            "B.放射自显影技术",
+            "C.免疫荧光技术",
+            "D.酶细胞化学技术",
+            "E.细胞培养技术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 178
+    },
+    {
+        "question_text": "128、直接取材于机体组织的细胞培养称为",
+        "options": [
+            "A.细胞培养",
+            "B.原代培养",
+            "C.传代培养",
+            "D.细胞克隆",
+            "E.细胞融合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 179
+    },
+    {
+        "question_text": "129、群体倍增时间越短，表明细胞的增殖速度（     ）",
+        "options": [
+            "A.越快",
+            "B.越慢",
+            "C.维持不变",
+            "D.无关",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 180
+    },
+    {
+        "question_text": "130、如果一种细胞在体外不能传代，或者只能传少数几代，就可以将其称为（     ）",
+        "options": [
+            "A.有限性细胞系",
+            "B.永生性细胞系",
+            "C.转化性细胞系",
+            "D.细胞株",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 181
+    },
+    {
+        "question_text": "131、如果一种细胞在体外能无限的传代，永远的活下去，就可以将其称为（     ）",
+        "options": [
+            "A.有限性细胞系",
+            "B.永生性细胞系",
+            "C.转化性细胞系",
+            "D.细胞株",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 182
+    },
+    {
+        "question_text": "132、有关体外培养细胞，下列说法不正确的是（     ）",
+        "options": [
+            "A.可根据需要人为地建立培养条件，来观察和研究细胞生命活动的规律",
+            "B.通过传代培养可获得研究所需要的细胞量",
+            "C.可摆脱活体组织的复杂背景",
+            "D.可获得与其在活体组织中完全相同的实验结果",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 183
+    },
+    {
+        "question_text": "133、处于连续分裂状态的细胞，在两次分裂之间的间隔时间是（     ）",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂时间",
+            "C.DNA复制时间",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 184
+    },
+    {
+        "question_text": "134、一个细胞系或细胞株从体外生长开始，能够发生群体倍增的总次数是指",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂水平",
+            "C.细胞倍增水平",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 185
+    },
+    {
+        "question_text": "135、由起始实验材料所进行的细胞培养叫（     ）",
+        "options": [
+            "A.原位培养",
+            "B.三维培养",
+            "C.传代培养",
+            "D.原代培养",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 186
+    },
+    {
+        "question_text": "136、对已有细胞进行的继续培养叫（     ）",
+        "options": [
+            "A.原位培养",
+            "B.三维培养",
+            "C.传代培养",
+            "D.原代培养",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 187
+    },
+    {
+        "question_text": "137、下面描述不属于永生性细胞系产生来源的是（     ）",
+        "options": [
+            "A.通过自然转化而来",
+            "B.肿瘤细胞",
+            "C.人工转化而来",
+            "D.正常的上皮细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 188
+    },
+    {
+        "question_text": "138、由单一类型的细胞所组成的细胞系称为（     ）",
+        "options": [
+            "A.细胞株",
+            "B.有限性细胞系",
+            "C.永生性细胞系",
+            "D.转化性细胞系",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 189
+    },
+    {
+        "question_text": "139、处于对数生长期的细胞群体，当它的细胞数量增加一倍所需要的时间称为",
+        "options": [
+            "A.细胞静止时间",
+            "B.细胞分裂水平",
+            "C.细胞倍增时间",
+            "D.细胞世代时间",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 190
+    },
+    {
+        "question_text": "140、相差显微镜是将光程差转变成（     ）",
+        "options": [
+            "A.焦距差",
+            "B.景深差",
+            "C.色差",
+            "D.振幅差",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 191
+    },
+    {
+        "question_text": "141、促进细胞融合的物质为（     ）",
+        "options": [
+            "A.丙三醇",
+            "B.秋水仙素",
+            "C.聚乙二醇",
+            "D.无水乙醇",
+            "E.75%乙醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 192
+    },
+    {
+        "question_text": "142、细胞融合又称（     ）",
+        "options": [
+            "A.体细胞培养",
+            "B.细胞并合工程",
+            "C.细胞拆合工程",
+            "D.DNA重组",
+            "E.染色体操作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 193
+    },
+    {
+        "question_text": "143、下列哪些物质能促进细胞之间发生融合（     ）",
+        "options": [
+            "A.聚乙二醇",
+            "B.细胞松弛素",
+            "C.鬼笔环肽",
+            "D.秋水仙素",
+            "E.长春花碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 194
+    },
+    {
+        "question_text": "144、在制备单克隆抗体的过程中，使得与骨髓瘤细胞发生融合的细胞是（     ）",
+        "options": [
+            "A.B淋巴细胞",
+            "B.T淋巴细胞",
+            "C.巨噬细胞",
+            "D.粒细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 195
+    },
+    {
+        "question_text": "145、如果两个不同的细胞融合到了一起，但其核仍然是分开的，这种细胞就叫做（     ）",
+        "options": [
+            "A.合核体",
+            "B.异核体",
+            "C.单倍体",
+            "D.干细胞",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 196
+    },
+    {
+        "question_text": "146、如果两个不同的细胞融合到了一起，在最初的一次分裂中，两个核的核膜消失，其染色体合并到一起，形成一个大核细胞，这种细胞被称为（     ）",
+        "options": [
+            "A.合核体",
+            "B.异核体",
+            "C.单倍体",
+            "D.干细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 197
+    },
+    {
+        "question_text": "147、分离细胞内不同细胞器的主要技术是 （     ）",
+        "options": [
+            "A.离心技术",
+            "B.电泳技术",
+            "C.层析技术",
+            "D.光镜技术",
+            "E.电镜技术"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 198
+    },
+    {
+        "question_text": "148、在差速离心中最先沉降的细胞器是（     ）",
+        "options": [
+            "A.线粒体",
+            "B.溶酶体",
+            "C.核",
+            "D.过氧化物酶体",
+            "E.内质网"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 199
+    },
+    {
+        "question_text": "149、下面描述不属于密度梯度离心的是（     ）",
+        "options": [
+            "A.溶液介质本身不会形成密度梯度",
+            "B.细胞各组分按照密度分离",
+            "C.离心速度恒定",
+            "D.大分子量组分位于离心管底部",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 200
+    },
+    {
+        "question_text": "150、以下不属于细胞破碎的方法是（     ）",
+        "options": [
+            "A.低渗裂解",
+            "B.超声粉碎",
+            "C.机械研磨",
+            "D.等渗液置换",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 201
+    },
+    {
+        "question_text": "151、差速离心技术通过选择不同的（     ）从而分离特定的细胞组分",
+        "options": [
+            "A.离心力",
+            "B.温度",
+            "C.pH",
+            "D.压强",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 202
+    },
+    {
+        "question_text": "152、密度梯度离心技术使用（     ）作为介质形成密度梯度",
+        "options": [
+            "A.氯化铯",
+            "B.水",
+            "C.乙醇",
+            "D.丙酮",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 203
+    },
+    {
+        "question_text": "153、人工制备密度梯度时，使用蔗糖溶液，比重大的层面位于离心管的（     ）",
+        "options": [
+            "A.顶部",
+            "B.中间",
+            "C.底部",
+            "D.随机分布",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 204
+    },
+    {
+        "question_text": "154、常见的蛋白质层析技术不包括以下（     ）",
+        "options": [
+            "A.离子交换",
+            "B.疏水",
+            "C.PCR",
+            "D.亲和",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 205
+    },
+    {
+        "question_text": "155、离子交换层析是依靠填充物将溶液中的蛋白质按其（     ）差异分开",
+        "options": [
+            "A.电荷",
+            "B.分子量",
+            "C.抗原",
+            "D.等电点",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 206
+    },
+    {
+        "question_text": "156、疏水层析是依靠填充物的（     ）将蛋白质按其疏水性的强弱分开",
+        "options": [
+            "A.亲和基团",
+            "B.电荷",
+            "C.分子量",
+            "D.疏水基团",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 207
+    },
+    {
+        "question_text": "157、分子筛层析是利用填充物的孔径将蛋白质按照（     ）大小分开",
+        "options": [
+            "A.电荷",
+            "B.分子量",
+            "C.亲和部位",
+            "D.疏水部位",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 208
+    },
+    {
+        "question_text": "158、亲和层析是依靠填充物的（     ）将蛋白质选择性的分离",
+        "options": [
+            "A.孔径",
+            "B.电荷",
+            "C.配体",
+            "D.分子量",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 209
+    },
+    {
+        "question_text": "159、HPLC需要一个特殊的（     ）系统，因此能迫使溶液快速地通过柱子",
+        "options": [
+            "A.孔径",
+            "B.电荷",
+            "C.配体",
+            "D.高压泵",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 210
+    },
+    {
+        "question_text": "160、下面描述不属于双向电泳的是",
+        "options": [
+            "A.等电聚焦",
+            "B.SDS-PAGE",
+            "C.Coomassie染色",
+            "D.Western Blot",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 211
+    },
+    {
+        "question_text": "161、在电场中，蛋白质的迁移率与下列哪一项无关？",
+        "options": [
+            "A.蛋白质大小",
+            "B.蛋白质序列",
+            "C.蛋白质电荷",
+            "D.蛋白质空间结构",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 212
+    },
+    {
+        "question_text": "162、在SDS-PAGE凝胶电泳中使用的蛋白质变性剂属于（     ）",
+        "options": [
+            "A.阴离子去垢剂",
+            "B.阳离子去垢剂",
+            "C.碱性去垢剂",
+            "D.酸性去垢剂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 213
+    },
+    {
+        "question_text": "163、在SDS-PAGE凝胶电泳中，蛋白质的运动方向是（ ）",
+        "options": [
+            "A.正极",
+            "B.负极",
+            "C.随机",
+            "D.静止",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 214
+    },
+    {
+        "question_text": "164、在SDS-PAGE凝胶电泳中，蛋白质的迁移率取决于（     ）",
+        "options": [
+            "A.组织分布",
+            "B.种属",
+            "C.分子量",
+            "D.空间结构",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 215
+    },
+    {
+        "question_text": "165、双向点用的第一步电泳是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.亲和层析",
+            "C.等电聚焦",
+            "D.SDS-PAGE",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 216
+    },
+    {
+        "question_text": "166、双向点用的第二步电泳是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.亲和层析",
+            "C.等电聚焦",
+            "D.SDS-PAGE",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 217
+    },
+    {
+        "question_text": "167、双向电泳利用了蛋白质的分子大小和（     ）特性，具有很高的分辨率。",
+        "options": [
+            "A.种属",
+            "B.电荷",
+            "C.组织分布",
+            "D.免疫",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 218
+    },
+    {
+        "question_text": "168、mRNA的分离操作前提是抑制（     ）",
+        "options": [
+            "A.DNA酶",
+            "B.RNA酶",
+            "C.乳酸脱氢酶",
+            "D.苹果酸脱氢酶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 219
+    },
+    {
+        "question_text": "169、RNA提取实验中mRNA可以沉淀于",
+        "options": [
+            "A.水",
+            "B.三氯甲烷",
+            "C.DEPC",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 220
+    },
+    {
+        "question_text": "170、RNA分析的主要目的是了解特定细胞中某个mRNA的表达水平，采用的方法不包括（     ）",
+        "options": [
+            "A.PCR",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.测序",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 221
+    },
+    {
+        "question_text": "171、从总RNA中分离mRNA需要利用带有ploy T的柱子结合样品的（     ）",
+        "options": [
+            "A.启动子",
+            "B.增强子",
+            "C.CpG island",
+            "D.ploy A",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 222
+    },
+    {
+        "question_text": "172、细胞内DNA或RNA的定性测试通常采用的技术是（     ）",
+        "options": [
+            "A.普通光镜技术",
+            "B.普通电镜技术",
+            "C.细胞培养技术",
+            "D.细胞融合技术",
+            "E.细胞化学技术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 223
+    },
+    {
+        "question_text": "173、DNA提取实验中mRNA可以沉淀于（     ）",
+        "options": [
+            "A.水",
+            "B.三氯甲烷",
+            "C.DEPC",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 224
+    },
+    {
+        "question_text": "174、DNA分析的主要目的是认识与细胞某一特定生命活动相关基因的结构和功能，采用的方法不包括（     ）",
+        "options": [
+            "A.PCR",
+            "B.Northern blot",
+            "C.Southern blot",
+            "D.测序",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 225
+    },
+    {
+        "question_text": "175、单细胞分析指在单个细胞水平上通过对（     ）的结构或其表达谱的分析实现对其细胞生物学特性认识的技术体系",
+        "options": [
+            "A.基因组",
+            "B.蛋白组",
+            "C.细胞器",
+            "D.细胞核",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 226
+    },
+    {
+        "question_text": "176、单细胞分析技术的建立需要两个必要条件，即扩增技术和（     ）",
+        "options": [
+            "A.电泳技术",
+            "B.离心技术",
+            "C.培养技术",
+            "D.测序技术",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 227
+    },
+    {
+        "question_text": "177、若要了解核酸和细胞周期的关系，可以使用（     ）充当DNA合成的前提物质",
+        "options": [
+            "A.3H胸腺嘧啶",
+            "B.3H半乳糖",
+            "C.3H甘露糖",
+            "D.3H赖氨酸",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 228
+    },
+    {
+        "question_text": "178、若要了解细胞中染色体DNA切除修复的情况，可以使用（     ）掺入修复的染色体中",
+        "options": [
+            "A.3H赖氨酸",
+            "B.3H半乳糖",
+            "C.3H甘露糖",
+            "D.3H胸腺嘧啶",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 229
+    },
+    {
+        "question_text": "179、若要了解某一状态的细胞中RNA的合成情况，可以使用（     ）加入细胞培养液中",
+        "options": [
+            "A.3H赖氨酸",
+            "B.3H尿嘧啶",
+            "C.3H甘露糖",
+            "D.3H胸腺嘧啶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 230
+    },
+    {
+        "question_text": "180、若要了解分泌蛋白在内质网上合成后的运输途径，可以使用（     ）标记追踪。",
+        "options": [
+            "A.3H胸腺嘧啶",
+            "B.3H亮氨酸",
+            "C.3H尿嘧啶",
+            "D.3H赖氨酸",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 231
+    },
+    {
+        "question_text": "181、膜片钳技术分析的是（     ）的特定离子通道的离子运动情况",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 232
+    },
+    {
+        "question_text": "182、微电极技术测量离子浓度时只能对（     ）进行操作",
+        "options": [
+            "A.单个细胞",
+            "B.群体细胞",
+            "C.局部组织",
+            "D.细胞外基质",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 233
+    },
+    {
+        "question_text": "183、发光指示剂测定细胞内部的离子浓度的最大优点是可以对（     ）进行同步检测",
+        "options": [
+            "A.单个细胞",
+            "B.群体细胞",
+            "C.局部组织",
+            "D.细胞外基质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 234
+    },
+    {
+        "question_text": "184、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.显微注射法",
+            "B.分子筛层析",
+            "C.Western blot",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 235
+    },
+    {
+        "question_text": "185、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.直接扩散法",
+            "C.Western blot",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 236
+    },
+    {
+        "question_text": "186、以下可用于外源蛋白质分子导入细胞的方法是（     ）",
+        "options": [
+            "A.分子筛层析",
+            "B.Western blot",
+            "C.膜泡介导法",
+            "D.琼脂糖电泳",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 237
+    },
+    {
+        "question_text": "187、要探知细胞内某一蛋白质的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 238
+    },
+    {
+        "question_text": "188、要探知细胞内某一DNA的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 239
+    },
+    {
+        "question_text": "189、要探知细胞内某一RNA的表达水平，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 240
+    },
+    {
+        "question_text": "190、要探知细胞内某一DNA的空间分布，可以通过（     ）技术实现。",
+        "options": [
+            "A.Southern blot",
+            "B.Northern blot",
+            "C.Western blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 241
+    },
+    {
+        "question_text": "191、要探知细胞内某一蛋白质的表达水平，可以通过（   ）实现",
+        "options": [
+            "A.Southern  blot",
+            "B.Northern  blot",
+            "C.Western  blot",
+            "D.原位分子杂交",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 242
+    },
+    {
+        "question_text": "192、荧光物质PKH26或放射性核素标记物主要用于植入细胞的（     ）行为分析",
+        "options": [
+            "A.长期",
+            "B.短期",
+            "C.永久",
+            "D.以上三种",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 243
+    },
+    {
+        "question_text": "193、GFP基因或LacZ基因表达载体转染细胞后经过筛选主要用于植入细胞的（     ）行为追踪分析",
+        "options": [
+            "A.长期",
+            "B.短期",
+            "C.永久",
+            "D.以上三种",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 244
+    },
+    {
+        "question_text": "194、细胞活体内移植的受体动物一般采用（     ）小鼠",
+        "options": [
+            "A.普通",
+            "B.封闭系",
+            "C.杂合系",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 245
+    },
+    {
+        "question_text": "195、活体内植入细胞的行为分析内容不包括（     ）",
+        "options": [
+            "A.细胞是否真正植入了相应组织器官",
+            "B.细胞是否具有相应的生物学功能",
+            "C.植入细胞在组织器官中的稳定性",
+            "D.植入细胞是否进入细胞周期",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 246
+    },
+    {
+        "question_text": "196、转基因小鼠是在（     ）插入特定的外源基因",
+        "options": [
+            "A.细胞外基质",
+            "B.内质网",
+            "C.染色体DNA",
+            "D.细胞膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 247
+    },
+    {
+        "question_text": "197、以实验的方法在小鼠的染色体DNA中插入特定的外源基因是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 248
+    },
+    {
+        "question_text": "198、以实验的方法在小鼠的基因组中定点突变某一个基因是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 249
+    },
+    {
+        "question_text": "199、以实验的方法在小鼠的某一个基因的下游插入一个基因的编码区是（     ）技术",
+        "options": [
+            "A.基因剔除小鼠",
+            "B.转基因小鼠",
+            "C.基因替换小鼠",
+            "D.免疫缺陷",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 250
+    },
+    {
+        "question_text": "200、在观察牛脊神经节切片时，当转动细调节器时，不管如何调节总是有一部分细胞看得很清晰，另一部分细胞较模糊。这是由于（ ）。（实验）",
+        "options": [
+            "A.反光镜未调节好",
+            "B.标本切得厚薄不均",
+            "C.细准焦螺旋未调好",
+            "D.显微镜物镜损坏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 251
+    },
+    {
+        "question_text": "201、在洋葱表皮细胞临时制片的实验中，为了将细胞内除细胞骨架以外的蛋白质溶解，采用（     ）对洋葱内表皮进行处理。",
+        "options": [
+            "A.tritonX-100",
+            "B.M-缓冲液",
+            "C.考马斯亮兰",
+            "D.戊二醛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 252
+    },
+    {
+        "question_text": "202、以下哪种细胞没有核结构（     ）。（实验）",
+        "options": [
+            "A.平滑肌细胞",
+            "B.神经细胞",
+            "C.脂肪细胞",
+            "D.人血细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 253
+    },
+    {
+        "question_text": "203、下列细胞中，哪种细胞的细胞核不在细胞中央（     ）。 （实验）",
+        "options": [
+            "A.脊神经节细胞",
+            "B.神经细胞",
+            "C.脂肪细胞",
+            "D.平滑肌细胞",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 254
+    },
+    {
+        "question_text": "204、在《酸性蛋白和碱性蛋白分布》的实验中，酸性和碱性蛋白应分别染色在（     ）。 （实验）",
+        "options": [
+            "A.酸性蛋白在细胞浆，碱性蛋白在细胞核",
+            "B.均在细胞浆",
+            "C.碱性蛋白在细胞浆，酸性蛋白在细胞核",
+            "D.均在细胞核",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 255
+    },
+    {
+        "question_text": "205、蛙血细胞的细胞核呈（     ）",
+        "options": [
+            "A.圆形",
+            "B.椭圆形",
+            "C.菱形",
+            "D.梭形",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 256
+    },
+    {
+        "question_text": "206、成熟的人血细胞的细胞核呈（     ）",
+        "options": [
+            "A.圆形",
+            "B.椭圆形",
+            "C.菱形",
+            "D.无",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 257
+    },
+    {
+        "question_text": "207、牛脊髓涂片观察的细胞属于（     ）",
+        "options": [
+            "A.神经细胞",
+            "B.骨骼肌细胞",
+            "C.上皮细胞",
+            "D.内皮细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 258
+    },
+    {
+        "question_text": "208、牛脊髓涂片观察的细胞形态是（     ）",
+        "options": [
+            "A.梭形",
+            "B.圆形",
+            "C.椭圆形",
+            "D.星形",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 259
+    },
+    {
+        "question_text": "209、牛脊神经节切片所观察的神经节细胞外围分布有（     ）",
+        "options": [
+            "A.脂肪细胞",
+            "B.平滑肌细胞",
+            "C.血细胞",
+            "D.被囊细胞",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 260
+    },
+    {
+        "question_text": "210、细胞骨架染色实验中稳定细胞骨架聚合的试剂是（     ）",
+        "options": [
+            "A.Triton-X100",
+            "B.M-buffer",
+            "C.三氯醋酸",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 261
+    },
+    {
+        "question_text": "211、细胞骨架染色实验中使用的固定剂是（     ）",
+        "options": [
+            "A.戊二醛",
+            "B.乙醇",
+            "C.丙酮",
+            "D.甲醛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 262
+    },
+    {
+        "question_text": "212、酸碱蛋白染色实验中观察到的酸性蛋白主要分布在（     ）",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.核膜",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 263
+    },
+    {
+        "question_text": "213、酸碱蛋白染色实验中观察到的碱性蛋白主要分布在（     ）",
+        "options": [
+            "A.细胞质",
+            "B.细胞核",
+            "C.细胞膜",
+            "D.核膜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 264
+    },
+    {
+        "question_text": "214、酸碱蛋白染色实验中使用（     ）抽提去除核酸",
+        "options": [
+            "A.Triton-X100",
+            "B.M-buffer",
+            "C.三氯醋酸",
+            "D.乙醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 265
+    },
+    {
+        "question_text": "215、酸碱蛋白染色实验中使用三氯醋酸的目的是（     ）",
+        "options": [
+            "A.去除酸性蛋白",
+            "B.去除碱性蛋白",
+            "C.去除核酸",
+            "D.去除细胞膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 266
+    },
+    {
+        "question_text": "216、减数分裂的标本细胞中观察到V形或O形的染色体，表明细胞处于（     ）",
+        "options": [
+            "A.终变期",
+            "B.双线期",
+            "C.粗线期",
+            "D.偶线期",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 267
+    },
+    {
+        "question_text": "217、细胞计数实验中，由盖玻片和细胞计数板组成的计数区域的高度是（     ）",
+        "options": [
+            "A.0.1mm",
+            "B.1mm",
+            "C.10mm",
+            "D.100mm",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "268",
+        "number": 268
+    }
+]

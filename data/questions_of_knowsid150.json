@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1.原始卵泡中的卵母细胞是",
+        "options": [
+            "A.卵原细胞",
+            "B.初级卵母细胞",
+            "C.次级卵母细胞",
+            "D.成熟卵细胞",
+            "E.卵泡细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.排卵一般发生在月经周期的",
+        "options": [
+            "A.月经期",
+            "B.增生期",
+            "C.第14天左右",
+            "D.第16天左右",
+            "E.第18天左右"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.排卵后若不受精，卵母细胞的退化发生在排卵后",
+        "options": [
+            "A.24小时内",
+            "B.48小时内",
+            "C.36小时内",
+            "D.12小时内",
+            "E.72小时内"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.卵巢的门细胞分泌",
+        "options": [
+            "A.雌激素",
+            "B.雄激素",
+            "C.孕激素",
+            "D.松弛素",
+            "E.催乳素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.子宫内膜表现为分泌期时，卵巢处在",
+        "options": [
+            "A.排卵前期",
+            "B.黄体期",
+            "C.卵泡生长时期",
+            "D.卵泡成熟时期",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.子宫内膜表现为增生前期时，卵巢处在",
+        "options": [
+            "A.卵泡期",
+            "B.黄体期",
+            "C.次级卵泡早期",
+            "D.次级卵泡末期",
+            "E.原始卵泡期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.子宫内膜由分泌期进入月经期的根本原因是",
+        "options": [
+            "A.螺旋动脉破裂",
+            "B.月经黄体退化",
+            "C.雌激素和孕激素水平下降",
+            "D.排卵后未受精",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.最需注意避孕的时期为月经周期中的",
+        "options": [
+            "A.增生期",
+            "B.分泌期",
+            "C.第8-16天",
+            "D.月经期",
+            "E.第12?16天"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

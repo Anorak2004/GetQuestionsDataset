@@ -16,19 +16,19 @@ class Controller:
 
     def process_loop(self,knowsid):
         number = 1
-        initial_info = controller.get_and_process_data(knowsid=knowsid, number=number)
+        initial_info = self.get_and_process_data(knowsid=knowsid, number=number)
         initial_info['number'] = number
         all_info = [initial_info]
         while number<int(initial_info['total_number']):
             number += 1
             try:
-                next_info = controller.get_and_process_data(knowsid=knowsid, number=number)
+                next_info = self.get_and_process_data(knowsid=knowsid, number=number)
                 next_info['number'] = number
                 all_info.append(next_info)
             except Exception as e:
                 print(e)
                 break
-        self.save_to_file(all_info,'questions_of_knowsid{}.json'.format(knowsid))
+        self.save_to_file(all_info,'./data/questions_of_knowsid{}.json'.format(knowsid))
 
 
 
@@ -76,14 +76,6 @@ if __name__ == "__main__":
     # 如果登录成功，获取并处理数据
     if login_response.status_code == 200:
         controller = Controller(login)
-
-        # # 获取并处理数据
-        # result = controller.get_and_process_data(knowsid=10, number=1)
-        #
-        # # 如果成功处理数据，则保存到文件
-        # if result:
-        #     controller.save_to_file(result, 'question_data.json')
-
-        controller.process_loop(10)
+        controller.process_loop(155)
     else:
         print("登录失败，无法继续获取数据")

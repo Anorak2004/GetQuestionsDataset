@@ -1,0 +1,6691 @@
+[
+    {
+        "question_text": "218、生物膜的主要化学成分是（   ）",
+        "options": [
+            "A.蛋白质和水",
+            "B.蛋白质和糖类",
+            "C.蛋白质和脂类",
+            "D.脂类和糖类",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 1
+    },
+    {
+        "question_text": "219、膜脂中最为重要的脂类是 （   ）",
+        "options": [
+            "A.脂肪酸",
+            "B.糖脂",
+            "C.磷脂",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 2
+    },
+    {
+        "question_text": "220、下列膜脂分子在膜中含量最多的是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘磷脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 3
+    },
+    {
+        "question_text": "221、下列生物膜中蛋白质/脂类比值最大的是 （   ）",
+        "options": [
+            "A.神经髓鞘",
+            "B.人红细胞膜",
+            "C.内质网膜",
+            "D.线粒体外膜",
+            "E.线粒体内膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 4
+    },
+    {
+        "question_text": "222、生物膜是指 （   ）",
+        "options": [
+            "A.细胞膜的另一种说法",
+            "B.除线粒体膜以外的各种膜的总称",
+            "C.内膜系统的膜",
+            "D.细胞膜、细胞内膜和线粒体膜的总称",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 5
+    },
+    {
+        "question_text": "223、最简单的磷酸甘油酯是 （   ）",
+        "options": [
+            "A.磷脂酸",
+            "B.磷脂酰胆碱",
+            "C.磷脂酰乙醇胺",
+            "D.磷脂酰丝氨酸",
+            "E.鞘氨醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 6
+    },
+    {
+        "question_text": "224、人体中多数细胞膜，其脂类与蛋白质含量相比 （   ）",
+        "options": [
+            "A.脂类含量高很多",
+            "B.蛋白质含量高很多",
+            "C.脂类和蛋白质含量大致相等",
+            "D.仅含有脂类，不含有蛋白质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 7
+    },
+    {
+        "question_text": "225、最简单的糖脂分子是 （   ）",
+        "options": [
+            "A.脑苷脂",
+            "B.神经节苷脂",
+            "C.单半乳糖基甘油二酯",
+            "D.三半乳糖基甘油二酯",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 8
+    },
+    {
+        "question_text": "226、生物膜的各种成分中不属于双亲性分子的是 （   ）",
+        "options": [
+            "A.磷脂",
+            "B.胆固醇",
+            "C.跨膜蛋白",
+            "D.膜周边蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 9
+    },
+    {
+        "question_text": "227、被称为卵磷脂的磷脂分子是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘氨醇",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 10
+    },
+    {
+        "question_text": "228、被称为脑磷脂的磷脂分子是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘氨醇",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 11
+    },
+    {
+        "question_text": "229、细胞膜有能量交换、物质运输、信息传递三种主要功能，这些功能与组成膜的哪种物质有直接关系 （   ）",
+        "options": [
+            "A.磷脂",
+            "B.糖类",
+            "C.蛋白质",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 12
+    },
+    {
+        "question_text": "230、下列膜蛋白中通过改变离子强度等较温和的条件就能从膜上溶解下来的是 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.三种蛋白都很难从膜上去除",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 13
+    },
+    {
+        "question_text": "231、膜周边蛋白与脂双层的结合通常不包括下列化学键中的 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.静电作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 14
+    },
+    {
+        "question_text": "232、红细胞中的血影蛋白是一种 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 15
+    },
+    {
+        "question_text": "233、脂锚定蛋白与脂双层的结合是通过何种化学键实现的 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.静电作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 16
+    },
+    {
+        "question_text": "234、关于细胞膜上糖类的不正确的叙述是 （   ）",
+        "options": [
+            "A.质膜中糖类主要分布在膜的外表面",
+            "B.主要以糖蛋白和糖脂的形式存在",
+            "C.糖蛋白和糖脂上的低聚糖侧链从膜的胞质面伸出",
+            "D.糖蛋白中的糖链对蛋白质及膜的性质影响很大",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 17
+    },
+    {
+        "question_text": "235、以下关于跨膜蛋白的描述，错误的是 （   ）",
+        "options": [
+            "A.是双亲媒性分子",
+            "B.跨膜区是α螺旋或β筒",
+            "C.可跨膜一次或多次",
+            "D.因为与膜的疏水区非共价结合，因此较容易去除",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 18
+    },
+    {
+        "question_text": "236、一般来说，膜的功能越复杂，蛋白质/脂类该比值 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.恒定不变",
+            "D.可大可小，无相关性",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 19
+    },
+    {
+        "question_text": "237、细胞膜的特定功能是由组成膜的哪类生物大分子决定的（   ）",
+        "options": [
+            "A.蛋白质",
+            "B.脂类",
+            "C.糖类",
+            "D.核酸",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 20
+    },
+    {
+        "question_text": "238、下列分子不属于构成膜的化学成分的是 （   ）",
+        "options": [
+            "A.蛋白质",
+            "B.脂类",
+            "C.糖类",
+            "D.核酸",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 21
+    },
+    {
+        "question_text": "239、磷脂分子在细胞膜中的排列规律是 （   ）",
+        "options": [
+            "A.极性头部朝向膜的内、外两侧，疏水尾部朝向膜的中央",
+            "B.极性头部朝向膜的外侧，疏水尾部朝向膜的内侧",
+            "C.极性头部朝向膜的内侧，疏水尾部朝向膜的外侧",
+            "D.极性头部朝向膜的中央，疏水尾部朝向膜的内、外两侧",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 22
+    },
+    {
+        "question_text": "240、关于细胞膜上的糖类不正确的描述是 （   ）",
+        "options": [
+            "A.质膜中的糖类含量约占质膜重量的2%-10%",
+            "B.主要以糖蛋白和糖脂的形式存在",
+            "C.糖蛋白和糖脂上的低聚糖从生物膜的胞质面伸出",
+            "D.与细胞免疫、细胞识别及细胞癌变有密切关系",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 23
+    },
+    {
+        "question_text": "241、下列膜脂的运动方式中较不常见运动方式的是 （   ）",
+        "options": [
+            "A.烃链的弯曲运动",
+            "B.侧向扩散运动",
+            "C.翻转运动",
+            "D.旋转运动",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 24
+    },
+    {
+        "question_text": "242、细胞膜中跨膜蛋白与脂类的结合主要通过 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.疏水键",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 25
+    },
+    {
+        "question_text": "243、决定红细胞血型的物质是 （ ）",
+        "options": [
+            "A.糖脂",
+            "B.磷脂",
+            "C.糖蛋白",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 26
+    },
+    {
+        "question_text": "244、质膜中各种组分分布是高度不对称性的，在红细胞膜中 （   ）",
+        "options": [
+            "A.外层含磷脂酰乙醇胺、磷脂酰丝氨酸较多，内层含鞘磷脂和磷脂酰胆碱较多",
+            "B.外层含鞘磷脂和磷脂酰胆碱较多，内层含磷脂酰乙醇胺和磷脂酰丝氨酸较多",
+            "C.内层含胆固醇较多",
+            "D.糖脂大部分分布在内层",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 27
+    },
+    {
+        "question_text": "245、膜脂中含量最高的是",
+        "options": [
+            "A.胆固醇",
+            "B.糖脂",
+            "C.脑苷脂",
+            "D.糖蛋白",
+            "E.磷脂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 28
+    },
+    {
+        "question_text": "246、有关膜糖，下述哪种描述是正确的",
+        "options": [
+            "A.位于细胞膜或细胞内膜的外表面",
+            "B.位于细胞膜或细胞内膜的内表面",
+            "C.位于细胞膜外表面，细胞内膜内表面",
+            "D.位于细胞膜内表面，细胞内膜外表面",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 29
+    },
+    {
+        "question_text": "247、有关跨膜蛋白，下述哪项描述是错误的",
+        "options": [
+            "A.又称整合蛋白",
+            "B.属双亲性分子",
+            "C.分三种类型",
+            "D.肽链N端一般位于细胞内侧",
+            "E.跨膜区多为α-螺旋"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 30
+    },
+    {
+        "question_text": "248、在电子显微镜上，单位膜为 （   ）",
+        "options": [
+            "A.一层深色带",
+            "B.一层浅色带",
+            "C.一层深色带和两层浅色带",
+            "D.二层深色带和中间一层浅色带",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 31
+    },
+    {
+        "question_text": "249、目前得到广泛接受和支持的细胞膜分子结构模型是 （   ）",
+        "options": [
+            "A.单位膜模型",
+            "B.片层结构模型",
+            "C.液态镶嵌模型",
+            "D.脂双分子层",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 32
+    },
+    {
+        "question_text": "250、生物膜中流动的脂类是在可逆的进行无序（液态)和有序（晶态)的相变，膜蛋白对其周围的脂类分子运动具有直接限制作用的观点是由（   ）提出的。",
+        "options": [
+            "A.液态镶嵌模型",
+            "B.晶格镶嵌模型",
+            "C.片层结构模型",
+            "D.单位膜模型",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 33
+    },
+    {
+        "question_text": "251、关于液态镶嵌模型，下列说法错误的是 （   ） 。",
+        "options": [
+            "A.认为流动的脂双分子层构成生物膜的连续主体",
+            "B.球形的蛋白以各种形式镶嵌在脂双分子层中或附着在膜表面",
+            "C.强调了膜的流动性和不对称性",
+            "D.强调了膜蛋白分子对膜脂分子流动性的控制作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 34
+    },
+    {
+        "question_text": "252、由Singer和Nicolson提出的（   ），能够很好地解释生物膜的分子结构，并获得1972的诺贝尔奖。",
+        "options": [
+            "A.片层结构模型",
+            "B.单位膜模型",
+            "C.液态镶嵌模型",
+            "D.脂筏模型",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 35
+    },
+    {
+        "question_text": "253、下列哪种结构不是单位膜 （   ）",
+        "options": [
+            "A.细胞膜",
+            "B.内质网膜",
+            "C.细胞外被",
+            "D.线粒体外膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 36
+    },
+    {
+        "question_text": "254、在质膜上富含胆固醇和鞘磷脂的微结构域，大小为70nm左右，位于脂双层的外层，该结构域称为 （   ）",
+        "options": [
+            "A.单位膜",
+            "B.液晶态",
+            "C.脂筏",
+            "D.晶格",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 37
+    },
+    {
+        "question_text": "255、细胞膜的厚度不超过",
+        "options": [
+            "A.5.5nm",
+            "B.6.5nm",
+            "C.7.5nm",
+            "D.8.5nm",
+            "E.10.5nm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 38
+    },
+    {
+        "question_text": "256、正常细胞质膜上磷脂酰丝氨酸的分布 （   ）",
+        "options": [
+            "A.在脂双层的内外两层大致相当",
+            "B.主要分布在脂双层内层",
+            "C.主要分布在脂双层外层",
+            "D.无分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 39
+    },
+    {
+        "question_text": "257、磷脂酰胆碱多分布在细胞膜的 （   ）",
+        "options": [
+            "A.在脂双层的内外两层大致相当",
+            "B.主要分布在脂双层内层",
+            "C.主要分布在脂双层外层",
+            "D.无分布",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 40
+    },
+    {
+        "question_text": "258、在生理状态下，细胞膜处于何种状态 （   ）",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.液晶态",
+            "D.晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 41
+    },
+    {
+        "question_text": "259、糖脂在细胞膜上是如何分布的？ （   ）",
+        "options": [
+            "A.全部分布在胞质面",
+            "B.全部分布在非胞质面",
+            "C.胞质面和非胞质面都有分布",
+            "D.在细胞膜上无分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 42
+    },
+    {
+        "question_text": "260、细胞膜的不对称性最主要体现在 （   ）",
+        "options": [
+            "A.膜内外层脂类分子分布不同",
+            "B.膜蛋白不同程度镶嵌",
+            "C.膜外层有糖被",
+            "D.膜内外层脂类含量、比例不同，膜蛋白不同程度镶嵌于脂质双分子层",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 43
+    },
+    {
+        "question_text": "261、膜的两大理化特性是流动性和 （   ）",
+        "options": [
+            "A.通透性",
+            "B.选择性",
+            "C.不对称性",
+            "D.液晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 44
+    },
+    {
+        "question_text": "262、目前认为脂双层是 （   ）",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.液晶态",
+            "D.晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 45
+    },
+    {
+        "question_text": "263、“细胞融合免疫荧光法”作为一项经典实验，可以证明 （   ）",
+        "options": [
+            "A.蛋白质在膜层中的侧向移动",
+            "B.蛋白质在膜层中的旋转运动",
+            "C.脂类在膜层中的侧向移动",
+            "D.脂类在膜层中的旋转运动",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 46
+    },
+    {
+        "question_text": "264、当温度降至某一点时，细胞膜可从（   ）转变为晶态。",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.气态",
+            "D.液晶态",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 47
+    },
+    {
+        "question_text": "265、从总体角度来看，胆固醇对膜的流动性的影响在于 （   ）",
+        "options": [
+            "A.增加膜的流动性",
+            "B.增加膜的稳定性",
+            "C.增加膜的无序性",
+            "D.增加膜的通透性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 48
+    },
+    {
+        "question_text": "266、细胞膜中，膜蛋白的主要运动方式为 （   ）",
+        "options": [
+            "A.旋转运动",
+            "B.侧向移动",
+            "C.左右摆动",
+            "D.翻转运动",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 49
+    },
+    {
+        "question_text": "267、一般来讲，脂肪酸链的长度越长，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 50
+    },
+    {
+        "question_text": "268、一般来讲，脂肪酸链的不饱和程度越高，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 51
+    },
+    {
+        "question_text": "269、用磷脂酶处理完整的人类红细胞，以下哪种膜脂容易被降解 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘磷脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 52
+    },
+    {
+        "question_text": "270、用磷脂酶C处理完成的细胞，能释放出哪一类膜结合蛋白 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.糖蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 53
+    },
+    {
+        "question_text": "271、在相变温度范围内，下列情况中使得膜的流动性增大的是 （   ）",
+        "options": [
+            "A.胆固醇含量高",
+            "B.脂肪酸链越短",
+            "C.脂肪酸链饱和程度越高",
+            "D.温度越低",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 54
+    },
+    {
+        "question_text": "272、其他条件相同时，在（   ）情况下膜的流动性较高。",
+        "options": [
+            "A.胆固醇含量高",
+            "B.饱和脂肪酸含量高",
+            "C.长链脂肪酸含量高",
+            "D.在生理温度范围内温度升高",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 55
+    },
+    {
+        "question_text": "273、一般来讲，胆固醇含量越高，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 56
+    },
+    {
+        "question_text": "274、一般来说，卵磷脂/鞘磷脂的比例越高，则膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 57
+    },
+    {
+        "question_text": "275、下列哪种膜蛋白的含量越高，膜的流动性越低 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 58
+    },
+    {
+        "question_text": "276、用两种不同的荧光素分子分别标记两个细胞质膜中的脂类分子，再将两个细胞融合，经过一定时间后，会发现两种荧光均匀分布在细胞质膜上，这表明了组成质膜的脂分子 （   ）",
+        "options": [
+            "A.在双层之间做翻转运动",
+            "B.做旋转运动",
+            "C.做弯曲运动",
+            "D.沿膜平面做侧向运动",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 59
+    },
+    {
+        "question_text": "277、下列疾病中属于膜转运异常疾病的是 （   ）",
+        "options": [
+            "A.痛风",
+            "B.胱氨酸尿症",
+            "C.Leber遗传性视神经病",
+            "D.Zellweger综合征",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 60
+    },
+    {
+        "question_text": "278、由于患者血清中存在可以和神经肌肉接头处突触后膜的乙酰胆碱受体相结合的抗体，引起的疾病是 （ ）",
+        "options": [
+            "A.高胆固醇血症",
+            "B.肌无力症",
+            "C.丙种球蛋白血症",
+            "D.胱氨酸尿症",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 61
+    },
+    {
+        "question_text": "279、下列关于癌细胞的表面结构的描述，说法错误的是（   ）",
+        "options": [
+            "A.接触抑制丧失",
+            "B.黏着作用消失",
+            "C.细胞膜组成的异常",
+            "D.抗原性维持不变",
+            "E.与外源性凝集素的反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 62
+    },
+    {
+        "question_text": "280、由正常细胞转化为癌细胞,细胞膜上最显著的差异为（   ）",
+        "options": [
+            "A.接触抑制丧失",
+            "B.黏着作用消失",
+            "C.细胞膜组成的异常",
+            "D.抗原性维持不变",
+            "E.与外源性凝集素的反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 63
+    },
+    {
+        "question_text": "281、脂质体作为一种基因传递的载体，其优点不包括下列的（   ）",
+        "options": [
+            "A.可防止核酸被体内物质降解",
+            "B.无毒、无免疫原性",
+            "C.转染效率高",
+            "D.可定点转移基因",
+            "E.易于制备"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 64
+    },
+    {
+        "question_text": "282、下列关于生物膜结构和功能的叙述，正确的是 （   ）",
+        "options": [
+            "A.肌细胞的细胞膜上有协助葡萄糖跨膜运输的载体",
+            "B.细胞膜上的受体是细胞间信息交流所必需的结构",
+            "C.线粒体内膜上只分布着合成ATP的酶",
+            "D.核膜上的核孔可以让蛋白质和RNA自由进出",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 65
+    },
+    {
+        "question_text": "283、下列哪项不是真核细胞细胞膜的功能 （   ）",
+        "options": [
+            "A.细胞识别",
+            "B.物质运输",
+            "C.酶的合成",
+            "D.免疫应答",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 66
+    },
+    {
+        "question_text": "284、细胞中糖类主要分布于 （   ）",
+        "options": [
+            "A.细胞核表面",
+            "B.细胞膜非胞质面",
+            "C.内质网表面",
+            "D.细胞膜胞质面",
+            "E.高尔基复合体表面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 67
+    },
+    {
+        "question_text": "285、主动运输与胞吞作用的共同点是 （   ）",
+        "options": [
+            "A.转运大分子物质",
+            "B.逆浓度梯度运送",
+            "C.需载体帮助",
+            "D.消耗代谢能",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 68
+    },
+    {
+        "question_text": "286、红细胞膜上葡萄糖的被动运输是通过 （   ）",
+        "options": [
+            "A.载体蛋白在脂双层中扩散",
+            "B.载体蛋白在脂双层中翻转",
+            "C.载体蛋白发生可逆的构象改变",
+            "D.载体蛋白形成通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 69
+    },
+    {
+        "question_text": "287、动物细胞膜的细胞外被是 （   ）",
+        "options": [
+            "A.覆盖在细胞膜表面的多糖",
+            "B.细胞膜上糖蛋白和糖脂外伸的糖链",
+            "C.细胞膜上的糖蛋白",
+            "D.细胞膜上的糖脂",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 70
+    },
+    {
+        "question_text": "288、下列不是动物细胞表面特化结构的是 （   ）",
+        "options": [
+            "A.纤毛",
+            "B.细胞外被",
+            "C.圆泡",
+            "D.细胞内褶",
+            "E.微绒毛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 71
+    },
+    {
+        "question_text": "289、关于生物膜不正确的描述是 （   ）",
+        "options": [
+            "A.所有生物膜的厚度都基本相同",
+            "B.同一细胞不同部位的膜厚度不同",
+            "C.不同细胞的膜厚度不同",
+            "D.同一细胞器不同膜层厚度不同",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 72
+    },
+    {
+        "question_text": "290、生物膜的主要作用是",
+        "options": [
+            "A.区域化",
+            "B.合成酶",
+            "C.合成脂类",
+            "D.运输",
+            "E.提供能量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 73
+    },
+    {
+        "question_text": "291、下列细胞结构中只有一层单位膜的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.线粒体",
+            "C.高尔基复合体",
+            "D.叶绿体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 74
+    },
+    {
+        "question_text": "292、下列关于细胞膜的叙述哪项有误（   ）",
+        "options": [
+            "A.跨膜蛋白以各种形式镶嵌于脂质双分子层",
+            "B.含胆固醇",
+            "C.含糖脂",
+            "D.膜周边蛋白在膜的外表面",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 75
+    },
+    {
+        "question_text": "293、大部分跨膜蛋白的跨膜区都是（   ）",
+        "options": [
+            "A.α螺旋",
+            "B.β片层",
+            "C.三股螺旋",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 76
+    },
+    {
+        "question_text": "294、由细胞外信号转换为细胞内信使,从而使细胞对外界信号做出相应的反应,这是通过下列哪种机制完成的（   ）",
+        "options": [
+            "A.信号转导",
+            "B.cAMP",
+            "C.第二信使",
+            "D.信号分子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 77
+    },
+    {
+        "question_text": "295、有些个体由于某种基因的缺陷,致使血胆固醇水平增高而诱发冠状动脉疾病,其原因是（ ）",
+        "options": [
+            "A.胆固醇受体数量下降",
+            "B.低密度脂蛋白受体数量下降",
+            "C.低密度脂蛋白水平增高",
+            "D.由其他原因造成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 78
+    },
+    {
+        "question_text": "296、1999年诺贝尔医学奖授予发现控制蛋白质在细胞内传输和定位信号的科学家是（   ）",
+        "options": [
+            "A.特霍夫特",
+            "B.艾哈迈德.泽维尔",
+            "C.甘特.布劳贝尔",
+            "D.罗伯特.芒德尔",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 79
+    },
+    {
+        "question_text": "297、膜蛋白高度糖基化的细胞器是（   ）",
+        "options": [
+            "A.过氧化物酶体",
+            "B.高尔基复合体",
+            "C.线粒体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 80
+    },
+    {
+        "question_text": "298、肾上腺素和胰高血糖素都能同G蛋白偶联受体结合，并激活糖原的分解，因此肾上腺素和胰高血糖素必需（   ）",
+        "options": [
+            "A.具有非常相似的结构，并与相同的受体结合",
+            "B.同具有不同的配体结合位点但有相同功能的受体结合",
+            "C.同不同的受体结合并激活不同的第二信使",
+            "D.同相同的受体结合，但一个在细胞外，一个在细胞内",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 81
+    },
+    {
+        "question_text": "299、下列细胞表面特化结构中，主要作用是扩大细胞作用的表面积有利于细胞吸收的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.鞭毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 82
+    },
+    {
+        "question_text": "300、下列细胞表面特化结构中，被称为细胞吞饮装置的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.细胞内褶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 83
+    },
+    {
+        "question_text": "301、圆泡多出现在细胞有丝分裂的 （   ）",
+        "options": [
+            "A.晚期和G1期",
+            "B.S期",
+            "C.G2期",
+            "D.贯穿整个有丝分裂期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 84
+    },
+    {
+        "question_text": "302、动物细胞质膜外糖链构成的网络状结构叫做 （   ）",
+        "options": [
+            "A.细胞外被",
+            "B.微绒毛",
+            "C.褶皱",
+            "D.细胞内褶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 85
+    },
+    {
+        "question_text": "303、下列细胞表面特化结构中与细胞运动密切相关的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.鞭毛和纤毛",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 86
+    },
+    {
+        "question_text": "304、在各种细胞连接类型中，最为紧密的连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 87
+    },
+    {
+        "question_text": "305、下列细胞连接方式中，在构成血脑屏障和血睾屏障中起重要作用的是（   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 88
+    },
+    {
+        "question_text": "306、从上皮细胞的顶端到底部，各种细胞表面连接出现的顺序是 （   ）",
+        "options": [
+            "A.紧密连接→黏着带→桥粒→半桥粒",
+            "B.桥粒→半桥粒→黏着带→紧密连接",
+            "C.黏着带→紧密连接→半桥粒→桥粒",
+            "D.紧密连接→黏着带→半桥粒→桥粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 89
+    },
+    {
+        "question_text": "307、不受钙离子调节的连接方式是",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.间隙连接",
+            "E.粘合斑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 90
+    },
+    {
+        "question_text": "308、在上皮细胞最靠近管腔的连接是",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 91
+    },
+    {
+        "question_text": "309、在上皮、心肌和子宫颈等易受机械张力的组织中含量最为丰富的细胞连接类型是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.锚定连接",
+            "C.化学突触",
+            "D.间隙连接",
+            "E.胞间连丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 92
+    },
+    {
+        "question_text": "310、下列细胞连接中，不属于锚定连接的是 （   ）",
+        "options": [
+            "A.桥粒",
+            "B.半桥粒",
+            "C.间隙连接",
+            "D.黏着带",
+            "E.黏着斑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 93
+    },
+    {
+        "question_text": "311、与桥粒相连的细胞骨架是 （   ）",
+        "options": [
+            "A.肌动蛋白丝",
+            "B.微管",
+            "C.中间丝",
+            "D.核骨架",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 94
+    },
+    {
+        "question_text": "312、与黏着斑相连的细胞骨架是 （   ）",
+        "options": [
+            "A.肌动蛋白丝",
+            "B.微管",
+            "C.中间丝",
+            "D.核骨架",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 95
+    },
+    {
+        "question_text": "313、有肌动蛋白参与的细胞连接类型是 （   ）",
+        "options": [
+            "A.紧密连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 96
+    },
+    {
+        "question_text": "314、构成锚定连接的蛋白质可分为哪两类？（   ）",
+        "options": [
+            "A.细胞内附着蛋白和跨膜连接糖蛋白",
+            "B.细胞内附着蛋白和骨架蛋白",
+            "C.跨膜连接糖蛋白和骨架蛋白",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 97
+    },
+    {
+        "question_text": "315、在下列蛋白中，除（   ）外，都是粘着带所需要的。",
+        "options": [
+            "A.跨膜连接糖蛋白",
+            "B.细胞内附着蛋白",
+            "C.肌动蛋白",
+            "D.中间丝",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 98
+    },
+    {
+        "question_text": "316、下列哪一类型细胞中桥粒最多 （ ）",
+        "options": [
+            "A.平滑肌细胞",
+            "B.红细胞",
+            "C.表皮细胞",
+            "D.神经细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 99
+    },
+    {
+        "question_text": "317、体外培养的成纤维细胞通过（   ） 附着在培养瓶上。",
+        "options": [
+            "A.黏着斑",
+            "B.黏着带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 100
+    },
+    {
+        "question_text": "318、广泛分布于无脊椎动物中的锚定连接形式是 （   ）",
+        "options": [
+            "A.黏着斑",
+            "B.黏着带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.隔状连接"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 101
+    },
+    {
+        "question_text": "319、当组织承受外力时，使组织具有相当强的抗张和抗拉能力的细胞连接形式是 （   ）",
+        "options": [
+            "A.紧密连接",
+            "B.桥粒",
+            "C.黏着斑",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 102
+    },
+    {
+        "question_text": "320、关于半桥粒的说法错误的是 （   ）",
+        "options": [
+            "A.位于上皮细胞基面与基膜之间",
+            "B.连接的CAM为整合素",
+            "C.连接的胞内骨架成分为肌动蛋白束",
+            "D.其结构为桥粒的一半",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 103
+    },
+    {
+        "question_text": "321、赋予细胞抵抗机械张力的细胞连接是（ ）",
+        "options": [
+            "A.紧密连接",
+            "B.锚定连接",
+            "C.间隙连接",
+            "D.以上都是",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 104
+    },
+    {
+        "question_text": "322、细胞与基底膜之间形成的连接称为",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 105
+    },
+    {
+        "question_text": "323、具有细胞通讯作用的细胞连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 106
+    },
+    {
+        "question_text": "324、间隙连接的基本单位是连接子，每个连接子由 （   ） 个相同或相似的跨膜蛋白亚单位环绕。",
+        "options": [
+            "A.4",
+            "B.6",
+            "C.8",
+            "D.12",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 107
+    },
+    {
+        "question_text": "325、下列关于化学突触的说法，错误的是 （   ）",
+        "options": [
+            "A.是存在于可兴奋细胞间的一种连接方式",
+            "B.其作用是通过释放神经递质来传导兴奋",
+            "C.由突触前膜、突触后膜和突触间隙构成",
+            "D.突触后膜内有许多囊泡，称突触小泡",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 108
+    },
+    {
+        "question_text": "326、平滑肌、心肌、神经末梢间的电紧张突触属于 （   ）",
+        "options": [
+            "A.间隙连接",
+            "B.化学突触",
+            "C.胞间连丝",
+            "D.隔状连接",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 109
+    },
+    {
+        "question_text": "327、介导高等植物细胞间物质交换的细胞连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.锚定连接",
+            "C.化学突触",
+            "D.胞间连丝",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 110
+    },
+    {
+        "question_text": "328、植物细胞间有独特的连接结构，称为胞间连丝，其结构类似于动物细胞的 （   ）",
+        "options": [
+            "A.桥粒",
+            "B.间隙连接",
+            "C.紧密连接",
+            "D.黏着带",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 111
+    },
+    {
+        "question_text": "329、胞间连丝存在于（   ）",
+        "options": [
+            "A.动物上皮细胞之间",
+            "B.植物薄壁组织细胞之间",
+            "C.蓝藻群体细胞之间",
+            "D.四联球菌各细胞之间",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 112
+    },
+    {
+        "question_text": "330、下列不属于通讯连接的是 （   ）",
+        "options": [
+            "A.间隙连接",
+            "B.化学突触",
+            "C.胞间连丝",
+            "D.桥粒",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 113
+    },
+    {
+        "question_text": "331、具有代谢耦联的细胞连接",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 114
+    },
+    {
+        "question_text": "332、关于间隙连接，描述错误的是（   ）",
+        "options": [
+            "A.属于通讯连接",
+            "B.根据功能可分为代谢耦联与电耦联2种",
+            "C.根据构成可分为同型连接与异型连接",
+            "D.由相邻细胞的连接子对接形成疏水性通道",
+            "E.大量分布于可兴奋细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 115
+    },
+    {
+        "question_text": "333、参与神经递质释放的连接方式是",
+        "options": [
+            "A.化学突触",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 116
+    },
+    {
+        "question_text": "334、连接子构成(   )",
+        "options": [
+            "A.紧密连接",
+            "B.间隙连接",
+            "C.中间连接",
+            "D.封闭连接",
+            "E.桥粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 117
+    },
+    {
+        "question_text": "335、下列中细胞连接最完善的细胞是(   )",
+        "options": [
+            "A.小肠上皮细胞",
+            "B.肝细胞",
+            "C.胰腺内分泌细胞",
+            "D.血管平滑肌",
+            "E.骨细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 118
+    },
+    {
+        "question_text": "336、在小肠上皮的顶区和基底区分别存在两种不同的葡萄糖转运载体，这两种载体之所以能够在特定的区域各自工作，而不会相互混合，是因为哪种细胞连接方式的存在 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.隔状连接",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 119
+    },
+    {
+        "question_text": "337、下列不属于细胞外基质的成分是 （   ）",
+        "options": [
+            "A.氨基聚糖",
+            "B.胶原",
+            "C.非胶原糖蛋白",
+            "D.糖萼",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 120
+    },
+    {
+        "question_text": "338、下列关于细胞外基质的功能，说法不正确的是 （ ）",
+        "options": [
+            "A.影响细胞存活、生长与死亡",
+            "B.决定细胞形状",
+            "C.控制细胞的分裂",
+            "D.参与细胞迁移",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 121
+    },
+    {
+        "question_text": "339、蛋白聚糖是氨基聚糖GAG与核心蛋白质的共价结合物,其糖链是在细胞的什么部位安装上去的？（   ）",
+        "options": [
+            "A.细胞质",
+            "B.内质网",
+            "C.高尔基复合体",
+            "D.细胞核",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 122
+    },
+    {
+        "question_text": "340、以下关于氨基聚糖的描述哪条不正确？（   ）",
+        "options": [
+            "A.是由重复二糖单位构成的无分枝多糖",
+            "B.包括：透明质酸、硫酸软骨素、硫酸皮肤素、硫酸乙酰肝素、肝素、硫酸角质素等",
+            "C.透明质酸是唯一不发生硫酸化的氨基聚糖",
+            "D.各类氨基聚糖均可以与蛋白质共价结合，形成蛋白聚糖",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 123
+    },
+    {
+        "question_text": "341、以下哪一类组织中细胞外基质（ECM）含量较高？",
+        "options": [
+            "A.上皮组织",
+            "B.肌肉组织",
+            "C.神经组织",
+            "D.结缔组织",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 124
+    },
+    {
+        "question_text": "342、在细胞外基质中含量最高的成分是 （   ）",
+        "options": [
+            "A.蛋白聚糖",
+            "B.胶原",
+            "C.糖胺聚糖",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 125
+    },
+    {
+        "question_text": "343、胶原在哪种组织中含量最为丰富？（   ）",
+        "options": [
+            "A.上皮组织",
+            "B.肌肉组织",
+            "C.神经组织",
+            "D.结缔组织",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 126
+    },
+    {
+        "question_text": "344、在细胞外基质中抗张强度最大的是 （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.非胶原糖蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 127
+    },
+    {
+        "question_text": "345、不含糖的细胞外基质成分是",
+        "options": [
+            "A.纤连蛋白",
+            "B.渗滤素",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.层粘蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 128
+    },
+    {
+        "question_text": "346、赋予组织抗张力以及维持韧性的蛋白质是",
+        "options": [
+            "A.纤连蛋白",
+            "B.渗滤素",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.层粘蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 129
+    },
+    {
+        "question_text": "347、在细胞外基质中含量最丰富的纤维蛋白是",
+        "options": [
+            "A.胶原",
+            "B.蛋白聚糖",
+            "C.纤连蛋白",
+            "D.中间纤维",
+            "E.弹性纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 130
+    },
+    {
+        "question_text": "348、胶原蛋白不具有的特点是",
+        "options": [
+            "A.组织分布的多型性",
+            "B.含有糖链",
+            "C.三条多肽构成基本单位",
+            "D.强疏水性",
+            "E.氨基酸排列重复性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 131
+    },
+    {
+        "question_text": "349、被称为黏着糖蛋白的细胞外基质是 （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 132
+    },
+    {
+        "question_text": "350、纤连蛋白属于细胞外基质中的哪一类？ （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 133
+    },
+    {
+        "question_text": "351、层粘连蛋白的结构是",
+        "options": [
+            "A.V字体",
+            "B.十字形",
+            "C.网状",
+            "D.无规卷曲",
+            "E.直链线型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 134
+    },
+    {
+        "question_text": "352、功能不依赖钙离子或镁离子的黏附分子是（   ）",
+        "options": [
+            "A.整合素",
+            "B.选择素",
+            "C.钙粘蛋白",
+            "D.免疫球蛋白超家族",
+            "E.连接子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 135
+    },
+    {
+        "question_text": "353、以异源二聚体形式存在的细胞黏附分子是",
+        "options": [
+            "A.选择素",
+            "B.整联蛋白",
+            "C.钙粘蛋白",
+            "D.免疫蛋白超家族",
+            "E.蛋白聚糖类整合蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 136
+    },
+    {
+        "question_text": "354、关于黏附分子，描述错误的是（   ）",
+        "options": [
+            "A.介导细胞识别",
+            "B.本质为跨膜蛋白",
+            "C.钙黏蛋白、选择素介导同亲型细胞黏附",
+            "D.整联蛋白介导细胞与细胞外基质之间的粘附",
+            "E.除了免疫球蛋白超家族，其他黏附分子作用都需要钙离子或镁离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 137
+    },
+    {
+        "question_text": "355、正常情况下，乙醇、甘油等物质都是以（   ）方式进出细胞的。",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.通道蛋白",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 138
+    },
+    {
+        "question_text": "356、以下物质分子中不能以简单扩散方式透过细胞膜的是（   ）",
+        "options": [
+            "A.H2O",
+            "B.O2",
+            "C.尿素",
+            "D.葡萄糖",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 139
+    },
+    {
+        "question_text": "357、下列关于小分子穿膜运输的描述，错误的是",
+        "options": [
+            "A.一般来说，相对分子量越小，穿膜的速率越快",
+            "B.一般来说，水溶性越强，穿膜越容易",
+            "C.带电荷的分子或离子难以穿膜",
+            "D.非极性的小分子往往很容易穿膜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 140
+    },
+    {
+        "question_text": "358、既能介导主动运输，又能介导被动运输的膜蛋白为 （   ）",
+        "options": [
+            "A.通道蛋白",
+            "B.载体蛋白",
+            "C.钠钾泵",
+            "D.质子泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 141
+    },
+    {
+        "question_text": "359、下列膜泡运输中能够形成由网格蛋白所构成的特殊膜囊泡——有被小泡的是 （   ）",
+        "options": [
+            "A.胞饮作用",
+            "B.胞吞作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 142
+    },
+    {
+        "question_text": "360、下列关于钠钾泵的生理意义，说法错误的是 （   ）",
+        "options": [
+            "A.维持细胞外低钠高钾的浓度梯度",
+            "B.维持膜电位",
+            "C.调节细胞内外的渗透压",
+            "D.为细胞主动运输葡萄糖、氨基酸提供驱动力",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 143
+    },
+    {
+        "question_text": "361、下列穿膜运输方式中，介导被动运输的是 （   ）",
+        "options": [
+            "A.葡萄糖易化扩散",
+            "B.Na+驱动的葡萄糖转运",
+            "C.钠钾泵",
+            "D.H+泵",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 144
+    },
+    {
+        "question_text": "362、海带细胞从比自己浓度低40倍的海水中吸取碘,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 145
+    },
+    {
+        "question_text": "363、白细胞吞噬绿脓杆菌,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.离子通道扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 146
+    },
+    {
+        "question_text": "364、K+从浓度低的一侧通过膜到浓度高的一侧，属于以下哪种类型 （   ）",
+        "options": [
+            "A.载体蛋白主动运输",
+            "B.形成亲水通道主动运输",
+            "C.形成载体蛋白被动运输",
+            "D.形成亲水通道被动运输",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 147
+    },
+    {
+        "question_text": "365、小肠上皮吸收葡萄糖以及各种氨基酸时，通过（   ）达到逆浓度梯度运输。",
+        "options": [
+            "A.与钠离子相伴运输",
+            "B.与钾离子相伴运输",
+            "C.与钙离子相伴运输",
+            "D.易化扩散",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 148
+    },
+    {
+        "question_text": "366、在下列细胞物质运输方式中，不需要能量的是 （   ）",
+        "options": [
+            "A.胞吞作用",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 149
+    },
+    {
+        "question_text": "367、下列对于离子通道蛋白的描述，不正确的是 （   ）",
+        "options": [
+            "A.运输物质时不需要能量",
+            "B.开放或关闭往往受“闸门”控制",
+            "C.逆浓度梯度转运物质",
+            "D.是跨膜蛋白构成的亲水通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 150
+    },
+    {
+        "question_text": "368、一些转运蛋白在转运一种溶质分子时同时或随后伴随转运另一种溶质分子，称为 （   ）",
+        "options": [
+            "A.协同运输",
+            "B.易化扩散",
+            "C.受体介导的胞吞作用",
+            "D.离子通道扩散",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 151
+    },
+    {
+        "question_text": "369、下列属于主动运输中的间接供能运输的方式是 （   ）",
+        "options": [
+            "A.离子通道扩散",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 152
+    },
+    {
+        "question_text": "370、下列关于离子通道扩散的描述，不正确的是 （   ）",
+        "options": [
+            "A.快速、特异性强",
+            "B.由“闸门”控制连续开放",
+            "C.不消耗细胞代谢能",
+            "D.顺着电化学梯度转运物质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 153
+    },
+    {
+        "question_text": "371、下列运输方式中属于伴随运输的是 （   ）",
+        "options": [
+            "A.离子通道扩散",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 154
+    },
+    {
+        "question_text": "372、在一般生理情况下，每分解一分子ATP，钠泵转运可使 （ ）",
+        "options": [
+            "A.2个Na＋移出膜外，同时3个K＋移入膜内",
+            "B.2个K＋移出膜外，同时3个Na＋移入膜内",
+            "C.2个Na＋移出膜外，同时有2个K＋移入膜内",
+            "D.3个Na＋移出膜外，同时有2个K＋移入膜内",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 155
+    },
+    {
+        "question_text": "373、K+顺着浓度通过细胞膜的作用，属于以下哪种类型 （   ）",
+        "options": [
+            "A.载体蛋白主动运输",
+            "B.形成亲水通道主动运输",
+            "C.形成载体蛋白被动运输",
+            "D.形成亲水通道被动运输",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 156
+    },
+    {
+        "question_text": "374、需要载体蛋白的帮助，但不消耗细胞的代谢能，将物质顺浓度梯度进行转运的方式称为 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.主动运输",
+            "D.离子泵",
+            "E.膜泡运输"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 157
+    },
+    {
+        "question_text": "375、小肠上皮细胞由肠腔吸收葡萄糖，是属于 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.协同运输",
+            "D.离子泵",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 158
+    },
+    {
+        "question_text": "376、能与特定溶质结合，改变构象，使溶质分子顺浓度梯度通过膜的运输方式是 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.离子泵",
+            "D.钠离子驱动的葡萄糖主动运输",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 159
+    },
+    {
+        "question_text": "377、下列有关钠钾泵的说法，错误的是 （   ）",
+        "options": [
+            "A.钠钾泵的化学本质是Na+-K+ ATP酶",
+            "B.钠钾泵具有功能性的大亚基外侧有K+、乌本苷的结合部位，内侧有Na+、ATP的结合部位",
+            "C.每水解1分子ATP所释放的能量可泵入3个Na+，同时泵出2个K+",
+            "D.钠钾泵可为细胞主动运输葡萄糖、氨基酸提供驱动力",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 160
+    },
+    {
+        "question_text": "378、以下关于简单扩散和易化扩散的比较，说法不正确的是 （   ）",
+        "options": [
+            "A.简单扩散不需要载体蛋白",
+            "B.易化扩散需要载体蛋白的帮助",
+            "C.简单扩散速率总是与溶质浓度差成正比",
+            "D.易化扩散速率总是与溶质浓度差成正比",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 161
+    },
+    {
+        "question_text": "379、葡萄糖从肠腔进入小肠绒毛上皮细胞,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.钠离子浓度驱动的葡糖糖主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 162
+    },
+    {
+        "question_text": "380、葡萄糖从血液进入人体红细胞,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.钠离子浓度驱动的葡糖糖主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 163
+    },
+    {
+        "question_text": "381、氧气从肺泡进入肺泡毛细血管，属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 164
+    },
+    {
+        "question_text": "382、通道扩散为溶质分子____浓度梯度，____代谢能。 （   ）",
+        "options": [
+            "A.顺，消耗",
+            "B.顺，不消耗",
+            "C.逆，消耗",
+            "D.逆，不消耗",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 165
+    },
+    {
+        "question_text": "383、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。若在四支试管中均先加入0.3ml兔红细胞悬液，然后在四支试管中依次加入3ml下列溶液，不会发生溶血现象的是",
+        "options": [
+            "A.乙醇等渗液",
+            "B.氯化钠低渗液",
+            "C.氯化钠等渗液",
+            "D.氯化铵等渗液",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 166
+    },
+    {
+        "question_text": "384、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。若在四支试管中均先加入0.3ml兔红细胞悬液，然后在四支试管中依次加入3ml下列溶液，溶血现象发生速率最快的是",
+        "options": [
+            "A.氯化铵等渗液",
+            "B.醋酸铵等渗液",
+            "C.氯化钠等渗液",
+            "D.葡萄糖等渗液",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 167
+    },
+    {
+        "question_text": "385、内耳听觉毛细胞所具有的离子通道属于 （   ）",
+        "options": [
+            "A.电压门控通道",
+            "B.配体门控通道",
+            "C.机械门控通道",
+            "D.受体门控通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 168
+    },
+    {
+        "question_text": "386、已知某物质在细胞膜两侧的分布情况为：细胞内的浓度高于细胞外的浓度。在进行该物质的跨膜运输时，下列说法正确的是 （   ）",
+        "options": [
+            "A.进入细胞一定有载体蛋白的参与",
+            "B.运出细胞一定有载体蛋白的参与",
+            "C.运出细胞一定需要能量",
+            "D.进入细胞一定不需要能量",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 169
+    },
+    {
+        "question_text": "387、在简单扩散的跨膜转运中，下列物质按扩散速度由快到慢依次应为 （   ）",
+        "options": [
+            "A.乙醇、硝酸钠、甘油、葡萄糖",
+            "B.乙醇、甘油、葡萄糖、硝酸钠",
+            "C.乙醇、硝酸钠、葡萄糖、甘油",
+            "D.甘油、乙醇、硝酸钠、葡萄糖",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 170
+    },
+    {
+        "question_text": "388、存在于细胞膜上的钠钾泵，每消耗1分子的ATP可以 （   ）",
+        "options": [
+            "A.泵出3个钠离子，泵进2个钾离子",
+            "B.泵进3个钠离子，泵出2个钾离子",
+            "C.泵出2个钠离子，泵进3个钾离子",
+            "D.泵进2个钠离子，泵出3个钾离子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 171
+    },
+    {
+        "question_text": "389、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。实验发现将兔红细胞悬液加入氯化铵的等渗液中，经过几分钟后观察到溶血现象，下列对于该现象解释正确的是",
+        "options": [
+            "A.氯化铵能够破坏细胞膜的稳定性，导致红细胞破裂",
+            "B.NH4+能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "C.Cl-能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "D.NH4+水解产生NH3·H2O，NH3·H2O能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 172
+    },
+    {
+        "question_text": "390、钠离子浓度梯度驱动的葡萄糖主动运输中，存在的两种载体蛋白分别是 （   ）",
+        "options": [
+            "A.两种葡糖糖特异性载体",
+            "B.葡萄糖易化扩散载体和葡糖糖特异性载体",
+            "C.葡萄糖特异性载体和钠钾泵",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 173
+    },
+    {
+        "question_text": "391、钠钾泵兼有哪两重功能？（   ）",
+        "options": [
+            "A.载体蛋白和ATP酶",
+            "B.载体蛋白和ATP合酶",
+            "C.载体蛋白和GTP酶",
+            "D.离子通道和ATP酶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 174
+    },
+    {
+        "question_text": "392、下列哪种物质需要载体才能穿越细胞膜 （   ）",
+        "options": [
+            "A.乙醇",
+            "B.二氧化碳",
+            "C.尿素",
+            "D.氨基酸",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 175
+    },
+    {
+        "question_text": "393、以下哪类物质难以透过无蛋白的人工膜 （   ）",
+        "options": [
+            "A.钙离子",
+            "B.丙酮",
+            "C.水",
+            "D.二氧化碳",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 176
+    },
+    {
+        "question_text": "394、通道蛋白 （ ）",
+        "options": [
+            "A.运输时需要能量",
+            "B.对运输的物质没有选择性",
+            "C.逆浓度梯度转运物质",
+            "D.是跨膜蛋白构成的亲水通道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 177
+    },
+    {
+        "question_text": "395、细胞膜对小分子和离子的通透性主要取决于膜的结构属性和 （   ）",
+        "options": [
+            "A.胞内的PH值",
+            "B.物质自身的特性",
+            "C.细胞质基质环境",
+            "D.膜两侧的渗透压",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 178
+    },
+    {
+        "question_text": "396、主动运输与被动运输是以（   ）来划分的。",
+        "options": [
+            "A.是否借助载体蛋白",
+            "B.是否借助膜转运蛋白",
+            "C.是否消耗细胞代谢能",
+            "D.是进入细胞内还是运出细胞外",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 179
+    },
+    {
+        "question_text": "397、钠钾泵由大小两个亚基组成，其大亚基的内侧结合的是 （   ）",
+        "options": [
+            "A.钠离子和ATP",
+            "B.钾离子和ATP",
+            "C.钠离子和乌本苷",
+            "D.钾离子和乌本苷",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 180
+    },
+    {
+        "question_text": "398、易化扩散和主动运输的共同点是(   )",
+        "options": [
+            "A.顺浓度梯度转运",
+            "B.逆浓度梯度转运",
+            "C.需要消耗能量",
+            "D.不消耗能量",
+            "E.需要载体蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 181
+    },
+    {
+        "question_text": "399、主动运输与入胞作用的共同点是",
+        "options": [
+            "A.都是转运大分子物质",
+            "B.都是逆浓度梯度运送",
+            "C.都形成吞噬泡",
+            "D.都需要载体和通导蛋白帮助",
+            "E.都需要消耗能量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 182
+    },
+    {
+        "question_text": "400、Na+-K+泵每循环工作一次，往细胞外排出的Na+（   ）",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E.5个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 183
+    },
+    {
+        "question_text": "401、巨噬细胞吞噬细菌的过程称为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 184
+    },
+    {
+        "question_text": "402、下列膜泡运输方式中，对运输的物质具有很强的特异性的是 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 185
+    },
+    {
+        "question_text": "403、细胞对胆固醇的摄取，是通过下列（   ）运输方式实现的。",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 186
+    },
+    {
+        "question_text": "404、细胞内吞入较大的固体颗粒或分子复合物的膜泡运输方式为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 187
+    },
+    {
+        "question_text": "405、细胞吞入大分子溶液物质或极微小颗粒物的膜泡运输方式为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 188
+    },
+    {
+        "question_text": "406、受体介导的胞吞作用不具有的特点是（   ）",
+        "options": [
+            "A.在细胞膜的特定区域进行",
+            "B.形成有被小窝和有被小泡",
+            "C.吸入大量的细胞外液",
+            "D.胞吞速率比液相胞饮快",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 189
+    },
+    {
+        "question_text": "407、在下列膜泡运输方式中出现一类特殊的膜囊泡——有被小泡的是（   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 190
+    },
+    {
+        "question_text": "408、有被小泡的衣被的最主要的蛋白质是 （   ）",
+        "options": [
+            "A.载体蛋白",
+            "B.跨膜连接糖蛋白",
+            "C.网格蛋白",
+            "D.可溶性驻留蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 191
+    },
+    {
+        "question_text": "409、在低密度脂蛋白LDL通过受体介导的胞吞作用进入细胞内之后，被运输到（   ）细胞器中进行降解。",
+        "options": [
+            "A.粗面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 192
+    },
+    {
+        "question_text": "410、LDL的组成成分不包括下列的 （   ）",
+        "options": [
+            "A.酯化胆固醇",
+            "B.游离胆固醇",
+            "C.载脂蛋白",
+            "D.磷脂",
+            "E.糖脂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 193
+    },
+    {
+        "question_text": "411、在形成有被小泡的过程中组装产生衣被的作用是 （   ）",
+        "options": [
+            "A.产生物理作用力使得小泡脱离膜",
+            "B.增大小泡的表面积",
+            "C.保护小泡在运输中不被破坏",
+            "D.使得小泡更加美观",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 194
+    },
+    {
+        "question_text": "412、血液中胆固醇含量过高，会过早患动脉粥样硬化症。下列不会导致血中胆固醇积累的是 （   ）",
+        "options": [
+            "A.LDL合成过多",
+            "B.编码LDL受体的基因突变失活",
+            "C.LDL受体转运到细胞膜受阻",
+            "D.编码LDL的基因突变失活",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 195
+    },
+    {
+        "question_text": "413、在胞吐作用中，分泌蛋白合成后即装入高尔基体的分泌囊泡中，随即很快被分泌到细胞外，该分泌过程普遍存在于所有细胞中。这种膜泡运输被称为 （   ）",
+        "options": [
+            "A.结构性分泌",
+            "B.受调性分泌",
+            "C.受体介导的胞吞作用",
+            "D.胞饮作用",
+            "E.吞噬作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 196
+    },
+    {
+        "question_text": "414、分泌细胞产生的分泌物（如激素、粘液或消化酶）储存在分泌泡内，当细胞在受到胞外信号刺激时，分泌泡与质膜融合并将内含物释放出去。这种膜泡运输被称为 （   ）",
+        "options": [
+            "A.结构性分泌",
+            "B.受调性分泌",
+            "C.受体介导的胞吞作用",
+            "D.胞饮作用",
+            "E.吞噬作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 197
+    },
+    {
+        "question_text": "415、受体介导的胞吞作用不具有的特点是",
+        "options": [
+            "A.在细胞膜的特定区域进行",
+            "B.形成有被小窝和有被小泡",
+            "C.高度浓缩被摄入的物质",
+            "D.吸入大量的细胞外液体",
+            "E.是细胞摄取特定大分子的有效途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 198
+    },
+    {
+        "question_text": "416、低密度脂蛋白（LDL）进入细胞的方式为",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E.协同运输"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 199
+    },
+    {
+        "question_text": "417、LDL颗粒进入细胞的方式是(   )",
+        "options": [
+            "A.协同运输",
+            "B.主动运输",
+            "C.被动运输",
+            "D.对向运输",
+            "E.受体介导的胞吞作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 200
+    },
+    {
+        "question_text": "418、下列称为配体的是（   ）",
+        "options": [
+            "A.细胞内信号分子",
+            "B.第二信使",
+            "C.能特异性识别和结合胞外信号分子的膜蛋白",
+            "D.第一信使",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 201
+    },
+    {
+        "question_text": "419、能够与受体特异性识别并结合的是（   ）",
+        "options": [
+            "A.抗体",
+            "B.补体",
+            "C.配体",
+            "D.激酶",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 202
+    },
+    {
+        "question_text": "420、下列信号分子中，能通过血液循环到达靶细胞，多作用于较远距离的靶细胞的是（   ）",
+        "options": [
+            "A.激素",
+            "B.细胞因子",
+            "C.神经递质",
+            "D.气体分子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 203
+    },
+    {
+        "question_text": "421、下列信号分子中，（   ）作为细胞内信号传递的信使是近年来生命科学领域的一个重要成就。",
+        "options": [
+            "A.NO",
+            "B.乙酰胆碱",
+            "C.表皮生长因子",
+            "D.雌二醇",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 204
+    },
+    {
+        "question_text": "422、下列不属于一个完整的膜受体的组成成分的是（   ）",
+        "options": [
+            "A.识别部",
+            "B.效应部",
+            "C.转换部",
+            "D.信号部",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 205
+    },
+    {
+        "question_text": "423、胰岛素等生长因子作为配体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 206
+    },
+    {
+        "question_text": "424、N-乙酰胆碱作为配体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 207
+    },
+    {
+        "question_text": "425、具有7个跨膜疏水区域的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 208
+    },
+    {
+        "question_text": "426、被称为蛇形受体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 209
+    },
+    {
+        "question_text": "427、下列过程中未体现生物膜信息传递功能的是 （   ）",
+        "options": [
+            "A.蔗糖溶液使洋葱表皮细胞发生质壁分离",
+            "B.抗原刺激引发记忆细胞增殖分化",
+            "C.胰岛素调节靶细胞对葡萄糖的摄取",
+            "D.传出神经细胞兴奋引起肌肉收缩",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 210
+    },
+    {
+        "question_text": "428、下列关于膜受体的特性，说法不对的是 （   ）",
+        "options": [
+            "A.受体与配体的结合具有特异性和决定性",
+            "B.受体与配体结合具有可饱和性",
+            "C.受体与配体具有高亲和力",
+            "D.受体与配体的结合具有可逆性",
+            "E.受体只存在于靶细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 211
+    },
+    {
+        "question_text": "429、下列关于受体与配体的结合，说法错误是 （   ）",
+        "options": [
+            "A.配体与受体的结合具有一定的专一性",
+            "B.受体与配体的结合有一个饱和度",
+            "C.受体与配体结合是以共价键结合的",
+            "D.受体对其配体的亲和力很强，作用迅速敏感",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 212
+    },
+    {
+        "question_text": "430、临床上某些糖尿病患者，血中胰岛素的含量不低，但采用胰岛素治疗时，暂时有效，随着治疗的进行必须加大胰岛素的剂量。导致该现象出现的最合理解释是 （   ）",
+        "options": [
+            "A.患者细胞膜上胰岛素受体少?，接受胰岛素治疗后受体越来越少",
+            "B.患者体内胰岛素活性低",
+            "C.患者在接受胰岛素治疗后，细胞膜上的受体增加",
+            "D.患者所得的糖尿病不能用胰岛素缓解症状",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 213
+    },
+    {
+        "question_text": "431、关于膜受体的数量和分布，下列说法错误的是 （   ）",
+        "options": [
+            "A.一种细胞膜上可以有几种不同的受体",
+            "B.同一受体在不同的细胞膜上的数目不相同",
+            "C.受体的数目在正常的生理条件下是恒定的",
+            "D.受体的数目不会受到外界环境变化等因素的影响",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 214
+    },
+    {
+        "question_text": "432、有关受体的激动剂和阻断剂，说法不对的是 （   ）",
+        "options": [
+            "A.激动剂和阻断剂都可以与受体结合",
+            "B.激动剂与受体亲和力大，而阻断剂与受体的亲和力小",
+            "C.激动剂与受体的亲和力大，并且内在活性大",
+            "D.阻断剂与受体的亲和力大，并且缺乏内在活性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 215
+    },
+    {
+        "question_text": "433、下列关于G蛋白的描述，不正确的是（   ）",
+        "options": [
+            "A.由a、b、g 三个亚单位构成的异聚体",
+            "B.具有结合GTP或GDP的能力",
+            "C.具有GDP酶的活性，能将与之结合的GDP分解形成GMP",
+            "D.其本身的构象的改变可进一步激活效应蛋白，使后者活化",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 216
+    },
+    {
+        "question_text": "434、G蛋白是",
+        "options": [
+            "A.配体",
+            "B.受体",
+            "C.第一信使",
+            "D.第二信使",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 217
+    },
+    {
+        "question_text": "435、下列G蛋白中，a亚单位对效应蛋白起激活作用的是（   ）",
+        "options": [
+            "A.Gs",
+            "B.Gi",
+            "C.Gq",
+            "D.Gm",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 218
+    },
+    {
+        "question_text": "436、G蛋白的异三聚体中，对效应蛋白起激活作用的亚单位是 （   ）",
+        "options": [
+            "A.a",
+            "B.b",
+            "C.g",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 219
+    },
+    {
+        "question_text": "437、下列G蛋白中，a亚单位对效应蛋白起抑制作用的是（   ）",
+        "options": [
+            "A.Gs",
+            "B.Gi",
+            "C.Gq",
+            "D.Gm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 220
+    },
+    {
+        "question_text": "438、在静息状态下，G蛋白以异三聚体的形式存在于膜上，其 （   ）",
+        "options": [
+            "A.与GDP相结合，与受体呈分离状态",
+            "B.与GTP相结合，与受体呈分离状态",
+            "C.与GDP相结合，与受体呈结合状态",
+            "D.与GTP相结合，与受体呈结合状态",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 221
+    },
+    {
+        "question_text": "439、G蛋白的功能状态是 （   ）",
+        "options": [
+            "A.α亚单位与β、γ亚单位分离，α亚单位与GDP结合",
+            "B.α亚单位与β、γ亚单位分离，α亚单位与GTP结合",
+            "C.α亚单位与β、γ亚单位结合，α亚单位与GDP结合",
+            "D.α亚单位与β、γ亚单位结合，α亚单位与GTP结合",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 222
+    },
+    {
+        "question_text": "440、下列信号通路中，能够动员细胞内Ca2+的释放的是 （ ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.一氧化氮信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 223
+    },
+    {
+        "question_text": "441、下列信号通路中，由G蛋白介导的信号通路主要包括 （ ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 224
+    },
+    {
+        "question_text": "442、下列信号通路中，被称为“双信使系统”反应链的是（   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 225
+    },
+    {
+        "question_text": "443、在受体酪氨酸激酶信号通路中，起“桥梁”作用连接SH2结构域SH3结构域的接头蛋白是（   ）",
+        "options": [
+            "A.Ras蛋白",
+            "B.SOS",
+            "C.GRB2",
+            "D.Raf蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 226
+    },
+    {
+        "question_text": "444、RAS基因的哪一种突变很可能引起细胞的癌变（   ）",
+        "options": [
+            "A.突变后的Ras蛋白不能水解GTP",
+            "B.突变后的Ras蛋白不能结合GTP",
+            "C.突变后的Ras蛋白不能结合Grb2o或Sos",
+            "D.突变后的Ras蛋白不能结合Raf",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 227
+    },
+    {
+        "question_text": "445、在cAMP信号通路中，位于细胞膜上的关键的G蛋白效应蛋白是 （   ）",
+        "options": [
+            "A.磷脂酶C（PLC）",
+            "B.二酰甘油（DAG）",
+            "C.肌醇三磷酸（IP3）",
+            "D.Ca2+",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 228
+    },
+    {
+        "question_text": "446、磷脂酰肌醇信号通路中第二信使有二酰甘油（DAG）和 （   ）",
+        "options": [
+            "A.Ca2+",
+            "B.1,4,5三磷酸肌醇（IP3）",
+            "C.PLC",
+            "D.PIP2",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 229
+    },
+    {
+        "question_text": "447、下列信号通路中，当配体与膜受体的配体结合区结合后，受体发生自体磷酸化的是 （   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 230
+    },
+    {
+        "question_text": "448、下列哪种信号通路是通过MAPK级联放大反应实现的 （ ）",
+        "options": [
+            "A.tyr自身磷酸化",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 231
+    },
+    {
+        "question_text": "449、细胞内级联放大反应是通过何种蛋白加工修饰方式实现的 （   ）",
+        "options": [
+            "A.磷酸化与去磷酸化",
+            "B.糖基化与去糖基化",
+            "C.甲基化与去甲基化",
+            "D.乙酰化与去乙酰化",
+            "E.泛素化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 232
+    },
+    {
+        "question_text": "450、细胞之所以能够相互识别是与细胞膜中的（   ）有关。",
+        "options": [
+            "A.磷脂",
+            "B.糖脂",
+            "C.糖蛋白",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 233
+    },
+    {
+        "question_text": "451、细胞之间相互识别的分子基础不包括下列的 （   ）",
+        "options": [
+            "A.相同受体间的相互作用",
+            "B.受体与细胞表面大分子间的相互作用",
+            "C.相同受体与游离大分子间的相互作用",
+            "D.细胞表面大分子之间的相互作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 234
+    },
+    {
+        "question_text": "452、关于细胞黏着，下列说法错误的是 （   ）",
+        "options": [
+            "A.细胞黏着又称为细胞黏附",
+            "B.细胞黏着分为细胞与细胞间的黏着以及细胞与细胞外基质间的黏着",
+            "C.参与细胞间黏着的表面糖蛋白都是膜受体",
+            "D.参与细胞黏着的表面糖蛋白分子都依赖Ca2+",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 235
+    },
+    {
+        "question_text": "453、ABO血型抗原的本质是（ ）",
+        "options": [
+            "A.磷脂",
+            "B.糖脂",
+            "C.糖蛋白",
+            "D.酶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 236
+    },
+    {
+        "question_text": "454、MN血型抗原是一种 （   ）",
+        "options": [
+            "A.跨膜糖蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.膜脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 237
+    },
+    {
+        "question_text": "455、下列关于人的组织相容性抗原，说法不正确的是 （   ）",
+        "options": [
+            "A.人的组织相容性抗原称为人白细胞抗原（HLA）",
+            "B.人组织相容性抗原位于第6号常染色体上",
+            "C.任何两个个体的人组织相容性抗原的组织型均不相同",
+            "D.人组织相容性抗原可为免疫系统提供识别标志",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 238
+    },
+    {
+        "question_text": "456、关于T淋巴细胞和B淋巴细胞的说法，错误的是 （   ）",
+        "options": [
+            "A.均来源于骨髓的干细胞",
+            "B.B淋巴细胞是介导体液免疫的主角",
+            "C.T淋巴细胞是介导细胞免疫的主角",
+            "D.两类淋巴细胞各自分工，彼此之间没有交叉和配合",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 239
+    },
+    {
+        "question_text": "218、生物膜的主要化学成分是（   ）",
+        "options": [
+            "A.蛋白质和水",
+            "B.蛋白质和糖类",
+            "C.蛋白质和脂类",
+            "D.脂类和糖类",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 240
+    },
+    {
+        "question_text": "219、膜脂中最为重要的脂类是 （   ）",
+        "options": [
+            "A.脂肪酸",
+            "B.糖脂",
+            "C.磷脂",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 241
+    },
+    {
+        "question_text": "220、下列膜脂分子在膜中含量最多的是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘磷脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 242
+    },
+    {
+        "question_text": "221、下列生物膜中蛋白质/脂类比值最大的是 （   ）",
+        "options": [
+            "A.神经髓鞘",
+            "B.人红细胞膜",
+            "C.内质网膜",
+            "D.线粒体外膜",
+            "E.线粒体内膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 243
+    },
+    {
+        "question_text": "222、生物膜是指 （   ）",
+        "options": [
+            "A.细胞膜的另一种说法",
+            "B.除线粒体膜以外的各种膜的总称",
+            "C.内膜系统的膜",
+            "D.细胞膜、细胞内膜和线粒体膜的总称",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 244
+    },
+    {
+        "question_text": "223、最简单的磷酸甘油酯是 （   ）",
+        "options": [
+            "A.磷脂酸",
+            "B.磷脂酰胆碱",
+            "C.磷脂酰乙醇胺",
+            "D.磷脂酰丝氨酸",
+            "E.鞘氨醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 245
+    },
+    {
+        "question_text": "224、人体中多数细胞膜，其脂类与蛋白质含量相比 （   ）",
+        "options": [
+            "A.脂类含量高很多",
+            "B.蛋白质含量高很多",
+            "C.脂类和蛋白质含量大致相等",
+            "D.仅含有脂类，不含有蛋白质",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 246
+    },
+    {
+        "question_text": "225、最简单的糖脂分子是 （   ）",
+        "options": [
+            "A.脑苷脂",
+            "B.神经节苷脂",
+            "C.单半乳糖基甘油二酯",
+            "D.三半乳糖基甘油二酯",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 247
+    },
+    {
+        "question_text": "226、生物膜的各种成分中不属于双亲性分子的是 （   ）",
+        "options": [
+            "A.磷脂",
+            "B.胆固醇",
+            "C.跨膜蛋白",
+            "D.膜周边蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 248
+    },
+    {
+        "question_text": "227、被称为卵磷脂的磷脂分子是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘氨醇",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 249
+    },
+    {
+        "question_text": "228、被称为脑磷脂的磷脂分子是 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘氨醇",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 250
+    },
+    {
+        "question_text": "229、细胞膜有能量交换、物质运输、信息传递三种主要功能，这些功能与组成膜的哪种物质有直接关系 （   ）",
+        "options": [
+            "A.磷脂",
+            "B.糖类",
+            "C.蛋白质",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 251
+    },
+    {
+        "question_text": "230、下列膜蛋白中通过改变离子强度等较温和的条件就能从膜上溶解下来的是 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.三种蛋白都很难从膜上去除",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 252
+    },
+    {
+        "question_text": "231、膜周边蛋白与脂双层的结合通常不包括下列化学键中的 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.静电作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 253
+    },
+    {
+        "question_text": "232、红细胞中的血影蛋白是一种 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 254
+    },
+    {
+        "question_text": "233、脂锚定蛋白与脂双层的结合是通过何种化学键实现的 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.静电作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 255
+    },
+    {
+        "question_text": "234、关于细胞膜上糖类的不正确的叙述是 （   ）",
+        "options": [
+            "A.质膜中糖类主要分布在膜的外表面",
+            "B.主要以糖蛋白和糖脂的形式存在",
+            "C.糖蛋白和糖脂上的低聚糖侧链从膜的胞质面伸出",
+            "D.糖蛋白中的糖链对蛋白质及膜的性质影响很大",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 256
+    },
+    {
+        "question_text": "235、以下关于跨膜蛋白的描述，错误的是 （   ）",
+        "options": [
+            "A.是双亲媒性分子",
+            "B.跨膜区是α螺旋或β筒",
+            "C.可跨膜一次或多次",
+            "D.因为与膜的疏水区非共价结合，因此较容易去除",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 257
+    },
+    {
+        "question_text": "236、一般来说，膜的功能越复杂，蛋白质/脂类该比值 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.恒定不变",
+            "D.可大可小，无相关性",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 258
+    },
+    {
+        "question_text": "237、细胞膜的特定功能是由组成膜的哪类生物大分子决定的（   ）",
+        "options": [
+            "A.蛋白质",
+            "B.脂类",
+            "C.糖类",
+            "D.核酸",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 259
+    },
+    {
+        "question_text": "238、下列分子不属于构成膜的化学成分的是 （   ）",
+        "options": [
+            "A.蛋白质",
+            "B.脂类",
+            "C.糖类",
+            "D.核酸",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 260
+    },
+    {
+        "question_text": "239、磷脂分子在细胞膜中的排列规律是 （   ）",
+        "options": [
+            "A.极性头部朝向膜的内、外两侧，疏水尾部朝向膜的中央",
+            "B.极性头部朝向膜的外侧，疏水尾部朝向膜的内侧",
+            "C.极性头部朝向膜的内侧，疏水尾部朝向膜的外侧",
+            "D.极性头部朝向膜的中央，疏水尾部朝向膜的内、外两侧",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 261
+    },
+    {
+        "question_text": "240、关于细胞膜上的糖类不正确的描述是 （   ）",
+        "options": [
+            "A.质膜中的糖类含量约占质膜重量的2%-10%",
+            "B.主要以糖蛋白和糖脂的形式存在",
+            "C.糖蛋白和糖脂上的低聚糖从生物膜的胞质面伸出",
+            "D.与细胞免疫、细胞识别及细胞癌变有密切关系",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 262
+    },
+    {
+        "question_text": "241、下列膜脂的运动方式中较不常见运动方式的是 （   ）",
+        "options": [
+            "A.烃链的弯曲运动",
+            "B.侧向扩散运动",
+            "C.翻转运动",
+            "D.旋转运动",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 263
+    },
+    {
+        "question_text": "242、细胞膜中跨膜蛋白与脂类的结合主要通过 （   ）",
+        "options": [
+            "A.共价键",
+            "B.离子键",
+            "C.氢键",
+            "D.疏水键",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 264
+    },
+    {
+        "question_text": "243、决定红细胞血型的物质是 （   ）",
+        "options": [
+            "A.糖脂",
+            "B.磷脂",
+            "C.糖蛋白",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 265
+    },
+    {
+        "question_text": "244、质膜中各种组分分布是高度不对称性的，在红细胞膜中 （   ）",
+        "options": [
+            "A.外层含磷脂酰乙醇胺、磷脂酰丝氨酸较多，内层含鞘磷脂和磷脂酰胆碱较多",
+            "B.外层含鞘磷脂和磷脂酰胆碱较多，内层含磷脂酰乙醇胺和磷脂酰丝氨酸较多",
+            "C.内层含胆固醇较多",
+            "D.糖脂大部分分布在内层",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 266
+    },
+    {
+        "question_text": "245、膜脂中含量最高的是",
+        "options": [
+            "A.胆固醇",
+            "B.糖脂",
+            "C.脑苷脂",
+            "D.糖蛋白",
+            "E.磷脂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 267
+    },
+    {
+        "question_text": "246、有关膜糖，下述哪种描述是正确的",
+        "options": [
+            "A.位于细胞膜或细胞内膜的外表面",
+            "B.位于细胞膜或细胞内膜的内表面",
+            "C.位于细胞膜外表面，细胞内膜内表面",
+            "D.位于细胞膜内表面，细胞内膜外表面",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 268
+    },
+    {
+        "question_text": "247、有关跨膜蛋白，下述哪项描述是错误的",
+        "options": [
+            "A.又称整合蛋白",
+            "B.属双亲性分子",
+            "C.分三种类型",
+            "D.肽链N端一般位于细胞内侧",
+            "E.跨膜区多为α-螺旋"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 269
+    },
+    {
+        "question_text": "248、在电子显微镜上，单位膜为 （   ）",
+        "options": [
+            "A.一层深色带",
+            "B.一层浅色带",
+            "C.一层深色带和两层浅色带",
+            "D.二层深色带和中间一层浅色带",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 270
+    },
+    {
+        "question_text": "249、目前得到广泛接受和支持的细胞膜分子结构模型是 （   ）",
+        "options": [
+            "A.单位膜模型",
+            "B.片层结构模型",
+            "C.液态镶嵌模型",
+            "D.脂双分子层",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 271
+    },
+    {
+        "question_text": "250、生物膜中流动的脂类是在可逆的进行无序（液态)和有序（晶态)的相变，膜蛋白对其周围的脂类分子运动具有直接限制作用的观点是由（   ）提出的。",
+        "options": [
+            "A.液态镶嵌模型",
+            "B.晶格镶嵌模型",
+            "C.片层结构模型",
+            "D.单位膜模型",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 272
+    },
+    {
+        "question_text": "251、关于液态镶嵌模型，下列说法错误的是 （   ） 。",
+        "options": [
+            "A.认为流动的脂双分子层构成生物膜的连续主体",
+            "B.球形的蛋白以各种形式镶嵌在脂双分子层中或附着在膜表面",
+            "C.强调了膜的流动性和不对称性",
+            "D.强调了膜蛋白分子对膜脂分子流动性的控制作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 273
+    },
+    {
+        "question_text": "252、由Singer和Nicolson提出的（   ），能够很好地解释生物膜的分子结构，并获得1972的诺贝尔奖。",
+        "options": [
+            "A.片层结构模型",
+            "B.单位膜模型",
+            "C.液态镶嵌模型",
+            "D.脂筏模型",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 274
+    },
+    {
+        "question_text": "253、下列哪种结构不是单位膜 （   ）",
+        "options": [
+            "A.细胞膜",
+            "B.内质网膜",
+            "C.细胞外被",
+            "D.线粒体外膜",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 275
+    },
+    {
+        "question_text": "254、在质膜上富含胆固醇和鞘磷脂的微结构域，大小为70nm左右，位于脂双层的外层，该结构域称为 （   ）",
+        "options": [
+            "A.单位膜",
+            "B.液晶态",
+            "C.脂筏",
+            "D.晶格",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 276
+    },
+    {
+        "question_text": "255、细胞膜的厚度不超过",
+        "options": [
+            "A.5.5nm",
+            "B.6.5nm",
+            "C.7.5nm",
+            "D.8.5nm",
+            "E.10.5nm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 277
+    },
+    {
+        "question_text": "256、正常细胞质膜上磷脂酰丝氨酸的分布 （   ）",
+        "options": [
+            "A.在脂双层的内外两层大致相当",
+            "B.主要分布在脂双层内层",
+            "C.主要分布在脂双层外层",
+            "D.无分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 278
+    },
+    {
+        "question_text": "257、磷脂酰胆碱多分布在细胞膜的 （   ）",
+        "options": [
+            "A.在脂双层的内外两层大致相当",
+            "B.主要分布在脂双层内层",
+            "C.主要分布在脂双层外层",
+            "D.无分布",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 279
+    },
+    {
+        "question_text": "258、在生理状态下，细胞膜处于何种状态 （   ）",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.液晶态",
+            "D.晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 280
+    },
+    {
+        "question_text": "259、糖脂在细胞膜上是如何分布的？ （   ）",
+        "options": [
+            "A.全部分布在胞质面",
+            "B.全部分布在非胞质面",
+            "C.胞质面和非胞质面都有分布",
+            "D.在细胞膜上无分布",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 281
+    },
+    {
+        "question_text": "260、细胞膜的不对称性最主要体现在 （   ）",
+        "options": [
+            "A.膜内外层脂类分子分布不同",
+            "B.膜蛋白不同程度镶嵌",
+            "C.膜外层有糖被",
+            "D.膜内外层脂类含量、比例不同，膜蛋白不同程度镶嵌于脂质双分子层",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 282
+    },
+    {
+        "question_text": "261、膜的两大理化特性是流动性和 （   ）",
+        "options": [
+            "A.通透性",
+            "B.选择性",
+            "C.不对称性",
+            "D.液晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 283
+    },
+    {
+        "question_text": "262、目前认为脂双层是 （   ）",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.液晶态",
+            "D.晶态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 284
+    },
+    {
+        "question_text": "263、“细胞融合免疫荧光法”作为一项经典实验，可以证明 （   ）",
+        "options": [
+            "A.蛋白质在膜层中的侧向移动",
+            "B.蛋白质在膜层中的旋转运动",
+            "C.脂类在膜层中的侧向移动",
+            "D.脂类在膜层中的旋转运动",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 285
+    },
+    {
+        "question_text": "264、当温度降至某一点时，细胞膜可从（   ）转变为晶态。",
+        "options": [
+            "A.固态",
+            "B.液态",
+            "C.气态",
+            "D.液晶态",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 286
+    },
+    {
+        "question_text": "265、从总体角度来看，胆固醇对膜的流动性的影响在于 （   ）",
+        "options": [
+            "A.增加膜的流动性",
+            "B.增加膜的稳定性",
+            "C.增加膜的无序性",
+            "D.增加膜的通透性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 287
+    },
+    {
+        "question_text": "266、细胞膜中，膜蛋白的主要运动方式为 （   ）",
+        "options": [
+            "A.旋转运动",
+            "B.侧向移动",
+            "C.左右摆动",
+            "D.翻转运动",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 288
+    },
+    {
+        "question_text": "267、一般来讲，脂肪酸链的长度越长，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 289
+    },
+    {
+        "question_text": "268、一般来讲，脂肪酸链的不饱和程度越高，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 290
+    },
+    {
+        "question_text": "269、用磷脂酶处理完整的人类红细胞，以下哪种膜脂容易被降解 （   ）",
+        "options": [
+            "A.磷脂酰胆碱",
+            "B.磷脂酰乙醇胺",
+            "C.磷脂酰丝氨酸",
+            "D.鞘磷脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 291
+    },
+    {
+        "question_text": "270、用磷脂酶C处理完成的细胞，能释放出哪一类膜结合蛋白 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.糖蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 292
+    },
+    {
+        "question_text": "271、在相变温度范围内，下列情况中使得膜的流动性增大的是 （   ）",
+        "options": [
+            "A.胆固醇含量高",
+            "B.脂肪酸链越短",
+            "C.脂肪酸链饱和程度越高",
+            "D.温度越低",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 293
+    },
+    {
+        "question_text": "272、其他条件相同时，在（   ）情况下膜的流动性较高。",
+        "options": [
+            "A.胆固醇含量高",
+            "B.饱和脂肪酸含量高",
+            "C.长链脂肪酸含量高",
+            "D.在生理温度范围内温度升高",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 294
+    },
+    {
+        "question_text": "273、一般来讲，胆固醇含量越高，膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 295
+    },
+    {
+        "question_text": "274、一般来说，卵磷脂/鞘磷脂的比例越高，则膜的流动性 （   ）",
+        "options": [
+            "A.越大",
+            "B.越小",
+            "C.不变",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 296
+    },
+    {
+        "question_text": "275、下列哪种膜蛋白的含量越高，膜的流动性越低 （   ）",
+        "options": [
+            "A.跨膜蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 297
+    },
+    {
+        "question_text": "276、用两种不同的荧光素分子分别标记两个细胞质膜中的脂类分子，再将两个细胞融合，经过一定时间后，会发现两种荧光均匀分布在细胞质膜上，这表明了组成质膜的脂分子 （   ）",
+        "options": [
+            "A.在双层之间做翻转运动",
+            "B.做旋转运动",
+            "C.做弯曲运动",
+            "D.沿膜平面做侧向运动",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 298
+    },
+    {
+        "question_text": "277、下列疾病中属于膜转运异常疾病的是 （   ）",
+        "options": [
+            "A.痛风",
+            "B.胱氨酸尿症",
+            "C.Leber遗传性视神经病",
+            "D.Zellweger综合征",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 299
+    },
+    {
+        "question_text": "278、由于患者血清中存在可以和神经肌肉接头处突触后膜的乙酰胆碱受体相结合的抗体，引起的疾病是 （   ）",
+        "options": [
+            "A.高胆固醇血症",
+            "B.肌无力症与乙酰胆碱受体",
+            "C.丙种球蛋白血症",
+            "D.胱氨酸尿症",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 300
+    },
+    {
+        "question_text": "279、下列关于癌细胞的表面结构的描述，说法错误的是（   ）",
+        "options": [
+            "A.接触抑制丧失",
+            "B.黏着作用消失",
+            "C.细胞膜组成的异常",
+            "D.抗原性维持不变",
+            "E.与外源性凝集素的反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 301
+    },
+    {
+        "question_text": "280、由正常细胞转化为癌细胞,细胞膜上最显著的差异为（   ）",
+        "options": [
+            "A.接触抑制丧失",
+            "B.黏着作用消失",
+            "C.细胞膜组成的异常",
+            "D.抗原性维持不变",
+            "E.与外源性凝集素的反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 302
+    },
+    {
+        "question_text": "281、脂质体作为一种基因传递的载体，其优点不包括下列的（   ）",
+        "options": [
+            "A.可防止核酸被体内物质降解",
+            "B.无毒、无免疫原性",
+            "C.转染效率高",
+            "D.可定点转移基因",
+            "E.易于制备"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 303
+    },
+    {
+        "question_text": "282、下列关于生物膜结构和功能的叙述，正确的是 （   ）",
+        "options": [
+            "A.肌细胞的细胞膜上有协助葡萄糖跨膜运输的载体",
+            "B.细胞膜上的受体是细胞间信息交流所必需的结构",
+            "C.线粒体内膜上只分布着合成ATP的酶",
+            "D.核膜上的核孔可以让蛋白质和RNA自由进出",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 304
+    },
+    {
+        "question_text": "283、下列哪项不是真核细胞细胞膜的功能 （   ）",
+        "options": [
+            "A.细胞识别",
+            "B.物质运输",
+            "C.酶的合成",
+            "D.免疫应答",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 305
+    },
+    {
+        "question_text": "284、细胞中糖类主要分布于 （   ）",
+        "options": [
+            "A.细胞核表面",
+            "B.细胞膜非胞质面",
+            "C.内质网表面",
+            "D.细胞膜胞质面",
+            "E.高尔基复合体表面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 306
+    },
+    {
+        "question_text": "285、主动运输与胞吞作用的共同点是 （   ）",
+        "options": [
+            "A.转运大分子物质",
+            "B.逆浓度梯度运送",
+            "C.需载体帮助",
+            "D.消耗代谢能",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 307
+    },
+    {
+        "question_text": "286、红细胞膜上葡萄糖的被动运输是通过 （   ）",
+        "options": [
+            "A.载体蛋白在脂双层中扩散",
+            "B.载体蛋白在脂双层中翻转",
+            "C.载体蛋白发生可逆的构象改变",
+            "D.载体蛋白形成通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 308
+    },
+    {
+        "question_text": "287、动物细胞膜的细胞外被是 （   ）",
+        "options": [
+            "A.覆盖在细胞膜表面的多糖",
+            "B.细胞膜上糖蛋白和糖脂外伸的糖链",
+            "C.细胞膜上的糖蛋白",
+            "D.细胞膜上的糖脂",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 309
+    },
+    {
+        "question_text": "288、下列不是动物细胞表面特化结构的是 （   ）",
+        "options": [
+            "A.纤毛",
+            "B.细胞外被",
+            "C.圆泡",
+            "D.细胞内褶",
+            "E.微绒毛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 310
+    },
+    {
+        "question_text": "289、关于生物膜不正确的描述是 （   ）",
+        "options": [
+            "A.所有生物膜的厚度都基本相同",
+            "B.同一细胞不同部位的膜厚度不同",
+            "C.不同细胞的膜厚度不同",
+            "D.同一细胞器不同膜层厚度不同",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 311
+    },
+    {
+        "question_text": "290、生物膜的主要作用是",
+        "options": [
+            "A.区域化",
+            "B.合成酶",
+            "C.合成脂类",
+            "D.运输",
+            "E.提供能量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 312
+    },
+    {
+        "question_text": "291、下列细胞结构中只有一层单位膜的是（   ）",
+        "options": [
+            "A.细胞核",
+            "B.线粒体",
+            "C.高尔基复合体",
+            "D.叶绿体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 313
+    },
+    {
+        "question_text": "292、下列关于细胞膜的叙述哪项有误（   ）",
+        "options": [
+            "A.跨膜蛋白以各种形式镶嵌于脂质双分子层",
+            "B.含胆固醇",
+            "C.含糖脂",
+            "D.膜周边蛋白在膜的外表面",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 314
+    },
+    {
+        "question_text": "293、大部分跨膜蛋白的跨膜区都是（   ）",
+        "options": [
+            "A.α螺旋",
+            "B.β片层",
+            "C.三股螺旋",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 315
+    },
+    {
+        "question_text": "294、由细胞外信号转换为细胞内信使,从而使细胞对外界信号做出相应的反应,这是通过下列哪种机制完成的（   ）",
+        "options": [
+            "A.信号转导",
+            "B.cAMP",
+            "C.第二信使",
+            "D.信号分子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 316
+    },
+    {
+        "question_text": "295、有些个体由于某种基因的缺陷,致使血胆固醇水平增高而诱发冠状动脉疾病,其原因是（   ）",
+        "options": [
+            "A.胆固醇受体数量下降",
+            "B.低密度脂蛋白受体数量下降",
+            "C.低密度脂蛋白水平增高",
+            "D.由其他原因造成",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 317
+    },
+    {
+        "question_text": "296、1999年诺贝尔医学奖授予发现控制蛋白质在细胞内传输和定位信号的科学家是（   ）",
+        "options": [
+            "A.特霍夫特",
+            "B.艾哈迈德.泽维尔",
+            "C.甘特.布劳贝尔",
+            "D.罗伯特.芒德尔",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 318
+    },
+    {
+        "question_text": "297、膜蛋白高度糖基化的细胞器是（   ）",
+        "options": [
+            "A.过氧化物酶体",
+            "B.高尔基复合体",
+            "C.线粒体",
+            "D.溶酶体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 319
+    },
+    {
+        "question_text": "298、肾上腺素和胰高血糖素都能同G蛋白偶联受体结合，并激活糖原的分解，因此肾上腺素和胰高血糖素必需（   ）",
+        "options": [
+            "A.具有非常相似的结构，并与相同的受体结合",
+            "B.同具有不同的配体结合位点但有相同功能的受体结合",
+            "C.同不同的受体结合并激活不同的第二信使",
+            "D.同相同的受体结合，但一个在细胞外，一个在细胞内",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 320
+    },
+    {
+        "question_text": "299、下列细胞表面特化结构中，主要作用是扩大细胞作用的表面积有利于细胞吸收的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.鞭毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 321
+    },
+    {
+        "question_text": "300、下列细胞表面特化结构中，被称为细胞吞饮装置的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.细胞内褶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 322
+    },
+    {
+        "question_text": "301、圆泡多出现在细胞有丝分裂的 （   ）",
+        "options": [
+            "A.晚期和G1期",
+            "B.S期",
+            "C.G2期",
+            "D.贯穿整个有丝分裂期",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 323
+    },
+    {
+        "question_text": "302、动物细胞质膜外糖链构成的网络状结构叫做 （   ）",
+        "options": [
+            "A.细胞外被",
+            "B.微绒毛",
+            "C.褶皱",
+            "D.细胞内褶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 324
+    },
+    {
+        "question_text": "303、下列细胞表面特化结构中与细胞运动密切相关的是 （   ）",
+        "options": [
+            "A.微绒毛",
+            "B.褶皱",
+            "C.圆泡",
+            "D.鞭毛和纤毛",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 325
+    },
+    {
+        "question_text": "304、在各种细胞连接类型中，最为紧密的连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 326
+    },
+    {
+        "question_text": "305、下列细胞连接方式中，在构成血脑屏障和血睾屏障中起重要作用的是（   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 327
+    },
+    {
+        "question_text": "306、从上皮细胞的顶端到底部，各种细胞表面连接出现的顺序是 （   ）",
+        "options": [
+            "A.紧密连接→黏着带→桥粒→半桥粒",
+            "B.桥粒→半桥粒→黏着带→紧密连接",
+            "C.黏着带→紧密连接→半桥粒→桥粒",
+            "D.紧密连接→黏着带→半桥粒→桥粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 328
+    },
+    {
+        "question_text": "307、不受钙离子调节的连接方式是",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.间隙连接",
+            "E.粘合斑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 329
+    },
+    {
+        "question_text": "308、在上皮细胞最靠近管腔的连接是",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 330
+    },
+    {
+        "question_text": "309、在上皮、心肌和子宫颈等易受机械张力的组织中含量最为丰富的细胞连接类型是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.锚定连接",
+            "C.化学突触",
+            "D.间隙连接",
+            "E.胞间连丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 331
+    },
+    {
+        "question_text": "310、下列细胞连接中，不属于锚定连接的是 （   ）",
+        "options": [
+            "A.桥粒",
+            "B.半桥粒",
+            "C.间隙连接",
+            "D.黏着带",
+            "E.黏着斑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 332
+    },
+    {
+        "question_text": "311、与桥粒相连的细胞骨架是 （   ）",
+        "options": [
+            "A.肌动蛋白丝",
+            "B.微管",
+            "C.中间丝",
+            "D.核骨架",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 333
+    },
+    {
+        "question_text": "312、与黏着斑相连的细胞骨架是 （   ）",
+        "options": [
+            "A.肌动蛋白丝",
+            "B.微管",
+            "C.中间丝",
+            "D.核骨架",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 334
+    },
+    {
+        "question_text": "313、有肌动蛋白参与的细胞连接类型是 （   ）",
+        "options": [
+            "A.紧密连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 335
+    },
+    {
+        "question_text": "314、构成锚定连接的蛋白质可分为哪两类？（   ）",
+        "options": [
+            "A.细胞内附着蛋白和跨膜连接糖蛋白",
+            "B.细胞内附着蛋白和骨架蛋白",
+            "C.跨膜连接糖蛋白和骨架蛋白",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 336
+    },
+    {
+        "question_text": "315、在下列蛋白中，除（   ）外，都是粘着带所需要的。",
+        "options": [
+            "A.跨膜连接糖蛋白",
+            "B.细胞内附着蛋白",
+            "C.肌动蛋白",
+            "D.中间丝",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 337
+    },
+    {
+        "question_text": "316、下列哪一类型细胞中桥粒最多 （ ）",
+        "options": [
+            "A.平滑肌细胞",
+            "B.红细胞",
+            "C.表皮细胞",
+            "D.神经细胞",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 338
+    },
+    {
+        "question_text": "317、体外培养的成纤维细胞通过（   ） 附着在培养瓶上。",
+        "options": [
+            "A.黏着斑",
+            "B.黏着带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 339
+    },
+    {
+        "question_text": "318、广泛分布于无脊椎动物中的锚定连接形式是 （   ）",
+        "options": [
+            "A.黏着斑",
+            "B.黏着带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.隔状连接"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 340
+    },
+    {
+        "question_text": "319、当组织承受外力时，使组织具有相当强的抗张和抗拉能力的细胞连接形式是 （   ）",
+        "options": [
+            "A.紧密连接",
+            "B.桥粒",
+            "C.黏着斑",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 341
+    },
+    {
+        "question_text": "320、关于半桥粒的说法错误的是 （   ）",
+        "options": [
+            "A.位于上皮细胞基面与基膜之间",
+            "B.连接的CAM为整合素",
+            "C.连接的胞内骨架成分为肌动蛋白束",
+            "D.其结构为桥粒的一半",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 342
+    },
+    {
+        "question_text": "321、赋予细胞抵抗机械张力的细胞连接是（   ）",
+        "options": [
+            "A.紧密连接",
+            "B.锚定连接",
+            "C.间隙连接",
+            "D.以上都是",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 343
+    },
+    {
+        "question_text": "322、细胞与基底膜之间形成的连接称为",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 344
+    },
+    {
+        "question_text": "323、具有细胞通讯作用的细胞连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.黏着带",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 345
+    },
+    {
+        "question_text": "324、间隙连接的基本单位是连接子，每个连接子由 （   ） 个相同或相似的跨膜蛋白亚单位环绕。",
+        "options": [
+            "A.4",
+            "B.6",
+            "C.8",
+            "D.12",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 346
+    },
+    {
+        "question_text": "325、下列关于化学突触的说法，错误的是 （   ）",
+        "options": [
+            "A.是存在于可兴奋细胞间的一种连接方式",
+            "B.其作用是通过释放神经递质来传导兴奋",
+            "C.由突触前膜、突触后膜和突触间隙构成",
+            "D.突触后膜内有许多囊泡，称突触小泡",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 347
+    },
+    {
+        "question_text": "326、平滑肌、心肌、神经末梢间的电紧张突触属于 （   ）",
+        "options": [
+            "A.间隙连接",
+            "B.化学突触",
+            "C.胞间连丝",
+            "D.隔状连接",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 348
+    },
+    {
+        "question_text": "327、介导高等植物细胞间物质交换的细胞连接方式是 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.锚定连接",
+            "C.化学突触",
+            "D.胞间连丝",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 349
+    },
+    {
+        "question_text": "328、植物细胞间有独特的连接结构，称为胞间连丝，其结构类似于动物细胞的 （   ）",
+        "options": [
+            "A.桥粒",
+            "B.间隙连接",
+            "C.紧密连接",
+            "D.黏着带",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 350
+    },
+    {
+        "question_text": "329、胞间连丝存在于（   ）",
+        "options": [
+            "A.动物上皮细胞之间",
+            "B.植物薄壁组织细胞之间",
+            "C.蓝藻群体细胞之间",
+            "D.四联球菌各细胞之间",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 351
+    },
+    {
+        "question_text": "330、下列不属于通讯连接的是 （   ）",
+        "options": [
+            "A.间隙连接",
+            "B.化学突触",
+            "C.胞间连丝",
+            "D.桥粒",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 352
+    },
+    {
+        "question_text": "331、具有代谢耦联的细胞连接",
+        "options": [
+            "A.紧密连接",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 353
+    },
+    {
+        "question_text": "332、关于间隙连接，描述错误的是（   ）",
+        "options": [
+            "A.属于通讯连接",
+            "B.根据功能可分为代谢耦联与电耦联2种",
+            "C.根据构成可分为同型连接与异型连接",
+            "D.由相邻细胞的连接子对接形成疏水性通道",
+            "E.大量分布于可兴奋细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 354
+    },
+    {
+        "question_text": "333、参与神经递质释放的连接方式是",
+        "options": [
+            "A.化学突触",
+            "B.粘合带",
+            "C.桥粒",
+            "D.半桥粒",
+            "E.间隙连接"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 355
+    },
+    {
+        "question_text": "334、连接子构成(   )",
+        "options": [
+            "A.紧密连接",
+            "B.间隙连接",
+            "C.中间连接",
+            "D.封闭连接",
+            "E.桥粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 356
+    },
+    {
+        "question_text": "335、下列中细胞连接最完善的细胞是(   )",
+        "options": [
+            "A.小肠上皮细胞",
+            "B.肝细胞",
+            "C.胰腺内分泌细胞",
+            "D.血管平滑肌",
+            "E.骨细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 357
+    },
+    {
+        "question_text": "336、在小肠上皮的顶区和基底区分别存在两种不同的葡萄糖转运载体，这两种载体之所以能够在特定的区域各自工作，而不会相互混合，是因为哪种细胞连接方式的存在 （   ）",
+        "options": [
+            "A.封闭连接",
+            "B.桥粒",
+            "C.隔状连接",
+            "D.间隙连接",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 358
+    },
+    {
+        "question_text": "337、下列不属于细胞外基质的成分是 （   ）",
+        "options": [
+            "A.氨基聚糖",
+            "B.胶原",
+            "C.非胶原糖蛋白",
+            "D.糖萼",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 359
+    },
+    {
+        "question_text": "338、下列关于细胞外基质的功能，说法不正确的是 （   ）",
+        "options": [
+            "A.影响细胞存活、生长与死亡",
+            "B.决定细胞形状",
+            "C.控制细胞的分裂",
+            "D.参与细胞迁移",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 360
+    },
+    {
+        "question_text": "339、蛋白聚糖是氨基聚糖GAG与核心蛋白质的共价结合物,其糖链是在细胞的什么部位安装上去的？（   ）",
+        "options": [
+            "A.细胞质",
+            "B.内质网",
+            "C.高尔基复合体",
+            "D.细胞核",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 361
+    },
+    {
+        "question_text": "340、以下关于氨基聚糖的描述哪条不正确？（   ）",
+        "options": [
+            "A.是由重复二糖单位构成的无分枝多糖",
+            "B.包括：透明质酸、硫酸软骨素、硫酸皮肤素、硫酸乙酰肝素、肝素、硫酸角质素等",
+            "C.透明质酸是唯一不发生硫酸化的氨基聚糖",
+            "D.各类氨基聚糖均可以与蛋白质共价结合，形成蛋白聚糖",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 362
+    },
+    {
+        "question_text": "341、以下哪一类组织中细胞外基质（ECM）含量较高？",
+        "options": [
+            "A.上皮组织",
+            "B.肌肉组织",
+            "C.神经组织",
+            "D.结缔组织",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 363
+    },
+    {
+        "question_text": "342、在细胞外基质中含量最高的成分是 （   ）",
+        "options": [
+            "A.蛋白聚糖",
+            "B.胶原",
+            "C.糖胺聚糖",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 364
+    },
+    {
+        "question_text": "343、胶原在哪种组织中含量最为丰富？（   ）",
+        "options": [
+            "A.上皮组织",
+            "B.肌肉组织",
+            "C.神经组织",
+            "D.结缔组织",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 365
+    },
+    {
+        "question_text": "344、在细胞外基质中抗张强度最大的是 （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.非胶原糖蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 366
+    },
+    {
+        "question_text": "345、不含糖的细胞外基质成分是",
+        "options": [
+            "A.纤连蛋白",
+            "B.渗滤素",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.层粘蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 367
+    },
+    {
+        "question_text": "346、赋予组织抗张力以及维持韧性的蛋白质是",
+        "options": [
+            "A.纤连蛋白",
+            "B.渗滤素",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.层粘蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 368
+    },
+    {
+        "question_text": "347、在细胞外基质中含量最丰富的纤维蛋白是",
+        "options": [
+            "A.胶原",
+            "B.蛋白聚糖",
+            "C.纤连蛋白",
+            "D.中间纤维",
+            "E.弹性纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 369
+    },
+    {
+        "question_text": "348、胶原蛋白不具有的特点是",
+        "options": [
+            "A.组织分布的多型性",
+            "B.含有糖链",
+            "C.三条多肽构成基本单位",
+            "D.强疏水性",
+            "E.氨基酸排列重复性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 370
+    },
+    {
+        "question_text": "349、被称为黏着糖蛋白的细胞外基质是 （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 371
+    },
+    {
+        "question_text": "350、纤连蛋白属于细胞外基质中的哪一类？ （   ）",
+        "options": [
+            "A.糖胺聚糖",
+            "B.蛋白聚糖",
+            "C.胶原",
+            "D.弹性蛋白",
+            "E.非胶原糖蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 372
+    },
+    {
+        "question_text": "351、纤粘连蛋白的结构是",
+        "options": [
+            "A.V字体",
+            "B.十字形",
+            "C.网状",
+            "D.无规卷曲",
+            "E.直链线型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 373
+    },
+    {
+        "question_text": "352、功能不依赖钙离子或镁离子的黏附分子是（   ）",
+        "options": [
+            "A.整合素",
+            "B.选择素",
+            "C.钙粘蛋白",
+            "D.免疫球蛋白超家族",
+            "E.连接子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 374
+    },
+    {
+        "question_text": "353、以异源二聚体形式存在的细胞黏附分子是",
+        "options": [
+            "A.选择素",
+            "B.整联蛋白",
+            "C.钙粘蛋白",
+            "D.免疫蛋白超家族",
+            "E.蛋白聚糖类整合蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 375
+    },
+    {
+        "question_text": "354、关于黏附分子，描述错误的是（   ）",
+        "options": [
+            "A.介导细胞识别",
+            "B.本质为跨膜蛋白",
+            "C.钙黏蛋白、选择素介导同亲型细胞黏附",
+            "D.整联蛋白介导细胞与细胞外基质之间的粘附",
+            "E.除了免疫球蛋白超家族，其他黏附分子作用都需要钙离子或镁离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 376
+    },
+    {
+        "question_text": "355、正常情况下，乙醇、甘油等物质都是以（   ）方式进出细胞的。",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.通道蛋白",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 377
+    },
+    {
+        "question_text": "356、以下物质分子中不能以简单扩散方式透过细胞膜的是（   ）",
+        "options": [
+            "A.H2O",
+            "B.O2",
+            "C.尿素",
+            "D.葡萄糖",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 378
+    },
+    {
+        "question_text": "357、下列关于小分子穿膜运输的描述，错误的是",
+        "options": [
+            "A.一般来说，相对分子量越小，穿膜的速率越快",
+            "B.一般来说，水溶性越强，穿膜越容易",
+            "C.带电荷的分子或离子难以穿膜",
+            "D.非极性的小分子往往很容易穿膜",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 379
+    },
+    {
+        "question_text": "358、既能介导主动运输，又能介导被动运输的膜蛋白为 （   ）",
+        "options": [
+            "A.通道蛋白",
+            "B.载体蛋白",
+            "C.钠钾泵",
+            "D.质子泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 380
+    },
+    {
+        "question_text": "359、下列膜泡运输中能够形成由网格蛋白所构成的特殊膜囊泡——有被小泡的是 （   ）",
+        "options": [
+            "A.胞饮作用",
+            "B.胞吞作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 381
+    },
+    {
+        "question_text": "360、下列关于钠钾泵的生理意义，说法错误的是 （   ）",
+        "options": [
+            "A.维持细胞外低钠高钾的浓度梯度",
+            "B.维持膜电位",
+            "C.调节细胞内外的渗透压",
+            "D.为细胞主动运输葡萄糖、氨基酸提供驱动力",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 382
+    },
+    {
+        "question_text": "361、下列穿膜运输方式中，介导被动运输的是 （   ）",
+        "options": [
+            "A.葡萄糖易化扩散",
+            "B.Na+驱动的葡萄糖转运",
+            "C.钠钾泵",
+            "D.H+泵",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 383
+    },
+    {
+        "question_text": "362、海带细胞从比自己浓度低40倍的海水中吸取碘,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 384
+    },
+    {
+        "question_text": "363、白细胞吞噬绿脓杆菌,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.离子通道扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 385
+    },
+    {
+        "question_text": "364、K+从浓度低的一侧通过膜到浓度高的一侧，属于以下哪种类型 （   ）",
+        "options": [
+            "A.载体蛋白主动运输",
+            "B.形成亲水通道主动运输",
+            "C.形成载体蛋白被动运输",
+            "D.形成亲水通道被动运输",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 386
+    },
+    {
+        "question_text": "365、小肠上皮吸收葡萄糖以及各种氨基酸时，通过（   ）达到逆浓度梯度运输。",
+        "options": [
+            "A.与钠离子相伴运输",
+            "B.与钾离子相伴运输",
+            "C.与钙离子相伴运输",
+            "D.易化扩散",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 387
+    },
+    {
+        "question_text": "366、在下列细胞物质运输方式中，不需要能量的是 （   ）",
+        "options": [
+            "A.胞吞作用",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 388
+    },
+    {
+        "question_text": "367、下列对于离子通道蛋白的描述，不正确的是 （   ）",
+        "options": [
+            "A.运输物质时不需要能量",
+            "B.开放或关闭往往受“闸门”控制",
+            "C.逆浓度梯度转运物质",
+            "D.是跨膜蛋白构成的亲水通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 389
+    },
+    {
+        "question_text": "368、一些转运蛋白在转运一种溶质分子时同时或随后伴随转运另一种溶质分子，称为 （   ）",
+        "options": [
+            "A.协同运输",
+            "B.易化扩散",
+            "C.受体介导的胞吞作用",
+            "D.离子通道扩散",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 390
+    },
+    {
+        "question_text": "369、下列属于主动运输中的间接供能运输的方式是 （   ）",
+        "options": [
+            "A.离子通道扩散",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 391
+    },
+    {
+        "question_text": "370、下列关于离子通道扩散的描述，不正确的是 （   ）",
+        "options": [
+            "A.快速、特异性强",
+            "B.由“闸门”控制连续开放",
+            "C.不消耗细胞代谢能",
+            "D.顺着电化学梯度转运物质",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 392
+    },
+    {
+        "question_text": "371、下列运输方式中属于伴随运输的是 （   ）",
+        "options": [
+            "A.离子通道扩散",
+            "B.Na+驱动的葡萄糖主动运输",
+            "C.易化扩散",
+            "D.钠钾泵",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 393
+    },
+    {
+        "question_text": "372、在一般生理情况下，每分解一分子ATP，钠泵转运可使 （   ）",
+        "options": [
+            "A.2个Na＋移出膜外，同时3个K＋移入膜内",
+            "B.2个K＋移出膜外，同时3个Na＋移入膜内",
+            "C.2个Na＋移出膜外，同时有3个K＋移入膜内",
+            "D.3个Na＋移出膜外，同时有2个K＋移入膜内",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 394
+    },
+    {
+        "question_text": "373、K+顺着浓度通过细胞膜的作用，属于以下哪种类型 （   ）",
+        "options": [
+            "A.载体蛋白主动运输",
+            "B.形成亲水通道主动运输",
+            "C.形成载体蛋白被动运输",
+            "D.形成亲水通道被动运输",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 395
+    },
+    {
+        "question_text": "374、需要载体蛋白的帮助，但不消耗细胞的代谢能，将物质顺浓度梯度进行转运的方式称为 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.主动运输",
+            "D.离子泵",
+            "E.膜泡运输"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 396
+    },
+    {
+        "question_text": "375、小肠上皮细胞由肠腔吸收葡萄糖，是属于 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.协同运输",
+            "D.离子泵",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 397
+    },
+    {
+        "question_text": "376、能与特定溶质结合，改变构象，使溶质分子顺浓度梯度通过膜的运输方式是 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.易化扩散",
+            "C.离子泵",
+            "D.钠离子驱动的葡萄糖主动运输",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 398
+    },
+    {
+        "question_text": "377、下列有关钠钾泵的说法，错误的是 （   ）",
+        "options": [
+            "A.钠钾泵的化学本质是Na+-K+ ATP酶",
+            "B.钠钾泵具有功能性的大亚基外侧有K+、乌本苷的结合部位，内侧有Na+、ATP的结合部位",
+            "C.每水解1分子ATP所释放的能量可泵入3个Na+，同时泵出2个K+",
+            "D.钠钾泵可为细胞主动运输葡萄糖、氨基酸提供驱动力",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 399
+    },
+    {
+        "question_text": "378、以下关于简单扩散和易化扩散的比较，说法不正确的是 （   ）",
+        "options": [
+            "A.简单扩散不需要载体蛋白",
+            "B.易化扩散需要载体蛋白的帮助",
+            "C.简单扩散速率总是与溶质浓度差成正比",
+            "D.易化扩散速率总是与溶质浓度差成正比",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 400
+    },
+    {
+        "question_text": "379、葡萄糖从肠腔进入小肠绒毛上皮细胞,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.钠离子浓度驱动的葡糖糖主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 401
+    },
+    {
+        "question_text": "380、葡萄糖从血液进入人体红细胞,属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.钠离子浓度驱动的葡糖糖主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 402
+    },
+    {
+        "question_text": "381、氧气从肺泡进入肺泡毛细血管，属于细胞膜的哪种运输方式 （   ）",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.易化扩散",
+            "D.胞吞作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 403
+    },
+    {
+        "question_text": "382、通道扩散为溶质分子____浓度梯度，____代谢能。 （   ）",
+        "options": [
+            "A.顺，消耗",
+            "B.顺，不消耗",
+            "C.逆，消耗",
+            "D.逆，不消耗",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 404
+    },
+    {
+        "question_text": "383、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。若在四支试管中均先加入0.3ml兔红细胞悬液，然后在四支试管中依次加入3ml下列溶液，不会发生溶血现象的是",
+        "options": [
+            "A.乙醇等渗液",
+            "B.氯化钠低渗液",
+            "C.氯化钠等渗液",
+            "D.氯化铵等渗液",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 405
+    },
+    {
+        "question_text": "384、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。若在四支试管中均先加入0.3ml兔红细胞悬液，然后在四支试管中依次加入3ml下列溶液，溶血现象发生速率最快的是",
+        "options": [
+            "A.氯化铵等渗液",
+            "B.醋酸铵等渗液",
+            "C.氯化钠等渗液",
+            "D.葡萄糖等渗液",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 406
+    },
+    {
+        "question_text": "385、内耳听觉毛细胞所具有的离子通道属于 （   ）",
+        "options": [
+            "A.电压门控通道",
+            "B.配体门控通道",
+            "C.机械门控通道",
+            "D.受体门控通道",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 407
+    },
+    {
+        "question_text": "386、已知某物质在细胞膜两侧的分布情况为：细胞内的浓度高于细胞外的浓度。在进行该物质的跨膜运输时，下列说法正确的是 （   ）",
+        "options": [
+            "A.进入细胞一定有载体蛋白的参与",
+            "B.运出细胞一定有载体蛋白的参与",
+            "C.运出细胞一定需要能量",
+            "D.进入细胞一定不需要能量",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 408
+    },
+    {
+        "question_text": "387、在简单扩散的跨膜转运中，下列物质按扩散速度由快到慢依次应为 （   ）",
+        "options": [
+            "A.乙醇、硝酸钠、甘油、葡萄糖",
+            "B.乙醇、甘油、葡萄糖、硝酸钠",
+            "C.乙醇、硝酸钠、葡萄糖、甘油",
+            "D.甘油、乙醇、硝酸钠、葡萄糖",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 409
+    },
+    {
+        "question_text": "388、存在于细胞膜上的钠钾泵，每消耗1分子的ATP可以 （   ）",
+        "options": [
+            "A.泵出3个钠离子，泵进2个钾离子",
+            "B.泵进3个钠离子，泵出2个钾离子",
+            "C.泵出2个钠离子，泵进3个钾离子",
+            "D.泵进2个钠离子，泵出3个钾离子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 410
+    },
+    {
+        "question_text": "389、溶血是指红细胞膨胀至破裂血红素逸出，其现象是溶液由不透明突然变成透亮。实验发现将兔红细胞悬液加入氯化铵的等渗液中，经过几分钟后观察到溶血现象，下列对于该现象解释正确的是",
+        "options": [
+            "A.氯化铵能够破坏细胞膜的稳定性，导致红细胞破裂",
+            "B.NH4+能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "C.Cl-能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "D.NH4+水解产生NH3·H2O，NH3·H2O能够自由穿膜进入细胞内，导致细胞吸水胀破",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 411
+    },
+    {
+        "question_text": "390、钠离子浓度梯度驱动的葡萄糖主动运输中，存在的两种载体蛋白分别是 （   ）",
+        "options": [
+            "A.两种葡糖糖特异性载体",
+            "B.葡萄糖易化扩散载体和葡糖糖特异性载体",
+            "C.葡萄糖特异性载体和钠钾泵",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 412
+    },
+    {
+        "question_text": "391、钠钾泵兼有哪两重功能？（   ）",
+        "options": [
+            "A.载体蛋白和ATP酶",
+            "B.载体蛋白和ATP合酶",
+            "C.载体蛋白和GTP酶",
+            "D.离子通道和ATP酶",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 413
+    },
+    {
+        "question_text": "392、下列哪种物质需要载体才能穿越细胞膜 （   ）",
+        "options": [
+            "A.乙醇",
+            "B.二氧化碳",
+            "C.尿素",
+            "D.氨基酸",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 414
+    },
+    {
+        "question_text": "393、以下哪类物质难以透过无蛋白的人工膜 （   ）",
+        "options": [
+            "A.钙离子",
+            "B.丙酮",
+            "C.水",
+            "D.二氧化碳",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 415
+    },
+    {
+        "question_text": "394、通道蛋白 （   ）",
+        "options": [
+            "A.运输时需要能量",
+            "B.对运输的物质没有选择性",
+            "C.逆浓度梯度转运物质",
+            "D.是跨膜蛋白构成的亲水通道",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 416
+    },
+    {
+        "question_text": "395、细胞膜对小分子和离子的通透性主要取决于膜的结构属性和 （   ）",
+        "options": [
+            "A.胞内的PH值",
+            "B.物质自身的特性",
+            "C.细胞质基质环境",
+            "D.膜两侧的渗透压",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 417
+    },
+    {
+        "question_text": "396、主动运输与被动运输是以（   ）来划分的。",
+        "options": [
+            "A.是否借助载体蛋白",
+            "B.是否借助膜转运蛋白",
+            "C.是否消耗细胞代谢能",
+            "D.是进入细胞内还是运出细胞外",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 418
+    },
+    {
+        "question_text": "397、钠钾泵由大小两个亚基组成，其大亚基的内侧结合的是 （   ）",
+        "options": [
+            "A.钠离子和ATP",
+            "B.钾离子和ATP",
+            "C.钠离子和乌本苷",
+            "D.钾离子和乌本苷",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 419
+    },
+    {
+        "question_text": "398、易化扩散和主动运输的共同点是(   )",
+        "options": [
+            "A.顺浓度梯度转运",
+            "B.逆浓度梯度转运",
+            "C.需要消耗能量",
+            "D.不消耗能量",
+            "E.需要载体蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 420
+    },
+    {
+        "question_text": "399、主动运输与入胞作用的共同点是",
+        "options": [
+            "A.都是转运大分子物质",
+            "B.都是逆浓度梯度运送",
+            "C.都形成吞噬泡",
+            "D.都需要载体和通导蛋白帮助",
+            "E.都需要消耗能量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 421
+    },
+    {
+        "question_text": "400、Na+-K+泵每循环工作一次，往细胞外排出的Na+（   ）",
+        "options": [
+            "A.1个",
+            "B.2个",
+            "C.3个",
+            "D.4个",
+            "E.5个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 422
+    },
+    {
+        "question_text": "401、巨噬细胞吞噬细菌的过程称为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 423
+    },
+    {
+        "question_text": "402、下列膜泡运输方式中，对运输的物质具有很强的特异性的是 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 424
+    },
+    {
+        "question_text": "403、细胞对胆固醇的摄取，是通过下列（   ）运输方式实现的。",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 425
+    },
+    {
+        "question_text": "404、细胞内吞入较大的固体颗粒或分子复合物的膜泡运输方式为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 426
+    },
+    {
+        "question_text": "405、细胞吞入大分子溶液物质或极微小颗粒物的膜泡运输方式为 （   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 427
+    },
+    {
+        "question_text": "406、受体介导的胞吞作用不具有的特点是（   ）",
+        "options": [
+            "A.在细胞膜的特定区域进行",
+            "B.形成有被小窝和有被小泡",
+            "C.吸入大量的细胞外液",
+            "D.胞吞速率比液相胞饮快",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 428
+    },
+    {
+        "question_text": "407、在下列膜泡运输方式中出现一类特殊的膜囊泡——有被小泡的是（   ）",
+        "options": [
+            "A.吞噬作用",
+            "B.胞饮作用",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 429
+    },
+    {
+        "question_text": "408、有被小泡的衣被的最主要的蛋白质是 （   ）",
+        "options": [
+            "A.载体蛋白",
+            "B.跨膜连接糖蛋白",
+            "C.网格蛋白",
+            "D.可溶性驻留蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 430
+    },
+    {
+        "question_text": "409、在低密度脂蛋白LDL通过受体介导的胞吞作用进入细胞内之后，被运输到（   ）细胞器中进行降解。",
+        "options": [
+            "A.粗面内质网",
+            "B.高尔基复合体",
+            "C.溶酶体",
+            "D.线粒体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 431
+    },
+    {
+        "question_text": "410、LDL的组成成分不包括下列的 （   ）",
+        "options": [
+            "A.酯化胆固醇",
+            "B.游离胆固醇",
+            "C.载脂蛋白",
+            "D.磷脂",
+            "E.糖脂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 432
+    },
+    {
+        "question_text": "411、在形成有被小泡的过程中组装产生衣被的作用是 （   ）",
+        "options": [
+            "A.产生物理作用力使得小泡脱离膜",
+            "B.增大小泡的表面积",
+            "C.保护小泡在运输中不被破坏",
+            "D.使得小泡更加美观",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 433
+    },
+    {
+        "question_text": "412、血液中胆固醇含量过高，会过早患动脉粥样硬化症。下列不会导致血中胆固醇积累的是 （   ）",
+        "options": [
+            "A.LDL合成过多",
+            "B.编码LDL受体的基因突变失活",
+            "C.LDL受体转运到细胞膜受阻",
+            "D.编码LDL的基因突变失活",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 434
+    },
+    {
+        "question_text": "413、在胞吐作用中，分泌蛋白合成后即装入高尔基体的分泌囊泡中，随即很快被分泌到细胞外，该分泌过程普遍存在于所有细胞中。这种膜泡运输被称为 （   ）",
+        "options": [
+            "A.结构性分泌",
+            "B.受调性分泌",
+            "C.受体介导的胞吞作用",
+            "D.胞饮作用",
+            "E.吞噬作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 435
+    },
+    {
+        "question_text": "414、分泌细胞产生的分泌物（如激素、粘液或消化酶）储存在分泌泡内，当细胞在受到胞外信号刺激时，分泌泡与质膜融合并将内含物释放出去。这种膜泡运输被称为 （   ）",
+        "options": [
+            "A.结构性分泌",
+            "B.受调性分泌",
+            "C.受体介导的胞吞作用",
+            "D.胞饮作用",
+            "E.吞噬作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 436
+    },
+    {
+        "question_text": "415、受体介导的胞吞作用不具有的特点是",
+        "options": [
+            "A.在细胞膜的特定区域进行",
+            "B.形成有被小窝和有被小泡",
+            "C.高度浓缩被摄入的物质",
+            "D.吸入大量的细胞外液体",
+            "E.是细胞摄取特定大分子的有效途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 437
+    },
+    {
+        "question_text": "416、低密度脂蛋白（LDL）进入细胞的方式为",
+        "options": [
+            "A.简单扩散",
+            "B.主动运输",
+            "C.受体介导的胞吞作用",
+            "D.胞吐作用",
+            "E.协同运输"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 438
+    },
+    {
+        "question_text": "417、LDL颗粒进入细胞的方式是(   )",
+        "options": [
+            "A.协同运输",
+            "B.主动运输",
+            "C.被动运输",
+            "D.对向运输",
+            "E.受体介导的胞吞作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 439
+    },
+    {
+        "question_text": "418、下列称为配体的是（   ）",
+        "options": [
+            "A.细胞内信号分子",
+            "B.第二信使",
+            "C.能特异性识别和结合胞外信号分子的膜蛋白",
+            "D.第一信使",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 440
+    },
+    {
+        "question_text": "419、能够与受体特异性识别并结合的是（   ）",
+        "options": [
+            "A.抗体",
+            "B.补体",
+            "C.配体",
+            "D.激酶",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 441
+    },
+    {
+        "question_text": "420、下列信号分子中，能通过血液循环到达靶细胞，多作用于较远距离的靶细胞的是（   ）",
+        "options": [
+            "A.激素",
+            "B.细胞因子",
+            "C.神经递质",
+            "D.气体分子",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 442
+    },
+    {
+        "question_text": "421、下列信号分子中，（   ）作为细胞内信号传递的信使是近年来生命科学领域的一个重要成就。",
+        "options": [
+            "A.NO",
+            "B.乙酰胆碱",
+            "C.表皮生长因子",
+            "D.雌二醇",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 443
+    },
+    {
+        "question_text": "422、下列不属于一个完整的膜受体的组成成分的是（   ）",
+        "options": [
+            "A.识别部",
+            "B.效应部",
+            "C.转换部",
+            "D.信号部",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 444
+    },
+    {
+        "question_text": "423、胰岛素等生长因子作为配体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 445
+    },
+    {
+        "question_text": "424、N-乙酰胆碱作为配体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 446
+    },
+    {
+        "question_text": "425、具有7个跨膜疏水区域的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 447
+    },
+    {
+        "question_text": "426、被称为蛇形受体的膜受体类型是 （   ）",
+        "options": [
+            "A.酪氨酸蛋白激酶",
+            "B.配体门控通道",
+            "C.G蛋白偶联受体",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 448
+    },
+    {
+        "question_text": "427、下列过程中未体现生物膜信息传递功能的是 （   ）",
+        "options": [
+            "A.蔗糖溶液使洋葱表皮细胞发生质壁分离",
+            "B.抗原刺激引发记忆细胞增殖分化",
+            "C.胰岛素调节靶细胞对葡萄糖的摄取",
+            "D.传出神经细胞兴奋引起肌肉收缩",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 449
+    },
+    {
+        "question_text": "428、下列关于膜受体的特性，说法不对的是 （   ）",
+        "options": [
+            "A.受体与配体的结合具有特异性和决定性",
+            "B.受体与配体结合具有可饱和性",
+            "C.受体与配体具有高亲和力",
+            "D.受体与配体的结合具有可逆性",
+            "E.受体只存在于靶细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 450
+    },
+    {
+        "question_text": "429、下列关于受体与配体的结合，说法错误是 （   ）",
+        "options": [
+            "A.配体与受体的结合具有一定的专一性",
+            "B.受体与配体的结合有一个饱和度",
+            "C.受体与配体结合是以共价键结合的",
+            "D.受体对其配体的亲和力很强，作用迅速敏感",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 451
+    },
+    {
+        "question_text": "430、临床上某些糖尿病患者，血中胰岛素的含量不低，但采用胰岛素治疗时，暂时有效，随着治疗的进行必须加大胰岛素的剂量。导致该现象出现的最合理解释是 （   ）",
+        "options": [
+            "A.患者细胞膜上胰岛素受体少?，接受胰岛素治疗后受体越来越少",
+            "B.患者体内胰岛素活性低",
+            "C.患者在接受胰岛素治疗后，细胞膜上的受体增加",
+            "D.患者所得的糖尿病不能用胰岛素缓解症状",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 452
+    },
+    {
+        "question_text": "431、关于膜受体的数量和分布，下列说法错误的是 （   ）",
+        "options": [
+            "A.一种细胞膜上可以有几种不同的受体",
+            "B.同一受体在不同的细胞膜上的数目不相同",
+            "C.受体的数目在正常的生理条件下是恒定的",
+            "D.受体的数目不会受到外界环境变化等因素的影响",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 453
+    },
+    {
+        "question_text": "432、有关受体的激动剂和阻断剂，说法不对的是 （   ）",
+        "options": [
+            "A.激动剂和阻断剂都可以与受体结合",
+            "B.激动剂与受体亲和力大，而阻断剂与受体的亲和力小",
+            "C.激动剂与受体的亲和力大，并且内在活性大",
+            "D.阻断剂与受体的亲和力大，并且缺乏内在活性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 454
+    },
+    {
+        "question_text": "433、下列关于G蛋白的描述，不正确的是（   ）",
+        "options": [
+            "A.由a、b、g 三个亚单位构成的异聚体",
+            "B.具有结合GTP或GDP的能力",
+            "C.具有GDP酶的活性，能将与之结合的GDP分解形成GMP",
+            "D.其本身的构象的改变可进一步激活效应蛋白，使后者活化",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 455
+    },
+    {
+        "question_text": "434、G蛋白是",
+        "options": [
+            "A.配体",
+            "B.受体",
+            "C.第一信使",
+            "D.第二信使",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 456
+    },
+    {
+        "question_text": "435、下列G蛋白中，a亚单位对效应蛋白起激活作用的是（   ）",
+        "options": [
+            "A.Gs",
+            "B.Gi",
+            "C.Gq",
+            "D.Gm",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 457
+    },
+    {
+        "question_text": "436、G蛋白的异三聚体中，对效应蛋白起激活作用的亚单位是 （   ）",
+        "options": [
+            "A.a",
+            "B.b",
+            "C.g",
+            "D.以上都不是",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 458
+    },
+    {
+        "question_text": "437、下列G蛋白中，a亚单位对效应蛋白起抑制作用的是（   ）",
+        "options": [
+            "A.Gs",
+            "B.Gi",
+            "C.Gq",
+            "D.Gm",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 459
+    },
+    {
+        "question_text": "438、在静息状态下，G蛋白以异三聚体的形式存在于膜上，其 （   ）",
+        "options": [
+            "A.与GDP相结合，与受体呈分离状态",
+            "B.与GTP相结合，与受体呈分离状态",
+            "C.与GDP相结合，与受体呈结合状态",
+            "D.与GTP相结合，与受体呈结合状态",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 460
+    },
+    {
+        "question_text": "439、G蛋白的功能状态是 （   ）",
+        "options": [
+            "A.α亚单位与β、γ亚单位分离，α亚单位与GDP结合",
+            "B.α亚单位与β、γ亚单位分离，α亚单位与GTP结合",
+            "C.α亚单位与β、γ亚单位结合，α亚单位与GDP结合",
+            "D.α亚单位与β、γ亚单位结合，α亚单位与GTP结合",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 461
+    },
+    {
+        "question_text": "440、下列信号通路中，能够动员细胞内Ca2+的释放的是 （ ）",
+        "options": [
+            "A.磷脂酰肌醇信号通路",
+            "B.一氧化氮信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 462
+    },
+    {
+        "question_text": "441、下列信号通路中，由G蛋白介导的信号通路主要包括 （   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 463
+    },
+    {
+        "question_text": "442、下列信号通路中，被称为“双信使系统”反应链的是（   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 464
+    },
+    {
+        "question_text": "443、在受体酪氨酸激酶信号通路中，起“桥梁”作用连接SH2结构域SH3结构域的接头蛋白是（   ）",
+        "options": [
+            "A.Ras蛋白",
+            "B.SOS",
+            "C.GRB2",
+            "D.Raf蛋白",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 465
+    },
+    {
+        "question_text": "444、RAS基因的哪一种突变很可能引起细胞的癌变（   ）",
+        "options": [
+            "A.突变后的Ras蛋白不能水解GTP",
+            "B.突变后的Ras蛋白不能结合GTP",
+            "C.突变后的Ras蛋白不能结合Grb2o或Sos",
+            "D.突变后的Ras蛋白不能结合Raf",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 466
+    },
+    {
+        "question_text": "445、在cAMP信号通路中，位于细胞膜上的关键的G蛋白效应蛋白是 （   ）",
+        "options": [
+            "A.磷脂酶C（PLC）",
+            "B.二酰甘油（DAG）",
+            "C.肌醇三磷酸（IP3）",
+            "D.Ca2+",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 467
+    },
+    {
+        "question_text": "446、磷脂酰肌醇信号通路中第二信使有二酰甘油（DAG）和 （   ）",
+        "options": [
+            "A.Ca2+",
+            "B.1,4,5三磷酸肌醇（IP3）",
+            "C.PLC",
+            "D.PIP2",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 468
+    },
+    {
+        "question_text": "447、下列信号通路中，当配体与膜受体的配体结合区结合后，受体发生自体磷酸化的是 （   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 469
+    },
+    {
+        "question_text": "448、下列哪种信号通路是通过MAPK级联放大反应实现的 （   ）",
+        "options": [
+            "A.cAMP信号通路",
+            "B.磷脂酰肌醇信号通路",
+            "C.受体酪氨酸蛋白激酶信号通路",
+            "D.cGMP信号通路",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 470
+    },
+    {
+        "question_text": "449、细胞内级联放大反应是通过何种蛋白加工修饰方式实现的 （   ）",
+        "options": [
+            "A.磷酸化与去磷酸化",
+            "B.糖基化与去糖基化",
+            "C.甲基化与去甲基化",
+            "D.乙酰化与去乙酰化",
+            "E.泛素化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 471
+    },
+    {
+        "question_text": "450、细胞之所以能够相互识别是与细胞膜中的（   ）有关。",
+        "options": [
+            "A.磷脂",
+            "B.糖脂",
+            "C.糖蛋白",
+            "D.胆固醇",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 472
+    },
+    {
+        "question_text": "451、细胞之间相互识别的分子基础不包括下列的 （   ）",
+        "options": [
+            "A.相同受体间的相互作用",
+            "B.受体与细胞表面大分子间的相互作用",
+            "C.相同受体与游离大分子间的相互作用",
+            "D.细胞表面大分子之间的相互作用",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 473
+    },
+    {
+        "question_text": "452、关于细胞黏着，下列说法错误的是 （   ）",
+        "options": [
+            "A.细胞黏着又称为细胞黏附",
+            "B.细胞黏着分为细胞与细胞间的黏着以及细胞与细胞外基质间的黏着",
+            "C.参与细胞间黏着的表面糖蛋白都是膜受体",
+            "D.参与细胞黏着的表面糖蛋白分子都依赖Ca2+",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 474
+    },
+    {
+        "question_text": "453、ABO血型抗原的本质是（ ）",
+        "options": [
+            "A.磷脂",
+            "B.糖脂",
+            "C.糖蛋白",
+            "D.酶",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 475
+    },
+    {
+        "question_text": "454、MN血型抗原是一种 （   ）",
+        "options": [
+            "A.跨膜糖蛋白",
+            "B.膜周边蛋白",
+            "C.脂锚定蛋白",
+            "D.膜脂",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 476
+    },
+    {
+        "question_text": "455、下列关于人的组织相容性抗原，说法不正确的是 （   ）",
+        "options": [
+            "A.人的组织相容性抗原称为人白细胞抗原（HLA）",
+            "B.人组织相容性抗原位于第6号常染色体上",
+            "C.任何两个个体的人组织相容性抗原的组织型均不相同",
+            "D.人组织相容性抗原可为免疫系统提供识别标志",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 477
+    },
+    {
+        "question_text": "456、关于T淋巴细胞和B淋巴细胞的说法，错误的是 （   ）",
+        "options": [
+            "A.均来源于骨髓的干细胞",
+            "B.B淋巴细胞是介导体液免疫的主角",
+            "C.T淋巴细胞是介导细胞免疫的主角",
+            "D.两类淋巴细胞各自分工，彼此之间没有交叉和配合",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 478
+    }
+]

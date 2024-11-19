@@ -1,0 +1,184 @@
+[
+    {
+        "question_text": "1.心血管系统起源于",
+        "options": [
+            "A.内胚层",
+            "B.中胚层",
+            "C.外胚层",
+            "D.内胚层与中胚层",
+            "E.外胚层与中胚层"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 1
+    },
+    {
+        "question_text": "2.造血干细胞起源于",
+        "options": [
+            "A.外胚层",
+            "B.内胚层",
+            "C.胚外中胚层",
+            "D.胚内中胚层",
+            "E.滋养层"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 2
+    },
+    {
+        "question_text": "3.人胚胎最早形成血管和血细胞的场所是",
+        "options": [
+            "A.尿囊",
+            "B.绒毛膜",
+            "C.卵黄囊",
+            "D.体蒂",
+            "E.肝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 3
+    },
+    {
+        "question_text": "4.早期心管的 4 个膨大，从头端至尾端依次为",
+        "options": [
+            "A.心球、心房、心室、静脉窦",
+            "B.心房、心室、心球、静脉窦",
+            "C.心球、心室、心房、静脉窦",
+            "D.静脉窦、心房、心室、心球",
+            "E.心房、心室、静脉窦、心球"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 4
+    },
+    {
+        "question_text": "5.原始心房分隔时出现的第 1 房间孔是",
+        "options": [
+            "A.第1房间隔与心内膜垫之间",
+            "B.第2房间隔与心内膜垫之间",
+            "C.第1房间隔上部变薄穿孔形成",
+            "D.第2房间隔上部变薄穿孔形成",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 5
+    },
+    {
+        "question_text": "6.心脏内部分隔时，卵圆孔位于",
+        "options": [
+            "A.第2房间隔与心内膜垫之间",
+            "B.第1房间隔与心内膜垫之间",
+            "C.第1房间隔上部的中央",
+            "D.第2房间隔上部的中央",
+            "E.室间隔肌部上缘与心内膜垫之间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 6
+    },
+    {
+        "question_text": "7.卵圆孔瓣是",
+        "options": [
+            "A.第1房间隔",
+            "B.第2房间隔",
+            "C.第1房间隔和第2房间隔",
+            "D.心内膜垫向上凸起的组织",
+            "E.第2房间隔向下凸起的组织"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 7
+    },
+    {
+        "question_text": "8.卵圆孔封闭是由于",
+        "options": [
+            "A.第1房间隔与心内膜垫融合",
+            "B.第2房间隔与心内膜垫融合",
+            "C.第1房间隔与第2房间隔融合",
+            "D.卵圆孔缩小并封闭",
+            "E.心内膜垫向上凸起并封闭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 8
+    },
+    {
+        "question_text": "9.原始心房最终演变为",
+        "options": [
+            "A.心房的全部",
+            "B.心房的大部",
+            "C.心房的静脉开口根部",
+            "D.心耳",
+            "E.萎缩退化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 9
+    },
+    {
+        "question_text": "10.心脏内部分隔时，室间孔位于",
+        "options": [
+            "A.膜性室间隔与肌性室间隔之间",
+            "B.膜性室间隔与心内膜垫之间",
+            "C.肌性室间隔与心内膜垫之间",
+            "D.肌性室间隔中部",
+            "E.膜性室间隔中部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 10
+    },
+    {
+        "question_text": "11.室间隔肌部来自",
+        "options": [
+            "A.心内膜垫",
+            "B.心室底壁",
+            "C.心室顶壁",
+            "D.心动脉球",
+            "E.室间隔膜部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 11
+    },
+    {
+        "question_text": "12.心内膜垫发生于",
+        "options": [
+            "A.心球与心室之间的心内膜",
+            "B.心室与心房之间的心内膜",
+            "C.心房与静脉窦之间的心内膜",
+            "D.静脉与静脉窦之间的心内膜",
+            "E.动脉与心球之间的心内膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 12
+    },
+    {
+        "question_text": "13.胎儿血液循环中含氧量最高的是",
+        "options": [
+            "A.脐静脉",
+            "B.下腔静脉",
+            "C.主动脉",
+            "D.脐动脉",
+            "E.肺静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 13
+    }
+]

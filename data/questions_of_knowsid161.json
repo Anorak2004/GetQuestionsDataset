@@ -1,0 +1,1961 @@
+[
+    {
+        "question_text": "615、有关细胞骨架在细胞内分布描述错误的是(   )",
+        "options": [
+            "A.微管主要分布在细胞质中",
+            "B.微丝主要分布在细胞膜下",
+            "C.中间纤维遍布整个细胞",
+            "D.核纤层分布在细胞核内膜下，属于微丝的一种",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 1
+    },
+    {
+        "question_text": "616、以下那个选项不属于细胞质骨架成分？",
+        "options": [
+            "A.微丝",
+            "B.中间纤维",
+            "C.核纤层",
+            "D.微管",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 2
+    },
+    {
+        "question_text": "617、有关细胞骨架下列哪个选项不正确？",
+        "options": [
+            "A.细胞骨架是指存在于整合细胞中的蛋白质网架系统。",
+            "B.广义的概念包括细胞质骨架和细胞核骨架。",
+            "C.细胞质骨架主要由微管、微丝和中间纤维组成。",
+            "D.核纤层属于细胞核骨架",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 3
+    },
+    {
+        "question_text": "618、下列哪种成分不是细胞骨架系统？",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.粗面内质网",
+            "E.角蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 4
+    },
+    {
+        "question_text": "619、有关微管的描述错误的是(   )",
+        "options": [
+            "A.微管无分支",
+            "B.微管由微管蛋白组成，微管结合蛋白不参与",
+            "C.微管是由13条微管原纤维围成的中空小管",
+            "D.微管的存在形式有单管、二联管和三联管三种",
+            "E.微管蛋白基本组成单位是α和β微管蛋白组成的异二聚体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 5
+    },
+    {
+        "question_text": "620、tau蛋白属于(   )",
+        "options": [
+            "A.微管蛋白",
+            "B.中间纤维",
+            "C.微管结合蛋白",
+            "D.微丝结合蛋白",
+            "E.肌动蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 6
+    },
+    {
+        "question_text": "621、中心粒短筒状小体的筒壁构成是(   )",
+        "options": [
+            "A.6束三联体微丝",
+            "B.9束二联管",
+            "C.9束单体微管",
+            "D.13条4.5nm的纤维",
+            "E.9组三联体微管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 7
+    },
+    {
+        "question_text": "622、有关微管蛋白表述错误的是(   )",
+        "options": [
+            "A.微管蛋白种类有α、β、γ三种",
+            "B.微管直径比微丝大",
+            "C.可有二联、三联微管",
+            "D.鬼笔环肽可抑制微管组装",
+            "E.构成细胞骨架的微管多以单管形式存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 8
+    },
+    {
+        "question_text": "623、微管蛋白异二聚体上能结合(   )",
+        "options": [
+            "A.Na+",
+            "B.K+",
+            "C.Mg2+",
+            "D.H+",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 9
+    },
+    {
+        "question_text": "624、微管蛋白的异二聚体上有核苷三磷酸（   ）的结合位点。",
+        "options": [
+            "A.UTP",
+            "B.CTP",
+            "C.GTP",
+            "D.ATP",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 10
+    },
+    {
+        "question_text": "625、对微管的超微结构叙述错误的是(   )",
+        "options": [
+            "A.微管是中空的圆筒状结构",
+            "B.微管可根据细胞的生理需要组装和去组装",
+            "C.微管由同二聚体微管蛋白亚单位所构成",
+            "D.微管有13根原纤维构成",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 11
+    },
+    {
+        "question_text": "626、下列微管的存在形式中最容易被破坏的是(   )",
+        "options": [
+            "A.单管",
+            "B.二联管",
+            "C.三联管",
+            "D.纤毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 12
+    },
+    {
+        "question_text": "627、下列微管的存在形式中在细胞质中存在最多的是(   )",
+        "options": [
+            "A.单管",
+            "B.二联管",
+            "C.三联管",
+            "D.纤毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 13
+    },
+    {
+        "question_text": "628、下列结构中（ ）的微管蛋白不是以二联管的形式存在",
+        "options": [
+            "A.纤毛",
+            "B.中心粒",
+            "C.鞭毛",
+            "D.纺锤体",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 14
+    },
+    {
+        "question_text": "629、微管组装必需的离子是(   )",
+        "options": [
+            "A.Ca2+",
+            "B.Fe2+",
+            "C.Mg2+",
+            "D.Cu2+",
+            "E.Cl-"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 15
+    },
+    {
+        "question_text": "630、微管的踏车运动发生在( )",
+        "options": [
+            "A.正端的聚合率大于负端的解聚率",
+            "B.正端的聚合率小于负端的解聚率",
+            "C.正端的聚合率等于负端的解聚率",
+            "D.微管既不聚合也不解聚，处于稳定状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 16
+    },
+    {
+        "question_text": "631、抑制微管蛋白聚合的药物是(   )",
+        "options": [
+            "A.鱼藤酮",
+            "B.鬼笔环肽",
+            "C.细胞松驰素B",
+            "D.秋水仙素",
+            "E.紫杉酚"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 17
+    },
+    {
+        "question_text": "632、能阻止微管去组装的药物是( )",
+        "options": [
+            "A.紫杉醇",
+            "B.秋水仙素",
+            "C.细胞松弛素B",
+            "D.鬼笔环肽",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 18
+    },
+    {
+        "question_text": "633、如果用秋水仙素处理细胞，将会出现哪种情况？",
+        "options": [
+            "A.细胞形态将会被破坏",
+            "B.有丝分裂和减数分裂不能进行",
+            "C.细胞器在细胞内的分布会被破坏",
+            "D.上述所有情况",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 19
+    },
+    {
+        "question_text": "634、在下列微管中对秋水仙素最敏感的是(   )",
+        "options": [
+            "A.细胞质微管",
+            "B.纤毛微管",
+            "C.中心粒微管",
+            "D.鞭毛微管",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 20
+    },
+    {
+        "question_text": "635、可以用来中止细胞分裂的试剂是：",
+        "options": [
+            "A.秋水仙素",
+            "B.鬼笔环肽",
+            "C.聚乙二醛",
+            "D.聚乙二酯",
+            "E.乙醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 21
+    },
+    {
+        "question_text": "636、以下哪个细胞内结构不是由微管组成的？",
+        "options": [
+            "A.鞭毛",
+            "B.纤毛",
+            "C.基体",
+            "D.微绒毛",
+            "E.中心体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 22
+    },
+    {
+        "question_text": "637、下列哪种结构中不含微管(   )",
+        "options": [
+            "A.鞭毛",
+            "B.中心体",
+            "C.核纤层",
+            "D.纺锤体",
+            "E.纤毛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 23
+    },
+    {
+        "question_text": "638、下列哪个结构是由微管构成的？",
+        "options": [
+            "A.中心粒",
+            "B.基粒",
+            "C.基膜",
+            "D.线粒体",
+            "E.染色体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 24
+    },
+    {
+        "question_text": "639、微管动力蛋白臂(dyntinarm)具有什么酶活性(   )",
+        "options": [
+            "A.ATP",
+            "B.TTP",
+            "C.CTP",
+            "D.GTP",
+            "E.以上都对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 25
+    },
+    {
+        "question_text": "640、中心粒结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 26
+    },
+    {
+        "question_text": "641、纤毛和鞭毛主杆部结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 27
+    },
+    {
+        "question_text": "642、中心粒和鞭毛的基体结构是(   )",
+        "options": [
+            "A.都是9×3+0的结构",
+            "B.前者是9×3+0，后者是9×2+2",
+            "C.都是9×2+2的结构",
+            "D.前者是9×2+2，后者是9×3+0",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 28
+    },
+    {
+        "question_text": "643、电镜下一对中心粒是(   )",
+        "options": [
+            "A.一对球状小体",
+            "B.一个筒状小体",
+            "C.两个互相交叉筒状小体",
+            "D.两个互相平行的筒状小体",
+            "E.两个相互垂直的筒状小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 29
+    },
+    {
+        "question_text": "644、下列与微管的功能无关的是(   )",
+        "options": [
+            "A.细胞内物质运输",
+            "B.支持功能",
+            "C.细胞运动",
+            "D.胞质分裂",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 30
+    },
+    {
+        "question_text": "645、有关微丝表述错误的是？",
+        "options": [
+            "A.微丝具有极性",
+            "B.微丝由肌动蛋白组成的中空小管",
+            "C.肌动蛋白在细胞内有两种存在形式",
+            "D.微丝主要分布在细胞质膜下方",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 31
+    },
+    {
+        "question_text": "646、组成微丝最主要的化学成分是(   )",
+        "options": [
+            "A.肌动蛋白",
+            "B.肌球蛋白",
+            "C.交联蛋白",
+            "D.波形蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 32
+    },
+    {
+        "question_text": "647、肌动蛋白需要与（   ）结合后才能装配成微丝。",
+        "options": [
+            "A.ATP",
+            "B. ADP",
+            "C.GTP",
+            "D.GDP",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 33
+    },
+    {
+        "question_text": "648、阻断肌动蛋白丝聚合的药物是(   )",
+        "options": [
+            "A.鬼笔环肽",
+            "B.长春花碱",
+            "C.紫杉酚",
+            "D.细胞松驰素B",
+            "E.秋水仙素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 34
+    },
+    {
+        "question_text": "649、能够促进微丝聚合的药物是(   )",
+        "options": [
+            "A.Mg3+",
+            "B.秋水仙素",
+            "C.细胞松弛素B",
+            "D.鬼笔环肽",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 35
+    },
+    {
+        "question_text": "650、微丝参与的细胞活动不包括(   )",
+        "options": [
+            "A.微绒毛伸缩",
+            "B.变形虫运动",
+            "C.分泌小泡的运输",
+            "D.细胞分裂",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 36
+    },
+    {
+        "question_text": "651、动物细胞分裂时形成的收缩环是下列哪种成分主要构成的(   )",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.角蛋白丝",
+            "E.波形蛋白丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 37
+    },
+    {
+        "question_text": "652、微丝参与细胞分裂过程的阶段是(   )",
+        "options": [
+            "A.前期",
+            "B.前中期",
+            "C.中期",
+            "D.后期",
+            "E.胞质分裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 38
+    },
+    {
+        "question_text": "653、下列成分中，参与收缩环形成的为(   )",
+        "options": [
+            "A.微管蛋白",
+            "B.肌动蛋白",
+            "C.中间纤维蛋白",
+            "D.微管结合蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 39
+    },
+    {
+        "question_text": "654、下列哪项不能说明微丝具有维持细胞形态的作用？",
+        "options": [
+            "A.蝾螈红细胞的圆盘状外形",
+            "B.细胞膜下的细胞皮层结构",
+            "C.细胞内的应力纤维结构",
+            "D.小肠上皮游离面的微绒毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 40
+    },
+    {
+        "question_text": "655、只有肌动蛋白（无肌球蛋白）的情况下，可以发生的细胞运动是(   )",
+        "options": [
+            "A.骨骼肌收缩",
+            "B.胞质分裂",
+            "C.卵细胞受精前的顶体反应",
+            "D.无（所有涉及肌动蛋白的运动都需要肌球蛋白）",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 41
+    },
+    {
+        "question_text": "656、下列中哪种是由微丝为主要成分构成的细胞结构？",
+        "options": [
+            "A.肌肉的细肌丝，肌肉的粗肌丝，微绒毛，stress fiber",
+            "B.肌肉的细肌丝，微绒毛，纤毛，细胞皮层",
+            "C.肌肉的粗肌丝，微绒毛，stress fiber，胞质分裂环",
+            "D.细胞皮层，微绒毛，stress fiber，胞质分裂环",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 42
+    },
+    {
+        "question_text": "657、细胞变形足运动的的本质是(   )",
+        "options": [
+            "A.细胞膜迅速扩张使细胞局部伸长",
+            "B.胞内微管迅速解聚使细胞变形",
+            "C.胞内微丝迅速重组装使细胞变形",
+            "D.胞内中间丝重聚合使细胞变形",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 43
+    },
+    {
+        "question_text": "658、与粘着斑（黏合斑）相连的细胞骨架是(   )",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 44
+    },
+    {
+        "question_text": "659、下列哪种纤维不属于中间纤维(   )",
+        "options": [
+            "A.结蛋白纤维",
+            "B.波形蛋白纤维",
+            "C.角蛋白纤维",
+            "D.肌球蛋白纤维",
+            "E.核纤层蛋白纤维"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 45
+    },
+    {
+        "question_text": "660、以下属于中间纤维成员的是(   )",
+        "options": [
+            "A.膜结合蛋白",
+            "B.成束蛋白",
+            "C.末端阻断蛋白",
+            "D.单体隔离蛋白",
+            "E. 神经丝蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 46
+    },
+    {
+        "question_text": "661、角蛋白丝主要存在于(   )",
+        "options": [
+            "A.神经细胞",
+            "B.肌肉细胞",
+            "C.间质细胞",
+            "D.星形细胞",
+            "E.上皮细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 47
+    },
+    {
+        "question_text": "662、成纤维细胞所特有的中间纤维蛋白是(   )",
+        "options": [
+            "A.角蛋白",
+            "B.波形蛋白",
+            "C.结蛋白",
+            "D.胶质纤维酸性蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 48
+    },
+    {
+        "question_text": "663、中间纤维的结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 49
+    },
+    {
+        "question_text": "664、中间纤维的直径通常(   )",
+        "options": [
+            "A.比微管大",
+            "B.比微丝大",
+            "C.比微丝小",
+            "D.与微管一样大",
+            "E.与微丝一样大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 50
+    },
+    {
+        "question_text": "665、中间纤维在细胞质中(   )",
+        "options": [
+            "A.主要分布于细胞膜下",
+            "B.具有极性",
+            "C.形成一个放射状骨架网络",
+            "D.装配与去组装处于动态平衡中",
+            "E.其装配调控机制与蛋白磷酸化有关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 51
+    },
+    {
+        "question_text": "666、下列不属于中间纤维结合蛋白组成成分的是(   )",
+        "options": [
+            "A.斑珠蛋白",
+            "B.网蛋白",
+            "C.丝聚蛋白",
+            "D.核纤层蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 52
+    },
+    {
+        "question_text": "667、对于中间纤维的组装，下列说法错误的是( )",
+        "options": [
+            "A.首先由中间纤维单体以平行且相互对齐的方式形成双股超螺旋二聚体",
+            "B.二聚体再以反向平行和半分子交错的方式组装成四聚体",
+            "C.四聚体又进一步以反向平行方式形成八聚体的原纤维",
+            "D.最终由四根原纤维互相缠绕形成中间纤维",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 53
+    },
+    {
+        "question_text": "668、一根完整的中间纤维，其横切面上有（   ）个蛋白分子。",
+        "options": [
+            "A.4",
+            "B.8",
+            "C.16",
+            "D.32",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 54
+    },
+    {
+        "question_text": "669、中间纤维分子结构模式中保守部分为(   )",
+        "options": [
+            "A.分子的头部",
+            "B.分子的尾部",
+            "C.分子的杆状部",
+            "D.全分子",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 55
+    },
+    {
+        "question_text": "670、中间纤维之所以没有极性是因其组装至（   ）时便已经没有极性。",
+        "options": [
+            "A.单体",
+            "B.二聚体",
+            "C.四聚体",
+            "D.八聚体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 56
+    },
+    {
+        "question_text": "671、中间纤维参与的细胞连接是(   )",
+        "options": [
+            "A.桥粒",
+            "B.紧密连接",
+            "C.缝隙连接",
+            "D.黏着带",
+            "E.化学突触"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 57
+    },
+    {
+        "question_text": "672、对中间纤维的叙述错误的是(   )",
+        "options": [
+            "A.直径介于微管与微丝之间",
+            "B.是形成核纤层的纤维状结构物质",
+            "C.是构成细胞运动器官鞭毛和纤毛的组成成分",
+            "D.中间纤维没有极性",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 58
+    },
+    {
+        "question_text": "673、有关马达蛋白表述错误的是(   )",
+        "options": [
+            "A.马达蛋白是一类介导细胞内物质沿细胞骨架运输的蛋白质",
+            "B.马达蛋白可分为三个家族:动力蛋白、驱动蛋白和肌动蛋白",
+            "C.动力蛋白以微管作为运行轨道",
+            "D.驱动蛋白沿微管的负端向正端移动",
+            "E. 动力蛋白沿微管的正端向负端移动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 59
+    },
+    {
+        "question_text": "674、肌动蛋白丝参与下边哪种类型的细胞连接？",
+        "options": [
+            "A.桥粒连接",
+            "B.间隙连接",
+            "C.黏着连接",
+            "D.紧密连接",
+            "E. 以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 60
+    },
+    {
+        "question_text": "675、下列中哪个选项的成员都是马达蛋白。",
+        "options": [
+            "A.驱动蛋白，胞质动力蛋白，轴丝动力蛋白，γ-微管蛋白",
+            "B.驱动蛋白，胞质动力蛋白，轴丝动力蛋白，Ⅱ型肌球蛋白",
+            "C.驱动蛋白，胞质动力蛋白，Ⅴ型肌球蛋白，γ-微管蛋白",
+            "D.驱动蛋白，轴丝动力蛋白，Ⅰ型肌球蛋白，连接蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 61
+    },
+    {
+        "question_text": "676、下列马达蛋白中以微管作为运行轨道的是(   )",
+        "options": [
+            "A.驱动蛋白",
+            "B.动力蛋白",
+            "C.肌球蛋白",
+            "D.A与B",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 62
+    },
+    {
+        "question_text": "677、参与细胞运动的主要细胞骨架成分是？",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.核纤层",
+            "E.A与B"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 63
+    },
+    {
+        "question_text": "678、细胞内细胞器的分布和定位主要与下面哪个结构有关？",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.纺锤体",
+            "E. 以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 64
+    },
+    {
+        "question_text": "679、结构较稳定的细胞骨架是(   )",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.微梁网络",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 65
+    },
+    {
+        "question_text": "680、细胞骨架中（   ）没有极性。",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.三者均是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 66
+    },
+    {
+        "question_text": "681、下列有关三种细胞骨架的比较，说法不正确的是(   )",
+        "options": [
+            "A.微丝、微管有极性，中间丝没有极性。",
+            "B.微丝、微管的组装需要结合核苷酸，中间丝的组装不需要核苷酸。",
+            "C.微丝、微管的组装可被特异性药物所破坏，中间丝的结构则非常稳定。",
+            "D.微丝、微管和中间丝的组装过程都存在“踏车行为”。",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 67
+    },
+    {
+        "question_text": "682、细胞骨架中（   ）的组装没有踏车现象。",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.三者均是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 68
+    },
+    {
+        "question_text": "683、真核细胞的细胞骨架结构具有的功能有（   ）",
+        "options": [
+            "A.物质运输",
+            "B.信号转导",
+            "C.分裂分化",
+            "D.迁移运动",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 69
+    },
+    {
+        "question_text": "684、以下关于细胞骨架的描述，不正确的是（   ）",
+        "options": [
+            "A.普遍存在于原核及真核细胞中",
+            "B.由蛋白质亚单位形成的纤维网架结构",
+            "C.分为微管、微丝和中间纤维三类",
+            "D.是一个高度动态结构",
+            "E.参与细胞运动、物质运输等生理活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 70
+    },
+    {
+        "question_text": "615、有关细胞骨架在细胞内分布描述错误的是(   )",
+        "options": [
+            "A.微管主要分布在细胞质中",
+            "B.微丝主要分布在细胞膜下",
+            "C.中间纤维遍布整个细胞",
+            "D.核纤层分布在细胞核内膜下，属于微丝的一种",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 71
+    },
+    {
+        "question_text": "616、以下那个选项不属于细胞质骨架成分？",
+        "options": [
+            "A.微丝",
+            "B.中间纤维",
+            "C.核纤层",
+            "D.微管",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 72
+    },
+    {
+        "question_text": "617、有关细胞骨架下列哪个选项不正确？",
+        "options": [
+            "A.细胞骨架是指存在于整合细胞中的蛋白质网架系统。",
+            "B.广义的概念包括细胞质骨架和细胞核骨架。",
+            "C.细胞质骨架主要由微管、微丝和中间纤维组成。",
+            "D.核纤层属于细胞核骨架",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 73
+    },
+    {
+        "question_text": "618、下列哪种成分不是细胞骨架系统？",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.粗面内质网",
+            "E.角蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 74
+    },
+    {
+        "question_text": "619、有关微管的描述错误的是(   )",
+        "options": [
+            "A.微管无分支",
+            "B.微管由微管蛋白组成，微管结合蛋白不参与",
+            "C.微管是由13条微管原纤维围成的中空小管",
+            "D.微管的存在形式有单管、二联管和三联管三种",
+            "E.微管蛋白基本组成单位是α和β微管蛋白组成的异二聚体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 75
+    },
+    {
+        "question_text": "620、tau蛋白属于(   )",
+        "options": [
+            "A.微管蛋白",
+            "B.中间纤维",
+            "C.微管结合蛋白",
+            "D.微丝结合蛋白",
+            "E.肌动蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 76
+    },
+    {
+        "question_text": "621、中心粒短筒状小体的筒壁构成是(   )",
+        "options": [
+            "A.6束三联体微丝",
+            "B.9束二联管",
+            "C.9束单体微管",
+            "D.13条4.5nm的纤维",
+            "E.9组三联体微管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 77
+    },
+    {
+        "question_text": "622、有关微管蛋白表述错误的是(   )",
+        "options": [
+            "A.微管蛋白种类有α、β、γ三种",
+            "B.微管直径比微丝大",
+            "C.可有二联、三联微管",
+            "D.鬼笔环肽可抑制微管组装",
+            "E.构成细胞骨架的微管多以单管形式存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 78
+    },
+    {
+        "question_text": "623、微管蛋白异二聚体上能结合(   )",
+        "options": [
+            "A.Na+",
+            "B.K+",
+            "C.Mg2+",
+            "D.H+",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 79
+    },
+    {
+        "question_text": "624、微管蛋白的异二聚体上有核苷三磷酸（   ）的结合位点。",
+        "options": [
+            "A.UTP",
+            "B.CTP",
+            "C.GTP",
+            "D.ATP",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 80
+    },
+    {
+        "question_text": "625、对微管的超微结构叙述错误的是(   )",
+        "options": [
+            "A.微管是中空的圆筒状结构",
+            "B.微管可根据细胞的生理需要组装和去组装",
+            "C.微管由同二聚体微管蛋白亚单位所构成",
+            "D.微管有13根原纤维构成",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 81
+    },
+    {
+        "question_text": "626、下列微管的存在形式中最容易被破坏的是(   )",
+        "options": [
+            "A.单管",
+            "B.二联管",
+            "C.三联管",
+            "D.纤毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 82
+    },
+    {
+        "question_text": "627、下列微管的存在形式中在细胞质中存在最多的是(   )",
+        "options": [
+            "A.单管",
+            "B.二联管",
+            "C.三联管",
+            "D.纤毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 83
+    },
+    {
+        "question_text": "628、下列结构中（ ）的微管蛋白不是以二联管的形式存在",
+        "options": [
+            "A.纤毛",
+            "B.中心粒",
+            "C.鞭毛",
+            "D.纺锤体",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 84
+    },
+    {
+        "question_text": "629、微管组装必需的离子是(   )",
+        "options": [
+            "A.Ca2+",
+            "B.Fe2+",
+            "C.Mg2+",
+            "D.Cu2+",
+            "E.Cl-"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 85
+    },
+    {
+        "question_text": "630、微管的踏车运动发生在(   )",
+        "options": [
+            "A.正端的聚合率大于负端的解聚率",
+            "B.正端的聚合率小于负端的解聚率",
+            "C.正端的聚合率等于负端的解聚率",
+            "D.微管既不聚合也不解聚，处于稳定状态",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 86
+    },
+    {
+        "question_text": "631、抑制微管蛋白聚合的药物是(   )",
+        "options": [
+            "A.鱼藤酮",
+            "B.鬼笔环肽",
+            "C.细胞松驰素B",
+            "D.秋水仙素",
+            "E.紫杉酚"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 87
+    },
+    {
+        "question_text": "632、能阻止微管去组装的药物是(   )",
+        "options": [
+            "A.紫杉酚",
+            "B.秋水仙素",
+            "C.细胞松弛素B",
+            "D.鬼笔环肽",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 88
+    },
+    {
+        "question_text": "633、如果用秋水仙素处理细胞，将会出现哪种情况？",
+        "options": [
+            "A.细胞形态将会被破坏",
+            "B.有丝分裂和减数分裂不能进行",
+            "C.细胞器在细胞内的分布会被破坏",
+            "D.上述所有情况",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 89
+    },
+    {
+        "question_text": "634、在下列微管中对秋水仙素最敏感的是(   )",
+        "options": [
+            "A.细胞质微管",
+            "B.纤毛微管",
+            "C.中心粒微管",
+            "D.鞭毛微管",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 90
+    },
+    {
+        "question_text": "635、可以用来中止细胞分裂的试剂是：",
+        "options": [
+            "A.秋水仙素",
+            "B.鬼笔环肽",
+            "C.聚乙二醛",
+            "D.聚乙二酯",
+            "E.乙醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 91
+    },
+    {
+        "question_text": "636、以下哪个细胞内结构不是由微管组成的？",
+        "options": [
+            "A.鞭毛",
+            "B.纤毛",
+            "C.基体",
+            "D.微绒毛",
+            "E.中心体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 92
+    },
+    {
+        "question_text": "637、下列哪种结构中不含微管(   )",
+        "options": [
+            "A.鞭毛",
+            "B.中心体",
+            "C.核纤层",
+            "D.纺锤体",
+            "E.纤毛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 93
+    },
+    {
+        "question_text": "638、下列哪个结构是由微管构成的？",
+        "options": [
+            "A.中心粒",
+            "B.基粒",
+            "C.基膜",
+            "D.线粒体",
+            "E.染色体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 94
+    },
+    {
+        "question_text": "639、微管动力蛋白臂(dyntinarm)具有什么酶活性(   )",
+        "options": [
+            "A.ATP",
+            "B.TTP",
+            "C.CTP",
+            "D.GTP",
+            "E.以上都对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 95
+    },
+    {
+        "question_text": "640、中心粒结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 96
+    },
+    {
+        "question_text": "641、纤毛和鞭毛主杆部结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 97
+    },
+    {
+        "question_text": "642、中心粒和鞭毛的基体结构是(   )",
+        "options": [
+            "A.都是9×3+0的结构",
+            "B.前者是9×3+0，后者是9×2+2",
+            "C.都是9×2+2的结构",
+            "D.前者是9×2+2，后者是9×3+0",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 98
+    },
+    {
+        "question_text": "643、电镜下一对中心粒是(   )",
+        "options": [
+            "A.一对球状小体",
+            "B.一个筒状小体",
+            "C.两个互相交叉筒状小体",
+            "D.两个互相平行的筒状小体",
+            "E.两个相互垂直的筒状小体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 99
+    },
+    {
+        "question_text": "644、下列与微管的功能无关的是(   )",
+        "options": [
+            "A.细胞内物质运输",
+            "B.支持功能",
+            "C.细胞运动",
+            "D.胞质分裂",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 100
+    },
+    {
+        "question_text": "645、有关微丝表述错误的是？",
+        "options": [
+            "A.微丝具有极性",
+            "B.微丝由肌动蛋白组成的中空小管",
+            "C.肌动蛋白在细胞内有两种存在形式",
+            "D.微丝主要分布在细胞质膜下方",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 101
+    },
+    {
+        "question_text": "646、组成微丝最主要的化学成分是(   )",
+        "options": [
+            "A.肌动蛋白",
+            "B.肌球蛋白",
+            "C.交联蛋白",
+            "D.波形蛋白",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 102
+    },
+    {
+        "question_text": "647、肌动蛋白需要与（   ）结合后才能装配成微丝。",
+        "options": [
+            "A.ATP",
+            "B. ADP",
+            "C.GTP",
+            "D.GDP",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 103
+    },
+    {
+        "question_text": "648、阻断肌动蛋白丝聚合的药物是(   )",
+        "options": [
+            "A.鬼笔环肽",
+            "B.长春花碱",
+            "C.紫杉酚",
+            "D.细胞松驰素B",
+            "E.秋水仙素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 104
+    },
+    {
+        "question_text": "649、能够促进微丝聚合的药物是(   )",
+        "options": [
+            "A.Mg3+",
+            "B.秋水仙素",
+            "C.细胞松弛素B",
+            "D.鬼笔环肽",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 105
+    },
+    {
+        "question_text": "650、微丝参与的细胞活动不包括(   )",
+        "options": [
+            "A.微绒毛伸缩",
+            "B.变形虫运动",
+            "C.分泌小泡的运输",
+            "D.细胞分裂",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 106
+    },
+    {
+        "question_text": "651、动物细胞分裂时形成的收缩环是下列哪种成分主要构成的(   )",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.角蛋白丝",
+            "E.波形蛋白丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 107
+    },
+    {
+        "question_text": "652、微丝参与细胞分裂过程的阶段是(   )",
+        "options": [
+            "A.前期",
+            "B.前中期",
+            "C.中期",
+            "D.后期",
+            "E.胞质分裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 108
+    },
+    {
+        "question_text": "653、下列成分中，参与收缩环形成的为(   )",
+        "options": [
+            "A.微管蛋白",
+            "B.肌动蛋白",
+            "C.中间纤维蛋白",
+            "D.微管结合蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 109
+    },
+    {
+        "question_text": "654、下列哪项不能说明微丝具有维持细胞形态的作用？",
+        "options": [
+            "A.蝾螈红细胞的圆盘状外形",
+            "B.细胞膜下的细胞皮层结构",
+            "C.细胞内的应力纤维结构",
+            "D.小肠上皮游离面的微绒毛",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 110
+    },
+    {
+        "question_text": "655、只有肌动蛋白（无肌球蛋白）的情况下，可以发生的细胞运动是(   )",
+        "options": [
+            "A.骨骼肌收缩",
+            "B.胞质分裂",
+            "C.卵细胞受精前的顶体反应",
+            "D.无（所有涉及肌动蛋白的运动都需要肌球蛋白）",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 111
+    },
+    {
+        "question_text": "656、下列中哪种是由微丝为主要成分构成的细胞结构？",
+        "options": [
+            "A.肌肉的细肌丝，肌肉的粗肌丝，微绒毛，stress fiber",
+            "B.肌肉的细肌丝，微绒毛，纤毛，细胞皮层",
+            "C.肌肉的粗肌丝，微绒毛，stress fiber，胞质分裂环",
+            "D.细胞皮层，微绒毛，stress fiber，胞质分裂环",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 112
+    },
+    {
+        "question_text": "657、细胞变形足运动的的本质是(   )",
+        "options": [
+            "A.细胞膜迅速扩张使细胞局部伸长",
+            "B.胞内微管迅速解聚使细胞变形",
+            "C.胞内微丝迅速重组装使细胞变形",
+            "D.胞内中间丝重聚合使细胞变形",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 113
+    },
+    {
+        "question_text": "658、与粘着斑（黏合斑）相连的细胞骨架是(   )",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.以上都不对",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 114
+    },
+    {
+        "question_text": "659、下列哪种纤维不属于中间纤维(   )",
+        "options": [
+            "A.结蛋白纤维",
+            "B.波形蛋白纤维",
+            "C.角蛋白纤维",
+            "D.肌球蛋白纤维",
+            "E.核纤层蛋白纤维"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 115
+    },
+    {
+        "question_text": "660、以下属于中间纤维成员的是(   )",
+        "options": [
+            "A.膜结合蛋白",
+            "B.成束蛋白",
+            "C.末端阻断蛋白",
+            "D.单体隔离蛋白",
+            "E. 神经丝蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 116
+    },
+    {
+        "question_text": "661、角蛋白丝主要存在于(   )",
+        "options": [
+            "A.神经细胞",
+            "B.肌肉细胞",
+            "C.间质细胞",
+            "D.星形细胞",
+            "E.上皮细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 117
+    },
+    {
+        "question_text": "662、成纤维细胞所特有的中间纤维蛋白是(   )",
+        "options": [
+            "A.角蛋白",
+            "B.波形蛋白",
+            "C.结蛋白",
+            "D.胶质纤维酸性蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 118
+    },
+    {
+        "question_text": "663、中间纤维的结构是(   )",
+        "options": [
+            "A.9组三联管结构",
+            "B.9组成对的微管加中央两根微管",
+            "C.32个多肽的4条亚丝",
+            "D.13条原纤维围成一空心管",
+            "E.肌动蛋白组成的螺旋状纤维"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 119
+    },
+    {
+        "question_text": "664、中间纤维的直径通常(   )",
+        "options": [
+            "A.比微管大",
+            "B.比微丝大",
+            "C.比微丝小",
+            "D.与微管一样大",
+            "E.与微丝一样大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 120
+    },
+    {
+        "question_text": "665、中间纤维在细胞质中(   )",
+        "options": [
+            "A.主要分布于细胞膜下",
+            "B.具有极性",
+            "C.形成一个放射状骨架网络",
+            "D.装配与去组装处于动态平衡中",
+            "E.其装配调控机制与蛋白磷酸化有关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 121
+    },
+    {
+        "question_text": "666、下列不属于中间纤维结合蛋白组成成分的是(   )",
+        "options": [
+            "A.斑珠蛋白",
+            "B.网蛋白",
+            "C.丝聚蛋白",
+            "D.核纤层蛋白",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 122
+    },
+    {
+        "question_text": "667、对于中间纤维的组装，下列说法错误的是(   )",
+        "options": [
+            "A.首先由中间纤维单体以平行且相互对齐的方式形成双股超螺旋二聚体",
+            "B.二聚体再以反向平行和半分子交错的方式组装成四聚体",
+            "C.四聚体又进一步以反向平行方式形成八聚体的原纤维",
+            "D.最终由四根原纤维互相缠绕形成中间纤维",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 123
+    },
+    {
+        "question_text": "668、一根完整的中间纤维，其横切面上有（   ）个蛋白分子。",
+        "options": [
+            "A.4",
+            "B.8",
+            "C.16",
+            "D.32",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 124
+    },
+    {
+        "question_text": "669、中间纤维分子结构模式中保守部分为(   )",
+        "options": [
+            "A.分子的头部",
+            "B.分子的尾部",
+            "C.分子的杆状部",
+            "D.全分子",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 125
+    },
+    {
+        "question_text": "670、中间纤维之所以没有极性是因其组装至（   ）时便已经没有极性。",
+        "options": [
+            "A.单体",
+            "B.二聚体",
+            "C.四聚体",
+            "D.八聚体",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 126
+    },
+    {
+        "question_text": "671、中间纤维参与的细胞连接是(   )",
+        "options": [
+            "A.桥粒",
+            "B.紧密连接",
+            "C.缝隙连接",
+            "D.黏着带",
+            "E.化学突触"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 127
+    },
+    {
+        "question_text": "672、对中间纤维的叙述错误的是(   )",
+        "options": [
+            "A.直径介于微管与微丝之间",
+            "B.是形成核纤层的纤维状结构物质",
+            "C.是构成细胞运动器官鞭毛和纤毛的组成成分",
+            "D.中间纤维没有极性",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 128
+    },
+    {
+        "question_text": "673、有关马达蛋白表述错误的是(   )",
+        "options": [
+            "A.马达蛋白是一类介导细胞内物质沿细胞骨架运输的蛋白质",
+            "B.马达蛋白可分为三个家族:动力蛋白、驱动蛋白和肌动蛋白",
+            "C.动力蛋白以微管作为运行轨道",
+            "D.驱动蛋白沿微管的负端向正端移动",
+            "E. 动力蛋白沿微管的正端向负端移动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 129
+    },
+    {
+        "question_text": "674、肌动蛋白丝参与下边哪种类型的细胞连接？",
+        "options": [
+            "A.桥粒连接",
+            "B.间隙连接",
+            "C.黏着连接",
+            "D.紧密连接",
+            "E. 以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 130
+    },
+    {
+        "question_text": "675、下列中哪个选项的成员都是马达蛋白。",
+        "options": [
+            "A.驱动蛋白，胞质动力蛋白，轴丝动力蛋白，γ-微管蛋白",
+            "B.驱动蛋白，胞质动力蛋白，轴丝动力蛋白，Ⅱ型肌球蛋白",
+            "C.驱动蛋白，胞质动力蛋白，Ⅴ型肌球蛋白，γ-微管蛋白",
+            "D.驱动蛋白，轴丝动力蛋白，Ⅰ型肌球蛋白，连接蛋白",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 131
+    },
+    {
+        "question_text": "676、下列马达蛋白中以微管作为运行轨道的是(   )",
+        "options": [
+            "A.驱动蛋白",
+            "B.动力蛋白",
+            "C.肌球蛋白",
+            "D.A与B",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 132
+    },
+    {
+        "question_text": "677、参与细胞运动的主要细胞骨架成分是？",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.核纤层",
+            "E.A与B"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 133
+    },
+    {
+        "question_text": "678、细胞内细胞器的分布和定位主要与下面哪个结构有关？",
+        "options": [
+            "A.微丝",
+            "B.微管",
+            "C.中间纤维",
+            "D.纺锤体",
+            "E. 以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 134
+    },
+    {
+        "question_text": "679、结构较稳定的细胞骨架是(   )",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.微梁网络",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 135
+    },
+    {
+        "question_text": "680、细胞骨架中（   ）没有极性。",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.三者均是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 136
+    },
+    {
+        "question_text": "681、下列有关三种细胞骨架的比较，说法不正确的是(   )",
+        "options": [
+            "A.微丝、微管有极性，中间丝没有极性。",
+            "B.微丝、微管的组装需要结合核苷酸，中间丝的组装不需要核苷酸。",
+            "C.微丝、微管的组装可被特异性药物所破坏，中间丝的结构则非常稳定。",
+            "D.微丝、微管和中间丝的组装过程都存在“踏车行为”。",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 137
+    },
+    {
+        "question_text": "682、细胞骨架中（   ）的组装没有踏车现象。",
+        "options": [
+            "A.微管",
+            "B.微丝",
+            "C.中间纤维",
+            "D.三者均是",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 138
+    },
+    {
+        "question_text": "683、真核细胞的细胞骨架结构具有的功能有（   ）",
+        "options": [
+            "A.物质运输",
+            "B.信号转导",
+            "C.分裂分化",
+            "D.迁移运动",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 139
+    },
+    {
+        "question_text": "684、以下关于细胞骨架的描述，不正确的是（   ）",
+        "options": [
+            "A.普遍存在于原核及真核细胞中",
+            "B.由蛋白质亚单位形成的纤维网架结构",
+            "C.分为微管、微丝和中间纤维三类",
+            "D.是一个高度动态结构",
+            "E.参与细胞运动、物质运输等生理活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 140
+    }
+]

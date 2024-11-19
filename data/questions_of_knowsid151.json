@@ -1,0 +1,254 @@
+[
+    {
+        "question_text": "1.受精的地点一般是在",
+        "options": [
+            "A.输卵管伞部",
+            "B.输卵管峡部",
+            "C.输卵管壶腹部",
+            "D.输卵管子宫部",
+            "E.子宫体和底部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 1
+    },
+    {
+        "question_text": "2.受精时精子穿入",
+        "options": [
+            "A.原始卵泡",
+            "B.卵原细胞",
+            "C.初级卵母细胞",
+            "D.次级卵母细胞",
+            "E.成熟卵细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 2
+    },
+    {
+        "question_text": "3.受精后的第几天形成桑椹胚",
+        "options": [
+            "A.3天",
+            "B.4天",
+            "C.5-6 天",
+            "D.11-12 天",
+            "E.24小时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 3
+    },
+    {
+        "question_text": "4.植入时,胚泡首先与子宫内膜接触的部位是",
+        "options": [
+            "A.细胞滋养层",
+            "B.极端滋养层",
+            "C.内细胞群",
+            "D.绒毛膜",
+            "E.透明带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 4
+    },
+    {
+        "question_text": "5.植入的部位通常在",
+        "options": [
+            "A.子宫前壁",
+            "B.子宫颈",
+            "C.子宫角",
+            "D.输卵管子宫部",
+            "E.子宫体和底部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 5
+    },
+    {
+        "question_text": "6.植入时的子宫内膜处于",
+        "options": [
+            "A.增生期",
+            "B.增生早期",
+            "C.分泌期",
+            "D.卵泡期",
+            "E.月经后期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 6
+    },
+    {
+        "question_text": "7.第几周形成二胚层胚盘",
+        "options": [
+            "A.第1周",
+            "B.第2周",
+            "C.第3周",
+            "D.第4周",
+            "E.第5周"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 7
+    },
+    {
+        "question_text": "8.下面哪个结构分化为胚内中胚层",
+        "options": [
+            "A.滋养层",
+            "B.脊索",
+            "C.神经板",
+            "D.体节",
+            "E.原条"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪个结构诱导神经板形成",
+        "options": [
+            "A.脊索",
+            "B.原结",
+            "C.圆凹",
+            "D.原沟",
+            "E.神经沟"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪个结构不是内胚层分化的",
+        "options": [
+            "A.原始消化管",
+            "B.口和鼻腔上皮",
+            "C.肺的上皮",
+            "D.消化腺",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪个结构不是中胚层分化的",
+        "options": [
+            "A.脊柱骨、肋骨",
+            "B.真皮",
+            "C.胚外中胚层",
+            "D.泌尿生殖系统",
+            "E.胚内体腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 11
+    },
+    {
+        "question_text": "12.大部分中轴骨及其骨骼肌来源于",
+        "options": [
+            "A.胚外中胚层",
+            "B.间介中胚层",
+            "C.轴旁中胚层",
+            "D.间充质",
+            "E.体壁中胚层"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 12
+    },
+    {
+        "question_text": "13.皮肤的表皮来源于",
+        "options": [
+            "A.内胚层",
+            "B.胚内中胚层",
+            "C.胚外中胚层",
+            "D.外胚层",
+            "E.体壁中胚层"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列哪一结构不属于胎膜",
+        "options": [
+            "A.羊膜",
+            "B.绒毛膜",
+            "C.卵黄囊",
+            "D.尿囊",
+            "E.蜕膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 14
+    },
+    {
+        "question_text": "15.胎盘绒毛膜间隙内含有",
+        "options": [
+            "A.胎儿血",
+            "B.胎儿与母体的血",
+            "C.羊水",
+            "D.组织液",
+            "E.母体血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 15
+    },
+    {
+        "question_text": "16.胎盘是由什么组成的",
+        "options": [
+            "A.平滑绒毛膜和包蜕膜",
+            "B.平滑绒毛膜和基蜕膜",
+            "C.丛密绒毛膜和底蜕膜",
+            "D.丛密绒毛膜和壁蜕膜",
+            "E.丛密绒毛膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪个结构分隔了胎儿血和母体血液",
+        "options": [
+            "A.胚盘",
+            "B.胎盘膜",
+            "C.胎盘",
+            "D.胎膜",
+            "E.羊膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 17
+    },
+    {
+        "question_text": "18.下面哪一种不是胎盘分泌的激素",
+        "options": [
+            "A.绒毛膜促性腺激素",
+            "B.雌激素",
+            "C.孕酮",
+            "D.松弛素",
+            "E.绒毛膜促乳腺生长激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 18
+    }
+]

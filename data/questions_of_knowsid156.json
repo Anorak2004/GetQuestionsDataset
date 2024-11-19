@@ -1,0 +1,394 @@
+[
+    {
+        "question_text": "37、原始生命诞生经历的过程是（   ）",
+        "options": [
+            "A.从无机小分子演变到原始有机小分子物质",
+            "B.从有机小分子到形成生物大分子物质",
+            "C.从生物大分子到多分子体系",
+            "D.从多分子体系演变为原始生命",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 1
+    },
+    {
+        "question_text": "38、细胞发生的物质基础是（  )",
+        "options": [
+            "A.核酸、蛋白质等多聚体的形成",
+            "B.膜的出现",
+            "C.有机小分子的出现",
+            "D.富含有机物的原始海洋",
+            "E.氧气"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 2
+    },
+    {
+        "question_text": "39、细胞形成的关键环节是（  )",
+        "options": [
+            "A.核酸、蛋白质等多聚体的形成",
+            "B.膜的出现",
+            "C.有机小分子的出现",
+            "D.富含有机物的原始海洋",
+            "E.氧气"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 3
+    },
+    {
+        "question_text": "40、原生质指（  )",
+        "options": [
+            "A.组成细胞的物质总称",
+            "B.细胞质",
+            "C.细胞质溶胶",
+            "D.细胞器",
+            "E.细胞内水分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 4
+    },
+    {
+        "question_text": "41、下列有关病毒说法不正确的是（   ）",
+        "options": [
+            "A.是由核酸和蛋白质构成的复合体",
+            "B.是最简单的细胞",
+            "C.增殖需要借助宿主细胞",
+            "D.对生物体的细胞具有感染性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 5
+    },
+    {
+        "question_text": "42、支原体内唯一的细胞器是(   )",
+        "options": [
+            "A.线粒体",
+            "B.核糖体",
+            "C.叶绿体",
+            "D.过氧化物酶体",
+            "E.内质网"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 6
+    },
+    {
+        "question_text": "43、在非细胞原始生命演化为细胞生物的转变中首先出现的是（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.细胞核",
+            "C.细胞器",
+            "D.核仁",
+            "E.纤毛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 7
+    },
+    {
+        "question_text": "44、真核细胞出现的关键是（   ）的形成",
+        "options": [
+            "A.细胞膜",
+            "B.细胞核",
+            "C.线粒体",
+            "D.核糖体",
+            "E.DNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 8
+    },
+    {
+        "question_text": "45、原核细胞的染色体是(   )",
+        "options": [
+            "A.一条与RNA、组蛋白结合在一起的DNA",
+            "B.两条与RNA、组蛋白结合在一起的DNA",
+            "C.一条不与RNA、组蛋白结合在一起的裸露的DNA",
+            "D.两条不与RNA、组蛋白结合在一起的裸露的DNA",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 9
+    },
+    {
+        "question_text": "46、原核细胞不具备的结构是（   ）",
+        "options": [
+            "A.细胞壁",
+            "B.细胞膜",
+            "C.拟核",
+            "D.线粒体",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 10
+    },
+    {
+        "question_text": "47、真核细胞具有的特征是（   ）",
+        "options": [
+            "A.遗传物质的转录和翻译异时异地",
+            "B.DNA环状",
+            "C.无有丝分裂器",
+            "D.无细胞骨架",
+            "E.无线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 11
+    },
+    {
+        "question_text": "48、原核细胞和真核细胞都具有的细胞器是（   ）",
+        "options": [
+            "A.中心体",
+            "B.线粒体",
+            "C.核糖体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 12
+    },
+    {
+        "question_text": "49、原核细胞与真核细胞的区别不包括下列哪项（   ）",
+        "options": [
+            "A.没有线粒体",
+            "B.没有内质网、高尔基体等细胞器",
+            "C.没有细胞核",
+            "D.没有核糖体",
+            "E.没有细胞骨架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 13
+    },
+    {
+        "question_text": "50、下列那一项不是细胞生存与增殖必须具备结构装置（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.遗传信息载体",
+            "C.线粒体",
+            "D.核糖体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 14
+    },
+    {
+        "question_text": "37、原始生命诞生经历的过程是（   ）",
+        "options": [
+            "A.从无机小分子演变到原始有机小分子物质",
+            "B.从有机小分子到形成生物大分子物质",
+            "C.从生物大分子到多分子体系",
+            "D.从多分子体系演变为原始生命",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 15
+    },
+    {
+        "question_text": "38、细胞发生的物质基础是（  )",
+        "options": [
+            "A.核酸、蛋白质等多聚体的形成",
+            "B.膜的出现",
+            "C.有机小分子的出现",
+            "D.富含有机物的原始海洋",
+            "E.氧气"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 16
+    },
+    {
+        "question_text": "39、细胞形成的关键环节是（  )",
+        "options": [
+            "A.核酸、蛋白质等多聚体的形成",
+            "B.膜的出现",
+            "C.有机小分子的出现",
+            "D.富含有机物的原始海洋",
+            "E.氧气"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 17
+    },
+    {
+        "question_text": "40、原生质指（  )",
+        "options": [
+            "A.组成细胞的物质总称",
+            "B.细胞质",
+            "C.细胞质溶胶",
+            "D.细胞器",
+            "E.细胞内水分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 18
+    },
+    {
+        "question_text": "41、下列有关病毒说法不正确的是（   ）",
+        "options": [
+            "A.是由核酸和蛋白质构成的复合体",
+            "B.是最简单的细胞",
+            "C.增殖需要借助宿主细胞",
+            "D.对生物体的细胞具有感染性",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 19
+    },
+    {
+        "question_text": "42、支原体内唯一的细胞器是(   )",
+        "options": [
+            "A.线粒体",
+            "B.核糖体",
+            "C.叶绿体",
+            "D.过氧化物酶体",
+            "E.内质网"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 20
+    },
+    {
+        "question_text": "43、在非细胞原始生命演化为细胞生物的转变中首先出现的是（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.细胞核",
+            "C.细胞器",
+            "D.核仁",
+            "E.纤毛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 21
+    },
+    {
+        "question_text": "44、真核细胞出现的关键是（   ）的形成",
+        "options": [
+            "A.细胞膜",
+            "B.细胞核",
+            "C.线粒体",
+            "D.核糖体",
+            "E.DNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 22
+    },
+    {
+        "question_text": "45、原核细胞的染色体是(   )",
+        "options": [
+            "A.一条与RNA、组蛋白结合在一起的DNA",
+            "B.两条与RNA、组蛋白结合在一起的DNA",
+            "C.一条不与RNA、组蛋白结合在一起的裸露的DNA",
+            "D.两条不与RNA、组蛋白结合在一起的裸露的DNA",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 23
+    },
+    {
+        "question_text": "46、原核细胞不具备的结构是（   ）",
+        "options": [
+            "A.细胞壁",
+            "B.细胞膜",
+            "C.拟核",
+            "D.线粒体",
+            "E.核糖体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 24
+    },
+    {
+        "question_text": "47、真核细胞具有的特征是（   ）",
+        "options": [
+            "A.遗传物质的转录和翻译异时异地",
+            "B.DNA环状",
+            "C.无有丝分裂器",
+            "D.无细胞骨架",
+            "E.无线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 25
+    },
+    {
+        "question_text": "48、原核细胞和真核细胞都具有的细胞器是（   ）",
+        "options": [
+            "A.中心体",
+            "B.线粒体",
+            "C.核糖体",
+            "D.内质网",
+            "E.高尔基复合体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 26
+    },
+    {
+        "question_text": "49、原核细胞与真核细胞的区别不包括下列哪项（   ）",
+        "options": [
+            "A.没有线粒体",
+            "B.没有内质网、高尔基体等细胞器",
+            "C.没有细胞核",
+            "D.没有核糖体",
+            "E.没有细胞骨架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 27
+    },
+    {
+        "question_text": "50、下列那一项不是细胞生存与增殖必须具备结构装置（   ）",
+        "options": [
+            "A.细胞膜",
+            "B.遗传信息载体",
+            "C.线粒体",
+            "D.核糖体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "28",
+        "number": 28
+    }
+]
