@@ -13,18 +13,6 @@ def main():
     login = Login(username, password)
     login_response = login.login()
 
-    # 如果登录成功，获取数据
-    """if login_response.status_code == 200:
-        fetch = Fetch(login)
-        info = fetch.fetch_data(knowsid=10,number=1)  # 获取数据
-        processor = QuestionProcessor(info)
-        result = processor.process()
-        print(result)
-
-    else:
-        print("登录失败，无法继续获取数据")
-    """
-    
     if login_response.status_code == 200:
         controller = Controller(login)
         
