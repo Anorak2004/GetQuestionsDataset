@@ -1,0 +1,534 @@
+[
+    {
+        "question_text": "1.大环内酯类抗生素治疗无效的是",
+        "options": [
+            "A.支原体肺炎",
+            "B.军团菌肺炎",
+            "C.弯曲菌肠炎",
+            "D.白喉",
+            "E.大肠杆菌肠炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 1
+    },
+    {
+        "question_text": "2.体内经转化后才具有药理活性的糖皮质激素是",
+        "options": [
+            "A.泼尼松龙",
+            "B.地塞米松",
+            "C.氟轻松",
+            "D.氢化可的松",
+            "E.泼尼松"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 2
+    },
+    {
+        "question_text": "3.甲巯咪唑治疗甲状腺功能亢进的机制是",
+        "options": [
+            "A.抑制甲状腺激素的生物合成",
+            "B.抑制促甲状腺激素的生物合成",
+            "C.抑制甲状腺摄取碘",
+            "D.抑制甲状腺激素的分泌",
+            "E.促进甲状腺激素的代谢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 3
+    },
+    {
+        "question_text": "4.雌激素禁用于",
+        "options": [
+            "A.绝经后晚期乳腺癌",
+            "B.前列腺癌",
+            "C.功能性子宫出血",
+            "D.青春期痤疮",
+            "E.有出血倾向的子宫肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列体外抗菌活性最强的常用氟喹渃酮类药是",
+        "options": [
+            "A.诺氟沙星",
+            "B.氧氟沙星",
+            "C.依诺沙星",
+            "D.培氟沙星",
+            "E.环丙沙星"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 5
+    },
+    {
+        "question_text": "6.主要用于耐青霉素的金黄色葡萄球菌感染的青霉素",
+        "options": [
+            "A.氨苄西林",
+            "B.羧苄西林",
+            "C.阿莫西林",
+            "D.磺苄西林",
+            "E.苯唑西林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列抗绿脓杆菌作用最强的头孢菌素是",
+        "options": [
+            "A.头孢哌酮",
+            "B.头孢他啶",
+            "C.头孢孟多",
+            "D.头孢拉定",
+            "E.头孢氨苄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列不用于治疗绿脓杆菌感染的抗生素是",
+        "options": [
+            "A.庆大霉素",
+            "B.羧苄西林",
+            "C.多粘菌素",
+            "D.头孢哌酮",
+            "E.四环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 8
+    },
+    {
+        "question_text": "9.可引起骨造血功能抑制的抗生素是",
+        "options": [
+            "A.青霉素G",
+            "B.链霉素",
+            "C.四环素",
+            "D.克林霉素",
+            "E.氯霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 9
+    },
+    {
+        "question_text": "10.可引起球后视神经炎的抗结核药是",
+        "options": [
+            "A.异烟肼",
+            "B.利福平",
+            "C.乙胺丁醇",
+            "D.链霉素",
+            "E.吡嗪酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 10
+    },
+    {
+        "question_text": "11.主要用于病因性预防的抗定药是",
+        "options": [
+            "A.氯喹",
+            "B.青篙素",
+            "C.伯氨喹",
+            "D.乙胺嘧啶",
+            "E.甲氟喹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 11
+    },
+    {
+        "question_text": "12.治疗绦虫症的首选药物是",
+        "options": [
+            "A.吡喹酮",
+            "B.左旋咪唑",
+            "C.哌嗪",
+            "D.噻嘧啶",
+            "E.甲苯咪唑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 12
+    },
+    {
+        "question_text": "13.体外无药理活性,体内经转化后才具有抗肿瘤作用的药物是",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.羟基脲",
+            "C.环磷酰胺",
+            "D.长春新碱",
+            "E.丝裂霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 13
+    },
+    {
+        "question_text": "14.治疗流行性脑脊髓膜炎的首选磺胺药是",
+        "options": [
+            "A.磺胺异唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲唸唑",
+            "D.柳氮磺胺吡啶",
+            "E.磺胺甲氧嘧啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 14
+    },
+    {
+        "question_text": "16.具有催眠作用较强H受体阻断药的",
+        "options": [
+            "A.苯海拉明",
+            "B.氯苯那敏",
+            "C.特非那定",
+            "D.布可利嗪",
+            "E.阿司咪唑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 15
+    },
+    {
+        "question_text": "17.哌替啶与吗啡相比,前者的优点是",
+        "options": [
+            "A.作用持续时间长",
+            "B.等效镇痛剂量时抑制呼吸作用弱",
+            "C.大剂量对支气管平滑肌无影响",
+            "D.成瘾性比吗啡小",
+            "E.相等剂量时镇痛强度相等"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 16
+    },
+    {
+        "question_text": "18.可翻转肾上腺素升压效应的药物是",
+        "options": [
+            "A.酚妥拉明",
+            "B.阿托品",
+            "C.山莨菪碱",
+            "D.利血平",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 17
+    },
+    {
+        "question_text": "19.浸润麻醉时,在局麻药中加入微量肾上腺素的目的主要是",
+        "options": [
+            "A.预防手术过程中出血",
+            "B.预防局麻药的过敏反应",
+            "C.减少局麻药吸收中毒,延长局麻作用时间",
+            "D.预防心脏骤停",
+            "E.对抗局麻药的舒张血管作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 18
+    },
+    {
+        "question_text": "20.地西泮抗焦的作用部位",
+        "options": [
+            "A.大脑皮质",
+            "B.中脑网状结构",
+            "C.纹状体",
+            "D.边缘系统",
+            "E.下丘脑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 19
+    },
+    {
+        "question_text": "21.地西泮不用于",
+        "options": [
+            "A.癫痫持续状态",
+            "B.诱导麻醉",
+            "C.高热惊厥",
+            "D.麻醉前给药",
+            "E.焦虑症或焦虑性失眠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 20
+    },
+    {
+        "question_text": "22.苯妥英钠抗癫痫作用机制",
+        "options": [
+            "A.直接抑制病灶局部的高频放电",
+            "B.对中枢神经系统广泛抑制",
+            "C.稳定神经细胞膜,降低细胞膜兴奋性",
+            "D.抑制脑干网状结构下行激活系统",
+            "E.中枢性骨骼肌松弛作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 21
+    },
+    {
+        "question_text": "23.治疗震颤性麻痹下列的最佳组合是",
+        "options": [
+            "A.左旋多巴+维生素B6",
+            "B.卡比多巴+维生素B",
+            "C.左旋多巴+卡比多巴",
+            "D.苯海索+维生素B",
+            "E.萃海索+卡比多巴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 22
+    },
+    {
+        "question_text": "25.阿司匹林防治血栓形成的主要机制是",
+        "options": [
+            "A.直接对抗维生素K",
+            "B.小剂量抑制血栓素(TXA2)生成",
+            "C.小剂量促进前列环素(PG)的生成",
+            "D.抑制凝血酶原生成",
+            "E.激活纤溶酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 23
+    },
+    {
+        "question_text": "26.强心苷治疗心房纤颓的主要机制是",
+        "options": [
+            "A.抑制窦房结",
+            "B.抑制心肌",
+            "C.减慢房室传导",
+            "D.延长心房有效不应期",
+            "E.降低浦氏纤维的自律性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 24
+    },
+    {
+        "question_text": "27.利多卡因不用于治疗",
+        "options": [
+            "A.室性早搏",
+            "B.心室纤颤",
+            "C.急性心肌梗死的室性心律失常",
+            "D.强心苷中毒引起室性心律失常",
+            "E.室上性心律失常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 25
+    },
+    {
+        "question_text": "28.属于HMGCOA(3-羟基-3甲基戊二酰辅酶A)还原酶抑制剂的抗高脂血症药物",
+        "options": [
+            "A.非诺贝特",
+            "B.考来烯胺",
+            "C.氯贝丁酯",
+            "D.亚油酸",
+            "E.洛伐他汀"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 26
+    },
+    {
+        "question_text": "29.伴消化道溃疡的高血压患者应选用",
+        "options": [
+            "A.利血平",
+            "B.氢氯噻嗪",
+            "C.可乐定",
+            "D.肼屈嗪",
+            "E.肌乙啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 27
+    },
+    {
+        "question_text": "30.适用于伴有焦虑或焦虑性抑郁的精神分裂症的治疗药物是",
+        "options": [
+            "A.氯普塞吨",
+            "B.氟哌啶醇",
+            "C.氯丙嗪",
+            "D.奋乃静",
+            "E.五氟利多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 28
+    },
+    {
+        "question_text": "31.被肝药酶代谢的药物与肝药酶诱导剂合用后,可使",
+        "options": [
+            "A.其原有效应减弱",
+            "B.其原有效应不变",
+            "C.产生新的效应",
+            "D.其原有效应增强",
+            "E.其原有效应被消除"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 29
+    },
+    {
+        "question_text": "32.治疗青霉素过敏性休克的首选药是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.肾上腺素",
+            "C.异丙肾上腺素",
+            "D.多巴胺",
+            "E.多巴酚丁胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 30
+    },
+    {
+        "question_text": "33.药物自血浆的消除包括",
+        "options": [
+            "A.吸收和分布过程",
+            "B.吸收和排泄过程",
+            "C.分布和排泄过程",
+            "D.吸收、分布、代谢和排泄过程",
+            "E.分布、代谢和排泄过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 31
+    },
+    {
+        "question_text": "34.有机磷酸酯类是",
+        "options": [
+            "A.促进胆碱能神经末梢释放乙酰胆碱增加",
+            "B.直接激动M胆碱受体",
+            "C.直接激动N胆碱受体",
+            "D.难逆性抑制单胺氧化酶",
+            "E.难逆性抑制胆碱酯酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 32
+    },
+    {
+        "question_text": "35.对药物极量叙述的错误项是",
+        "options": [
+            "A.通常应用时一般不应超过极量",
+            "B.必要时经慎重研究可以超过极量",
+            "C.应用时绝对不能超过极量",
+            "D.应用时必须考虑极量",
+            "E.大于治疗量,小于最小中毒量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 33
+    },
+    {
+        "question_text": "36.药物的副作用叙述的错误项是",
+        "options": [
+            "A.治疗量时出现与治疗无关的反应。",
+            "B.出现较轻与治疗无关的反应",
+            "C.常因药物作用选择性低引起",
+            "D.常因剂量过大引起",
+            "E.难以避免,停药后可恢复"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 34
+    },
+    {
+        "question_text": "37.弱碱性药物在碱性尿液中",
+        "options": [
+            "A.解离少,再吸收多,排泄慢",
+            "B.解离多,再吸收多,排泄慢",
+            "C.解离少,再吸收少,排泄快",
+            "D.解离多,再吸收少,排泄快",
+            "E.解离多,再吸收多,排泄快"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 35
+    },
+    {
+        "question_text": "38.地高辛t1/2为33h,每日给维持量,达稳态有效血浓度的时间约",
+        "options": [
+            "A.2d",
+            "B.3d",
+            "C.5d",
+            "D.7d",
+            "E.9d"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 36
+    },
+    {
+        "question_text": "39.药物的血浆半衰期是指",
+        "options": [
+            "A.药物的最高血浓度下降一半的时间",
+            "B.药物的组织浓度下降一半的时间",
+            "C.药物的血浆浓度下降一半的时间",
+            "D.药物的稳态血浓度下降一半的时间",
+            "E.药物的有效血浓度下降一半的时间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 37
+    },
+    {
+        "question_text": "40.用于预防过敏性哮喘发作的药物是",
+        "options": [
+            "A.异丙肾上腺索",
+            "B.肾上腺素",
+            "C.沙丁胺醇",
+            "D.氨茶碱",
+            "E.色甘酸钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 38
+    }
+]

@@ -1,0 +1,1136 @@
+[
+    {
+        "question_text": "1.阿司匹林的不良反应不包括",
+        "options": [
+            "A.凝血障碍",
+            "B.水钠潴留",
+            "C.变态反应",
+            "D.水杨酸反应",
+            "E.瑞夷综合症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 1
+    },
+    {
+        "question_text": "2.呋塞米(速尿)可引起水杨酸蓄积中毒的原因是",
+        "options": [
+            "A.减慢其代谢",
+            "B.减少其与血浆蛋白结合",
+            "C.缩小其表观分布容积",
+            "D.减少其排泄",
+            "E.增加吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 2
+    },
+    {
+        "question_text": "3.保泰松禁用于高血压、心功能不全是由于该药引起",
+        "options": [
+            "A.水钠潴留",
+            "B.激动α肾上腺素受体",
+            "C.激动肾上腺素受体",
+            "D.收缩血管",
+            "E.兴奋心脏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 3
+    },
+    {
+        "question_text": "4.溃疡病禁用的药物是:",
+        "options": [
+            "A.布洛芬",
+            "B.对乙酰氨基酚",
+            "C.保泰松",
+            "D.非那西丁",
+            "E.酮洛芬"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 4
+    },
+    {
+        "question_text": "5.支气管哮喘病人禁用的药物是",
+        "options": [
+            "A.吡罗昔康",
+            "B.阿司匹林",
+            "C.丙磺舒",
+            "D.布洛芬",
+            "E.氯芬那酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 5
+    },
+    {
+        "question_text": "6.癫痫病人禁用的药物是:",
+        "options": [
+            "A.阿司匹林",
+            "B.吲哚美辛",
+            "C.水杨酸钠",
+            "D.非那西丁",
+            "E.布洛芬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 6
+    },
+    {
+        "question_text": "7.胃肠反应常见的药物有:",
+        "options": [
+            "A.吲哚美辛",
+            "B.保泰松",
+            "C.布洛芬",
+            "D.甲芬那酸",
+            "E.水杨酸钠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 7
+    },
+    {
+        "question_text": "8.羟基保泰松的临床应用不包括:",
+        "options": [
+            "A.风湿性关节炎",
+            "B.恶性肿引起的发热",
+            "C.急性痛风",
+            "D.强直性脊柱炎",
+            "E.寄生虫病引起的发热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 8
+    },
+    {
+        "question_text": "9.不用于抗炎的药物是:",
+        "options": [
+            "A.水杨酸钠",
+            "B.羟基保泰松",
+            "C.吲哚美辛",
+            "D.布洛芬",
+            "E.对乙酰氨基酚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 9
+    },
+    {
+        "question_text": "10.孕妇禁用的药物是:",
+        "options": [
+            "A.水杨酸钠",
+            "B.阿司匹林",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 10
+    },
+    {
+        "question_text": "11.保泰松作用特点为:",
+        "options": [
+            "A.解热镇痛作用强、抗炎抗风湿作用强、毒性小",
+            "B.解热镇痛作用强、抗炎抗风湿作用弱、毒性小",
+            "C.解热镇痛作用弱、抗炎抗风湿作用强、毒性小",
+            "D.解热镇痛作用弱、抗炎抗风湿作用强、毒性大",
+            "E.鯀热镇痛作用强、抗炎抗风湿作用强、毒性大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 11
+    },
+    {
+        "question_text": "12.布洛芬的主要特点是:",
+        "options": [
+            "A.解热镇痛作用强",
+            "B.口服吸收慢",
+            "C.与血浆蛋白结合少",
+            "D.胃肠反应较轻,易耐受",
+            "E.半衰期长"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 12
+    },
+    {
+        "question_text": "13.秋水仙碱治疗痛风的机制是:",
+        "options": [
+            "A.减少尿酸的生成",
+            "B.促进尿酸的排泄",
+            "C.抑制肾小管对尿酸的再吸收",
+            "D.抑制黄嘌呤抗氧化酶",
+            "E.选择性消炎作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 13
+    },
+    {
+        "question_text": "14.解热镇痛药的退热作用机制是:",
+        "options": [
+            "A.抑制中枢PG合成",
+            "B.抑制外周PG合成",
+            "C.抑制中枢PG降解",
+            "D.抑制外周PG降解",
+            "E.增加中枢PG释放"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 14
+    },
+    {
+        "question_text": "15.解热镇痛药镇痛的主要作用部位在:",
+        "options": [
+            "A.导水管周围灰质",
+            "B.脊髓",
+            "C.丘脑",
+            "D.脑干",
+            "E.外周"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 15
+    },
+    {
+        "question_text": "16.解热镇痛药的镇痛作用机制是:",
+        "options": [
+            "A.阻断传入神经的冲动传导",
+            "B.降低感觉纤维感受器的敏感性",
+            "C.阻止炎症时PG的合成",
+            "D.激动阿片受体",
+            "E.阻断多巴胺受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 16
+    },
+    {
+        "question_text": "17.治疗类风湿性关节炎的首选药的是",
+        "options": [
+            "A.水杨酸钠",
+            "B.阿司匹林",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.对乙酰氨基酚"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 17
+    },
+    {
+        "question_text": "18.丙磺舒增加青霉素疗效的机制是:",
+        "options": [
+            "A.减慢其在肝脏代谢",
+            "B.增加其对细菌膜的通透性",
+            "C.减少共在肾小管分泌排泄",
+            "D.对细菌起双重杀菌作用",
+            "E.增加其与细菌蛋白结合力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 18
+    },
+    {
+        "question_text": "19.阿司匹林防止血栓形成的机制是:",
+        "options": [
+            "A.激活环加氧酶,增加血栓素生成,抗血小板聚集及抗血栓形成",
+            "B.抑制环加氧酶,减少前列环素生成,抗血小板聚集及抗血栓形成",
+            "C.抑制环加氧酶,减少血栓素生成;抗血小板聚集及抗血栓形成",
+            "D.抑制环氧酶,增加前列环素生成,抗血小板聚集及抗血栓形成",
+            "E.激活环加氧酶,减少血栓素生成,抗血小板聚集及抗血栓形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 19
+    },
+    {
+        "question_text": "20.解热镇痛药的抗炎作用机制是:",
+        "options": [
+            "A.促进炎症消散",
+            "B.抑制炎症时PG的合成",
+            "C.抑制抑黄嘌呤氧化酶",
+            "D.促进PG从肾脏排泄",
+            "E.激活黄嘌呤氧化酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 20
+    },
+    {
+        "question_text": "21.阿司匹林与甲磺丁脲合用易引起低血糖反应是由于前者",
+        "options": [
+            "A.从血浆蛋白结合部位置换甲磺丁脲",
+            "B.抑制肝药酶，减慢甲磺丁脲代谢",
+            "C.加快胃粘膜血流，增加甲磺丁脲吸收",
+            "D.酸化尿液增加甲磺丁脲在肾小管重吸收",
+            "E.增加胰岛功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 21
+    },
+    {
+        "question_text": "22.保泰松降低强心苷的原因是:",
+        "options": [
+            "A.增加其与血浆蛋白结合",
+            "B.增加其排泄",
+            "C.减少其吸收",
+            "D.增加其代谢",
+            "E.增加其分布容积"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 22
+    },
+    {
+        "question_text": "23.胃溃疡病人宜选用下列哪种药物解热镇痛？",
+        "options": [
+            "A.吲哚美辛",
+            "B.对乙酰氨基酚",
+            "C.吡罗昔康",
+            "D.保泰松",
+            "E.阿司匹林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 23
+    },
+    {
+        "question_text": "24.可防止脑血栓形成的药物是:",
+        "options": [
+            "A.水杨酸钠",
+            "B.阿司匹林",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 24
+    },
+    {
+        "question_text": "25.代谢为有毒性代谢产物的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.保泰松",
+            "C.非那西丁",
+            "D.吲哚美辛",
+            "E.甲芬那酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 25
+    },
+    {
+        "question_text": "26.与华法林合用竞争血浆蛋白结合的药物是",
+        "options": [
+            "A.保泰松",
+            "B.对乙酰氨基酚",
+            "C.吲哚美辛",
+            "D.非那西丁",
+            "E.甲芬那酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 26
+    },
+    {
+        "question_text": "27.对乙酰氨基酚用于治疗",
+        "options": [
+            "A.急性风湿热",
+            "B.感冒发热",
+            "C.预防血栓形成",
+            "D.类风湿性关节炎",
+            "E.急性痛风"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 27
+    },
+    {
+        "question_text": "28.阿司匹林不具有的不良反应是",
+        "options": [
+            "A.诱发胃溃疡和胃出血",
+            "B.听力减退、耳鸣",
+            "C.水钠潴留",
+            "D.瑞氏综合征",
+            "E.荨麻疹等过敏反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 28
+    },
+    {
+        "question_text": "29.对环氧酶抑制作用最强的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.保泰松",
+            "C.布洛芬",
+            "D.吲哚美辛",
+            "E.吡罗昔康"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列不良反应最大的解热镇痛药是",
+        "options": [
+            "A.阿司匹林",
+            "B.对乙酰氨基酚",
+            "C.吡罗昔康",
+            "D.布洛芬",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 30
+    },
+    {
+        "question_text": "31.阿司匹林抑制PG合成主要是通过抑制",
+        "options": [
+            "A.环氧酶",
+            "B.脂氧酶",
+            "C.磷脂酶A2",
+            "D.过氧化物酶",
+            "E.腺苷酸环化酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列t1/2最长的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.对乙酰氨基酚",
+            "C.吲哚美辛",
+            "D.保泰松",
+            "E.吡罗昔康"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 32
+    },
+    {
+        "question_text": "33.大剂量阿司匹林引起胃出血的主要原因是",
+        "options": [
+            "A.抑制PG合成",
+            "B.抑制凝血过程",
+            "C.直接刺激胃粘膜",
+            "D.抑制血小板聚集",
+            "E.造成VK缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 33
+    },
+    {
+        "question_text": "34.对乙酰氨基酚的作用特点是",
+        "options": [
+            "A.解热镇痛作用较强,抗炎抗风湿作用弱,不良反应大",
+            "B.解热镇痛作用较强,抗炎抗风湿作用弱,不良反应较轻",
+            "C.解热镇痛作用较弱,抗炎抗风湿作用强,不良反应较轻",
+            "D.解热镇痛作用较弱,抗炎抗风湿作用强,不良反应大",
+            "E.解热镇痛作用较弱,抗炎抗风湿作用弱,不良反应大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 34
+    },
+    {
+        "question_text": "35.具有促进尿酸排泄作用的解热镇痛药是",
+        "options": [
+            "A.阿司匹林",
+            "B.保泰松",
+            "C.非那西丁",
+            "D.对乙酰氨基酚",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 35
+    },
+    {
+        "question_text": "36.伴消化性溃疡的发热病人宜选用",
+        "options": [
+            "A.阿司匹林",
+            "B.对乙酰氨基酚",
+            "C.保泰松",
+            "D.非那西丁",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 36
+    },
+    {
+        "question_text": "37.阿司匹林可用于",
+        "options": [
+            "A.月经痛",
+            "B.胃肠痉挛绞痛",
+            "C.胆绞痛",
+            "D.心绞痛",
+            "E.术后剧痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 37
+    },
+    {
+        "question_text": "38.小剂量阿司匹林预防血栓形成的机制是",
+        "options": [
+            "A.抑制白三烯的生成",
+            "B.抑制PGE2的生成",
+            "C.抑制PGF2α的生成",
+            "D.抑制PGI2的生成",
+            "E.抑制TXA2的生成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 38
+    },
+    {
+        "question_text": "39.解热镇痛药的镇痛机制是",
+        "options": [
+            "A.激动中枢阿片受体",
+            "B.抑制末梢痛觉感受器",
+            "C.抑制前列腺素的生物合成",
+            "D.抑制传入神经的冲动传导",
+            "E.主要抑制中枢神经系统"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 39
+    },
+    {
+        "question_text": "40.有关阿司匹林解热作用的描述不正确的是",
+        "options": [
+            "A.直接作用于体温调节中枢",
+            "B.通过抑制PG的合成而发挥解热作用",
+            "C.对直接注射PG引起的发热有效",
+            "D.降低发热者的体温",
+            "E.不能降低正常者的体温"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 40
+    },
+    {
+        "question_text": "41.关于阿司匹林的叙述,下列正确的是",
+        "options": [
+            "A.口服后,大部分在胃、小部分在小肠吸收",
+            "B.迅速被胃黏膜、血浆、红细胞及肝中酯酶水解为水杨酸",
+            "C.按零级动力学消除",
+            "D.t1/2短,为1-2小时",
+            "E.不易进入关节腔和脑脊液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 41
+    },
+    {
+        "question_text": "42.乙酰水杨酸禁用于下列哪种病症",
+        "options": [
+            "A.感冒、发热、头痛",
+            "B.风湿性关节炎",
+            "C.预防血栓形成",
+            "D.维生素K缺乏",
+            "E.类风湿性关节炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 42
+    },
+    {
+        "question_text": "43.伴有高血压病的活动性风湿性关节炎患者宜选用",
+        "options": [
+            "A.地塞米松",
+            "B.氢化可的松",
+            "C.保泰松",
+            "D.泼尼松龙",
+            "E.阿司匹林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 43
+    },
+    {
+        "question_text": "44.解热镇痛药的解热作用,主要由于",
+        "options": [
+            "A.抑制缓激肽的生成",
+            "B.抑制内热原的释放",
+            "C.作用于中枢部位,使PG合成减少",
+            "D.作用于外周部位,使PG合成减少",
+            "E.抑制体温调节中枢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 44
+    },
+    {
+        "question_text": "45.解热镇痛抗炎药",
+        "options": [
+            "A.能根治风湿性及类风湿性关节炎",
+            "B.都有抗炎作用",
+            "C.不能防止风湿病的发展和合并症的产生",
+            "D.能降解炎性组织中的PG",
+            "E.具有成瘾性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 45
+    },
+    {
+        "question_text": "46.不用于抗炎的药物是",
+        "options": [
+            "A.水杨酸钠",
+            "B.对乙酰氨基酚",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 46
+    },
+    {
+        "question_text": "47.阿司匹林不具有下列哪项作用",
+        "options": [
+            "A.解热镇痛作用",
+            "B.抗风湿作用",
+            "C.治疗量可抗血小板聚集与抗血栓形成",
+            "D.高剂量抑制PGI合成,反而促进血栓形成",
+            "E.直接抑制体温调节中枢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 47
+    },
+    {
+        "question_text": "48.体内代谢产物具有毒性的药物是",
+        "options": [
+            "A.甲芬那酸",
+            "B.阿司匹林",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.非那西丁"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列哪组药物合用时不必减少用量",
+        "options": [
+            "A.水杨酸钠+双香豆素",
+            "B.阿司匹林+甲氨蝶呤",
+            "C.阿司匹林+肾上腺素",
+            "D.水杨酸钠+肾上腺皮质激素",
+            "E.阿司匹林+甲苯磺丁脲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 49
+    },
+    {
+        "question_text": "50.阿司匹林可用于",
+        "options": [
+            "A.关节痛",
+            "B.胃肠痉挛",
+            "C.胃肠绞痛",
+            "D.胆绞痛",
+            "E.术后疼痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 50
+    },
+    {
+        "question_text": "51.氯芬那酸和布洛芬的共同特点是",
+        "options": [
+            "A.主要用于风湿性和类风湿性关节炎的治疗",
+            "B.引起视力障碍",
+            "C.损害肝、肾功能",
+            "D.可引起溶血性贫血",
+            "E.都可引起阿司匹林哮喘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 51
+    },
+    {
+        "question_text": "52.阿司匹林预防血栓形成的机制是",
+        "options": [
+            "A.激活抗凝血酶",
+            "B.使环加氧酶失活,减少血小板中TXA2生成,从而抗血小板聚集及抗血栓形成",
+            "C.加强维生素K的作用",
+            "D.直接对抗血小板聚集",
+            "E.降低凝血酶活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 52
+    },
+    {
+        "question_text": "53.解热镇痛药镇痛的主要作用部位是",
+        "options": [
+            "A.丘脑",
+            "B.脊髓胶质层",
+            "C.脑室与导水管周围灰质",
+            "D.脑干网状结构",
+            "E.外周部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 53
+    },
+    {
+        "question_text": "54.治疗类风湿性关节炎的首选药物是",
+        "options": [
+            "A.水杨酸钠",
+            "B.阿司匹林",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 54
+    },
+    {
+        "question_text": "55.阿司匹林是通过抑制下列哪种酶而发挥作用的",
+        "options": [
+            "A.二氢蝶酸合成酶",
+            "B.过氧化物酶",
+            "C.环氧酶",
+            "D.磷脂酶",
+            "E.胆碱酯酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 55
+    },
+    {
+        "question_text": "56.保泰松降低强心苷作用的原因是",
+        "options": [
+            "A.增加其与血浆蛋白的结合",
+            "B.增加其排泄",
+            "C.减少其吸收",
+            "D.增加其代谢",
+            "E.增加其分布容积"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 56
+    },
+    {
+        "question_text": "57.关于阿司匹林的叙述,正确的是",
+        "options": [
+            "A.大剂量按零级动力学消除",
+            "B.与血浆蛋白结合率低",
+            "C.碱性尿液中排泄少",
+            "D.酸性尿液中排泄多",
+            "E.大部分在胃内吸收"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 57
+    },
+    {
+        "question_text": "58.关于解热镇痛药,正确的是",
+        "options": [
+            "A.难以防止炎症时PG的合成",
+            "B.仅在外周发挥镇痛作用",
+            "C.大多数均无抗炎作用",
+            "D.苯胺类几乎无抗炎作用",
+            "E.能根治类风湿性关节炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 58
+    },
+    {
+        "question_text": "59.哪种不良反应和阿司匹林的剂量无关",
+        "options": [
+            "A.水杨酸反应",
+            "B.凝血障碍",
+            "C.上消化道溃疡",
+            "D.胃肠出血",
+            "E.阿司匹林哮喘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 59
+    },
+    {
+        "question_text": "60.乙酰水杨酸引起严重水杨酸反应的急救措施",
+        "options": [
+            "A.静脉滴注碳酸氢钠溶液",
+            "B.静脉滴注氯化铵溶液",
+            "C.静脉注射尼可刹米",
+            "D.静脉注射苯比妥",
+            "E.吸氧"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 60
+    },
+    {
+        "question_text": "61.保泰松的作用特点是",
+        "options": [
+            "A.解热镇痛作用强,抗炎抗风湿作用强,毒性小",
+            "B.解热镇痛作用强,抗炎抗风湿作用弱,毒性小",
+            "C.解热镇痛作用弱,抗炎抗风湿作用强,毒性小",
+            "D.解热镇痛作用弱,抗炎抗风湿作用强,毒性大",
+            "E.解热镇痛作用强,抗炎抗风湿作用强,毒性大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 61
+    },
+    {
+        "question_text": "62.关于解热镇痛药,正确的是",
+        "options": [
+            "A.仅有轻度镇痛作用",
+            "B.对内脏平滑肌绞痛有效",
+            "C.对临床常见的慢性钝痛有良好的镇痛效果",
+            "D.可产生成瘾性",
+            "E.对痛经无效"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 62
+    },
+    {
+        "question_text": "63.急性中毒可致肝坏死的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.对乙酰氨基酚",
+            "C.甲芬那酸",
+            "D.吡罗昔康",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 63
+    },
+    {
+        "question_text": "64.可用于癌症发热的药物",
+        "options": [
+            "A.对乙酰氨基酚",
+            "B.吲哚美辛",
+            "C.安乃近",
+            "D.布洛芬",
+            "E.萘普生"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 64
+    },
+    {
+        "question_text": "65.下列哪种药物血浆半衰期最长",
+        "options": [
+            "A.水杨酸钠",
+            "B.布洛芬",
+            "C.非那匹丁",
+            "D.保泰松",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 65
+    },
+    {
+        "question_text": "66.肝、肾功能不良者禁用的药物是",
+        "options": [
+            "A.吡罗昔康",
+            "B.布洛芬",
+            "C.萘普生",
+            "D.保泰松",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 66
+    },
+    {
+        "question_text": "67.抑制尿酸生成的药物是",
+        "options": [
+            "A.保泰松",
+            "B.丙磺舒",
+            "C.别嘌醇",
+            "D.秋水仙碱",
+            "E.苯溴马隆"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 67
+    },
+    {
+        "question_text": "68.可以引起急性胰腺炎的是",
+        "options": [
+            "A.吲哚美辛",
+            "B.阿司匹林",
+            "C.对乙酰氨基酚",
+            "D.保泰松",
+            "E.布洛芬"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 68
+    },
+    {
+        "question_text": "69.癫痫病人禁用的药物是",
+        "options": [
+            "A.布洛芬",
+            "B.阿司匹林",
+            "C.水杨酸钠",
+            "D.吲哚美辛",
+            "E.非那西丁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 69
+    },
+    {
+        "question_text": "70.代谢产物仍有作用的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.非那西丁",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 70
+    },
+    {
+        "question_text": "71.可引起溶血性贫血的药物是",
+        "options": [
+            "A.非那西丁",
+            "B.布洛芬",
+            "C.吲哚美辛",
+            "D.阿司匹林",
+            "E.保泰松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 71
+    },
+    {
+        "question_text": "72.关于阿司匹林的不良反应,错误的叙述是",
+        "options": [
+            "A.胃肠道反应最为常见",
+            "B.凝血障碍,术前1周应停用",
+            "C.过敏反应、哮喘、慢性荨麻疹患者不宜用",
+            "D.水钠潴留,引起局部水肿",
+            "E.水杨酸反应是中毒的表现"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 72
+    },
+    {
+        "question_text": "73.对肝功能有影响的药物不包括",
+        "options": [
+            "A.水杨酸钠",
+            "B.对乙酰氨基酚",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.甲芬那酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 73
+    },
+    {
+        "question_text": "74.因不良反应多,常用于不易控制的发热药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.布洛芬",
+            "C.保泰松",
+            "D.尼美舒利",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 74
+    },
+    {
+        "question_text": "75.布洛芬与阿司匹林相比,优点是",
+        "options": [
+            "A.解热作用强",
+            "B.镇痛作用强",
+            "C.抗风湿作用强",
+            "D.抗血小板聚集作用强",
+            "E.胃肠道反应小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 75
+    },
+    {
+        "question_text": "76.不能用于治疗风湿性关节炎的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.对乙酰氨基酚",
+            "C.保泰松",
+            "D.吲哚美辛",
+            "E.布洛芬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 76
+    },
+    {
+        "question_text": "77.小儿退热首选",
+        "options": [
+            "A.阿司匹林",
+            "B.吲哚美辛",
+            "C.对乙酰氨基酚",
+            "D.萘普生",
+            "E.吡罗昔康"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 77
+    },
+    {
+        "question_text": "78.孕妇慎用的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.甲芬那酸",
+            "C.保泰松",
+            "D.非那西丁",
+            "E.吡罗昔康"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 78
+    },
+    {
+        "question_text": "79.保泰松使用一段时间后疗效降低的原因是",
+        "options": [
+            "A.吸收减少",
+            "B.代谢加速",
+            "C.排泄加快",
+            "D.与血浆蛋白结合增加",
+            "E.脂肪储存增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 79
+    },
+    {
+        "question_text": "80.下列关于阿司匹林的叙述,错误的是",
+        "options": [
+            "A.降低正常人体与发热患者的体温,用于各种发热",
+            "B.常与其他解热镇痛药配成复方,用于头痛、牙痛、神经痛",
+            "C.抗炎抗风湿作用较强,可使急性风湿热患者-24-48小时内退热,关节肿痛缓解",
+            "D.抑制PG合成酶,减少血小板中TXA2的生成",
+            "E.治疗缺血性心脏病,降低病死率与再梗塞率"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 80
+    },
+    {
+        "question_text": "81.有关保泰松的不良反应哪项是错误的",
+        "options": [
+            "A.高铁血红蛋白血症",
+            "B.胃肠道反应",
+            "C.水钠潴留",
+            "D.肝肾损害",
+            "E.甲状腺肿大及黏液性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "81",
+        "number": 81
+    }
+]

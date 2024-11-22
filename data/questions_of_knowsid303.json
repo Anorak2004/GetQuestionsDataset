@@ -1,0 +1,2284 @@
+[
+    {
+        "question_text": "899.肾脏的基本功能单位是",
+        "options": [
+            "A.肾小球",
+            "B.肾小体",
+            "C.肾小管",
+            "D.集合管",
+            "E.肾单位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 1
+    },
+    {
+        "question_text": "900.肾脏血液供应的特点是",
+        "options": [
+            "A.血流量小",
+            "B.血流分布均匀",
+            "C.肾小管周围毛细血管内血压高",
+            "D.肾小球毛细血管内血压高",
+            "E.肾血流量易随全身血压波动而变化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 2
+    },
+    {
+        "question_text": "901.最易通过肾小球滤过膜的物质是",
+        "options": [
+            "A.带负电的小分子",
+            "B.带正电的小分子",
+            "C.电中性的小分子",
+            "D.带正电的大分子",
+            "E.带负电的大分子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 3
+    },
+    {
+        "question_text": "902.促进肾小球滤过的动力是",
+        "options": [
+            "A.肾小球毛细血管血压",
+            "B.囊内液体胶体渗透压",
+            "C.血浆胶体渗透压",
+            "D.囊内压",
+            "E.全身动脉压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 4
+    },
+    {
+        "question_text": "*903.下列哪种情况可导致肾小球滤过率增高",
+        "options": [
+            "A.肾交感神经兴奋",
+            "B.注射大量肾上腺素",
+            "C.快速静脉滴注生理盐水",
+            "D.静脉滴注高渗葡萄糖液",
+            "E.注射抗利尿激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 5
+    },
+    {
+        "question_text": "904.交感神经兴奋时肾小球滤过率下降是由于",
+        "options": [
+            "A.平均动脉压降低",
+            "B.滤过膜通透性降低",
+            "C.囊内压升高",
+            "D.血浆胶体渗透压增高",
+            "E.肾血浆流量降低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 6
+    },
+    {
+        "question_text": "905.肾小球滤过率是指每分钟",
+        "options": [
+            "A.一个肾单位生成的原尿量",
+            "B.一个肾脏生成的原尿量",
+            "C.两肾生成的原尿量",
+            "D.两肾生成的终尿量",
+            "E.一个肾脏生成的终尿量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 7
+    },
+    {
+        "question_text": "906.滤过分数指下列哪一项的比值",
+        "options": [
+            "A.肾小球滤过率/肾血浆流量",
+            "B.肾血浆流量/肾血流量",
+            "C.肾血流量/肾血浆流量",
+            "D.肾小球滤过率/肾血流量",
+            "E.肾血流量/心输出量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 8
+    },
+    {
+        "question_text": "907.肾炎患者出现蛋白尿是由于",
+        "options": [
+            "A.肾小球滤过率增高",
+            "B.肾血浆流量增大",
+            "C.血浆蛋白浓度增高",
+            "D.肾小球滤过膜面积增大",
+            "E.滤过膜上带负电荷的糖蛋白减少或消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 9
+    },
+    {
+        "question_text": "908.近球小管重吸收的关键动力是",
+        "options": [
+            "A.基侧膜上的Na+泵",
+            "B.管腔膜上的同向转运",
+            "C.管腔膜上的逆向转运",
+            "D.管腔膜上的电中性转运",
+            "E.管腔膜上的生电性转运"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 10
+    },
+    {
+        "question_text": "909.下列哪项属于被动转运",
+        "options": [
+            "A.水从低渗透压侧至高渗透压一侧",
+            "B.Na+从低浓度侧至高浓度侧",
+            "C.葡萄糖从低浓度侧至高浓度侧",
+            "D.氨基酸从低浓度侧至高浓度侧",
+            "E.蛋白质进入细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 11
+    },
+    {
+        "question_text": "910.抑制近球小管的Na+-H+交换不引起",
+        "options": [
+            "A.Na+排出增多",
+            "B.Cl-排出增多",
+            "C.水排出增多",
+            "D.HCO3-排出增多",
+            "E.葡萄糖排出增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 12
+    },
+    {
+        "question_text": "911.肾脏对葡萄糖的重吸收发生于",
+        "options": [
+            "A.近球小管",
+            "B.髓祥",
+            "C.远球小管",
+            "D.集合管",
+            "E.各段肾小管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 13
+    },
+    {
+        "question_text": "912.近球小管对小管液的重吸收为",
+        "options": [
+            "A.低渗重吸收",
+            "B.等渗重吸收",
+            "C.高渗重吸收",
+            "D.受抗利尿激素的调节",
+            "E.受醛固酮的调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 14
+    },
+    {
+        "question_text": "913.肾糖阈是指",
+        "options": [
+            "A.尿中开始出现葡萄糖时的血糖浓度",
+            "B.肾小球开始滤过葡萄糖时的血糖浓度",
+            "C.肾小管开始吸收葡萄糖的血糖浓度",
+            "D.肾小管吸收葡萄糖的最大能力",
+            "E.肾小球开始滤过葡萄糖的临界尿糖浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 15
+    },
+    {
+        "question_text": "914.肾小管对HC03\"l的重吸收",
+        "options": [
+            "A.以HCO3-的形式吸收",
+            "B.以CO2-的形式吸收",
+            "C.主要在远球小管进行",
+            "D.滞后于Cl'°的吸收",
+            "E.不依赖于H+的分泌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 16
+    },
+    {
+        "question_text": "*915.肾小管对H+的分泌增加不引起",
+        "options": [
+            "A.Na+吸收增加",
+            "B.HCO3-重吸收增加",
+            "C.NH3分泌增加",
+            "D.K+分泌增加",
+            "E.H2PO4-排出增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 17
+    },
+    {
+        "question_text": "916.肾脏内髓部渗透梯度的形成主要依赖于",
+        "options": [
+            "A.NaCl",
+            "B.尿素",
+            "C.NaCl和尿素",
+            "D.KCl",
+            "E.NaCl 和 KCl"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 18
+    },
+    {
+        "question_text": "917.剧烈运动时尿量减少的主要原因是",
+        "options": [
+            "A.体循环动脉血压下降",
+            "B.醛固酮分泌增多",
+            "C.肾血流量减少",
+            "D.血浆胶体渗透压升高",
+            "E.肾小管对水重吸收增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 19
+    },
+    {
+        "question_text": "918.抗利尿激素的主要作用是",
+        "options": [
+            "A.提高远曲小管和集合管对水的通透性",
+            "B.增强髓祥升支粗段对NaCl的主动重吸收",
+            "C.提高内髓部集合管对尿素的通透性",
+            "D.促进近球小管对水的重吸收",
+            "E.保 Na\"+”、排 K+、保水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 20
+    },
+    {
+        "question_text": "919.下列可抑制抗利尿激素分泌的因素是",
+        "options": [
+            "A.心钠素",
+            "B.血管紧张素II",
+            "C.血浆晶体渗透压升高",
+            "D.血压降低",
+            "E.大量出汗"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 21
+    },
+    {
+        "question_text": "920.大量饮清水后引起尿量增多的主要原因是",
+        "options": [
+            "A.抗利尿激素分泌减少",
+            "B.肾小球滤过率增大",
+            "C.动脉血压升高",
+            "D.近球小管渗透压增高",
+            "E.血管紧张素II减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 22
+    },
+    {
+        "question_text": "921.肾素-血管紧张素系统激活时",
+        "options": [
+            "A.醛固酮分泌减少",
+            "B.抗利尿激素分泌减少",
+            "C.肾上腺素分泌减少",
+            "D.肾脏NaCl排出减少",
+            "E.肾小球滤过率增大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 23
+    },
+    {
+        "question_text": "922.可致肾素分泌增多的因素是",
+        "options": [
+            "A.入球小动脉压降低",
+            "B.交感神经活动降低",
+            "C.血Na+降低",
+            "D.血K+升高",
+            "E.致密斑活动降低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 24
+    },
+    {
+        "question_text": "923.醛固酮可促进肾小管",
+        "options": [
+            "A.Na+重吸收减少",
+            "B.K+重吸收增加",
+            "C.水重吸收减少",
+            "D.Cl-重吸收减少",
+            "E.K+排出增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 25
+    },
+    {
+        "question_text": "924.正常终尿约占肾小球滤过液量的",
+        "options": [
+            "A.1%",
+            "B.5%",
+            "C.10%",
+            "D.15%",
+            "E.20%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 26
+    },
+    {
+        "question_text": "*925.某患者服用对髓祥升支粗段NaCl主动重吸 收有抑制作用的 速尿后.尿量增多.尿渗透压下 降.该患者排低渗尿的原因是远曲小管、集合管",
+        "options": [
+            "A.对Na+主动重吸收减少",
+            "B.对Cl'\"主动吸收减少",
+            "C.对水的通透性降低",
+            "D.管腔外渗透压梯度降低",
+            "E.管腔内溶质浓度增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 27
+    },
+    {
+        "question_text": "926.某患者脊髓腰段横断外伤后出现尿失禁.其 机制是",
+        "options": [
+            "A.脊髓初级排尿中枢损伤",
+            "B.初级排尿中枢与大脑皮质失去联系",
+            "C.排尿反射传入神经受损",
+            "D.排尿反射传出神经受损",
+            "E.膀胱平滑肌功能障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 28
+    },
+    {
+        "question_text": "927.患者空腹血糖 11.1 mmol/L(200mg/dL).尿糖 阳性.多食、多饮、多尿.患者尿量增加的原因 是",
+        "options": [
+            "A.抗利尿激素分泌增多",
+            "B.抗利尿激素分泌减少",
+            "C.水利尿",
+            "D.渗透性利尿",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 29
+    },
+    {
+        "question_text": "928.下列哪项不属于肾脏的泌尿功能",
+        "options": [
+            "A.排出大部分代谢终产物和进入体内的异物",
+            "B.调节细胞外液量和血液的渗透压",
+            "C.分泌促红细胞生成素和肾素",
+            "D.参与酸碱平衡的调节",
+            "E.保留体液中的重要电解质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 30
+    },
+    {
+        "question_text": "929.人体最主要的排泄器官是",
+        "options": [
+            "A.肠道",
+            "B.肝",
+            "C.肺",
+            "D.肾",
+            "E.皮肤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 31
+    },
+    {
+        "question_text": "930.关于皮质肾单位的叙述.下列哪项是错误的",
+        "options": [
+            "A.它们主要分布于外皮质层和中皮质层",
+            "B.皮质肾单位的肾小球体积较小",
+            "C.入球小动脉口径比出球小动脉口径细",
+            "D.它们的髓祥短",
+            "E.人肾的皮质肾单位约占肾单位总数的85%\\90%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 32
+    },
+    {
+        "question_text": "931.球旁器中分泌肾素的细胞群是",
+        "options": [
+            "A.球外系膜(间质)细胞",
+            "B.致密斑",
+            "C.毛细血管内皮细胞",
+            "D.基膜细胞",
+            "E.球旁细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 33
+    },
+    {
+        "question_text": "932.正常情况下.体表面积为1.73m\"2\"的成人.肾小球滤过率为",
+        "options": [
+            "A.100ml/min",
+            "B.125ml/min",
+            "C.250ml/min",
+            "D.1L/min",
+            "E.180L/min"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 34
+    },
+    {
+        "question_text": "933.对原尿成分的叙述.正确的是",
+        "options": [
+            "A.与终尿近似",
+            "B.葡萄糖比终尿少",
+            "C.Na\"+\"、K\"+\"浓度比血浆高",
+            "D.蛋白质比血浆少",
+            "E.葡萄糖比血浆少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 35
+    },
+    {
+        "question_text": "934.肾小球滤过率是指",
+        "options": [
+            "A.每分钟每侧肾脏生成的原尿量",
+            "B.每分钟两侧肾脏生成的原尿量",
+            "C.每分钟两侧肾脏生成的终尿量",
+            "D.每分钟每侧肾脏生成的终尿量",
+            "E.每分钟两侧肾脏的血浆流量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 36
+    },
+    {
+        "question_text": "935.其物质自由滤过后又全部被肾小管重吸收. 其血浆清除率",
+        "options": [
+            "A.等于零",
+            "B.等于肾小球滤过率",
+            "C.等于每分钟的肾血浆流量",
+            "D.大于肾小球滤过率",
+            "E.小于肾小球滤过率"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 37
+    },
+    {
+        "question_text": "936.关于水重吸收的叙述.下列哪项错误",
+        "options": [
+            "A.肾小管和集合管对水的总重吸收率约为99%",
+            "B.近球小管重吸收率约为65%\\70%",
+            "C.近球小管对水的重吸收与体内是否缺水无关",
+            "D.近球小管对水的重吸收受ADH的调节",
+            "E.远曲小管和集合管对水的重吸收量直接受ADH 的影响"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 38
+    },
+    {
+        "question_text": "937.在肾脏.葡萄糖大部分被重吸收的部位是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支",
+            "C.髓祥升支",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 39
+    },
+    {
+        "question_text": "938.在正常情况下.肾糖阈约相当于下列哪项静 脉血糖值",
+        "options": [
+            "A.10.0\\11.1mmol/L(180\\200mg/dl)",
+            "B.8.9\\10.0mmol/L(160\\180mg/dl)",
+            "C.6.7\\8.9mmol/L(120\\160mg/dl)",
+            "D.5.6\\7.8mmol/L(100\\140mg/dl)",
+            "E.4.4\\6.7mmol/L(80\\120mg/dl)"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 40
+    },
+    {
+        "question_text": "939.在近端小管不是主动重吸收的物质是",
+        "options": [
+            "A.Na+",
+            "B.葡萄糖",
+            "C.氨基酸",
+            "D.K宇",
+            "E.尿素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 41
+    },
+    {
+        "question_text": "940.肾血浆流量主要通过下列哪项作用对肾小球 滤过率产生影响",
+        "options": [
+            "A.肾小球毛细血管血压",
+            "B.血浆胶体渗透压",
+            "C.肾小球囊内压",
+            "D.滤过平衡",
+            "E.有效滤过压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 42
+    },
+    {
+        "question_text": "941.肾小管每分泌一个氢离子.可以重吸收下面 哪种或哪些离子入血",
+        "options": [
+            "A.一个 K+和一个 HCO3-",
+            "B.一个 Na+和一个 HCO3-",
+            "C.一个 Na+",
+            "D.一个 Cl-和一个 Na+",
+            "E.一个 HCO3-"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 43
+    },
+    {
+        "question_text": "942.肾小管分泌H\"+“是在下列哪种酶催化下进行 的",
+        "options": [
+            "A.脱羧酶",
+            "B.羧化酶",
+            "C.过氧化酶",
+            "D.碳酸酐酶",
+            "E.磷酸化酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 44
+    },
+    {
+        "question_text": "943.对水易通透.而对Na\"+“和尿素不易通透的部 位是",
+        "options": [
+            "A.髓祥升支粗段",
+            "B.髓祥升支细段",
+            "C.髓祥降支细段",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 45
+    },
+    {
+        "question_text": "944.肾小管液中氯化钠被逐渐明显浓缩的部位是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支细段",
+            "C.髓祥升支粗段",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 46
+    },
+    {
+        "question_text": "945.动脉血压升高.反射性抑制ADH释放的感受 器是",
+        "options": [
+            "A.颈动脉窦压力感受器",
+            "B.左心房和腔静脉处容量感受器",
+            "C.下丘脑渗透压感受器",
+            "D.延髓化学感受器",
+            "E.外周化学感受器"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 47
+    },
+    {
+        "question_text": "946.大量出汗时尿量减少.主要是由于",
+        "options": [
+            "A.血浆晶体渗透压升高，引起ADH分泌增多",
+            "B.血浆晶体渗透压降低，引起ADH分泌减少",
+            "C.交感神经兴奋，引起肾小球滤过减少",
+            "D.血容量减少，导致肾小球滤过减少",
+            "E.血浆胶体渗透压升高，导致肾小球滤过减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 48
+    },
+    {
+        "question_text": "947.毁损视上核.尿量和尿浓缩将出现下列中的 那种变化",
+        "options": [
+            "A.尿量增多，尿高度稀释",
+            "B.尿量增多，尿浓缩",
+            "C.尿量减少，尿高度稀释",
+            "D.尿量增多，尿渗透压正常",
+            "E.尿量减少，尿高度浓缩"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 49
+    },
+    {
+        "question_text": "948.正常人尿比重一般为",
+        "options": [
+            "A.1.001\\1.010",
+            "B.1.010\\1.015",
+            "C.1.015\\1.025",
+            "D.1.001\\1.035",
+            "E.1.015\\1.035"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 50
+    },
+    {
+        "question_text": "949.阴部神经兴奋时.可使",
+        "options": [
+            "A.尿道内括约肌收缩",
+            "B.尿道内括约肌松弛",
+            "C.尿道外括约肌收缩",
+            "D.尿道外括约肌松弛",
+            "E.逼尿肌收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 51
+    },
+    {
+        "question_text": "950.下列物质中.那种不能以原形直接被肾小管 重吸收",
+        "options": [
+            "A.Na+",
+            "B.Cl-",
+            "C.K宇",
+            "D.H+",
+            "E.HCO3-"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 52
+    },
+    {
+        "question_text": "951.出现蛋白尿主要是由于",
+        "options": [
+            "A.肾血浆流量明显增多",
+            "B.滤过膜表面唾液蛋白减少或消失",
+            "C.血中白蛋白数量增多",
+            "D.血中球蛋白增多对白蛋白造成影响",
+            "E.小管液中白蛋白重吸收减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 53
+    },
+    {
+        "question_text": "952.下列物质中.哪种在肾小管或集合管中既有 重吸收.又有分泌",
+        "options": [
+            "A.Na+",
+            "B.K宇",
+            "C.Cl-",
+            "D.HCO3-",
+            "E.葡萄糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 54
+    },
+    {
+        "question_text": "953.腰骶部脊髓受损时.排尿功能障碍表现为",
+        "options": [
+            "A.尿失禁",
+            "B.尿频",
+            "C.尿痛",
+            "D.多尿",
+            "E.尿潴留"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 55
+    },
+    {
+        "question_text": "954.皮质肾单位的结构特点之一是",
+        "options": [
+            "A.入球小动脉口径比出球小动脉粗",
+            "B.分布于内皮质层",
+            "C.髓祥很长",
+            "D.含肾素颗粒较少",
+            "E.肾小球体积较大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 56
+    },
+    {
+        "question_text": "955.建立肾内髓部渗透压梯度的主要溶质是",
+        "options": [
+            "A.磷酸盐和NaCl",
+            "B.尿素和NaCl",
+            "C.尿素和葡萄糖",
+            "D.NaCl 和 KCl",
+            "E.KCl和尿素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 57
+    },
+    {
+        "question_text": "956.肾维持机体水平衡功能的实现主要通过调节",
+        "options": [
+            "A.肾小球的滤过量",
+            "B.远端小管和集合管对水的重吸收量",
+            "C.髓祥降支对水的重吸收量",
+            "D.近端小管对水的重吸收量",
+            "E.肾小管的分泌功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 58
+    },
+    {
+        "question_text": "957.正常成年人每天需排出900mmol/L溶质。如 果某人尿浓缩稀释功能障碍.尿液最大渗透浓度 为300mmol/L.那么.为防止体液的渗透浓度升 高.他需饮水（假定不显汗丧失水为1.5 L/d）",
+        "options": [
+            "A.1.5L/d",
+            "B.3.0L/d",
+            "C.6.0L/d",
+            "D.4.5L/d",
+            "E.7.5L/d"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 59
+    },
+    {
+        "question_text": "958.主要调节远端小管和集合管水重吸收的内源 性物质是",
+        "options": [
+            "A.醛固酮",
+            "B.肾上腺素",
+            "C.糖皮质激素",
+            "D.血管紧张素II",
+            "E.血管升压素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 60
+    },
+    {
+        "question_text": "959.对水分子容易通透而对钠离子不容易通透的 肾小管是",
+        "options": [
+            "A.近端小管",
+            "B.髓祥升支粗段",
+            "C.髓祥升支细段",
+            "D.髓祥降支细段",
+            "E.远端小管和集合管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 61
+    },
+    {
+        "question_text": "960.下列生理活动改变能使血管升压素分泌增多 的是",
+        "options": [
+            "A.循环血量增加",
+            "B.血浆胶体渗透压增高",
+            "C.血浆晶体渗透压增高",
+            "D.心房钠尿肽分泌增多",
+            "E.下丘脑调节肽释放增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 62
+    },
+    {
+        "question_text": "961.下列各种情况下可使血管升压素分泌减少的 是",
+        "options": [
+            "A.大量饮清水",
+            "B.大量失血",
+            "C.大量出汗",
+            "D.疼痛、焦虑或手术应激",
+            "E.脑室内注射高渗盐水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 63
+    },
+    {
+        "question_text": "962.下列各种肾小管或集合管中.尿素最容易通 透的是",
+        "options": [
+            "A.髓祥降支细段",
+            "B.集合管内髓部",
+            "C.远端小管",
+            "D.集合管皮质部",
+            "E.髓祥升支粗段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 64
+    },
+    {
+        "question_text": "963.下列各种激素中可直接促进远端小管和集合 管对钠离子和氯离子的重吸收的是",
+        "options": [
+            "A.血管紧张素II",
+            "B.血管升压素",
+            "C.心房钠尿肽",
+            "D.肾上腺素",
+            "E.醛固酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 65
+    },
+    {
+        "question_text": "964.正常成年人的肾小球滤过率约为",
+        "options": [
+            "A.100ml/min",
+            "B.180L/min",
+            "C.250ml/min",
+            "D.1L/min",
+            "E.125ml/min"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 66
+    },
+    {
+        "question_text": "965.降低细胞外液的容量.将导致",
+        "options": [
+            "A.肾小球滤过率增加",
+            "B.自由水的清除率增加",
+            "C.心房钠尿肽血浓度升高",
+            "D.血管紧张素II血浓度升高",
+            "E.钠离子的排泄分数增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 67
+    },
+    {
+        "question_text": "966.若减少钾离子的摄入量.则钾离子转运量发 生改变的肾小管是",
+        "options": [
+            "A.近端小管",
+            "B.远端小管和集合管",
+            "C.髓祥升支细段",
+            "D.髓祥升支粗段",
+            "E.髓祥降支细段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 68
+    },
+    {
+        "question_text": "967.肾髓质渗透压梯度的维持依靠",
+        "options": [
+            "A.弓形动脉",
+            "B.小叶间动脉",
+            "C.直小血管",
+            "D.管周毛细血管网",
+            "E.弓形静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 69
+    },
+    {
+        "question_text": "968.饮大量清水后尿量增多的主要原因是",
+        "options": [
+            "A.血管升压素分泌减少",
+            "B.肾血流量增加",
+            "C.肾小球滤过率增加",
+            "D.血浆胶体渗透压降低",
+            "E.醛固酮分泌减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 70
+    },
+    {
+        "question_text": "969.大量出汗时尿量减少的主要原因是",
+        "options": [
+            "A.血容量减少，导致肾小球滤过减少",
+            "B.动脉血压降低，引起血管升压素分泌增加",
+            "C.血浆晶体渗透压升高，引起血管升压素分泌增 加",
+            "D.交感神经兴奋，引起血管升压素分泌增加",
+            "E.血浆胶体渗透压升高，导致肾小球滤过减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 71
+    },
+    {
+        "question_text": "970.建立起肾外髓部渗透压梯度的物质基础是",
+        "options": [
+            "A.KCl",
+            "B.尿素",
+            "C.NaCl和尿素",
+            "D.NaCl",
+            "E.肌酐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 72
+    },
+    {
+        "question_text": "971.在肾小管中既不被重吸收也不被分泌的物质 是",
+        "options": [
+            "A.对氨基马尿酸",
+            "B.菊粉",
+            "C.肌酐",
+            "D.葡萄糖",
+            "E.酚红"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 73
+    },
+    {
+        "question_text": "972.远端小管和集合管所分泌的氨主要来自",
+        "options": [
+            "A.精氨酸",
+            "B.甘氨酸",
+            "C.丙氨酸",
+            "D.谷氨酰胺",
+            "E.亮氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 74
+    },
+    {
+        "question_text": "973.小管液中水的等渗性重吸收发生于",
+        "options": [
+            "A.髓祥升支细段",
+            "B.髓祥降支细段",
+            "C.近端小管",
+            "D.髓祥升支粗段",
+            "E.远端小管和集合管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 75
+    },
+    {
+        "question_text": "974.下列各种情况下可引起血管素分泌增加的是",
+        "options": [
+            "A.增加细胞外液量",
+            "B.静脉注射1L等渗尿素溶液",
+            "C.静脉注射1L5%葡萄糖溶液",
+            "D.静脉注射1L高张NaCl溶液",
+            "E.升高动脉血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 76
+    },
+    {
+        "question_text": "975.下列各种情况下肾血流量最多的是",
+        "options": [
+            "A.环境温度升高时",
+            "B.立位时",
+            "C.卧位时",
+            "D.剧烈运动时",
+            "E.应激时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 77
+    },
+    {
+        "question_text": "976.毁损下丘脑视上核和室旁核将引起",
+        "options": [
+            "A.尿量增加，尿液高度浓缩",
+            "B.尿量增加，尿液高度稀释",
+            "C.尿量减少，尿液高度稀释",
+            "D.尿量减少，尿液高度浓缩",
+            "E.尿量不变，尿液高度稀释"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 78
+    },
+    {
+        "question_text": "977.在病理情况下出现蛋白尿的原因是",
+        "options": [
+            "A.肾小球滤过率增加",
+            "B.肾小管重吸收蛋白质减少",
+            "C.血浆蛋白含量增多",
+            "D.滤过膜上带负电荷的糖蛋白减少",
+            "E.肾血流量增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 79
+    },
+    {
+        "question_text": "*978.酸中毒时远端小管的",
+        "options": [
+            "A.钾离子分泌增多，",
+            "B.钾离子分泌减少，",
+            "C.钾离子分泌增多，",
+            "D.钾离子分泌减少，",
+            "E.钠-氢交换增多，钾-氢交换减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 80
+    },
+    {
+        "question_text": "*979.碱中毒时远端小管的",
+        "options": [
+            "A.钾离子分泌减少，",
+            "B.钾离子分泌增多，",
+            "C.钾离子分泌减少，",
+            "D.钾离子分泌增多，",
+            "E.钾-氢交换增多，钠-氢交换减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 81
+    },
+    {
+        "question_text": "*980.切除肾上腺皮质的狗.其",
+        "options": [
+            "A.血容量减少，尿钠增多，",
+            "B.血容量增加，尿钠增多，",
+            "C.血容量减少，尿钠减少，",
+            "D.血容量增加，尿钠增多，",
+            "E.血容量、尿钠和血钾均不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 82
+    },
+    {
+        "question_text": "981.动脉血压在80180mmHg范围内变动时.肾 血流量可保持相对稳定.该结果是由于下列调节 中的",
+        "options": [
+            "A.球-管平衡",
+            "B.副交感神经系统调节",
+            "C.自身调节",
+            "D.肾素-血管紧张素系统调节",
+            "E.交感-肾上腺髓质系统调节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 83
+    },
+    {
+        "question_text": "*982.如果近端小管的重吸收率降低.则",
+        "options": [
+            "A.肾小球滤过率减小",
+            "B.囊内压下降",
+            "C.肾小管内压下降",
+            "D.肾血流量增加",
+            "E.管周毛细血管血压升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 84
+    },
+    {
+        "question_text": "983.可使醛固酮分泌减少的因素是",
+        "options": [
+            "A.循环血量减少",
+            "B.血钠离子浓度下降",
+            "C.血钾离子浓度下降",
+            "D.腺垂体分泌ACTH减少",
+            "E.血管紧张素III血浓度升高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 85
+    },
+    {
+        "question_text": "*984.肾清除率最低的物质是",
+        "options": [
+            "A.菊粉",
+            "B.碘锐特",
+            "C.肌酐",
+            "D.尿素",
+            "E.葡萄糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 86
+    },
+    {
+        "question_text": "985.醛固酮作用于肾的",
+        "options": [
+            "A.近端小管上皮细胞",
+            "B.入球小动脉肌上皮样细胞",
+            "C.远端小管和集合管主细胞",
+            "D.远端小管致密斑细胞",
+            "E.远端小管和集合管闰细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 87
+    },
+    {
+        "question_text": "986.如果测得某种物质的肾清除率为70ml/min. 则说明该物质必定",
+        "options": [
+            "A.不能被肾小球滤过",
+            "B.能被肾小管分泌，但不一定能被肾小管重吸收",
+            "C.能被肾小管重吸收，也能被肾小管分泌",
+            "D.不能被肾小管重吸收，也不能被肾小管分泌",
+            "E.能被肾小管重吸收，但不一定能被肾小管分泌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 88
+    },
+    {
+        "question_text": "987.肾脏靠逆流倍增机制来浓缩尿的能力",
+        "options": [
+            "A.A、与髓祥的长度无关",
+            "B.取决于血管升压素的血浓度",
+            "C.与髓祥肾小管液的流速无关",
+            "D.取决于近端小管对水的通透性",
+            "E.与肾髓质部血流速度无关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 89
+    },
+    {
+        "question_text": "988.下列各项中.能直接促进醛固酮合成与分泌 的是",
+        "options": [
+            "A.血钠浓度升高",
+            "B.肾素",
+            "C.血钾浓度降低",
+            "D.血管紧张素II",
+            "E.ACTH"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 90
+    },
+    {
+        "question_text": "989.一被试者尿中肌酐浓度为l68mg/ml.血浆肌 酐浓度为1.2mg/ml.尿量为1ml/min.其肌酐清 除率为",
+        "options": [
+            "A.70ml/min",
+            "B.84ml/min",
+            "C.125ml/min",
+            "D.168ml/min",
+            "E.140ml/min"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 91
+    },
+    {
+        "question_text": "990.具有分泌肾素功能的结构是",
+        "options": [
+            "A.致密斑",
+            "B.系膜细胞",
+            "C.颗粒细胞",
+            "D.间质细胞",
+            "E.近髓肾单位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 92
+    },
+    {
+        "question_text": "991.肾脏的基本功能单位是",
+        "options": [
+            "A.肾小球",
+            "B.肾单位",
+            "C.肾小管",
+            "D.集合管",
+            "E.肾小体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 93
+    },
+    {
+        "question_text": "992.近髓肾单位的主要功能是",
+        "options": [
+            "A.分泌肾素",
+            "B.分泌醛固酮",
+            "C.浓缩与稀释尿液",
+            "D.排泄钠和氯离子",
+            "E.分泌血管升压素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 94
+    },
+    {
+        "question_text": "993.肾小球毛细血管血压较高.主要适应于",
+        "options": [
+            "A.肾小球耗氧量较大",
+            "B.致密斑的代谢需要",
+            "C.肾脏的代谢需要",
+            "D.肾小球滤过作用",
+            "E.球管平衡的需要"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 95
+    },
+    {
+        "question_text": "994.肾小管周围毛细血管血压较低.主要适应于",
+        "options": [
+            "A.肾小管耗氧量低",
+            "B.肾小管重吸收功能",
+            "C.肾小管周围组织耗氧量低",
+            "D.肾小管分泌功能",
+            "E.肾小球滤过作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 96
+    },
+    {
+        "question_text": "995.肾小球的滤过作用一般只发生在入球端毛细 血管段的主要原因是",
+        "options": [
+            "A.毛细血管内胶体渗透压逐渐升高",
+            "B.囊内压逐渐升高",
+            "C.毛细血管内晶体渗透压逐渐升高",
+            "D.肾小囊内胶体渗透压逐渐降低",
+            "E.出球端毛细血管血压过低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 97
+    },
+    {
+        "question_text": "*996.可主动重吸收氯离子的部位是",
+        "options": [
+            "A.远端小管",
+            "B.近端小管",
+            "C.髓祥升支粗段",
+            "D.髓祥降支细段",
+            "E.髓祥降支粗段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 98
+    },
+    {
+        "question_text": "997.血浆清除率是指肾脏在单位时间内",
+        "options": [
+            "A.将血浆中某物质完全清除出去的能力",
+            "B.将血浆中某物质完全清除出去的速率",
+            "C.将血浆中某物质完全清除出去的容量",
+            "D.将血浆中某物质完全清除出去的血浆毫升数",
+            "E.将肾小球滤出的某物质完全清除出去的能力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 99
+    },
+    {
+        "question_text": "998.终尿中的钾离子主要是由",
+        "options": [
+            "A.肾小球滤过",
+            "B.近端小管分泌",
+            "C.远端小管和集合管分泌",
+            "D.髓祥升支分泌",
+            "E.髓祥降支分泌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 100
+    },
+    {
+        "question_text": "999.小管液在通过下列部分后便形成终尿的是",
+        "options": [
+            "A.集合管",
+            "B.髓祥",
+            "C.远端小管",
+            "D.近端小管",
+            "E.输尿管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 101
+    },
+    {
+        "question_text": "1000.下列各种情况下产生渗透性利尿的是",
+        "options": [
+            "A.饮大量清水",
+            "B.静脉注射甘露醇",
+            "C.饮大量生理盐水",
+            "D.静脉注射生理盐水",
+            "E.静脉注射速尿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 102
+    },
+    {
+        "question_text": "1001 .髓祥升支粗段对钠离子、氯离子和钾离子主 动重吸收的比例是",
+        "options": [
+            "A.2:2:1",
+            "B.1:2:1",
+            "C.1:2:2",
+            "D.1:1:2",
+            "E.2:1:1"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 103
+    },
+    {
+        "question_text": "1002.肾素-血管紧张素系统激活时",
+        "options": [
+            "A.醛固酮分泌减少",
+            "B.血管升压素分泌减少",
+            "C.肾排NaCl量减少",
+            "D.肾上腺素分泌减少",
+            "E.小动脉口径增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 104
+    },
+    {
+        "question_text": "1003.逆流倍增机制的原动力主要是",
+        "options": [
+            "A.近端小管对NaCl主动重吸收",
+            "B.髓祥升支对NaCl主动重吸收",
+            "C.髓祥降支对NaCl主动重吸收",
+            "D.远端小管对NaCl主动重吸收",
+            "E.集合管对NaCl主动重吸收"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 105
+    },
+    {
+        "question_text": "1004.肾小球毛细血管的滤过平衡现象发生在",
+        "options": [
+            "A.肾小球滤过率不变时",
+            "B.滤过系数不变时",
+            "C.有效滤过压等于0时",
+            "D.滤过系数等于0时",
+            "E.有效滤过压大于0时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 106
+    },
+    {
+        "question_text": "1005.下列关于滤过膜通透性的叙述.正确的是",
+        "options": [
+            "A.带负电荷的物质不能通过滤过膜",
+            "B.不同物质滤过能力与其分子大小及所带电荷有 关",
+            "C.肾小囊脏层的滤过裂隙膜是主要滤过屏障",
+            "D.基膜是滤过的最后一道屏障",
+            "E.带正电荷的物质能够通过滤过膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 107
+    },
+    {
+        "question_text": "1006.交感神经紧张时.尿量减少的主要原因是",
+        "options": [
+            "A.血浆胶体渗透压升高",
+            "B.肾小球滤过面积减少",
+            "C.滤过膜通透性降低",
+            "D.肾小球毛细血管血压下降",
+            "E.囊内压升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 108
+    },
+    {
+        "question_text": "1007.下列关于肾髓质渗透压梯度的叙述.错误的 是",
+        "options": [
+            "A.越靠近肾内髓部，渗透压越高",
+            "B.髓祥底部，小管内外均为高渗",
+            "C.髓祥越长，浓缩能力越强",
+            "D.越接近乳头部，髓祥降支中溶质浓度越高",
+            "E.肾皮质越厚，浓缩能力越强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 109
+    },
+    {
+        "question_text": "1008.有利于尿液浓缩的因素是",
+        "options": [
+            "A.肾髓质纤维化",
+            "B.利尿酸",
+            "C.高蛋白饮食",
+            "D.血管升压素减少",
+            "E.甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 110
+    },
+    {
+        "question_text": "1009.渗透压感受器位于",
+        "options": [
+            "A.球旁器",
+            "B.下丘脑",
+            "C.延髓",
+            "D.右心房",
+            "E.丘脑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 111
+    },
+    {
+        "question_text": "1010.近球小管重吸收的特点不包括",
+        "options": [
+            "A.近球小管重吸收量占肾小球滤过率的65%--70%",
+            "B.葡萄糖在近球小管全部重吸收",
+            "C.碳酸氢根的重吸收是以二氧化碳的形式重吸收",
+            "D.钠的重吸收全部是主动的",
+            "E.葡萄糖主动重吸收的能量来源是钠的浓度梯度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 112
+    },
+    {
+        "question_text": "1011.醛固酮的主要作用是",
+        "options": [
+            "A.保钠保水",
+            "B.保钠保钾",
+            "C.保钾保水",
+            "D.保钾排钠",
+            "E.保钾排水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 113
+    },
+    {
+        "question_text": "1012.关于滤过的叙述.正确的是",
+        "options": [
+            "A.肾小球毛细血管的入球端血压远远高于出球端 血压",
+            "B.肾小球毛细血管的入球端血浆胶体渗透压与出 球端血浆胶体渗透压几乎相等",
+            "C.肾小囊内压等于肾小球毛细血管血压",
+            "D.肾小球有效滤过压不可能为负值",
+            "E.肾小球毛细血管血压的平均值约为10.7kPa （80mmHg）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 114
+    },
+    {
+        "question_text": "1013.可引起醛固酮分泌增加的是",
+        "options": [
+            "A.血钠增加",
+            "B.血钾降低",
+            "C.血糖升高",
+            "D.血钾升高",
+            "E.血糖降低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 115
+    },
+    {
+        "question_text": "1014.下列各种情况下可使抗利尿激素释放减少的 是",
+        "options": [
+            "A.大量出汗",
+            "B.呕吐",
+            "C.腹泻",
+            "D.循环血量增多",
+            "E.血浆晶体渗透压增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 116
+    },
+    {
+        "question_text": "1015.正常情况下.机体排出浓缩尿是由于",
+        "options": [
+            "A.肾小球滤过率降低",
+            "B.近球小管重吸收增加",
+            "C.远曲小管和集合管对水的通透性增加",
+            "D.肾小管对水主动重吸收增加",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 117
+    },
+    {
+        "question_text": "1016.肾小管液的等渗性重吸收发生在",
+        "options": [
+            "A.近球小管",
+            "B.髓祥",
+            "C.远球小管",
+            "D.集合管",
+            "E.远曲小管和集合管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 118
+    },
+    {
+        "question_text": "1017.关于肾小管对葡萄糖的重吸收.下列叙述正 确的是",
+        "options": [
+            "A.远球小管对葡萄糖的重吸收有一定限度",
+            "B.葡萄糖吸收极限反映了对葡萄糖重吸收能力低 的那部分肾小管的吸收能力",
+            "C.肾糖阈反映了全部肾小管对葡萄糖重吸收的最 大能力",
+            "D.远曲小管具有重吸收葡萄糖的能力",
+            "E.葡萄糖和钠离子借助载体蛋白质进行同向转运"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 119
+    },
+    {
+        "question_text": "1018.正常情况下.成人的肾小球滤过率为",
+        "options": [
+            "A.100ml/min",
+            "B.125ml/min",
+            "C.150ml/min",
+            "D.180ml/min",
+            "E.660ml/min"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 120
+    },
+    {
+        "question_text": "1019.终尿中的钾离子主要是由",
+        "options": [
+            "A.肾小管滤过",
+            "B.近曲小管分泌",
+            "C.髓祥降支分泌",
+            "D.髓祥升支分泌",
+            "E.远曲小管和集合管分泌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 121
+    },
+    {
+        "question_text": "1020.下列激素中可促进远曲小管和集合管重吸收 钠离子的是",
+        "options": [
+            "A.肾素",
+            "B.血管紧张素",
+            "C.心钠素",
+            "D.醛固酮",
+            "E.抗利尿激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 122
+    },
+    {
+        "question_text": "1021.剧烈运动时少尿的主要原因是",
+        "options": [
+            "A.肾小球毛细血管血压增高",
+            "B.抗利尿激素分泌增多",
+            "C.肾小动脉收缩，肾血流量减少",
+            "D.醛固酮分泌增多",
+            "E.肾小球滤过膜面积减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 123
+    },
+    {
+        "question_text": "1022.被动重吸收钠离子的部位是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支粗段",
+            "C.髓祥降支细段",
+            "D.髓祥升支细段",
+            "E.髓祥升支粗段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 124
+    },
+    {
+        "question_text": "1023.下列各项中属于渗透性利尿的是",
+        "options": [
+            "A.饮大量清水",
+            "B.静脉注射生理盐水",
+            "C.饮大量生理盐水",
+            "D.静脉注射甘露醇",
+            "E.静脉注射呋塞米（速尿）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 125
+    },
+    {
+        "question_text": "1024.下列各项中同钠离子重吸收无关的是",
+        "options": [
+            "A.醛固酮分泌增加",
+            "B.肾小管氢离子分泌增加",
+            "C.血浆中钾离子浓度增高",
+            "D.肾小管钾离子分泌增加",
+            "E.抗利尿激素分泌增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 126
+    },
+    {
+        "question_text": "1025.盆神经受损时.排尿功能障碍的表现是",
+        "options": [
+            "A.尿失禁",
+            "B.尿频",
+            "C.尿潴留",
+            "D.多尿",
+            "E.少尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 127
+    },
+    {
+        "question_text": "1026.酸中毒常伴有高血钾是由于",
+        "options": [
+            "A.氢-钠交换增强",
+            "B.氢-钾交换增强",
+            "C.钾-钠交换增强",
+            "D.细胞释放钾增加",
+            "E.肾小管重吸收钾增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 128
+    },
+    {
+        "question_text": "1027.原尿中葡萄糖的含量",
+        "options": [
+            "A.高于血浆",
+            "B.与血浆相同",
+            "C.低于血浆",
+            "D.与肾小管液相同",
+            "E.与肾小管管周液相同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 129
+    },
+    {
+        "question_text": "1028.皮质肾单位的功能是",
+        "options": [
+            "A.释放肾素",
+            "B.释放醛固酮",
+            "C.释放抗利尿激素",
+            "D.分泌氢离子",
+            "E.浓缩与稀释尿液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 130
+    },
+    {
+        "question_text": "1029.近髓肾单位的主要功能是",
+        "options": [
+            "A.释放肾素",
+            "B.释放醛固酮",
+            "C.释放抗利尿激素",
+            "D.排泄氯离子",
+            "E.浓缩与释稀尿液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 131
+    },
+    {
+        "question_text": "1030.醛固酮的主要作用是",
+        "options": [
+            "A.保钾排钠",
+            "B.保钠排钾",
+            "C.保钠保钾",
+            "D.保钠排氢",
+            "E.保钾排氢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 132
+    },
+    {
+        "question_text": "1031.正常终尿约占原尿量的",
+        "options": [
+            "A.1%",
+            "B.5%",
+            "C.10%",
+            "D.20%",
+            "E.50%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 133
+    },
+    {
+        "question_text": "1032.不引起尿量增加的情况是",
+        "options": [
+            "A.尿崩症",
+            "B.糖尿病",
+            "C.交感神经兴奋",
+            "D.肾动脉血压增高",
+            "E.静脉输入甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 134
+    },
+    {
+        "question_text": "1033.分泌钾的主要部位是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支细段",
+            "C.髓祥升支细段",
+            "D.髓祥升支粗段",
+            "E.远曲小管和集合管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 135
+    },
+    {
+        "question_text": "1034.饮大量水后尿量增加的主要原因是",
+        "options": [
+            "A.肾小球滤过率增高",
+            "B.血浆胶体渗透压降低",
+            "C.抗利尿激素分泌减少",
+            "D.醛固酮分泌减少",
+            "E.肾小球囊内压降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 136
+    },
+    {
+        "question_text": "1035.静脉注射20%葡萄糖50ml.尿量增加的原因 是",
+        "options": [
+            "A.肾小管液溶质浓度增高",
+            "B.肾小球滤过率增高",
+            "C.有效滤过压增高",
+            "D.醛固酮分泌增加",
+            "E.血浆晶体渗透压增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 137
+    },
+    {
+        "question_text": "1036.促进肾小管分泌氢离子的因素是",
+        "options": [
+            "A.葡萄糖的重吸收",
+            "B.钾的分泌",
+            "C.氨的分泌",
+            "D.肌酐的排泄",
+            "E.尿素的排泄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 138
+    },
+    {
+        "question_text": "1037.肾小管分泌氢离子增多时可减少",
+        "options": [
+            "A.钠的重吸收",
+            "B.钾的分泌",
+            "C.氨的分泌",
+            "D.氯的排泄",
+            "E.尿素的排泄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 139
+    },
+    {
+        "question_text": "1038.下列各项中.能使肾小球有效滤过压降低的 是",
+        "options": [
+            "A.血浆晶体渗透压力升高",
+            "B.血浆胶体渗透压升高",
+            "C.肾小囊内静水压降低",
+            "D.肾小球毛细血管血压升高",
+            "E.肾小囊内胶体渗透压升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 140
+    },
+    {
+        "question_text": "1039.根据管-球反馈学说.当流经致密斑的小管 液流量增加时",
+        "options": [
+            "A.同一肾单位的肾小球滤过率增加",
+            "B.同一肾单位的肾小球血流量增加",
+            "C.肾交感神经兴奋",
+            "D.近端小管对水和溶质的重吸收增加",
+            "E.肾素分泌增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 141
+    },
+    {
+        "question_text": "1040.肾小球毛细血管血压",
+        "options": [
+            "A.当入球小动脉收缩时升高",
+            "B.当出球小动脉舒张时升高",
+            "C.比出球小动脉血压低",
+            "D.比体内其他毛细血管血压高",
+            "E.随机体动脉血压的升降而升降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 142
+    },
+    {
+        "question_text": "1041.近髓肾单位的主要功能是",
+        "options": [
+            "A.重吸收钠和分泌钾",
+            "B.重吸收钠和分泌氢",
+            "C.释放肾素",
+            "D.重吸收葡萄糖和氨基酸",
+            "E.浓缩或稀释尿液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 143
+    },
+    {
+        "question_text": "1042.给家兔静脉注射25%葡萄糖10ml后尿量增 加.其原因是",
+        "options": [
+            "A.抗利尿激素分泌减少",
+            "B.肾小球滤过率增加",
+            "C.肾血浆晶体渗透压增高",
+            "D.肾小管液溶质浓度增高",
+            "E.肾血流量增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 144
+    },
+    {
+        "question_text": "1043.正常情况下.近端小管的重吸收率",
+        "options": [
+            "A.不随重吸收物质的不同而异",
+            "B.不受肾小球滤过率的影响",
+            "C.随肾小球滤过率增加而增加",
+            "D.随肾小球滤过率增加而减少",
+            "E.受抗利尿激素和醛固酮的调节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 145
+    },
+    {
+        "question_text": "1044.根据球-管平衡现象.近端小管的重吸收率 约为肾小球滤过率的",
+        "options": [
+            "A.1/2",
+            "B.2/3",
+            "C.3/4",
+            "D.4/5",
+            "E.5/6"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 146
+    },
+    {
+        "question_text": "1045.肾小球滤过分数是指",
+        "options": [
+            "A.肾小球滤过率和体表面积的比值",
+            "B.肾小球滤过率和肾血浆流量的比值",
+            "C.肾血浆流量和体表面积的比值",
+            "D.肾小球滤过率和肾血流量的比值",
+            "E.肾血流量和体表面积的比值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 147
+    },
+    {
+        "question_text": "1046.与肾小球滤过无关的因素是",
+        "options": [
+            "A.血浆晶体渗透压",
+            "B.B、血浆胶体渗透压",
+            "C.肾血流量",
+            "D.滤过膜的面积",
+            "E.滤过膜的通透性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 148
+    },
+    {
+        "question_text": "1047.肾小管超滤液中葡萄糖全部被重吸收的部位 是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支",
+            "C.髓祥升支",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 149
+    },
+    {
+        "question_text": "1048.肾血流量的绝大部分供应",
+        "options": [
+            "A.肾被膜",
+            "B.肾皮质层",
+            "C.肾外髓部",
+            "D.肾内髓部",
+            "E.肾盂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 150
+    },
+    {
+        "question_text": "1049.下列关于近端小管重吸收的叙述.正确的是",
+        "options": [
+            "A.钠离子为主动或被动重吸收",
+            "B.氯离子为主动重吸收",
+            "C.钾为被动重吸收",
+            "D.碳酸氢根为主动重吸收",
+            "E.水为主动或被动重吸收"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 151
+    },
+    {
+        "question_text": "1050.近端小管重吸收的特点是",
+        "options": [
+            "A.重吸收的物质种类少",
+            "B.各种物质重吸收的量少",
+            "C.小管上皮腔面膜两侧电位差大",
+            "D.受神经和体液因素调节",
+            "E.小管液与上皮细胞内液体保持等渗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 152
+    },
+    {
+        "question_text": "1051.肾小管超滤液中氨基酸全部被重吸收的部位 是",
+        "options": [
+            "A.近曲小管",
+            "B.髓祥降支",
+            "C.髓祥升支",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 153
+    },
+    {
+        "question_text": "1052.注射去甲肾上腺素引起少尿的主要原因是",
+        "options": [
+            "A.滤过膜通透性变大",
+            "B.血浆胶体渗透压升高",
+            "C.囊内压升高",
+            "D.滤过膜通透性减小",
+            "E.肾小球毛细血管血压明显下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 154
+    },
+    {
+        "question_text": "1053.肾球旁细胞的功能是",
+        "options": [
+            "A.感受小管液氢离子浓度的变化",
+            "B.感受小管液NaCl浓度的变化",
+            "C.参与球-管平衡",
+            "D.释放血管紧张素原",
+            "E.释放肾素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 155
+    },
+    {
+        "question_text": "1054.正常情况下.在近髓肾单位中",
+        "options": [
+            "A.流入髓祥降支粗段小管液的渗透压高于血浆",
+            "B.流出髓祥降支细段小管液的渗透压低于血浆",
+            "C.流入髓祥升支细段小管液的渗透压高于血浆",
+            "D.流出髓祥升支细段小管液的渗透压低于血浆",
+            "E.流出集合管的小管液渗透压低于血浆"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 156
+    },
+    {
+        "question_text": "1055.下列关于氯离子在近端小管重吸收的描述. 正确的是",
+        "options": [
+            "A.主要发生在近曲小管",
+            "B.与碳酸氢根重吸收竞争转运体",
+            "C.主要通过细胞旁路重吸收",
+            "D.顺浓度和电位梯度而重吸收",
+            "E.优先于碳酸氢根的重吸收"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 157
+    },
+    {
+        "question_text": "1056.下列关于碳酸氢根在近端小管重吸收的描 述.正确的是",
+        "options": [
+            "A.重吸收率约为67%",
+            "B.以碳酸氢根的形式重吸收",
+            "C.与小管分泌氢相耦联",
+            "D.滞后于氯的重吸收",
+            "E.与钠的重吸收无关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 158
+    },
+    {
+        "question_text": "1057.下列关于肾小管泌氢离子的描述.正确的是",
+        "options": [
+            "A.仅发生于近端小管",
+            "B.碳酸酐酶活性受抑时泌氢增加",
+            "C.肾小管泌氨有碍于泌氢",
+            "D.分泌1氢离子必有1钾离子被重吸收",
+            "E.分泌1氢离子必有1钠离子和1碳酸氢根被重 吸收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 159
+    },
+    {
+        "question_text": "1058.原尿中的氨基酸被重吸收的部位是",
+        "options": [
+            "A.肾小球",
+            "B.近端小管",
+            "C.髓祥升支细段",
+            "D.髓祥降支细段",
+            "E.集合管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 160
+    },
+    {
+        "question_text": "1059.小管液中的NaCl被显著浓缩的部位是",
+        "options": [
+            "A.肾小球",
+            "B.近端小管",
+            "C.髓祥升支细段",
+            "D.髓祥降支细段",
+            "E.集合管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 161
+    },
+    {
+        "question_text": "1060.正常情况下.NH3的分泌主要发生在",
+        "options": [
+            "A.近端小管",
+            "B.髓祥降支",
+            "C.髓祥升之粗段",
+            "D.远曲小管和集合管",
+            "E.输尿管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 162
+    },
+    {
+        "question_text": "1061.NaM'H\"+“交换和Na、'lC+“交换的竞争发 生在",
+        "options": [
+            "A.近端小管",
+            "B.髓祥降支",
+            "C.髓祥升支粗段",
+            "D.远曲小管和集合管",
+            "E.输尿管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "163",
+        "number": 163
+    }
+]

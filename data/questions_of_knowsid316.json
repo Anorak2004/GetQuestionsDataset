@@ -1,0 +1,954 @@
+[
+    {
+        "question_text": "1．下列关于嘌呤核苷酸从头合成的叙述，正确的是",
+        "options": [
+            "A．嘌呤环的氮原子均来自氨基酸的α氨基",
+            "B．合成过程中不会产生自由嘌呤碱",
+            "C．氨基甲酰磷酸为嘌呤环提供氨甲酰基",
+            "D．由 IMP 合成 AMP 和 GMP 均由 ATP 供能",
+            "E．次黄嘌呤鸟嘌呤磷酸核糖转移酶催化 IMP 转变成GMP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 1
+    },
+    {
+        "question_text": "2．体内进行嘌呤核苷酸从头合成最主要的组织是",
+        "options": [
+            "A．胸腺",
+            "B．小肠粘膜",
+            "C．肝",
+            "D．脾",
+            "E．骨髓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 2
+    },
+    {
+        "question_text": "3．嘌呤核苷酸从头合成时首先生成的是",
+        "options": [
+            "A．GMP",
+            "B．AMP",
+            "C．IMP",
+            "D．ATP",
+            "E．GTP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 3
+    },
+    {
+        "question_text": "4．人体内嘌呤核苷酸分解代谢的主要终产物是",
+        "options": [
+            "A．尿素",
+            "B．肌酸",
+            "C．肌酸酐",
+            "D．尿酸",
+            "E．β丙氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 4
+    },
+    {
+        "question_text": "5．胸腺嘧啶的甲基来自",
+        "options": [
+            "A．N10-CHO-FH4",
+            "B．N5,N10=CH-FH4",
+            "C．N5,N10-CH2-FH4",
+            "D．N5-CH3-FH4",
+            "E．N5-CH=NH-FH4"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 5
+    },
+    {
+        "question_text": "6．嘌呤环中哪一位原子是由天冬氨酸提供的？",
+        "options": [
+            "A．N1",
+            "B．C2",
+            "C．N3",
+            "D．C5",
+            "E．N9"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 6
+    },
+    {
+        "question_text": "7．5-氟尿嘧啶的抗癌作用机理是",
+        "options": [
+            "A．合成错误的 DNA",
+            "B．抑制尿嘧啶的合成",
+            "C．抑制胞嘧啶的合成",
+            "D．抑制胸苷酸的合成",
+            "E．抑制二氢叶酸还原酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 7
+    },
+    {
+        "question_text": "8．哺乳类动物体内直接催化尿酸生成的酶是",
+        "options": [
+            "A．尿酸氧化酶",
+            "B．黄嘌呤氧化酶",
+            "C．腺苷脱氨酸",
+            "D．鸟嘌呤脱氨酶",
+            "E．核苷酸酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 8
+    },
+    {
+        "question_text": "9．最直接联系核苷酸合成与糖代谢的物质是",
+        "options": [
+            "A．葡萄糖",
+            "B．6-磷酸葡萄糖",
+            "C．1-磷酸葡萄糖",
+            "D．1,6-二磷酸葡萄糖",
+            "E．5-磷酸核糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 9
+    },
+    {
+        "question_text": "HGPRT（次黄嘌呤鸟嘌呤磷酸核糖转移酶）参与下列哪种反应?",
+        "options": [
+            "A．嘌呤核苷酸从头合成",
+            "B．嘧啶核苷酸从头合成",
+            "C．嘌呤核苷酸补救合成",
+            "D．嘧啶核苷酸补救合成",
+            "E．嘌呤核苷酸分解代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 10
+    },
+    {
+        "question_text": "11．6-巯基嘌呤核苷酸不抑制",
+        "options": [
+            "A．IMP→AMP",
+            "B．IMP→GMP",
+            "C．PRPP 酰胺转移酶",
+            "D．嘌呤磷酸核糖转移酶",
+            "E．嘧啶磷酸核糖转移酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 11
+    },
+    {
+        "question_text": "12．下列哪种物质不是嘌呤核苷酸从头合成的直接原料",
+        "options": [
+            "A．甘氨酸",
+            "B．天冬氨酸",
+            "C．谷氨酸",
+            "D．CO2",
+            "E．一碳单位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 12
+    },
+    {
+        "question_text": "13．体内脱氧核苷酸是由下列哪种物质直接还原而成的",
+        "options": [
+            "A．核糖",
+            "B．核糖核苷",
+            "C．一磷酸核苷",
+            "D．二磷酸核苷",
+            "E．三磷酸核苷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 13
+    },
+    {
+        "question_text": "14．嘧啶核苷酸合成中，生成氨基甲酰磷酸的部位是",
+        "options": [
+            "A．线粒体",
+            "B．微粒体",
+            "C．胞浆",
+            "D．溶酶体",
+            "E．细胞核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 14
+    },
+    {
+        "question_text": "15．下列哪种化合物对嘌呤核苷酸的生物合成不产生直接反馈抑制作用",
+        "options": [
+            "A．TMP",
+            "B．IMP",
+            "C．AMP",
+            "D．CMP",
+            "E．ADP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 15
+    },
+    {
+        "question_text": "16．氮杂丝氨酸干扰核苷酸合成，因为它是下列哪种化合物的类似物?",
+        "options": [
+            "A．丝氨酸",
+            "B．甘氨酸",
+            "C．天冬氨酸",
+            "D．谷氨酰胺",
+            "E．天冬酰胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 16
+    },
+    {
+        "question_text": "17．催化 dUMP 转变为 dTMP 的酶是",
+        "options": [
+            "A．核苷酸还原酶",
+            "B．胸苷酸合成酶",
+            "C．核苷酸激酶",
+            "D．甲基转移酶",
+            "E．脱氧胸苷激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 17
+    },
+    {
+        "question_text": "18．下列化合物中作为合成 IMP 和 UMP 的共同原料是",
+        "options": [
+            "A．天冬酰胺",
+            "B．磷酸核糖",
+            "C．甘氨酸",
+            "D．甲硫氨酸",
+            "E．一碳单位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 18
+    },
+    {
+        "question_text": "19．dTMP 合成的直接前体是",
+        "options": [
+            "A．dUMP",
+            "B．TMP",
+            "C．TDP",
+            "D．dUDP",
+            "E．dCMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 19
+    },
+    {
+        "question_text": "20．能在体内分解产生β氨基异丁酸的核苷酸是",
+        "options": [
+            "A．CMP",
+            "B．AMP",
+            "C．TMP",
+            "D．UMP",
+            "E．IMP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 20
+    },
+    {
+        "question_text": "21．阿糖胞苷作为抗肿瘤药物的机理是通过抑制下列哪种酶而干扰核苷酸代谢?",
+        "options": [
+            "A．二氢叶酸还原酶",
+            "B．核糖核苷酸还原酶",
+            "C．二氢乳清酸脱氢酶",
+            "D．胸苷酸合成酶",
+            "E．氨基甲酰基转移酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 21
+    },
+    {
+        "question_text": "22．下列关于天冬氨酸氨基甲酰基转移酶的说法，错误的是",
+        "options": [
+            "A．CTP 是其反馈抑制剂",
+            "B．是嘧啶核苷酸从头合成的调节酶",
+            "C．由多个亚基组成",
+            "D．是变构酶",
+            "E．服从米-曼氏方程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 22
+    },
+    {
+        "question_text": "23．PRPP 酰胺转移酶活性过高可以导致痛风症，此酶催化",
+        "options": [
+            "A．从 R-5-P 生成 PRPP",
+            "B．从甘氨酸合成嘧啶环",
+            "C．从 PRPP 生成磷酸核糖胺",
+            "D．从 IMP 合成 AMP",
+            "E．从 IMP 生成 GMP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 23
+    },
+    {
+        "question_text": "24．嘧啶核苷酸从头合成的特点是",
+        "options": [
+            "A．在 5-磷酸核糖上合成碱基",
+            "B．由 FH4 提供一碳单位",
+            "C．先合成氨基甲酰磷酸",
+            "D．甘氨酸完整地参入",
+            "E．谷氨酸提供氮原子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 24
+    },
+    {
+        "question_text": "25．下列哪种物质的合成需要谷氨酰胺分子上的酰胺基?",
+        "options": [
+            "A．TMP 上的两个氮原子",
+            "B．嘌呤环上的两个氮原子",
+            "C．UMP 上的两个氮原子",
+            "D．嘧啶环上的两个氮原子",
+            "E．腺嘌呤上的氨基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 25
+    },
+    {
+        "question_text": "26．磷酸戊糖途径为合成核苷酸提供",
+        "options": [
+            "A．NADPH+H+",
+            "B．4-磷酸赤藓糖",
+            "C．5-磷酸核酮糖",
+            "D．5-磷酸木酮糖",
+            "E．5-磷酸核糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 26
+    },
+    {
+        "question_text": "27．下列哪种物质不是脱氧胸腺嘧啶核苷酸合成的直接原料",
+        "options": [
+            "A．CO2",
+            "B．天冬氨酸",
+            "C．谷氨酰胺",
+            "D．甘氨酸",
+            "E．一碳单位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 27
+    },
+    {
+        "question_text": "28．嘌呤环中有几个原子是由一碳单位甲酰基提供的？",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 28
+    },
+    {
+        "question_text": "29．嘌呤环中哪一位或哪几位原子是由 Gln 提供的？",
+        "options": [
+            "A．N1",
+            "B．C2",
+            "C．N3 和 N9",
+            "D．C4 和 C5",
+            "E．N1 和 N7"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 29
+    },
+    {
+        "question_text": "30．下列哪种物质不是嘌呤核苷酸从头合成的直接原料",
+        "options": [
+            "A．CO2",
+            "B．天冬氨酸",
+            "C．谷氨酸",
+            "D．甘氨酸",
+            "E．一碳单位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 30
+    },
+    {
+        "question_text": "31．细菌中嘧啶核苷酸生物合成途径的反馈抑制是由于控制了下列哪种酶的活性？",
+        "options": [
+            "A．乳清酸磷酸核糖转移酶",
+            "B．二氢乳清酸酶",
+            "C．二氢乳清酸脱氢酶",
+            "D．天冬氨酸氨甲酰转移酶",
+            "E．胸苷酸合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 31
+    },
+    {
+        "question_text": "32．嘌呤核苷酸从头合成时由 IMP→AMP 时提供能源的物质是",
+        "options": [
+            "A．ATP",
+            "B．GTP",
+            "C．CTP",
+            "D．TTP",
+            "E．UTP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 32
+    },
+    {
+        "question_text": "33．嘌呤核苷酸从头合成时由 IMP→GMP 时提供能源的物质是",
+        "options": [
+            "A．ATP",
+            "B．GTP",
+            "C．CTP",
+            "D．TTP",
+            "E．UTP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 33
+    },
+    {
+        "question_text": "34．提供其分子中全部 N 和 C 原子合成嘌呤环的氨基酸是",
+        "options": [
+            "A．丝氨酸",
+            "B．天冬氨酸",
+            "C．甘氨酸",
+            "D．丙氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 34
+    },
+    {
+        "question_text": "35．嘌呤核苷酸从头合成时 GMP 的 C-2 氨基来自",
+        "options": [
+            "A．谷氨酰胺",
+            "B．天冬酰胺",
+            "C．天冬氨酸",
+            "D．甘氨酸",
+            "E．丙氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 35
+    },
+    {
+        "question_text": "36．使用谷氨酰胺的类似物作抗代谢物，不能阻断核苷酸代谢的哪些环节？",
+        "options": [
+            "A．IMP→AMP",
+            "B．IMP→GMP",
+            "C．IMP 的生成",
+            "D．dUMP→dTMP",
+            "E．UTP→CTP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 36
+    },
+    {
+        "question_text": "37．嘌呤核苷酸从头合成途径首先合成的核苷酸为",
+        "options": [
+            "A．GDP",
+            "B．ADP",
+            "C．IMP",
+            "D．GMP",
+            "E．AMP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 37
+    },
+    {
+        "question_text": "38．嘧啶环中的两个氮原子来自",
+        "options": [
+            "A．谷氨酰胺和氨",
+            "B．谷氨酰胺和天冬酰胺",
+            "C．谷氨胺和谷氨酸",
+            "D．谷氨酸和氨基甲酰磷酸",
+            "E．天冬氨酸和氨基甲酰磷酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 38
+    },
+    {
+        "question_text": "39．下列关于脱氧核糖核苷酸的生成过程的描述，错误的是",
+        "options": [
+            "A．需要 FMN",
+            "B．核糖核苷酸还原酶参与",
+            "C．需要 NADPH",
+            "D．需要硫氧还原蛋白",
+            "E．二核苷酸（NDP）水平上还原生成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 39
+    },
+    {
+        "question_text": "40．食物中很少被机体利用的组分是",
+        "options": [
+            "A．氨基酸",
+            "B．必需氨基酸",
+            "C．维生素",
+            "D．碱基",
+            "E．己糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 40
+    },
+    {
+        "question_text": "41．核苷酸的生理作用不包括",
+        "options": [
+            "A．能量供应",
+            "B．第二信使",
+            "C．核酸的组成单位",
+            "D．生物膜的成分",
+            "E．辅酶的结构成分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 41
+    },
+    {
+        "question_text": "42．PRPP 酰胺转移酶催化",
+        "options": [
+            "A．IMP 生成 GMP",
+            "B．IMP 合成 AMP",
+            "C．R-5-P 生成 PRPP",
+            "D．甘氨酸合成嘧啶环",
+            "E．PRPP 生成 5-磷酸核糖胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 42
+    },
+    {
+        "question_text": "43．嘌呤环的 C-4 和 C-5 来自",
+        "options": [
+            "A．CO2",
+            "B．丙氨酸",
+            "C．甘氨酸",
+            "D．谷氨酸",
+            "E．天冬氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 43
+    },
+    {
+        "question_text": "44．嘌呤核苷酸分解代谢的共同中间产物是",
+        "options": [
+            "A．XMP",
+            "B．IMP",
+            "C．尿酸",
+            "D．黄嘌呤",
+            "E．次黄嘌呤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 44
+    },
+    {
+        "question_text": "45．嘌呤碱合成的限速步骤是合成",
+        "options": [
+            "A．PRA",
+            "B．AIR",
+            "C．GAR",
+            "D．IMP",
+            "E．GMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 45
+    },
+    {
+        "question_text": "46．下列关于嘌呤核苷酸合成的叙述，错误的是",
+        "options": [
+            "A．IMP 是 AMP、GMP 的前体",
+            "B．Asn 提供氨基使 IMP 生成 GMP",
+            "C．Gln 提供氨基使 XMP 生成 GMP",
+            "D．Asp 提供氨基使 IMP 生成 AMP",
+            "E．GMP 以 ATP 为磷酸供体生成 GTP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 46
+    },
+    {
+        "question_text": "47．痛风症时，沉积于关节、软组织处的成分是",
+        "options": [
+            "A．尿酸",
+            "B．尿素",
+            "C．胆固醇",
+            "D．黄嘌呤",
+            "E．次黄嘌呤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 47
+    },
+    {
+        "question_text": "48．别嘌呤醇治疗痛风症是因为能抑制",
+        "options": [
+            "A．腺苷脱氢酶",
+            "B．尿酸氧化酶",
+            "C．黄嘌呤氧化酶",
+            "D．鸟嘌呤脱氢酶",
+            "E．核苷磷酸化酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 48
+    },
+    {
+        "question_text": "49．Lesch-Nyhan 综合征是因为缺乏",
+        "options": [
+            "A．HGPRT",
+            "B．腺苷激酶",
+            "C．核糖核苷酸还原酶",
+            "D．腺嘌呤磷酸核糖基转移酶",
+            "E．硫氧化还原蛋白还原酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 49
+    },
+    {
+        "question_text": "50．甲氨蝶呤的抗癌作用在于阻断了",
+        "options": [
+            "A．嘧啶的合成",
+            "B．IMP 的合成",
+            "C．PRPP 的合成",
+            "D．IMP 生成 AMP 和 GMP",
+            "E．UTP 转变为 CTP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 50
+    },
+    {
+        "question_text": "51．合成嘌呤环和嘧啶环都必需的物质是",
+        "options": [
+            "A．Gln/Asp",
+            "B．Gln/Gly",
+            "C．Gln/Pro",
+            "D．Asp/Arg",
+            "E．Gly/Asp"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 51
+    },
+    {
+        "question_text": "52．下列关于嘧啶核苷酸从头合成的叙述，正确的是",
+        "options": [
+            "A．谷氨酸是氮原子供体",
+            "B．碱基是在 5-磷酸核糖上逐步形成的",
+            "C．氨甲酰磷酸提供氨甲酰基",
+            "D．甘氨酸整个分子参入",
+            "E．天冬酰胺提供氨基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 52
+    },
+    {
+        "question_text": "53．动物体内嘧啶代谢的终产物不包括",
+        "options": [
+            "A．NH3",
+            "B．CO2",
+            "C．尿酸",
+            "D．β-丙氨酸",
+            "E．β-氨基异丁酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 53
+    },
+    {
+        "question_text": "54．嘧啶核苷酸从头合成途径首先合成的核苷酸为",
+        "options": [
+            "A．UDP",
+            "B．UMP",
+            "C．TMP",
+            "D．CDP",
+            "E．CMP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 54
+    },
+    {
+        "question_text": "55．嘧啶核苷酸补救途径的主要酶是",
+        "options": [
+            "A．脱羧酶",
+            "B．脱氢酶",
+            "C．胞苷激酶",
+            "D．嘧啶磷酸核糖转移酶",
+            "E．氨基甲酰磷酸合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 55
+    },
+    {
+        "question_text": "56．嘧啶核苷酸从头合成的限速酶是催化",
+        "options": [
+            "A．UMP 的形成",
+            "B．乳清酸的形成",
+            "C．CMP 的形成",
+            "D．氨基甲酰磷酸的形成",
+            "E．氨基甲酰天冬氨酸的形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 56
+    },
+    {
+        "question_text": "57．不需要 PRPP 作底物的反应是",
+        "options": [
+            "A．5-磷酸核糖胺的形成",
+            "B．次黄嘌呤转变为 IMP",
+            "C．腺嘌呤转变为 AMP",
+            "D．腺苷转变为 AMP",
+            "E．嘧啶生物合成中乳清酸苷的形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 57
+    },
+    {
+        "question_text": "58．5-磷酸核糖和 ATP 作用生成 5-磷酸核糖焦磷酸（PRPP），催化该反应的酶是",
+        "options": [
+            "A．核糖激酶",
+            "B．磷酸核糖焦磷酸合成酶",
+            "C．三磷酸核苷酸激酶",
+            "D．磷酸核糖激酶",
+            "E．己糖激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 58
+    },
+    {
+        "question_text": "59．在生物体内下列哪种物质的合成不需要由 S-腺苷甲硫氨酸提供甲基",
+        "options": [
+            "A．磷酸肌酸",
+            "B．肾上腺素",
+            "C．卵磷脂",
+            "D．胸腺嘧啶",
+            "E．胆碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 59
+    },
+    {
+        "question_text": "60．痛风症是由于尿酸在组织中，特别是在关节内积累过量引起的，治疗的原则是",
+        "options": [
+            "A．激活尿酸分解酶",
+            "B．激活黄嘌呤氧化酶",
+            "C．抑制鸟嘌呤脱氢酶",
+            "D．抑制黄嘌呤氧化酶",
+            "E．激活黄嘌呤氧化酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 60
+    },
+    {
+        "question_text": "61．GMP 和 AMP 从头合成的共同前体是",
+        "options": [
+            "A．CMP",
+            "B．TMP",
+            "C．IMP",
+            "D．OMP",
+            "E．UMP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 61
+    },
+    {
+        "question_text": "62．5-氟尿嘧啶是哪种碱基的结构类似物",
+        "options": [
+            "A．A",
+            "B．G",
+            "C．C",
+            "D．T",
+            "E．U"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 62
+    },
+    {
+        "question_text": "63．甲氨蝶呤（MTX）在临床上用于治疗白血病的依据是",
+        "options": [
+            "A．嘌呤类似物",
+            "B．叶酸类似物",
+            "C．氨基酸类似物",
+            "D．核糖类似物",
+            "E．次黄嘌呤类似物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 63
+    },
+    {
+        "question_text": "64．从头合成 IMP/UMP 所需的共同原料是",
+        "options": [
+            "A．氨基甲酰磷酸",
+            "B．PRPP",
+            "C．甘氨酸",
+            "D．谷氨酸",
+            "E．清氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 64
+    },
+    {
+        "question_text": "65．用于合成嘧啶核苷酸的氨基甲酰磷酸是由下列哪个酶催化生成的",
+        "options": [
+            "A．谷氨酸脱氢酶",
+            "B．天冬氨酸氨基甲酰转移酶",
+            "C．氨基甲酰磷酸合成酶 I",
+            "D．氨基甲酰磷酸合成酶 II",
+            "E．C 与 D"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 65
+    },
+    {
+        "question_text": "66．下列关于嘧啶分解代谢的叙述，正确的是",
+        "options": [
+            "A．产生尿酸",
+            "B．代谢异常可引起痛风症",
+            "C．产生 NH3、CO2 与α-氨基酸",
+            "D．产生 NH3、CO2 与β-氨基酸",
+            "E．需要黄嘌呤氧化酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 66
+    },
+    {
+        "question_text": "67．下列哪项不是痛风症的可能原因",
+        "options": [
+            "A．核酸大量摄入",
+            "B．核酸大量分解",
+            "C．核酸排泄障碍",
+            "D．嘌呤类代谢酶缺陷",
+            "E．嘧啶类代谢酶缺陷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 67
+    },
+    {
+        "question_text": "68．乳清酸不是下列哪项的前体",
+        "options": [
+            "A．TMP",
+            "B．UMP",
+            "C．CMP",
+            "D．AMP",
+            "E．OMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 68
+    }
+]

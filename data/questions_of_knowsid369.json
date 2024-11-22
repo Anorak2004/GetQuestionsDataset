@@ -1,0 +1,520 @@
+[
+    {
+        "question_text": "1.主要作用于S期的抗癌药",
+        "options": [
+            "A.烷化剂",
+            "B.抗癌抗生素",
+            "C.抗代谢药",
+            "D.长春碱类",
+            "E.激素类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 1
+    },
+    {
+        "question_text": "2.易进入脑脊液内的抗恶性肿瘤药",
+        "options": [
+            "A.甲氨喋呤",
+            "B.环磷酰胺",
+            "C.5-氟尿嘧啶",
+            "D.6-巯基嘌呤",
+            "E.博来霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 2
+    },
+    {
+        "question_text": "3.5-氟尿嘧啶对下列哪种肿瘤疗效较好",
+        "options": [
+            "A.绒毛膜上皮癌",
+            "B.膀胱癌和肺癌",
+            "C.消化道癌和乳腺癌",
+            "D.卵巢癌",
+            "E.子宫颈癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 3
+    },
+    {
+        "question_text": "4.对骨髓造血功能无抑制作用的抗癌药",
+        "options": [
+            "A.激素类",
+            "B.烷化剂",
+            "C.长春新碱",
+            "D.抗代谢药",
+            "E.抗癌抗生素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 4
+    },
+    {
+        "question_text": "5.博来霉素引起的最严重不良反应是",
+        "options": [
+            "A.骨髓抑制",
+            "B.免疫抑制",
+            "C.胃肠道反应",
+            "D.肺纤维化",
+            "E.心脏毒性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 5
+    },
+    {
+        "question_text": "6.影响核酸生物合成的抗恶性肿瘤药是",
+        "options": [
+            "A.放线菌素D",
+            "B.长春新碱",
+            "C.氛尿嘧啶",
+            "D.烷化剂",
+            "E.肾上腺皮质激素类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 6
+    },
+    {
+        "question_text": "7.易引起出血性膀胱炎的烷化剂是",
+        "options": [
+            "A.环磷酰胺",
+            "B.氮芥",
+            "C.氮甲",
+            "D.卡氮芥",
+            "E.白消安"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 7
+    },
+    {
+        "question_text": "8.阻碍细胞有丝分裂的抗恶性肿瘤药是",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.长春新碱",
+            "C.阿霉素",
+            "D.氟尿嘧啶",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 8
+    },
+    {
+        "question_text": "9.可减轻甲氨蝶呤骨髓毒性反应的药物是",
+        "options": [
+            "A.维生素C",
+            "B.叶酸",
+            "C.维生素B",
+            "D.甲酰四氢叶酸钙",
+            "E.硫酸亚铁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 9
+    },
+    {
+        "question_text": "10.对骨髓抑制作用较轻的抗癌抗生素是",
+        "options": [
+            "A.博来霉素",
+            "B.放线菌素D",
+            "C.阿霉素",
+            "D.光辉霉素",
+            "E.丝裂霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 10
+    },
+    {
+        "question_text": "11.马利兰最适用于",
+        "options": [
+            "A.急性淋巴细胞性白血病",
+            "B.急性粒细胞性白血病",
+            "C.慢性粒细胞性白血病",
+            "D.慢性淋巴细胞性白血病",
+            "E.何杰金氏病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 11
+    },
+    {
+        "question_text": "12.与博来霉素和长春新碱联合化疗可以根治睾丸癌的药物",
+        "options": [
+            "A.6-巯基嘌呤",
+            "B.甲氨蝶呤",
+            "C.白消安",
+            "D.顺铂",
+            "E.放线菌素D"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 12
+    },
+    {
+        "question_text": "13.可刺激膀胱粘膜引起血尿,蛋白尿的药物是",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.氮芥",
+            "C.环磷酰胺",
+            "D.顺铂",
+            "E.长春新碱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 13
+    },
+    {
+        "question_text": "14.哪种抗癌药在体外没有抗癌作用",
+        "options": [
+            "A.放线菌素D",
+            "B.环磷酰胺",
+            "C.阿糖胞苷",
+            "D.羟基脲",
+            "E.氮芥"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 14
+    },
+    {
+        "question_text": "15.恶性肿瘤化疗易复发因为",
+        "options": [
+            "A.G1期细胞对抗癌药不敏感",
+            "B.S期细胞对抗癌药不敏感",
+            "C.G2期细胞对抗癌药不敏感",
+            "D.M期细胞对抗癌药不敏感",
+            "E.G0期细胞对抗癌药不敏感"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 15
+    },
+    {
+        "question_text": "16.对心脏有毒性作用的抗恶性肿瘤药是",
+        "options": [
+            "A.6-巯基嘌呤",
+            "B.氮芥",
+            "C.白消安",
+            "D.博来霉素",
+            "E.阿霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 16
+    },
+    {
+        "question_text": "17.前列腺癌宜用下列哪种药物治疗",
+        "options": [
+            "A.雄激素",
+            "B.糖皮质激素",
+            "C.雌激素",
+            "D.他莫西芬",
+            "E.氨鲁米持"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 17
+    },
+    {
+        "question_text": "18.6-巯嘌呤对下列哪种肿瘤疗效好",
+        "options": [
+            "A.儿童急性淋巴细胞白血病",
+            "B.成人急性淋巴细胞白血病",
+            "C.慢性粒细胞白血病",
+            "D.恶性淋巴瘤",
+            "E.绒毛膜上皮癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 18
+    },
+    {
+        "question_text": "19.经常引起周围神丝炎的抗肿瘤药",
+        "options": [
+            "A.氟尿嘧啶",
+            "B.巯嘌呤",
+            "C.长春新碱",
+            "D.L-门冬酰胺酶",
+            "E.甲氨蝶呤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 19
+    },
+    {
+        "question_text": "20.细胞周期特异性抗肿药",
+        "options": [
+            "A.氟尿嘧啶",
+            "B.氮芥",
+            "C.环磷酰胺",
+            "D.塞替哌",
+            "E.阿霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 20
+    },
+    {
+        "question_text": "21.易进入脑脊液内的抗恶性肿瘤药是",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.环磷酰胺",
+            "C.5-氟尿嘧啶",
+            "D.6-巯基嘌呤",
+            "E.博来霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 21
+    },
+    {
+        "question_text": "22.周期非持异性抗恶性肿瘤药对下列哪期肿瘤细胞不敏感",
+        "options": [
+            "A.G0期",
+            "B.G1期",
+            "C.G2期",
+            "D.S期",
+            "E.M期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 22
+    },
+    {
+        "question_text": "23.氟尿嘧啶是",
+        "options": [
+            "A.拓扑异构酶抑制药",
+            "B.二氢叶酸还原酶抑制药",
+            "C.核苷酸还原酶抑制药",
+            "D.DNA多聚酶抑制药,",
+            "E.脱氧胸苷酸合成酶抑制药"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 23
+    },
+    {
+        "question_text": "24.甲氨蝶呤的抗肿瘤作用是",
+        "options": [
+            "A.阻止脱氧胸苷酸的合成",
+            "B.阻止嘌呤核苷酸的合成",
+            "C.阻止二氢叶酸还原为四氢叶酸",
+            "D.阻止胞苷酸转变为脱氧胞苷酸",
+            "E.阻止肌苷酸转变为腺苷酸和鸟苷酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 24
+    },
+    {
+        "question_text": "25.能使细胞有丝分裂停止于中期的药物是",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.放线菌素",
+            "C.阿糠胞苷",
+            "D.氟尿嘧啶",
+            "E.长春碱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 25
+    },
+    {
+        "question_text": "26.阿糖胞苷的抗肿瘤作用主要是",
+        "options": [
+            "A.接入DNA中干扰其复制",
+            "B.阻止脱氧尿苷酸转变为脱氧胸苷酸",
+            "C.阻止肌苷酸转变为腺苷酸和鸟苷酸",
+            "D.阻止4种脱氧核苷酸聚合成DNA链",
+            "E.阻止胞苷酸转变为脱氧胸苷酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 26
+    },
+    {
+        "question_text": "27.最早应用于临床的抗肿瘤药是",
+        "options": [
+            "A.氮芥",
+            "B.甲氨蝶呤",
+            "C.可的松",
+            "D.巯嘌呤",
+            "E.放线菌素D"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 27
+    },
+    {
+        "question_text": "28.白消安对哪个肿瘤疗效最好",
+        "options": [
+            "A.慢性粒细胞白血病",
+            "B.慢性粒细胞白血病急性变",
+            "C.急性粒细胞白血病",
+            "D.急性淋巴细胞白血病",
+            "E.恶性淋巴瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 28
+    },
+    {
+        "question_text": "29.能络合铜或铁离子,产生氧自由基,使DNA单链断裂,阻止复制的药物是",
+        "options": [
+            "A.丝裂霉素C",
+            "B.放线菌素D",
+            "C.博莱霉素.",
+            "D.阿霉素",
+            "E.柔红霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 29
+    },
+    {
+        "question_text": "30.能与微管蛋白结合而影响纺锤丝形成的药物是",
+        "options": [
+            "A.鬼臼毒素",
+            "B.三尖杉酯碱",
+            "C.L-门冬酰胺酶",
+            "D.放线菌素D",
+            "E.长春碱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 30
+    },
+    {
+        "question_text": "32.环磷酰胺的不良反应不含",
+        "options": [
+            "A.血压升高",
+            "B.恶心、呕吐",
+            "C.脱发",
+            "D.骨髓抑制",
+            "E.血尿、蛋白尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 31
+    },
+    {
+        "question_text": "33.主要作用于M期和G2期的周期特异性药物是",
+        "options": [
+            "A.羟基脲",
+            "B.多柔比星",
+            "C.紫杉醇",
+            "D.长春新碱",
+            "E.丝裂霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 32
+    },
+    {
+        "question_text": "34.主要作用于M期抗肿瘤药",
+        "options": [
+            "A.甲氨蝶呤",
+            "B.长春新碱",
+            "C.氟尿嘧啶",
+            "D.环磷酰胺",
+            "E.巯嘌呤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 33
+    },
+    {
+        "question_text": "35.药不属于抗代谢药",
+        "options": [
+            "A.环磷酰胺",
+            "B.阿糖胞苷",
+            "C.氟尿嘧啶",
+            "D.巯嘌呤",
+            "E.甲氨蝶呤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 34
+    },
+    {
+        "question_text": "36.抑制核苷酸还原酶的抗恶性肿瘤药物是",
+        "options": [
+            "A.氟尿嘧啶",
+            "B.巯嘌呤",
+            "C.甲氨蝶呤",
+            "D.阿糖胞苷",
+            "E.羟基脲"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 35
+    },
+    {
+        "question_text": "37.尿嘧啶的主要不良反应",
+        "options": [
+            "A.肝损害",
+            "B.神经毒性",
+            "C.胃肠道反应",
+            "D.血尿、蛋白尿",
+            "E.过敏反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 36
+    },
+    {
+        "question_text": "38.下列哪种药物可增强6-巯嘌呤的抗肿瘤作用及毒性",
+        "options": [
+            "A.甲酰四氢叶酸钙",
+            "B.别嘌醇",
+            "C.阿司匹林",
+            "D.维生素B",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "37",
+        "number": 37
+    }
+]

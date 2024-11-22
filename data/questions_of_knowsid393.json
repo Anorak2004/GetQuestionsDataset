@@ -1,0 +1,786 @@
+[
+    {
+        "question_text": "1.急性肾功能衰竭少尿期或无尿期，尿比重一般在",
+        "options": [
+            "A.1.000-1.009",
+            "B.1.010-1.014",
+            "C.1.015-1.020",
+            "D.1.021-1.030",
+            "E.1.031以上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 1
+    },
+    {
+        "question_text": "2.70岁男性病人，长期高血压动脉硬化，粘连性肠梗阻，病人拒绝手术，长期应用胃肠减压，有脱水，经补液尿量达30ml/h，比重1.010，1天后病人感心慌，心率120次/分钟，查血钾3.5mmo/L，迅速补10%KCL20ml静推，病人心跳骤停死亡。该病人死亡的直接原因是",
+        "options": [
+            "A.动脉硬化、心肌梗死",
+            "B.严重脱水",
+            "C.严重低血钾",
+            "D.肾功能衰竭",
+            "E.肾衰时静推氯化钾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 2
+    },
+    {
+        "question_text": "3.关于非少尿型急性肾衰，下列那项是错误的？",
+        "options": [
+            "A.少尿不明显",
+            "B.症状轻",
+            "C.多发生于创伤大手术后",
+            "D.预后较少尿型好",
+            "E.无少尿期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 3
+    },
+    {
+        "question_text": "4.肾功能衰竭的病员最适合的饮食",
+        "options": [
+            "A.低蛋白、中等量碳水化合物及脂肪",
+            "B.高蛋白、高碳水化合物、低脂肪",
+            "C.高蛋白、低碳水化合物、高脂肪",
+            "D.低蛋白、低碳水化合物、低脂肪",
+            "E.低嘌吟饮食"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 4
+    },
+    {
+        "question_text": "5.最常引起完全无尿的是",
+        "options": [
+            "A.肾前性肾衰",
+            "B.肾后性肾衰",
+            "C.急性肾性肾衰",
+            "D.前列腺增生症",
+            "E.尿道狭窄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 5
+    },
+    {
+        "question_text": "6.急性肾衰无尿或少尿期早期，发生水中毒的常见原因是",
+        "options": [
+            "A.低蛋白血症",
+            "B.内生水过多",
+            "C.抗利尿激素增加",
+            "D.钠潴留",
+            "E.不适当输入过多水分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 6
+    },
+    {
+        "question_text": "7.急性肾衰多尿期明显利尿时，每天补液量应是",
+        "options": [
+            "A.相当于每天排出水分量的1/3-1/2",
+            "B.等于每天排出的水分量",
+            "C.相当于每天排出水分量的1倍",
+            "D.每天补液量2000-2500ml",
+            "E.不补液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪项是血液透析的禁忌症？",
+        "options": [
+            "A.BUN>30mmol/L",
+            "B.血清钾>6.5mmoIL",
+            "C.血清Cr>908mol/L",
+            "D.严重酸中毒",
+            "E.休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 8
+    },
+    {
+        "question_text": "9.引起急性肾衰的物质中，下列哪项应除外？",
+        "options": [
+            "A.四氯化碳、铋、汞、磺胺",
+            "B.庆大霉素",
+            "C.X线造影剂",
+            "D.蛇毒",
+            "E.青霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 9
+    },
+    {
+        "question_text": "10.预防急性肾衰的措施中，下列哪项不宜？",
+        "options": [
+            "A.及时补充血容量",
+            "B.术中、术后少尿可用速尿或甘露醇静滴",
+            "C.不选用易发生低血压及缺氧之麻醉",
+            "D.误输异型血后宜用甘露醇和碳酸氢钠",
+            "E.若有休克宜用去甲肾上腺素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 10
+    },
+    {
+        "question_text": "11.急性肾功能衰竭早期最主要的表现是",
+        "options": [
+            "A.尿量减少，尿比重固定在1.010",
+            "B.代谢性酸中毒",
+            "C.高钾血症",
+            "D.低钠血症",
+            "E.尿毒症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列那种情况较易发生ARF?",
+        "options": [
+            "A.窒息",
+            "B.挤压伤或误型输血",
+            "C.裂伤",
+            "D.严重感染",
+            "E.剧痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 12
+    },
+    {
+        "question_text": "13.急性肾功能衰竭少尿期主要死亡原因是",
+        "options": [
+            "A.低钾血症",
+            "B.高钾血症",
+            "C.氮质血症",
+            "D.代谢性酸中毒",
+            "E.水中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 13
+    },
+    {
+        "question_text": "14.急性肾衰少尿期饮食哪项是错误的",
+        "options": [
+            "A.限制入水量",
+            "B.禁忌含钾饮食",
+            "C.以糖为主和适量脂肪",
+            "D.给高蛋白饮食",
+            "E.补充各类维生素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 14
+    },
+    {
+        "question_text": "15.严重挤压伤病人要注意尿量、尿色，主要因为",
+        "options": [
+            "A.了解液体量是否足够",
+            "B.谨防发生急性肾功能衰竭",
+            "C.保证足够的营养供给",
+            "D.预防休克",
+            "E.了解有无泌尿系损伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 15
+    },
+    {
+        "question_text": "16.急性肾衰少尿期患者，前一天尿量为300ml，补液量应为",
+        "options": [
+            "A.550ml",
+            "B.650ml",
+            "C.750ml",
+            "D.850ml",
+            "E.950ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 16
+    },
+    {
+        "question_text": "17.输液时应减去每日内生水的疾病是",
+        "options": [
+            "A.大面积烧伤",
+            "B.急性肠梗阻",
+            "C.急性肾功能衰竭",
+            "D.代谢性酸中毒",
+            "E.水、电解质紊乱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 17
+    },
+    {
+        "question_text": "18.测24h尿量少于400ml应称为",
+        "options": [
+            "A.无尿",
+            "B.少尿",
+            "C.尿闭",
+            "D.尿浓缩",
+            "E.尿外渗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 18
+    },
+    {
+        "question_text": "19.某患者创伤后休克30小时，经抢救后血压恢复正常，但一直未排尿液，导尿获尿100ml。为确定是否为急性肾功能衰竭，应做何检查？",
+        "options": [
+            "A.中心静脉压测定",
+            "B.血常规",
+            "C.红细胞压积",
+            "D.PSP试验",
+            "E.尿钠测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 19
+    },
+    {
+        "question_text": "20.男，40岁，矿工，因在坑道工作时塌方，被埋8小时后救出，双股部及臀部明显肿胀，血清钾5.5mmo/L，诊断为挤压综合征。为观察肾并发症，下列哪项最有意义？",
+        "options": [
+            "A.血压、脉率",
+            "B.出血、感染",
+            "C.中心静脉压",
+            "D.尿量、尿钠",
+            "E.瞳孔、神志"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 20
+    },
+    {
+        "question_text": "21.一个出血性休克患者，经手术止血并补充血容量，纠正休克，伤后24小时一直无尿，使用速尿无效。以后补液方案应是",
+        "options": [
+            "A.随意口服液体",
+            "B.每天静脉途径给予2000-2500ml液体",
+            "C.3天内不补液",
+            "D.不补液，仅口服山梨醇导泻",
+            "E.按“显性失水+不显性失水一内生水”公式补液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 21
+    },
+    {
+        "question_text": "22.女，42岁，土墙倒塌压伤右腰、腹与下肢16小时后住院。经抗休克等治疗后，血压187/12kPa(140/90mmHg)脉率96次/分，心肺阴性右腰及右下腹有瘀血斑。腹软、肾区无包块。导尿无肉眼血尿，蛋白(+++)，有红细胞及管型；导尿后尿色更深，平均每小时尿量8ml，应考虑",
+        "options": [
+            "A.血容量不足性休克",
+            "B.急性肾功能衰竭",
+            "C.肾外伤合并肾血管破裂",
+            "D.严重的肾挫裂伤",
+            "E.膀胱破裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 22
+    },
+    {
+        "question_text": "23.以下是挤压综合症少尿或无尿期的代谢改变，但除外",
+        "options": [
+            "A.高血钾",
+            "B.代谢性酸中毒",
+            "C.低钠",
+            "D.低钙",
+            "E.低磷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 23
+    },
+    {
+        "question_text": "24.易合并急性肾衰的是",
+        "options": [
+            "A.挫伤",
+            "B.冲击伤",
+            "C.腹部穿通伤",
+            "D.阑尾炎",
+            "E.大面积烧伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 24
+    },
+    {
+        "question_text": "25,对急性肾功能衰竭少尿期时高血钾的治疗，下列哪项措施不正确？",
+        "options": [
+            "A.严禁使用含钾药物",
+            "B.处理感染坏死组织",
+            "C.补充钙剂",
+            "D.减少能量补充",
+            "E.使用促进蛋白合成药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 25
+    },
+    {
+        "question_text": "26,关于急性肾功能衰竭多尿期的说法，正确的是",
+        "options": [
+            "A.每日尿量超过正常人的尿量，表示进入多尿期",
+            "B.高钾和感染是此期的主要死亡原因",
+            "C.进入多尿期并不表示病情好转",
+            "D.多尿期初期，少尿期的症状仍可继续加重",
+            "E.多尿期尿量增多以后，水电解质失衡即可纠正"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 26
+    },
+    {
+        "question_text": "27,急性肾功能衰竭时实验室检查哪项不正确？",
+        "options": [
+            "A.尿比重固定在1.015-1.020",
+            "B.血钾升高",
+            "C.尿沉渣镜下可见颗粒管型",
+            "D.血肌酐升高",
+            "E.尿钠超过40mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 27
+    },
+    {
+        "question_text": "28,急性肾功能衰竭少尿或无尿期出现水中毒的主要原因是",
+        "options": [
+            "A.内生水多",
+            "B.抗利尿激素增加",
+            "C.钠水潴留",
+            "D.低蛋白血症",
+            "E.未严格限制水钠摄入"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 28
+    },
+    {
+        "question_text": "29,引起肾衰的物质中，下列哪项应除外",
+        "options": [
+            "A.四氯化碳、铋汞、磺胺",
+            "B.庆大霉素",
+            "C.X线造影剂",
+            "D.蛇毒和鱼胆",
+            "E.青霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 29
+    },
+    {
+        "question_text": "30,关于非少尿型急性肾衰，下列哪项是错误的",
+        "options": [
+            "A.少尿不明显",
+            "B.症状轻",
+            "C.多发生于创伤、大手术后",
+            "D.bun和cr进行性升高",
+            "E.预后较少尿型肾衰差"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 30
+    },
+    {
+        "question_text": "31,急性肾衰的预防措施中不适当的为",
+        "options": [
+            "A.预防肾缺血",
+            "B.术前充分纠正水电解质失衡",
+            "C.误输异型血，用甘露醇利尿",
+            "D.休克时用去甲肾上腺素",
+            "E.不用肾毒性药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 31
+    },
+    {
+        "question_text": "32,急性肾功能衰竭少尿期，急需防治的电解质失调是",
+        "options": [
+            "A.低血钾",
+            "B.低血钙",
+            "C.高血镁",
+            "D.低血钠",
+            "E.高血钾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 32
+    },
+    {
+        "question_text": "33,高度怀疑成人奢迫综合征患者应首先对其做以下哪项检查",
+        "options": [
+            "A.血气分析",
+            "B.摄胸片",
+            "C.心电图检查",
+            "D.血常规",
+            "E.电解质检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 33
+    },
+    {
+        "question_text": "34,休克的根本问题",
+        "options": [
+            "A.代谢失常",
+            "B.内分泌失调",
+            "C.组织细胞缺氧",
+            "D.营养障碍",
+            "E.肾功能衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 34
+    },
+    {
+        "question_text": "35,休克早期(代偿期)的诊断，下列哪些是不正确的？",
+        "options": [
+            "A.血压下降",
+            "B.尿量减少(25-30ml/h)",
+            "C.心率增快",
+            "D.皮肤潮湿，粘膜苍白",
+            "E.痛苦表情"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 35
+    },
+    {
+        "question_text": "36,发现溶血反应对，下列哪项是错误的",
+        "options": [
+            "A.给予5%碳酸氢钠250ml静脉滴注",
+            "B.血浆交换治疗",
+            "C.减慢输血速度",
+            "D.应用甘露醇",
+            "E.应用糖皮质激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 36
+    },
+    {
+        "question_text": "37,休克病的体位一般应采用",
+        "options": [
+            "A.头高脚低位",
+            "B.头低脚高位",
+            "C.平卧位",
+            "D.头和躯干抬高20-30度，下肢抬高15-20度",
+            "E.侧卧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 37
+    },
+    {
+        "question_text": "38,在休克的治疗时，尿量的变化常用来估计",
+        "options": [
+            "A.有效循环血量",
+            "B.总血容量",
+            "C.中心静脉压",
+            "D.微循环灌流",
+            "E.心功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 38
+    },
+    {
+        "question_text": "39,高钾血症时，心电图的早期改变",
+        "options": [
+            "A.ST段降低",
+            "B.T波高而尖，QT间期延长",
+            "C.QRS波增宽",
+            "D.P-12间期延长",
+            "E.出现U波"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 39
+    },
+    {
+        "question_text": "40.呼吸性酸中毒最先应解决的问题",
+        "options": [
+            "A.肺部感染，使用大量抗生素",
+            "B.进行人工呼吸",
+            "C.应用呼吸中枢兴奋剂",
+            "D.解除呼吸道梗阻，改善肺换气机能",
+            "E.给予碱性液体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 40
+    },
+    {
+        "question_text": "41.女，42岁，土墙倒塌压伤右腰、腹与下肢16小时后住院。经抗休克等治疗后，血压18712kpa,(140/90mmHg)、脉率96次/分，心肺阴性。右腰及右下腹有瘀血斑。腹软、肾区无包块。导尿无肉眼血尿，蛋白(+++)，有红细胞及管型；导尿后尿色更深，平均每小时尿量8ml，应考虑",
+        "options": [
+            "A.血容量不足性休克",
+            "B.急性肾功能衰竭",
+            "C.肾外伤合并肾血管破裂",
+            "D.严重的肾挫裂伤",
+            "E.膀胱破裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 41
+    },
+    {
+        "question_text": "42.关于多系统器官衰竭(MSOF)的概念下列哪项是错误的？",
+        "options": [
+            "A.MSOF是疾病过程中序贯地或同时并发一个以上系统或(和)器官的急性功能障碍",
+            "B.MSOF常见的全身性损害因素是低血容量和感染毒血症",
+            "C.MSOF的病死率不随着功能衰竭的器官数量增多而增高",
+            "D.急救治疗应注意避免诱发或加重重要器官的功能障碍",
+            "E.器官衰竭并感染时防治感染是预防MSOF的重要措施"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 42
+    },
+    {
+        "question_text": "43.关于ARDS的病理改变下列哪项是错误的？",
+        "options": [
+            "A.肺间质水肿和肺泡渗出",
+            "B.肺泡的玻璃样物质形成和肺泡萎缩",
+            "C.小片肺不张并发感染",
+            "D.肺微血管栓塞",
+            "E.血气胸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 43
+    },
+    {
+        "question_text": "44.关于ALI诊断标准哪项是错误的",
+        "options": [
+            "A.急性起病，",
+            "B.氧合指数PaO2/FiO2<26.6kPa(200mmHg)，而无论PaO2是否正常或无论是否应用PEEP",
+            "C.胸部X线片示双肺浸润阴影",
+            "D.PCWP<2.40kpa(18mmHg)或无心源性肺水肿的临床证据",
+            "E.存在诱发ARDS的危险因素。"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 44
+    },
+    {
+        "question_text": "45.关于ARDS诊断标准哪项是错误的",
+        "options": [
+            "A.急性起病",
+            "B.氧合指数PaO2/FiO2W40kPa(300mmHg)，而无论PaO2是否正常或无论是否应用PEEP",
+            "C.胸部X线片示双肺浸润阴影",
+            "D.PCWP<2.40kpa(18mmHg)或无心源性肺水肿的临床证据",
+            "E.存在诱发ARDSD的危险因素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 45
+    },
+    {
+        "question_text": "男,45岁,因上吐下泻住某医院,静滴庆大霉素24万U治疗9天,近5天来无尿,眼结膜水肿,腹水，双下肢水肿,实验室检查BUN42mmol/L，血清Cr1040umol/L,血钾6.8nmol/L,B超发现左肾孟轻度积水,下极处可见一0.8cm大小的强回声影,后伴声影。46.该患者应诊断为",
+        "options": [
+            "A.庆大霉素过敏反应",
+            "B.庆大霉素肾中毒，导致急性肾衰",
+            "C.左肾结石",
+            "D.左肾盂积水",
+            "E.原发病导致脱水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 46
+    },
+    {
+        "question_text": "47.最好的治疗方法是",
+        "options": [
+            "A.5%碳酸氢钠静滴",
+            "B.10%葡萄糖酸钙静滴",
+            "C.离子交换树脂保留灌肠",
+            "D.大剂量速尿静推",
+            "E.透析疗法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 47
+    },
+    {
+        "question_text": "48.急性肾衰的尿液化验结果是",
+        "options": [
+            "A.尿呈酸性",
+            "B.尿比重稳定于1.010-1.014",
+            "C.尿沉淀有管型",
+            "D.尿钠降低",
+            "E.尿钠〉40mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列哪项是肾前性肾衰的病因",
+        "options": [
+            "A.低血容量性休克",
+            "B.盆腔肿瘤压迫输尿管",
+            "C.感染性休克",
+            "D.四氯化碳",
+            "E.X线造影剂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列哪项是肾后性肾衰的病因",
+        "options": [
+            "A.低血容量性休克",
+            "B.盆腔肿瘤压迫输尿管",
+            "C.感染性休克",
+            "D.四氯化碳",
+            "E.X线造影剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 50
+    },
+    {
+        "question_text": "51.某村民采食野生毒菌后无尿3天，巩膜黄染",
+        "options": [
+            "A.肾前性尿闭",
+            "B.肾后性尿闭",
+            "C.肾性尿闭",
+            "D.去肾性尿闭",
+            "E.慢性肾功能不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 51
+    },
+    {
+        "question_text": "某患者有肾结石史2年，近5日出现尿量明显减少，伴颜面部水肿",
+        "options": [
+            "A.肾前性尿闭",
+            "B.肾后性尿闭",
+            "C.肾性尿闭",
+            "D.去肾性尿闭",
+            "E.慢性肾功能不全"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 52
+    },
+    {
+        "question_text": "53.某患儿在某医院行盆腔肿块切除，术后3天无尿，B超双肾区未探及肾脏，切下的标本病理检查为肾脏",
+        "options": [
+            "A.肾前性尿闭",
+            "B.肾后性尿闭",
+            "C.肾性尿闭",
+            "D.去肾性尿闭",
+            "E.慢性肾功能不全"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 53
+    },
+    {
+        "question_text": "54.急性肾功能衰竭死亡的主要原因之一是",
+        "options": [
+            "A.低血钾",
+            "B.高血钾",
+            "C.低血钠",
+            "D.高血钠",
+            "E.低血镁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 54
+    },
+    {
+        "question_text": "55.急性肾功能衰竭少尿期最重要的电解质失调是",
+        "options": [
+            "A.低血钾",
+            "B.高血钾",
+            "C.低血钠",
+            "D.高血钠",
+            "E.低血镁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 55
+    },
+    {
+        "question_text": "56.急性肾功能衰竭少尿期和多尿期共同的电解质失调是",
+        "options": [
+            "A.低血钾",
+            "B.高血钾",
+            "C.低血钠",
+            "D.高血钠",
+            "E.低血镁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 56
+    }
+]

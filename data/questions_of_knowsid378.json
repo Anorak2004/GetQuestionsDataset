@@ -1,0 +1,340 @@
+[
+    {
+        "question_text": "1.检查溶组织内阿米巴包囊最常见的方法是",
+        "options": [
+            "A.生理盐水涂片法",
+            "B.碘液染色法",
+            "C.粪便水洗沉淀法",
+            "D.乙状结肠镜或组织检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 1
+    },
+    {
+        "question_text": "2.溶组织阿米巴的感染途径为",
+        "options": [
+            "A.经口",
+            "B.经皮肤",
+            "C.接触",
+            "D.经昆虫媒介"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 2
+    },
+    {
+        "question_text": "3.溶组织内阿米巴的肠腔型滋养体在人体内最常见的寄生部位是",
+        "options": [
+            "A.小肠",
+            "B.结肠回盲部",
+            "C.乙状结肠",
+            "D.横结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 3
+    },
+    {
+        "question_text": "4.能够有效治疗阿米巴病的药物是",
+        "options": [
+            "A.阿苯达唑",
+            "B.吡喹酮",
+            "C.甲硝唑",
+            "D.青蒿素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 4
+    },
+    {
+        "question_text": "5.阿米巴痢疾的主要传染源来自",
+        "options": [
+            "A.急性阿米巴痢疾病人",
+            "B.阿米巴肝脓肿病人",
+            "C.无症状带虫者",
+            "D.慢性阿米巴结肠炎病人"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 5
+    },
+    {
+        "question_text": "6.急性阿米巴痢疾的病原诊断方法是",
+        "options": [
+            "A.饱和盐水漂浮法",
+            "B.生理盐水涂片法",
+            "C.碘液染色法",
+            "D.血膜涂片法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列不是溶组织内阿米巴与结肠内阿米巴形态鉴别点的是",
+        "options": [
+            "A.伪足",
+            "B.胞核数量",
+            "C.拟染色体",
+            "D.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 7
+    },
+    {
+        "question_text": "8.肠道阿米巴病典型的病理变化是",
+        "options": [
+            "A.肠壁形成虫卵肉芽肿",
+            "B.肠壁多个部位出血",
+            "C.脓血粘液便",
+            "D.肠壁形成烧瓶样溃疡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 8
+    },
+    {
+        "question_text": "9.溶组织内阿米巴的主要致病机制为",
+        "options": [
+            "A.伪足破坏",
+            "B.细胞吞噬",
+            "C.触杀与胞溶",
+            "D.细胞毒作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 9
+    },
+    {
+        "question_text": "10.溶组织内阿米巴的致病阶段为",
+        "options": [
+            "A.包囊期",
+            "B.肠腔型滋养体",
+            "C.组织内滋养体期",
+            "D.各期均有一定的致病力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 10
+    },
+    {
+        "question_text": "11.溶组织内阿米巴生活史的基本环节是",
+        "options": [
+            "A.滋养体-包囊-滋养体",
+            "B.四核包囊-滋养体-包囊",
+            "C.肠腔型滋养体-组织内滋养体-包囊",
+            "D.包囊-肠腔型滋养体-组织内滋养体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 11
+    },
+    {
+        "question_text": "12.溶组织内阿米巴的人体内的两个生活史时期是指",
+        "options": [
+            "A.滋养体与卵囊",
+            "B.滋养体与包囊",
+            "C.裂殖体与包囊",
+            "D.包囊与合子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 12
+    },
+    {
+        "question_text": "13.溶组织内阿米巴的感染阶段是",
+        "options": [
+            "A.卵囊",
+            "B.四核包囊",
+            "C.二核包囊",
+            "D.滋养体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 13
+    },
+    {
+        "question_text": "14.最可能检出溶组织内阿米巴包囊的检验物是",
+        "options": [
+            "A.粘液脓血便",
+            "B.成形粪便",
+            "C.水样便",
+            "D.肠壁溃疡病灶活组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 14
+    },
+    {
+        "question_text": "15.急性阿米巴病的典型病例变化为",
+        "options": [
+            "A.细胞内寄生的增生性破坏",
+            "B.对组织的溶解性破坏作用引起液化坏死灶",
+            "C.超敏反应",
+            "D.生成肉芽肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 15
+    },
+    {
+        "question_text": "16.防治阿米巴病错误的是",
+        "options": [
+            "A.治疗带虫者",
+            "B.治疗现症病人",
+            "C.处理好粪便",
+            "D.阿苯达唑是首选药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 16
+    },
+    {
+        "question_text": "17.阿米巴肝脓肿抽取液可查见",
+        "options": [
+            "A.肠腔型滋养体",
+            "B.包囊和滋养体",
+            "C.组织内滋养体",
+            "D.卵囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 17
+    },
+    {
+        "question_text": "18.治疗慢性侵入性肠阿米巴病病人的首选药物是",
+        "options": [
+            "A.吡喹酮",
+            "B.甲苯达唑",
+            "C.甲硝唑",
+            "D.青蒿素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 18
+    },
+    {
+        "question_text": "19.鉴别溶组织内阿米巴滋养体与结肠内阿米巴滋养体的主要依据是",
+        "options": [
+            "A.胞质内有无拟线粒体",
+            "B.胞质内有无红细胞",
+            "C.胞质内有无细菌",
+            "D.胞质内有无糖原泡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 19
+    },
+    {
+        "question_text": "20.从肝穿刺取出的巧克力酱色脓液中，可检测出",
+        "options": [
+            "A.肝吸虫成虫",
+            "B.肝吸虫虫卵",
+            "C.溶组织内阿米巴包囊",
+            "D.溶组织内阿米巴滋养体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于溶组织内阿米巴组织内滋养体的描述不正确的是",
+        "options": [
+            "A.有一个泡状核",
+            "B.内、外质分界不明显",
+            "C.运动活泼",
+            "D.含有红细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 21
+    },
+    {
+        "question_text": "22.对人致病力较强的阿米巴原虫是",
+        "options": [
+            "A.结肠内阿米巴",
+            "B.溶组织内阿米巴",
+            "C.哈门内阿米巴",
+            "D.布氏嗜碘阿米巴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 22
+    },
+    {
+        "question_text": "23.可引起肠穿孔的原虫是",
+        "options": [
+            "A.弓形虫",
+            "B.贾第虫",
+            "C.疟原虫",
+            "D.溶组织内阿米巴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于阿米巴痢疾流行的描述不正确的是",
+        "options": [
+            "A.慢性病人和带虫者是重要的传染源",
+            "B.蝇和蟑螂可造成该病的传播",
+            "C.只有儿童、老年人可受感染",
+            "D.农村感染率高于城市"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 24
+    },
+    {
+        "question_text": "25.怀疑某人患慢性肠阿米巴病时，首选确诊方法为",
+        "options": [
+            "A.生理盐水涂片法查包囊",
+            "B.生理盐水涂片法查滋养体",
+            "C.碘液染色法查包囊",
+            "D.碘液染色法查滋养体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 25
+    },
+    {
+        "question_text": "26.最常见的肠外阿米巴病是",
+        "options": [
+            "A.阿米巴肺脓肿",
+            "B.阿米巴肝脓肿",
+            "C.皮肤阿米巴病",
+            "D.阿米巴脑脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "26",
+        "number": 26
+    }
+]

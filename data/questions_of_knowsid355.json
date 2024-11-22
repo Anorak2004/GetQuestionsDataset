@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.下列中枢镇静作用最强的药物是",
+        "options": [
+            "A.氯苯那敏",
+            "B.苯海拉明",
+            "C.阿司咪唑",
+            "D.特非那定",
+            "E.苯茚胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "2.有中枢兴奋作用的H1受体阻断药是",
+        "options": [
+            "A.苯海拉明",
+            "B.异丙嗪",
+            "C.氯苯那敏",
+            "D.苯茚胺",
+            "E.茶苯海明"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列属于H2受体阻断药是",
+        "options": [
+            "A.西咪替丁",
+            "B.异丙嗪",
+            "C.阿司咪唑",
+            "D.组胺",
+            "E.苯海拉明"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "4.西咪替丁的不良反应不包括",
+        "options": [
+            "A.阳痿",
+            "B.心率加快",
+            "C.男性青年乳房发育",
+            "D.性欲减退",
+            "E.皮疹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

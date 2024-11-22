@@ -1,0 +1,632 @@
+[
+    {
+        "question_text": "1.心脏病人手术时机最好选择在心力衰竭控制后的",
+        "options": [
+            "A.1-2周内",
+            "B.2-3周内",
+            "C.3-4周内",
+            "D.3-4周后",
+            "E.1个月后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 1
+    },
+    {
+        "question_text": "2.急性心肌梗塞病人，可以施行择期手术的时间是",
+        "options": [
+            "A.1个月内",
+            "B.2个月内",
+            "C.3个月内",
+            "D.6个月内",
+            "E.6个月以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 2
+    },
+    {
+        "question_text": "3.根据24小时内生肌酐清除率测定值判断，下列哪项属重度肾功能损害",
+        "options": [
+            "A.50-80ml/min",
+            "B.31-50ml/min",
+            "C.21-30ml/min",
+            "D.<20ml/min",
+            "E.<10ml/min"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项对确诊腹部手术后腹腔内出血意义最大",
+        "options": [
+            "A.腹胀逐渐加重",
+            "B.病人烦躁不安",
+            "C.中心静脉压<0.49kPa(50mmH20)",
+            "D.尿量<25ml/h",
+            "E.诊断性腹腔穿刺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 4
+    },
+    {
+        "question_text": "5.术后尿路感染的基本原因是",
+        "options": [
+            "A.尿潴留",
+            "B.膀胱炎",
+            "C.肾盂肾炎",
+            "D.肾盂炎",
+            "E.前列腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 5
+    },
+    {
+        "question_text": "6.诊断术后肺不张较有意义的体征是",
+        "options": [
+            "A.术后早期发热，呼吸及心率增快",
+            "B.白细胞及中性粒细胞增高",
+            "C.胸部叩诊呈浊音或实音",
+            "D.听诊有局限性湿性罗音",
+            "E.呼吸音减弱、消失或为管性呼吸音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪项术前准备项目价值不大",
+        "options": [
+            "A.营养不良者要尽可能纠正，以达正氮平衡",
+            "B.慢性肾病者尿常规正常，也要作肾功能检查",
+            "C.吸烟者术前停止吸烟2周以上",
+            "D.高血压者服用降压药直至血压正常范围",
+            "E.糖尿病人的降糖治疗使尿糖+++即可"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪项不属切口感染的预防措施",
+        "options": [
+            "A.术前、术后注意提高病人的抵抗力，纠正贫血、低蛋白血症等",
+            "B.术中严格无菌操作",
+            "C.避免切口内血肿",
+            "D.避免异物存留",
+            "E.及时局部理疗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 8
+    },
+    {
+        "question_text": "9.术后腹部切口裂开的预防措施中，下列哪项是错误的",
+        "options": [
+            "A.术前提高营养状况",
+            "B.术中必要时作皮肤减张缝合",
+            "C.术后及时处理腹胀",
+            "D.腹带作适当的腹部包扎",
+            "E.咳嗽时最好取高坡卧位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于术后肺不张的描述，下列那项是错误的",
+        "options": [
+            "A.老年人、长期吸烟者和有急、慢性呼吸道感染者，术后呼吸功能受到抑制",
+            "B.肺底、肺泡和支气管内分泌物聚集，堵塞支气管",
+            "C.呼吸恒定于潮气量通气，导致功能性气体交换面积减少",
+            "D.肺的弹性回缩力下降",
+            "E.肺活量和分流量减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列那项对诊断术后胸腔内出血意义最大",
+        "options": [
+            "A.血压V10.7/8kPa(80/60mmHg)",
+            "B.中心静脉压V0.49kPa(50mmH20)",
+            "C.尿量Vlml/kg?h",
+            "D.胸腔引流持续数小时内每小时>100ml",
+            "E.X线检查示有胸腔积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 11
+    },
+    {
+        "question_text": "12.关于术前肠道准备，下列那项是错误的",
+        "options": [
+            "A.胃肠道手术病人，术前1-2天始进流质饮食",
+            "B.术前12小时始禁食，2小时始禁饮",
+            "C.一般性手术前1天作肥皂水灌肠",
+            "D.结肠或直肠手术应行清洁灌肠及口服肠道抑菌剂",
+            "E.必要时可作胃肠减压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 12
+    },
+    {
+        "question_text": "13.一阑尾穿孔并弥漫性腹膜炎患者，急诊手术后于右下腹放置烟卷式引流条一根，下列那一项正确？",
+        "options": [
+            "A.放置1-2天后即可拔除",
+            "B.每次换药时拔出约1-2cm，术后1-2天可拔除",
+            "C.每次换药时拔出约1-2cm，术后3-5天可拔除",
+            "D.视引流情况，至术后6-7天方可拔除",
+            "E.应于术后1周方可拔除"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于术后早期活动的作用，下列哪项是错误的",
+        "options": [
+            "A.增加肺活量",
+            "B.减少肺部并发症",
+            "C.改善全身血液循环",
+            "D.减少因下肢静脉淤血而发生血栓形成",
+            "E.增加腹胀和尿潴留的发生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 14
+    },
+    {
+        "question_text": "15.对糖尿病人的术前术后处理，下列哪项是错误的？",
+        "options": [
+            "A.术前适当控制血糖",
+            "B.术前应纠正水电解质代谢紊乱和酸中毒",
+            "C.术前应维持血糖于+++",
+            "D.手术应在当天尽早施行，以缩短术前禁食时间，避免酮体生成",
+            "E.术后尿糖+，可用胰岛素5u"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 15
+    },
+    {
+        "question_text": "16.术前根据24小时内生肌酐清除率测定值判断，下列哪项属于重度肾功能损害",
+        "options": [
+            "A.50-80ml/min",
+            "B.31-50ml/min",
+            "C.21-30ml/min",
+            "D.<20ml/min",
+            "E.<10ml/min"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪种手术不属于择期手术？",
+        "options": [
+            "A.胃十二指肠溃疡的胃大部分切除术",
+            "B.甲状腺功能亢进的甲状腺次全切除术",
+            "C.下肢静脉曲张高位结扎术",
+            "D.先心病间隔缺损修补术",
+            "E.贲门癌根治术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 17
+    },
+    {
+        "question_text": "18.对呼吸功能障碍者的术前准备，下列哪项不妥？",
+        "options": [
+            "A.停止吸烟2周，鼓励病人多练习深呼吸和咳嗽",
+            "B.应用支气管扩张剂及雾化吸入等",
+            "C.对经常发作哮喘者给予地塞米松以减轻支气管粘膜水肿",
+            "D.对合并感染者，在应用抗生素的同时施行手术",
+            "E.麻醉前给药量要少，以免呼吸抑制和咳痰困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 18
+    },
+    {
+        "question_text": "19.对肾脏疾病患者，术前准备和对手术耐受性的估计，下列哪项是是错误的？",
+        "options": [
+            "A.凡有肾脏疾病者，都应肾功能检查",
+            "B.轻至中度肾功能损害者，经适当内科治疗，都能较好的耐受手术",
+            "C.重度肾功能损害者，即使在有效的透析疗法处理下，仍不能安全的耐受手术",
+            "D.术前应避免使用对肾脏有损害的药物",
+            "E.术前应尽量避免使用肾血管收缩药物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 19
+    },
+    {
+        "question_text": "20.CRIS为哪一级时，禁忌手术？",
+        "options": [
+            "A.1级",
+            "B.2级",
+            "C.3级",
+            "D.4级",
+            "E.5级"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 20
+    },
+    {
+        "question_text": "21.对CRIS的描述中，下列哪一项不正确？",
+        "options": [
+            "A.CRIS为4级时，提示禁忌进行择期手术，",
+            "B.CRIS的优点是半数以上的积分可以控制",
+            "C.其分级与严重并发症的发生率相关",
+            "D.6-12分为2级",
+            "E.13-25分为4级"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于术后病人的体位，下列哪项是错误的？",
+        "options": [
+            "A.颅脑手术后，如无休克或昏迷，取15-30°头高脚低斜坡卧位",
+            "B.颈胸手术后，取高坐半卧位",
+            "C.腹部手术后，取低坐半卧位",
+            "D.脊柱或臀部手术后，取俯卧或仰卧位",
+            "E.休克病人，应取头低脚高卧位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 22
+    },
+    {
+        "question_text": "23.关于术后出血的临床表现，下列哪项不正确？",
+        "options": [
+            "A.病人可出现烦躁，心率持续增快而无高热和心脏疾病",
+            "B.中心静脉压低于0.49kPa(5cmH20)",
+            "C.每小时尿量少于25ml",
+            "D.在输给足够量的血液和液体后，休克征象和监测指标均不见好转",
+            "E.术后伤口引流管有血性液体流出"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 23
+    },
+    {
+        "question_text": "24.急性心肌梗塞的病人，病情稳定多长时间可施行手术？",
+        "options": [
+            "A.1个月内，无心绞痛",
+            "B.2个月内，无心绞痛",
+            "C.3个月内，无心绞痛",
+            "D.6个月内，无心绞痛",
+            "E.6月以上，无心绞痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 24
+    },
+    {
+        "question_text": "25.胃肠道手术的术前准备，下列哪项是错误的？",
+        "options": [
+            "A.手术前1天流质饮食",
+            "B.手术前12小时禁食",
+            "C.手术前4小时禁水",
+            "D.停留胃管行胃肠减压",
+            "E.术前3天开始全身使用抗生素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 25
+    },
+    {
+        "question_text": "26.手术病人一般在术前6-12小时开始禁食的原因是",
+        "options": [
+            "A.有利于病人休息",
+            "B.防止麻醉或术中发生呕吐",
+            "C.减少胃肠道手术的污染",
+            "D.避免手术后腹胀",
+            "E.有利于胃肠道手术时的显露"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 26
+    },
+    {
+        "question_text": "27.手术后恶心、呕吐的常见原因是",
+        "options": [
+            "A.术后体位不适或不习惯",
+            "B.电解质素乱",
+            "C.切口疼痛",
+            "D.肠梗阻",
+            "E.麻醉反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 27
+    },
+    {
+        "question_text": "28.术后腹胀的主要原因是",
+        "options": [
+            "A.吞咽空气积存于肠腔内",
+            "B.肠道内食物残渣发酵产气",
+            "C.低血钾",
+            "D.肠粘连",
+            "E.术后卧床"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 28
+    },
+    {
+        "question_text": "29.呼吸功能不全常表现为",
+        "options": [
+            "A.轻微活动后出现发绀",
+            "B.休息也有明显呼吸困难",
+            "C.经常有轻度发绀",
+            "D.轻微活动后出现呼吸困难",
+            "E.反复出现呼吸性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 29
+    },
+    {
+        "question_text": "30.提示肺功能重度不全的最大通气量为预计值的",
+        "options": [
+            "A.85%-90%",
+            "B.70%-85%",
+            "C.60%-70%",
+            "D.40%-60%",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列那一项是限期手术？",
+        "options": [
+            "A.十二指肠溃疡并出血行胃次全切除术",
+            "B.急性梗阻性化脓性胆管炎",
+            "C.胃癌根治术",
+            "D.绞窄性肠梗阻",
+            "E.脾破裂行脾切除"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 31
+    },
+    {
+        "question_text": "32.轻度或中度高血压病人，术前要求血压",
+        "options": [
+            "A.降至正常",
+            "B.维持原水平",
+            "C.降至正常以下",
+            "D.需用针剂控制血压至正常",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 32
+    },
+    {
+        "question_text": "33.肾功能障碍的病人术前后可应用的药物是",
+        "options": [
+            "A.汞撒利",
+            "B.磺胺药",
+            "C.卡那霉素",
+            "D.多粘霉素",
+            "E.红霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 33
+    },
+    {
+        "question_text": "34.预防切口感染，下列哪项是错误的？",
+        "options": [
+            "A.遵守无菌技术",
+            "B.手术操作轻柔准确",
+            "C.严格止血，避免血肿形成",
+            "D.术后常规应用抗生素7天",
+            "E.切口缝合避免死腔形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 34
+    },
+    {
+        "question_text": "35.急性化脓性阑尾炎术后7天拆线，切口无红肿、无渗液、无压痛，应记录为",
+        "options": [
+            "A.11/甲",
+            "B.11/乙",
+            "C.III/甲",
+            "D.III/乙",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 35
+    },
+    {
+        "question_text": "36.腹部大手术后，早期出现肺功能不全的最常见原因是",
+        "options": [
+            "A.胃内容物误吸",
+            "B.支气管痉挛",
+            "C.肺不张",
+            "D.气胸",
+            "E.肺水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 36
+    },
+    {
+        "question_text": "37.男，52岁，因上腹饱胀伴呕吐2周，吐出物有腐臭味，少有胆汁，吐后舒适，拟诊为胃癌。根据病史，该病人手术前准备中最重要的是",
+        "options": [
+            "A.禁食3天，补液",
+            "B.练习床上排尿",
+            "C.术前插导尿管",
+            "D.选择应用抗菌药物",
+            "E.禁食3天，洗胃"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 37
+    },
+    {
+        "question_text": "38.将要行空肠手术的病人，下列哪项准备正确？",
+        "options": [
+            "A.术前1天开始禁食",
+            "B.术前4小时开始禁水",
+            "C.术前1天洗胃",
+            "D.术前1天清洁洗肠",
+            "E.术前3天开始口服新霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 38
+    },
+    {
+        "question_text": "39.术前准备中，下列哪项准备不正确？",
+        "options": [
+            "A.心力衰竭病人需控制3-4周才施行手术",
+            "B.经常发作哮喘的病人，可每日三次口服地塞米松0.75mg",
+            "C.肝功能严重损害的病人，一般不宜施行任何手术",
+            "D.肾功能重度损害患者，只要在有效的透析疗法处理下，仍能安全的耐受手术",
+            "E.糖尿病病人大手术前，必须将血糖控制到正常、尿糖阴性的水平，才能手术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 39
+    },
+    {
+        "question_text": "男,15岁,因转移性右下腹痛12小时入院,诊断为急性阑尾炎,当晚行阑尾切除术,病理诊断为坏疽性阑尾炎。自术后次晨起，患者表现为腹痛未见缓解,烦躁不安,未解小便。体查：面色较苍白,皮肤湿冷,心率110次/分,较弱,血压10.67/8kPa(80/60mmHg),腹稍胀,全腹压痛,轻度肌紧张,肠鸣音低弱。40.该患者目前情况，应考虑为何种可能？",
+        "options": [
+            "A.术后肠梗阻",
+            "B.术后疼痛所致",
+            "C.术后尿潴留",
+            "D.术后腹腔内出血",
+            "E.机械性肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 40
+    },
+    {
+        "question_text": "41.为明确诊断，最好选择采用何种措施？",
+        "options": [
+            "A.继续观察病情变化",
+            "B.腹部X线透视",
+            "C.腹部B超",
+            "D.诊断性腹腔穿刺",
+            "E.导尿并留置导尿管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 41
+    },
+    {
+        "question_text": "42.诊断明确后，应采用何种治疗方法？",
+        "options": [
+            "A.镇静、止痛治疗",
+            "B.留置导尿管",
+            "C.输液输血治疗",
+            "D.持续胃肠减压",
+            "E.剖腹探查手术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 42
+    },
+    {
+        "question_text": "43.肺功能正常",
+        "options": [
+            "A.氧分压8kPa(60mmHg)，氧饱和度90%，二氧化碳分压6.38kPa(48mmHg)",
+            "B.氧分压＞9.3kPa(70mmHg)，氧饱和度〉90%，二氧化碳分压V5.7mmHg(43mmHg)",
+            "C.氧分压6.6kPa(50mmHg)，氧饱和度V84%，二氧化碳分压＞7.18mmHg(54mmHg)",
+            "D.氧分压8kPa(60mmHg)，氧饱和度85%，二氧化碳分压6.6mmHg(50mmHg)",
+            "E.氧分压6.6kPa(50mmHg)，氧饱和度90%，二氧化碳分压〉7.18mmHg(43mmHg)"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 43
+    },
+    {
+        "question_text": "44.肺功能轻度不全",
+        "options": [
+            "A.氧分压8kPa(60mmHg)，氧饱和度90%，二氧化碳分压6.38kPa(48mmHg)",
+            "B.氧分压＞9.3kPa(70mmHg)，氧饱和度〉90%，二氧化碳分压V5.7mmHg(43mmHg)",
+            "C.氧分压6.6kPa(50mmHg)，氧饱和度V84%，二氧化碳分压＞7.18mmHg(54mmHg)",
+            "D.氧分压8kPa(60mmHg)，氧饱和度85%，二氧化碳分压6.6mmHg(50mmHg)",
+            "E.氧分压6.6kPa(50mmHg)，氧饱和度90%，二氧化碳分压〉7.18mmHg(43mmHg)"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 44
+    },
+    {
+        "question_text": "45.肺功能重度不全",
+        "options": [
+            "A.氧分压8kPa(60mmHg)，氧饱和度90%，二氧化碳分压6.38kPa(48mmHg)",
+            "B.氧分压＞9.3kPa(70mmHg)，氧饱和度〉90%，二氧化碳分压V5.7mmHg(43mmHg)",
+            "C.氧分压6.6kPa(50mmHg)，氧饱和度V84%，二氧化碳分压＞7.18mmHg(54mmHg)",
+            "D.氧分压8kPa(60mmHg)，氧饱和度85%，二氧化碳分压6.6mmHg(50mmHg)",
+            "E.氧分压6.6kPa(50mmHg)，氧饱和度90%，二氧化碳分压〉7.18mmHg(43mmHg)"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "45",
+        "number": 45
+    }
+]

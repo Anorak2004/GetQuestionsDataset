@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.下列哪项变化对缓解心衰病情有益",
+        "options": [
+            "A.交感神经活性增高",
+            "B.肾素-血管紧张素-醛固酮系统激活",
+            "C.精氨酸加压素分泌增加",
+            "D.心房排钠因子含量增多",
+            "E.β受体的密度下降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.米力农只作短期静脉给药,不能久用的主要原因",
+        "options": [
+            "A.血小板减少",
+            "B.耐药",
+            "C.心律失常病死率增加",
+            "D.肾功能减退",
+            "E.β受体下调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.逆转心肌肥厚,降低病死率的抗慢性心功能不全药",
+        "options": [
+            "A.地高辛",
+            "B.卡托普利",
+            "C.扎莫特罗",
+            "D.硝普钠",
+            "E.肼屈嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "5.对强心甙的错误叙述是",
+        "options": [
+            "A.能改善心肌舒张功能",
+            "B.能增强心肌收缩力",
+            "C.对房室结有直接抑制作用",
+            "D.有负性频率作用",
+            "E.能增敏压力感受器"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "6.强心甙类药中极性最低,口服吸收率最高,肾排泄最低,半衰期最长的是",
+        "options": [
+            "A.洋地黄毒甙",
+            "B.地高辛",
+            "C.西地兰",
+            "D.毒毛旋花子甙K",
+            "E.去乙酰基毛花丙甙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "7.增加细胞内cAMP含量的",
+        "options": [
+            "A.卡托普利",
+            "B.依那普利",
+            "C.氨力农",
+            "D.扎莫特罗",
+            "E.异波帕胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "8.下列哪种心电图表现是强心甙中毒的指征",
+        "options": [
+            "A.T波倒置或低平",
+            "B.Q-T间期缩短",
+            "C.P-P间期延长",
+            "D.S-T段下移",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "9.关于强心甙的作用,下列哪点是错误的",
+        "options": [
+            "A.治疗量因减慢Ca2+内流而减慢房室结的传导",
+            "B.治疗量因加速K外流而降低窦房结的自律性",
+            "C.因减少K向浦氏纤维内转运而增加其自律性",
+            "D.因加速K外流而延长心房肌的有效不应期",
+            "E.中毒剂量因促进CA2内流而引起迟后除极"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "10.关于强心甙对心脏电生理特性的影响,是错误的",
+        "options": [
+            "A.兴奋迷走神经而促K外流,缩短心房有效不应期",
+            "B.延长房室结有效不应期",
+            "C.缩短浦氏纤维的有效不应期",
+            "D.减慢心房传导速度",
+            "E.减慢房室结的传导速度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "11.强心甙中毒时,哪种情况不应给钾盐",
+        "options": [
+            "A.室性早搏",
+            "B.室性心动过速",
+            "C.阵发性室上性心动过速",
+            "D.房室传导阻滞",
+            "E.以上均可以"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "12.下列哪利强心甙口服后吸收最完全",
+        "options": [
+            "A.洋地黄毒甙",
+            "B.地高辛",
+            "C.黄夹甙",
+            "D.毛花甙C",
+            "E.毒毛花甙K"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "13.强心甙治疗心衰时,最好与哪一种利尿药联合应用",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.螺内酯(安体舒通)",
+            "C.速尿",
+            "D.苄氟噻嗪",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "14.强心甙治疗心房纤颤机制",
+        "options": [
+            "A.降低窦房结自律性",
+            "B.缩短心房有效不应期",
+            "C.减慢房室结传导",
+            "D.降低浦肯野纤维自律性",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "15.强心甙中毒与下列哪项离子变化有关",
+        "options": [
+            "A.心肌细胞内K浓度过高Na浓度过低",
+            "B.心肌细胞内K浓度过低,Na浓度过高",
+            "C.心肌细胞内Mg2+浓度过高,Ca2浓度过低",
+            "D.心肌细胞内Ca2浓度过高,K浓度过低",
+            "E.心肌细胞内K浓度过高,Ca2浓度过低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "16.强心甙起效快慢取决于",
+        "options": [
+            "A.口服吸收率",
+            "B.肝肠循环率",
+            "C.血浆蛋白结合率",
+            "D.代谢转化率",
+            "E.原形肾排泄率"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "17.奎尼丁升高地高辛血药浓度的原因是",
+        "options": [
+            "A.促进地高辛吸收",
+            "B.减慢地高辛代谢",
+            "C.增加地高辛肝肠循环",
+            "D.增加地高辛在肾小管重吸收",
+            "E.置换组织中的地高辛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "18.属于非强心甙类的正性肌力作用药的是",
+        "options": [
+            "A.肼屈嗪",
+            "B.胺碘酮",
+            "C.依那普利",
+            "D.氨力农",
+            "E.毒毛花甙K"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "19.用于治疗慢性心功能不全和高血压的药物是",
+        "options": [
+            "A.地高辛",
+            "B.氨力农",
+            "C.洋地黄毒甙",
+            "D.依诺昔酮",
+            "E.卡托普利"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "20.强心甙作用持续时间主要取决于",
+        "options": [
+            "A.口服吸收率",
+            "B.含羟基数目多少,极性高低",
+            "C.代谢转化率",
+            "D.血浆蛋白结合率",
+            "E.组织分布"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "21.强心甙中毒时出现室性早搏和房室传导阻滞时可用",
+        "options": [
+            "A.苯妥英钠",
+            "B.氯化钾",
+            "C.异丙肾上腺素",
+            "D.阿托品",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

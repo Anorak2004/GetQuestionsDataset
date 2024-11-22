@@ -1,0 +1,2802 @@
+[
+    {
+        "question_text": "1．下列有关酶的叙述，正确的是",
+        "options": [
+            "A．一种酶只能催化一种底物反应",
+            "B．酶在体内不能更新",
+            "C．酶的底物都是有机化合物",
+            "D．酶能改变反应的平衡点",
+            "E．酶由活细胞内合成的，具有催化作用的蛋白质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 1
+    },
+    {
+        "question_text": "2．酶与一般催化剂的区别是",
+        "options": [
+            "A．只能加速热力学上能进行的反应",
+            "B．高度专一性",
+            "C．缩短达到反应平衡的时间",
+            "D．不改变反应的平衡点",
+            "E．降低活化能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 2
+    },
+    {
+        "question_text": "3．酶与一般催化剂的共同特点是",
+        "options": [
+            "A．高度催化效率",
+            "B．高度专一性",
+            "C．催化活性可以调节",
+            "D．改变化学反应的平衡点",
+            "E．降低反应的活化能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 3
+    },
+    {
+        "question_text": "4．下列关于酶的叙述，正确的是",
+        "options": [
+            "A．酶催化的高效率是因为分子中含有辅酶或辅基",
+            "B．所有的酶都能使化学反应的平衡常数向加速反应的方向进行",
+            "C．酶的活性中心中都含有催化基团",
+            "D．所有的酶都含有两个以上的多肽链",
+            "E．所有的酶都是调节酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 4
+    },
+    {
+        "question_text": "5．下列叙述中与酶的概念相符的是",
+        "options": [
+            "A．所有的蛋白质都有酶的活性",
+            "B．所有的酶都能升高活化能",
+            "C．所有的酶都有活性中心",
+            "D．所有酶的生物学活性都稳定",
+            "E．所有的酶都含有辅助因子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 5
+    },
+    {
+        "question_text": "6．下列有关酶的特点的叙述，正确的是",
+        "options": [
+            "A．能使底物和产物的浓度比升高，平衡常数升高",
+            "B．酶的专一性和催化效率与一般催化剂相当",
+            "C．能提高化学反应所需活化能，加快反应",
+            "D．能加快反应达到平衡的速度",
+            "E．能使化学反应的平衡常数向加速反应的方向进行"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 6
+    },
+    {
+        "question_text": "7．下列关于酶和底物的结合的叙述，错误的是",
+        "options": [
+            "A．一般为非共价结合",
+            "B．若底物为蛋白质等大分子，结合范围涉及整个酶分子",
+            "C．若底物为小分子化合物，结合范围只是酶的活性中心",
+            "D．酶构象的破坏，则严重影响酶-底物复合物的形成",
+            "E．结合基团可能也具有催化功能，催化基团可能也有结合作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 7
+    },
+    {
+        "question_text": "8．下列关于关键酶的叙述，正确的是",
+        "options": [
+            "A．一个反应体系中的所有酶",
+            "B．只受别构调节而不受共价修饰",
+            "C．一个代谢途径只有一个关键酶",
+            "D．并不催化处于代谢途径起始或终末的反应",
+            "E．一般催化代谢途径中速度较慢、不可逆的反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 8
+    },
+    {
+        "question_text": "9．能使酶发生不可逆破坏的因素是",
+        "options": [
+            "A．强碱",
+            "B．低温",
+            "C．透析",
+            "D．盐析",
+            "E．竞争性抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 9
+    },
+    {
+        "question_text": "10．由于基因融合的结果，多种酶相互连接成单一多肽链的具有多个活性中心的蛋白质称为",
+        "options": [
+            "A．单体酶",
+            "B．寡聚酶",
+            "C．结合酶",
+            "D．多功能酶",
+            "E．单纯酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 10
+    },
+    {
+        "question_text": "11．多酶体系指的是",
+        "options": [
+            "A．某种细胞内所有的酶",
+            "B．某种生物体内所有的酶",
+            "C．细胞液中所有的酶",
+            "D．某一代谢途径的反应链只中所包括的一系列酶",
+            "E．几个酶构成的复合体，催化某一代谢反应或过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 11
+    },
+    {
+        "question_text": "12．有关核酶的正确解释是",
+        "options": [
+            "A．它是由 RNA 和蛋白质构成的",
+            "B．它是 RNA 分子，但具有酶的功能",
+            "C．是专门水解核酸的蛋白质",
+            "D．它是由 DNA 和蛋白质构成的",
+            "E．位于细胞核内的酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 12
+    },
+    {
+        "question_text": "13．具有生物催化剂特征的核酶(ribozyme)其化学本质是",
+        "options": [
+            "A．RNA",
+            "B．DNA",
+            "C．蛋白质",
+            "D．糖蛋白",
+            "E．磷脂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 13
+    },
+    {
+        "question_text": "14．下列关于酶特性的叙述，错误的是",
+        "options": [
+            "A．催化效率高",
+            "B．专一性强",
+            "C．作用条件温和",
+            "D．都有辅因子参与催化反应",
+            "E．酶活性具有可调节性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 14
+    },
+    {
+        "question_text": "15．酶的特异性是指",
+        "options": [
+            "A．酶与辅酶特异的结合",
+            "B．酶对其所催化的底物有特异的选择性",
+            "C．酶在细胞中的定位是特异性的",
+            "D．酶催化反应的机制各不相同",
+            "E．在酶的分类中各属不同的类别"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 15
+    },
+    {
+        "question_text": "16．乳酸脱氢酶只能催化 L-乳酸脱氢，属于",
+        "options": [
+            "A．绝对特异性",
+            "B．相对特异性",
+            "C．立体异构特异性",
+            "D．化学基团特异性",
+            "E．化学键特异性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 16
+    },
+    {
+        "question_text": "17．脲酶对尿素的水解作用属于",
+        "options": [
+            "A．绝对特异性",
+            "B．相对特异性",
+            "C．立体异构特异性",
+            "D．化学基团特异性",
+            "E．化学键特异性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 17
+    },
+    {
+        "question_text": "18．酶的绝对特异性是指",
+        "options": [
+            "A．一种酶仅作用于一种底物分子",
+            "B．一种酶仅作用于一类底物分子",
+            "C．一种酶仅作用于一类化学键",
+            "D．一种酶仅作用于一类化学基团",
+            "E．一种酶仅作用于 L-型底物分子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 18
+    },
+    {
+        "question_text": "19．酶具有高度催化能力的原因是",
+        "options": [
+            "A．酶能降低反应的活化能",
+            "B．酶能催化热力学上不能进行的反应",
+            "C．酶能改变化学反应的平衡点",
+            "D．酶能提高反应物分子的活化能",
+            "E．降低反应物的能量水平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 19
+    },
+    {
+        "question_text": "20．下列哪一项不是酶具有高催化效率的因素",
+        "options": [
+            "A．加热",
+            "B．酸碱催化",
+            "C．共价催化",
+            "D．邻近效应",
+            "E．定向效应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 20
+    },
+    {
+        "question_text": "21．活化能的概念是指",
+        "options": [
+            "A．底物和产物之间能量的差值",
+            "B．参与反应的分子所需的总能量",
+            "C．分子由一般状态转变成活化态所需能量",
+            "D．温度升高时产生的能量",
+            "E．产物分子的总能量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 21
+    },
+    {
+        "question_text": "22．目前公认的酶与底物结合的假说是",
+        "options": [
+            "A．活性中心假说",
+            "B．诱导契合假说",
+            "C．锁匙假说",
+            "D．中间产物假说",
+            "E．化学渗透假说"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 22
+    },
+    {
+        "question_text": "23．在形成酶-底物复合物时",
+        "options": [
+            "A．只有酶的构象发生变化",
+            "B．只有底物的构象发生变化",
+            "C．只有辅酶的构象发生变化",
+            "D．酶和底物的构象都发生变化",
+            "E．底物的构象首先发生变化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 23
+    },
+    {
+        "question_text": "24．下列哪项符合诱导契合假说",
+        "options": [
+            "A．酶与底物的关系有如锁和钥匙的关系",
+            "B．在底物的诱导下，酶的构象可发生一定改变，才能与底物进行反应",
+            "C．底物的结构朝着适应酶活性中心的方向改变",
+            "D．底物与酶的变构部位结合后，改变酶的构象，使之与底物相适应",
+            "E．底物分子与酶的活性中心的可逆结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 24
+    },
+    {
+        "question_text": "25．酶作为一种生物催化剂，具有下列哪种能量效应",
+        "options": [
+            "A．降低反应活化能",
+            "B．增加反应活化能",
+            "C．增加产物的能量水平",
+            "D．降低反应物的能量水平",
+            "E．降低反应的自由能变化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 25
+    },
+    {
+        "question_text": "26．酶蛋白变性后其活性丧失，这是因为",
+        "options": [
+            "A．酶蛋白被完全降解为氨基酸",
+            "B．酶蛋白的一级结构受破坏",
+            "C．酶蛋白的空间结构受到破坏",
+            "D．酶蛋白不再溶于水",
+            "E．失去了激活剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 26
+    },
+    {
+        "question_text": "27．酶的辅酶是",
+        "options": [
+            "A．与酶蛋白结合紧密的金属离子",
+            "B．分子结构中不含维生素的小分子有机化合物",
+            "C．在催化反应中不与酶的活性中心结合",
+            "D．在反应中为底物传递质子、电子或其他基团",
+            "E．与酶蛋白共价结合成多酶体系"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 27
+    },
+    {
+        "question_text": "28．下列关于酶蛋白与辅助因子的叙述，错误的是",
+        "options": [
+            "A．酶蛋白与辅助因子单独存在时无催化活性",
+            "B．一种酶只能与一种辅助因子结合形成全酶",
+            "C．一种辅助因子只能与一种酶结合成全酶",
+            "D．酶蛋白决定酶促反应的特异性",
+            "E．辅助因子可以作为底物直接参加反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 28
+    },
+    {
+        "question_text": "29．全酶是指",
+        "options": [
+            "A．酶的辅助因子以外的部分",
+            "B．酶的无活性前体",
+            "C．一种酶-抑制剂复合物",
+            "D．酶-底物复合物",
+            "E．具备了酶蛋白和辅助因子各种成分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 29
+    },
+    {
+        "question_text": "30．结合酶在下列哪种情况下才有活性",
+        "options": [
+            "A．酶蛋白形式存在",
+            "B．辅酶形式存在",
+            "C．辅基形式存在",
+            "D．全酶形式存在",
+            "E．酶原形式存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 30
+    },
+    {
+        "question_text": "31．辅酶与辅基的主要区别是",
+        "options": [
+            "A．化学本质不同",
+            "B．免疫学性质不同",
+            "C．与酶蛋白结合的紧密程度不同",
+            "D．理化性质不同",
+            "E．生物学活性不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 31
+    },
+    {
+        "question_text": "32．下列有关辅酶与辅基的叙述，错误的是",
+        "options": [
+            "A．辅酶与辅基都是酶的辅助因子",
+            "B．辅酶以非共价键与酶蛋白疏松结合",
+            "C．辅基常以共价键与酶蛋白牢固结合",
+            "D．不论辅酶或辅基都可以用透析或超滤的方法除去",
+            "E．辅酶和辅基的差别在于它们与酶蛋白结合的紧密程度与反应方式不同"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 32
+    },
+    {
+        "question_text": "33．经过透析后的唾液淀粉酶活性降低的原因是",
+        "options": [
+            "A．酶蛋白变性失活",
+            "B．失去辅酶",
+            "C．失去氯离子",
+            "D．失去铜离子",
+            "E．失去镁离子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 33
+    },
+    {
+        "question_text": "34．下列关于辅基的叙述，正确的是",
+        "options": [
+            "A．是一种结合蛋白质",
+            "B．只决定酶的专一性",
+            "C．与酶蛋白的结合比较疏松",
+            "D．一般不能用透析和超滤法与酶蛋白分开",
+            "E．不参与化学基因的传递"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 34
+    },
+    {
+        "question_text": "35．结合蛋白酶催化的反应中决定酶专一性的部分是",
+        "options": [
+            "A．酶蛋白",
+            "B．底物",
+            "C．辅酶",
+            "D．催化基团",
+            "E．辅基"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 35
+    },
+    {
+        "question_text": "36．辅酶或辅基的功能不包括",
+        "options": [
+            "A．转移基团",
+            "B．传递氢",
+            "C．传递电子",
+            "D．组成酶的活性中心",
+            "E．决定酶的专一性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 36
+    },
+    {
+        "question_text": "37．含有维生素 Bl 的辅酶是",
+        "options": [
+            "A．NAD+",
+            "B．FAD",
+            "C．TPP",
+            "D．CoA",
+            "E．FMN"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 37
+    },
+    {
+        "question_text": "38．含有维生素 B2 的辅酶（或辅基）是",
+        "options": [
+            "A．NAD+",
+            "B．FH4",
+            "C．COA",
+            "D．FAD",
+            "E．TPP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 38
+    },
+    {
+        "question_text": "39．含有维生素 PP 的辅酶是",
+        "options": [
+            "A．NAD+",
+            "B．FH4",
+            "C．COA",
+            "D．FAD",
+            "E．TPP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 39
+    },
+    {
+        "question_text": "40．含有维生素 B12 的辅酶是",
+        "options": [
+            "A．磷酸吡哆醛",
+            "B．磷酸吡哆氨",
+            "C．辅酶 A",
+            "D．辅酶 Q",
+            "E．5′-甲钴胺素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 40
+    },
+    {
+        "question_text": "41．含有金属离子的 B 族维生素是",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B2",
+            "C．维生素 B6",
+            "D．维生素 B12",
+            "E．维生素 PP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 41
+    },
+    {
+        "question_text": "42．含有泛酸的辅酶是",
+        "options": [
+            "A．NAD+",
+            "B．FH4",
+            "C．CoA",
+            "D．FAD",
+            "E．TPP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 42
+    },
+    {
+        "question_text": "43．维生素 B6 在体内活性形式",
+        "options": [
+            "A．吡哆醇",
+            "B．吡哆醛",
+            "C．吡哆胺",
+            "D．硫酸吡哆醛",
+            "E．磷酸吡哆醛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 43
+    },
+    {
+        "question_text": "44．FMN 和 FAD 中含有的维生素是",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B2",
+            "C．维生素 B6",
+            "D．维生素 B12",
+            "E．维生素 PP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 44
+    },
+    {
+        "question_text": "45．CoA 中含有的维生素是",
+        "options": [
+            "A．叶酸",
+            "B．尼克酰胺",
+            "C．硫胺素",
+            "D．吡哆胺",
+            "E．泛酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 45
+    },
+    {
+        "question_text": "46．水溶性维生素常是辅酶或辅基的组成部分，例如",
+        "options": [
+            "A．辅酶 A 含硫胺素",
+            "B．FAD 含有吡哆醛",
+            "C．NAD+含有尼克酰胺",
+            "D．脱羧辅酶含生物素",
+            "E．四氢叶酸含有泛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 46
+    },
+    {
+        "question_text": "47．FAD 在酶促反应中转移",
+        "options": [
+            "A．氧原子",
+            "B．氢原子",
+            "C．羧基",
+            "D．氨基",
+            "E．一碳单位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 47
+    },
+    {
+        "question_text": "48．NAD+在酶促反应中转移",
+        "options": [
+            "A．氨基",
+            "B．脂酰基",
+            "C．氧原子",
+            "D．羧基",
+            "E．氢质子和电子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 48
+    },
+    {
+        "question_text": "49．NAD+或 NADP+中含有的维生素是",
+        "options": [
+            "A．叶酸",
+            "B．尼克酰胺",
+            "C．硫胺素",
+            "D．吡哆胺",
+            "E．泛酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 49
+    },
+    {
+        "question_text": "50．辅酶磷酸吡哆醛的主要功能是",
+        "options": [
+            "A．传递氢",
+            "B．传递二碳基团",
+            "C．传递一碳单位",
+            "D．传递氨基",
+            "E．传递电子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 50
+    },
+    {
+        "question_text": "51．转氨酶的作用需要下列哪种维生素",
+        "options": [
+            "A．叶酸",
+            "B．尼克酰胺",
+            "C．硫胺素",
+            "D．磷酸吡哆醛",
+            "E．泛酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 51
+    },
+    {
+        "question_text": "52．生物素是下列哪一个酶的辅酶",
+        "options": [
+            "A．丙酮酸脱氢酶",
+            "B．丙酮酸激酶",
+            "C．谷丙转氨酶",
+            "D．丙酮酸羧化酶",
+            "E．乳酸脱氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 52
+    },
+    {
+        "question_text": "53．生物素作为辅酶，其主要功能是",
+        "options": [
+            "A．传递氢",
+            "B．传递电子",
+            "C．传递酰基",
+            "D．传递氨基",
+            "E．传递羧基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 53
+    },
+    {
+        "question_text": "54．四氢叶酸的主要功能是",
+        "options": [
+            "A．传递氢",
+            "B．传递二碳基团",
+            "C．传递一碳单位",
+            "D．传递氨基",
+            "E．传递电子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 54
+    },
+    {
+        "question_text": "55．CoA 的主要功能是",
+        "options": [
+            "A．传递氢",
+            "B．传递电子",
+            "C．传递酰基",
+            "D．传递氨基",
+            "E．传递羧基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 55
+    },
+    {
+        "question_text": "56．维生素 A 缺乏时可能发生",
+        "options": [
+            "A．夜盲症",
+            "B．色盲症",
+            "C．白内障",
+            "D．软骨病",
+            "E．白化病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 56
+    },
+    {
+        "question_text": "57．维生素 A 存在于自然界黄、红色植物中，最主要的",
+        "options": [
+            "是A．α胡萝卜素",
+            "B．β胡萝卜素",
+            "C．γ胡萝卜素",
+            "D．视黄醇",
+            "E．视黄酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 57
+    },
+    {
+        "question_text": "58．维生素 D 的活性形式是",
+        "options": [
+            "A．25-(OH)D3",
+            "B．1,25-(OH)2D3",
+            "C．1,24,25-(OH)3D3",
+            "D．24,25-(OH)2D3",
+            "E．1,24-(OH)2D3"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 58
+    },
+    {
+        "question_text": "59．维生素 D 缺乏时",
+        "options": [
+            "A．佝偻病",
+            "B．呆小症",
+            "C．痛风症",
+            "D．夜盲症",
+            "E．肾结石"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 59
+    },
+    {
+        "question_text": "60．维生素 D 的主要生化作用是",
+        "options": [
+            "A．促进 Ca2+、P 的吸收",
+            "B．促进 Ca2+、P 的排泄",
+            "C．促进 K+、Na+的吸收",
+            "D．促进胃对 Ca2+、P 的吸收",
+            "E．降低血钙、血磷的浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 60
+    },
+    {
+        "question_text": "61．维生素 K 缺乏时发生",
+        "options": [
+            "A．凝血因子合成障碍症",
+            "B．血友病",
+            "C．贫血",
+            "D．溶血",
+            "E．红细胞增多症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 61
+    },
+    {
+        "question_text": "62．维生素 C 对含巯基酶的保护作用是使",
+        "options": [
+            "A．使酶分子中-SH 维持在还原状态",
+            "B．使酶分子不被蛋白酶水解",
+            "C．使酶分子中-SH 维持在氧化状态",
+            "D．维生素 C 能与酶形成复合物，保护两者的活性",
+            "E．维生素 C 直接与-SH 结合，起保护作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 62
+    },
+    {
+        "question_text": "63．维生素 C 缺乏时可患",
+        "options": [
+            "A．坏血病",
+            "B．败血症",
+            "C．白血病",
+            "D．痛风",
+            "E．贫血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 63
+    },
+    {
+        "question_text": "64．下列辅酶中的哪一个不是来自于维生素",
+        "options": [
+            "A．CoASH",
+            "B．CoQ",
+            "C．FMN",
+            "D．FH4",
+            "E．NAD+"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 64
+    },
+    {
+        "question_text": "65．有关金属离子作为辅助因子的作用，叙述错误的是",
+        "options": [
+            "A．作为酶活性中心的催化基团参加反应",
+            "B．传递电子",
+            "C．连接酶与底物的桥梁",
+            "D．降低反应中的静电斥力",
+            "E．与稳定酶的分子构象无关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 65
+    },
+    {
+        "question_text": "66．下列有关酶的活性中心的叙述，正确的是（错题）",
+        "options": [
+            "A．酶的活性中心包括能与底物特异性结合的必需基团",
+            "B．酶的活性中心是由一级结构上相互邻近的基团组成的",
+            "C．酶的活性中心在与底物结合时不应发生构象改变",
+            "D．酶的活性中心只有催化基团",
+            "E．酶的活性中心外的必需基团也参与对底物的催化作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 66
+    },
+    {
+        "question_text": "67．酶分子中使底物转变为产物的基团是",
+        "options": [
+            "A．结合基团",
+            "B．酸性基团",
+            "C．碱性基团",
+            "D．催化基团",
+            "E．疏水基团"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 67
+    },
+    {
+        "question_text": "68．酶的活性中心内能与底物结合的基团为",
+        "options": [
+            "A．结合基团",
+            "B．酸性基团",
+            "C．碱性基团",
+            "D．催化基团",
+            "E．疏水基团"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 68
+    },
+    {
+        "question_text": "69．下列关于酶活性中心的叙述，正确的是",
+        "options": [
+            "A．酶的必需基团全部位于活性中心",
+            "B．有活性的酶都具有活性中心",
+            "C．所有的活性中心都具有辅助因子",
+            "D．构成酶活性中心的各种氨基酸残基集中在一个肽段",
+            "E．辅酶或辅基不是活性中心的组成成分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 69
+    },
+    {
+        "question_text": "70．下列关于酶的活性中心的叙述，正确的是",
+        "options": [
+            "A．必需基团仅仅位于活性中心内",
+            "B．活性中心往往指的是酶蛋白分子表面的一个区域很小的平面",
+            "C．活性中心是与底物结合的区域",
+            "D．活性中心的必需基团都是非极性疏水性氨基酸的侧链基团",
+            "E．活性中心的各种氨基酸残基集中在一个肽段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 70
+    },
+    {
+        "question_text": "71．下列关于酶的必需基团的叙述，错误的是",
+        "options": [
+            "A．必需基团构象改变，酶活性随之改变（选项不合适）",
+            "B．酶原不含必需基团，因而无活性",
+            "C．必需基团可位于不同的肽段",
+            "D．必需基团可以有催化功能",
+            "E．必需基团可以有结合底物的功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 71
+    },
+    {
+        "question_text": "72．酶促反应动力学研究的是",
+        "options": [
+            "A．酶分子的空间构象",
+            "B．酶的电泳行为",
+            "C．酶的活性中心",
+            "D．酶的基因来源",
+            "E．影响酶促反应速度的因素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 72
+    },
+    {
+        "question_text": "73．酶的比活力是指",
+        "options": [
+            "A．以某种酶的活力作为 1 来表示其他酶的相对活力",
+            "B．每毫克蛋白的酶活力单位数",
+            "C．任何纯酶的活力与其粗酶的活力比",
+            "D．酶每毫升酶反应混合液的活力单位",
+            "E．一种酶与另一种酶的活力比"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 73
+    },
+    {
+        "question_text": "74．影响酶促反应的因素不包括",
+        "options": [
+            "A．底物浓度",
+            "B．酶的浓度",
+            "C．反应环境的 pH",
+            "D．反应温度",
+            "E．酶原的浓度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 74
+    },
+    {
+        "question_text": "75．下列哪一因素不影响酶促反应的初速度",
+        "options": [
+            "A．底物浓度",
+            "B．酶的浓度",
+            "C．反应环境的 pH",
+            "D．反应温度",
+            "E．反应时间"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列关于酶与底物关系的叙述，正确的是",
+        "options": [
+            "A．如果酶的浓度不变，则底物浓度改变不影响反应速度",
+            "B．当底物浓度很高使酶被饱和时，改变酶的浓度将不再改变反应速度",
+            "C．初速度指酶被底细饱和时的反应速度",
+            "D．在反应过程中，随着产物生成的增加，反应的平衡常数将左移",
+            "E．当底物浓度增高将酶饱和时，反应速度不再随底物浓度的增加而改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 76
+    },
+    {
+        "question_text": "77．下列单位中哪个不是 Km 的单位",
+        "options": [
+            "A．mol/L",
+            "B．mol/min",
+            "C．nmol/L",
+            "D．mmol/L",
+            "E．mol/mL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 77
+    },
+    {
+        "question_text": "78．一个简单的米氏酶促反应中，当[S]远小于Km时，下列哪种情况会发生（）",
+        "options": [
+            "A．反应速度最大",
+            "B．反应速度难以测定",
+            "C．底物浓度与反应速度成正比",
+            "D．增加酶浓度，反应速度显著变大",
+            "E．[S]增加，Km 值也随之变大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 78
+    },
+    {
+        "question_text": "79．酶的 Km 大小与",
+        "options": [
+            "A．酶性质有关",
+            "B．酶浓度有关",
+            "C．酶作用时间有关",
+            "D．酶作用温度有关",
+            "E．酶作用 pH 值有关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 79
+    },
+    {
+        "question_text": "80．下列关于底物浓度对反应速度影响作图的叙述，正确的是",
+        "options": [
+            "A．是一条直线",
+            "B．当底物浓度高时，酶被底物饱和",
+            "C．说明 ES 复合物形成的速度比分解的速度小",
+            "D．是 1/v 对 1/[S]作图",
+            "E．是 1/v 对[S]作图"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 80
+    },
+    {
+        "question_text": "81．下列关于 Km 值的叙述，错误的是",
+        "options": [
+            "A．Km 是酶的特性常数",
+            "B．Km 值与酶的结构有关",
+            "C．Km 值与酶所催化的底物有关",
+            "D．Km 值等于反应速度为最大速度一半时的酶的浓度",
+            "E．Km 值等于反应速度为最大速度一半时的底物浓度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 81
+    },
+    {
+        "question_text": "82．酶反应速度对底物浓度作图，当底物浓度达一定程度时，得到的是零级反应，原因是",
+        "options": [
+            "A．形变底物与酶产生不可逆结合",
+            "B．酶与未形变底物形成复合物",
+            "C．酶的活性部位为底物所饱和",
+            "D．过多底物与酶发生不利于催化反应的结合",
+            "E．酶与底物结合产生酶-底物复合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 82
+    },
+    {
+        "question_text": "83．米氏常数 Km 是一个用来度量",
+        "options": [
+            "A．酶-底物复合物解离为酶和产物的速度常数",
+            "B．酶促反应速度大小的常数",
+            "C．酶被底物饱和程度的常数",
+            "D．酶的稳定性的常数",
+            "E．酶和底物亲和力大小的常数"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 83
+    },
+    {
+        "question_text": "84．在米-曼氏方程中，Km 是指",
+        "options": [
+            "A．当反应速度为最大反应速度一半时的酶浓度",
+            "B．当反应速度为最大反应速度一半时的底物浓度",
+            "C．当反应速度为最大反应速度一半时的抑制剂浓度",
+            "D．当反应速度为最大反应速度一半时的温度",
+            "E．当反应速度为最大反应速度一半时的产物浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 84
+    },
+    {
+        "question_text": "85．下列关于双倒数作图法的叙述，错误的是",
+        "options": [
+            "A．又称为林-贝作图法",
+            "B．斜率为 Km/Vmax",
+            "C．以 1/[S]1/v 对 1/v1/[S]作图，得一直线",
+            "D．纵轴上得的截距为 1/Vmax",
+            "E．横轴上得的截距为 1/Km（改一下）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 85
+    },
+    {
+        "question_text": "86．酶促反应速度达 Vmax 后再增加底物浓度，反应速度不再增加的原因是",
+        "options": [
+            "A．部分酶活性中心被产物占据",
+            "B．过量底物抑制酶的催化活性",
+            "C．过量底物影响酶与底物的结合",
+            "D．产物生成过多改变反应的平衡常数",
+            "E．酶的活性中心已被底物饱和"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 86
+    },
+    {
+        "question_text": "87．Km 与酶和底物亲和力大小的关系是",
+        "options": [
+            "A．Km 越小，亲和力越大",
+            "B．Km 越大，亲和力越大",
+            "C．Km 大小与亲和力无关",
+            "D．Km 越小，亲和力越小",
+            "E．1/Km 越小，亲和力越大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 87
+    },
+    {
+        "question_text": "88．根据米氏方程，下列有关[S]与 Km 之间关系的说法错误的是",
+        "options": [
+            "A．当[S]< < Km时,V与[s]成正比",
+            "B．当[S]＝Km 时，V＝1/2Vmax",
+            "C．当[S]>>Km 时，反应速度与底物浓度无关",
+            "D．当[S]=2/3Km 时，V=25％Vmax",
+            "E．当[S]＝1/2Km 时，V＝1/3Vmax"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 88
+    },
+    {
+        "question_text": "89．已知某酶的 Km 值为 0.05mol/L，要使此酶所催化的反应速度达到最大反应速度的 80％时，底物的浓度应为多少",
+        "options": [
+            "A．0.4mol/L",
+            "B．0.2mol/L",
+            "C．0.1mol/L",
+            "D．0.05mol/L",
+            "E．0.01mol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 89
+    },
+    {
+        "question_text": "90．某酶今含有 5 种底物(S)，其 Km 值如下，该酶的最适底物为",
+        "options": [
+            "A．S1：Km＝10×10-5mol/L",
+            "B．S2：Km＝8×10-5mol/L",
+            "C．S3：Km＝6×10-5mol/L",
+            "D．S4：Km＝4×10-5mol/L",
+            "E．S5：Km＝2×10-5mol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 90
+    },
+    {
+        "question_text": "91．酶促反应速度为其最大反应速度的 80％时，Km 等 于",
+        "options": [
+            "A．[S]",
+            "B．1/2[S]",
+            "C．1/4[S]",
+            "D．1/6[S]",
+            "E．1/8[S]"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 91
+    },
+    {
+        "question_text": "92．某一符合米曼氏方程的酶，当[S]=Km 时，其反应速度 v 等于",
+        "options": [
+            "A．1/2Vmax",
+            "B．2/3Vmax",
+            "C．3/2Vmax",
+            "D．2Vmax",
+            "E．1/3Vmax"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 92
+    },
+    {
+        "question_text": "93．当 Km 值近似于 ES 的解离常数 Ks 时，下列说法正确的是",
+        "options": [
+            "A．Km 值愈大，酶与底物的亲和力愈小",
+            "B．Km 值愈大，酶与底物的亲和力愈大",
+            "C．Km 值愈小，酶与底物的亲和力愈小",
+            "D．在任何情况下，Km 与 Ks 的涵义是相同的",
+            "E．既使 Km≌Ks，也不可以用 Km 表示酶对底物的亲合力大小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 93
+    },
+    {
+        "question_text": "94．竞争性抑制剂对酶促反应速度的影响是",
+        "options": [
+            "A．Km↑，Vmax 不变",
+            "B．Km↓，Vmax↓",
+            "C．Km 不变，Vmax↓",
+            "D．Km↓，Vmax↑",
+            "E．Km↓，Vmax 不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 94
+    },
+    {
+        "question_text": "95．丙二酸对琥珀酸脱氢酶的抑制效应是",
+        "options": [
+            "A．Km↓，Vmax↓",
+            "B．Km 不变，Vmax↓",
+            "C．Km↓，Vmax 不变",
+            "D．Km↑，Vmax 不变",
+            "E．Km↑，Vmax↓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 95
+    },
+    {
+        "question_text": "96．磺胺类药物对二氢叶酸合成酶的抑制效应是",
+        "options": [
+            "A．Km↓，Vmax↓",
+            "B．Km 不变，Vmax↓",
+            "C．Km↓，Vmax 不变",
+            "D．Km↑，Vmax 不变",
+            "E．Km↑，Vmax↓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 96
+    },
+    {
+        "question_text": "97．下列关于竞争性抑制剂的叙述，错误的是",
+        "options": [
+            "A．结构与底物相似",
+            "B．与酶的活性中心相结合",
+            "C．与酶的结合是可逆的",
+            "D．抑制程度只与抑制剂的浓度有关",
+            "E．与酶非共价结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 97
+    },
+    {
+        "question_text": "98．下列哪种情况可用增加[S]的方法减轻抑制程度",
+        "options": [
+            "A．不可逆性抑制作用",
+            "B．竞争性抑制作用",
+            "C．非竞争性抑制作用",
+            "D．反竞争性抑制作用",
+            "E．无法确定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 98
+    },
+    {
+        "question_text": "99．下列抑制作用中属于竞争性抑制作用的是",
+        "options": [
+            "A．砷化合物对巯基酶的抑制作用",
+            "B．敌敌畏对胆碱酯酶的抑制作用",
+            "C．磺胺类药物对细菌二氢叶酸合成酶的抑制作用",
+            "D．氰化物对细胞色素氧化酶的抑制作用",
+            "E．重金属盐对某些酶的抑制作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 99
+    },
+    {
+        "question_text": "100．酶的不可逆性抑制的机制是由于抑制剂",
+        "options": [
+            "A．使酶蛋白变性",
+            "B．与酶的催化中心以共价键结合",
+            "C．与酶的必需基团结合",
+            "D．与活性中心的次级键结合",
+            "E．与酶的非必需基团结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 100
+    },
+    {
+        "question_text": "101．竞争性抑制作用是指",
+        "options": [
+            "A．抑制剂与底物结合",
+            "B．抑制剂与酶活性中心结合",
+            "C．抑制剂与酶活性中心外的部位结合",
+            "D．抑制剂使酶变性，降低酶的活性",
+            "E．抑制剂与酶-底物结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 101
+    },
+    {
+        "question_text": "102．非竞争性抑制作用是指",
+        "options": [
+            "A．抑制剂与底物结合",
+            "B．抑制剂与酶活性中心结合",
+            "C．抑制剂与酶活性中心外的部位结合",
+            "D．抑制剂使酶变性，降低酶的活性",
+            "E．抑制剂与酶-底物结合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 102
+    },
+    {
+        "question_text": "103．反竞争性抑制作用是指",
+        "options": [
+            "A．抑制剂与底物结合",
+            "B．抑制剂与酶活性中心结合",
+            "C．抑制剂与酶活性中心外的部位结合",
+            "D．抑制剂使酶变性，降低酶的活性",
+            "E．抑制剂与酶-底物复合物结合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 103
+    },
+    {
+        "question_text": "104．丙二酸对琥珀酸脱氢酶的抑制作用，按抑制类型应属于",
+        "options": [
+            "A．反馈抑制",
+            "B．非竞争性抑制",
+            "C．竞争性抑制",
+            "D．底物抑制",
+            "E．不可逆抑制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 104
+    },
+    {
+        "question_text": "105．有机磷农药中毒时受抑制的酶是",
+        "options": [
+            "A．己糖激酶",
+            "B．碳酸酐酶",
+            "C．胆碱酯酶",
+            "D．乳酸脱氢酶",
+            "E．含巯基的酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 105
+    },
+    {
+        "question_text": "106．下列常见的抑制剂中属于可逆抑制剂的是",
+        "options": [
+            "A．有机磷化合物",
+            "B．有机砷化合物",
+            "C．磺胺类药物",
+            "D．有机汞化合物",
+            "E．氰化物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 106
+    },
+    {
+        "question_text": "107．下列常见的抑制剂中属于不可逆抑制剂的是",
+        "options": [
+            "A．有机磷化合物",
+            "B．琥珀酸",
+            "C．磺胺类药物",
+            "D．5-氟尿嘧啶",
+            "E．6-巯基嘌呤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 107
+    },
+    {
+        "question_text": "108．有机磷杀虫剂对胆碱酯酶的抑制作用属于",
+        "options": [
+            "A．可逆性抑制作用",
+            "B．竞争性抑制作用",
+            "C．非竞争性抑制作用",
+            "D．反竞争性抑制作用",
+            "E．不可逆性抑制作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 108
+    },
+    {
+        "question_text": "109．有机砷化合物作为酶的抑制剂是作用于酶活性中心的",
+        "options": [
+            "A．巯基",
+            "B．羟基",
+            "C．羧基",
+            "D．咪唑基",
+            "E．氨基"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 109
+    },
+    {
+        "question_text": "110．有机砷化合物对酶的抑制作用，可用下列哪种方法解毒",
+        "options": [
+            "A．加入过量的半胱氨酸",
+            "B．加入过量的 GSH",
+            "C．加入过量的甲硫氨酸",
+            "D．加入过量的二巯基丙醇",
+            "E．加入过量的胱氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 110
+    },
+    {
+        "question_text": "111．化学毒气（路易士气）与酶活性中心结合的基团是",
+        "options": [
+            "A．丝氨酸的羟基",
+            "B．组氨酸的咪唑基",
+            "C．赖氨酸的ε-氨基",
+            "D．半胱氨酸的巯基",
+            "E．谷氨酸的氨基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 111
+    },
+    {
+        "question_text": "112．有机磷化合物与胆碱酯酶活性中心结合的基团是",
+        "options": [
+            "A．丝氨酸的羟基",
+            "B．组氨酸的咪唑基",
+            "C．赖氨酸的ε-氨基",
+            "D．半胱氨酸的巯基",
+            "E．谷氨酸的氨基"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 112
+    },
+    {
+        "question_text": "113．下列关于有机磷化合物对酶的抑制的叙述，正确的是",
+        "options": [
+            "A．因能用解磷定解毒，故属于可逆性抑制",
+            "B．能强烈抑制胆碱酯酶活性",
+            "C．该抑制能被过量的 GSH 解除",
+            "D．有机磷化合物与酶活性中心的巯基结合",
+            "E．该抑制能被适量的二巯基丙醇解除"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 113
+    },
+    {
+        "question_text": "114．酶的不可逆性抑制的机制是",
+        "options": [
+            "A．抑制剂使酶蛋白变性",
+            "B．抑制剂与酶的催化中心以共价键结合",
+            "C．抑制剂与酶的必需基团结合",
+            "D．抑制剂与活性中心的次级键结合",
+            "E．不可逆性抑制剂和酶活性中心的必需基团共价结合，使酶失活。"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 114
+    },
+    {
+        "question_text": "115．磺胺类药物抑菌作用的机制是抑制",
+        "options": [
+            "A．二氢蝶酸还原酶",
+            "B．二氢蝶酸合成酶",
+            "C．四氢叶酸合成酶",
+            "D．四氢叶酸还原酶",
+            "E．叶酸合成酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 115
+    },
+    {
+        "question_text": "116．下列不属于竞争性抑制剂的化合物是",
+        "options": [
+            "A．甲氨蝶呤",
+            "B．5-氟尿嘧啶",
+            "C．6-巯基嘌呤",
+            "D．磺胺类药物",
+            "E．嘌呤霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 116
+    },
+    {
+        "question_text": "117．磺胺类药物的结构类似物是（选项不合适）",
+        "options": [
+            "A．四氢叶酸",
+            "B．二氢叶酸",
+            "C．对氨基苯甲酸",
+            "D．叶酸",
+            "E．嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 117
+    },
+    {
+        "question_text": "118．磺胺类抗生素的作用原理属于酶的",
+        "options": [
+            "A．反馈抑制",
+            "B．可逆竞争性抑制",
+            "C．可逆非竞争性抑制",
+            "D．不可逆抑制",
+            "E．底物抑制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 118
+    },
+    {
+        "question_text": "119．巯基酶中毒的解毒剂为",
+        "options": [
+            "A．丙二酸",
+            "B．敌百虫",
+            "C．路易土气",
+            "D．二巯基丙醇",
+            "E．琥珀酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 119
+    },
+    {
+        "question_text": "120．下列哪种化合物可以解除有机磷化合物对羟基酶的抑制作用",
+        "options": [
+            "A．丙二酸",
+            "B．敌百虫",
+            "C．解磷定",
+            "D．二巯基丙醇",
+            "E．琥珀酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 120
+    },
+    {
+        "question_text": "121．重金属 Hg、Ag 是一类",
+        "options": [
+            "A．竞争性抑制剂",
+            "B．不可逆抑制剂",
+            "C．非竞争性抑制剂",
+            "D．反竞争性抑制剂",
+            "E．可逆抑制剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 121
+    },
+    {
+        "question_text": "122．有关非竞争性抑制的叙述，正确的是",
+        "options": [
+            "A．不改变酶促反应的最大程度反应速度",
+            "B．改变表观 Km 值",
+            "C．酶与底物、抑制剂可同时结合，但不影响其释放出产物",
+            "D．抑制剂与酶结合后，不影响酶与底物的结合",
+            "E．抑制剂与酶的活性中心结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 122
+    },
+    {
+        "question_text": "123．非竞争性抑制剂对酶促反应速度的影响是",
+        "options": [
+            "A．Km↑，Vmax 不变",
+            "B．Km↓，Vmax↓",
+            "C．Km 不变，Vmax↓",
+            "D．Km↓，Vmax↑",
+            "E．Km↓，Vmax 不变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 123
+    },
+    {
+        "question_text": "124．下列关于反竞争性抑制作用的叙述，正确的是",
+        "options": [
+            "A．抑制剂既与酶相结合，又与酶-底物复合物相结合",
+            "B．抑制剂只与酶-底物复合物相结合",
+            "C．抑制剂使酶促反应的 Km 值降低，Vmax 升高",
+            "D．抑制剂使酶促反应的 Km 值升高，Vmax 降低",
+            "E．抑制剂不使酶促反应的 Km 值改变，只降低 Vmax"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 124
+    },
+    {
+        "question_text": "125．反竞争性抑制剂对酶促反应速度的影响是",
+        "options": [
+            "A．Km↑，Vmax 不变",
+            "B．Km↓，Vmax↓",
+            "C．Km 不变，Vmax↓",
+            "D．Km↓，Vmax↑",
+            "E．Km↓，Vmax 不变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 125
+    },
+    {
+        "question_text": "126．用乳酸脱氢酶作指示酶，用酶偶联测定法进行待测酶的测定时，其原理是",
+        "options": [
+            "A．NAD+在 340nm 波长处有吸收峰",
+            "B．NADH 在 340nm 波长处有吸收峰",
+            "C．NAD+在 280nm 波长处有吸收峰",
+            "D．NADH 在 280nm 波长处有吸收峰",
+            "E．只是由于乳酸脱氢酶分布广，容易得到"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 126
+    },
+    {
+        "question_text": "127.酶的磷酸化/脱磷酸化位点通常在酶的哪一组氨基酸残基上",
+        "options": [
+            "A．天冬氨酸、谷氨酸、酪氨酸",
+            "B．脯氨酸、组氨酸、丝氨酸",
+            "C．赖氨酸、精氨酸、苏氨酸",
+            "D．丝氨酸、苏氨酸、酪氨酸",
+            "E．甘氨酸、丙氨酸、色氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 127
+    },
+    {
+        "question_text": "128.下列哪种酶以酶原的形式分泌",
+        "options": [
+            "A．胃蛋白酶",
+            "B．糖原合酶",
+            "C．己糖激酶",
+            "D．胰淀粉酶",
+            "E．乳酸脱氢酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 128
+    },
+    {
+        "question_text": "129．温度对酶促反应速度的影响是",
+        "options": [
+            "A．温度升高反应速度加快，与一般催化剂完全相同",
+            "B．低温可使大多数酶发生变性",
+            "C．最适温度是酶的特性常数，与反应进行时间无关",
+            "D．最适温度不是酶的特性常数，与反应进行时间有关,延长反应时间，其最适温度降低",
+            "E．最适温度对于所有的酶均相同"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 129
+    },
+    {
+        "question_text": "130．温度与酶促反应速度的关系曲线是",
+        "options": [
+            "A．直线",
+            "B．抛物线（不规则应该也可以）",
+            "C．S 形曲线",
+            "D．钟罩形曲线",
+            "E．矩形双曲线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 130
+    },
+    {
+        "question_text": "131．下列有关酶与温度的关系的叙述，错误是",
+        "options": [
+            "A．最适温度不是酶的特性常数",
+            "B．酶是蛋白质，既使即使反应的时间很短也不能提高反应温度",
+            "C．酶制剂应在低温下保存",
+            "D．酶的最适温度与反应时间有关",
+            "E．从生物组织中提取酶时应在低温下操作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 131
+    },
+    {
+        "question_text": "132．加热后酶活性降低或消失的主要原因是",
+        "options": [
+            "A．酶蛋白变性",
+            "B．酶水解",
+            "C．亚基解聚",
+            "D．辅酶脱落",
+            "E．辅基脱落"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 132
+    },
+    {
+        "question_text": "133．下列关于酶的最适温度的叙述，错误的是",
+        "options": [
+            "A．与底物的种类和浓度有关",
+            "B．与介质的种类和 pH 有关",
+            "C．与环境的离子强度无关",
+            "D．与酶的种类和浓度有关",
+            "E．以酶活力对温度作图图形呈倒 U 形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 133
+    },
+    {
+        "question_text": "134．动物体内多数酶的最适温度是",
+        "options": [
+            "A．0℃",
+            "B．25℃",
+            "C．37℃",
+            "D．45℃",
+            "E．65℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 134
+    },
+    {
+        "question_text": "135．反应速度与酶浓度成正比的条件是",
+        "options": [
+            "A．底物被酶饱和",
+            "B．反应速度达最大",
+            "C．酶浓度远大于底物浓度",
+            "D．底物浓度远大于酶浓度",
+            "E．反应刚开始"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 135
+    },
+    {
+        "question_text": "136．酶促反应体系中增加酶的浓度时，可出现下列哪一种效应",
+        "options": [
+            "A．不增加反应速度",
+            "B．1/[S]对 1/V 作图所得直线的斜率下降",
+            "C．Vmax 保持不变随之增加保持不变",
+            "D．Km 值变大",
+            "E．Km 值变小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 136
+    },
+    {
+        "question_text": "137．下列关于酶的抑制剂的叙述，正确的是",
+        "options": [
+            "A．使酶变性而降低酶活性",
+            "B．与酶共价不可逆结合",
+            "C．都与酶的活性中心结合",
+            "D．除去抑制剂后，酶活性可恢复",
+            "E．凡能降低酶活性的物质均为酶的抑制剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 137
+    },
+    {
+        "question_text": "138．体内肝精氨酸酶的最适 pH 是",
+        "options": [
+            "A．1.5",
+            "B．3.5",
+            "C．5.5",
+            "D．7.4",
+            "E．9.8"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 138
+    },
+    {
+        "question_text": "139．体内胃蛋白酶的最适 pH 约为",
+        "options": [
+            "A．1.58",
+            "B．3.5",
+            "C．5.5",
+            "D．7.4",
+            "E．9.8"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 139
+    },
+    {
+        "question_text": "动物体内多数酶的最适 pH 为",
+        "options": [
+            "A．强酸",
+            "B．弱酸",
+            "C．中性",
+            "D．弱碱",
+            "E．强碱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 140
+    },
+    {
+        "question_text": "141．下列关于 pH 对酶促反应速度影响的叙述，错误的是",
+        "options": [
+            "A．pH 影响酶、底物或辅助因子的解离度，从而影响酶促反应速度",
+            "B．最适 pH 是酶的特征性常数",
+            "C．最适 pH 不是酶的特征性常数",
+            "D．pH 过高或过低可使酶发生变性",
+            "E．最适 pH 是酶促反应速度最大时的环境 pH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 141
+    },
+    {
+        "question_text": "142．下列关于酶的最适 pH 的叙述，错误的是",
+        "options": [
+            "A．与底物的种类有关",
+            "B．与底物的浓度有关",
+            "C．与缓冲液的种类有关",
+            "D．与缓冲液的浓度无关",
+            "E．与酶的纯度有关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 142
+    },
+    {
+        "question_text": "143．下列关于 pH 对酶反应速度的影响的叙述，正确的是",
+        "options": [
+            "A．pH 对酶促反应速度影响不大",
+            "B．不同酶有其不同的最适 pH",
+            "C．酶的最适 pH 都在中性即 pH＝7 左右",
+            "D．酶的活性随 pH 的增高而增大",
+            "E．pH 对酶促反应速度影响主要在于影响该酶的等电点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 143
+    },
+    {
+        "question_text": "144．酶原没有催化活性是因为",
+        "options": [
+            "A．酶蛋白肽链合成不完全",
+            "B．活性中心未形成或未暴露",
+            "C．是已经变性的蛋白质",
+            "D．缺乏辅酶或辅基",
+            "E．二硫键没有形成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 144
+    },
+    {
+        "question_text": "145．胰蛋白酶原激活是由于 N-末端水解去掉",
+        "options": [
+            "A．3 肽片段",
+            "B．4 肽片段",
+            "C．5 肽片段",
+            "D．6 肽片段",
+            "E．7 肽片段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 145
+    },
+    {
+        "question_text": "酶原激活过程中通常使酶原分子中断裂的化学键是",
+        "options": [
+            "A．氢键",
+            "B．疏水键",
+            "C．离子键",
+            "D．肽键",
+            "E．二硫键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 146
+    },
+    {
+        "question_text": "147．下列哪种酶不以酶原的形式分泌",
+        "options": [
+            "A．胰蛋白酶",
+            "B．胃蛋白酶",
+            "C．弹性蛋白酶",
+            "D．胰淀粉酶",
+            "E．胰凝乳蛋白酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 147
+    },
+    {
+        "question_text": "148．下列哪种酶以酶原的形式分泌",
+        "options": [
+            "A．胰蛋白酶",
+            "B．糖原合酶",
+            "C．己糖激酶",
+            "D．胰淀粉酶",
+            "E．乳酸脱氢酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 148
+    },
+    {
+        "question_text": "149．能使胰蛋白酶原激活的物质是",
+        "options": [
+            "A．肠激酶",
+            "B．胆汁酸",
+            "C．弹性蛋白酶",
+            "D．胰淀粉酶",
+            "E．胰凝乳蛋白酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 149
+    },
+    {
+        "question_text": "150．如果每毫升酶制剂含 0.5mg 的蛋白质，每毫升酶溶液含 300 活力单位，则此酶的比活性是",
+        "options": [
+            "A．300U/mg 酶蛋白",
+            "B．400U/mg 酶蛋白",
+            "C．500U/mg 酶蛋白",
+            "D．600U/mg 酶蛋白",
+            "E．800U/mg 酶蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 150
+    },
+    {
+        "question_text": "151．下列关于酶原与酶原激活的叙述，正确的是",
+        "options": [
+            "A．体内所有的酶在初合成时均以酶原的形式存在",
+            "B．酶原的激活是酶的共价修饰过程",
+            "C．酶原的激活过程也就是酶被完全水解的过程",
+            "D．酶原激活过程的实质是酶的活性中心形成或暴露的过程",
+            "E．酶原的激活只是改变了酶原的空间结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 151
+    },
+    {
+        "question_text": "152．酶原激活的生理意义是",
+        "options": [
+            "A．加速代谢",
+            "B．使酶活性提高",
+            "C．恢复酶的活性",
+            "D．保护机体自身",
+            "E．快速缓慢调节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 152
+    },
+    {
+        "question_text": "153．酶原激活的主要途径是",
+        "options": [
+            "A．化学修饰",
+            "B．亚基的聚合和解离",
+            "C．别构激活",
+            "D．翻译后加工",
+            "E．水解去掉一个或几个特定的肽段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 153
+    },
+    {
+        "question_text": "154．下列有关别构酶的叙述，错误的是",
+        "options": [
+            "A．别构酶是受别构调节的酶",
+            "B．构象改变后增加此亚基对后续底物的亲和力，称为正协同效应",
+            "C．正协同效应的底物浓度曲线是矩形双曲线",
+            "D．构象改变使后续底物结合的亲和力减弱，称为负协同效应",
+            "E．具有协同效应的别构酶多为含偶数亚基的酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 154
+    },
+    {
+        "question_text": "155．变构酶的动力学曲线是",
+        "options": [
+            "A．抛物线",
+            "B．矩形双曲线",
+            "C．直线",
+            "D．平行线",
+            "E．S 形曲线"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 155
+    },
+    {
+        "question_text": "156．下列关于变构调节的叙述，正确的是",
+        "options": [
+            "A．变构调节是一种快速调节方式",
+            "B．变构效应剂与酶以共价键结合",
+            "C．变构酶的动力学曲线是矩形双曲线",
+            "D．变构调节剂与酶结合，使酶分子的一级结构变化，活性改变",
+            "E．变构酶通常只含有一条多肽链"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 156
+    },
+    {
+        "question_text": "157．下列关于酶的化学修饰的叙述，错误的是",
+        "options": [
+            "A．级联放大效应",
+            "B．是由另外的酶催化",
+            "C．是可逆的非共价反应",
+            "D．磷酸化修饰最常见",
+            "E．是一种快速调节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 157
+    },
+    {
+        "question_text": "158．变构效应剂与酶结合的部位是",
+        "options": [
+            "A．活性中心的 Ser 的-OH",
+            "B．活性中心的结合基团",
+            "C．活性中心的催化基团",
+            "D．活性中心外的调节部位",
+            "E．活性中心外的任意部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 158
+    },
+    {
+        "question_text": "159．下列关于酶的化学修饰的叙述，错误的是",
+        "options": [
+            "A．一般都有活化和非活化两种形式",
+            "B．活化和非活化两种形式在不同酶催化下可以互变",
+            "C．催化互变的酶受激素等因素的控制",
+            "D．一般不需消耗能量属于缓慢调节方式",
+            "E．化学修饰的方式多为多肽链的磷酸化和脱磷酸化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 159
+    },
+    {
+        "question_text": "160．下列关于酶的磷酸化修饰的叙述，正确的是",
+        "options": [
+            "A．酶经磷酸化修饰后，酶的活性增加",
+            "B．磷酸化和去磷酸化反应是由各种蛋白激酶催化的",
+            "C．可被磷酸化的部位是酶活性中心的丝氨酸、苏氨酸及酪氨酸残基的羟基",
+            "D．磷酸化时需消耗 ATP",
+            "E．别构酶不能进行磷酸化修饰"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 160
+    },
+    {
+        "question_text": "161．酶的化学修饰最常见的修饰方式是",
+        "options": [
+            "A．甲基化/脱甲基化",
+            "B．腺苷化/脱腺苷化",
+            "C．磷酸化/脱磷酸化",
+            "D．乙酰化/脱乙酰化",
+            "E．二硫键的还原与形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 161
+    },
+    {
+        "question_text": "162．酶的磷酸化/脱磷酸化位点通常在酶的哪一种氨基酸残基上",
+        "options": [
+            "A．天冬氨酸",
+            "B．脯氨酸",
+            "C．赖氨酸",
+            "D．丝氨酸",
+            "E．甘氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 162
+    },
+    {
+        "question_text": "163．酶的磷酸化/脱磷酸化位点通常在酶的哪一组氨基酸残基上",
+        "options": [
+            "A．天冬氨酸、谷氨酸",
+            "B．脯氨酸、组氨酸",
+            "C．赖氨酸、精氨酸",
+            "D．丝氨酸、苏氨酸",
+            "E．甘氨酸、丙氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 163
+    },
+    {
+        "question_text": "164．实现迟缓调节可以通过",
+        "options": [
+            "A．改变酶的合成和降解速度",
+            "B．变构调节",
+            "C．磷酸化/脱磷酸化",
+            "D．化学修饰调节",
+            "E．酶原的激活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 164
+    },
+    {
+        "question_text": "165．下列有关乳酸脱氢酶同工酶的叙述，正确的是",
+        "options": [
+            "A．乳酸脱氢酶含有 M 亚基和 H 亚基两种，故有两种同工酶",
+            "B．M 亚基和 H 亚基都来自同一染色体的某一基因位点",
+            "C．它们在人体各器官分布无差别",
+            "D．它们的电泳行为相同",
+            "E．它们对同一底物有不同的 Km 值"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 165
+    },
+    {
+        "question_text": "166．心肌梗塞时，血清乳酸脱氢酶的同工酶谱增加最显著的是",
+        "options": [
+            "A．LDH5",
+            "B．LDH4",
+            "C．LDH3",
+            "D．LDH2",
+            "E．LDH1"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 166
+    },
+    {
+        "question_text": "167．肝脏病变时时，血清乳酸脱氢酶的同工酶谱增加最显著的是",
+        "options": [
+            "A．LDH5",
+            "B．LDH4",
+            "C．LDH3",
+            "D．LDH2",
+            "E．LDH1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 167
+    },
+    {
+        "question_text": "168．下列关于乳酸脱氢酶同工酶的叙述，正确的是",
+        "options": [
+            "A．LDH1 在肝脏含量最高",
+            "B．LDH5 在肾脏含量最高",
+            "C．LDH5 由 4 个 H 亚基组成",
+            "D．LDH1 由 4 个 M 亚基组成",
+            "E．LDH1 在心肌含量最高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 168
+    },
+    {
+        "question_text": "169．下列关于乳酸脱氢酶的叙述，错误的是",
+        "options": [
+            "A．乳酸脱氢酶可用 LDH 表示",
+            "B．它是单体酶",
+            "C．它的辅基是 NAD+",
+            "D．它有 5 种同工酶",
+            "E．乳酸脱氢酶同工酶之间的电泳行为不尽相同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 169
+    },
+    {
+        "question_text": "170．下列关于肌酸激酶的叙述，正确的是",
+        "options": [
+            "A．它有两种亚基",
+            "B．它是单体酶",
+            "C．它是四聚体",
+            "D．它有 5 种同工酶",
+            "E．肌酸激酶同工酶之间的电泳行为相同"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 170
+    },
+    {
+        "question_text": "171．乳酸脱氢酶是一个由两种不同的亚基组成的四聚体，其同工酶的种类有",
+        "options": [
+            "A．两种",
+            "B．三种",
+            "C．四种",
+            "D．五种",
+            "E．六种"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 171
+    },
+    {
+        "question_text": "172．肌酸激酶是一个由两种不同的亚基组成的二聚体，其同工酶的种类有",
+        "options": [
+            "A．两种",
+            "B．三种",
+            "C．四种",
+            "D．五种",
+            "E．六种"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 172
+    },
+    {
+        "question_text": "173．乳酸脱氢酶是一个由 X 种不同的亚基组成的 Y 聚体，其同工酶的种类有 Z 种，则 X，Y，Z 分别为",
+        "options": [
+            "A．2，2，4",
+            "B．2，4，6",
+            "C．4，5，6",
+            "D．2，4，5",
+            "E．4，4，6"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 173
+    },
+    {
+        "question_text": "174．肌酸激酶是一个由 X 种不同的亚基组成的 Y 聚体，其同工酶的种类有 Z 种，则 X，Y，Z 分别为",
+        "options": [
+            "A．2，2，3",
+            "B．2，4，5",
+            "C．2，4，6",
+            "D．4，4，5",
+            "E．4，4，6"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 174
+    },
+    {
+        "question_text": "175．已知两种酶互为同工酶，它们",
+        "options": [
+            "A．Km 值一定相同",
+            "B．酶蛋白分子结构一定相同",
+            "C．催化的化学反应相同",
+            "D．等电点相同",
+            "E．免疫学性质相同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 175
+    },
+    {
+        "question_text": "176．下列关于同工酶的叙述，正确的是",
+        "options": [
+            "A．它们催化相同的化学反应",
+            "B．它们的分子结构相同",
+            "C．它的的理化性质相同",
+            "D．它们催化不同的化学反应",
+            "E．它们的差别是化学修饰不同的结果"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 176
+    },
+    {
+        "question_text": "177．下列关于同工酶的叙述，错误的是",
+        "options": [
+            "A．它们催化相同的化学反应",
+            "B．它们的分子结构不同",
+            "C．它的的理化性质不同",
+            "D．它们的免疫学性质不同",
+            "E．它们的差别是化学修饰不同的结果"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 177
+    },
+    {
+        "question_text": "178．根据酶促反应的类型，国际酶学委员会将酶分为几大类",
+        "options": [
+            "A．2",
+            "B．4",
+            "C．7",
+            "D．8",
+            "E．10"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 178
+    },
+    {
+        "question_text": "179．谷丙转氨酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．合成酶类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 179
+    },
+    {
+        "question_text": "180．L-谷氨酸脱氢酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．合成酶类"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 180
+    },
+    {
+        "question_text": "181．催化乳酸转变为丙酮酸的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．合成酶类"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 181
+    },
+    {
+        "question_text": "182．蛋白水解酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．合成酶类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 182
+    },
+    {
+        "question_text": "183．下列酶分子中属于水解酶类的是",
+        "options": [
+            "A．琥珀酸脱氢酶",
+            "B．脂肪酶",
+            "C．细胞色素氧化酶",
+            "D．醛缩酶",
+            "E．转氨酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 183
+    },
+    {
+        "question_text": "184．下列酶分子中属于转移酶类的是",
+        "options": [
+            "A．脱羧酶",
+            "B．脂肪酶",
+            "C．蛋白激酶",
+            "D．醛缩酶",
+            "E．异构酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 184
+    },
+    {
+        "question_text": "185．下列酶分子中不属于水解酶类的是",
+        "options": [
+            "A．蛋白酶",
+            "B．脂肪酶",
+            "C．核酸酶",
+            "D．醛缩酶",
+            "E．脲酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 185
+    },
+    {
+        "question_text": "186．一个国际编号为 EC1.1.1.27 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．转移酶类",
+            "C．水解酶类",
+            "D．合成酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 186
+    },
+    {
+        "question_text": "187．一个国际编号为 EC2.6.1.1 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．转移酶类",
+            "C．水解酶类",
+            "D．合成酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 187
+    },
+    {
+        "question_text": "188．一个国际编号为 EC3.2.1.1 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．转移酶类",
+            "C．水解酶类",
+            "D．合成酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 188
+    },
+    {
+        "question_text": "189．一个国际编号为 EC4.1.2.7 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 189
+    },
+    {
+        "question_text": "190．一个国际编号为 EC5.3.1.9 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．水解酶类",
+            "C．裂合酶类",
+            "D．转移酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 190
+    },
+    {
+        "question_text": "191．一个国际编号为 EC6.3.1.2 的酶属于",
+        "options": [
+            "A．氧化还原酶类",
+            "B．转移酶类",
+            "C．水解酶类",
+            "D．连接酶类",
+            "E．异构酶类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 191
+    },
+    {
+        "question_text": "192．国际酶学委员会将酶分为七类的依据是",
+        "options": [
+            "A．酶的来源",
+            "B．酶的结构",
+            "C．酶的物理性质",
+            "D．酶促反应的性质",
+            "E．酶所催化的底物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 192
+    },
+    {
+        "question_text": "193．在测定酶活性时要测定酶促反应的初速度，其目的是",
+        "options": [
+            "A．为了提高酶促反应的灵敏度",
+            "B．为了节省底物的用量",
+            "C．为了防止各种干扰因素对酶促反应的影响",
+            "D．为了节省酶的用量",
+            "E．为了节省反应的时间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 193
+    },
+    {
+        "question_text": "194．酶的国际单位定义为",
+        "options": [
+            "A．在规定条件下，一秒催化 1nmol 底物转化为产物所需的酶量",
+            "B．在规定条件下，一秒钟催化 1μmmol 底物转化为产物所需的酶量",
+            "C．在规定条件下，一秒钟催化 1mmol 底物转化为产物所需的酶量",
+            "D．在规定条件下，一分钟催化 1nmol 底物转化为产物所需的酶量",
+            "E．在规定条件下，一分钟催化 1μmol 底物转化为产物所需的酶量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 194
+    },
+    {
+        "question_text": "195．测定血清酶活性常用的方法是",
+        "options": [
+            "A．在最适条件下完成酶促反应所需要的时间",
+            "B．以 280nm 的紫外吸收测酶蛋白的含量",
+            "C．分离提纯酶蛋白，称取重量计算酶含量",
+            "D．在规定条件下，测其单位时间内酶促底物减少量或产物生产量",
+            "E．蛋白质电泳后染色确定酶蛋白的含量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 195
+    },
+    {
+        "question_text": "196．关于酶与临床医学关系的叙述，错误的是",
+        "options": [
+            "A．体液酶活性改变可用于疾病诊断",
+            "B．乙醇可诱导碱性磷酸酶生成增加",
+            "C．酶可用于治疗疾病",
+            "D．酪氨酸酶缺乏可引起白化病",
+            "E．细胞损伤时，细胞酶释入血中的量增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 196
+    },
+    {
+        "question_text": "197．苯丙酮酸尿症患者缺乏的酶是",
+        "options": [
+            "A．酪氨酸酶",
+            "B．G-6-P 脱氢酶",
+            "C．苯丙氨酸羟化酶",
+            "D．黄嘌呤氧化酶",
+            "E．多巴脱羧酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 197
+    },
+    {
+        "question_text": "198．白化病患者缺乏的酶是",
+        "options": [
+            "A．酪氨酸酶",
+            "B．G-6-P 脱氢酶",
+            "C．苯丙氨酸羟化酶",
+            "D．黄嘌呤氧化酶",
+            "E．多巴脱羧酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 198
+    },
+    {
+        "question_text": "199．下列酶分子中属于氧化还原酶类的是",
+        "options": [
+            "A．琥珀酸脱氢酶",
+            "B．脂肪酶",
+            "C．蛋白酶",
+            "D．醛缩酶",
+            "E．转氨酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 199
+    },
+    {
+        "question_text": "200．下列酶分子中不属于氧化还原酶类的是",
+        "options": [
+            "A．琥珀酸脱氢酶",
+            "B．过氧化物酶",
+            "C．细胞色素氧化酶",
+            "D．醛缩酶",
+            "E．过氧化氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "200",
+        "number": 200
+    }
+]

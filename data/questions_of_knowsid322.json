@@ -1,0 +1,2480 @@
+[
+    {
+        "question_text": "1．下列哪项是旁分泌信息物质的特点",
+        "options": [
+            "A．持续时间长",
+            "B．作用距离近",
+            "C．效率低",
+            "D．不需第二信使",
+            "E．有特定的靶细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 1
+    },
+    {
+        "question_text": "2．旁分泌信息物质的特点是",
+        "options": [
+            "A．持续时间长",
+            "B．作用距离远",
+            "C．不进入血循环",
+            "D．不需第二信使",
+            "E．有特定的靶细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 2
+    },
+    {
+        "question_text": "3．旁分泌是指信息分子通过",
+        "options": [
+            "A．血液循环作用于远离的靶细胞受体而发挥作用",
+            "B．直接作用于临近的靶细胞受体而发挥作用",
+            "C．作用于自身细胞的相应受体而发挥作用",
+            "D．细胞之间的直接结合而发挥作用",
+            "E．进入细胞内直接发挥作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 3
+    },
+    {
+        "question_text": "4．自分泌是指信息分子通过",
+        "options": [
+            "A．血液循环作用于远离的靶细胞受体而发挥作用",
+            "B．直接作用于临近的靶细胞受体而发挥作用",
+            "C．作用于自身细胞的相应受体而发挥作用",
+            "D．细胞之间的直接结合而发挥作用",
+            "E．进入细胞内直接发挥作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 4
+    },
+    {
+        "question_text": "5．内分泌主要是指激素通过",
+        "options": [
+            "A．血液循环作用于远离的靶细胞受体而发挥作用",
+            "B．直接作用于临近的靶细胞受体而发挥作用",
+            "C．作用于自身细胞的相应受体而发挥作用",
+            "D．细胞之间的直接结合而发挥作用",
+            "E．进入细胞内直接发挥作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 5
+    },
+    {
+        "question_text": "6．乙酰胆碱信号主要的传递方式是",
+        "options": [
+            "A．自分泌",
+            "B．旁分泌",
+            "C．内分泌",
+            "D．神经突触分泌",
+            "E．逆向分泌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 6
+    },
+    {
+        "question_text": "7．T 淋巴细胞与 B 淋巴细胞表面分子的相互作用属于",
+        "options": [
+            "A．内分泌",
+            "B．旁分泌",
+            "C．神经分泌",
+            "D．自分泌",
+            "E．膜表面分子接触通讯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 7
+    },
+    {
+        "question_text": "8．胞内受体化学性质通常为",
+        "options": [
+            "A．DNA 结合蛋白",
+            "B．G 蛋白",
+            "C．糖蛋白",
+            "D．脂蛋白",
+            "E．糖脂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 8
+    },
+    {
+        "question_text": "9．有一种激素，虽溶于水，但与脂溶性激素一样需进入核内发挥作用。这种激素是",
+        "options": [
+            "A．乙酰胆碱",
+            "B．肾上腺素",
+            "C．胰岛素",
+            "D．甲状腺素",
+            "E．表皮生长因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 9
+    },
+    {
+        "question_text": "10．下列激素通过膜受体起调节作用的是激素是",
+        "options": [
+            "A．性激素",
+            "B．糖皮质激素",
+            "C．甲状腺素",
+            "D．肾上腺素",
+            "E．活性维生素 D3"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 10
+    },
+    {
+        "question_text": "11．不属于细胞膜受体的是",
+        "options": [
+            "A．胰高血糖素受体",
+            "B．胰岛素受体",
+            "C．促甲状腺素释放激素受体",
+            "D．心钠素受体",
+            "E．盐皮质激素受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 11
+    },
+    {
+        "question_text": "12．通过细胞膜受体发挥作用的激素是",
+        "options": [
+            "A．雌激素",
+            "B．孕激素",
+            "C．糖皮质激素",
+            "D．甲状腺素",
+            "E．胰岛素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 12
+    },
+    {
+        "question_text": "13．通过胞内受体发挥作用的信息物质为",
+        "options": [
+            "A．乙酰胆碱",
+            "B．b-氨基丁酸",
+            "C．胰岛素",
+            "D．甲状腺素",
+            "E．表皮生长因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 13
+    },
+    {
+        "question_text": "14．绝大部分膜受体的化学性质为",
+        "options": [
+            "A．糖脂",
+            "B．磷脂",
+            "C．多糖",
+            "D．糖蛋白",
+            "E．类固醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 14
+    },
+    {
+        "question_text": "15．存在受体的亚细胞结构包括",
+        "options": [
+            "A．细胞膜、细胞液",
+            "B．细胞膜、线粒体",
+            "C．细胞膜、内质网",
+            "D．细胞液、内质网",
+            "E．线粒体、内质网"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 15
+    },
+    {
+        "question_text": "16．不通过细胞内受体发挥作用的化合物是",
+        "options": [
+            "A．肾上腺素",
+            "B．性激素",
+            "C．维生素 D3",
+            "D．甲状腺素",
+            "E．糖皮质激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 16
+    },
+    {
+        "question_text": "17．通过细胞内受体发挥作用的激素有是",
+        "options": [
+            "A．胰岛索",
+            "B．胰高血糖素",
+            "C．糖皮质激素",
+            "D．血管升压素",
+            "E．生长激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 17
+    },
+    {
+        "question_text": "18．受体位于细胞内的信息物质有",
+        "options": [
+            "A．胰岛素",
+            "B．甲状腺素",
+            "C．肾上腺素",
+            "D．心钠素",
+            "E．红细胞生成素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 18
+    },
+    {
+        "question_text": "19．作用于膜受体的激素有",
+        "options": [
+            "A．肾上腺素",
+            "B．甲状腺素",
+            "C．孕激素",
+            "D．雌激素",
+            "E．糖皮质激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 19
+    },
+    {
+        "question_text": "20．作用于细胞内受体的激素是",
+        "options": [
+            "A．类固醇激素",
+            "B．儿茶酚胺类激素",
+            "C．生长因子",
+            "D．肽类激素",
+            "E．蛋白类激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 20
+    },
+    {
+        "question_text": "21．关于配体和受体的相互作用，错误的是",
+        "options": [
+            "A．是可逆的",
+            "B．可饱和",
+            "C．效应与配体的浓度成正比",
+            "D．高度专一性",
+            "E．高度亲合力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 21
+    },
+    {
+        "question_text": "22．下列哪一项不是受体与配体的结合的具有下列特征，例外的是",
+        "options": [
+            "A．高度特异性",
+            "B．高度亲和力",
+            "C．可饱和性",
+            "D．可逆性",
+            "E．以共价键结合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 22
+    },
+    {
+        "question_text": "23．矩形双曲线反映的受体-配体结合特性是",
+        "options": [
+            "A．高度特异性",
+            "B．高度亲和力",
+            "C．可饱和性",
+            "D．可逆性",
+            "E．特定的作用方式"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 23
+    },
+    {
+        "question_text": "24．下列哪项不是受体与配体结合的特点",
+        "options": [
+            "A．高度专一性",
+            "B．高度亲和力",
+            "C．可饱和性",
+            "D．不可逆性",
+            "E．非共价键结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 24
+    },
+    {
+        "question_text": "25．很低浓度的信号分子也可充分起到调控作用，这主要是因为受体与配体的结合具有",
+        "options": [
+            "A．高度专一性",
+            "B．高度亲和力",
+            "C．可饱和性",
+            "D．可逆性",
+            "E．特定的作用模式"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 25
+    },
+    {
+        "question_text": "26．有关激素和受体的叙述，正确的是",
+        "options": [
+            "A．激素与受体有高度的亲和力，结合是不可逆的",
+            "B．受体有高特异性，只有激素能与受体结合",
+            "C．每种激素都有其特异的受体，所以激素可与受体的任意部位结合",
+            "D．细胞的激素受体含量是可变的",
+            "E．激素与受体的结合为共价结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 26
+    },
+    {
+        "question_text": "27．下列哪种物质不是信号传转导中的第二信使",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．IP3",
+            "D．CO2",
+            "E．DAG"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 27
+    },
+    {
+        "question_text": "28．下列哪种物质不属于第二信使",
+        "options": [
+            "A．cAMP",
+            "B．PKA",
+            "C．IP3",
+            "D．Ca2+",
+            "E．DAG"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 28
+    },
+    {
+        "question_text": "29．下列哪项不是细胞内传递信息的第二信使",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．TG",
+            "D．甘油二酯",
+            "E．IP3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 29
+    },
+    {
+        "question_text": "30．下列物质中哪些不属于激素作用的第二信使",
+        "options": [
+            "A．IP3",
+            "B．cAMP",
+            "C．DAG",
+            "D．G 蛋白",
+            "E．cGMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 30
+    },
+    {
+        "question_text": "31．细胞内传递信息的第二信使是",
+        "options": [
+            "A．受体",
+            "B．载体",
+            "C．无机物",
+            "D．有机物",
+            "E．小分子物质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 31
+    },
+    {
+        "question_text": "32．不可以作为第二信使的物质是",
+        "options": [
+            "A．cAMP",
+            "B．DAG",
+            "C．IP3",
+            "D．cGMP",
+            "E．ATP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 32
+    },
+    {
+        "question_text": "33．下列哪种物质不是为第二信使，例外的是",
+        "options": [
+            "A．IP3",
+            "B．DAG",
+            "C．cAMP",
+            "D．Ca2+",
+            "E．白细胞介素 IL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 33
+    },
+    {
+        "question_text": "34．在细胞内传递激素信息的小分子物质称为",
+        "options": [
+            "A．递质",
+            "B．载体",
+            "C．第一信使",
+            "D．第二信使",
+            "E．第三信使"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 34
+    },
+    {
+        "question_text": "35．以下哪一项不是第二信使作用的特点的是",
+        "options": [
+            "A．在完整细胞中，该分子的浓度或分布，在细胞外信号的作用下发生迅速改变",
+            "B．该分子类似物可模拟细胞外信号的作用",
+            "C．阻断该分子的变化可阻断细胞对外源信号的反应",
+            "D．作为别位效应剂在细胞内有特定的靶蛋白分子",
+            "E．主要分布于细胞核中"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 35
+    },
+    {
+        "question_text": "36．第二信使在信号转导过程中的主要变化是",
+        "options": [
+            "A．浓度变化",
+            "B．活性变化",
+            "C．构象变化",
+            "D．结构变化",
+            "E．化学修饰变化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 36
+    },
+    {
+        "question_text": "37．胰高血糖素发挥作用时，其第二信使是",
+        "options": [
+            "A．cAMP",
+            "B．cCGP",
+            "C．cCMP",
+            "D．cTMP",
+            "E．cUMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 37
+    },
+    {
+        "question_text": "38．有关 PKA 的叙述，错误的是",
+        "options": [
+            "A．为别构酶",
+            "B．cAMP 为其激活剂",
+            "C．底物都是酶",
+            "D．催化底物的 Ser/Thr 磷酸化",
+            "E．磷酸化后酶活性升高或降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 38
+    },
+    {
+        "question_text": "39．PKA 的特点是",
+        "options": [
+            "A．由调节亚基 R 与催化亚基 C 构成二聚休",
+            "B．C 亚基在 cAMP 结合位点在 C 亚基上",
+            "C．催化亚基与调节亚基聚合时才有活性",
+            "D．每分子酶蛋白可结合 4 分子 cAMP",
+            "E．催化亚基与调节亚基通过离子键结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 39
+    },
+    {
+        "question_text": "40．激活 1 分子 PKA 需要几分子 cAMP",
+        "options": [
+            "A．1 分子",
+            "B．2 分子",
+            "C．3 分子",
+            "D．4 分子",
+            "E．5 分子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 40
+    },
+    {
+        "question_text": "41．PKA 激活过程需",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．Ca2+",
+            "D．K+",
+            "E．GTP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 41
+    },
+    {
+        "question_text": "42．以下不是 PKA 特点的是",
+        "options": [
+            "A．C2R2 构成的四聚休",
+            "B．R 亚基有 cAMP 结合位点",
+            "C．一个 R 亚基与 4 分子 cAMP 结合",
+            "D．C 亚基独立存在时具有活性",
+            "E．属于别构酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 42
+    },
+    {
+        "question_text": "43．细胞内生成的 cAMP 的底物是",
+        "options": [
+            "A．ATP",
+            "B．ADP",
+            "C．AMP",
+            "D．3′-AMP",
+            "E．5′-AMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 43
+    },
+    {
+        "question_text": "44．cAMP 能别构激活",
+        "options": [
+            "A．磷脂酶 A",
+            "B．蛋白激酶 A",
+            "C．蛋白激酶 C",
+            "D．蛋白激酶 G",
+            "E．酪氨酸蛋白激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 44
+    },
+    {
+        "question_text": "45．依赖 cAMP 的蛋白激酶是",
+        "options": [
+            "A．受体型 TPK",
+            "B．非受体型 TPK",
+            "C．PKC",
+            "D．PKA",
+            "E．PKG"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 45
+    },
+    {
+        "question_text": "46．cAMP 激活 PKA 的方式是",
+        "options": [
+            "A．与 PKA 的活性中心结合",
+            "B．与 PKA 的催化亚基结合",
+            "C．使 PKA 磷酸化而激活",
+            "D．使 PKA 去磷酸而激活",
+            "E．与 PKA 的调节亚基结合，催化亚基游离"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 46
+    },
+    {
+        "question_text": "47．可使胞质内 cAMP 水平增高的酶是",
+        "options": [
+            "A．磷酸二酯酶",
+            "B．腺苷酸环化酶",
+            "C．磷脂酶",
+            "D．磷酸酶",
+            "E．蛋白激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 47
+    },
+    {
+        "question_text": "48．可使胞质内 cAMP 水平下降的酶是",
+        "options": [
+            "A．磷酸酶",
+            "B．腺苷酸环化酶",
+            "C．磷酸二酯酶",
+            "D．磷脂酶",
+            "E．蛋白激酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 48
+    },
+    {
+        "question_text": "49．PKA 的催化亚基能够催化蛋白质磷酸化的氨基酸残基是",
+        "options": [
+            "A．酪氨酸",
+            "B．甘氨酸",
+            "C．酪氨酸／甘氨酸",
+            "D．甘氨酸／丝氨酸",
+            "E．苏氨酸／丝氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 49
+    },
+    {
+        "question_text": "50．cGMP 能别构激活",
+        "options": [
+            "A．磷脂酶 A",
+            "B．蛋白激酶 A",
+            "C．蛋白激酶 C",
+            "D．蛋白激酶 G",
+            "E．酪氨酸蛋白激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 50
+    },
+    {
+        "question_text": "51．使胞质内 cGMP 水平增高的酶是",
+        "options": [
+            "A．腺苷酸环化酶",
+            "B．磷酸二酯酶",
+            "C．磷脂酶",
+            "D．鸟苷酸环化酶",
+            "E．磷酸酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 51
+    },
+    {
+        "question_text": "52．蛋白激酶的作用是使蛋白质或酶",
+        "options": [
+            "A．脱磷酸",
+            "B．磷酸化",
+            "C．水解",
+            "D．合成",
+            "E．激活"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 52
+    },
+    {
+        "question_text": "53．膜内侧活化的磷脂酶 C 可以激活下列哪条信号传导通路",
+        "options": [
+            "A．IP3 和 DAG 为第二信使的双信号途径",
+            "B．Ras-MAPK 途径",
+            "C．生成 NO 的信号传导途径",
+            "D．JAKs-STAT 途径",
+            "E．cAMP 为第二信使的信号途径"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 53
+    },
+    {
+        "question_text": "54．蛋白激酶 C 不能磷酸化",
+        "options": [
+            "A．代谢途径中的关键酶",
+            "B．质膜上 Ca2+通道",
+            "C．与信息信号转导有关的蛋白质",
+            "D．调控基因表达的转录因子",
+            "E．第二信使"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 54
+    },
+    {
+        "question_text": "55．下列不作为激素第二信使的有是",
+        "options": [
+            "A．Ca2+",
+            "B．PIP2",
+            "C．DAG",
+            "D．cAMP",
+            "E．IP3"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 55
+    },
+    {
+        "question_text": "56．可被 Ca2+激活的是",
+        "options": [
+            "A．PKA",
+            "B．PKG",
+            "C．PKC",
+            "D．RTK",
+            "E．G 蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 56
+    },
+    {
+        "question_text": "57．下列化合物直接参与激活蛋白激酶 C 的化合物是",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．IP3",
+            "D．PIP2",
+            "E．DAG"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 57
+    },
+    {
+        "question_text": "58．PI-PLC 可水解 PIP2 产生",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．DAG+IP3",
+            "D．CO2",
+            "E．NO"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 58
+    },
+    {
+        "question_text": "59．IP3 与其相应受体结合后，可使胞浆内哪种离子浓度升高",
+        "options": [
+            "A．K+",
+            "B．Na+",
+            "C．HCO3-",
+            "D．Ca2+",
+            "E．Mg2+"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 59
+    },
+    {
+        "question_text": "60．依赖 Ca2+的蛋白激酶是",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．受体型 TPK",
+            "E．非受体型 TPK"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 60
+    },
+    {
+        "question_text": "61．1,4,5-三磷酸肌醇（IP3）的作用是",
+        "options": [
+            "A．在细胞内供能",
+            "B．与高尔基体膜受体结合，钙泵开放",
+            "C．促进钙储库中 Ca2+释放",
+            "D．直接激活蛋白激酶 C",
+            "E．细胞膜的结构成分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 61
+    },
+    {
+        "question_text": "62．关于蛋白激酶正确的是",
+        "options": [
+            "A．蛋白激酶活性的激活是通过磷酸化其调节亚基而实现的",
+            "B．蛋白磷酸酶可以抑制其活性",
+            "C．调节亚基和催化亚基的二聚体四聚体是酶的非活性形式",
+            "D．腺苷酸环化酶可以使其活性下降",
+            "E．磷酸二酯酶可使其活性增强"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 62
+    },
+    {
+        "question_text": "63．激活蛋白激酶 C 需要",
+        "options": [
+            "A．GSH",
+            "B．Mg2+",
+            "C．胆固醇酯",
+            "D．葡萄糖",
+            "E．DAG"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 63
+    },
+    {
+        "question_text": "64．甘油二酯作为信号分子的主要作用是激活",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．PDE",
+            "E．TPK"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 64
+    },
+    {
+        "question_text": "65．激活的 PKC 能磷酸化的氨基酸残基是",
+        "options": [
+            "A．酪氨酸／丝氨酸",
+            "B．酪氨酸／苏氨酸",
+            "C．丝氨酸／苏氨酸",
+            "D．丝氨酸／组氨酸",
+            "E．苏氨酸／组氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 65
+    },
+    {
+        "question_text": "66．激活的 PKC 能磷酸化的氨基酸残基是其磷酸化能被激活的 PKA 所催化的氨基酸主要是",
+        "options": [
+            "A．酪氨酸",
+            "B．甘氨酸",
+            "C．酪氨酸／甘氨酸",
+            "D．甘氨酸／丝氨酸",
+            "E．苏氨酸／丝氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 66
+    },
+    {
+        "question_text": "67．IP3 启动钙离子释放的部位是",
+        "options": [
+            "A．高尔基体",
+            "B．过氧化物酶体",
+            "C．内质网",
+            "D．细胞核",
+            "E．线粒体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 67
+    },
+    {
+        "question_text": "68．DAG 的前体是",
+        "options": [
+            "A．PIP2",
+            "B．磷脂酰丝氨酸",
+            "C．脑磷脂",
+            "D．心磷脂",
+            "E．IP3"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 68
+    },
+    {
+        "question_text": "69．能够产生 IP3 和 DAG 双信使的甘油磷脂是",
+        "options": [
+            "A．磷脂酰肌醇-4,5-二磷酸（PIP2）",
+            "B．磷脂酰胆碱",
+            "C．磷脂酰乙醇胺",
+            "D．磷脂酰丝氨酸",
+            "E．磷脂酰甘油"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 69
+    },
+    {
+        "question_text": "70．以 IP3 和 DAG 为第二信使的双信号途径是",
+        "options": [
+            "A．cAMP 蛋白激酶途径",
+            "B．Ca2+-磷脂依赖性蛋白激酶途径",
+            "C．cGMP 蛋白激酶途径",
+            "D．酪氨酸蛋白激酶途径",
+            "E．胞内受体介导的信号传导途径"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 70
+    },
+    {
+        "question_text": "71．不同的细胞对同一种第二信使产生不同的反应，因为不同的细胞",
+        "options": [
+            "A．受体不同",
+            "B．参与级联反应的酶不同",
+            "C．磷酸二酯酶含量不同",
+            "D．G 蛋白不同",
+            "E．膜脂的种类不同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 71
+    },
+    {
+        "question_text": "72．下列哪一种蛋白或激酶活性不受胞内相应的第二信使调节，例外的是",
+        "options": [
+            "A．蛋白激酶 A",
+            "B．蛋白激酶 C",
+            "C．蛋白激酶 G",
+            "D．酪氨酸蛋白激酶",
+            "E．钙调蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 72
+    },
+    {
+        "question_text": "73．能与细胞内 Ca2+结合，发挥信使信号转导作用的物质是",
+        "options": [
+            "A．核内受体",
+            "B．二脂酰甘油",
+            "C．胞质受体",
+            "D．钙调蛋白",
+            "E．G 蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 73
+    },
+    {
+        "question_text": "74．钙调蛋白是一种重要的调控蛋白，参与多种酶作用的调控，它属于",
+        "options": [
+            "A．跨膜信息传导 G 蛋白家族",
+            "B．钙结合蛋白家族",
+            "C．免疫球蛋白家族",
+            "D．蛋白质激素家族",
+            "E．胞内受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 74
+    },
+    {
+        "question_text": "75．相较细胞外液，胞浆中 Ca2+的浓度处于",
+        "options": [
+            "A．低钙",
+            "B．高钙",
+            "C．零钙",
+            "D．相等",
+            "E．没有关系"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列不会导致胞液内 Ca2+浓度升高的是",
+        "options": [
+            "A．细胞膜上的钙通道开放",
+            "B．内质网上钙通道开放",
+            "C．IP3 作用于内质网",
+            "D．膜钙泵活性增强",
+            "E．膜钙泵活性下降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 76
+    },
+    {
+        "question_text": "77．有关 CaM 的描述错误的是",
+        "options": [
+            "A．是一种单体蛋白",
+            "B．有 4 个 Ca2+的结合位点",
+            "C．没有 Ca2+结合后，依然能激活 CaMK",
+            "D．Ca2+-CaM 激酶能磷酸化许多蛋白质",
+            "E．Ca2+-CaM 激酶的底物谱非常广泛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 77
+    },
+    {
+        "question_text": "78．细胞内钙调蛋白的作用是",
+        "options": [
+            "A．使 Ca2+转变为结合钙",
+            "B．使 Ca2+从细胞内移至细胞外",
+            "C．使细胞液中 Ca2+进入内质网",
+            "D．肌质网肌浆网中 Ca2+进入胞质",
+            "E．与 Ca2+结合，激活 Ca2+-CaM 激酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 78
+    },
+    {
+        "question_text": "79．激活 1 分子钙调蛋白需要 Ca2+的个数是",
+        "options": [
+            "A．1 个",
+            "B．2 个",
+            "C．3 个",
+            "D．4 个",
+            "E．5 个"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 79
+    },
+    {
+        "question_text": "80．以下哪项不是钙调蛋白的特点",
+        "options": [
+            "A．细胞内 Ca2+浓度过高时，被激活",
+            "B．有 4 个 Ca2+结合位点",
+            "C．与 Ca2+结合后，构象发生改变",
+            "D．由一条多肽链组成",
+            "E．为寡聚体蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 80
+    },
+    {
+        "question_text": "81．需要第二信使传递调控信号的信息物质是",
+        "options": [
+            "A．糖皮质激素",
+            "B．雌二醇",
+            "C．甲状腺素",
+            "D．醛固酮",
+            "E．NO"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 81
+    },
+    {
+        "question_text": "82．临床上使用硝酸甘油作为血管扩张剂，是因为其在体内能自发产生",
+        "options": [
+            "A．IP3",
+            "B．NO",
+            "C．DAG",
+            "D．Ca2+",
+            "E．cAMP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 82
+    },
+    {
+        "question_text": "83．乙酰胆碱能使血管平滑肌松弛是由于血管内皮细胞释放了",
+        "options": [
+            "A．NO",
+            "B．IP3",
+            "C．DAG",
+            "D．Ca2+",
+            "E．cAMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 83
+    },
+    {
+        "question_text": "84．NO 作为一种信息分子，它在体内是由哪一种氨基酸转变而来？",
+        "options": [
+            "A．Lys",
+            "B．Arg",
+            "C．Gln",
+            "D．Asn",
+            "E．His"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 84
+    },
+    {
+        "question_text": "85．有关蛋白磷酸酶的叙述，正确的是",
+        "options": [
+            "A．该酶在信息传递过程中不发挥作用",
+            "B．蛋白激酶种类繁多，而蛋白磷酸酶只有一种",
+            "C．能催化丝氨酸／苏氨酸脱磷酸",
+            "D．能催化酪氨酸磷酸化",
+            "E．能使磷酸化的糖类脱磷酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 85
+    },
+    {
+        "question_text": "86．酪氨酸蛋白激酶的作用是使",
+        "options": [
+            "A．蛋白质结合上酪氨酸残基",
+            "B．蛋白质中的酪氨酸残基全部磷酸化",
+            "C．识别 SH2 结构域，并与 Tyr 结合",
+            "D．特定蛋白质的某些特定酪氨酸残基磷酸化",
+            "E．使特定蛋白质中的某些酪氨酸残基游离脱落"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 86
+    },
+    {
+        "question_text": "87．下列哪组氨基酸容易发生磷酸化与脱磷酸",
+        "options": [
+            "A．GIy、Ser、Val",
+            "B．Thr、Ser、Tyr",
+            "C．Ala、Ile、Leu",
+            "D．Phe、Thr、Val",
+            "E．Tyr、Val、G1y"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 87
+    },
+    {
+        "question_text": "88．下列蛋白激酶中，既能使丝／苏氨酸磷酸化，又能使酪氨酸磷酸化的是",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．MAPK",
+            "E．MAPKK"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 88
+    },
+    {
+        "question_text": "89．下列蛋白激酶中，能使酪氨酸磷酸化的是",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．MAPK",
+            "E．PTK"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 89
+    },
+    {
+        "question_text": "90．G 蛋白是指",
+        "options": [
+            "A．蛋白激酶 A",
+            "B．鸟苷酸环化酶",
+            "C．蛋白激酶 G",
+            "D．Grb-2 结合蛋白",
+            "E．鸟苷酸结合蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 90
+    },
+    {
+        "question_text": "91．作为 G 蛋白的一种特点，其 a 亚基具有下列哪种酶的活性",
+        "options": [
+            "A．GTP 酶",
+            "B．ATP 酶",
+            "C．TTP 酶",
+            "D．CTP 酶",
+            "E．UTP 酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 91
+    },
+    {
+        "question_text": "92．与 G 蛋白活化密切相关的核苷酸是",
+        "options": [
+            "A．ATP",
+            "B．CTP",
+            "C．GTP",
+            "D．TTP",
+            "E．UTP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 92
+    },
+    {
+        "question_text": "93．激活的 G 蛋白直接影响下列哪种酶",
+        "options": [
+            "A．蛋白激酶 A",
+            "B．蛋白激酶 C",
+            "C．蛋白激酶 G",
+            "D．磷脂酶 A",
+            "E．磷脂酶 C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 93
+    },
+    {
+        "question_text": "94．下列哪一项是小 G 蛋白",
+        "options": [
+            "A．G 蛋白的亚基",
+            "B．Grb-2 结合蛋白",
+            "C．蛋白激酶 G",
+            "D．Ras",
+            "E．Raf 蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 94
+    },
+    {
+        "question_text": "95．有关 G 蛋白的叙述，错误的是",
+        "options": [
+            "A．能结合 GDP 或 GTP",
+            "B．由 a、b、g3 个亚基组成",
+            "C．abg 三聚体与 GDP 结合是活性型",
+            "D．可被激素受体复合物激活",
+            "E．有潜在的 GTP 酶活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 95
+    },
+    {
+        "question_text": "96．有关 G 蛋白的描述，下列哪一项是错误的",
+        "options": [
+            "A．位于细胞胞液浆面",
+            "B．由 a、b、g 三个亚基组成",
+            "C．亚基之间通过共价键相互作用",
+            "D．有潜在的 GTP 酶活性",
+            "E．与 GTP 结合后表现活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 96
+    },
+    {
+        "question_text": "97．能与 GDP／GTP 结合的蛋白质是",
+        "options": [
+            "A．CaM",
+            "B．Raf 蛋白",
+            "C．AP1/jun 蛋白",
+            "D．Grb-2 蛋白",
+            "E．Ras 蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 97
+    },
+    {
+        "question_text": "98．某蛋白分子具有以下特点：①为三聚体 a、b、g；②有激活型和抑制型两种；③a-GTP 为其活化形式；④具有潜在的 GTP 酶活性。该蛋白最有可能",
+        "options": [
+            "A．属于 CaM",
+            "B．属于胰岛素受体",
+            "C．属于 PKA",
+            "D．活化后可调节 AC 活性",
+            "E．活化后可调节 GC 活性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 98
+    },
+    {
+        "question_text": "99．与 Ras 活化有关的核苷酸是",
+        "options": [
+            "A．SOS",
+            "B．Grb",
+            "C．GTP",
+            "D．CTP",
+            "E．Raf"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 99
+    },
+    {
+        "question_text": "100．在信息传送过程中产生第二信使的激素是",
+        "options": [
+            "A．糖皮质激素",
+            "B．雌二醇",
+            "C．5b-氢睾酮",
+            "D．醛固酮",
+            "E．促肾上腺皮质激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 100
+    },
+    {
+        "question_text": "101．在信息传递过程中不产生第二信使的物质是",
+        "options": [
+            "A．肾上腺素",
+            "B．胰岛素",
+            "C．甲状腺素",
+            "D．促肾上腺皮质激素",
+            "E．促性腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 101
+    },
+    {
+        "question_text": "102．有关激素作用机制的叙述，错误的是",
+        "options": [
+            "A．必须与受体结合才能发挥作用",
+            "B．激素作为第一信使",
+            "C．激素必须通过第二信使才能发挥作用",
+            "D．肽类激素与类固醇激素作用机制不同",
+            "E．甲状腺素与类固醇激素作用机制相似"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 102
+    },
+    {
+        "question_text": "103．类固醇激素受体复合物发挥作用是通过",
+        "options": [
+            "A．热休克蛋白",
+            "B．激素反应元件",
+            "C．Ca2+",
+            "D．G 蛋白",
+            "E．CaM"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 103
+    },
+    {
+        "question_text": "104．有关类固醇激素作用方式的叙述，正确的是",
+        "options": [
+            "A．激素可进入核内，直接促进转录",
+            "B．激素与受体结合后激活 G 蛋白",
+            "C．激素-受体复合物激活热休克蛋白",
+            "D．激素与受体结合后促进受体解聚",
+            "E．其受体具有转录因子功能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 104
+    },
+    {
+        "question_text": "105．下列哪一项不是胞内受体激素结合区的作用，不正确的是",
+        "options": [
+            "A．与配体结合",
+            "B．与 G 蛋白偶联",
+            "C．与热休克蛋白结合",
+            "D．使受体二聚化",
+            "E．激活转录"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 105
+    },
+    {
+        "question_text": "106．下列有关细胞内信息物质的叙述，不正确的是",
+        "options": [
+            "A．细胞内信息物质的组成多样化",
+            "B．无机离子也是一种细胞内信息物质",
+            "C．信号蛋白分子多为原癌基因产物",
+            "D．类胆固醇激素属于细胞内信息物质",
+            "E．细胞内信息物质绝大部分通过酶促级联反应传递信号"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 106
+    },
+    {
+        "question_text": "107．激素受体复合物与目的基因的激素反应元件结合后可引起",
+        "options": [
+            "A．基因易于或难于转录",
+            "B．基因内部甲基化",
+            "C．基因重排",
+            "D．DNA 分子变性",
+            "E．组蛋白与基因结合更加牢固"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 107
+    },
+    {
+        "question_text": "108．有关类固醇激素的叙述，正确的是",
+        "options": [
+            "A．受体位于胞浆或胞核内",
+            "B．结合受体后可激活热休克蛋白",
+            "C．激素受体复合物不能影响基因表达",
+            "D．各种类固醇激素结构不同，其受体也无相似之处",
+            "E．受体位于细胞膜上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 108
+    },
+    {
+        "question_text": "109．下列哪一项不是胞内类固醇激素受体含有的结构特征包括",
+        "options": [
+            "A．结构保守区，具有转录激活作用",
+            "B．铰链区，含有核定位信号",
+            "C．DNA 结合区，含有亮氨酸拉链",
+            "D．铰链区，含有二聚化结构域",
+            "E．激素结合区，位于 N 末端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 109
+    },
+    {
+        "question_text": "110．胞内受体不含有以下哪一种结构",
+        "options": [
+            "A．非激素依赖的组成性转录激活区",
+            "B．DNA 结合区",
+            "C．配体结合区",
+            "D．核定位信号氨基酸序列",
+            "E．SH2 结构域"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 110
+    },
+    {
+        "question_text": "111．下列有关细胞内信息物质的叙述，哪项是错误的",
+        "options": [
+            "A．细胞内信息物质的组成多样化",
+            "B．无机离子也是一种细胞内信息物质",
+            "C．细胞内信息物质绝大部分通过酶促级联反应传递信号",
+            "D．信号蛋白分子多为癌基因产物",
+            "E．细胞内受体是激素作用的第二信使"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 111
+    },
+    {
+        "question_text": "112．目前认为下列哪种蛋白激酶不直接被胞内第二信使调节",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．PTK",
+            "E．Ca2+-CaM 激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 112
+    },
+    {
+        "question_text": "113．具有相同的第二信使的激素是",
+        "options": [
+            "A．胰岛素和胰高血糖素",
+            "B．肾上腺素和甲状腺素",
+            "C．肾上腺能激动剂和血管紧张素 II",
+            "D．糖皮质激素和生长激素",
+            "E．心钠素和肾上腺素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 113
+    },
+    {
+        "question_text": "114．促甲状腺素释放激素的第二信使是",
+        "options": [
+            "A．cAMP",
+            "B．cGMP",
+            "C．cCMP",
+            "D．Mg2+",
+            "E．DAG、IP3"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 114
+    },
+    {
+        "question_text": "115．作用于细胞膜受体的激素的第二信使不包括",
+        "options": [
+            "A．c-fos 蛋白",
+            "B．cAMP",
+            "C．DAG",
+            "D．Ca2+",
+            "E．IP3"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 115
+    },
+    {
+        "question_text": "116．下列哪种物质可作为肾上腺素的第二信使",
+        "options": [
+            "A．cGMP",
+            "B．Ca2+",
+            "C．cAMP",
+            "D．DAG",
+            "E．IP3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 116
+    },
+    {
+        "question_text": "117．肽类激素诱导 cAMP 生成的过程是",
+        "options": [
+            "A．激素直接激活 AC",
+            "B．激素直接抑制磷酸二酯酶",
+            "C．激素激活受体，受体再激活 AC",
+            "D．激素受体复合物使 G 蛋白结合 GTP 活化，后者再激活 AC",
+            "E．激素直接激活 GC"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 117
+    },
+    {
+        "question_text": "118．肾上腺素与膜上 b 受体结合，激活 G 蛋白后",
+        "options": [
+            "A．激活鸟苷酸环化酶",
+            "B．抑制鸟苷酸环化酶",
+            "C．激活腺苷酸环化酶",
+            "D．抑制腺苷酸环化酶",
+            "E．激活磷脂酶 C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 118
+    },
+    {
+        "question_text": "119．有关 G 蛋白的叙述，错误的是",
+        "options": [
+            "A．由 a、b、g 三个亚基组成",
+            "B．亚基聚合时具有活性",
+            "C．能结合 GDP 或 GTP",
+            "D．被激素-受体复合物激活",
+            "E．可直接激活酪氨酸蛋白激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 119
+    },
+    {
+        "question_text": "120．下列哪种受体与 G 蛋白偶联",
+        "options": [
+            "A．环状受体",
+            "B．蛇型受体",
+            "C．催化型受体",
+            "D．细胞核内受体",
+            "E．细胞浆内受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 120
+    },
+    {
+        "question_text": "121．某一家族的遗传病与 G 蛋白偶联的腺苷酸环化酶基因的缺陷有关，会影响下面哪一种激素的功能",
+        "options": [
+            "A．甲状腺素",
+            "B．皮质醇",
+            "C．胰岛素",
+            "D．肾上腺素",
+            "E．心钠素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 121
+    },
+    {
+        "question_text": "122．关于 G 蛋白的叙述，错误的是",
+        "options": [
+            "A．不同的 G 蛋白能特异地将受体和相应的效应酶偶联起来",
+            "B．各种 G 蛋白的 a 亚基有进行 ADP-核糖基化的修饰部位",
+            "C．霍乱毒素能激活 Gs",
+            "D．霍乱毒素能激活 Gi",
+            "E．百日咳毒素能激活 Gi"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 122
+    },
+    {
+        "question_text": "123．在 cAMP 参与的信号传递过程中，下列哪个叙述是正确的",
+        "options": [
+            "A．AMP 是生成 cAMP 的前体",
+            "B．细胞内 cAMP 的水平完全由腺苷酸环化酶的活性决定",
+            "C．cAMP 可以激活 PKC",
+            "D．腺苷酸环化酶催化的反应是可逆的",
+            "E．活性的 G 蛋白激活细胞膜胞液中面的 AC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 123
+    },
+    {
+        "question_text": "124．关于 G 蛋白的叙述，正确的是",
+        "options": [
+            "A．百日咳毒素能激活 Gs 而激活 AC",
+            "B．Gs 蛋白被激活后可直接激活 PKC",
+            "C．既可与 GDP 结合也可与 GTP 结合",
+            "D．与 GTP 结合后，能增高激素与受体的亲和力",
+            "E．a 亚基-GTP 对效应蛋白没有调节作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 124
+    },
+    {
+        "question_text": "125．由 G 蛋白偶联受体和相应效应酶介导进行信号传递的激素不包括",
+        "options": [
+            "A．胰高血糖素",
+            "B．肾上腺素",
+            "C．甲状腺素",
+            "D．促肾上腺皮质激素",
+            "E．血管升压素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 125
+    },
+    {
+        "question_text": "126．G 蛋白的特性有",
+        "options": [
+            "A．是腺苷酸结合蛋白",
+            "B．不同 G 蛋白有相同的 a 亚基",
+            "C．a 亚基具有 GTP 酶活性",
+            "D．b、g 亚基具有 ATP 酶活性",
+            "E．a 亚基均可被霍乱毒素进行 ADP-核糖基化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 126
+    },
+    {
+        "question_text": "127．G 蛋白参与多种信息传递过程，它是与下列哪一种配基结合的蛋白质",
+        "options": [
+            "A．尿苷酸",
+            "B．cAMP",
+            "C．Ca2+",
+            "D．ATP",
+            "E．GTP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 127
+    },
+    {
+        "question_text": "128．G 蛋白的中介作用主要实现活性形式的是",
+        "options": [
+            "A．a-GTP",
+            "B．a-GDP",
+            "C．bg 二聚体",
+            "D．abg 异三聚体",
+            "E．a-ATP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 128
+    },
+    {
+        "question_text": "129．通过蛋白激酶 A 通路发挥作用的激素是",
+        "options": [
+            "A．生长因子",
+            "B．心钠素",
+            "C．胰岛素",
+            "D．肾上腺素",
+            "E．甲状腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 129
+    },
+    {
+        "question_text": "130．影响离子通道开关的配体主要是",
+        "options": [
+            "A．神经递质",
+            "B．类固醇激素",
+            "C．生长因子",
+            "D．无机离子",
+            "E．甲状腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 130
+    },
+    {
+        "question_text": "131．既能抑制腺苷酸环化酶，又能激活磷酸二酯酶的激素是",
+        "options": [
+            "A．胰高血糖素",
+            "B．肾上腺素",
+            "C．促肾上腺皮质激素",
+            "D．胰岛素",
+            "E．甲状腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 131
+    },
+    {
+        "question_text": "132．下列物质不参与信息传递的物质是",
+        "options": [
+            "A．FAD",
+            "B．激素",
+            "C．神经递质",
+            "D．DAG",
+            "E．cAMP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 132
+    },
+    {
+        "question_text": "133．下列激素通过酶促级联反应发挥作用的激素是",
+        "options": [
+            "A．孕激素",
+            "B．糖皮质激素",
+            "C．甲状腺素",
+            "D．肾上腺素",
+            "E．盐皮质激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 133
+    },
+    {
+        "question_text": "134．使细胞内 cAMP 浓度降低的物质是",
+        "options": [
+            "A．肾上腺皮质激素",
+            "B．胰岛素",
+            "C．血管升压素",
+            "D．霍乱毒素",
+            "E．甲状旁腺激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 134
+    },
+    {
+        "question_text": "135．下列激素是通过 cAMP-蛋白激酶 A 途径传递信息的，例外的是",
+        "options": [
+            "A．促肾上腺皮质激素",
+            "B．胰高血糖素",
+            "C．肾上腺素",
+            "D．血管紧张素 II",
+            "E．多巴胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 135
+    },
+    {
+        "question_text": "136．肾上腺素作用于靶细胞受体后，发挥调节作用的传递途径是",
+        "options": [
+            "A．cGMP-蛋白激酶 G 途径",
+            "B．cAMP-蛋白激酶 A 途径",
+            "C．Ca2+-CaM 激酶途径",
+            "D．JAK-STAT 途径",
+            "E．Ras-MAPK 途径"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 136
+    },
+    {
+        "question_text": "137．胰高血糖素通过下列哪种信息传导途径发挥调节作用",
+        "options": [
+            "A．cAMP-PKA 途径",
+            "B．cGMP-PKG 途径",
+            "C．Ca2+-CaM 激酶途径",
+            "D．受体型 TPK-Ras-MAPK 途径",
+            "E．JAKs-STAT 途径"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 137
+    },
+    {
+        "question_text": "138．跨膜信息转导途径不包括",
+        "options": [
+            "A．cAMP-PKA 途径",
+            "B．IP3、Ca2+-CaM 激酶途径",
+            "C．DAG-蛋白激酶 C 途径",
+            "D．受体-酪氨酸蛋白激酶途径",
+            "E．细胞内受体途径"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 138
+    },
+    {
+        "question_text": "139．肾上腺素与膜上 a 受体结合激活 Gs 蛋白后，能够",
+        "options": [
+            "A．激活鸟苷酸环化酶",
+            "B．抑制鸟苷酸环化酶",
+            "C．激活腺苷酸环化酶",
+            "D．抑制腺苷酸环化酶",
+            "E．激活磷脂酶 C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 139
+    },
+    {
+        "question_text": "140．下列哪项不是胞膜受体类型不包括",
+        "options": [
+            "A．环状受体",
+            "B．七跨膜受体",
+            "C．单跨膜受体",
+            "D．胞内离子通道受体",
+            "E．载脂蛋白甲状腺素的受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 140
+    },
+    {
+        "question_text": "141．有关七跨膜受体的叙述，错误的是",
+        "options": [
+            "A．有些是多聚体糖蛋白",
+            "B．其 N 端在细胞外侧，C 端在细胞内侧",
+            "C．中段含有 7 个跨膜 a 螺旋结构",
+            "D．其胞质面第 2、3 个环与鸟苷酸结合蛋白相偶联",
+            "E．该类受体主要参与细胞物质代谢调节和基因转录的调控"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 141
+    },
+    {
+        "question_text": "142．下列哪种物质不是细胞间信息物质",
+        "options": [
+            "A．一氧化氮",
+            "B．葡萄糖",
+            "C．甘氨酸胰岛素",
+            "D．前列腺素",
+            "E．乙酰胆碱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 142
+    },
+    {
+        "question_text": "143．关于 G-protein 蛋白的叙述下列哪个哪项是错误",
+        "options": [
+            "的A．此类蛋白能结合鸟嘌吟呤碱基",
+            "B．此类蛋白为异源杂三聚体",
+            "C．杂三聚体可以看成一个变构酶",
+            "D．此类蛋白结合 GTP 时具有活性",
+            "E．活化的 G-蛋白将 GTP 分解成 GDP 和磷酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 143
+    },
+    {
+        "question_text": "144．关于受体型 TPK-RAS-MAPK 途径的叙述，错误的是",
+        "options": [
+            "A．受体与配体结合后，进而激活 Ras 蛋白",
+            "B．Ras 蛋白类似于 G 蛋白中的 Ga 亚基",
+            "C．活化的 Ras 蛋白进一步活化 Raf 蛋白",
+            "D．Raf 蛋白具有酪氨酸蛋白激酶活性",
+            "E．Raf 蛋白可激活 MAPK 系统"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 144
+    },
+    {
+        "question_text": "145．下列属于酶活性的受体具有酶活性的是",
+        "options": [
+            "A．胰岛素受体",
+            "B．G 蛋白偶联受体",
+            "C．离子通道受体",
+            "D．甲状腺激素受体",
+            "E．维生素 D 受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 145
+    },
+    {
+        "question_text": "146．下列具有受体具有酪氨酸蛋白激酶活性的是",
+        "options": [
+            "A．甲状腺素受体",
+            "B．雌激素受体",
+            "C．乙酰胆碱受体",
+            "D．表皮生长因子受体",
+            "E．肾上腺素受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 146
+    },
+    {
+        "question_text": "147．下列哪种受体是催化型受体",
+        "options": [
+            "A．胰岛素受体",
+            "B．生长激素受体",
+            "C．干扰素受体",
+            "D．甲状腺素受体",
+            "E．活性维生素 D3 受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 147
+    },
+    {
+        "question_text": "148．与配体结合后，自身具有酪氨酸蛋白激酶活性的受体是",
+        "options": [
+            "A．肾上腺素素受体",
+            "B．表皮生长因子受体",
+            "C．胰高血糖素受体",
+            "D．生长激素受体",
+            "E．干扰素受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 148
+    },
+    {
+        "question_text": "149．Ras 蛋白受以下哪个激活",
+        "options": [
+            "A．受体和配体复合物",
+            "B．GRB2 蛋白",
+            "C．SOS",
+            "D．GRB2-SOS 复合物",
+            "E．受体 GRB2-SOS 复合物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 149
+    },
+    {
+        "question_text": "150．与受体型 PTK 途径无关的分子包括",
+        "options": [
+            "A．SOS",
+            "B．Ras 蛋白",
+            "C．MAPK",
+            "D．JAK",
+            "E．Raf"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 150
+    },
+    {
+        "question_text": "151．Ras 基因编码的蛋白是",
+        "options": [
+            "A．生长因子受体",
+            "B．转录因子",
+            "C．信号转导分子",
+            "D．酪氨酸蛋白激酶",
+            "E．细胞周期蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 151
+    },
+    {
+        "question_text": "152．有关表皮生长因子受体的叙述，错误的是",
+        "options": [
+            "A．属单个跨膜 a 螺旋受体",
+            "B．与配体结合后可二聚化",
+            "C．本身具有蛋白激酶活性",
+            "D．可自身磷酸化丝氨酸残基",
+            "E．属于催化型受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 152
+    },
+    {
+        "question_text": "153．关于 JAKs-STAT 途径的叙述，错误的是",
+        "options": [
+            "A．干扰素通过该途径发挥作用",
+            "B．该途径的受体缺乏酪氨酸蛋白激酶活性",
+            "C．该途径需借助具有激酶结构的连接蛋白 JAKs 完成信息转导",
+            "D．JAKs 家族成员无蛋白激酶活性",
+            "E．JAKs 通过激活 STAT 来影响有关基因的转录"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 153
+    },
+    {
+        "question_text": "154．胰岛素受体具有下列哪种酶活性",
+        "options": [
+            "A．蛋白激酶 A",
+            "B．蛋白激酶 C",
+            "C．蛋白激酶 G",
+            "D．酪氨酸蛋白激酶",
+            "E．Ca2+-CaM 激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 154
+    },
+    {
+        "question_text": "155．关于细胞内信息物质的叙述，错误的是",
+        "options": [
+            "A．信息物质的组成多样化",
+            "B．无机离子也可是细胞内信息物质",
+            "C．绝大部分通过酶促级联反应传递信号",
+            "D．在完成信息传递后，不需立即灭活",
+            "E．通过改变细胞内酶的活性，来调节细胞代谢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 155
+    },
+    {
+        "question_text": "156．使胰岛 b 细胞分泌胰岛素的最重要的信号是",
+        "options": [
+            "A．肠蠕动增强",
+            "B．血糖浓度增高",
+            "C．血脂浓度增高",
+            "D．下丘脑刺激",
+            "E．来自肾上腺髓质的肾上腺素释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 156
+    },
+    {
+        "question_text": "157．胰岛素能够促进细胞摄入葡萄糖，原因是能使",
+        "options": [
+            "A．葡萄糖磷酸化",
+            "B．葡萄糖去磷酸化",
+            "C．细胞膜上相应载体的数目增加",
+            "D．载体对葡萄糖的亲和性增加",
+            "E．降低细胞膜上 Na+泵的活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 157
+    },
+    {
+        "question_text": "158．下列不具有酶活性的受体是",
+        "options": [
+            "A．心钠素受体",
+            "B．转化生长因子受体",
+            "C．表皮生长因子受体",
+            "D．胰岛素受体",
+            "E．白细胞介素受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 158
+    },
+    {
+        "question_text": "159．下列细胞因子通过 JAK-STAT 途径传递信息的是",
+        "options": [
+            "A．血小板衍生生长因子 PDGF",
+            "B．神经生长因子 NGF",
+            "C．表皮生长因子 EGF",
+            "D．胰岛素样生长因子 IGF",
+            "E．干扰素 IFN"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 159
+    },
+    {
+        "question_text": "160．胰岛素受体是一种",
+        "options": [
+            "A．酪氨酸蛋白激酶",
+            "B．丝氨酸蛋白激酶",
+            "C．蛋白激酶 C",
+            "D．cAMP-蛋白质激酶",
+            "E．胞内受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 160
+    },
+    {
+        "question_text": "161．胰岛素受体具有下列哪种酶活性",
+        "options": [
+            "A．PKA",
+            "B．蛋白激酶 C",
+            "C．酪氨酸蛋白激酶",
+            "D．蛋白激酶 G",
+            "E．Ca2+-CaM 激酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 161
+    },
+    {
+        "question_text": "162．干扰素完成信息转导的作用是通过",
+        "options": [
+            "A．G 蛋白",
+            "B．Ras 蛋白",
+            "C．连接蛋白 JAKs",
+            "D．MAPK 系统",
+            "E．Grb 和 SOS"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 162
+    },
+    {
+        "question_text": "163．下列哪种激素的受体具有鸟苷酸环化酶活性",
+        "options": [
+            "A．胰岛素",
+            "B．胰高血糖素",
+            "C．生长素",
+            "D．心钠素",
+            "E．甲状腺激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 163
+    },
+    {
+        "question_text": "164．心钠素通过下列哪种信息传递途径发挥调节作用",
+        "options": [
+            "A．cAMP-蛋白激酶途径",
+            "B．Ca2+-CaM 激酶途径",
+            "C．cGMP-蛋白激酶途径",
+            "D．受体型 TPK-Ras-MAPK 途径",
+            "E．JAKs-STAT 途径"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 164
+    },
+    {
+        "question_text": "165．下列哪一项不是受体与配体结合的特点",
+        "options": [
+            "A．高度专一性",
+            "B．高度亲和力",
+            "C．可饱和性",
+            "D．可逆性",
+            "E．可调节性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 165
+    },
+    {
+        "question_text": "166．细胞中 90%以上的 Ca2+储存于",
+        "options": [
+            "A．内质网和线粒体",
+            "B．高尔基体和线粒体",
+            "C．线粒体和细胞核",
+            "D．细胞核和内质网",
+            "E．细胞浆和线粒体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 166
+    },
+    {
+        "question_text": "167．遗传性胰岛素抵抗性糖尿病大多伴有胰岛素受体的基因突变，且呈明显异质性，胰岛素受体基因突变不可能引起",
+        "options": [
+            "A．胰岛素受体合成障碍",
+            "B．受体与胰岛素亲和力下降",
+            "C．胰岛素受体降解加快",
+            "D．PTK 活性增强",
+            "E．受体向细胞膜运输受阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 167
+    },
+    {
+        "question_text": "168．有关 G 蛋白叙述哪项是不正确的？",
+        "options": [
+            "A．G 蛋白是指与鸟嘌呤核苷酸可逆性结合的蛋白质家族",
+            "B．G 蛋白是由 abg 亚单位组成的异三聚体",
+            "C．Ga 上的 GTP 被 GDP 取代，这是 G 蛋白激活的关键步骤",
+            "D．小分子 G 蛋白只具有 G 蛋白 a 亚基的功能",
+            "E．G 蛋白偶联受体由是一单一肽链 7 次穿越细胞膜的单一肽链"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 168
+    },
+    {
+        "question_text": "169．信号转导通路中对靶蛋白调节最重要的方式是",
+        "options": [
+            "A．通过 G 蛋白调节",
+            "B．通过可逆性磷酸化调节",
+            "C．通过配体调节",
+            "D．通过受体数量调节",
+            "E．通过受体亲和力调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 169
+    },
+    {
+        "question_text": "170．迄今发现的最大受体超家族是",
+        "options": [
+            "A．GPCR 超家族",
+            "B．细胞因子受体超家族",
+            "C．酪氨酸蛋白激酶型受体家族",
+            "D．离子通道型受体家族",
+            "E．PSTK 型受体家族"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 170
+    },
+    {
+        "question_text": "171．下列关于细胞信号转导的叙述哪项是不正确的？",
+        "options": [
+            "A．不同的信号转导通路之间具有相互联系作用",
+            "B．细胞受体分为膜受体和核受体",
+            "C．酪氨酸蛋白激酶型受体属于核受体",
+            "D．细胞信号转导过程是由细胞内一系列信号转导蛋白的构象、活性或功能变化来实现的",
+            "E．细胞内信使分子能激活细胞内受体和蛋白激酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 171
+    },
+    {
+        "question_text": "172．下列哪种转导途径需要单跨膜受体",
+        "options": [
+            "A．cAMP-蛋白激酶通路",
+            "B．cAMP-蛋白激酶通路",
+            "C．酪氨酸蛋白激酶体系通路",
+            "D．Ca2+-依赖性蛋白激酶途径",
+            "E．细胞膜上 Ca2+通道开放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 172
+    },
+    {
+        "question_text": "173．IP3 受体位于",
+        "options": [
+            "A．细胞膜",
+            "B．核膜",
+            "C．内质网",
+            "D．线粒体内膜",
+            "E．溶酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 173
+    },
+    {
+        "question_text": "174．IP3 与内质网上受体结合后可使胞浆内",
+        "options": [
+            "A．Ca2+浓度升高",
+            "B．Na+浓度升高",
+            "C．cAMP 浓度升高",
+            "D．cGMP 浓度下降",
+            "E．Ca2+浓度下降"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 174
+    },
+    {
+        "question_text": "175．激活的 G 蛋白直接影响下列哪种酶的活性",
+        "options": [
+            "A．磷脂酶 A",
+            "B．蛋白激酶 A",
+            "C．磷脂酶 C",
+            "D．蛋白激酶 C",
+            "E．蛋白激酶 G"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 175
+    },
+    {
+        "question_text": "176．关于激素，下列叙述正确的是",
+        "options": [
+            "A．都由特殊分化的内分泌腺分泌",
+            "B．激素与受体结合是可逆的",
+            "C．与相应的受体共价结合，所以亲和力高",
+            "D．激素仅作用于细胞膜表面",
+            "E．激素作用的强弱与其浓度成正比"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 176
+    },
+    {
+        "question_text": "177．DAG 能特异地激活",
+        "options": [
+            "A．PKA",
+            "B．PKC",
+            "C．PKG",
+            "D．PLC",
+            "E．PTK"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "177",
+        "number": 177
+    }
+]

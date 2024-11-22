@@ -1,0 +1,982 @@
+[
+    {
+        "question_text": "1.急性失血输血合理的是",
+        "options": [
+            "A.失血量达到总血容量的20%,输浓缩红细胞及全血",
+            "B.失血量达到总血容量的35%,只输浓缩红细胞",
+            "C.失血量达到总血容量的15%,输浓缩红细胞",
+            "D.失血量低于总血容量的20%,可考虑不输",
+            "E.失血量达到总血容量的55%,只输浓缩红细胞及全血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 1
+    },
+    {
+        "question_text": "2.在输血过程中错误的是",
+        "options": [
+            "A.新生儿输血时要注意预热",
+            "B.可以在血中加入抗菌素",
+            "C.输血前后用生理盐水冲洗输血管道",
+            "D.输血后血袋要里保留2小时",
+            "E.输血前注意仔细核对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 2
+    },
+    {
+        "question_text": "3.自身输血的术中失血回输一般不超过",
+        "options": [
+            "A.2000ml",
+            "B.3000ml",
+            "C.4000ml",
+            "D.2500ml",
+            "E.1500ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 3
+    },
+    {
+        "question_text": "4.大量出血出现HCT下降时，失血量超过",
+        "options": [
+            "A.20%",
+            "B.15%",
+            "C.30%",
+            "D.25%",
+            "E.40%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 4
+    },
+    {
+        "question_text": "5.原则上，不输全血时，失血量低于全身血量的",
+        "options": [
+            "A.20%",
+            "B.15%",
+            "C.30%",
+            "D.25%",
+            "E.40%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 5
+    },
+    {
+        "question_text": "6.从200ml全血分离的1单位浓缩红细胞可提高70kg成年人的HCT",
+        "options": [
+            "A.2%?3%",
+            "B.1%?2%",
+            "C.3%?4%",
+            "D.4%?5%",
+            "E.0.5%?1%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 6
+    },
+    {
+        "question_text": "7.血液保存时间如用CPD和ACD抗凝为",
+        "options": [
+            "A.21天",
+            "B.35天",
+            "C.60天",
+            "D.28天",
+            "E.30天"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列溶液中不是血浆增量剂的是",
+        "options": [
+            "A.6%右旋糖苷等渗盐溶液",
+            "B.中分子右旋糖苷",
+            "C.羟乙基淀粉",
+            "D.林格氏液",
+            "E.明胶代血浆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 8
+    },
+    {
+        "question_text": "9.最严重的早期输血并发症是",
+        "options": [
+            "A.溶血反应",
+            "B.发热反应",
+            "C.过敏反应",
+            "D.循环超负荷",
+            "E.细菌污染反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 9
+    },
+    {
+        "question_text": "10.输血速度老年人一般为",
+        "options": [
+            "A.1ml/分",
+            "B.5ml/分",
+            "C.10滴/分",
+            "D.20滴/分",
+            "E.5滴/分"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 10
+    },
+    {
+        "question_text": "11.小儿输血速度一般为",
+        "options": [
+            "A.1ml/分",
+            "B.5ml/分",
+            "C.10滴/分",
+            "D.20滴/分",
+            "E.5滴/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 11
+    },
+    {
+        "question_text": "12.健康人一次失血量不超过多少毫升可不输血",
+        "options": [
+            "A.500ml",
+            "B.800ml",
+            "C.1000ml",
+            "D.1200ml",
+            "E.1500ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 12
+    },
+    {
+        "question_text": "13.一卵巢癌患者，输血儿毫升后，疑发生变态反应和过敏反应，其处理是",
+        "options": [
+            "A.减慢输血速度+肌注异丙嗪",
+            "B.中止输血，静推糖皮质激素",
+            "C.停止输血口服阿斯匹林",
+            "D.停止输血应用肝素",
+            "E.停止输血吸氧，改半坐卧位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 13
+    },
+    {
+        "question_text": "14.一脾破裂患者，术中输血20ml后，突然出现血压急剧下降，手术切口大量渗血，酱油色尿，应考虑",
+        "options": [
+            "A.过敏反应",
+            "B.发热反应",
+            "C.细菌污染反应",
+            "D.溶血反应",
+            "E.血液凝集反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 14
+    },
+    {
+        "question_text": "15.一患者，输血1-2小时后，突起寒战，高热头痛，血压16/12kpa，应考虑为",
+        "options": [
+            "A.溶血反应",
+            "B.发热反应",
+            "C.疟疾感染",
+            "D.体温中枢受损",
+            "E.过敏反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 15
+    },
+    {
+        "question_text": "16.血浆胶体渗透压的生理作用是",
+        "options": [
+            "A.调节血管内外水的交换",
+            "B.调节细胞内外水的交换",
+            "C.维持细胞正常体积",
+            "D.维持细胞正常形态",
+            "E.决定血浆总渗透压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 16
+    },
+    {
+        "question_text": "17.全血的比重主要决定于",
+        "options": [
+            "A.血浆蛋白含量",
+            "B.渗透压的高低",
+            "C.红细胞数量",
+            "D.白细胞数量",
+            "E.NaCl的浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 17
+    },
+    {
+        "question_text": "18.全血的粘滞性主要取决于",
+        "options": [
+            "A.血浆蛋白含量",
+            "B.红细胞数量",
+            "C.白细胞数量",
+            "D.红细胞的叠连",
+            "E.NaCl的浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 18
+    },
+    {
+        "question_text": "19.组织液与血浆成分的主要区别是组织液内",
+        "options": [
+            "A.不含血细胞",
+            "B.蛋白含量低",
+            "C.Na+含量高",
+            "D.K+含量高",
+            "E.Cl-含量高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 19
+    },
+    {
+        "question_text": "20.血清与血浆的主要区别在于血清缺乏",
+        "options": [
+            "A.纤维蛋白",
+            "B.纤维蛋白原",
+            "C.凝血因子",
+            "D.血小板",
+            "E.Ca2+"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 20
+    },
+    {
+        "question_text": "21.红细胞的变形能力的大小取决于红细胞的",
+        "options": [
+            "A.体积",
+            "B.表面积",
+            "C.数量",
+            "D.比重",
+            "E.表面积与体积的比值"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 21
+    },
+    {
+        "question_text": "22.红细胞沉降率的大小取决于红细胞的",
+        "options": [
+            "A.体积",
+            "B.表面积",
+            "C.数量",
+            "D.比重",
+            "E.叠连"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 22
+    },
+    {
+        "question_text": "23.红细胞表面积与体积的比值下降可引起红细胞",
+        "options": [
+            "A.变形性增大",
+            "B.渗透脆性增大",
+            "C.悬浮稳定性增大",
+            "D.血沉降率降低",
+            "E.血红蛋白含量增大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 23
+    },
+    {
+        "question_text": "24.自我复制能力最强的细胞是",
+        "options": [
+            "A.造血干细胞",
+            "B.定向组细胞",
+            "C.前体细胞",
+            "D.网织红细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 24
+    },
+    {
+        "question_text": "25.调节红细胞生成的主要体液因素是",
+        "options": [
+            "A.雄激素",
+            "B.雌激素",
+            "C.甲状腺激素",
+            "D.促红细胞生成素",
+            "E.生长激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 25
+    },
+    {
+        "question_text": "26.红细胞在血管外破坏的主要场所是",
+        "options": [
+            "A.肾、肝",
+            "B.脾、肝",
+            "C.肾、脾",
+            "D.胸腺、骨髓",
+            "E.骨髓、淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 26
+    },
+    {
+        "question_text": "27.血液凝固的发生是由于",
+        "options": [
+            "A.纤维蛋白溶解",
+            "B.纤维蛋白的激活",
+            "C.纤维蛋白原变为纤维蛋白",
+            "D.血小板聚集与红细胞叠连",
+            "E.因子训的激活"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 27
+    },
+    {
+        "question_text": "28.血液凝固的内源性激活途径与外源性激活途径的主要差别在于",
+        "options": [
+            "A.因子X的激活过程",
+            "B.凝血酶激活过程",
+            "C.纤维蛋白形成过程",
+            "D.有无血小板参与",
+            "E.有无Ca2+参与"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 28
+    },
+    {
+        "question_text": "29.内源性凝血途径的始动因子是",
+        "options": [
+            "A.因子Ⅻ",
+            "B.因子Ⅱ",
+            "C.因子X",
+            "D.因子 Ⅳ",
+            "E.因子Ⅰ"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 29
+    },
+    {
+        "question_text": "30.肝素抗凝的主要机制是",
+        "options": [
+            "A.抑制凝血酶原的激活",
+            "B.抑制因子X的激活",
+            "C.促进纤维蛋白吸附凝血酶",
+            "D.增强抗凝血酶III活性",
+            "E.抑制血小板聚集"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 30
+    },
+    {
+        "question_text": "31.纤溶酶的主要作用是水解",
+        "options": [
+            "A.因子V",
+            "B.因子IIa",
+            "C.因子刈",
+            "D.因子I和Ia",
+            "E.因子IV"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 31
+    },
+    {
+        "question_text": "32.外源性凝血途径的始动因子是",
+        "options": [
+            "A.  因子Ⅰ",
+            "B.  因子Ⅱ",
+            "C.  因子Ⅲ",
+            "D.  因子Ⅷ",
+            "E.  因子Ⅹ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 32
+    },
+    {
+        "question_text": "33.在凝血过程中将纤维蛋白原转变为纤维蛋白的凝血因子是",
+        "options": [
+            "A.因子IIa",
+            "B.因子I",
+            "C.因子V",
+            "D.因子XHa",
+            "E.因于Xllla"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 33
+    },
+    {
+        "question_text": "34.凝血酶的主要作用是",
+        "options": [
+            "A.加速因子W复合物的形成",
+            "B.加速凝血酶原酶复合物的形成",
+            "C.使纤维蛋白原转变为纤维蛋白",
+            "D.激活因子XX",
+            "E.促进血小板聚集"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 34
+    },
+    {
+        "question_text": "35.阿司匹林具有抗血小板聚集作用，是因为阿司匹林可抑制血小板的",
+        "options": [
+            "A.磷脂酶A2",
+            "B.环氧合酶",
+            "C.血栓素合成酶",
+            "D.前列环素合成酶",
+            "E.过氧化酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 35
+    },
+    {
+        "question_text": "36.可抑制血小板聚集的物质是",
+        "options": [
+            "A.ADP",
+            "B.TXA2",
+            "C.PGI2",
+            "D.胶原",
+            "E.凝血酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 36
+    },
+    {
+        "question_text": "37.血管损伤后止血栓能正确定位于损伤部位有赖于血小板的哪项特性",
+        "options": [
+            "A.粘附",
+            "B.聚集",
+            "C.收缩",
+            "D.吸附",
+            "E.释放"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 37
+    },
+    {
+        "question_text": "38.血凝块的回缩是由于",
+        "options": [
+            "A.纤维蛋白收缩",
+            "B.红细胞叠连",
+            "C.白细胞变形",
+            "D.血小板收缩蛋白收缩",
+            "E.红细胞破裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 38
+    },
+    {
+        "question_text": "39.O型血的红细胞膜上含有",
+        "options": [
+            "A.A抗原",
+            "B.B抗原",
+            "C.O抗原",
+            "D.H抗原",
+            "E.AB抗原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 39
+    },
+    {
+        "question_text": "40.Rh阳性是指红细胞膜上含有",
+        "options": [
+            "A.C抗原",
+            "B.A抗原",
+            "C.D抗原",
+            "D.E抗原",
+            "E.B抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列哪项不是血浆蛋白的生理功能",
+        "options": [
+            "A.运输02和CO2",
+            "B.缓冲功能",
+            "C.参与生理止血",
+            "D.参与机体的免疫功能",
+            "E.维持血浆胶体渗透压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列哪种成分最适合需要多次输血而有发热的贫血病人",
+        "options": [
+            "A.浓缩红细胞",
+            "B.全血",
+            "C.冰冻红细胞",
+            "D.少浆血",
+            "E.洗涤红细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 42
+    },
+    {
+        "question_text": "43.一次失血量V500ml时，正确的处理是",
+        "options": [
+            "A.输入全血",
+            "B.输入6%羟乙基淀粉",
+            "C.输入血浆",
+            "D.不需处理",
+            "E.输入晶体液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪项不是输血的适应症",
+        "options": [
+            "A.烧伤?",
+            "B.大手术出血",
+            "C.出血性疾病",
+            "D.肾衰竭",
+            "E.血液中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 44
+    },
+    {
+        "question_text": "45.某人的红细胞与B型血的血清发生凝集，而其血清与B型血的红细胞不发生凝集，分析此人的血型为",
+        "options": [
+            "A.A型",
+            "B.B型",
+            "C.O型",
+            "D.AB型",
+            "E.Rh阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 45
+    },
+    {
+        "question_text": "46.在某凝血功能障碍患者血浆中加入足量组织因子和Ca2+后血浆凝固时间明显较正常人延长，该患者可能缺乏下列哪种物质",
+        "options": [
+            "A.Ca2+",
+            "B.因子刈",
+            "C.因子训",
+            "D.血小板",
+            "E.因子V"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 46
+    },
+    {
+        "question_text": "47.某患者血沉增快，若将该患者的红细胞置于正常人血浆中，其红细胞沉降的速度将",
+        "options": [
+            "A.增快",
+            "B.下降",
+            "C.正常",
+            "D.无变化",
+            "E.无法判断"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 47
+    },
+    {
+        "question_text": "48.某患者在胃大部分切除后出现巨幼红细胞性贫血的原因是对哪项物质吸收障碍",
+        "options": [
+            "A.蛋白质",
+            "B.叶酸",
+            "C.维生素B12",
+            "D.脂肪",
+            "E.铁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 48
+    },
+    {
+        "question_text": "49.血小板减少的患者，皮肤粘膜常自发性出现出血点和紫瘢主要是由于",
+        "options": [
+            "A.不易形成止血栓",
+            "B.血管不易收缩",
+            "C.不能维持血管内皮的完整性",
+            "D.血凝块回缩障碍",
+            "E.血液凝固障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 49
+    },
+    {
+        "question_text": "50.Rh阴性母亲，其胎儿若R阳性，胎儿生后易患",
+        "options": [
+            "A.血友病",
+            "B.白血病",
+            "C.红细胞增多症",
+            "D.新生儿溶血病",
+            "E.巨幼红细胞性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 50
+    },
+    {
+        "question_text": "51.患者男32岁，胃癌术后10天，化验检查提示Hb120g/L，RBC500万个/ml,白细胞3500个/ml需成分输血，选用哪项最合适？",
+        "options": [
+            "A.新鲜血浆",
+            "B.浓缩粒细胞",
+            "C.洗涤红细胞",
+            "D.浓缩红细胞",
+            "E.冷沉淀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 51
+    },
+    {
+        "question_text": "52.男，30岁。外伤后急性失血约1000ml，给予手术止血，并输注平衡盐溶液和羟乙基淀粉，术后查体：P95次/分，BP100/60mmHg,Hb80g/L此时应采取的治疗措施是",
+        "options": [
+            "A.输注红细胞悬液1单位",
+            "B.输注红细胞悬液5单位",
+            "C.输注全血1000ml",
+            "D.输注血浆400ml",
+            "E.暂不输血，继续观察"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 52
+    },
+    {
+        "question_text": "53.急性失血输血合理的是",
+        "options": [
+            "A.失血量达到总血容量的20%,输浓缩红细胞及全血",
+            "B.失血量达到总血容量的35%,只输浓缩红细胞",
+            "C.失血量达到总血容量的15%,输浓缩红细胞",
+            "D.失血量低于总血容量的20%,可考虑不输",
+            "E.失血量达到总血容量的55%,只输浓缩红细胞及全血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 53
+    },
+    {
+        "question_text": "54.男，35岁，有12指肠球部溃汤病史，今晨突起头晕、心慌、呕血2次、黑便1次，来院查：面色苍白出冷汗、P120次/分、BP80/50mmHg、HCT28%，此时最合适的处理方法是",
+        "options": [
+            "A.输血浆增量剂",
+            "B.输全血及输液",
+            "C.输晶体液",
+            "D.紧急手术",
+            "E.升压药物应用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 54
+    },
+    {
+        "question_text": "55.一卵巢癌患者，输血儿毫升后，疑发生变态反应和过敏反应，其处理是",
+        "options": [
+            "A.减慢输血速度+肌注异丙嗪",
+            "B.中止输血，静推糖皮质激素",
+            "C.停止输血口服阿斯匹林",
+            "D.停止输血应用肝素",
+            "E.停止输血吸氧，改半坐卧位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 55
+    },
+    {
+        "question_text": "56.患者女40岁，在输血过程中出现寒战高热而血压正常最有效的处理方式是",
+        "options": [
+            "A.苯海拉明25mg静注",
+            "B.异丙嗪25mg或哌替啶50mg肌注",
+            "C.地塞米松20mg静注",
+            "D.更换输血器",
+            "E.吸氧"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 56
+    },
+    {
+        "question_text": "57.女性，52岁，因肝癌破裂大出血就诊，立即给予输血。当输血50ml时，病人出现烦躁不安，心前区压迫感，腰背酸痛，尿呈酱油色，血压70/40mmHg该病人最可能的诊断",
+        "options": [
+            "A.非溶血性发热反应",
+            "B.过敏反应",
+            "C.细菌污染反应",
+            "D.循环超负荷",
+            "E.溶血反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 57
+    },
+    {
+        "question_text": "男,35岁,有12指肠球部溃汤病史,今晨突起头晕、心慌、呕血2次、黑便1次,来院查：面色苍白、出冷汗、P120次/分BP80/50mmHgHCT28%58.估计失血量为：",
+        "options": [
+            "A.200ml",
+            "B.300ml",
+            "C.500ml",
+            "D.700ml",
+            "E.1000ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 58
+    },
+    {
+        "question_text": "59.此时最合适的处理方法是：",
+        "options": [
+            "A.输血浆增量剂",
+            "B.输全血及输液",
+            "C.输晶体液",
+            "D.紧急手术",
+            "E.升压药物应用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 59
+    },
+    {
+        "question_text": "60.血液的粘滞性主要决定于",
+        "options": [
+            "A.红细胞数目",
+            "B.血浆总蛋白含量",
+            "C.血浆球蛋白含量",
+            "D.血浆白蛋白含量",
+            "E.血浆NaCl含量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 60
+    },
+    {
+        "question_text": "61.血浆胶体渗透压主要决定于",
+        "options": [
+            "A.红细胞数目",
+            "B.血浆总蛋白含量",
+            "C.血浆球蛋白含量",
+            "D.血浆白蛋白含量",
+            "E.血浆NaCl含量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 61
+    },
+    {
+        "question_text": "62.处于抵御化脓性细菌入侵第一线的细胞是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜碱性粒细胞",
+            "C.嗜酸性粒细胞",
+            "D.淋巴细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 62
+    },
+    {
+        "question_text": "63.可释放组胺引起过敏症状的细胞是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜碱性粒细胞",
+            "C.嗜酸性粒细胞",
+            "D.淋巴细胞",
+            "E.血小板"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 63
+    },
+    {
+        "question_text": "64.可增强IXa活性的是",
+        "options": [
+            "A.因子V",
+            "B.因子Ⅶ",
+            "C.因子Ⅷ",
+            "D.因子X",
+            "E.因子Ⅻ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 64
+    },
+    {
+        "question_text": "65.可增强Xa活性的是",
+        "options": [
+            "A.因子V",
+            "B.因子Ⅶ",
+            "C.因子Ⅷ",
+            "D.因子X",
+            "E.因子Ⅻ"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 65
+    },
+    {
+        "question_text": "与纤溶酶原的激活有关的是",
+        "options": [
+            "A.因子V",
+            "B.因子Ⅶ",
+            "C.因子Ⅷ",
+            "D.因子X",
+            "E.因子Ⅻ"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 66
+    },
+    {
+        "question_text": "能释放嗜酸性粒细胞趋化因子A的是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜酸性粒细胞",
+            "C.嗜碱性粒细胞",
+            "D.单核细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 67
+    },
+    {
+        "question_text": "68.能释放组胺酶的是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜酸性粒细胞",
+            "C.嗜碱性粒细胞",
+            "D.单核细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 68
+    },
+    {
+        "question_text": "69.能释放肝素的是",
+        "options": [
+            "A.中性粒细胞",
+            "B.嗜酸性粒细胞",
+            "C.嗜碱性粒细胞",
+            "D.单核细胞",
+            "E.淋巴细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 69
+    },
+    {
+        "question_text": "70.多次输血的贫血病人输血时用",
+        "options": [
+            "A.全血",
+            "B.洗涤红细胞",
+            "C.血小板制剂",
+            "D.血清蛋白",
+            "E.浓缩白细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 70
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "question_text": "1.全胃肠外营养治疗时，补充氮(g)和热量(kcal)的比例一般为",
+        "options": [
+            "A.1：10",
+            "B.1：50",
+            "C.1：100",
+            "D.1：150",
+            "E.1：300"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 1
+    },
+    {
+        "question_text": "2.机体处于应激如创伤、手术、感染等情况下，能量代谢的变化中，错误的是",
+        "options": [
+            "A.机体出现高代谢和分解代谢",
+            "B.脂肪动员加速",
+            "C.蛋白质分解加速",
+            "D.处理葡萄糖能力增强",
+            "E.机体处于负氮平衡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列各项关于全胃肠外营养的指征中，不包括",
+        "options": [
+            "A.短肠综合征",
+            "B.大面积烧伤",
+            "C.急性坏死性胰腺炎",
+            "D.溃疡性结肠炎急性期",
+            "E.肢体外伤性失血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 3
+    },
+    {
+        "question_text": "4.应用全胃肠外营养时，氮和热量之比应为",
+        "options": [
+            "A.l：(50?80)kcal",
+            "B.1：(100—120)kcal",
+            "C.1：(150—200)kca",
+            "D.1：(210—240)kcal",
+            "E.1：250kcal以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 4
+    },
+    {
+        "question_text": "5.长期肠外营养支持者，应选择的穿刺血管是",
+        "options": [
+            "A.颈内静脉",
+            "B.大隐静脉",
+            "C.颈外静脉",
+            "D.足背静脉",
+            "E.头静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 5
+    },
+    {
+        "question_text": "6.肠内营养并发症与输入速度及溶液浓度有关的是",
+        "options": [
+            "A.误吸",
+            "B.腹胀、腹泻",
+            "C.肠炎",
+            "D.肠道细菌移位",
+            "E.胆囊结石"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 6
+    },
+    {
+        "question_text": "7.评价外科病人的营养状态，最简单而实用的指标是",
+        "options": [
+            "A.近期体重下降程度和三头肌皮褶厚度",
+            "B.血清转铁蛋白和视黄醇结合蛋白",
+            "C.握力和三头肌皮褶厚度",
+            "D.近期体重下降程度和血浆白蛋白水平",
+            "E.氮平衡试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪一项不是肠外营养的并发症",
+        "options": [
+            "A.气胸",
+            "B.高/低血糖",
+            "C.电解质素乱",
+            "D.切口难以愈合",
+            "E.微量元素缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 8
+    },
+    {
+        "question_text": "9.清蛋白低于多少表示重度营养不良",
+        "options": [
+            "A.35g/L",
+            "B.29g/L",
+            "C.25g/L",
+            "D.15g/L",
+            "E.21g/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 9
+    },
+    {
+        "question_text": "10.机体脂肪储存比正常减少多少为营养不良",
+        "options": [
+            "A.20%",
+            "B.24%",
+            "C.30%",
+            "D.35%",
+            "E.40%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 10
+    },
+    {
+        "question_text": "11.正常人每日需能量为",
+        "options": [
+            "A.5000k",
+            "B.6325kJ",
+            "C.7535kJ",
+            "D.8000kJ",
+            "E.9735kJ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 11
+    },
+    {
+        "question_text": "12.正常成人每天每公斤体重净息能量消耗(REE)为",
+        "options": [
+            "A.63kJ(15kcal)",
+            "B.84kJ(20kcal)",
+            "C.105kj(25kcal)",
+            "D.126Kj(30kca1)",
+            "E.147kj(35kcal)"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项是肠外营养最严重的技术并发症",
+        "options": [
+            "A.局部出血",
+            "B.气胸",
+            "C.空气栓塞",
+            "D.损伤胸导管",
+            "E.臂丛神经损伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 13
+    },
+    {
+        "question_text": "14.肠外营养发生导管性脓毒症时，应立即采取的措施为",
+        "options": [
+            "A.大剂量抗生素",
+            "B.更换营养液",
+            "C.镇静、退热",
+            "D.拔除导管",
+            "E.局部清洁、换药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于肠内营养(EN)，下列哪项描述是不恰当的",
+        "options": [
+            "A.EN符合生理，并发症少",
+            "B.只要肠道有功能，尽量采取EN支持",
+            "C.昏迷病人不能用EN支持",
+            "D.营养液输入初始应缓慢、低浓度",
+            "E.营养液的温度应接近体温"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 15
+    },
+    {
+        "question_text": "16.男性，20岁，因高位小肠痿1天入院，入院后经颈内静脉插管滴入全胃肠外营养液，2周后突然出现寒战、高热，无咳嗽咳痰，腹部无压痛及反跳痛，最有可能的诊断是",
+        "options": [
+            "A.高渗性非酮性昏迷",
+            "B.肺部感染",
+            "C.气胸",
+            "D.导管性脓毒症",
+            "E.导管折断"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 16
+    },
+    {
+        "question_text": "17.男性，78岁，全胃切除术后6天，大量肠液自腹腔引流管引出，左上腹疼痛，查体:左上腹轻压痛，无肌紧张，首选治疗措施是",
+        "options": [
+            "A.急诊手术",
+            "B.全胃肠外营养",
+            "C.要素饮食",
+            "D.普通饮食",
+            "E.输血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 17
+    }
+]

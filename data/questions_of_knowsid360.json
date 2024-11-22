@@ -1,0 +1,268 @@
+[
+    {
+        "question_text": "1.下列属长效胰岛素制剂是",
+        "options": [
+            "A.胰岛素",
+            "B.精蛋白锌胰岛素",
+            "C.低精蛋白锌胰岛素",
+            "D.珠蛋白锌胰岛素",
+            "E.赖脯胰岛素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 1
+    },
+    {
+        "question_text": "2.氯磺丙脲治疗糖尿病的适应证是:",
+        "options": [
+            "A.切除胰腺的糖尿病",
+            "B.重症糖尿病",
+            "C.酮症酸中毒",
+            "D.低血糖昏迷",
+            "E.胰岛功能尚存的轻、中型糖尿病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 2
+    },
+    {
+        "question_text": "3.可治疗尿崩症的降血糖药",
+        "options": [
+            "A.甲苯磺丁脲",
+            "B.氯磺丙脲",
+            "C.格列本脲",
+            "D.甲福明",
+            "E.胰岛素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 3
+    },
+    {
+        "question_text": "4.可增强磺酰脲类的降血糖作用的药物是:",
+        "options": [
+            "A.异丙肾上腺素",
+            "B.双香豆素",
+            "C.糖皮质激素",
+            "D.噻嗪类利尿药",
+            "E.口服避孕药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 4
+    },
+    {
+        "question_text": "5.双胍类降血糖药的作用机制不包括:",
+        "options": [
+            "A.降低食物中葡萄糖的吸收",
+            "B.抑制糖原异生",
+            "C.促进组织摄取葡萄糖",
+            "D.促进胰岛素的分泌",
+            "E.促进肌肉组织中糖的无氧酵解"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 5
+    },
+    {
+        "question_text": "6.苯乙福明的严重不良反应",
+        "options": [
+            "A.粒细胞减少",
+            "B.乳酸血症",
+            "C.眩晕",
+            "D.嗜睡",
+            "E.精神错乱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 6
+    },
+    {
+        "question_text": "7.合并肾功能不全的糖尿病病人易发生不良反应的药",
+        "options": [
+            "A.格列吡嗪",
+            "B.格列本脲",
+            "C.甲苯磺丁脲",
+            "D.氯磺丙脲",
+            "E.格列齐特"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 7
+    },
+    {
+        "question_text": "8.用下列哪种氨基酸代替猪胰岛素β链第30位丙氨酸可获得人胰岛素?",
+        "options": [
+            "A.精氨酸",
+            "B.苏氨酸",
+            "C.谷氨酸",
+            "D.甘氨酸",
+            "E.赖氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 8
+    },
+    {
+        "question_text": "9.胰岛素受体是:",
+        "options": [
+            "A.糖蛋白",
+            "B.碱性蛋白",
+            "C.酸性蛋白",
+            "D.组蛋白",
+            "E.精蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 9
+    },
+    {
+        "question_text": "10.合并重度感染的糖尿病病人应选用",
+        "options": [
+            "A.氯磺丙脲",
+            "B.格列本脲",
+            "C.格列吡嗪",
+            "D.正规胰岛素",
+            "E.精蛋白锌胰岛素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 10
+    },
+    {
+        "question_text": "11.糖尿病病人大手术时宜选用正规胰岛素治疗的理由",
+        "options": [
+            "A.改善糖代谢",
+            "B.改善脂肪代谢",
+            "C.改善蛋白质代谢",
+            "D.避免胰岛素耐受性",
+            "E.防止和纠正代谢紊乱恶化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 11
+    },
+    {
+        "question_text": "12.糖尿病酮症酸中毒时宜用",
+        "options": [
+            "A.精蛋白锌胰岛素",
+            "B.低精蛋白锌胰岛素",
+            "C.珠蛋白锌胰岛素",
+            "D.氯磺丙脲",
+            "E.大剂量胰岛素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 12
+    },
+    {
+        "question_text": "13.糖尿病病人合并重度感染宜用大剂量胰岛素的理由",
+        "options": [
+            "A.血中抗胰岛素物质增多",
+            "B.血中大量游离脂肪妨碍葡萄糖的摄取利用",
+            "C.产生抗胰岛素受体抗体",
+            "D.胰岛素受体数目减少",
+            "E.靶细胞膜上葡蔔糖转运系统失常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 13
+    },
+    {
+        "question_text": "14.可降低磺酰脲类药物降血糖作用的药物是:",
+        "options": [
+            "A.保秦松",
+            "B.水杨酸钠",
+            "C.氯丙嗪",
+            "D.青霉素",
+            "E.双香豆素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 14
+    },
+    {
+        "question_text": "15.可使磺酰脲类游离药物浓度升高的药物是:",
+        "options": [
+            "A.氯丙嗪",
+            "B.糖皮质激素",
+            "C.噻嗪类利尿药",
+            "D.口服避孕药",
+            "E.青霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 15
+    },
+    {
+        "question_text": "16.双胍类药物治疗糖尿病的机制是:",
+        "options": [
+            "A.增强胰岛素的作用",
+            "B.促进组织摄取葡萄糖等",
+            "C.刺激内源性胰岛素的分泌",
+            "D.阻滞ATP敏感的钾通道",
+            "E.增加靶细胞膜上胰岛素受体的数目"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 16
+    },
+    {
+        "question_text": "17.老年糖尿病病人不宜用:",
+        "options": [
+            "A.格列齐特",
+            "B.氯磺丙脲",
+            "C.甲苯磺丁脲",
+            "D.甲福明",
+            "E.苯乙福明"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 17
+    },
+    {
+        "question_text": "18.糖尿病酮症酸中毒病人宜选用大剂量胰岛素的原因",
+        "options": [
+            "A.慢性耐受性",
+            "B.产生抗胰岛素受体抗体",
+            "C.靶细胞膜上葡萄糖转运系统失常",
+            "D.胰岛素受体数量减",
+            "E.血中大量游离脂肪酸和酮体的存在妨碍了葡萄糖的摄取和利用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 18
+    },
+    {
+        "question_text": "19.可静脉注射的胰岛素制剂",
+        "options": [
+            "A.正规胰岛素",
+            "B.低精蛋白锌胰岛素",
+            "C.珠蛋白锌胰岛素",
+            "D.精蛋白锌胰岛素",
+            "E.甘精胰岛素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 19
+    }
+]

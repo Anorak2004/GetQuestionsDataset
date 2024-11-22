@@ -1,0 +1,295 @@
+[
+    {
+        "question_text": "1.可引起血钾升高的药物是:",
+        "options": [
+            "A.筒箭毒碱",
+            "B.泮库溴铵",
+            "C.加拉碘钕",
+            "D.琥珀胆碱",
+            "E.山莨菪碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 1
+    },
+    {
+        "question_text": "2.新斯的明可加重下列哪个药物过量中毒:",
+        "options": [
+            "A.泮库溴铵",
+            "B.加拉碘铵",
+            "C.琥珀胆碱",
+            "D.筒箭毒碱",
+            "E.山莨菪碱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列药物过量中毒可用新斯的明解救是:",
+        "options": [
+            "A.毛果芸香碱",
+            "B.毒扁豆碱",
+            "C.琥珀胆碱",
+            "D.筒箭毒碱",
+            "E.有机磷酸酯类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 3
+    },
+    {
+        "question_text": "4.筒箭毒碱的骨骼肌松弛机制是:",
+        "options": [
+            "A.竞争拮抗乙酰胆碱与N受体结合",
+            "B.促进运动神经末梢释放乙酰胆碱",
+            "C.抑制运动神经末梢释放乙酰胆碱",
+            "D.抑制胆碱酯酶",
+            "E.中枢性肌松作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 4
+    },
+    {
+        "question_text": "5.琥珀胆碱的骨骼肌松弛机制是:",
+        "options": [
+            "A.中枢性肌松作用",
+            "B.抑制胆碱酯酶",
+            "C.促进运动神经末梢释放乙酰胆碱",
+            "D.抑制运动神经末梢释放乙酰胆碱",
+            "E.运动终板突触后膜产生持久去极化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 5
+    },
+    {
+        "question_text": "6.竞争型骨骼肌松弛药是:",
+        "options": [
+            "A.琥珀胆碱",
+            "B.毒扁豆碱",
+            "C.筒箭毒碱",
+            "D.美加明",
+            "E.咪噻芬"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 6
+    },
+    {
+        "question_text": "7.神经节阻断药是:",
+        "options": [
+            "A.美加明",
+            "B.酚苄明",
+            "C.酚妥拉明",
+            "D.筒箭毒碱",
+            "E.琥珀胆碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 7
+    },
+    {
+        "question_text": "8.N胆碱受体阻断药",
+        "options": [
+            "A.促进唾液腺分泌",
+            "B.也称为骨骼肌松弛药",
+            "C.使乙酰胆碱不能引起神经节细胞除极化",
+            "D.阻断神经冲动在神经肌肉间传递",
+            "E.是目前最常用的治疗高血压药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 8
+    },
+    {
+        "question_text": "9.静脉注射能引起肌束颤动，导致肌肉酸痛的肌松药是",
+        "options": [
+            "A.筒箭毒碱",
+            "B.加拉碘铵",
+            "C.氯甲左箭毒",
+            "D.阿曲库铵",
+            "E.琥珀胆碱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 9
+    },
+    {
+        "question_text": "10.神经节阻断药的降压特点是",
+        "options": [
+            "A.降压作用弱，副作用少",
+            "B.降压作用强,副作用少",
+            "C.降压作用强、慢,副作用多",
+            "D.降压作用强、快,副作用多",
+            "E.降压作用强、快,副作用少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 10
+    },
+    {
+        "question_text": "11.琥珀胆碱具有的药理特性是",
+        "options": [
+            "A.用药后常见短暂的肌束颤动",
+            "B.抑制血浆中假性胆碱酯酶活性",
+            "C.能用新斯的明解救",
+            "D.肌松作用出现快而持久",
+            "E.中枢抑制作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 11
+    },
+    {
+        "question_text": "12.琥珀胆碱",
+        "options": [
+            "A.90%迅速被血浆假性胆碱酯酶水解",
+            "B.90%迅速被突触间隙假性胆碱酯酶水解",
+            "C.90%迅速被肝药酶代谢",
+            "D.90%迅速被磷酸二酯酶水解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 12
+    },
+    {
+        "question_text": "13.除极化型肌松药不具备哪种特点",
+        "options": [
+            "A.肌松作用前，常见短暂的肌束颤动",
+            "B.临床用量时,无神经节阻断作用",
+            "C.能用新斯的明解救",
+            "D.肌松作用出现快而短暂",
+            "E.连续用药可产生快速耐受性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 13
+    },
+    {
+        "question_text": "14.对琥珀胆碱描述错误的是",
+        "options": [
+            "A.肌松作用时，呼吸肌无力现象不明显",
+            "B.静脉注射适用于气管内插管、气管镜、食道镜等短时操作",
+            "C.产生的肌松作用可被新斯的明加强或延长",
+            "D.肌松作用出现快而短暂",
+            "E.为非除极化型肌松药"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 14
+    },
+    {
+        "question_text": "15.琥珀胆碱的肌松作用机制是",
+        "options": [
+            "A.减少乙酰胆碱合成和释放,使其不能产生除极化作用",
+            "B.激活胆碱酯酶,加速乙酰胆碱破坏,使其不能产生除极化作用",
+            "C.抑制胆碱酯酶,使乙酰胆碱蓄积而产生持久除极化作用",
+            "D.直接与N受体结合,竞争性地阻断乙酰胆碱的除极化作用",
+            "E.直接与N受体结合,产生类似乙酰胆碱的持久除极化作用,使终板对乙酰胆碱不产生反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 15
+    },
+    {
+        "question_text": "16.应用神经节阻断药后,可能出现",
+        "options": [
+            "A.唾液分泌增加",
+            "B.血压下降",
+            "C.胃肠道蠕动增加",
+            "D.呼吸肌麻痹",
+            "E.肌无力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 16
+    },
+    {
+        "question_text": "17.琥珀胆碱禁用于",
+        "options": [
+            "A.儿童",
+            "B.老年",
+            "C.精神分裂症病人",
+            "D.清醒病人",
+            "E.需做食管镜的病人"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 17
+    },
+    {
+        "question_text": "18.筒箭毒碱松弛骨骼肌的作用机制是",
+        "options": [
+            "A.减少乙酰胆碱合成和释放,使其不能产生除极化作用",
+            "B.激活胆碱酯酶,加速乙酰胆碱破坏,使其不能产生除极化作用",
+            "C.抑制胆碱酯酶,使乙酰胆碱蓄积而产生持久除极.化作用",
+            "D.直接与N受体结合,竞争性地阻断乙酰胆碱的除极化作用",
+            "E.直接与N受体结合,产生类似乙酰胆碱的持久除极化作用,使终板对乙酰胆碱不产生反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 18
+    },
+    {
+        "question_text": "19.筒箭毒碱过量中毒的解救药物是",
+        "options": [
+            "A.碘解磷定",
+            "B.阿托品",
+            "C.山莨菪碱",
+            "D.东莨菪碱",
+            "E.新斯的明"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列关于筒箭毒碱的叙述,正确的是",
+        "options": [
+            "A.无神经节阻断作用",
+            "B.抑制组胺释放",
+            "C.为N受体竞争性拮抗剂",
+            "D.适用于儿童肌松处理",
+            "E.为除极化型肌松药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 20
+    },
+    {
+        "question_text": "21.治疗量的琥珀胆碱,对少数人的肌松作用强而持久,其原因常是",
+        "options": [
+            "A.变态反应",
+            "B.遗传性血浆胆碱酯酶缺乏",
+            "C.肾损害使药物排泄减少",
+            "D.肝损害使药物排泄减少",
+            "E.甲状腺功能低下,使药物作用增强"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 21
+    }
+]

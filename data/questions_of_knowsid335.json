@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.有机磷酸酯类中毒者反复大剂量注射阿托品后,原中毒症状缓解或消失,但又出现兴奋、心悸、瞳孔扩大、视近物模糊、排尿困难等症状,此时应采用",
+        "options": [
+            "A.山莨菪碱对抗新出现的症状",
+            "B.毛果芸香碱对抗新出现的症状",
+            "C.东莨菪碱以缓解新出现的症状",
+            "D.继续应用阿托品可缓解新出现症状",
+            "E.碘解定以缓解新出现的症状"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.主要局部用于治疗青光眼的药物是:",
+        "options": [
+            "A.阿托品",
+            "B.东茛菪碱",
+            "C.筒箭毒碱",
+            "D.毒扁豆碱",
+            "E.山莨菪碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.毛果芸香碱是",
+        "options": [
+            "A.α受体激动剂",
+            "B.β受体激动剂",
+            "C.M受体激动剂",
+            "D.N受体激动剂",
+            "E.DA受体激动剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.毛果芸香碱缩瞳是:",
+        "options": [
+            "A.激动瞳孔扩大肌的α受体,使其收缩",
+            "B.激动瞳孔括约肌的M受体,使其收缩",
+            "C.阻断瞳孔扩大肌的α受体,使其收缩",
+            "D.阻断瞳孔括约肌的M受体,使其收缩",
+            "E.阻断瞳孔括约肌的M受体,使其松弛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.新斯的明最强的作用是:",
+        "options": [
+            "A.膀胱逼尿肌兴奋",
+            "B.心脏抑制",
+            "C.腺体分泌增加",
+            "D.骨骼肌兴奋",
+            "E.胃肠平滑肌兴奋"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗闭角型青光眼应选用:",
+        "options": [
+            "A.新斯的明",
+            "B.乙酰胆碱",
+            "C.琥珀胆碱",
+            "D.毛果芸香碱",
+            "E.筒箭毒碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.碘解磷定解救有机磷酸酯类中毒的主要机制是:",
+        "options": [
+            "A.直接激活胆碱酯酶",
+            "B.促进胆碱酯酶的生成",
+            "C.生成磷酰化碘解磷定",
+            "D.阻断M受体",
+            "E.生成磷酰化胆碱酯酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗重症肌无力,应首选:",
+        "options": [
+            "A.毛果芸香碱",
+            "B.阿托品",
+            "C.琥珀胆碱",
+            "D.毒扁豆碱",
+            "E.新斯的明"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.有机磷酸酯类中毒出现M样作用的原因是",
+        "options": [
+            "A.胆碱能神经递质合成增加",
+            "B.胆碱能神经递质释放增加",
+            "C.胆碱能神经递质水解减少",
+            "D.直接激动M受体",
+            "E.M胆碱受体敏感性增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.有机磷酸酯类中毒机制是:",
+        "options": [
+            "A.直接激动M受体",
+            "B.直接激动N受体",
+            "C.持久抑制单胺氧化酶",
+            "D.持久抑制磷酸二酯酶",
+            "E.持久抑制胆碱酯酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.阿托品治疗有机磷酯类中毒不能缓解的症状是：",
+        "options": [
+            "A.支气管痉挛",
+            "B.骨肠平滑肌痉挛",
+            "C.支气管及唾液分泌",
+            "D.骨骼肌震颤",
+            "E.呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.毛果芸香碱不具有的作用是:",
+        "options": [
+            "A.胃肠平滑肌收缩",
+            "B.骨骼肌收缩",
+            "C.眼内压下降",
+            "D.心率减慢",
+            "E.腺体分泌增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

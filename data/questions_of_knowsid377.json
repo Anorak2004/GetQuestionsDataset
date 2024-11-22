@@ -1,0 +1,236 @@
+[
+    {
+        "question_text": "1.原虫的有性繁殖方式是",
+        "options": [
+            "A.二分裂",
+            "B.出芽繁殖",
+            "C.裂体生殖",
+            "D.配子生殖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列哪种原虫的结构与其逃避宿主免疫效应有关",
+        "options": [
+            "A.表膜",
+            "B.细胞质",
+            "C.细胞核",
+            "D.内含物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 2
+    },
+    {
+        "question_text": "3.医学原虫的基本结构是",
+        "options": [
+            "A.胞膜、基质和细胞器",
+            "B.胞膜、胞质和胞核",
+            "C.核膜、核质和核仁",
+            "D.胞膜、细胞器和核质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 3
+    },
+    {
+        "question_text": "4.原虫分类的主要依据是",
+        "options": [
+            "A.原虫的外形",
+            "B.细胞核的结构",
+            "C.运动细胞器的有无和类型",
+            "D.生活史类型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 4
+    },
+    {
+        "question_text": "5.寄生原虫的主要能量来源是",
+        "options": [
+            "A.脂肪代谢",
+            "B.糖的无氧酵解",
+            "C.蛋白代谢",
+            "D.三羧酸循环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 5
+    },
+    {
+        "question_text": "6.原虫免疫类型多属于",
+        "options": [
+            "A.伴随免疫",
+            "B.带虫免疫",
+            "C.消除性免疫",
+            "D.体液免疫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 6
+    },
+    {
+        "question_text": "7.完成生活史需一种以上脊椎动物宿主的原虫是",
+        "options": [
+            "A.刚地弓形虫",
+            "B.阴道毛滴虫",
+            "C.疟原虫",
+            "D.贾第虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 7
+    },
+    {
+        "question_text": "8.原虫摄取营养的方式不包括",
+        "options": [
+            "A.胞饮",
+            "B.吞噬",
+            "C.伪足",
+            "D.跨膜被动扩散"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 8
+    },
+    {
+        "question_text": "9.有关原虫的概念下列哪个是错误的",
+        "options": [
+            "A.原虫生理功能完整",
+            "B.显微镜下可见",
+            "C.具有完整的细胞结构",
+            "D.原虫是单细胞的原核动物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 9
+    },
+    {
+        "question_text": "10.可经胎盘感染的寄生虫是",
+        "options": [
+            "A.贾第虫",
+            "B.弓形虫",
+            "C.阴道毛滴虫",
+            "D.阿米巴原虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 10
+    },
+    {
+        "question_text": "11.对中间宿主选择极不严格的原虫是",
+        "options": [
+            "A.疟原虫",
+            "B.阴道毛滴虫",
+            "C.贾第虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 11
+    },
+    {
+        "question_text": "12.可引起眼部病变的原虫是",
+        "options": [
+            "A.疟原虫",
+            "B.贾第虫",
+            "C.溶组织内阿米巴",
+            "D.弓形虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 12
+    },
+    {
+        "question_text": "13.不属于原虫运动细胞器的结构的是",
+        "options": [
+            "A.纤毛",
+            "B.线粒体",
+            "C.伪足",
+            "D.波动膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 13
+    },
+    {
+        "question_text": "14长期服用免疫抑制剂的病人可能诱发的寄生虫病中不包括",
+        "options": [
+            "A.弓形虫病",
+            "B.贾第虫病",
+            "C.隐孢子虫病",
+            "D.疟原虫病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪一种是机会致病原虫",
+        "options": [
+            "A.疟原虫",
+            "B.阴道毛滴虫",
+            "C.弓形虫",
+            "D.溶组织内阿米巴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 15
+    },
+    {
+        "question_text": "16.属于原虫胞质内含物的是",
+        "options": [
+            "A.线粒体",
+            "B.溶酶体",
+            "C.伪足",
+            "D.拟线粒体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 16
+    },
+    {
+        "question_text": "17.可用厚血膜涂片法检查的原虫是",
+        "options": [
+            "A.阴道毛滴虫",
+            "B.贾第虫",
+            "C.疟原虫",
+            "D.阿米巴原虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 17
+    },
+    {
+        "question_text": "18.碘液染色直接涂片法适宜检查",
+        "options": [
+            "A.弓形虫滋养体",
+            "B.阴道毛滴虫",
+            "C.阿米巴包囊",
+            "D.阿米巴滋养体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 18
+    }
+]

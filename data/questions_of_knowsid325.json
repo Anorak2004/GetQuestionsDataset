@@ -1,0 +1,884 @@
+[
+    {
+        "question_text": "血液的生物化学 1．血红素合成的限速酶是",
+        "options": [
+            "A．ALA 脱水酶",
+            "B．ALA 合酶",
+            "C．尿卟啉原 I 同合酶",
+            "D．血红素合成酶",
+            "E．尿卟啉原Ⅲ同合酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 1
+    },
+    {
+        "question_text": "2．全血的含量占体重的",
+        "options": [
+            "A．10％",
+            "B．15％",
+            "C．8％",
+            "D．60％",
+            "E．5％"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 2
+    },
+    {
+        "question_text": "3．将血浆蛋白置于 pH8.6 的缓冲液中进行醋酸纤维膜电泳时，泳动最快的是",
+        "options": [
+            "A．α1-球蛋白",
+            "B．α2-球蛋白",
+            "C．β-球蛋白",
+            "D．γ-球蛋白",
+            "E．清蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 3
+    },
+    {
+        "question_text": "4．血浆中最主要的抗体是",
+        "options": [
+            "A．IgA",
+            "B．IgD",
+            "C．IgE",
+            "D．IgG",
+            "E．IgM"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 4
+    },
+    {
+        "question_text": "5．成熟红细胞内磷酸戊糖途径所生成的 NADPH 的主要功能是",
+        "options": [
+            "A．合成膜上胆固醇",
+            "B．促进脂肪合成",
+            "C．提供能量",
+            "D．维持还原型谷胱甘肽（GSH）的正常水平",
+            "E．使 MHb（Fe3+）还原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 5
+    },
+    {
+        "question_text": "6．凝血因子 I 的功能是",
+        "options": [
+            "A．激活因子Ⅶ",
+            "B．形成纤维蛋白凝胶",
+            "C．激活剂",
+            "D．催化因子 X 生成因子 Xa",
+            "E．催化因子Ⅱ生成因子Ⅱa"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 6
+    },
+    {
+        "question_text": "7．凝血因子 X Ⅲa 的功能是",
+        "options": [
+            "A．活化因子 V",
+            "B．催化因子Ⅲ释放",
+            "C．催化纤维蛋白共价交联",
+            "D．催化凝血酶原激活物的形成",
+            "E．促进因子 X 的活化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 7
+    },
+    {
+        "question_text": "8．免疫球蛋白主要分布在",
+        "options": [
+            "A．α1-球蛋白",
+            "B．α2-球蛋白",
+            "C．β-球蛋白",
+            "D．清蛋白",
+            "E．γ-球蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 8
+    },
+    {
+        "question_text": "9．干扰血红素合成的物质是",
+        "options": [
+            "A．维生素",
+            "C B．铅",
+            "C．氨基酸",
+            "D．Fe2+",
+            "E．葡萄糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 9
+    },
+    {
+        "question_text": "10．ALA 合酶的辅酶是",
+        "options": [
+            "A．烟酰胺腺嘌呤二核苷酸（NAD+）",
+            "B．黄素腺嘌呤二核苷酸（FAD)",
+            "C．黄素单核苷酸（FMN）",
+            "D．硫胺素焦磷酸酯（TPP）",
+            "E．磷酸吡哆醛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 10
+    },
+    {
+        "question_text": "11．合成血红素的哪一步反应在胞液中进行?",
+        "options": [
+            "A．ALA 的生成",
+            "B．尿卟啉原的生成",
+            "C．尿卟啉原Ⅲ的生成",
+            "D．血红素的生成",
+            "E．原卟啉Ⅸ的生成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 11
+    },
+    {
+        "question_text": "12．凝血酶原及因子Ⅶ、Ⅸ、X 均由肝合成，合成过程需下列哪种维生素作为辅助因子?",
+        "options": [
+            "A．Vit K",
+            "B．Vit B1",
+            "C．Vit B6",
+            "D．Vit B2",
+            "E．Vit PP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 12
+    },
+    {
+        "question_text": "13．催化纤维蛋白原成纤维蛋白的物质是",
+        "options": [
+            "A．凝血酶",
+            "B．因子Ⅲ",
+            "C．Ca2+",
+            "D．因子 V",
+            "E．因子 X a"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 13
+    },
+    {
+        "question_text": "14．粒细胞主要的糖代谢途径是",
+        "options": [
+            "A．有氧氧化",
+            "B．磷酸戊糖途径",
+            "C．糖酵解",
+            "D．糖醛酸途径",
+            "E．多元醇途径"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 14
+    },
+    {
+        "question_text": "15．在体内，纤维蛋白被下列哪种酶降解?",
+        "options": [
+            "A．蛋白激酶",
+            "B．磷酸酶",
+            "C．凝血酶",
+            "D．纤溶酶",
+            "E．尿激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 15
+    },
+    {
+        "question_text": "16．合成血红素的基本原料是",
+        "options": [
+            "A．乙酰 CoA、Fe2+",
+            "B．珠蛋白、Fe2+",
+            "C．琥珀酰 CoA、Fe2+",
+            "D．乙酰 CoA、甘氨酸、Fe2+",
+            "E．琥珀酰 CoA、甘氨酸、Fe2+"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 16
+    },
+    {
+        "question_text": "17．血浆中运输胆红素的载体是",
+        "options": [
+            "A．清蛋白",
+            "B．γ蛋白",
+            "C．Z 蛋白",
+            "D．α-球蛋白",
+            "E．γ-球蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 17
+    },
+    {
+        "question_text": "18．血红素的合成部位在造血器官的",
+        "options": [
+            "A．线粒体",
+            "B．胞液与内质网",
+            "C．微粒体与核糖体",
+            "D．线粒体与胞液",
+            "E．内质网与线粒体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 18
+    },
+    {
+        "question_text": "19．红细胞内的抗氧化物主要是",
+        "options": [
+            "A．NADH",
+            "B．CoQH2",
+            "C．GSH",
+            "D．FADH2",
+            "E．FMNH2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 19
+    },
+    {
+        "question_text": "20．血浆清蛋白的功能不包括",
+        "options": [
+            "A．营养作用",
+            "B．缓冲作用",
+            "C．运输作用",
+            "D．免疫功能",
+            "E．维持血浆胶体渗透压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 20
+    },
+    {
+        "question_text": "21．在血浆内含有的下列物质中，肝脏不能合成的是",
+        "options": [
+            "A．清蛋白",
+            "B．免疫球蛋白",
+            "C．凝血酶原",
+            "D．高密度脂蛋白",
+            "E．纤维蛋白原"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 21
+    },
+    {
+        "question_text": "22．绝大多数血浆蛋白质的合成场所是",
+        "options": [
+            "A．肾脏",
+            "B．骨髓",
+            "C．肝脏",
+            "D．肌肉",
+            "E．脾脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 22
+    },
+    {
+        "question_text": "23．有一种参与血液凝固的因子正常时血中不能检出，直到组织受创、血凝启动才会出现，它是",
+        "options": [
+            "A．凝血酶",
+            "B．纤维蛋白原",
+            "C．因子Ⅻ",
+            "D．抗血友病因子（因子Ⅷ）",
+            "E．纤维蛋白稳定因子（因子 XⅢ）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 23
+    },
+    {
+        "question_text": "24．在生理条件下合成血红素的限速步骤是合成",
+        "options": [
+            "A．胆色素原",
+            "B．线状四吡咯",
+            "C．原卟啉Ⅸ",
+            "D．尿卟啉原Ⅲ",
+            "E．δ-氨-γ-酮戊酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 24
+    },
+    {
+        "question_text": "25．下列哪一种因素不参与血红素合成代谢的调节",
+        "options": [
+            "A．促红细胞生成素（EPO）",
+            "B．线状四吡咯",
+            "C．ALA 合酶",
+            "D．亚铁螯合酶",
+            "E．ALA 脱水酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 25
+    },
+    {
+        "question_text": "26．成熟红细胞的主要能量来源是",
+        "options": [
+            "A．2,3-BPG 支路",
+            "B．脂肪酸β-氧化",
+            "C．糖的有氧氧化",
+            "D．糖醇解",
+            "E．磷酸戊糖途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 26
+    },
+    {
+        "question_text": "27．对成熟红细胞来说，下列哪项说法是正确的",
+        "options": [
+            "A．具有分裂增殖的能力",
+            "B．存在 RNA 和核糖体",
+            "C．具有催化磷酸戊糖途径的全部酶系",
+            "D．能合成蛋白质及核酸",
+            "E．除存在于血液中外，还大量见于造血器官"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 27
+    },
+    {
+        "question_text": "1．肝的不同部位中肝细胞代谢表现是",
+        "options": [
+            "A．中央静脉周围的肝细胞获取的氧和营养物质最充足",
+            "B．所有的肝细胞均可获取同样的营养供应",
+            "C．终末微血管周围的肝细胞获取的氧和营养物质最充足",
+            "D．肝小叶周围的肝细胞获取的氧和营养物质最充足",
+            "E．血窦周围的肝细胞获取的氧和营养物质均同样充足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 28
+    },
+    {
+        "question_text": "2．在肝细胞分泌排泄胆汁中起重要作用的是",
+        "options": [
+            "A．肝细胞物质代谢活跃",
+            "B．相邻肝细胞微小间隙形成",
+            "C．肝细胞的孔隙较大",
+            "D．肝脏供血供氧较其它器官丰富",
+            "E．肝细胞含有成倍量的高尔基体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 29
+    },
+    {
+        "question_text": "3．肝受损时，血中蛋白质的主要改变是",
+        "options": [
+            "A．清蛋白含量升高",
+            "B．球蛋白含量下降",
+            "C．清蛋白含量升高，球蛋白含量下降",
+            "D．清蛋白含量下降，球蛋白含量升高或相对升高",
+            "E．清蛋白和球蛋白含量都正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 30
+    },
+    {
+        "question_text": "4．肝功障碍时，血浆胆固醇的主要改变是",
+        "options": [
+            "A．血胆固醇总量增加",
+            "B．血胆固醇总量正常",
+            "C．血中自由胆固醇量下降",
+            "D．血中胆固醇酯／胆固醇比值升高",
+            "E．血中胆固醇酯／胆固醇比值下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 31
+    },
+    {
+        "question_text": "5．正常人在肝合成血浆蛋白质，量最多的是",
+        "options": [
+            "A．纤维蛋白原",
+            "B．凝血酶原",
+            "C．清蛋白",
+            "D．球蛋白",
+            "E．脂蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 32
+    },
+    {
+        "question_text": "6．下列哪种物质是肝细胞特异合成的",
+        "options": [
+            "A．ATP",
+            "B．蛋白质",
+            "C．糖原",
+            "D．尿素",
+            "E．脂肪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 33
+    },
+    {
+        "question_text": "7．下列哪种氨基酸不在肝内进行活跃代谢",
+        "options": [
+            "A．酪氨酸",
+            "B．缬氨酸",
+            "C．鸟氨酸",
+            "D．苯丙氨酸",
+            "E．色氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 34
+    },
+    {
+        "question_text": "8．饥饿时肝中哪条途径的活性增强",
+        "options": [
+            "A．磷酸戊糖途径",
+            "B．脂肪合成",
+            "C．糖酵解",
+            "D．糖有氧氧化",
+            "E．糖异生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 35
+    },
+    {
+        "question_text": "9．能由脂肪酸合成酮体的部位是",
+        "options": [
+            "A．红细胞",
+            "B．脑",
+            "C．骨骼肌",
+            "D．肝",
+            "E．肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 36
+    },
+    {
+        "question_text": "10．肝是生成尿素的唯一器官，是由于肝细胞含有",
+        "options": [
+            "A．谷氨酸脱氢酶",
+            "B．谷丙转氨酶",
+            "C．CPS—II",
+            "D．精氨酸酶",
+            "E．谷草转氨酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 37
+    },
+    {
+        "question_text": "11．下列哪种胆汁酸是次级胆汁酸",
+        "options": [
+            "A．甘氨鹅脱氧胆酸",
+            "B．甘氨胆酸",
+            "C．牛磺鹅脱氧胆酸",
+            "D．脱氧胆酸",
+            "E．牛磺胆酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 38
+    },
+    {
+        "question_text": "12．下列哪种胆汁酸是初级胆汁酸",
+        "options": [
+            "A．胆酸，脱氧胆酸",
+            "B．甘氨胆酸，石胆酸",
+            "C．牛磺胆酸，脱氧胆酸",
+            "D．石胆酸，脱氧胆酸",
+            "E．甘氨鹅脱氧胆酸，牛磺鹅脱氧胆酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 39
+    },
+    {
+        "question_text": "13．胆汁固体成分中含量最多的是",
+        "options": [
+            "A．胆固醇",
+            "B．胆色素",
+            "C．脂类",
+            "D．磷脂",
+            "E．胆汁酸盐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 40
+    },
+    {
+        "question_text": "14．肝内胆固醇代谢的主要终产物是",
+        "options": [
+            "A．7α-胆固醇",
+            "B．胆酰 CoA",
+            "C．结合胆汁酸",
+            "D．维生素 D3",
+            "E．胆色素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 41
+    },
+    {
+        "question_text": "15．胆汁酸合成的限速酶是",
+        "options": [
+            "A．7α-羟化酶",
+            "B．7α-羟胆固醇氧化酶",
+            "C．胆酰 CoA 合成酶",
+            "D．鹅脱氧胆酰 CoA 合成酶",
+            "E．胆汁酸合成酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 42
+    },
+    {
+        "question_text": "16．生物转化中第一相反应最主要的是",
+        "options": [
+            "A．水解反应",
+            "B．还原反应",
+            "C．氧化反应",
+            "D．脱羧反应",
+            "E．加成反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 43
+    },
+    {
+        "question_text": "17．生物转化中参与氧化反应最重要的酶是",
+        "options": [
+            "A．加单氧酶",
+            "B．加双氧酶",
+            "C．水解酶",
+            "D．胺氧化酶",
+            "E．醇脱氢酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 44
+    },
+    {
+        "question_text": "18．下列哪项反应属生物转化第二相反应",
+        "options": [
+            "A．乙醇转为乙酸",
+            "B．醛变为酸",
+            "C．硝基苯转变为苯胺",
+            "D．乙酰水杨酸转化为水杨酸",
+            "E．苯酚形成苯β-葡糖醛酸苷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 45
+    },
+    {
+        "question_text": "19．乙醇性肝损伤多见于",
+        "options": [
+            "A．肝细胞分区的 I 带",
+            "B．肝细胞分区的 II 带",
+            "C．肝细胞分区的 III 带",
+            "D．肝细胞分区的 I 带和 II 带",
+            "E．肝细胞分区的 II 带和 III 带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 46
+    },
+    {
+        "question_text": "20．下列哪种物质在网状内皮系统生成",
+        "options": [
+            "A．胆红素",
+            "B．葡萄糖醛酸胆红素",
+            "C．石胆酸",
+            "D．胆汁酸",
+            "E．甲状腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 47
+    },
+    {
+        "question_text": "21．下列哪项反应需 NADPH 为供氢体",
+        "options": [
+            "A．单胺氧化酶催化的反应",
+            "B．醛脱氢酶和醇脱氢酶催化的反应",
+            "C．硝基化合物和偶氮化合物形成胺类",
+            "D．醇酚形成硫酸酯类化合物",
+            "E．苯甲酸形成苯甲酰β-葡糖醛酸苷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 48
+    },
+    {
+        "question_text": "22．下面关于体内生物转化作用的叙述，错误的是",
+        "options": [
+            "A．对体内非营养物质的改造",
+            "B．使非营养物生物活性降低或消失",
+            "C．可使非营养物溶解度增加",
+            "D．使非营养物从胆汁或尿液中排出体外",
+            "E．结合反应主要在肾脏进行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 49
+    },
+    {
+        "question_text": "23．胆红素葡萄糖醛酸苷的生成需",
+        "options": [
+            "A．葡萄糖醛酸基结合酶",
+            "B．葡萄糖醛酸基转移酶",
+            "C．葡萄糖醛酸基脱氢酶",
+            "D．葡萄糖醛酸基水解酶",
+            "E．葡萄糖醛酸基酯化酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 50
+    },
+    {
+        "question_text": "24．最普遍进行的生物转化第二相反应是代谢物与",
+        "options": [
+            "A．乙酰基结合",
+            "B．葡萄糖醛酸结合",
+            "C．硫酸结合",
+            "D．谷胱甘肽结合",
+            "E．甲基结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 51
+    },
+    {
+        "question_text": "25．体内含卟啉的化合物是",
+        "options": [
+            "A．尼克酸",
+            "B．胆固醇",
+            "C．过氧物酶",
+            "D．孕酮",
+            "E．粪固醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 52
+    },
+    {
+        "question_text": "26．溶血性黄疸的特点是",
+        "options": [
+            "A．血中结合胆红素含量增高",
+            "B．血中胆素原剧减",
+            "C．尿中胆红素增加",
+            "D．未结合胆红素浓度增高",
+            "E．粪便颜色变浅"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 53
+    },
+    {
+        "question_text": "27．巴比妥药物降低血清未结合胆红素的浓度是由于",
+        "options": [
+            "A．药物增加了它的水溶性有利于游离胆红素从尿中排出",
+            "B．诱导肝细胞内载体蛋白-Y 合成",
+            "C．抑制 UDP-葡糖醛酸基转移酶的合成",
+            "D．刺激 Z 蛋白合成",
+            "E．竞争与血浆清蛋白结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 54
+    },
+    {
+        "question_text": "28．参与胆红素生成的有关酶是",
+        "options": [
+            "A．过氧化物酶",
+            "B．过氧化氢酶",
+            "C．乙酰转移酶",
+            "D．血红素加氧酶",
+            "E．葡萄糖醛酸基转移酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 55
+    },
+    {
+        "question_text": "29．结合胆红素是",
+        "options": [
+            "A．胆素原",
+            "B．胆红素-BSP",
+            "C．胆红素-Y 蛋白",
+            "D．胆红素-Z 蛋白",
+            "E．葡萄糖醛酸胆红素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 56
+    },
+    {
+        "question_text": "30．下列哪种物质是肠内细菌作用的产物",
+        "options": [
+            "A．胆红素",
+            "B．鹅脱氧胆酸",
+            "C．胆红素-阴离子",
+            "D．硫酸胆红素",
+            "E．胆素原"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 57
+    },
+    {
+        "question_text": "31．血中胆红素的主要运输形式是",
+        "options": [
+            "A．胆红素-清蛋白",
+            "B．胆红素-Y 蛋白",
+            "C．胆红素-葡萄糖酸醛酯",
+            "D．胆红素-氨基酸",
+            "E．胆素原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 58
+    },
+    {
+        "question_text": "32．梗阻性黄疸尿中主要的胆红素可能是",
+        "options": [
+            "A．游离胆红素",
+            "B．葡萄糖醛酸胆红素",
+            "C．结合胆红素-清蛋白复合物",
+            "D．胆红素-Y 蛋白",
+            "E．胆红素—Z 蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 59
+    },
+    {
+        "question_text": "33．阻塞性黄疸时，凡登白试验为",
+        "options": [
+            "A．直接反应阴性",
+            "B．直接反应阳性",
+            "C．直接反应阴性，间接反应强阳性",
+            "D．双相反应阴性",
+            "E．双相反应阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 60
+    },
+    {
+        "question_text": "34．肝内胆红素的主要存在形式是哪一种",
+        "options": [
+            "A．胆红素—清蛋白",
+            "B．胆红素—Y 蛋白",
+            "C．胆红素—Z 蛋白",
+            "D．胆红素—阴离子",
+            "E．游离胆红素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 61
+    },
+    {
+        "question_text": "35．下列哪项会导致尿胆原排泄减少",
+        "options": [
+            "A．肠梗阻",
+            "B．溶血",
+            "C．碱中毒",
+            "D．胆道梗阻",
+            "E．肝细胞性黄疽"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 62
+    },
+    {
+        "question_text": "36．胆红素主要来源于",
+        "options": [
+            "A．血红蛋白分解",
+            "B．肌红蛋白分解",
+            "C．过氧化物酶分解",
+            "D．过氧化氢酶分解",
+            "E．细胞色素分解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 63
+    }
+]

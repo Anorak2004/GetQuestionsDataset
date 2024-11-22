@@ -1,0 +1,744 @@
+[
+    {
+        "question_text": "1.巴比妥类药催眠作用机制是选择性抑制",
+        "options": [
+            "A.大脑皮质",
+            "B.边缘系统",
+            "C.下丘脑",
+            "D.网状结构上行激活系统",
+            "E.纹状体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 1
+    },
+    {
+        "question_text": "2.临床常用于癫痫大发作和癫痫持续状态的巴比妥类药物是",
+        "options": [
+            "A.去氧苯比妥",
+            "B.硫喷妥钠",
+            "C.司可巴比妥",
+            "D.异戊巴比妥",
+            "E.苯巴比妥"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 2
+    },
+    {
+        "question_text": "3.苯巴比妥急性中毒时,为加速其从肾脏排泄,应采取的措施是",
+        "options": [
+            "A.静滴生理盐水",
+            "B.静滴碳酸氢钠溶液",
+            "C.静滴5%葡萄糖溶液",
+            "D.静滴低分子右旋糖酐",
+            "E.静滴甘露醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 3
+    },
+    {
+        "question_text": "4.巴比妥类急性中毒时,引起死亡的主要原因是",
+        "options": [
+            "A.心脏骤停",
+            "B.肾功能衰竭",
+            "C.延脑呼吸中枢麻痹",
+            "D.惊厥",
+            "E.吸入性肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 4
+    },
+    {
+        "question_text": "5.巴比妥类药物进入脑组织快慢主要取决于",
+        "options": [
+            "A.药物分子大小",
+            "B.给药途径",
+            "C.用药剂量",
+            "D.药物脂溶性",
+            "E.药物剂型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 5
+    },
+    {
+        "question_text": "6.地西泮临床不用于",
+        "options": [
+            "A.焦虑症",
+            "B.诱导麻醉",
+            "C.小儿高热惊厥",
+            "D.麻醉前用药",
+            "E.脊髓损伤引起肌肉僵直"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列水合氯醛的正确叙述是",
+        "options": [
+            "A.对胃肠道无刺激",
+            "B.无成瘾性",
+            "C.无肝肾功能损害",
+            "D.安全范围大",
+            "E.醒后无后遗效应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 7
+    },
+    {
+        "question_text": "8.常用苯二氮卓类药中,起效快、作用强，t1/2短的药物是",
+        "options": [
+            "A.地西泮",
+            "B.艾司唑仑",
+            "C.三唑仑",
+            "D.奥沙西泮",
+            "E.劳拉西泮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 8
+    },
+    {
+        "question_text": "9.地西泮的体内过程特点是",
+        "options": [
+            "A.其代谢物仍具有药理活性",
+            "B.其代谢物t1/2很短",
+            "C.肌注吸收较口服快而完全",
+            "D.老年患者t1/2可缩短",
+            "E.不透过胎盘屏障"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列关于地西泮的错误叙述是",
+        "options": [
+            "A.大剂量不引起麻醉",
+            "B.小于镇静剂量即有抗焦虑作用",
+            "C.久用可产生依赖性",
+            "D.肌内注射吸收不规则,血药浓度较低",
+            "E.对快动眼睡眠时相无影响"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 10
+    },
+    {
+        "question_text": "11.地西泮抗焦虑作用的主要部位是",
+        "options": [
+            "A.网状结构上行激活系统",
+            "B.大脑皮层",
+            "C.黑质-纹状体多巴胺通路",
+            "D.边缘系统",
+            "E.下丘脑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 11
+    },
+    {
+        "question_text": "12.地西泮的中枢抑制作用机制是",
+        "options": [
+            "A.作用于边缘系统多巴胺受体",
+            "B.作用于γ-氨基丁酸(GABA)受体",
+            "C.直接作用于中枢引起抑制",
+            "D.作用于苯二氮卓受体",
+            "E.作用于中枢α2受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 12
+    },
+    {
+        "question_text": "13.地西泮不具有的不良反应是",
+        "options": [
+            "A.嗜睡、乏力",
+            "B.共济失调",
+            "C.中枢麻醉",
+            "D.白细胞减少",
+            "E.呼吸抑制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 13
+    },
+    {
+        "question_text": "14.苯二氮卓类受体的分布与何种中枢抑制递质的分布一致",
+        "options": [
+            "A.多巴胺",
+            "B.脑啡肽",
+            "C.咪哇啉",
+            "D.γ-氨基丁酸",
+            "E.乙酰胆碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 14
+    },
+    {
+        "question_text": "15.苯二氮卓类主要通过下列哪种物质而发挥药理作用",
+        "options": [
+            "A.PGD2",
+            "B.PGE2",
+            "C.白三烯",
+            "D.γ-氨基丁酸",
+            "E.乙酰胆碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 15
+    },
+    {
+        "question_text": "16.地西泮的血浆蛋白结合率是",
+        "options": [
+            "A.50%",
+            "B.65%",
+            "C.80%",
+            "D.95%",
+            "E.99%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 16
+    },
+    {
+        "question_text": "17.苯巴比妥最适用于下列哪种情况",
+        "options": [
+            "A.镇静",
+            "B.催眠",
+            "C.小儿多动症",
+            "D.癫痫持续状态",
+            "E.麻醉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 17
+    },
+    {
+        "question_text": "18.巴比妥类非麻醉剂量时的作用机制与苯二氮卓类的主要区别是",
+        "options": [
+            "A.苯二氮卓类能增加GABA介导CT的内流,巴比妥类则否",
+            "B.苯二氮卓类能减弱谷氨酸介导的除极,巴比妥类则否",
+            "C.苯巴比妥能呈现拟GABA的作用",
+            "D.巴比妥类是通过延长Cl-通道开放时间,而苯二氮卓类是通过增加Cl-通道开放的频率",
+            "E.巴比妥类能呈现拟GABA的作用,苯二氮卓类则否"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列巴比妥类药物中,起效最快、维持时间最短的药物是",
+        "options": [
+            "A.苯巴比妥",
+            "B.司可巴比妥",
+            "C.硫喷妥钠",
+            "D.巴比妥",
+            "E.戊巴比妥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列哪种药物属于广泛性中枢抑制药",
+        "options": [
+            "A.巴比妥类",
+            "B.苯二氮卓类",
+            "C.三环类",
+            "D.吩噻嗪",
+            "E.哌啶类"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 20
+    },
+    {
+        "question_text": "21.引起病人对巴比妥类药物成瘾的主要原因是",
+        "options": [
+            "A.使病人产生欣快感",
+            "B.能诱导肝药酶",
+            "C.抑制肝药酶",
+            "D.停药后快动眼睡眠时间延长,梦魇增多",
+            "E.使病人失忆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 21
+    },
+    {
+        "question_text": "22.能引起病人记忆短暂缺失的中枢抑制药是",
+        "options": [
+            "A.巴比妥类",
+            "B.苯二氮卓类",
+            "C.吩噻嗪类",
+            "D.咪唑类",
+            "E.哌啶类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 22
+    },
+    {
+        "question_text": "23.对各型癫痫均有一定作用的苯二氮卓类药物是",
+        "options": [
+            "A.地西洋",
+            "B.氯氮卓",
+            "C.三唑仑",
+            "D.氯硝西泮",
+            "E.奥沙西泮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于地西泮体内过程的叙述,哪项是错误的",
+        "options": [
+            "A.口服吸收快",
+            "B.静脉注射见效快,持续时间短",
+            "C.血浆蛋白结合率高达99%",
+            "D.部分体内代谢,产物仍有活性",
+            "E.半衰期短而无蓄积性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 24
+    },
+    {
+        "question_text": "25.苯二氮卓类产生抗焦虑作用的主要部位是",
+        "options": [
+            "A.脑桥",
+            "B.皮质边缘系统",
+            "C.网状结构",
+            "D.导水管周围灰质",
+            "E.黑质-纹状体通路"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 25
+    },
+    {
+        "question_text": "26.地西泮中枢药理作用主要机制是",
+        "options": [
+            "A.增强GABA的抑制作用",
+            "B.直接抑制大脑皮质",
+            "C.阻断网状结构上行激活系统",
+            "D.外周性松弛横纹肌",
+            "E.减少边缘系统对网状结构的兴奋影响"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 26
+    },
+    {
+        "question_text": "27.地西泮作为抗焦虑药并不具备下列哪项优点",
+        "options": [
+            "A.选择性高",
+            "B.安全范围大",
+            "C.依赖性小,戒断症状轻",
+            "D.早孕及哺乳妇女使用安全",
+            "E.消除慢,作用持久"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 27
+    },
+    {
+        "question_text": "28.苯巴比妥显效慢的主要原因",
+        "options": [
+            "A.吸收不良",
+            "B.体内再分布",
+            "C.肾脏排泄慢",
+            "D.脂溶性低",
+            "E.脂溶性高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 28
+    },
+    {
+        "question_text": "29.巴比妥类药物中毒致死的主要原因",
+        "options": [
+            "A.肝脏损害",
+            "B.循环衰竭",
+            "C.呼吸衰竭",
+            "D.昏迷",
+            "E.继发感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 29
+    },
+    {
+        "question_text": "30.苯巴比妥急性中毒,可选何药加速毒物排泄",
+        "options": [
+            "A.静脉滴注氯化铵溶液",
+            "B.静脉滴注碳酸氢钠溶液",
+            "C.静脉注射葡萄糖",
+            "D.静脉滴注生理盐水",
+            "E.口服硫酸镁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列关于甲丙氨酯的作用哪项不正确",
+        "options": [
+            "A.抗焦虑",
+            "B.镇静催眠",
+            "C.抗惊厥",
+            "D.中枢性肌松",
+            "E.抗癫痫"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 31
+    },
+    {
+        "question_text": "32.关于地西泮作用的叙述,哪项是错误的",
+        "options": [
+            "A.抗焦虑",
+            "B.镇静催眠",
+            "C.抗惊厥、抗癒痫",
+            "D.中枢性肌肉松弛",
+            "E.全身麻醉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 32
+    },
+    {
+        "question_text": "33.临床上最常用的镇静催眠药是",
+        "options": [
+            "A.苯二氮卓类",
+            "B.吩噻嗪类",
+            "C.巴比妥类",
+            "D.丁酰苯类",
+            "E.阿片类"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 33
+    },
+    {
+        "question_text": "34.有关地西泮的叙述,错误的为",
+        "options": [
+            "A.口服的肌注吸收迅速",
+            "B.口服治疗量对呼吸及循环影响小",
+            "C.能治疗癫痫持续状态",
+            "D.较大量可引起全身麻醉",
+            "E.其代谢产物也有作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 34
+    },
+    {
+        "question_text": "35.地西泮的作用机制是:",
+        "options": [
+            "A.不通过受体,直接抑制中枢",
+            "B.作用于苯二氮受体,增加GABA与GABA受体的亲和力",
+            "C.作用于GABA受体,增加体内抑制性递质的作用",
+            "D.诱导生成一种新蛋白质而起作用",
+            "E.抑制谷氨酸释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 35
+    },
+    {
+        "question_text": "36.地西泮抗焦虑作用的主要部位是:",
+        "options": [
+            "A.中脑网状结构",
+            "B.下丘脑",
+            "C.边缘系统",
+            "D.大脑皮层",
+            "E.纹状体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列药物中t1/2最长的是",
+        "options": [
+            "A.地西泮",
+            "B.氯氮卓",
+            "C.氟西泮",
+            "D.奥可西泮",
+            "E.三唑仑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 37
+    },
+    {
+        "question_text": "38.治疗新生儿黄疸并发惊厥宜选用:",
+        "options": [
+            "A.水合氯醛",
+            "B.异戊巴比妥",
+            "C.地西泮",
+            "D.苯巴比妥",
+            "E.甲丙氨酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 38
+    },
+    {
+        "question_text": "39.巴比妥类禁用于下列哪种病人:",
+        "options": [
+            "A.高血压患者精神紧张",
+            "B.甲亢病人兴奋失眠",
+            "C.肺功能不全病人烦躁不安",
+            "D.手术前病人恐惧心理",
+            "E.神经官能症性失眠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 39
+    },
+    {
+        "question_text": "40.地西泮不用于:",
+        "options": [
+            "A.焦虑症和焦虑性失眠",
+            "B.麻醉前给药",
+            "C.高热惊厥",
+            "D.癫痫持续状态",
+            "E.诱导麻醉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 40
+    },
+    {
+        "question_text": "41.苯二氮卓类中毒的特异解毒药是:",
+        "options": [
+            "A.尼可刹米",
+            "B.纳络酮",
+            "C.氟马西尼",
+            "D.钙剂",
+            "E.美解眠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 41
+    },
+    {
+        "question_text": "42.苯巴比妥过量中毒,为了促使其快速排泄",
+        "options": [
+            "A.碱化尿液,使解离度增大,增加肾小管再吸收",
+            "B.碱化尿液,使解离度减小,增加肾小管再吸收",
+            "C.碱化尿液,使解离度增大,减少肾小管再吸牧",
+            "D.酸化尿液,使解离度增大,减少肾小管再吸收",
+            "E.酸化尿液,使解离度减少,减少肾小管再吸收"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 42
+    },
+    {
+        "question_text": "43.苯巴比妥钠连续应用产生耐受性的主要原因是",
+        "options": [
+            "A.再分布于脂肪组织",
+            "B.排泄加快",
+            "C.被假性胆碱酯酶破坏",
+            "D.被单胺氧化酶破坏",
+            "E.诱导肝药酶使自身代谢加快"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 43
+    },
+    {
+        "question_text": "44.镇静催眠药中有抗癫痫作用的药物是:",
+        "options": [
+            "A.苯巴比妥",
+            "B.司可巴比妥",
+            "C.巴比妥",
+            "D.硫喷妥",
+            "E.利眠宁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 44
+    },
+    {
+        "question_text": "45.关于γ-氨基丁酸(GABA)的描述,哪一种是错误的?",
+        "options": [
+            "A.GABA是中枢神经系统的抑制性递质",
+            "B.当脑内GABA水平降低时可引起惊厥发作",
+            "C.地西泮的中枢性肌肉松弛作用与增强脊髓中GABA作用有关",
+            "D.癫痫患者大脑皮质GABA含量减少,苯巴比妥的抗癲痫作用与其增加脑内GABA含量有关",
+            "E.丙戊酸钠是一种抑制GABA生物合成的药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 45
+    },
+    {
+        "question_text": "46.地西泮的药理作用不包括:",
+        "options": [
+            "A.抗焦虑",
+            "B.镇静催眠",
+            "C.抗惊厥",
+            "D.肌肉松弛",
+            "E.抗晕动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 46
+    },
+    {
+        "question_text": "47.苯二氮卓类无下列哪种不良反应?",
+        "options": [
+            "A.头昏",
+            "B.嗜睡",
+            "C.乏力",
+            "D.共济失调",
+            "E.口干"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 47
+    },
+    {
+        "question_text": "48.下列哪和种情况不宜用巴比妥类催眠药?",
+        "options": [
+            "A.焦虑性失眠",
+            "B.麻醉前给药",
+            "C.高热惊厥",
+            "D.肺心病引起的失眠",
+            "E.癫痫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 48
+    },
+    {
+        "question_text": "49.巴比妥类产生镇静催眠作用的机理是",
+        "options": [
+            "A.抑制中脑及网状结构中的多突触通路",
+            "B.拍制大脑边缘系统的海马和杏仁核",
+            "C.抑制脑干网状结构上行激活系统",
+            "D.抑制脑室-导水管周围灰质",
+            "E.抑制脑干网状结构上行抑制系统"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 49
+    },
+    {
+        "question_text": "50.地西泮的抗焦虑作用主要是由于",
+        "options": [
+            "A.增强中枢神经递质γ-氨基丁酸的作用",
+            "B.抑制脊髓多突触的反射作用",
+            "C.抑制网状结构上行激活系统",
+            "D.抑制大脑-丘脑异常电活动扩散",
+            "E.阻断中脑-边缘系统的多巴胺通路"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 50
+    },
+    {
+        "question_text": "51.对快波睡眠时间影响小,成瘾性较轻的催眠药是",
+        "options": [
+            "A.苯巴比妥",
+            "B.地西泮",
+            "C.戊巴比妥",
+            "D.苯妥英钠",
+            "E.氯丙嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 51
+    },
+    {
+        "question_text": "52.对各型癫痫均有一定作用的苯二氮卓类药物是:",
+        "options": [
+            "A.地西泮",
+            "B.氯氮卓",
+            "C.三唑仑",
+            "D.氯硝西泮",
+            "E.奥沙西泮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 52
+    },
+    {
+        "question_text": "53.下列哪种药物不属于巴比妥类？",
+        "options": [
+            "A.司可巴比妥",
+            "B.鲁米那",
+            "C.格鲁米特",
+            "D.硫喷妥钠",
+            "E.戊巴比妥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 53
+    }
+]

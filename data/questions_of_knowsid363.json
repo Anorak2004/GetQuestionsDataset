@@ -1,0 +1,380 @@
+[
+    {
+        "question_text": "1.多粘菌素的错误叙述项是",
+        "options": [
+            "A.对多数革兰阴性杆菌有杀灭作用",
+            "B.口服不易吸收",
+            "C.毒性较大",
+            "D.不易透过血脑屏障",
+            "E.与细菌核蛋白体30S亚基结合阻碍蛋白质的合成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 1
+    },
+    {
+        "question_text": "2.抢救链霉素引起的过敏性休克的药物是",
+        "options": [
+            "A.肾上腺素",
+            "B.纳洛酮",
+            "C.苯海拉明",
+            "D.葡萄糖酸钙",
+            "E.阿托品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 2
+    },
+    {
+        "question_text": "3.阿米卡星的错误叙述项是",
+        "options": [
+            "A.是卡那霉素的半合成衍生物",
+            "B.是氨基糖苷类中抗菌谱较窄的抗生素",
+            "C.对肠道革兰阴性菌产生的钝化酶稳定",
+            "D.可被乙酰转移酶所钝化而耐药",
+            "E.可用于对其他氨基糖苷类耐药菌株的感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 3
+    },
+    {
+        "question_text": "4.多粘菌素的抗菌谱包括",
+        "options": [
+            "A.结核杆菌",
+            "B.革兰阳性及革兰阴性菌",
+            "C.立克次体和衣原体",
+            "D.革兰阴性杆菌特别是绿脓杆菌",
+            "E.革兰阳性菌特别是耐药金黄色葡萄球菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 4
+    },
+    {
+        "question_text": "5.有关氨基糖苷类抗生素的错误叙述项是",
+        "options": [
+            "A.溶液性质较稳定",
+            "B.易透过血脑屏障,但不易透过胎盘",
+            "C.对革兰阴性菌作用强",
+            "D.抗菌机制是阻碍细菌蛋白质的合成",
+            "E.胃肠道不易吸收"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 5
+    },
+    {
+        "question_text": "6.对绿脓杆菌感染有效的药物是",
+        "options": [
+            "A.羧苄西林、多粘菌素、庆大霉素和妥布霉素",
+            "B.羧苄西林、氨节西林、头孢氨苄和多粘菌素",
+            "C.卡那霉素、妥布霉素、多粘菌素和红霉素",
+            "D.阿米卡星、庆大霉素、多粘菌素和苯唑西林",
+            "E.阿米卡星、庆大霉素、氯霉素和林可霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 6
+    },
+    {
+        "question_text": "7.治疗草绿色链球菌引起的心内膜炎应首选",
+        "options": [
+            "A.红霉素+青霉素G",
+            "B.庆大霉素+青霉素G",
+            "C.链霉素+青霉素G",
+            "D.氨苄西林+阿莫西林",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 7
+    },
+    {
+        "question_text": "8.过敏性休克发生率仅次于青霉素的抗生素是",
+        "options": [
+            "A.庆大霉素",
+            "B.卡那霉素",
+            "C.链霉素",
+            "D.妥布霉素",
+            "E.四环素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 8
+    },
+    {
+        "question_text": "9.氨基甙类药物主要分布于",
+        "options": [
+            "A.血浆",
+            "B.细胞内液",
+            "C.细胞外液",
+            "D.脑脊液",
+            "E.浆膜腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 9
+    },
+    {
+        "question_text": "10.对前庭功能损害作用发生率最低的氨基甙类药物是",
+        "options": [
+            "A.奈替米星",
+            "B.新霉素",
+            "C.庆大霉素",
+            "D.卡那霉素",
+            "E.链霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 10
+    },
+    {
+        "question_text": "11.肾毒性最低的氨基甙类药",
+        "options": [
+            "A.庆大霉素",
+            "B.奈替米星",
+            "C.链霉素",
+            "D.卡那霉素",
+            "E.新霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 11
+    },
+    {
+        "question_text": "12.耳、肾毒性最大的氨基甙类抗生素是",
+        "options": [
+            "A.卡那霉素",
+            "B.庆大霉素",
+            "C.西索米星",
+            "D.奈替米星",
+            "E.新霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 12
+    },
+    {
+        "question_text": "13.氨基甙类药物存留半衰期较长的部位是",
+        "options": [
+            "A.细胞外液",
+            "B.血液",
+            "C.脑脊液",
+            "D.内耳外淋巴液",
+            "E.结核病灶空洞中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 13
+    },
+    {
+        "question_text": "14.呋塞米可增加下列哪种药物的耳毒性",
+        "options": [
+            "A.四环素",
+            "B.青霉素",
+            "C.磺胺嘧啶",
+            "D.链霉素",
+            "E.红霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 14
+    },
+    {
+        "question_text": "15.鼠疫和兔热病的首选药是",
+        "options": [
+            "A.链霉素",
+            "B.四环素",
+            "C.红霉素",
+            "D.庆大霉素",
+            "E.氯霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 15
+    },
+    {
+        "question_text": "16.氨基甙类药物的抗菌机制",
+        "options": [
+            "A.抑制细菌蛋白质合成",
+            "B.增加胞浆膜通透性",
+            "C.抑制胞壁粘肽合成酶",
+            "D.抑制二氢叶酸合成酶",
+            "E.抑制DNA螺旋酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 16
+    },
+    {
+        "question_text": "17.多粘菌素的适应症是",
+        "options": [
+            "A.G+菌感染",
+            "B.G-菌感染",
+            "C.绿脓杆菌感染",
+            "D.混合感染",
+            "E.耐药金葡萄菌感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 17
+    },
+    {
+        "question_text": "18.庆大霉素与羧苄青霉素混合静脉滴注可",
+        "options": [
+            "A.增强庆大霉素抗绿脓杆菌活性",
+            "B.降低庆大霉素抗绿脓杆菌活性",
+            "C.用于耐药金葡菌感染",
+            "D.用于肺炎球菌败血症",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 18
+    },
+    {
+        "question_text": "19.与琥珀胆碱合用易致呼吸麻痹的药物是",
+        "options": [
+            "A.氨苄西林",
+            "B.米诺环素",
+            "C.链霉素",
+            "D.四环素",
+            "E.依诺沙星"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 19
+    },
+    {
+        "question_text": "20.氨基甙类药物分布浓度较高的部位是",
+        "options": [
+            "A.血液",
+            "B.浆膜腔",
+            "C.脑脊液",
+            "D.肾脏皮质",
+            "E.肾脏髓质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪项不属于氨基甙类药物的不良反应",
+        "options": [
+            "A.变态反应",
+            "B.神经肌肉阻断作用",
+            "C.骨髓抑制",
+            "D.肾毒性",
+            "E.耳毒性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 21
+    },
+    {
+        "question_text": "22.不适当的联合用药是",
+        "options": [
+            "A.链霉素+异烟肼治疗肺结核",
+            "B.庆大霉素+羧苄青霉素治疗绿脓杆菌感染",
+            "C.庆大霉素+链霉素治疗G-菌感染",
+            "D.SMZ+TMP治疗呼吸道感染",
+            "E.青霉素+白喉抗毒素治疗白喉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 22
+    },
+    {
+        "question_text": "23.氨基甙类抗生素消除的主要途径是",
+        "options": [
+            "A.经肾小管主动分泌",
+            "B.在肝内氧化",
+            "C.在肠内乙酰化",
+            "D.以原形经肾小球过滤排出",
+            "E.与葡萄糖醛酚结合后,由肾排泄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 23
+    },
+    {
+        "question_text": "24.患者,女,25岁,因不明原因发热二月余入院,贫血貌,杵状指,皮肤粘膜有多处小出血点,入院时心脏三尖瓣听诊有Ⅲ级吹风样杂音,近日消失,脾轻度肿大,有压痛,血液细菌培养为草绿色链球菌,拟用青霉素G和下列其中一药合用,应选",
+        "options": [
+            "A.阿米卡星",
+            "B.链霉素",
+            "C.红霉素",
+            "D.奈替米星",
+            "E.羧苄西林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 24
+    },
+    {
+        "question_text": "25.患者,男,40岁,牧民,近二月乏力,发热出汗,游走性关节痛,热呈弛张热,发病以来,曾有3-5天的间歇,之后仍发热如前,用青霉素G治疗三周无效,病人有接触流产病羊史,未接种过任何疫苗,该病人宜选用",
+        "options": [
+            "A.庆大霉素+胺嘧啶",
+            "B.青霉素G+红霉素",
+            "C.链霉索+四环素",
+            "D.阿米卡星+青霉素G",
+            "E.氯霉素+青霉素G"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 25
+    },
+    {
+        "question_text": "26.患者,女,20岁,肾炎合并全身绿脓杆菌感染,细菌培养发现绿脓杆菌对三代头孢菌素耐药。宜选用",
+        "options": [
+            "A.头孢他定",
+            "B.头孢哌酮",
+            "C.多粘菌素",
+            "D.奈替米星",
+            "E.羧苄西林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 26
+    },
+    {
+        "question_text": "27.庆大霉素对下列何种感染无效",
+        "options": [
+            "A.大肠杆菌致尿路感染",
+            "B.肠球菌心内膜炎",
+            "C.G菌感染的败血症",
+            "D.结核性脑膜炎",
+            "E.口服用于肠道感染或肠道术前准备"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 27
+    }
+]

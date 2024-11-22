@@ -1,0 +1,1471 @@
+[
+    {
+        "question_text": "1.艾滋病病人最常见的机会性感染和致死的主要因素是",
+        "options": [
+            "A.弓形虫病",
+            "B.隐孢子虫病",
+            "C.肺孢子虫肺炎",
+            "D.阿米巴病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 1
+    },
+    {
+        "question_text": "2.疟原虫红细胞内期包括",
+        "options": [
+            "A.环状体、大滋养体、未成熟裂殖体、成熟裂殖体",
+            "B.环状体、小滋养体、大滋养体、未成熟裂殖体、成熟裂殖体",
+            "C.小滋养体、大滋养体、裂殖体、配子体",
+            "D.环状体、滋养体、裂殖体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 2
+    },
+    {
+        "question_text": "3.疟原虫寄生在人体的",
+        "options": [
+            "A.脾细胞和红细胞",
+            "B.肝细胞和脾细胞",
+            "C.肝细胞和红细胞",
+            "D.红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 3
+    },
+    {
+        "question_text": "4.薄血膜上间日疟原虫成熟裂殖体的形态特征应除外",
+        "options": [
+            "A.虫体占满胀大的红细胞",
+            "B.具有12~24个裂殖子",
+            "C.疟色素集中",
+            "D.疟色素分散在胞质中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 4
+    },
+    {
+        "question_text": "5.疟原虫感染按蚊的发育时期是",
+        "options": [
+            "A.子孢子",
+            "B.环状体",
+            "C.裂殖体",
+            "D.雌雄配子体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 5
+    },
+    {
+        "question_text": "6.在间日疟病人外周血涂片中查不到",
+        "options": [
+            "A.环状体",
+            "B.大滋养体",
+            "C.裂殖体",
+            "D.子孢子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 6
+    },
+    {
+        "question_text": "7.疟原虫在人体内的生殖方式是",
+        "options": [
+            "A.二分裂繁殖",
+            "B.裂体增殖和配子生殖的开始",
+            "C.孢子增殖和裂体增殖",
+            "D.出芽增殖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 7
+    },
+    {
+        "question_text": "8.疟原虫寄生的红细胞中出现的疟色素来自于",
+        "options": [
+            "A.疟原虫细胞核",
+            "B.疟原虫细胞质",
+            "C.红细胞中的血红蛋白",
+            "D.红细胞膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 8
+    },
+    {
+        "question_text": "9.在疟原虫生活史中能使虫体数量增加的生殖方式是",
+        "options": [
+            "A.孢子增殖、配子生殖",
+            "B.裂体增殖、孢子增殖",
+            "C.配子生殖、卵囊形成",
+            "D.配子生殖、裂体增殖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 9
+    },
+    {
+        "question_text": "10.即可引起复发又可引起再燃的疟原虫是",
+        "options": [
+            "A.间日疟原虫",
+            "B.恶性疟原虫",
+            "C.三日疟原虫",
+            "D.间日疟原虫和恶性疟原虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 10
+    },
+    {
+        "question_text": "11.瑞氏染色时，疟原虫被染成蓝色的结构是",
+        "options": [
+            "A.细胞核",
+            "B.细胞质",
+            "C.疟色素",
+            "D.血红蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 11
+    },
+    {
+        "question_text": "12.对间日疟原虫具有天然抵抗力者，可能主要是因为",
+        "options": [
+            "A.红细胞中Hb结构异常",
+            "B.红细胞中ATP水平下降",
+            "C.红细胞缺G6PD",
+            "D.Duffy血型阴性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列物质中不作为疟疾发作的致病因素的是",
+        "options": [
+            "A.红细胞碎片",
+            "B.疟原虫代谢产物",
+            "C.变性的血红蛋白",
+            "D.疟色素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 13
+    },
+    {
+        "question_text": "14.何种疟原虫寄生的红细胞上肠出现薛氏点",
+        "options": [
+            "A.恶性疟原虫",
+            "B.间日疟原虫",
+            "C.三日疟原虫",
+            "D.间日疟原虫和恶性疟原虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 14
+    },
+    {
+        "question_text": "15.表示间日疟原虫在红内期裂殖体已成熟的是",
+        "options": [
+            "A.红细胞胀大",
+            "B.红细胞内出现薛氏点",
+            "C.裂殖体内开始出现疟色素",
+            "D.裂殖子数目在12个以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 15
+    },
+    {
+        "question_text": "16.有星月形配子体的疟原虫是",
+        "options": [
+            "A.恶性疟原虫",
+            "B.间日疟原虫",
+            "C.三日疟原虫",
+            "D.卵形疟原虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 16
+    },
+    {
+        "question_text": "17.疟疾的传播媒介是",
+        "options": [
+            "A.雄库蚊",
+            "B.雌伊蚊",
+            "C.雄按蚊",
+            "D.雌按蚊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 17
+    },
+    {
+        "question_text": "18.疟原虫进入蚊体内能继续发育的时期是",
+        "options": [
+            "A.子孢子",
+            "B.环状体",
+            "C.雌雄配子",
+            "D.雌雄配子体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 18
+    },
+    {
+        "question_text": "19.恶性疟病人外周血中一般只能查见",
+        "options": [
+            "A.环状体",
+            "B.环状体、滋养体、裂殖体",
+            "C.环状体、配子体",
+            "D.配子体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 19
+    },
+    {
+        "question_text": "20.引起凶险型疟疾最常见的疟原虫是",
+        "options": [
+            "A.间日疟原虫",
+            "B.恶性疟原虫",
+            "C.三日疟原虫",
+            "D.卵形疟原虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 20
+    },
+    {
+        "question_text": "21.疟疾发作的潜伏期是指疟原虫",
+        "options": [
+            "A.红外期噶与发育的时间",
+            "B.红内期裂体增殖周期",
+            "C.红外期发育时间和红内期裂体增殖周期",
+            "D.红外期发育时间加上数代红内期裂体增殖所需时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 21
+    },
+    {
+        "question_text": "22.间日疟原虫完成一代红细胞内裂体增殖周期所需时间为",
+        "options": [
+            "A.72小时",
+            "B.48小时",
+            "C.36~48小时",
+            "D.24小时"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 22
+    },
+    {
+        "question_text": "23.引起脑型疟的疟原虫主要是",
+        "options": [
+            "A.间日疟原虫",
+            "B.三日疟原虫",
+            "C.卵形疟原虫",
+            "D.恶性疟原虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 23
+    },
+    {
+        "question_text": "24.恶性疟原虫在薄血膜中环状体的特征不包括",
+        "options": [
+            "A.环纤细，约为红细胞直径的1/5",
+            "B.红细胞内通常只寄生一个原虫",
+            "C.一个环状体肠具有2个核",
+            "D.虫体有时位于红细胞边缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 24
+    },
+    {
+        "question_text": "25.红细胞内疟原虫的有性繁殖是",
+        "options": [
+            "A.大滋养体",
+            "B.裂殖体",
+            "C.配子体",
+            "D.裂殖子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 25
+    },
+    {
+        "question_text": "26.间日疟原虫寄生于红细胞的特点不包括",
+        "options": [
+            "A.主要寄生在宿主的网织红细胞",
+            "B.常单个寄生在红细胞内",
+            "C.被寄生的红细胞大小正常或缩小",
+            "D.核通常一个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 26
+    },
+    {
+        "question_text": "27.在一个红细胞内寄生多个环状体的现象常见于",
+        "options": [
+            "A.间日疟原虫",
+            "B.三日疟原虫",
+            "C.恶性疟原虫",
+            "D.卵形疟原虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 27
+    },
+    {
+        "question_text": "28.在影响疟疾流行的自然因素中最重要的是",
+        "options": [
+            "A.温度",
+            "B.湿度",
+            "C.阳光",
+            "D.土壤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 28
+    },
+    {
+        "question_text": "29.诊断恶性疟最适宜的采血时间是",
+        "options": [
+            "A.发作时",
+            "B.发作后24小时",
+            "C.发作后72小时",
+            "D.发作后1周"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 29
+    },
+    {
+        "question_text": "30.防治疟疾的综合性措施应除外",
+        "options": [
+            "A.治疗病人",
+            "B.抗复发治疗",
+            "C.灭蚊",
+            "D.处理保虫宿主"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 30
+    },
+    {
+        "question_text": "31.具有复发现象的疟疾为",
+        "options": [
+            "A.恶性疟",
+            "B.间日疟",
+            "C.三日疟",
+            "D.间日疟和恶性疟"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 31
+    },
+    {
+        "question_text": "32.间日疟病人服用杀灭红外期原虫的药物主要用于防止疟疾的",
+        "options": [
+            "A.发作",
+            "B.再燃",
+            "C.复发",
+            "D.发作和再燃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 32
+    },
+    {
+        "question_text": "33.疟原虫的感染阶段是",
+        "options": [
+            "A.裂殖体",
+            "B.子孢子",
+            "C.配子体",
+            "D.滋养体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 33
+    },
+    {
+        "question_text": "34.疟疾在流行病学上有意义的传染源是",
+        "options": [
+            "A.血中有疟原虫的滋养体",
+            "B.血中有疟原虫的裂殖体",
+            "C.血中有疟原虫的配子体",
+            "D.血中有疟原虫的子孢子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 34
+    },
+    {
+        "question_text": "35.脑型疟多见于",
+        "options": [
+            "A.间日疟",
+            "B.三日疟",
+            "C.恶性疟",
+            "D.卵形疟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 35
+    },
+    {
+        "question_text": "36.疟疾的复发是由于",
+        "options": [
+            "A.肝内速发型子孢子经裂体增殖，裂殖子进入血流",
+            "B.肝内迟发型子孢子经裂体增殖，裂殖子进入血流",
+            "C.红细胞内残存的疟原虫大量繁殖",
+            "D.输血感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 36
+    },
+    {
+        "question_text": "37.河北省间日疟原虫的传播媒介是",
+        "options": [
+            "A.致倦库蚊",
+            "B.中华按蚊",
+            "C.微小按蚊",
+            "D.白纹伊蚊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 37
+    },
+    {
+        "question_text": "38.疟疾病人可能对疟原虫产生",
+        "options": [
+            "A.完全免疫",
+            "B.带虫免疫",
+            "C.伴随免疫",
+            "D.消除性免疫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 38
+    },
+    {
+        "question_text": "39.疟原虫属于",
+        "options": [
+            "A.鞭毛虫纲",
+            "B.叶足虫纲",
+            "C.孢子虫纲",
+            "D.绦虫纲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 39
+    },
+    {
+        "question_text": "40.诊断间日疟原虫最适宜的时间是",
+        "options": [
+            "A.发作时",
+            "B.发作后48小时",
+            "C.发作后数小时至十余小时",
+            "D.发作后72小时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 40
+    },
+    {
+        "question_text": "41.输血可感染的寄生虫是",
+        "options": [
+            "A.蛔虫",
+            "B.丝虫",
+            "C.旋毛虫",
+            "D.疟原虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 41
+    },
+    {
+        "question_text": "42.因供血源漏检，疟原虫被误输入人体后的结果是",
+        "options": [
+            "A.不会造成疟原虫的感染",
+            "B.可能感染疟原虫，并可引起复发",
+            "C.疟原虫侵入肝细胞迅速发育引起发作",
+            "D.可能呈带虫状态或疟疾发作"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 42
+    },
+    {
+        "question_text": "43.诊断疟疾最常用的方法是",
+        "options": [
+            "A.皮内试验",
+            "B.生理盐水涂片法",
+            "C.活组织检查",
+            "D.厚薄血膜涂片染色法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪种病原体在昆虫媒介体内既发育又繁殖",
+        "options": [
+            "A.丝虫幼虫",
+            "B.疟原虫",
+            "C.流行性乙型脑炎病毒",
+            "D.阿米巴包囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 44
+    },
+    {
+        "question_text": "45.我国常见的疟原虫是",
+        "options": [
+            "A.Plasmodiumvivax",
+            "B.Plasmodiumfalciparum",
+            "C.Plasmodiummalariae",
+            "D.Plasmodiumovale"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 45
+    },
+    {
+        "question_text": "46.下列哪种病症不是由疟原虫引起的",
+        "options": [
+            "A.周期性寒战、高热、出汗退热",
+            "B.脾肿大",
+            "C.贫血",
+            "D.昏迷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 46
+    },
+    {
+        "question_text": "47.疟原虫感染人体的主要方式是",
+        "options": [
+            "A.按蚊刺吸人血",
+            "B.配子体由媒介按蚊刺吸人血接种感染",
+            "C.红细胞内期配子体经输血感染",
+            "D.红细胞内期裂殖体经输血感染"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 47
+    },
+    {
+        "question_text": "48.在间日疟原虫的红内期发育过程中，疟色素开始趋于集中的阶段为",
+        "options": [
+            "A.环状体",
+            "B.大滋养体",
+            "C.未成熟裂殖体",
+            "D.成熟裂殖体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 48
+    },
+    {
+        "question_text": "49.病人居住于无疟区，1个月前因输血而感染间日疟原虫，表现为典型间日疟症状，治疗宜服用",
+        "options": [
+            "A.氯喹",
+            "B.伯氨喹啉",
+            "C.吡喹酮",
+            "D.阿苯达唑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 49
+    },
+    {
+        "question_text": "50.猫是弓形虫的",
+        "options": [
+            "A.中间宿主",
+            "B.终宿主",
+            "C.终宿主和中间宿主",
+            "D.转续宿主"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 50
+    },
+    {
+        "question_text": "51.血液检查可能找到",
+        "options": [
+            "A.疟原虫",
+            "B.肝吸虫",
+            "C.钩虫",
+            "D.血吸虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列寄生虫感染引起的免疫反应，不是超敏反应的是",
+        "options": [
+            "A.钩虫幼虫引起的肺炎",
+            "B.血吸虫尾蚴引起的皮炎",
+            "C.血吸虫虫卵致病",
+            "D.钩虫引起的贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 52
+    },
+    {
+        "question_text": "53.间日疟原虫雄配子体的外形是",
+        "options": [
+            "A.新月形",
+            "B.环形",
+            "C.腊肠形",
+            "D.圆形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 53
+    },
+    {
+        "question_text": "54.疟疾病人红细胞受破坏，除了由于寄生的疟原虫成熟裂殖体引起的红细胞破坏外，还可由",
+        "options": [
+            "A.血小板减少引起",
+            "B.免疫病理变化引起",
+            "C.肾脏病变引起",
+            "D.骨髓造血功能亢进引起"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 54
+    },
+    {
+        "question_text": "55.在疟原虫的致病性中，下列哪个阶段与疟疾的再燃有关",
+        "options": [
+            "A.迟发型子孢子",
+            "B.速发型子孢子",
+            "C.红内期疟原虫",
+            "D.红细胞内配子体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 55
+    },
+    {
+        "question_text": "56.在疟原虫的致病性中，下列哪个阶段与疟疾的复发有关",
+        "options": [
+            "A.迟发型子孢子",
+            "B.速发型子孢子",
+            "C.红内期疟原虫",
+            "D.红细胞内配子体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 56
+    },
+    {
+        "question_text": "57.间日疟原虫的发热阈值为ul血中原虫数量为",
+        "options": [
+            "A.10~500个",
+            "B.500~1300个",
+            "C.10000个",
+            "D.2000~3000个"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 57
+    },
+    {
+        "question_text": "58.获得性弓形虫病的感染主要是由于病人",
+        "options": [
+            "A.孕早期感染",
+            "B.脏器移植感染",
+            "C.皮肤受损时感染",
+            "D.食入未煮熟含有包囊的肉引起"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 58
+    },
+    {
+        "question_text": "59.细胞内寄生的寄生虫是",
+        "options": [
+            "A.疟原虫",
+            "B.钩虫",
+            "C.溶组织内阿米巴",
+            "D.肺吸虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 59
+    },
+    {
+        "question_text": "60.间日疟原虫在人体内的增殖有",
+        "options": [
+            "A.配子生殖和孢子生殖",
+            "B.出芽生殖",
+            "C.裂体增殖和配子体形成",
+            "D.有性生殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 60
+    },
+    {
+        "question_text": "61.疟原虫生活史中没有的发育阶段是",
+        "options": [
+            "A.环状体",
+            "B.裂殖体",
+            "C.包囊",
+            "D.卵囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 61
+    },
+    {
+        "question_text": "62.我国最常见流行的疟原虫是",
+        "options": [
+            "A.恶性疟原虫",
+            "B.间日疟原虫",
+            "C.卵形疟原虫",
+            "D.三日疟原虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 62
+    },
+    {
+        "question_text": "63.生活史中有世代交替现象的原虫是",
+        "options": [
+            "A.阴道毛滴虫",
+            "B.贾第虫",
+            "C.疟原虫",
+            "D.阿米巴原虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 63
+    },
+    {
+        "question_text": "64.疟原虫的感染方式为",
+        "options": [
+            "A.子孢子直接钻入皮肤",
+            "B.雌按蚊叮咬时子孢子主动钻入皮肤",
+            "C.雌按蚊叮咬时子孢子随唾液一起注入人体",
+            "D.雌按蚊叮咬时卵囊进入人体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 64
+    },
+    {
+        "question_text": "65.诊断间日疟具有鉴别意义的临床表现是",
+        "options": [
+            "A.肝肿大",
+            "B.脾肿大",
+            "C.贫血",
+            "D.周期性寒战、高热、出汗退热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 65
+    },
+    {
+        "question_text": "66.间日疟外周血涂片可查见",
+        "options": [
+            "A.裂殖体、配子体、动合子、子孢子",
+            "B.小滋养体、大滋养体、子孢子、裂殖体",
+            "C.配子体、合子、裂殖体、滋养体",
+            "D.环状体、大滋养体、裂殖体、配子体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 66
+    },
+    {
+        "question_text": "67.鉴别间日疟原虫雌、雄配子体的形态最主要的依据为",
+        "options": [
+            "A.原虫的外形",
+            "B.虫体染色后的颜色深浅",
+            "C.细胞核的特点",
+            "D.疟色素的分布"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 67
+    },
+    {
+        "question_text": "68.不食未煮熟的肉类可预防",
+        "options": [
+            "A.肺吸虫的感染",
+            "B.肝吸虫的感染",
+            "C.弓形虫的感染",
+            "D.溶组织内阿米巴的感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 68
+    },
+    {
+        "question_text": "69.卵囊是",
+        "options": [
+            "A.疟原虫感染蚊的阶段",
+            "B.疟原虫感染人体的阶段",
+            "C.疟原虫在蚊体内无性繁殖的阶段",
+            "D.疟原虫在蚊体内有性繁殖的阶段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 69
+    },
+    {
+        "question_text": "70.免疫功能正常的宿主感染弓形虫后通常表现为",
+        "options": [
+            "A.急性感染",
+            "B.隐性感染",
+            "C.亚急性感染",
+            "D.不感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 70
+    },
+    {
+        "question_text": "71.弓形虫慢性感染时虫体在人体组织内的主要存在形式是",
+        "options": [
+            "A.假包囊",
+            "B.包囊",
+            "C.卵囊",
+            "D.速殖子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 71
+    },
+    {
+        "question_text": "72.弓形虫的1个成熟卵囊内含有",
+        "options": [
+            "A.2个孢子囊，每个孢子囊内含有4个子孢子",
+            "B.1个孢子囊，每个孢子囊内含有2个子孢子",
+            "C.2个孢子囊，每个孢子囊内含有2个子孢子",
+            "D.2个孢子囊，每个孢子囊内含有1个子孢子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 72
+    },
+    {
+        "question_text": "73.弓形虫病特有的免疫诊断方法是",
+        "options": [
+            "A.ELISA",
+            "B.DT",
+            "C.PCR",
+            "D.Western-bolt"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 73
+    },
+    {
+        "question_text": "74.弓形虫在中间宿主之间、中间宿主与终宿主之间相互传播的主要发育阶段是",
+        "options": [
+            "A.速殖子",
+            "B.缓殖子",
+            "C.包囊",
+            "D.裂殖体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 74
+    },
+    {
+        "question_text": "75.人体弓形虫的首要传染源来自",
+        "options": [
+            "A.病人",
+            "B.病畜",
+            "C.带虫者",
+            "D.隐性感染者"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 75
+    },
+    {
+        "question_text": "76.弓形虫感染的实验诊断通常采用",
+        "options": [
+            "A.粪便检查",
+            "B.动物接种试验",
+            "C.生理盐水涂片",
+            "D.免疫学检查"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 76
+    },
+    {
+        "question_text": "77.下列不是人体弓形虫感染的特点的是",
+        "options": [
+            "A.临床表现复杂",
+            "B.感染方式多",
+            "C.感染者常表现为急性感染",
+            "D.淋巴结肿大是获得性弓形虫病的常见表现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 77
+    },
+    {
+        "question_text": "78.弓形虫的主要致病阶段是",
+        "options": [
+            "A.缓殖子",
+            "B.速殖子",
+            "C.裂殖子",
+            "D.卵囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 78
+    },
+    {
+        "question_text": "79.需要两种脊椎动物完成生活史的原虫是",
+        "options": [
+            "A.疟原虫",
+            "B.阴道毛滴虫",
+            "C.弓形虫",
+            "D.贾第虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 79
+    },
+    {
+        "question_text": "80.能引起胎儿畸形或先天性智力发育不全的寄生虫是",
+        "options": [
+            "A.血吸虫",
+            "B.猪带绦虫",
+            "C.弓形虫",
+            "D.疟原虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 80
+    },
+    {
+        "question_text": "81.先天性弓形虫病的感染途径是",
+        "options": [
+            "A.经口感染",
+            "B.经输血感染",
+            "C.经胎盘感",
+            "D.经损伤的皮肤感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 81
+    },
+    {
+        "question_text": "82.弓形虫有多个阶段寄生于人体，但应除外",
+        "options": [
+            "A.滋养体",
+            "B.裂殖体",
+            "C.包囊",
+            "D.假包囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 82
+    },
+    {
+        "question_text": "83.有关弓形虫的叙述错误的是",
+        "options": [
+            "A.速殖子期是主要致病阶段",
+            "B.猫可作为中间宿主",
+            "C.感染期为卵囊、包囊、假包囊",
+            "D.淋巴结肿大是先天性弓形虫病最常见的临床表现"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 83
+    },
+    {
+        "question_text": "84.获得性弓形虫病最常见临床表现是",
+        "options": [
+            "A.脑炎、脑膜炎",
+            "B.不规则发热",
+            "C.淋巴结肿大",
+            "D.弓形虫脑病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 84
+    },
+    {
+        "question_text": "85.弓形虫生活史中对人没有感染性的阶段是",
+        "options": [
+            "A.速殖子",
+            "B.配子体",
+            "C.卵囊",
+            "D.包囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 85
+    },
+    {
+        "question_text": "86.刚地弓形虫的终宿主是",
+        "options": [
+            "A.人",
+            "B.猪",
+            "C.猫科动物",
+            "D.啮齿类动物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 86
+    },
+    {
+        "question_text": "87.弓形虫寄生在人的",
+        "options": [
+            "A.各期红细胞",
+            "B.网织红细胞",
+            "C.有核细",
+            "D.早幼红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 87
+    },
+    {
+        "question_text": "88.先天性弓形虫病多表现为",
+        "options": [
+            "A.淋巴结肿大",
+            "B.弓形虫脑病",
+            "C.急性感染发病",
+            "D.隐性感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 88
+    },
+    {
+        "question_text": "89.疟疾的传染源是",
+        "options": [
+            "A.感染疟原虫的按蚊",
+            "B.疟疾病人",
+            "C.外周血有配子体的带虫者",
+            "D.感染疟原虫的哺乳动物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 89
+    },
+    {
+        "question_text": "90.治疗孕妇弓形虫病首选药物是",
+        "options": [
+            "A.青霉素",
+            "B.螺旋霉素",
+            "C.氯喹",
+            "D.青蒿素类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 90
+    },
+    {
+        "question_text": "91.间日疟原虫多寄生于",
+        "options": [
+            "A.衰老红细胞",
+            "B.早幼红细胞",
+            "C.网织红细胞",
+            "D.各期红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 91
+    },
+    {
+        "question_text": "92.有怀孕母亲传给胎儿可引起发育异常或早死的寄生虫是",
+        "options": [
+            "A.钩虫",
+            "B.血吸虫",
+            "C.阴道毛滴虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 92
+    },
+    {
+        "question_text": "93.疟原虫的生活史类型属于",
+        "options": [
+            "A.虫媒传播型",
+            "B.人际传播型",
+            "C.直接接触传播",
+            "D.间接接触传播"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 93
+    },
+    {
+        "question_text": "94.瑞氏染色时，疟原虫被染成蓝色的结构是",
+        "options": [
+            "A.细胞核",
+            "B.细胞质",
+            "C.细胞膜",
+            "D.疟色素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 94
+    },
+    {
+        "question_text": "95.下列不是弓形虫病传播途径的是",
+        "options": [
+            "A.母婴垂直传播",
+            "B.经受损的皮肤黏膜感染",
+            "C.输血",
+            "D.媒介昆虫感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 95
+    },
+    {
+        "question_text": "96.脑脊液沉淀涂片姬氏染色法适用于检查的原虫是",
+        "options": [
+            "A.阴道毛滴虫",
+            "B.贾第虫",
+            "C.阿米巴滋养体",
+            "D.弓形虫滋养体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 96
+    },
+    {
+        "question_text": "97.无明显的运动细胞器的原虫是",
+        "options": [
+            "A.溶组织内阿米巴",
+            "B.阴道毛滴虫",
+            "C.贾第虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 97
+    },
+    {
+        "question_text": "98.弓形虫寄生于人体的阶段为",
+        "options": [
+            "A.裂殖体",
+            "B仅有假包囊",
+            "C.仅有包囊",
+            "D.速殖子、缓殖子、包囊、假包囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 98
+    },
+    {
+        "question_text": "99.人体弓形虫病的临床表现多见于",
+        "options": [
+            "A.急性感染",
+            "B.隐形感染",
+            "C.弓形虫脑病",
+            "D.淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 99
+    },
+    {
+        "question_text": "100.间日疟原虫成熟裂殖体内的裂殖子数为",
+        "options": [
+            "A.5~10个",
+            "B.12~24个",
+            "C.29~32个",
+            "D.40~50个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 100
+    },
+    {
+        "question_text": "101.疟原虫潜伏期的长短取决于以下因素，除了以外",
+        "options": [
+            "A.疟原虫虫株的生物学特性",
+            "B.感染疟原虫的数量",
+            "C.机体的免疫力",
+            "D.感染疟原虫的时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 101
+    },
+    {
+        "question_text": "102.间日疟的复发的机制是",
+        "options": [
+            "A.残存红内期疟原虫重新繁殖",
+            "B.迟发型子孢子被激活",
+            "C.再次感染疟原虫",
+            "D.机体免疫力下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 102
+    },
+    {
+        "question_text": "103.有关疟原虫的再燃，下列哪个说法是错的",
+        "options": [
+            "A.恶性疟无再燃",
+            "B.间日疟有再燃",
+            "C.再燃与疟原虫抗原变异有关",
+            "D.再燃与宿主抵抗力下降有关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 103
+    },
+    {
+        "question_text": "104.确诊疟疾的依据是",
+        "options": [
+            "A.被按蚊叮咬过",
+            "B.周期性寒热发作史",
+            "C.外周血检出疟原虫",
+            "D.贫血表现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 104
+    },
+    {
+        "question_text": "105.疟疾的传染源是指",
+        "options": [
+            "A.疟疾病人",
+            "B.外周血中配子体的病人和带虫者",
+            "C.外周血中存在裂殖子的病人和带虫者",
+            "D.外周血中存在子孢子的病人和带虫者"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 105
+    },
+    {
+        "question_text": "106.厚薄血膜染色镜检常用于诊断",
+        "options": [
+            "A.弓形虫感染",
+            "B.阴道毛滴虫感染",
+            "C.疟原虫感染",
+            "D.贾第虫感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 106
+    },
+    {
+        "question_text": "107.杀灭红外期裂殖体及休眠子的药物是",
+        "options": [
+            "A.氯喹",
+            "B.伯氨喹啉",
+            "C.青蒿素",
+            "D.青霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 107
+    },
+    {
+        "question_text": "108.染色试验可用于诊断",
+        "options": [
+            "A.疟疾",
+            "B.血吸虫病",
+            "C.弓形虫病",
+            "D.贾第虫病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 108
+    },
+    {
+        "question_text": "109.氯喹在间日疟的防治中的作用是",
+        "options": [
+            "A.防治复发",
+            "B.控制临床发作",
+            "C.抑制孢子增殖",
+            "D.抑制配子增殖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 109
+    },
+    {
+        "question_text": "110.伯氨喹啉在间日疟的防治中的作用是",
+        "options": [
+            "A.防治复发",
+            "B.控制临床发作",
+            "C.抑制孢子增殖",
+            "D.抑制配子增殖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 110
+    },
+    {
+        "question_text": "111.疟原虫的主要致病阶段是",
+        "options": [
+            "A.红外期裂体增殖",
+            "B.红内期裂体增殖",
+            "C.孢子增殖",
+            "D.配子增殖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 111
+    },
+    {
+        "question_text": "112.宿主感染疟原虫后产生的免疫力属于",
+        "options": [
+            "A.消除性免疫",
+            "B.伴随免疫",
+            "C.带虫免疫",
+            "D.天然免疫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 112
+    },
+    {
+        "question_text": "113.疟疾的流行具有",
+        "options": [
+            "A.地方性",
+            "B.季节性",
+            "C.地方性、季节性和自然疫源性",
+            "D.地方性和季节性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "113",
+        "number": 113
+    }
+]

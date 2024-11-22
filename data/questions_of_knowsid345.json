@@ -1,0 +1,926 @@
+[
+    {
+        "question_text": "1.下列成瘾性极小的镇痛药是",
+        "options": [
+            "A.哌替啶",
+            "B.可待因",
+            "C.美沙酮",
+            "D.喷他佐辛",
+            "E.芬太尼"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 1
+    },
+    {
+        "question_text": "2.吗啡可用于",
+        "options": [
+            "A.支气管哮喘",
+            "B.心源性哮喘",
+            "C.阿司匹林哮喘",
+            "D.过敏性哮喘",
+            "E.喘息性支气管炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列属于阿片受体拮抗药的是",
+        "options": [
+            "A.喷他佐辛",
+            "B.美沙酮",
+            "C.纳洛酮",
+            "D.芬太尼",
+            "E.哌替啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 3
+    },
+    {
+        "question_text": "4.与吗啡成瘾性最密切的作用部位是",
+        "options": [
+            "A.蓝斑核",
+            "B.孤束核",
+            "C.导水管周围灰质",
+            "D.中脑盖前核",
+            "E.脊髓罗氏胶质区"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 4
+    },
+    {
+        "question_text": "5.对μ受体有弱拮抗作用的镇痛药是",
+        "options": [
+            "A.吗啡",
+            "B.哌替啶",
+            "C.芬太尼",
+            "D.喷他佐辛",
+            "E.美沙酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列镇痛作用最强的药物是",
+        "options": [
+            "A.吗啡",
+            "B.哌替啶",
+            "C.芬太尼",
+            "D.美沙酮",
+            "E.喷他佐辛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 6
+    },
+    {
+        "question_text": "7.与吗啡成瘾性密切相关的阿片受体亚型是",
+        "options": [
+            "A.κ亚型",
+            "B.δ亚型",
+            "C.ε亚型",
+            "D.μ亚型",
+            "E.σ亚型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 7
+    },
+    {
+        "question_text": "8.吗啡的中枢作用不包括",
+        "options": [
+            "A.抑制呼吸",
+            "B.镇咳",
+            "C.缩瞳",
+            "D.恶心、呕吐",
+            "E.体位性低血压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 8
+    },
+    {
+        "question_text": "9.二氢埃托啡镇痛作用的主要部位是",
+        "options": [
+            "A.壳核",
+            "B.大脑边缘系统",
+            "C.延脑",
+            "D.苍白球",
+            "E.丘脑内侧、脑室及导水管周围灰质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 9
+    },
+    {
+        "question_text": "10.吗啡缩瞳的原因是",
+        "options": [
+            "A.作用于导水管周围灰质",
+            "B.作用于中脑盖前核的阿片受体",
+            "C.作用于蓝斑核",
+            "D.作用于边缘系统",
+            "E.作用于延脑孤束核的阿片受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 10
+    },
+    {
+        "question_text": "11.吗啡化学结构中的叔胺氮被烯丙基取代,则",
+        "options": [
+            "A.镇痛作用增强",
+            "B.镇痛作用不变",
+            "C.生物利用度降低",
+            "D.生物利用度增高",
+            "E.成为吗啡的拮抗药"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 11
+    },
+    {
+        "question_text": "12.吗啡化学结构环A上的酚羟基氢原子被甲基取代,则",
+        "options": [
+            "A.镇痛作用增强",
+            "B.镇痛作用减弱",
+            "C.生物利用度降低",
+            "D.生物利用度增高",
+            "E.成为吗啡的拮抗药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 12
+    },
+    {
+        "question_text": "13.吗啡常用注射给药的原因是",
+        "options": [
+            "A.片剂不稳定",
+            "B.口服不吸收",
+            "C.口服刺激大",
+            "D.易被肠道破坏",
+            "E.首关消除明显,生物利用度低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 13
+    },
+    {
+        "question_text": "14.吗啡抑制呼吸的主要原因是",
+        "options": [
+            "A.作用于导水管周围灰质",
+            "B.降低呼吸中枢对血液CO2张力的敏感性",
+            "C.作用于迷走神经背核",
+            "D.作用于蓝斑核",
+            "E.作用于脑干极后区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列关于吗啡的叙述,错误的是",
+        "options": [
+            "A.使胃肠道括约肌收缩",
+            "B.引起针尖样瞳孔",
+            "C.主要在肝脏与葡萄糖醛酸结合而失效",
+            "D.增加胆道内压力",
+            "E.松弛膀胱括约肌,引起尿潴留"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 15
+    },
+    {
+        "question_text": "16.对某些阿片受体有激动作用,对另一些阿片受体又有拮抗作用的药物是",
+        "options": [
+            "A.镇痛新",
+            "B.纳洛酮",
+            "C.美沙酮",
+            "D.可待因",
+            "E.吗啡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 16
+    },
+    {
+        "question_text": "17.吗啡对消化道的作用",
+        "options": [
+            "A.肠道平滑肌张力提高,肛门括约肌张力提高,奥狄括约肌松弛",
+            "B.肠道平滑肌松弛,肛门括约肌张力提高,奥狄括约肌收缩",
+            "C.肠道平滑肌松弛,肛门括约肌松弛,奥狄括约肌收缩",
+            "D.肠道平滑肌张力提高,肛门括约肌张力提高,奥狄括约肌收缩",
+            "E.肠道平滑肌张力提高,肛门括约肌松弛,奥狄括约肌收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 17
+    },
+    {
+        "question_text": "18.呼吸抑制作用最弱的镇痛药是",
+        "options": [
+            "A.哌替啶",
+            "B.吗啡",
+            "C.镇痛新",
+            "D.美沙酮",
+            "E.芬太尼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 18
+    },
+    {
+        "question_text": "19.吗啡无下列哪些不良反应",
+        "options": [
+            "A.抑制咳嗽中枢",
+            "B.抑制呼吸中枢",
+            "C.引起腹泻",
+            "D.引起便秘",
+            "E.引起直立性低血压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 19
+    },
+    {
+        "question_text": "20.哌替啶的特点是",
+        "options": [
+            "A.镇痛作用强",
+            "B.成瘾性比吗啡小",
+            "C.作用持续时间较吗啡长",
+            "D.等效镇痛剂量抑制呼吸作用弱",
+            "E.大剂量也不引起支气管平滑肌收缩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 20
+    },
+    {
+        "question_text": "21.骨折剧痛应选用的止痛药是",
+        "options": [
+            "A.消炎痛",
+            "B.烯丙吗啡",
+            "C.纳洛酮",
+            "D.哌替啶",
+            "E.可待因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 21
+    },
+    {
+        "question_text": "22.吗啡镇咳的部位是",
+        "options": [
+            "A.迷走神经背核",
+            "B.延脑的孤束核",
+            "C.中脑盖前核",
+            "D.蓝斑核",
+            "E.导水管周围灰质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 22
+    },
+    {
+        "question_text": "23.下类药物中镇痛作用最强的是",
+        "options": [
+            "A.吗啡",
+            "B.可待因",
+            "C.喷他佐辛",
+            "D.芬太尼",
+            "E.美沙酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 23
+    },
+    {
+        "question_text": "24.吗啡最有效的镇痛部位是",
+        "options": [
+            "A.导水管周围灰质",
+            "B.蓝斑核",
+            "C.延脑孤束核",
+            "D.中脑盖前核",
+            "E.边缘系统"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 24
+    },
+    {
+        "question_text": "25.吗啡不会产生",
+        "options": [
+            "A.呼吸抑制",
+            "B.止咳作用",
+            "C.直立性低血压",
+            "D.腹泻稀便症状",
+            "E.支气管收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 25
+    },
+    {
+        "question_text": "26.胆绞痛的病人最好选用",
+        "options": [
+            "A.阿托品",
+            "B.哌替啶",
+            "C.氯丙嗪+阿托品",
+            "D.哌替啶+阿托品",
+            "E.阿司匹林+阿托品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 26
+    },
+    {
+        "question_text": "27.解救吗啡类镇痛药急性中毒的药物是",
+        "options": [
+            "A.哌替啶",
+            "B.喷他佐辛",
+            "C.曲马朵",
+            "D.芬太尼",
+            "E.纳洛酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 27
+    },
+    {
+        "question_text": "28.关于哌替啶的作用特点,下列哪项是错误的",
+        "options": [
+            "A.血浆约3小时t1/2",
+            "B.有止泻作用,适用于急慢性消耗性腹泻",
+            "C.可引起直立性低血压",
+            "D.比吗啡的镇痛作用弱",
+            "E.成瘾性较吗啡轻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 28
+    },
+    {
+        "question_text": "29.哌替啶比吗啡应用多的原因是",
+        "options": [
+            "A.呼吸抑制作用轻",
+            "B.作用较慢,维持时间短",
+            "C.无便秘作用",
+            "D.对支气管平滑肌无影响",
+            "E.成瘾性较吗啡轻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 29
+    },
+    {
+        "question_text": "30.镇痛作用最强的药物是",
+        "options": [
+            "A.吗啡",
+            "B.二氢埃托啡",
+            "C.美沙酮",
+            "D.芬太尼",
+            "E.哌替啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 30
+    },
+    {
+        "question_text": "31.与成瘾性有关的阿片受体亚型是",
+        "options": [
+            "A.κ型",
+            "B.μ型",
+            "C.ε型",
+            "D.δ型",
+            "E.α型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 31
+    },
+    {
+        "question_text": "32.对吗啡成瘾者可迅速诱发戒断症状的药物是",
+        "options": [
+            "A.纳洛酮",
+            "B.哌替啶",
+            "C.美沙酮",
+            "D.曲马朵",
+            "E.镇痛新"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 32
+    },
+    {
+        "question_text": "33.对创伤性剧痛无明显疗效的药物是",
+        "options": [
+            "A.美沙酮",
+            "B.哌替啶",
+            "C.罗通定",
+            "D.曲马朵",
+            "E.芬太尼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 33
+    },
+    {
+        "question_text": "34.吗啡的镇痛作用主要用于",
+        "options": [
+            "A.胃肠痉挛",
+            "B.慢性钝痛",
+            "C.分娩阵痛",
+            "D.肾绞痛",
+            "E.急性锐痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 34
+    },
+    {
+        "question_text": "35.与吗啡成瘾性及戎断症状有直接联系的部位是",
+        "options": [
+            "A.孤束核",
+            "B.壳核",
+            "C.迷走神经背核",
+            "D.蓝斑核",
+            "E.盖前核"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 35
+    },
+    {
+        "question_text": "36.心源性哮喘可选用",
+        "options": [
+            "A.肾上腺素",
+            "B.去甲肾上腺素",
+            "C.异丙肾上腺素",
+            "D.吗啡",
+            "E.多巴胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 36
+    },
+    {
+        "question_text": "37.在药政管理上已列入非麻醉品的镇痛药是",
+        "options": [
+            "A.芬太尼",
+            "B.安那度",
+            "C.喷他佐辛",
+            "D.哌替啶",
+            "E.美沙酮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 37
+    },
+    {
+        "question_text": "38.吗啡引起恶心、呕吐的原因是",
+        "options": [
+            "A.作用于脑干极后区、孤束核和迷走神经背核等部位的阿片受体",
+            "B.兴奋胃肠平滑肌,提高其张力",
+            "C.激动中脑盖前核的阿片受体",
+            "D.阻断中脑盖前核的阿片受体",
+            "E.作用于延脑孤束核的阿片受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 38
+    },
+    {
+        "question_text": "39.喷他佐辛最突出的优点是",
+        "options": [
+            "A.可口服给药",
+            "B.兴奋心血管系统",
+            "C.适用于各种慢性钝痛",
+            "D.无呼吸抑制作用",
+            "E.成瘾性很小,已列入非麻醉药品"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 39
+    },
+    {
+        "question_text": "40.不属于吗啡禁忌证的是",
+        "options": [
+            "A.分娩止痛",
+            "B.支气管哮喘",
+            "C.诊断未明的急腹症",
+            "D.肝功能严重减退患者",
+            "E.心源性哮喘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 40
+    },
+    {
+        "question_text": "41.人工冬眠合剂的组成是",
+        "options": [
+            "A.哌替啶、氯丙嗪、异丙嗪",
+            "B.哌替啶、吗啡、异丙嗪",
+            "C.哌替啶、氯丙嗪、芬太尼",
+            "D.哌替啶、芬太尼、异丙嗪",
+            "E.芬太尼、氯丙嗪、异丙嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 41
+    },
+    {
+        "question_text": "42.镇痛作用较吗啡强100倍的药物是",
+        "options": [
+            "A.哌替啶",
+            "B.安那度",
+            "C.芬太尼",
+            "D.可待因",
+            "E.曲马朵"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 42
+    },
+    {
+        "question_text": "43.关于吗啡的体内过程,正确的叙述是",
+        "options": [
+            "A.口服后容易吸收,生物利用度高",
+            "B.常注射给药,仅有少量通过血脑脊液屏障",
+            "C.血浆是4-6小时",
+            "D.大量经乳腺排泄",
+            "E.不能通过胎盘进入胎儿体内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 43
+    },
+    {
+        "question_text": "44.与脑内阿片受体无关的镇痛药是",
+        "options": [
+            "A.美沙酮",
+            "B.二氢埃托啡",
+            "C.哌替啶",
+            "D.镇痛新",
+            "E.罗通定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 44
+    },
+    {
+        "question_text": "45.大剂量反而增快心率、升高血压的镇痛药是",
+        "options": [
+            "A.美沙酮",
+            "B.吗啡",
+            "C.哌替啶",
+            "D.芬太尼",
+            "E.喷他佐辛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 45
+    },
+    {
+        "question_text": "46.吗啡镇痛的主要作用部位是",
+        "options": [
+            "A.脊髓胶质区、丘脑内侧、-脑室及导水管周围灰质",
+            "B.脑干网状结构",
+            "C.边缘系统与蓝斑核",
+            "D.中脑盖前核",
+            "E.大脑皮质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 46
+    },
+    {
+        "question_text": "47.产妇临产前24小时不宜用哌替啶的原因是",
+        "options": [
+            "A.新生儿对哌替啶的抑制呼吸作用极为敏感",
+            "B.产妇对哌替啶的抑制呼吸作用极为敏感",
+            "C.可致体位性低血压",
+            "D.可使脑血管扩张而致脑脊液压力升高",
+            "E.易致眩晕、恶心、呕吐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 47
+    },
+    {
+        "question_text": "48.喷他佐辛升高血压的原因是",
+        "options": [
+            "A.直接收缩血管",
+            "B.兴奋心脏",
+            "C.拮抗受体的作用",
+            "D.阻断β受体的作用",
+            "E.升高血浆中去甲肾上腺素的水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 48
+    },
+    {
+        "question_text": "49.吗啡的药理作用有",
+        "options": [
+            "A.镇痛、镇静、镇咳",
+            "B.镇痛、镇静、抗震频麻痹",
+            "C.镇痛、呼吸兴奋",
+            "D.镇痛、欣快、止吐",
+            "E.镇痛、安定、散瞳"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 49
+    },
+    {
+        "question_text": "50.阿片受体拮抗剂为",
+        "options": [
+            "A.二氢埃托啡",
+            "B.哌替啶",
+            "C.吗啡",
+            "D.纳洛酮",
+            "E.曲马朵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 50
+    },
+    {
+        "question_text": "51.阿片受体的拮抗剂是",
+        "options": [
+            "A.纳曲酮",
+            "B.喷他佐辛",
+            "C.可待因",
+            "D.罗通定",
+            "E.延胡索乙素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 51
+    },
+    {
+        "question_text": "52.与吗啡作用机制有关的是",
+        "options": [
+            "A.阻断阿片受体",
+            "B.激动中枢阿片受体",
+            "C.抑制中枢PG合成",
+            "D.抑制外周PG合成",
+            "E.阻断DA受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 52
+    },
+    {
+        "question_text": "53.下列哪项不是哌替啶的禁忌证",
+        "options": [
+            "A.手术后疼痛",
+            "B.分娩止痛",
+            "C.肝功能严重减退",
+            "D.哺乳妇女止痛",
+            "E.肺源性心脏病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 53
+    },
+    {
+        "question_text": "54.慢性钝痛时,不宜用吗啡的主要理由是",
+        "options": [
+            "A.对钝痛效果差",
+            "B.治疗量即抑制呼吸",
+            "C.可致便秘",
+            "D.易成瘾",
+            "E.易引起直立性低血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 54
+    },
+    {
+        "question_text": "55.哌替啶和阿托品合用治疗胆绞痛,其原因是哌替啶",
+        "options": [
+            "A.易成瘾",
+            "B.易致眩晕、恶心、呕吐",
+            "C.引起胆道括约肌痉挛,提高胆道内压力",
+            "D.镇痛作用强度不如吗啡",
+            "E.抑制呼吸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列哪种情况不宜用哌替啶镇痛",
+        "options": [
+            "A.内脏绞痛",
+            "B.慢性钝痛",
+            "C.创伤性疼痛",
+            "D.晚期癌症疼痛",
+            "E.手术后疼痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 56
+    },
+    {
+        "question_text": "57.吗啡不具备下列哪种药理作用?",
+        "options": [
+            "A.引起恶心",
+            "B.引起体位性低血压",
+            "C.致颅压增高",
+            "D.引起腹泻",
+            "E.抑制呼吸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 57
+    },
+    {
+        "question_text": "58.主要激动阿片受体,又可拮抗阿片受体的药物是:",
+        "options": [
+            "A.美沙酮",
+            "B.吗啡",
+            "C.喷他佐辛",
+            "D.曲马朵",
+            "E.二氢埃托啡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 58
+    },
+    {
+        "question_text": "59.对吗啡急性中毒呼吸抑制有显著疗效的药物是:",
+        "options": [
+            "A.多巴胺",
+            "B.肾上腺素",
+            "C.啡因",
+            "D.纳洛酮",
+            "E.山梗菜碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 59
+    },
+    {
+        "question_text": "60.喷他佐辛最突出的优点是:",
+        "options": [
+            "A.适用于各种慢性钝痛",
+            "B.可口服给药",
+            "C.无呼吸抑制作用",
+            "D.成瘾性很小,已列入非麻醉药口",
+            "E.兴奋心血管系统"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 60
+    },
+    {
+        "question_text": "61.吗啡的镇痛作用最适用于:",
+        "options": [
+            "A.其他镇痛药无效时的急性锐痛",
+            "B.神经痛",
+            "C.脑外伤疼痛",
+            "D.分娩止痛",
+            "E.诊断未明的急腹症疼痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 61
+    },
+    {
+        "question_text": "62.吗啡无下列哪种不良反应?",
+        "options": [
+            "A.引起腹泻",
+            "B.引起便秘",
+            "C.抑制呼吸中枢",
+            "D.抑制咳嗽中枢",
+            "E.引起体位性低血压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 62
+    },
+    {
+        "question_text": "63.与脑内阿片受体无关的镇痛药是:",
+        "options": [
+            "A.哌替啶",
+            "B.罗通定",
+            "C.美沙酮",
+            "D.喷他佐辛",
+            "E.二氢埃托啡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 63
+    },
+    {
+        "question_text": "64.典型中枢的镇痛药其特点是:",
+        "options": [
+            "A.有镇痛、解热作用",
+            "B.有镇痛、抗炎作用",
+            "C.有镇痛、解热、抗炎作用",
+            "D.有强大的镇痛作用,无成瘾性",
+            "E.有强大的镇痛作用,反复应用容易成瘾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 64
+    },
+    {
+        "question_text": "65.心源性哮喘可以选用",
+        "options": [
+            "A.肾上腺素",
+            "B.沙丁胺醇",
+            "C.地塞米松",
+            "D.格列齐特",
+            "E.吗啡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 65
+    },
+    {
+        "question_text": "66.吗啡镇痛作用的主要部位是:",
+        "options": [
+            "A.蓝斑核的阿片受体",
+            "B.丘脑内侧、脑室及导水管周围灰质",
+            "C.黑质-纹状体通路",
+            "D.脑干网状结构",
+            "E.大脑边缘系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 66
+    }
+]

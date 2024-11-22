@@ -1,0 +1,1024 @@
+[
+    {
+        "question_text": "1.创伤抢救中，需首先处理",
+        "options": [
+            "A.出血",
+            "B.休克",
+            "C.窒息",
+            "D.骨折",
+            "E.内脏损伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 1
+    },
+    {
+        "question_text": "2.伤口边缘整齐，呈线状或层状，周围组织损伤轻是",
+        "options": [
+            "A.刺伤",
+            "B.裂伤",
+            "C.皮肤撕脱伤",
+            "D.挫伤",
+            "E.切伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 2
+    },
+    {
+        "question_text": "3.严重挤压伤后，最可能出现的为",
+        "options": [
+            "A.剧烈疼痛",
+            "B.低血容性休克",
+            "C.急性肾功能衰竭",
+            "D.大量失血",
+            "E.截瘫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 3
+    },
+    {
+        "question_text": "4.易发生挤压综合征的挤压伤部位是",
+        "options": [
+            "A.头部",
+            "B.胸部",
+            "C.手和前臂",
+            "D.大腿和臀部",
+            "E.足和小腿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 4
+    },
+    {
+        "question_text": "5.以下哪项不是肢体创伤口的局部表现",
+        "options": [
+            "A.充血",
+            "B.肿胀",
+            "C.体温升高",
+            "D.疼痛",
+            "E.功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 5
+    },
+    {
+        "question_text": "6.下面哪项不影响创伤后的修复进程",
+        "options": [
+            "A.感染",
+            "B.低蛋白血症",
+            "C.使用皮质激素",
+            "D.糖尿病",
+            "E.高血压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 6
+    },
+    {
+        "question_text": "7.有关不利于伤口愈合的因素不包括",
+        "options": [
+            "A.静脉曲张",
+            "B.缝合过紧",
+            "C.使用消炎痛",
+            "D.局部制动",
+            "E.成纤维细胞增生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 7
+    },
+    {
+        "question_text": "8.清创术中不包括以下哪项",
+        "options": [
+            "A.消毒",
+            "B.清除异物",
+            "C.清除血块，止血",
+            "D.清除骨折片",
+            "E.消灭死腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 8
+    },
+    {
+        "question_text": "9.有关闭合伤口的处理以下哪项不正确",
+        "options": [
+            "A.软组织挫伤局部早期可冷敷",
+            "B.气血胸需穿刺或引流",
+            "C.腹腔内脏器损伤大多需急诊手术探查",
+            "D.骨折需手术复位和固定",
+            "E.四肢挤压伤需进行预防肾衰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 9
+    },
+    {
+        "question_text": "10?一男性患者，30岁，不明原因外伤，被抬入急诊，昏迷，下肢有创口及血迹，应首先检查",
+        "options": [
+            "A.了解致伤的原因和作用部位",
+            "B.了解症状及演变过程",
+            "C.仔细检查伤口及创面",
+            "D.详细查损伤局部情况",
+            "E.观察呼吸，脉搏，血压，体温"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 10
+    },
+    {
+        "question_text": "11.一女性，50岁，工伤事故被压伤，伤后1小时被送入院，严重下肢挤压伤合并骨折和严重低血压此时首要处理应该是",
+        "options": [
+            "A.吸氧",
+            "B.应用血管收缩药，以提高血压",
+            "C.骨折固定",
+            "D.注射止痛剂",
+            "E.输血和补液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 11
+    },
+    {
+        "question_text": "12.21岁男性坠落伤，肢体多处创口，且污染，急诊对污染伤口经清创后处理原则",
+        "options": [
+            "A.头面，颈部创口受伤超过12小时经清创后不缝合",
+            "B.受伤超过12小时经清创后一律不缝合",
+            "C.受伤6—8小时内清创者应缝合",
+            "D.关节开放性损伤超过24小时清创后不缝合",
+            "E.污染较严重之伤口，不论任何部位受伤超过6-8小时者，一律不缝合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 12
+    },
+    {
+        "question_text": "13.男性29岁，左上肢被工地机器绞伤，软组织严重撕裂伤，以下哪项治疗方法不应选用",
+        "options": [
+            "A.单纯加压包扎",
+            "B.抗休克",
+            "C.纠正水电解质紊乱",
+            "D.使用破伤风抗毒素",
+            "E.使用抗菌素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 13
+    },
+    {
+        "question_text": "14.35岁男性，建筑工地外伤1小时后拾到急诊，意识清楚，面色苍白，情绪紧张，呼吸急促，脉搏微弱以下哪项原则不恰当",
+        "options": [
+            "A.检查尽量简捷",
+            "B.立即检查重要生命指征",
+            "C.立即建立静脉通道",
+            "D.检查肢体运动情况",
+            "E.详细询问既往史"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 14
+    },
+    {
+        "question_text": "男,35岁,施工中高处坠落,左足扭伤并皮肤破裂,伤后2.5小时来诊15.如创口清洁可行下列哪些治疗？",
+        "options": [
+            "A.生理盐水浸泡",
+            "B.酒精冲洗",
+            "C.抗生素冲洗",
+            "D.清毒包扎",
+            "E.缝合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 15
+    },
+    {
+        "question_text": "16.该伤者创口内有不洁异物可行哪项治疗",
+        "options": [
+            "A.直接缝合",
+            "B.延期缝合",
+            "C.清创缝合",
+            "D.引流",
+            "E.中药处理"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 16
+    },
+    {
+        "question_text": "17.如果该伤者第三天才来就诊，伤口已有异味和脓性分泌物，应如何处理",
+        "options": [
+            "A.包扎",
+            "B.清创术",
+            "C.引流延期缝合",
+            "D.静滴抗生素",
+            "E.理疗"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 17
+    },
+    {
+        "question_text": "女性,35岁,由3层高楼坠落,双足着地,主诉双下肢疼痛剧烈,不能行走,救护车送来急诊。18.首选检查的项目",
+        "options": [
+            "A.头部",
+            "B.颈部",
+            "C.胸部",
+            "D.双上肢",
+            "E.双足"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 18
+    },
+    {
+        "question_text": "19.初步检查后发现双足、右小腿肿胀，皮下淤血畸形，检查主要还应包括以下哪项",
+        "options": [
+            "A.颈椎CT",
+            "B.骨盆X光片",
+            "C.胸腰X光片",
+            "D.血气分析",
+            "E.心电图"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 19
+    },
+    {
+        "question_text": "20.经过体检发现双下肢肌力III级，感觉障碍，应增加哪项检查",
+        "options": [
+            "A.头CT",
+            "B.脑脊液检查",
+            "C.颈椎X光片",
+            "D.胸腰段MR",
+            "E.双下肢肌电图"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 20
+    },
+    {
+        "question_text": "女性,35岁,交通意外,头颈外伤21.应首选检查下列哪项",
+        "options": [
+            "A.体温",
+            "B.血压",
+            "C.脉搏",
+            "D.呼吸音",
+            "E.意识状态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 21
+    },
+    {
+        "question_text": "22.如该病人意识障碍应首先选择检查",
+        "options": [
+            "A.头X光片",
+            "B.头CT",
+            "C.颈X光",
+            "D.胸X光",
+            "E.脑电图"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 22
+    },
+    {
+        "question_text": "23.如该患者意识清楚，四肢运动障碍，应首先选择检查：",
+        "options": [
+            "A.头CT",
+            "B.头MR",
+            "C.颈椎双斜位像",
+            "D.过伸过屈X光片",
+            "E.颈MR"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 23
+    },
+    {
+        "question_text": "挫伤早期局部肿胀",
+        "options": [
+            "A.热敷",
+            "B.冷敷",
+            "C.脱水剂",
+            "D.加压包扎",
+            "E.引流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 24
+    },
+    {
+        "question_text": "25.挫伤中晚期的肿胀",
+        "options": [
+            "A.热敷",
+            "B.冷敷",
+            "C.脱水剂",
+            "D.加压包扎",
+            "E.引流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 25
+    },
+    {
+        "question_text": "26.颅内高压",
+        "options": [
+            "A.热敷",
+            "B.冷敷",
+            "C.脱水剂",
+            "D.加压包扎",
+            "E.引流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 26
+    },
+    {
+        "question_text": "27.头皮血肿",
+        "options": [
+            "A.热敷",
+            "B.冷敷",
+            "C.脱水剂",
+            "D.加压包扎",
+            "E.引流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 27
+    },
+    {
+        "question_text": "28.血气胸",
+        "options": [
+            "A.热敷",
+            "B.冷敷",
+            "C.脱水剂",
+            "D.加压包扎",
+            "E.引流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 28
+    },
+    {
+        "question_text": "1.关于创伤后机体的全身反应，下列哪项错误",
+        "options": [
+            "A.体温升高是炎性介质作用于体温中枢的效应",
+            "B.伤后机体的静息能量消耗增加",
+            "C.糖原、蛋白质和脂肪分解加速",
+            "D.儿茶酚胺可使淋巴细胞的功能增强",
+            "E.抗利尿激素分泌增加，使肾小管回收水分增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 29
+    },
+    {
+        "question_text": "2.关于创伤性炎症反应，下列哪项错误",
+        "options": [
+            "A.创伤性炎症不利于创伤的修复",
+            "B.伤后不久周围组织血管通透性升高，血浆渗出，使局部红肿痛",
+            "C.以上炎症反应是由一些炎性介质和细胞引子激起",
+            "D.伤后组织裂隙内充有血液、血凝块、脱落的细胞",
+            "E.如不发生感染、异物存留等，炎症可在3-5日趋向消退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 30
+    },
+    {
+        "question_text": "3.严重创伤后，机体常发生免疫功能的变化，下述哪种变化错误",
+        "options": [
+            "A.免疫功能降低",
+            "B.中性粒细胞功能低下",
+            "C.巨噬细胞功能低下",
+            "D.淋巴细胞功能增强",
+            "E.伤处出现抑制免疫的前列腺素E2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 31
+    },
+    {
+        "question_text": "4.关于创伤的急救，下列哪项错误",
+        "options": [
+            "A.较重或重症创伤必须在现场即开始急救",
+            "B.抢救重症创伤应首先处理气道、呼吸、循环障碍",
+            "C.应特别注意先救治重危剧痛、呻吟病人，再处理较安静的病人",
+            "D.骨折合并休克时，应先抢救休克",
+            "E.防止抢救中再次损伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 32
+    },
+    {
+        "question_text": "5.创伤修复过程中出现瘢痕过硬，其主要原因",
+        "options": [
+            "A.个体差异因素",
+            "B.皮肤缝合时对合较差",
+            "C.肉芽组织增生过多",
+            "D.局部制动",
+            "E.服用皮质激素类药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 33
+    },
+    {
+        "question_text": "6.有关伤口愈合，下列哪项正确",
+        "options": [
+            "A.VitA缺乏，会抑制毛细血管新生，妨碍胶原纤维合成",
+            "B.伤口小血肿，少量坏死组织不会妨碍愈合",
+            "C.换药的目的是清除伤口分泌物，畅通引流，促进肉芽生长",
+            "D.糖皮质激素可促进胶原纤维生成",
+            "E.以上均正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 34
+    },
+    {
+        "question_text": "7.开放性粉碎性骨折现场急救中，对骨折块的处理下列哪项正确",
+        "options": [
+            "A.小的骨折碎块可以弃去不要",
+            "B.大的游离骨块可以弃去不要",
+            "C.所有骨块均保存，送上级医院处理",
+            "D.将戳出皮肤的骨折端复进软组织后再包扎",
+            "E.凡无软组织相连的骨块，都不必保存"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 35
+    },
+    {
+        "question_text": "8.战伤救护时，若肠管脱出体外，转运前下列哪项处理最恰当",
+        "options": [
+            "A.立即送回腹腔，包扎伤口",
+            "B.缝线缝扎固定肠管于腹壁再行包扎",
+            "C.直接用急救包覆盖后包扎",
+            "D.敷料覆盖后以钟形器皿（如碗）盖住包扎",
+            "E.生理盐水冲洗后常规包扎保护"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 36
+    },
+    {
+        "question_text": "9.手部严重活动性出血，止血带放置下列哪个部位效果最好",
+        "options": [
+            "A.腕横韧带上5cm",
+            "B.上臂上1/3",
+            "C.上臂下1/3",
+            "D.前臂上1/3",
+            "E.前臂中段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 37
+    },
+    {
+        "question_text": "10.开放性气胸的现场急救措施是",
+        "options": [
+            "A.吸氧、输液",
+            "B.胸穿抽气",
+            "C.清创术",
+            "D.立即用清洁物品填塞伤口",
+            "E.镇静、止痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 38
+    },
+    {
+        "question_text": "11.下列哪项不是创伤后并发休克的原因",
+        "options": [
+            "A.失血过多",
+            "B.神经系统受到强烈刺激",
+            "C.急性肾衰竭",
+            "D.脊髓受损",
+            "E.伤后并发严重的脓血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 39
+    },
+    {
+        "question_text": "12.贯通伤是指",
+        "options": [
+            "A.创伤后深部体腔与外界相通",
+            "B.开放性创伤",
+            "C.投射物击中人体，造成一个入口和一个出口",
+            "D.一般是指开放性颅脑伤",
+            "E.可等同于穿透伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 40
+    },
+    {
+        "question_text": "13.男性，24岁，因车祸伤急诊入院。初步诊断：骨盆骨折合并尿道损伤及创伤性休克，对该病人的处理顺序应该是",
+        "options": [
+            "A.骨盆骨折牵引固定，抗休克，处理尿道伤",
+            "B.抗休克，处理尿道伤，牵引固定",
+            "C.抗休克，牵引固定，处理尿道伤",
+            "D.处理尿道伤，抗休克，牵引固定",
+            "E.处理尿道伤，牵引固定，抗休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 41
+    },
+    {
+        "question_text": "14.受伤24小时的膝关节开放性伤口，应采取",
+        "options": [
+            "A.清创、一期缝合",
+            "B.清创、延期缝合",
+            "C.清创后不予缝合",
+            "D.清创并植皮",
+            "E.无须清创"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 42
+    },
+    {
+        "question_text": "15.创伤复合伤的特点不包括",
+        "options": [
+            "A.休克发生率高",
+            "B.容易并发感染",
+            "C.容易发生器官功能障碍",
+            "D.死亡率较高",
+            "E.病情通常不太严重"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 43
+    },
+    {
+        "question_text": "16.伤口内肉芽组织生长过多，有碍创缘上皮新生，宜用",
+        "options": [
+            "A.10%硝酸银烧灼，然后用生理盐水洗净",
+            "B.苯氧乙醇湿敷",
+            "C.用凡士林纱布覆盖伤口",
+            "D.用高渗盐水湿敷",
+            "E.呋喃西林湿敷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 44
+    },
+    {
+        "question_text": "17.感染伤口的处理原则是",
+        "options": [
+            "A.彻底清除坏死组织，立即植皮",
+            "B.控制感染，加强换药",
+            "C.彻底清创后缝合伤口",
+            "D.彻底清创后延期缝合",
+            "E.局部制动，进行理疗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 45
+    },
+    {
+        "question_text": "18.感染是妨碍伤口创面愈合的常见原因，其主要预防措施有",
+        "options": [
+            "A.遵循无菌术原则",
+            "B.施行必要的手术处理",
+            "C.应用抗生素",
+            "D.加强换药",
+            "E.开放性伤口还需应用破伤风抗毒素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 46
+    },
+    {
+        "question_text": "19.对开放性伤口的处理，下列哪项错误",
+        "options": [
+            "A.清洁伤口可以直接缝合",
+            "B.污染伤口可行清创术，直接缝合或延期缝合",
+            "C.感染伤口先要引流，然后再做其他处理",
+            "D.伤口内的异物必须全部取出",
+            "E.深入体内的创伤在术中仔细探查并修复"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 47
+    },
+    {
+        "question_text": "20.对浅部切割伤的处理，下列哪项错误",
+        "options": [
+            "A.伤口较大者应及早应用抗菌药物",
+            "B.破伤风抗毒素必须在伤后12小时内注射",
+            "C.感染伤口的肉芽组织水肿可用高渗盐水湿敷",
+            "D.感染伤口，一般不予缝合",
+            "E.已感染的伤口必须应用抗菌药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 48
+    },
+    {
+        "question_text": "21.对于足部严重离断伤并大量出血，下列哪项止血措施不恰当",
+        "options": [
+            "A.创面局部干净敷料加压包扎",
+            "B.股三角加压垫止血法",
+            "C.大腿中上1/3止血带止血",
+            "D.窝压垫屈膝包扎固定止血",
+            "E.钳夹大的活动性出血血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 49
+    },
+    {
+        "question_text": "22.骨折现场急救措施中，下列哪项错误",
+        "options": [
+            "A.固定患肢",
+            "B.及时有效止血",
+            "C.镇痛",
+            "D.遇有肢体畸形，应先行手法矫行再予以固定",
+            "E.简单了解病情及体查，了解是否存在严重复合伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 50
+    },
+    {
+        "question_text": "23.严重挤压伤的早期并发症，下列哪项不会出现",
+        "options": [
+            "A.骨筋膜室综合症",
+            "B.休克",
+            "C.脂肪栓塞",
+            "D.气性坏疽",
+            "E.急性肾功能衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 51
+    },
+    {
+        "question_text": "24.关于清创术，下列哪项错误",
+        "options": [
+            "A.最好在伤后68小时内进行",
+            "B.沾染较轻的伤口，伤后12小时仍可一期缝合",
+            "C.超过12小时的伤口，清创后一般不予缝合",
+            "D.面颈部、神经血管暴露的伤口，即使超过24小时，仍应缝合",
+            "E.战伤可作一期缝合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 52
+    },
+    {
+        "question_text": "25.某工程施工不慎出现塌方，对严重损伤病人的处理首先应是",
+        "options": [
+            "A.抗休克",
+            "B.治疗窒息",
+            "C.骨折固定",
+            "D.镇静止痛",
+            "E.止血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 53
+    },
+    {
+        "question_text": "26.怀疑脊柱骨折患者急救运送过程中，下列哪项正确",
+        "options": [
+            "A.疑颈椎骨折时，去枕平卧运送",
+            "B.2-4人抓住四肢搬运",
+            "C.仰卧床单上运送",
+            "D.由人背驮运送",
+            "E.仰卧硬板上运送"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 54
+    },
+    {
+        "question_text": "27.外伤后离体肢体转运前最佳的保存方法是",
+        "options": [
+            "A.洁净敷料包扎保存",
+            "B.酒精浸泡",
+            "C.福尔马林浸泡",
+            "D.冰冻保存",
+            "E.生理盐水浸泡保存"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 55
+    },
+    {
+        "question_text": "28.关于新鲜肉芽组织的判断，下列哪项错误",
+        "options": [
+            "A.创面平、浅",
+            "B.创面鲜红色",
+            "C.创面呈细颗粒状",
+            "D.创面分泌物少",
+            "E.创面不易出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 56
+    },
+    {
+        "question_text": "29.损伤后体液代谢改变的调节主要是通过",
+        "options": [
+            "A.增加K+的排出量",
+            "B.增加H+的排出量",
+            "C.减少Na+的绝对排出量",
+            "D.增加C02的排出量",
+            "E.减少尿的排出量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 57
+    },
+    {
+        "question_text": "30.面颊部皮肤开放性损伤后16个小时就诊，创面处理应",
+        "options": [
+            "A.按感染伤口处理，换药不清创",
+            "B.清创不缝合",
+            "C.清创后延期缝合",
+            "D.清创一期缝合",
+            "E.以上均不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 58
+    },
+    {
+        "question_text": "31.机体遭受创伤后常见由以下哪种细胞修复",
+        "options": [
+            "A.脂肪细胞",
+            "B.成纤维细胞",
+            "C.间质细胞",
+            "D.上皮细胞",
+            "E.损伤部位原性质细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 59
+    },
+    {
+        "question_text": "32.最常见的影响创伤愈合的因素是",
+        "options": [
+            "A.伤口感染",
+            "B.局部循环障碍",
+            "C.损伤范围大",
+            "D.全身营养不良",
+            "E.严重合并症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 60
+    },
+    {
+        "question_text": "33.对怀疑有腹腔实质性脏器损伤致腹腔内出血的患者，首选的辅助检查是",
+        "options": [
+            "A.腹部B超",
+            "B.腹部X光片",
+            "C.腹腔CT",
+            "D.诊断性腹腔穿刺",
+            "E.血管造影"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 61
+    },
+    {
+        "question_text": "34.急救的基本技术不包括",
+        "options": [
+            "A.保护气道通畅",
+            "B.止血",
+            "C.包扎",
+            "D.清创",
+            "E.后送"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 62
+    },
+    {
+        "question_text": "35.火器伤的早期外科处理不包括",
+        "options": [
+            "A.了解伤情",
+            "B.早期清创",
+            "C.一期缝合",
+            "D.防治感染",
+            "E.注意隐匿损伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 63
+    },
+    {
+        "question_text": "36.关节受外力作用，发生异常扭转所致的损伤是",
+        "options": [
+            "A.挫伤",
+            "B.挤压伤",
+            "C.扭伤",
+            "D.裂伤",
+            "E.冲击伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 64
+    },
+    {
+        "question_text": "37.下列易引起急性肾功能衰竭的损伤是",
+        "options": [
+            "A.肝、脾破裂",
+            "B.多发肋骨骨折",
+            "C.肾挫裂伤",
+            "D.严重挤压伤",
+            "E.多发骨折"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 65
+    },
+    {
+        "question_text": "38.复合性创伤病人应首先急救的是",
+        "options": [
+            "A.休克",
+            "B.肾挫裂伤",
+            "C.四肢开放性骨折",
+            "D.脑外伤",
+            "E.开放性气胸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 66
+    },
+    {
+        "question_text": "39.对污染较重的伤口清创后暂不缝合，观察2-3天后如无明显感染再行缝合，这称为",
+        "options": [
+            "A.一期缝合",
+            "B.二期缝合",
+            "C.清洁缝合",
+            "D.减张缝合",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 67
+    },
+    {
+        "question_text": "40.一纺织女工作业时不慎被机器绞伤，致左上肢大面积皮肤撕脱伤，应采取",
+        "options": [
+            "A.清创及一期缝合",
+            "B.清创及延期缝合",
+            "C.清创后暴露创面，二期缝合",
+            "D.清创及植皮",
+            "E.无需清创"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 68
+    },
+    {
+        "question_text": "41.关于外伤包扎，下列哪项是错误的",
+        "options": [
+            "A.包扎的目的是保护伤口、减少污染和帮助止血",
+            "B.包扎的常用材料有绷带和三角巾",
+            "C.包扎宜紧不宜松",
+            "D.紧急抢救时，可将衣物、巾、单等撕开作包扎用",
+            "E.三角巾包扎的优点是制作方便、操作简捷，但不便加压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 69
+    },
+    {
+        "question_text": "42.关于外伤固定，下列哪项是错误的",
+        "options": [
+            "A.凡软组织损伤均不必固定",
+            "B.固定范围一般包括骨折远近两个关节",
+            "C.骨关节损伤时均须固定",
+            "D.固定既要牢靠，又不可过紧",
+            "E.急救时如缺乏材料，可用自体固定法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 70
+    },
+    {
+        "question_text": "43.青年男性，开放性胫腓骨骨折行内固定术后1周，体温升高达39°C,手术切口红肿，这种发热属",
+        "options": [
+            "A.回吸收败血症",
+            "B.血肿吸收热",
+            "C.并发感染",
+            "D.中枢损伤",
+            "E.并发感冒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 71
+    },
+    {
+        "question_text": "44.腰椎结核并椎旁冷脓肿行病灶清除术，切口愈合良好。切口分类及愈合记录为",
+        "options": [
+            "A.I/甲",
+            "B.I/乙",
+            "C.II/甲",
+            "D.II/乙",
+            "E.III//甲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 72
+    },
+    {
+        "question_text": "45.开放性软组织损伤清创后可行一期缝合，下列叙述哪项不正确",
+        "options": [
+            "A.伤后6-8小时创口污染严重",
+            "B.伤后12小时创口轻度污染",
+            "C.颜面部创口已24小时",
+            "D.头皮创口己36小时",
+            "E.创面内暴露大的血管、神经、关节已24小时"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 73
+    }
+]

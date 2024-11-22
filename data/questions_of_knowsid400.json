@@ -1,0 +1,548 @@
+[
+    {
+        "question_text": "1.浅11°与深11°的区别中哪一项是不对的？",
+        "options": [
+            "A.肿胀水泡",
+            "B.疼痛性质",
+            "C.损伤深度",
+            "D.愈合时间",
+            "E.愈后有无疤痕"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 1
+    },
+    {
+        "question_text": "2,烧伤的急救处理下面哪项是不对的？",
+        "options": [
+            "A.脱离致伤源",
+            "B.奔跑呼救，用手灭火",
+            "C.镇静止痛",
+            "D.保持呼吸道通畅",
+            "E.保护创面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 2
+    },
+    {
+        "question_text": "3.右前臂烧伤病人，床面有水泡，较均匀，基底潮红，愈合后最不可能产生",
+        "options": [
+            "A.脱屑",
+            "B.色素沉着",
+            "C.瘢痕挛缩",
+            "D.功能正常",
+            "E.疼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 3
+    },
+    {
+        "question_text": "4,烧伤患者全身性感染的防治原则不包括哪项？",
+        "options": [
+            "A.正确处理创面",
+            "B.合理应用抗生素",
+            "C.应用脱水剂",
+            "D.加强支持疗法",
+            "E.一免疫增强治疗"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 4
+    },
+    {
+        "question_text": "5.烧伤急诊处理包括以下各项，但除外",
+        "options": [
+            "A.注射TAT",
+            "B.留置导尿",
+            "C.应用止痛药",
+            "D.气管切开",
+            "E.切痂植皮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 5
+    },
+    {
+        "question_text": "6.烧伤引起的全身感染最易发生在",
+        "options": [
+            "A.休克期",
+            "B.回吸收期",
+            "C.肉芽创面暴露时",
+            "D.创面焦痂溶解时",
+            "E.皮肤移植手术后"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于吸入性损伤哪项是正确的？",
+        "options": [
+            "A.与中毒无关",
+            "B.仅由热力所致",
+            "C.与体表烧伤面积成正比",
+            "D.多在室外发生",
+            "E.多死于窒息"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 7
+    },
+    {
+        "question_text": "8.严重烧伤患者预防多器官并发症的最有效措施是",
+        "options": [
+            "A.氧疗法",
+            "B.支持疗法",
+            "C.增加免疫力",
+            "D.纠正休克防治感染",
+            "E.不用有损害的药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 8
+    },
+    {
+        "question_text": "9.成人面部、双手、双足和会阴烧伤，面积为",
+        "options": [
+            "A.18%",
+            "B.19%",
+            "C.15%",
+            "D.16%",
+            "E.13%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 9
+    },
+    {
+        "question_text": "10.一4岁小儿头面颈烧伤，面积为",
+        "options": [
+            "A.9%",
+            "B.19%",
+            "C.18%",
+            "D.17%",
+            "E.15%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 10
+    },
+    {
+        "question_text": "11.成人头面颈、双手、双足、会阴烧伤，每日应补葡萄糖水量为",
+        "options": [
+            "A.1000ml",
+            "B.1500ml",
+            "C.2000ml",
+            "D.2500ml",
+            "E.3000ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 11
+    },
+    {
+        "question_text": "12.成人体重50kg，1°、11°30%烧伤，第一个24小时应补液为",
+        "options": [
+            "A.2000ml",
+            "B.2250ml",
+            "C.3250ml",
+            "D.4250ml",
+            "E.4700ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 12
+    },
+    {
+        "question_text": "13.成年男性60kg，面颈部，左侧上肢烧伤，第一个24h应补液体为",
+        "options": [
+            "A.1350ml",
+            "B.2000ml",
+            "C.2350ml",
+            "D.3350ml",
+            "E.4350ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 13
+    },
+    {
+        "question_text": "14.成年80kg体重，面颈部及一侧上肢烧伤，第一个24小时应补晶体液为",
+        "options": [
+            "A.600ml",
+            "B.1200ml",
+            "C.1800ml",
+            "D.2000ml",
+            "E.3800ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 14
+    },
+    {
+        "question_text": "15.25岁男性，双手双足面部烧伤，面积为",
+        "options": [
+            "A.9%",
+            "B.10%",
+            "C.15%",
+            "D.17%",
+            "E.21%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 15
+    },
+    {
+        "question_text": "16.成人双侧上肢，一侧下肢和一侧臀部烧伤，诊断为",
+        "options": [
+            "A.21%烧伤",
+            "B.23%烧伤",
+            "C.32%烧伤",
+            "D.41%烧伤",
+            "E.45%烧伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 16
+    },
+    {
+        "question_text": "17.3岁小儿头面颈，前胸腹部烧伤，面积为",
+        "options": [
+            "A.31%",
+            "B.35%",
+            "C.40%",
+            "D.41%",
+            "E.45%"
+        ],
+        "correct_answer": "A",
+        "analysis": "3岁小儿头面颈的面积为9＋（12－3）＝18％，前胸腹部面积为13％，合计为31％。",
+        "total_number": "39",
+        "number": 17
+    },
+    {
+        "question_text": "18.某女，13岁，一侧下肢、双手和一侧臀部烧伤，诊断为",
+        "options": [
+            "A.25%烧伤",
+            "B.28%烧伤",
+            "C.41%烧伤",
+            "D.48%烧伤",
+            "E.51%烧伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 18
+    },
+    {
+        "question_text": "19.5岁小儿，头面颈，前后躯干烧伤，面积为",
+        "options": [
+            "A.25%",
+            "B.30%",
+            "C.35%",
+            "D.42%",
+            "E.43%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 19
+    },
+    {
+        "question_text": "20.8岁小儿头面颈、双上肢烧伤，面积为",
+        "options": [
+            "A.24%",
+            "B.27%",
+            "C.29%",
+            "D.31%",
+            "E.35%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 20
+    },
+    {
+        "question_text": "21.一病人前胸部烧伤，可见水疱和基底潮红，估计愈合时间为",
+        "options": [
+            "A.5天",
+            "B.10天",
+            "C.15天",
+            "D.25天",
+            "E.35天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 21
+    },
+    {
+        "question_text": "22.—病人前臂烧伤后十二天愈合，前臂有色素沉着，其烧伤深度为",
+        "options": [
+            "A.混合度",
+            "B.I°",
+            "C.浅II。",
+            "D.深II。",
+            "E.III。"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 22
+    },
+    {
+        "question_text": "23.一病人左手烧伤，创面有水泡，均匀一致，基底潮红，预后可能产生",
+        "options": [
+            "A.脱屑",
+            "B.瘢痕形成",
+            "C.色素沉着",
+            "D.关节畸型",
+            "E.功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 23
+    },
+    {
+        "question_text": "24.一病人右小腿烧伤，伤后40天经植皮手术后愈合，当时烧伤深度为",
+        "options": [
+            "A.I°烧伤",
+            "B.浅II。烧伤",
+            "C.深II。烧伤",
+            "D.III°烧伤",
+            "E.IV。烧伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 24
+    },
+    {
+        "question_text": "25.一病人双下肢被开水烫伤，伤后四周愈合，现有少量疤痕形成，受伤当时最可能的诊断是",
+        "options": [
+            "A.I。烧伤",
+            "B.浅II。烧伤",
+            "C.深II。烧伤",
+            "D.III。烧伤",
+            "E.V。烧伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 25
+    },
+    {
+        "question_text": "26.双手烧伤患者，剧疼，有大水疱，基底潮红，愈合最不可能发生",
+        "options": [
+            "A.色素沉着",
+            "B.局部脱屑",
+            "C.排汗功能丧失",
+            "D.疼痛搔痒",
+            "E.功能正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 26
+    },
+    {
+        "question_text": "27.一成年病人，头面颈、双上肢烧伤，面部可见红斑，双手背焦黄，其余创面可见水疱，病人烦躁不安，BP80/60mmHg，尿少，末梢凉，应立即采取下列哪项措施？",
+        "options": [
+            "A.气管切开",
+            "B.注射止痛药",
+            "C.应用抗生素",
+            "D.立即进行补液",
+            "E.切痂植皮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 27
+    },
+    {
+        "question_text": "28.一司机因撞车烧伤头面颈，双上肢和躯干，双手创面碳化，其余创面红白相间，BP70/50mmHg，呼吸困难明显，自述创面疼痛难忍。首选的处理应是",
+        "options": [
+            "A.清创包扎",
+            "B.注射止痛药",
+            "C.快速补液",
+            "D.气管切开",
+            "E.切痂植皮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 28
+    },
+    {
+        "question_text": "浅11°烧伤",
+        "options": [
+            "A.伤及表皮",
+            "B.部分生发层健存",
+            "C.残留少数皮肤附件",
+            "D.急救需用大量清水冲洗",
+            "E.局部皮革样硬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 29
+    },
+    {
+        "question_text": "30.III。烧伤",
+        "options": [
+            "A.伤及表皮",
+            "B.部分生发层健存",
+            "C.残留少数皮肤附件",
+            "D.急救需用大量清水冲洗",
+            "E.局部皮革样硬"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 30
+    },
+    {
+        "question_text": "31.化学烧伤",
+        "options": [
+            "A.伤及表皮",
+            "B.部分生发层健存",
+            "C.残留少数皮肤附件",
+            "D.急救需用大量清水冲洗",
+            "E.局部皮革样硬"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 31
+    },
+    {
+        "question_text": "轻度烧伤",
+        "options": [
+            "A.11°5%烧伤",
+            "B.11°25%烧伤",
+            "C.11°45%烧伤",
+            "D.III。5%烧伤",
+            "E.III。35%烧伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 32
+    },
+    {
+        "question_text": "33.重度烧伤",
+        "options": [
+            "A.11°5%烧伤",
+            "B.11°25%烧伤",
+            "C.11°45%烧伤",
+            "D.III。5%烧伤",
+            "E.III。35%烧伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 33
+    },
+    {
+        "question_text": "34.特重烧伤",
+        "options": [
+            "A.11°5%烧伤",
+            "B.11°25%烧伤",
+            "C.11°45%烧伤",
+            "D.III。5%烧伤",
+            "E.III。35%烧伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 34
+    },
+    {
+        "question_text": "树枝状血管栓塞",
+        "options": [
+            "A.局部冻伤",
+            "B.浅11°烧伤",
+            "C.深11°烧伤",
+            "D.III。烧伤",
+            "E.全身冻伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 35
+    },
+    {
+        "question_text": "36.红白相间，痛觉迟钝",
+        "options": [
+            "A.局部冻伤",
+            "B.浅11°烧伤",
+            "C.深11°烧伤",
+            "D.III。烧伤",
+            "E.全身冻伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 36
+    },
+    {
+        "question_text": "37.腊白，焦黄或碳化",
+        "options": [
+            "A.局部冻伤",
+            "B.浅11°烧伤",
+            "C.深11°烧伤",
+            "D.III。烧伤",
+            "E.全身冻伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 37
+    },
+    {
+        "question_text": "双手烧伤后腊白",
+        "options": [
+            "A.包扎疗法",
+            "B.暴露疗法",
+            "C.清创消毒",
+            "D.切削痂植皮",
+            "E.功能练习"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 38
+    },
+    {
+        "question_text": "39.会阴部烧伤",
+        "options": [
+            "A.包扎疗法",
+            "B.暴露疗法",
+            "C.清创消毒",
+            "D.切削痂植皮",
+            "E.功能练习"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "39",
+        "number": 39
+    }
+]

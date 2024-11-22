@@ -1,0 +1,898 @@
+[
+    {
+        "question_text": "1.能减少房水生成,降低眼内压的药物是:",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.布美他尼",
+            "C.氨苯蝶啶",
+            "D.阿米洛利",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列那种药物有阻断Na+通道的作用:",
+        "options": [
+            "A.乙酰唑胺",
+            "B.氢氯噻嗪",
+            "C.氯酞酮",
+            "D.阿米洛利",
+            "E.呋塞米"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列那种药物有抑制胰岛素分泌的作用:",
+        "options": [
+            "A.氨苯蝶啶",
+            "B.阿米洛利",
+            "C.氢氯噻嗪",
+            "D.螺内酯",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 3
+    },
+    {
+        "question_text": "4.利尿药与氨基苷类抗生素合用会加重耳毒性:",
+        "options": [
+            "A.依他尼酸",
+            "B.乙酰唑胺",
+            "C.氢氯噻嗪",
+            "D.螺内酯",
+            "E.阿米洛利"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列那一种药物有增加肾血流量的作用:",
+        "options": [
+            "A.呋噻米",
+            "B.阿米洛利",
+            "C.乙酰唑胺",
+            "D.氢氯噻嗪",
+            "E.氯酞酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗特发性高尿钙症及尿钙结石可选用:",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氨苯蝶啶",
+            "E.甘露醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 6
+    },
+    {
+        "question_text": "7.噻嗪类利尿药的作用部位",
+        "options": [
+            "A.髓袢升支粗段皮质部",
+            "B.髓袢降支粗段皮质部",
+            "C.髓袢升支粗段髓质部",
+            "D.袢降支粗段髓质部",
+            "E.远曲小管和集合管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于噻嗪类利尿药,下列所述错误的是:",
+        "options": [
+            "A.痛风患者慎用",
+            "B.糖尿病患者慎用",
+            "C.可引起低钙血症",
+            "D.肾功不良者禁用",
+            "E.可引起高脂血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 8
+    },
+    {
+        "question_text": "9.治疗左心衰竭引起的急性肺水肿可首选:",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.乙酰唑胺",
+            "E.氯酞酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 9
+    },
+    {
+        "question_text": "10.加速毒物从尿中排泄:",
+        "options": [
+            "A.呋噻米",
+            "B.氢筑噻嗪",
+            "C.螺内酯",
+            "D.乙酰唑胺",
+            "E.氯酞酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 10
+    },
+    {
+        "question_text": "11.伴有痛风的水肿患者应用",
+        "options": [
+            "A.呋喃苯胺酸",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氨苯蝶啶",
+            "E.甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 11
+    },
+    {
+        "question_text": "12.呋塞米没有下列哪种不良反应",
+        "options": [
+            "A.水与电解质紊乱",
+            "B.高尿酸血症",
+            "C.耳毒性",
+            "D.减少K+外排",
+            "E.胃肠道反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 12
+    },
+    {
+        "question_text": "13.慢性心功能不全者禁用:",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氨苯蝶啶",
+            "E.甘露醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 13
+    },
+    {
+        "question_text": "14.可以拮抗高效利尿药作用的药物是",
+        "options": [
+            "A.吲哚美辛",
+            "B.链霉素",
+            "C.青霉素",
+            "D.头孢唑啉",
+            "E.卡那霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 14
+    },
+    {
+        "question_text": "15.噻嗪类利尿药的禁忌症:",
+        "options": [
+            "A.肾性水肿",
+            "B.心性水肿",
+            "C.对磺胺过敏",
+            "D.高血压病",
+            "E.肾性尿崩症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 15
+    },
+    {
+        "question_text": "16.呋塞米的利尿作用机制:",
+        "options": [
+            "A.抑制肾小管碳酸酐酶",
+            "B.抑制Na-Cl共同转运系统",
+            "C.抑制Na-K-2Cl共同转运系统",
+            "D.对抗醛固酮的Na-K交换过程",
+            "E.抑制磷酸二酯酶,使cAMP增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 16
+    },
+    {
+        "question_text": "17.噻嗪类利尿药的药理作用不包括:",
+        "options": [
+            "A.抗利尿作用",
+            "B.利尿作用",
+            "C.降压作用",
+            "D.拮抗醛固酮作用",
+            "E.轻度抑制碳酸酐酶作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于螺内酯的叙述错误项",
+        "options": [
+            "A.利尿作用弱、慢、持久",
+            "B.是排钠能力较低的利尿药",
+            "C.对切除肾上腺的动物有效",
+            "D.具有抗醛固酮作用",
+            "E.用于醛固酮增多性水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 18
+    },
+    {
+        "question_text": "19.肝性水肿患者消除水肿用",
+        "options": [
+            "A.乙酰唑胺",
+            "B.呋塞米",
+            "C.螺内酯",
+            "D.氢氯噻嗪",
+            "E.布美他尼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列脱水药不具有的项是",
+        "options": [
+            "A.不易通过毛细血管进入组织",
+            "B.易经肾小球滤过",
+            "C.不能或少量被肾小管重吸收",
+            "D.静脉注射可升高血浆渗透压",
+            "E.通过代谢转变为有活性的物质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 20
+    },
+    {
+        "question_text": "21.对醛固酮无拮抗作用的留钾利尿药是",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.乙酰唑胺",
+            "D.氨苯蝶啶",
+            "E.螺内酯"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 21
+    },
+    {
+        "question_text": "22.抑制碳酸酐酶产生利尿作用的利尿药是:",
+        "options": [
+            "A.螺内酯",
+            "B.呋塞米",
+            "C.乙酰唑胺",
+            "D.氨苯蝶啶",
+            "E.氯噻酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 22
+    },
+    {
+        "question_text": "23.呋塞米不良反应不包括:",
+        "options": [
+            "A.高血钾",
+            "B.耳毒性",
+            "C.胃肠道反应",
+            "D.高尿酸血症",
+            "E.低氯碱血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 23
+    },
+    {
+        "question_text": "24.甘露醇排钠利尿的作用机制是",
+        "options": [
+            "A.增加肾小球的滤过率,减少髓袢升支对NaCl的重吸收",
+            "B.抑制髓袢升支对Cl的主动重吸收",
+            "C.对抗醛固酮的作用",
+            "D.抑制K-Na交换",
+            "E.促进Ca2+排出"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 24
+    },
+    {
+        "question_text": "25.噻嗪类利尿药不具备",
+        "options": [
+            "A.利尿作用",
+            "B.降低血压作用",
+            "C.抗利尿作用",
+            "D.增加肾脏血流量",
+            "E.升高血糖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 25
+    },
+    {
+        "question_text": "26.与呋噻米合用增强耳毒性的抗生素是",
+        "options": [
+            "A.β-内酰胺类",
+            "B.大环内酯类",
+            "C.四环素类",
+            "D.氨基糖苷类",
+            "E.林可霉素类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 26
+    },
+    {
+        "question_text": "27.伴有醛固酮增多的顽固性水肿,其治疗药物是",
+        "options": [
+            "A.螺内酯",
+            "B.氢氯噻嗪",
+            "C.呋噻米",
+            "D.氯肽",
+            "E.利尿酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 27
+    },
+    {
+        "question_text": "28.以下有关呋噻米的不良反应,哪条不正确",
+        "options": [
+            "A.水和电解质紊乱",
+            "B.胃肠道反应",
+            "C.耳毒性",
+            "D.引起低血Mg",
+            "E.引起高血糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 28
+    },
+    {
+        "question_text": "29.脱水药不具备下列哪项特点",
+        "options": [
+            "A.易经肾小球滤过",
+            "B.不被肾小管重吸收",
+            "C.通过代谢变成有活性的物质",
+            "D.静脉注射可升高血浆渗透压",
+            "E.不易从血管渗入组织液中"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 29
+    },
+    {
+        "question_text": "30.有高血钾的水肿病人应禁用下列哪种利尿药",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.呋噻米",
+            "C.利尿酸",
+            "D.螺内酯",
+            "E.布美他尼"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 30
+    },
+    {
+        "question_text": "31.高效利尿药的主要作用部位是",
+        "options": [
+            "A.肾小球",
+            "B.髓袢升支粗段的髓质和皮质部",
+            "C.近曲小管",
+            "D.远曲小管",
+            "E.集合管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列哪一种药物具有抗醛固酮作用",
+        "options": [
+            "A.呋噻米",
+            "B.氨苯蝶啶",
+            "C.螺内酯",
+            "D.氢氯噻嗪",
+            "E.布美他尼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 32
+    },
+    {
+        "question_text": "33.能预防急性肾衰竭的药物",
+        "options": [
+            "A.氯噻嗪",
+            "B.氨苯蝶啶",
+            "C.螺内酯",
+            "D.氢氯噻嗪",
+            "E.甘露醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 33
+    },
+    {
+        "question_text": "34.甘露醇的适应症中没有",
+        "options": [
+            "A.外伤性脑水肿",
+            "B.青光眼术前用以降低眼内压",
+            "C.预防急性肾衰竭",
+            "D.慢性心功能不全",
+            "E.脑瘤引起脑水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 34
+    },
+    {
+        "question_text": "35.糖尿病患者伴有水肿时,不宜选用哪一种利尿药",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.氨苯蝶啶",
+            "C.呋噻米",
+            "D.乙酰唑胺",
+            "E.螺内酯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 35
+    },
+    {
+        "question_text": "36.用于急性肺水肿或脑水肿的利尿药是",
+        "options": [
+            "A.乙酰唑胺",
+            "B.氢氯噻嗪",
+            "C.呋噻米",
+            "D.螺内酯",
+            "E.氨苯蝶啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 36
+    },
+    {
+        "question_text": "37.呋噻米的临床应用不包括",
+        "options": [
+            "A.急性肺水肿",
+            "B.加速某些毒物的排泄",
+            "C.严重水肿",
+            "D.慢性心功能不全",
+            "E.青光眼"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列药物中高血钾症禁用",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.苄氟噻啼",
+            "C.布美他尼",
+            "D.氨苯蝶啶",
+            "E.呋噻米"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 38
+    },
+    {
+        "question_text": "39.以下关于螺内酯的药理作用,哪项不正确",
+        "options": [
+            "A.作用不强,起效缓慢,作用持久",
+            "B.与醛固酮竞争受体",
+            "C.抑制Cl-的重吸收",
+            "D.影响K-Na交换",
+            "E.减少Na+的重吸收,抑制的分泌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 39
+    },
+    {
+        "question_text": "40.关于螺内酯的叙述不正确的是",
+        "options": [
+            "A.与醛固酮竞争受体产生作用",
+            "B.产生保钾排钠的作用",
+            "C.利尿作用弱、慢、持久",
+            "D.用于醛固酮增多性水肿",
+            "E.用于无肾上腺动物有效"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 40
+    },
+    {
+        "question_text": "41.轻中度心源性水肿的最佳治疗药物是",
+        "options": [
+            "A.呋噻米",
+            "B.螺内酯",
+            "C.氢氯噻嗪",
+            "D.氯肽酮",
+            "E.氨苯蝶啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 41
+    },
+    {
+        "question_text": "42.有关螺内酯利尿作用的说法,哪项不妥",
+        "options": [
+            "A.利尿作用强",
+            "B.起效慢而持久",
+            "C.拮抗醛固酮受体",
+            "D.排Na留K",
+            "E.对醛固酮增多性水肿疗好"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列不属于氢氯噻嗪的适应症是",
+        "options": [
+            "A.轻度高血压",
+            "B.心源性水肿",
+            "C.轻度尿崩症",
+            "D.特发性高尿钙",
+            "E.痛风"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 43
+    },
+    {
+        "question_text": "44.肝性水肿宜选用",
+        "options": [
+            "A.螺内酯",
+            "B.利尿酸",
+            "C.甘露醇",
+            "D.呋噻米",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 44
+    },
+    {
+        "question_text": "45.对脑水肿病人静注50%高渗葡萄糖的目的是",
+        "options": [
+            "A.补充能量",
+            "B.补充血容量",
+            "C.使脑组织脱水",
+            "D.渗透性利尿",
+            "E.保护脑细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 45
+    },
+    {
+        "question_text": "46.轻中度心性水肿病人宜用",
+        "options": [
+            "A.氨苯蝶啶",
+            "B.利尿酸",
+            "C.呋噻米",
+            "D.氢氯噻嗪",
+            "E.甘露醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 46
+    },
+    {
+        "question_text": "47.急慢性肾功能衰竭宜用",
+        "options": [
+            "A.利尿酸",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.呋噻米",
+            "E.氨苯蝶啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 47
+    },
+    {
+        "question_text": "48.下列哪一组用药是不合理",
+        "options": [
+            "A.氢氯噻嗪+螺内酯",
+            "B.呋噻米+氯化钾",
+            "C.氢氯噻嗪+氯化钾",
+            "D.呋噻米+氢氯噻嗪",
+            "E.呋噻米+氨苯蝶啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 48
+    },
+    {
+        "question_text": "49.能降低眼压用于治疗青光眼的利尿药是",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氯苯蝶啶",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 49
+    },
+    {
+        "question_text": "50.最易引起低血钾作用的药",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.苄氟噻嗪",
+            "C.螺内酯",
+            "D.氨苯蝶啶",
+            "E.呋噻米"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 50
+    },
+    {
+        "question_text": "51.强效利尿药的作用部位是",
+        "options": [
+            "A.近曲小管",
+            "B.髓袢升支粗段皮质部和髓质部",
+            "C.髓袢升支粗段皮质部",
+            "D.髓袢升支粗段髓质部",
+            "E.远曲小管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 51
+    },
+    {
+        "question_text": "52.可加速毒物排泄的药物是",
+        "options": [
+            "A.噻嗪类",
+            "B.呋噻米",
+            "C.氨苯蝶啶",
+            "D.乙酸唑胺",
+            "E.甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 52
+    },
+    {
+        "question_text": "53.呋唾米不良反应不包括",
+        "options": [
+            "A.低血钠",
+            "B.胃肠道反应",
+            "C.耳毒性",
+            "D.低血容量",
+            "E.高血钙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 53
+    },
+    {
+        "question_text": "54.关于呋噻米不良反应的论述,下列哪一项是错误的",
+        "options": [
+            "A.低血钾",
+            "B.高尿酸血症",
+            "C.高血钙",
+            "D.耳毒性",
+            "E.低氯血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 54
+    },
+    {
+        "question_text": "55.呋噻米没有的不良反应是",
+        "options": [
+            "A.低氯性碱中毒",
+            "B.低钾血症",
+            "C.低钠血症",
+            "D.低镁血症",
+            "E.血尿酸浓度降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 55
+    },
+    {
+        "question_text": "56.可增加呋噻米耳毒性反应",
+        "options": [
+            "A.华法林",
+            "B.氯贝特",
+            "C.链霉素",
+            "D.青霉素",
+            "E.头孢唑啉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 56
+    },
+    {
+        "question_text": "57.呋噻米利尿的作用是由于",
+        "options": [
+            "A.抑制肾稀释功能",
+            "B.抑制肾浓缩功能",
+            "C.抑制肾浓缩和稀释功能",
+            "D.抑制尿酸的排泄",
+            "E.抑制Ca2+、Mg2+的重吸收"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 57
+    },
+    {
+        "question_text": "58.可治疗尿崩症的利尿药是",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氯苯蝶啶",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 58
+    },
+    {
+        "question_text": "59.利尿作用与体内醛固酮水平相关的药物是",
+        "options": [
+            "A.螺内酯",
+            "B.氯苯蝶啶",
+            "C.氨氯吡咪",
+            "D.氢氯噻嗪",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 59
+    },
+    {
+        "question_text": "60.对切除肾上腺的动物无利尿作用的药物是",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.氨苯蝶啶",
+            "D.螺内酯",
+            "E.氨氮吡咪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 60
+    },
+    {
+        "question_text": "61.氢氯噻嗪的利尿作用机制",
+        "options": [
+            "A.抑制Na+-K+-2CI共同转运载体",
+            "B.对抗醛固酮的K-Na交换过程",
+            "C.抑制Na+-C1-共同转运载体",
+            "D.抑制肾小管碳酸酐酶",
+            "E.抑制磷酸二酯酶,使cAMP增多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 61
+    },
+    {
+        "question_text": "62.利尿药氢氯噻嗪降低血压的初期机制可能是",
+        "options": [
+            "A.降低血管对缩血管药的反应性",
+            "B.增加血管对扩血管药的反应性",
+            "C.降低动脉壁细胞的Na+含量",
+            "D.排钠利尿、降低血容量",
+            "E.以上都对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 62
+    },
+    {
+        "question_text": "63.甘露醇脱水主要是",
+        "options": [
+            "A.增加血容量",
+            "B.提高血浆渗透压",
+            "C.增加组织间液水分",
+            "D.血管收缩药",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪个药物易引起酸血症",
+        "options": [
+            "A.螺内酯",
+            "B.氨苯蝶啶",
+            "C.乙酰唑胺",
+            "D.氢氯噻嗪",
+            "E.甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 64
+    }
+]

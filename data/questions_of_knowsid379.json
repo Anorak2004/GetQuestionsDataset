@@ -1,0 +1,457 @@
+[
+    {
+        "question_text": "1.贾第虫的感染期是",
+        "options": [
+            "A.滋养体",
+            "B.包囊",
+            "C.卵囊",
+            "D.四核包囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 1
+    },
+    {
+        "question_text": "2.贾第虫滋养体的鞭毛数目是",
+        "options": [
+            "A.4根",
+            "B.1根",
+            "C.4对",
+            "D.3对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 2
+    },
+    {
+        "question_text": "3.贾第虫主要的传染源是",
+        "options": [
+            "A.病人",
+            "B.病畜",
+            "C.保虫宿主",
+            "D.无症状携带者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 3
+    },
+    {
+        "question_text": "4.贾第虫主要的致病作用是",
+        "options": [
+            "A.对宿主组织的溶解性破坏作用",
+            "B.破坏宿主巨噬细胞",
+            "C.虫体增殖吸附并覆盖肠上皮阻碍营养吸收",
+            "D.侵袭并破坏红细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 4
+    },
+    {
+        "question_text": "5.贾第虫主要寄生于宿主的",
+        "options": [
+            "A.小肠",
+            "B.十二指肠",
+            "C.结肠",
+            "D.回盲部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 5
+    },
+    {
+        "question_text": "6.贾第虫生活史过程包括",
+        "options": [
+            "A.滋养体",
+            "B.包囊",
+            "C.滋养体和包囊",
+            "D.前鞭毛体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 6
+    },
+    {
+        "question_text": "7.不属于贾第虫滋养体形态结构特征的是",
+        "options": [
+            "A.倒置梨形",
+            "B.有波动膜",
+            "C.腹面有两个吸盘",
+            "D.有4对鞭毛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 7
+    },
+    {
+        "question_text": "8.贾第虫可引起",
+        "options": [
+            "A.前列腺炎",
+            "B.尿道炎",
+            "C.阴道炎",
+            "D.胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 8
+    },
+    {
+        "question_text": "9.怀疑某人有贾第虫感染时，检查标本应选择",
+        "options": [
+            "A.痰液",
+            "B.粪便",
+            "C.血液",
+            "D.尿液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 9
+    },
+    {
+        "question_text": "10.检查贾第虫包囊常用的方法是",
+        "options": [
+            "A.粪便直接涂片法",
+            "B.饱和盐水漂浮法",
+            "C.透明胶纸法",
+            "D.碘液染色法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 10
+    },
+    {
+        "question_text": "11.对疑似贾第虫感染者，而多次粪检阴性者，还应检查",
+        "options": [
+            "A.外周血",
+            "B.尿道分泌物",
+            "C.痰液",
+            "D.十二指肠引流液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 11
+    },
+    {
+        "question_text": "12.被粪便污染的食物可能使人感染的鞭毛虫是",
+        "options": [
+            "A.溶组织内阿米巴",
+            "B.隐孢子虫",
+            "C.贾第虫",
+            "D.阴道毛滴虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 12
+    },
+    {
+        "question_text": "13.十二指肠引流法可用于检查",
+        "options": [
+            "A.肺吸虫卵",
+            "B.血吸虫卵",
+            "C.贾第虫滋养体",
+            "D.钩虫卵"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 13
+    },
+    {
+        "question_text": "14.贾第虫的致病阶段是",
+        "options": [
+            "A.成熟的四核包囊",
+            "B.滋养体",
+            "C.成虫",
+            "D.虫卵"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 14
+    },
+    {
+        "question_text": "15.贾第虫病的重要传染源是",
+        "options": [
+            "A.急性病人",
+            "B.粪便排出包囊的人",
+            "C.转续宿主",
+            "D.携带包囊的宠物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 15
+    },
+    {
+        "question_text": "16.阴道毛滴虫生活史的发育阶段有",
+        "options": [
+            "A.滋养体和包囊",
+            "B.包囊",
+            "C.滋养体",
+            "D.滋养体和配子体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 16
+    },
+    {
+        "question_text": "17.阴道毛滴虫的感染途径是",
+        "options": [
+            "A.经皮肤钻入感染",
+            "B.直接或间接接触感染",
+            "C.经血液感染",
+            "D.经蚊子叮咬感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列样本中不能查到阴道毛滴虫滋养体的是",
+        "options": [
+            "A.血液",
+            "B.阴道分泌物",
+            "C.尿液",
+            "D.前列腺液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 18
+    },
+    {
+        "question_text": "19.阴道毛滴虫引起阴道炎的主要原因是",
+        "options": [
+            "A.滋养体破坏红细胞",
+            "B.滋养体侵入阴道上皮",
+            "C.滋养体引起阴道溃疡",
+            "D.滋养体皮坏阴道的自净作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 19
+    },
+    {
+        "question_text": "20.阴道毛滴虫可寄生的部位有",
+        "options": [
+            "A.女性阴道后窟窿",
+            "B.女性阴道和尿道",
+            "C.女性生殖道、男性泌尿生殖道",
+            "D.女性泌尿生殖道、男性泌尿生殖道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 20
+    },
+    {
+        "question_text": "21.人体血液丙种球蛋白缺乏易感的原虫是",
+        "options": [
+            "A.阴道毛滴虫",
+            "B.疟原虫",
+            "C.贾第虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 21
+    },
+    {
+        "question_text": "22.贾第虫病的主要临床症状是",
+        "options": [
+            "A.贫血",
+            "B.脓血便",
+            "C.高热",
+            "D.腹泻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 22
+    },
+    {
+        "question_text": "23.阴道毛滴虫的运动方式是",
+        "options": [
+            "A.变形运动",
+            "B.螺旋式",
+            "C.直线式",
+            "D.曲线运动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 23
+    },
+    {
+        "question_text": "24.不属于机会致病原虫的是",
+        "options": [
+            "A.隐孢子虫",
+            "B.肺孢子虫",
+            "C.弓形虫",
+            "D.阴道毛滴虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 24
+    },
+    {
+        "question_text": "25.阴道毛滴虫的致病机制主要是",
+        "options": [
+            "A.原虫溶解阴道上皮细胞",
+            "B.增强乳酸杆菌的糖酵解作用",
+            "C.妨碍乳酸杆菌的糖酵解作用",
+            "D.原虫侵入阴道上皮细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 25
+    },
+    {
+        "question_text": "26.阴道毛滴虫感染阶段是",
+        "options": [
+            "A.包囊",
+            "B.滋养体",
+            "C.卵囊",
+            "D.子孢子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 26
+    },
+    {
+        "question_text": "27.生活史中只有滋养体时期的原虫是",
+        "options": [
+            "A.疟原虫",
+            "B.阴道毛滴虫",
+            "C.贾第虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 27
+    },
+    {
+        "question_text": "28.不属于阴道毛滴虫的形态结构特征的是",
+        "options": [
+            "A.细胞核1个",
+            "B.前鞭毛1根和后鞭毛4根",
+            "C.轴柱1根",
+            "D.波动膜1个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 28
+    },
+    {
+        "question_text": "29.生活史中没有包囊阶段的原虫是",
+        "options": [
+            "A.贾第虫",
+            "B.阴道毛滴虫",
+            "C.溶组织内阿米巴",
+            "D.结肠内阿米巴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 29
+    },
+    {
+        "question_text": "30.不属于阴道毛滴虫的寄生部位的是",
+        "options": [
+            "A.男性的生殖道",
+            "B.女性的尿道",
+            "C.女性的阴道",
+            "D.女性的消化道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 30
+    },
+    {
+        "question_text": "31.阴道毛滴虫病原检查的常用方法是",
+        "options": [
+            "A.生理盐水直接涂片法",
+            "B.碘液涂片法",
+            "C.饱和盐水漂浮法",
+            "D.透明胶纸法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 31
+    },
+    {
+        "question_text": "32.不属于阴道毛滴虫的流行因素的是",
+        "options": [
+            "A.病人及带虫者",
+            "B.直接接触传播",
+            "C.滋养体抵抗力强",
+            "D.包囊抵抗力强"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 32
+    },
+    {
+        "question_text": "33.检查阴道毛滴虫的常用方法是",
+        "options": [
+            "A.粪便检查法",
+            "B.阴道内镜检查",
+            "C.阴道分泌物生理盐水镜检",
+            "D.阴道分泌物碘液染色镜检"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 33
+    },
+    {
+        "question_text": "34.滴虫性阴道炎最常见的症状是",
+        "options": [
+            "A.外阴水肿",
+            "B.血尿",
+            "C.阴部瘙痒，白带增多",
+            "D.月经不调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 34
+    },
+    {
+        "question_text": "35.不属于阴道毛滴虫传染方式的是",
+        "options": [
+            "A.使用公共浴池",
+            "B.性接触",
+            "C.粪-口途径",
+            "D.使用坐式马桶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 35
+    }
+]

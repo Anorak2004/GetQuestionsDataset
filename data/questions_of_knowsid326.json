@@ -1,0 +1,226 @@
+[
+    {
+        "question_text": "1．维生素 A 缺乏时可能发生",
+        "options": [
+            "A．夜盲症",
+            "B．色盲症",
+            "C．白内障",
+            "D．软骨病",
+            "E．白化病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 1
+    },
+    {
+        "question_text": "2．维生素 A 存在于自然界黄、红色植物中，最主要的是",
+        "options": [
+            "A．α胡萝卜素",
+            "B．β胡萝卜素",
+            "C．γ胡萝卜素",
+            "D．视黄醇",
+            "E．视黄酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 2
+    },
+    {
+        "question_text": "3．正常成人每日维生素 A 需要量是",
+        "options": [
+            "A．2600～3300IU",
+            "B．1000～2000IU",
+            "C．2000～3000IU",
+            "D．500～1000IU",
+            "E．4000～5000IU"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 3
+    },
+    {
+        "question_text": "4．维生素 D 的活性形式是",
+        "options": [
+            "A．25—(OH)D3",
+            "B．1，25—(0H)2D3",
+            "C．1，24，25—(OH)3D3",
+            "D．24，25—(OH)2D3",
+            "E．25—(OH)2D3"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 4
+    },
+    {
+        "question_text": "5．维生素 D 缺乏时",
+        "options": [
+            "A．佝偻病",
+            "B．呆小症",
+            "C．痛风症",
+            "D．夜盲症",
+            "E．肾结石"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 5
+    },
+    {
+        "question_text": "6．正常成人每日维生素 D 需要量是",
+        "options": [
+            "A．200～400IU",
+            "B．50～100IU",
+            "C．100～200IU",
+            "D．10～100IU",
+            "E。300～400IU"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 6
+    },
+    {
+        "question_text": "维生素 D 的主要生化作用是",
+        "options": [
+            "A，促进 Ca2+、P 的吸收",
+            "B．促进 Ca2+、P 的排泄",
+            "C，促进 K+、Na+ 的吸收",
+            "D．促进胃对 Ca2+、P 的吸收",
+            "E．降低血钙、血磷的浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 7
+    },
+    {
+        "question_text": "8．正常成人每日维生素 E 需要量是",
+        "options": [
+            "A．8～10 生育酚当量",
+            "B．10～20 生育酚当量",
+            "C．2～4 生育酚当量",
+            "D．20～30 生育酚当量",
+            "E．5～10 生育酚当量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 8
+    },
+    {
+        "question_text": "9．维生素 K 缺乏时发生",
+        "options": [
+            "A．凝血因子合成障碍症",
+            "B．血友病",
+            "C．贫血",
+            "D．溶血",
+            "E．红细胞增多症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 9
+    },
+    {
+        "question_text": "10．正常成人每日维生素 K 的需要量为",
+        "options": [
+            "A．60～80ug",
+            "B．20～40ug",
+            "C．10～20ug",
+            "D．100～200ug",
+            "E，5～10ug"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 10
+    },
+    {
+        "question_text": "11．维生素 B1 在体内活性形式是",
+        "options": [
+            "A．TPP",
+            "B．硫胺素",
+            "C．TPP 负离子",
+            "D．硫胺素焦磷酸酯",
+            "E．以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 11
+    },
+    {
+        "question_text": "12．正常成人每日维生素 B1 的需要量是",
+        "options": [
+            "A．1.0～1.5mg",
+            "B．0.5～1.0mg",
+            "C．0.1～0.5mg",
+            "D．2～3mg",
+            "E．1.5～2.5mg"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 12
+    },
+    {
+        "question_text": "13．维生意 B1 缺乏时出现的消化道蠕动慢，消化液比较少，食欲不振等症状的原因是因为维生素 B1 有下列生化作用",
+        "options": [
+            "A．维生素 B1 能抑制胆碱酯酶的活性",
+            "B．维生素 B1 能促进胃蛋白酶的活性",
+            "C．维生素 B1 能促进胰蛋白酶的活性",
+            "D．维生素 B1 能抑制乙酰胆碱的活性",
+            "E．维生素 B1 能促进胃蛋白酶原的活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 13
+    },
+    {
+        "question_text": "14．维生素 B2 的活性形式是",
+        "options": [
+            "A．核黄素",
+            "B．FMN 和 FAD",
+            "C．FMNH2 初 FADH2",
+            "D．NAD+",
+            "E．NADH 十 H+"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 14
+    },
+    {
+        "question_text": "15．正常成人每日维生素 B2 的需要量是",
+        "options": [
+            "A．1.2～1.5mg",
+            "B．0.1～0.5mg",
+            "C.0.5～1mg",
+            "D. 2～3mg",
+            "E. 2.5～3.5mg"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 15
+    },
+    {
+        "question_text": "16．维生京 PP 作为降低血中胆固醇药物的机理是",
+        "options": [
+            "A.抑制胆固醇的合成",
+            "B．抑制胆固醇的吸收",
+            "C．抑制胆固醇的合成原料 CH3COSCoA 的合成",
+            "D．抑制胆固醇的转运",
+            "B．抑制脂肪组织中脂肪酸的动员"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 16
+    }
+]

@@ -1,0 +1,1360 @@
+[
+    {
+        "question_text": "1.下列关于药物吸收的叙述中错误的是:",
+        "options": [
+            "A.吸收是指药物从给药部位进入血液循环的过程",
+            "B.皮下或肌注给药通过毛细血管壁吸收",
+            "C.口服给药通过首关消除而吸收减少",
+            "D.舌下或肛肠给药可因通过肝破坏而效应下降",
+            "E.皮肤给药除脂溶性大的以外都不易吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 1
+    },
+    {
+        "question_text": "2.药物的pKa值是指其",
+        "options": [
+            "A.90%解离时的pH值",
+            "B.99%解离时的pH值",
+            "C.50%解离时的pH值",
+            "D.不解离时的pH值",
+            "E.全部解离时的pH值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 2
+    },
+    {
+        "question_text": "3.大多数药物在体内通过细胞膜的方式是",
+        "options": [
+            "A.主动转运",
+            "B.简单扩散",
+            "C.易化扩散",
+            "D.膜孔滤过",
+            "E.胞饮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 3
+    },
+    {
+        "question_text": "4.药物主动转运的特点是:",
+        "options": [
+            "A.由载体进行,消耗能量",
+            "B.由载体进行,不消耗能",
+            "C.不消耗能量,无竞争性抑制",
+            "D.消耗能量,无选择性",
+            "E.无选择性,有竞争性抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 4
+    },
+    {
+        "question_text": "5.某弱酸性药在pH=4的液体中有50%解离,其pKa值约为",
+        "options": [
+            "A.2",
+            "B.3",
+            "C.4",
+            "D.5",
+            "E.6"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 5
+    },
+    {
+        "question_text": "6.阿司匹林的pKa是3.5,它在pH为7.5肠液中,按解离情况计,可吸收约:",
+        "options": [
+            "A.1%",
+            "B.10.1%",
+            "C.0.01%",
+            "D.10%",
+            "E.99%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 6
+    },
+    {
+        "question_text": "7.某碱性药物的pKa=9.8,如果增高尿液的pH,则此药在尿中:",
+        "options": [
+            "A.解离度增高,重吸收减少,排泄加快",
+            "B.解离度增高,重吸收增多,排泄减慢",
+            "C.解离度降低,重吸收减少,排泄加快",
+            "D.解离度降低,重吸收增多,排泄减慢",
+            "E.排速度并不改变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 7
+    },
+    {
+        "question_text": "8.在碱性尿液中弱碱性药物:",
+        "options": [
+            "A.解离少,再吸收多,排泄慢",
+            "B.解离多,再吸收少,排泄慢",
+            "C.解离少,再吸收少,排泄快",
+            "D.解离多,再吸收多,排泄慢",
+            "E.排泄速度不变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 8
+    },
+    {
+        "question_text": "9.在酸性尿液中弱酸性药物:",
+        "options": [
+            "A.解离多,再吸收多,排泄慢",
+            "B.解离少,再吸收多,排泄慢",
+            "C.解离多,再吸收多,排泄快",
+            "D.解离多,再吸收少,排泄快",
+            "E.排泄速度不变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 9
+    },
+    {
+        "question_text": "10.药物被动转运的特点是:",
+        "options": [
+            "A.需要消耗能量",
+            "B.有饱和抑制现象",
+            "C.可逆浓度差转运",
+            "D.需要载体",
+            "E.顺浓度差转运"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 10
+    },
+    {
+        "question_text": "11.吸收是指药物进入:",
+        "options": [
+            "A.胃肠道过程",
+            "B.靶器官过程",
+            "C.血液循环过程",
+            "D.细胞内过程",
+            "E.外液过程"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 11
+    },
+    {
+        "question_text": "12.丙磺舒如与青霉素合用,可增加后者的疗效,原因是:",
+        "options": [
+            "A.在杀菌作用上有协同作用",
+            "B.两者竞争肾小管的分泌通道",
+            "C.对细菌代谢有双重阻断作用",
+            "D.延缓抗药性产生",
+            "E.抑制肝药酶的活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 12
+    },
+    {
+        "question_text": "13.药物在体内的转化和排泄统称为",
+        "options": [
+            "A.代谢",
+            "B.消除",
+            "C.灭活",
+            "D.解毒",
+            "E.生物利用度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 13
+    },
+    {
+        "question_text": "14.肝药酶:",
+        "options": [
+            "A.专一性高,活性有限,个体差异大",
+            "B.专一性高,活性很强,个体差异大",
+            "C.专一性低,活性有限,个体差异小",
+            "D.专一性低,活性有限,个体差异大",
+            "E.专一性高,活性很高,个体差异小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列药物中能诱导肝药酶的是:",
+        "options": [
+            "A.氯霉素",
+            "B.苯巴比妥",
+            "C.异烟肼",
+            "D.阿司匹林",
+            "E.保泰松"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 15
+    },
+    {
+        "question_text": "16.硝酸甘油口服后可经门静脉进入肝,再进入体循环的药量约10%左右,这说明该药:",
+        "options": [
+            "A.活性低",
+            "B.效能低",
+            "C.首关消除显著",
+            "D.排泄快",
+            "E.效价强度低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 16
+    },
+    {
+        "question_text": "17.可具有首关效应的是",
+        "options": [
+            "A.肌注苯巴比妥被肝药酶代谢后,进入体循环的药量减少",
+            "B.硫喷妥钠吸收后贮存于脂肪组织使循环药量减少",
+            "C.硝酸甘油舌下给药自口腔粘膜吸收经肝代谢后药效降低",
+            "D.口服普萘洛尔经肝灭活后进人体循环的药量减少",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 17
+    },
+    {
+        "question_text": "18.药物的首关效应可能发生于:",
+        "options": [
+            "A.舌下给药后",
+            "B.吸入给药后",
+            "C.口服给药后",
+            "D.静脉注射后",
+            "E.皮下给药后"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 18
+    },
+    {
+        "question_text": "19.按一级动力学消除的药物,其血浆半衰期与k(消除速率常数)的关系为",
+        "options": [
+            "A.0.693/k",
+            "B.k/0.693",
+            "C.2.303/k",
+            "D.k/2.303",
+            "E.k/2血浆药物浓度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 19
+    },
+    {
+        "question_text": "20.影响药物自机体排泄的因素为:",
+        "options": [
+            "A.肾小球毛细血管通透性增大",
+            "B.极性高、水溶性大的药物易从肾排出",
+            "C.弱酸性药在酸性尿液中排出多",
+            "D.药物经肝生物转化成极性高的代谢物不易从胆汁排出",
+            "E.肝肠循环可使药物排出时间缩短"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 20
+    },
+    {
+        "question_text": "21.药物经肝代谢转化后都会:",
+        "options": [
+            "A.毒性减小或消失",
+            "B.经胆汁排泄",
+            "C.极性增高",
+            "D.脂/水分布系数增大",
+            "E.分子量减小"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 21
+    },
+    {
+        "question_text": "22.肾功能不良时,用药时需要减少剂量的是:",
+        "options": [
+            "A.所有的药物",
+            "B.主要从肾排泄的药物",
+            "C.主要在肝代谢的药物",
+            "D.自胃肠吸收的药物",
+            "E.以上都对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 22
+    },
+    {
+        "question_text": "23.某药按一级动力学消除,是指:",
+        "options": [
+            "A.药物消除量恒定",
+            "B.其血浆半衰期恒定",
+            "C.机体排泄及(或)代谢药物的能力已饱和",
+            "D.增加剂量可使有效血药浓度维持时间按比例延长",
+            "E.消除速率常数随血药浓度高低而变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 23
+    },
+    {
+        "question_text": "24.药物消除的零级动力学是指:",
+        "options": [
+            "A.吸收与代谢平衡",
+            "B.血浆浓度达到稳定水平",
+            "C.单位时间消除恒定量的药物",
+            "D.单位时间消除恒定比值的药物",
+            "E.药物完全消除到零"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 24
+    },
+    {
+        "question_text": "25.静脉注射2g磺胺药,其血药浓度为10mg/dl,经计算其表观分布容积为:",
+        "options": [
+            "A.0.05L",
+            "B.2L",
+            "C.5L",
+            "D.20L",
+            "E.200L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 25
+    },
+    {
+        "question_text": "26.药物的血浆t1/2是:",
+        "options": [
+            "A.药物的稳态血药浓度下降一半的时间",
+            "B.药物的有效血药浓度下降一半的时间",
+            "C.药物的组织浓度下降一半的时间",
+            "D.药物血浆浓度下降一半的时间",
+            "E.药物的血浆蛋白结合率下降一半的时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 26
+    },
+    {
+        "question_text": "27.普萘洛尔口服吸收良好,但经过肝以后,只有30%的药物达到体循环,以致血浓度较低,这表明该药",
+        "options": [
+            "A.药物活性低",
+            "B.药物效价强度低",
+            "C.生物利用度低",
+            "D.化疗指数低",
+            "E.药物排泄快"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 27
+    },
+    {
+        "question_text": "28.药物在血浆中与血浆蛋白结合后:",
+        "options": [
+            "A.药物作用增强",
+            "B.药物代谢加快",
+            "C.药物转运加快",
+            "D.药物排泄加快",
+            "E.暂时失去药理活性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 28
+    },
+    {
+        "question_text": "29.大多数药物在胃肠道的吸收属于:",
+        "options": [
+            "A.有载体参与的主动转运",
+            "B.一级动力学被动转运",
+            "C.零级动力学被动转运",
+            "D.易化扩散转运",
+            "E.胞饮的方式转运"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 29
+    },
+    {
+        "question_text": "30.一般说来,吸收速度最快的给药途径是:",
+        "options": [
+            "A.外用",
+            "B.口服",
+            "C.肌内注射",
+            "D.皮下注射",
+            "E.皮内注射"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列关于可以影响药物吸收的因素的叙述中错误的是:",
+        "options": [
+            "A.饭后口服给药",
+            "B.用药部位血流量减少",
+            "C.微循环障碍",
+            "D.口服生物利用度高的药吸收少",
+            "E.口服经首关消除后破坏少的药物效应强"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 31
+    },
+    {
+        "question_text": "32.与药物吸收无关的因素是:",
+        "options": [
+            "A.药物的理化性质",
+            "B.药物的剂型",
+            "C.给药途径",
+            "D.药物与血浆蛋白的结合率",
+            "E.药物的首关效应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 32
+    },
+    {
+        "question_text": "33.药物的血浆达峰时间是指:",
+        "options": [
+            "A.吸收速度大于消除速度时间",
+            "B.吸收速度小于消除速度吋间",
+            "C.血药消除过慢",
+            "D.血药最大浓度,吸收速度与消除速度相等",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 33
+    },
+    {
+        "question_text": "34.药物的生物利用度是指:",
+        "options": [
+            "A.药物能通过胃肠道进入肝门脉循环的量",
+            "B.药物能吸收进入体循环的量",
+            "C.药物能吸收进入体内达到作用点的量",
+            "D.药物吸收进入体内的相对速度",
+            "E.药物吸收进入体循环的量和速度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 34
+    },
+    {
+        "question_text": "35.促进药物生物转化的主要酶系统是:",
+        "options": [
+            "A.单胺氧化酶",
+            "B.细胞色素P450酶系统",
+            "C.辅酶Ⅱ",
+            "D.葡萄糖醛酸转移酶",
+            "E.水解酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 35
+    },
+    {
+        "question_text": "36.药物与血浆蛋白结合:",
+        "options": [
+            "A.是牢固的",
+            "B.不易被置换",
+            "C.是一种生效形式",
+            "D.见于所有药物",
+            "E.可被其他药物置换"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 36
+    },
+    {
+        "question_text": "37.药物的灭活和消除速度可影响",
+        "options": [
+            "A.起效的快慢",
+            "B.作用持续时间",
+            "C.最大效应",
+            "D.后遗效应的大小",
+            "E.不良反应的大小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 37
+    },
+    {
+        "question_text": "38.药物通过血液进入组织间液的过程称:",
+        "options": [
+            "A.吸收",
+            "B.分布",
+            "C.贮存",
+            "D.再分布",
+            "E.排泄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 38
+    },
+    {
+        "question_text": "39.难以通过血脑屏障的药物是由于其:",
+        "options": [
+            "A.分子大,极性高",
+            "B.分子小,极性低",
+            "C.分子大,极性低",
+            "D.分子小,极性高",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 39
+    },
+    {
+        "question_text": "40.巴比妥类在体内分布的情况是:",
+        "options": [
+            "A.碱血症时血浆中浓度高",
+            "B.酸血症时血浆中浓度高",
+            "C.在生理情况下易进入细胞内",
+            "D.在生理情况下细胞外液中解离型者少",
+            "E.碱化尿液后尿中非解离型的浓度可增高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 40
+    },
+    {
+        "question_text": "41.药物在体内的生物转化是指",
+        "options": [
+            "A.药物的活化",
+            "B.药物的灭活",
+            "C.药物的化学结构的变化",
+            "D.药物的消除",
+            "E.药物的吸收"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 41
+    },
+    {
+        "question_text": "42.代谢药物的主要器宫是:",
+        "options": [
+            "A.肠黏膜",
+            "B.血液",
+            "C.肌肉",
+            "D.肾",
+            "E.肝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 42
+    },
+    {
+        "question_text": "43.某药在体内按一级动力学消除,在其吸收达高峰后取两次血样,测其血浆浓度分别为180mg/ml及22.5g/l,两次取样间隔9h,该药的血浆半衰期是:",
+        "options": [
+            "A.1h",
+            "B.1.5h",
+            "C.2h",
+            "D.3h",
+            "E.4h"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 43
+    },
+    {
+        "question_text": "44.药物肝肠循环影响了药物在体内的:",
+        "options": [
+            "A.起效快慢",
+            "B.代谢快慢",
+            "C.分布",
+            "D.作用持续时间",
+            "E.与血浆蛋白结合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 44
+    },
+    {
+        "question_text": "45.影响半衰期的主要因素是:",
+        "options": [
+            "A.剂量",
+            "B.吸收速度",
+            "C.原血浆浓度",
+            "D.消除速度",
+            "E.给药的时间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 45
+    },
+    {
+        "question_text": "46.静脉恒速滴注某一按一级动力学消除的药物时,达到稳态浓度的时间取决于:",
+        "options": [
+            "A.静滴速度",
+            "B.溶液浓度",
+            "C.药物半衰期",
+            "D.药物体内分布",
+            "E.血浆蛋白结合量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 46
+    },
+    {
+        "question_text": "47.某催眠药的消除速率常数为0.7h-1,设静脉注射后病人入睡时血药浓度为4mg/L当病人醒转时血药浓度是0.25mg/L,问病人大约睡了多久?",
+        "options": [
+            "A.3h",
+            "B.4h",
+            "C.8h",
+            "D.9h",
+            "E.10h"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 47
+    },
+    {
+        "question_text": "48.某药半衰期为8h,1次给药后,药物在体内基本消除时间为:",
+        "options": [
+            "A.10h左右",
+            "B.20h左右",
+            "C.1d左右",
+            "D.2d左右",
+            "E.5d左右"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 48
+    },
+    {
+        "question_text": "49.1次给药后,约经过几个t1/2,可消除约95%",
+        "options": [
+            "A.2-3个",
+            "B.4-5个",
+            "C.6-8个",
+            "D.9-11个,",
+            "E.5-6个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 49
+    },
+    {
+        "question_text": "50.药物吸收到达血浆稳态浓度是指:",
+        "options": [
+            "A.药物作用最强的浓度",
+            "B.药物的吸收过程已完成",
+            "C.药物的消除过程正开始",
+            "D.药物的吸收速度与消除速度达到平衡",
+            "E.药物在体内分布达到平衡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 50
+    },
+    {
+        "question_text": "51.恒量恒速给药最后形成的血药浓度为:",
+        "options": [
+            "A.有效血浓度",
+            "B.稳态血浓度",
+            "C.峰浓度",
+            "D.阈浓度",
+            "E.中毒浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 51
+    },
+    {
+        "question_text": "52.恒量恒速给药最后形成的血药浓度为:",
+        "options": [
+            "A.IC50",
+            "B.Css",
+            "C.Cmax",
+            "D.Cmin",
+            "E.LC50"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 52
+    },
+    {
+        "question_text": "53.属于一级动力学的药物,其半衰期为4h,在定时定量多次给药后,达到稳态血药浓度需要:",
+        "options": [
+            "A.约10h",
+            "B.约20h",
+            "C.约30h",
+            "D.约40h",
+            "E.50h"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 53
+    },
+    {
+        "question_text": "54.以近似血浆半衰期的时间间隔给药,为了迅速达到稳态血浓度,可将首次剂量:",
+        "options": [
+            "A.增加半倍",
+            "B.增加1倍",
+            "C.增加2倍",
+            "D.增加3倍",
+            "E.增加4倍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 54
+    },
+    {
+        "question_text": "55.维持药物有效血药浓度,正确的恒量给药间隔时间是:",
+        "options": [
+            "A.每4h给药1次",
+            "B.每6h给药1次",
+            "C.每8h给药1次",
+            "D.每12h给药1次",
+            "E.根据药物的半衰期确定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 55
+    },
+    {
+        "question_text": "56.dC/dt=kCn是药物消除过程中血浆浓度衰减的简单数学公式,下列叙述中正确的是:",
+        "options": [
+            "A.当n=0时为一级动力学过程",
+            "B.当n=1时为零级动力学过程",
+            "C.当n=1时为一级动力学过程",
+            "D.当n=0时为一室模型",
+            "E.当n=1时为二室模型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 56
+    },
+    {
+        "question_text": "57.某药物在口服和静注相同剂量后的时量曲线下面积相等,表明其:",
+        "options": [
+            "A.口服吸收迅速",
+            "B.口服吸收完全",
+            "C.口服的生物利用度低",
+            "D.口服药物未经肝门脉吸收",
+            "E.属一室分布模型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 57
+    },
+    {
+        "question_text": "58.决定药物每日用药次数的主要因素是:",
+        "options": [
+            "A.吸收快慢",
+            "B.作用强弱",
+            "C.体内分布速度",
+            "D.体内转化速度",
+            "E.体内消除速度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 58
+    },
+    {
+        "question_text": "59.属于一级动力学药物,按药物半衰期给药,大约经过几次可达稳态血浓度:",
+        "options": [
+            "A.2-3次",
+            "B.4-5次",
+            "C.7-9次",
+            "D.10-12次",
+            "E.13-15次"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 59
+    },
+    {
+        "question_text": "60.一般认为难以通过血脑脊液屏障的药物是",
+        "options": [
+            "A.分子大,极性低",
+            "B.分子大,极性高",
+            "C.分子小,极性低",
+            "D.分子小,极性高",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 60
+    },
+    {
+        "question_text": "61.口服最易吸收的药物是",
+        "options": [
+            "A.解离度大,崩解度大,溶解度大",
+            "B.解离度大,崩解度大,溶解度小",
+            "C.解离度小,崩解度小,溶解度大",
+            "D.解离度小,崩解度小,溶解度小",
+            "E.解离度小,崩解度大,溶解度大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 61
+    },
+    {
+        "question_text": "62.弱酸性药物口服",
+        "options": [
+            "A.主要在胃中吸收",
+            "B.胃中不易吸收,主要在小肠吸收",
+            "C.胃中易吸收,主要在小肠吸收",
+            "D.胃肠中均不易吸收",
+            "E.以上均不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 62
+    },
+    {
+        "question_text": "63.某药为弱酸性药物,口服后",
+        "options": [
+            "A.主要在胃中吸收,酸性尿中不易排泄",
+            "B.主要在胃中吸收,酸性尿中易排泄",
+            "C.主要在小肠吸收,酸性尿中易排泄",
+            "D.主要在小肠吸收,碱性尿中易排泄",
+            "E.以上均不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 63
+    },
+    {
+        "question_text": "64.肌肉注射最易吸收的药物",
+        "options": [
+            "A.分子小,水溶液,解离度小",
+            "B.分子大,油剂,解离度大",
+            "C.分子小,油剂,解离度小",
+            "D.分子大,水溶液,解离度小",
+            "E.分子小,油剂,解离度大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 64
+    },
+    {
+        "question_text": "65.首过消除发生于",
+        "options": [
+            "A.肌肉注射",
+            "B.静脉给药",
+            "C.口服给药",
+            "D.舌下给药",
+            "E.吸入给药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 65
+    },
+    {
+        "question_text": "66.硫喷妥钠静脉麻醉维持时间短暂,主要因为",
+        "options": [
+            "A.肝中迅速被破坏",
+            "B.以原形经肾排泄",
+            "C.迅速与血浆蛋白结合",
+            "D.迅速再分布到脂肪组织中",
+            "E.以上均不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 66
+    },
+    {
+        "question_text": "67.药物起效快慢主要取决于",
+        "options": [
+            "A.分布",
+            "B.吸收和分布",
+            "C.组织亲和力",
+            "D.转化",
+            "E.吸收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 67
+    },
+    {
+        "question_text": "68.药物吸收入血后与血浆蛋白结合,此过程",
+        "options": [
+            "A.不利于消除和分布",
+            "B.有利于消除和分布",
+            "C.对消除和分布无影响",
+            "D.有助于分布,不利于消除",
+            "E.有助于消除,不利于分布"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 68
+    },
+    {
+        "question_text": "69.多数药物吸收入血后主要与哪种蛋白质结合?",
+        "options": [
+            "A.糖蛋白",
+            "B.球蛋白",
+            "C.脂蛋白",
+            "D.白蛋白",
+            "E.血红蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 69
+    },
+    {
+        "question_text": "70.药物血浆蛋白结合率高说明药物作用",
+        "options": [
+            "A.起效快,维持时间长",
+            "B.起效快,维持时间短",
+            "C.起效慢,维持时间长",
+            "D.起效快,对作用时间无影响",
+            "E.起效慢,维持时间短"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 70
+    },
+    {
+        "question_text": "71.给体重50kg的妇女静注300mg某药,其血浆药物浓度为0.1mg/ml,则该药表观分布容积为",
+        "options": [
+            "A.30L",
+            "B.10L",
+            "C.50L",
+            "D.300L",
+            "E.3L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 71
+    },
+    {
+        "question_text": "72.药物的吸收与下列何种因素无关?",
+        "options": [
+            "A.给药途径",
+            "B.药物脂溶性",
+            "C.局部组织血流量",
+            "D.药物浓度",
+            "E.药物有效期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 72
+    },
+    {
+        "question_text": "73.pKa小于4的弱碱性药物如地西泮,在肠道pH范围内基本都是",
+        "options": [
+            "A.离子型,吸收快而完全",
+            "B.非离子型,吸收快而完全",
+            "C.离子型,吸收慢而不完全",
+            "D.非离子型,吸收慢而不完全",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 73
+    },
+    {
+        "question_text": "74.药物在血浆中与血浆蛋白的结合型被认为是",
+        "options": [
+            "A.易消除,无活性",
+            "B.易消除,有活性",
+            "C.不易消除,无活性",
+            "D.不易消除,有活性",
+            "E.长期蓄积"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 74
+    },
+    {
+        "question_text": "75.药物在机体内经生物转化后",
+        "options": [
+            "A.药理活性加强",
+            "B.药理活性消失",
+            "C.药理活性减弱",
+            "D.药物排泄加快",
+            "E.以上均有可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 75
+    },
+    {
+        "question_text": "76.阿司匹林(pKa3.5)和苯巴比妥(pKa7.4)在胃中的吸收情况哪种是正确的?",
+        "options": [
+            "A.均不吸收",
+            "B.均完全吸收",
+            "C.吸收程度相同",
+            "D.前者大于后者",
+            "E.后者大于前者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 76
+    },
+    {
+        "question_text": "77.药物口服吸收主要通过",
+        "options": [
+            "A.主动转运",
+            "B.简单扩散",
+            "C.载体转运",
+            "D.胞饮转运",
+            "E.膜孔转运"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 77
+    },
+    {
+        "question_text": "78.主动转运的基本特性是",
+        "options": [
+            "A.由载体进行,不消耗能量",
+            "B.消耗能量,无选择性",
+            "C.无选择性,有竞争性抑制作用",
+            "D.不消耗能量,无竞争抑制作用",
+            "E.由载体进行,消耗能量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 78
+    },
+    {
+        "question_text": "79.药物简单扩散的特点不包括",
+        "options": [
+            "A.顺浓度差",
+            "B.不耗能",
+            "C.脂溶性越大,越易扩散",
+            "D.无饱和性",
+            "E.药物间有竞争性抑制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 79
+    },
+    {
+        "question_text": "80.有关体液pH对药物跨膜转运的影响,正确的描述是",
+        "options": [
+            "A.弱酸性药物在酸性体液中解离度大,易通过生物膜扩散转运",
+            "B.弱酸性药物在碱性体液中解离度小,难通过生物膜扩散转运",
+            "C.弱碱性药物在碱性体液中解离度大,易通过生物膜扩散转运",
+            "D.弱碱性药物在酸性体液中解离度小,难通过生物膜扩散转运",
+            "E.弱碱性药物在碱性体液中解离度小,易通过生物膜扩散转运"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 80
+    },
+    {
+        "question_text": "81.关于药物pKa,下述哪种解释是正确的?",
+        "options": [
+            "A.在中性溶液中药物的pH值",
+            "B.药物呈最大解离时溶液的pH值",
+            "C.是表示药物酸碱性的指标",
+            "D.药物解离50%时溶液的pH值",
+            "E.是表示药物随溶液pH变化的一种特性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 81
+    },
+    {
+        "question_text": "82.肝药酶诱导剂是指",
+        "options": [
+            "A.使肝药酶活性降低,药物作用增强",
+            "B.使肝药酶活性增强,药物作用减弱",
+            "C.使肝药酶活性增强,药物作用增强",
+            "D.使肝药酶活性降低,药物作用减弱",
+            "E.使肝药酶活性增强,药物作用不变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 82
+    },
+    {
+        "question_text": "83.恒量恒速给药后最终形成的血药浓度为",
+        "options": [
+            "A.有效浓度",
+            "B.稳态浓度",
+            "C.中毒浓度",
+            "D.谷浓度",
+            "E.峰浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 83
+    },
+    {
+        "question_text": "84.某病人服A药一次,经4-5个半衰期后,体内尚存药量为",
+        "options": [
+            "A.原药量50%",
+            "B.原药量25%",
+            "C.原药量的12.5%",
+            "D.基本消失",
+            "E.原药量的10%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 84
+    },
+    {
+        "question_text": "85.决定每天用药次数的主要因素是",
+        "options": [
+            "A.血浆蛋白结合率",
+            "B.吸收速率",
+            "C.消除速率",
+            "D.作用强弱",
+            "E.起效快慢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 85
+    },
+    {
+        "question_text": "86.药物(一级动力学消除)半衰期的长短主要与下列何种因素有关?",
+        "options": [
+            "A.给药次数",
+            "B.肝肾功能",
+            "C.血药浓度",
+            "D.给药剂量",
+            "E.给药途径"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 86
+    },
+    {
+        "question_text": "87.药物的一级动力学消除是指",
+        "options": [
+            "A.吸收与消除处于平衡状态",
+            "B.药物自机体内完全消除",
+            "C.药物吸收速率等于消除速率",
+            "D.单位时间内消除恒定比值的药物",
+            "E.单位时间内消除恒定量的药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 87
+    },
+    {
+        "question_text": "88.药物消除的零级动力学是指",
+        "options": [
+            "A.吸收与消除处于平衡状态",
+            "B.药物自机体内完全消除",
+            "C.药物吸收速率等于消除速率",
+            "D.单位时间内消除恒定比值的药物",
+            "E.单位时间内消除恒定量的药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 88
+    },
+    {
+        "question_text": "89.分别快速静注等量A、B药,测得患者表观分布容积A药为200L,B药为3L,由此推测",
+        "options": [
+            "A.A药的血药浓度高",
+            "B.B药的血药浓度高",
+            "C.A、B两药在机体内分布相同",
+            "D.B药组织分布多",
+            "E.A药组织分布少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 89
+    },
+    {
+        "question_text": "90.血管外按t1/2间隔给药,为了迅速达到稳态浓度,可将首次剂量",
+        "options": [
+            "A.增加1.4倍",
+            "B.减少1倍",
+            "C.增加1倍",
+            "D.增加4",
+            "E.增加2倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 90
+    },
+    {
+        "question_text": "91.地高辛半衰期为36h每日给一定治疗量,血药浓度达稳态时须经过",
+        "options": [
+            "A.6-8天",
+            "B.10天",
+            "C.12天",
+            "D.2天",
+            "E.3-5天"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 91
+    },
+    {
+        "question_text": "92.恒量恒速给药后约经过几个血浆半衰期可基本达到血药稳态浓度?",
+        "options": [
+            "A.2个",
+            "B.3个",
+            "C.4-5个",
+            "D.8个",
+            "E.10个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 92
+    },
+    {
+        "question_text": "93.恒时恒量给药,达到稳态浓度的时间主要与下列哪个因素有关?",
+        "options": [
+            "A.给药剂量",
+            "B.药物t1/2",
+            "C.给药间隔",
+            "D.给药途径",
+            "E.稳态浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 93
+    },
+    {
+        "question_text": "94.同一药厂生产不同批号的某种药物,其生物利用度",
+        "options": [
+            "A.绝对生物利用度相同",
+            "B.绝对生物利用度不同",
+            "C.相对生物利用度相同",
+            "D.相对生物利用度不同",
+            "E.以上均可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 94
+    },
+    {
+        "question_text": "95.生物利用度是指",
+        "options": [
+            "A.药物被机体吸收利用的程度和速度",
+            "B.机体对药物利用的程度",
+            "C.机体对药物利用的速度",
+            "D.药物产生效应能力大小",
+            "E.药物吸收后蓄积的量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 95
+    },
+    {
+        "question_text": "96.在时量曲线上,曲线在峰浓度时表明",
+        "options": [
+            "A.药物吸收速度与消除速度平衡",
+            "B.药物的吸收过程已经完成",
+            "C.药物在体内分布已达到平衡",
+            "D.药物的消除过程开始",
+            "E.药物的疗效最好"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 96
+    },
+    {
+        "question_text": "97.一级动力学",
+        "options": [
+            "A.恒量消除,有恒定半衰期",
+            "B.恒量消除,消除速率与血药浓度呈正比",
+            "C.恒比消除,有恒定半衰期",
+            "D.恒比消除,消除速率与给药途径有关",
+            "E.有恒定半衰期,半衰期与血药浓度有关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 97
+    }
+]

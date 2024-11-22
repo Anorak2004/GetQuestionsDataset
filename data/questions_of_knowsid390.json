@@ -1,0 +1,2018 @@
+[
+    {
+        "question_text": "1.治疗外科低血容量性休克的基本措施是补充血容量，一般宜首选",
+        "options": [
+            "A.平衡盐溶液",
+            "B.10%葡萄糖溶液",
+            "C.右旋糖酎",
+            "D.5%碳酸氢钠",
+            "E.全血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列关于治疗休克的叙述中，错误的是",
+        "options": [
+            "A.失血性休克的治疗是扩容",
+            "B.感染性休克时可应用大剂量氢化可的松",
+            "C.失血性休克时，止血是不可忽视的主要手段",
+            "D.感染性休克时，应首先使用升压药",
+            "E.感染性休克应恢复有效循环血量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 2
+    },
+    {
+        "question_text": "3.血压下降在休克中的意义",
+        "options": [
+            "A.是诊断休克的唯一依据",
+            "B.是休克最常见的临床表现",
+            "C.是估计休克程度的主要指标",
+            "D.是组织细胞缺氧的主要指标",
+            "E.是休克最早的指标"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 3
+    },
+    {
+        "question_text": "4.中心静脉压高而动脉压在正常范围，反映",
+        "options": [
+            "A.右心功能不全或血容量相对过多",
+            "B.胸腔内压增加",
+            "C.右心功能不全或容量相对不足",
+            "D.静脉回心血量增加",
+            "E.容量血管过度收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 4
+    },
+    {
+        "question_text": "5.休克监测中最常用的项目是",
+        "options": [
+            "A.心脏指数",
+            "B.血气分析",
+            "C.肺动脉楔压",
+            "D.中心静脉压",
+            "E.心排出量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 5
+    },
+    {
+        "question_text": "6.为感染性休克病人迅速纠正血容量不足时，下列各组液体中，首选的是",
+        "options": [
+            "A.以平衡盐溶液为主，配合适量血浆和全血",
+            "B.以胶体溶液为主",
+            "C.等张生理盐水加代血浆",
+            "D.葡萄糖溶液加代血浆",
+            "E.全血配合葡萄糖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于感染性休克病人应用皮质激素的依据与方法，不正确的是",
+        "options": [
+            "A.糖皮质激素可以稳定细胞及溶酶体膜",
+            "B.大剂量糖皮质激素对心脏发挥正性肌力作用",
+            "C.适当应用糖皮质激素可以减少合井症",
+            "D.糖皮质激素应从大剂量开始",
+            "E.要取得疗效至少要使用5天"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列关于休克病人预防急性肾衰的措施中不正确的是",
+        "options": [
+            "A.及时纠正低血容量性休克，避免肾缺血",
+            "B.矫治休克时不宜使用易引起肾血管收缩的药物",
+            "C.对有溶血倾向的病人应保持肾小管通畅、碱化尿液避免肾小管损害",
+            "D.休克合并DIC时，要时应用肝素治疗",
+            "E.病人只要出现尿量减少时，要及时使用利尿剂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 8
+    },
+    {
+        "question_text": "9.休克病人中心静脉压为5cmH2O，血压80/65mmHg，处理原则为",
+        "options": [
+            "A.适当补液",
+            "B.使用强心药物",
+            "C.用扩血管药",
+            "D.补液试验",
+            "E.充分补液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 9
+    },
+    {
+        "question_text": "10.休克的根本病因是",
+        "options": [
+            "A.血压下降",
+            "B.中心静脉压下降",
+            "C.心排出量下降",
+            "D.有效循环血量下降",
+            "E.微循环障碍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 10
+    },
+    {
+        "question_text": "11.休克抑制期的病理生理改变主要是",
+        "options": [
+            "A.微动脉及毛细血管前括约肌舒张，毛细血管后的小静脉处在收缩期",
+            "B.细胞内的溶酶体膜破裂，造成细胞自溶",
+            "C.肾上腺髓质和交感神经节后纤维释放大量儿茶酚",
+            "D.细胞能量来源主要是糖酵解",
+            "E.毛细血管内有微细血栓形成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 11
+    },
+    {
+        "question_text": "12.休克病人的一般监测，不包括",
+        "options": [
+            "A.体温",
+            "B.血压",
+            "C.脉搏",
+            "D.意识",
+            "E.尿量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 12
+    },
+    {
+        "question_text": "13.休克治疗的主要目的是",
+        "options": [
+            "A.升高血压",
+            "B.恢复血容量",
+            "C.纠正酸中毒",
+            "D.恢复心排出量",
+            "E.恢复组织的血流灌注"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 13
+    },
+    {
+        "question_text": "14.可引起感染性休克的是",
+        "options": [
+            "A.骨盆骨折",
+            "B.青霉素过敏",
+            "C.张力性气胸",
+            "D.绞窄性肠梗阻",
+            "E.脾破裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 14
+    },
+    {
+        "question_text": "15.感染性休克的治疗中最重要的治疗是",
+        "options": [
+            "A.补充血容量",
+            "B.补充血容量同时抗感染",
+            "C.合理使用血管活性药物",
+            "D.肾上腺皮质激素",
+            "E.其他治疗包括营养支持，纠正酸碱失衡等"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 15
+    },
+    {
+        "question_text": "16.所谓有效循环血量是",
+        "options": [
+            "A.每分钟心脏输出的血量",
+            "B.回流至心脏的血量",
+            "C.单位时间内通过毛细血管的血量",
+            "D.单位时间内心血管系统内循环血量",
+            "E.循环系统内血量加贮存脾脏的血量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 16
+    },
+    {
+        "question_text": "17.治疗感染性休克时，纠正血容量不足的最适宜输液方案是",
+        "options": [
+            "A.以平衡盐溶液为主，配合适量血浆或全血",
+            "B.以胶体溶液（如代血浆）为主",
+            "C.以等渗生理盐水和代血浆为主",
+            "D.以等渗葡萄糖溶液和代血浆为主",
+            "E.以全血配合等渗葡萄糖溶液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 17
+    },
+    {
+        "question_text": "18.休克病人中心静脉压为高，血压正常，处理原则为",
+        "options": [
+            "A.使用强心药物",
+            "B.用缩血管药",
+            "C.用扩血管药",
+            "D.补液试验",
+            "E.充分补液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 18
+    },
+    {
+        "question_text": "19.休克的根本问题是",
+        "options": [
+            "A.组织细胞受累",
+            "B.低血压",
+            "C.酸中毒",
+            "D.心功能不全",
+            "E.尿少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 19
+    },
+    {
+        "question_text": "20.诊断休克的主要依据",
+        "options": [
+            "A.临床表现",
+            "B.脉率变快",
+            "C.血压下降",
+            "D.动脉血氧分压V60mmHg",
+            "E.尿少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 20
+    },
+    {
+        "question_text": "21.决定心肌微循环灌注量的主要因素是",
+        "options": [
+            "A.动脉收缩压",
+            "B.动脉舒张压",
+            "C.外周血管阻力",
+            "D.心脏每博量",
+            "E.心肌收缩力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 21
+    },
+    {
+        "question_text": "22.从病理生理角度看，休克的本质是",
+        "options": [
+            "A.低血压",
+            "B.交感肾上腺系统兴奋",
+            "C.组织和细胞缺氧",
+            "D.酸中毒",
+            "E.心血管功能紊乱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 22
+    },
+    {
+        "question_text": "23.休克病人早期尿的变化哪项是错的",
+        "options": [
+            "A.尿量少",
+            "B.尿比重高",
+            "C.尿钠高",
+            "D.尿pH值下降",
+            "E.尿钾改变不明显"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于休克代偿期微循环的变化，下列哪项是错误的",
+        "options": [
+            "A.动静脉短路开放",
+            "B.直捷通路开放",
+            "C.微动脉收缩",
+            "D.微静脉收缩",
+            "E.毛细血管内血液淤积"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 24
+    },
+    {
+        "question_text": "25.血容量不足时中心静脉压往往低于多少（cmH2O）",
+        "options": [
+            "A.14",
+            "B.12",
+            "C.10",
+            "D.8",
+            "E.5"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 25
+    },
+    {
+        "question_text": "26.成人每24小时排尿量不足多少为无尿",
+        "options": [
+            "A.50ml",
+            "B.100ml",
+            "C.110ml",
+            "D.120ml",
+            "E.10ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 26
+    },
+    {
+        "question_text": "27.肱动脉收缩压下降至多少kPa以下时肾小球滤过基本停止",
+        "options": [
+            "A.8.0kPa",
+            "B.9.0kPa",
+            "C.10.0kPa",
+            "D.11.0kPa",
+            "E.12.0kPa"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 27
+    },
+    {
+        "question_text": "28.循环骤停的临界时间是",
+        "options": [
+            "A.1分钟",
+            "B.2分钟",
+            "C.4分钟",
+            "D.8分钟",
+            "E.10分钟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 28
+    },
+    {
+        "question_text": "29.决定休克患者补液量较可靠的依据是",
+        "options": [
+            "A.血压",
+            "B.尿量",
+            "C.中心静脉压",
+            "D.脉搏",
+            "E.精神状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 29
+    },
+    {
+        "question_text": "30.休克患者经补液后，血压仍低，中心静脉压不高，5?10分钟内经静脉注入等渗盐水250ml，如血压升高，而中心静脉压不变，提示",
+        "options": [
+            "A.心功能不全",
+            "B.血容量过多",
+            "C.血容量不足",
+            "D.血管张力过高",
+            "E.以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 30
+    },
+    {
+        "question_text": "31.各类休克的共同点为",
+        "options": [
+            "A.血压下降",
+            "B.有效循环血量急剧减少",
+            "C.皮肤苍白",
+            "D.四肢湿冷",
+            "E.烦躁不安"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 31
+    },
+    {
+        "question_text": "32.休克患者采取何种体位最为合理",
+        "options": [
+            "A.头低15°，足高25°",
+            "B.平卧位",
+            "C.头、躯干抬高20°?30°，下肢抬高15°?20°",
+            "D.侧卧位",
+            "E.下肢低垂10°?15°"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列哪种休克的微循环变化和内脏继发性损害比较严重",
+        "options": [
+            "A.心源性休克",
+            "B.低血容量性休克",
+            "C.感染性休克",
+            "D.过敏性休克",
+            "E.神经源性休克"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 33
+    },
+    {
+        "question_text": "34.休克时应用血管活性药物的主要目的是",
+        "options": [
+            "A.提咼心脏前负荷",
+            "B.增加心脏后负荷",
+            "C.增加心脏收缩力",
+            "D.提高组织的血液灌流量",
+            "E.降低组织代谢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 34
+    },
+    {
+        "question_text": "35.休克失代偿期的微循环变化主要为",
+        "options": [
+            "A.微循环收缩期",
+            "B.微循环扩张期",
+            "C.微循环衰竭期",
+            "D.直接通道开放",
+            "E.动静脉短路开放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 35
+    },
+    {
+        "question_text": "36.应根据下列哪项来合理选择血管活性药物",
+        "options": [
+            "A.血压的高低",
+            "B.心跳的快慢",
+            "C.休克的类型和阶段",
+            "D.病人的神志情况",
+            "E.尿量的多少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 36
+    },
+    {
+        "question_text": "37.在治疗失血性休克中补充血容量时，最优越的晶体液为",
+        "options": [
+            "A.5%葡萄糖溶液",
+            "B.5%葡萄糖盐水",
+            "C.平衡盐溶液",
+            "D.10%葡萄糖溶液",
+            "E.4%苏打溶液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 37
+    },
+    {
+        "question_text": "38.休克时反映生命器官血液灌流最简单、最可靠的指标是",
+        "options": [
+            "A.神志",
+            "B.肢体温度",
+            "C.血压",
+            "D.脉率",
+            "E.尿量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 38
+    },
+    {
+        "question_text": "39.中心静脉压正常值为",
+        "options": [
+            "A.0.098?0.392kPa(1?4cmH20)",
+            "B.0.490?0.981kPa(5?10cmH20)",
+            "C.1.079?1.471kPa.(11?15cmH20)",
+            "D.1.569?1.961kPa(16?20cmH20)",
+            "E.2.059?2.452kpa(21?25cmH20)"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 39
+    },
+    {
+        "question_text": "40.有效循环血量一般不依赖下列哪项",
+        "options": [
+            "A.充足的血容量",
+            "B.通畅的微循环",
+            "C.有效的心排出量",
+            "D.良好的周围血管张力",
+            "E.正常的心功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 40
+    },
+    {
+        "question_text": "41.休克的治疗原则应除外",
+        "options": [
+            "A.尽早去除引起休克的原因",
+            "B.尽快恢复有效血容量",
+            "C.增加心脏功能",
+            "D.纠正微循环障碍",
+            "E.及时应用血管收缩剂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 41
+    },
+    {
+        "question_text": "42.判断休克已纠正除血压正常外，尿量每小时至少应稳定在",
+        "options": [
+            "A.25ml以上",
+            "B.30ml以上",
+            "C.40ml以上",
+            "D.50ml以上",
+            "E.60ml以上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 42
+    },
+    {
+        "question_text": "43.测定中心静脉压时应先将刻度零点置于",
+        "options": [
+            "A.腋前线水平",
+            "B.第五肋与锁中线交点处",
+            "C.腋中线水平",
+            "D.颈外静脉水平",
+            "E.腋后线水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 43
+    },
+    {
+        "question_text": "44.中心静脉压能直接反映",
+        "options": [
+            "A.心包内压力",
+            "B.主动脉压力",
+            "C.左心房压力",
+            "D.左心室压力",
+            "E.肺静脉压力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 44
+    },
+    {
+        "question_text": "45.可导致心排出量高于正常值的休克类型是",
+        "options": [
+            "A.低血容量性休克",
+            "B.感染性休克",
+            "C.心源性休克",
+            "D.神经源性休克",
+            "E.过敏性休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 45
+    },
+    {
+        "question_text": "46.女，85岁，因大量呕血、黑便送来急诊。既往有冠心病，肾动脉硬化。立即给予输血、补液及相应的止血措施。对此患者指导液体入量及输入速度最有意义的参考指标是",
+        "options": [
+            "A.中心静脉压",
+            "B.肘静脉压",
+            "C.血压",
+            "D.心率",
+            "E.尿量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 46
+    },
+    {
+        "question_text": "47.女性，45岁，遭车祸时左季肋部撞伤脾破裂。血压80/60mmHg(10.6/8kPa)，神志尚清楚，脉搏120次/分，表情淡漠，口渴，面色苍白。估计出血量达",
+        "options": [
+            "A.400?500ml",
+            "B.600?700ml",
+            "C.800?1600ml",
+            "D.1700?2400ml",
+            "E.>2400ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 47
+    },
+    {
+        "question_text": "48.一成人烧伤面积60%，7小时后入院，经注射吗啡，头孢类抗生素和生理盐水1000ml，仍有休克，应考虑为",
+        "options": [
+            "A.神经性休克",
+            "B.感染性休克",
+            "C.心源性休克",
+            "D.低血容量性休克",
+            "E.中毒性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 48
+    },
+    {
+        "question_text": "49.女，22岁，腹痛伴频繁呕吐3天，以肠梗阻收入院，血Na+133mmol/,血K+3mmol/L,HCO-38mmol/L,BP80/60mmHg，治疗应首先采取",
+        "options": [
+            "A.纠正酸中毒",
+            "B.纠正低血钾",
+            "C.纠正低血钠",
+            "D.急诊手术，解除肠梗阻",
+            "E.纠正低血容量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 49
+    },
+    {
+        "question_text": "50.男性，40岁，腹痛、发热48小时，血压80/60mmHg，神志清楚，面色苍白，四肢湿冷，全腹肌紧张，肠鸣音消失，诊断为",
+        "options": [
+            "A.低血容量性休克",
+            "B.感染性休克",
+            "C.神经源性休克",
+            "D.心源性休克",
+            "E.过敏性休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 50
+    },
+    {
+        "question_text": "51.男，29岁，左下胸受压，伴腹痛，恶心，呕吐入院。检查：面色苍白，四肢湿冷，脉搏120次/min，血压80/60mmHg。腹腔穿刺抽出不凝血液。应采取正确的处理原则",
+        "options": [
+            "A.直接送手术室手术",
+            "B.大量快速输液，纠正休克",
+            "C.积极抗休克，同时迅速手术",
+            "D.休克好转后再手术",
+            "E.抗感染，止血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 51
+    },
+    {
+        "question_text": "52.男，45岁休克病人，中心静脉压4cmH20,血压60/40mmHg，该病人可能",
+        "options": [
+            "A.血容量严重不足",
+            "B.肾功能不全",
+            "C.心功能不全",
+            "D.肺功能不全",
+            "E.容量血管过度舒张"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 52
+    },
+    {
+        "question_text": "53.45岁，女性，反复腹痛、发热、黄疸1年，近3天上述症状加重，高热黄疸不退。入院体温40°C，脉搏120次/分，血压70/50mmHg,该病人首选的治疗为",
+        "options": [
+            "A.大剂量抗生素治疗感染后择期手术",
+            "B.全胃肠外营养后手术",
+            "C.立即手术",
+            "D.积极抗休克同时及早手术",
+            "E.应用血管收缩剂血压升至正常后及早手术"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 53
+    },
+    {
+        "question_text": "54.女，70岁，急性心使，查血压83/60mmHg，中心静脉压1.961kPa(20cmH2O),应首先采取哪项措施",
+        "options": [
+            "A.应用速尿",
+            "B.应用毛花苷丙",
+            "C.应用激素",
+            "D.适当补液",
+            "E.继续观察"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 54
+    },
+    {
+        "question_text": "55.男，60岁，外伤后测得中心静脉压为0.294kP(3cmH2O)，外周动脉血压在正常范围，该病人可能是以下哪种情况",
+        "options": [
+            "A.心功能不全",
+            "B.血容量不足",
+            "C.血容量过多",
+            "D.容量血管过度收缩",
+            "E.容量血管过度扩张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 55
+    },
+    {
+        "question_text": "56.男，60岁，腹痛伴发热和黄疸3天。烦躁，有上腹压痛、反跳痛和肌紧张不明显。血象WBC3.5*109/L,N0.85。血尿淀粉酶正常。经抗菌治疗第2天症状不缓解，患者神志淡漠，血压75/60mmHg，尿量减少。此患者合并有",
+        "options": [
+            "A.低血容量性休克",
+            "B.心源性休克",
+            "C.过敏性休克",
+            "D.神经源性休克",
+            "E.感染性休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 56
+    },
+    {
+        "question_text": "57.一成人烧伤面积60%,7小时后入院，经注射吗啡、头孢类抗菌素和生理盐水1000ml,仍有休克，应考虑为",
+        "options": [
+            "A.神经性休克",
+            "B.感染性休克",
+            "C.心源性休克",
+            "D.低血容量性休克",
+            "E.中毒性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 57
+    },
+    {
+        "question_text": "58.男性，43岁，双侧股骨干骨折3小时，体温36.5C,脉搏细弱，血压60/40mmHg,四肢冰冷，无尿。首先考虑的诊断是",
+        "options": [
+            "A.高排低阻型休克",
+            "B.感染性休克",
+            "C.中度休克",
+            "D.重度休克",
+            "E.轻度休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 58
+    },
+    {
+        "question_text": "某男,32岁,双下肢挤压伤神志尚清楚,表情淡漠明显口渴,面色苍白,皮肤湿冷,脉搏112次/分,血压90/60mmHg(12/8kPa)中心静脉压4cmH2O(0.398kPa)毛细血管充盈迟缓。血pH为7.32。59.该病人的情况是",
+        "options": [
+            "A.未发生休克",
+            "B.休克代偿期",
+            "C.中度休克",
+            "D.重度休克",
+            "E.虚脱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 59
+    },
+    {
+        "question_text": "60.其循环系统的病理生理改变是",
+        "options": [
+            "A.心功能不全",
+            "B.血容量相对过多",
+            "C.血容量严重不足",
+            "D.容量血管过度收缩",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 60
+    },
+    {
+        "question_text": "61.应采取的最有效的措施是",
+        "options": [
+            "A.应用收缩血管药物",
+            "B.补充血容量",
+            "C.纠正酸中毒",
+            "D.给予强心药物",
+            "E.应用扩张血管药物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 61
+    },
+    {
+        "question_text": "男性,30岁,以三楼跌下左腹部跌伤,左6、7、8肋骨骨折,脾破裂、肠破裂。入院时精神紧张。T38.5°C面色苍白,肢端冰冷,脉搏细速,110次/分,血压130/100mmHg,尿量减少。62.该病人的休克状态应属于",
+        "options": [
+            "A.休克前期",
+            "B.中度休克",
+            "C.重度休克",
+            "D.暖休克",
+            "E.冷休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 62
+    },
+    {
+        "question_text": "63.目前不宜马上进行的检查是",
+        "options": [
+            "A.血常规",
+            "B.腹腔穿刺",
+            "C.静脉肾孟造影",
+            "D.中心静脉压测定",
+            "E.测定二氧化碳结合力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 63
+    },
+    {
+        "question_text": "64.首先考虑的治疗措施为",
+        "options": [
+            "A.静脉输注血管收缩药物",
+            "B.立即剖腹探查",
+            "C.迅速补充血容量",
+            "D.大剂量应用抗生素",
+            "E.滴注利尿剂改善肾功能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 64
+    },
+    {
+        "question_text": "男性,35岁,汽车撞伤左季肋区4小时,神志模糊,体温37.5C,脉搏细弱,血压60/40mmHg,全腹压痛,无反跳痛,无尿65.首先考虑的诊断是",
+        "options": [
+            "A.神经源性休克",
+            "B.感染性休克",
+            "C.中度低血容量性休克",
+            "D.重度低血容量性休克",
+            "E.过敏性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 65
+    },
+    {
+        "question_text": "66.首选的治疗措施是",
+        "options": [
+            "A.静脉用强心药物",
+            "B.立即手术治疗",
+            "C.迅速补充平衡盐溶液",
+            "D.利尿剂改善肾功能",
+            "E.应用抗生素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 66
+    },
+    {
+        "question_text": "男性,43岁,双侧股骨干骨折3小时,体温36.5C脉搏细弱,血压60/40mmHg,四肢冰冷,无尿67.该病人应采取的体位是",
+        "options": [
+            "A.平卧位",
+            "B.下肢抬高10°",
+            "C.头和躯干抬高10°",
+            "D.头、躯干抬高20°?30°，下肢抬高15°?20°",
+            "E.头、躯干抬高40°?50°，下肢抬高30°?40°"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 67
+    },
+    {
+        "question_text": "68.该病人首选的治疗措施是",
+        "options": [
+            "A.立即手术治疗",
+            "B.静脉推注强心药物",
+            "C.迅速补充血容量",
+            "D.利尿剂改善肾功能",
+            "E.应用抗生素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 68
+    },
+    {
+        "question_text": "男,25岁,背部刀伤,伤口流血2小时,体查:神志尚清楚,诉口渴,皮肤苍白,稍冷,脉搏10次分,血压129.33kPa(90/70mmHg),脉压小,表浅静脉塌陷,尿少69.此病人休克达何种程度",
+        "options": [
+            "A.中度",
+            "B.轻度",
+            "C.重度",
+            "D.晚期",
+            "E.代偿期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 69
+    },
+    {
+        "question_text": "70.估计此病人失血量约占全身血容量的多少",
+        "options": [
+            "A.<20%",
+            "B.20%",
+            "C.20%-40%",
+            "D.40%左右",
+            "E.50%左右"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 70
+    },
+    {
+        "question_text": "71.应采取何种措施",
+        "options": [
+            "A.门诊观察",
+            "B.胸部X线摄片",
+            "C.全血细胞计数",
+            "D.收住院手术治疗",
+            "E.输血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 71
+    },
+    {
+        "question_text": "女,52岁,有胆管结石病史,近2天来右上腹痛,体温37.8C,2小时前突然畏寒、寒^,体温达40C精神紧张兴奋、口渴、面色苍白、脉搏98次/分,有力,血压14.7/12.8kPa(110/96mmHg),尿量每小时26ml72.病人处于何种情况",
+        "options": [
+            "A.急性胆管炎，无休克",
+            "B.休克代偿期",
+            "C.中度休克",
+            "D.重度休克",
+            "E.高排低阻型休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 72
+    },
+    {
+        "question_text": "73.下列哪一项不是其微循环变化的特征",
+        "options": [
+            "A.微动脉、微静脉收缩",
+            "B.动静脉短路开放",
+            "C.直捷通路开放",
+            "D.组织灌流减少",
+            "E.静脉回心血量减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 73
+    },
+    {
+        "question_text": "74.为排除发生弥散性血管内凝血的可能作了多项检查，下列哪项监测检查结果是无意义的",
+        "options": [
+            "A.血小板计数低于80X109/L",
+            "B.纤维蛋白原少于1.5g/L",
+            "C.凝血酶原时间较正常延长3秒以上",
+            "D.副凝固试验阳性",
+            "E.凝血时间明显缩短"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪项治疗原则是错误的",
+        "options": [
+            "A.积极补充血容量",
+            "B.联合应用抗菌药物",
+            "C.尽早做胆管引流",
+            "D.纠正酸中毒",
+            "E.静脉滴注间羟胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 75
+    },
+    {
+        "question_text": "76.中心静脉压低，血压低",
+        "options": [
+            "A.血容量不足",
+            "B.心功能不全，血容量正常",
+            "C.心功能不全或血容量相对过多",
+            "D.容量血管过度收缩",
+            "E.心功能不全或血容量不足"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 76
+    },
+    {
+        "question_text": "中心静脉压高，血压低",
+        "options": [
+            "A.血容量不足",
+            "B.心功能不全，血容量正常",
+            "C.心功能不全或血容量相对过多",
+            "D.容量血管过度收缩",
+            "E.心功能不全或血容量不足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 77
+    },
+    {
+        "question_text": "78.中心静脉压正常，血压低",
+        "options": [
+            "A.血容量不足",
+            "B.心功能不全，血容量正常",
+            "C.心功能不全或血容量相对过多",
+            "D.容量血管过度收缩",
+            "E.心功能不全或血容量不足"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 78
+    },
+    {
+        "question_text": "提示血容量不足",
+        "options": [
+            "A.中心静脉压很低，尿量多",
+            "B.中心静脉压偏低，尿量少",
+            "C.中心静脉压偏低，尿量多",
+            "D.中心静脉压偏高，尿量多",
+            "E.中心静脉压很高，尿量少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 79
+    },
+    {
+        "question_text": "说明液体量已补充足",
+        "options": [
+            "A.中心静脉压很低，尿量多",
+            "B.中心静脉压偏低，尿量少",
+            "C.中心静脉压偏低，尿量多",
+            "D.中心静脉压偏高，尿量多",
+            "E.中心静脉压很高，尿量少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 80
+    },
+    {
+        "question_text": "可能有心功能不全存在",
+        "options": [
+            "A.中心静脉压很低，尿量多",
+            "B.中心静脉压偏低，尿量少",
+            "C.中心静脉压偏低，尿量多",
+            "D.中心静脉压偏高，尿量多",
+            "E.中心静脉压很高，尿量少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 81
+    },
+    {
+        "question_text": "82.男，24岁，受伤后出现精神兴奋，烦躁不安，出冷汗，心率100次/分，脉压缩小，尿量减小。",
+        "options": [
+            "A.休克可疑",
+            "B.休克抑制期",
+            "C.已有休克",
+            "D.尚无休克",
+            "E.休克晚期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 82
+    },
+    {
+        "question_text": "病人口渴不止，神智淡漠，反应退钝，皮肤苍白，出冷汗，四肢凉，呼吸浅快，脉搏细速，收缩压降至90mmHg以下，尿少。",
+        "options": [
+            "A.休克可疑",
+            "B.休克抑制期",
+            "C.已有休克",
+            "D.尚无休克",
+            "E.休克晚期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 83
+    },
+    {
+        "question_text": "休克病人，脸色苍白，皮肤湿冷及瘀斑，发紺，经输液补血无改善，血压仍低，中心静脉压1.765kPa(180mmH2O)，此时采用哪项治疗为最佳",
+        "options": [
+            "A.加快输血",
+            "B.应用血管扩张剂",
+            "C.应用血管收缩剂",
+            "D.加快输液",
+            "E.强心剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 84
+    },
+    {
+        "question_text": "85.如仍未见效，必要时可加用上述哪项治疗",
+        "options": [
+            "A.加快输血",
+            "B.应用血管扩张剂",
+            "C.应用血管收缩剂",
+            "D.加快输液",
+            "E.强心剂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 85
+    },
+    {
+        "question_text": "86.休克病人经充分扩容后血压相对平稳，此时宜选用何种药物改善微循环",
+        "options": [
+            "A.低分子右旋糖酎",
+            "B.酚妥拉明",
+            "C.多巴酚丁胺",
+            "D.西地兰",
+            "E.糖皮质激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 86
+    },
+    {
+        "question_text": "87.常规抗休克措施应用后血压仍不理想的顽固性休克病人，必要时可试用哪种药物治疗",
+        "options": [
+            "A.低分子右旋糖酎",
+            "B.酚妥拉明",
+            "C.多巴酚丁胺",
+            "D.西地兰",
+            "E.糖皮质激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 87
+    },
+    {
+        "question_text": "1,纠正休克所并发的酸中毒的关键是",
+        "options": [
+            "A.及时使用大量碱性药物",
+            "B.过度通气",
+            "C.改善组织灌注",
+            "D.利尿排酸",
+            "E.提咼血压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 88
+    },
+    {
+        "question_text": "2,晚期休克并皮肤及消化道出血，怀疑DIC时，不宜使用下列那种药物",
+        "options": [
+            "A.EACA",
+            "B.肝素",
+            "C.潘生丁",
+            "D.抗血纤溶芳酸",
+            "E.止血剂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 89
+    },
+    {
+        "question_text": "3,休克病人补液后血压仍低，CVP不高，5-10分钟内静脉输入生理盐水250ml，如血压升高，CVP不变，提示",
+        "options": [
+            "A.心功能不全",
+            "B.血容量不足",
+            "C.血容量过多",
+            "D.血管张力过高",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 90
+    },
+    {
+        "question_text": "4.38岁男性，双大腿挤压伤，经初步抗休克治疗后，出现吸气性呼吸困难，吸纯氧未能改善呼吸。查:无紫绀，肺部啰音，胸透（-）。首先考虑",
+        "options": [
+            "A.输液过量",
+            "B.心功能不全",
+            "C.吸入性肺炎",
+            "D.ARDS",
+            "E.下呼吸道梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 91
+    },
+    {
+        "question_text": "5.出血性休克补液中，反应补充血容量成功最好的临床指标是",
+        "options": [
+            "A.口渴减轻",
+            "B.动脉血氧分压上升",
+            "C.血红蛋白上升",
+            "D.尿量增加",
+            "E.呼吸、脉搏减慢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 92
+    },
+    {
+        "question_text": "6.休克时血管扩张剂使用于",
+        "options": [
+            "A.补液足够，CVP正常，但BP、P仍未改善",
+            "B.血容量已补足，BP仍低，CVP不高者",
+            "C.治疗休克不能及时补足血容量",
+            "D.各种药物治疗无效，又有功能不良者",
+            "E.在蛛网膜下阻滞麻醉下，病人血压明显下降者"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 93
+    },
+    {
+        "question_text": "7.如CVP正常，BP低不能肯定是心功能不全或血容量不足时，正确处理是",
+        "options": [
+            "A.减慢输液",
+            "B.暂停输液",
+            "C.强心治疗",
+            "D.补液试验",
+            "E.继续观察"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 94
+    },
+    {
+        "question_text": "8.有关休克的叙述中，错误的是",
+        "options": [
+            "A.是有效血容量急剧减少",
+            "B.脑动脉和冠状动脉收缩不明显",
+            "C.其本质是血压下降",
+            "D.肾血流量和滤过率下降",
+            "E.抑制期毛细血管容量增大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 95
+    },
+    {
+        "question_text": "9.休克时乳酸盐/丙酮酸盐（L/P）正常值是",
+        "options": [
+            "A.10:1",
+            "B.15:1",
+            "C.20:1",
+            "D.5:1",
+            "E.1:1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 96
+    },
+    {
+        "question_text": "10.休克指数多少提示严重休克",
+        "options": [
+            "A.>0.5",
+            "B.>0.8",
+            "C.>1.0",
+            "D.>1.5",
+            "E.>2.0"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 97
+    },
+    {
+        "question_text": "11.CVP大于15厘米水柱，不提示",
+        "options": [
+            "A.心功能不全",
+            "B.静脉血管床过度收缩",
+            "C.肺循环阻力高",
+            "D.血容量不足",
+            "E.胸腔内压力过高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 98
+    },
+    {
+        "question_text": "12.补充血容量错误的是，首先采用",
+        "options": [
+            "A.晶体",
+            "B.胶体",
+            "C.输血",
+            "D.葡萄糖",
+            "E.7.5%盐水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 99
+    },
+    {
+        "question_text": "13.颈内静脉刀刺伤，首先应",
+        "options": [
+            "A.建立静脉输液通路",
+            "B.输血",
+            "C.压迫止血",
+            "D.维持呼吸道通畅",
+            "E.立即进入手术室"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 100
+    },
+    {
+        "question_text": "14.车祸致脾破裂，首先应该",
+        "options": [
+            "A.尽快纠正低血容量",
+            "B.立即手术止血",
+            "C.继续观察",
+            "D.不断地大量输血",
+            "E.维持呼吸道通畅"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 101
+    },
+    {
+        "question_text": "15.肝脓肿导致感染性休克，正确的治疗是",
+        "options": [
+            "A.使用广谱抗生素",
+            "B.根据药敏试验调整抗生素",
+            "C.尽快纠正低血容量后行肝脓肿引流",
+            "D.立即行肝浓重引流",
+            "E.尽快恢复血容量，同时大剂量应用皮质激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 102
+    },
+    {
+        "question_text": "16.下列关于休克的叙述.，那项是正确的？",
+        "options": [
+            "A.通常在迅速失血超过全身总血量的10%时即出现休克",
+            "B.失血性休克时，应首先快速输入10%-50%葡萄糖溶液，继之大量输血",
+            "C.损伤性休克不属于低血容量性休克",
+            "D.感染性休克多是革兰阴性杆菌所释放的内毒素引起的内毒素性休克",
+            "E.感染性休克的治疗原则是首先控制感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 103
+    },
+    {
+        "question_text": "17.当病人出现血容量不足的症状时，说明在短期内体液丧失至少已达体重的",
+        "options": [
+            "A.3%",
+            "B.5%",
+            "C.7%",
+            "D.10%",
+            "E.15%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 104
+    },
+    {
+        "question_text": "18.下列哪项关于中心静脉压的叙述是不正确的？?",
+        "options": [
+            "A.中心静脉压的正常值是0.49-0.98kPa(5-10cmH20)",
+            "B.中心静脉压的变化一般比动脉压变化较晚",
+            "C.中心静脉压低于0.49kPa(5cmH20)时，表示血容量不足",
+            "D.中心静脉压高于1.47kPa(15cmH20)时，提示有肺循环阻力增加，心功能不全",
+            "E.中心静脉压受血容量、静脉血管张力等因素的影响"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 105
+    },
+    {
+        "question_text": "19.休克病人采取何种体位最合理",
+        "options": [
+            "A.头低15°，足高25°",
+            "B.平卧位",
+            "C.头躯干抬高20-30°，下肢抬高15-20°",
+            "D.侧卧位",
+            "E.下肢下垂15-20"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 106
+    },
+    {
+        "question_text": "20.应根据以下哪项合理选择血管活性药物",
+        "options": [
+            "A.血压的高低",
+            "B.心跳的快慢",
+            "C.休克的类型和阶段",
+            "D.病人的神志",
+            "E.尿量的多少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 107
+    },
+    {
+        "question_text": "21.有效的循环血容量一般不依赖于",
+        "options": [
+            "A.充足的血容量",
+            "B.通畅的微循环",
+            "C.有效的心排出量",
+            "D.良好的周围血管张力",
+            "E.正常的心功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 108
+    },
+    {
+        "question_text": "22.外科最少见的休克是",
+        "options": [
+            "A.低血容量性休克",
+            "B.损伤性休克",
+            "C.感染性休克",
+            "D.过敏性休克",
+            "E.失血性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 109
+    },
+    {
+        "question_text": "23.外科休克的治疗原则不包括",
+        "options": [
+            "A.尽早祛除引起休克的原因",
+            "B.尽快恢复有效血容量",
+            "C.增进心功能",
+            "D.纠正微循环障碍",
+            "E.及时应用血管扩张剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 110
+    },
+    {
+        "question_text": "24.SIRs不包括",
+        "options": [
+            "A.体温>38°C或V36°C",
+            "B.心率90次/分钟",
+            "C.呼吸急促>20次/分钟或过度通气，PaCO2<4.3kPa",
+            "D.CVP<5cmH2O",
+            "E.WBC〉12x109/L或未成熟WBC>10%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 111
+    },
+    {
+        "question_text": "25.低排高阻型休克的原因是",
+        "options": [
+            "A.G-杆菌感染",
+            "B.G+杆菌感染",
+            "C.急性失血超过血容量的30%",
+            "D.挤压伤",
+            "E.青霉素过敏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 112
+    },
+    {
+        "question_text": "26.感染性休克时使用糖皮质激素，哪项是错误的",
+        "options": [
+            "A.限于早期使用",
+            "B.缓解SIRS",
+            "C.大剂量使用(10-20倍正常用量)",
+            "D.维持使用1周左右",
+            "E.可引起免疫抑制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 113
+    },
+    {
+        "question_text": "27.感染性休克时使用血管活性药物的首要目标是",
+        "options": [
+            "A.改善微循环",
+            "B.提咼血压",
+            "C.复苏",
+            "D.维持脏器灌注",
+            "E.改善肾功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 114
+    },
+    {
+        "question_text": "28.发生酸中毒较早的休克类型是",
+        "options": [
+            "A.感染性休克",
+            "B.损伤性休克",
+            "C.失血性休克",
+            "D.过敏性休克",
+            "E.神经源性休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 115
+    },
+    {
+        "question_text": "29.在休克治疗过程中，耗”值是",
+        "options": [
+            "A.D02>500ml/min.m2，3.5L/min.m2",
+            "B.D02>400ml/min.m2，2.5L/min.m2",
+            "C.D02>600ml/min.m2，4.5L/min.m2",
+            "D.D02>600ml/min.m2，4.5L/min.m2",
+            "E.D02>400ml/min.m2，5.5L/min.m2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 116
+    },
+    {
+        "question_text": "30.关于PCWP叙述哪项是错误的",
+        "options": [
+            "A.置管时可引起气胸",
+            "B.正常值为6-15mmHg",
+            "C.反映左房压力",
+            "D.评估血容量不足时，较CVP反应慢",
+            "E.可获得测量混合静脉血气分析的血标本"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 117
+    },
+    {
+        "question_text": "31.各类休克的共同点是",
+        "options": [
+            "A.血压下降",
+            "B.有效循环血量的急剧减少",
+            "C.皮肤苍白",
+            "D.四肢湿冷",
+            "E.烦躁不安"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 118
+    },
+    {
+        "question_text": "32.所谓有效循环血量是指",
+        "options": [
+            "A.在微循环内的总血量",
+            "B.全身总血量",
+            "C.单位时间内通过心血管系统进行循环的血量",
+            "D.在动脉内的血量",
+            "E.在静脉内的血量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 119
+    },
+    {
+        "question_text": "33.严重低灌注导致炎症的基本原因是",
+        "options": [
+            "A.局部缺血和再灌注的病理生理",
+            "B.胃肠道组织易位",
+            "C.乳酸对炎症细胞的刺激",
+            "D.激活连锁凝固反应",
+            "E.激活局部缺血巨噬细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 120
+    },
+    {
+        "question_text": "34.下列哪种休克的微循环变化和内脏继发性损害比较严重？",
+        "options": [
+            "A.心源性休克",
+            "B.低血容量性休克",
+            "C.感染性休克",
+            "D.过敏性休克",
+            "E.神经原性休克"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 121
+    },
+    {
+        "question_text": "35.下列哪项是各类休克的共同点",
+        "options": [
+            "A.前负荷降低",
+            "B.血压下降",
+            "C.后负荷降低",
+            "D.皮肤温度下降",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 122
+    },
+    {
+        "question_text": "36.休克时应用血管活性药物的主要目的是",
+        "options": [
+            "A.提咼心脏前负荷",
+            "B.增加心脏后负荷",
+            "C.增加心肌收缩力",
+            "D.提高组织的血液灌流量",
+            "E.降低组织代谢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 123
+    },
+    {
+        "question_text": "37.休克失代偿期的微循环变化主要有",
+        "options": [
+            "A.微循环收缩期",
+            "B.微循环扩张期",
+            "C.微循环衰竭期",
+            "D.直接通道开放",
+            "E.动静脉短路开放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 124
+    },
+    {
+        "question_text": "38.应根据下列哪项来合理选择血管活性药物",
+        "options": [
+            "A.血压的高低",
+            "B.心跳的快慢",
+            "C.休克的类型和阶段",
+            "D.病人的神志情况",
+            "E.尿量的多少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 125
+    },
+    {
+        "question_text": "39.除了下列哪项严重炎症可产生循环上的变化",
+        "options": [
+            "A.血容量减少导致静脉回流减少",
+            "B.心肌衰竭",
+            "C.微循环不足",
+            "D.胸内压升高引起静脉回流减少",
+            "E.肺血管阻力增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 126
+    },
+    {
+        "question_text": "40.休克出现弥漫性血管内凝血（DIC）的征象时应行下列哪项治疗",
+        "options": [
+            "A.鱼精蛋白",
+            "B.肝素",
+            "C.维生素K",
+            "D.激素",
+            "E.止血敏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 127
+    },
+    {
+        "question_text": "41.严重低血容量性低灌注的最常见原因是",
+        "options": [
+            "A.出血",
+            "B.烧伤",
+            "C.腹膜炎",
+            "D.脓毒症",
+            "E.脊髓损伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 128
+    },
+    {
+        "question_text": "42.血容量不足时心输出量减少的主要原因是",
+        "options": [
+            "A.全身血管阻力增加",
+            "B.静脉回流减少",
+            "C.心肌局部缺血",
+            "D.肺血管阻力增加",
+            "E.低血红蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 129
+    },
+    {
+        "question_text": "43.—名70kg的男性，血容量丢失20%，使血容量恢复正常需输等渗电解质溶液量为",
+        "options": [
+            "A.500ml",
+            "B.1500ml",
+            "C.3000ml",
+            "D.4500ml",
+            "E.6000ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 130
+    },
+    {
+        "question_text": "44.一名45岁男性以呕血入院，他的血压是90/60mmHg，脉率为120次/分，且多汗烦躁。对其烦躁最好的治疗是",
+        "options": [
+            "A.静脉内用安定",
+            "B.快速静脉补液",
+            "C.给予肌注氯丙嗪",
+            "D.鼻吸氧",
+            "E.制动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 131
+    },
+    {
+        "question_text": "45.严重低容量性低灌注情况下，对容量复苏是否足够，最实用、最客观的临床监测是测定",
+        "options": [
+            "A.持续乳酸盐水平",
+            "B.精神状态",
+            "C.尿量",
+            "D.血压",
+            "E.动脉血气"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 132
+    },
+    {
+        "question_text": "46.随着严重炎症进展至心源性低灌注",
+        "options": [
+            "A.心输出量增加",
+            "B.肺动脉闭合压降低",
+            "C.动脉乳酸盐水平降低",
+            "D.氧输入减少",
+            "E.呼吸频率减少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 133
+    },
+    {
+        "question_text": "47.严重炎症时改善血压和心输出量的首选治疗方法是",
+        "options": [
+            "A.给予多巴胺",
+            "B.给予多巴酚丁胺",
+            "C.给予硝酸盐",
+            "D.静脉补液",
+            "E.给予类固醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 134
+    },
+    {
+        "question_text": "48.治疗严重炎症患者最主要的原则是下列哪项",
+        "options": [
+            "A.增加氧供及氧耗",
+            "B.诊断和治疗原发病",
+            "C.维持尿量",
+            "D.给予抗炎类固醇",
+            "E.正确应用缩血管药物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 135
+    },
+    {
+        "question_text": "49.心原性休克与严重低容量性低灌注的区别在于",
+        "options": [
+            "A.低血容量时心输出量减少",
+            "B.血管收缩程度",
+            "C.少尿",
+            "D.精神迟钝",
+            "E.右侧和左侧心室充盈压测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 136
+    },
+    {
+        "question_text": "50.急性出血",
+        "options": [
+            "A.动脉乳酸盐升高",
+            "B.血糖升高",
+            "C.两者全是",
+            "D.两者全不是",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 137
+    },
+    {
+        "question_text": "51.诊断低血容量性灌注必需具备",
+        "options": [
+            "A.动脉乳酸盐升高",
+            "B.血糖升高",
+            "C.两者全是",
+            "D.两者都不是",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 138
+    },
+    {
+        "question_text": "52.儿茶酚胺升高引起的反应",
+        "options": [
+            "A.动脉乳酸盐升高",
+            "B.血糖升高",
+            "C.两者全是",
+            "D.两者全不",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 139
+    },
+    {
+        "question_text": "53.血容量恢复后，严重炎症引起的肌力过度反应的特征是",
+        "options": [
+            "A.氧耗量降低",
+            "B.肺内分流减少",
+            "C.外周血管阻力增加",
+            "D.心输出量增加",
+            "E.通常应用血管活性药物，去甲肾上腺素和肾上腺素有效"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 140
+    },
+    {
+        "question_text": "54.严重低血容量性低关注时，对血液动力学参数影响最大的激素是",
+        "options": [
+            "A.去甲肾上腺素和肾上腺素",
+            "B.胰岛素和胰高血糖素",
+            "C.糖皮质激素",
+            "D.盐皮质激素",
+            "E.抗利尿激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 141
+    },
+    {
+        "question_text": "55.严重低容量性低灌注和严重炎症的生化作用特征是",
+        "options": [
+            "A.糖异生减少",
+            "B.糖皮质激素释放减少",
+            "C.肌肉损伤增加",
+            "D.糖原储存增加",
+            "E.血糖升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 142
+    },
+    {
+        "question_text": "56.正常静止时氧耗为",
+        "options": [
+            "A.250ml/min",
+            "B.100ml/min",
+            "C.500ml/min",
+            "D.2500ml/min",
+            "E.1500ml/min"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 143
+    },
+    {
+        "question_text": "57.最精确的氧耗量预测是",
+        "options": [
+            "A.中心静脉压",
+            "B.混合静脉氧含量",
+            "C.动脉氧饱和度",
+            "D.动静脉氧差",
+            "E.肺毛细血管楔压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "144",
+        "number": 144
+    }
+]

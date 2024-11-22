@@ -1,0 +1,613 @@
+[
+    {
+        "question_text": "1.幼虫寄生于人组织中，破裂后能引起过敏性休克的寄生虫是",
+        "options": [
+            "A.包生绦虫",
+            "B.猪带绦虫",
+            "C.旋毛虫",
+            "D.肺吸虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 1
+    },
+    {
+        "question_text": "2.包生绦虫的中间宿主是",
+        "options": [
+            "A.猫",
+            "B.狗",
+            "C.人、羊、牛",
+            "D.鱼、虾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 2
+    },
+    {
+        "question_text": "3.人粪便中检测不到的寄生虫卵是",
+        "options": [
+            "A.肺吸虫卵",
+            "B.猪带绦虫卵",
+            "C.血吸虫卵",
+            "D.包生绦虫卵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 3
+    },
+    {
+        "question_text": "4.成虫不在人体内内寄生的寄生虫是",
+        "options": [
+            "A.血吸虫",
+            "B.肺吸虫",
+            "C.包生绦虫",
+            "D.旋毛虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 4
+    },
+    {
+        "question_text": "5.包生绦虫的终宿主是",
+        "options": [
+            "A.狗、狼",
+            "B.人",
+            "C.鱼",
+            "D.骆驼"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 5
+    },
+    {
+        "question_text": "6.细粒棘球绦虫的原头蚴在终宿主体内可发育为",
+        "options": [
+            "A.新的棘球蚴",
+            "B.子囊",
+            "C.生发囊",
+            "D.成虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 6
+    },
+    {
+        "question_text": "7.对棘球蚴病的进行病原学诊断时，不能采取的方法是",
+        "options": [
+            "A.手术摘除物镜检",
+            "B.从痰液中检出原头蚴",
+            "C.直接对可疑病灶穿刺取样检查",
+            "D.去腹水检查原头蚴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 7
+    },
+    {
+        "question_text": "8.误食新鲜虫卵即能引起感染的是",
+        "options": [
+            "A.蛔虫卵",
+            "B.钩虫卵",
+            "C.血吸虫卵",
+            "D.绦虫卵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 8
+    },
+    {
+        "question_text": "9.包生绦虫的棘球蚴在人体最常见的寄生部位是",
+        "options": [
+            "A.肌肉",
+            "B.肝",
+            "C.皮肤",
+            "D.小肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列行为中，不会得棘球蚴病的是",
+        "options": [
+            "A.误食病犬肉类",
+            "B.剪羊毛、加工皮毛",
+            "C.与牧羊犬亲昵",
+            "D.食入被病犬粪污染的蔬菜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 10
+    },
+    {
+        "question_text": "11.能引起脑损害的人体寄生虫是",
+        "options": [
+            "A.钩虫",
+            "B.蛔虫",
+            "C.猪囊尾蚴",
+            "D.牛囊尾蚴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 11
+    },
+    {
+        "question_text": "12.牛带绦虫的头节的形态特点是",
+        "options": [
+            "A.吸盘4个，小钩2圈",
+            "B.吸盘4个，有顶突",
+            "C.吸盘4个，无小钩",
+            "D.吸盘2个，小钩2圈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 12
+    },
+    {
+        "question_text": "13.可引起自体内重复感染的绦虫是",
+        "options": [
+            "A.猪带绦虫",
+            "B.包生绦虫",
+            "C.牛带绦虫",
+            "D.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 13
+    },
+    {
+        "question_text": "14.猪带绦虫头节的形态有",
+        "options": [
+            "A.吸盘4个，小钩2圈",
+            "B.吸盘4个，无顶突",
+            "C.吸盘4个，无小钩",
+            "D.吸盘4个，小钩2圈，有顶突"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 14
+    },
+    {
+        "question_text": "15.牛肉中的囊尾蚴可使人感人",
+        "options": [
+            "A.猪囊尾蚴病",
+            "B.牛囊尾蚴病",
+            "C.牛带绦虫病",
+            "D.棘球蚴病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 15
+    },
+    {
+        "question_text": "16.成节内卵巢分为2叶的绦虫是",
+        "options": [
+            "A.曼氏迭宫绦虫",
+            "B.猪带绦虫",
+            "C.牛带绦虫",
+            "D.包生绦虫"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 16
+    },
+    {
+        "question_text": "17.成节内卵巢分为3叶的绦虫是",
+        "options": [
+            "A.曼氏迭宫绦虫",
+            "B.猪带绦虫",
+            "C.牛带绦虫",
+            "D.包生绦虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 17
+    },
+    {
+        "question_text": "18.猪带绦虫对人体危害最严重的是",
+        "options": [
+            "A.成虫致病",
+            "B.囊尾蚴致病",
+            "C.六钩蚴穿过肠壁时造成的损伤",
+            "D.幼虫囊包致病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 18
+    },
+    {
+        "question_text": "19.绦虫成虫寄生于",
+        "options": [
+            "A.组织",
+            "B.血管",
+            "C.消化道",
+            "D.肝脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 19
+    },
+    {
+        "question_text": "20.祖国医学中记载的寸白虫是指",
+        "options": [
+            "A.蛲虫",
+            "B.钩虫",
+            "C.猪带绦虫和牛带绦虫",
+            "D.包生绦虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于绦虫的形态描述错误的是",
+        "options": [
+            "A.无消化道",
+            "B.虫体分节",
+            "C.雌雄异体",
+            "D.虫体背腹扁平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 21
+    },
+    {
+        "question_text": "22.包生绦虫对人的感染阶段是",
+        "options": [
+            "A.棘球蚴",
+            "B.六钩蚴",
+            "C.囊尾蚴",
+            "D.虫卵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 22
+    },
+    {
+        "question_text": "23.牛带绦虫孕节子宫侧支数位",
+        "options": [
+            "A.15~30支",
+            "B.10~20支",
+            "C.40支以上",
+            "D.5~13支"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 23
+    },
+    {
+        "question_text": "24.棘球蚴病的诊断依据为",
+        "options": [
+            "A.CT准确地检测出各种病理影像",
+            "B.血清学检查强阳性",
+            "C.手术取出棘球蚴或检获棘球蚴碎片",
+            "D.B超准确地检测出各种病理影像"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 24
+    },
+    {
+        "question_text": "25.包生绦虫成虫寄生于",
+        "options": [
+            "A.牛",
+            "B.猪",
+            "C.人",
+            "D.犬"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 25
+    },
+    {
+        "question_text": "26.带绦虫病治愈的重要依据是驱虫后粪便中找到",
+        "options": [
+            "A.头节",
+            "B.成节",
+            "C.孕节",
+            "D.囊尾蚴"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 26
+    },
+    {
+        "question_text": "27.下列关于牛带绦虫成虫的描述错误的是",
+        "options": [
+            "A.成虫长2~4米",
+            "B.有4个吸盘，无顶突，无小钩",
+            "C.成虫长4~8米",
+            "D.成虫内卵巢分2叶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 27
+    },
+    {
+        "question_text": "28.不属于猪带绦虫和牛带绦虫的主要鉴别的是",
+        "options": [
+            "A.头节的外形",
+            "B.虫体的长度",
+            "C.虫卵的特征",
+            "D.孕节侧支数"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 28
+    },
+    {
+        "question_text": "29.猪囊尾蚴寄生于人体最多的部位是",
+        "options": [
+            "A.皮下组织",
+            "B.肌肉",
+            "C.肝",
+            "D.脑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 29
+    },
+    {
+        "question_text": "30.猪带绦虫的终宿主是",
+        "options": [
+            "A.人和猪",
+            "B.猪",
+            "C.人",
+            "D.犬"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 30
+    },
+    {
+        "question_text": "31.人患猪带绦虫病是由于",
+        "options": [
+            "A.食入猪带绦虫卵",
+            "B.食入猪肉中的猪囊尾蚴",
+            "C.食入猪带绦虫的孕节",
+            "D.食入猪肉中的囊蚴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 31
+    },
+    {
+        "question_text": "32.预防猪带绦虫感染最关键的是",
+        "options": [
+            "A.粪便管理",
+            "B.肉类检疫",
+            "C.不食生的或未煮熟的猪肉",
+            "D.治疗病人"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 32
+    },
+    {
+        "question_text": "33.确诊猪带绦虫病的最佳诊断方法是",
+        "options": [
+            "A.粪便直接涂片法查虫卵",
+            "B.活组织检查囊尾蚴",
+            "C.检查孕节子宫侧支数",
+            "D.饱和盐水漂浮法查虫卵"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 33
+    },
+    {
+        "question_text": "34.人可作为终宿主又可作为中间宿主寄生的寄生虫是",
+        "options": [
+            "A.贾第虫",
+            "B.猪带绦虫",
+            "C.牛带绦虫",
+            "D.包生绦虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 34
+    },
+    {
+        "question_text": "35.不属于猪带绦虫成虫头节的形态结构特征的是",
+        "options": [
+            "A.呈方形",
+            "B.呈圆球形",
+            "C.有小钩",
+            "D.有顶突"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 35
+    },
+    {
+        "question_text": "36.排出时即对人体具有感染性的卵是",
+        "options": [
+            "A.牛带绦虫卵",
+            "B.猪带绦虫卵",
+            "C.钩虫卵",
+            "D.血吸虫卵"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 36
+    },
+    {
+        "question_text": "37.牛带绦虫和猪带绦虫生活史不同点的是",
+        "options": [
+            "A.感染阶段是囊尾蚴",
+            "B.人是终宿主",
+            "C.感染阶段是虫卵",
+            "D.成虫寄生于人的小肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 37
+    },
+    {
+        "question_text": "38.不属于猪带绦虫成虫的形态结构特征的是",
+        "options": [
+            "A.扁平、分节",
+            "B.长2~4米",
+            "C.雌雄异体",
+            "D.有700~1000个节片"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 38
+    },
+    {
+        "question_text": "39.最具有诊断价值的带绦虫卵的形态结构特征是",
+        "options": [
+            "A.呈圆球形",
+            "B.棕黄色",
+            "C.有放射状胚膜",
+            "D.卵壳常脱落"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 39
+    },
+    {
+        "question_text": "40.成虫寄生于人体小肠中，幼虫寄生于人体组织中 c的寄生虫是",
+        "options": [
+            "A.肺吸虫",
+            "B.肝吸虫",
+            "C.血吸虫",
+            "D.猪带绦虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 40
+    },
+    {
+        "question_text": "41.确诊脑囊尾蚴病的最有效方法是",
+        "options": [
+            "A.脑部CT",
+            "B.粪检虫卵",
+            "C.脑脊液免疫学检查",
+            "D.X线扫描"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 41
+    },
+    {
+        "question_text": "42.人体感染猪囊尾蚴病是由于",
+        "options": [
+            "A.经皮肤感染六钩蚴",
+            "B.经口感染猪囊尾蚴",
+            "C.经口食入猪带绦虫卵",
+            "D.经口感染棘球蚴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 42
+    },
+    {
+        "question_text": "43.幼虫不在人体内寄生的寄生虫是",
+        "options": [
+            "A.猪带绦虫",
+            "B.包生绦虫",
+            "C.牛带绦虫",
+            "D.旋毛虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 43
+    },
+    {
+        "question_text": "44.猪带绦虫比牛带绦虫对人的危害大是因为",
+        "options": [
+            "A.牛带绦虫成虫在人体内的寄生量少",
+            "B.猪带绦虫的囊尾蚴寄生于人体",
+            "C.猪带绦虫成虫致病性强",
+            "D.六钩蚴穿过组织时的破坏作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 44
+    },
+    {
+        "question_text": "45.诊断脑囊尾蚴病，有重要意义的临床表现是",
+        "options": [
+            "A.恶心、呕吐、腹泻",
+            "B.视力下降",
+            "C.头痛、癫痫",
+            "D.下肢水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 45
+    },
+    {
+        "question_text": "46.猪带绦虫生活史中对人危害最严重的阶段是",
+        "options": [
+            "A.原头蚴",
+            "B.虫卵",
+            "C.囊尾蚴",
+            "D.六钩蚴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 46
+    },
+    {
+        "question_text": "47.可查到猪囊尾蚴的病人标本是",
+        "options": [
+            "A.皮下结节",
+            "B.粪便",
+            "C.脑脊液",
+            "D.血液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 47
+    }
+]

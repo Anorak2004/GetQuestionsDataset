@@ -1,0 +1,1332 @@
+[
+    {
+        "question_text": "701.下列关于食管下括约肌的叙述.正确的是",
+        "options": [
+            "A.由环行肌极度增厚而形成",
+            "B.其静息张力低于大气压",
+            "C.食管蠕动波到达时舒张",
+            "D.主要受激素调节",
+            "E.由骨骼肌构成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 1
+    },
+    {
+        "question_text": "702.下列各项中不是促胃液素的生理作用的是",
+        "options": [
+            "A.促进壁细胞分泌大量HCl",
+            "B.促进胃腺黏液细胞分泌大量黏液",
+            "C.促进胃运动",
+            "D.促进胃肠黏膜上皮细胞生长",
+            "E.轻度刺激主细胞分泌胃蛋白酶原"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 2
+    },
+    {
+        "question_text": "703.下列各种物质中能促使胃蛋白酶原转变为胃 蛋白酶的是",
+        "options": [
+            "A.氯离子",
+            "B.HCl",
+            "C.钾离子",
+            "D.钠离子",
+            "E.内因子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 3
+    },
+    {
+        "question_text": "704.下列各种因素不能刺激胃酸分泌的是",
+        "options": [
+            "A.促胰液素",
+            "B.迷走-迷走反射",
+            "C.局部神经丛反射",
+            "D.蛋白质消化产物",
+            "E.食物的机械扩张作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 4
+    },
+    {
+        "question_text": "705.下列各项中不属于胃酸的生理作用的是",
+        "options": [
+            "A.激活胃蛋白酶原",
+            "B.使食物中蛋白质变性易于分解",
+            "C.杀死进入胃内的细菌",
+            "D.促进维生素B12的吸收",
+            "E.分解食物中的结缔组织和肌纤维"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 5
+    },
+    {
+        "question_text": "706.下列关于壁细胞质子泵的叙述.错误的是",
+        "options": [
+            "A.存在于顶端膜内凹的分泌小管膜上",
+            "B.是一种氢-钾依赖式的ATP酶",
+            "C.抑制质子泵不影响胃酸的分泌",
+            "D.分泌氢离子同时伴有钾离子进入细胞",
+            "E.分泌氢离子同时伴有碳酸氢根移出细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 6
+    },
+    {
+        "question_text": "707.纯清胃液的pH为",
+        "options": [
+            "A.0.9--1.5",
+            "B.2.0--2.5",
+            "C.2.5--3.5",
+            "D.3.5--4.5",
+            "E.4.5--5.0"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 7
+    },
+    {
+        "question_text": "708.下列关于胃黏膜细胞的叙述.错误的是",
+        "options": [
+            "A.壁细胞只分泌盐酸",
+            "B.主细胞分泌胃蛋白酶原",
+            "C.肠嗜铬细胞分泌组胺",
+            "D.D细胞分泌生长抑素",
+            "E.G细胞分泌促胃液素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 8
+    },
+    {
+        "question_text": "709.可抑制促胃液素泌酸作用的物质是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.组胺",
+            "C.肾上腺皮质激素",
+            "D.西咪替丁",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 9
+    },
+    {
+        "question_text": "710.下列各种物质中不能促进胃液分泌的是",
+        "options": [
+            "A.促胰液素",
+            "B.乙醇",
+            "C.低血糖",
+            "D.咖啡因",
+            "E.钙离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 10
+    },
+    {
+        "question_text": "711.下列各种因素中不能刺激胃窦部释放促胃液 素的是",
+        "options": [
+            "A.GRP",
+            "B.乙酰胆碱",
+            "C.脂肪",
+            "D.扩张刺激",
+            "E.蛋白质消化产物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 11
+    },
+    {
+        "question_text": "712.下列各项中不属于胃液的生理作用的是",
+        "options": [
+            "A.杀菌",
+            "B.激活胃蛋白酶原",
+            "C.水解蛋白质",
+            "D.初步消化淀粉",
+            "E.促进维生素B12吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 12
+    },
+    {
+        "question_text": "713.下列关于内源性促胃液分泌物对壁细胞作用 机制的叙述.正确的是",
+        "options": [
+            "A.乙酰胆碱作用于M1受体升高细胞内cAMP",
+            "B.乙酰胆碱作用于M2受体升高细胞内cGMP",
+            "C.促胃液素作用于CCK-B/促胃液素受体升高细胞 内 cAMP",
+            "D.组胺作用于H1受体升高细胞内钙离子",
+            "E.组胺作用于H2受体升高细胞内cAMP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 13
+    },
+    {
+        "question_text": "714.下列关于胃黏液-碳酸氢盐屏障的叙述.错误 的是",
+        "options": [
+            "A.与胃黏膜屏障是同一概念",
+            "B.由黏液及胃黏膜分泌的碳酸氢根组成",
+            "C.使胃黏膜表面处于中性或偏碱性状态",
+            "D.防止胃酸及胃蛋白酶对胃黏膜的侵蚀",
+            "E.保护胃黏膜免受食物的摩擦损伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 14
+    },
+    {
+        "question_text": "715.下列关于胃酸分泌调节的叙述.正确的是",
+        "options": [
+            "A.头期为纯神经调节",
+            "B.胃期由神经和体液因素共同参与",
+            "C.胃期约占总分泌量的30%",
+            "D.肠期为纯体液调节",
+            "E.三个时期的分泌顺序发生，互不重叠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 15
+    },
+    {
+        "question_text": "716.下列关于胃容受性舒张的叙述.正确的是",
+        "options": [
+            "A.切断迷走神经后消失",
+            "B.被食管下括约肌的舒张所触发",
+            "C.主要发生在胃的尾区",
+            "D.伴有胃内压升高",
+            "E.可被阿托品所取消"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 16
+    },
+    {
+        "question_text": "717.下列关于胃排空的叙述.正确的是",
+        "options": [
+            "A.食物入胃后30分钟开始排空",
+            "B.高张溶液比等张溶液排空快",
+            "C.普通混合食物完全排空需2--3小时",
+            "D.排空速度为糖〉脂肪〉蛋白质",
+            "E.人的情绪也能影响排空"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 17
+    },
+    {
+        "question_text": "718.胃特有的运动形式是",
+        "options": [
+            "A.紧张性收缩",
+            "B.蠕动",
+            "C.逆蠕动",
+            "D.容受性舒张",
+            "E.分节运动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 18
+    },
+    {
+        "question_text": "719.切断胃迷走神经的传入纤维将导致",
+        "options": [
+            "A.降低假饲引起的胃液分泌",
+            "B.降低蛋白质消化产物引起的胃液分泌",
+            "C.降低扩张胃引起的酸分泌",
+            "D.降低生长抑素的释放",
+            "E.增加组胺引起的酸分泌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 19
+    },
+    {
+        "question_text": "720.下列关于呕吐的叙述.正确的是",
+        "options": [
+            "A.呕吐中枢位于下丘脑",
+            "B.感受器仅位于消化道内",
+            "C.主要为小肠逆蠕动所致",
+            "D.由胃肌收缩所致",
+            "E.对机体有利有害"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 20
+    },
+    {
+        "question_text": "721.下列关于胰液的叙述.正确的是",
+        "options": [
+            "A.胰液的pH值约为7.0",
+            "B.其分泌主要受神经调节",
+            "C.在非消化期几乎不分泌",
+            "D.胰酶主要由小导管细胞分泌",
+            "E.每日分泌量约为0.6--0.8L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 21
+    },
+    {
+        "question_text": "722.使胰蛋白酶原激活的主要物质是",
+        "options": [
+            "A.HCl",
+            "B.肠激酶",
+            "C.碳酸氢根",
+            "D.胰蛋白酶",
+            "E.糜蛋白酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 22
+    },
+    {
+        "question_text": "723.酸性食糜进入小肠引起大量胰液分泌的主要 机制是",
+        "options": [
+            "A.交感神经兴奋",
+            "B.迷走神经兴奋",
+            "C.小肠黏膜释放促胃液素",
+            "D.小肠黏膜释放缩胆囊素",
+            "E.小肠黏膜释放促胰液素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 23
+    },
+    {
+        "question_text": "724.迷走神经对胰腺分泌的调节是",
+        "options": [
+            "A.引起酶多、水和碳酸氢根少的分泌",
+            "B.引起水、碳酸氢根多而酶少的分泌",
+            "C.引起水、碳酸氢根和酶均多的分泌",
+            "D.无明显的促进作用",
+            "E.起明显的抑制作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 24
+    },
+    {
+        "question_text": "725.胆汁中与食物消化有关的成分是",
+        "options": [
+            "A.胆盐",
+            "B.胆色素",
+            "C.胆固醇",
+            "D.脂肪酸",
+            "E.卵磷脂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 25
+    },
+    {
+        "question_text": "726.在消化期促进肝细胞分泌胆汁最重要的刺激 是",
+        "options": [
+            "A.缩胆囊素",
+            "B.促胰液素",
+            "C.胆盐",
+            "D.盐酸",
+            "E.迷走神经兴奋"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 26
+    },
+    {
+        "question_text": "727.引起胆囊收缩最重要的体液因素是",
+        "options": [
+            "A.促胰液素",
+            "B.胆盐",
+            "C.胃泌素",
+            "D.内因子",
+            "E.缩胆囊素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 27
+    },
+    {
+        "question_text": "728.最重要的消化液是",
+        "options": [
+            "A.胃液",
+            "B.胰液",
+            "C.胆汁",
+            "D.小肠液",
+            "E.唾液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 28
+    },
+    {
+        "question_text": "729.下列各项中不属于胆汁的作用的是",
+        "options": [
+            "A.分解脂肪",
+            "B.乳化脂肪",
+            "C.促进脂肪吸收",
+            "D.刺激胆汁分泌",
+            "E.中和进入十二指肠内的胃酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 29
+    },
+    {
+        "question_text": "730.在壁细胞完全缺乏的人.下列情况不会发生 的是",
+        "options": [
+            "A.消化蛋白质能力降低",
+            "B.维生素B吸收减少",
+            "C.胃蛋白酶活性降低或消失",
+            "D.肠道细菌生长加速",
+            "E.胰碳酸氢盐分泌减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 30
+    },
+    {
+        "question_text": "731.缺乏肠激酶时.下列各种酶中活性将降低的 是",
+        "options": [
+            "A.胃蛋白酶",
+            "B.脂肪酶",
+            "C.糜蛋白酶",
+            "D.淀粉酶",
+            "E.蔗糖酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 31
+    },
+    {
+        "question_text": "*732.当远端回肠被切除后将导致胆汁酸在",
+        "options": [
+            "A.肝静脉血中的水平升高",
+            "B.肝门静脉血中的水平升高",
+            "C.肝细胞的分泌增加",
+            "D.胆囊的储存增加",
+            "E.肝细胞的合成增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 32
+    },
+    {
+        "question_text": "733.下列关于胆盐肝肠循环的叙述.正确的是",
+        "options": [
+            "A.胆盐在十二指肠被吸收",
+            "B.每次重吸收约80%",
+            "C.一次进餐后可循环6--8次",
+            "D.可促进胆囊收缩",
+            "E.可刺激胆汁分泌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 33
+    },
+    {
+        "question_text": "734.小肠特有的主要以环行肌舒缩为主的节律性 运动形式是",
+        "options": [
+            "A.紧张性收缩",
+            "B.蠕动",
+            "C.逆蠕动",
+            "D.集团运动",
+            "E.分节运动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 34
+    },
+    {
+        "question_text": "735.下列关于胆汁分泌与排出的叙述.正确的是",
+        "options": [
+            "A.肝细胞分泌胆汁是间断的",
+            "B.胆汁是持续进入十二指肠的",
+            "C.在食物消化期的头期和胃期胆囊收缩由CCK引 起",
+            "D.在食物消化的肠期胆囊收缩主要由迷走神经兴 奋引起",
+            "E.进食开始后数分钟胆囊便开始收缩排放胆汁"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 35
+    },
+    {
+        "question_text": "736.幼儿排便反射常发生在进餐后.这种情况下.引起结肠收缩的原因是",
+        "options": [
+            "A.胃-回肠反射",
+            "B.胃-结肠反射",
+            "C.迷走-迷走反射",
+            "D.局部神经丛反射",
+            "E.循环CCK水平升高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 36
+    },
+    {
+        "question_text": "737.食糜对肠黏膜的局部机械和化学性刺激引起 小肠液分泌.其机制是通过",
+        "options": [
+            "A.壁内神经丛局部反射",
+            "B.神经-内分泌反射",
+            "C.迷走-迷走反射",
+            "D.内脏大神经的兴奋性调节",
+            "E.刺激胃肠激素分泌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 37
+    },
+    {
+        "question_text": "738.增加肠黏膜cAMP含量的药物或毒物引起的腹 泻.是因为它们",
+        "options": [
+            "A.增加肠黏膜分泌氯离子",
+            "B.增加肠黏膜分泌钾离子",
+            "C.抑制肠黏膜吸收钾离子",
+            "D.增加肠黏膜吸收钠离子",
+            "E.增加肠黏膜同向转运钠离子、钾离子、氯离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 38
+    },
+    {
+        "question_text": "739.下列关于大肠功能的叙述.错误的是",
+        "options": [
+            "A.贮存食物残渣、形成粪便",
+            "B.大肠液有保护肠黏膜、润滑粪便的作用",
+            "C.大肠内的细菌可合成维生素B和K",
+            "D.大肠液的消化酶可分解纤维素",
+            "E.大肠的主要功能之一是吸收水分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 39
+    },
+    {
+        "question_text": "740.引起排便感的原因是",
+        "options": [
+            "A.横结肠积聚粪便",
+            "B.降结肠积聚粪便",
+            "C.乙状结肠积聚粪便",
+            "D.粪便进入直肠",
+            "E.粪便刺激肛门"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 40
+    },
+    {
+        "question_text": "741.下列关于人大肠内细菌作用的叙述.错误的 是",
+        "options": [
+            "A.使糖和脂肪发酵",
+            "B.使蛋白质腐败",
+            "C.分解纤维素",
+            "D.合成维生素B和K",
+            "E.使氨基酸转化为氨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 41
+    },
+    {
+        "question_text": "742.一次进食后的食物残渣全部从大肠排出约需",
+        "options": [
+            "A.6--8小时",
+            "B.8--12小时",
+            "C.12--18小时",
+            "D.18--24小时",
+            "E.24小时以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 42
+    },
+    {
+        "question_text": "743.水在各肠段被吸收和随粪便排出的量.由多 至少的排列顺序为",
+        "options": [
+            "A.结肠、空肠、回肠、粪便",
+            "B.空肠、回肠、结肠、粪便",
+            "C.结肠、回肠、空肠、粪便",
+            "D.粪便、结肠、回肠、空肠",
+            "E.粪便、空肠、回肠、结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 43
+    },
+    {
+        "question_text": "744.下列关于糖在小肠被吸收的叙述错误的是",
+        "options": [
+            "A.单糖是小肠吸收的唯一形式",
+            "B.单糖的吸收都与钠离子同向转运",
+            "C.果糖的吸收速度比葡萄糖快",
+            "D.果糖的吸收速度比半乳糖慢",
+            "E.哇巴因可抑制果糖的吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 44
+    },
+    {
+        "question_text": "745.下列关于蛋白质在小肠被吸收的叙述.正确 的是",
+        "options": [
+            "A.都以氨基酸的形式被吸收",
+            "B.氨基酸的吸收都与钠离子同向转运",
+            "C.各种氨基酸的转运体相同",
+            "D.婴儿小肠可吸收小量完整蛋白质",
+            "E.被吸收的完整蛋白质具有营养价值"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 45
+    },
+    {
+        "question_text": "746.在肠上皮细胞内.重新合成的三酰甘油与脱 辅基蛋白结合形成",
+        "options": [
+            "A.微胶粒",
+            "B.混合微胶粒",
+            "C.乳糜微粒",
+            "D.卵磷脂",
+            "E.胆固醇酯"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 46
+    },
+    {
+        "question_text": "747.可被胃黏膜吸收的物质是",
+        "options": [
+            "A.糖的消化产物",
+            "B.维生素",
+            "C.水和酒精",
+            "D.肽类物质",
+            "E.无机盐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 47
+    },
+    {
+        "question_text": "748.下列各种物质中可抑制胆固醇的吸收的是",
+        "options": [
+            "A.脂肪酸",
+            "B.脂肪",
+            "C.卵磷脂",
+            "D.植物固醇",
+            "E.胆盐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 48
+    },
+    {
+        "question_text": "749.下列关于铁在小肠被吸收的叙述.正确的是",
+        "options": [
+            "A.铁都以铁离子的形式被吸收",
+            "B.植酸、草酸、鞣酸可促进铁的吸收",
+            "C.胃酸及维生素C可抑制铁的吸收",
+            "D.血红蛋白中的铁不易被吸收",
+            "E.铁主要在十二指肠和空肠被吸收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 49
+    },
+    {
+        "question_text": "750.下列关于钙在小肠被吸收的叙述.错误的是",
+        "options": [
+            "A.机体缺钙或对钙的需要增加时吸收增加",
+            "B.维生素D可促进钙的吸收",
+            "C.只有离子状态的钙才能被吸收",
+            "D.草酸盐、磷酸盐、植酸抑制钙的吸收",
+            "E.胃酸及维生素C抑制钙的吸收"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 50
+    },
+    {
+        "question_text": "751.食物或食物残渣在消化道内停留时间最长的 部位是",
+        "options": [
+            "A.胃",
+            "B.十二指肠",
+            "C.空肠和回肠",
+            "D.结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 51
+    },
+    {
+        "question_text": "752.中、短链脂肪酸吸收后可直接进入",
+        "options": [
+            "A.肠绒毛毛细林巴管",
+            "B.肠绒毛毛细血管",
+            "C.乳糜池",
+            "D.胸导管",
+            "E.肝门静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 52
+    },
+    {
+        "question_text": "753.主要在回肠吸收的物质是",
+        "options": [
+            "A.葡萄糖",
+            "B.甘油",
+            "C.氨基酸",
+            "D.脂肪酸",
+            "E.维生素B12"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 53
+    },
+    {
+        "question_text": "*754.胃酸缺乏者可产生",
+        "options": [
+            "A.促胃液素分泌减少",
+            "B.胰液分泌增加",
+            "C.胆汁分泌增加",
+            "D.贫血",
+            "E.蛋白质消化障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 54
+    },
+    {
+        "question_text": "755.下列关于消化道平滑肌生理特性的叙述.正 确的是",
+        "options": [
+            "A.兴奋性比骨骼肌高",
+            "B.伸展性小",
+            "C.收缩缓慢",
+            "D.对化学刺激不敏感",
+            "E.自律性频率较高且稳定"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 55
+    },
+    {
+        "question_text": "756.胃肠平滑肌慢波的产生可能由于",
+        "options": [
+            "A.钙离子跨膜扩散",
+            "B.钾离子跨膜扩散",
+            "C.氯离子跨膜扩散",
+            "D.钠离子跨膜扩散",
+            "E.钠泵活动的周期性变化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 56
+    },
+    {
+        "question_text": "757.消化道平滑肌细胞动作电位产生的主要离子 基础是",
+        "options": [
+            "A.钾离子外流",
+            "B.钠离子内流",
+            "C.钙离子内流",
+            "D.氯离子内流",
+            "E.钾离子内流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 57
+    },
+    {
+        "question_text": "758.胃肠平滑肌收缩的强度主要取决于",
+        "options": [
+            "A.慢波频率",
+            "B.慢波的幅度",
+            "C.动作电位的幅度",
+            "D.动作电位的频率",
+            "E.动作电位的时程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 58
+    },
+    {
+        "question_text": "759.胃肠平滑肌的慢波起源于",
+        "options": [
+            "A.黏膜层",
+            "B.浆膜层",
+            "C.环行肌",
+            "D.纵行肌",
+            "E.Cajal间质细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 59
+    },
+    {
+        "question_text": "760.正常人每日由各种消化腺分泌的消化液总量 为",
+        "options": [
+            "A.2--3L",
+            "B.3--4L",
+            "C.4 --5L",
+            "D.5--6L",
+            "E.6--8L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 60
+    },
+    {
+        "question_text": "761.下列关于肠神经系统的叙述.错误的是",
+        "options": [
+            "A.是指消化道壁内的神经丛",
+            "B.能独立行使其功能",
+            "C.不受外来神经的调节",
+            "D.含有大量的神经纤维和神经元",
+            "E.参与消化道运动和消化液分泌的调节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 61
+    },
+    {
+        "question_text": "762.下列有关胃肠激素的叙述.错误的是",
+        "options": [
+            "A.所有胃肠激素都是肽类物质",
+            "B.在化学结构上促胃液素和CCK属于同一家族",
+            "C.食物的消化产物可刺激它们的释放",
+            "D.所有胃肠激素也存在于中枢神经系统",
+            "E.主要生理作用是调节消化腺分泌和消化道运动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 62
+    },
+    {
+        "question_text": "763.下列关于消化道外来神经作用的叙述.错误 的是",
+        "options": [
+            "A.参与肠壁的局部神经丛反射",
+            "B.副交感神经兴奋引起消化液分泌增加",
+            "C.副交感神经兴奋引起消化道括约肌舒张",
+            "D.交感神经兴奋引起消化道运动加强",
+            "E.交感神经兴奋引起消化道括约肌收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 63
+    },
+    {
+        "question_text": "764.唾液中除有唾液淀粉酶和舌酯酶外.还有",
+        "options": [
+            "A.蛋白水解酶",
+            "B.凝乳酶",
+            "C.溶菌酶",
+            "D.肽酶",
+            "E.麦芽糖酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 64
+    },
+    {
+        "question_text": "*765.下列各项中不是唾液的生理作用的是",
+        "options": [
+            "A.部分消化淀粉和麦芽糖",
+            "B.清洁和保护口腔",
+            "C.湿润和溶解食物",
+            "D.抗菌作用",
+            "E.分解食物中的脂肪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 65
+    },
+    {
+        "question_text": "766.下列关于唾液分泌调节的描述.正确的是",
+        "options": [
+            "A.包括神经调节和体液调节",
+            "B.交感神经兴奋时分泌减少",
+            "C.唾液分泌初级中枢位于下丘脑",
+            "D.睡眠时分泌增多",
+            "E.使用阿托品后分泌减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 66
+    },
+    {
+        "question_text": "767.下列关于食管蠕动的叙述.正确的是",
+        "options": [
+            "A.切断迷走神经后蠕动消失",
+            "B.受激素调节",
+            "C.可发生在未吞咽时",
+            "D.对吞咽液体食物不起作用",
+            "E.食团顺着压力梯度下移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 67
+    },
+    {
+        "question_text": "768.对于肠神经系统的描述.恰当的是",
+        "options": [
+            "A.包括黏膜下神经丛和肌间神经丛",
+            "B.含有大量神经纤维，但神经元不多",
+            "C.对胃肠功能主要起抑制作用",
+            "D.主要的递质是一氧化氮",
+            "E.含有大量神经元，但神经纤维不多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 68
+    },
+    {
+        "question_text": "769.关于胃肠道内分泌细胞的描述.恰当的是",
+        "options": [
+            "A.分布于胃肠道管壁各层",
+            "B.大部分有微绒毛伸人胃肠腔内",
+            "C.作用限于胃肠道",
+            "D.主要以旁分泌方式起作用",
+            "E.主要以内分泌方式起作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 69
+    },
+    {
+        "question_text": "770.消化腺细胞分泌酶原颗粒的方式是",
+        "options": [
+            "A.载体中介易化扩散",
+            "B.主动转运",
+            "C.通道中介易化扩散",
+            "D.单纯扩散",
+            "E.胞吐作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 70
+    },
+    {
+        "question_text": "771.人唾液中含有的酶是",
+        "options": [
+            "A.脂肪酶和蛋白酶",
+            "B.脂肪酶和肽酶",
+            "C.淀粉酶和溶菌酶",
+            "D.淀粉酶和寡糖酶",
+            "E.蛋白酶和溶菌酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 71
+    },
+    {
+        "question_text": "772.参与构成胃粘膜保护屏障的主要离子是",
+        "options": [
+            "A.Na+",
+            "B.Ca2+",
+            "C.H+",
+            "D.HCO3-",
+            "E.Cl-"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 72
+    },
+    {
+        "question_text": "773.使胃蛋白酶原转变成胃蛋白酶的激活物是",
+        "options": [
+            "A.Na+",
+            "B.Cl-",
+            "C.K+",
+            "D.HCl",
+            "E.内因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 73
+    },
+    {
+        "question_text": "774.胃泌素的生理作用不包括",
+        "options": [
+            "A.刺激胃酸分泌",
+            "B.促进胃运动",
+            "C.刺激胰酶分泌",
+            "D.促进唾液分泌",
+            "E.促进胆汁分泌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 74
+    },
+    {
+        "question_text": "775.刺激胃液分泌的重要物质是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.肾上腺素",
+            "C.组胺",
+            "D.促胰液素",
+            "E.抑胃肽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 75
+    },
+    {
+        "question_text": "776.用阿托品阻断M受体可导致",
+        "options": [
+            "A.唾液分泌增多",
+            "B.胃液分泌增多",
+            "C.胰液分泌增多",
+            "D.吞咽困难",
+            "E.胃肠运动减弱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 76
+    },
+    {
+        "question_text": "777.下列哪项不属于胃液的作用",
+        "options": [
+            "A.杀菌",
+            "B.激活胃蛋白酶原",
+            "C.使蛋白质变性",
+            "D.对淀粉进行初步消化",
+            "E.促进维生素B12的吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 77
+    },
+    {
+        "question_text": "778.抑制胃液分泌的重要因素是",
+        "options": [
+            "A.蛋白质",
+            "B.脂肪",
+            "C.低张溶液",
+            "D.促胰酶素",
+            "E.碳水化合物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 78
+    },
+    {
+        "question_text": "779.混合食物由胃完全排空通常需要",
+        "options": [
+            "A.1\\2小时",
+            "B.2\\3小时",
+            "C.4\\6小时",
+            "D.6\\8小时",
+            "E.12\\24 小时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 79
+    },
+    {
+        "question_text": "780.下列哪项不参与调控胃排空速度",
+        "options": [
+            "A.水",
+            "B.胃泌素",
+            "C.机械的扩张刺激",
+            "D.内容物的渗透压",
+            "E.进入十二指肠的酸性食糜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 80
+    },
+    {
+        "question_text": "781.消化液中最重要的是",
+        "options": [
+            "A.唾液",
+            "B.胃液",
+            "C.胆汁",
+            "D.胰液",
+            "E.小肠液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 81
+    },
+    {
+        "question_text": "782.激活糜蛋白酶原的物质是",
+        "options": [
+            "A.HCl",
+            "B.肠致活酶",
+            "C.胰蛋白酶",
+            "D.糜蛋白酶",
+            "E.组织液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 82
+    },
+    {
+        "question_text": "783.刺激促胰液素释放的最有效物质是",
+        "options": [
+            "A.蛋白质分解产物",
+            "B.葡萄糖",
+            "C.HCl",
+            "D.胆酸钠",
+            "E.淀粉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 83
+    },
+    {
+        "question_text": "784.激活胰液中胰蛋白酶原的是",
+        "options": [
+            "A.脂肪酸",
+            "B.胆盐",
+            "C.蛋白水解产物",
+            "D.肠致活酶",
+            "E.糜蛋白酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 84
+    },
+    {
+        "question_text": "785.胰液中浓度最高的无机物是",
+        "options": [
+            "A.Na+",
+            "B.K+",
+            "C.Ca2+",
+            "D.Cl-",
+            "E.HCO3-"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 85
+    },
+    {
+        "question_text": "786.促使胰液中各种酶分泌的重要体液因素是",
+        "options": [
+            "A.胃泌素",
+            "B.促胰液素",
+            "C.胆囊收缩素",
+            "D.胆盐",
+            "E.HCl"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 86
+    },
+    {
+        "question_text": "787.促使胆囊收缩素释放作用最强的物质是",
+        "options": [
+            "A.蛋白质分解产物",
+            "B.脂肪",
+            "C.脂酸钠",
+            "D.糖类",
+            "E.HCL"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 87
+    },
+    {
+        "question_text": "788.胆汁中与脂肪消化关系密切的成分是",
+        "options": [
+            "A.胆固醇",
+            "B.卵磷脂",
+            "C.胆色素",
+            "D.胆盐",
+            "E.脂肪酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 88
+    },
+    {
+        "question_text": "789.下列哪项因素不参与胆汁排出的调节",
+        "options": [
+            "A.胃泌素",
+            "B.胆囊收缩素",
+            "C.促胰酶素",
+            "D.胆盐",
+            "E.迷走神经"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 89
+    },
+    {
+        "question_text": "790.下列哪项为不含有消化酶的消化液",
+        "options": [
+            "A.唾液",
+            "B.胃液",
+            "C.胆汁",
+            "D.胰液",
+            "E.小肠液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 90
+    },
+    {
+        "question_text": "791.胆汁中有利胆作用的成分是",
+        "options": [
+            "A.胆固醇",
+            "B.胆汁酸",
+            "C.胆盐",
+            "D.胆色素",
+            "E.脂肪酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 91
+    },
+    {
+        "question_text": "792.营养物质吸收最主要的部位是",
+        "options": [
+            "A.食管",
+            "B.胃",
+            "C.小肠",
+            "D.口腔",
+            "E.大肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 92
+    },
+    {
+        "question_text": "793.某胆痿患者胆汁大量流失至体外.胆汁分泌 比正常人少数倍.这是由于下列哪项减少",
+        "options": [
+            "A.合成胆盐的原料",
+            "B.胆盐的肠肝循环",
+            "C.胃泌素",
+            "D.促胰液素",
+            "E.胆囊收缩素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 93
+    },
+    {
+        "question_text": "794.动物实验显示.口服葡萄糖比静脉注射相同 剂量葡萄糖引起的胰岛素分泌更多.这是由于口 服可引起哪种具有很强刺激胰岛素分泌的胃肠激 素释放",
+        "options": [
+            "A.胃泌素",
+            "B.抑胃肽",
+            "C.胆囊收缩素",
+            "D.胰高血糖素",
+            "E.促胰液素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 94
+    },
+    {
+        "question_text": "795.萎缩性胃炎患者壁细胞大量减少.胃酸缺乏. 但胃泌素水平增高.该患者胃泌素分泌增多的原因 是",
+        "options": [
+            "A.迷走神经兴奋",
+            "B.交感神经兴奋",
+            "C.促胰激素分泌减少",
+            "D.胃酸对G细胞的抑制减少",
+            "E.肠-胃反射减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 95
+    }
+]

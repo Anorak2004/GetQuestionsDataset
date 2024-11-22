@@ -1,0 +1,492 @@
+[
+    {
+        "question_text": "1.可引起牙龈增生的抗癫痫药是",
+        "options": [
+            "A.卡马西平",
+            "B.苯巴比妥",
+            "C.丙戊酸钠",
+            "D.扑米酮",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 1
+    },
+    {
+        "question_text": "2.治疗癫痫持续状态的首选药是",
+        "options": [
+            "A.静注苯巴比妥",
+            "B.静注地西泮",
+            "C.口服水合氯醛",
+            "D.静注硫喷妥钠",
+            "E.静注苯妥英钠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 2
+    },
+    {
+        "question_text": "3.治疗癫痫小发作应首选",
+        "options": [
+            "A.乙琥胺",
+            "B.丙戊酸钠",
+            "C.卡马西平",
+            "D.苯巴比妥",
+            "E.扑米酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 3
+    },
+    {
+        "question_text": "4.治疗大发作和小发作混合型癲痫应选用",
+        "options": [
+            "A.丙戊酸钠",
+            "B.乙琥胺",
+            "C.苯妥英钠",
+            "D.苯巴比妥",
+            "E.劳拉西泮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 4
+    },
+    {
+        "question_text": "5.可用于治疗外周神经痛的抗癫痫药是",
+        "options": [
+            "A.丙戊酸钠",
+            "B.卡马西平",
+            "C.扑米酮",
+            "D.苯巴比妥",
+            "E.氯硝西泮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗子痫、破伤风等惊厥应选用",
+        "options": [
+            "A.苯巴比妥",
+            "B.水合氯醛",
+            "C.硫酸镁",
+            "D.苯妥英钠",
+            "E.硫喷妥钠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 6
+    },
+    {
+        "question_text": "7.硫酸镁的抗惊厥作用机制是",
+        "options": [
+            "A.抑制大脑皮质",
+            "B.抑制网状结构上行激活系统",
+            "C.抑制脊髓",
+            "D.Ca2与Mg2相互拮抗",
+            "E.阻断N2受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 7
+    },
+    {
+        "question_text": "8.苯妥英钠不用于治疗癫痫",
+        "options": [
+            "A.大发作",
+            "B.持续状态",
+            "C.小发作",
+            "D.局限性发作",
+            "E.精神运动性发作"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 8
+    },
+    {
+        "question_text": "9.对癫痫小发作优于乙琥胺但不作首选的药是",
+        "options": [
+            "A.酰胺咪嗪",
+            "B.苯巴比妥",
+            "C.丙戊酸钠",
+            "D.扑米酮",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 9
+    },
+    {
+        "question_text": "10.癫痫大发作首选药",
+        "options": [
+            "A.酰胺咪嗪",
+            "B.苯妥英钠",
+            "C.地西泮",
+            "D.乙琥胺",
+            "E.丙戊酸钠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪项不属于苯妥英钠的不良反应",
+        "options": [
+            "A.高血钙症",
+            "B.齿龈增生",
+            "C.粒细胞缺乏",
+            "D.共济失调",
+            "E.偶致畸胎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 11
+    },
+    {
+        "question_text": "12.治疗癲痫大小发作及精神运动性发作有效的药物是",
+        "options": [
+            "A.苯巴比妥",
+            "B.丙戊酸钠",
+            "C.苯妥英钠",
+            "D.乙琥胺",
+            "E.酰胺咪嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 12
+    },
+    {
+        "question_text": "13.因刺激性大不宜作肌内注射的抗癫痫药",
+        "options": [
+            "A.苯巴比妥",
+            "B.地西泮",
+            "C.氯硝西泮",
+            "D.乙琥胺",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 13
+    },
+    {
+        "question_text": "14.苯妥英钠可能使下列何种病症状恶化",
+        "options": [
+            "A.大发作",
+            "B.失神小发作",
+            "C.部分性发作",
+            "D.中枢疼痛综合征",
+            "E.癫痫持续状态"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 14
+    },
+    {
+        "question_text": "15.乙琥胺是治疗何种癲痫的常用药物",
+        "options": [
+            "A.失神小发作",
+            "B.大发作",
+            "C.癲痫持续状态",
+            "D.部分性发作",
+            "E.中枢疼痛综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 15
+    },
+    {
+        "question_text": "16.卡马西平不具有以下哪项特点",
+        "options": [
+            "A.其化学结构与三环类抗抑郁药相似",
+            "B.对癫痫部分性发作疗效好",
+            "C.对小发作疗效差",
+            "D.治疗三叉神经痛有效",
+            "E.对抑郁症有很好疗效"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 16
+    },
+    {
+        "question_text": "17.苯妥英钠控制大发作的有效血药浓度是",
+        "options": [
+            "A.20μg/ml",
+            "B.10μg/m1",
+            "C.5μg/ml",
+            "D.3μg/ml",
+            "E.Iμg/ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪种药物属于广谱抗癫痫药",
+        "options": [
+            "A.卡马西平",
+            "B.丙戊酸钠",
+            "C.苯巴比妥",
+            "D.苯妥英钠",
+            "E.乙琥胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪种药物对癫痫并发的精神症状以及锂盐无效的躁狂、抑郁症有效",
+        "options": [
+            "A.苯巴比妥",
+            "B.卡马西平",
+            "C.扑米酮",
+            "D.苯妥英钠",
+            "E.乙琥胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于丙戊酸钠的下列叙述哪项不正确",
+        "options": [
+            "A.对各型癫痫都有效",
+            "B.对失神发作疗效优于乙琥胺，所以为治疗小发作的首选药物",
+            "C.对全身性强直-镇挛发作不及苯妥英钠",
+            "D.对不典型小发作疗效不及氯硝西泮",
+            "E.对复杂部分性发作疗效近似卡马西平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列何种抗癫痫药没有明显的阻滞Na+通道的作用",
+        "options": [
+            "A.苯妥英钠",
+            "B.卡马西平",
+            "C.苯巴比妥",
+            "D.丙戊酸钠",
+            "E.乙琥胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 21
+    },
+    {
+        "question_text": "22.对癫痫强直-阵挛发作疗效好,且无催眠作用的首选药是",
+        "options": [
+            "A.苯巴比妥",
+            "B.苯妥英钠",
+            "C.乙琥胺",
+            "D.丙戊酸钠",
+            "E.地西泮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 22
+    },
+    {
+        "question_text": "23.以下关于苯妥英钠药动学的叙述,不正确的是",
+        "options": [
+            "A.口服吸收慢而不规则",
+            "B.血药浓度在10μg/ml时可有效控制大发作",
+            "C.血浆蛋白结合率高",
+            "D.生物利用度个体差异明显",
+            "E.紧急时,最好采用肌内注射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 23
+    },
+    {
+        "question_text": "24.扑米酮的代谢产物是",
+        "options": [
+            "A.苯巴比妥",
+            "B.异戊巴比妥",
+            "C.司可巴比妥",
+            "D.匹洛昔酮",
+            "E.米力农"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列有关抗癫痫药的叙述,错误的是",
+        "options": [
+            "A.苯妥英钠能诱导其自身代谢",
+            "B.扑米酮可代谢为苯巴比妥",
+            "C.丙戊酸钠对所有类型的癫痫发作都有效",
+            "D.乙琥胺对失神小发作的疗效优于丙戊酸钠",
+            "E.硝西泮对肌阵挛性癫痫和小发作疗效较好"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 25
+    },
+    {
+        "question_text": "26.以下关于苯妥英钠作用机制的叙述,不正确的是",
+        "options": [
+            "A.降低各种细胞膜的兴奋性",
+            "B.能阻滞Na通道,减少Na内流",
+            "C.对高频异常放电的Na通道阻滞作用明显",
+            "D.对正常的低频放电也有明显的阻滞作用",
+            "E.也能阻滞T型Ca2通道,阻滞Ca2内流"
+        ],
+        "correct_answer": "DE",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于地西泮的作用特点,哪项是错误的",
+        "options": [
+            "A.小于镇静剂量时即有抗焦虑作用",
+            "B.产生镇静剂量时可引起暂时性记忆缺失",
+            "C.可增强其他中枢抑制药的作用",
+            "D.剂量加大可引起麻醉",
+            "E.有良好的抗癫痫作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 27
+    },
+    {
+        "question_text": "28.硫酸镁中毒特异性的解救措施是",
+        "options": [
+            "A.静脉输注碳酸氢钠,加快排泄",
+            "B.静脉滴注毒扁豆碱",
+            "C.静脉缓慢注射氯化钙",
+            "D.进行人工呼吸",
+            "E.静脉注射呋塞米,加速药物排泄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 28
+    },
+    {
+        "question_text": "29.关于苯妥英钠抗癫痫作用的机制叙述,正确的是",
+        "options": [
+            "A.抑制Na+内流,抑制癫痫病灶异常高频放电",
+            "B.抑制脑干网状结构",
+            "C.稳定癲痫病灶周围神经元,降低其兴奋性",
+            "D.抑制骨骼肌的持续性痉挛",
+            "E.增强中枢抑制功能"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 29
+    },
+    {
+        "question_text": "30.硫酸镁抗惊厥的作用机制是:",
+        "options": [
+            "A.特异性地竞争Ca2+受点,拮抗Ca2+的作用",
+            "B.阻碍高频异常放电的神经元的NA通道",
+            "C.作用同苯二氮卓类",
+            "D.抑制中枢多突触反应,减弱易化,增强抑制",
+            "E.开放Cl-通道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 30
+    },
+    {
+        "question_text": "31.关于苯妥英钠体内过程,下列叙述哪项不正确?",
+        "options": [
+            "A.口服吸收慢而不规则,宜肌肉注射",
+            "B.癫痫持续状态时可作静脉注射",
+            "C.血浆蛋白结合率高",
+            "D.生物利用度有明显个体差异",
+            "E.主要在肝脏代谢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 31
+    },
+    {
+        "question_text": "32.治疗中枢疼痛综合症的首选药物是:",
+        "options": [
+            "A.苯妥英钠",
+            "B.吲哚美辛",
+            "C.苯巴比妥",
+            "D.乙琥胺",
+            "E.地西泮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 32
+    },
+    {
+        "question_text": "33.治疗三叉神经痛和舌咽神经痛的首选药物是:",
+        "options": [
+            "A.卡马西平",
+            "B.阿司匹林",
+            "C.苯巴比妥",
+            "D.戊巴比妥钠",
+            "E.乙琥胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 33
+    },
+    {
+        "question_text": "34.适用于治疗癫痫不典型不发作和婴儿痉挛的药物是",
+        "options": [
+            "A.地西泮",
+            "B.苯妥英钠",
+            "C.硝西泮",
+            "D.丙戊酸钠",
+            "E.卡马西平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 34
+    },
+    {
+        "question_text": "35.苯妥英钠是何种疾病的首选药物?",
+        "options": [
+            "A.癫痢小发作",
+            "B.癫痫大发作",
+            "C.癫痫精神运动性发作",
+            "D.帕金森病发作",
+            "E.小儿惊厥"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 35
+    }
+]

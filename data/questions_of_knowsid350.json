@@ -1,0 +1,408 @@
+[
+    {
+        "question_text": "1.普萘洛尔、维拉帕米的共同禁忌症是:",
+        "options": [
+            "A.轻、中度高血压",
+            "B.变异型心绞痛",
+            "C.强心甙中毒时心律失常",
+            "D.甲亢伴有窦性心动过速",
+            "E.严重心功能不全"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 1
+    },
+    {
+        "question_text": "2.硝酸异山梨酯与硝酸甘油比较,其作用持久的原因是:",
+        "options": [
+            "A.硝酸异山梨酯体内不被代谢",
+            "B.硝酸异山梨酯肝肠循环量大",
+            "C.硝酸异山梨酯排泄慢",
+            "D.硝酸异山梨酯代谢物仍具有抗心绞痛作用",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 2
+    },
+    {
+        "question_text": "3.普萘洛尔、硝酸甘油、硝苯地平治疗心绞痛的共同作用是:",
+        "options": [
+            "A.减慢心率",
+            "B.缩小心室容积",
+            "C.扩张冠脉",
+            "D.降低心肌氧耗量",
+            "E.抑制心肌收缩力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 3
+    },
+    {
+        "question_text": "4.普萘洛尔治疗可产生下列哪一项不利作用",
+        "options": [
+            "A.心收缩力增加,心率减慢",
+            "B.心室容积增大,射血时间延长,增加氧耗",
+            "C.心室容积缩小,射血时间缩短,降低氧耗",
+            "D.扩张冠脉,增加心肌血供",
+            "E.扩张动脉,降低后负荷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列关于硝酸甘油的不良反应的叙述,哪一点是错误的:",
+        "options": [
+            "A.头痛",
+            "B.升高眼内压",
+            "C.心率加快",
+            "D.高铁血红蛋白症",
+            "E.阳萎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 5
+    },
+    {
+        "question_text": "6.变异型心绞痛可首选:",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝苯地平",
+            "C.硝普钠",
+            "D.维拉帕米",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪项是减弱硝苯地平治疗心绞痛的因素:",
+        "options": [
+            "A.心室张力降低",
+            "B.心率加快",
+            "C.心室压力减少",
+            "D.改善缺血区的供血",
+            "E.增加侧枝血流"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 7
+    },
+    {
+        "question_text": "8.硝酸酯类舒张血管的机制是:",
+        "options": [
+            "A.直接作用于血管平滑肌",
+            "B.阻断α受体",
+            "C.促进前列环素生成",
+            "D.释放一氧化氮",
+            "E.阻滞Ca2+通道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 8
+    },
+    {
+        "question_text": "9.常用于防治心绞痛急性发作的药物是:",
+        "options": [
+            "A.硝酸甘油",
+            "B.普萘洛尔",
+            "C.美托洛尔",
+            "D.硝普钠",
+            "E.硝苯地平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪项不属于硝酸甘油的不良反应",
+        "options": [
+            "A.心率加快",
+            "B.搏动性头疼",
+            "C.体位性低血压",
+            "D.升高眼内压",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 10
+    },
+    {
+        "question_text": "11.硝酸甘油扩张血管作用最弱的是",
+        "options": [
+            "A.小动脉",
+            "B.小静脉",
+            "C.冠状动脉的输送血管",
+            "D.冠状动脉的侧支血管",
+            "E.冠状动脉的小阻力血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 11
+    },
+    {
+        "question_text": "12.不用于变异型心绞痛的药物是:",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝苯地平",
+            "C.普萘洛尔",
+            "D.维拉帕米",
+            "E.硝酸异山梨酯"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 12
+    },
+    {
+        "question_text": "13.对冠状动脉无扩张作用的药物是:",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝苯地平",
+            "C.普萘洛尔",
+            "D.维拉帕米",
+            "E.硝酸异山梨酯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列叙述中错误的是",
+        "options": [
+            "A.不稳定型心绞痛常需联合用药以提高疗效",
+            "B.维拉帕米可用于稳定型和不稳定型心绞痛",
+            "C.硝酸甘油是缓解各型心绞痛最常用的药物",
+            "D.双嘧达莫被用于心绞痛诊断",
+            "E.尼可地尔可阻断K外流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 14
+    },
+    {
+        "question_text": "15.伴高血压和哮喘的心绞痛患者,宜选用",
+        "options": [
+            "A.普萘洛尔",
+            "B.硝苯地平",
+            "C.硝酸戊四醇酯",
+            "D.麻黄碱",
+            "E.硝酸异山梨醇酯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于硝酸酯类,下列叙述哪项不正确",
+        "options": [
+            "A.舌下含化可避免首关消除",
+            "B.硝酸异山梨酯作用持久与代谢物活性相关",
+            "C.其作用机制是通过释放NO而发挥效应",
+            "D.剂量过大使血压过度下降,可引起心脏反射性兴奋",
+            "E.治疗量的硝酸甘油使动脉收缩压与舒张压均明显下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 16
+    },
+    {
+        "question_text": "17.变异型心绞痛效果较好的药物是",
+        "options": [
+            "A.β受体阻滞剂",
+            "B.维拉帕米",
+            "C.硝酸甘油",
+            "D.硝苯地平",
+            "E.尼可地尔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 17
+    },
+    {
+        "question_text": "18.硝酸甘油、普萘洛尔治疗心绞痛的共同作用是",
+        "options": [
+            "A.缩小心室容积",
+            "B.缩小心脏体积",
+            "C.减慢心率",
+            "D.降低心肌耗氧量",
+            "E.抑制心肌收缩力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 18
+    },
+    {
+        "question_text": "19.硝酸酯类有耐受性和心率加快,处理方法是",
+        "options": [
+            "A.β受体阻滞剂+钙拮抗剂",
+            "B.维拉帕米+β受体阻滞剂",
+            "C.硝酸甘油+β受体阻滞剂",
+            "D.双嘧达莫+钙拈抗剂",
+            "E.尼可地尔+β受体阻滞剂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列哪项可减弱硝酸酯类的抗心绞痛作用",
+        "options": [
+            "A.室壁张力降低",
+            "B.心室容积缩小",
+            "C.心室压力降低",
+            "D.心脏体积缩小",
+            "E.心率加快"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 20
+    },
+    {
+        "question_text": "21.硝酸甘油抗心绞痛的主要作用机制是",
+        "options": [
+            "A.降低心肌耗氧量",
+            "B.促进侧支循环开放",
+            "C.对心肌有保护作用",
+            "D.选择性扩张心外膜血管",
+            "E.增加缺血区的血液灌注"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 21
+    },
+    {
+        "question_text": "22.硝酸甘油与β受体阻断剂合用抗心绞痛时应注意",
+        "options": [
+            "A.左室舒张末期压降低",
+            "B.动脉血压降低",
+            "C.心率减慢",
+            "D.心肌收缩力的改变",
+            "E.心脏射血时间改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 22
+    },
+    {
+        "question_text": "23.最常用的硝酸酯类药物是",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝酸异山梨酯",
+            "C.单硝酸异山梨酯",
+            "D.戊四硝酯",
+            "E.亚硝酸异戊酯"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 23
+    },
+    {
+        "question_text": "24.硝酸甘油作用最明显的血管是",
+        "options": [
+            "A.毛细血管括约肌",
+            "B.静脉",
+            "C.较大的动脉",
+            "D.小动脉",
+            "E.冠状动脉阻力血管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 24
+    },
+    {
+        "question_text": "25.硝酸甘油无下列哪项不良反应",
+        "options": [
+            "A.头痛",
+            "B.升高眼压",
+            "C.升高颅内压",
+            "D.心率过慢",
+            "E.心率过快"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 25
+    },
+    {
+        "question_text": "26.稳定型心绞痛的首选治疗药是",
+        "options": [
+            "A.β受体阻滞剂",
+            "B.维拉帕米",
+            "C.硝酸甘油",
+            "D.双嘧达莫",
+            "E.尼可地尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 26
+    },
+    {
+        "question_text": "27.突然停药可引起“撤药综合症”而加重心绞痛的药物是",
+        "options": [
+            "A.硝苯地平",
+            "B.普萘洛尔",
+            "C.硝酸甘油",
+            "D.硝酸异山梨酯",
+            "E.尼可地尔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 27
+    },
+    {
+        "question_text": "28.对心肌有保护作用的抗心绞痛药",
+        "options": [
+            "A.普萘洛尔",
+            "B.亚硝酸异戊酯",
+            "C.硝苯地平",
+            "D.阿替洛尔",
+            "E.硝酸甘油"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 28
+    },
+    {
+        "question_text": "29.变异型心绞痛不宜使用",
+        "options": [
+            "A.β受体阻滞剂",
+            "B.硝苯地平",
+            "C.硝酸甘油",
+            "D.地尔硫卓",
+            "E.尼可地尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 29
+    }
+]

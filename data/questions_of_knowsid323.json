@@ -1,0 +1,2536 @@
+[
+    {
+        "question_text": "1．适合表达真核生物基因的体系是： ①枯草杆菌②酵母③大肠杆菌④昆虫细胞与昆虫病毒⑤哺乳类细胞",
+        "options": [
+            "A．①②④",
+            "B．③④⑤",
+            "C．②③④",
+            "D．①③⑤",
+            "E．②④⑤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 1
+    },
+    {
+        "question_text": "2．可识别特异 DNA 序列，并在识别位点或其周围切割双链 DNA 的一类酶称为",
+        "options": [
+            "A．限制性核酸外切酶",
+            "B．限制性核酸内切酶",
+            "C．非限制性核酸外切酶",
+            "D．非限制性核酸内切酶",
+            "E．DNA 内切酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 2
+    },
+    {
+        "question_text": "3．在重组 DNA 技术中，催化生成重组 DNA 分子的是：",
+        "options": [
+            "A．DNA 聚合酶",
+            "B．解链酶",
+            "C．DNA 连接酶",
+            "D．拓扑异构酶",
+            "E．内切酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 3
+    },
+    {
+        "question_text": "4．在重组 DNA 技术领域所说的分子克隆是指：",
+        "options": [
+            "A．建立单克隆抗体",
+            "B．建立多克隆抗体",
+            "C．构建重组 DNA 分子",
+            "D．无性繁殖 DNA",
+            "E．有性繁殖 DNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 4
+    },
+    {
+        "question_text": "5．某限制性核酸内切酶按 GGG▼CGCCC 方式切割，产生的末端突出部分含：",
+        "options": [
+            "A．一个核苷酸",
+            "B．二个核苷酸",
+            "C．三个核苷酸",
+            "D．四个核苷酸",
+            "E．五个核苷酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 5
+    },
+    {
+        "question_text": "6．某限制性核酸内切酶切割 5′…GGGGGG▼AATTCC… 3′序列能产生：",
+        "options": [
+            "A．5′突出末端",
+            "B．3′突出末端",
+            "C．5′及 3′突出末端",
+            "D．5′或 3′突出末端",
+            "E．平末端"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 6
+    },
+    {
+        "question_text": "7．DNA 经限制性内切核酸酶切割后，断端易于首尾连接自行成环，这是因为存在着：",
+        "options": [
+            "A．钝性末端",
+            "B．粘性末端",
+            "C．平末端",
+            "D．5′端",
+            "E．3′端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 7
+    },
+    {
+        "question_text": "8．重组 DNA 技术领域使用的质粒是：",
+        "options": [
+            "A．细胞染色体 DNA 的一部分",
+            "B．细菌染色体外的独立遗传单位",
+            "C．病毒基因组 DNA 的一部分",
+            "D．真核细胞染色体 DNA 的一部分",
+            "E．真核细胞染色体外的独立遗传单位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 8
+    },
+    {
+        "question_text": "9．不能用作克隆载体的 DNA 是：",
+        "options": [
+            "A．质粒 DNA",
+            "B．噬菌体 DNA",
+            "C．细菌基因组 DNA",
+            "D．腺病毒 DNA",
+            "E．逆转录 DNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 9
+    },
+    {
+        "question_text": "10．pET32 是：",
+        "options": [
+            "A．经人工改造的大肠杆菌质粒",
+            "B．天然的酵母质粒",
+            "C．天然的大肠杆菌质粒",
+            "D．经人工改造的大肠杆菌噬菌体",
+            "E．经人工改造的酵母质粒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 10
+    },
+    {
+        "question_text": "11．限制性核酸内切酶通常识别的序列是：",
+        "options": [
+            "A．粒性末端",
+            "B．RNA 聚合酶附着点",
+            "C．多聚腺苷酸",
+            "D．回文对称结构",
+            "E．甲基化“帽”结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 11
+    },
+    {
+        "question_text": "12．基因工程的操作程序可简单地概括为",
+        "options": [
+            "A．载体和目的基因的分离",
+            "B．分、切、接、转、筛、表达",
+            "C．将重组体导入宿主细胞，筛出阳性细胞株",
+            "D．将载体和目的基因连接成重组体",
+            "E．限制性内切酶的应用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 12
+    },
+    {
+        "question_text": "13．限制性核酸内切酶的作用特性不包括：",
+        "options": [
+            "A．在对称序列处切开 DNA",
+            "B．DNA 双链的切点常不在同一位点",
+            "C．酶切后产生的 DNA 片段多半具有粘性互补末端",
+            "D．DNA 双链的切点常在同一个位点",
+            "E．酶辨认的碱基一般为 4-6 个"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 13
+    },
+    {
+        "question_text": "14．噬菌体 T4 连接酶催化 DNA 连接的末端是：",
+        "options": [
+            "A．5′-OH 和 3′-OH",
+            "B．5′-OH 和 3′-P",
+            "C．5′-P 和 3′-OH",
+            "D．5′-P 和 3′-P",
+            "E．任意两种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 14
+    },
+    {
+        "question_text": "15．基因克隆所需 DNA 载体的最基本性质是：",
+        "options": [
+            "A．青霉素抗性",
+            "B．卡那霉素抗性",
+            "C．自我复制能力",
+            "D．自我转录能力",
+            "E．自我表达能力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 15
+    },
+    {
+        "question_text": "16．关于目的基因的描述，错误的是：",
+        "options": [
+            "A．研究的目标基因",
+            "B．研究应用的基因",
+            "C．需要克隆的基因",
+            "D．需要表达的基因",
+            "E．准备分离纯化的基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 16
+    },
+    {
+        "question_text": "17．cDNA 文库的建立需要：",
+        "options": [
+            "A．逆转录酶和 DNA 模板",
+            "B．DNA 聚合酶和 mRNA 模板",
+            "C．逆转录酶和 mRNA 模板",
+            "D．DNA 聚合酶和 tRNA 模板",
+            "E．逆转录酶和 rRNA 模板"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 17
+    },
+    {
+        "question_text": "18．DNA 克隆过程不包括以下步骤：",
+        "options": [
+            "A．获取目的基因",
+            "B．选择与构建载体",
+            "C．筛选转化子",
+            "D．PCR 法合成目的基因",
+            "E．合成探针检测基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 18
+    },
+    {
+        "question_text": "19．目前常用的基因表达体系细胞包括：",
+        "options": [
+            "A．原核表达体系的Coli",
+            "B．哺乳类细胞中的中国仓鼠细胞和猿猴肾细胞",
+            "C．昆虫细胞",
+            "D．酵母细胞",
+            "E．以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 19
+    },
+    {
+        "question_text": "20．外源基因与载体的连接，可以采取以下方法，除了：",
+        "options": [
+            "A．粘性末端连接",
+            "B．平端连接",
+            "C．同聚物加尾连接",
+            "D．人工接头连接",
+            "E．重组连接"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 20
+    },
+    {
+        "question_text": "21．cDNA 文库包括该种生物：",
+        "options": [
+            "A．某些蛋白质的结构基因",
+            "B．所有蛋白质的结构基因",
+            "C．所有结构基因",
+            "D．结构基因与不表达的调控区",
+            "E．内含子和调控区"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 21
+    },
+    {
+        "question_text": "22．将目的基因与载体 DNA 拼接成重组 DNA 分子属于：",
+        "options": [
+            "A．位点特异的重组",
+            "B．同源重组",
+            "C．随机重组",
+            "D．自然重组",
+            "E．人工重组"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 22
+    },
+    {
+        "question_text": "23．某识别 6 核苷酸序列的限制性内切酶切割 5′……AGCTG▼AATTC…3′产生",
+        "options": [
+            "A．5′突出末端",
+            "B．3′突出末端",
+            "C．5′及 3′突出末端",
+            "D．5′或 3′突出末端",
+            "E．平末端"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 23
+    },
+    {
+        "question_text": "24．某识别 6 核苷酸序列的限制性内切酶切割 5′……CTGCA▼GAGTC…3′产生",
+        "options": [
+            "A．5′突出末端",
+            "B．3′突出末端",
+            "C．5′及 3′突出末端",
+            "D．5′或 3′突出末端",
+            "E．平末端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 24
+    },
+    {
+        "question_text": "25．某识别 6 核苷酸序列的限制性内切酶切割 5′……AGGTT▼AACAG…3′产生",
+        "options": [
+            "A．5′突出末端",
+            "B．3′突出末端",
+            "C．5′及 3′突出末端",
+            "D．5′或 3′突出末端",
+            "E．平末端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 25
+    },
+    {
+        "question_text": "26．分子克隆中，目的 DNA 可来源于①原核生物染色体 DNA②真核生物染色体 DNA③真核细胞 mRNA 反转录获得 cDNA④聚合酶链反应⑤人工合成 DNA",
+        "options": [
+            "A．①②④",
+            "B．③④⑤",
+            "C．②③④",
+            "D．①②③④",
+            "E．①②③④⑤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 26
+    },
+    {
+        "question_text": "27．从基因组 DNA 文库或 cDNA 文库分离、扩增某一感兴趣基因的过程就是：",
+        "options": [
+            "A．细胞克隆",
+            "B．分子克隆",
+            "C．DNA 测序",
+            "D．构建基因组 DNA 文库",
+            "E．构建 cDNA 文库"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 27
+    },
+    {
+        "question_text": "28．分子医学包括的领域有①疾病基因的发现与克隆②基因诊断③基因治疗④遗传病的预防⑤生物制药",
+        "options": [
+            "A．①②③④",
+            "B．②③④⑤",
+            "C．①②③④⑤",
+            "D．①②③⑤",
+            "E．①②④⑤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 28
+    },
+    {
+        "question_text": "29．将重组 DNA 分子导入受体细胞的方法有： ①接合②转座③转化④转染⑤感染",
+        "options": [
+            "A．①②④",
+            "B．③④⑤",
+            "C．②③④",
+            "D．①②③④",
+            "E．①②③④⑤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 29
+    },
+    {
+        "question_text": "30．关于质粒 DNA 叙述正确的是：",
+        "options": [
+            "A．是基因组 DNA 的组成成分",
+            "B．来源于真核生物",
+            "C．具有编码蛋白的功能",
+            "D．含有感兴趣的目的基因",
+            "E．含有各种抗生素抗药性基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 30
+    },
+    {
+        "question_text": "31．关于 cDNA 文库的下列叙述，错误的是：",
+        "options": [
+            "A．仅代表构建文库取材细胞当时表达的成套基因",
+            "B．同一种细胞在发育的不同阶段构建的文库，它们包含的基因不尽相同",
+            "C．正常肝细胞与肝癌细胞构建的 cDNA 文库，两者包含的基因不尽相同",
+            "D．cDNA 文库中不包含内含子序列及基因的调控序列",
+            "E．可以从 cDNA 文库中筛选某个基因的启动子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 31
+    },
+    {
+        "question_text": "32．DNA 聚合酶Ⅰ的 Klenow 片段具有下列酶活性：",
+        "options": [
+            "A．催化 DNA 链沿 5′→3′方向的聚合活性",
+            "B．5′→3′内切酶活性",
+            "C．3′→5′外切酶活性",
+            "D．切割 DNA-RNA 杂交链中失配的 RNA 单链部分",
+            "E．具有 DNA 连接酶活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 32
+    },
+    {
+        "question_text": "33．关于限制性内切核酸酶错误的是：",
+        "options": [
+            "A．只识别一种核苷酸序列",
+            "B．其识别不受 DNA 来源的限制",
+            "C．不同生物的 DNA 经同一限制性酶切割后产生相同末端",
+            "D．对双链 DNA 与单链 DNA 一视同仁",
+            "E．裂解双链 DNA 内部特异位点磷酸二酯键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 33
+    },
+    {
+        "question_text": "34．表达载体的选择与改造应考虑的条件不包括",
+        "options": [
+            "A．具有独立复制能力",
+            "B．含有感兴趣的目的 DNA",
+            "C．有限制性酶切位点",
+            "D．具有筛选标记",
+            "E．具有编码蛋白质的功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 34
+    },
+    {
+        "question_text": "35．基因组通常是指：①一个病毒所包含的全套基因②几个基因组成的 DNA 片段③体细胞或生殖细胞所含的一整套基因 ④三个特定基因组成的 DNA 片段⑤一套完整单倍体的遗传物质的总和",
+        "options": [
+            "A．①②④",
+            "B．③④⑤",
+            "C．②③④",
+            "D．①③⑤",
+            "E．②④⑤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 35
+    },
+    {
+        "question_text": "36．关于基因工程中用原核生物表达真核细胞蛋白质可能会遇到的困难，错误的是：",
+        "options": [
+            "A．真核细胞的启动子不能被细菌 RNA 聚合酶识别",
+            "B．真核细胞 mRNA 没有 SD 序列，不能与细菌核糖体结合",
+            "C．原核细胞缺乏糖基化等翻译后加工过程",
+            "D．真核细胞蛋白质产物往往被细菌蛋白酶视为异已蛋白而分解",
+            "E．原核生物的 DNA 聚合酶系不能表达真核细胞蛋白质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 36
+    },
+    {
+        "question_text": "37．2000 年 6 月 26 日，6 国科学家向全世界宣布：“人类基因组草图”的绘制工作已经全部完成。“人类基因组草图”是指（）",
+        "options": [
+            "A．人类所有基因控制蛋白质合成的机制",
+            "B．人类所有基因的功能",
+            "C．人类所有基因的数目",
+            "D．人类 DNA 中全部的遗传信息",
+            "E．人类所有蛋白质的数目"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 37
+    },
+    {
+        "question_text": "38．人类基因组计划就是分析测定人类基因组的核苷酸序列，其主要内容包括（）",
+        "options": [
+            "A．基因的遗传图、翻译图、序列图、物理图",
+            "B．基因的遗传图、物理图、序列图、转录图",
+            "C．基因的表达图、翻译图、序列图、物理图",
+            "D．基因的表达图、信息图、序列图、物理图",
+            "E．基因的遗传图、表达图、翻译图、序列图"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 38
+    },
+    {
+        "question_text": "39．现在人们已经实现了分子水平上遗传物质的人工重组，下列实例中属于分子水平上人工重组基因的是（）",
+        "options": [
+            "A．利用杂交技术培育出新的高品质水稻品种",
+            "B．科学工作者将猪的胰岛素转变成人的胰岛素",
+            "C．能产生抗体的小鼠 B 淋巴细胞和骨髓细胞的融合",
+            "D．将人的α－抗胰蛋白酶基因导入到羊的 DNA 分子中",
+            "E．将质粒转入细菌中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 39
+    },
+    {
+        "question_text": "40．在基因工程中用来完成基因的剪切和拼接的工具是()",
+        "options": [
+            "A．限制酶和连接酶",
+            "B．限制酶和水解酶",
+            "C．限制酶和运载体",
+            "D．连接酶和运载体",
+            "E．限制酶和质粒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 40
+    },
+    {
+        "question_text": "41．1993 年，我国科学工作者培育成的抗棉铃虫的最新转基因抗虫棉，其抗虫基因来源于（）",
+        "options": [
+            "A．普通棉花的基因突变",
+            "B．棉铃虫变异形成的致死基因",
+            "C．在棉铃虫体内寄生的线虫基因",
+            "D．苏云金芽孢杆菌体内的抗虫基因",
+            "E．大肠杆菌体内的抗虫基因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 41
+    },
+    {
+        "question_text": "42．人类单倍体基因组研究的范围是()",
+        "options": [
+            "A．23 个双链 DNA 分子",
+            "B．23 个单链 DNA 分子",
+            "C．24 个双链 DNA 分子",
+            "D．24 个单链 DNA 分子",
+            "E．25 个双链 DNA 分子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 42
+    },
+    {
+        "question_text": "43．能有效地打破物种的界限、定向地改造生物的遗传性状，培育新的农作物优良品种的生物技术是（）",
+        "options": [
+            "A．杂交育种技术",
+            "B．诱变育种技术",
+            "C．基因工程技术",
+            "D．组织培养技术",
+            "E．细胞育种技术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 43
+    },
+    {
+        "question_text": "44．下列关于基因工程的叙述正确的是（）",
+        "options": [
+            "A．所有的限制酶都能识别同一种特定的核苷酸序列",
+            "B．基因工程技术是唯一能冲破远源杂交不亲和的障碍培育生物新品种的方法",
+            "C．质粒是基因工程中唯一用作运载目的基因的工具",
+            "D．对目的基因进行大量复制的过程称为分子“克隆”",
+            "E．PCR 反应中的引物是一小段 RNA 分子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 44
+    },
+    {
+        "question_text": "45．“科技奥运”是 2008 年北京奥运会的三大理念之一，而基因兴奋剂的检测是其中一个重要课题。一些运动员和教练员将能提高身体素质的基因植入体内，借助基因疗法进行不公平的竞赛，这就是基因的兴奋剂。比如说 EPO(促红细胞生成素)是一种传统的兴奋剂，这种兴奋剂可增加血液中红细胞含量，从而提高运动成绩，许多运动员因冒险服用而遭禁赛。若借助于基因治疗手段，将这种兴奋剂的基因注入人体，在身体里形成一个局部的 EPO 制造基地，那么传统的尿样和血样检测都无法查出。下列有关基因兴奋剂的说法，错误的是﹙﹚",
+        "options": [
+            "A．运动员注入的能改善运动员各种运动能力和耐力的基因称为基因兴奋剂",
+            "B．EPO(促红细胞生成素)可增加血液中红细胞含量，提高运输氧气的能力",
+            "C．通过 DNA 检测，可以查出运动员体内是否加入了基因兴奋剂",
+            "D．基因兴奋剂引起的变异属于可遗传变异，产生的物质对人体无副作用",
+            "E．可以采用 PCR 的方法检测 EPO 存在与否"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 45
+    },
+    {
+        "question_text": "46．限制性内切酶是一种﹙﹚",
+        "options": [
+            "A．核酸特异的内切酶",
+            "B．DNA 特异的内切酶",
+            "C．DNA 序列特异的内切酶",
+            "D．RNA 特异的内切酶",
+            "E．RNA 序列特异的内切酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 46
+    },
+    {
+        "question_text": "47．限制性内切酶的作用是﹙﹚",
+        "options": [
+            "A．特异切开单链 DNA",
+            "B．特异切开双链 DNA",
+            "C．连接断开的单链 DNA",
+            "D．切开变性的 DNA",
+            "E．切开错配的 DNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 47
+    },
+    {
+        "question_text": "48．关于重组 DNA 技术的叙述，错误的是﹙﹚",
+        "options": [
+            "A．质粒、噬菌体可作为载体",
+            "B．限制性内切酶是主要工具酶之一",
+            "C．重组 DNA 由载体 DNA 和目标 DNA 组成",
+            "D．重组 DNA 分子经转化或传染可进入宿主细胞",
+            "E．进入细胞内的重组 DNA 均可表达目的蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 48
+    },
+    {
+        "question_text": "49．细菌“核质以外的遗传物质”是指﹙﹚",
+        "options": [
+            "A．mRNA",
+            "B．核蛋白体",
+            "C．质粒",
+            "D．异染颗粒",
+            "E．性菌毛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 49
+    },
+    {
+        "question_text": "50．免疫印渍技术中不适合应用的步骤是﹙﹚",
+        "options": [
+            "A．聚丙烯酰胺凝胶电泳",
+            "B．用 NC 膜或 PVDF 膜",
+            "C．靠毛细管作用进行转移",
+            "D．用同位素标记抗体",
+            "E．需要两种抗体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 50
+    },
+    {
+        "question_text": "51．原位杂交是指﹙﹚",
+        "options": [
+            "A．在 NC 膜上进行杂交操作",
+            "B．在组织切片或细胞涂片上进行杂交操作",
+            "C．直接将核酸点在 NC 膜上的杂交",
+            "D．在 PVDF 膜上进行杂交操作",
+            "E．在聚丙烯酰胺凝胶上进行杂交操作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 51
+    },
+    {
+        "question_text": "52．在下述双链 DNA 序列(仅列出其中一条链序列)中不属于完全回文结构的是﹙﹚",
+        "options": [
+            "A．AGAATTCT",
+            "B．TGAATTCA",
+            "C．GGAATTCC",
+            "D．CGTTAAGC",
+            "E．TATCGATA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 52
+    },
+    {
+        "question_text": "53．有关 DNA 链末端终止法测序的不正确说法是﹙﹚",
+        "options": [
+            "A．需要 ddNMP",
+            "B．需要 ddNTP",
+            "C．dNTP：ddNTP 的比例要合适",
+            "D．需要放射性同位素或荧光染料",
+            "E．4 组独立酶反应中分别采用 4 种不同的 ddNTP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 53
+    },
+    {
+        "question_text": "54．有关 DNA 序列自动化测定的不正确叙述是﹙﹚",
+        "options": [
+            "A．用荧光代替了同位素标记",
+            "B．激光扫描分析代替人工读序",
+            "C．基本原理与手工测序相同",
+            "D．不再需要引物",
+            "E．测序酶是经化学修饰的 T7 噬菌体 DNA 聚合酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 54
+    },
+    {
+        "question_text": "55．在已知序列的情况下获得目的 DNA 最常用的是﹙﹚",
+        "options": [
+            "A．化学合成法",
+            "B．筛选基因组文库",
+            "C．筛选 cDNA 文库",
+            "D．聚合酶链式反应",
+            "E．逆转录法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 55
+    },
+    {
+        "question_text": "56．某种遗传性疾病是由一个点突变(无限制性内切酶位点变化)引起,可以﹙﹚",
+        "options": [
+            "A．用 DNA 单链构象多态性分析突变",
+            "B．用限制性片段长度多态性分析突变",
+            "C．用 WesternBlotting 分析突变",
+            "D．用电泳分析基因组 DNA",
+            "E．用 SDS-PAGE 分析蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 56
+    },
+    {
+        "question_text": "57．免疫印渍技术指的是﹙﹚",
+        "options": [
+            "A．结合在膜上的蛋白质分子与抗体分子结合",
+            "B．结合在膜上的 DNA 分子与抗体结合",
+            "C．结合在膜上的 RNA 分子与抗体结合",
+            "D．结合在膜上的 DNA 分子与 RNA 分子结合",
+            "E．结合在凝胶上的蛋白质分子与抗体分子结合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 57
+    },
+    {
+        "question_text": "58．同位素标记探针检测 NC 膜上的 RNA 分子﹙﹚",
+        "options": [
+            "A．叫做 NorthernBlotting",
+            "B．叫做 SouthemBlotting",
+            "C．叫做 WesternBlotting",
+            "D．蛋白分子杂交",
+            "E．SDS-PAGE"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 58
+    },
+    {
+        "question_text": "59．用做探针的 DNA 分子必须﹙﹚",
+        "options": [
+            "A．在杂交前变性",
+            "B．在杂交前复性",
+            "C．长于 30 个核苷酸",
+            "D．短于 30 个核苷酸",
+            "E．是双链分子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 59
+    },
+    {
+        "question_text": "60．直接针对目的 DNA 进行筛选的方法是﹙﹚",
+        "options": [
+            "A．青霉素抗药性",
+            "B．氨卞青霉素抗药性",
+            "C．分子杂交",
+            "D．分子筛",
+            "E．蓝白斑筛选"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 60
+    },
+    {
+        "question_text": "61．“克隆”某一目的 DNA 的过程不包括﹙﹚",
+        "options": [
+            "A．表达目的基因编码的蛋白质",
+            "B．重组 DNA 分子导人受体细胞",
+            "C．筛选并无性繁殖含重组分子的受体细胞",
+            "D．外源基因与载体的拼接",
+            "E．获取目的基因"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 61
+    },
+    {
+        "question_text": "62．表达人类蛋白质的最理想的细胞体系是﹙﹚",
+        "options": [
+            "A．哺乳类细胞表达体系",
+            "B．昆虫表达体系",
+            "C．酵母表达体系",
+            "D．原核表达体系",
+            "E．大肠杆菌表达体系"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 62
+    },
+    {
+        "question_text": "63．下列关于基因工程技术的叙述，正确的是（）",
+        "options": [
+            "A．重组 DNA 技术所用的工具酶是限制酶、连接酶和运载体",
+            "B．所有限制酶都只能识别同一种按规定的核苷酸序列",
+            "C．选用细菌作为重组质粒的受体细胞是因为细胞繁殖快",
+            "D．只要目的基因进入了受体细胞就能成功实现表达",
+            "E．可以通过 cDNA 文库筛选启动子序列"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 63
+    },
+    {
+        "question_text": "64．以下说法正确的是（）",
+        "options": [
+            "A．所有的限制酶只能识别一种特定的核苷酸序列",
+            "B．质粒是基因工程中唯一的载体",
+            "C．载体必须具备的条件之一是：具有多个限制酶切点，以便与外源基因连接",
+            "D．基因治疗主要是对有缺陷的细胞进行修复",
+            "E．载体必须具备启动子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 64
+    },
+    {
+        "question_text": "65．上海医学遗传研究所成功培育出第一头携带白蛋白的转基因牛，他们还研究出一种可大大提高基因表达水平的新方法，使转基因动物乳汁中的药物蛋白含量提高30 多倍，转基因动物是指（）",
+        "options": [
+            "A．提供基因的动物",
+            "B．基因组中增加外源基因的动物",
+            "C．能产生白蛋白的动物",
+            "D．能表达基因信息的动物",
+            "E．能无性繁殖的动物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 65
+    },
+    {
+        "question_text": "66．基因工程是在 DNA 分子水平上进行设计施工的，在基因操作的基本步骤中，不进行碱基互补配对的步骤是",
+        "options": [
+            "A．人工合成基因",
+            "B．目的基因与运载体结合",
+            "C．将目的基因导入受体细胞",
+            "D．目的基因的检测和表达",
+            "E．以上步骤均没有"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 66
+    },
+    {
+        "question_text": "67．下列科技成果中，根据基因重组的原理进行的是 ①我国科学家袁隆平利用杂交技术培育出超级水稻 ②我国科学家将苏云金杆菌的某些基因移植到棉花体内培育抗虫棉 ③我国科学家通过返回式卫星搭载种子培育出太空椒 ④我国科学家通过体细胞克隆技术培育出克隆牛",
+        "options": [
+            "①",
+            "B．①②",
+            "C．①②③",
+            "D．②③④",
+            "E．①②④"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 67
+    },
+    {
+        "question_text": "68．对下列有关实例形成原理的解释，正确的是（）",
+        "options": [
+            "A．培育无籽西瓜是利用单倍体育种的原理",
+            "B．杂交育种是利用了染色体数目的变异的原理",
+            "C．培养青霉素高产菌株过程中利用了基因突变的原理",
+            "D．“多莉羊”的诞生是利用了诱变育种的原理",
+            "E．磺胺类药物是利用酶的不可逆抑制原理"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 68
+    },
+    {
+        "question_text": "69．我国科学家成功地将人的抗病毒干扰素基因转移到烟草 DNA 分子上，从而使烟草获得了抗病毒的能力。这项技术所依据的遗传学原理主要是（）",
+        "options": [
+            "A．碱基的互补配对原则",
+            "B．中心法则",
+            "C．基因分离定律",
+            "D．基因自由组合定律",
+            "E．杂交育种"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 69
+    },
+    {
+        "question_text": "70．下列属于利用基因工程技术培育的新品种的是（）",
+        "options": [
+            "A．耐寒的小黑麦",
+            "B．抗棉铃虫的转基因抗虫棉",
+            "C．太空椒",
+            "D．试管牛",
+            "E．青霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 70
+    },
+    {
+        "question_text": "71．下列说法正确的是（）",
+        "options": [
+            "A．基因突变对于生物个体是利多于弊",
+            "B．基因重组能产生新的基因",
+            "C．基因突变都可以遗传给后代",
+            "D．基因重组是进行有性生殖的生物才具有的一种可遗传变异方式",
+            "E．基因突变都会致死"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 71
+    },
+    {
+        "question_text": "72．下列不属于利用基因工程技术制取的药物是（）",
+        "options": [
+            "A．从大肠杆菌体内制取白细胞介素",
+            "B．在酵母菌体内获得的干扰素",
+            "C．在青霉菌体内提取青霉素",
+            "D．在肠杆菌体内获得胰岛素",
+            "E．转基因牛获得白蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 72
+    },
+    {
+        "question_text": "73．在基因工程中，把选出的目的基因（共 1000 个碱基对，其中腺嘌呤 460 个）利用 DNA 扩增仪复制 4 代，那么扩增仪中至少加入胞嘧啶脱氧核苷酸的个数是（）",
+        "options": [
+            "A．640",
+            "B．8100",
+            "C．600",
+            "D．8640",
+            "E．320"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 73
+    },
+    {
+        "question_text": "74．下列关于基因工程的叙述，正确的是（）。",
+        "options": [
+            "A．基因工程经常以抗菌素抗性基因为目的基因",
+            "B．细菌质粒是基因工程常用的载体",
+            "C．通常用一种限制性内切酶处理含目的基因的 DNA，用另一种处理载体",
+            "D．为培育抗锄草剂的作物新品种，导入抗除草剂基因时只能以受精卵为受体",
+            "E．基因工程经常用化学合成法获取目的基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 74
+    },
+    {
+        "question_text": "75．下列哪一项不是基因工程所必需的（）",
+        "options": [
+            "A．纤维素酶",
+            "B．限制性内切酶",
+            "C．载体",
+            "D．DNA 连接酶",
+            "E．受体细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列关于基因工程的叙述不正确的是（）。",
+        "options": [
+            "A．基因工程的生物学原理是基因重组",
+            "B．通过基因工程技术能够定向改造生物的遗传性状",
+            "C．基因的针线是 DNA 连接酶",
+            "D．基因工程中常用的载体质粒在动植物细胞中广泛存在",
+            "E．基因工程中常用抗生素筛选阳性克隆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 76
+    },
+    {
+        "question_text": "77．下列关于质粒叙述不正确的是（）。",
+        "options": [
+            "A．质粒是染色体外的 DNA 分子",
+            "B．质粒存在于许多真核生物",
+            "C．质粒 DNA 分子是一种环形 DNA",
+            "D．质粒能够在目的细胞内复制",
+            "E．质粒存在于细菌中"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 77
+    },
+    {
+        "question_text": "78．中国农业科学院的科学家继成功培育出了抗棉铃虫转基因抗虫棉后，又成功培育出了抗虫烟草、抗虫玉米、抗虫水稻等多种农作物，转基因抗虫作物的推广具有哪些意义（）。 ①使危害农作物的害虫灭绝②农药用量减少③作物产量明显提高④环境污染降低⑤农业生产成本降低",
+        "options": [
+            "A．①②③",
+            "B．②③④",
+            "C．①④⑤",
+            "D．②④⑤",
+            "E．①②⑤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 78
+    },
+    {
+        "question_text": "79．基因工程技术引起的生物变异属于（）",
+        "options": [
+            "A．染色体变异",
+            "B．基因突变",
+            "C．基因重组",
+            "D．不可遗传的变异",
+            "E．可遗传的变异"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 79
+    },
+    {
+        "question_text": "80．能够使植物体表达动物蛋白的育种方法是（）",
+        "options": [
+            "A．单倍体育种",
+            "B．杂交育种",
+            "C．基因工程育种",
+            "D．二倍体育种",
+            "E．多倍体育种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 80
+    },
+    {
+        "question_text": "81．既有内切酶活力，又有连接酶活力的是()",
+        "options": [
+            "A．拓扑异构酶",
+            "B．DNA 聚合酶",
+            "C．解螺旋酶",
+            "D．DNA 连接酶",
+            "E．引物酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 81
+    },
+    {
+        "question_text": "82．在分子生物学中被应用的限制性核酸内切酶是（）",
+        "options": [
+            "A．Ⅰ型",
+            "B．Ⅱ型",
+            "C．Ⅲ型",
+            "D．IV 型",
+            "E．V 型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 82
+    },
+    {
+        "question_text": "83．限制性核酸内切酶错位切割产生（）",
+        "options": [
+            "A．粘性末端",
+            "B．平头末端",
+            "C．3’-磷酸",
+            "D．5’-羟基",
+            "E．3’-羟基"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 83
+    },
+    {
+        "question_text": "84．pBR322 是（）",
+        "options": [
+            "A．复制型载体",
+            "B．表达型载体",
+            "C．穿梭载体",
+            "D．噬菌体载体",
+            "E．逆转录病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 84
+    },
+    {
+        "question_text": "85．pUC 载体是（）",
+        "options": [
+            "A．复制型载体",
+            "B．表达型载体",
+            "C．穿梭载体",
+            "D．噬菌体载体",
+            "E．逆转录病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 85
+    },
+    {
+        "question_text": "86．M13 噬菌体是（）",
+        "options": [
+            "A．单链 DNA 噬菌体",
+            "B．双链 DNA 噬菌体",
+            "C．RNA 噬菌体",
+            "D．逆转录病毒",
+            "E．都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 86
+    },
+    {
+        "question_text": "87．F 因子从一个细胞转移至另一个细胞的基因转移过程称为",
+        "options": [
+            "A．转化",
+            "B．转导",
+            "C．转染",
+            "D．转座",
+            "E．接合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 87
+    },
+    {
+        "question_text": "88．通过自动获取或人为地供给外源 DNA 使受体细胞获得新的遗传表型，称为",
+        "options": [
+            "A．转化",
+            "B．转导",
+            "C．转染",
+            "D．转座",
+            "E．接合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 88
+    },
+    {
+        "question_text": "89．由插入序列和转座子介导的基因移位或重排称为",
+        "options": [
+            "A．转化",
+            "B．转导",
+            "C．转染",
+            "D．转座",
+            "E．接合"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 89
+    },
+    {
+        "question_text": "90．由整合酶催化、在两个 DNA 序列的特异位点间发生的整合称",
+        "options": [
+            "A．位点特异的重组",
+            "B．同源重组",
+            "C．基因重组",
+            "D．随机重组",
+            "E．人工重组"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 90
+    },
+    {
+        "question_text": "91．发生在同源序列间的重组称为",
+        "options": [
+            "A．位点特异的重组",
+            "B．非位点特异的重组",
+            "C．同源重组",
+            "D．随机重组",
+            "E，人工重组"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 91
+    },
+    {
+        "question_text": "92．限制性核酸内切酶切割 DNA 后产生",
+        "options": [
+            "A．5’磷酸基和 3’羟基基团的末端",
+            "B．3’磷酸基和 5’羟基基团的末端",
+            "C．5’磷酸基和 3’磷酸基团的末端",
+            "D．5’羟基和 3’羟基基团的末端",
+            "E．5’磷酸基和 5’羟基基团的末端"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 92
+    },
+    {
+        "question_text": "93．关于基因重组的描述，下列哪项是错误的",
+        "options": [
+            "A．外源 DNA 片段不能在原核细胞中表达",
+            "B．外源 DNA 片段可以在原核细胞中表达",
+            "C．基因重组可引起自然突变",
+            "D．整段 DNA 能在不同物种间进行交换",
+            "E．整段的 DNA 能在细胞间进行交换"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 93
+    },
+    {
+        "question_text": "94．在重组 DNA 技术中催化形成重组 DNA 分子的是 DNA",
+        "options": [
+            "A．聚合酶",
+            "B．解链酶",
+            "C．连接酶",
+            "D．拓扑酶",
+            "E．内切酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 94
+    },
+    {
+        "question_text": "95．细菌的 F 因子是通过哪种方式进行基因转移的",
+        "options": [
+            "A．接合作用",
+            "B．转化",
+            "C．转导",
+            "D．转染",
+            "E．转座"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 95
+    },
+    {
+        "question_text": "96．下列关于限制性内切核酸酶作用特性正确的是",
+        "options": [
+            "A．在对称序列处切开单链 DNA",
+            "B．DNA 两链的切点一定不在同一位点",
+            "C．酶切部位一定位于识别序列处",
+            "D．酶辨认的碱基一般为 8～12 个",
+            "E．酶切后产生的 DNA 片段都具有粘性互补末端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 96
+    },
+    {
+        "question_text": "97．下列 DNA 序列属于回文结构的是",
+        "options": [
+            "A．ATGCCG",
+            "B．GGCCGG",
+            "C．CTAGGG",
+            "D．GAATTC",
+            "E．TCTGAC"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 97
+    },
+    {
+        "question_text": "98．下列哪种工具酶的出现在基因工程中具有最重要的意义：",
+        "options": [
+            "A．逆转录酶",
+            "B．限制性核酸内切酶",
+            "C．末端转移酶",
+            "D．DNA 聚合酶",
+            "E．DNA 连接酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 98
+    },
+    {
+        "question_text": "99．常用质粒载体的特点是",
+        "options": [
+            "A．为线性双链 DNA 分子",
+            "B．为环形单链 DNA 分子",
+            "C．具有自我复制能力",
+            "D．含有同一限制性内切酶的多个切点",
+            "E．缺乏表达外源基因的能力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 99
+    },
+    {
+        "question_text": "100．实施基因工程第一步的一种方法是把所需的基因从供体细胞内分离出来，这要利用限制性内切酶。从大肠杆菌中提取的一种限制性内切酶 ECORI，能识别 DNA分子中的 GAATTC 序列，切点在 G 与 A 之间。这是应用了酶的（）",
+        "options": [
+            "A．高效性",
+            "B．专一性",
+            "C．多样性",
+            "D．催化活性受外界条件影响",
+            "E．可逆性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 100
+    },
+    {
+        "question_text": "101．下列哪项不是限制性内切酶识别序列的特点",
+        "options": [
+            "A．特异性很高",
+            "B．常由 4-6 个核苷酸组成",
+            "C．一般具有回文结构",
+            "D．少数识别序列中的碱基可以有规律地替换",
+            "E．限制性内切酶的切口均是粘性末端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 101
+    },
+    {
+        "question_text": "102．转化通常指",
+        "options": [
+            "A．由病毒介导的，发生在供体细胞与受体细胞之间的DNA 转移",
+            "B．产生点突变",
+            "C．噬菌体感染",
+            "D．摄取外来 DNA，引起细胞遗传表型的改变",
+            "E．质粒 DNA 从一个细胞转移到另一个细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 102
+    },
+    {
+        "question_text": "103．下列关于基因工程的叙述，错误的是",
+        "options": [
+            "A．也称基因克隆",
+            "B．只有质粒 DNA 能被用作载体",
+            "C．需供体 DNA",
+            "D．重组 DNA 转化或转染宿主细胞",
+            "E．重组 DNA 需要进一步纯化、传代和扩增"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 103
+    },
+    {
+        "question_text": "104．将重组 DNA 导入大肠杆菌菌体的方式是",
+        "options": [
+            "A．转染",
+            "B．转导",
+            "C．转化",
+            "D．转录",
+            "E．转换"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 104
+    },
+    {
+        "question_text": "105．构建 cDNA 文库时，首先需分离细胞的",
+        "options": [
+            "A．染色体 DNA",
+            "B．线粒体 DNA",
+            "C．总 mRNA",
+            "D．总 tRNA",
+            "E．总 rRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 105
+    },
+    {
+        "question_text": "106．下列哪项不是载体必需具备的特点",
+        "options": [
+            "A．本身是一个复制单位，具有复制起点",
+            "B．插入外源 DNA 后并不影响载体本身的复制",
+            "C．进入细胞后用本身的酶系进行复制",
+            "D．易进入受体细胞",
+            "E．易于鉴定和筛选"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 106
+    },
+    {
+        "question_text": "107．下列的基因载体中，插入外源基因容量最大的是",
+        "options": [
+            "A．pBR322",
+            "B．cosmid",
+            "C．λgtphage",
+            "D．EMBLphage",
+            "E．pUC"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 107
+    },
+    {
+        "question_text": "108．基因克隆时，下列哪种途径不能获取目的基因",
+        "options": [
+            "A．用 DNA 合成仪进行化学合成",
+            "B．从基因组 DNA 文库中筛选",
+            "C．从 cDNA 文库中筛选",
+            "D．PCR",
+            "E．利用探针提取相关目的基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 108
+    },
+    {
+        "question_text": "109．有关理想质粒载体的特点，正确的是",
+        "options": [
+            "A．为线性单链 DNA",
+            "B．含有多种限制性酶的单一切点",
+            "C．含有同一限制酶的多个切点",
+            "D．其复制受宿主控制",
+            "E．不含耐药基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 109
+    },
+    {
+        "question_text": "110．双脱氧末端终止法测序体系与 PCR 反应体系的主要区别是前者含有",
+        "options": [
+            "A．模板",
+            "B．引物",
+            "C．DNA 聚合酶",
+            "D．ddNTP",
+            "E．缓冲液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 110
+    },
+    {
+        "question_text": "111．重组 DNA 技术中，对重组体的直接筛选方法不包括",
+        "options": [
+            "A．ampr 抗药性标志筛选",
+            "B．kanr 抗药性标志筛选",
+            "C．互补筛选",
+            "D．α酶联免疫检测",
+            "E．Southern 杂交"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 111
+    },
+    {
+        "question_text": "112．PCR 技术扩增 DNA,需要的条件是() ①目的基因②引物③四种脱氧核苷酸④DNA 聚合酶等⑤mRNA⑥核糖体",
+        "options": [
+            "A．①②③④",
+            "B．②③④⑤",
+            "C．①③④⑤",
+            "D．①②③⑥",
+            "E．①④⑤⑥"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 112
+    },
+    {
+        "question_text": "113．PCR 是在引物、模板和 4 种脱氧核糖核苷酸存在的条件下依赖于 DNA 聚合酶的酶促合成反应，其特异性决定因素为（）",
+        "options": [
+            "A．模板",
+            "B．引物",
+            "C．dNTP",
+            "D．镁离子",
+            "E．底物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 113
+    },
+    {
+        "question_text": "114．在 PCR 反应中，下列哪项可以引起非靶序列的扩增()",
+        "options": [
+            "A．TaqDNA 聚合酶加量过多",
+            "B．引物加量过多",
+            "C．A 和 B 都可",
+            "D．缓冲液中镁离子含量过高",
+            "E．底物过量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 114
+    },
+    {
+        "question_text": "115．“SourthernBlotting”指的是",
+        "options": [
+            "A．将 DNA 转移到膜上，用 DNA 做探针杂交",
+            "B．将 RNA 转移到膜上，用 DNA 做探针杂交",
+            "C．将 DNA 转移到膜上，用蛋白质做探针杂交",
+            "D．将 RNA 转移到膜上，用 RNA 做探针杂交",
+            "E．将 DNA 转移到膜上，用 RNA 做探针杂交"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 115
+    },
+    {
+        "question_text": "116．分子杂交试验不能用于①单链 DNA 分子之间的杂交②单链 DNA 与 RNA 分子之间的杂交③抗原与抗体分子之间的结合④双链 DNA 与 RNA 分子之间的杂交⑤RNA 与 RNA 之间的杂交",
+        "options": [
+            "A．①②③",
+            "B．②③④",
+            "C．①②⑤",
+            "D．②③⑤",
+            "E．②④⑤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 116
+    },
+    {
+        "question_text": "117．探针是经过什么标记的核酸分子",
+        "options": [
+            "A．用放射性同位素标记",
+            "B．用生物素标记",
+            "C．用地高辛标记",
+            "D．ABC 都对",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 117
+    },
+    {
+        "question_text": "118．下列哪一条在分子印渍技术中不适用",
+        "options": [
+            "A．DNA 向 NC 膜转移",
+            "B．蛋白质向 PVDF 膜转移",
+            "C．DNA 向尼龙膜转移",
+            "D．RNA 向 NC 膜转移",
+            "E．蛋白质向一号滤纸转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 118
+    },
+    {
+        "question_text": "119．用于核酸杂交的探针至少应符合下列哪条",
+        "options": [
+            "A．必须是双链 DNA",
+            "B．必须是双链 RNA",
+            "C．必须是单链 DNA",
+            "D．必须是 100bp 以上的大分子 DNA",
+            "E．必须是蛋白质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 119
+    },
+    {
+        "question_text": "120．核酸点杂交试验中可省略的步骤是",
+        "options": [
+            "A．电泳",
+            "B．核酸样品固定于 NC 膜",
+            "C．杂交信号检测",
+            "D．标记探针",
+            "E．制备样本核酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 120
+    },
+    {
+        "question_text": "121．镁离子在 DNA 或 RNA 体外扩增反应的浓度一般为",
+        "options": [
+            "A．0．3-1mmol/L",
+            "B．0．5-1mmol/L",
+            "C．0．3-2mmol/L",
+            "D．0．5-2mmol/L",
+            "E．0．1-0．5mmol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 121
+    },
+    {
+        "question_text": "122．多重 PCR 需要的引物对为（）",
+        "options": [
+            "A．一对引物",
+            "B．半对引物",
+            "C．两对引物",
+            "D．多对引物",
+            "E．不需要引物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 122
+    },
+    {
+        "question_text": "123．基因工程常用的受体细胞有（） ①大肠杆菌②枯草杆菌③支原体④动植物细胞",
+        "options": [
+            "A．①②③④",
+            "B．①②③",
+            "C．②③④",
+            "D．①②④",
+            "E．①③④"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 123
+    },
+    {
+        "question_text": "124．下列关于基因工程应用的叙述，正确的是（）",
+        "options": [
+            "A．基因治疗就是把缺陷基因诱变成正常基因",
+            "B．基因诊断的基本原理是 DNA 分子杂交",
+            "C．一种基因探针能检测水体中的各种病毒",
+            "D．原核生物基因不能用来进行真核生物的遗传改良",
+            "E．基因工程质量高但成本也高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 124
+    },
+    {
+        "question_text": "125．基因工程技术可使大肠杆菌合成人的蛋白质。下列叙述不正确的是（）",
+        "options": [
+            "A．经常用相同的限制性内切酶处理目的基因和质粒",
+            "B．DNA 连接酶和 RNA 聚合酶是构建重组质粒必需的工具酶",
+            "C．可用含抗生素的培养基检测大肠杆菌中是否导入了重组质粒",
+            "D．导入大肠杆菌的目的基因不一定能成功表达",
+            "E．可以酶切鉴定的方法确定重组质粒是否构建成功"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 125
+    },
+    {
+        "question_text": "126．基因治疗是指（）",
+        "options": [
+            "A．对有基因缺陷的细胞进行修复，从而使其恢复正常，达到治疗疾病的目的",
+            "B．把健康的外源基因导入到有基因缺陷的细胞中，达到治疗疾病的目的",
+            "C．运用人工诱变的方法，使有基因缺陷的细胞发生基因突变恢复正常",
+            "D．运用基因工程技术，把有缺陷的基因切除，达到治疗疾病的目的",
+            "E．将正常基因导入造血干细胞中，达到治疗疾病的目的"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 126
+    },
+    {
+        "question_text": "127．下列关于质粒的叙述，正确的是（）",
+        "options": [
+            "A．质粒是广泛存在于细菌细胞中的一种颗粒状细胞器",
+            "B．质粒是细菌细胞质中能够自主复制的小型环状 DNA分子",
+            "C．质粒上有细菌生活所必需的基因",
+            "D．细菌质粒的复制过程一定是在宿主细胞外独立进行的",
+            "E．质粒是广泛存在于真核细胞中"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 127
+    },
+    {
+        "question_text": "128．利用细菌大量生产人的胰岛素，下列叙述错误的是（）",
+        "options": [
+            "用适当的酶对载体与人的胰岛素基因进行切割与黏合",
+            "B．用适当的化学物质处理受体细菌表面，将重组 DNA导入受体细菌",
+            "C．通常通过检测目的基因产物来检测重组 DNA 是否已导入受体细菌",
+            "D．重组 DNA 必须能在受体细菌内进行复制与转录，并合成人的胰岛素",
+            "E．首先要采用适当方法获取人的胰岛素基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 128
+    },
+    {
+        "question_text": "129．当前医学上，蛋白质工程药物正逐步取代第一代基因工程多肽蛋白质类替代治疗剂，则基因工程药物与蛋白质工程药物的区别是（）",
+        "options": [
+            "A．都与天然产物完全相同",
+            "B．都与天然产物不相同",
+            "C．基因工程药物与天然产物完全相同，蛋白质工程药物与天然产物不相同",
+            "D．基因工程药物与天然产物不相同，蛋白质工程药物与天然产物完全相同",
+            "E．以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 129
+    },
+    {
+        "question_text": "130．科学家们经过多年的努力，创立了一种新兴的生物技术——基因工程，实施该工程的最终目的是（）",
+        "options": [
+            "A．定向提取生物体 DNA 分子",
+            "B．定向对 DNA 分子进行人工“剪切”",
+            "C．定向改造生物的遗传性状",
+            "D．在生物体外对 DNA 分子进行改造",
+            "E．表达目的基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 130
+    },
+    {
+        "question_text": "131．基因工程中，常用的细菌、酵母菌等微生物作为受体细胞，原因是（）",
+        "options": [
+            "A．结构简单，操作方便",
+            "B．繁殖速度快",
+            "C．遗传物质含量少",
+            "D．性状稳定，变异少",
+            "E．容易筛选"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 131
+    },
+    {
+        "question_text": "132．质粒是基因工程中最常用的运载体，它的主要特点是（） ①能自主复制②不能自主复制③结构很小④蛋白质⑤环状 RNA⑥环状 DNA⑦能“友好”地“借居”",
+        "options": [
+            "A．①③⑤⑦",
+            "B．②④⑥",
+            "C．①③⑥⑦",
+            "D．②③⑥⑦",
+            "E．①②⑤⑥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 132
+    },
+    {
+        "question_text": "133．植物学家在培育抗虫棉时，对目的基因作了适当的修饰，使得目的基因在棉花植株的整个生长发育期都表达，以防止害虫侵害。这种对目的基因所作的修饰发生在（）",
+        "options": [
+            "非编码区",
+            "B．内含子",
+            "C．外显子",
+            "D．编码区",
+            "E．启动子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 133
+    },
+    {
+        "question_text": "134．不属于目的基因与载体结合过程的是（）",
+        "options": [
+            "A．用一定的限制酶切割质粒露出黏性末端",
+            "B．用同种限制酶切割目的基因露出黏性末端",
+            "C．将切下的目的基因的片段插入到质粒切口处",
+            "D．将重组 DNA 导入受体细胞中进行扩增",
+            "E．用 DNA 连接酶将目的基因与载体连接"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 134
+    },
+    {
+        "question_text": "135．科学家将含有人的抗胰蛋白酶基因的 DNA 片段注射到羊的受精卵中，该受精卵发育的羊能分泌含抗胰蛋白酶的奶。这一过程涉及（） ①DNA 按照碱基互补配对原则自我复制 ②DNA 以其一条链为模板合成 RNA③RNA 以自身为模板自我复制④按照 RNA 密码子的排列顺序合成蛋白质",
+        "options": [
+            "A．①③",
+            "B．③④",
+            "C．①②③",
+            "D．①②④",
+            "E．①③④"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 135
+    },
+    {
+        "question_text": "136．下列说法正确的是（）",
+        "options": [
+            "A．DNA 连接酶最初是从人体细胞中发现的",
+            "B．限制酶的切口一定是 GAATTC 碱基序列",
+            "C．质粒是基因工程中唯一用作运载目的基因的载体",
+            "D．利用载体在宿主细胞内对目的基因进行大量复制的过程可称为“克隆”",
+            "E．利用质粒在宿主细胞内只能对目的基因进行大量复制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 136
+    },
+    {
+        "question_text": "137．下列关于限制酶的说法不正确的是（）",
+        "options": [
+            "A．限制酶广泛存在于各种生物中，微生物中很少分布",
+            "B．一种限制酶只能识别一种特定的核苷酸序列",
+            "C．不同的限制酶切割 DNA 的切点不同",
+            "D．限制酶的作用是用来提取目的基因",
+            "E．限制酶可以产生粘末端和平末端"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 137
+    },
+    {
+        "question_text": "138．1982 年，美国科学家将人的生长激素基因转移到了小鼠体内，得到了超级小鼠，此转基因技术的受体细胞是（）",
+        "options": [
+            "A．卵细胞",
+            "B．去核卵细胞",
+            "C．受精卵细胞",
+            "D．乳腺上皮细胞",
+            "E．精细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 138
+    },
+    {
+        "question_text": "139．下列实践与基因工程无关的是（）",
+        "options": [
+            "A．选择“工程菌”来生产胰岛素",
+            "B．培育转基因抗虫棉",
+            "C．人工诱导多倍体",
+            "D．利用 DNA 探针检测饮用水是否含有病毒",
+            "E．多莉羊的诞生"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 139
+    },
+    {
+        "question_text": "140．“工程菌”是指（）",
+        "options": [
+            "A．用物理或化学方法诱发菌类自身某些基因得到高效表达的菌类细胞株系",
+            "B．用遗传工程的方法，使同种不同株系的菌类杂交，得到的新细胞株系",
+            "C．用基因工程的方法，使外源基因得到高效表达的菌类细胞株系",
+            "D．从自然界中选取能迅速增殖的菌类",
+            "E．用细胞工程的方法获得的能快速增殖的菌类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 140
+    },
+    {
+        "question_text": "141．用 DNA 探针检测饮用水中病毒的具体方法是（）",
+        "options": [
+            "A．与被检测病毒的 DNA 碱基序列进行比较",
+            "B．与被检测病毒的 DNA 碱基序列进行组合",
+            "C．与被检测病毒的 DNA 碱基序列进行杂交",
+            "D．与被检测病毒的 DNA 碱基序列进行连接",
+            "E．与被检测病毒的 RNA 碱基序列进行杂交"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 141
+    },
+    {
+        "question_text": "142．用珠蛋白的 DNA 探针可以检测出的遗传病是（）",
+        "options": [
+            "A．镰刀状细胞贫血症",
+            "B．白血病",
+            "C．坏血病",
+            "D．苯丙酮尿症",
+            "E．白化病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 142
+    },
+    {
+        "question_text": "144．1976 年人类首次获得转基因生物，即将人的生长素抑制因子的基因转入大肠杆菌，并获得表达。这里的表达是指该基因在大肠杆菌内（）",
+        "options": [
+            "A．能进行 DNA 复制",
+            "B．能进行转录和翻译",
+            "C．能合成生长素抑制因子",
+            "D．能合成人的生长激素",
+            "E．能进行转录"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 143
+    },
+    {
+        "question_text": "145 重组 DNA 的连接方式不包括：",
+        "options": [
+            "A．粘性末端连接",
+            "B．平头末端连接",
+            "C．粘性末端与平头末端连接",
+            "D．DNA 连接子技术",
+            "E．DNA 适配子技术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 144
+    },
+    {
+        "question_text": "146 质粒是基因工程最常用的载体，有关质粒的说法正确的是()",
+        "options": [
+            "A．质粒不仅存在于细菌中，某些病毒也具有",
+            "B．细菌的基因只存在于质粒上",
+            "C．质粒为小型环状 DNA 分子，存在于拟核外的细胞质基质中",
+            "D．质粒是基因工程中的重要工具酶之一",
+            "E．质粒存在于各种真核细胞中"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 145
+    },
+    {
+        "question_text": "147 下列有关基因工程中限制性内切酶的描述，错误的是（）",
+        "options": [
+            "A．一种限制性内切酶只能识别一种特定的脱氧核苷酸序列",
+            "B．限制性内切酶的活性受温度影响",
+            "C．限制性内切酶能识别和切割多种 DNA 序列",
+            "D．限制性内切酶可从原核生物中提取",
+            "E．限制性内切酶可以产生粘性末端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 146
+    },
+    {
+        "question_text": "148 科学家通过基因工程的方法，能使马铃薯块茎含有人奶主要蛋白。以下有关该基因工的叙述错误的是（）",
+        "options": [
+            "A．采用反转录的方法得到的目的基因有内含子",
+            "B．基因非编码区对于目的基因在块茎中的表达是不可缺少的",
+            "C．马铃薯的叶肉细胞可作为受体细胞",
+            "D．用同一种限制酶，分别处理质粒和含目的基因的DNA，可产生相同的黏性末端而形成重组 DNA 分子",
+            "E．目的基因可以用 PCR 的方法获取"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 147
+    },
+    {
+        "question_text": "149 科学家为提高玉米中赖氨酸含量，计划将天冬氨酸激酶的第 352 位的苏氨酸变成异亮氨酸，将二氢吡啶二羧酸合成酶中 104 位的氨基酸由天冬酰胺变成异亮氨酸，就可以使玉米叶片和种子中的游离赖氨酸含量分别提高 5 倍和 2 倍，下列对蛋白质的改造，操作正确的是()",
+        "options": [
+            "A．直接通过分子水平改造蛋白质",
+            "B．直接改造相应的 mRNA",
+            "C．对相应的基因进行操作",
+            "D．重新合成新的基因",
+            "E．以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 148
+    },
+    {
+        "question_text": "150．在分子生物学领域，重组 DNA 技术又称",
+        "options": [
+            "A．蛋白质工程",
+            "B．酶工程",
+            "C．细胞工程",
+            "D．基因工程",
+            "E．DNA 工程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 149
+    },
+    {
+        "question_text": "151．在重组 DNA 技术中，不常见到的酶是",
+        "options": [
+            "A．DNA 连接酶",
+            "B．DNA 聚合酶",
+            "C．限制性核酸内切酶",
+            "D．反转录酶",
+            "E．拓扑异构酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 150
+    },
+    {
+        "question_text": "152．cDNA 是指",
+        "options": [
+            "A．在体外经反转录合成的与 RNA 互补的 DNA",
+            "B．在体内经转录合成的与 DNA 互补的 DNA",
+            "C．在体内经转录合成的与 DNA 互补的 RNA",
+            "D．在体外经反转录合成的与 DNA 互补的 DNA",
+            "E．在体外经转录合成的与 RNA 互补的 RNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 151
+    },
+    {
+        "question_text": "153．基因组 DNA 代表一个细胞或生物体的",
+        "options": [
+            "A．部分遗传信息",
+            "B．整套遗传信息",
+            "C．可转录基因的遗传信息",
+            "D．非转录基因的遗传信息",
+            "E．可表达基因的遗传信息"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 152
+    },
+    {
+        "question_text": "154．下列有关质粒的描述正确的是",
+        "options": [
+            "A．质粒分子本身不含有具备复制功能的遗传结构",
+            "B．质粒是存在于酵母染色体外的小型环状双链 DNA 分 子",
+            "C．质粒分子本身是含有复制功能的遗传结构，能在宿主细胞独立自主进行复制",
+            "D．质粒一般不携带遗传信息，不会赋予宿主细胞一些遗传性状",
+            "E．所有质粒都可以表达目的基因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 153
+    },
+    {
+        "question_text": "155．已知人乳腺来源的某长度为 1．5kb 的基因序列，获取该目的基因的最方便的方法是",
+        "options": [
+            "A．化学合成法",
+            "B．基因组文库法",
+            "C．cDNA 文库法",
+            "D．聚合酶链反应",
+            "E．差异显示法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 154
+    },
+    {
+        "question_text": "156．限制性核酸内切酶 HindⅢ切割 5′-A▼AGCTT-3′后产生",
+        "options": [
+            "A．平端",
+            "B．5′突出黏端",
+            "C．3′突出黏端",
+            "钝性末端",
+            "E．配伍黏末端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 155
+    },
+    {
+        "question_text": "157．需要使用限制性内切酶的是",
+        "options": [
+            "A．基因载体的切割",
+            "B．目的基因与载体的连接",
+            "C．DNA 重组子导入受体细胞",
+            "D．表达目的基因编码的蛋白质",
+            "E．筛选、繁殖含有 DNA 重组分子的受体细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 156
+    },
+    {
+        "question_text": "158．构建基因组 DNA 文库时，首先需分离细胞的",
+        "options": [
+            "A．染色体 DNA",
+            "B．线粒体 DNA",
+            "C．mRNA",
+            "D．tRNA",
+            "E．rRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 157
+    },
+    {
+        "question_text": "159．关于 E．coli 表达载体的描述错误的是",
+        "options": [
+            "A．有大肠杆菌适宜的选择标志",
+            "B．有两套复制原点及选择标记，分别在大肠杆菌和真核细胞中起作用",
+            "C．具有能调控转录、产生大量 mRNA 的强启动子",
+            "D．含有适当的翻译控制序列",
+            "E．还有合理设计的多克隆位点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 158
+    },
+    {
+        "question_text": "160．α-互补筛选法属于",
+        "options": [
+            "A．抗药性标志筛选",
+            "B．酶联免疫筛选",
+            "C．标志补救筛选",
+            "D．原位杂交筛选",
+            "E．Southern 杂交筛选"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 159
+    },
+    {
+        "question_text": "161．下列常用于原核表达体系的是",
+        "options": [
+            "A．酵母细胞",
+            "B．昆虫细胞",
+            "C．哺乳类细胞",
+            "D．真菌",
+            "E．大肠杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 160
+    },
+    {
+        "question_text": "162．真核表达载体不含有",
+        "options": [
+            "A．选择标记",
+            "B．启动子",
+            "C．转录翻译终止信号",
+            "D．mRNA 加 polyA 信号",
+            "E．3′-加帽信号"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 161
+    },
+    {
+        "question_text": "163．就分于结构而论，质粒一般是",
+        "options": [
+            "A．环状双链 DNA 分子",
+            "B．环状单链 DNA 分子",
+            "C．环状单链 RNA 分子",
+            "D．线状双链 DNA 分子",
+            "E．线状单链 DNA 分子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 162
+    },
+    {
+        "question_text": "164．下列哪些方法可应用于重组体的筛选 ①抗药性标记筛选②营养突变菌株筛选③α-互补筛选 ④原位杂交筛选⑤免疫化学方法筛选",
+        "options": [
+            "A．①②③④",
+            "B．②③④⑤",
+            "C．①②③⑤",
+            "D．①②③④⑤",
+            "E．①②④⑤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 163
+    },
+    {
+        "question_text": "165．用来鉴定 DNA 的技术是",
+        "options": [
+            "A．Northern 印迹杂交",
+            "B．Western 印迹杂交",
+            "C．Southern 印迹杂交",
+            "D．离子交换层析",
+            "E．SDS-PAGE"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 164
+    },
+    {
+        "question_text": "166．如果克隆的基因能够在宿主菌中表达，且表达产物与宿主菌的营养缺陷互补，那我们可以",
+        "options": [
+            "A．用营养突变菌株进行筛选",
+            "B．用营养完全株进行筛选",
+            "C．通过α-互补进行蓝白筛选",
+            "D．免疫组化筛选",
+            "E．抗药性标志"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 165
+    },
+    {
+        "question_text": "167．针对载体携带某种或某些标志基因和目的基因而设计的筛选方法称",
+        "options": [
+            "A．非直接选择法",
+            "B．直接选择法",
+            "C．免疫学方法",
+            "D．免疫化学方法",
+            "E．酶免检测分析"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 166
+    },
+    {
+        "question_text": "168．分子遗传学领域里的分子克隆是指",
+        "options": [
+            "A．细菌克隆",
+            "B．DNA 克隆",
+            "C．RNA 克隆",
+            "D．动物克隆",
+            "E．植物克隆"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 167
+    },
+    {
+        "question_text": "169．下列哪种方法不能获得目的基因",
+        "options": [
+            "A．化学合成法",
+            "B．基因组 DNA 文库",
+            "C．cDNA 文库",
+            "D．物理方法",
+            "E．PCR 法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 168
+    },
+    {
+        "question_text": "170．需要应用转化或转染等技术手段的是",
+        "options": [
+            "A．基因载体的切割",
+            "B．目的基因与载体的连接",
+            "C．DNA 重组子导入受体细胞",
+            "D．表达目的基因编码的蛋白质",
+            "E．筛选、繁殖含有 DNA 重组分子的受体细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 169
+    },
+    {
+        "question_text": "171．质粒 DNA 从一个细菌转移到另一个细菌称",
+        "options": [
+            "A．接合",
+            "B．转化",
+            "C．转导",
+            "D．转座",
+            "E．细胞融合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 170
+    },
+    {
+        "question_text": "172．催化合成 cDNA 的是",
+        "options": [
+            "A．碱性磷酸酶",
+            "B．DNA 连接酶",
+            "C．DNA 聚合酶",
+            "D．逆转录酶",
+            "E．限制性核酸内切酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 171
+    },
+    {
+        "question_text": "173．来源不同的 DNA 拼接成重组 DNA 分子需",
+        "options": [
+            "A．碱性磷酸酶",
+            "B．DNA 连接酶",
+            "C．DNA 聚合酶",
+            "D．逆转录酶",
+            "E．限制性核酸内切酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 172
+    },
+    {
+        "question_text": "174．关于质粒 DNA 的叙述错误的是",
+        "options": [
+            "A．是真核生物基因组 DNA 的组成部分",
+            "B．具有独立复制功能，能在宿主细胞独立的进行复制",
+            "C．含有各种抗性筛选标记",
+            "D．可携带感兴趣的目的 DNA",
+            "E．具有编码蛋白质的功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 173
+    },
+    {
+        "question_text": "175．下述操作可能用于 DNA 克隆过程的是 ①PCR 获得目的 DNA②限制性核酸内切酶切割目的 DNA 和载体 ③核酸分子杂交④细菌的生长和繁殖⑤RT-PCR 制备 cDNA",
+        "options": [
+            "A．①②③④",
+            "B．②③④⑤",
+            "C．①②③⑤",
+            "D．①②③④⑤",
+            "E．①②④⑤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 174
+    },
+    {
+        "question_text": "176．需要选择原核或真核表达体系的是",
+        "options": [
+            "A．基因载体的切割",
+            "B．目的基因与载体的连接",
+            "C．DNA 重组子导入受体细胞",
+            "D．表达目的基因编码的蛋白质",
+            "E．筛选、繁殖含有 DNA 重组分子的受体细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 175
+    },
+    {
+        "question_text": "177．在基因工程的中所需的工具酶有，除了",
+        "options": [
+            "A．限制性核酸外切酶",
+            "B．DNA 连接酶",
+            "C．逆转录酶",
+            "D．限制性核酸内切酶",
+            "E．碱性磷酸酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 176
+    },
+    {
+        "question_text": "178．关于基因工程，下列说法正确的是：",
+        "options": [
+            "A．任何质粒均可通过接合作用从一个细胞（细菌）转移至另一个细胞（细菌）。",
+            "B．来源于真核的外源 DNA 片段只能在真核细胞中表达。",
+            "C．质粒是存在于酵母染色体外的小型环状双链 DNA 分子。",
+            "D．重组 DNA 技术所采用的宿主菌应为限制酶和重组酶缺陷型",
+            "E．可充当克隆载体的 DNA 分子有质粒 DNA，噬菌体 DNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 177
+    },
+    {
+        "question_text": "179．下列关于限制性核酸内切酶的说法错误的是：",
+        "options": [
+            "A．所有的限制性核酸内切酶切割 DNA 后均产生 5′磷酸基和 3′羟基的末端。",
+            "B．载体和目的基因只有利用一种限制性核酸内切酶切割，才能进行重组。",
+            "C．重组 DNA 技术中常用的限制性核酸内切酶为Ⅱ类酶。",
+            "D．有些限制性核酸内切酶识别序列不完全相同，但切割 DNA 后可产生相同类型的黏性末端且可进行相互连接。",
+            "E．限制性核酸内切酶识别的序列往往是回文序列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 178
+    },
+    {
+        "question_text": "180．下列哪项技术不是分子生物学技术",
+        "options": [
+            "A．原位杂交",
+            "B．PCR",
+            "C．DNA 测序",
+            "D．图像分析",
+            "E．重组 DNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 179
+    },
+    {
+        "question_text": "181．在（）的温度范围内，DNA 的双螺旋结构解开",
+        "options": [
+            "A．10～20℃",
+            "B．80～100℃",
+            "C．20～30℃",
+            "D．40～60℃",
+            "E．60～80℃"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 180
+    },
+    {
+        "question_text": "182．下列关于质粒的叙述，错误的是",
+        "options": [
+            "A．大小约为数千个碱基对",
+            "B．是双链的线性分子",
+            "C．存在于大多数细菌的包质中",
+            "D．易从一个细菌转移入另一个细菌",
+            "E．常带抗药性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "181",
+        "number": 181
+    }
+]

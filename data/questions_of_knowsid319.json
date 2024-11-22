@@ -1,0 +1,1527 @@
+[
+    {
+        "question_text": "1．根据 F.Crik 中心法则，遗传信息的传递方式是",
+        "options": [
+            "A．蛋白质→RNA→DNA",
+            "B．RNA→DNA→蛋白质",
+            "C．RNA→RNA→DNA",
+            "D．DNA→RNA→蛋白质",
+            "E．DNA→DNA→蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 1
+    },
+    {
+        "question_text": "2．F.Crik 中心法则遗传信息的传递方式不包括",
+        "options": [
+            "A．DNA→rRNA",
+            "B．DNA→DNA",
+            "C．RNA→蛋白质",
+            "D．mRNA→DNA",
+            "E．DNA→tRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 2
+    },
+    {
+        "question_text": "3．H.Temin 对中心法则的补充内容是",
+        "options": [
+            "A．mRNA→蛋白质",
+            "B．DNA→DNA",
+            "C．RNA→DNA",
+            "D．DNA→mRNA",
+            "E．蛋白质→mRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 3
+    },
+    {
+        "question_text": "4．H.Temin 对中心法则的补充内容是",
+        "options": [
+            "A．转录",
+            "B．逆转录",
+            "C．翻译",
+            "D．DNA 复制",
+            "E．RNA 复制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 4
+    },
+    {
+        "question_text": "5．下列关于遗传信息传递与表达的叙述，错误的是",
+        "options": [
+            "A．转座是 RNA→RNA",
+            "B．转录是 DNA→RNA",
+            "C．复制是 DNA→DNA",
+            "D．逆转录是 RNA→DNA",
+            "E．翻译是 RNA→蛋白质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 5
+    },
+    {
+        "question_text": "6．M.Meselson 和 F.W.Stahl 用 15NH4Cl 证明的机制是",
+        "options": [
+            "A．DNA 转录为 mRNA",
+            "B．DNA 半保留复制",
+            "C．mRNA 翻译为蛋白质",
+            "D．DNA 混合式复制",
+            "E．DNA 全保留复制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 6
+    },
+    {
+        "question_text": "7．以 15N 标记 DNA 双链为模板，当以 NH4Cl 作氮源复制 DNA 时，开始产生不含 15N 的子代 DNA 分子是在",
+        "options": [
+            "A．第 1 代",
+            "B．第 2 代",
+            "C．第 3 代",
+            "D．第 4 代",
+            "E．第 5 代"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 7
+    },
+    {
+        "question_text": "8．真核生物 DNA 合成的特点不包括",
+        "options": [
+            "A．半不连续复制",
+            "B．多复制子复制",
+            "C．半保留复制",
+            "D．双向复制",
+            "E．滚环复制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 8
+    },
+    {
+        "question_text": "9．如果以 15N 标记的 DNA 双链作模板，NH4Cl 作氮源进行复制，对子一代 DNA 分子做密度梯度离心分析，其密度带应位于",
+        "options": [
+            "A．重 DNA 带下方",
+            "B．普通 DNA 带",
+            "C．普通 DNA 带上方",
+            "D．重 DNA 带",
+            "E．普通带与重 DNA 带之间"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 9
+    },
+    {
+        "question_text": "10．证实 DNA 半保留复制的技术是",
+        "options": [
+            "A．Sanger 法",
+            "B．密度梯度离心",
+            "C．α互补",
+            "D．斑点杂交",
+            "E．蛋白质印迹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 10
+    },
+    {
+        "question_text": "11．真核生物 DNA 复制的方式是",
+        "options": [
+            "A．滚环复制",
+            "B．D 环复制",
+            "C．全保留复制",
+            "D．混合式复制",
+            "E．半保留复制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 11
+    },
+    {
+        "question_text": "12．DNA 半保留复制使子代保留了亲代 DNA 的全部遗传信息，其表现形式是",
+        "options": [
+            "A．DNA 互补双链碱基序列的一致性",
+            "B．代与代之间 DNA 碱基序列的一致性",
+            "C．偶数链 DNA 碱基序列的一致性",
+            "D．有规律间隔的碱基序列一致性",
+            "E．对应链 DNA 碱基序列的一致性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 12
+    },
+    {
+        "question_text": "13．下列关于双向复制的叙述，错误的是",
+        "options": [
+            "A．真核生物是多复制子复制",
+            "B．原核生物只有一个复制起点",
+            "C．原核生物是双复制子复制",
+            "D．DNA 从起始点向两个方向解链",
+            "E．每个起始点产生两个复制叉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 13
+    },
+    {
+        "question_text": "14．下列关于 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．领头链复制方向与解链方向相同",
+            "B．领头链连续复制",
+            "C．顺着解链方向生成的子链是随从链",
+            "D．子链延伸方向是 5'→3'",
+            "E．不连续片段称为冈崎片段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 14
+    },
+    {
+        "question_text": "15．下列关于复制的化学反应的叙述，错误的是",
+        "options": [
+            "A．新链延长只能是 5'→3'方向",
+            "B．形成 3',5'-磷酸二酯键",
+            "C．dNTP 的β、γ-P 以 PPi 形式释放",
+            "D．DNA 复制的底物是 dNMP",
+            "E．α-P 与子链末端核糖 3'-OH 连接"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 15
+    },
+    {
+        "question_text": "16．DNA-polⅢ具有的特点是",
+        "options": [
+            "A．α亚基是复制保真性所必需的",
+            "B．α、β、θ亚基组成核心酶",
+            "C．比活性低于 DNA-polI",
+            "D．催化 3',5'-磷酸二酯键生成",
+            "E．具有 5'→3'核酸外切酶活性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 16
+    },
+    {
+        "question_text": "17．下列关于 DNA-polⅢ的叙述，错误的是",
+        "options": [
+            "A．β亚基起夹稳模板链的作用",
+            "B．3'→5'外切核酸酶作用",
+            "C．5'→3'聚合酶活性作用",
+            "D．线粒体 DNA 合成的酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 17
+    },
+    {
+        "question_text": "18．下列关于 DNA-polⅢ的叙述，错误的是",
+        "options": [
+            "A．有 3'→5'外切酶活性",
+            "B．在 3 种 DNA-pol 中，DNA-polⅢ在细胞内的分子数最少",
+            "C．DNA 复制延长的酶",
+            "D．有 5'→3'外切酶活性",
+            "E．有 5'→3'聚合酶活性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 18
+    },
+    {
+        "question_text": "19．下列关于 DNA-polⅢ亚基功能的叙述，错误的是",
+        "options": [
+            "A．亚基形成异源多聚体",
+            "B．α、ε、θ组成核心酶",
+            "C．10 种亚基构成全酶",
+            "D．ε亚基与复制保真性有关",
+            "E．10 种亚基又称γ-复合物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 19
+    },
+    {
+        "question_text": "20．下列关于 DNA-polⅠ的叙述，错误的是",
+        "options": [
+            "A．5'→3'核酸外切酶活性",
+            "B．3'→5'聚合酶活性",
+            "C．5'→3'聚合酶活性",
+            "D．3'→5'核酸外切酶活性",
+            "E．Klenow 片段有 3'→5'外切酶活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 20
+    },
+    {
+        "question_text": "21．DNA-polⅠ的作用不包括",
+        "options": [
+            "A．DNA 修复时填补空隙",
+            "B．DNA 复制时填补空隙",
+            "C．合成 RNA 引物",
+            "D．校读复制中的错误",
+            "E．能催化延长 20 个核苷酸左右"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 21
+    },
+    {
+        "question_text": "22．下列关于 DNA-polⅠ的叙述，错误的是",
+        "options": [
+            "A．3'→5'酶活性水解错配碱基",
+            "B．填补复制中出现的空隙",
+            "C．5'→3'酶活性切除突变片段",
+            "D．填补修复中出现的空隙",
+            "E．内切酶活性切除引物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 22
+    },
+    {
+        "question_text": "23．下列关于 DNA-polⅠ的叙述，错误的是",
+        "options": [
+            "A．有即时校读功能",
+            "B．与 DNA-polⅡ和Ⅲ相比较，DNA-polⅠ在细胞中的分子数最多",
+            "C．能填补 DNA 修复中的空隙",
+            "D．可被水解为大、小片段",
+            "E．是大肠杆菌主要的复制酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 23
+    },
+    {
+        "question_text": "24．下列关于原核生物 DNA-pol 的叙述，正确的是",
+        "options": [
+            "A．polⅡ能校读复制中的错误",
+            "B．polⅢ参与 SOS 修复",
+            "C．polⅢ是催化复制延长的酶",
+            "D．polⅡ对模板的特异性最高",
+            "E．polⅠ的比活性最高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 24
+    },
+    {
+        "question_text": "25．下列关于真核生物 DNA-pol 的叙述，错误的是",
+        "options": [
+            "A．已发现 polα、β、γ、δ、ε",
+            "B．polβ还有拓扑酶的作用",
+            "C．polε有校读、修复作用",
+            "D．polα具有引物酶活性",
+            "E．polγ催化线粒体 DNA 合成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 25
+    },
+    {
+        "question_text": "26．下列真核生物 DNA-pol 作用的叙述，正确的是",
+        "options": [
+            "A．polα有切除修复的功能",
+            "B．polβ是线粒体 DNA 复制的酶",
+            "C．polγ有引物酶活性",
+            "D．polε作用与 polⅡ相似",
+            "E．polδ相当于原核生物 polⅢ"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 26
+    },
+    {
+        "question_text": "27．原核生物和真核生物 DNA-pol 都不能",
+        "options": [
+            "A．辨认复制起始点",
+            "B．以 dNTP 作底物",
+            "C．5'→3'方向延长 DNA 子链",
+            "D．生成冈崎片段",
+            "E．需 RNA 引物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 27
+    },
+    {
+        "question_text": "28．DNA 复制的保真性作用不包括",
+        "options": [
+            "A．真核生物 DNA-polδ即时校读功能",
+            "B．引物酶的即时校读功能",
+            "C．DNA-pol 对碱基的选择功能",
+            "D．严格的碱基配对规律",
+            "E．3'→5'外切酶活性切除错配碱基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 28
+    },
+    {
+        "question_text": "29．下列关于 DNA 解螺旋酶的叙述，错误的是",
+        "options": [
+            "A．DnaB 蛋白是解螺旋酶",
+            "B．rep 蛋白是解螺旋酶",
+            "C．rep 蛋白作用时需 ATP 供能",
+            "D．DnaC 蛋白辅助 DnaB 发挥作用",
+            "E．DnaB 蛋白能辨认起始点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 29
+    },
+    {
+        "question_text": "30．下列关于 DNA 复制所需酶及蛋白的叙述，错误的是",
+        "options": [
+            "A．DnaG 蛋白催化游离 NTP 聚合",
+            "B．DnaB 蛋白就是 rep 蛋白",
+            "C．DnaG 蛋白是引物酶",
+            "D．rep 蛋白解链不须 ATP 供能",
+            "E．rep 蛋白又称解螺旋酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 30
+    },
+    {
+        "question_text": "31．DNA 拓扑异构酶的作用是",
+        "options": [
+            "A．辨认复制起始点",
+            "B．复制时理顺 DNA 链",
+            "C．稳定 DNA 分子拓扑构象",
+            "D．解开 DNA 双螺旋间氢键",
+            "E．使 DNA 分子成为正超螺旋"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 31
+    },
+    {
+        "question_text": "32．DNA 拓扑异构酶的作用不包括",
+        "options": [
+            "A．使 DNA 分子成为正超螺旋",
+            "B．连接磷酸二酯键",
+            "C．酶Ⅰ切断 DNA 双链的一股",
+            "D．酶Ⅱ作用时需要 ATP",
+            "E．水解磷酸二酯键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 32
+    },
+    {
+        "question_text": "33．下列关于拓扑酶的叙述，错误的是",
+        "options": [
+            "A．切断 DNA 单链或双链",
+            "B．使 DNA 适度盘绕",
+            "C．已发现 3 种拓扑酶",
+            "D．只存在于原核生物中",
+            "E．参与复制全过程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 33
+    },
+    {
+        "question_text": "34．下列不参与原核生物 DNA 复制的物质是",
+        "options": [
+            "A．dNTP",
+            "B．UvrB",
+            "C．DnaG",
+            "D．SSB",
+            "E．NTP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 34
+    },
+    {
+        "question_text": "35．不参与 DNA 复制的酶是",
+        "options": [
+            "A．核酶",
+            "B．引物酶",
+            "C．连接酶",
+            "D．解螺旋酶",
+            "E．拓扑酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 35
+    },
+    {
+        "question_text": "36．复制中维持 DNA 单链状态的蛋白质是",
+        "options": [
+            "A．DnaB",
+            "B．SSB",
+            "C．UvrB",
+            "D．RecA",
+            "E．LexA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 36
+    },
+    {
+        "question_text": "37．下列关于单链 DNA 结合蛋白的叙述，错误的是",
+        "options": [
+            "A．作用时有协同效应",
+            "B．是异源四聚体",
+            "C．结合单链的跨度约 32 个核苷酸",
+            "D．不断地结合、脱离",
+            "E．保护单链 DNA 完整"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 37
+    },
+    {
+        "question_text": "38．DNA 连接酶的作用是",
+        "options": [
+            "A．填补去除引物后的空隙",
+            "B．复制时切断、理顺 DNA 链",
+            "C．RNA 引物去除后连接 DNA",
+            "D．解开 DNA 双螺旋",
+            "E．连接相邻 DNA 链 3'-OH 和 5'-P"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 38
+    },
+    {
+        "question_text": "39．不需要 DNA 连接酶参与的过程是",
+        "options": [
+            "A．DNA 复制",
+            "B．DNA 重组",
+            "C．SOS 修复",
+            "D．DNA 切除修复",
+            "E．DNA 复性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 39
+    },
+    {
+        "question_text": "40．为 T4DNA 连接酶供能的物质是",
+        "options": [
+            "A．FAD",
+            "B．NADPH",
+            "C．CTP",
+            "D．ATP",
+            "E．GTP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 40
+    },
+    {
+        "question_text": "41．下列关于参与原核生物 DNA 复制的酶的叙述，错误的是",
+        "options": [
+            "A．引物酶催化合成短链 RNA",
+            "B．DNA 聚合酶催化合成 DNA",
+            "C．解螺旋酶又称 DnaB",
+            "D．连接酶能切断和连接磷酸二酯键",
+            "E．拓扑酶能连接磷酸二酯键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 41
+    },
+    {
+        "question_text": "42．下列关于 DNA 复制过程的叙述，错误的是",
+        "options": [
+            "A．负超螺旋有更好的模板作用",
+            "B．引发体形成后引物开始合成",
+            "C．真核生物是多复制子的复制",
+            "D．DnaG 蛋白辨认复制起始点",
+            "E．参入子链的是脱氧核苷一磷酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 42
+    },
+    {
+        "question_text": "43．DNA 复制中形成的引发体不包括",
+        "options": [
+            "A．DnaA",
+            "B．DnaB",
+            "C．DnaC",
+            "D．DnaG",
+            "E．DNA 起始复制区域"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 43
+    },
+    {
+        "question_text": "44．下列关于 DNA 复制起始的叙述，错误的是",
+        "options": [
+            "A．DnaA 不是引发体成分",
+            "B．oriC 是复制起始点",
+            "C．引发体在 DNA 链上移动需要 ATP",
+            "D．oriC 有富含 GC 区",
+            "E．引物酶最后加入引发体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 44
+    },
+    {
+        "question_text": "45．辨认复制起始点的蛋白质是",
+        "options": [
+            "A．DnaA 蛋白",
+            "B．DnaG 蛋白",
+            "C．DnaC 蛋白",
+            "D．引物酶",
+            "E．DnaB 蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 45
+    },
+    {
+        "question_text": "46．下列关于原核生物复制起始的叙述，错误的是",
+        "options": [
+            "A．复制起始的识别区为串联重复序列",
+            "B．识别区下游为富含 AT 区",
+            "C．初步形成复制叉",
+            "D．RNA 引物提供 3'-OH 末端",
+            "E．引物合成依据模板的碱基序列"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 46
+    },
+    {
+        "question_text": "47．下列关于 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．引物酶的底物是 NTP",
+            "B．DNA 聚合酶的底物是 dNTP",
+            "C．解螺旋酶能切断 DNA 再连接",
+            "D．拓扑酶切断一股或两股 DNA 链",
+            "E．连接酶封闭 DNA 的切口"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 47
+    },
+    {
+        "question_text": "48．DNA 复制时，合成 5'-TAGATCC-3'的互补序列是",
+        "options": [
+            "A．5'-GGAUAGA-3'",
+            "B．5'-GGAUCUA-3'",
+            "C．5'-CCTAGAT-3'",
+            "D．5'-GGATCTA-3'",
+            "E．5'-ATCTAGG-3'"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 48
+    },
+    {
+        "question_text": "49．与模板链 DNA5'-ACGCATTA-3''对应的 mRNA 序列是",
+        "options": [
+            "A．5'-ACGCAUUA-3'",
+            "B．5'-UAATGCGT-3'",
+            "C．5'-UAAUGCGU-3'",
+            "D．5'-TAATGCGT-3'",
+            "E．5'-UGCGUAAU-3'"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 49
+    },
+    {
+        "question_text": "50．mRNA 序列 5'-ACGCAUUA-3''对应的 cDNA 序列是",
+        "options": [
+            "A．5'-TAATGCGT-3'",
+            "B．5'-TAAUGCGU-3'",
+            "C．5'-UAAUGCGT-3'",
+            "D．5'-ACGCATTA-3'",
+            "E．5'-TGCGTAAT-3'"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 50
+    },
+    {
+        "question_text": "51．下列哪种酶不能催化 3',5'-磷酸二酯键的生成",
+        "options": [
+            "A．聚合酶",
+            "B．拓扑酶",
+            "C．解螺旋酶",
+            "D．引物酶",
+            "E．连接酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 51
+    },
+    {
+        "question_text": "52．下列哪种反应不能由 DNA-pol 催化完成",
+        "options": [
+            "A．双链 DNA 中单链切口的连接",
+            "B．DNA 复制延长中 3'-OH 与 5'-P 反应",
+            "C．引物 3'-OH 与 dNTP5'-P 反应",
+            "D．切除错配的核苷酸",
+            "E．切除引物和突变的 DNA 片段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 52
+    },
+    {
+        "question_text": "53．下列关于复制中 RNA 引物的叙述，错误的是",
+        "options": [
+            "A．DnaG 催化生成",
+            "B．保留为 DNA 新链的一部分",
+            "C．被 RNA 酶水解",
+            "D．以模板的碱基序列合成",
+            "E．是短链 RNA 分子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 53
+    },
+    {
+        "question_text": "54．复制中，RNA 引物的作用是",
+        "options": [
+            "A．活化 SSB",
+            "B．使冈崎片段延长",
+            "C．参与构成引发体",
+            "D．提供 3'-OH 末端供 dNTP 加入",
+            "E．协助解螺旋酶作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 54
+    },
+    {
+        "question_text": "55．复制时①DNA-polⅢ；②解螺旋酶；③引物酶；④DNA 连接酶；⑤SSB 作用的顺序是",
+        "options": [
+            "A．②、⑤、④、①、③",
+            "B．②、④、⑤、③、①",
+            "C．④、⑤、③、①、②",
+            "D．①、②、③、④、⑤",
+            "E．②、⑤、③、①、④"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 55
+    },
+    {
+        "question_text": "56．复制起始时最早发挥作用的一组物质是",
+        "options": [
+            "A．DnaA、SSB、连接酶",
+            "B．冈崎片段、引物酶、DNA-polⅢ",
+            "C．外切酶、DnaB、SSB",
+            "D．解螺旋酶、DnaA、DnaG、",
+            "E．引物、拓扑酶、DNA-polⅠ"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 56
+    },
+    {
+        "question_text": "57．下列哪种酶不参与原核生物复制的延长过程",
+        "options": [
+            "A．DNA-polⅠ",
+            "B．限制性内切酶",
+            "C．引物酶",
+            "D．连接酶",
+            "E．DNA-polⅢ"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 57
+    },
+    {
+        "question_text": "58．DNA 复制过程中不能出现的是",
+        "options": [
+            "A．冈崎片段的连接",
+            "B．合成 RNA 引物",
+            "C．生成冈崎片段",
+            "D．RNA 引物被水解",
+            "E．全不连续复制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 58
+    },
+    {
+        "question_text": "59．下列关于冈崎片段的叙述，错误的是",
+        "options": [
+            "A．真核生物能生成冈崎片段",
+            "B．子链延长方向与解链方向相反",
+            "C．只有随从链生成冈崎片段",
+            "D．由于引物太小所致",
+            "E．领头链不生成冈崎片段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 59
+    },
+    {
+        "question_text": "60．下列关于冈崎片段的生成的叙述，错误的是",
+        "options": [
+            "A．领头链复制先于随从链",
+            "B．DNA 半不连续合成所致",
+            "C．仅发生于随从链",
+            "D．复制与解链方向相反所致",
+            "E．有自由的 5'-OH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 60
+    },
+    {
+        "question_text": "61．产生冈崎片段的原因是",
+        "options": [
+            "A．复制速度过快",
+            "B．复制与解链方向相反",
+            "C．多个复制起始点",
+            "D．拓扑酶作用生成",
+            "E．RNA 引物过短"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 61
+    },
+    {
+        "question_text": "62．下列关于原核生物复制的叙述，错误的是",
+        "options": [
+            "A．随从链复制方向是 3'→5'",
+            "B．领头链复制与解链方向一致",
+            "C．DNA-polⅠ填补引物水解后的缺口",
+            "D．半不连续复制",
+            "E．RNA 酶水解引物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 62
+    },
+    {
+        "question_text": "63．下列关于真核生物 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．polα合成引物",
+            "B．DNA-polδ是复制酶",
+            "C．冈崎片段较长",
+            "D．多个复制起始点",
+            "E．双向复制，生成复制叉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 63
+    },
+    {
+        "question_text": "64．下列关于真核生物 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．卫星 DNA 在 S 期后期复制",
+            "B．复制的起始点很多",
+            "C．有上千个复制子",
+            "D．复制有时序性",
+            "E．端粒是在 S 期中期复制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 64
+    },
+    {
+        "question_text": "65．下列关于真核生物 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．polα有解螺旋酶活性",
+            "B．酵母复制起始点有自主复制序列",
+            "C．PCNA 在复制起始起关键作用",
+            "D．起始点比 E.coli 的 oriC 短",
+            "E．需要复制因子和拓扑酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 65
+    },
+    {
+        "question_text": "66．下列关于真核生物 DNA 复制起始的叙述，错误的是",
+        "options": [
+            "A．自主复制序列可克隆到质粒上",
+            "B．典型的细胞周期分为 4 期",
+            "C．中心体是在 S 期后期复制",
+            "D．P21 蛋白和锚蛋白又称检查点蛋白",
+            "E．P21 蛋白激活多种 CDK"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 66
+    },
+    {
+        "question_text": "67．下列关于 DNA 复制的叙述，正确的是",
+        "options": [
+            "A．随从链的延长是连续的",
+            "B．滚环复制需 A 蛋白参与",
+            "C．原核生物有多个复制起点",
+            "D．不连续复制与引物酶性质有关",
+            "E．线粒体 DNA 是滚环复制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 67
+    },
+    {
+        "question_text": "68．下列关于参与真核生物复制的物质的描述，错误的是",
+        "options": [
+            "A．cyclin 是蛋白激酶的调节亚基",
+            "B．CDK 是蛋白激酶的催化亚基",
+            "C．复制因子有 CDK 和 cyclin 两类",
+            "D．复制因子不参与原核 DNA 复制",
+            "E．PCNA 就是增殖细胞核抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 68
+    },
+    {
+        "question_text": "69．只参与原核生物 DNA 复制的物质是",
+        "options": [
+            "A．hTR、hTP1、hTRT",
+            "B．CDK、cyclin",
+            "C．polα、β、γ、δ、ε",
+            "D．DnaA、DnaB、DnaC、DnaG",
+            "E．PCNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 69
+    },
+    {
+        "question_text": "70．下列关于真核生物 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．只需核酸外切酶切去引物",
+            "B．冈崎片段长度达 135bp 或其几倍长",
+            "C．polδ置换 polα，延长 DNA 子链",
+            "D．随从链的引物包含有 DNA 片段",
+            "E．polδ需要 PCNA 的协同作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 70
+    },
+    {
+        "question_text": "71．下列关于真核生物 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．大部分原有组蛋白组装至新 DNA 链",
+            "B．端粒与 DNA 复制的完整性有关",
+            "C．DNA 复制与核小体装配同步进行",
+            "D．核内 RNA 酶和核酸外切酶切去引物",
+            "E．领头链连续复制一个复制子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 71
+    },
+    {
+        "question_text": "72．参与 DNA 复制的物质不包括",
+        "options": [
+            "A．核酶",
+            "B．拓扑酶",
+            "C．连接酶",
+            "D．引物酶",
+            "E．DNA 聚合酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 72
+    },
+    {
+        "question_text": "73．下列关于 DNA 复制的叙述，错误的是",
+        "options": [
+            "A．DNA-polⅢ催化复制延长",
+            "B．DNA-polδ催化复制延长",
+            "C．真核生物有多个复制起始点",
+            "D．原核生物有一个复制起始点",
+            "E．真核生物冈崎片段比原核长"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 73
+    },
+    {
+        "question_text": "74．用作 DNA 合成的模板不包括",
+        "options": [
+            "A．tRNA",
+            "B．载体 DNA",
+            "C．病毒 RNA",
+            "D．cDNA",
+            "E．线粒体 DNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 74
+    },
+    {
+        "question_text": "75．下列关于真核生物端粒的叙述，错误的是",
+        "options": [
+            "A．位于染色体 DNA 末端",
+            "B．染色体两端都有",
+            "C．是富含 T、G 短序列的多次重复",
+            "D．染色体中膨大的部分",
+            "E．能维持染色体的稳定性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列关于端粒酶及其作用的叙述，错误的是",
+        "options": [
+            "A．有逆转录酶活性",
+            "B．是 RNA-蛋白质复合物",
+            "C．催化端粒 DNA 生成",
+            "D．催化生成的母链可以反折",
+            "E．以染色体 DNA 为模板"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 76
+    },
+    {
+        "question_text": "77．下列关于端粒酶功能的叙述，错误的是",
+        "options": [
+            "A．hTP1 是端粒酶协同蛋白",
+            "B．爬行模型机制合成端粒",
+            "C．催化逆转录",
+            "D．提供 DNA 模板",
+            "E．hTR 辨认及结合单链 DNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 77
+    },
+    {
+        "question_text": "78．下列关于端粒及端粒酶的说法，错误的是",
+        "options": [
+            "A．生殖细胞端粒长于体细胞",
+            "B．老化与端粒酶活性下降有关",
+            "C．某些肿瘤细胞的端粒比正常同类细胞显著缩短",
+            "D．胚胎细胞端粒最短",
+            "E．肿瘤细胞可有端粒酶活性增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 78
+    },
+    {
+        "question_text": "79．下列关于逆转录酶的叙述，错误的是",
+        "options": [
+            "A．水解杂化双链中的 RNA",
+            "B．促使新合成 DNA 转入宿主细胞",
+            "C．以单链 RNA 为模板",
+            "D．以单链 cDNA 为模板",
+            "E．能催化生成 cDNA 双链"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 79
+    },
+    {
+        "question_text": "80．下列关于逆转录机制的叙述，错误的是",
+        "options": [
+            "A．逆转录酶有 RNase 活性",
+            "B．逆转录酶有 DNA 聚合酶活性",
+            "C．第二步反应生成 RNA／DNA 双链",
+            "D．生成的双链 DNA 称前病毒",
+            "E．有些 DNA 病毒基因组不需逆转录"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 80
+    },
+    {
+        "question_text": "81．逆转录现象的生物学意义不包括",
+        "options": [
+            "A．RNA 也能携带遗传信息",
+            "B．可用逆转录酶获取目的基因",
+            "C．逆转录病毒中有癌基因",
+            "D．HIV 是致人类艾滋病的 RNA 病毒",
+            "E．逆转录合成的 cDNA 是单链 DNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 81
+    },
+    {
+        "question_text": "82．下列有关试管内合成 cDNA 的叙述，错误的是",
+        "options": [
+            "A．酶或碱除去杂化双链的 RNA",
+            "B．逆转录的原料是 NTP",
+            "C．Klenow 片段催化合成 DNA",
+            "D．cDNA 是双链的 DNA",
+            "E．cDNA 是编码蛋白质的基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 82
+    },
+    {
+        "question_text": "83．下列关于滚环复制的叙述，错误的是",
+        "options": [
+            "A．内外环同时复制",
+            "B．M13 噬菌体在 E.coli 的复制形式",
+            "C．滚环复制不需额外合成引物",
+            "D．A 蛋白有核酸内切酶活性",
+            "E．一边滚动一边连续复制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 83
+    },
+    {
+        "question_text": "84．下列关于 D 环复制的叙述，错误的是",
+        "options": [
+            "A．复制时需要引物",
+            "B．线粒体 DNA 的复制形式",
+            "C．内外环起始点不在同一位点",
+            "D．内外环复制有时序差别",
+            "E．DNA-polε催化反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 84
+    },
+    {
+        "question_text": "85．下列关于突变的叙述，错误的是",
+        "options": [
+            "A．基因型改变无表型改变",
+            "B．必然导致生物功能受损",
+            "C．多态性是个体间基因型差别",
+            "D．是某些遗传病的发病基础",
+            "E．突变可使生物进化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 85
+    },
+    {
+        "question_text": "86．紫外线照射最常引起的碱基二聚体是",
+        "options": [
+            "A．T-T",
+            "B．C-T",
+            "C．T-U",
+            "D．C-C",
+            "E．U-C"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 86
+    },
+    {
+        "question_text": "87．下列关于嘧啶二聚体突变的叙述，错误的是",
+        "options": [
+            "A．相邻两个嘧啶碱基共价结合形成",
+            "B．由紫外线照射引起",
+            "C．光修复酶修复",
+            "D．是一种插入突变",
+            "E．500nm 波长可活化光修复酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 87
+    },
+    {
+        "question_text": "88．一定能引起框移突变的是",
+        "options": [
+            "A．嘌呤取代嘧啶",
+            "B．错配",
+            "C．插入 3 个核苷酸",
+            "D．点突变",
+            "E．缺失 5 个核苷酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 88
+    },
+    {
+        "question_text": "89．下列关于突变的叙述，错误的是",
+        "options": [
+            "A．碱基错配又称点突变",
+            "B．插入不一定引起框移突变",
+            "C．缺失一定引起框移突变",
+            "D．插入可改变密码子阅读方式",
+            "E．亚硝酸盐可使 C 置换为 U"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 89
+    },
+    {
+        "question_text": "90．亚硝酸盐引起 DNA 分子的突变是",
+        "options": [
+            "A．形成嘧啶二聚体",
+            "B．一段 DNA 分子重排",
+            "C．C→U",
+            "D．A→G",
+            "E．G 碱基 N-7 甲基化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 90
+    },
+    {
+        "question_text": "91．机体对 DNA 损伤的修复方式不包括",
+        "options": [
+            "A．光修复",
+            "B．热修复",
+            "C．重组修复",
+            "D．切除修复",
+            "E．SOS 修复"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 91
+    },
+    {
+        "question_text": "92．切除修复时①DNA-polⅠ；②DNA 连接酶；③UvrA、UvrB；④UvrC 作用的顺序是",
+        "options": [
+            "A．②、③、①、④",
+            "B．①、③、④、②",
+            "C．③、④、①、②",
+            "D．③、②、④、①",
+            "E．①、②、③、④"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 92
+    },
+    {
+        "question_text": "93．参加切除修复的酶是",
+        "options": [
+            "A．引物酶",
+            "B．解螺旋酶",
+            "C．拓扑酶",
+            "D．DNA-polⅠ",
+            "E．RNaseH"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 93
+    },
+    {
+        "question_text": "94．着色性干皮病的分子基础是",
+        "options": [
+            "A．Uvr 类蛋白缺乏",
+            "B．RAD 基因缺陷",
+            "C．Dna 类蛋白突变",
+            "D．XP 基因缺陷",
+            "E．rec 基因突变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 94
+    },
+    {
+        "question_text": "95．下列关于 DNA 损伤修复的叙述，正确的是",
+        "options": [
+            "A．SOS 修复就是重组修复",
+            "B．切除修复是最重要的修复方式",
+            "C．重组修复能切去损伤链",
+            "D．<300nm 波长活化光修复酶",
+            "E．切除修复使 DNA 保留的错误较多"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 95
+    },
+    {
+        "question_text": "96．下列关于重组修复的叙述，错误的是",
+        "options": [
+            "A．适于 DNA 损伤面太大不能及时修复",
+            "B．修复线粒体 DNA 损伤",
+            "C．修复后损伤链并没有切去",
+            "D．以健康母链填补损伤处",
+            "E．RecA 有核酸酶活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 96
+    },
+    {
+        "question_text": "97．不属于基因改变造成的遗传病是",
+        "options": [
+            "A．地中海贫血",
+            "B．膀胱癌",
+            "C．着色性干皮病",
+            "D．血友病",
+            "E．镰形红细胞贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 97
+    },
+    {
+        "question_text": "98．镰状红细胞贫血基因和基因表达时，不会出现异常的是",
+        "options": [
+            "A．α肽链",
+            "B．hnRNA",
+            "C．mRNA",
+            "D．β肽链",
+            "E．DNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 98
+    },
+    {
+        "question_text": "99．生物信息传递中，下列哪一种还没有实验证据",
+        "options": [
+            "A．DNA→RNA",
+            "B．RNA→蛋白质",
+            "C．RNA→DNA",
+            "D．蛋白质→DNA",
+            "E．上述四种都可以"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 99
+    },
+    {
+        "question_text": "100．用实验证实 DNA 的半保留复制的学者是",
+        "options": [
+            "A．Watson 和 Crick",
+            "B．Kornberg",
+            "C．Sanger",
+            "D．Meselson 和 Stahl",
+            "E．Nierenberg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 100
+    },
+    {
+        "question_text": "101．从功能方面讲，可将端粒酶看作是一种",
+        "options": [
+            "A．核酶",
+            "B．RNA 酶",
+            "C．RNA 聚合酶",
+            "D．DNA 连接酶",
+            "E．逆转录酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 101
+    },
+    {
+        "question_text": "102．DNA 复制过程中不需要的成分是",
+        "options": [
+            "A．dGTP",
+            "B．dUTP",
+            "C．dATP",
+            "D．dCTP",
+            "E．dTTP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 102
+    },
+    {
+        "question_text": "103．下列物质可以作为反转录病毒进行反转录引物的是",
+        "options": [
+            "A．特异性的寄主 tRNA",
+            "B．特异性的寄生蛋白",
+            "C．U6snRNA",
+            "D．U2snRNA",
+            "E．mRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 103
+    },
+    {
+        "question_text": "104．既有内切酶活力，又有连接酶活力是",
+        "options": [
+            "A．大肠杆菌聚合酶Ⅰ",
+            "B．大肠杆菌聚合酶Ⅱ",
+            "C．大肠杆菌聚合酶Ⅲ",
+            "D．DNA 连接酶",
+            "E．拓扑异构酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 104
+    },
+    {
+        "question_text": "105．需要以 RNA 为引物的是",
+        "options": [
+            "A．复制",
+            "B．转录",
+            "C．翻译",
+            "D．RNA 复制",
+            "E．基因克隆"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 105
+    },
+    {
+        "question_text": "106．DNA 复制所需要的底物是",
+        "options": [
+            "A．ATP、GTP、TTP、CTP",
+            "B．AMP、GMP、TMP、CMP",
+            "C．dATP、dGTP、dTTP、dCTP",
+            "D．ATP、GTP、UTP、CTP",
+            "E．ddATP、ddGTP、ddTTP、ddCTP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 106
+    },
+    {
+        "question_text": "107．合成 DNA 需要的原料是",
+        "options": [
+            "A．dNTP",
+            "B．dNMP",
+            "C．NMP",
+            "D．NTP",
+            "E．NDP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 107
+    },
+    {
+        "question_text": "108．DNA 的生物合成包括半保留复制和",
+        "options": [
+            "A．逆转录",
+            "B．不对称转录",
+            "C．基因克隆",
+            "D．翻译",
+            "E．全保留复制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 108
+    },
+    {
+        "question_text": "109．DNA 生物合成包括",
+        "options": [
+            "A．剪接，修饰和终止",
+            "B．进位，转肽和转位",
+            "C．先形成引发体，再进行链的延长，最后终止",
+            "D．注册，转位和转肽",
+            "E．起始，延长和终止"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "109",
+        "number": 109
+    }
+]

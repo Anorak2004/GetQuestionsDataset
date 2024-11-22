@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1748.排卵前血中LH出现高峰的原因是",
+        "options": [
+            "A.FSH的作用",
+            "B.少量LH本身的短反馈作用",
+            "C.血中高水平的雌激素对腺垂体的正反馈作用",
+            "D.血中孕激素对腺垂体的反馈作用",
+            "E.血中雌激素和孕激素的共同作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "1749.对睾丸生精作用的叙述.错误的是",
+        "options": [
+            "A.睾丸中的曲细精管为精子生长发育的场所",
+            "B.精子成熟过程历经两个多月",
+            "C.精子成熟需要的营养物质通常由支持细胞提供",
+            "D.附睾内可贮存大量的精子",
+            "E.成熟精子运送到附睾后，才逐渐获得运动能力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "1750.关于孕激素的作用.错误的是",
+        "options": [
+            "A.刺激子宫内膜呈增生性变化",
+            "B.使子宫肌活动减弱",
+            "C.降低母体免疫排斥反应",
+            "D.刺激乳腺腺泡发育",
+            "E.可使基础体温升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "1751.月经周期中.产生阴道流血的直接原因是由于",
+        "options": [
+            "A.雌激素浓度下降",
+            "B.孕激素和雌激素浓度下降",
+            "C.孕激素浓度下降",
+            "D.FSH和LH浓度下降",
+            "E.GnRH浓度下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "1752.下列胎盘或卵巢分泌的激素中.哪一种刺激 卵巢的月经黄体转变为妊娠黄体",
+        "options": [
+            "A.人绒毛膜促性腺激素",
+            "B.人绒毛膜生长素",
+            "C.雌激素",
+            "D.雄激素",
+            "E.孕激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "1753.促进睾丸间质细胞合成与分泌睾酮的激素是",
+        "options": [
+            "A.FSH",
+            "B.LH",
+            "C.ACTH",
+            "D.GnRH",
+            "E.TSH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "1754.雄激素结合蛋白是由哪项产生的",
+        "options": [
+            "A.肝细胞",
+            "B.睾丸间质细胞",
+            "C.睾丸支持细胞",
+            "D.睾丸生精细胞",
+            "E.睾丸毛细血管内皮细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "1755.下列关于睾丸功能调节的叙述.错误的是",
+        "options": [
+            "A.FSH对生精过程有启动作用",
+            "B.LH刺激间质细胞分泌睾酮",
+            "C.生精过程受睾酮和FSH双重控制",
+            "D.抑制素对FSH分泌有负反馈作用",
+            "E.睾酮对FSH分泌有负反馈作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "1756.随尿排出的睾酮代谢产物主要是",
+        "options": [
+            "A.双氢睾酮",
+            "B.17-酮类固醇",
+            "C.雄烯二酮",
+            "D.脱氢异雄酮",
+            "E.17-羟类固醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "1757.抑制素的化学性质是",
+        "options": [
+            "A.肽类",
+            "B.类固醇",
+            "C.胺类",
+            "D.糖蛋白",
+            "E.蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "1758.抑制素是由睾丸哪项分泌的",
+        "options": [
+            "A.间质细胞",
+            "B.精子",
+            "C.精原细胞",
+            "D.精母细胞",
+            "E.支持细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "1759.抑制素对下列各种腺垂体激素的分泌具有很 强的抑制作用的是",
+        "options": [
+            "A.FSH",
+            "B.TSH",
+            "C.LH",
+            "D.PRL",
+            "E.GH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "1760.能促进支持细胞分泌抑制素的激素是",
+        "options": [
+            "A.LH",
+            "B.ACTH",
+            "C.FSH",
+            "D.ADH",
+            "E.TSH"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "1761 .雌二醇的化学性质是",
+        "options": [
+            "A.胺类",
+            "B.肽类",
+            "C.固醇类",
+            "D.类固醇",
+            "E.蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "1762.下列关于雌激素生理作用的描述.错误的是",
+        "options": [
+            "A.使输卵管平滑肌活动增强",
+            "B.促进阴道上皮细胞增生、角化",
+            "C.刺激乳腺导管和结缔组织增生",
+            "D.抑制子宫内膜增生、腺体分泌",
+            "E.促进肾小管对钠和水的重吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "1763.排卵前.血中LH出现高峰的原因是",
+        "options": [
+            "A.血中孕激素对腺垂体的正反馈作用",
+            "B.血中雌激素对腺垂体的正反馈作用",
+            "C.血中雌激素和孕激素共同的作用",
+            "D.FSH的促进作用",
+            "E.少量LH本身的短反馈作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "1764.下列各种激素中能在排卵前一天左右诱发排 卵所必须的LH峰的是",
+        "options": [
+            "A.抑制素",
+            "B.孕酮",
+            "C.促卵泡激素",
+            "D.雌二醇",
+            "E.雌三醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "1765.尿中排出的雌三醇是哪项的代谢产物",
+        "options": [
+            "A.A、皮质醇",
+            "B.孕酮",
+            "C.睾酮",
+            "D.雌二醇",
+            "E.孕二醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "1766.孕酮的化学性质是",
+        "options": [
+            "A.蛋白质",
+            "B.肽类",
+            "C.类固醇",
+            "D.胺类",
+            "E.固醇类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "1767.下列有关孕激素作用的叙述.正确的是",
+        "options": [
+            "A.促进子宫内膜发生增生期变化",
+            "B.促进并维持女性特征",
+            "C.子宫发育",
+            "D.促进子宫内膜发生分泌期变化",
+            "E.促进子宫收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "1768.女性排卵后体温突然升高的主要原因是",
+        "options": [
+            "A.血中LH增高",
+            "B.血中孕激素增高",
+            "C.血中催乳素增高",
+            "D.血中雌激素增高",
+            "E.血中FSH增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "1769.下列关于月经周期血中激素浓度变化的叙 述.错误的是",
+        "options": [
+            "A.孕激素高峰主要出现在排卵前",
+            "B.FSH和LH的高峰同步出现",
+            "C.LH在排卵前达高峰",
+            "D.月经前血中雌、孕激素浓度均会急剧下降",
+            "E.雌激素有两次高峰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "1770.月经周期正常的妇女.其月经黄体能维持",
+        "options": [
+            "A.3--5天",
+            "B.5--7天",
+            "C.12--15天",
+            "D.9--11天",
+            "E.7--9天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "1771.雌激素和孕激素作用的相同点是",
+        "options": [
+            "A.促进阴道上皮细胞角化",
+            "B.促进乳腺导管增生和延长",
+            "C.使子宫输卵管平滑肌活动减弱",
+            "D.减少宫颈黏液的分泌",
+            "E.使子宫内膜增生变厚"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "1772.尿中排出的孕二醇是哪项的代谢产物",
+        "options": [
+            "A.皮质醇",
+            "B.孕酮",
+            "C.雌三醇",
+            "D.雌酮",
+            "E.雌二醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "1773.月经周期中诱发排卵最重要的激素是",
+        "options": [
+            "A.LH",
+            "B.GH",
+            "C.PRL",
+            "D.FSH",
+            "E.GnRH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "1774.女性在排卵前一天.LH高峰由哪项引起",
+        "options": [
+            "A.雌激素",
+            "B.FSH",
+            "C.HCG",
+            "D.抑制素",
+            "E.孕激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "1775.女性月经周期中.月经来潮是由于血中的",
+        "options": [
+            "A.E浓度下降，P浓度升高",
+            "B.E浓度升高，P浓度下降",
+            "C.LH浓度显著升高而形成LH峰",
+            "D.FSH和LH浓度均下降",
+            "E.E和P浓度均下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "1776.结扎输卵管后的妇女",
+        "options": [
+            "A.无排卵，有月经",
+            "B.无排卵，无月经",
+            "C.有排卵，有月经",
+            "D.有排卵，无月经",
+            "E.附性器官萎缩，副性征消退"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "1777.下列关于月经的叙述.错误的是",
+        "options": [
+            "A.出血期中，GnRH分泌处于较低水平",
+            "B.黄体退化，雌激素和孕激素分泌骤减",
+            "C.前列腺素F释放，子宫内膜血管痉挛",
+            "D.溶酶体释出蛋白水解酶，使组织溶解，内膜剥脱、出血",
+            "E.出血期中由于雌激素和孕激素的正反馈，FSH和 LH分泌增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "1778.精子获能的主要部位是",
+        "options": [
+            "A.睾丸曲细精管",
+            "B.附睾",
+            "C.子宫腔",
+            "D.子宫颈",
+            "E.阴道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "1779.月经周期中控制排卵发生的关键因素是",
+        "options": [
+            "A.排卵前雌激素高峰",
+            "B.孕激素高峰",
+            "C.卵泡刺激素高峰",
+            "D.黄体生成素高峰",
+            "E.促进腺激素释放激素高峰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "1780.妊娠时维持黄体功能的主要激素是",
+        "options": [
+            "A.雌激素",
+            "B.孕酮",
+            "C.卵泡刺激素",
+            "D.黄体生成素",
+            "E.绒毛膜促进腺激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "1781.分娩前没有乳汁分泌是由于",
+        "options": [
+            "A.血中催乳素浓度过低",
+            "B.乳腺细胞上催乳素受体发育不足",
+            "C.缺少催产素的刺激",
+            "D.血中雌激素和孕激素过高",
+            "E.血中雌激素和孕激素过低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "1782.女性正常排卵的黄体",
+        "options": [
+            "A.分泌孕酮",
+            "B.分泌雌激素",
+            "C.分泌黄体生成素",
+            "D.分泌孕酮及雌激素",
+            "E.分泌孕酮、雌激素和黄体生成素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "1783.睾酮的化学性质是",
+        "options": [
+            "A.固酮类",
+            "B.类固醇",
+            "C.肽类",
+            "D.胺类",
+            "E.蛋白质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "1784.睾酮由下列哪种细胞分泌",
+        "options": [
+            "A.间质细胞",
+            "B.支持细胞",
+            "C.初级精母细胞",
+            "D.次级精母细胞",
+            "E.精原细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "1785.睾丸间质细胞的生理功能是",
+        "options": [
+            "A.分泌雄激素",
+            "B.营养和支持细胞",
+            "C.起血睾屏障的作用",
+            "D.产生精子",
+            "E.分泌雄激素结合蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "1786.下列关于睾丸生理功能的描述.正确的是",
+        "options": [
+            "A.储存精子",
+            "B.促进精子成熟",
+            "C.输送精子",
+            "D.分泌雄激素",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "1787.既可以正反馈、又可以导致负反馈的激素是",
+        "options": [
+            "A.雌激素",
+            "B.孕酮",
+            "C.促卵泡激素",
+            "D.睾酮",
+            "E.黄体生成素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "1788.女性体温随月经周期发生变动.可能与下列 哪种激素有关",
+        "options": [
+            "A.孕激素",
+            "B.卵泡激素",
+            "C.甲状腺激素",
+            "D.黄体生成素",
+            "E.黄体生成素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "1789.导致睾丸间质细胞合成和分泌睾酮的激素是",
+        "options": [
+            "A.TSH",
+            "B.FSH",
+            "C.ACTH",
+            "D.LH",
+            "E.PRL"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "1790.促进支持细胞分泌抑制素的激素是",
+        "options": [
+            "A.FSH",
+            "B.ACTH",
+            "C.ADH",
+            "D.TSH",
+            "E.LH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "1791.对于雌激素生理作用的描述.下列哪一项是 不正确的",
+        "options": [
+            "A.促进醛固酮的分泌",
+            "B.使输卵管平滑肌活动增强",
+            "C.促进子宫内膜增生、腺体分泌",
+            "D.促进乳腺发育",
+            "E.促进生长发育"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

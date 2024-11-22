@@ -1,0 +1,786 @@
+[
+    {
+        "question_text": "1.呋喃唑酮的主要用途是",
+        "options": [
+            "A.肠炎和菌痢",
+            "B.尿路感染",
+            "C.伤寒和副伤寒",
+            "D.霍乱",
+            "E.消化性溃疡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 1
+    },
+    {
+        "question_text": "2.中效磺胺最常见不良反应",
+        "options": [
+            "A.肾脏损害",
+            "B.肝脏损害",
+            "C.叶酸缺乏",
+            "D.变态反应",
+            "E.胃肠道反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 2
+    },
+    {
+        "question_text": "3.长效磺胺主要不良反应",
+        "options": [
+            "A.肾脏损害",
+            "B.肝脏损害",
+            "C.叶酸缺乏",
+            "D.变态反应",
+            "E.胃肠道反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 3
+    },
+    {
+        "question_text": "4.甲氧苄啶的抗菌机制是",
+        "options": [
+            "A.抑制二氢叶酸合成酶",
+            "B.抑制四氢叶酸合成酶",
+            "C.抑制二氢叶酸还原酶",
+            "D.抑制DNA螺旋酶",
+            "E.抑制四氢叶酸还原酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 4
+    },
+    {
+        "question_text": "5.磺胺类药物与甲氧苄啶合用易引起下列哪项不良反应",
+        "options": [
+            "A.肾脏损害",
+            "B.肝脏损害",
+            "C.白细胞与血小板减少",
+            "D.变态反应",
+            "E.胃肠道反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 5
+    },
+    {
+        "question_text": "6.局部应用无刺激性、穿透力强,用于眼科疾病的药",
+        "options": [
+            "A.磺胺嘧啶银",
+            "B.磺胺醋酰",
+            "C.磺胺米隆",
+            "D.柳氮磺吡啶",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 6
+    },
+    {
+        "question_text": "7.抗菌作用强、对结核杆菌无效,细菌不易耐药,而易引起周围神经炎的药物",
+        "options": [
+            "A.环丙沙星",
+            "B.异烟肼",
+            "C.磺胺异恶唑",
+            "D.呋喃妥因",
+            "E.万古霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗非特异性结肠炎选用",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺多辛",
+            "D.柳氮磺吡啶",
+            "E.磺胺嘧啶银"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 8
+    },
+    {
+        "question_text": "9.用呋喃妥因治疗大肠杆菌引起的急性肾盂肾炎时,为提高疗效应使尿液",
+        "options": [
+            "A.碱化",
+            "B.酸化",
+            "C.中性",
+            "D.无关",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 9
+    },
+    {
+        "question_text": "10.女性,26岁,因尿频、尿急、尿痛、发热求诊,用青霉素G治疗三天,疗效不好,可改用的药物是",
+        "options": [
+            "A.林可霉素",
+            "B.红霉素",
+            "C.万古霉素",
+            "D.磺胺醋酰",
+            "E.氧氟沙星"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 10
+    },
+    {
+        "question_text": "11.不宜与抗酸药合用的药",
+        "options": [
+            "A.磺胺嘧啶",
+            "B.甲氧苄啶",
+            "C.氧氟沙星",
+            "D.呋喃唑酮",
+            "E.呋喃妥因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 11
+    },
+    {
+        "question_text": "12.痰中分布浓度高、对结核杆菌有效的喹诺酮类药物",
+        "options": [
+            "A.氟哌酸",
+            "B.氟啶酸",
+            "C.氟嗪酸",
+            "D.甲氟哌酸",
+            "E.环丙氟哌酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 12
+    },
+    {
+        "question_text": "13.喹诺酮类抗菌药抑制",
+        "options": [
+            "A.细菌二氢叶酸合成酶",
+            "B.细菌二氢叶酸还原酶",
+            "C.细菌DNA聚合酶",
+            "D.细菌依赖DNA的RNA多聚酶",
+            "E.细菌DNA螺旋酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 13
+    },
+    {
+        "question_text": "14.体外抗菌活性最强的喹诺酮类药是",
+        "options": [
+            "A.依诺沙星",
+            "B.氧氟沙星",
+            "C.环丙沙星",
+            "D.洛美沙星",
+            "E.氟罗沙星"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 14
+    },
+    {
+        "question_text": "15.体内抗菌活性最强的喹诺酮类药是",
+        "options": [
+            "A.依诺沙星",
+            "B.洛美沙星",
+            "C.氧氟沙星",
+            "D.环丙沙星",
+            "E.氟罗沙星"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 15
+    },
+    {
+        "question_text": "16.口服吸收易受食物影响,宜空腹服用的喹诺酮类药",
+        "options": [
+            "A.诺氟沙星",
+            "B.氟罗沙星",
+            "C.培氟沙星",
+            "D.依诺沙星",
+            "E.氧氟沙星"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 16
+    },
+    {
+        "question_text": "17.可通过炎症脑膜进入脑脊液的药物是",
+        "options": [
+            "A.洛美沙星",
+            "B.氧氟沙星",
+            "C.依诺沙星",
+            "D.培氟沙星",
+            "E.氟罗沙星"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 17
+    },
+    {
+        "question_text": "18.短效磺胺的常见不良反应",
+        "options": [
+            "A.肝脏损害",
+            "B.肾脏损害",
+            "C.叶酸缺乏",
+            "D.变态反应",
+            "E.胃肠道反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 18
+    },
+    {
+        "question_text": "19.原形从肾脏排泄率最高的喹诺酮类药物是",
+        "options": [
+            "A.诺氟沙星",
+            "B.氧氟沙星",
+            "C.培氟沙星",
+            "D.氟罗沙星",
+            "E.环丙沙星"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 19
+    },
+    {
+        "question_text": "20.磺胺药抗菌机制是",
+        "options": [
+            "A.抑制细胞壁合成",
+            "B.抑制DNA螺旋酶",
+            "C.抑制二氢叶酸合成酶",
+            "D.抑制分枝菌酸合成",
+            "E.改变膜通透性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 20
+    },
+    {
+        "question_text": "21.SMZ口服用于全身感染时需加服碳酸氢钠的原因",
+        "options": [
+            "A.增强抗菌作用",
+            "B.减少口服时的刺激",
+            "C.减少尿中磺胺结晶析出",
+            "D.减少磺胺药代谢",
+            "E.双重阻断细菌叶酸代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 21
+    },
+    {
+        "question_text": "22.外用抗绿脓杆菌的药物",
+        "options": [
+            "A.磺胺噻唑",
+            "B.磺胺嘧啶",
+            "C.磺胺米隆",
+            "D.磺胺醋酰",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 22
+    },
+    {
+        "question_text": "23.在尿中易析出结品的药物",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲恶唑",
+            "D.磺胺甲氧嘧啶",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 23
+    },
+    {
+        "question_text": "24.治疗流行性脑脊髓膜炎的首选药物是",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲恶唑",
+            "D.磺胺甲氧嘧啶",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 24
+    },
+    {
+        "question_text": "25.尿路感染最宜选用",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲恶唑",
+            "D.磺胺甲氧嘧啶",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 25
+    },
+    {
+        "question_text": "26.口服生物利用度最低的药",
+        "options": [
+            "A.培氟沙星",
+            "B.诺氟沙星",
+            "C.氧氟沙星",
+            "D.依诺沙星",
+            "E.氟罗沙星"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 26
+    },
+    {
+        "question_text": "27.服用磺胺类药物时同服碳酸氢钠的目的是",
+        "options": [
+            "A.防止过敏反应",
+            "B.碱化尿液,增加某些磺胺药的溶解度",
+            "C.增强抗菌作用",
+            "D.加快药物吸收速度",
+            "E.延缓药物排泄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 27
+    },
+    {
+        "question_text": "28.喹诺酮类药物抗菌机制是",
+        "options": [
+            "A.抑制敏感菌二氢叶酸合成酶",
+            "B.抑制敏感菌二氢叶酸还原酶",
+            "C.抑制敏感菌DNA螺旋酶",
+            "D.破坏细菌细胞壁",
+            "E.影响细菌细胞膜通透性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 28
+    },
+    {
+        "question_text": "29.氧氟沙星的特点是",
+        "options": [
+            "A.抗菌活性弱",
+            "B.尿中游离浓度高,主要经肾排出",
+            "C.血药浓度低",
+            "D.口服不易吸收",
+            "E.体内分布窄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 29
+    },
+    {
+        "question_text": "30.磺胺类药物的抗菌机制是",
+        "options": [
+            "A.破坏细菌细胞壁",
+            "B.改变细菌细胞膜通透性",
+            "C.抑制敏感菌二氢叶酸合成酶",
+            "D.抑制敏感菌二氢叶酸还原酶",
+            "E.抑制细菌DNA螺旋酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 30
+    },
+    {
+        "question_text": "31.治疗流行性脑脊髓膜炎选",
+        "options": [
+            "A.磺胺甲噁唑",
+            "B.磺胺嘧啶",
+            "C.磺胺异唑",
+            "D.甲氧苄啶",
+            "E.磺胺米隆"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 31
+    },
+    {
+        "question_text": "32.甲氧苄啶的抗菌机制是",
+        "options": [
+            "A.破坏细菌细胞壁",
+            "B.抑制敏感菌二氢叶酸合成酶",
+            "C.抑制敏感菌二氢叶酸还原酶",
+            "D.改变细菌细胞膜通透性",
+            "E.增强机体抵抗力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 32
+    },
+    {
+        "question_text": "33.细菌对磺胺药产生耐药性的主要机制是",
+        "options": [
+            "A.改变代谢途径",
+            "B.产生水解酶",
+            "C.产生钝化酶",
+            "D.改变细胞膜通透性",
+            "E.改变核糖体结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 33
+    },
+    {
+        "question_text": "34.新生儿应用磺胺类药物易出现核黄疸的原因是",
+        "options": [
+            "A.抑制肝药酶",
+            "B.促进新生儿红细胞破坏",
+            "C.减少胆红素的排泄",
+            "D.与胆红素竞争血浆蛋白结合部位",
+            "E.降低血脑屏障功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 34
+    },
+    {
+        "question_text": "35.关于呋喃妥因的叙述正确",
+        "options": [
+            "A.仅对革兰阴性菌有效",
+            "B.细菌易产生耐药性",
+            "C.尿中浓度高",
+            "D.血药浓度高",
+            "E.口服吸收少,主要经肠道排泄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 35
+    },
+    {
+        "question_text": "36.适用于烧伤和大面积创伤后感染的磺胺类药物是",
+        "options": [
+            "A.磺胺米隆",
+            "B.磺胺甲嗯唑",
+            "C.磺胺嘧啶",
+            "D.磺胺异唑",
+            "E.甲氧苄啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 36
+    },
+    {
+        "question_text": "37.喹诺酮类药物抗革兰氏阳性菌的重要靶点是",
+        "options": [
+            "A.细菌DNA回旋酶",
+            "B.细菌二氢蝶酸合成酶",
+            "C.细菌二氢叶酸还原酶",
+            "D.细菌肽酰基转移酶",
+            "E.细菌拓扑异构酶Ⅳ"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 37
+    },
+    {
+        "question_text": "38.与乙胺嘧啶合用治疗弓形虫病的药物是",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺多辛",
+            "C.磺胺甲恶唑",
+            "D.磺胺嘧啶",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 38
+    },
+    {
+        "question_text": "39.眼部感染如沙眼、结膜炎和角膜炎用",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺甲恶唑",
+            "C.磺胺醋酰钠",
+            "D.磺胺嘧啶银",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 39
+    },
+    {
+        "question_text": "40.尿路感染最宜选用",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺多辛",
+            "C.磺胺甲恶唑",
+            "D.磺胺嘧啶",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 40
+    },
+    {
+        "question_text": "41.呋喃妥因的主要临床应用",
+        "options": [
+            "A.敏感菌所致的肺部感染",
+            "B.敏感菌所致的泌尿道感染",
+            "C.敏感菌所致的肠道感染",
+            "D.敏感菌所致的软组织感染",
+            "E.敏感菌所致的全身感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 41
+    },
+    {
+        "question_text": "42.磺胺嘧啶给予最易出现的不良反应是",
+        "options": [
+            "A.骨髓抑制",
+            "B.溶血反应",
+            "C.过敏反应",
+            "D.胃肠道反应",
+            "E.泌尿道损害"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 42
+    },
+    {
+        "question_text": "43.体外抗菌活性最强的喹诺酮类药物是",
+        "options": [
+            "A.诺氟沙星",
+            "B.依诺沙星",
+            "C.氧氟沙星",
+            "D.环丙沙星",
+            "E.氟洛沙星"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 43
+    },
+    {
+        "question_text": "44.治疗流行性脑脊髓膜炎的首选药物是",
+        "options": [
+            "A.氯霉素",
+            "B.磺胺嘧啶",
+            "C.磺胺甲氧嘧啶",
+            "D.磺胺异恶唑",
+            "E.青霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 44
+    },
+    {
+        "question_text": "45.喹诺酮类药物抗革兰氏阴性菌的重要靶点是",
+        "options": [
+            "A.细菌二氢叶酸还原酶",
+            "B.细菌二氢蝶酸合成酶",
+            "C.细菌DNA回旋酶",
+            "D.细菌拓扑异构酶Ⅱ",
+            "E.细菌拓扑异构酶Ⅳ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 45
+    },
+    {
+        "question_text": "46.急慢性骨髓炎、化脓性关节炎的首选药物是",
+        "options": [
+            "A.喹诺酮类",
+            "B.氯霉素",
+            "C.四环素",
+            "D.青霉素",
+            "E.红霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 46
+    },
+    {
+        "question_text": "47.烧伤创面铜绿假单胞菌感染宜用",
+        "options": [
+            "A.磺胺嘧啶银盐",
+            "B.磺胺甲恶唑",
+            "C.磺胺多辛",
+            "D.甲氧苄啶",
+            "E.磺胺醋酰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 47
+    },
+    {
+        "question_text": "48.喹诺酮类药物抗菌谱不含",
+        "options": [
+            "A.大肠杆菌、绿脓杆菌",
+            "B.立克次体、螺旋体",
+            "C.金葡菌、产酶金葡菌",
+            "D.支原体、衣原体",
+            "E.结核杆茵、厌氧菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 48
+    },
+    {
+        "question_text": "49.对支原体感染治疗无效",
+        "options": [
+            "A.磺胺甲恶唑",
+            "B.红霉素",
+            "C.四环素",
+            "D.氯霉素",
+            "E.司帕沙星"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 49
+    },
+    {
+        "question_text": "50.体内抗菌活性最强的喹诺酮类药物是",
+        "options": [
+            "A.诺氟沙星",
+            "B.依诺沙星",
+            "C.氧氟沙星",
+            "D.环丙沙星",
+            "E.氟洛沙星"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 50
+    },
+    {
+        "question_text": "51.磺胺类药物抗菌作用机制",
+        "options": [
+            "A.抑制二氢叶酸还原酶",
+            "B.抑制DNA回旋酶",
+            "C.抑制二氢蝶酸合成酶",
+            "D.抑制RNA多聚酶,",
+            "E.抑制肽酰基转移酶每"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 51
+    },
+    {
+        "question_text": "52.治疗溃疡性结肠炎的药物",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲恶唑",
+            "D.磺胺多辛",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 52
+    },
+    {
+        "question_text": "53.在尿中易析出结品的药物",
+        "options": [
+            "A.磺胺异恶唑",
+            "B.磺胺嘧啶",
+            "C.磺胺甲恶唑",
+            "D.磺胺多辛",
+            "E.柳氮磺吡啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 53
+    },
+    {
+        "question_text": "54.服用磺胺药时加服碳酸氢钠的日的是",
+        "options": [
+            "A.减少胃肠道反应",
+            "B.加抗菌疗效",
+            "C.碱化尿液,增加磺胺及代谢物的溶解度",
+            "D.促进药物吸收",
+            "E.促进药物分布"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 54
+    },
+    {
+        "question_text": "55.治疗铜绿假单胞菌性尿道炎在喹诺酮类药物中首选",
+        "options": [
+            "A.诺氟沙星",
+            "B.依诺沙星",
+            "C.氧氟沙星",
+            "D.洛美沙星",
+            "E.环丙沙星"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 55
+    },
+    {
+        "question_text": "56.能竞争拮抗磺胺药抗菌作用的化学物质是",
+        "options": [
+            "A.叶酸",
+            "B.乙酰水杨酸",
+            "C.对氨基苯甲酸",
+            "D.对氨基水杨酸",
+            "E.乙胺嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "56",
+        "number": 56
+    }
+]

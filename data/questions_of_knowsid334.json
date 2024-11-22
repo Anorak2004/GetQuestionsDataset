@@ -1,0 +1,757 @@
+[
+    {
+        "question_text": "1.M样作用是指:",
+        "options": [
+            "A.烟碱样作用",
+            "B.心脏兴奋、血管扩张、平滑肌松驰",
+            "C.骨骼肌收缩",
+            "D.血管收缩、扩瞳",
+            "E.心脏抑制、腺体分泌增加、胃肠平滑肌收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列哪种效应不是通过激动M受体实现的:",
+        "options": [
+            "A.心率减慢",
+            "B.胃肠道平滑肌收缩",
+            "C.胃肠道括约肌收缩",
+            "D.膀胱括约肌舒张",
+            "E.瞳孔括约肌收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 2
+    },
+    {
+        "question_text": "3.胆碱能神经不包括:",
+        "options": [
+            "A.交感、副交感神经节前纤维",
+            "B.交感神经节后纤维的大部分",
+            "C.副交感神经节后纤维",
+            "D.运动神经",
+            "E.支配汗腺的分泌神经"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 3
+    },
+    {
+        "question_text": "4.骨骼肌血管平滑肌上有:",
+        "options": [
+            "A.α受体、β受体、无M受体",
+            "B.α受体、M受体、无β受体",
+            "C.α受体、β受体及M受体",
+            "D.α受体、无β受体及M受体",
+            "E.M受体、无α受体及β受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 4
+    },
+    {
+        "question_text": "5.乙酰胆碱作用消失主要依赖于:",
+        "options": [
+            "A.摄取1",
+            "B.摄取2",
+            "C.胆碱乙酰转移酶的作用",
+            "D.胆碱酯酶水解",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 5
+    },
+    {
+        "question_text": "6.能选择性的与毒蕈碱结合的胆碱受体称为:",
+        "options": [
+            "A.M受体",
+            "B.N受体",
+            "C.α受体",
+            "D.β受体",
+            "E.DA受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 6
+    },
+    {
+        "question_text": "7.ACh作用的消失,主要",
+        "options": [
+            "A.被突触前膜再摄取",
+            "B.是扩散入血液中被肝肾破坏",
+            "C.被神经未梢的胆碱乙酰化酶水解",
+            "D.被神经突触部位的胆碱酯酶水解",
+            "E.在突触间隙被MAO所破坏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 7
+    },
+    {
+        "question_text": "8.在囊泡内合成NA的前身物质是:",
+        "options": [
+            "A.酪氨酸",
+            "B.多巴",
+            "C.多巴胺",
+            "D.肾上腺素",
+            "E.5-羟色胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪种表现不属于β-R兴奋效应:",
+        "options": [
+            "A.支气管舒张",
+            "B.血管扩张",
+            "C.心脏兴奋",
+            "D.疃孔扩大",
+            "E.肾素分泌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪种效应是通过激动M-R实现的?",
+        "options": [
+            "A.膀胱括约肌收缩",
+            "B.骨骼肌收缩",
+            "C.虹膜辐射肌收缩",
+            "D.汗腺分泌",
+            "E.睫状肌舒张"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 10
+    },
+    {
+        "question_text": "11.某受体被激动后,引起支气管平滑肌松驰,此受体为:",
+        "options": [
+            "A.α-R",
+            "B.β1-R",
+            "C.β2-R",
+            "D.M-R",
+            "E.NN-R"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 11
+    },
+    {
+        "question_text": "12.去甲肾上腺素减慢心率的机制是:",
+        "options": [
+            "A.直接负性频率作用",
+            "B.抑制窦房结",
+            "C.阻断窦房结的β1-R",
+            "D.外周阻力升高致间接刺激压力感受器",
+            "E.激动心脏MR"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 12
+    },
+    {
+        "question_text": "13.多巴胺β-羟化酶主要存在于:",
+        "options": [
+            "A.去甲肾上腺素能神经末梢膨体内",
+            "B.去甲肾上腺素能神经末梢囊泡内",
+            "C.去甲肾上腺素能神经突触间隙",
+            "D.胆碱能神经突触间隙",
+            "E.胆碱能神经突触前膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 13
+    },
+    {
+        "question_text": "14.α-R分布点优势的效应器是:",
+        "options": [
+            "A.皮肤、粘膜、内脏血管",
+            "B.冠状动脉血管",
+            "C.肾血管",
+            "D.脑血管",
+            "E.肌肉血管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于N-R结构和偶联的叙述,正确的是",
+        "options": [
+            "A.属G-蛋白偶联受体",
+            "B.由3个亚单位组成",
+            "C.肽链的N端在细胞膜外,C-端在细胞内",
+            "D.为7次跨膜的肽链",
+            "E.属配体门控通道型受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 15
+    },
+    {
+        "question_text": "16.合成多巴胺和去甲肾上腺素的始初原料是:",
+        "options": [
+            "A.谷氨酸",
+            "B.酪氨酸",
+            "C.蛋氨酸",
+            "D.赖氨酸",
+            "E.丝氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 16
+    },
+    {
+        "question_text": "17.外周多巴胺受体主要分布于:",
+        "options": [
+            "A.眼虹膜括约肌",
+            "B.汗腺和唾液腺",
+            "C.皮肤和骨骼肌血管",
+            "D.肾脏、肠系膜和冠状血管",
+            "E.窦房结、房室结、传导系统和心肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 17
+    },
+    {
+        "question_text": "18.激动外周M受体可引起:",
+        "options": [
+            "A.瞳孔扩大",
+            "B.支气管松弛",
+            "C.皮趺粘膜血管舒张",
+            "D.睫状肌松弛",
+            "E.糖原分解"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 18
+    },
+    {
+        "question_text": "19.外周胆碱能神经合成与释放的递质是",
+        "options": [
+            "A.琥珀胆碱",
+            "B.氨甲胆碱",
+            "C.烟碱",
+            "D.乙酰胆碱",
+            "E.胆碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 19
+    },
+    {
+        "question_text": "20.激动突触前膜α2受体可引起:",
+        "options": [
+            "A.腺体分泌",
+            "B.支气管舒张",
+            "C.血压升高",
+            "D.去甲肾上腺素释放减少",
+            "E.去甲肾上腺素释放增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 20
+    },
+    {
+        "question_text": "21.外周去甲肾上腺素主要激动的受体是",
+        "options": [
+            "A.α受体",
+            "B.β受体",
+            "C.M受体",
+            "D.DA受体",
+            "E.N受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 21
+    },
+    {
+        "question_text": "22.激动外周β受体可引起:",
+        "options": [
+            "A.心脏兴奋,收缩压下降,瞳孔缩小",
+            "B.支气管收缩,冠状血管舒张",
+            "C.心脏兴奋,支气管舒张,糖原分解",
+            "D.支气管收缩,糖原分解,瞳孔缩小",
+            "E.心脏兴奋,皮肤粘膜和内脏血管收缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 22
+    },
+    {
+        "question_text": "23.外周肾上腺素能神经合成与释放的主要递质是:",
+        "options": [
+            "A.肾上腺素",
+            "B.去甲肾上腺素",
+            "C.异丙肾上腺素",
+            "D.多巳胺",
+            "E.间羟胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 23
+    },
+    {
+        "question_text": "24.去甲肾上腺素释放至突触间隙,其作用消失主要原因是:",
+        "options": [
+            "A.单胺氧化酶代谢",
+            "B.肾排出",
+            "C.神经末梢再摄取",
+            "D.乙酰胆碱酯酶代谢",
+            "E.儿茶酚氧位甲基转移酶代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 24
+    },
+    {
+        "question_text": "25.乙酰胆碱释放至突触间隙,其作用消失主要原因是:",
+        "options": [
+            "A.单胺氧化酶代谢",
+            "B.肾排出",
+            "C.神经末梢再摄取",
+            "D.乙酰胆碱酯酶代谢",
+            "E.儿茶酚氧位甲基转移酶代谢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 25
+    },
+    {
+        "question_text": "26.心脏受体主要是:",
+        "options": [
+            "A.β2受体",
+            "B.α1受体",
+            "C.α2受体",
+            "D.β1受体",
+            "E.M受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 26
+    },
+    {
+        "question_text": "27.骨骼肌血管平滑肌上具有:",
+        "options": [
+            "A.α和β受体,无M受体",
+            "B.M受体,无α和β受体",
+            "C.α和M受体,无β受体",
+            "D.α受体,无M和β受体",
+            "E.α、β和M受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 27
+    },
+    {
+        "question_text": "28.与毒蕈碱结合的胆碱受体是:",
+        "options": [
+            "A.α受体",
+            "B.N受体",
+            "C.M受体",
+            "D.β受体",
+            "E.DA受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 28
+    },
+    {
+        "question_text": "29.具有影响递质释放而发挥作用的药物是",
+        "options": [
+            "A.利血平",
+            "B.去甲丙米嗪",
+            "C.可卡因",
+            "D.阿托品",
+            "E.麻黄碱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 29
+    },
+    {
+        "question_text": "30.NN受体",
+        "options": [
+            "A.即神经节N受体和外周N受体",
+            "B.即神经肌肉接头N受体",
+            "C.即神经节N受体和中枢N受体",
+            "D.即神经节N受体和神经肌肉接头N受体",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列关于N受体叙述正确的是",
+        "options": [
+            "A.N分布于骨骼肌",
+            "B.主要存在于睫状肌",
+            "C.主要存在于括约肌",
+            "D.主要存在肾上腺髓质",
+            "E.主要存在肾上腺皮质"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 31
+    },
+    {
+        "question_text": "32.以下哪一器官组织无β2受体分布",
+        "options": [
+            "A.窦房结",
+            "B.子宫平滑肌",
+            "C.支气管平滑肌",
+            "D.骨骼肌血管",
+            "E.皮肤、内脏血管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 32
+    },
+    {
+        "question_text": "33.β受体主要分布在",
+        "options": [
+            "A.胃壁",
+            "B.支气管黏膜",
+            "C.骨骼肌运动终板",
+            "D.腺体",
+            "E.心脏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 33
+    },
+    {
+        "question_text": "34.乙酰胆碱作用消失主要依赖于",
+        "options": [
+            "A.摄取-1",
+            "B.摄取-2",
+            "C.单胺氧化酶的作用",
+            "D.乙酰胆碱转移酶的作用",
+            "E.胆碱酯酶水解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列哪种受体属于配体门控离子通道型受体",
+        "options": [
+            "A.a1肾上腺素受体",
+            "B.β肾上腺素受体",
+            "C.M胆碱受体",
+            "D.N胆碱受体",
+            "E.β2肾上腺素受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪种神经末梢释放乙酰胆碱",
+        "options": [
+            "A.支配心脏的交感神经节后纤维",
+            "B.支配血管平滑肌的交感神经节后纤维",
+            "C.支配骨骼肌血管舒张的交感神经节后纤维",
+            "D.支配支气管平滑肌的交感神经节后纤维",
+            "E.支配虹膜的交感神经节后纤维"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列叙述除哪项外均是正确的",
+        "options": [
+            "A.麻黄碱可促进去甲肾上腺素释放",
+            "B.氨甲酰胆碱可促进乙酰胆碱释放",
+            "C.利血平可促进去甲肾上腺素的再摄取",
+            "D.可乐定能抑制去甲肾上腺素的释放",
+            "E.间羟胺可促进去甲肾上腺素释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪一种神经为非胆碱能神经",
+        "options": [
+            "A.副交感神经节前纤维",
+            "B.交感神经节前纤维",
+            "C.副交感神经节后纤维",
+            "D.大多数交感神经节后纤维",
+            "E.运动神经"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 38
+    },
+    {
+        "question_text": "39.去甲肾上腺素生物合成的限速酶是",
+        "options": [
+            "A.酪氨酸羟化酶",
+            "B.多巴胺β羟化酶",
+            "C.多巴脱羧酶",
+            "D.MAO",
+            "E.COMT"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 39
+    },
+    {
+        "question_text": "40.肾上腺髓质具有",
+        "options": [
+            "A.α,β受体",
+            "B.α1受体",
+            "C.N1受体",
+            "D.M受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 40
+    },
+    {
+        "question_text": "41.β2受体分布于",
+        "options": [
+            "A.心脏",
+            "B.支气管和血管平滑肌",
+            "C.胃肠道括约肌",
+            "D.瞳孔开大肌",
+            "E.神经肌肉接头"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 41
+    },
+    {
+        "question_text": "42.β1受体主要分布在",
+        "options": [
+            "A.心脏",
+            "B.皮肤黏膜血管",
+            "C.支气管平滑肌",
+            "D.内脏血管平滑肌,",
+            "E.瞳孔开大肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 42
+    },
+    {
+        "question_text": "43.M受体兴奋可引起",
+        "options": [
+            "A.心脏兴奋",
+            "B.胃肠平滑肌收缩",
+            "C.膀胱逼尿肌舒张",
+            "D.瞳孔扩大",
+            "E.膀胱括约肌收缩"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪种神经末梢释放去甲肾上腺素",
+        "options": [
+            "A.支配汗腺的交感神经节后纤维",
+            "B.支配肾上腺的交感神经节前纤维",
+            "C.支配骨骼肌的运动神经",
+            "D.支配血管平滑肌的交感神经节后纤维",
+            "E.支配心脏的副交感神经节后纤维"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 44
+    },
+    {
+        "question_text": "45.去甲肾上腺素作用的消失",
+        "options": [
+            "A.主要被孢质液中线粒体膜上的单胺氧化酶破坏",
+            "B.主要被细胞内儿茶酚氧位甲基转移酶破坏",
+            "C.主要靠许多非神经组织如心肌、血管、肠道平滑肌的摄取",
+            "D.主要依赖于突触前膜将其摄入神经末梢及被部分酶破坏",
+            "E.主要被血浆中儿茶酚氡位甲基转移酶破坏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 45
+    },
+    {
+        "question_text": "46.去甲肾上腺素能神经递质生物合成的顺序是",
+        "options": [
+            "A.多巴胺、多巴、去甲肾上腺素、肾上腺素",
+            "B.酪氨酸、酪氨、多巴胺、去甲肾上腺素",
+            "C.酪氨酸、多巴胺、肾上腺素、去甲肾上腺素",
+            "D.酪氨酸、多巴、多巴胺、去甲肾上腺素",
+            "E.酪氨酸、多巴胺、多巴、去甲肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列描述哪项正确",
+        "options": [
+            "A.交感神经节后纤维都是肾上腺素能神经",
+            "B.神经末梢释放的NA的主要消除途径是神经末梢再摄取",
+            "C.支气管平滑肌上β受体兴奋时,支气管扩张",
+            "D.神经节上的胆碱能受体是NN受体",
+            "E.皮肤黏膜血管上分布的肾上腺素能受体是α,β受体"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 47
+    },
+    {
+        "question_text": "48.以下哪种效应不是M受体激动效应",
+        "options": [
+            "A.心率减慢",
+            "B.支气管平滑肌收縮",
+            "C.胃肠平滑肌收缩",
+            "D.腺体分泌减少",
+            "E.虹膜括约肌收缩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 48
+    },
+    {
+        "question_text": "49.运动神经系统主要支配",
+        "options": [
+            "A.平滑肌",
+            "B.腺体",
+            "C.血管",
+            "D.心肌",
+            "E.骨骼肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列效应器,除哪项外均受自主神经系统支配",
+        "options": [
+            "A.心肌",
+            "B.腺体",
+            "C.骨骼肌",
+            "D.平滑肌",
+            "E.血管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 50
+    },
+    {
+        "question_text": "51.胆碱能神经不包括下列哪一项",
+        "options": [
+            "A.全部交感神经和副交感神经的节前纤维",
+            "B.运动神经",
+            "C.几乎全部交感神经节后纤维",
+            "D.全部副交感神经的节后纤维",
+            "E.支配骨骼肌血管舒张的神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 51
+    },
+    {
+        "question_text": "52.传出神经根据其末梢释放的递质不同,可分为",
+        "options": [
+            "A.交感神经和副交感神经",
+            "B.自主神经和运动神经",
+            "C.自主神经和运动神经",
+            "D.胆碱能神经和去甲肾上腺素能神经",
+            "E.外周神经和中枢神经"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 52
+    },
+    {
+        "question_text": "53.神经末梢释放到突触间隙的去甲肾上腺素主要的消除方式是",
+        "options": [
+            "A.被单胺氧化酶代谢",
+            "B.突触前膜将其再摄取入神经末梢内",
+            "C.被儿茶酚氧位甲基转移酶代谢",
+            "D.从突触间隙扩散到血液中,最后在肝肾等处破坏",
+            "E.被胆碱酯酶破坏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 53
+    },
+    {
+        "question_text": "54.虹膜括约肌存在",
+        "options": [
+            "A.α受体",
+            "B.NN受体",
+            "C.NM受体",
+            "D.β2受体",
+            "E.M受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "54",
+        "number": 54
+    }
+]

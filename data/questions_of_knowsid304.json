@@ -1,0 +1,953 @@
+[
+    {
+        "question_text": "1062.最简单的感受器是",
+        "options": [
+            "A.环层小体",
+            "B.肌梭",
+            "C.游离神经末梢",
+            "D.耳蜗毛细胞",
+            "E.视杆、视锥细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 1
+    },
+    {
+        "question_text": "1063.下列结构中.哪个属于感觉器官",
+        "options": [
+            "A.痛觉感受器",
+            "B.冷敏神经元",
+            "C.本体感受器",
+            "D.前庭器官",
+            "E.触觉感受器"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 2
+    },
+    {
+        "question_text": "1064.下列感受器中.哪个属于快适应感受器",
+        "options": [
+            "A.环层小体",
+            "B.腱器官",
+            "C.肌梭",
+            "D.主动脉弓压力感受器",
+            "E.主动脉体化学感受器"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 3
+    },
+    {
+        "question_text": "1065.对感受器的适应现象的叙述.哪项不太恰当",
+        "options": [
+            "A.所有感受器都有一个适应现象",
+            "B.可分为快、慢两种适应感受器",
+            "C.快适应有利于再接受新的刺激，慢适应有利于 对某些功能进行长期持久的监测",
+            "D.适应就是感受器的疲劳",
+            "E.感受器的换能过程、离子通道功能以及感受器 细胞与感觉神经纤维的突触传递特征等，都可影 响适应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 4
+    },
+    {
+        "question_text": "1066.光线进入眼内发生折射的主要部位是",
+        "options": [
+            "A.角膜",
+            "B.房水",
+            "C.晶状体",
+            "D.玻璃体",
+            "E.视网膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 5
+    },
+    {
+        "question_text": "1067.正视眼看6m以外物体时.将出现下列哪项 变化",
+        "options": [
+            "A.瞳孔缩小",
+            "B.两眼球内聚",
+            "C.晶状体变凸",
+            "D.不进行任何调节",
+            "E.支配睫状肌的副交感神经兴奋"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 6
+    },
+    {
+        "question_text": "1068.对简化眼的描述.错误的是",
+        "options": [
+            "A.它在光学参数上与正常眼等值",
+            "B.有前后径为20mm的单球面折光体构成",
+            "C.折射率为0.333",
+            "D.光线进入简化眼只折射一次",
+            "E.与正常安静时人眼一样，平行光线正好聚焦在 此折光体的后极处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 7
+    },
+    {
+        "question_text": "1069.对瞳孔近反射的叙述.错误的是",
+        "options": [
+            "A.该反射的意义是使看近物清楚",
+            "B.看近物时，可反射性引起瞳孔缩小",
+            "C.瞳孔缩小可减小球面相差",
+            "D.瞳孔缩小可减少色相差",
+            "E.该反射的效应是单侧性的"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 8
+    },
+    {
+        "question_text": "1070.对视锥细胞叙述.错误的是",
+        "options": [
+            "A.光敏度差",
+            "B.可分辨颜色",
+            "C.中央凹处只有该细胞",
+            "D.中央凹处该细胞与双极、神经节细胞呈“单线 联系”",
+            "E.含有的视色素为视紫红质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 9
+    },
+    {
+        "question_text": "*1071.视杆细胞对下列哪种光有最大的吸收能力",
+        "options": [
+            "A.红光",
+            "B.蓝光",
+            "C.黄光",
+            "D.绿光",
+            "E.白光"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 10
+    },
+    {
+        "question_text": "1072.眼处于静息（未作调节）状态时能看清物体 的最远距离.成为",
+        "options": [
+            "A.远点",
+            "B.近点",
+            "C.节点",
+            "D.前主焦点",
+            "E.后主焦点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 11
+    },
+    {
+        "question_text": "1073.下列颜色视野中.范围最小的为",
+        "options": [
+            "A.黄色",
+            "B.白色",
+            "C.绿色",
+            "D.红色",
+            "E.蓝色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 12
+    },
+    {
+        "question_text": "1074.中央凹处视网膜的视力好和色觉强的原因是",
+        "options": [
+            "A.视杆细胞多而集中，单线联系",
+            "B.视杆细胞多而集中，聚合联系",
+            "C.视锥细胞多而直径最大，单线联系",
+            "D.视锥细胞多而直径最小，聚合联系",
+            "E.视锥细胞多而直径最小，单线联系"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 13
+    },
+    {
+        "question_text": "1075.关于远视眼的叙述.下列哪项错误",
+        "options": [
+            "A.眼球前后径过短",
+            "B.眼的折光力过弱",
+            "C.远点校正视眼短",
+            "D.平行光线聚焦于视网膜后",
+            "E.可用凸透镜校正"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 14
+    },
+    {
+        "question_text": "1076.不属于中耳的结构为",
+        "options": [
+            "A.鼓膜",
+            "B.鼓室",
+            "C.听骨链",
+            "D.咽鼓管",
+            "E.耳蜗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 15
+    },
+    {
+        "question_text": "1077.关于中耳的叙述.哪项是错误的",
+        "options": [
+            "A.鼓膜和听骨链等构成声波的主要传导途径",
+            "B.锤骨、砧骨和镣骨依次连接成听骨链",
+            "C.锤骨柄附着于鼓膜，镣骨底板与圆窗膜相接",
+            "D.鼓膜听骨链系统既增加听觉敏感度，又可保护 中耳",
+            "E.鼓膜张肌收缩有保护内耳的作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 16
+    },
+    {
+        "question_text": "1078.对听阈的叙述.正确的是",
+        "options": [
+            "A.指刚能引起听觉的声波最小强度",
+            "B.指每一种频率的声波，有一个刚能引起听觉的 最小强度",
+            "C.指每一种频率的声波，有一个引起听觉的最大 强度",
+            "D.声波强度增加到某一限度时，除听觉外，还同 时引起鼓膜疼痛感觉，这个限度叫听阈",
+            "E.指不同声波震动频率的听阈与最大可听阈之间 所描绘的面积"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 17
+    },
+    {
+        "question_text": "1079.耳蜗内淋巴正电位形成与下列哪种情况有关",
+        "options": [
+            "A.K+进入内淋巴多",
+            "B.Na+进入内淋巴多",
+            "C.Ca2+进入内淋巴多",
+            "D.Cl-由内淋巴进入血浆多",
+            "E.Na+进入内淋巴比K+进入血浆多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 18
+    },
+    {
+        "question_text": "1080.对前庭器官毛细胞的叙述.错误的是",
+        "options": [
+            "A.它是前庭器官的感受细胞",
+            "B.毛细胞上有动、静毛，动毛一条，而静毛有多 条",
+            "C.毛细胞的适宜刺激是使纤毛倾倒的机械力作用",
+            "D.静纤毛倾向动纤毛时，表现兴奋效应，相反， 则表现为抑制效应",
+            "E.水平半规管壶腹脊上毛细胞的排列特点是动纤 毛靠近半规管侧，而静纤毛靠近壶腹侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 19
+    },
+    {
+        "question_text": "1081.对嗅觉的叙述.错误的是",
+        "options": [
+            "A.感受器位于上鼻道及鼻中隔后上部的嗅上皮中",
+            "B.适宜刺激是空气中的有机化学物质",
+            "C.产生嗅觉与Na+内流有关",
+            "D.不同动物的嗅觉敏感度差异大",
+            "E.适应较慢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 20
+    },
+    {
+        "question_text": "1082.对味觉的叙述.错误的是",
+        "options": [
+            "A.感受器为味蕾",
+            "B.人舌表面的各个部位对不同味刺激的敏感度差 不多",
+            "C.味觉的敏感度受食物或温度影响",
+            "D.酸、甜、苦、咸为四种基本味觉",
+            "E.它也是一种快适应感受器"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 21
+    },
+    {
+        "question_text": "1083.中耳传音特点之一是",
+        "options": [
+            "A.提咼声强",
+            "B.降低声强",
+            "C.提咼声频",
+            "D.降低声频",
+            "E.降低声强、声频"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 22
+    },
+    {
+        "question_text": "1084.中耳可使声压增加约",
+        "options": [
+            "A.22.1 倍",
+            "B.1.3 倍",
+            "C.17 倍",
+            "D.38 倍",
+            "E.55 倍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 23
+    },
+    {
+        "question_text": "1085.正常听觉声音传导的主要途径是",
+        "options": [
+            "A.骨传导",
+            "B.骨导中经听小骨传导",
+            "C.气导中经圆窗传导",
+            "D.气导中经听骨链传导",
+            "E.气导中经外淋巴传导"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 24
+    },
+    {
+        "question_text": "1086.听小骨对卵圆窗的作用是",
+        "options": [
+            "A.减小振动力量，",
+            "B.减小振动力量，",
+            "C.增加振动力量，",
+            "D.增加振动力量，",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 25
+    },
+    {
+        "question_text": "1087.关于基底膜振动的正确叙述是",
+        "options": [
+            "A.不同频率的声音在同一部位产生最大振动",
+            "B.声音频率越高，最大振动越近顶部",
+            "C.对于特定频率的振动，在基底膜上有一特定的 行波传播范围和最大振幅区",
+            "D.声音频率越低，最大振动越近底部",
+            "E.不同频率的声波引起的行波是从基底膜底不同 部位开始的"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 26
+    },
+    {
+        "question_text": "1088.耳蜗的主要功能是",
+        "options": [
+            "A.集音作用",
+            "B.判断音源作用",
+            "C.声压增益作用",
+            "D.感音换能作用",
+            "E.保持身体平衡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 27
+    },
+    {
+        "question_text": "1089.耳蜗螺旋器毛细胞的听毛发生弯曲时.可产 生",
+        "options": [
+            "A.耳蜗静息电位",
+            "B.耳蜗微音器电位",
+            "C.行波运动",
+            "D.动作电位",
+            "E.以上都无"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 28
+    },
+    {
+        "question_text": "1090.根据听觉的行波学说.声波频率越高.基底 膜振动幅度最大部位就越靠近",
+        "options": [
+            "A.蜗底部",
+            "B.蜗顶部",
+            "C.耳蜗中段",
+            "D.耳蜗全段",
+            "E.耳蜗前1/3"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 29
+    },
+    {
+        "question_text": "1091.有关感受器生理特性的描述.错误的是",
+        "options": [
+            "A.只要有刺激，就可以产生兴奋",
+            "B.有换能作用",
+            "C.有适应现象",
+            "D.一种感受器只对一种形式的刺激最敏感",
+            "E.各种感受器适应快慢不一"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 30
+    },
+    {
+        "question_text": "1092.眼的折光系统中折光率最大的是",
+        "options": [
+            "A.前房水",
+            "B.后房水",
+            "C.晶状体",
+            "D.玻璃体",
+            "E.角膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 31
+    },
+    {
+        "question_text": "1093.晕车、晕船的主要原因是",
+        "options": [
+            "A.听觉器官受过强或过久的刺激",
+            "B.视网膜受过强刺激",
+            "C.大脑缺血、缺氧",
+            "D.感觉器官受过强或过久的刺激",
+            "E.前庭器官受过强或过久的刺激"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 32
+    },
+    {
+        "question_text": "1094.椭圆囊囊斑的适宜刺激是",
+        "options": [
+            "A.直线匀速运动",
+            "B.直线变速运动",
+            "C.旋转匀速运动",
+            "D.旋转变速运动",
+            "E.机体的正负角加速度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 33
+    },
+    {
+        "question_text": "1095.半规管的壶腹嶠的适宜刺激是",
+        "options": [
+            "A.直线匀速运动",
+            "B.直线变速运动",
+            "C.旋转匀速运动",
+            "D.旋转变速运动",
+            "E.直线运动正负加速度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 34
+    },
+    {
+        "question_text": "1096.听觉感受器位于",
+        "options": [
+            "A.前庭器官",
+            "B.鼓阶",
+            "C.前庭阶",
+            "D.基底膜螺旋器",
+            "E.半规管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 35
+    },
+    {
+        "question_text": "1097.能产生动作电位的细胞是",
+        "options": [
+            "A.视锥细胞",
+            "B.神经节细胞",
+            "C.双极细胞",
+            "D.水平细胞",
+            "E.视杆细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 36
+    },
+    {
+        "question_text": "1098.在折光系统中起主要作用的是",
+        "options": [
+            "A.角膜",
+            "B.房水",
+            "C.玻璃体",
+            "D.晶状体",
+            "E.视网膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 37
+    },
+    {
+        "question_text": "1099.耳蜗底部基底膜损害出现的感音障碍是对",
+        "options": [
+            "A.高频音",
+            "B.低频音",
+            "C.中频音",
+            "D.中、低频音",
+            "E.超高频音"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 38
+    },
+    {
+        "question_text": "1100 .眼尽最大能力调节时所能看清物体的最近距 离称为",
+        "options": [
+            "A.远点",
+            "B.节点",
+            "C.后主焦点",
+            "D.前主焦点",
+            "E.近点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 39
+    },
+    {
+        "question_text": "1101.对视锥系统的错误的描述是",
+        "options": [
+            "A.视敏度高",
+            "B.光敏度低",
+            "C.参与暗适应过程",
+            "D.一类视锥细胞只对一种单色光起反应",
+            "E.对物体有高分辨率"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 40
+    },
+    {
+        "question_text": "1102.对视杆细胞功能的错误的描述是",
+        "options": [
+            "A.视敏度低",
+            "B.光敏度高",
+            "C.光刺激时视紫红质分解增多",
+            "D.不能分辨颜色",
+            "E.光刺激引起去极化电位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 41
+    },
+    {
+        "question_text": "1103 .椭圆囊",
+        "options": [
+            "A.适宜刺激是角加速度运动",
+            "B.静止状态前庭感觉神经纤维无放电",
+            "C.能够引起肌紧张的反射性变化",
+            "D.受刺激时动纤毛倒向静纤毛侧",
+            "E.人体直立时，椭圆囊囊斑平面与地面垂直"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 42
+    },
+    {
+        "question_text": "1104.关于视力的叙述.正确的是",
+        "options": [
+            "A.色盲患者视力减弱",
+            "B.中央凹视力比周边区高",
+            "C.是测量视网膜对光的敏感度指标",
+            "D.单眼视物比双眼视物时的视力高",
+            "E.黄斑处视力最高是因为此处视锥细胞多而集中，呈聚合联系"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 43
+    },
+    {
+        "question_text": "1105.单纤维听神经动作电位",
+        "options": [
+            "A.无自发放电",
+            "B.当发生自发放电时可能会产生耳鸣",
+            "C.振幅随声刺激强度增加而增大",
+            "D.用最佳频率纯音所需刺激强度最小",
+            "E.安静时无自发放电现象"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 44
+    },
+    {
+        "question_text": "1106.关于感受器生理特性的错误叙述是",
+        "options": [
+            "A.每种感受器都有各自的适宜的刺激",
+            "B.能把刺激能量转化为神经冲动",
+            "C.有的适应过程快，有的适应过程慢",
+            "D.是感觉分析的主要部位",
+            "E.能将不同形式的刺激转换为相似的神经信号"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 45
+    },
+    {
+        "question_text": "1107.感受器能把刺激所包合的环境变化信息.转 移到新的电信号系统中.感受器的这种生理特性 称为",
+        "options": [
+            "A.感受器适宜刺激",
+            "B.感受器换能作用",
+            "C.感受器编码作用",
+            "D.感受器适应现象",
+            "E.感受器的启动电位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 46
+    },
+    {
+        "question_text": "1108 .就感受器电位来说.错误的是",
+        "options": [
+            "A.在一定范围内其大小与刺激强度成正比",
+            "B.以电紧张形式扩布",
+            "C.具有总和现象，不具有“全或无”性质",
+            "D.具有“全或无”性质，不具有总和现象",
+            "E.感受器出现的电位变化都是通过跨膜信号转换 的结果"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 47
+    },
+    {
+        "question_text": "1109.感受器电位不具备的特点是",
+        "options": [
+            "A.类似局部电位的电变化",
+            "B.“全或无”形式",
+            "C.产生在刺激转变成为传入神经纤维上的动作电 位之前",
+            "D.参与感受器的信息编码",
+            "E.是一种过渡性慢电位，在一定范围内其大小与 刺激强度成正比"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 48
+    },
+    {
+        "question_text": "1110.房水的主要功能是",
+        "options": [
+            "A.折光成像",
+            "B.对玻璃体有保护作用",
+            "C.对角膜和晶体有营养作用",
+            "D.对视网膜有保护作用",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 49
+    },
+    {
+        "question_text": "1111.看近物时的视觉调节过程包括",
+        "options": [
+            "A.晶体变凸，眼轴会聚，瞳孔散大",
+            "B.晶体变凸，眼轴会聚，瞳孔缩小",
+            "C.晶体变扁平，眼轴会聚，瞳孔缩小",
+            "D.晶体变扁平，眼轴会聚，瞳孔散大",
+            "E.晶状体曲率半径减小，眼轴会聚，瞳孔缩小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 50
+    },
+    {
+        "question_text": "1112.人眼的调节功能主要是由'来实现 的",
+        "options": [
+            "A.角膜的曲度变化",
+            "B.角膜和晶体的曲度变化",
+            "C.晶体的曲度变化",
+            "D.玻璃体的曲度变化",
+            "E.晶体和玻璃体的曲度变化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 51
+    },
+    {
+        "question_text": "1113.老视主要是因哪项发生改变所致",
+        "options": [
+            "A.晶体透明度",
+            "B.晶体弹性",
+            "C.角膜曲率",
+            "D.角膜透明度",
+            "E.房水透明度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 52
+    },
+    {
+        "question_text": "1114.某人看远物需要调节.看近物也不清楚.提 示他可能是",
+        "options": [
+            "A.远视",
+            "B.近视",
+            "C.散光",
+            "D.老花眼",
+            "E.白内障"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 53
+    },
+    {
+        "question_text": "1115.当用光照射左眼时",
+        "options": [
+            "A.左瞳孔缩小",
+            "B.右瞳孔缩小",
+            "C.两侧瞳孔都缩小",
+            "D.两例瞳孔都不变",
+            "E.左瞳孔缩小，右瞳孔不变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 54
+    },
+    {
+        "question_text": "1116.对暗光敏感的区域是",
+        "options": [
+            "A.视网膜中央凹处",
+            "B.视盘处",
+            "C.视网膜周缘部分",
+            "D.整个视网膜",
+            "E.视乳头"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 55
+    },
+    {
+        "question_text": "1117.视神经的轴突是由哪项离开眼球的",
+        "options": [
+            "A.中央凹",
+            "B.黄斑区",
+            "C.视盘",
+            "D.周边部",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 56
+    },
+    {
+        "question_text": "1118.视锥系统的特点是",
+        "options": [
+            "A能辨颜色，分辨能力高",
+            "B不能辨颜色，分辨能力高",
+            "C不能辨颜色，分辨能力低",
+            "D不能辨颜色，分辨能力高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 57
+    },
+    {
+        "question_text": "1119.关于视杆系统的论述.错误的是",
+        "options": [
+            "A.由视杆细胞、双极细胞、节细胞等组成",
+            "B.对光敏感度较高",
+            "C.能分辨颜色",
+            "D.分辨力较低",
+            "E.感受弱光刺激"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 58
+    },
+    {
+        "question_text": "1120.对昼光觉最敏感的区域是",
+        "options": [
+            "A.视网膜中央部",
+            "B.视神经乳头处",
+            "C.视网膜周边部",
+            "D.色素上皮层",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 59
+    },
+    {
+        "question_text": "1121.夜盲症的发生原因主要是",
+        "options": [
+            "A.视紫红质过多",
+            "B.视紫红质缺乏",
+            "C.顺视黄醛过多",
+            "D.视蛋白不足",
+            "E.维生素E含量不足"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 60
+    },
+    {
+        "question_text": "1 122.一般认为视杆细胞兴奋时是发",
+        "options": [
+            "A.去极化",
+            "B.超极化",
+            "C.动作电位",
+            "D.兴奋性突触电位",
+            "E.抑制性突触电位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 61
+    },
+    {
+        "question_text": "1123.维生素A严重缺乏.可影响人",
+        "options": [
+            "A.在明处的视力",
+            "B.色觉",
+            "C.视物分辨率",
+            "D.立体视觉",
+            "E.在暗处的视力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 62
+    },
+    {
+        "question_text": "1124.耳蜗顶部毛细胞受损将出现",
+        "options": [
+            "A.高频听力损失",
+            "B.低频听力损失",
+            "C.咼、低频听力均损失",
+            "D.对高、低频听力均无影响",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 63
+    },
+    {
+        "question_text": "1125.正常人声音的频率可听范围是",
+        "options": [
+            "A.20--20000Hz",
+            "B.100--6600Hz",
+            "C.500--20000Hz",
+            "D.1000--10000Hz",
+            "E.3000--10000Hz"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 64
+    },
+    {
+        "question_text": "1126 .看近物时需戴眼镜.看远物时不需戴眼镜的 眼是",
+        "options": [
+            "A.正视眼",
+            "B.近视眼",
+            "C.远视眼",
+            "D.散光眼",
+            "E.老视眼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 65
+    },
+    {
+        "question_text": "1127.看近物和远物都不需戴眼镜的眼是",
+        "options": [
+            "A.正视眼",
+            "B.近视眼",
+            "C.远视眼",
+            "D.散光眼",
+            "E.老视眼"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 66
+    },
+    {
+        "question_text": "1128.近点及远点都大于正视眼的眼是",
+        "options": [
+            "A.正视眼",
+            "B.近视眼",
+            "C.远视眼",
+            "D.散光眼",
+            "E.老视眼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 67
+    },
+    {
+        "question_text": "1129.角膜表面不是正球面的眼是",
+        "options": [
+            "A.正视眼",
+            "B.近视眼",
+            "C.远视眼",
+            "D.散光眼",
+            "E.老视眼"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 68
+    }
+]

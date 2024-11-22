@@ -1,0 +1,492 @@
+[
+    {
+        "question_text": "1.仅对浅表真菌感染有效",
+        "options": [
+            "A.灰黄霉素",
+            "B.酮康唑",
+            "C.两性霉素B",
+            "D.制霉菌素",
+            "E.氟胞嘧啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 1
+    },
+    {
+        "question_text": "2.对浅表癣菌感染和深部念珠菌感染均有效的广谱抗真菌药是",
+        "options": [
+            "A.灰黄霉素",
+            "B.酮康唑",
+            "C.两性霉素B",
+            "D.制霉菌素",
+            "E.氟胞嘧啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 2
+    },
+    {
+        "question_text": "3.患者,男,60岁,因糖尿病合并皮肤感染,长期服用四环素、磺胺药,后咽部出现白色薄膜,不曾注意,近来消化不良,腹泻就诊,怀疑为“白色念珠菌病”,宜用",
+        "options": [
+            "A.灰黄霉素",
+            "B.制霉菌素",
+            "C.两性霉素B",
+            "D.阿昔洛韦",
+            "E.利巴韦林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 3
+    },
+    {
+        "question_text": "4.兼有抗震颤麻痹作用的抗病毒药是",
+        "options": [
+            "A.碘苷",
+            "B.金刚烷胺",
+            "C.阿昔洛韦",
+            "D.利巴韦林",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 4
+    },
+    {
+        "question_text": "5.金刚烷胺能特异性地抑制下列哪种病毒感染",
+        "options": [
+            "A.甲型流感病毒",
+            "B.乙型流感病毒",
+            "C.麻疹病毒",
+            "D.单纯疱疹病毒",
+            "E.腮腺炎病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 5
+    },
+    {
+        "question_text": "6.不良反应最轻的咪唑类抗真菌药是",
+        "options": [
+            "A.克霉唑",
+            "B.甲哨唑",
+            "C.咪康唑",
+            "D.酮康唑",
+            "E.氟康唑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 6
+    },
+    {
+        "question_text": "7.口服抗真菌作用最强的药",
+        "options": [
+            "A.灰黄霉素",
+            "B.酮康唑",
+            "C.两性霉素B",
+            "D.克霉唑",
+            "E.氟康唑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 7
+    },
+    {
+        "question_text": "8.通过抑制胸苷酸合成酶,使DNA合成受阻的抗病毒药是",
+        "options": [
+            "A.碘苷",
+            "B.金刚烷胺",
+            "C.阿昔洛韦",
+            "D.利巴韦林",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 8
+    },
+    {
+        "question_text": "9.无抗真菌作用的咪唑类药",
+        "options": [
+            "A.克霉唑",
+            "B.甲哨唑",
+            "C.咪康唑",
+            "D.酮康唑",
+            "E.氟康唑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 9
+    },
+    {
+        "question_text": "10.男,40岁,双脚趾间痒,经常起水泡,脱皮多年,细菌学检查有癣菌,病人不宜用",
+        "options": [
+            "A.酮康唑",
+            "B.咪康唑",
+            "C.两性霉素B",
+            "D.氟康唑",
+            "E.灰黄霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 10
+    },
+    {
+        "question_text": "11.对DNA和RNA病毒感染均有效的广谱抗真菌药是",
+        "options": [
+            "A.碘苷",
+            "B.金刚烷胺",
+            "C.阿昔洛韦",
+            "D.利巴韦林",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 11
+    },
+    {
+        "question_text": "12.在下列药物中,抗疱疹病毒作用最强的是",
+        "options": [
+            "A.碘苷",
+            "B.金刚烷胺",
+            "C.阿昔洛韦",
+            "D.利巴韦林",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 12
+    },
+    {
+        "question_text": "13.有关灰黄霉素的错误叙述",
+        "options": [
+            "A.油脂食物可促进肠道吸收",
+            "B.局部外用对浅表真菌感染有效",
+            "C.对深部真菌和细菌无效",
+            "D.干扰真菌核酸合成",
+            "E.与青霉素可能有交叉过敏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 13
+    },
+    {
+        "question_text": "14.可局部用于口腔、皮肤、阴道念珠菌病的药物是",
+        "options": [
+            "A.多粘菌素",
+            "B.两性霉素B",
+            "C.灰黄霉素",
+            "D.制霉菌素",
+            "E.四环素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 14
+    },
+    {
+        "question_text": "15.咪唑类抗真菌药的作用机制是",
+        "options": [
+            "A.抑制细胞膜类固醇合成,使其通透性增加",
+            "B.阻止核酸合成",
+            "C.抑制二氢叶酸合成酶",
+            "D.抑制二氢叶酸还原酶",
+            "E.抑制蛋白质合成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 15
+    },
+    {
+        "question_text": "16.对帕金森病有效的抗病毒药物是",
+        "options": [
+            "A.阿昔洛韦",
+            "B.利巴韦林",
+            "C.金刚烷胺",
+            "D.碘苷",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 16
+    },
+    {
+        "question_text": "17.易透过血脑屏障进入脑脊液的抗真菌药是",
+        "options": [
+            "A.灰黄霉素",
+            "B.制霉菌素",
+            "C.酮康唑",
+            "D.咪康唑",
+            "E.氛康唑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 17
+    },
+    {
+        "question_text": "18.仅对表浅部真菌感染有效的药物是",
+        "options": [
+            "A.两性霉素",
+            "B.制菌霉素",
+            "C.灰黄霉素",
+            "D.伊曲康唑",
+            "E.氟胞嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 18
+    },
+    {
+        "question_text": "19.对真菌性脑膜炎有效的药",
+        "options": [
+            "A.灰黄霉素",
+            "B.特比萘芬",
+            "C.制菌霉素",
+            "D.咪康唑",
+            "E.两性霉素B"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 19
+    },
+    {
+        "question_text": "20.灰黄霉素主要用于治疗",
+        "options": [
+            "A.真菌性肺炎",
+            "B.真菌性脑膜炎",
+            "C.真菌性心内膜炎",
+            "D.头癬、股癬",
+            "E.以上均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 20
+    },
+    {
+        "question_text": "21.真菌性脑膜炎疗效好的药",
+        "options": [
+            "A.氟康唑",
+            "B.酮康唑",
+            "C.咪康唑",
+            "D.克霉唑",
+            "E.特比萘芬"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 21
+    },
+    {
+        "question_text": "22.对浅表癣菌感染和深部念珠菌感染均有效的广谱抗真菌药物是",
+        "options": [
+            "A.灰黄霉素",
+            "B.两性霉素",
+            "C.伊曲康唑",
+            "D.克霉唑",
+            "E.制菌霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 22
+    },
+    {
+        "question_text": "23.对深部和浅部真茵感染均有效且不良反应较小的药",
+        "options": [
+            "A.制菌霉素",
+            "B.克霉唑",
+            "C.制菌霉素",
+            "D.两性霉素",
+            "E.氟康唑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 23
+    },
+    {
+        "question_text": "24.两性霉素B抗真菌的作用机制是",
+        "options": [
+            "A.抑制真菌的细胞色素P-450同工酶",
+            "B.抑制角鳖烯环氧化酶",
+            "C.与真菌细胞膜的麦角固醇结合,增加膜通透性",
+            "D.阻止微管蛋白聚合而抑制真菌有丝分裂",
+            "E.抑制胸苷酸合成酶,阻碍DNA合成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 24
+    },
+    {
+        "question_text": "25.对假丝酵母菌感染无效的抗真菌药是",
+        "options": [
+            "A.两性霉素B",
+            "B.灰黄霉素",
+            "C.酮康唑",
+            "D.氟康唑",
+            "E.氟胞嘧啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 25
+    },
+    {
+        "question_text": "26.兼有抗帕金森病作用的抗病毒药是",
+        "options": [
+            "A.碘苷",
+            "B.金刚烷胺",
+            "C.阿昔洛韦",
+            "D.利巴韦林",
+            "E.阿糖腺苷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 26
+    },
+    {
+        "question_text": "27.对DNA和RNA病毒感染均有效的广谱抗病毒药是",
+        "options": [
+            "A.阿昔洛韦",
+            "B.金刚烷胺",
+            "C.碘苷",
+            "D.阿糖腺苷",
+            "E.利巴韦林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 27
+    },
+    {
+        "question_text": "28.治疗深部真菌感染的首选药是",
+        "options": [
+            "A.两性霉素制菌霉素",
+            "B.灰黄霉素、制菌霉素",
+            "C.氟胞嘧啶、特比萘芬",
+            "D.伊曲康唑、氟康唑",
+            "E.克霉唑、咪康唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 28
+    },
+    {
+        "question_text": "29.齐多夫定的抗病毒机制是",
+        "options": [
+            "A.抑制HIW蛋白酶",
+            "B.抑制DNA多聚酶",
+            "C.抑制核苷逆转录酶",
+            "D.增强宿主抗病能力",
+            "E.阻止病毒吸附"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 29
+    },
+    {
+        "question_text": "30.金刚烷胺主要用于预防和治疗的病毒感染为",
+        "options": [
+            "A.甲型流感病毒",
+            "B.乙型流感病毒",
+            "C.单纯疱疹病毒",
+            "D.腮腺炎病毒",
+            "E.麻疹病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 30
+    },
+    {
+        "question_text": "31.抗疱疹病毒作用最强的药",
+        "options": [
+            "A.金刚烷胺",
+            "B.碘苷",
+            "C.阿糖腺苷",
+            "D.氟胞嘧啶",
+            "E.阿昔洛韦"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 31
+    },
+    {
+        "question_text": "32.通过抑制HIV蛋白酶的抗艾滋病药物是",
+        "options": [
+            "A.阿昔洛韦",
+            "B.司他夫定",
+            "C.奈韦拉平",
+            "D.利托那韦",
+            "E.伐昔洛韦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 32
+    },
+    {
+        "question_text": "33.通过抑制核苷逆转录酶的抗艾滋病药物是",
+        "options": [
+            "A.奈韦拉平",
+            "B.地拉韦定",
+            "C.齐多夫定",
+            "D.利托那韦",
+            "E.英地那韦"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 33
+    },
+    {
+        "question_text": "34.治疗头癣的首选药物是",
+        "options": [
+            "A.两性霉素B",
+            "B.灰黄霉素",
+            "C.制菌霉素",
+            "D.咪康唑",
+            "E.克霉唑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 34
+    },
+    {
+        "question_text": "35.不属于抗HIV的抗病毒药",
+        "options": [
+            "A.奈韦拉平",
+            "B.齐多夫定",
+            "C.奈非那韦",
+            "D.拉米夫定",
+            "E.伐昔洛韦"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "35",
+        "number": 35
+    }
+]

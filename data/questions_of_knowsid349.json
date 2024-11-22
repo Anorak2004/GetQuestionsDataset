@@ -1,0 +1,982 @@
+[
+    {
+        "question_text": "1.可用于治疗心衰的钙通道阻滞药物是:",
+        "options": [
+            "A.氨氯地平",
+            "B.硝酸甘油",
+            "C.硝普钠",
+            "D.哌唑嗪",
+            "E.肼屈嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 1
+    },
+    {
+        "question_text": "2.临床口服最常用的强心苷类制剂是:",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.地高辛",
+            "C.毛花苷丙",
+            "D.毒毛花苷K",
+            "E.黄夹苷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 2
+    },
+    {
+        "question_text": "3.血管扩张药改善心肌的泵血功能是通过",
+        "options": [
+            "A.增加心肌供氧量",
+            "B.改善冠脉血流",
+            "C.降低血压",
+            "D.减轻心脏的前、后负荷",
+            "E.降低心输出量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 3
+    },
+    {
+        "question_text": "4.强心苷中毒致窦性心动过缓的原因:",
+        "options": [
+            "A.抑制房室传导",
+            "B.加强心肌收缩力",
+            "C.抑制窦房结",
+            "D.缩短心房的有效不应期",
+            "E.增加房室结的隐匿性传导"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 4
+    },
+    {
+        "question_text": "5.可用于治疗心衰的磷酸二酯酶Ⅲ抑制剂是:",
+        "options": [
+            "A.维拉帕米",
+            "B.米力农",
+            "C.卡托普利",
+            "D.酚妥拉明",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列肝肠循环最多的强心苷是:",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.地高辛",
+            "C.毒毛花苷K",
+            "D.毛花苷丙",
+            "E.铃兰毒苷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 6
+    },
+    {
+        "question_text": "7.静脉注射后起效最快的强心苷是:",
+        "options": [
+            "A.地高辛",
+            "B.毛花苷丙",
+            "C.洋地黄毒苷",
+            "D.毒毛花苷K",
+            "E.甲地高辛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 7
+    },
+    {
+        "question_text": "8.地高辛的t1/2为33小时,若每日给予维持量,则达到稳态血药浓度约需:",
+        "options": [
+            "A.12d",
+            "B.10d",
+            "C.9d",
+            "D.7d",
+            "E.3d"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 8
+    },
+    {
+        "question_text": "9.强心苷中毒早期最常见的不良反应",
+        "options": [
+            "A.心电图出现QT间期缩短",
+            "B.头痛",
+            "C.房室传导阻滞",
+            "D.低血钾",
+            "E.恶心、呕吐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 9
+    },
+    {
+        "question_text": "10.治疗强心苷中毒引起的快速型心律失常的首选药物是:",
+        "options": [
+            "A.苯妥英钠",
+            "B.普萘洛尔",
+            "C.胺碘酮",
+            "D.维拉帕米",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 10
+    },
+    {
+        "question_text": "11.充血性心衰的危急状态应选:",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.肾上腺素",
+            "C.毛花苷丙",
+            "D.氯化钾",
+            "E.米力农"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列强心苷中毒症状中不宜用氯化钾的是",
+        "options": [
+            "A.室性早搏",
+            "B.房室传导阻滞",
+            "C.室性心动过速",
+            "D.二联律",
+            "E.室上性心动过速"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 12
+    },
+    {
+        "question_text": "13.主要扩张静脉治疗心衰的药物是:",
+        "options": [
+            "A.哌唑嗪",
+            "B.肼屈嗪",
+            "C.硝酸甘油",
+            "D.硝普钠",
+            "E.卡托普利"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 13
+    },
+    {
+        "question_text": "14.能扩张动、静脉治疗心衰的药物是:",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝酸异山梨酯",
+            "C.硝普钠",
+            "D.肼屈嗪",
+            "E.地高辛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 14
+    },
+    {
+        "question_text": "15.排泄最慢作用最持久的强心苷是:",
+        "options": [
+            "A.地高辛",
+            "B.洋地黄毒苷",
+            "C.毛花苷丙",
+            "D.铃兰毒苷",
+            "E.毒毛花苷K"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 15
+    },
+    {
+        "question_text": "16.血浆蛋白结合率最高的强心苷是:",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.地高辛",
+            "C.毒毛花苷K",
+            "D.毛花苷丙",
+            "E.铃兰毒苷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 16
+    },
+    {
+        "question_text": "17.肝药酶诱导剂可促进代谢的强心苷:",
+        "options": [
+            "A.地高辛",
+            "B.铃兰毒苷",
+            "C.洋地黄毒苷",
+            "D.毛花苷丙",
+            "E.毒毛花苷K"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 17
+    },
+    {
+        "question_text": "18.强心苷心肌正性肌力作用机制是:",
+        "options": [
+            "A.增加膜Na-K-ATP酶活性",
+            "B.促进儿茶酚胺释放",
+            "C.抑制膜Na-K-ATP酶活性",
+            "D.缩小心室容积",
+            "E.减慢房室传导"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 18
+    },
+    {
+        "question_text": "19.强心苷最佳的适应证是:",
+        "options": [
+            "A.甲状腺功能亢进诱发的心衰",
+            "B.高度二尖瓣狭窄诱发的心衰",
+            "C.伴有心房纤颤和心率快的心衰",
+            "D.肺源性心脏病引起的心衰",
+            "E.严重贫血诱发的心衰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 19
+    },
+    {
+        "question_text": "20.口服生物利用度最高的强心苷是:",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.毒毛花苷",
+            "C.毛花苷",
+            "D.地高辛",
+            "E.铃兰毒苷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 20
+    },
+    {
+        "question_text": "21.强心苷毒引起的窦性心动过缓可选用:",
+        "options": [
+            "A.阿托品",
+            "B.苯妥英钠",
+            "C.氯化钾",
+            "D.利多卡因",
+            "E.氨茶碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 21
+    },
+    {
+        "question_text": "22.强心苷不用于:",
+        "options": [
+            "A.慢性心功能不全",
+            "B.心房纤颤",
+            "C.心房扑动",
+            "D.室性心动过速",
+            "E.室上性心动过速"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 22
+    },
+    {
+        "question_text": "23.能增加地高辛毒性的药物是:",
+        "options": [
+            "A.氯化钾",
+            "B.螺内酯",
+            "C.苯妥英钠",
+            "D.哌唑嗪",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 23
+    },
+    {
+        "question_text": "24.原形自肾排出最多的药物是",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.地高辛",
+            "C.乙酰洋地黄毒苷",
+            "D.毒毛花苷K",
+            "E.甲地高辛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 24
+    },
+    {
+        "question_text": "25.强心苷的利尿作用主要是由于",
+        "options": [
+            "A.抑制抗利尿素的分泌",
+            "B.抑制肾小管膜ATP酶",
+            "C.增加肾血流量",
+            "D.增加交感神经活力",
+            "E.继发性醛固酮增多症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 25
+    },
+    {
+        "question_text": "26.用于治疗心功能不全的β受体激动剂:",
+        "options": [
+            "A.卡托普利",
+            "B.美托洛尔",
+            "C.多巴酚丁胺",
+            "D.氨力农",
+            "E.异丙肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 26
+    },
+    {
+        "question_text": "27.治疗洋地黄引起的室性早搏最好选用:",
+        "options": [
+            "A.利多卡因",
+            "B.奎尼丁",
+            "C.普鲁卡因胺",
+            "D.普萘洛尔",
+            "E.溴苄铵"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 27
+    },
+    {
+        "question_text": "28.伴高血压危象的严重心衰应选用哪一种血管扩张药",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝苯地平",
+            "C.硝普钠",
+            "D.肼屈嗪",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪项不属于地高辛的不良反应",
+        "options": [
+            "A.室上性或室性心律失常",
+            "B.房室传导障碍",
+            "C.头痛、眩晕等神经症状",
+            "D.厌食、恶心、呕吐等胃肠道反应",
+            "E.粒细胞减少、血小板减少等造血系统疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 29
+    },
+    {
+        "question_text": "30.卡托普利治疗充血性心力衰竭的作用是",
+        "options": [
+            "A.逆转左室肥厚",
+            "B.降低全身血管阻力",
+            "C.降低充血性心力衰竭的病死率和改善预后",
+            "D.降低室壁肌张力,改善心舒张功能",
+            "E.以上都是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 30
+    },
+    {
+        "question_text": "31.关于卡托普利,下列哪种说法是错误的",
+        "options": [
+            "A.可用于治疗心衰",
+            "B.降低外周血管阻力",
+            "C.与利尿药合用可加强其作用",
+            "D.可增加体内醛固酮水平",
+            "E.双侧肾动脉狭窄的患者忌用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 31
+    },
+    {
+        "question_text": "32.硝普钠治疗心衰的药理学根据是",
+        "options": [
+            "A.降低心输出量",
+            "B.减慢心率",
+            "C.降低血压",
+            "D.扩张动、静脉,降低心脏前后负荷",
+            "E.改善冠脉血流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列哪一药物可能使充血性心力衰竭恶化,增加病死率",
+        "options": [
+            "A.硝苯地平",
+            "B.氢氯噻嗪",
+            "C.地高辛",
+            "D.卡托普利",
+            "E.硝普钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 33
+    },
+    {
+        "question_text": "34.控制慢性心功能不全患者急性发作症状宜选",
+        "options": [
+            "A.洋地黄毒苷",
+            "B.地高辛",
+            "C.毒毛旋花苷K",
+            "D.肾上腺素",
+            "E.异丙肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 34
+    },
+    {
+        "question_text": "35.氨力农治疗心力衰竭主要的药理作用是",
+        "options": [
+            "A.正性肌力作用",
+            "B.负性频率作用",
+            "C.抑制房室传导",
+            "D.兴奋心肌β1受体",
+            "E.收缩外周血管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 35
+    },
+    {
+        "question_text": "36.卡托普利临床用于",
+        "options": [
+            "A.慢性心功能不全和高血压",
+            "B.心房纤颤",
+            "C.心房扑动",
+            "D.阵发性室上性心动过速",
+            "E.阵发性室性心动过速"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 36
+    },
+    {
+        "question_text": "37.氨氯地平治疗心力衰竭的药理学基础是",
+        "options": [
+            "A.正性肌力作用",
+            "B.增强自律性作用",
+            "C.负性频率作用",
+            "D.缩短有效不应期",
+            "E.扩张小动脉,减轻心后负荷,改善左室功能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 37
+    },
+    {
+        "question_text": "38.解除地高辛致死性中毒最好选用",
+        "options": [
+            "A.氯化钾静脉滴注",
+            "B.利多卡因",
+            "C.苯妥英钠",
+            "D.地高辛抗体",
+            "E.普鲁卡因胺心腔注射"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 38
+    },
+    {
+        "question_text": "39.米力农属于",
+        "options": [
+            "A.血管扩张药",
+            "B.磷酸二酯酶抑制药",
+            "C.强心苷类正性肌力药",
+            "D.血管紧张素Ⅱ受体拮抗药",
+            "E.血管紧张素转化酶抑制药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 39
+    },
+    {
+        "question_text": "40.强心苷的负性频率作用是因为",
+        "options": [
+            "A.β受体阻断作用引起",
+            "B.α受体阻断作用引起",
+            "C.反射性兴奋迷走神经",
+            "D.反射性兴奋交感神经",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 40
+    },
+    {
+        "question_text": "41.血管紧张素I转化酶抑制药广泛用于心力衰竭,其主要目的是",
+        "options": [
+            "A.防止和逆转心肌重构肥厚",
+            "B.使心肌耗氧量减少",
+            "C.扩张血管,降低心脏负荷",
+            "D.扩张冠状动脉,提高心肌供氧量",
+            "E.以上都是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 41
+    },
+    {
+        "question_text": "42.强心苷对心肌的电生理作用下列哪一项是错误的",
+        "options": [
+            "A.使窦房结自律性降低",
+            "B.使浦肯野纤维自律性降低",
+            "C.使房室结传导性降低",
+            "D.使心房有效不应期缩短",
+            "E.使浦肯野纤维有效不应期缩短"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪一项不属于强心苷的作用机制",
+        "options": [
+            "A.抑制Na-K-ATP酶",
+            "B.使细胞内Na+量增多,K+量减少",
+            "C.使细胞外Na+量增多,K+量减少",
+            "D.使细胞内Ca2+量增加",
+            "E.促使肌浆网释放出Ca2+"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 43
+    },
+    {
+        "question_text": "44.没有血管扩张作用的药物是",
+        "options": [
+            "A.硝普钠",
+            "B.肼屈嗪",
+            "C.哌唑嗪",
+            "D.硝苯地平",
+            "E.强心苷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 44
+    },
+    {
+        "question_text": "45.强心苷主要用于治疗下列哪类充血性心力衰竭",
+        "options": [
+            "A.心肌缺血、高血压、甲状腺功能亢进等所引起的充血性心力衰竭",
+            "B.肺源性心脏病、严重心肌损伤或活动性心肌炎的充血性心力衰竭",
+            "C.继发于严重贫血、甲亢及维生素B缺乏症的充血性心力衰竭",
+            "D.心肌外机械因素引起的充血性心力衰竭",
+            "E.严重二尖瓣狭窄及缩窄性心包炎引起的充血性心力衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 45
+    },
+    {
+        "question_text": "46.不宜作为常规用药治疗心力衰竭的是",
+        "options": [
+            "A.强心苷",
+            "B.卡托普利",
+            "C.硝普钠",
+            "D.硝苯地平",
+            "E.美托洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 46
+    },
+    {
+        "question_text": "47.血管扩张药治疗心衰的主要药理依据是",
+        "options": [
+            "A.扩张冠脉,增加心肌供氧",
+            "B.减少心肌耗氧",
+            "C.减轻心脏的前、后负荷",
+            "D.降低血压,反射性兴奋交感神经",
+            "E.降低心排出量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 47
+    },
+    {
+        "question_text": "48.目前不宜常规用于治疗心衰的药物是",
+        "options": [
+            "A.维拉帕米",
+            "B.卡托普利",
+            "C.地高辛",
+            "D.硝普钠",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 48
+    },
+    {
+        "question_text": "49.血管紧张素转化酶抑制药治疗心力衰竭的机制,下述哪一项是错误的",
+        "options": [
+            "A.减少缓激肽的降解,提高血中缓激肽的含量",
+            "B.降低血中儿茶酚胺的含量",
+            "C.抑制心肌重构",
+            "D.抑制循环中AngI向AngⅡ转化↑",
+            "E.激动β受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 49
+    },
+    {
+        "question_text": "50.女,46岁,有风湿性二尖瓣关闭不全心脏病多年,近3-5天气短加重,心慌,有时夜间出现阵发性呼吸困难,检查左室舒张期充盈压高于2kPA,端坐呼吸,两肺湿啰音,心率130次/分,偶有室性早搏。除给地高辛、利尿剂外,宜配合",
+        "options": [
+            "A.多巴胺",
+            "B.硝苯地平",
+            "C.肾上腺素",
+            "D.去甲肾上腺素",
+            "E.硝普钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 50
+    },
+    {
+        "question_text": "51.地高辛临床应用不包括",
+        "options": [
+            "A.慢性心功能不全",
+            "B.心房颤动",
+            "C.阵发性室上性心动过速",
+            "D.心源性哮喘",
+            "E.室性心动过速"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 51
+    },
+    {
+        "question_text": "52.强心苷治疗心衰的原发作用是",
+        "options": [
+            "A.使已扩大的心室容量缩小",
+            "B.降低心肌耗氧量",
+            "C.减慢心率",
+            "D.正性肌力作用",
+            "E.减慢房室传导"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 52
+    },
+    {
+        "question_text": "53.下列哪个药物不是血管扩张药",
+        "options": [
+            "A.硝酸甘油",
+            "B.氢氯噻嗪",
+            "C.硝普钠",
+            "D.哌唑嗪",
+            "E.肼屁嗪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 53
+    },
+    {
+        "question_text": "54.属于血管紧张素Ⅱ受体抗药的是",
+        "options": [
+            "A.卡托普利",
+            "B.氯沙坦",
+            "C.螺内酯",
+            "D.硝普钠",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 54
+    },
+    {
+        "question_text": "55.可抑制醛固酮对心脏重构作用的药物是",
+        "options": [
+            "A.卡托普利",
+            "B.氯沙坦",
+            "C.肼屈嗪",
+            "D.氢氯噻嗪",
+            "E.螺内酯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 55
+    },
+    {
+        "question_text": "56.女,32岁,近半年以来一直用地高辛和氢氯噻嗪控制慢性心功能不全症状,一周以来出现心慌乏力、食欲不佳,心电图提示:频发性室性期前收缩:血液检查提示;血钾低于正常,在补钾的同时应选用下列何药控制心律失常",
+        "options": [
+            "A.奎尼丁",
+            "B.普鲁卡因胺",
+            "C.胺碘酮",
+            "D.苯妥英钠",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 56
+    },
+    {
+        "question_text": "57.阻滞钙离子通道而治疗心衰的药物是",
+        "options": [
+            "A.肼屈嗪",
+            "B.氨氯地平",
+            "C.硝酸甘油",
+            "D.硝普钠",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 57
+    },
+    {
+        "question_text": "58.强心苷中毒最常见的早期症状是",
+        "options": [
+            "A.Q-T间期缩短",
+            "B.头痛",
+            "C.胃肠道反应",
+            "D.房室传导阻滞",
+            "E.低血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 58
+    },
+    {
+        "question_text": "59.关于强心苷的叙述,下面哪一项是错误的",
+        "options": [
+            "A.强心苷由苷元和糖组成,其中苷元部分是发挥正性肌力的基本结构",
+            "B.有肾功能不良的病人不可选用地高辛",
+            "C.洋地黄毒苷肝转化率最高,是因其结构中羟基的数目最多",
+            "D.地高辛的半衰期约33-36小时",
+            "E.老年人易发生地高辛中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 59
+    },
+    {
+        "question_text": "60.强心苷作用的受体是",
+        "options": [
+            "A.Na-K-ATP酶",
+            "B.Ca2+泵",
+            "C.肾上腺素β1受体",
+            "D.五羟色胺受体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 60
+    },
+    {
+        "question_text": "61.强心苷减慢心房纤颤时的心室频率是由于它能",
+        "options": [
+            "A.抑制心房中异位节律点",
+            "B.使心房率降低",
+            "C.使心房肌不应期延长",
+            "D.降低浦肯野纤维自律性",
+            "E.增加房室结中隐匿性传导"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 61
+    },
+    {
+        "question_text": "62.强心苷对下列哪种心衰无效",
+        "options": [
+            "A.高血压病所致的心衰",
+            "B.肺源性心脏病所致的心衰",
+            "C.缩窄性心包炎所致的心衰",
+            "D.先天性心脏病所致的心衰",
+            "E.贫血所致的心衰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 62
+    },
+    {
+        "question_text": "63.应用强心苷治疗心衰时,下列哪一项是错误的",
+        "options": [
+            "A.选择适当的强心苷制剂",
+            "B.迭择适当的剂量和用法",
+            "C.洋地黄化后停药",
+            "D.联合应用利尿药",
+            "E.联合应用血管扩张药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 63
+    },
+    {
+        "question_text": "64.强心苷中毒引起心律失常中最常见的是",
+        "options": [
+            "A.室性心动过速",
+            "B.室性早搏",
+            "C.室上性心动过速",
+            "D.房室传导阻滞",
+            "E.窦性心动过速"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 64
+    },
+    {
+        "question_text": "65.下述哪些因素可诱发强心苷中毒",
+        "options": [
+            "A.低血钾、低血镁",
+            "B.高血钙",
+            "C.心肌缺氧、肾功能减退",
+            "D.联合应用奎尼丁、维拉帕米、排K+利尿药",
+            "E.以上均是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 65
+    },
+    {
+        "question_text": "66.强心苷中毒的停药指征是",
+        "options": [
+            "A.频发室性早搏",
+            "B.二联律",
+            "C.窦性心动过缓",
+            "D.视觉异常",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 66
+    },
+    {
+        "question_text": "67.强心苷中毒引起的房室传导阻滞宜选用",
+        "options": [
+            "A.氯化钾",
+            "B.阿托品",
+            "C.利多卡因",
+            "D.氨茶碱",
+            "E.异丙肾上腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 67
+    },
+    {
+        "question_text": "68.强心苷中毒引起的窦性心动过缓的治疗可选用",
+        "options": [
+            "A.氯化钾",
+            "B.阿托品",
+            "C.利多卡因",
+            "D.肾上腺素",
+            "E.吗啡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 68
+    },
+    {
+        "question_text": "69.地高辛的t1/2为36小时,若每日给予维持量,达到稳态血药浓度约需",
+        "options": [
+            "A.10天",
+            "B.12天",
+            "C.9天",
+            "D.3天",
+            "E.6天"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 69
+    },
+    {
+        "question_text": "70.强心苷中毒引起的快速型心律失常,下述哪一项治疗措施是错误的",
+        "options": [
+            "A.停药",
+            "B.给氯化钾",
+            "C.用苯妥英钠",
+            "D.给呋塞米",
+            "E.给利多卡因"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "70",
+        "number": 70
+    }
+]

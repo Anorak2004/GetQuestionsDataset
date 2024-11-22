@@ -1,0 +1,855 @@
+[
+    {
+        "question_text": "1．3-磷酸甘油醛脱氢酶的辅酶是",
+        "options": [
+            "A．TPP",
+            "B．CoASH",
+            "C．NAD+",
+            "D．FMN",
+            "E．NADP+"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 1
+    },
+    {
+        "question_text": "2．能提供高能磷酸键使 ADP 生成 ATP 的是",
+        "options": [
+            "A．1,6-二磷酸果糖",
+            "B．磷酸二羟丙酮",
+            "C．3-磷酸甘油醛",
+            "D．磷酸烯醇式丙酮酸",
+            "E．3-磷酸甘油酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 2
+    },
+    {
+        "question_text": "3．不参与糖酵解作用的酶是",
+        "options": [
+            "A．己糖激酶",
+            "B．6-磷酸果糖激酶 1",
+            "C．丙酮酸激酶",
+            "D．磷酸烯醇式丙酮酸羧激酶",
+            "E．醛缩酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 3
+    },
+    {
+        "question_text": "4．关于糖酵解的正确描述是",
+        "options": [
+            "A．全过程是可逆的",
+            "B．在细胞浆中进行",
+            "C．生成 38 分子 ATP",
+            "D．不消耗 ATP",
+            "E．终产物是 CO2 和水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 4
+    },
+    {
+        "question_text": "5．成熟红细胞的能源主要来自",
+        "options": [
+            "A．糖的有氧氧化途径",
+            "B．磷酸戊糖途径",
+            "C．糖原合成途径",
+            "D．糖异生途径",
+            "E．糖酵解途径"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 5
+    },
+    {
+        "question_text": "6．缺氧时为机体提供能量的是",
+        "options": [
+            "A．糖酵解途径",
+            "B．糖的有氧氧化途径",
+            "C．磷酸戊糖途径",
+            "D．糖异生途径",
+            "E．糖原合成途径"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 6
+    },
+    {
+        "question_text": "7．催化丙酮酸生成乙酰 CoA 的是",
+        "options": [
+            "A．丙酮酸激酶",
+            "B．丙酮酸羧化酶",
+            "C．丙酮酸脱氢酶系",
+            "D．磷酸烯醇式丙酮酸羧激酶",
+            "E．乳酸脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 7
+    },
+    {
+        "question_text": "8．下列催化氧化脱羧反应的酶是",
+        "options": [
+            "A．葡萄糖-6-磷酸酶",
+            "B．丙酮酸激酶",
+            "C．α-酮戊二酸脱氢酶系",
+            "D．ATP 合成酶系",
+            "E．丙酮酸羧化酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 8
+    },
+    {
+        "question_text": "9．琥珀酰 CoA 生成琥珀酸的同时直接生成",
+        "options": [
+            "A．ATP",
+            "B．CTP",
+            "C．GTP",
+            "D．TTP",
+            "E．UTP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 9
+    },
+    {
+        "question_text": "10．在三羧酸循环中，催化 GTP 生成反应的酶是",
+        "options": [
+            "A．异柠檬酸脱氢酶",
+            "B．α-酮戊二酸脱氢酶系",
+            "C．琥珀酰辅酶A合成酶",
+            "D．琥珀酸脱氢酶",
+            "E．苹果酸脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 10
+    },
+    {
+        "question_text": "11．三羧酸循环的关键酶是",
+        "options": [
+            "A．丙酮酸激酶",
+            "B．异柠檬酸脱氢酶",
+            "C．丙酮酸脱氢酶系",
+            "D．琥珀酸脱氢酶",
+            "E．苹果酸脱氢酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 11
+    },
+    {
+        "question_text": "12．三羧酸循环一周，有几次底物水平磷酸化",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 12
+    },
+    {
+        "question_text": "13．可直接转化为延胡索酸的是",
+        "options": [
+            "A．丙酮酸",
+            "B．6-磷酸葡萄糖",
+            "C．1,6-二磷酸果糖",
+            "D．琥珀酸",
+            "E．草酰乙酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 13
+    },
+    {
+        "question_text": "14．葡萄糖的有氧氧化过程共有（无正确答案）",
+        "options": [
+            "A．4 次脱氢和 2 次脱羧",
+            "B．6 次脱氢和 2 次脱羧",
+            "C．4 次脱氢和 3 次脱羧",
+            "D．6 次脱氢和 3 次脱羧",
+            "E．5 次脱氢和 3 次脱羧"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 14
+    },
+    {
+        "question_text": "15．葡萄糖的有氧氧化过程有几个耗能反应",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 15
+    },
+    {
+        "question_text": "16．1 分子丙酮酸在线粒体内氧化生成 CO2 和 H2O，可产生 ATP 的分子数是",
+        "options": [
+            "A．4",
+            "B．8",
+            "C．12．5",
+            "D．14",
+            "E．15"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 16
+    },
+    {
+        "question_text": "17．1 分子 3-磷酸甘油醛经过糖的有氧氧化途径彻底氧化，经底物水平磷酸化生成的 ATP 分子数是",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．4",
+            "D．5",
+            "E．6"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 17
+    },
+    {
+        "question_text": "18．下列物质彻底氧化生成 ATP 最多的是",
+        "options": [
+            "A．6-磷酸葡萄糖",
+            "B．1,6-二磷酸果糖",
+            "C．3-磷酸甘油醛",
+            "D．磷酸烯醇式丙酮酸",
+            "E．草酰乙酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 18
+    },
+    {
+        "question_text": "19．一分子乙酰 CoA 彻底氧化可生成的 ATP 数是",
+        "options": [
+            "A．36",
+            "B．24",
+            "C．10",
+            "D．2",
+            "E．3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 19
+    },
+    {
+        "question_text": "20．关于三羧酸循环的错误叙述是",
+        "options": [
+            "A．在线粒体内进行",
+            "B．反应是可逆的",
+            "C．是糖、脂肪、蛋白质的共同氧化途径",
+            "D．产生 NADH 和 FADH2",
+            "E．有 GTP 生成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 20
+    },
+    {
+        "question_text": "21．蚕豆病与缺乏下列哪种酶有关",
+        "options": [
+            "A．葡萄糖激酶",
+            "B．丙酮酸激酶",
+            "C．6-磷酸葡萄糖脱氢酶",
+            "D．内酯酶",
+            "E．转酮基酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 21
+    },
+    {
+        "question_text": "22．谷胱甘肽还原酶的辅酶是",
+        "options": [
+            "A．NADPH",
+            "B．NADH",
+            "C．FMNH2",
+            "D．FADH2",
+            "E．CoASH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 22
+    },
+    {
+        "question_text": "23．糖原合成的引物是",
+        "options": [
+            "A．原有的糖原分子",
+            "B．UDP-Glc",
+            "C．葡萄糖",
+            "D．UTP",
+            "E．6-磷酸葡萄糖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 23
+    },
+    {
+        "question_text": "糖原合成所需的“活性葡萄糖”存在于下列哪种物质",
+        "options": [
+            "A．UDP-Glc",
+            "B．ADP-Glc",
+            "C．CDP-Glc",
+            "D．TDP-Glc",
+            "E．6-磷酸葡萄糖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 24
+    },
+    {
+        "question_text": "25．需要 UTP 参与的是",
+        "options": [
+            "A．糖异生途径",
+            "B．糖的有氧氧化途径",
+            "C．糖原分解途径",
+            "D．糖原合成途径",
+            "E．磷酸戊糖途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 25
+    },
+    {
+        "question_text": "26．糖原合成过程的关键酶是",
+        "options": [
+            "A．UDP-Glc 焦磷酸化酶",
+            "B．糖原合成酶",
+            "C．分支酶",
+            "D．己糖激酶",
+            "E．葡萄糖激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 26
+    },
+    {
+        "question_text": "27．糖原分解第一步反应的产物是",
+        "options": [
+            "A．6-磷酸葡萄糖",
+            "B．1-磷酸葡萄糖",
+            "C．葡萄糖",
+            "D．UDP-Glc",
+            "E．1,6-二磷酸果糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 27
+    },
+    {
+        "question_text": "28．糖原分解的关键酶是",
+        "options": [
+            "A．磷酸化酶",
+            "B．脱支酶",
+            "C．寡葡聚糖转移酶",
+            "D．分支酶",
+            "E．葡萄糖-6-磷酸酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 28
+    },
+    {
+        "question_text": "29．肝细胞中催化 6-磷酸葡萄糖生成葡萄糖的酶是",
+        "options": [
+            "A．葡萄糖激酶",
+            "B．己糖激酶",
+            "C．磷酸化酶",
+            "D．葡萄糖-6-磷酸酶",
+            "E．6-磷酸葡萄糖脱氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 29
+    },
+    {
+        "question_text": "30．糖原合成与分解发生于糖原分子的",
+        "options": [
+            "A．还原末端",
+            "B．非还原末端",
+            "C．N-末端",
+            "D．C-末端",
+            "E．3'-末端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 30
+    },
+    {
+        "question_text": "31．糖酵解、糖原合成、糖原分解等途径的共同中间产物是",
+        "options": [
+            "A．乳酸",
+            "B．丙酮酸",
+            "C．6-磷酸葡萄糖",
+            "D．6-磷酸果糖",
+            "E．1,6-二磷酸果糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 31
+    },
+    {
+        "question_text": "32．生理条件下发生糖异生的主要器官是",
+        "options": [
+            "A．肝",
+            "B．肺",
+            "C．肌肉",
+            "D．肾",
+            "E．脑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 32
+    },
+    {
+        "question_text": "33．饥饿时，肝脏内下列哪条途径的酶活性最强",
+        "options": [
+            "A．磷酸戊糖途径",
+            "B．糖异生途径",
+            "C．脂肪合成途径",
+            "D．糖酵解途径",
+            "E．糖原合成途径"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 33
+    },
+    {
+        "question_text": "34．不属于糖异生作用的酶是",
+        "options": [
+            "A．葡萄糖-6-磷酸酶",
+            "B．果糖-1,6-二磷酸酶",
+            "C．丙酮酸羧化酶",
+            "D．磷酸烯醇式丙酮酸羧激酶",
+            "E．丙酮酸激酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 34
+    },
+    {
+        "question_text": "35．能同时促进糖原、脂肪合成的激素是",
+        "options": [
+            "A．肾上腺素",
+            "B．胰岛素",
+            "C．糖皮质激素",
+            "D．胰高血糖素",
+            "E．生长素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 35
+    },
+    {
+        "question_text": "36．由葡萄糖进行酵解，催化其第二步不可逆反应的酶是:",
+        "options": [
+            "A．葡萄糖激酶",
+            "B．丙酮酸激酶",
+            "C．6-磷酸果糖激酶 1",
+            "D．3-磷酸甘油酸激酶",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 36
+    },
+    {
+        "question_text": "37．葡萄糖在肝脏进行糖酵解，催化其第一步反应的酶是:",
+        "options": [
+            "A．葡萄糖激酶",
+            "B．丙酮酸激酶",
+            "C．6-磷酸果糖激酶 1",
+            "D．3-磷酸甘油酸激酶",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 37
+    },
+    {
+        "question_text": "38．底物是磷酸烯醇式丙酮酸的酶是:",
+        "options": [
+            "A．葡萄糖激酶",
+            "B．丙酮酸激酶",
+            "C．6-磷酸果糖激酶 1",
+            "D．3-磷酸甘油酸激酶",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 38
+    },
+    {
+        "question_text": "39．由 1 分子葡萄糖生成 1 分子 1,6-二磷酸果糖消耗:",
+        "options": [
+            "A．36 分子 ATP",
+            "B．24 分子 ATP",
+            "C．4 分子 ATP",
+            "D．2 分子 ATP",
+            "E．3 分子 ATP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 39
+    },
+    {
+        "question_text": "40．1 分子 1,6-二磷酸果糖经糖酵解生成乳酸同时生成:",
+        "options": [
+            "A．36 分子 ATP",
+            "B．24 分子 ATP",
+            "C．4 分子 ATP",
+            "D．2 分子 ATP",
+            "E．3 分子 ATP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 40
+    },
+    {
+        "question_text": "41．1 分子丙酮酸转化为 1 分子乙酰 CoA 可生成:",
+        "options": [
+            "A．36 分子 ATP",
+            "B．24 分子 ATP",
+            "C．4 分子 ATP",
+            "D．2.5分子 ATP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 41
+    },
+    {
+        "question_text": "体内能量的主要来源是:",
+        "options": [
+            "A．糖酵解途径",
+            "B．糖的有氧氧化途径",
+            "C．磷酸戊糖途径",
+            "D．糖异生途径",
+            "E．糖原合成途径"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 42
+    },
+    {
+        "question_text": "43．需分支酶参与的是:",
+        "options": [
+            "A．糖酵解途径",
+            "B．糖的有氧氧化途径",
+            "C．磷酸戊糖途径",
+            "D．糖异生途径",
+            "E．糖原合成途径"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 43
+    },
+    {
+        "question_text": "44．只在肝、肾进行的糖代谢途径是:",
+        "options": [
+            "A．糖酵解途径",
+            "B．糖的有氧氧化途径",
+            "C．磷酸戊糖途径",
+            "D．糖异生途径",
+            "E．糖原合成途径"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 44
+    },
+    {
+        "question_text": "45．生物素下列哪种酶的辅基:",
+        "options": [
+            "A．α-酮戊二酸脱氢酶系",
+            "B．丙酮酸羧化酶",
+            "C．丙酮酸激酶",
+            "D．丙酮酸脱氢酶系",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 45
+    },
+    {
+        "question_text": "46．催化反应需 GTP 供能的是:",
+        "options": [
+            "A．α-酮戊二酸脱氢酶系",
+            "B．丙酮酸羧化酶",
+            "C．丙酮酸激酶",
+            "D．丙酮酸脱氢酶系",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 46
+    },
+    {
+        "question_text": "47．不存在于糖酵解途径的化合物是:",
+        "options": [
+            "A．甘油",
+            "B．1,6-二磷酸果糖",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．乳酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 47
+    },
+    {
+        "question_text": "48．糖酵解途径中发生裂解反应的是:",
+        "options": [
+            "A．甘油",
+            "B．1,6-二磷酸果糖",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．乳酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 48
+    },
+    {
+        "question_text": "49．含有高能磷酸键的是:",
+        "options": [
+            "A．甘油",
+            "B．1,6-二磷酸果糖",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．乳酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 49
+    },
+    {
+        "question_text": "50．可直接生成 6-磷酸葡萄糖酸的是:",
+        "options": [
+            "A．丙酮酸",
+            "B．6-磷酸葡萄糖",
+            "C．磷酸二羟丙酮",
+            "D．琥珀酸",
+            "E．草酰乙酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 50
+    },
+    {
+        "question_text": "51．可直接转化为 3-磷酸甘油醛的是:",
+        "options": [
+            "A．丙酮酸",
+            "B．6-磷酸葡萄糖",
+            "C．磷酸二羟丙酮",
+            "D．琥珀酸",
+            "E．草酰乙酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 51
+    },
+    {
+        "question_text": "52．可直接生成延胡索酸的是:",
+        "options": [
+            "A．丙酮酸",
+            "B．6-磷酸葡萄糖",
+            "C．磷酸二羟丙酮",
+            "D．琥珀酸",
+            "E．草酰乙酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 52
+    },
+    {
+        "question_text": "53．可直接脱氢磷酸化生成高能化合物的是:",
+        "options": [
+            "A．琥珀酰 CoA",
+            "B．3-磷酸甘油",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．2,3-二磷酸甘油酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 53
+    },
+    {
+        "question_text": "将细胞浆 NADH 传递的电子对送入呼吸链的是:",
+        "options": [
+            "A．琥珀酰 CoA",
+            "B．3-磷酸甘油",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．2,3-二磷酸甘油酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 54
+    },
+    {
+        "question_text": "属于三羧酸循环中间产物的是:",
+        "options": [
+            "A．琥珀酰 CoA",
+            "B．3-磷酸甘油",
+            "C．3-磷酸甘油醛",
+            "D．1,3-二磷酸甘油酸",
+            "E．2,3-二磷酸甘油酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 55
+    },
+    {
+        "question_text": "琥珀酸脱氢酶的辅基是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．NADPH"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 56
+    },
+    {
+        "question_text": "57．与 3-磷酸甘油醛转化为 1,3-二磷酸甘油酸有关的辅酶是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．NADPH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 57
+    },
+    {
+        "question_text": "58．与 6-磷酸葡萄糖转化为 6-磷酸葡萄糖酸有关的辅酶是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．NADPH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 58
+    },
+    {
+        "question_text": "59．3-磷酸甘油醛脱氢酶的辅基是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．FADH2"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 59
+    },
+    {
+        "question_text": "60．异柠檬酸脱氢酶的辅基是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．FADH2"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 60
+    },
+    {
+        "question_text": "61．苹果酸脱氢酶的辅基是:",
+        "options": [
+            "A．NAD+",
+            "B．NADP+",
+            "C．FMN",
+            "D．FAD",
+            "E．FADH2"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "61",
+        "number": 61
+    }
+]

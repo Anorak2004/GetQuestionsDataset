@@ -1,0 +1,2368 @@
+[
+    {
+        "question_text": "1．组成型基因表达是指：",
+        "options": [
+            "A．该类基因的表达发生于所有细胞类型",
+            "B．该类基因的表达没有太大的波动",
+            "C．该类基因的表达不受刺激诱导",
+            "D．B+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 1
+    },
+    {
+        "question_text": "2．诱导型基因表达是指：",
+        "options": [
+            "A．该类基因的表达发生于某些细胞类型",
+            "B．该类基因的表达有较大的波动",
+            "C．该类基因的表达受刺激诱导",
+            "D．B+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 2
+    },
+    {
+        "question_text": "3．乳糖操纵子的基因结构包括：",
+        "options": [
+            "A．启动序列",
+            "B．操纵序列",
+            "C．与乳糖分解代谢有关酶类的基因",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 3
+    },
+    {
+        "question_text": "4．乳糖操纵子的激活需要：",
+        "options": [
+            "A．阻遏物解离",
+            "B．CAP",
+            "C．乳糖",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 4
+    },
+    {
+        "question_text": "5．乳糖操纵子的激活需要：",
+        "options": [
+            "A．阻遏物解离，半乳糖",
+            "B．CAP，cAMP",
+            "C．乳糖",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 5
+    },
+    {
+        "question_text": "6．乳糖操纵子的激活需要：",
+        "options": [
+            "A．阻遏物解离，半乳糖",
+            "B．CAP，cAMP",
+            "C．乳糖，葡萄糖",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 6
+    },
+    {
+        "question_text": "7．乳糖操纵子的激活需要：",
+        "options": [
+            "A．cAMP",
+            "B．CAP",
+            "C．葡萄糖",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 7
+    },
+    {
+        "question_text": "8．乳糖操纵子的激活需要：",
+        "options": [
+            "A．IPTG",
+            "B．CAMP",
+            "C．CAP",
+            "D．B+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 8
+    },
+    {
+        "question_text": "9．乳糖操纵子的激活需要：",
+        "options": [
+            "A．葡萄糖",
+            "B．乳糖",
+            "C．半乳糖",
+            "D．B+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 9
+    },
+    {
+        "question_text": "10．乳糖操纵子的激活需要：",
+        "options": [
+            "A．半乳糖",
+            "B．CAP",
+            "C．cAMP",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 10
+    },
+    {
+        "question_text": "11．乳糖操纵子的激活需要：",
+        "options": [
+            "A．CAP，cAMP",
+            "B．乳糖，异乳糖",
+            "C．葡萄糖，乳糖",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 11
+    },
+    {
+        "question_text": "12．乳糖操纵子的调节可归类于：",
+        "options": [
+            "A．诱导激活型",
+            "B．诱导抑制型",
+            "C．组成抑制型",
+            "D．混合型",
+            "E．A+C"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 12
+    },
+    {
+        "question_text": "13．色氨酸操纵子的基因结构，包括：",
+        "options": [
+            "A．启动序列",
+            "B．操纵序列",
+            "C．与色氨酸合成有关酶类基因",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 13
+    },
+    {
+        "question_text": "14．色氨酸操纵子的调节可归类于：",
+        "options": [
+            "A．诱导激活型",
+            "B．诱导抑制型",
+            "C．组成抑制型",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 14
+    },
+    {
+        "question_text": "15．染色质空间结构影响基因表达，它取决于：",
+        "options": [
+            "A．DNA 甲基修饰",
+            "B．核小体重定位",
+            "C．NcRNAs",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 15
+    },
+    {
+        "question_text": "16．真核细胞的染色质，包括：",
+        "options": [
+            "A．DNA，组蛋白",
+            "B．染色质结合蛋白，染色质重塑蛋白",
+            "C．NcRNAs",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 16
+    },
+    {
+        "question_text": "17．真核细胞的基因表达大都是正向激活的，在此转录激活中需要：",
+        "options": [
+            "A．基本转录因子",
+            "B．DNA 结合的反式激活子",
+            "C．辅激活子",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 17
+    },
+    {
+        "question_text": "18．典型的类固醇激素受体的分子结构，包括：",
+        "options": [
+            "A．转录激活结构域",
+            "B．DNA 结合结构域",
+            "C．激素结合结构域",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 18
+    },
+    {
+        "question_text": "19．类固醇激素受体的高度保守的 DNA 结合结构域，含有：",
+        "options": [
+            "A．Helix-Turn-Helix",
+            "B．Zinc-Finger",
+            "C．BasicHelix-Loop-Helix",
+            "D．Leucine-Zipper",
+            "E．Homeodomain"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 19
+    },
+    {
+        "question_text": "20．真核细胞的基因表达调节可以发生于翻译水平，其机理是：",
+        "options": [
+            "A．翻译起始因子的磷酸化",
+            "B．某些蛋白结合于 mRNA3’-非翻译区",
+            "C．某些蛋白结合于 mRNA5’-非翻译区",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 20
+    },
+    {
+        "question_text": "21．RNA 干扰可以调节基因的表达，其机理是：",
+        "options": [
+            "A．ncRNA 可以结合于 mRNA，触发所结合的 mRNA 降解或抑制蛋白翻译",
+            "B．ncRNA 可以结合于基因位点，导致异染色质的形成或基因组编辑",
+            "C．ncRNA 的转录可以调节印记基因的表达",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 21
+    },
+    {
+        "question_text": "22．RNA 干扰可以调节基因的表达，其过程包括：",
+        "options": [
+            "A．Pre-miRNA 的产生",
+            "B．Pre-mRNA 的产生",
+            "C．RISC 的产生及识别靶分子",
+            "D．A+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 22
+    },
+    {
+        "question_text": "23．RNA 干扰可以调节基因的表达，其效应包括：",
+        "options": [
+            "A．DNA 编辑",
+            "B．mRNA 降解",
+            "C．蛋白翻译的阻遏",
+            "D．B+C",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 23
+    },
+    {
+        "question_text": "24．mRNA 的选择性剪接是属于基因表达调节的转录后水平的调控，它包括：",
+        "options": [
+            "A．5’-末端的选择",
+            "B．3’-末端的选择",
+            "C．互斥外显子的选择",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 24
+    },
+    {
+        "question_text": "25．mRNA 的选择性剪接它包括：",
+        "options": [
+            "A．内含子保留的选择",
+            "B．外显子摈弃的选择",
+            "C．互斥外显子的选择",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 25
+    },
+    {
+        "question_text": "26．mRNA 的选择性剪接它需要：",
+        "options": [
+            "A．限制性核酸内切酶",
+            "B．限制性核酸外切酶",
+            "C．连接酶",
+            "D．剪接小体",
+            "E．A+B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 26
+    },
+    {
+        "question_text": "27．mRNA 的选择性剪接所发生的反应是：",
+        "options": [
+            "A．氧化反应",
+            "B．还原反应",
+            "C．疏水基团的相互作用",
+            "D．两次转酯反应",
+            "E．化学修饰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 27
+    },
+    {
+        "question_text": "28．参与 mRNA 选择性剪接的剪接小体，它包括：",
+        "options": [
+            "A．U1RNP，U2RNP",
+            "B．U3RNP，U4RNP",
+            "C．U4RNP，U5RNP，U6RNP",
+            "D．A+B",
+            "E．A+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 28
+    },
+    {
+        "question_text": "29．关于“基因表达”的概念叙述错误的是",
+        "options": [
+            "A．其过程总是经历基因转录及翻译的过程",
+            "B．某些基因表达经历基因转录及翻译等过程",
+            "C．某些基因表达产物是蛋白质分子",
+            "D．某些基因表达产物不是蛋白质分子",
+            "E．某些基因表达产物是 RNA 分子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 29
+    },
+    {
+        "question_text": "30．关于管家基因叙述错误的是",
+        "options": [
+            "A．在生物个体的几乎所有细胞中持续表达",
+            "B．在生物个体的几乎各生长阶段持续表达",
+            "C．在一个物种的几乎所有个体中持续表达",
+            "D．在生物个体的某一生长阶段持续表达",
+            "E．在生物个体全生命过程的几乎所有细胞中表达"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 30
+    },
+    {
+        "question_text": "31．目前认为基因表达调控的主要环节是",
+        "options": [
+            "A．基因表达调控基因活化",
+            "B．转录起始",
+            "C．基因表达调控转录后加工",
+            "D．基因表达调控翻译起始",
+            "E．翻译后加工"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 31
+    },
+    {
+        "question_text": "32．顺式作用元件是指",
+        "options": [
+            "A．基因的 5’侧翼序列",
+            "B．基因的 3’侧翼序",
+            "C．基因的 5’、3’侧翼序列",
+            "D．基因 5’、3’侧翼序列以外的序列",
+            "E．具有转录调节功能的特异 DNA 序列"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 32
+    },
+    {
+        "question_text": "33．下列哪种情况不属于基因阶段特异性表达",
+        "options": [
+            "A．分化的骨骼肌细胞表达，在末分化的心肌细胞不表达",
+            "B．分化的骨骼肌细胞不表达，在未分化的骨骼肌细胞表达",
+            "C．分化的骨骼肌细胞表达，在末分化的骨骼肌细胞不表达",
+            "D．胚胎发育过程表达，在出生后不表达",
+            "E．胚胎发育过程不表达，出生后表达"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 33
+    },
+    {
+        "question_text": "34．一个操纵子通常含有",
+        "options": [
+            "A．一个启动序列和一个编码基因",
+            "B．一个启动序列和数个编码基因",
+            "C．数个启动序列和一个编码基因",
+            "D．数个启动序列和数个编码基因",
+            "E．两个启动序列和数个编码基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 34
+    },
+    {
+        "question_text": "35．反式作用因子是指",
+        "options": [
+            "A．具有激活功能的调节蛋白",
+            "B．具有抑制功能的调节蛋白",
+            "C．对自身基因具有激活功能的调节蛋白",
+            "D．对另一基因具有激活功能的调节蛋白",
+            "E．对另一基因具有功能的调节蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 35
+    },
+    {
+        "question_text": "36．乳糖操纵子的直接诱导剂是",
+        "options": [
+            "A．β-半乳糖苷酶",
+            "B．透酶",
+            "C．葡萄糖",
+            "D．乳糖",
+            "E．别乳糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 36
+    },
+    {
+        "question_text": "37．大多数处于活化状态的真核基因对 DNaseI",
+        "options": [
+            "A．高度敏感",
+            "B．中度敏感",
+            "C．低度敏感",
+            "D．不敏感",
+            "E．不一定"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 37
+    },
+    {
+        "question_text": "38．Lac 阻遏蛋白结合乳糖操纵子的",
+        "options": [
+            "A．P 序列",
+            "B．O 序列",
+            "C．CAP 结合位点",
+            "D．I 基因",
+            "E．Z 基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 38
+    },
+    {
+        "question_text": "39．cAMP 与 CAP 结合、CAP 介导正性调节发生在",
+        "options": [
+            "A．有葡萄糖及 cAMP 较高时",
+            "B．有葡萄糖及 cAMP 较低时",
+            "C．没有葡萄糖及 cAMP 较高时",
+            "D．没有葡萄糖及 cAMP 较低时",
+            "E．葡萄糖及 cAMP 浓度极高时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 39
+    },
+    {
+        "question_text": "40．基本转录因子中直接识别、结合 TATA 盒的是",
+        "options": [
+            "A．TFⅡA",
+            "B．TFⅡB",
+            "C．TFⅡD",
+            "D．TFⅡE",
+            "E．TFⅡF"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 40
+    },
+    {
+        "question_text": "41．Lac 阻遏蛋白由",
+        "options": [
+            "A．Z 基因编码",
+            "B．Y 基因编码",
+            "C．A 基因编码",
+            "D．I 基因编码",
+            "E．W 基因编码"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 41
+    },
+    {
+        "question_text": "42．色氨酸操纵子调节过程涉及",
+        "options": [
+            "A．转录激活调节",
+            "B．转录延长调节",
+            "C．转录水平调节",
+            "D．翻译水平调节",
+            "E．转录／翻译调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 42
+    },
+    {
+        "question_text": "43．构成最简单的启动子的常见功能组件是",
+        "options": [
+            "A．TATA 盒",
+            "B．CAAT 盒",
+            "C．GC 盒",
+            "D．上游调控序列（UAS）",
+            "E．下游调控序列（3’-UTR）"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 43
+    },
+    {
+        "question_text": "44．关于 TFⅡD 的叙述不正确的是",
+        "options": [
+            "A．TFⅡD 是一种由多亚基组成的复合物",
+            "B．TFⅡD 通过 TBP 识别、结合 TATA 盒",
+            "C．为 PolI、Ⅱ和Ⅲ三种转录过程所必需",
+            "D．由 TATA 组成的最简单的启动子只需 TFⅡD",
+            "E．与原核基因转录无关"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 44
+    },
+    {
+        "question_text": "45．关于转录调节因子叙述错误的是",
+        "options": [
+            "A．所有转录因子结构均含有 DNA 结合域和转录激活域",
+            "B．有些转录因子结构可能含有 DNA 结合域或转录激活域",
+            "C．通过 DNA-白质或蛋白质-蛋白质相互作用发挥作用",
+            "D．转录因子调节作用是 DNA 依赖的或 DNA 非依赖的．",
+            "E．大多数转录因子的调节作用属反式调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 45
+    },
+    {
+        "question_text": "46．关于“基因表达”的概念叙述错误的是",
+        "options": [
+            "A．其过程总是经历基因转录及翻译的过程",
+            "B．某些基因表达经历基因转录及翻译等过程",
+            "C．某些基因表达产物是蛋白质分子",
+            "D．某些基因表达产物不是蛋白质分子",
+            "E．某些基因表达产物是 RNA 分子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 46
+    },
+    {
+        "question_text": "47．从侵入细菌到溶菌不同感染阶段噬菌体 DNA 的表达表现为",
+        "options": [
+            "A．细胞特异性",
+            "B．组织特异性",
+            "C．空间特异性",
+            "D．阶段特异性",
+            "E．器官特异性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 47
+    },
+    {
+        "question_text": "48．决定基因表达空间特异性的因素是",
+        "options": [
+            "A．器官分布",
+            "B．个体差异",
+            "C．细胞分布",
+            "D．发育时间",
+            "E．生命周期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 48
+    },
+    {
+        "question_text": "49．关于管家基因叙述错误的是",
+        "options": [
+            "A．在生物个体的几乎所有细胞中持续表达",
+            "B．在生物个体的几乎各生长阶段持续表达",
+            "C．在一个物种的几乎所有个体中持续表达",
+            "D．在生物个体的某一生长阶段持续表达",
+            "E．在生物个体全生命过程的几乎所有细胞中表达"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 49
+    },
+    {
+        "question_text": "50．目前认为基因表达调控的主要环节是",
+        "options": [
+            "A．基因活化",
+            "B．转录起始",
+            "C．转录后加工",
+            "D．翻译起始",
+            "E．翻译后加工"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 50
+    },
+    {
+        "question_text": "51．生物体调节基因表达最根本的目的是",
+        "options": [
+            "A．适应环境",
+            "B．调节代谢",
+            "C．维持生长",
+            "D．维持分裂",
+            "E．维持分化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 51
+    },
+    {
+        "question_text": "52．如果一种化学修饰可促进蛋白质降解，这种化学机制",
+        "options": [
+            "A．抑制这种蛋白质基因的表达",
+            "B．刺激这种蛋白质基因的表达",
+            "C．调节这种蛋白质基因的表达",
+            "D．与这种蛋白质基因的表达调节无关",
+            "E．以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 52
+    },
+    {
+        "question_text": "53．顺式作用元件是指",
+        "options": [
+            "A．基因的 5 侧翼序列",
+            "B．基因的 3 侧翼序列",
+            "C．基因的 5．3 侧翼序列",
+            "D．基因 5．3 侧翼序列以外的序列",
+            "E．具有转录调节功能的特异 DNA 序列"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 53
+    },
+    {
+        "question_text": "54．下列不能确定属于基因表达阶段特异性的是，一个基因在",
+        "options": [
+            "A．分化的骨骼肌细胞表达，在未分化的心肌细胞不表达",
+            "B．分化的骨骼肌细胞不表达，在未分化的骨骼细胞表达",
+            "C．分化的骨骼肌细胞表达。在未分化的骨骼肌细胞不表达",
+            "D．胚胎发育过程表达。在出生后不表达",
+            "E．胚胎发育过程不表达，出生后表达"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 54
+    },
+    {
+        "question_text": "55．一个操纵子通常含有",
+        "options": [
+            "A．一个启动序列和一个编码基因",
+            "B．一个启动序列和数个编码基因",
+            "C．数个启动序列和一个编码基因",
+            "D．数个启动序列和数个编码基因",
+            "E．两个启动序列和数个编码基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 55
+    },
+    {
+        "question_text": "56．反式作用因子是指",
+        "options": [
+            "A．具有激活功能的调节蛋白",
+            "B．具有抑制功能的调节蛋白",
+            "C．对自身基因具有激活功能的调节蛋白",
+            "D．对另一基因具有激恬功能的调节蛋白",
+            "E．对另一基因具有功能的调节蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 56
+    },
+    {
+        "question_text": "57．乳糖操纵子的直接诱导剂是",
+        "options": [
+            "A．β-半乳糖苷酶",
+            "B．透酶",
+            "C．葡萄糖",
+            "D．乳糖",
+            "E．别乳糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 57
+    },
+    {
+        "question_text": "58．处于活化状态的真核基因对 DNasI",
+        "options": [
+            "A．高度敏感",
+            "B．中度敏感",
+            "C．低度敏感",
+            "D．不敏感",
+            "E．不一定"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 58
+    },
+    {
+        "question_text": "59．LaC 阻遏蛋白结合乳糖操纵子的",
+        "options": [
+            "A．P 序列",
+            "B．O 序列",
+            "C．CAP 结合位点",
+            "D．I 基因",
+            "E．Z 基因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 59
+    },
+    {
+        "question_text": "60．基本转录因子中直接识别、结合 TATA 盒的是",
+        "options": [
+            "A．TFⅡA",
+            "B．TEⅡB",
+            "C．TFⅡD",
+            "D．TFⅡE",
+            "E．TFⅡF"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 60
+    },
+    {
+        "question_text": "61．LaC 阻遏蛋白由",
+        "options": [
+            "A．Z 基因编码",
+            "B．Y 基因编码",
+            "C．A 基因编码",
+            "D．I 基因编码",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 61
+    },
+    {
+        "question_text": "62．对大多数基因来说，CpG 序列甲基化",
+        "options": [
+            "A．抑制基因转录",
+            "B．促进基因转录",
+            "C．与基因转录无关",
+            "D．对基因转录影响不大",
+            "E．以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 62
+    },
+    {
+        "question_text": "63．真核生物用多种调节蛋白的方式，发挥何种生物学效应",
+        "options": [
+            "A．提高 RNA 聚合酶的转录效率",
+            "B．降低 RNA 聚合酶的转录效率",
+            "C．提高 DNA 蛋白质相互作用的特异性",
+            "D．降低 DNA 蛋白质相互作用的特异性",
+            "E．以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 63
+    },
+    {
+        "question_text": "64．操纵子的基因表达调节系统属于",
+        "options": [
+            "A．复制水平调节",
+            "B．转录水平调节",
+            "C．翻译水平调节",
+            "D．逆转录水平调节",
+            "E．翻译后水平调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 64
+    },
+    {
+        "question_text": "65．阻遏蛋白(阻抑蛋白)识别操纵子中的",
+        "options": [
+            "A．启动基因",
+            "B．结构基因",
+            "C．操纵基因",
+            "D．内含子",
+            "E．外显子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 65
+    },
+    {
+        "question_text": "66．以下关于 cAMP 对原核基因转录的调控作用的叙述错误的是",
+        "options": [
+            "A．cAMP 可与分解代谢基因活化蛋白(CAP)结合成复合物",
+            "B．cAMP-CAP 复合物结合在启动子前方",
+            "C．葡萄糖充足时，cAMP 水平不高",
+            "D．葡萄糖和乳糖并存时，细菌优先利用乳糖",
+            "E．葡萄糖和乳糖并存时，细菌优先利用葡萄糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 66
+    },
+    {
+        "question_text": "67．以下关于顺式作用元件的叙述哪项是错误的",
+        "options": [
+            "A．顺式作用元件是一类调节基因转录的 DNA 元件",
+            "B．增强子是一类顺式作用元件",
+            "C．启动子中的 TATA 盒和 GC 盒都是顺式作用元件",
+            "D．顺式作用元件只对基因转录起增强作用",
+            "E．操纵基因是原核生物中的一类负调控顺式作用元件"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 67
+    },
+    {
+        "question_text": "68．启动子是指：",
+        "options": [
+            "A．DNA 分子中能转录的序列",
+            "B．与 RNA 聚合酶结合的 DNA 序列",
+            "C．与阻遏蛋白结合的 DNA 序列",
+            "D．有转录终止信号的 DNA 序列",
+            "E．与反式作用因子结合的 RNA 序列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 68
+    },
+    {
+        "question_text": "69．关于操纵基因的叙述，下列哪项是正确的",
+        "options": [
+            "A．与阻遏蛋白结合的部位",
+            "B．与 RNA 聚合酶结合的部位",
+            "C．属于结构基因的一部分",
+            "D．具有转录活性",
+            "E．促进结构基因转录"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 69
+    },
+    {
+        "question_text": "70．cAMP 对转录进行调控必须先与：",
+        "options": [
+            "A．CAP 结合形成 cAMP-CAP 复合物",
+            "B．RNA 聚合酶结合从而促进酶与启动子结合",
+            "C．G 蛋白结合",
+            "D．受体结合",
+            "E．操纵基因结合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 70
+    },
+    {
+        "question_text": "71．根据操纵子学说，对基因活性起调节作用的是：",
+        "options": [
+            "A．RNA 聚合酶",
+            "B．阻遏蛋白",
+            "C．诱导酶",
+            "D．连接酶",
+            "E．DNA 聚合酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 71
+    },
+    {
+        "question_text": "72．关于基因组的叙述错误的是：",
+        "options": [
+            "A．基因组是指一个细胞或病毒所携带的全部遗传信息",
+            "B．基因组是指一个细胞或病毒的整套基因",
+            "C．不同生物的基因组所含的基因多少不同",
+            "D．基因组中基因表达不受环境影响",
+            "E．有些生物的基因组是由 RNA 组成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 72
+    },
+    {
+        "question_text": "73．下列哪项决定基因表达的时间性和空间性：",
+        "options": [
+            "A．特异基因的启动子（序列）和增强子与调节蛋白的相互作用",
+            "B．DNA 聚合酶",
+            "C．RNA 聚合酶",
+            "D．管家基因",
+            "E．衰减子与调节蛋白的相互作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 73
+    },
+    {
+        "question_text": "74．管家基因的特点是：",
+        "options": [
+            "A．基因表达受环境影响较小",
+            "B．基因表达受环境影响较大",
+            "C．随环境变化基因表达降低",
+            "D．随环境变化基因表达增强",
+            "E．在一个生物体的所有细胞中持续表达，不受任何调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 74
+    },
+    {
+        "question_text": "75．增强子的作用是：",
+        "options": [
+            "A．促进结构基因转录",
+            "B．抑制结构基因转录",
+            "C．抑制阻遏蛋白",
+            "D．抑制操纵基因表达",
+            "E．抑制启动子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列哪种方式不属于转录水平的调节：",
+        "options": [
+            "A．反义控制",
+            "B．诱导",
+            "C．分解代谢阻遏",
+            "D．Rho 因子的作用",
+            "E．衰减子的作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 76
+    },
+    {
+        "question_text": "77．增强子的作用特点是：",
+        "options": [
+            "A．只在真核细胞中发挥作用",
+            "B．有固定的序列，必须在启动子上游",
+            "C．有严格的专一性",
+            "D．无需与蛋白质因子结合即可发挥作用",
+            "E．作用无方向性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 77
+    },
+    {
+        "question_text": "78．转录起始前复合物是指：",
+        "options": [
+            "A．TATA-RNApolⅡ-TFⅡD",
+            "B．TATA-RNApolⅡ",
+            "C．TATA-TFⅡD-TFⅡA-TFⅡB-RNApolⅡ-TFⅡF-TFⅡE",
+            "D．TATA-GC-CAAT-RNApolⅡ",
+            "E．TATA-GC-RNApolⅡ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 78
+    },
+    {
+        "question_text": "79．分解代谢物基因活化蛋白是与：",
+        "options": [
+            "A．操纵基因结合",
+            "B．启动子上游的 CAP 结合位点结合",
+            "C．DNA 分子中任一段序列结合",
+            "D．增强子结合",
+            "E．沉默子结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 79
+    },
+    {
+        "question_text": "80．关于乳糖操纵子的叙述下列哪项是正确的",
+        "options": [
+            "A．属于诱导型调控",
+            "B．属于阻遏型调控",
+            "C．结构基因产物抑制分解代谢",
+            "D．结构基因产物与分解代谢无关",
+            "E．受代谢终产物抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 80
+    },
+    {
+        "question_text": "81．Lac 操纵子的阻遏物是：",
+        "options": [
+            "A．操纵基因表达产物",
+            "B．结构基因表达产物",
+            "C．调节基因表达产物",
+            "D．乳糖",
+            "E．任何小分子有机物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 81
+    },
+    {
+        "question_text": "82．cAMP-CAP 复合物促进乳糖操纵子转录，必须要求有：",
+        "options": [
+            "A．丰富葡萄糖",
+            "B．葡萄糖和乳糖",
+            "C．葡萄糖和阿拉伯糖",
+            "D．阿拉伯糖",
+            "E．乳糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 82
+    },
+    {
+        "question_text": "83．生物体调节基因表达的最根本目的是：",
+        "options": [
+            "A．调节物质代谢",
+            "B．维持生长发育",
+            "C．适应生存环境",
+            "D．促使生物进化",
+            "E．以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 83
+    },
+    {
+        "question_text": "84．顺式作用元件是指：",
+        "options": [
+            "A．具有转录调节功能的蛋白质",
+            "B．具有转录调节功能的 DNA 序列",
+            "C．具有转录调节功能的 RNA 序列",
+            "D．具有转录调节功能的 DNA 和 RNA 序列",
+            "E．具有转录调节功能的氨基酸序列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 84
+    },
+    {
+        "question_text": "85．反式作用因子是指：",
+        "options": [
+            "A．具有酶活性的调节蛋白",
+            "B．具有激活作用的调节蛋白",
+            "C．具有抑制作用的调节蛋白",
+            "D．对另一基因具有激活作用的调节蛋白",
+            "E．对另一基因具有作用的调节蛋白"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 85
+    },
+    {
+        "question_text": "86．活化状态的真核基因对 DnaseI：",
+        "options": [
+            "A．高度敏感",
+            "B．中度敏感",
+            "C．低度敏感",
+            "D．不敏感",
+            "E．不一定"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 86
+    },
+    {
+        "question_text": "87．Lacoperon 阻遏蛋白结合操纵子的：",
+        "options": [
+            "A．P 序列",
+            "B．O 序列",
+            "C．I 基因",
+            "D．CAP 位点",
+            "E．UPS 序列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 87
+    },
+    {
+        "question_text": "88．基本转录因子中直接识别、结合 TATAbox 的是：",
+        "options": [
+            "A．TFIIA",
+            "B．TFIIB",
+            "C．TFIID",
+            "D．TFIIE",
+            "E．TFIIF"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 88
+    },
+    {
+        "question_text": "89．Lacoperon 的阻遏蛋白是由：",
+        "options": [
+            "A．Z 基因编码",
+            "B．Y 基因编码",
+            "C．A 基因编码",
+            "D．I 基因编码",
+            "E．P 基因编码"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 89
+    },
+    {
+        "question_text": "90．反式作用因子是指：",
+        "options": [
+            "A．DNA 的某段序列",
+            "B．RNA 的某段序列",
+            "C．mRNA 的表达产物",
+            "D．作用于转录调节的蛋白质因子",
+            "E．组蛋白与非组蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 90
+    },
+    {
+        "question_text": "91．亮氨酸拉链是指：",
+        "options": [
+            "A．多个亮氨酸连续出现的结构",
+            "B．亮氨酸每隔 8 个氨基酸出现一次",
+            "C．两组平行走向带亮氨酸的α螺旋形成对称二聚体",
+            "D．一个亚基上多个亮氨酸形成的α螺旋",
+            "E．维持两个亮氨酸的 R 基团形成的氢键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 91
+    },
+    {
+        "question_text": "92．亮氨酸拉链结构的功能是：",
+        "options": [
+            "A．维持蛋白质结构的稳定性",
+            "B．与癌基因表达调控有关",
+            "C．使蛋白质易于变性水解",
+            "D．与二聚化结构域无关",
+            "E．促进反式作用因子之间的相互作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 92
+    },
+    {
+        "question_text": "93．真核生物的转录调控多采用：",
+        "options": [
+            "A．可诱导型操纵子",
+            "B．可阻遏型操纵子",
+            "C．正调控方式",
+            "D．负调控方式",
+            "E．调节子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 93
+    },
+    {
+        "question_text": "94．cAMP 对转录起始的调控是：",
+        "options": [
+            "A．单独与操纵基因结合，封闭基因转录",
+            "B．以 cAMPCAP 复合物与操纵基因结合，使基因开放",
+            "C．与 RNApolII 结合，促进酶的活性",
+            "D．与阻遏蛋白结合，去阻遏作用",
+            "E．与增强子结合，促进转录"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 94
+    },
+    {
+        "question_text": "95．关于共有序列的叙述错误的是：",
+        "options": [
+            "A．启动序列中所有的核苷酸排列顺序",
+            "B．启动序列中部分的核苷酸排列顺序",
+            "C．TATAAT 是共有序列",
+            "D．TTGACA 是共有序列",
+            "E．CAAT 盒是共有序列"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 95
+    },
+    {
+        "question_text": "96．关于反式作用因子，错误的是：",
+        "options": [
+            "A．能与顺式作用元件结合",
+            "B．反式作用因子之间可相互结合",
+            "C．反式作用因子至少包括 DNA 结合域和功能域两个结构域",
+            "D．能激活也能抑制另一基因的转录",
+            "E．能激活也能抑制自身基因的转录"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 96
+    },
+    {
+        "question_text": "97．cAMP 与 CAP 结合、CAP 介导正性调节发生在",
+        "options": [
+            "A．有葡萄糖及 cAMP 较高时",
+            "B．有葡萄糖及 cAMP 较低时",
+            "C．没有葡萄糖及 cAMP 较高时",
+            "D．没有葡萄糖及 cAMP 较低时",
+            "E．葡萄糖及 cAMP 浓度极高时"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 97
+    },
+    {
+        "question_text": "98．关于转录调节因子的叙述，错误的是：",
+        "options": [
+            "A．所有转录因子结构均含有 DNA 结合域和转录激活域",
+            "B．有些转录因子结构可能含有 DNA 结合域或转录激活域",
+            "C．通过 DNA-蛋白质或蛋白质-蛋白质相互作用发挥作用",
+            "D．转录因子调节作用是 DNA 依赖的或 DNA 非依赖的",
+            "E．大多数转录因子的调节作用属反式调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 98
+    },
+    {
+        "question_text": "99．关于启动序列的叙述，正确的是",
+        "options": [
+            "A．mRNA 分子上开始被翻译的序列",
+            "B．开始转录生成 mRNA 的序列",
+            "C．RNA 聚合酶识别结合的序列",
+            "D．阻遏蛋白结合的序列",
+            "E．产生阻遏蛋白的序列"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 99
+    },
+    {
+        "question_text": "100．乳糖操纵子中字母的含义，正确的是",
+        "options": [
+            "A．O 代表启动序列",
+            "B．I 是操纵序列",
+            "C．I、P、O 合称结构基因",
+            "D．Z、Y、A 是结构基因",
+            "E．P 产生阻遏蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 100
+    },
+    {
+        "question_text": "101．RNA 聚合酶结合于操纵子的位置是",
+        "options": [
+            "A．结构基因起始区",
+            "B．CAP 结合位点",
+            "C．调节基因",
+            "D．启动序列",
+            "E．操纵序列"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 101
+    },
+    {
+        "question_text": "102．阻遏蛋白识别操纵子的位点是",
+        "options": [
+            "A．启动子",
+            "B．结构基因",
+            "C．阻遏物基因",
+            "D．操纵基因",
+            "E．增强子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 102
+    },
+    {
+        "question_text": "103．基因表达中的诱导现象是指",
+        "options": [
+            "A．阻遏物的生产",
+            "B．细菌利用葡萄糖作碳源",
+            "C．细菌不用乳糖作碳源",
+            "D．由底物引起的代谢底物的酶合成",
+            "E．低等生物可以无限制地利用营养物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 103
+    },
+    {
+        "question_text": "104．异丙基硫代半乳糖苷（IPTG）诱导β-半乳糖苷酶表达的机制是",
+        "options": [
+            "A．刺激乳糖操纵子阻遏蛋白的活性",
+            "B．IPTG 与乳糖操纵子结合诱导转录",
+            "C．IPTG 与 I 基因产物结合，使结构基因开放",
+            "D．抑制β-半乳糖苷酶降解",
+            "E．IPTG 别构激活β-半乳糖苷酶的活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 104
+    },
+    {
+        "question_text": "105．能与 DNA 结合并阻止转录的蛋白质称",
+        "options": [
+            "A．正调控蛋白",
+            "B．反式作用因子",
+            "C．诱导物",
+            "D．阻遏物",
+            "E．分解代谢基因活化蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 105
+    },
+    {
+        "question_text": "106．长期服用苯巴比妥的病人可以产生耐药性的原因",
+        "options": [
+            "A．诱导合成混合功能酶，使药物分解加快",
+            "B．体内有竞争抑制作用",
+            "C．从肾脏排出增加",
+            "D．胃肠道消化酶破坏增加",
+            "E．胃肠道的吸收障碍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 106
+    },
+    {
+        "question_text": "107．合成阻遏蛋白的基因是",
+        "options": [
+            "A．结构基因",
+            "B．启动基因",
+            "C．操纵基因",
+            "D．信息基因",
+            "E．调节基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 107
+    },
+    {
+        "question_text": "108．原核生物启动序列-10 区的共有序列称",
+        "options": [
+            "A．TATA 盒",
+            "B．CAAT 盒",
+            "C．Pribnow 盒",
+            "D．增强子",
+            "E．GC 盒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 108
+    },
+    {
+        "question_text": "109．分解代谢物基因激活蛋白（CAP）对乳糖操纵子表达的影响是",
+        "options": [
+            "A．正性调控",
+            "B．负性调控",
+            "C．正/负性调控",
+            "D．无调控作用",
+            "E．可有可无"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 109
+    },
+    {
+        "question_text": "110．仅在原核生物基因表达中出现的是",
+        "options": [
+            "A．DNA 聚合酶",
+            "B．AUG 用作起始密码子",
+            "C．冈崎片段",
+            "D．DNA 连接酶",
+            "E．σ因子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 110
+    },
+    {
+        "question_text": "111．参与真核生物转录调控的蛋白质是",
+        "options": [
+            "A．氨基酸-tRNA 合成酶",
+            "B．转肽酶",
+            "C．DNA 连接酶",
+            "D．TFII",
+            "E．增强子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 111
+    },
+    {
+        "question_text": "112．转录因子",
+        "options": [
+            "A．是原核生物 RNA 聚合酶的组分",
+            "B．是真核生物 RNA 聚合酶的组分",
+            "C．都是促进基因转录的蛋白质",
+            "D．多是转录调控的反式作用因子",
+            "E．都是抑制基因转录的蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 112
+    },
+    {
+        "question_text": "113．对 DNA 结合域锌指结构的叙述，正确的是",
+        "options": [
+            "A．凡含 Zn2+的蛋白质均可形成",
+            "B．凡含 Zn2+的酶皆可形成",
+            "C．Zn2+和半胱氨酸及组氨酸形成配位键",
+            "D．DNA 与 Zn2+结合就可形成",
+            "E．半胱氨酸通过二硫键形成胱氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 113
+    },
+    {
+        "question_text": "114．关于增强子的叙述，正确的是",
+        "options": [
+            "A．与基因表达的时间、空间特异性无关",
+            "B．它的作用有方向性",
+            "C．只能近距离影响启动子活性的转录调控元件",
+            "D．具有增强基因转录的作用",
+            "E．具有抑制基因转录的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 114
+    },
+    {
+        "question_text": "115．胰岛素仅在胰腺β细胞表达，α细胞不表达，称为基因表达的",
+        "options": [
+            "A．阶段特异性",
+            "B．时间特异性",
+            "C．种间特异性",
+            "D．细胞（或组织）特异性",
+            "E．个体特异性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 115
+    },
+    {
+        "question_text": "116．对真核生物基因被激活时发生的变化的叙述，错误的是",
+        "options": [
+            "A．对 DNaseI 高度敏感",
+            "B．DNA 拓扑结构变化",
+            "C．DNA 碱基修饰变化",
+            "D．组蛋白变化",
+            "E．DNA 碱基甲基修饰化水平升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 116
+    },
+    {
+        "question_text": "117．增强子",
+        "options": [
+            "A．是特异性高的转录调控因子",
+            "B．是真核生物细胞核内的组蛋白",
+            "C．原核生物的启动子在真核生物中就称为增强子",
+            "D．是一些能增强转录的 DNA 序列",
+            "E．是结构基因中 5’端的 DNA 序列"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 117
+    },
+    {
+        "question_text": "118．不是操纵子组成部分的是",
+        "options": [
+            "A．结构基因",
+            "B．启动序列",
+            "C．操纵序列",
+            "D．阻遏物",
+            "E．调节基因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 118
+    },
+    {
+        "question_text": "119．转录因子（TFI、TFII、TFIII）命名的依据是",
+        "options": [
+            "A．含有亚单位的数目",
+            "B．与真核生物 RNA 聚合酶 I、II、III 对应",
+            "C．与真核生物三种增强子对应",
+            "D．分别作用于 GCCAAT、TATA 序列",
+            "E．分别作用于阻遏基因、-35 区和-10 区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 119
+    },
+    {
+        "question_text": "120．真核生物转录前起始复合物是指",
+        "options": [
+            "A．RNA 聚合酶与 TATAAT 盒序列结合",
+            "B．RNA 聚合酶与 TATA 盒序列结合",
+            "C．各种基本转录因子和 RNA 聚合酶与 TATA 盒结合形成的 DNA-蛋白质复合物",
+            "D．σ因子与 RNA 聚合酶的结合物",
+            "E．阻遏物变构后脱离操纵序列的复合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 120
+    },
+    {
+        "question_text": "121．关于 TFIID 的叙述，正确的是",
+        "options": [
+            "A．是唯一能与 TATA 盒结合的转录因子",
+            "B．能促进 RNApolII 与启动子结合",
+            "C．具有 ATP 酶活性",
+            "D．能解开 DNA 双链",
+            "E．抑制 DNA 基因转录"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 121
+    },
+    {
+        "question_text": "122．分解代谢物基因活化蛋白是与",
+        "options": [
+            "A．操纵序列结合",
+            "B．启动子上游的结合部位结合",
+            "C．DNA 分子中任一段序列结合",
+            "D．RNApolII 结合",
+            "E．八聚体结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 122
+    },
+    {
+        "question_text": "123．对大多数基因来说，CpG 序列甲基化",
+        "options": [
+            "A．抑制基因转录",
+            "B．促进基因转录",
+            "C．与基因转录无关",
+            "D．对基因转录影响不大",
+            "E．表明基因被激活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 123
+    },
+    {
+        "question_text": "124．反式作用因子是指",
+        "options": [
+            "A．DNA 的某段序列",
+            "B．RNA 的某段序列",
+            "C．mRNA 表达产物",
+            "D．具有转录调控作用的蛋白因子",
+            "E．组蛋白及非组蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 124
+    },
+    {
+        "question_text": "125．研究 DNA-反式作用因子的相互作用目的是",
+        "options": [
+            "A．解决基因转录调控的可行途径",
+            "B．要解决 DNA 的修饰",
+            "C．细胞膜受体的作用模式",
+            "D．解决 DNA 的拓扑学问题",
+            "E．DNA 如何形成染色体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 125
+    },
+    {
+        "question_text": "126．关于增强子的叙述，正确的是",
+        "options": [
+            "A．对启动子的作用有严格的专一性",
+            "B．作用有方向性",
+            "C．是近距离影响启动子的转录调控元件",
+            "D．具有增强转录的作用",
+            "E．具有抑制转录的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 126
+    },
+    {
+        "question_text": "127．关于转录因子的叙述，错误的是",
+        "options": [
+            "A．所有转录因子均含有二聚化结构域",
+            "B．所有转录因子均含有 DNA 结合域和转录激活域",
+            "C．通过 DNA-蛋白质或蛋白质-蛋白质相互作用发挥作用",
+            "D．锌指结构是最常见的 DNA 结合域结构形式",
+            "E．碱性亮氨酸拉链也常见于 DNA 结合域"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 127
+    },
+    {
+        "question_text": "128．关于真核生物转录前起始复合物（PIC）形成过程顺序，正确的是",
+        "options": [
+            "A．TATA,TAIID,TFIIA,TFIIB,RANpolII/TFIIF,TFIIE",
+            "B．TATA,TFIIA,TFIIB,TFIID,RANpolII/TFIIF,TFIIE",
+            "C．TATA,TFIIA,TFIIB,TFIID,RANpolII",
+            "D．TATA,TFIIA,TFIIB,TFIID,TFIIE,TFIIF,RANpolII",
+            "E．TATA,TFIIA,TFIIB,TFIIE,RANpolII,TFIIF"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 128
+    },
+    {
+        "question_text": "46．癌基因是指：",
+        "options": [
+            "A．宿主细胞基因组的原癌基因发生突变",
+            "B．此类突变包括染色体重排、序列重复、点突变，等",
+            "C．它编码的是分泌蛋白、生长因子、跨膜蛋白、核转录因子，等",
+            "D．涉及细胞分裂、增殖、凋亡，等",
+            "E．A+B+C+D"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 129
+    },
+    {
+        "question_text": "47．病毒癌基因是指当 RSV 接种鸡后能诱发鸡肉瘤的产生，并被证实 RSV 是一种逆转录病毒，它含有：",
+        "options": [
+            "A．Gag",
+            "B．Pol",
+            "C．Env",
+            "D．LTR",
+            "E．Src"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 130
+    },
+    {
+        "question_text": "48．人类原癌基因按其作用可归于：",
+        "options": [
+            "A．生长因子",
+            "B．生长因子受体",
+            "C．细胞内信号蛋白",
+            "D．转录因子",
+            "E．A+B+C+D"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 131
+    },
+    {
+        "question_text": "49．属于生长因子类的人类原癌基因是：",
+        "options": [
+            "A．Sis",
+            "B．Hst-1",
+            "C．Int-2",
+            "D．Erb-B1",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 132
+    },
+    {
+        "question_text": "50．属于生长因子受体类的人类原癌基因是：",
+        "options": [
+            "A．Fms",
+            "B．Erb-B1",
+            "C．H-ras",
+            "D．A+B",
+            "E．A+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 133
+    },
+    {
+        "question_text": "51．属于细胞内信号蛋白类的人类原癌基因是：",
+        "options": [
+            "A．Int-2",
+            "B．H-ras",
+            "C．Abl",
+            "D．A+B",
+            "E．B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 134
+    },
+    {
+        "question_text": "52．属于转录因子类的人类原癌基因是：",
+        "options": [
+            "A．N-myc",
+            "B．C-myc",
+            "C．L-myc",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 135
+    },
+    {
+        "question_text": "53．属于转录因子类的人类原癌基因是：",
+        "options": [
+            "A．Sis",
+            "B．Fms",
+            "C．C-myc",
+            "D．K-ras",
+            "E．Int-2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 136
+    },
+    {
+        "question_text": "54．属于细胞内信号蛋白类的人类原癌基因是：",
+        "options": [
+            "A．Sis",
+            "B．Fms",
+            "C．C-myc",
+            "D．K-ras",
+            "E．Int-2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 137
+    },
+    {
+        "question_text": "55．属于生长因子受体类的人类原癌基因是：",
+        "options": [
+            "A．Sis",
+            "B．Fms",
+            "C．C-myc",
+            "D．K-ras",
+            "E．Int-2"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 138
+    },
+    {
+        "question_text": "56．在人类肿瘤细胞中常发现癌基因的",
+        "options": [
+            "A．低甲基化或去甲基化",
+            "B．基因扩增",
+            "C．高甲基化",
+            "D．A+B",
+            "E．B+C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 139
+    },
+    {
+        "question_text": "57．抑癌基因作用是在正常细胞内抑制细胞生长、增殖，促进细胞分化，它包括：",
+        "options": [
+            "A．转录调节因子",
+            "B．信号转导",
+            "C．DNA 修复因子",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 140
+    },
+    {
+        "question_text": "58．抑癌基因包括：",
+        "options": [
+            "A．负调控转录因子",
+            "B．周期蛋白依赖性激酶抑制因子",
+            "C．磷脂酶",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 141
+    },
+    {
+        "question_text": "59．属于抑癌基因的是：",
+        "options": [
+            "A．P53",
+            "B．APC",
+            "C．BRCA",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 142
+    },
+    {
+        "question_text": "60．属于抑癌基因的是：",
+        "options": [
+            "A．P21",
+            "B．Rb",
+            "C．Wt",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 143
+    },
+    {
+        "question_text": "61．属于抑癌基因的是：",
+        "options": [
+            "A．NF-1",
+            "B．PTEN",
+            "C．DCC",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 144
+    },
+    {
+        "question_text": "62．原癌基因的激活导致肿瘤的发生常由于：",
+        "options": [
+            "A．点突变所致的细胞内信号转导异常",
+            "B．原癌基因位点的甲基化的改变",
+            "C．大范围基因片段的断裂后再接合",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 145
+    },
+    {
+        "question_text": "63．原癌基因的激活导致肿瘤的发生常由于：",
+        "options": [
+            "A．染色体异位",
+            "B．基因扩增",
+            "C．LTR 插入",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 146
+    },
+    {
+        "question_text": "64．关于细胞癌基因的叙述正确的是",
+        "options": [
+            "A．存在于正常生物基因组中",
+            "B．存在于 DNA 病毒中",
+            "C．存在予 RNA 病毒中",
+            "D．又称为病毒癌基因",
+            "E．正常细胞含有即可导致肿瘤的发生"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 147
+    },
+    {
+        "question_text": "65．病毒癌基因的叙述错误的是：",
+        "options": [
+            "A．主要存在于 RNA 病毒基因",
+            "B．在体外能引起细胞转化",
+            "C．感染宿主细胞能随机整合于宿主细胞基因组",
+            "D．又称为原癌基因",
+            "E．感染宿主细胞能引起恶性转化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 148
+    },
+    {
+        "question_text": "66．PDGF 的作用是",
+        "options": [
+            "A．促进表皮与上皮细胞的生长",
+            "B．促进间质及胶质细胞的生长",
+            "C．引发基因转录",
+            "D．属于细胞膜受体",
+            "E．与 DNA 结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 149
+    },
+    {
+        "question_text": "67．myc 家族编码产物的作用正确的是",
+        "options": [
+            "A．生长因子",
+            "B．生长因子受体",
+            "C．蛋白酪氨酸激酶活性",
+            "D．结合 GTP",
+            "E．结合 DNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 150
+    },
+    {
+        "question_text": "68．Sis 家族编码产物的作用正确的是",
+        "options": [
+            "A．生长因子",
+            "B．生长因子受体",
+            "C．蛋白酪氨酸激酶活性",
+            "D．结合 GTP",
+            "E．丝氨酸蛋白激酶活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 151
+    },
+    {
+        "question_text": "69．关于抑癌基因错误的是",
+        "options": [
+            "A．可促进细胞的分化",
+            "B．可诱发细胞程序性死亡",
+            "C．突变时可能导致肿瘤发生",
+            "D．可抑制细胞过度生长",
+            "E．最早发现的是 P53 基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 152
+    },
+    {
+        "question_text": "70．能编码具有酪氦酸蛋白激酶活性的癌基因是",
+        "options": [
+            "A．Myc",
+            "B．Myb",
+            "C．Sis",
+            "D．Src",
+            "E．Ras"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 153
+    },
+    {
+        "question_text": "71．能编码具有 GTP 酶活性的癌基因是",
+        "options": [
+            "A．Myc",
+            "B．Ras",
+            "C．Sis",
+            "D．Src",
+            "E．Myb"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 154
+    },
+    {
+        "question_text": "72．能通过 IP3 和 DAG 生成途径调节转录的癌基因主要是",
+        "options": [
+            "A．Ras",
+            "B．Myc",
+            "C．Sis",
+            "D．Src",
+            "E．Myc"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 155
+    },
+    {
+        "question_text": "73．关于 P53 基因的叙述错误的是",
+        "options": [
+            "A．基因定位于 17 号染色体",
+            "B．是一种抑癌基因",
+            "C．突变后具有癌基因作用",
+            "D．编码 P21 蛋白质",
+            "E．编码产物有转录因子作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 156
+    },
+    {
+        "question_text": "74．下列哪一种不是癌基因产物",
+        "options": [
+            "A．生长因子类似物，",
+            "B．跨膜生长因子受体",
+            "C．结合 GTP 的蛋白",
+            "D．结合 DNA 的蛋白质",
+            "E．化学致癌物质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 157
+    },
+    {
+        "question_text": "75．关于抑癌基因的叙述，下列哪一项是正确的?",
+        "options": [
+            "A．具有抑制细胞增殖的作用",
+            "B．与癌基因的表达无关",
+            "C．缺失与细胞的增殖和分化无关",
+            "D．不存在于人类正常细胞中",
+            "E．肿瘤细胞出现时才表达"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 158
+    },
+    {
+        "question_text": "76 关于细胞癌基因的叙述正确的是",
+        "options": [
+            "A．存在于正常生物基因组中",
+            "B．存在于 DNA 病毒中",
+            "C．存在于 RNA 病毒中",
+            "D．又称为病毒癌基因",
+            "E．正常细胞含有即可导致肿瘤的发生"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 159
+    },
+    {
+        "question_text": "77．病毒癌基因的叙述错误的是",
+        "options": [
+            "A．主要存在于 RNA 病毒基因中",
+            "B．在体外能引起细胞转化",
+            "C．感染宿主细胞能随机整合于宿主细胞基因组",
+            "D．又称为原癌基因",
+            "E．感染宿主细胞能引起恶性转化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 160
+    },
+    {
+        "question_text": "78．属于抑癌基因的是",
+        "options": [
+            "A．Rb",
+            "B．ras",
+            "C．myc",
+            "D．c-erbB-2",
+            "E．sis"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 161
+    },
+    {
+        "question_text": "79．关于抑癌基因的叙述，下列哪一项正确",
+        "options": [
+            "A．具有抑制细胞增殖的作用",
+            "B．与癌基因的表达无关",
+            "C．缺失与细胞的增殖和分化无关",
+            "D．不存在于人类正常细胞中",
+            "E．肿瘤细胞出现时才表达"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 162
+    },
+    {
+        "question_text": "80．关于 p53 基因的叙述错误的是：",
+        "options": [
+            "A．基因定位于 17P13",
+            "B．是一种抑癌基因",
+            "C．突变后具有癌基因作用",
+            "D．编码 P21 蛋白质",
+            "E．编码产物有转录因子作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 163
+    },
+    {
+        "question_text": "81．下列哪一种不是癌基因产物",
+        "options": [
+            "A．生长因子类似物",
+            "B．跨膜生长因子受体",
+            "C．结合 GTP 的蛋白质",
+            "D．结合 DNA 的蛋白质",
+            "E．化学致癌物质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 164
+    },
+    {
+        "question_text": "82.myC 家族编码产物的作用正确的是",
+        "options": [
+            "A．生长因子",
+            "B．生长因子受体",
+            "C．蛋白酪氨酸激酶活性",
+            "D．结合 GTP",
+            "E．结合 DNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 165
+    },
+    {
+        "question_text": "83．sis 家族编码产物的作用正确的是",
+        "options": [
+            "A．生长因子",
+            "B．生长因子受体",
+            "C．蛋白酪氨酸激酶活性",
+            "D．结合 GTP",
+            "E．丝氨酸蛋白激酶活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 166
+    },
+    {
+        "question_text": "84．关于抑癌基因错误的是",
+        "options": [
+            "A．可促进细胞的分化",
+            "B．可诱发细胞程序性死亡",
+            "C．突变时可能导致肿瘤发生",
+            "D．可抑制细胞过度生长",
+            "E．最早发现的是 p53 基因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 167
+    },
+    {
+        "question_text": "85．能编码具有酪氨酸蛋白激酶活性的癌基因是",
+        "options": [
+            "A．myC",
+            "B．myB",
+            "C．sis",
+            "D．srC",
+            "E．ras"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 168
+    },
+    {
+        "question_text": "86．关于抑癌基因的叙述，下列哪一项是正确的",
+        "options": [
+            "A．具有抑制细胞增殖的作用",
+            "B．与癌基因的表达无关",
+            "C．缺失与细胞的增殖和分化无关",
+            "D．不存在于人类正常细胞中",
+            "E．肿瘤细胞出现时才表达"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "169",
+        "number": 169
+    }
+]

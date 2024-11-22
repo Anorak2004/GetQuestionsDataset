@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.切除支配虹膜的神经(即去神经眼)后再滴入毛果芸香碱,则应",
+        "options": [
+            "A.扩瞳",
+            "B.缩瞳",
+            "C.先扩瞳后缩瞳",
+            "D.先缩瞳后扩瞳",
+            "E.无影响"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.毛果芸香碱对眼睛的作用是",
+        "options": [
+            "A.瞳孔缩小,升高眼内压,调节痉挛",
+            "B.瞳孔缩小,降低哏内压,调节痉挛",
+            "C.瞳孔扩大,升高眼内压,调节麻痹",
+            "D.瞳孔扩大,降低眼内压,调节麻痹",
+            "E.瞳孔缩小,降低眼内压,调节麻痹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.毛果芸香碱的缩瞳机制是",
+        "options": [
+            "A.阻断虹膜α受体,开大肌松弛",
+            "B.阻断虹膜M胆碱受体,括约肌松弛",
+            "C.激动虹膜α受体,开大肌收缩",
+            "D.激动虹膜M胆碱受体,括约肌收缩",
+            "E.抑制胆缄酯酶,使乙酰胆碱增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列关于卡巴胆碱作用错误的是",
+        "options": [
+            "A.激动M胆碱受体",
+            "B.激动N胆碱受体",
+            "C.用于术后腹气胀与尿潴留",
+            "D.作用广泛,副作用大",
+            "E.禁用于青光眼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.氨甲酰胆碱临床主要用于",
+        "options": [
+            "A.青光眼",
+            "B.术后腹气胀和尿潴留",
+            "C.眼底检查",
+            "D.解救有机磷农药中毒",
+            "E.治疗室上性心动过速"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.对于Ach,下列叙述错误的是",
+        "options": [
+            "A.激动MNR",
+            "B.无临床实用价值",
+            "C.作用广泛",
+            "D.化学性质稳定",
+            "E.化学性质不稳定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.小剂量Ach或MR激动药无下列哪种作用",
+        "options": [
+            "A.缩瞳、降低眼内压",
+            "B.腺体分泌增加",
+            "C.胃肠、膀胱平滑肌兴奋",
+            "D.骨骼肌收缩",
+            "E.心脏抑制、血管扩张、血压下降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.与毒扁豆碱相比,毛果芸香碱不具备哪种特点",
+        "options": [
+            "A.遇光不稳定",
+            "B.维持时间短",
+            "C.刺激性小",
+            "D.作用较弱",
+            "E.水溶液稳定"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.与毛果芸香碱相比,毒扁豆碱用于治疗青光眼的优点是",
+        "options": [
+            "A.作用强而久",
+            "B.水溶液稳定",
+            "C.毒副作用小",
+            "D.不引起调节痉挛",
+            "E.不会吸收中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.可直接激动M、N-R的药物是",
+        "options": [
+            "A.氨甲酰甲胆碱",
+            "B.氨甲酰胆碱",
+            "C.毛果芸香碱",
+            "D.毒扁豆碱",
+            "E.加兰他敏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

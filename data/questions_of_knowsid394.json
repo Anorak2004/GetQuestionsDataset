@@ -1,0 +1,926 @@
+[
+    {
+        "question_text": "1.手术前准备的最根本目的是",
+        "options": [
+            "A.促进切口良好愈合",
+            "B.防止术后感染",
+            "匂是病人尽可能接近于生理状态，提高对手术的耐受力",
+            "D.防止术中各种并发症发生",
+            "E.促进术后早日康复"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 1
+    },
+    {
+        "question_text": "2.下述手术中何种是限期手术",
+        "options": [
+            "A.胃十二指肠溃疡病的胃大部切除术",
+            "B.急性阑尾炎的阑尾切除术",
+            "C.胃癌的胃癌根治术",
+            "D.嵌顿疝的疝修补术",
+            "E.脾破裂的脾切除术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 2
+    },
+    {
+        "question_text": "3.已确诊为晚期胃窦癌伴幽门梗阻和大便潜血，应行",
+        "options": [
+            "A.急诊手术",
+            "B.择期手术",
+            "C.限期手术",
+            "D.紧急手术",
+            "E.不宜手术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 3
+    },
+    {
+        "question_text": "4.术前禁食的最主要目的是",
+        "options": [
+            "A.避免术后腹胀",
+            "B.促进术后肛门排气",
+            "C.避免胃肠道膨胀影响手术",
+            "D.减少肠麻痹的发生",
+            "E.防止术中、术后误吸和呕吐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 4
+    },
+    {
+        "question_text": "5.结肠癌手术病人，限期手术术前胃肠道准备给错误的是",
+        "options": [
+            "A.手术前3天开始口服肠道制菌药物",
+            "B.手术前1-2日开始进流质饮食",
+            "C.手术前12小时禁食，术前4小时禁止饮水",
+            "D.手术前肥皂水洗肠一次，洗胃一次",
+            "E.术前常规胃肠减压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪种情况不需预防性应用抗生素",
+        "options": [
+            "A.结肠手术",
+            "B.胃癌根治术",
+            "C.慢性阑尾炎阑尾切除术",
+            "D.骼内动脉瘤手术",
+            "E.胰十二脂肠切除术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 6
+    },
+    {
+        "question_text": "7.有呼吸功能障碍的病人术前准备中，下列哪项是错误的",
+        "options": [
+            "A.停止吸烟2周",
+            "B.鼓励病人练习深呼吸及咳嗽",
+            "C.液粘稠病人可米用蒸气吸入",
+            "D.经常发作哮喘病人，可给口服地塞米松",
+            "E.咳嗽明显者给予镇咳剂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 7
+    },
+    {
+        "question_text": "8.心力衰竭病人，最好在心力衰竭控制多长时间，再施行手术",
+        "options": [
+            "A.1-2周",
+            "B.2-3周",
+            "C.3-4周",
+            "D.4-6周",
+            "E.2个月后?"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 8
+    },
+    {
+        "question_text": "9.男性病人，50岁，因腹股沟斜疝要求手术，血压140/95mmHg,针对血压偏高的处理，下列哪项正确",
+        "options": [
+            "A.可不必用降压药物",
+            "B.要用降压药物，",
+            "C.要用降压药物，",
+            "D.要用降压药物，",
+            "E.要用降压药物，"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 9
+    },
+    {
+        "question_text": "10.急性心肌梗死患者手术日期应如何制定",
+        "options": [
+            "A.心肌梗死发病1个月后",
+            "B.心肌梗死发病3个月后",
+            "C.心肌梗死发病后至少半年，且再无心绞发作",
+            "D.心肌梗死发病后至少一年，且再无心绞发作",
+            "E.心肌梗死患者不应再进行手术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 10
+    },
+    {
+        "question_text": "11.糖尿病病人的手术前准备，下列哪项不恰当",
+        "options": [
+            "A.纠正水，电解质代谢失调和酸中毒",
+            "B.改善营养状况",
+            "C.施行有感染可能的手术，术前使用抗生素",
+            "D.手术应在当日尽早进行，缩短术前禁食时间",
+            "E.应用胰岛素，使病人血糖稳定于正常水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 11
+    },
+    {
+        "question_text": "12,患者，男，42岁，有肝炎病史，需行胆囊切除术。肝功能SGPT36u，总蛋白64g/L，白蛋白38g/L，血胆红素15mol/L,1分钟胆红素6、8mol/L,下列哪项错误：",
+        "options": [
+            "A.此患者不必特殊处理，可行手术",
+            "B.可给维生素B、维生素C、维生素K等",
+            "C.术前可给激化液",
+            "D.可增加肝糖原储备",
+            "E.此患者的手术耐受力不良"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 12
+    },
+    {
+        "question_text": "13.以下叙述哪项错误",
+        "options": [
+            "A.肝功能轻度损害者，不影响手术耐受力",
+            "B.肝功能损害越重，手术耐受力越差",
+            "C.急性肝炎病人不影响手术期限",
+            "D.肝功能明显受损者，多不宜施行手术",
+            "E.有明显营养不良、腹水者术前应经较长时间准备才可施行择期手术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 13
+    },
+    {
+        "question_text": "14.以下叙述哪项不正确",
+        "options": [
+            "A.凡有肾病者术前均应进行肾功能检查",
+            "B.麻醉、手术不影响肾功能",
+            "C.术前准备要点是最大限度改善肾功能",
+            "D.肾功能损害越重，手术耐受力越差",
+            "E.重度损害者，需有效透折后才能实施手术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 14
+    },
+    {
+        "question_text": "15.肾功能不全者需行胃癌根治术，术前准备下列哪项不正确",
+        "options": [
+            "A.肌苷、尿素氮必须在正常范围才能手术",
+            "B.避免使用对肾脏有损伤的药物",
+            "C.尽量避免使用血管收缩药",
+            "D.纠正水、电解质及酸碱失衡",
+            "E.补足血容量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪项术前准备是不必要的",
+        "options": [
+            "A.术前2周停止吸烟",
+            "B.糖尿病患者尿糖控制在+",
+            "C.营养不良者应补充营养，力争恢复正氮平衡",
+            "D.严重贫血者术前可适量输血",
+            "E.高血压患者血压控制在正常水平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于术后病人的卧位，以下哪项错误",
+        "options": [
+            "A.全麻尚未清醒者，应平卧，头偏向一侧",
+            "B.颅脑手术采取头高脚低斜坡卧位",
+            "C.硬膜外腔麻醉者术后去枕平卧12小时防术后头痛",
+            "D.腹部手术采取低半坐卧位",
+            "E.臀部手术采取俯卧位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 17
+    },
+    {
+        "question_text": "18.术后早期活动有很多好处，除了",
+        "options": [
+            "A.增强机体免疫力",
+            "B.减少肺部并发症",
+            "C.减少下肢血栓形成",
+            "D.促进膀胱功能恢复",
+            "E.促进肠蠕动恢复"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 18
+    },
+    {
+        "question_text": "19.手术后不应该强调早期活动的是",
+        "options": [
+            "A.阑尾切除术",
+            "B.胃大部分切除术",
+            "C.下肢骨折内固定术",
+            "D.乳癌根治术",
+            "E.甲状腺手术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 19
+    },
+    {
+        "question_text": "20.腹部手术选择开始进流质饮食的时间是",
+        "options": [
+            "A.切口疼痛轻微",
+            "B.体温低于37.5°C",
+            "C.肛门排气之后",
+            "D.病人要求进食时",
+            "E.恶心、呕吐消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于非腹部手术术后进食时间的叙述哪项不正确",
+        "options": [
+            "A.一般体表或肢体的手术，全身反应轻者，术后即可进食",
+            "B.手术范围大，全身反应明显者，需2?4日后才可进食",
+            "C.局麻下施行小手术，术后即可进食",
+            "D.硬膜外麻醉者，术后3日方可进食",
+            "E.全麻者完全清醒，恶心呕吐消失后方可进食"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 21
+    },
+    {
+        "question_text": "22.胃大部切除术后8天拆线，切口红肿，少量积液，换药后痊愈，切口愈合属于",
+        "options": [
+            "A.1/乙",
+            "B.11/乙",
+            "C.11/丙",
+            "D.I/丙",
+            "E.III/乙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 22
+    },
+    {
+        "question_text": "23.乳胶片引流一般在手术后多长时间拔除",
+        "options": [
+            "A.24小时以内",
+            "B.1?2日",
+            "C.2?4日",
+            "D.3日以上",
+            "E.1周左右"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 23
+    },
+    {
+        "question_text": "24.手术后早期恶心，呕吐常见原因",
+        "options": [
+            "A.颅内压升高",
+            "B.麻醉反应",
+            "C.糖尿病酸中毒",
+            "D.低钾",
+            "E.术后腹胀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 24
+    },
+    {
+        "question_text": "25.手术后腹胀的原因主要是",
+        "options": [
+            "A.胃肠功能受抑制肠腔内积气",
+            "B.食物残渣在肠腔内发酵产气",
+            "C.低钾血症",
+            "D.肠粘连",
+            "E.缺少术后早期活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 25
+    },
+    {
+        "question_text": "26.有关手术后腹胀的处理，下列那一项是错误的",
+        "options": [
+            "A.留置肛管排气",
+            "B.必要时肌注阿托品0.5mg/6h",
+            "C.高渗液低压灌肠",
+            "D.留置胃管持续减压",
+            "E.有肠麻痹时适当补钾盐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 26
+    },
+    {
+        "question_text": "27.成年患者，胃大部分切除术术后第四天，未排气腹胀逐渐加重恶心，一般状态可全腹压痛无反跳痛肠鸣音未闻及，可能的诊断是",
+        "options": [
+            "A.机械性肠梗阻",
+            "B.肠麻痹",
+            "C.腹水症",
+            "D.低钾",
+            "E.吻合口痿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 27
+    },
+    {
+        "question_text": "28.术后肠麻痹常见的症状体征，不符合的是",
+        "options": [
+            "A.腹胀",
+            "B.无绞痛",
+            "C.无排气",
+            "D.肠鸣音亢进",
+            "E.大小肠均胀气"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 28
+    },
+    {
+        "question_text": "29.上腹部手术后出现顽固性呃逆，首先考虑的原因是",
+        "options": [
+            "A.手术造成膈神经损伤",
+            "B.腹膜后血肿刺激腹腔神经丛",
+            "C.膈下感染",
+            "D.粘连引起胃扭转",
+            "E.膈肌粘连"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 29
+    },
+    {
+        "question_text": "30.关于术后尿潴留，下列哪项是错误的",
+        "options": [
+            "A.术后6?8h未排尿耻骨上区有浊音区即可明确诊断",
+            "B.较多见于肛门手术后",
+            "C.可引起尿路感染",
+            "D.治疗时应先安定病人情绪",
+            "E.导尿时尿量超过300ml,应留置尿管1?2日"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 30
+    },
+    {
+        "question_text": "31.腹部手术切口裂开常发于术后",
+        "options": [
+            "A.二天左右",
+            "B.五天左右",
+            "C.一周左右",
+            "D.十天左右",
+            "E.两周左右"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列哪顶不是腹部切口裂开的原因",
+        "options": [
+            "A.患者腹部肥胖",
+            "B.营养不良",
+            "C.严重腹胀",
+            "D.剧烈咳嗽",
+            "E.缝合技术有缺陷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 32
+    },
+    {
+        "question_text": "33.术后切口裂开的处理是",
+        "options": [
+            "A.用胶布拉扰切口",
+            "B.敷料加压包扎",
+            "C.立即重新缝合",
+            "D.给予血浆蛋白",
+            "E.填塞伤口"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 33
+    },
+    {
+        "question_text": "34.肺部感染及肺不张常发生于",
+        "options": [
+            "A.甲状腺次全切除术",
+            "B.疝修补术",
+            "C.四肢手术后",
+            "D.胰十二指肠切除术后",
+            "E.阑尾切除术后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 34
+    },
+    {
+        "question_text": "35.诊断术后肺不张较有意义的体征是",
+        "options": [
+            "A.术后早期发热，呼吸及心率增快",
+            "B.白细胞及中性粒细胞增加",
+            "C.胸部叩诊呈浊音或实音",
+            "D.听诊有局限性湿性罗音",
+            "E.呼吸音减弱、消失或为管性呼吸音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 35
+    },
+    {
+        "question_text": "36.判断腹部术后腹腔出血最恰当的依据是",
+        "options": [
+            "A.口渴、剧烈腹痛、腹胀",
+            "B.腹膜炎体征（+）,B超诊断腹腔积液",
+            "C.腹痛、腹胀、有里急后重感",
+            "D.腹痛、移动性浊音（+）",
+            "E.自腹腔引流管引出的液体由褐色转为鲜红"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 36
+    },
+    {
+        "question_text": "37.术后发热原因除了",
+        "options": [
+            "A.麻醉反应",
+            "B.致热原",
+            "C.感染",
+            "D.脱水",
+            "E.坏死组织和破坏血细胞吸收"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 37
+    },
+    {
+        "question_text": "38.68岁，男性，行胰十二指肠切除术后6日，烦躁不安、呼吸急促、咳嗽，体温39.8°C,P:120次/分、R：38次/分、白细胞计数1.8X109/L、N：90%,病人最可能并发",
+        "options": [
+            "A.肺部感染",
+            "B.急性胃扩张",
+            "C.切口感染",
+            "D.水、电解质紊乱",
+            "E.切口裂开"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 38
+    },
+    {
+        "question_text": "39.某男性病人行阑尾切除术，术后3天切口疼痛未减轻，体温高达38、5°C,首先应考虑为",
+        "options": [
+            "A.肺部感染",
+            "B.泌尿系感染",
+            "C.切口感染",
+            "D.水电解质紊乱",
+            "E.腹腔内有异物存留"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 39
+    },
+    {
+        "question_text": "40.急性胆囊炎、胆囊切除术后3天，进食后上腹饱胀、呼吸急促、躁动不安、频繁呕吐，呕吐物含棕褐色液体，经肠胃减压之后，从胃管中吸出2000ml棕褐色液体，潜血实验阳性，最可能的情况是",
+        "options": [
+            "A.粘连性肠梗阻",
+            "B.急性胃扩张",
+            "C.胆道出血",
+            "D.内疝形成",
+            "E.消化道出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 40
+    },
+    {
+        "question_text": "41.简而有效地解除手术后急性胃扩张的方法是",
+        "options": [
+            "A.给予新斯的明",
+            "B.补充钾盐",
+            "C.给予肾上腺皮质激素",
+            "D.放置胃肠减压管",
+            "E.纠正水和电解质失调"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 41
+    },
+    {
+        "question_text": "42.预防切口感染的措施中，下列哪项是错误的",
+        "options": [
+            "A.严格遵守无菌操作规则",
+            "B.爱护组织严格止血",
+            "C.缝合不留死腔",
+            "D.术前纠正贫血低蛋白血症",
+            "E.术后常规应用抗菌素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 42
+    },
+    {
+        "question_text": "男,17岁,因转移性右下腹痛11小时入院,诊断为“急性阑尾炎\"，当晚行阑尾切除术,病理为坏疽性阑尾炎。自术后次晨起，患者表现为腹痛未见缓解,烦躁不安,末解小便。体查:面色较苍白,皮肤湿冷,心率108次/分,较弱,血压80/60nmHg,腹稍胀,全腹压痛,轻度肌紧张,肠鸣音低弱。43.该患者目前情况，应考虑为何种可能？",
+        "options": [
+            "A.术后肠麻痹",
+            "B.术后疼痛所致",
+            "C.术后尿潴留",
+            "D.术后腹腔内出血",
+            "E.机械性肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 43
+    },
+    {
+        "question_text": "44.为明确诊断，最好选择采取何种措施？",
+        "options": [
+            "A.继续观察病情变化",
+            "B.腹部X线透视",
+            "C.腹部B超",
+            "D.诊断性腹腔穿刺",
+            "E.导尿留置导尿管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 44
+    },
+    {
+        "question_text": "45.诊断明确后，应采取何种治疗方法？",
+        "options": [
+            "A.镇静、止痛治疗、",
+            "B.留置导尿管",
+            "C.输液输血治疗",
+            "D.持续胃肠减压",
+            "E.剖腹探查手术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 45
+    },
+    {
+        "question_text": "胃十二指肠溃疡的胃大部切除术",
+        "options": [
+            "A.择期手术",
+            "B.限期手术",
+            "C.急症手术",
+            "D.定期手术",
+            "E.不定期手术"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 46
+    },
+    {
+        "question_text": "47.胃癌根治术",
+        "options": [
+            "A.择期手术",
+            "B.限期手术",
+            "C.急症手术",
+            "D.定期手术",
+            "E.不定期手术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 47
+    },
+    {
+        "question_text": "房颤伴心室率增快每分钟在100次以上者",
+        "options": [
+            "A.不必特殊处理",
+            "B.西地兰0.4mg加25%葡萄糖液中缓慢静推",
+            "C.口服心得安10mg每天一次",
+            "D.皮下注射阿托品，0.5-1mg（术前）",
+            "E.不适合手术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 48
+    },
+    {
+        "question_text": "49.心室率在每分钟50次以下者",
+        "options": [
+            "A.不必特殊处理",
+            "B.西地兰0.4mg加25%葡萄糖液中缓慢静推",
+            "C.口服心得安10mg每天一次",
+            "D.皮下注射阿托品，0.5-1mg（术前）",
+            "E.不适合手术"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 49
+    },
+    {
+        "question_text": "50.全麻下行乳腺癌改良根治术后：",
+        "options": [
+            "A.术后即可进食",
+            "B.3?6小时后",
+            "C.肠道功能恢复，肛门排气后",
+            "D.麻醉清醒，恶心、呕吐反应消失",
+            "E.24小时后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 50
+    },
+    {
+        "question_text": "局麻下行乳腺良性肿物切除术后：",
+        "options": [
+            "A.术后即可进食",
+            "B.3?6小时后",
+            "C.肠道功能恢复，肛门排气后",
+            "D.麻醉清醒，恶心、呕吐反应消失",
+            "E.24小时后"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 51
+    },
+    {
+        "question_text": "伤口小而深，感染伤口引流：",
+        "options": [
+            "A.凡士林纱布",
+            "B.凡士林纱条",
+            "C.盐水纱布",
+            "D.胶管类和负压吸引",
+            "E.0.1%苯氧乙醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 52
+    },
+    {
+        "question_text": "伤口浅表，感染伤口引流：",
+        "options": [
+            "A.凡士林纱布",
+            "B.凡士林纱条",
+            "C.盐水纱布",
+            "D.胶管类和负压吸引",
+            "E.0.1%苯氧乙醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 53
+    },
+    {
+        "question_text": "分泌物很多，感染伤口引流：",
+        "options": [
+            "A.凡士林纱布",
+            "B.凡士林纱条",
+            "C.盐水纱布",
+            "D.胶管类和负压吸引",
+            "E.0.1%苯氧乙醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 54
+    },
+    {
+        "question_text": "分泌物多，感染伤口引流：",
+        "options": [
+            "A.凡士林纱布",
+            "B.凡士林纱条",
+            "C.盐水纱布",
+            "D.胶管类和负压吸引",
+            "E.0.1%苯氧乙醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 55
+    },
+    {
+        "question_text": "绿脓杆菌感染，感染伤口引流：",
+        "options": [
+            "A.凡士林纱布",
+            "B.凡士林纱条",
+            "C.盐水纱布",
+            "D.胶管类和负压吸引",
+            "E.0.1%苯氧乙醇"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 56
+    },
+    {
+        "question_text": "减张缝合伤口拆线日期",
+        "options": [
+            "A.4?5天",
+            "B.6?7天",
+            "C.7?9天",
+            "D.10—12天",
+            "E.14天"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 57
+    },
+    {
+        "question_text": "头面部及颈部伤口拆线日期",
+        "options": [
+            "A.4?5天",
+            "B.6?7天",
+            "C.7?9天",
+            "D.10—12天",
+            "E.14天"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 58
+    },
+    {
+        "question_text": "上腹部、背部、臀部伤口拆线日期",
+        "options": [
+            "A.4?5天",
+            "B.6?7天",
+            "C.7?9天",
+            "D.10—12天",
+            "E.14天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 59
+    },
+    {
+        "question_text": "下腹部、会阴部伤口拆线日期",
+        "options": [
+            "A.4?5天",
+            "B.6?7天",
+            "C.7?9天",
+            "D.10—12天",
+            "E.14天"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 60
+    },
+    {
+        "question_text": "属于II类切口的是",
+        "options": [
+            "A.乳腺手术",
+            "B.胃胆囊手术",
+            "C.甲状腺手术",
+            "D.阑尾炎穿孔手术",
+            "E.脾切除术后"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 61
+    },
+    {
+        "question_text": "62.属于III类切口的是",
+        "options": [
+            "A.乳腺手术",
+            "B.胃胆囊手术",
+            "C.甲状腺手术",
+            "D.阑尾炎穿孔手术",
+            "E.脾切除术后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 62
+    },
+    {
+        "question_text": "63.术后一周，切口大量淡红色液体流出",
+        "options": [
+            "A.切口裂开",
+            "B.切口感染",
+            "C.胸腔出血",
+            "D.肺不张",
+            "E.肺内感染"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 63
+    },
+    {
+        "question_text": "呼吸、心率增快，肺底可闻及管状呼吸音：",
+        "options": [
+            "A.切口裂开",
+            "B.切口感染",
+            "C.胸腔出血",
+            "D.肺不张",
+            "E.肺内感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 64
+    },
+    {
+        "question_text": "手术后早期出血的含义是指",
+        "options": [
+            "A.多在1?2周内发生",
+            "B.通常24小时内发生",
+            "C.早期有出血症状",
+            "D.引流管有鲜血外溢",
+            "E.血红蛋白及血压偏低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 65
+    },
+    {
+        "question_text": "66.手术后继发性出血的含义是指",
+        "options": [
+            "A.多在1?2周内发生",
+            "B.通常24小时内发生",
+            "C.早期有出血症状",
+            "D.引流管有鲜血外溢",
+            "E.血红蛋白及血压偏低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "66",
+        "number": 66
+    }
+]

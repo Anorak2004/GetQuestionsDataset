@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.碘解磷啶解救有机磷酸酯类(农药)中毒是因为",
+        "options": [
+            "A.能使失去活性的胆碱酯酶复活",
+            "B.能直接对抗乙酰胆碱的作用",
+            "C.有阻断M胆碱受体的作用",
+            "D.有阻断N胆碱受体的作用",
+            "E.能对抗有机磷酸酯分子中磷的毒性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "3.属于胆碱酯酶复活药的药物是",
+        "options": [
+            "A.新斯的明",
+            "B.氯磷定",
+            "C.阿托品",
+            "D.安贝氯铵",
+            "E.毒扁豆碱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "4.毒扁豆碱用于去神经的眼,产生的效应是",
+        "options": [
+            "A.瞳孔散大",
+            "B.瞳孔缩小",
+            "C.曈孔无交化",
+            "D.眼压升高",
+            "E.调节麻痹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "5.有机磷酸酯类中毒症状中,不属M样症状的是",
+        "options": [
+            "A.瞳孔缩小",
+            "B.流涎流泪流汗",
+            "C.腹痛腹泻",
+            "D.肌颤",
+            "E.小便失禁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

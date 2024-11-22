@@ -16,7 +16,7 @@ def main():
     if login_response.status_code == 200:
         controller = Controller(login)
         
-        for i in range(251,300):
+        for i in range(300,401):
             controller.process_loop(i)
 
 if __name__ == "__main__":

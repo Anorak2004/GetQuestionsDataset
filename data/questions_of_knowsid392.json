@@ -1,0 +1,590 @@
+[
+    {
+        "question_text": "1.CVP的高低主要取决于",
+        "options": [
+            "A.血容量",
+            "B.静脉血回流量",
+            "C.静脉血回流量和右心室排血量",
+            "D.肺循环阻力",
+            "E.胸内压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 1
+    },
+    {
+        "question_text": "2.心跳骤停早期诊断的主要依据",
+        "options": [
+            "A.紫绀",
+            "B.瞳孔散大",
+            "C.大动脉搏动和神志消失",
+            "D.脑电波消失",
+            "E.心电图呈室颤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 2
+    },
+    {
+        "question_text": "3.诊断心跳骤停最迅速可靠的指征",
+        "options": [
+            "A.大血管搏动消失",
+            "B.呼吸停止",
+            "C.瞳孔散大",
+            "D.血压测不到",
+            "E.脉搏扪不清"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 3
+    },
+    {
+        "question_text": "4.常温下脑组织血流一旦中断，脑氧耗竭的时间是",
+        "options": [
+            "A.2-3秒",
+            "B.4-5秒",
+            "C.6-7秒",
+            "D.8-9秒",
+            "E.10-12秒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 4
+    },
+    {
+        "question_text": "5.循环骤停后发生昏厥的时间是",
+        "options": [
+            "A.5秒",
+            "B.10秒",
+            "C.15秒",
+            "D.20秒",
+            "E.25秒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 5
+    },
+    {
+        "question_text": "6.一旦确诊为心跳骤停，必须在哪个时间内重建循环和呼吸",
+        "options": [
+            "A.2-3min",
+            "B.4-5min",
+            "C.6-7min",
+            "D.11-12min",
+            "E.20min以内"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 6
+    },
+    {
+        "question_text": "7.胸外心脏按压时，手掌放置的正确位置",
+        "options": [
+            "A.胸骨左缘第四肋间",
+            "B.胸骨左缘第三肋间",
+            "C.左锁骨中线第四肋间",
+            "D.胸骨中上1/3交界处",
+            "E.胸骨中下1/3交界处"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 7
+    },
+    {
+        "question_text": "8.CPR后因缺氧最易引起并发症是",
+        "options": [
+            "A.肺水肿",
+            "B.脑水肿",
+            "C.心功能衰竭",
+            "D.肾功能衰竭",
+            "E.肝功能衰竭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 8
+    },
+    {
+        "question_text": "9.CPR后防治脑缺氧引起的脑水肿，最重要措施是",
+        "options": [
+            "A.吸入纯氧",
+            "B.纠正酸中毒",
+            "C.输入高渗溶液",
+            "D.头部低温与脱水疗法",
+            "E.输入血浆与全血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 9
+    },
+    {
+        "question_text": "10.呼吸心跳完全停止的伤员，抢救工作首先是",
+        "options": [
+            "A.立即转送就近医院",
+            "B.立即补充血容量",
+            "C.立即查明原因再进行相应抢救",
+            "D.立即抗休克治疗",
+            "E.立即胸外心脏按压和口对口人工呼吸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 10
+    },
+    {
+        "question_text": "11.CPR时的正确操作顺序是",
+        "options": [
+            "A.开放气道一人工呼吸一胸外心脏按压",
+            "B.胸外心脏按压一人工呼吸一开放气道",
+            "C.人工呼吸一胸外心脏按压一开放气道",
+            "D.人工呼吸一开放气道一胸外心脏按压",
+            "E.胸外心脏按压一开放气道一人工呼吸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 11
+    },
+    {
+        "question_text": "12.作为一名医生，你突然发现有人晕倒，你意识到有可能要进行CPR，在行CPR前第一步是",
+        "options": [
+            "A.大声叫唤并摇晃病人",
+            "B.触摸颈动脉",
+            "C.寻求帮助",
+            "D.将病人扶起",
+            "E.无需处理"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 12
+    },
+    {
+        "question_text": "13.若患者心跳停止，你应采取的下一步是",
+        "options": [
+            "A.捶击胸前",
+            "B.口对口人工呼吸",
+            "C.胸外心脏按压",
+            "D.寻求帮助",
+            "E.寻求心电图诊断"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 13
+    },
+    {
+        "question_text": "14.肾上腺素促使心脏复跳的关键在于",
+        "options": [
+            "A.a-受体兴奋",
+            "B.B1-受体兴奋",
+            "C.B2-受体兴奋",
+            "D.多巴胺受体兴奋",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 14
+    },
+    {
+        "question_text": "15.成人CPR时胸外心脏按压的频率，正确的是",
+        "options": [
+            "A.40-50次/min",
+            "B.50-60次/min",
+            "C.60-70次/min",
+            "D.70-80次/min",
+            "E.80-100次/min"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 15
+    },
+    {
+        "question_text": "16.心室细颤，电击除颤前应",
+        "options": [
+            "A.静注利多卡因",
+            "B.静注去甲肾上腺素",
+            "C.静注5%碳酸氢钠",
+            "D.静注肾上腺素",
+            "E.静注多巴胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 16
+    },
+    {
+        "question_text": "17.成人首次胸外电击除颤的功率为",
+        "options": [
+            "A.100ws",
+            "B.200ws",
+            "C.300ws",
+            "D.400ws",
+            "E.500ws"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 17
+    },
+    {
+        "question_text": "18.影响脑复苏的关键因素是",
+        "options": [
+            "A.病人的年龄",
+            "B.原本的体格情况",
+            "C.脑缺氧的时间",
+            "D.人工呼吸的时间",
+            "E.胸外按压的时间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 18
+    },
+    {
+        "question_text": "19.CPR二期复苏处理是",
+        "options": [
+            "A.下述全部",
+            "B.药物治疗",
+            "C.心电监测与除颤",
+            "D.维护循环稳定",
+            "E.脑复苏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 19
+    },
+    {
+        "question_text": "20.在防治CPR后的脑水肿中，脱水疗法的最佳时机在",
+        "options": [
+            "A.复跳后即开始",
+            "B.复跳后12小时",
+            "C.血压平稳后即开始",
+            "D.尿量恢复后开始",
+            "E.自主呼吸恢复后开始"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 20
+    },
+    {
+        "question_text": "21.有关心脏按压的操作，哪种不对",
+        "options": [
+            "A.病人平卧硬板或地板、去枕、抬高下肢",
+            "B.两手指交叉，以一手掌根部按压胸骨中下1/3交界处",
+            "C.两臂伸直与前胸部近呈90°C",
+            "D.按压时使胸骨下陷3.5-5cm",
+            "E.上述ABCD均适于婴幼儿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 21
+    },
+    {
+        "question_text": "22.CPR的后期处理除外",
+        "options": [
+            "A.病情评估",
+            "B.脑复苏",
+            "C.心脏复苏",
+            "D.酸碱与电解质纠正",
+            "E.重症监测与治疗"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 22
+    },
+    {
+        "question_text": "23.有效CPR的标准除外",
+        "options": [
+            "A.摸到大动脉搏动",
+            "B.皮肤转红",
+            "C.瞳孔变小",
+            "D.收缩压120mmHg",
+            "E.心跳恢复"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 23
+    },
+    {
+        "question_text": "24.喉痉挛时，首先应采取的措施是",
+        "options": [
+            "A.糖皮质激素",
+            "B.雾化吸入混悬麻黄素液",
+            "C.静注琥珀胆碱",
+            "D.下颌、面罩吸氧，或持续正压辅助呼吸",
+            "E.放置口咽通气道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 24
+    },
+    {
+        "question_text": "25.小儿心源性肺水肿的原因是",
+        "options": [
+            "A.术中输液过量",
+            "B.感染",
+            "C.误吸",
+            "D.脂肪栓塞",
+            "E.肺挫伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 25
+    },
+    {
+        "question_text": "26.下列哪一种不是延迟清醒的原因",
+        "options": [
+            "A.持续麻醉作用",
+            "B.呼吸功能不全",
+            "C.低血钾",
+            "D.低体温",
+            "E.术中一过性高血压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 26
+    },
+    {
+        "question_text": "27.腹部手术后开始给予流质饮食的依据是",
+        "options": [
+            "A.切口疼痛轻微",
+            "B.体温小于37.5°C",
+            "C.肛门排气后",
+            "D.病人要求",
+            "E.恶心呕吐消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 27
+    },
+    {
+        "question_text": "28.术后恶心呕吐的最常见原因是",
+        "options": [
+            "A.颅内压升高",
+            "B.麻醉反应",
+            "C.术后腹胀",
+            "D.肠梗阻",
+            "E.低血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 28
+    },
+    {
+        "question_text": "29.引起术后腹胀的原因主要是",
+        "options": [
+            "A.咽下的空气在肠腔内积存",
+            "B.食物残渣在肠腔内发酵产气",
+            "C.低血钾症",
+            "D.肠粘连",
+            "E.缺少术后早期活动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 29
+    },
+    {
+        "question_text": "30.简而有效的解除术后急性胃扩张的方法是",
+        "options": [
+            "A.给予新斯的明",
+            "B.补充钾盐",
+            "C.给予肾上腺皮质激素",
+            "D.放置胃肠减压管",
+            "E.纠正水和电解质失调"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 30
+    },
+    {
+        "question_text": "31.哪种心脏病最易在手术中发生心跳骤停",
+        "options": [
+            "A.高血压性心脏病",
+            "B.风湿性心脏病",
+            "C.冠状动脉硬化性心脏病",
+            "D.先天性心脏病（非紫绀型）",
+            "E.以上都可"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 31
+    },
+    {
+        "question_text": "32.上腹部手术后出现顽固性呃逆，多见于",
+        "options": [
+            "A.手术造成膈神经损伤",
+            "B.腹膜后血肿，刺激腹腔神经丛",
+            "C.膈下感染",
+            "D.粘连引起胃扭转",
+            "E.术后肠粘连"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 32
+    },
+    {
+        "question_text": "33.肾功能障碍的患者手术后宜用",
+        "options": [
+            "A.撒利汞",
+            "B.磺胺药",
+            "C.丁安卡那霉素",
+            "D.多粘霉素",
+            "E.红霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 33
+    },
+    {
+        "question_text": "34.应用浓缩人体白蛋白的适应症为",
+        "options": [
+            "A.术后软弱，不愿进食",
+            "B.慢性腹泻",
+            "C.营养不良",
+            "D.急性低蛋白血症",
+            "E.消化道痿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 34
+    },
+    {
+        "question_text": "35.吸痰时吸管的大小原则上不能超过气管导管内径的",
+        "options": [
+            "A.1/8",
+            "B.1/4",
+            "C.1/2",
+            "D.2/3",
+            "E.3/4"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 35
+    },
+    {
+        "question_text": "36.急性心源性休克最常见的原因是",
+        "options": [
+            "A.广泛性心肌梗死",
+            "B.重症心肌炎",
+            "C.严重心功能不全",
+            "D.急性心包填塞",
+            "E.心房粘液瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 36
+    },
+    {
+        "question_text": "37.急腹症伴休克最常见的原因是",
+        "options": [
+            "A.急性心肌梗死",
+            "B.大叶性肺炎",
+            "C.胃、十二肠溃疡穿孔",
+            "D.急性坏死性胰腺炎",
+            "E.急性坏疽性胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 37
+    },
+    {
+        "question_text": "38.休克治疗时应用血管扩张剂前要特别注意",
+        "options": [
+            "A.测血压",
+            "B.尿量",
+            "C.控制输液量",
+            "D.补足血容量",
+            "E.调整体位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 38
+    },
+    {
+        "question_text": "39.成人充血性心力衰竭最常见的原因是",
+        "options": [
+            "A.冠心病",
+            "B.风心病",
+            "C.心肌病",
+            "D.高血压",
+            "E.先心病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 39
+    },
+    {
+        "question_text": "40.下列哪一种电解质紊乱预示着洋地黄中毒",
+        "options": [
+            "A.高镁血症",
+            "B.低钙血症",
+            "C.低钠血症",
+            "D.低钾血症",
+            "E.高钾血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 40
+    },
+    {
+        "question_text": "胸外心脏按压适用于",
+        "options": [
+            "A.CPR时伴心包填塞",
+            "B.CPR时伴肋骨骨折",
+            "C.两者均可",
+            "D.两者均不可",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 41
+    },
+    {
+        "question_text": "42.胸内心脏挤压适用于",
+        "options": [
+            "A.CPR时伴心包填塞",
+            "B.CPR时伴肋骨骨折",
+            "C.两者均可",
+            "D.两者均不可",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "42",
+        "number": 42
+    }
+]

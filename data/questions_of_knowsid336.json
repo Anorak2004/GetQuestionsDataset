@@ -1,0 +1,450 @@
+[
+    {
+        "question_text": "1.治疗过量阿托品中毒的药物是:",
+        "options": [
+            "A.山莨菪碱",
+            "B.东莨菪碱",
+            "C.后马托品",
+            "D.琥珀胆碱",
+            "E.毛果芸香碱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列与阿托品阻断M受体无关的作用是",
+        "options": [
+            "A.抑制腺体分泌",
+            "B.升高眼内压",
+            "C.松弛胃肠平滑肌",
+            "D.加快心率",
+            "E.解除小血管痉挛,改善微循环"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 2
+    },
+    {
+        "question_text": "3.阿托品对眼的作用是",
+        "options": [
+            "A.扩瞳,升高眼压,调节麻痹",
+            "B.扩瞳,降低眼压,调节麻痹",
+            "C.扩瞳,升高眼压,调节痉挛",
+            "D.缩瞳,降低眼压,调节麻痹",
+            "E.缩瞳,升高眼压,调节麻痹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 3
+    },
+    {
+        "question_text": "4.阿托品显著解除平滑肌痉挛是:",
+        "options": [
+            "A.支气管平滑肌",
+            "B.胆管平滑肌",
+            "C.胃肠平滑肌",
+            "D.子宫平滑肌",
+            "E.膀胱平滑肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 4
+    },
+    {
+        "question_text": "5.阿托品禁用于:",
+        "options": [
+            "A.胃肠痉挛",
+            "B.心动过缓",
+            "C.感染性休克",
+            "D.全身麻醉前给药",
+            "E.前列腺肥大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 5
+    },
+    {
+        "question_text": "6.能引起眼调节麻痹的药物是:",
+        "options": [
+            "A.琥珀胆碱",
+            "B.毛果芸香碱",
+            "C.阿托品",
+            "D.毒扁豆碱",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 6
+    },
+    {
+        "question_text": "7.阿托品抑制腺体分泌影响最小的是",
+        "options": [
+            "A.呼吸道腺体",
+            "B.唾液腺",
+            "C.汗腺",
+            "D.泪腺",
+            "E.胃腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 7
+    },
+    {
+        "question_text": "8.东莨胆碱与阿托品的作用相比较，前者最显著的差异是",
+        "options": [
+            "A.抑制腺体分泌",
+            "B.松弛胃肠平滑肌",
+            "C.松弛支气管平滑肌",
+            "D.中枢抑制作用",
+            "E.扩瞳、升高眼压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 8
+    },
+    {
+        "question_text": "9.山莨菪碱适用于治疗:",
+        "options": [
+            "A.创伤性休克",
+            "B.失血性休克",
+            "C.过敏性休克",
+            "D.心源性休克",
+            "E.感染性休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 9
+    },
+    {
+        "question_text": "10.与阿托品阻断M受体无关的效应是",
+        "options": [
+            "A.心率加快",
+            "B.抑制腺体分泌",
+            "C.扩瞳",
+            "D.调节麻痹",
+            "E.解除小血管痉挛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 10
+    },
+    {
+        "question_text": "11.阿托品对内脏平滑肌解痉效果最好的是",
+        "options": [
+            "A.子宫平滑肌",
+            "B.胆道平滑肌",
+            "C.输尿管平滑肌",
+            "D.胃肠道平滑肌",
+            "E.支气管平滑肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 11
+    },
+    {
+        "question_text": "12.治疗量阿托品一般不出现",
+        "options": [
+            "A.口干",
+            "B.烦躁不安、呼吸加快",
+            "C.视近物模糊",
+            "D.皮肤潮红",
+            "E.心跳过速"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 12
+    },
+    {
+        "question_text": "13.儿童验光配眼镜宜用",
+        "options": [
+            "A.阿托品",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.毒扁豆碱",
+            "E.新斯的明"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 13
+    },
+    {
+        "question_text": "14.中枢抑制作用较弱的M受体阻断药是",
+        "options": [
+            "A.阿托品",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.普鲁本辛",
+            "E.后马托品"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 14
+    },
+    {
+        "question_text": "15.适用于治疗兼有焦虑症的溃疡病的是",
+        "options": [
+            "A.胃复康",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.溴丙胺太林(普鲁本辛)",
+            "E.后马托品"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 15
+    },
+    {
+        "question_text": "16.可用于治疗胃和十二指肠溃疡的是",
+        "options": [
+            "A.阿托品",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.溴丙胺太林(普鲁本辛)",
+            "E.后马托品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 16
+    },
+    {
+        "question_text": "17.阿托品中毒可用下列药物治疗",
+        "options": [
+            "A.毛果芸香碱",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.后马托品",
+            "E.酚妥拉明"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 17
+    },
+    {
+        "question_text": "18.成人扩瞳查眼底选用",
+        "options": [
+            "A.阿托品",
+            "B.山莨菪碱",
+            "C.后马托品",
+            "D.毒扁豆碱",
+            "E.新斯的明"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 18
+    },
+    {
+        "question_text": "19.治疗量东莨菪碱的药理作用与阿托品最明显的差异是",
+        "options": [
+            "A.对胃肠平滑肌的选择性不同",
+            "B.对腺体抑制作用强度不同",
+            "C.对心血管作用选择性不同",
+            "D.对中枢作用不同",
+            "E.扩瞳、调节麻痹作用强度不同"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 19
+    },
+    {
+        "question_text": "20.有关阿托品药理作用的叙述,错误的是",
+        "options": [
+            "A.抑制腺体分泌",
+            "B.扩张血管改善微循环",
+            "C.大剂量减慢心率",
+            "D.松弛内脏平滑肌",
+            "E.升高眼压,调节麻痹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 20
+    },
+    {
+        "question_text": "21.中枢抑制作用最强的M受体阻断药是",
+        "options": [
+            "A.阿托品",
+            "B.山莨菪碱",
+            "C.东莨菪碱",
+            "D.普鲁本辛",
+            "E.后马托品"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 21
+    },
+    {
+        "question_text": "22.阿托品口服最早出现的副作用是",
+        "options": [
+            "A.排尿困难",
+            "B.视力模糊",
+            "C.口干",
+            "D.便秘",
+            "E.心悸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 22
+    },
+    {
+        "question_text": "23.阿托品适合治疗下列哪种休克",
+        "options": [
+            "A.心源性休克",
+            "B.感染中毒性休克",
+            "C.失血性休克",
+            "D.过敏性休克",
+            "E.神经源性休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 23
+    },
+    {
+        "question_text": "24.阿托品作用于",
+        "options": [
+            "A.M1受体",
+            "B.M2受体",
+            "C.M2受体",
+            "D.突触前M受体",
+            "E.各类型M受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 24
+    },
+    {
+        "question_text": "25.阿托品可用于治疗",
+        "options": [
+            "A.心房扑动",
+            "B.心房纤颤",
+            "C.窦性心动过缓",
+            "D.室上性心动过速",
+            "E.室性心动过速"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 25
+    },
+    {
+        "question_text": "26.有关阿托品的各项叙述,错误的是",
+        "options": [
+            "A.阿托品可用于各种内脏纹痛",
+            "B.可用于治疗前列腺肥大",
+            "C.对中毒性痢疾有较好的疗效",
+            "D.可用于全麻前给药以制止腺体分泌",
+            "E.能解救有机磷酸酯类中"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 26
+    },
+    {
+        "question_text": "27.不易透过血脑脊液屏障的M胆碱受体阻断药是",
+        "options": [
+            "A.阿托品",
+            "B.山茛菪碱",
+            "C.东莨菪碱",
+            "D.后马托品",
+            "E.新斯的明"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 27
+    },
+    {
+        "question_text": "28.阿托品的不良反应不包括",
+        "options": [
+            "A.口干",
+            "B.恶心呕吐",
+            "C.视近物模糊",
+            "D.皮肤潮红",
+            "E.心跳过速"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 28
+    },
+    {
+        "question_text": "29.胆绞痛止痛应选用",
+        "options": [
+            "A.哌替啶+阿托品",
+            "B.可待因+阿托品",
+            "C.哌替啶",
+            "D.可待因",
+            "E.阿托品"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 29
+    },
+    {
+        "question_text": "30.阿托品用于麻醉前给药的主要目的是",
+        "options": [
+            "A.抑制中枢",
+            "B.解除胃肠道痉挛",
+            "C.抑制呼吸道腺体分泌",
+            "D.抑制排便、排尿",
+            "E.治疗缓慢型心律失常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 30
+    },
+    {
+        "question_text": "31.阿托品对眼睛的作用是",
+        "options": [
+            "A.扩瞳、眼压降低、调节痉挛",
+            "B.扩瞳、眼压升高、调节痉挛",
+            "C.扩瞳、眼压升高、调节麻痹",
+            "D.缩瞳、眼压升高、调节痉挛",
+            "E.缩瞳、眼压降低、调节痉挛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 31
+    },
+    {
+        "question_text": "32.阿托品抗休克的主要作用机制是",
+        "options": [
+            "A.兴奋中枢,改善呼吸",
+            "B.扩张血管,改善微循环",
+            "C.兴奋交感神经,增加心排血量",
+            "D.舒张肾血管",
+            "E.舒张支气管平滑肌,改善呼吸道阻力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "32",
+        "number": 32
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "question_text": "1.红霉素和林可霉素合用可",
+        "options": [
+            "A.降低毒性",
+            "B.增强抗菌活性",
+            "C.扩大抗菌谱",
+            "D.竞争结合部位相互拮抗",
+            "E.降低细菌耐药性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 1
+    },
+    {
+        "question_text": "2.抗生素可引起肝脏损害",
+        "options": [
+            "A.无味红霉素",
+            "B.麦迪霉素",
+            "C.麦白霉素",
+            "D.林可霉素",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 2
+    },
+    {
+        "question_text": "3.红霉素组织中浓度最高",
+        "options": [
+            "A.骨髓",
+            "B.胆汁",
+            "C.肺",
+            "D.肾脏",
+            "E.肠道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 3
+    },
+    {
+        "question_text": "4.药物对克林霉素所致假膜性肠炎有较好疗效",
+        "options": [
+            "A.红霉素",
+            "B.林可霉素",
+            "C.万古霉素",
+            "D.杏他霉素",
+            "E.麦迪霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 4
+    },
+    {
+        "question_text": "5.治疗骨及关节感染应首选",
+        "options": [
+            "A.红霉素",
+            "B.林可霉素",
+            "C.麦迪霉素",
+            "D.万古霉素",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 5
+    },
+    {
+        "question_text": "6.麦迪霉素难以分布到",
+        "options": [
+            "A.肝脏",
+            "B.肺",
+            "C.胆汁",
+            "D.脑脊液",
+            "E.脾脏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 6
+    },
+    {
+        "question_text": "7.军团菌感染应首选",
+        "options": [
+            "A.青霉素",
+            "B.链霉素",
+            "C.土霉素",
+            "D.四环素",
+            "E.红霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 7
+    },
+    {
+        "question_text": "8.肾功能不全的病人,抗生素的t1/2会显著延长",
+        "options": [
+            "A.林可霉素",
+            "B.万古霉素",
+            "C.克林霉素",
+            "D.麦迪霉素",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 8
+    },
+    {
+        "question_text": "9.患者,男,6岁,高热,呼吸困难,双肺有广泛小水泡音,诊断为“支气管肺炎”,青霉素皮试阳性,宜选用",
+        "options": [
+            "A.氯霉素",
+            "B.四环素",
+            "C.头孢唑啉",
+            "D.磺胺嘧啶",
+            "E.红霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 9
+    },
+    {
+        "question_text": "10.患者,女,2岁,高热、昏迷住院,颈部强直,巴氏征(+),克氏征(+),脑脊液压力高、脓性,该患者不宜选用",
+        "options": [
+            "A.青霉素G",
+            "B.麦迪霉素",
+            "C.磺胺嘧啶",
+            "D.氯霉素",
+            "E.氨苄西林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 10
+    },
+    {
+        "question_text": "11.大环内酯类的错误叙述项",
+        "options": [
+            "A.细菌对本类各药间有不完全交叉耐药性",
+            "B.在酸性环境中抗菌活性较强",
+            "C.不易透过血脑屏障",
+            "D.血药浓度低,但组织中浓度相对较高",
+            "E.主要经胆汁排泄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 11
+    },
+    {
+        "question_text": "12.治疗军团病首选药物是",
+        "options": [
+            "A.红霉素",
+            "B.麦迪霉素",
+            "C.土霉素",
+            "D.多西环素",
+            "E.四环素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 12
+    },
+    {
+        "question_text": "13.治疗急慢性金黄色葡萄球菌骨髓炎的首选药物是",
+        "options": [
+            "A.红霉素",
+            "B.乙酰螺旋霉素",
+            "C.四环素",
+            "D.克林霉素",
+            "E.土霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 13
+    },
+    {
+        "question_text": "14.治疗克林霉素引起的伪膜性肠炎应选用",
+        "options": [
+            "A.林可霉素",
+            "B.氯霉素",
+            "C.万古霉素",
+            "D.氨苄西林",
+            "E.羧苄西林"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 14
+    },
+    {
+        "question_text": "15.大环内酯类不包括",
+        "options": [
+            "A.罗红霉素",
+            "B.吉他霉素",
+            "C.交沙霉素",
+            "D.克拉霉素",
+            "E.林可霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪种药物与林可霉素合用产生拮抗作用",
+        "options": [
+            "A.红霉素",
+            "B.万古霉素",
+            "C.青霉素",
+            "D.头孢氨苄",
+            "E.链霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 16
+    },
+    {
+        "question_text": "17.对大环内酯类抗生素描述错误的是",
+        "options": [
+            "A.抗菌谱相对较窄",
+            "B.生物利用度低",
+            "C.治疗呼吸道感染疗效确切",
+            "D.能与细菌核蛋白体的30s亚基结合",
+            "E.同类药化学结构相似"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 17
+    },
+    {
+        "question_text": "18.多肽类抗生素不包括",
+        "options": [
+            "A.万古霉素",
+            "B.替考拉宁",
+            "C.多黏菌素",
+            "D.杆菌肽",
+            "E.林可霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 18
+    },
+    {
+        "question_text": "19.多黏菌素B特点不包括",
+        "options": [
+            "A.对铜绿假单胞菌作用强大",
+            "B.属速效杀菌药",
+            "C.对各种G-杆菌感染有效",
+            "D.不易产生耐药性",
+            "E.毒性较大,肾脏损害多见"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 19
+    },
+    {
+        "question_text": "20.对林可霉素描述错误的是",
+        "options": [
+            "A.对G+菌有较强的抗菌作用",
+            "B.增加细菌细胞膜通透性而杀菌",
+            "C.主治金葡菌引起急慢性骨髓炎",
+            "D.口服或肌注均可产生胃肠反应",
+            "E.G-菌对其有耐药性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 20
+    },
+    {
+        "question_text": "21.大环内酯类药对菌无效",
+        "options": [
+            "A.肺炎球菌",
+            "B.流感杆菌",
+            "C.大肠杆菌",
+            "D.军团菌",
+            "E.结核杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 21
+    },
+    {
+        "question_text": "22.金葡菌所致急慢性骨髓炎患者最好选用",
+        "options": [
+            "A.金霉素",
+            "B.林可霉素",
+            "C.四环素",
+            "D.土霉素",
+            "E.麦白霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 22
+    },
+    {
+        "question_text": "23.多黏菌素的抗菌谱正确的是",
+        "options": [
+            "A.G+及G-细菌",
+            "B.溶血性链球菌",
+            "C.G-杆菌特别是铜绿假单胞菌",
+            "D.G+菌尤其是耐药金葡菌",
+            "E.结核杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 23
+    },
+    {
+        "question_text": "24.林可霉素类抗生素的共同点不包括",
+        "options": [
+            "A.对G+菌有较强的抗菌作用",
+            "B.对各种厌氧菌无效",
+            "C.均与核蛋白体50S亚基结合",
+            "D.主要治疗对青霉素过敏的金葡菌感染",
+            "E.与红霉素之间有拮抗作用不宜合用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 24
+    }
+]

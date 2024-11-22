@@ -1,0 +1,744 @@
+[
+    {
+        "question_text": "1.多个相邻的毛囊及其所属皮脂腺的急性化脓性感染，称为",
+        "options": [
+            "A.疖",
+            "B.痈",
+            "C.蜂窝织炎",
+            "D.丹毒",
+            "E.脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 1
+    },
+    {
+        "question_text": "2.单个毛囊及其周围组织的急性化脓性感染，称为",
+        "options": [
+            "A.疖",
+            "B.痛",
+            "C.蜂窝织炎",
+            "D.丹毒",
+            "E.脓肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 2
+    },
+    {
+        "question_text": "3.疏松结缔组织的急性化脓性感染，称为",
+        "options": [
+            "A.疖",
+            "B.痈",
+            "C.蜂窝织炎",
+            "D.丹毒",
+            "E.急性淋巴管炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 3
+    },
+    {
+        "question_text": "4.皮肤网状淋巴管的急性化脓性感染，称为",
+        "options": [
+            "A.疖",
+            "B.痛",
+            "C.蜂窝织炎",
+            "D.丹毒",
+            "E.急性淋巴管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 4
+    },
+    {
+        "question_text": "5.鼻部和上唇周围疖的危险性是由于可能引起",
+        "options": [
+            "A.脓毒症",
+            "B.眼部感染",
+            "C.脑脓肿",
+            "D.海绵状静脉窦炎",
+            "E.菌血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 5
+    },
+    {
+        "question_text": "6.丹毒的致病菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.B-溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.拟杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 6
+    },
+    {
+        "question_text": "7.脓性指头炎出现跳痛时应采取的措施",
+        "options": [
+            "A.抗生素",
+            "B.理疗",
+            "C.外敷金黄散糊剂",
+            "D.悬吊前臂平置患手",
+            "E.切开引流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 7
+    },
+    {
+        "question_text": "8.人体抗感染的防御机制有天然免疫和获得性免疫共同参与，下列哪一项不属于天然免疫",
+        "options": [
+            "A.皮肤粘膜屏障",
+            "B.吞噬细胞",
+            "C.补体",
+            "D.细胞因子",
+            "E.T细胞免疫应答"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列是增加伤口感染发生率的局部因素，但除外",
+        "options": [
+            "A.伤口血肿",
+            "B.坏死组织",
+            "C.伤口内缝线",
+            "D.肥胖",
+            "E.糖尿病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 9
+    },
+    {
+        "question_text": "10.预防性抗生素用于",
+        "options": [
+            "A.植入人工血管",
+            "B.糖尿病患者择期疝修补术",
+            "C.年幼或年迈病人",
+            "D.盆腔脓肿的切开引流",
+            "E.甲状腺切除手术"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列那种方法可保证清洁伤口的低感染率",
+        "options": [
+            "A.术前应用抗生素",
+            "B.层流手术室",
+            "C.较长的术前病情检查",
+            "D.较短的手术时间",
+            "E.术前手术区域皮肤剃毛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 11
+    },
+    {
+        "question_text": "12.抗生素预防伤口感染的适当方式",
+        "options": [
+            "A.用半衰期短药物3-5天",
+            "B.用药至术后4-5天",
+            "C.术后立即开始应用抗生素",
+            "D.选用针对常见致病菌的抗生素",
+            "E.大多数手术均应使用抗生素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 12
+    },
+    {
+        "question_text": "13.外科感染危险性增加与下列因素有关，但除外",
+        "options": [
+            "A.蛋白一热量性营养不良",
+            "B.肥胖",
+            "C.失血性休克",
+            "D.糖尿病",
+            "E.术前手术区域皮肤未剃毛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 13
+    },
+    {
+        "question_text": "14.预防软组织损伤感染的原则是",
+        "options": [
+            "A.应用抗生素",
+            "B.应用抗菌敷料",
+            "C.彻底情创",
+            "D.伤口一期缝合",
+            "E.局部应用抗生素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 14
+    },
+    {
+        "question_text": "15.导致小撕裂伤48小时后蜂窝织炎的最常见的致病菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.一溶血性链球菌",
+            "C.大肠杆菌",
+            "D.产气荚膜杆菌",
+            "E.绿脓杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 15
+    },
+    {
+        "question_text": "16.治疗腹腔脓肿最重要的方法是",
+        "options": [
+            "A.局部热敷",
+            "B.引流",
+            "C.广谱抗生素",
+            "D.制动",
+            "E.半卧体位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 16
+    },
+    {
+        "question_text": "17.破伤风感染的潜伏期通常为",
+        "options": [
+            "A.1-2天",
+            "B.3-5天",
+            "C.6-12天",
+            "D.3-4周",
+            "E.1-2月"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 17
+    },
+    {
+        "question_text": "18.伤风的病程一般为",
+        "options": [
+            "A.1-2周",
+            "B.大约2周",
+            "C.3-4周",
+            "D.4-5周",
+            "E.1-2月"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 18
+    },
+    {
+        "question_text": "19.急性外科感染的病程被定义在",
+        "options": [
+            "A.1周以内",
+            "B.2周以内",
+            "C.3周以内",
+            "D.4周以内",
+            "E.5周以内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 19
+    },
+    {
+        "question_text": "20.慢性外科感染的病程被定义在",
+        "options": [
+            "A.1月以上",
+            "B.2月以上",
+            "C.3月以上",
+            "D.4月以上",
+            "E.5月以上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 20
+    },
+    {
+        "question_text": "21.在健康个体，伤口发生感染通常提示污染的细菌数",
+        "options": [
+            "A.>102",
+            "B.>103",
+            "C.>104",
+            "D.>105",
+            "E.>106"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 21
+    },
+    {
+        "question_text": "22.疖最常见的致病菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.真菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 22
+    },
+    {
+        "question_text": "23.痈最常见的致病菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 23
+    },
+    {
+        "question_text": "24.下面疾病中，不属于非特异性感染的是",
+        "options": [
+            "A.疖",
+            "B.痈",
+            "C.气性坏疽",
+            "D.急性阑尾炎",
+            "E.急性乳腺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 24
+    },
+    {
+        "question_text": "25.院内感染常见的致病菌是",
+        "options": [
+            "A.葡萄球菌",
+            "B.链球菌",
+            "C.绿脓杆菌",
+            "D.肠杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 25
+    },
+    {
+        "question_text": "26.胃肠道手术后感染的常见致病菌是",
+        "options": [
+            "A.大肠杆菌",
+            "B.绿脓杆菌",
+            "C.变形杆菌",
+            "D.肠杆菌",
+            "E.拟杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 26
+    },
+    {
+        "question_text": "27.金黄色葡萄球菌感染脓液的特点是",
+        "options": [
+            "A.脓液稀薄，淡红色",
+            "B.脓液稠厚，黄色，不臭",
+            "C.脓液稠厚，恶臭",
+            "D.脓液淡绿色，甜腥臭",
+            "E.脓液特殊的恶臭"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 27
+    },
+    {
+        "question_text": "28.确诊脓肿的主要依据是",
+        "options": [
+            "A.波动感",
+            "B.发热",
+            "C.功能障碍",
+            "D.白细胞计数增加",
+            "E.全身乏力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 28
+    },
+    {
+        "question_text": "29.疖不发生在身体的",
+        "options": [
+            "A.头颈部",
+            "B.面部",
+            "C.胸部",
+            "D.背部",
+            "E.会阴部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 29
+    },
+    {
+        "question_text": "30.“危险三角\"的疖易并发",
+        "options": [
+            "A.眼睑炎",
+            "B.上颌窦炎",
+            "C.海绵状静脉窦炎",
+            "D.口腔炎",
+            "E.痈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 30
+    },
+    {
+        "question_text": "31.痈常发生在身体的",
+        "options": [
+            "A.颈项部",
+            "B.胸部",
+            "C.腰部",
+            "D.会阴部",
+            "E.下肢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 31
+    },
+    {
+        "question_text": "32.口底、颌下和颈部的急性蜂窝织炎，可并发",
+        "options": [
+            "A.菌血症",
+            "B.败血征",
+            "C.化脓性海绵状静脉窦炎",
+            "D.喉头水肿",
+            "E.面部蜂窝织炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 32
+    },
+    {
+        "question_text": "33.在伤口近侧出现一条或多条红线，硬而有压痛，通常是",
+        "options": [
+            "A.急性网状淋巴管炎",
+            "B.急性淋巴结炎",
+            "C.浅层管状淋巴管炎",
+            "D.深层管状淋巴管炎",
+            "E.新生儿皮下坏疽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 33
+    },
+    {
+        "question_text": "34.深部脓肿的临床表现是",
+        "options": [
+            "A.局部红肿明显",
+            "B.可扪及波动",
+            "C.局部水肿，压痛明显，穿刺有脓",
+            "D.患处无活动障碍",
+            "E.全身症状不明显"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 34
+    },
+    {
+        "question_text": "35.甲沟炎如甲床下积脓，应采取的方法是",
+        "options": [
+            "A.一侧甲沟处纵行切开引流",
+            "B.甲根部横行切开引流",
+            "C.两侧甲沟处纵行切开引流",
+            "D.切除甲根部",
+            "E.拔甲术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 35
+    },
+    {
+        "question_text": "36.脓性指头炎切开减压引流的指征是",
+        "options": [
+            "A.红肿",
+            "B.发热",
+            "C.搏动性跳痛",
+            "D.出现波动后",
+            "E.针刺样疼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 36
+    },
+    {
+        "question_text": "37.无名指屈肌化脓性腱鞘炎时，感染易蔓延至",
+        "options": [
+            "A.尺侧滑液囊",
+            "B.桡侧滑液囊",
+            "C.掌中间隙",
+            "D.鱼际间隙",
+            "E.前臂肌间隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 37
+    },
+    {
+        "question_text": "38.鱼际间隙感染的临床表现是",
+        "options": [
+            "A.掌心凹陷消失",
+            "B.手背水肿严重",
+            "C.无名指、小指处于半屈位",
+            "D.拇指不能对掌",
+            "E.被动伸中指疼痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 38
+    },
+    {
+        "question_text": "39.败血症的临床表现的主要特点是",
+        "options": [
+            "A.寒战后，咼热呈稽留热",
+            "B.血液细菌培养阴性",
+            "C.出现转移性脓肿",
+            "D.神志淡漠",
+            "E.眼底视网膜病变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 39
+    },
+    {
+        "question_text": "40.革兰氏阳性细菌败血症发热的特点",
+        "options": [
+            "A.无寒战发热呈弛张热",
+            "B.寒战发热呈稽留热",
+            "C.无寒战发热呈间歇热",
+            "D.寒战发热呈间歇热",
+            "E.寒战发热呈弛张热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 40
+    },
+    {
+        "question_text": "41.破伤风是由破伤风杆菌引起的",
+        "options": [
+            "A.败血菌",
+            "B.菌血症",
+            "C.毒血症",
+            "D.脓血症",
+            "E.脓毒血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 41
+    },
+    {
+        "question_text": "42.破伤风病人最初表现是",
+        "options": [
+            "A.张口困难",
+            "B.牙关紧闭",
+            "C.苦笑面容",
+            "D.角弓反张",
+            "E.全身肌群痉挛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 42
+    },
+    {
+        "question_text": "43.破伤风病人应用破伤风抗毒素的目的是",
+        "options": [
+            "A.减少毒素的产生",
+            "B.中和游离毒素",
+            "C.控制和解除痉挛",
+            "D.防治并发症",
+            "E.抑制破伤风杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 43
+    },
+    {
+        "question_text": "44.引起气性坏疽的致病菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.链球菌",
+            "C.肠杆菌",
+            "D.拟杆菌",
+            "E.梭状芽胞杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 44
+    },
+    {
+        "question_text": "45.破伤风病人的治疗原则是",
+        "options": [
+            "A.预防和抢救休克",
+            "B.早期行气管切开术",
+            "C.清除毒素来源，中和毒素，控制和解除痉挛",
+            "D.咼压氧治疗",
+            "E.应用破伤风类毒素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 45
+    },
+    {
+        "question_text": "46.联合应用抗菌药物的目的是",
+        "options": [
+            "A.提咼抗菌效能",
+            "B.降低个别药物的剂量",
+            "C.减少毒性反应",
+            "D.延迟或防止细菌产生耐药性",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 46
+    },
+    {
+        "question_text": "47.破伤风的治疗中，应用哪种抗生素效果较好",
+        "options": [
+            "A.青霉素",
+            "B.甲硝唑",
+            "C.红霉素",
+            "D.四环素",
+            "E.磺胺药"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 47
+    },
+    {
+        "question_text": "48.抑制气性坏疽杆菌生长繁殖和停止其产生毒素的高压氧疗法中，需几个大气压的纯氧",
+        "options": [
+            "A.一个",
+            "B.两个",
+            "C.三个",
+            "D.四个",
+            "E.五个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 48
+    },
+    {
+        "question_text": "49.绿脓杆菌感染，首选的抗菌药物是",
+        "options": [
+            "A.羧苄西林",
+            "B.新头孢菌素",
+            "C.哌拉菌素",
+            "D.多粘菌素",
+            "E.诺氟沙星"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 49
+    },
+    {
+        "question_text": "50.上唇痈可并发",
+        "options": [
+            "A.面部蜂窝织炎",
+            "B.眼睑炎",
+            "C.口腔炎",
+            "D.牙龈炎",
+            "E.化脓性海绵状静脉窦炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 50
+    },
+    {
+        "question_text": "51.下列哪项不符合外科感染特点？",
+        "options": [
+            "A.常为单一细菌感染",
+            "B.多为混合感染",
+            "C.局部症状明显",
+            "D.受累组织愈合后形成瘢痕",
+            "E.关节感染愈合后影响功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 51
+    },
+    {
+        "question_text": "52.对败血症的认识，下列哪项是错误的",
+        "options": [
+            "A.细菌一进入血循环就会引起败血症",
+            "B.系一种严重的全身性感染",
+            "C.败血症常有咼热、寒战",
+            "D.血液细菌培养阳性",
+            "E.一般不出现转移性脓肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 52
+    },
+    {
+        "question_text": "53.气性坏疽的处理原则应除外",
+        "options": [
+            "A.彻底清创引流",
+            "B.高压氧治疗",
+            "C.大量青霉素的应用",
+            "D.少量多次输血",
+            "E.患肢行截肢术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 53
+    }
+]

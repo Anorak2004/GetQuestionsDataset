@@ -1,0 +1,464 @@
+[
+    {
+        "question_text": "1.对于哮喘持续状态应选用",
+        "options": [
+            "A.静脉点滴氢化可的松",
+            "B.口服麻黄碱",
+            "C.气雾吸入色甘酸二钠",
+            "D.气雾吸入丙酸倍氯米松",
+            "E.口服沙丁胺醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 1
+    },
+    {
+        "question_text": "2.选择性对β2受体有较强激动作用的平喘药是",
+        "options": [
+            "A.异丙肾上腺素",
+            "B.肾上腺素",
+            "C.麻黄碱",
+            "D.沙丁胺醇",
+            "E.色甘酸二钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 2
+    },
+    {
+        "question_text": "3.糖皮质激素治疗哮喘的主要机制是",
+        "options": [
+            "A.提高中枢神经系统的兴奋性",
+            "B.激动支气管平滑肌上的β2受体",
+            "C.抗炎、抗过敏作用",
+            "D.激活腺苷酸环化酶",
+            "E.阻断M受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 3
+    },
+    {
+        "question_text": "4.色甘酸二钠预防哮喘发作的主要机制是",
+        "options": [
+            "A.直接松弛支气管平滑肌",
+            "B.稳定肥大细胞膜,抑制过敏介质释放",
+            "C.阻断腺苷受体",
+            "D.促进儿茶酚胺释放",
+            "E.激动β2受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 4
+    },
+    {
+        "question_text": "5.可待因主要用于",
+        "options": [
+            "A.支气管哮喘",
+            "B.肺炎引起的咳嗷",
+            "C.多痰、粘痰引起的剧咳",
+            "D.感感冒初期的轻度咳嗽",
+            "E.剧烈的刺激性干咳"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 5
+    },
+    {
+        "question_text": "6.伴有冠心病的支气管哮喘发作应选用",
+        "options": [
+            "A.沙丁胺醇",
+            "B.氨茶碱",
+            "C.异丙肾上腺素",
+            "D.色甘酸二钠",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 6
+    },
+    {
+        "question_text": "7.对哮瑞发作无效的药物是",
+        "options": [
+            "A.沙丁胺醇",
+            "B.地塞米松",
+            "C.色甘酸二钠",
+            "D.氨茶碱",
+            "E.异丙托溴胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 7
+    },
+    {
+        "question_text": "8.氨茶碱的平喘机制主要是",
+        "options": [
+            "A.促进肾上腺素和去甲肾上腺素的释放",
+            "B.激活磷酸二酯酶",
+            "C.抑制磷酯酶A2",
+            "D.激活腺苷酸环化酶。",
+            "E.抑制鸟苷酸环化酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 8
+    },
+    {
+        "question_text": "9.伴有冠心病的支气管哮喘发作应首选",
+        "options": [
+            "A.麻黄碱",
+            "B.氨茶碱",
+            "C.克伦特罗",
+            "D.异丙肾上腺素",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 9
+    },
+    {
+        "question_text": "10.哮喘持续状态或危重发作的抢救应选用",
+        "options": [
+            "A.麻黄碱",
+            "B.异丙肾上腺素",
+            "C.倍氯米松",
+            "D.氢化可的松",
+            "E.色甘酸二钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 10
+    },
+    {
+        "question_text": "11.糖皮质激素平喘的机制是",
+        "options": [
+            "A.抗炎、抗过敏作用",
+            "B.阻断M受体",
+            "C.激活腺苷酸环化酶",
+            "D.提高中枢神经系统兴奋性",
+            "E.直接松弛支气管平滑肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 11
+    },
+    {
+        "question_text": "12.色甘酸二钠预防哮喘发作的主要机制为",
+        "options": [
+            "A.抑制肥大细胞对各种刺激引起的脱颗粒作用",
+            "B.直接对抗组胺等过敏介质",
+            "C.具有抗炎作用",
+            "D.直接扩张支气管平滑肌",
+            "E.抑制磷酸二酯酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 12
+    },
+    {
+        "question_text": "13.喘息的根本治疗是",
+        "options": [
+            "A.松弛支气管平滑肌",
+            "B.抑制气管炎症及炎症介质",
+            "C.收缩支气管黏膜血管",
+            "D.增强呼吸肌收缩力",
+            "E.促进儿茶酚胺类物质释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 13
+    },
+    {
+        "question_text": "14.对β2受体有较强选择性的平喘药是",
+        "options": [
+            "A.吲哚洛尔",
+            "B.克伦特罗",
+            "C.异丙肾上腺素",
+            "D.多巴酚丁胺",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 14
+    },
+    {
+        "question_text": "15.沙丁胺醇剂量过大引起手指震颤的原因是",
+        "options": [
+            "A.激动骨骼肌β2受体",
+            "B.激动骨骼肌NM受体",
+            "C.阻断中枢多巴胺D2受体",
+            "D.激动中枢胆碱受体",
+            "E.阻断骨骼肌β2受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 15
+    },
+    {
+        "question_text": "16.与异丙基阿托品比较,沙丁胺醇的突出优点是",
+        "options": [
+            "A.兴奋心脏作用与异丙肾上腺素相似",
+            "B.对β2受体作用明显强于β1受体",
+            "C.气雾吸入起效较快",
+            "D.对α受体无作用",
+            "E.适宜口服给药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 16
+    },
+    {
+        "question_text": "17.氨茶碱的平喘机制是",
+        "options": [
+            "A.抑制儿茶酚胺释放及激动腺苷受体",
+            "B.抑制腺苷酸环化酶",
+            "C.激活磷酸二酯酶",
+            "D.抑制磷酸二酯酶",
+            "E.激活鸟苷酸环化酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 17
+    },
+    {
+        "question_text": "18.为减少不良反应,用糖皮质激素平喘时宜",
+        "options": [
+            "A.口服",
+            "B.静脉滴注",
+            "C.皮下注射",
+            "D.气雾吸入",
+            "E.肌肉注射"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪种药物对哮喘急性发作迅速有效",
+        "options": [
+            "A.倍氯米松",
+            "B.色苷酸钠",
+            "C.沙丁胺醇吸入",
+            "D.口服氨茶碱",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 19
+    },
+    {
+        "question_text": "20.预防支气管哮喘的首选药",
+        "options": [
+            "A.肾上腺素",
+            "B.异丙肾上腺素",
+            "C.麻黄碱",
+            "D.异丙基河托品",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 20
+    },
+    {
+        "question_text": "21.用于平喘的M胆碱受体阻断药是",
+        "options": [
+            "A.哌仑西平",
+            "B.异丙基阿托品",
+            "C.阿托品",
+            "D.后阿托品",
+            "E.氨茶碱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 21
+    },
+    {
+        "question_text": "22.明显抑制支气管炎症过程的平喘药是",
+        "options": [
+            "A.肾上腺素",
+            "B.倍氯米松",
+            "C.沙丁胺醇",
+            "D.异丙肾上腺素",
+            "E.异丙基阿托品"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 22
+    },
+    {
+        "question_text": "23.氨茶碱不宜用于",
+        "options": [
+            "A.口服治疗慢性哮喘",
+            "B.口服治疗心性或肾性水肿",
+            "C.静脉注射治疗哮喘急性发作",
+            "D.治疗心源性哮喘",
+            "E.伴有冠心病的支气管哮喘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 23
+    },
+    {
+        "question_text": "24.选择性作用于β2受体又能皮下注射的平喘药是",
+        "options": [
+            "A.异丙肾上腺素",
+            "B.沙丁胺醇",
+            "C.克伦特罗",
+            "D.特布他林",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 24
+    },
+    {
+        "question_text": "25.不能控制哮喘发作症状的药物是:",
+        "options": [
+            "A.氢化可的松",
+            "B.色甘酸二钠",
+            "C.异丙肾上腺素",
+            "D.氨茶碱",
+            "E.沙丁胺醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 25
+    },
+    {
+        "question_text": "26.可待因主要用于治疗:",
+        "options": [
+            "A.剧烈的刺激性干咳",
+            "B.肺炎引起的咳嗷",
+            "C.上呼吸道感染引起的咳嗽",
+            "D.支气管哮喘",
+            "E.多痰、粘痰引起的剧咳"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 26
+    },
+    {
+        "question_text": "27.氨茶碱的平喘机制不包括",
+        "options": [
+            "A.促进儿茶酚胺类物质释放",
+            "B.抑制磷酸二酯酶,减少cAMP破坏",
+            "C.阻断腺苷受体",
+            "D.兴奋骨骼肌",
+            "E.直接激动β3受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 27
+    },
+    {
+        "question_text": "28.不能用于平喘的肾上腺素受体激动药是",
+        "options": [
+            "A.肾上腺素",
+            "B.多巴胺",
+            "C.麻黄碱",
+            "D.异丙肾上腺素",
+            "E.沙丁胺醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 28
+    },
+    {
+        "question_text": "29.心血管系统不良反应较少的平喘药是",
+        "options": [
+            "A.茶碱",
+            "B.肾上腺素",
+            "C.沙丁胺醇",
+            "D.异丙肾上腺素",
+            "E.麻黄碱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 29
+    },
+    {
+        "question_text": "30.对哮喘急性发作迅速有效的药物是:",
+        "options": [
+            "A.倍氯米松吸入",
+            "B.色甘酸二钠",
+            "C.沙丁胺醇吸入",
+            "D.氨茶碱口服",
+            "E.异丙基阿托品"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 30
+    },
+    {
+        "question_text": "31.色甘酸二钠对已发作的哮喘无效是因为",
+        "options": [
+            "A.不能阻止过敏介质的释放",
+            "B.不能直接对抗过敏介质的作用",
+            "C.肥大细胞膜稳定作用",
+            "D.吸入给药可能引起呛咳",
+            "E.抑制肺肥大细胞脱颗粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 31
+    },
+    {
+        "question_text": "32.用于平喘的腺苷受体阻断药是:",
+        "options": [
+            "A.氨茶碱",
+            "B.异丙基阿托品",
+            "C.色甘酸二钠",
+            "D.奈多罗米",
+            "E.麻黄碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 32
+    },
+    {
+        "question_text": "33.关于糖皮质激素治疗哮喘的药理作用,下列叙述哪项不正确?",
+        "options": [
+            "A.抑制前列腺素生成",
+            "B.减少白三烯生成",
+            "C.局部抗炎作用",
+            "D.抑制磷酸二酯酶",
+            "E.局部抗过敏作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 33
+    }
+]

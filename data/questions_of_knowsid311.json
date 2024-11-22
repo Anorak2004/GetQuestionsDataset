@@ -1,0 +1,1317 @@
+[
+    {
+        "question_text": "1．淀粉经α-淀粉酶作用后的主要产物是",
+        "options": [
+            "A．麦芽糖及异麦芽糖",
+            "B．葡萄糖及麦芽糖",
+            "C．葡萄糖",
+            "D．麦芽糖及临界糊精",
+            "E．异麦芽糖及临界糊精"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 1
+    },
+    {
+        "question_text": "2．糖酵解时下列哪一对代谢物提供～P 使 ADP 生成 ATP",
+        "options": [
+            "A．3-磷酸甘油醛及 6-磷酸果糖",
+            "B．1,3-二磷酸甘油酸及磷酸烯醇式丙酮酸",
+            "C．3-磷酸甘油酸及 6-磷酸葡萄糖",
+            "D．1-磷酸葡萄糖及磷酸烯醇式丙酮酸",
+            "E．1,6-双磷酸果糖及 1,3-二磷酸甘油酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 2
+    },
+    {
+        "question_text": "3．下列有关葡萄糖磷酸化的叙述中，错误的是",
+        "options": [
+            "A．己糖激酶有四种同工酶",
+            "B．己糖激酶催化葡萄糖转变成 6-磷酸葡萄糖",
+            "C．磷酸化反应受到激素的调节",
+            "D．磷酸化后的葡萄糖能自由通过细胞膜",
+            "E．己糖激酶需要 Mg2+激活"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 3
+    },
+    {
+        "question_text": "4．下列哪个酶直接参与底物水平磷酸化",
+        "options": [
+            "A．3-磷酸甘油醛脱氢酶",
+            "B．α-酮戊二酸脱氢酶",
+            "C．琥珀酸脱氢酶",
+            "D．磷酸甘油酸激酶",
+            "E．6-磷酸葡萄糖脱氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 4
+    },
+    {
+        "question_text": "5．下列哪个酶直接参与底物水平磷酸化",
+        "options": [
+            "A．3-磷酸甘油醛脱氢酶",
+            "B．α-酮戊二酸脱氢酶",
+            "C．琥珀酸脱氢酶",
+            "D．丙酮酸激酶",
+            "E．6-磷酸葡萄糖脱氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 5
+    },
+    {
+        "question_text": "6．下列哪种物质缺乏可引起血液丙酮酸含量升高",
+        "options": [
+            "A．硫胺素",
+            "B．叶酸",
+            "C．吡哆醛",
+            "D．维生素 B12"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 6
+    },
+    {
+        "question_text": "7．1 分子葡萄糖酵解时可净生成几分子 ATP",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 7
+    },
+    {
+        "question_text": "8．丙酮酸不参与下列哪种代谢过程",
+        "options": [
+            "A．转变为丙氨酸",
+            "B．异生成葡萄糖",
+            "C．进入线粒体氧化供能",
+            "D．还原成乳酸",
+            "E．经异构酶催化生成丙酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 8
+    },
+    {
+        "question_text": "9．糖原的 1 个葡萄糖基经糖酵解可净生成几个 ATP",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 9
+    },
+    {
+        "question_text": "10．肝脏内糖酵解途径的主要功能是",
+        "options": [
+            "A．进行糖酵解",
+            "B．进行糖有氧氧化供能",
+            "C．提供磷酸戊糖",
+            "D．对抗糖异生",
+            "E．为其他代谢提供合成原料"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 10
+    },
+    {
+        "question_text": "11．肌肉中糖酵解途径的主要功能是",
+        "options": [
+            "A．进行糖酵解",
+            "B．进行糖有氧氧化供能",
+            "C．提供磷酸戊糖",
+            "D．对抗糖异生",
+            "E．快速提供能量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 11
+    },
+    {
+        "question_text": "12．在糖酵解过程中，下列哪个酶催化的反应是不可逆的",
+        "options": [
+            "A．醛缩酶",
+            "B．烯醇化酶",
+            "C．丙酮酸激酶",
+            "D．磷酸甘油酸激酶",
+            "E．3-磷酸甘油醛脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 12
+    },
+    {
+        "question_text": "13．在糖酵解过程中，下列哪个酶催化的反应是不可逆的（）",
+        "options": [
+            "A．醛缩酶",
+            "B．烯醇化酶",
+            "C．己糖激酶",
+            "D．磷酸甘油酸激酶",
+            "E．3-磷酸甘油醛脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 13
+    },
+    {
+        "question_text": "14．在糖酵解过程中，下列哪个酶催化的反应是不可逆的（）",
+        "options": [
+            "A．醛缩酶",
+            "B．烯醇化酶",
+            "C．6-磷酸果糖激酶-1",
+            "D．磷酸甘油酸激酶",
+            "E．3-磷酸甘油醛脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 14
+    },
+    {
+        "question_text": "15．糖酵解时丙酮酸不会堆积的原因是",
+        "options": [
+            "A．乳酸脱氢酶活性很强",
+            "B．丙酮酸可氧化脱羧生成乙酰 CoA",
+            "C．NADH/NAD+比例太低",
+            "D．乳酸脱氢酶对丙酮酸的 Km 值很高",
+            "E．丙酮酸作为 3-磷酸甘油醛脱氢反应中生成的 NADH的氢接受者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 15
+    },
+    {
+        "question_text": "16．6-磷酸果糖激酶-1 的最强别构激活剂是",
+        "options": [
+            "A．AMP",
+            "B．ADP",
+            "C．2,6-双磷酸果糖",
+            "D．ATP",
+            "E．1,6-双磷酸果糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 16
+    },
+    {
+        "question_text": "17．与糖酵解途径无关的酶是",
+        "options": [
+            "A．己糖激酶",
+            "B．烯醇化酶",
+            "C．醛缩酶",
+            "D．丙酮酸激酶",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 17
+    },
+    {
+        "question_text": "18．下列有关糖有氧氧化的叙述中，哪一项是错误的",
+        "options": [
+            "A．糖有氧氧化的产物是 CO2 及 H2O",
+            "B．糖有氧氧化可抑制糖酵解",
+            "C．糖有氧氧化是细胞获取能量的主要方式",
+            "D．三羧酸循环三大营养素产生能量的共同途径",
+            "E．1 分子葡萄糖氧化成 CO2 及 H2O 时可生成 38 分子ATP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 18
+    },
+    {
+        "question_text": "19．丙酮酸脱氢酶复合体中不包括",
+        "options": [
+            "A．FAD",
+            "B．NAD+",
+            "C．生物素",
+            "D．辅酶 A",
+            "E．硫辛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 19
+    },
+    {
+        "question_text": "20．丙酮酸脱氢酶复合体中不包括",
+        "options": [
+            "A．FAD",
+            "B．NAD+",
+            "C．四氢叶酸",
+            "D．辅酶 A",
+            "E．硫辛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 20
+    },
+    {
+        "question_text": "21．丙酮酸脱氢酶复合体中不包括",
+        "options": [
+            "A．FAD",
+            "B．NAD+",
+            "C．磷酸吡哆醛",
+            "D．辅酶 A",
+            "E．硫辛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 21
+    },
+    {
+        "question_text": "22．不会使丙酮酸脱氢酶复合体活性降低的是",
+        "options": [
+            "A．乙酰 CoA",
+            "B．ATP",
+            "C．NADH",
+            "D．AMP",
+            "E．依赖 cAMP 的蛋白激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 22
+    },
+    {
+        "question_text": "23．下列关于三羧酸循环的叙述中，正确的是",
+        "options": [
+            "A．循环一周可生成 4 分子 NADH",
+            "B．循环一周可使 2 个 ADP 磷酸化成 ATP",
+            "C．乙酰 CoA 可经草酰乙酸进行糖异生",
+            "D．丙二酸可抑制延胡索酸转变成苹果酸",
+            "E．琥珀酰 CoA 是α-酮戊二酸氧化脱羧的产物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 23
+    },
+    {
+        "question_text": "24．下列哪个酶在三羧酸循环中直接参与底物水平磷酸化",
+        "options": [
+            "A．柠檬酸合酶",
+            "B．α-酮戊二酸脱氢酶",
+            "C．琥珀酸脱氢酶",
+            "D．琥珀酰 CoA 合成酶",
+            "E．6-磷酸葡萄糖脱氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 24
+    },
+    {
+        "question_text": "25．1 分子乙酰 CoA 经三羧酸循环氧化后的产物是",
+        "options": [
+            "A．草酰乙酸",
+            "B．草酰乙酸和 CO2",
+            "C．CO2+H2O",
+            "D．草酰乙酸+CO2+H2O",
+            "E．2CO2+4 分子还原当量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 25
+    },
+    {
+        "question_text": "26．在下列反应中，经三羧酸循环及氧化磷酸化产生ATP 最多的步骤是",
+        "options": [
+            "A．苹果酸→草酰乙酸",
+            "B．琥珀酸→苹果酸",
+            "C．柠檬酸→异柠檬酸",
+            "D．异柠檬酸→α-酮戊二酸",
+            "E．α-酮戊二酸→琥珀酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 26
+    },
+    {
+        "question_text": "27．在下列反应中，经底物水平磷酸化产生 ATP 的步骤是",
+        "options": [
+            "A．苹果酸→草酰乙酸",
+            "B．琥珀酰 CoA→琥珀酸",
+            "C．柠檬酸→异柠檬酸",
+            "D．异柠檬酸→α-酮戊二酸",
+            "E．α-酮戊二酸→琥珀酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 27
+    },
+    {
+        "question_text": "28．1mol 丙酮酸在线粒体内氧化成 CO2 及 H2O，可生成多少 molATP",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．4",
+            "D．12．5",
+            "E．15"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 28
+    },
+    {
+        "question_text": "29．1 分子乳酸完全氧化分解可生成多少 ATP",
+        "options": [
+            "A．14/15",
+            "B．15/16",
+            "C．16/17",
+            "D．17/18",
+            "E．18/19"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 29
+    },
+    {
+        "question_text": "30．下列关于三羧酸循环的叙述中，错误的是",
+        "options": [
+            "A．是三大营养素分解产生能量的共同途径",
+            "B．乙酰 CoA 为 CO2 提供碳源",
+            "C．生糖氨基酸可通过三羧酸循环中的反应转变成葡萄糖",
+            "D．乙酰 CoA 经三羧酸循环氧化时，可提供 4 分子还原当量",
+            "E．三羧酸循环还有合成功能，可为其他代谢提供小分子原料"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 30
+    },
+    {
+        "question_text": "31．下列有关肝脏摄取葡萄糖的能力的叙述中，正确的是",
+        "options": [
+            "A．因肝脏有专一的葡萄糖激酶，肝脏摄取葡萄糖的能力很强",
+            "B．因葡萄糖可自由通过肝细胞膜，肝脏摄取葡萄糖的能力很强",
+            "C．因肝细胞膜有葡萄糖载体，肝脏摄取葡萄糖的能力很强",
+            "D．因葡萄糖-6-磷酸酶活性相对较弱，肝脏摄取葡萄糖的能力很强",
+            "E．因葡萄糖激酶的 Km 值太大，肝脏摄取葡萄糖的能力很弱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 31
+    },
+    {
+        "question_text": "32．合成糖原时，葡萄糖基的直接供体是",
+        "options": [
+            "A．CDPG",
+            "B．UDPG",
+            "C．1-磷酸葡萄糖",
+            "D．GDPG",
+            "E．6-磷酸葡萄糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 32
+    },
+    {
+        "question_text": "33．从葡萄糖合成糖原时，每加上 1 个葡萄糖残基需消耗几个高能磷酸键",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 33
+    },
+    {
+        "question_text": "34．关于糖原合成的叙述中，错误的是",
+        "options": [
+            "A．糖原合成过程中有焦磷酸生成，",
+            "B．α-1,6-葡萄糖苷酶催化形成分支",
+            "C．从 1-磷酸葡萄糖合成糖原要消耗～P",
+            "D．葡萄糖的直接供体是 UDPG",
+            "E．葡萄糖基加在糖链末端葡萄糖的 C4 上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 34
+    },
+    {
+        "question_text": "35．糖原分解所得到的初产物是",
+        "options": [
+            "A．葡萄糖",
+            "B．UDPG",
+            "C．1-磷酸葡萄糖",
+            "D．6-磷酸葡萄糖",
+            "E．1-磷酸葡萄糖及葡萄糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 35
+    },
+    {
+        "question_text": "36．丙酮酸羧化酶的活性依赖哪种变构激活剂",
+        "options": [
+            "A．ATP",
+            "B．AMP",
+            "C．乙酰 CoA",
+            "D．柠檬酸",
+            "E．异柠檬酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 36
+    },
+    {
+        "question_text": "37．丙酮酸羧化酶的辅酶是",
+        "options": [
+            "A．FAD",
+            "B．NAD+",
+            "C．生物素",
+            "D．辅酶 A",
+            "E．硫辛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 37
+    },
+    {
+        "question_text": "38．2 分子丙氨酸异生为葡萄糖需消耗几个～P",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．4",
+            "D．5",
+            "E．6"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 38
+    },
+    {
+        "question_text": "39．与糖异生无关的酶是",
+        "options": [
+            "A．醛缩酶",
+            "B．烯醇化酶",
+            "C．果糖双磷酸酶-1",
+            "D．丙酮酸激酶",
+            "E．磷酸己糖异构酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 39
+    },
+    {
+        "question_text": "40．在下列酶促反应中，与 CO2 无关的反应是",
+        "options": [
+            "A．柠檬酸合酶反应",
+            "B．丙酮酸羧化酶反应",
+            "C．异柠檬酸脱氢酶反应",
+            "D．α-酮戊二酸脱氢酶反应",
+            "E．6-磷酸葡萄糖酸脱氢酶反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 40
+    },
+    {
+        "question_text": "41．在下列酶促反应中，哪个酶催化的反应是可逆的",
+        "options": [
+            "A．己糖激酶",
+            "B．葡萄糖激酶",
+            "C．磷酸甘油酸激酶",
+            "D．6-磷酸果糖激酶-1",
+            "E．丙酮酸激酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 41
+    },
+    {
+        "question_text": "42．肝脏丙酮酸激酶特有的别构抑制剂是",
+        "options": [
+            "A．NADH",
+            "B．ATP",
+            "C．乙酰 CoA",
+            "D．丙氨酸",
+            "E．6-磷酸葡萄糖"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 42
+    },
+    {
+        "question_text": "43．下列有关丙酮酸激酶的叙述中，错误的是",
+        "options": [
+            "A．1,6-双磷酸果糖是该酶的别构激活剂",
+            "B．丙氨酸也是该酶的别构激活剂",
+            "C．蛋白激酶 A 可使此酶磷酸化而失活",
+            "D．蛋白激酶 C 可使此酶磷酸化而失活",
+            "E．胰高血糖素可抑制该酶的活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 43
+    },
+    {
+        "question_text": "44．Cori 循环是指",
+        "options": [
+            "A．肌肉内葡萄糖酵解成乳酸，有氧时乳酸重新合成糖原",
+            "B．肌肉从丙酮酸生成丙氨酸，肝内丙氨酸重新变成丙酮酸",
+            "C．肌肉内蛋白质降解生成丙氨酸，经血液循环至肝内异生为糖原",
+            "D．肌肉内葡萄糖酵解成乳酸，经血液循环至肝内异生为葡萄糖供外周组织利用",
+            "E．肌肉内蛋白质降解生成氨基酸，经转氨酶与腺苷酸脱氢酶偶联脱氨基的循环"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 44
+    },
+    {
+        "question_text": "45．下列化合物异生成葡萄糖时消耗 ATP 最多的是",
+        "options": [
+            "A．2 分子甘油",
+            "B．2 分子乳酸",
+            "C．2 分子草酰乙酸",
+            "D．2 分子琥珀酸",
+            "E．2 分子谷氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 45
+    },
+    {
+        "question_text": "46．1 分子葡萄糖有氧氧化时共有几次底物水平磷酸化",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．4",
+            "D．5",
+            "E．6"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 46
+    },
+    {
+        "question_text": "47．1 分子葡萄糖经磷酸戊糖途径代谢时可生成",
+        "options": [
+            "A．1 分子 NADH+H+",
+            "B．2 分子 NADH+H+",
+            "C．1 分子 NDPH+H+",
+            "D．2 分子 NADPH+H+",
+            "E．2 分子 CO2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 47
+    },
+    {
+        "question_text": "48．磷酸戊糖途径",
+        "options": [
+            "A．是体内产生 CO2 的主要来源",
+            "B．可生成 NADPH 供合成代谢需要",
+            "C．是体内生成糖醛酸的途径",
+            "D．饥饿时葡萄糖经此途径代谢增加",
+            "E．可生成 NADPH，后者经电子传递链可生成 ATP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 48
+    },
+    {
+        "question_text": "49．在下列代谢反应中，哪个反应是错误的",
+        "options": [
+            "A．葡萄糖→乙酰 CoA→脂酸",
+            "B．葡萄糖→乙酰 CoA→酮体",
+            "C．葡萄糖→乙酰 CoA→胆固醇",
+            "D．葡萄糖→乙酰 CoA→CO2 十 H2O",
+            "E．葡萄糖→乙酰 CoA→乙酰化反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 49
+    },
+    {
+        "question_text": "50．在血糖偏低时，大脑仍可摄取葡萄糖而肝脏则不能，其原因是",
+        "options": [
+            "A．胰岛素的作用",
+            "B．已糖激酶的 Km 低",
+            "C．葡萄糖激酶的 Km 低",
+            "D．血脑屏障在血糖低时不起作用",
+            "E．血糖低时，肝糖原自发分解为葡萄糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 50
+    },
+    {
+        "question_text": "51．下列有关糖异生的叙述中，哪项是正确的",
+        "options": [
+            "A．糖异生过程中有一次底物水平磷酸化",
+            "B．乙酰 CoA 能抑制丙酮酸羧化酶",
+            "C．2,6-双磷酸果糖是丙酮酸羧化酶的激活剂",
+            "D．磷酸烯醇式丙酮酸羧激酶受 ATP 的别构调节",
+            "E．胰高血糖素因降低丙酮酸激酶的活性而加强糖异生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 51
+    },
+    {
+        "question_text": "52．下列有关草酰乙酸的叙述中，哪项是错误的",
+        "options": [
+            "A．草酰乙酸参与脂酸的合成",
+            "B．草酰乙酸是三羧酸循环的重要中间产物",
+            "C．在糖异生过程中，草酰乙酸是在线粒体内产生的",
+            "D．草酰乙酸可自由通过线粒体膜，完成还原当量的转移",
+            "E．在体内有一部分草酰乙酸可在线粒体内转变成磷酸烯醇式丙酮酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 52
+    },
+    {
+        "question_text": "53．下列哪条途径与核酸合成密切相关",
+        "options": [
+            "A．糖酵解",
+            "B．糖异生",
+            "C．糖原合成",
+            "D．三羧酸循环",
+            "E．磷酸戊糖途径"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 53
+    },
+    {
+        "question_text": "54．乳酸循环不涉及下列哪条途径",
+        "options": [
+            "A．糖酵解",
+            "B．糖异生",
+            "C．磷酸戊糖途径",
+            "D．肝糖原分解",
+            "E．肝糖原合成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 54
+    },
+    {
+        "question_text": "55．肾上腺素分泌时，并不发生下列哪种现象?",
+        "options": [
+            "A．肝糖原分解加强",
+            "B．肌糖原分解加强",
+            "C．血中乳酸浓度增高",
+            "D．糖异生受到抑制",
+            "E．脂肪动员加速"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 55
+    },
+    {
+        "question_text": "56．下列哪条不是肌肉糖代谢的特点",
+        "options": [
+            "A．肌肉内糖异生的能力很强",
+            "B．磷酸化酶 a 的活性与 AMP 无关",
+            "C．肌糖原代谢的两个关键酶主要受肾上腺素的调节",
+            "D．AMP 与磷酸化酶 b 结合后，可别构激活磷酸化酶 b",
+            "E．磷酸化酶 b 激酶的δ亚基就是钙调蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 56
+    },
+    {
+        "question_text": "57．下列哪种酶催化二磷酸化合物的形成",
+        "options": [
+            "A．丙酮酸激酶",
+            "B．烯醇化酶",
+            "C．磷酸己糖异构酶",
+            "D．磷酸丙糖异构酶",
+            "E．3-磷酸甘油酸脱氢酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 57
+    },
+    {
+        "question_text": "58．下列哪种酶在糖酵解和糖异生中都有催化作用",
+        "options": [
+            "A．丙酮酸激酶",
+            "B．丙酮酸羧化酶",
+            "C．果糖双磷酸酶-1",
+            "D．已糖激酶",
+            "E．3-磷酸甘油醛脱氢酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 58
+    },
+    {
+        "question_text": "59．胰岛素降低血糖是多方面作用的结果，但不包括",
+        "options": [
+            "A．促进葡萄糖的转运",
+            "B．加强糖原的合成",
+            "C．加速糖的有氧氧化",
+            "D．抑制糖原的分解",
+            "E．加强脂肪动员"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 59
+    },
+    {
+        "question_text": "60．糖异生途径是",
+        "options": [
+            "A．可逆反应的过程",
+            "B．没有膜障",
+            "C．不需耗能",
+            "D．可在肾的线粒体及胞液中进行",
+            "E．肌细胞缺乏果糖双磷酸酶-1 而不能糖异生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 60
+    },
+    {
+        "question_text": "61．下列哪种酶缺乏可引起蚕豆病",
+        "options": [
+            "A．内酯酶",
+            "B．磷酸戊糖异构酶",
+            "C．磷酸戊糖差向酶",
+            "D．转酮基酶",
+            "E．6-磷酸葡萄糖脱氢酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 61
+    },
+    {
+        "question_text": "62．正常人清晨空腹血糖浓度为：",
+        "options": [
+            "A．1．22-3．56",
+            "B．1．22-6．11",
+            "C．3．89-6．11mmol/l",
+            "D．3．89-10．03",
+            "E．1．22-10．03"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 62
+    },
+    {
+        "question_text": "63．糖代谢中间产物中含有高能磷酸键的是：",
+        "options": [
+            "A．6-磷酸葡萄糖",
+            "B．6-磷酸果糖",
+            "C．1，6-二磷酸果糖",
+            "D．3-磷酸甘油醛",
+            "E．1．3-二磷酸甘油酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 63
+    },
+    {
+        "question_text": "丙酮酸氧化脱羧生成乙酰辅酶 A 与许多维生素有关，不包括下列哪一个：",
+        "options": [
+            "A．B1",
+            "B．B2",
+            "C．B6",
+            "D．PP",
+            "E．泛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 64
+    },
+    {
+        "question_text": "65．在糖原合成中作为葡萄糖载体的是：",
+        "options": [
+            "A．ADP",
+            "B．GDP",
+            "C．CDP",
+            "D．TDP",
+            "E．UDP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 65
+    },
+    {
+        "question_text": "66．下列哪个激素可使血糖浓度下降？",
+        "options": [
+            "A．肾上腺素",
+            "B．胰高血糖素",
+            "C．生长素",
+            "D．糖皮质激素",
+            "E．胰岛素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 66
+    },
+    {
+        "question_text": "67．下列哪一个酶与丙酮酸异生成糖无关？",
+        "options": [
+            "A．果糖二磷酸酶",
+            "B．丙酮酸激酶",
+            "C．丙酮酸羧化酶",
+            "D．醛缩酶",
+            "E．磷酸烯醇式丙酮酸羧激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 67
+    },
+    {
+        "question_text": "68．肌糖原分解不能直接补充血糖的原因是：",
+        "options": [
+            "A．肌肉组织是贮存葡萄糖的器官",
+            "B．肌肉组织缺乏葡萄糖激酶",
+            "C．肌肉组织缺乏葡萄糖-6-磷酸酶",
+            "D．肌肉组织缺乏磷酸酶",
+            "E．肌糖原分解的产物是乳酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 68
+    },
+    {
+        "question_text": "69．葡萄糖与甘油之间的代谢中间产物是：",
+        "options": [
+            "A．丙酮酸",
+            "B．3-磷酸甘油酸",
+            "C．磷酸二羟丙酮",
+            "D．磷酸烯醇式丙酮酸",
+            "E．乳酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 69
+    },
+    {
+        "question_text": "70．磷酸果糖激酶的最强变构激活剂是：",
+        "options": [
+            "A．AMP",
+            "B．ADP",
+            "C．ATP",
+            "D．2，6-二磷酸果糖",
+            "E．1，6-二磷酸果糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 70
+    },
+    {
+        "question_text": "71．三羧酸循环和有关的呼吸链反应中产生 ATP 最多的步骤是：",
+        "options": [
+            "A．柠檬酸→异柠檬酸",
+            "B．异柠檬酸→α-酮戊二酸",
+            "C．α-酮戊二酸→琥珀酸",
+            "D．琥珀酸→苹果酸",
+            "E．苹果酸→草酰乙酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 71
+    },
+    {
+        "question_text": "72．丙酮酸羧化酶的活性可被下列哪种物质激活？",
+        "options": [
+            "A．脂肪酰辅酶 A",
+            "B．磷酸二羟丙酮",
+            "C．异柠檬酸",
+            "D．乙酰辅酶 A",
+            "E．柠檬酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 72
+    },
+    {
+        "question_text": "73．下列化合物异生成葡萄糖时净消耗 ATP 最多的是：",
+        "options": [
+            "A．2 分子甘油",
+            "B．2 分子乳酸",
+            "C．2 分子草酰乙酸",
+            "D．2 分子琥珀酸",
+            "E．2 分子α-酮戊二酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 73
+    },
+    {
+        "question_text": "74．位于糖酵解、糖异生、磷酸戊糖途径、糖原合成和糖原分解各条代谢途径交汇点上的化合物是：",
+        "options": [
+            "A．1-磷酸葡萄糖",
+            "B．6-磷酸葡萄糖",
+            "C．1，6-二磷酸果糖",
+            "D．3-磷酸甘油酸",
+            "E．6-磷酸果糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 74
+    },
+    {
+        "question_text": "75．红细胞中还原型谷胱甘肽不足，易引起溶血，原因是缺乏：",
+        "options": [
+            "A．葡萄糖-6-磷酸酶",
+            "B．果糖二磷酸酶",
+            "C．磷酸果糖激酶",
+            "D．6-磷酸葡萄糖脱氢酶",
+            "E．葡萄糖激酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 75
+    },
+    {
+        "question_text": "76．糖蛋白的多肽链骨架上共价连接了一些寡糖链，其中常见的单糖有 7 种，不包括下列哪一种:",
+        "options": [
+            "A．葡萄糖",
+            "B．半乳糖",
+            "C．果糖",
+            "D．甘露糖",
+            "E．岩藻糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 76
+    },
+    {
+        "question_text": "77．有关糖酵解途径的生理意义叙述中错误的是：",
+        "options": [
+            "A．成熟红细胞 ATP 是由糖酵解提供",
+            "B．缺氧性疾病，由于酵解减少，易产生代谢性碱中毒",
+            "C．神经细胞，骨髓等糖酵解旺盛",
+            "D．糖酵解可迅速提供 ATP",
+            "E．肌肉剧烈运动时，其能量由糖酵解供给"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 77
+    },
+    {
+        "question_text": "78．糖原分子中一个葡萄糖单位经糖酵解途径分解成乳酸时能净产生多少 ATP：",
+        "options": [
+            "A．1",
+            "B．2",
+            "C．3",
+            "D．4",
+            "E．5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 78
+    },
+    {
+        "question_text": "79．下列哪一项是糖酵解途径的关键酶：",
+        "options": [
+            "A．乳酸脱氢酶",
+            "B．果糖双磷酸酶",
+            "C．磷酸果糖激酶-1",
+            "D．磷酸果糖激酶-2",
+            "E．3-磷酸甘油醛脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 79
+    },
+    {
+        "question_text": "80．下述糖异生的生理意义中哪一项是错误的：",
+        "options": [
+            "A．维持血糖浓度恒定",
+            "B．补充肝糖原",
+            "C．调节酸碱平衡",
+            "D．防止乳酸酸中毒",
+            "E．蛋白质合成加强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 80
+    },
+    {
+        "question_text": "81．一分子葡萄糖彻底氧化分解可能生成多少 ATP：",
+        "options": [
+            "A．22",
+            "B．26",
+            "C．30",
+            "D．34",
+            "E．38"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 81
+    },
+    {
+        "question_text": "一分子葡萄糖彻底氧化分解可能生成多少 ATP：",
+        "options": [
+            "A．22",
+            "B．26",
+            "C．32",
+            "D．34",
+            "E．38"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 82
+    },
+    {
+        "question_text": "一分子葡萄糖彻底氧化分解可能生成多少 ATP：",
+        "options": [
+            "A．22/24",
+            "B．26/28",
+            "C．30/32",
+            "D．34/36",
+            "E．36/38"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 83
+    },
+    {
+        "question_text": "下述丙酮酸脱氢酶复合体组成中辅酶，不包括哪种:",
+        "options": [
+            "A．TPP",
+            "B．FAD",
+            "C．NAD",
+            "D．HSCoA",
+            "E．NADP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 84
+    },
+    {
+        "question_text": "85．酵解过程中可被别构调节的限速酶是",
+        "options": [
+            "A．3-磷酸甘油醛脱氢酶",
+            "B．6-磷酸果糖-l-激酶",
+            "C．乳酸脱氢酶",
+            "D．醛缩酶",
+            "E．磷酸已糖异构酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 85
+    },
+    {
+        "question_text": "86．较长饥饿时，血糖浓度的维持主要靠：",
+        "options": [
+            "A．肌糖原分解",
+            "B．肝糖原分解",
+            "C．酮体转变成糖",
+            "D．糖异生作用",
+            "E．组织中葡萄糖的利用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 86
+    },
+    {
+        "question_text": "87．下述哪一项不是糖异生途径的关键酶：",
+        "options": [
+            "A．丙酮酸羧化酶",
+            "B．丙酮酸激酶",
+            "C．PEP 羧激酶",
+            "D．果糖双磷酸酶-1",
+            "E．葡萄糖-6-磷酸酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 87
+    },
+    {
+        "question_text": "88．磷酸戊糖途径的生理意义是生成：",
+        "options": [
+            "A．5-磷酸核糖和 NADH+H+",
+            "B．6-磷酸果糖和 NADPH+H+",
+            "C．3-磷酸甘油醛和 NADH+H+",
+            "D．5-磷酸核糖和 NADPH+H+",
+            "E．6-磷酸葡萄糖酸和 NADH+H+"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 88
+    },
+    {
+        "question_text": "89．下述正常人摄取糖类过多时的几种代谢途径中，哪一项是错误的：",
+        "options": [
+            "A．糖转变为甘油",
+            "B．糖转变为蛋白质",
+            "C．糖转变为脂肪酸",
+            "D．糖氧化分解成 CO2，H2O",
+            "E．糖转变成糖原"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 89
+    },
+    {
+        "question_text": "90．能降低血糖水平的激素是：",
+        "options": [
+            "A．胰岛素",
+            "B．胰高血糖素",
+            "C．糖皮质激素",
+            "D．肾上腺素",
+            "E．生长激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 90
+    },
+    {
+        "question_text": "91．含有高能磷酸键的糖代谢中间产物是：",
+        "options": [
+            "A．6-磷酸果糖",
+            "B．磷酸烯醇式丙酮酸",
+            "C．3-磷酸甘油醛",
+            "D．磷酸二羟丙酮",
+            "E．6-磷酸葡萄糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 91
+    },
+    {
+        "question_text": "92．糖代谢中与底物水平磷酸化有关的化合物是：",
+        "options": [
+            "A．3-磷酸甘油醛",
+            "B．3-磷酸甘油酸",
+            "C．6-磷酸葡萄糖酸",
+            "D．1，3-二磷酸甘油酸",
+            "E．2-磷酸甘油酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 92
+    },
+    {
+        "question_text": "93．肝糖原合成中葡萄糖载体是：",
+        "options": [
+            "A．CDP",
+            "B．ATP",
+            "C．UDP",
+            "D．TDP",
+            "E．GDP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 93
+    },
+    {
+        "question_text": "94．不能补充血糖的代谢过程是：",
+        "options": [
+            "A．肌糖原分解",
+            "B．肝糖原分解",
+            "C．糖类食物消化吸收",
+            "D．糖异生作用",
+            "E．以上都可以"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "94",
+        "number": 94
+    }
+]

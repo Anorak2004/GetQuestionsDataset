@@ -1,0 +1,562 @@
+[
+    {
+        "question_text": "1.对结核杆菌和麻风杆菌都有杀菌作用的药物是",
+        "options": [
+            "A.异烟肼",
+            "B.乙胺丁醇",
+            "C.利福平",
+            "D.链霉素",
+            "E.卡那霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 1
+    },
+    {
+        "question_text": "2.引起乳酸血症的降血糖药",
+        "options": [
+            "A.甲苯磺丁脲",
+            "B.甲福明",
+            "C.氯磺丙脲",
+            "D.格列本脲",
+            "E.胰岛素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 2
+    },
+    {
+        "question_text": "3.治疗军团菌病的首选药是",
+        "options": [
+            "A.庆大霉素",
+            "B.红霉素",
+            "C.四环素",
+            "D.氯霉素",
+            "E.青霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 3
+    },
+    {
+        "question_text": "4.治疗金黄色葡萄球菌性骨髓炎的首选药是",
+        "options": [
+            "A.氨苄西林",
+            "B.红霉素",
+            "C.青霉素G",
+            "D.克林霉素",
+            "E.氯霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 4
+    },
+    {
+        "question_text": "5.氟喹诺酮类抗菌机制是",
+        "options": [
+            "A.抑制胞壁粘肽合成酶",
+            "B.与核蛋白体50S亚基结合,抑制蛋白质合成",
+            "C.抑制敏感细菌依赖DNA的RNA多聚酶",
+            "D.抑制二氢叶酸合成酶",
+            "E.抑制DNA回旋酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗深部真菌感染首选药",
+        "options": [
+            "A.克霉唑",
+            "B.两性霉素B",
+            "C.制霉菌素",
+            "D.灰黄霉素",
+            "E.氛胞嘧啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 6
+    },
+    {
+        "question_text": "7.易引起二重感染的抗生素",
+        "options": [
+            "A.阿米卡星",
+            "B.氨苄西林",
+            "C.四环素",
+            "D.庆大霉素",
+            "E.两性霉素B"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 7
+    },
+    {
+        "question_text": "8.具有抗阿米巴、抗滴虫、抗厌氧菌的药物是",
+        "options": [
+            "A.四环素",
+            "B.土霉素",
+            "C.巴龙霉素",
+            "D.甲硝唑",
+            "E.呋喃妥因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 8
+    },
+    {
+        "question_text": "9.控制疟疾症状的首选药是",
+        "options": [
+            "A.氯喹",
+            "B.奎宁",
+            "C.伯氯喹",
+            "D.青蒿素",
+            "E.乙胺嘧啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 9
+    },
+    {
+        "question_text": "10.驱鞭虫的首选药是",
+        "options": [
+            "A.哌嗪",
+            "B.左旋咪唑",
+            "C.噻嘧啶",
+            "D.甲苯咪唑",
+            "E.氯硝柳胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 10
+    },
+    {
+        "question_text": "11.属周期特异性的抗肿瘤药",
+        "options": [
+            "A.阿糖泡苷",
+            "B.环磷酰胺",
+            "C.丝裂霉素C",
+            "D.阿霉素",
+            "E.博来霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 11
+    },
+    {
+        "question_text": "12.可引起耳毒性的抗生素是",
+        "options": [
+            "A.青霉素G",
+            "B.红霉素",
+            "C.四环素",
+            "D.庆大霉素",
+            "E.克林霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 12
+    },
+    {
+        "question_text": "13.香豆素类抗凝血作用机制主要是",
+        "options": [
+            "A.激活血中抗凝血酶III",
+            "B.与血中钙形成络合物",
+            "C.抑制纤溶酶原转变为纤溶酶",
+            "D.抑制肝脏凝血因子的合成",
+            "E.抑制凝血酶原转变为凝血酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 13
+    },
+    {
+        "question_text": "14.肝素的错误叙述项是",
+        "options": [
+            "A.口服有效",
+            "B.具有降血脂作用",
+            "C.体内、外都具有抗凝血作用",
+            "D.抗凝血作用出现快而强",
+            "E.过量可用鱼精蛋白对抗"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 14
+    },
+    {
+        "question_text": "15.扩张外周小动脉较强,降低血压,伴有反射性心率加快和心输出量增加的钙拮抗药是",
+        "options": [
+            "A.维拉帕米",
+            "B.硝苯地平",
+            "C.氨氯地平",
+            "D.地尔硫卓越",
+            "E.尼莫地平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 15
+    },
+    {
+        "question_text": "16.易引起锥体外系反应的药",
+        "options": [
+            "A.地西泮",
+            "B.丙米嗪",
+            "C.氟奋乃静",
+            "D.多巴胺",
+            "E.吲哚美辛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 16
+    },
+    {
+        "question_text": "17.尼可刹米的错误叙述项是",
+        "options": [
+            "A.直接兴奋延髓呼吸中枢",
+            "B.能反射性兴奋呼吸中枢",
+            "C.过量引起血压升高甚至惊厥",
+            "D.作用持续时间长",
+            "E.用于各种原因所致的中枢性呼吸抑制"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 17
+    },
+    {
+        "question_text": "18.哌替啶的错误叙述项是",
+        "options": [
+            "A.无镇咳作用",
+            "B.成瘾性比吗啡轻",
+            "C.镇痛作用比吗啡弱",
+            "D.持续时间比吗啡短",
+            "E.等效镇痛剂量时抑制呼吸比吗啡弱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 18
+    },
+    {
+        "question_text": "19.可引起肾素分泌减少的降压药是",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.肼屈嗪",
+            "C.卡托普利",
+            "D.普萘洛尔",
+            "E.硝普钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 19
+    },
+    {
+        "question_text": "20.不用于治疗变异型心绞痛的药物是",
+        "options": [
+            "A.硝酸甘油",
+            "B.硝苯地平",
+            "C.硝酸异山梨酯",
+            "D.地尔硫卓",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 20
+    },
+    {
+        "question_text": "21.选择性舒张脑血管作用较强,能增加脑血流量的钙拮抗药是",
+        "options": [
+            "A.维拉帕米",
+            "B.尼莫地平",
+            "C.地尔硫卓",
+            "D.硝苯地平",
+            "E.尼群地平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 21
+    },
+    {
+        "question_text": "22.可抑制递质代谢酶又能直接激动受体的药物是",
+        "options": [
+            "A.毒扁豆碱",
+            "B.毛果芸香碱",
+            "C.阿托品",
+            "D.间羟胺",
+            "E.新斯的明"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 22
+    },
+    {
+        "question_text": "23.起效最快的抗心绞痛药是",
+        "options": [
+            "A.硝酸异山梨酯",
+            "B.戊四硝酯",
+            "C.普萘洛尔",
+            "D.硝酸甘油",
+            "E.地尔硫卓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 23
+    },
+    {
+        "question_text": "24.不用于治疗脑水肿的利尿脱水药是",
+        "options": [
+            "A.呋噻米",
+            "B.甘露醇",
+            "C.山梨醇",
+            "D.乙酰唑胺",
+            "E.螺内酯"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 24
+    },
+    {
+        "question_text": "25.可引起听力减退或耳聋的利尿药是",
+        "options": [
+            "A.呋噻米",
+            "B.氢氯噻嗪",
+            "C.螺内酯",
+            "D.氨苯蝶啶",
+            "E.乙酰唑胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 25
+    },
+    {
+        "question_text": "26.雷尼替丁抑制胃酸分泌的机制是",
+        "options": [
+            "A.阻断M胆碱受体",
+            "B.阻断受体β",
+            "C.抑制胃壁细胞泵H+",
+            "D.阻断H1受体",
+            "E.阻断H2受体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 26
+    },
+    {
+        "question_text": "27.不用于治疗哮喘发作状态的药物是",
+        "options": [
+            "A.倍氯米松",
+            "B.沙丁胺醇",
+            "C.氨茶碱",
+            "D.异丙托溴铵",
+            "E.色甘酸钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 27
+    },
+    {
+        "question_text": "28.不用于治疗心房纤颤的药",
+        "options": [
+            "A.地高辛",
+            "B.利多卡因",
+            "C.奎尼丁",
+            "D.胺碘酮",
+            "E.普罗帕酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 28
+    },
+    {
+        "question_text": "29.具有首关(首过)效应的给药途径是",
+        "options": [
+            "A.口服给药",
+            "B.舌下给药",
+            "C.静脉给药",
+            "D.直肠给药",
+            "E.呼吸道给药"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 29
+    },
+    {
+        "question_text": "30.药物与血浆蛋白相结合后,可使",
+        "options": [
+            "A.药物作用增强",
+            "B.药物排泄加快",
+            "C.药物代谢加快",
+            "D.药物分布加快",
+            "E.暂时失去药理活性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 30
+    },
+    {
+        "question_text": "31.对左旋多巴的错误叙述项",
+        "options": [
+            "A.改善肌肉震颤效差",
+            "B.显效快",
+            "C.对年轻的轻症较好",
+            "D.服后药物进入脑内少",
+            "E.改善肌僵直及运动困难较好"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 31
+    },
+    {
+        "question_text": "32.某药的t1/2为10一次给药后在体内基本消除的时间",
+        "options": [
+            "A.0.5d",
+            "B.ld",
+            "C.1.5d",
+            "D.2d",
+            "E.3d"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 32
+    },
+    {
+        "question_text": "33.阿托品作用与M胆碱受体无关的是",
+        "options": [
+            "A.解除内脏平滑肌痉挛",
+            "B.抑制腺体分泌",
+            "C.眼调节麻痹",
+            "D.心率加快",
+            "E.解除小血管痉挛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列有关生物利(可)用度错误叙述项是",
+        "options": [
+            "A.首关(过)效应可影响生物利用度",
+            "B.指药物被机体吸收的程度",
+            "C.口服吸收量与服药量的比值",
+            "D.指药物被机体吸收和消除的程度",
+            "E.作为检验药品质量的指标之一"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 34
+    },
+    {
+        "question_text": "35.肝药酶的特点是",
+        "options": [
+            "A.专一性低,活性有限,个体差异大",
+            "B.专一性低,活性很高,个体差异小",
+            "C.专一性高,活性很高,个体差异大",
+            "D.专一性高,活性有限,个体差异大",
+            "E.专一性高,活性很高,个体差异小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列易通过血脑和治盘屏障的药物是",
+        "options": [
+            "A.新斯的明",
+            "B.阿托品",
+            "C.肾上腺素",
+            "D.多巴胺",
+            "E.去甲肾上腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列一级动力学消除的错误叙述项是",
+        "options": [
+            "A.血浆半衰期恒定",
+            "B.单位时间消除恒比的药量",
+            "C.血药浓度的对数值与时间呈直线关系",
+            "D.血药浓度越高,单位时间内消除药量越多",
+            "E.单位时间内消除恒量药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 37
+    },
+    {
+        "question_text": "38.长期应用突然停药易引起反跳现象的药物是",
+        "options": [
+            "A.新斯的明",
+            "B.阿托品",
+            "C.丙胺太林",
+            "D.麻黄碱",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 38
+    },
+    {
+        "question_text": "39.碱化尿液,使弱酸性药肾排泄时可使",
+        "options": [
+            "A.解离多,再吸收多,排泄慢",
+            "B.解离多,再吸收少,排泄快",
+            "C.解离多,再吸收多,排泄快",
+            "D.解离少,再吸收多,排泄慢",
+            "E.解离少,再吸收少,排泄快"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 39
+    },
+    {
+        "question_text": "40.影响缩宫素对子宫平滑肌作用的因素是",
+        "options": [
+            "A.孕激素可提高子宫平滑肌敏感性",
+            "B.谁激素可降低子宫平滑肌敏感性",
+            "C.妊早期提高子宫平滑肌敏感性",
+            "D.妊娠后期降低子宫平滑肌敏感性",
+            "E.小剂量加强子宫节律性收缩,大剂量可引起子宫强直性收缩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "40",
+        "number": 40
+    }
+]

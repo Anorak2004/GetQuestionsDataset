@@ -1,0 +1,730 @@
+[
+    {
+        "question_text": "1.检验高压灭菌效果最可靠的方法",
+        "options": [
+            "A.作细菌培养",
+            "B.包内和包外各一条灭菌指示纸带",
+            "C.置入包内的升华硫磺是否融化",
+            "D.观察手术切口有无感染",
+            "E.置入包内的明矶粉是否液化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 1
+    },
+    {
+        "question_text": "2.手术区皮肤消毒范围应包括切口周围",
+        "options": [
+            "A.5cm",
+            "B.10cm",
+            "C.15cm",
+            "D.20cm",
+            "E.30cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 2
+    },
+    {
+        "question_text": "3.特殊感染病人用过的敷料，最好的处理方法是",
+        "options": [
+            "A.紫外线照射",
+            "B.石炭酸漫泡",
+            "C.烈日暴晒",
+            "D.流动蒸汽灭菌",
+            "E.焚烧法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 3
+    },
+    {
+        "question_text": "4.戴无菌手套时只允许已消毒手指接触手套哪面？",
+        "options": [
+            "A.手背部位",
+            "B.手套掌背部位",
+            "C.套口翻转部位内面",
+            "D.套转部位外面",
+            "E.以上都正确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 4
+    },
+    {
+        "question_text": "5.化学消毒液洗手的主攻目标是常驻菌，它常生于",
+        "options": [
+            "A.毛汗、皮脂腺内",
+            "B.反肤表面",
+            "C.皮肤皱处",
+            "D.指甲下",
+            "E.以上都正确"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 5
+    },
+    {
+        "question_text": "6.压力蒸汽灭菌的优点不包括",
+        "options": [
+            "A.适用于耐高湿物品的灭菌",
+            "B.穿透力强",
+            "C.灭菌快速",
+            "D.不遗留毒性",
+            "E.能杀灭所有微生物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 6
+    },
+    {
+        "question_text": "7.用煮沸法杀灭细菌繁殖体所需时间是",
+        "options": [
+            "A.30分钟",
+            "B.60分钟",
+            "C.20分钟",
+            "D.15～20分钟",
+            "E.15分钟"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 7
+    },
+    {
+        "question_text": "8.手术过程中不慎被缝针刺破手套后应",
+        "options": [
+            "A.用3%碘酒擦拭",
+            "B.用3%碘酒擦拭后更换手套",
+            "C.更换手套及套袖",
+            "D.用碘酒擦拭后更换手套及袖套",
+            "E.重新洗手更换手套"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪类物品可在术中使用？",
+        "options": [
+            "A.无菌包的包布稍有潮湿",
+            "B.灭菌效果基本肯定",
+            "C.灭菌后有效时间基本肯定",
+            "D.无菌包外层仅有W1cm大小破洞",
+            "E.限制区内的灭菌包"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 9
+    },
+    {
+        "question_text": "10.手臂消毒法能消灭",
+        "options": [
+            "A.皮肤毛囊内的细菌",
+            "B.皮肤皮脂腺内的细菌",
+            "C.皮肤汗腺内的细菌",
+            "D.寄皮肤表面的细菌",
+            "E.皮肤深层细菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 10
+    },
+    {
+        "question_text": "11.用煮沸法灭菌，杀灭带芽胞的细菌至少煮沸",
+        "options": [
+            "A.30'",
+            "B.50'",
+            "C.100'",
+            "D.120'",
+            "E.180’"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 11
+    },
+    {
+        "question_text": "12.压力锅作煮沸灭菌，蒸汽压力127.5Kpa,锅内最高温度可达124°C，灭菌时间为",
+        "options": [
+            "A.5'",
+            "B.10'",
+            "C.201",
+            "D.30'",
+            "E.60'"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 12
+    },
+    {
+        "question_text": "13.物品经高压灭菌后，超过下列时间不能使用",
+        "options": [
+            "A.2天",
+            "B.4天",
+            "C.8天",
+            "D.10天",
+            "E.14天"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列那种物品禁用高压蒸汽灭菌法",
+        "options": [
+            "A.金属器械",
+            "B.橡皮制品",
+            "C.搪瓷",
+            "D.敷料",
+            "E.苯类"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 14
+    },
+    {
+        "question_text": "15.用2%中性戊二醛水溶液浸泡刀片、剪刀，灭菌时间为",
+        "options": [
+            "A.1'",
+            "B.2'",
+            "C.3'",
+            "D.5'",
+            "E.10'"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 15
+    },
+    {
+        "question_text": "16.HBSAg阳性病人术后，地面和手术台可撒布0.1%次氯酸钠水溶液要多久才能进行清洁和清拭",
+        "options": [
+            "A.10'",
+            "B.20'",
+            "C.30'",
+            "D.40'",
+            "E.50'"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 16
+    },
+    {
+        "question_text": "17.气性坏疽手术后，进行手术消毒，按每立方米空间用甲醛溶液2ml和高锰酸钾1克即能产生蒸汽，多久才能开窗通风",
+        "options": [
+            "A.1小时",
+            "B.2小时",
+            "C.5小时",
+            "D.6小时",
+            "E.12小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 17
+    },
+    {
+        "question_text": "18.手术中如手套破损或接触到有菌区时应",
+        "options": [
+            "A.重新洗手",
+            "B.以碘酒、酒精消毒",
+            "C.终止手术",
+            "D.另换无菌手套",
+            "E.再加戴一双手套"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 18
+    },
+    {
+        "question_text": "19.本扎溴铵（新洁尔灭）消毒液用于已消毒的持物浸泡，其浓度为",
+        "options": [
+            "A.5%",
+            "B.2%",
+            "C.1%",
+            "D.0.10%",
+            "E.0.50%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 19
+    },
+    {
+        "question_text": "20.手术中切开空腔脏器前，应先",
+        "options": [
+            "A.止血",
+            "B.用纱布垫保护好周围组织",
+            "C.用70%酒精再消毒一次",
+            "D.挤空脏器内容物",
+            "E.以上都无必要"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 20
+    },
+    {
+        "question_text": "21.高原地区用煮沸法灭菌时，海拔高度每增高300m，灭菌时间需延长",
+        "options": [
+            "A.1'",
+            "B.2'",
+            "C.3'",
+            "D.5'",
+            "E.10'"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 21
+    },
+    {
+        "question_text": "22.用高压蒸气灭菌，蒸气压力达104.0?137.3kpa，温度为121?126C，要杀灭包括细菌、芽胞在内的一切微生物，需维持",
+        "options": [
+            "A.30'",
+            "B.40'",
+            "C.60'",
+            "D.10'",
+            "E.15'"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 22
+    },
+    {
+        "question_text": "23.需灭菌的各种包裹不宜过大，体积（长X宽X高）上限为",
+        "options": [
+            "A.20cmX15cmX15cm",
+            "B.20cmX20cmX15cm",
+            "C.40cmX30cmX30cm",
+            "D.30cmX10cmX10cm",
+            "E.25cmX25cmX25cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 23
+    },
+    {
+        "question_text": "24.用煮沸法灭菌应在水煮沸后放入的物品是",
+        "options": [
+            "A.器皿类",
+            "B.缝线和橡胶类",
+            "C.搪瓷",
+            "D.金属器械",
+            "E.玻璃制品"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 24
+    },
+    {
+        "question_text": "25.用甲醛蒸气熏蒸以每0.01m3加高锰酸钾10g及40%甲醛4ml计算，灭菌需",
+        "options": [
+            "A.2~3小时",
+            "B.3~4小时",
+            "C.5~6小时",
+            "D.6~10小时",
+            "E.6~12小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 25
+    },
+    {
+        "question_text": "26.对婴儿面部皮肤、口腔、肛门、外生殖器等部位消毒可选用",
+        "options": [
+            "A.2.5?3%碘酊",
+            "B.0.75%吡咯烷酮碘",
+            "C.70%酒精",
+            "D.龙胆紫液",
+            "E.95%酒精"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 26
+    },
+    {
+        "question_text": "27.供皮区的消毒可用",
+        "options": [
+            "A.2.5?3%碘酊",
+            "B.0.75%吡咯烷酮碘",
+            "C.70%酒精",
+            "D.龙胆紫液",
+            "E.95%酒精"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 27
+    },
+    {
+        "question_text": "28.大单布其头端应盖过麻醉架，两侧和足端应垂下超过手术台边",
+        "options": [
+            "A.10cm",
+            "B.5cm",
+            "C.15cm",
+            "D.20cm",
+            "E.30cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 28
+    },
+    {
+        "question_text": "29.肥皂水刷手法，用无菌毛刷蘸浓肥皂水洗手和臂，应从指尖至肘上",
+        "options": [
+            "A.5cm",
+            "B.10cm",
+            "C.15cm",
+            "D.12cm",
+            "E.20cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 29
+    },
+    {
+        "question_text": "30.肥皂水刷手法需将手和前臂浸泡在70%酒精内5分钟，浸泡范围要到肘上",
+        "options": [
+            "A.2cm",
+            "B.5cm",
+            "C.6cm",
+            "D.8cm",
+            "E.10cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 30
+    },
+    {
+        "question_text": "31.可用2.5-3%碘酊消毒的部位是",
+        "options": [
+            "A.面部皮肤",
+            "B.肛门和外生殖器",
+            "C.婴儿腹部皮肤",
+            "D.成人脐部",
+            "E.口腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 31
+    },
+    {
+        "question_text": "32.作皮肤切口及缝合皮肤之前再涂擦消毒皮肤一次需用",
+        "options": [
+            "A.70%酒精",
+            "B.2?3%碘酊",
+            "C.0.5%碘尔康",
+            "D.0.9%生理盐水",
+            "E.0.75%吡咯烷酮碘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 32
+    },
+    {
+        "question_text": "33.凡属绿脓杆菌感染、破伤风或气性坏疽病人所用金属物品冲洗干净后置于20%碘复原液内需浸泡",
+        "options": [
+            "A.30'",
+            "B.1小时",
+            "C.1.5小时",
+            "D.50'",
+            "E.2小时"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 33
+    },
+    {
+        "question_text": "34.术室内空气消毒，100m3空间可用80%乳酸12ml倒入锅内，下燃酒精灯，待蒸发完后将火熄灭，需紧闭门窗多久才能打开通风",
+        "options": [
+            "A.5'",
+            "B.10'",
+            "C.15'",
+            "D.20'",
+            "E.30'"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 34
+    },
+    {
+        "question_text": "35.紫外线消毒手术室空气，通常以每平方米地面积使用紫外线电功率1?2W计算，照射2小时，照射距离不超过",
+        "options": [
+            "A.0.5米",
+            "B.1米",
+            "C.1.5米",
+            "D.2米",
+            "E.3米"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 35
+    },
+    {
+        "question_text": "36.甲醛浸泡树脂类、塑料类以及有机玻璃制品的消毒其浓度为",
+        "options": [
+            "A.0.10%",
+            "B.1%",
+            "C.2%",
+            "D.5%",
+            "E.10%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 36
+    },
+    {
+        "question_text": "37.有关参观手术人员的要求，那种是错误的",
+        "options": [
+            "A.不宜超过2人",
+            "B.不可靠近手术人员",
+            "C.不可站得太高",
+            "D.不可经常在室内走动",
+            "E.不必换上手术室的清洁鞋衣裤和口罩"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 37
+    },
+    {
+        "question_text": "38.穿无菌手术衣和带无菌手套后，被认为有菌的地带是",
+        "options": [
+            "A.肩部以下，腰部以上",
+            "B.胸部、腰部",
+            "C.肩部以上，腰部以上",
+            "D.肩部以上，腰部以下",
+            "E.胸部以上，腰部以下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 38
+    },
+    {
+        "question_text": "39.关于水中加碳酸氢钠煮沸消毒，下列哪项是错误的",
+        "options": [
+            "A.可缩短煮沸灭菌时间至10min",
+            "B.可提高水的沸点至105°C",
+            "C.可防止金属物品生锈",
+            "D.碳酸氢钠的浓度应为4%",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 39
+    },
+    {
+        "question_text": "40.应用煮沸灭菌法，下列哪项或哪项是错误的",
+        "options": [
+            "A.物品须完全浸没水中",
+            "B.煮沸器盖应严密关闭",
+            "C.灭菌时间应从水煮沸后开始",
+            "D.玻璃类物品应在煮沸后放入",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 40
+    },
+    {
+        "question_text": "41.手臂消毒法下列哪项不能达到完全无菌",
+        "options": [
+            "A.肥皂水刷手10min，浸泡70%酒精5min",
+            "B.肥皂水刷手5min，浸泡1%o新洁尔灭5min",
+            "C.肥皂水洗手后，两盆0.5%o氨水各擦3min后浸泡70%酒精5min或1%新洁尔灭5min",
+            "D.3%碘酒擦手后再用70%酒精脱碘",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 41
+    },
+    {
+        "question_text": "42.内腔镜以下哪种方法消毒为宜",
+        "options": [
+            "A.1:1000新洁尔灭溶液浸泡",
+            "B.70%酒精溶液",
+            "C.器械溶液",
+            "D.甲醛蒸汽熏蒸",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪项不属于高温灭菌法？",
+        "options": [
+            "A.下排式高压蒸汽灭菌",
+            "B.预真空式蒸汽灭菌",
+            "C.煮沸灭菌",
+            "D.火烧灭菌",
+            "E.药液浸泡灭菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 43
+    },
+    {
+        "question_text": "44.当蒸汽压力达到104.0~137.3Kpa时，温度121~126°C,欲杀灭细菌芽胞需：",
+        "options": [
+            "A.10分钟",
+            "B.20分钟",
+            "C.30分钟",
+            "D.40分钟",
+            "E.50分钟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 44
+    },
+    {
+        "question_text": "45.物品经高压蒸汽灭菌法灭菌后，一般可保留：",
+        "options": [
+            "A.1周",
+            "B.10天",
+            "C.2周",
+            "D.20天",
+            "E.30天"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 45
+    },
+    {
+        "question_text": "46.腹部手术的消毒范围包括：",
+        "options": [
+            "A.乳头以下,脐以上",
+            "B.剑突以下,脐以上",
+            "C.乳头以下至腹股沟韧带",
+            "D.手术切口周围15cm区域",
+            "E.锁骨以下至腹股沟韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 46
+    },
+    {
+        "question_text": "47.煮沸灭菌法杀灭一般细菌所需时间为：",
+        "options": [
+            "A.5~10分钟",
+            "B.10~15分钟",
+            "C.15~20分钟",
+            "D.20~25分钟",
+            "E.25~30分钟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 47
+    },
+    {
+        "question_text": "48.用物理方法杀灭细菌称：",
+        "options": [
+            "A.消毒法",
+            "B.抗菌法",
+            "C.灭菌法",
+            "D.隔离法",
+            "E.无菌术"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 48
+    },
+    {
+        "question_text": "49.用化学的方法消灭微生物称：",
+        "options": [
+            "A.消毒法",
+            "B.抗菌法",
+            "C.灭菌法",
+            "D.隔离法",
+            "E.无菌术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 49
+    },
+    {
+        "question_text": "50.用肥皂刷手消毒法中，下列哪项是正确的？",
+        "options": [
+            "A.从手指尖依次刷到肘上5cm",
+            "B.双手交替刷3遍,5分钟",
+            "C.浸泡酒精范围过肘上3cm",
+            "D.新洁尔灭溶液一般只能用40次",
+            "E.冲水时手指朝下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 50
+    },
+    {
+        "question_text": "51.手术室在绿脓菌感染手术后的消毒方法是：",
+        "options": [
+            "A.新洁尔灭溶液清洗",
+            "B.高锰酸钾溶液清洗",
+            "C.紫外线照射",
+            "D.40%甲醛溶液消毒",
+            "E.乳酸空气消毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 51
+    },
+    {
+        "question_text": "52.感染伤口和肛门等处皮肤消毒时，下列哪项是正确的？",
+        "options": [
+            "A.由手术区中心部向四周涂擦",
+            "B.由四周向中心部涂擦",
+            "C.消毒范围为切口周围10cm区域",
+            "D.单用酒精即可",
+            "E.消毒时间需延长30分钟"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "52",
+        "number": 52
+    }
+]

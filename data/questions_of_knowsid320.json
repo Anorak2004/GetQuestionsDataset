@@ -1,0 +1,1402 @@
+[
+    {
+        "question_text": "1．下列关于 RNA 生物合成的叙述，正确的是",
+        "options": [
+            "A．转录过程需 RNA 引物",
+            "B．转录生成的 RNA 都是翻译模板",
+            "C．蛋白质在胞浆合成，所以转录也在胞浆中进行",
+            "D．DNA 双链一股单链是转录模板",
+            "E．RNA 聚合酶以 DNA 为辅酶，所以称为依赖 DNA 的 RNA聚合酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 1
+    },
+    {
+        "question_text": "2．DNA 上某段模板链序列为 5′-ACTAGTCAG-3′，转录后 mRNA 上相应的碱基顺序为",
+        "options": [
+            "A．5′-ACTAGTCAG-3′",
+            "B．5′-ACUAGUCAG-3′",
+            "C．5′-CUGACUAGU-3′",
+            "D．5′-CTGACTAGT-3′",
+            "E．5′-CAGCUGACU-3′"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 2
+    },
+    {
+        "question_text": "3．不对称转录是指",
+        "options": [
+            "A．双向复制后的转录",
+            "B．同一 DNA 模板转录可以是从 5′至 3′延长和从 3′ 至 5′延长",
+            "C．同一单链 DNA，转录时可以交替作模板链和编码链",
+            "D．转录经翻译生成氨基酸，氨基酸含有不对称碳原子",
+            "E．没有规律的转录"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 3
+    },
+    {
+        "question_text": "4．真核生物的转录特点是",
+        "options": [
+            "A．发生在细胞质内，因为转录产物主要供蛋白质合成用",
+            "B．与原核生物转录完全一致",
+            "C．转录产物有聚 A(polyA)尾巴，DNA 模板上有相应的polyT 序列",
+            "D．已发现有 5 种真核生物 RNA 聚合酶",
+            "E．RNA 聚合酶 II 被鹅膏蕈碱抑制"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 4
+    },
+    {
+        "question_text": "5．RNA 聚合酶催化转录，其底物是",
+        "options": [
+            "A．ATP、GTP、TTP、CTP",
+            "B．AMP、GMP、TMP、CMP",
+            "C．dATP、dGTP、dUTP、dCTP",
+            "D．ATP、GTP、UTP、CTP",
+            "E．ddATP、ddGTP、ddTTP、ddCTP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 5
+    },
+    {
+        "question_text": "6．转录的编码链",
+        "options": [
+            "A．也称为 Watson 链",
+            "B．是不能转录出 mRNA 的 DNA 链",
+            "C．是转录生成 tRNA 和 rRNA 的母链",
+            "D．可以作为模板合成 mRNA",
+            "E．是基因调节的成分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 6
+    },
+    {
+        "question_text": "7．Pribnowbox 序列是指",
+        "options": [
+            "A．AATAAA",
+            "B．AAUAAA",
+            "C．TAAGGC",
+            "D．TTGACA",
+            "E．TATAAT"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 7
+    },
+    {
+        "question_text": "8．真核生物的 TATA 盒是",
+        "options": [
+            "A．DNA 合成的起始位点",
+            "B．RNA 聚合酶与 DNA 模板稳定结合处",
+            "C．RNA 聚合酶的活性中心",
+            "D．翻译起始点",
+            "E．转录起始点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 8
+    },
+    {
+        "question_text": "9．原核生物 DNA 指导的 RNA 聚合酶由数个亚基组成，其核心酶的组成是",
+        "options": [
+            "A．α2ββ′",
+            "B．ααβ′δ",
+            "C．ααβ′",
+            "D．αδβ",
+            "E．αββ′"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 9
+    },
+    {
+        "question_text": "10．识别转录起始点的是",
+        "options": [
+            "A．ρ因子",
+            "B．核心酶",
+            "C．RNA 聚合酶的α亚基",
+            "D．σ因子",
+            "E．dnaB 蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 10
+    },
+    {
+        "question_text": "11．下列关于σ因子的描述，正确的是",
+        "options": [
+            "A．RNA 聚合酶的亚基，负责识别 DNA 模板上转录 RNA的特殊起始部位",
+            "B．DNA 聚合酶的亚基，能沿 5′→3′及 3′→5′方向双向合成",
+            "C．核糖体 50S 亚基，催化肽键形成",
+            "D．核糖体 30S 亚基，与 mRNA 结合",
+            "E．是 50S 和 30S 亚基组成 70S 核蛋白体的桥梁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 11
+    },
+    {
+        "question_text": "12．原核生物参与转录起始的酶是",
+        "options": [
+            "A．解链酶",
+            "B．引物酶",
+            "C．RNA 聚合酶Ⅱ",
+            "D．RNA 聚合酶全酶",
+            "E．RNA 聚合酶核心酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 12
+    },
+    {
+        "question_text": "13．能特异性抑制原核生物 RNA 聚合酶的是",
+        "options": [
+            "A．利福平",
+            "B．鹅膏蕈碱",
+            "C．假尿嘧啶",
+            "D．亚硝酸盐",
+            "E．氯霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 13
+    },
+    {
+        "question_text": "14．在真核生物中，经 RNA 聚合酶Ⅱ催化的转录产物是",
+        "options": [
+            "A．hnRNA",
+            "B．18SrRNA",
+            "C．28SrRNA",
+            "D．tRNA",
+            "E．5SrRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 14
+    },
+    {
+        "question_text": "tRNA 和 5SrRNA 是由真核生物哪种酶催化转录产生的?",
+        "options": [
+            "A．RNA 聚合酶Ⅰ",
+            "B．逆转录酶",
+            "C．RNA 聚合酶",
+            "D．RNA 聚合酶全酶",
+            "E．RNA 聚合酶Ⅲ"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 15
+    },
+    {
+        "question_text": "16．ρ因子的功能是",
+        "options": [
+            "A．在启动区域结合阻遏物",
+            "B．增加 RNA 合成速率",
+            "C．释放结合在启动子上的 RNA 聚合酶",
+            "D．参加转录的终止过程",
+            "E．允许特定转录的启动过程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 16
+    },
+    {
+        "question_text": "17．在转录延长的过程中，原核生物 RNA 聚合酶的σ亚基",
+        "options": [
+            "A．随全酶在模板上前移",
+            "B．作为终止因子在转录终止时再起作用",
+            "C．在转录延长时发生构象改变",
+            "D．脱落",
+            "E．较松弛地结合在模板上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 17
+    },
+    {
+        "question_text": "18．在转录延长中，RNA 聚合酶与 DNA 模板的结合是",
+        "options": [
+            "A．全酶与模板结合",
+            "B．核心酶与模板特定位点结合",
+            "C．结合状态相对牢固稳定",
+            "D．结合状态松弛而有利于 RNA 聚合酶向前移动",
+            "E．和转录起始时的结合状态没有区别"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 18
+    },
+    {
+        "question_text": "19．RNA 作为转录产物，其 5′-端常见的起始核苷酸是",
+        "options": [
+            "A．A 或 G",
+            "B．C 或 U",
+            "C．pppG 或 pppA",
+            "D．pppC 或 pppU",
+            "E．无一定规律"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 19
+    },
+    {
+        "question_text": "20．真核细胞 hnRNA 的生成部位是",
+        "options": [
+            "A．细胞浆",
+            "B．内质网",
+            "C．线粒体",
+            "D．核蛋白体",
+            "E．细胞核"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 20
+    },
+    {
+        "question_text": "21．转录因子(TF)",
+        "options": [
+            "A．是原核生物 RNA 聚合酶的组分",
+            "B．是真核生物 RNA 聚合酶的组分",
+            "C．含有α、β、γ等各亚基",
+            "D．是转录调控中的反式作用因子",
+            "E．是真核生物的启动子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 21
+    },
+    {
+        "question_text": "22．转录因子(TFⅠ、TFⅡ、TFⅢ)的命名根据是",
+        "options": [
+            "A．含有Ⅰ、Ⅱ、Ⅲ几种亚基",
+            "B．真核生物中有 RNA 聚合酶Ⅰ、Ⅱ、Ⅲ",
+            "C．被转录的基因为Ⅰ、Ⅱ、Ⅲ",
+            "D．分别作用于 GC、CAAT、TATA 序列",
+            "E．分别作用于阻遏基因、-35 区和-10 区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 22
+    },
+    {
+        "question_text": "23．转录前起始复合物(PIC)是指",
+        "options": [
+            "A．RNA 聚合酶与 TATA 序列",
+            "B．RNA 聚合酶与 TATA 序列结合",
+            "C．各种转录因子互相结合后再与 RNA 聚合酶、DNA 模板结合",
+            "D．α因子与 RNA 聚合酶结合",
+            "E．阻遏物变构后脱离操纵基因的复合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 23
+    },
+    {
+        "question_text": "24．基因表达过程中仅在原核生物中出现而真核生物没有的是",
+        "options": [
+            "A．tRNA 的稀有碱基",
+            "B．AUG 用作起始密码子",
+            "C．岗崎片段",
+            "D．DNA 连接酶",
+            "E．σ因子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 24
+    },
+    {
+        "question_text": "25．AATAAA 是",
+        "options": [
+            "A．启动子的辨认序列",
+            "B．真核生物的顺式作用元件",
+            "C．真核生物的反式作用因子",
+            "D．真核生物转录加尾修饰点",
+            "E．线粒体的起始密码序列"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 25
+    },
+    {
+        "question_text": "26．真核生物 mRNA 转录终止",
+        "options": [
+            "A．需要 Rho 因子",
+            "B．需要形成锤头结构",
+            "C．需要释放因子 RR",
+            "D．与加尾修饰同步进行",
+            "E．需要信号肽"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 26
+    },
+    {
+        "question_text": "27．hnRNA 是",
+        "options": [
+            "A．存在于细胞核内 tRNA 前体",
+            "B．存在于细胞核内的 snRNA 前体",
+            "C．存在于细胞核内的 rRNA 前体",
+            "D．存在于细胞核内的 mRNA 前体",
+            "E．翻译的直接模板"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 27
+    },
+    {
+        "question_text": "28．真核生物 45S-rRNA 是",
+        "options": [
+            "A．核糖体大亚基的 rRNA",
+            "B．核糖体小亚基的 rRNA",
+            "C．除 5SrRNA 外其余 rRNA 的前身",
+            "D．除 5.8SrRNA 外其余 rRNA 的前身",
+            "E．由不同转录产物拼接生成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 28
+    },
+    {
+        "question_text": "29．下列关于核酶(ribozyme)的叙述，正确的是",
+        "options": [
+            "A．是有催化作用的蛋白质",
+            "B．以 NAD+为辅酶",
+            "C．有茎环结构和随后的寡聚 U",
+            "D．能催化 RNA 的自我剪接",
+            "E．是由 snRNA 和蛋白质组成的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 29
+    },
+    {
+        "question_text": "30．下列关于 tRNA 的转录后修饰的叙述，正确的是",
+        "options": [
+            "A．由核酶催化",
+            "B．与并接体结合后完成",
+            "C．包括加入 3′-CCA 末端",
+            "D．是自我剪接过程",
+            "E．包括加入帽子结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 30
+    },
+    {
+        "question_text": "31．反密码子 IGC 可以识别的密码子是",
+        "options": [
+            "A．GCI",
+            "B．GCA",
+            "C．ACG",
+            "D．ICG",
+            "E．AUG"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 31
+    },
+    {
+        "question_text": "32．原核生物 RNA 聚合酶全酶是",
+        "options": [
+            "A．abb′σ",
+            "B．a2bb′σ",
+            "C．ab2b′σ",
+            "D．abb′2σ",
+            "E．abb′σ2"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 32
+    },
+    {
+        "question_text": "33．有一段 mRNA 的碱基序列为 GUCCAGGCUA，那么其模板链应是",
+        "options": [
+            "A．GTCCAGGCTA",
+            "B．UAGCCUGGAC",
+            "C．CAGGTCCGAT",
+            "D．ATCGGACCTG",
+            "E．TAGCCTGGAC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 33
+    },
+    {
+        "question_text": "34．下列有关ρ因子的描述，正确的是",
+        "options": [
+            "A．参与原核生物复制的终止过程",
+            "B．是真核生物转录的终止因子",
+            "C．在原核生物中，参与翻译的起始过程",
+            "D．参与原核生物转录的终止过程",
+            "E．参与真核生物翻译的终止过程"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 34
+    },
+    {
+        "question_text": "35．ρ因子的功能是",
+        "options": [
+            "A．结合阻遏蛋白",
+            "B．参与转录的终止",
+            "C．增强 RNA 合成速率",
+            "D．启动转录过程",
+            "E．参与转录延长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 35
+    },
+    {
+        "question_text": "36．DNA 上某段编码链序列为 5′-ACTAGTCAG-3′，转录后 mRNA 上相应的碱基顺序为",
+        "options": [
+            "A．5′-ACTAGTCAG-3′",
+            "B．5′-ACUAGUCAG-3′",
+            "C．5′-CUGACUAGU-3′",
+            "D．5′-CTGACTAGT-3′",
+            "E．5′-CAGCUGACU-3′"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 36
+    },
+    {
+        "question_text": "37．核酸分子杂交可发生在 DNA 和 RNA 之间、DNA 和DNA 之间，那么对于单链 DNA5′-CGGTA-3′，可以与下列哪一种 RNA 发生杂交",
+        "options": [
+            "A．5′-UACCG-3′",
+            "B．5′-GCCAU-3′",
+            "C．5′-GCCUU-3′",
+            "D．5′-AUCCG-3′",
+            "E．5′-GCCAT-3′"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 37
+    },
+    {
+        "question_text": "38．真核生物 mRNA3′-端多聚核苷酸尾是",
+        "options": [
+            "A．polyA",
+            "B．polyG",
+            "C．polyC",
+            "D．polyU",
+            "E．polyT"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 38
+    },
+    {
+        "question_text": "39．真核生物转录生成的 mRNA 前体的加工过程不包括",
+        "options": [
+            "A．5′-末端加帽",
+            "B．3′-末端加多聚 A 尾",
+            "C．甲基化修饰",
+            "D．磷酸化修饰",
+            "E．剪接去除内含子并连接外显子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 39
+    },
+    {
+        "question_text": "40．下列关于真核细胞 mRNA 的叙述，错误的是",
+        "options": [
+            "A．是由 hnRNA 经加工后生成的",
+            "B．5′-末端有 m7GpppNp 帽子",
+            "C．3′-末端有多聚 A 尾",
+            "D．mRNA 为多顺反子",
+            "E．成熟过程中需进行甲基化修饰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 40
+    },
+    {
+        "question_text": "41．原核生物转录复合物不包括",
+        "options": [
+            "A．转录产物 RNA 链",
+            "B．DNA 模板链",
+            "C．RNA 聚合酶σ亚基",
+            "D．RNA 聚合酶 a 亚基",
+            "E．RNA 聚合酶 b 亚基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 41
+    },
+    {
+        "question_text": "42．真核生物 TFⅡＡ的功能是",
+        "options": [
+            "A．稳定 TFⅡD 的结合",
+            "B．ATP 酶的活性",
+            "C．促进 polⅡ的结合",
+            "D．辨认 TATA 盒",
+            "E．解螺旋酶的活性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 42
+    },
+    {
+        "question_text": "43．下列有关 RNA 聚合酶的叙述，错误的是",
+        "options": [
+            "A．σ因子参与启动转录",
+            "B．全酶含有σ因子",
+            "C．全酶与核心酶的差别在于β亚基的存在",
+            "D．核心酶由α２ββ′组成",
+            "E．核心酶包括αββ′三种亚基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 43
+    },
+    {
+        "question_text": "44．识别转录起始点的亚基是",
+        "options": [
+            "A．α",
+            "B．β",
+            "C．ρ",
+            "D．σ",
+            "E．β′"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 44
+    },
+    {
+        "question_text": "45．下列有关转录终止的叙述，正确的是",
+        "options": [
+            "A．ρ因子与 RNA 聚合酶结合使其停止移动",
+            "B．由终止因子 RF 参与完成终止",
+            "C．终止信号含密集的 AT 区和密集的 GC 区",
+            "D．ρ因子与 DNA 结合而终止转录",
+            "E．σ亚基参与转录终止"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 45
+    },
+    {
+        "question_text": "46．下列有关 hnRNA 剪接的叙述，错误的是",
+        "options": [
+            "A．切除内含子，连接外显子",
+            "B．内含子与并接体结合，形成套索 RNA",
+            "C．剪接过程是二次转酯反应",
+            "D．外显子与并接体结合，形成套索 RNA",
+            "E．并接体结合内含子的边界序列"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 46
+    },
+    {
+        "question_text": "47．下列关于复制和转录的描述，错误的是",
+        "options": [
+            "A．新生链的合成都以碱基配对的原则进行",
+            "B．新生链合成方向均为５′至 3′",
+            "C．聚合酶均催化磷酸二酯键的形成",
+            "D．均以 DNA 分子为模板",
+            "E．都需要 NTP 为原料"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 47
+    },
+    {
+        "question_text": "48．DNA 双链中，指导合成 RNA 的那条链称为",
+        "options": [
+            "A．后随链",
+            "B．Ｃrick 链",
+            "C．编码链",
+            "D．模板链",
+            "E．先导链"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 48
+    },
+    {
+        "question_text": "49．RNA 聚合酶全酶识别启动子的位置在",
+        "options": [
+            "A．转录起始点的上游",
+            "B．转录起始点的下游",
+            "C．结构基因转录区内",
+            "D．不能转录的间隔区内",
+            "E．3′非翻译区"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 49
+    },
+    {
+        "question_text": "50．催化 45SrRNA 转录的酶是",
+        "options": [
+            "A．RNA 复制酶",
+            "B．RNA 聚合酶Ⅰ",
+            "C．RNA 聚合酶Ⅱ",
+            "D．RNA 聚合酶Ⅲ",
+            "E．RNA 聚合酶核心酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 50
+    },
+    {
+        "question_text": "51．真核生物催化 tRNA 转录的酶是",
+        "options": [
+            "A．DNA 聚合酶Ⅲ",
+            "B．RNA 聚合酶Ⅰ",
+            "C．RNA 聚合酶Ⅱ",
+            "D．RNA 聚合酶Ⅲ",
+            "E．DNA 聚合酶Ⅰ"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 51
+    },
+    {
+        "question_text": "52．催化原核生物 mRNA 转录的酶是",
+        "options": [
+            "A．RNA 聚合酶",
+            "B．RNA 聚合酶Ⅰ",
+            "C．RNA 聚合酶Ⅱ",
+            "D．RNA 聚合酶Ⅲ",
+            "E．DNA 聚合酶Ⅰ"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 52
+    },
+    {
+        "question_text": "53．外显子是指",
+        "options": [
+            "A．不被翻译的序列",
+            "B．不被转录的序列",
+            "C．表达为成熟 RNA 的核酸序列",
+            "D．被转录非编码的序列",
+            "E．转录模板链"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 53
+    },
+    {
+        "question_text": "54．内含子是指",
+        "options": [
+            "A．不被转录的序列",
+            "B．转录后加工过程中被切除的序列",
+            "C．被翻译的序列",
+            "D．编码序列",
+            "E．调控序列"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 54
+    },
+    {
+        "question_text": "55．下列关于真核生物转录和复制的叙述，正确的是",
+        "options": [
+            "A．合成的产物均需要加工",
+            "B．与摸板链的碱基配对均为 A-T",
+            "C．合成起始都需要引物",
+            "D．原料都是 dNTP",
+            "E．都在细胞核内进行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 55
+    },
+    {
+        "question_text": "56．下列关于 tRNA 合成的描述，错误的是",
+        "options": [
+            "A．tRNA３′-末端需要加上 ACC-OH",
+            "B．tRNA 前体中有内含子",
+            "C．tRNA 前体还需要进行化学修饰加工",
+            "D．RNA 聚合酶Ⅲ催化真核生物 tRNA 前体的生成",
+            "E．tRNA 前体在酶的催化下切除５′和３′-端处多余的核苷酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 56
+    },
+    {
+        "question_text": "57．核酶是在研究哪种 RNA 的前体中发现的",
+        "options": [
+            "A．tRNA",
+            "B．mRNA",
+            "C．SnRNA",
+            "D．rRNA",
+            "E．hnRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 57
+    },
+    {
+        "question_text": "58．下列关于 RNA 合成的描述，错误的是",
+        "options": [
+            "A．DNA 存在时，RNA 聚合酶才有活性",
+            "B．转录起始需要引物",
+            "C．RNA 链合成方向 5′至 3′",
+            "D．原料是 NTP",
+            "E．以 DNA 双链中的一股链做模板"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 58
+    },
+    {
+        "question_text": "59．转录过程需要的酶是",
+        "options": [
+            "A．DDDP",
+            "B．DDRP",
+            "C．引物酶",
+            "D．RDRP",
+            "E．核酸酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 59
+    },
+    {
+        "question_text": "60．RNA 聚合酶Ⅰ催化转录的产物是",
+        "options": [
+            "A．SnRNA",
+            "B．hnRNA",
+            "C．18S-rRNA",
+            "D．5S-rRNA",
+            "E．45S-rRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 60
+    },
+    {
+        "question_text": "61．下列关于 mRNA 的叙述，正确的是",
+        "options": [
+            "A．占 RNA 总量的 80%以上",
+            "B．与 tRNA 及 rRNA 相比，mRNA 分子量最小",
+            "C．分子中含有大量稀有碱基",
+            "D．前体是 SnRNA",
+            "E．与 tRNA 及 rRNA 相比，mRNA 更新速度最快"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 61
+    },
+    {
+        "question_text": "62．下列关于 rRNA 的叙述，错误的是",
+        "options": [
+            "A．占 RNA 总量的 80%以上",
+            "B．5S-rRNA 是 RNA 聚合酶Ⅲ的转录产物",
+            "C．45S-rRNA 是 RNA 聚合酶Ⅱ的转录产物",
+            "D．rDNA 属于丰富基因族的 DNA 序列",
+            "E．rDNA 位于核仁内，自成一组转录单位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 62
+    },
+    {
+        "question_text": "63．下列关于 tRNA 的叙述，错误的是",
+        "options": [
+            "A．是 RNA 聚合酶Ⅲ的转录产物",
+            "B．3′-端的 CCA-OH 是经过加工生成的",
+            "C．分子中含有大量稀有碱基",
+            "D．呈三叶草型的二级结构",
+            "E．分子中含有密码子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 63
+    },
+    {
+        "question_text": "64．合成 RNA 需要的原料是",
+        "options": [
+            "A．dNTP",
+            "B．dNMP",
+            "C．NMP",
+            "D．NTP",
+            "E．NDP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 64
+    },
+    {
+        "question_text": "65．下列关于真核生物启动子描述，错误的是",
+        "options": [
+            "A．转录起始点上游有共同的序列 5′-TATA",
+            "B．转录起始点上游有共同的序列 5′-CAAT",
+            "C．5′-端的 TATA 序列又叫 TATA 盒",
+            "D．5′-端的 TATA 序列又叫 Pribnow 盒",
+            "E．5′-的 TATA 序列又叫 Hogness 盒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 65
+    },
+    {
+        "question_text": "66．对鹅膏蕈碱最敏感的酶是",
+        "options": [
+            "A．RNA 聚合酶Ⅰ",
+            "B．RNA 聚合酶Ⅱ",
+            "C．RNA 聚合酶Ⅲ",
+            "D．DNA 聚合酶Ⅰ",
+            "E．DNA 聚合酶Ⅱ"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 66
+    },
+    {
+        "question_text": "67．抗生素利福平专一性的作用于 RNA 聚合酶的哪个亚基",
+        "options": [
+            "A．α",
+            "B．β",
+            "C．β′",
+            "D．α2",
+            "E．σ"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 67
+    },
+    {
+        "question_text": "68．RNA 聚合酶Ⅲ催化转录的产物是",
+        "options": [
+            "A．28SrRNA",
+            "B．hnRNA",
+            "C．18S-rRNA",
+            "D．tRNA",
+            "E．45S-rRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 68
+    },
+    {
+        "question_text": "69．下列关于原核生物启动子的描述，正确的是",
+        "options": [
+            "A．是 DNA 聚合酶辨认结合的区域",
+            "B．位于转录起始点的下游",
+            "C．含有 Hogness 盒",
+            "D．为 40～60 碱基对的 RNA 片段",
+            "E．-10 区有共同的 5′-TATAAT 序列"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 69
+    },
+    {
+        "question_text": "70．真核生物 TFⅡD 的功能是",
+        "options": [
+            "A．稳定 TFⅡD 的结合",
+            "B．ATP 酶的活性",
+            "C．促进 polⅡ的结合",
+            "D．结合 TATA 盒",
+            "E．解螺旋酶的活性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 70
+    },
+    {
+        "question_text": "71．真核生物成熟的 mRNA5′-端具有",
+        "options": [
+            "A．m7ApppN",
+            "B．m7GpppN",
+            "C．m7UpppN",
+            "D．m7CpppN",
+            "E．m7TpppN"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 71
+    },
+    {
+        "question_text": "72．DNA 分子上某段模板链碱基顺序为 5′-AGCATCTA，转录后的 mRNA 相应的碱基顺序为",
+        "options": [
+            "A．5′-TCGTAGAT",
+            "B．5′-UCGUAGAU",
+            "C．5′-UAGAUGCU",
+            "D．5′-TAGATGCT",
+            "E．5′-UGCAUCUA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 72
+    },
+    {
+        "question_text": "73．RNA 生物合成包括",
+        "options": [
+            "A．起始，延长和终止",
+            "B．进位，转肽和转位",
+            "C．先形成引发体，再进行链的延长，最后终止",
+            "D．注册，转位和转肽",
+            "E．剪接，修饰和终止"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 73
+    },
+    {
+        "question_text": "74．在 RNA 生物合成过程中，最不稳定的碱基配对为",
+        "options": [
+            "A．rA-dT",
+            "B．rC-dG",
+            "C．rG-dC",
+            "D．rU-dA",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 74
+    },
+    {
+        "question_text": "75．下列关于依赖 Rho 因子终止转录的描述，错误的是",
+        "options": [
+            "A．与 RNA 分子中 polyC 的结合能力最强",
+            "B．有 GTP 酶的活性",
+            "C．有解螺旋酶的活性",
+            "D．Rho 因子与转录产物结合后构象改变",
+            "E．Rho 因子与转录产物结合后 RNA 聚合酶构象改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列关于非依赖 Rho 因子终止转录的描述，错误的是",
+        "options": [
+            "A．接近终止转录区有密集的 A-T 区和 G-C 配对区",
+            "B．转录产物 5′-末端有密集的 U",
+            "C．接近终止区转录出来的碱基序列可形成茎-环结构",
+            "D．茎-环结构改变 RNA 聚合酶的构象",
+            "E．茎-环结构可使不稳定的杂化双链更不稳定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 76
+    },
+    {
+        "question_text": "77．RNA 聚合酶中与模板结合的亚基是",
+        "options": [
+            "A．α",
+            "B．α2",
+            "C．β",
+            "D．β′",
+            "E．σ"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 77
+    },
+    {
+        "question_text": "78．mRNA 转录后的加工不包括",
+        "options": [
+            "A．5′-端加帽子结构",
+            "B．3′-端加 polA 尾",
+            "C．切除内含子",
+            "D．连接外显子",
+            "E．3′-端加 CCA 尾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 78
+    },
+    {
+        "question_text": "79．下列关于启动子的描述，正确的是",
+        "options": [
+            "A．mRNA 开始被翻译的那段 DNA 序列",
+            "B．开始转录 mRNA 的那段 DNA 序列",
+            "C．RNA 聚合酶开始与 DNA 结合的那段 DNA 序列",
+            "D．阻遏蛋白结合的的那段 DNA 序列",
+            "E．DNA 聚合酶开始与 DNA 结合的的那段 DNA 序列"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 79
+    },
+    {
+        "question_text": "80．RNA 的生物合成包括 RNA 复制和",
+        "options": [
+            "A．逆转录",
+            "B．不对称转录",
+            "C．半保留复制",
+            "D．翻译",
+            "E．全保留复制"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 80
+    },
+    {
+        "question_text": "81．转录是以",
+        "options": [
+            "A．DNA 的一条链为模板",
+            "B．DNA 的两条链为模板",
+            "C．RNA 为模板",
+            "D．编码链为模板",
+            "E．前导链为模板"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 81
+    },
+    {
+        "question_text": "82．真核细胞的转录发生在",
+        "options": [
+            "A．细胞浆",
+            "B．细胞核",
+            "C．线粒体",
+            "D．核蛋白体",
+            "E．内质网"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 82
+    },
+    {
+        "question_text": "83．Pribnow 盒是指",
+        "options": [
+            "A．5′-AAUAAA",
+            "B．5′-TAAGGC",
+            "C．5′-TATAAT",
+            "D．5′-TTGACA",
+            "E．5′-AATAAA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 83
+    },
+    {
+        "question_text": "84．原核生物 RNA 聚合酶的特异性抑制剂是",
+        "options": [
+            "A．链霉素",
+            "B．氯霉素",
+            "C．鹅膏蕈碱",
+            "D．亚硝酸盐",
+            "E．利福平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 84
+    },
+    {
+        "question_text": "85．真核生物 RNA 聚合酶Ⅱ的特异性抑制剂是",
+        "options": [
+            "A．利福平",
+            "B．鹅膏蕈碱",
+            "C．白喉毒素",
+            "D．干扰素",
+            "E．链霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 85
+    },
+    {
+        "question_text": "86．DNA 分子上能被依赖 DNA 的 RNA 聚合酶特异识别的部位称为",
+        "options": [
+            "A．沉默子",
+            "B．操纵子",
+            "C．启动子",
+            "D．终止子",
+            "E．增强子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 86
+    },
+    {
+        "question_text": "87．原核生物基因转录起始的正确性取决于",
+        "options": [
+            "A．RNA 聚合酶核心酶",
+            "B．RNA 聚合酶σ因子",
+            "C．DNA 解旋酶",
+            "D．DNA 拓异构酶",
+            "E．ρ因子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 87
+    },
+    {
+        "question_text": "88．下列关于转录起始复合物的描述，正确的是",
+        "options": [
+            "A．σ因子、核心酶和双链 DNA 在启动子形成的复合物",
+            "B．全酶、TFⅠ和解链 DNA 双链形成的复合物",
+            "C．σ因子、核心酶和促旋酶形成的复合物",
+            "D．三个全酶在转录起始位点形成的复合物",
+            "E．全酶、模板 DNA 和 pppGpN-OH3′形成的复合物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 88
+    },
+    {
+        "question_text": "89．下列关于转录延长过程中的转录复合物的描述，正确的是",
+        "options": [
+            "A．σ因子、核心酶和双链 DNA 在启动子形成的复合物",
+            "B．全酶、TFⅠ和解链 DNA 双链形成的复合物",
+            "C．核心酶、模板 DNA 和新生 RNA 形成的复合物",
+            "D．三个全酶在转录起始位点形成的复合物",
+            "E．σ因子、核心酶和促旋酶形成的复合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 89
+    },
+    {
+        "question_text": "90．真核生物 TFⅡF 的功能是",
+        "options": [
+            "A．稳定 TFⅡD 的结合",
+            "B．ATP 酶的活性",
+            "C．促进 polⅡ的结合",
+            "D．辨认 TATA 盒",
+            "E．解螺旋酶的活性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 90
+    },
+    {
+        "question_text": "91．真核生物 TFⅡE 的功能是",
+        "options": [
+            "A．稳定 TFⅡD 的结合",
+            "B．ATP 酶的活性",
+            "C．促进 polⅡ的结合",
+            "D．辨认 TATA 盒",
+            "E．解螺旋酶的活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 91
+    },
+    {
+        "question_text": "92．各种转录因子相互结合后，再与 RNA 聚合酶、DNA模板结合的复合物是",
+        "options": [
+            "A．转录前起始复合物",
+            "B．70S 翻译起始复合物",
+            "C．80S 翻译起始复合物",
+            "D．转录复合物",
+            "E．引发体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 92
+    },
+    {
+        "question_text": "93．原核生物参与转录起始的酶是",
+        "options": [
+            "A．解链酶",
+            "B．引物酶",
+            "C．RNA 聚合酶全酶",
+            "D．核心酶",
+            "E．RNA 聚合酶Ⅱ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 93
+    },
+    {
+        "question_text": "94．真核生物 TFⅡB 的功能是",
+        "options": [
+            "A．稳定 TFⅡD 的结合",
+            "B．ATP 酶的活性",
+            "C．促进 polⅡ的结合",
+            "D．辨认 TATA 盒",
+            "E．解螺旋酶的活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 94
+    },
+    {
+        "question_text": "95．原核生物启动子的-35 区的保守序列是",
+        "options": [
+            "A．TATAAT",
+            "B．TTGACA",
+            "C．AATAAA",
+            "D．CTTA",
+            "E．GC"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 95
+    },
+    {
+        "question_text": "96．原核生物启动子的-10 区的保守序列是",
+        "options": [
+            "A．TATAAT",
+            "B．TTGACA",
+            "C．AATAAA",
+            "D．CTTA",
+            "E．GC"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 96
+    },
+    {
+        "question_text": "97．参与 RNA 聚合酶Ⅱ转录的转录因子中，能结合TATA 盒的是",
+        "options": [
+            "A．TFⅡＡ",
+            "B．TFⅡＢ",
+            "C．TFⅡＤ",
+            "D．TFⅡＥ",
+            "E．TFⅡＦ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 97
+    },
+    {
+        "question_text": "98．在电子显微镜下原核生物的转录现象呈现羽毛状图形，这说明",
+        "options": [
+            "A．在同一个模板链上，有多个转录同时在进行",
+            "B．转录产物与模板形成很短的杂化双链",
+            "C．越靠近模板的５′端转录产物越短",
+            "D．越靠近模板的３′端转录产物越长",
+            "E．转录未终止，翻译不能进行"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 98
+    },
+    {
+        "question_text": "99．tRNA 稀有碱基的生成没有下列哪种反应",
+        "options": [
+            "A．甲基化反应",
+            "B．还原反应",
+            "C．核苷内的转位反应",
+            "D．脱氨反应",
+            "E．水解反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 99
+    },
+    {
+        "question_text": "100．原核生物转录起始复合物不包括",
+        "options": [
+            "A．RNA 聚合酶σ亚基",
+            "B．DNA 模板链",
+            "C．pppGpN-OH3′",
+            "D．RNA 聚合酶核心酶",
+            "E．ρ因子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "100",
+        "number": 100
+    }
+]

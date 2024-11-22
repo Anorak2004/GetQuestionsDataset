@@ -1,0 +1,821 @@
+[
+    {
+        "question_text": "1.下列哪项是目前我国新出现的寄生虫病",
+        "options": [
+            "A.血吸虫病",
+            "B.隐孢子虫病",
+            "C.刚地弓形虫病",
+            "D.贾第虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 1
+    },
+    {
+        "question_text": "2.在寄生虫感染中，由迟发型免疫病理机制引起的病变是",
+        "options": [
+            "A.蛔蚴性肺炎",
+            "B.钩蚴性皮炎",
+            "C.血吸虫尾蚴性皮炎",
+            "D.日本血吸虫虫卵肉芽肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 2
+    },
+    {
+        "question_text": "3.在我国曾被称为“五大寄生虫病”之一的事",
+        "options": [
+            "A.蛔虫病",
+            "B.弓形虫病",
+            "C.血吸虫病",
+            "D.旋毛虫病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 3
+    },
+    {
+        "question_text": "4.寄生虫是指",
+        "options": [
+            "A.两种共栖生物中任何一方",
+            "B.两种互利共生生物中任何一方",
+            "C.在寄生关系中受害的一方",
+            "D.寄生关系的两种生物中受益一方"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 4
+    },
+    {
+        "question_text": "5.人体感染血吸虫后，可抵抗血吸虫童虫的再感染，但对体内成虫无免疫作用，这种免疫称为",
+        "options": [
+            "A.带虫免疫",
+            "B.伴随免疫",
+            "C.消除性免疫",
+            "D.被动免疫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 5
+    },
+    {
+        "question_text": "6.影响寄生虫病流行的主要因素是",
+        "options": [
+            "A.地理环境",
+            "B.温度、湿度",
+            "C.光照、雨量",
+            "D.社会制度、经济水平"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 6
+    },
+    {
+        "question_text": "7.以夺取营养为主要危害的寄生虫是",
+        "options": [
+            "A.日本血吸虫",
+            "B.棘球蚴",
+            "C.蛔虫成虫",
+            "D.溶组织内阿米巴"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 7
+    },
+    {
+        "question_text": "8.控制和消灭寄生虫病的有效基本措施是",
+        "options": [
+            "A.消灭传染源",
+            "B.切断传播途径",
+            "C.保护易感者",
+            "D.控制寄生虫病流行三环节的综合性防治措施"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 8
+    },
+    {
+        "question_text": "9.寄生虫病的传染源是指",
+        "options": [
+            "A.病人和带虫者",
+            "B.保虫宿主",
+            "C.病人",
+            "D.感染寄生虫的人和动物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 9
+    },
+    {
+        "question_text": "10.寄生生活是指",
+        "options": [
+            "A.两种生物生活在一起，双方都受益",
+            "B.两种生物生活在一起，一方受益，另一方受害",
+            "C.两种生物生活在一起，一方受益，另一方既不受益也不受害",
+            "D.两种生物生活在一起，双发都受害"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 10
+    },
+    {
+        "question_text": "11.终宿主是指寄生虫",
+        "options": [
+            "A.成虫阶段或有性繁殖阶段所寄生的宿主",
+            "B.幼虫阶段或无性繁殖阶段所寄生的宿主",
+            "C.成虫阶段或无性繁殖阶段所寄生的宿主",
+            "D.幼虫阶段或有性繁殖阶段所寄生的宿主"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 11
+    },
+    {
+        "question_text": "12.凡营寄生生活的低等动物称为",
+        "options": [
+            "A.传染源",
+            "B.终宿主",
+            "C.寄生虫",
+            "D.保虫宿主"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 12
+    },
+    {
+        "question_text": "13.作为人体寄生虫病感染来源的受寄生虫感染的其他脊椎动物是",
+        "options": [
+            "A.终宿主",
+            "B.保虫宿主",
+            "C.转续宿主",
+            "D.中间宿主"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 13
+    },
+    {
+        "question_text": "14.钩虫吸食人血，引起贫血的致病作用属于",
+        "options": [
+            "A.夺取营养",
+            "B.机械损伤",
+            "C.毒性作用",
+            "D.溶血作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 14
+    },
+    {
+        "question_text": "15.第一中间宿主是指寄生虫的",
+        "options": [
+            "A.无性期寄生的几个宿主中作为重要的一个",
+            "B.无性期寄生的几个宿主中最前的一个",
+            "C.有性期或无性期寄生的宿主中最为重要的一个",
+            "D.有性期寄生的几个宿主中最前的一个"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列措施中，属于切断传播途径以控制寄生虫病流行的是",
+        "options": [
+            "A.普查普治带虫者",
+            "B.加强水源管理",
+            "C.治疗寄生虫病人",
+            "D.易感者预防服药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪项是我国已经基本消灭的寄生虫病",
+        "options": [
+            "A.钩虫病",
+            "B.蛔虫病",
+            "C.血吸虫病",
+            "D.丝虫病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 17
+    },
+    {
+        "question_text": "18.寄生虫病流行分布的主要地区是",
+        "options": [
+            "A.卫生条件差的地区",
+            "B.人兽共患病病种多的地区",
+            "C.热带和亚热带地区",
+            "D.贫穷落后地区"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 18
+    },
+    {
+        "question_text": "19.寄生虫病流行区中易感人群是",
+        "options": [
+            "A.农民和工人",
+            "B.老年人群",
+            "C.儿童和来自非流行区的人",
+            "D.男性人群"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 19
+    },
+    {
+        "question_text": "20.可经胎盘垂直感染的寄生虫及感染阶段是",
+        "options": [
+            "A.旋毛虫幼虫",
+            "B.弓形虫速殖子",
+            "C.血吸虫尾蚴",
+            "D.疟原虫子孢子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 20
+    },
+    {
+        "question_text": "21.寄生虫感染途径是指寄生虫感染阶段",
+        "options": [
+            "A.经水源和食物感染",
+            "B.经媒介节肢动物感染",
+            "C.经口和皮肤感染",
+            "D.经污染的空气感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 21
+    },
+    {
+        "question_text": "22.与病人直接接触传播的寄生虫是",
+        "options": [
+            "A.阴道毛滴虫",
+            "B.血吸虫",
+            "C.蛔虫",
+            "D.丝虫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 22
+    },
+    {
+        "question_text": "23.人体寄生虫的传播途径是指寄生虫感染阶段",
+        "options": [
+            "A.经皮肤侵入人体",
+            "B.经口侵入人体",
+            "C.经污染的水源和土壤侵入人体",
+            "D.经呼吸道侵入人体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于寄生虫病流行的传染源，正确的是",
+        "options": [
+            "A.带有疟原虫子孢子的按蚊",
+            "B.晚期血吸虫病人",
+            "C.寄生虫病病人、带虫者和保虫宿主",
+            "D.被感染性蛔虫卵污染的水源"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 24
+    },
+    {
+        "question_text": "25.在寄生虫病防治过程中，下列哪项不是保护易感者应采取的措施",
+        "options": [
+            "A.改变不良饮食习惯",
+            "B.加强个人防护",
+            "C.消灭蚊蝇传播媒介",
+            "D.改善生产条件"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 25
+    },
+    {
+        "question_text": "26.寄生虫病防治原则是",
+        "options": [
+            "A.治疗病人",
+            "B.消灭保虫宿主",
+            "C.保护易感人群",
+            "D.针对流行环节，综合防治"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 26
+    },
+    {
+        "question_text": "27.宿主是指",
+        "options": [
+            "A.两种共栖生物中受害的一",
+            "B.两种互利共生生物中受害的一方",
+            "C.两种共栖生物中任何一方",
+            "D.营寄生生活的两种生物中受害的一方"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 27
+    },
+    {
+        "question_text": "28.最常见的人体寄生虫感染途径是",
+        "options": [
+            "A.经皮肤感染",
+            "B.经口感染",
+            "C.经血液感染",
+            "D.接触感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 28
+    },
+    {
+        "question_text": "29.带虫者的含义是",
+        "options": [
+            "A.体内有寄生虫寄生的病人",
+            "B.体内有寄生虫而无症状者",
+            "C.寄生虫病病人",
+            "D.体外有寄生虫寄生的病人"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 29
+    },
+    {
+        "question_text": "30.发生幼虫移行症的宿主属于",
+        "options": [
+            "A.终宿主",
+            "B.保虫宿主",
+            "C.中间宿主",
+            "D.转续宿主"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 30
+    },
+    {
+        "question_text": "31.患幼虫移行症的脊椎动物，其体内的寄生虫是",
+        "options": [
+            "A.处于滞育状态的成虫",
+            "B.处于滞育状态的幼虫",
+            "C.不能长期存活",
+            "D.处于滞育状态的雌虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 31
+    },
+    {
+        "question_text": "32.保虫宿主是指",
+        "options": [
+            "A.人体寄生虫寄生的动物",
+            "B.人体寄生虫寄生的脊椎动物",
+            "C.人体寄生虫寄生的所有动物",
+            "D.人体寄生虫寄生的无脊椎动物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 32
+    },
+    {
+        "question_text": "33.在动物分类学上，寄生虫属于",
+        "options": [
+            "A.软体动物",
+            "B.原核生物",
+            "C.低等无脊椎动物",
+            "D.动物界和植物界之间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 33
+    },
+    {
+        "question_text": "34.确诊寄生虫病的检验方法主要是",
+        "options": [
+            "A.免疫学检查",
+            "B.病原学检查",
+            "C.动物接种",
+            "D.分子生物学检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 34
+    },
+    {
+        "question_text": "35.人兽共患寄生虫病的定义是",
+        "options": [
+            "A.人传给脊椎动物的寄生虫病",
+            "B.脊椎动物传给人的寄生虫病",
+            "C.脊椎动物与人之间自然地传播着的寄生虫病",
+            "D.脊椎动物之间自然地传播着的寄生虫病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列寄生虫中可经接触动物而感染的是",
+        "options": [
+            "A.钩虫",
+            "B.疥螨",
+            "C.蛲虫",
+            "D.弓形虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 36
+    },
+    {
+        "question_text": "37.可经胎盘感染的寄生虫有",
+        "options": [
+            "A.贾第虫和隐孢子虫",
+            "B.丝虫和旋毛虫",
+            "C.疟原虫和弓形虫",
+            "D.血吸虫和并殖吸虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 37
+    },
+    {
+        "question_text": "38.寄生虫免疫逃逸的含义是指寄生虫",
+        "options": [
+            "A.抗原变异",
+            "B.改变宿主的免疫应答",
+            "C.对抗宿主免疫力的攻击而继续生存",
+            "D.体表结合宿主抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 38
+    },
+    {
+        "question_text": "39.伴随免疫主要见于",
+        "options": [
+            "A.丝虫感染",
+            "B.日本血吸虫感染",
+            "C.疟原虫感染",
+            "D.蛔虫感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 39
+    },
+    {
+        "question_text": "40.带虫免疫常见于",
+        "options": [
+            "A.丝虫感染",
+            "B.日本血吸虫感染",
+            "C.疟原虫感染",
+            "D.肺吸虫感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 40
+    },
+    {
+        "question_text": "41.存在于宿主血液中的寄生虫抗原为",
+        "options": [
+            "A.表面抗原",
+            "B.体抗原",
+            "C.循环抗原",
+            "D.排泄分泌抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 41
+    },
+    {
+        "question_text": "42.我国最常见的人体寄生虫是",
+        "options": [
+            "A.疟原虫",
+            "B.血吸虫",
+            "C.蛔虫",
+            "D.钩虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 42
+    },
+    {
+        "question_text": "43.据估计全世界每年死亡人数最多的寄生虫病是",
+        "options": [
+            "A.血吸虫病",
+            "B.利什曼病",
+            "C.阿米巴病",
+            "D.疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 43
+    },
+    {
+        "question_text": "44.据估计世界上感染人数最多的寄生虫是",
+        "options": [
+            "A.血吸虫",
+            "B.蛔虫",
+            "C.利什曼原虫",
+            "D.阿米巴原虫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 44
+    },
+    {
+        "question_text": "45.对宿主来说，寄生虫及其产物都是",
+        "options": [
+            "A.异物",
+            "B.废物",
+            "C.营养物",
+            "D.无关之物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 45
+    },
+    {
+        "question_text": "46.世界范围内，最重要的寄生虫病是",
+        "options": [
+            "A.血吸虫病",
+            "B.钩虫病",
+            "C.利什曼原虫",
+            "D.疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 46
+    },
+    {
+        "question_text": "47.两种生物在一起生活，其中一方受益，另一方既不受益也不受害，这种共生现象称为",
+        "options": [
+            "A.共栖",
+            "B.互利共生",
+            "C.寄生",
+            "D.共生"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 47
+    },
+    {
+        "question_text": "48.寄生虫流行的三个特点",
+        "options": [
+            "A.多发性、季节性、连续性",
+            "B.地方性、季节性、自然疫源性",
+            "C.地方性、阶段性、自然疫源性",
+            "D.阶段性、连续性、自然疫源性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列哪种寄生虫，人可作为其中间宿主和终宿主，但不能再人体内完成整个生活史",
+        "options": [
+            "A.卫氏并殖吸虫",
+            "B.间日疟原虫",
+            "C.华支睾吸虫",
+            "D.旋毛形线虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 49
+    },
+    {
+        "question_text": "50.幼虫移行症是指",
+        "options": [
+            "A.寄生蠕虫幼虫侵入非正常宿主后，在组织内移行造成的损害",
+            "B.寄生蠕虫侵入非正常宿主后，在组织内移行造成的损害",
+            "C.寄生蠕虫在常寄生部位以外的组织器官内寄生而造成的损害",
+            "D.寄生蠕虫幼虫侵入正常宿主后，在体内移行造成的损害"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 50
+    },
+    {
+        "question_text": "51.寄生虫的幼虫或无性繁殖阶段寄生的宿主称",
+        "options": [
+            "A.终宿主",
+            "B.保虫宿主",
+            "C.中间宿主",
+            "D.转续宿主"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 51
+    },
+    {
+        "question_text": "52.联合国开发计划署等倡议要求防治的6种热带病中，除麻风外，5种是寄生虫病，它们分别是",
+        "options": [
+            "A.疟疾、血吸虫病、丝虫病、锥虫病、利什曼病",
+            "B.疟疾、血吸虫病、钩虫病、丝虫病、利什曼病",
+            "C.疟疾、血吸虫病、钩虫病、阿米巴病、蛔虫病",
+            "D.疟疾、丝虫病、钩虫病、蛲虫病、蛔虫病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 52
+    },
+    {
+        "question_text": "53.寄生虫病流行的三环节是",
+        "options": [
+            "A.传染源、中间宿主、传播媒介",
+            "B.传染源、传播途径、易感人群",
+            "C.自然因素、生物因素、社会因素",
+            "D.温度、湿度、地理环境"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 53
+    },
+    {
+        "question_text": "54.人体寄生虫包括三大类",
+        "options": [
+            "A.吸虫、绦虫、线虫",
+            "B.原虫、线虫、节肢动物",
+            "C.吸虫、绦虫、原虫",
+            "D.原虫、蠕虫、节肢动物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列寄生虫中，生活史属于直接型的是",
+        "options": [
+            "A.血吸虫",
+            "B.猪带绦虫",
+            "C.丝虫",
+            "D.蛲虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 55
+    },
+    {
+        "question_text": "56.宿主对寄生虫产生免疫应答的结果，下列哪项不恰当",
+        "options": [
+            "A.寄生虫被杀死、清除",
+            "B.寄生虫产生免疫逃逸，继续在体内存活",
+            "C.宿主产生超敏反应",
+            "D.寄生虫与宿主维持平衡，互不干扰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 56
+    },
+    {
+        "question_text": "57.有些寄生虫是人兽共患寄生虫，在流行病学上，这些兽畜是寄生虫的",
+        "options": [
+            "A.传播媒介",
+            "B.保虫宿主",
+            "C.转续宿主",
+            "D.终宿主"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 57
+    },
+    {
+        "question_text": "58.寄生虫对宿主的损害可概括为",
+        "options": [
+            "A.机械性损害、掠夺营养、过敏反应",
+            "B.过敏反应、间接损害、掠夺营养",
+            "C.骚扰吸血、过敏反应、机械性损害",
+            "D.化学性损害、叮咬、过敏反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 58
+    },
+    {
+        "question_text": "59.机会致病寄生虫是",
+        "options": [
+            "A.偶然感染的寄生虫",
+            "B.随机感染的寄生虫",
+            "C.暂时寄生的寄生虫",
+            "D.免疫功能低下时致病的寄生虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 59
+    },
+    {
+        "question_text": "60.人体寄生虫的感染阶段是指",
+        "options": [
+            "A.感染人体的阶段",
+            "B.感染终宿主的阶段",
+            "C.感染中间宿主的阶段",
+            "D.感染保虫宿主的阶段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 60
+    },
+    {
+        "question_text": "61.寄生虫病的主要流行特点之一是",
+        "options": [
+            "A.传染性",
+            "B.反复性",
+            "C.长期性",
+            "D.地方性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 61
+    },
+    {
+        "question_text": "62.寄生虫的自然疫源性含义不包括",
+        "options": [
+            "A.寄生虫可从脊椎动物传播给偶然进入自然疫源地的人",
+            "B.寄生虫在脊椎动物之间自然传播",
+            "C.寄生虫病存在于原始森林或荒漠地区",
+            "D.寄生虫在昆虫媒介之间自然传播"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 62
+    },
+    {
+        "question_text": "63.人感染寄生虫后产生的免疫大多是",
+        "options": [
+            "A.消除性免疫",
+            "B.非消除性免疫",
+            "C.伴随免疫",
+            "D.体液免疫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "63",
+        "number": 63
+    }
+]

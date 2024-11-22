@@ -1,0 +1,842 @@
+[
+    {
+        "question_text": "1.细胞外液中主要阳离子是",
+        "options": [
+            "A.Na+",
+            "B.K+",
+            "C.Mg2+",
+            "D.Ca2+",
+            "E.Fe2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 1
+    },
+    {
+        "question_text": "2.细胞内液中主要阴离子是：",
+        "options": [
+            "A.HP042—、Cl一",
+            "B.HC03-、蛋白质",
+            "C.HP042一、蛋白质",
+            "D.Cl—、蛋白质",
+            "E.HPO42一、HCO3—"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 2
+    },
+    {
+        "question_text": "3.代谢性酸中毒最明显的表现是呼吸变得",
+        "options": [
+            "A.深快",
+            "B.浅慢",
+            "C.浅快",
+            "D.深慢",
+            "E.没有改变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 3
+    },
+    {
+        "question_text": "4.维持成年禁食病人的水电解质平衡错误的是：",
+        "options": [
+            "A.禁食病人每天需水1500?2000ml,5g,KCl3?4g",
+            "B.禁食病人每天需水2000?2500ml,8g,KCl3?4g",
+            "C.禁食病人每天需水2000?2500ml,5g,KCl2?3g",
+            "D.禁食病人每天需水2500?3000ml,9g,KCl3?4g",
+            "E.禁食病人每天需水2000?2500ml,5g,KCl3?4g"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 4
+    },
+    {
+        "question_text": "5.输液的常见并发症：",
+        "options": [
+            "A.输液过多；右心衰；输液过快，左心衰，",
+            "B.输液反应",
+            "C.静脉炎",
+            "D.输液顺序不当，加重原有水盐代谢，酸碱失衡",
+            "E.以上都有可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 5
+    },
+    {
+        "question_text": "6.反常性酸性尿最多见的情况是：",
+        "options": [
+            "A.水中毒",
+            "B.等渗性脱水",
+            "C.低血钾",
+            "D.酸中毒",
+            "E.低渗性脱水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 6
+    },
+    {
+        "question_text": "7.静脉补钾有浓度和速度限制，每升输液中含钾量不能超过多少，",
+        "options": [
+            "A.20mmol",
+            "B.40mmol",
+            "C.60mmol",
+            "D.80mmol",
+            "E.10mmol"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 7
+    },
+    {
+        "question_text": "8.静脉补钾有浓度和速度限制，输入钾量应控制在多少以下",
+        "options": [
+            "A.20mmol",
+            "B.40mmol",
+            "C.60mmol",
+            "D.80mmol",
+            "E.10mmol"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 8
+    },
+    {
+        "question_text": "9.高血钾最危险情况是",
+        "options": [
+            "A.心跳骤停",
+            "B.腹胀",
+            "C.肠梗阻",
+            "D.呕吐",
+            "E.呼吸抑制"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 9
+    },
+    {
+        "question_text": "10.在制定水电解质酸碱失衡的处理方案时要首先处理的是；",
+        "options": [
+            "A.低血容量、严重酸中毒、低血钾、缺氧",
+            "B.低血容量、严重酸中毒、高血钾、缺氧",
+            "C.低血容量、严重碱中毒、高血钾、缺氧",
+            "D.水中毒、严重酸碱中毒、低血钾、缺氧",
+            "E.低血容量、严重酸碱中毒、高血钾、缺氧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 10
+    },
+    {
+        "question_text": "11.在治疗高血钾病人时以下采用方法正确的是；",
+        "options": [
+            "A.静脉补钙",
+            "B.透析",
+            "C.输入碳酸氢钠",
+            "D.输入葡萄糖溶液及胰岛素",
+            "E.以上都对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 11
+    },
+    {
+        "question_text": "12.在治疗等渗性脱水时，如果大量输入等渗盐水，有可能导致血中电解质过高及中毒危险的是：",
+        "options": [
+            "A.钾，碱中毒",
+            "B.钠，酸中毒",
+            "C.氯，酸中毒",
+            "D.氯，碱中毒",
+            "E.钠，碱中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 12
+    },
+    {
+        "question_text": "13.如果患者有胃肠道消化液持续性丢失，大创面慢性渗液，多存在；",
+        "options": [
+            "A.等渗性脱水，低血钾",
+            "B.低渗性脱水，低血钾",
+            "C.高渗性脱水，低血钾",
+            "D.等渗性脱水，高血钾",
+            "E.低渗性脱水，高血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于一岁婴儿每日生理需要量的描述是正确的",
+        "options": [
+            "A.每日需水量为50~60ml/kg",
+            "B.需钠盐2~3mmol/kg",
+            "C.需水量为60~80ml/kg",
+            "D.需钠盐4~6mmol/kg",
+            "E.每日需水量为150~180ml/kg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 14
+    },
+    {
+        "question_text": "15.低渗性缺水、重度缺钠导致休克时，应快速输入",
+        "options": [
+            "A.5%氯化钠溶液",
+            "B.复方氯化钠溶液",
+            "C.平衡盐溶液",
+            "D.晶体溶液和胶体溶液",
+            "E.晶体溶液和升压药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 15
+    },
+    {
+        "question_text": "16.外科病人出现痉挛性疼痛、腱放射减弱、神志不清，神志昏迷时，首先考虑：",
+        "options": [
+            "A.脑血管意外",
+            "B.低血钾",
+            "C.高血钠",
+            "D.低血钠",
+            "E.高血磷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 16
+    },
+    {
+        "question_text": "17.低钾血症经补钾治疗后，病情任无改善，应考虑：",
+        "options": [
+            "A.低钠血症",
+            "B.高钙血症",
+            "C.低钙血症",
+            "D.低镁血症",
+            "E.低氯血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 17
+    },
+    {
+        "question_text": "18.瘢痕性幽门梗阻病人术前纠正体液失调时，最合适的液体为：",
+        "options": [
+            "A.1.25%NaHCO3液+林格液",
+            "B.1.25%NaHCO3液+5%葡萄糖溶液",
+            "C.5%葡萄糖溶液+氯化钾液",
+            "D.1.86%乳酸钠溶液",
+            "E.5%葡萄糖盐溶液+氯化钾液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 18
+    },
+    {
+        "question_text": "19.正常血钾浓度为.",
+        "options": [
+            "A.3.5?5.5mmol/L",
+            "B.5.5?6.5mmol/L",
+            "C.4.0?6.0mmol/L",
+            "D.5.0?7.0mmol/L",
+            "E.3.0?5.0mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 19
+    },
+    {
+        "question_text": "20.代谢性碱中毒时，氧合血红蛋白解离曲线",
+        "options": [
+            "A.右移",
+            "B.左移",
+            "C.上移",
+            "D.下移",
+            "E.固定不动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 20
+    },
+    {
+        "question_text": "21.一幽门梗阻男性病人，动脉血PH为7.50，此发现常伴有以下哪一项",
+        "options": [
+            "A.低血钾",
+            "B.血清碳酸盐与碳酸浓度之比＜20/1",
+            "C.PCO2降低",
+            "D.细胞外液量减少，引起组织灌注不足",
+            "E.呼吸功能衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 21
+    },
+    {
+        "question_text": "22.—肠梗阻患者手术后，血清Na+130mmol/L,K+3mmol/L,CI-98mmol/L,BUN8mmol/L.多考虑与下列那些因素有关：",
+        "options": [
+            "A.补充了大量等渗盐水",
+            "B.水分补充不足",
+            "C.补充了大量葡萄糖溶液",
+            "D.补充了足量钾盐",
+            "E.肾功能不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 22
+    },
+    {
+        "question_text": "23.补钾液体安全配制为：",
+        "options": [
+            "A.10%氯化钾15毫升+5%葡萄糖溶液500毫升",
+            "B.10%氯化钾20毫升+5%葡萄糖溶液500毫升",
+            "C.15%氯化钾15毫升+5%葡萄糖溶液500毫升",
+            "D.15%氯化钾30毫升+5%葡萄糖溶液100毫升",
+            "E.10%氯化钾15毫升+5%葡萄糖溶液250毫升"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于低钾血症正确的是：",
+        "options": [
+            "A.病人出现低钾性碱中毒时，其尿液也为碱性",
+            "B.低钾血症可以导致代谢性碱中毒",
+            "C.典型的心电图早期表现为T波高尖，QT间期延长",
+            "D.静脉补钾每升溶液中含钾量不能超过80mmol/L",
+            "E.使用静脉补钾，常可在1-2天内纠正低血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 24
+    },
+    {
+        "question_text": "25.有关代谢性酸中毒，正确的有：",
+        "options": [
+            "A.机体出现代谢性酸中毒，必须马上纠正",
+            "B.代谢性酸中毒代偿期的血pH正常，HCO3-、BE、PaCO2都降低",
+            "C.在纠正代谢性酸中毒时，注意钾离子的变化，防止出现高钾血症",
+            "D.对于血浆HCO3-低于16mmol/L的病人，应立即补钾",
+            "E.代谢性酸中毒代偿期的血pH正常，HCO3-增高、BE、PaCO2降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 25
+    },
+    {
+        "question_text": "26.关于高钾血症，正确的是：",
+        "options": [
+            "A.可见于严重的组织损伤，酸中毒",
+            "B.典型的心电图表现S-T段下移，U波出现",
+            "C.可以有明显的临床表现",
+            "D.在治疗中，运用胰岛素加葡萄糖的目的是促进钾离子排出体外",
+            "E.一般不采用透析疗法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于等渗性缺水，错误的是：",
+        "options": [
+            "A.治疗等渗性缺水，最好使用平衡盐溶液",
+            "B.单用等渗盐水治疗，易导致高氯性酸中毒",
+            "C.等渗性缺水在外科缺水中最难发生",
+            "D.等渗性缺水可伴有代谢性酸中毒或代谢性碱中毒",
+            "E.等渗性缺水可向高渗性缺水转化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 27
+    },
+    {
+        "question_text": "28.关于高渗性缺水，正确的是：?",
+        "options": [
+            "A.一般只缺水，很少缺钠",
+            "B.出现檐妄，昏迷时，缺水量多",
+            "C.常出现脑细胞水肿",
+            "D.补液时应该输入葡萄糖溶",
+            "E.高渗性缺水易发生休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 28
+    },
+    {
+        "question_text": "29.在下列情况下最容易出现等渗性脱水的是:",
+        "options": [
+            "A.腹腔内及腹膜后感染",
+            "B.胃肠道消化液持续丢失",
+            "C.大量放胸腹水",
+            "D.中暑",
+            "E.长期利尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 29
+    },
+    {
+        "question_text": "30.关于阴离子间隙正确的是:",
+        "options": [
+            "A.是指血浆中未被检出的阴离子的量，正常值为9~16mmol/L",
+            "B.运用盐酸精氨酸过量时导致的酸中毒阴离子间隙增大",
+            "C.乳酸性酸中毒阴离子间隙不变",
+            "D.糖尿病酮症酸中毒阴离子间隙增大",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 30
+    },
+    {
+        "question_text": "31,有关低钾血症叙述正确的是：",
+        "options": [
+            "A.最早出现的临床表现是腹胀",
+            "B.典型心电图表现是T波高尖",
+            "C.一般广2天就可以纠正",
+            "D.急性肾功能衰竭时不会发生",
+            "E.可见于代谢性或呼吸性碱中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 31
+    },
+    {
+        "question_text": "32,下列情况下代谢性酸中毒最不可能出现的是：",
+        "options": [
+            "A.休克",
+            "B.通气过度",
+            "C.呕吐",
+            "D.脱水",
+            "E.腹泻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 32
+    },
+    {
+        "question_text": "33,有关水中毒的叙述错误的是：",
+        "options": [
+            "A.水中毒又称细胞外水过多",
+            "B.可出现皮肤多汗、面色潮红、抽搐、昏迷。",
+            "C.可见于肾功能不全时",
+            "D.水中毒时尿中排钠量很少",
+            "E.水中毒诊断后要考虑使用利尿剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 33
+    },
+    {
+        "question_text": "女,48岁,行结肠癌手术后3天,动脉血气报告,pH7.34,PaC0230mmHg,BE-3.4mnol/L,HCO3—,18.6nmol/L。34.该患者最有可能为下列哪种诊断:",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.呼吸性酸中毒",
+            "C.代谢性碱中毒",
+            "D.呼吸性碱中毒",
+            "E.以上都可能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 34
+    },
+    {
+        "question_text": "35.此时作血K+、Na+、Cl-测定，最可能：",
+        "options": [
+            "A.K+INa+ICl—I",
+            "B.K+INa+tCl-t",
+            "C.K+tNa+tCl-I",
+            "D.K+INa+ICl—t",
+            "E.K+tNa+ICl—t"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 35
+    },
+    {
+        "question_text": "36.此时观察病人呼吸最可能出现的是：",
+        "options": [
+            "A.呼吸深而快",
+            "B.呼吸深而慢",
+            "C.呼吸浅而快",
+            "D.呼吸浅而慢",
+            "E.呼吸无变化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 36
+    },
+    {
+        "question_text": "男性,32岁,幽门梗阻7天,行胃肠减压及输液治疗后,全身乏力,脉搏细数,120/分,Na+125nmol/L,Cl_89mmol/L,K+3.0rmiol/L,CO2，CP32mmol/L。37.其体液代谢的类型为：",
+        "options": [
+            "A.低钾血症、高渗脱水",
+            "B.低钾血症、重度低渗缺水",
+            "C.低钾血症、重度等渗脱水",
+            "D.低钾血症、中度低渗缺水",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 37
+    },
+    {
+        "question_text": "38.最可能存在哪种酸碱失衡：",
+        "options": [
+            "A.呼吸性酸中毒",
+            "B.呼吸性碱中毒",
+            "C.代谢性酸中毒",
+            "D.代谢性碱中毒",
+            "E.都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 38
+    },
+    {
+        "question_text": "39.尿液检查最可能出现的情况是：",
+        "options": [
+            "A.比重下降，尿Na+t",
+            "B.比重I尿Na+I",
+            "C.比重t尿Na+t",
+            "D.比重t尿Na+I",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 39
+    },
+    {
+        "question_text": "40.如此时补钾，第一天总补钾是最适合的是：",
+        "options": [
+            "A.3g",
+            "B.4.5g",
+            "C.14g",
+            "D.8g",
+            "E.2g"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 40
+    },
+    {
+        "question_text": "41.如患者60kg,如此时补液，要补氯化钠（选最合适答案）",
+        "options": [
+            "A.10g",
+            "B.20g",
+            "C.25g",
+            "D.15g",
+            "E.30g"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 41
+    },
+    {
+        "question_text": "42.对于该患者的酸碱失衡处理，正确的是：",
+        "options": [
+            "A.输NaHCO3",
+            "B.输盐酸精氨酸",
+            "C.暂不处理，待输入平衡盐水和氯化钾后再决定",
+            "D.输入盐酸",
+            "E.加强通气"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 42
+    },
+    {
+        "question_text": "一女性患者,反复呕吐20天,伴全身乏力5天,腹部隐痛。体查:脉搏114次/分,血压12/8kPa(90/60mmHg)，浅静脉萎缩,心肺无异常。实验室检查:Hb186g/L,RBC6.4X1012/L,BUN6.5mmol/L。43.询问病史时下列那项为各型缺水所共有",
+        "options": [
+            "A.头昏",
+            "B.尿量减少",
+            "C.呕吐",
+            "D.口渴",
+            "E.烦躁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 43
+    },
+    {
+        "question_text": "44.对于该患者缺水诊断意义最小的检查项目为",
+        "options": [
+            "A.红细胞比容",
+            "B.尿比重测定",
+            "C.血清钠离子测定",
+            "D.Hb测定",
+            "E.BUN测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 44
+    },
+    {
+        "question_text": "45.在该患者补液时，当尿量未监测时，最不应该补充：",
+        "options": [
+            "A.等渗盐水",
+            "B.血浆",
+            "C.右旋糖酎",
+            "D.5%碳酸氢钠",
+            "E.10%氯化钾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 45
+    },
+    {
+        "question_text": "46.在该患者补充血容量和钠盐后，补碱性液体因依据",
+        "options": [
+            "A.呼吸频率",
+            "B.血清钠水平",
+            "C.血清HCO3—水平",
+            "D.血气分析结果",
+            "E.尿量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 46
+    },
+    {
+        "question_text": "47.若患者体重为60公斤，血清钠为130mmol/L，第一天应补充：",
+        "options": [
+            "A.10%葡萄糖溶液3000毫升+5%葡萄糖盐水1500毫升",
+            "B.10%葡萄糖溶液1500毫升+5%葡萄糖盐水500毫升",
+            "C.10%葡萄糖溶液1000毫升+5%葡萄糖盐水2500毫升",
+            "D.10%葡萄糖溶液2000毫升+5%葡萄糖盐水1500毫升",
+            "E.10%葡萄糖溶液3500毫升+5%葡萄糖盐水1500毫升"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 47
+    },
+    {
+        "question_text": "48.男性病人，65岁，因肠梗阻2天伴乏力、尿少入院，体查：体温38.5°C,Bp90/60mmHg，皮肤弹性差，眼球凹陷，浅静脉萎缩，腹胀、肠鸣音消失，腱反射减弱，该患者有可能存在何种水电解质，酸碱失衡",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.低血钾",
+            "C.等渗性脱水",
+            "D.低渗性脱水",
+            "E.以上都有可能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 48
+    },
+    {
+        "question_text": "49.如果确诊失衡类型，要进行哪些检查？",
+        "options": [
+            "A.三大常规",
+            "B.血电解质",
+            "C.血气分析",
+            "D.肝肾功能",
+            "E.以上都需要"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 49
+    },
+    {
+        "question_text": "50.代谢性酸中毒",
+        "options": [
+            "A.HCO3－↓，pH↓，PCO2正常",
+            "B.HCO3－↑，pH↑，PCO2正常",
+            "C.HCO3－正常，pH↓，PCO2↑",
+            "D.HCO3－↓，pH↓，PCO2正常",
+            "E.HCO3－↓，pH↑，PCO2↓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 50
+    },
+    {
+        "question_text": "51.呼吸性碱中毒",
+        "options": [
+            "A.HCO3－↓，pH↓，PCO2正常",
+            "B.HCO3－↑，pH↑，PCO2正常",
+            "C.HCO3－正常，pH↓，PCO2↑",
+            "D.HCO3－↓，pH↓，PCO2正常",
+            "E.HCO3－↓，pH↑，PCO2↓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 51
+    },
+    {
+        "question_text": "52.代谢性碱中毒",
+        "options": [
+            "A.HCO3－↓，pH↓，PCO2正常",
+            "B.HCO3－↑，pH↑，PCO2正常",
+            "C.HCO3－正常，pH↓，PCO2↑",
+            "D.HCO3－↓，pH↓，PCO2正常",
+            "E.HCO3－↓，pH↑，PCO2↓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 52
+    },
+    {
+        "question_text": "53.高渗性脱水多见于",
+        "options": [
+            "A.中暑",
+            "B.肺炎高热",
+            "C.输入库血",
+            "D.烧伤创面长期大面积渗液",
+            "E.感染性休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 53
+    },
+    {
+        "question_text": "54.高血钾症多见于",
+        "options": [
+            "A.中暑",
+            "B.肺炎高热",
+            "C.输入库血",
+            "D.烧伤创面长期大面积渗液",
+            "E.感染性休克"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 54
+    },
+    {
+        "question_text": "55.低渗性脱水见于",
+        "options": [
+            "A.中暑",
+            "B.肺炎高热",
+            "C.输入库血",
+            "D.烧伤创面长期大面积渗液",
+            "E.感染性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 55
+    },
+    {
+        "question_text": "56.代谢性酸中毒最多见于",
+        "options": [
+            "A.中暑",
+            "B.肺炎高热",
+            "C.输入库血",
+            "D.烧伤创面长期大面积渗液",
+            "E.感染性休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 56
+    },
+    {
+        "question_text": "57.功能性细胞外液",
+        "options": [
+            "A.血液",
+            "B.肠液",
+            "C.尿液",
+            "D.汗液",
+            "E.创面渗出液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 57
+    },
+    {
+        "question_text": "58.非功能性细胞外液",
+        "options": [
+            "A.血液",
+            "B.肠液",
+            "C.尿液",
+            "D.汗液",
+            "E.创面渗出液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 58
+    },
+    {
+        "question_text": "59.正常血清钾浓度为",
+        "options": [
+            "A.135?145mmol/L",
+            "B.3.5?5.5mmol/L",
+            "C.130?150mmol/L",
+            "D.4.5?6.5mmol/L",
+            "E.128?142mmol/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 59
+    },
+    {
+        "question_text": "60.血清钠溶度为",
+        "options": [
+            "A.135?145mmol/L",
+            "B.3.5?5.5mmol/L",
+            "C.130?150mmol/L",
+            "D.4.5?6.5mmol/L",
+            "E.128?142mmol/L"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "60",
+        "number": 60
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.具有拟胆碱和组胺样作用的药物是:",
+        "options": [
+            "A.酚苄明",
+            "B.美托洛尔",
+            "C.普萘洛尔",
+            "D.拉贝洛尔",
+            "E.酚妥拉明"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.普萘洛尔不具有的作用是:",
+        "options": [
+            "A.抑制肾素分泌",
+            "B.呼吸道阻力增大",
+            "C.抑制脂肪分解",
+            "D.增加糖原分解",
+            "E.心收缩力减弱,心率减慢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.β受体阻断药可引起:",
+        "options": [
+            "A.增加肾素分泌",
+            "B.增加糖原分解",
+            "C.增加心肌耗氧量",
+            "D.房室传导加快",
+            "E.外周血管收缩和阻力增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.具有降眼内压的β受体阻断药是:",
+        "options": [
+            "A.美托洛尔",
+            "B.阿替洛尔",
+            "C.普萘洛尔",
+            "D.噻吗洛尔",
+            "E.拉贝洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.可诱发或加重支气管哮喘的药物是",
+        "options": [
+            "A.酚妥拉明",
+            "B.妥拉唑林",
+            "C.酚苄明",
+            "D.普萘洛尔",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗外周血管痉挛性疾病的药物是:",
+        "options": [
+            "A.拉贝洛尔",
+            "B.酚苄明",
+            "C.普萘洛尔",
+            "D.美托洛尔",
+            "E.噻吗洛尔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.选择性α1受体阻断药是:",
+        "options": [
+            "A.拉贝洛尔",
+            "B.普洛尔",
+            "C.哌唑嗪",
+            "D.吲哚洛尔",
+            "E.噻吗洛尔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.普萘洛尔阻断突触前膜β受体可引起",
+        "options": [
+            "A.心收缩力增强",
+            "B.心率加快",
+            "C.外周血管舒张",
+            "D.传导加快",
+            "E.去甲肾上腺素释放减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.可翻转肾上腺素升压效应的药物是:",
+        "options": [
+            "A.NN受体阻断药",
+            "B.β受体阻断药",
+            "C.NM受体阻断药",
+            "D.M受体阻断药",
+            "E.a受体阻断药"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列属非竞争性α受体阻断药是:",
+        "options": [
+            "A.新斯的明",
+            "B.酚妥拉明",
+            "C.酚苄明",
+            "D.甲氧明",
+            "E.妥拉唑林"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列属竞争性受体阻断药是:",
+        "options": [
+            "A.间羟胺",
+            "B.酚妥拉明",
+            "C.酚苄明",
+            "D.甲氧明",
+            "E.新斯的明"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.无内在拟交感活性的非选择性β受体阻断药是:",
+        "options": [
+            "A.美托洛尔",
+            "B.阿替洛尔",
+            "C.拉贝洛尔",
+            "D.普萘洛尔",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

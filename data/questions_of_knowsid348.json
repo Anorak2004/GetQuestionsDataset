@@ -1,0 +1,954 @@
+[
+    {
+        "question_text": "1.属于适度阻滞钠通道药(Ia类)的是",
+        "options": [
+            "A.利多卡因",
+            "B.维拉帕米",
+            "C.胺碘酮",
+            "D.氟卡尼",
+            "E.普鲁卡因胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 1
+    },
+    {
+        "question_text": "2.细胞外K浓度较高时能减慢传导,血K降低时能加速传导的抗心律失常药是:",
+        "options": [
+            "A.索他洛尔",
+            "B.利多卡因",
+            "C.丙吡胺",
+            "D.氟卡尼",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 2
+    },
+    {
+        "question_text": "3.决定传导速度的重要因素是:",
+        "options": [
+            "A.有效不应期",
+            "B.膜反应性",
+            "C.阈电位水平",
+            "D.4相自动除极速率",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 3
+    },
+    {
+        "question_text": "4.选择性延长复极过程的药物是:",
+        "options": [
+            "A.普鲁卡因胺",
+            "B.胺碘酮",
+            "C.氟卡尼",
+            "D.普萘洛尔",
+            "E.普罗帕酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 4
+    },
+    {
+        "question_text": "5.治疗窦性心动过缓的首选药是",
+        "options": [
+            "A.肾上腺素",
+            "B.异丙肾上腺素",
+            "C.去甲肾上腺素",
+            "D.多巴胺",
+            "E.阿托品"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 5
+    },
+    {
+        "question_text": "6.防治急性心肌梗死时室性心动过速的首选药是",
+        "options": [
+            "A.普萘洛尔",
+            "B.利多卡因",
+            "C.奎尼丁",
+            "D.维拉帕米",
+            "E.普鲁卡因胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 6
+    },
+    {
+        "question_text": "7.治疗强心甙中毒引起的窦性心动过缓和轻度房室传导阻滞最好选用:",
+        "options": [
+            "A.阿托品",
+            "B.异丙肾上腺素",
+            "C.苯妥英钠",
+            "D.肾上腺素",
+            "E.麻黄碱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 7
+    },
+    {
+        "question_text": "8.以奎尼丁为代表的Ia类药的电生理是",
+        "options": [
+            "A.明显抑制0相上升最大速率,明显抑制传导,APD延长",
+            "B.适度抑制0相上升最大速率,适度抑制传导,APD延长",
+            "C.轻度抑制0相上升最大速率,轻度抑制传导,APD不变",
+            "D.适度抑制0相上升最大速率,严重抑制传导,APD缩短",
+            "E.轻度抑制0相上升最大速率,轻度抑制传导,APD缩短"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 8
+    },
+    {
+        "question_text": "9.可引起尖端扭转型室性心动过速的药物是:",
+        "options": [
+            "A.利多卡因",
+            "B.奎尼丁",
+            "C.苯妥英钠",
+            "D.普萘洛尔",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 9
+    },
+    {
+        "question_text": "10.与利多卡因比较美西律的不同是:",
+        "options": [
+            "A.作用较弱",
+            "B.兼有α受体阻断作用",
+            "C.可供口服,作用持久",
+            "D.有较强的拟胆碱作用",
+            "E.不良反应较轻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列抗心律失常药的不良反应的叙述,哪一项是错误的:",
+        "options": [
+            "A.奎尼丁可引起金鸡纳反应",
+            "B.普鲁卡因胺静注可致低血压",
+            "C.丙吡胺可致口干、便秘及尿潴留",
+            "D.利多卡因可引起红斑狼疮样综合征",
+            "E.氟卡尼可致心律失常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 11
+    },
+    {
+        "question_text": "12.有关胺碘酮的不良反应错误叙述是:",
+        "options": [
+            "A.可致窦性心动过速",
+            "B.可发生尖端扭转型室性心律失常",
+            "C.可发生肺纤维化",
+            "D.可发生角膜色素沉着",
+            "E.可致甲状腺功能亢进或减退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 12
+    },
+    {
+        "question_text": "13.心房纤颤复转后预防复发宜选用:",
+        "options": [
+            "A.奎尼丁",
+            "B.普鲁卡因胺",
+            "C.普萘洛尔",
+            "D.胺碘酮",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 13
+    },
+    {
+        "question_text": "14.对Na+、K+、Ca2+通道都有阻滞作用的药物是:",
+        "options": [
+            "A.利多卡因",
+            "B.维拉帕米",
+            "C.苯妥英钠",
+            "D.奎尼丁",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 14
+    },
+    {
+        "question_text": "15.首关消除明显的药物是",
+        "options": [
+            "A.苯妥英钠",
+            "B.氟卡尼",
+            "C.普鲁卡因胺",
+            "D.利多卡因",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 15
+    },
+    {
+        "question_text": "16.缩短APD和ERP的药物是:",
+        "options": [
+            "A.苯妥英钠",
+            "B.普鲁卡因胺",
+            "C.奎尼丁",
+            "D.胺碘酮",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 16
+    },
+    {
+        "question_text": "17.治疗浓度利多卡因的作用部位是:",
+        "options": [
+            "A.心房、房室结、心室、希-浦系统",
+            "B.房室结、心室、希-浦系统",
+            "C.心室、希-浦系统",
+            "D.希-浦系统",
+            "E.全部心脏组织"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 17
+    },
+    {
+        "question_text": "18.可完全对抗迟后除极所引起的触发活动的药物:",
+        "options": [
+            "A.毒毛旋花子甙K",
+            "B.西地兰",
+            "C.阿托品",
+            "D.异丙肾上腺素",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 18
+    },
+    {
+        "question_text": "19.对普萘洛尔的抗心律失常作用,下述哪一项是错误的:",
+        "options": [
+            "A.阻断β受体",
+            "B.降低儿茶酚胺所致自律性",
+            "C.治疗量延长浦肯野纤维APD和ERP",
+            "D.延长房室结的ERP",
+            "E.降低窦房结的自律性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 19
+    },
+    {
+        "question_text": "20.治疗室性心律失常的首选药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.维拉帕米",
+            "C.普洛尔",
+            "D.利多卡因",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 20
+    },
+    {
+        "question_text": "21.伴青光眼或前列腺肥大的心律失常患者禁用的药物是:",
+        "options": [
+            "A.利多卡因",
+            "B.普萘洛尔",
+            "C.奎尼丁",
+            "D.普罗帕酮",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 21
+    },
+    {
+        "question_text": "22.属于广谱抗心律失常的药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.维拉帕米",
+            "C.普萘洛尔",
+            "D.苯妥英钠",
+            "E.普罗帕酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 22
+    },
+    {
+        "question_text": "23.首过效应显著,不宜口服给药的药物是:",
+        "options": [
+            "A.奎尼丁",
+            "B.普鲁卡因胺",
+            "C.苯妥英钠",
+            "D.利多卡因",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 23
+    },
+    {
+        "question_text": "24.可引起金鸡纳反应的药物是:",
+        "options": [
+            "A.奎尼丁",
+            "B.普鲁卡因胺",
+            "C.胺碘酮",
+            "D.普萘洛尔",
+            "E.普罗帕酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 24
+    },
+    {
+        "question_text": "25.长期应用能引起红斑狼疮样综合征的药物是:",
+        "options": [
+            "A.奎尼丁",
+            "B.利多卡因",
+            "C.普萘洛尔",
+            "D.普鲁卡因胺",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 25
+    },
+    {
+        "question_text": "26.对维拉帕米的错误叙述是:",
+        "options": [
+            "A.窄谱的抗心律失常药",
+            "B.阻断心肌慢钙通道",
+            "C.抑制钙内流",
+            "D.对室上性心律失常疗效好",
+            "E.对室性心律失常疗效好"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 26
+    },
+    {
+        "question_text": "27.治疗急性心肌梗死所致室性心律失常的首选药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.普萘洛尔",
+            "C.利多卡因",
+            "D.胺碘酮",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 27
+    },
+    {
+        "question_text": "28.治疗洋地黄中毒引起的室性心律失常的首选药物是:",
+        "options": [
+            "A.奎尼丁",
+            "B.普萘洛尔",
+            "C.维拉帕米",
+            "D.胺碘酮",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 28
+    },
+    {
+        "question_text": "29.治疗阵发性室上性心动过速的首选药物是:",
+        "options": [
+            "A.奎尼丁",
+            "B.利多卡因",
+            "C.普鲁卡因胺",
+            "D.苯妥英钠",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 29
+    },
+    {
+        "question_text": "30.关于利多卡因,下述哪一项是错误的",
+        "options": [
+            "A.促进复极相K外流,APD缩短",
+            "B.抑制4相Na内流,降低自律性",
+            "C.加快缺血心肌的传导速度",
+            "D.主要作用于心室肌和浦氏纤维",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列不用于治疗室性心律失常的是",
+        "options": [
+            "A.奎尼丁、利多卡因",
+            "B.维拉帕米、地尔硫卓",
+            "C.普罗帕酮、利多卡因",
+            "D.普萘洛尔、奎尼丁",
+            "E.普萘洛尔、普罗帕酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 31
+    },
+    {
+        "question_text": "32.治疗强心苷中毒引起的快速型心律失常的最佳药物是",
+        "options": [
+            "A.苯妥英钠",
+            "B.普萘洛尔",
+            "C.胺碘酮",
+            "D.维拉帕米",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 32
+    },
+    {
+        "question_text": "33.治疗急性心肌梗死所致室性心动过速的首选药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.胺碘酮",
+            "C.美托洛尔",
+            "D.利多卡因",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 33
+    },
+    {
+        "question_text": "34.发生低血钾时加快传导的药物",
+        "options": [
+            "A.普鲁卡因胺",
+            "B.胺碘酮",
+            "C.氟卡尼",
+            "D.苯妥英钠",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 34
+    },
+    {
+        "question_text": "35.利多卡因对哪种心律失常无效",
+        "options": [
+            "A.心肌梗死致室性心律失常",
+            "B.强心苷中毒致室性心律失常",
+            "C.心室纤颤",
+            "D.心房纤颤",
+            "E.室性早搏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 35
+    },
+    {
+        "question_text": "36.有关胺碘酮的叙述,下述哪一项是错误的",
+        "options": [
+            "A.广谱抗心律失常,但不能用于预激综合症",
+            "B.抑制Ca2+内流",
+            "C.抑制K+外流",
+            "D.非竞争性阻滞α、β受体",
+            "E.显著延长APD和ERP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 36
+    },
+    {
+        "question_text": "37.关于普萘洛尔抗心律失常的叙述,下列哪一项是错误的",
+        "options": [
+            "A.降低窦房结的自律性",
+            "B.治疗量延长浦氏纤维的APD和ERP",
+            "C.减慢房室传导",
+            "D.治疗量延长房室结的APD和ERP",
+            "E.阻断心脏的β受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 37
+    },
+    {
+        "question_text": "38.有关抗心律失常药的叙述,下列哪一项是错误的",
+        "options": [
+            "A.普罗帕酮属于Ic类抗心律失常药",
+            "B.奎尼丁可引起尖端扭转型室性心律失常",
+            "C.普萘洛尔不能用于室性心律失常",
+            "D.利多卡因可引起窦性停搏",
+            "E.胺碘酮是广谱抗心律失常药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 38
+    },
+    {
+        "question_text": "39.主要使窦房结房室结的自律性降低、传导速度减慢ERP延长的药物是",
+        "options": [
+            "A.利多卡因",
+            "B.美西律",
+            "C.苯妥英钠",
+            "D.维拉帕米",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 39
+    },
+    {
+        "question_text": "40.阵发性室上性心动过速并发变异型心绞痛,宜采用下述何种药物治疗",
+        "options": [
+            "A.维拉帕米",
+            "B.利多卡因",
+            "C.普鲁卡因胺",
+            "D.奎尼丁",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 40
+    },
+    {
+        "question_text": "41.使用奎尼丁治疗心房纤颤常合用强心苷,因为后者能",
+        "options": [
+            "A.拮抗奎尼丁的血管扩张作用",
+            "B.拮抗奎尼丁对心脏的抑制作用",
+            "C.提高奎尼丁的血药浓度",
+            "D.增强奎尼丁的抗心律失常作用",
+            "E.对抗奎尼丁使心室率加快的作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列哪一项是胺碘酮降低自律性的主要机制",
+        "options": [
+            "A.促进快反应细胞4相Na+内流",
+            "B.促进慢反应细胞4相Ca2+内流",
+            "C.促进K+外流",
+            "D.抑制K+外流",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 42
+    },
+    {
+        "question_text": "43.不能阻滞钠通道的药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.利多卡因",
+            "C.氟卡尼",
+            "D.普萘洛尔",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 43
+    },
+    {
+        "question_text": "44.不用于治疗强心苷中毒所致心律失常的药物是",
+        "options": [
+            "A.利多卡因",
+            "B.苯妥英钠",
+            "C.阿托品",
+            "D.钾盐",
+            "E.氟卡尼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 44
+    },
+    {
+        "question_text": "45.有关胺碘酮的描述不正确的是",
+        "options": [
+            "A.能明显抑制复极过程",
+            "B.在肝中代谢",
+            "C.主要经肾脏排泄",
+            "D.是广谱抗心律失常药",
+            "E.长期用药后患者角膜可有黄色微粒沉着"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 45
+    },
+    {
+        "question_text": "46.利多卡因的下列哪一个作用不确定",
+        "options": [
+            "A.减慢传导速度",
+            "B.降低浦肯野纤维的自律性",
+            "C.对窦房结的自律性没有影响",
+            "D.缩短心室肌不应期",
+            "E.缩短浦肯野纤维不应期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 46
+    },
+    {
+        "question_text": "47.有关奎尼丁药理作用的叙述,正确的是",
+        "options": [
+            "A.直接作用于心肌,中度抑制Na+内流",
+            "B.可使正常窦房结自律性降低明显",
+            "C.竞争性阴断N受体,有抗胆碱作用",
+            "D.可缩短动作电位时程",
+            "E.可加快心脏传导速度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 47
+    },
+    {
+        "question_text": "48.主要通过阻滞钠通道发挥抗心律失常作用的药物是",
+        "options": [
+            "A.利多卡因",
+            "B.胺碘酮",
+            "C.普萘洛尔",
+            "D.地高辛",
+            "E.维拉帕米"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 48
+    },
+    {
+        "question_text": "49.治疗窦性心动过速最佳选择药物",
+        "options": [
+            "A.奎尼丁",
+            "B.美西律",
+            "C.苯妥英钠",
+            "D.洋地黄毒苷",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 49
+    },
+    {
+        "question_text": "50.关于普鲁卡因胺的叙述下列哪项是正确的",
+        "options": [
+            "A.属Ib类抗心律失常药",
+            "B.常用于室上性心动过速",
+            "C.长期口服不良反应少见",
+            "D.药理作用于奎尼丁相似而较弱",
+            "E.快代谢者易发生红斑性狼疮样综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 50
+    },
+    {
+        "question_text": "51.选择性降低浦氏纤维自律性，缩短APD的药物",
+        "options": [
+            "A.利多卡因",
+            "B.奎尼丁",
+            "C.普鲁卡因胺",
+            "D.普萘洛尔",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 51
+    },
+    {
+        "question_text": "52.维拉帕米对心肌细胞膜离子转运的影响",
+        "options": [
+            "A.阻止Na+内流",
+            "B.阻止K+内流",
+            "C.阻止Ca2+内流",
+            "D.促进K+外流",
+            "E.促进Ca2+外流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 52
+    },
+    {
+        "question_text": "53.有抗胆碱和阻滞α受体作用的药物是",
+        "options": [
+            "A.奎尼丁",
+            "B.普萘洛尔",
+            "C.利多卡因",
+            "D.胺碘酮",
+            "E.美西律"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 53
+    },
+    {
+        "question_text": "54.抗心律失常药的基本电生理作用是",
+        "options": [
+            "A.降低异位节律点的自律性",
+            "B.加快或减慢传导而取消折返",
+            "C.延长或相对延长ERP而取消折返",
+            "D.抑制后除极和触发活动",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 54
+    },
+    {
+        "question_text": "55.能用于治疗预激综合症的药物",
+        "options": [
+            "A.奎尼丁",
+            "B.利多卡因",
+            "C.维拉帕米",
+            "D.普罗帕酮",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 55
+    },
+    {
+        "question_text": "56.利多卡因治疗心律失常的给药方式",
+        "options": [
+            "A.舌下含化",
+            "B.静脉给药",
+            "C.肌内注射",
+            "D.直肠给药",
+            "E.口服"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 56
+    },
+    {
+        "question_text": "57.血钾降低明显影响其疗效的药物",
+        "options": [
+            "A.胺碘酮",
+            "B.利多卡因",
+            "C.普萘洛尔",
+            "D.维拉帕米",
+            "E.普罗帕酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 57
+    },
+    {
+        "question_text": "58.奎尼丁不具有下列哪项药理作用",
+        "options": [
+            "A.拟胆碱作用",
+            "B.降低自律性",
+            "C.减慢传导速度",
+            "D.阻断α受体",
+            "E.延长ERP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 58
+    },
+    {
+        "question_text": "59.奎尼丁治疗折返性心律失常的机制",
+        "options": [
+            "A.加快传导,消除单向阻滞",
+            "B.减慢传导,消除单向阻滞",
+            "C.加快传导,变单向阻滞为双向阻滞",
+            "D.减慢传导,变单向阻滞为双向阻滞",
+            "E.以上均不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 59
+    },
+    {
+        "question_text": "60.具有抗癲痫作用的抗心律失常药是",
+        "options": [
+            "A.利多卡因",
+            "B.维拉帕米",
+            "C.普鲁卡因胺",
+            "D.妥卡尼",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 60
+    },
+    {
+        "question_text": "61.利多卡因对下列哪种心律失常无效",
+        "options": [
+            "A.室颤",
+            "B.室性早搏",
+            "C.室上性心动过速",
+            "D.心肌梗死所致的室性早搏",
+            "E.强心苷中毒所致的室性早搏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 61
+    },
+    {
+        "question_text": "62.心室纤颤宜选用",
+        "options": [
+            "A.奎尼丁",
+            "B.利多卡因",
+            "C.维拉帕米",
+            "D.普萘洛尔",
+            "E.美西律"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 62
+    },
+    {
+        "question_text": "63.延长ADP,可治疗预激综合症的药物是",
+        "options": [
+            "A.利多卡因",
+            "B.苯妥英钠",
+            "C.胺碘酮",
+            "D.奎尼丁",
+            "E.美西律"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪种药属于广谱抗心律失常药",
+        "options": [
+            "A.普罗帕酮",
+            "B.利多卡因",
+            "C.苯妥英钠",
+            "D.氟卡尼",
+            "E.奎尼丁"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 64
+    },
+    {
+        "question_text": "65.维拉帕米的主要作用部位",
+        "options": [
+            "A.窦房结和房室结",
+            "B.浦氏纤维和心室肌",
+            "C.心房肌和心室肌",
+            "D.心房肌和浦氏纤维",
+            "E.窦房结和心房肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 65
+    },
+    {
+        "question_text": "66.维拉帕米对房室结的影响",
+        "options": [
+            "A.降低自律性,加快传导",
+            "B.降低自律性,减慢传导",
+            "C.缩短不应期,减慢传导",
+            "D.缩短不应期,加快传导",
+            "E.缩短不应期,降低自律性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 66
+    },
+    {
+        "question_text": "67.可引起金鸡纳反应的抗心律失常药",
+        "options": [
+            "A.丙吡胺",
+            "B.普鲁卡因胺",
+            "C.妥卡尼",
+            "D.奎尼丁",
+            "E.氟卡尼"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 67
+    },
+    {
+        "question_text": "68.与交感神经兴奋有关的心律失常宜选用",
+        "options": [
+            "A.普鲁卡因胺",
+            "B.利多卡因",
+            "C.苯妥英钠",
+            "D.普萘洛尔",
+            "E.胺碘酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "68",
+        "number": 68
+    }
+]

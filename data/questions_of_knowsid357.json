@@ -1,0 +1,380 @@
+[
+    {
+        "question_text": "1.米索前列醇抗消化性溃疡的机制是:",
+        "options": [
+            "A.中和胃酸",
+            "B.阻断壁细胞胃泌素受体",
+            "C.阻断壁细胞H2受体",
+            "D.阻断壁细胞M受体",
+            "E.保护细胞或粘膜作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 1
+    },
+    {
+        "question_text": "2.能抑制胃酸形成的最后环节,发挥治疗作用的药物",
+        "options": [
+            "A.米西替丁",
+            "B.哌仑西平",
+            "C.丙谷胺",
+            "D.奥美拉唑",
+            "E.恩前列醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 2
+    },
+    {
+        "question_text": "3.配伍恰当、疗效增强的抗酸药复方是:",
+        "options": [
+            "A.氢氧化铝+氢氧化镁",
+            "B.碳酸氢钠+氢氧化铝",
+            "C.氢氧化铝+碳酸钙",
+            "D.碳酸氢钠+碳酸钙",
+            "E.氢氧化镁+三硅酸镁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 3
+    },
+    {
+        "question_text": "4.严重胃溃疡病人不宜使用",
+        "options": [
+            "A.氢氧化铝",
+            "B.氢氧化镁",
+            "C.三硅酸镁",
+            "D.碳酸钙",
+            "E.奥美拉唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 4
+    },
+    {
+        "question_text": "5.抗消化性溃疡药米索前列醇禁用于妊娠妇女是由于",
+        "options": [
+            "A.子宫收缩作用",
+            "B.致畸胎作用",
+            "C.反射性盆腔充血",
+            "D.胃肠道反应",
+            "E.女性胎儿男性化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 5
+    },
+    {
+        "question_text": "6.临床口服用于治疗消化性溃疡的前列腺素类药物",
+        "options": [
+            "A.双嘧达莫",
+            "B.前列环素",
+            "C.米索前列醇",
+            "D.前列腺素E2",
+            "E.奥美拉唑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 6
+    },
+    {
+        "question_text": "7.阻断胃壁细胞H+泵的抗消化性溃疡药是:",
+        "options": [
+            "A.米索前列醇",
+            "B.奥美拉唑",
+            "C.丙谷胺",
+            "D.丙胺太林",
+            "E.米西替丁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 7
+    },
+    {
+        "question_text": "8.长期使用可引起阳痿的抗消化性溃疡药是",
+        "options": [
+            "A.氢氧化铝",
+            "B.西咪替丁",
+            "C.哌仑西平",
+            "D.米索前列醇",
+            "E.硫糖铝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 8
+    },
+    {
+        "question_text": "9.对细胞色素P450肝药酶活性抑制较强的药物是",
+        "options": [
+            "A.雷尼替丁",
+            "B.西咪替丁",
+            "C.法莫替丁",
+            "D.尼扎替丁",
+            "E.奥美拉唑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 9
+    },
+    {
+        "question_text": "10.有安定作用的抗消化性疡药是",
+        "options": [
+            "A.阿托品",
+            "B.哌仑西平",
+            "C.丙胺太林",
+            "D.异丙基阿托品",
+            "E.胃复康"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 10
+    },
+    {
+        "question_text": "11.抗胃酸作用强、快而短暂的药物是",
+        "options": [
+            "A.碳酸钙",
+            "B.氢氧化镁",
+            "C.三硅酸镁",
+            "D.氢氧化铝",
+            "E.碳酸氢钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 11
+    },
+    {
+        "question_text": "12.抗胃酸作用弱、慢而持久的药物是",
+        "options": [
+            "A.三硅酸镁",
+            "B.氢氧化铝",
+            "C.氢氧化镁",
+            "D.碳酸氢钠",
+            "E.碳酸钙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 12
+    },
+    {
+        "question_text": "13.西咪替丁抑制胃酸分泌的机制是",
+        "options": [
+            "A.阻断M胆碱受体",
+            "B.阻断H2受体",
+            "C.阻断H1受体",
+            "D.保护胃粘膜",
+            "E.中和胃酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 13
+    },
+    {
+        "question_text": "14.哌仑西平抑制胃酸分泌的机制是",
+        "options": [
+            "A.阻断H2受体",
+            "B.阻断M受体",
+            "C.阻断N受体",
+            "D.胃壁细胞H泵抑制药",
+            "E.阻断胃泌素受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 14
+    },
+    {
+        "question_text": "15.米索前列醇禁用于妊娠妇女的原因是",
+        "options": [
+            "A.升高血压作用",
+            "B.胃肠道反应",
+            "C.致畸作用",
+            "D.子宫收缩作用",
+            "E.引起胃出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 15
+    },
+    {
+        "question_text": "16.阻断胃壁细胞H+泵的抗消化性溃疡药是",
+        "options": [
+            "A.奥美拉唑",
+            "B.米索前列醇",
+            "C.哌仑西平",
+            "D.丙谷按",
+            "E.硫糖铝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 16
+    },
+    {
+        "question_text": "17.孕妇合并十二指肠溃疡不宜选用的药物",
+        "options": [
+            "A.氢氧化铝",
+            "B.硫糖铝",
+            "C.乙溴替丁",
+            "D.奥美拉唑",
+            "E.米索前列醇"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 17
+    },
+    {
+        "question_text": "18.对组胺H2受体具有阻断作用的药物是",
+        "options": [
+            "A.哌仑西平",
+            "B.雷尼替丁",
+            "C.丙谷胺",
+            "D.甲硝唑",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 18
+    },
+    {
+        "question_text": "19.硫酸镁过量引起的中毒应用哪种药物解救",
+        "options": [
+            "A.阿托品",
+            "B.葡萄糖酸钙",
+            "C.亚甲兰",
+            "D.鱼精蛋白",
+            "E.硫代硫酸钠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 19
+    },
+    {
+        "question_text": "20.抑酸作用最强的药物是",
+        "options": [
+            "A.西咪替丁",
+            "B.哌仓西平",
+            "C.丙谷胺",
+            "D.奥美拉唑",
+            "E.碳酸氢钠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 20
+    },
+    {
+        "question_text": "21.哌仑西平有下述哪项药理作用",
+        "options": [
+            "A.阻断M胆碱受体,抑制胃酸分泌",
+            "B.阻断H2受体,抑制胃酸分泌",
+            "C.阻断胃泌素受体,减少胃酸分泌",
+            "D.促进胃黏液分泌,保护胃黏膜",
+            "E.治疗胃、十二指肠溃疡病疗效较好"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 21
+    },
+    {
+        "question_text": "22.能选择性阻断M胆碱受体抑制胃酸分泌的药物是",
+        "options": [
+            "A.阿托品",
+            "B.哌仑西平",
+            "C.后阿托品",
+            "D.东莨菪碱",
+            "E.异丙基阿托品"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 22
+    },
+    {
+        "question_text": "23.奥美拉唑属于",
+        "options": [
+            "A.H-K-ATP酶抑制剂",
+            "B.H2受体阻断药",
+            "C.M受体阻断药",
+            "D.胃泌素受体阻断药",
+            "E.Na-K-ATP酶抑钊剂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 23
+    },
+    {
+        "question_text": "24.具有收敛、止血作用的抗酸药是",
+        "options": [
+            "A.碳酸氢钠",
+            "B.硫酸钙",
+            "C.氢氧化镁",
+            "D.氢氧化铝",
+            "E.三硅酸镁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 24
+    },
+    {
+        "question_text": "25.氢氧化铝常见的不良反应",
+        "options": [
+            "A.产气",
+            "B.腹泻",
+            "C.便秘",
+            "D.防止药物吸收",
+            "E.降低神经毒性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 25
+    },
+    {
+        "question_text": "26.氢氧化铝和三硅酸镁联合用药的目的",
+        "options": [
+            "A.防止产气",
+            "B.延长作用时问",
+            "C.防止药物吸收",
+            "D.减少胃肠道反应",
+            "E.降低神经毒性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 26
+    },
+    {
+        "question_text": "27.抗酸作用温和、缓慢而持久的药物是",
+        "options": [
+            "A.碳酸氢钠",
+            "B.氢氧化铝",
+            "C.三硅酸镁",
+            "D.碳酸钙",
+            "E.氢氧化镁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 27
+    }
+]

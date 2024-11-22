@@ -1,0 +1,534 @@
+[
+    {
+        "question_text": "1.伊维菌素的抗虫谱应排除",
+        "options": [
+            "A.蛔虫",
+            "B.丝虫",
+            "C.蛲虫",
+            "D.姜片虫",
+            "E.鞭虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 1
+    },
+    {
+        "question_text": "2.对绦虫感染无效的药物是",
+        "options": [
+            "A.甲苯咪唑",
+            "B.吡喹酮",
+            "C.噻嘧啶",
+            "D.阿苯达唑",
+            "E.氯硝柳胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 2
+    },
+    {
+        "question_text": "3.阿苯达唑临床用途中错误",
+        "options": [
+            "A.牛肉绦虫感染",
+            "B.班氏丝虫病",
+            "C.蛔虫感染",
+            "D.囊虫症",
+            "E.钩虫感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于二氯尼特的叙述错误",
+        "options": [
+            "A.对阿米巴原虫有直接杀灭作用",
+            "B.目前最有效的杀包囊药",
+            "C.可用于肠外阿米巴病",
+            "D.不良反应轻微",
+            "E.急性阿米巴痢单用本品效差"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 4
+    },
+    {
+        "question_text": "5.目前最有效的杀包囊药是",
+        "options": [
+            "A.氯喹",
+            "B.依米丁",
+            "C.甲硝唑",
+            "D.二氯尼特",
+            "E.乙酰肿胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 5
+    },
+    {
+        "question_text": "6.mtronizol的药理作用除外",
+        "options": [
+            "A.对阿米巴大滋养体有直接杀灭作用",
+            "B.可直接杀灭阴道滴虫",
+            "C.对贾第鞭毛虫病有效",
+            "D.对G+、G-厌氧菌抗菌作用强大",
+            "E.亦可用于排包囊者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 6
+    },
+    {
+        "question_text": "7.能杀灭疟原虫红内期和阿米巴滋养体的药物是",
+        "options": [
+            "A.甲硝唑",
+            "B.氯喹",
+            "C.乙胺嘧啶",
+            "D.吡喹酮",
+            "E.喹碘方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗滴虫病最有效的药物",
+        "options": [
+            "A.乙酰胂胺",
+            "B.依米丁",
+            "C.甲硝唑",
+            "D.乙胺嗪",
+            "E.氯喹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 8
+    },
+    {
+        "question_text": "9.对甲硝唑无效的阿米巴肝脓肿可换用",
+        "options": [
+            "A.乙酰肿胺",
+            "B.氯喹",
+            "C.氯碘喹淋",
+            "D.巴龙霉素",
+            "E.吡喹酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 9
+    },
+    {
+        "question_text": "10.甲硝唑治疗阿米巴痢、为预防复发应再用",
+        "options": [
+            "A.替硝唑",
+            "B.氯喹",
+            "C.依米丁",
+            "D.二氯尼特",
+            "E.乙酰肿胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于甲硝唑描述正确的是",
+        "options": [
+            "A.口服吸收不完全",
+            "B.只对阿米巴小滋养体作用强大",
+            "C.抗厌氧菌感染作用可靠",
+            "D.可用于排包囊者",
+            "E.久用可引起视神经萎缩"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 11
+    },
+    {
+        "question_text": "12.吡喹酮的药理作用应排除",
+        "options": [
+            "A.对血吸虫成虫有良好杀灭作用",
+            "B.对未成熟的童虫亦有效",
+            "C.杀灭血吸虫作用有高度选择性",
+            "D.对急、慢性血吸虫病效佳",
+            "E.副作用轻微而短暂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 12
+    },
+    {
+        "question_text": "13.吡喹酮的抗虫谱中错误的",
+        "options": [
+            "A.姜片吸虫",
+            "B.绦虫",
+            "C.血吸虫",
+            "D.钩虫",
+            "E.肺肺吸虫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 13
+    },
+    {
+        "question_text": "14.口服有效的高效低毒的抗血吸虫病药是",
+        "options": [
+            "A.吡喹酮",
+            "B.氯喹",
+            "C.伊维菌素",
+            "D.甲苯咪唑",
+            "E.酒石酸锑钾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于乙胺嗪正确的是",
+        "options": [
+            "A.对血吸虫有效",
+            "B.不易引起过敏反应",
+            "C.药后使微丝蚴迅速减少或消失",
+            "D.对阿米巴原虫有效",
+            "E.亦可治疗蛲虫感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 15
+    },
+    {
+        "question_text": "16.抗寄生虫病药物描述正确的是",
+        "options": [
+            "A.乙胺嗪本身可引起过敏反应",
+            "B.伊维菌素对丝虫、蛔虫、鞭虫、蛲虫均有效",
+            "C.氯喹对肠内外阿米巴病首选",
+            "D.吡喹酮口服吸收不完全",
+            "E.甲硝唑仅用于女性滴虫感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 16
+    },
+    {
+        "question_text": "17.吡喹酮不具有的作用是",
+        "options": [
+            "A.杀灭血吸虫成虫",
+            "B.促进血吸虫“肝移”",
+            "C.口服首关消除多",
+            "D.对线虫、原虫感染有效",
+            "E.对姜片虫等其它吸虫有效"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 17
+    },
+    {
+        "question_text": "18.对盆腔、腹腔内厌氧菌感染有良效的药物是",
+        "options": [
+            "A.ChloroquinE",
+            "B.gEnAmiCn",
+            "C.EmEtinE",
+            "D.mEtroniDAzol",
+            "E.TMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列叙述中错误的是",
+        "options": [
+            "A.伯氨喹可引起急性溶血性贫血",
+            "B.氯喹对阿米巴痢疾无效",
+            "C.青蒿素口服时近期复发率高",
+            "D.奎宁可用于症状抑制性预防",
+            "E.氯喹对红外期无效"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 19
+    },
+    {
+        "question_text": "20.以下对氯喹的描述中错误",
+        "options": [
+            "A.杀灭疟原虫红内期",
+            "B.抗疟疗效高、生效快",
+            "C.作用持久但毒性大",
+            "D.对阿米巴肝脓肿有效",
+            "E.亦可用于类风湿性关节炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 20
+    },
+    {
+        "question_text": "21.对耐氯喹的恶性疟无效",
+        "options": [
+            "A.奎宁",
+            "B.青蒿素",
+            "C.本芴醇",
+            "D.甲氟喹",
+            "E.乙胺嘧啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于抗疟药叙述正确的是",
+        "options": [
+            "A.氯喹用于控制疟疾症状发作",
+            "B.伯氨喹用于疟疾病因性预防",
+            "C.奎宁常用于根治间日疟",
+            "D.乙胺嘧啶可引起特异质反应",
+            "E.甲氟喹杀灭继发性红外期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 22
+    },
+    {
+        "question_text": "23.急性阿米巴痢和肠外阿米巴病首选",
+        "options": [
+            "A.甲硝唑",
+            "B.二氯尼特",
+            "C.氯喹",
+            "D.双碘喹啉",
+            "E.喹碘方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 23
+    },
+    {
+        "question_text": "24.根治间日疟的用药方案为",
+        "options": [
+            "A.乙胺嘧啶+伯氨喹",
+            "B.乙胺嘧啶+氯喹",
+            "C.伯氨喹+氯喹",
+            "D.青蒿素+氯喹",
+            "E.青蒿素+乙胺嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 24
+    },
+    {
+        "question_text": "25.对心肌有严重毒性的抗阿米巴病药是",
+        "options": [
+            "A.替硝唑",
+            "B.喹碘方",
+            "C.依米丁",
+            "D.氯喹",
+            "E.甲硝唑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 25
+    },
+    {
+        "question_text": "26.伯氨喹引起特异质反应是因为",
+        "options": [
+            "A.伯氨喹剂量过大",
+            "B.缺乏二氢叶酸还原酶",
+            "C.红细胞缺乏葡萄糖6-磷酸脱氢酶(G6P)",
+            "D.叶酸缺乏",
+            "E.骨髓抑制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 26
+    },
+    {
+        "question_text": "27.对脑型疟疾抢救效佳的药",
+        "options": [
+            "A.青蒿素",
+            "B.氯喹",
+            "C.伯氨喹",
+            "D.乙胺嘧啶",
+            "E.甲氟喹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 27
+    },
+    {
+        "question_text": "28.关于青蒿素叙述错误的是",
+        "options": [
+            "A.由黄花蒿中提取的有效成分",
+            "B.能杀灭红内期滋养体",
+            "C.可透过血脑屏障,对脑型疟有效",
+            "D.对耐氯喹虫株感染无效",
+            "E.抗疟时最大缺点是复发率高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 28
+    },
+    {
+        "question_text": "29.以下选药正确的是",
+        "options": [
+            "A.病因性预防——伯氨喹",
+            "B.耐氯喹的恶性疟——甲硝唑",
+            "C.阿米巴肝脓肿——喹碘仿",
+            "D.无症状排包囊者——二氯尼特",
+            "E.钩蛔虫混合感染——吡喹酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 29
+    },
+    {
+        "question_text": "30.ChoroquinE的不良反应有",
+        "options": [
+            "A.耳鸣、呕吐",
+            "B.心肌抑制作用",
+            "C.过敏反应",
+            "D.高铁血红蛋白血症",
+            "E.大剂量长期应用可致视力障碍"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 30
+    },
+    {
+        "question_text": "31.疟疾的病因性预防常用",
+        "options": [
+            "A.氯喹",
+            "B.青蒿素",
+            "C.奎宁",
+            "D.乙胺嘧啶",
+            "E.伯氨喹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列抗疟药的错误叙述项是",
+        "options": [
+            "A.奎宁可引起金鸡纳反应",
+            "B.氯哇用于控制疟疾症状",
+            "C.青篙素毒性较大",
+            "D.伯氨喹用于控制疟疾复发和传播",
+            "E.乙胺嘧啶用于疟疾的病因性预防"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 32
+    },
+    {
+        "question_text": "33.可引起严重心肌毒性的抗阿米巴病药是",
+        "options": [
+            "A.氯喹",
+            "B.二氯尼特",
+            "C.甲硝唑",
+            "D.依米丁",
+            "E.替硝唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 33
+    },
+    {
+        "question_text": "34.可口服治疗滴虫病的药物",
+        "options": [
+            "A.甲硝唑",
+            "B.四环素",
+            "C.呋喃妥因",
+            "D.乙酰砷胺",
+            "E.红霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 34
+    },
+    {
+        "question_text": "35.高效、低毒、口服有效的抗血吸虫病药是",
+        "options": [
+            "A.酒石酸锑钾",
+            "B.氯喹",
+            "C.吡喹酮",
+            "D.伯氨喹",
+            "E.吡嗪酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 35
+    },
+    {
+        "question_text": "36.治疗丝虫病的首选药是",
+        "options": [
+            "A.乙胺丁醇",
+            "B.乙胺嘧啶",
+            "C.乙琥胺",
+            "D.乙酰砷胺",
+            "E.乙胺嗪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 36
+    },
+    {
+        "question_text": "37.治疗绦虫病首选药是",
+        "options": [
+            "A.左旋咪唑",
+            "B.南瓜子",
+            "C.槟榔",
+            "D.吡喹酮",
+            "E.氯硝柳胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 37
+    },
+    {
+        "question_text": "38.治疗美洲钧虫病首选药是",
+        "options": [
+            "A.槟榔",
+            "B.左旋咪唑",
+            "C.甲苯咪唑",
+            "D.噻嘧啶",
+            "E.哌嗪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "38",
+        "number": 38
+    }
+]

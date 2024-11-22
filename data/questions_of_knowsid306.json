@@ -1,0 +1,3180 @@
+[
+    {
+        "question_text": "1521.关于内分泌系统最佳的描述是",
+        "options": [
+            "A.区别于外分泌腺的系统",
+            "B.无导管，腺体分泌物直接进入血液的系统",
+            "C.分泌物通过体液传递信息的系统",
+            "D.包括内分泌腺与分散在机体各处的内分泌细胞 的一个总的系统",
+            "E.有内分泌腺组成的系统"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 1
+    },
+    {
+        "question_text": "1522.血中激素浓度低.但生理作用却非常明显. 这是因为",
+        "options": [
+            "A.细胞内存在高效能的生物放大系统",
+            "B.激素的半衰期非常长",
+            "C.激素的特异性很高",
+            "D.激素在体内随血液分布于全身",
+            "E.激素能选择性的作用于靶细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 2
+    },
+    {
+        "question_text": "*1523.下列哪种激素属类固醇激素：",
+        "options": [
+            "A.肾素",
+            "B.胰岛素",
+            "C.生长素",
+            "D.氢化可的松",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 3
+    },
+    {
+        "question_text": "1524.下列哪种物质属于第一信使：",
+        "options": [
+            "A.Ca2+",
+            "B.cAMP",
+            "C.cGMP",
+            "D.肾上腺素",
+            "E.5' -AMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 4
+    },
+    {
+        "question_text": "1525.不属于腺垂体分泌的激素是",
+        "options": [
+            "A.GH",
+            "B.OXT",
+            "C.ACTH",
+            "D.TSH",
+            "E.PRL"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 5
+    },
+    {
+        "question_text": "1526.一天内血液中生长素水平最高的时间是",
+        "options": [
+            "A.清晨初起",
+            "B.中午",
+            "C.傍晚",
+            "D.进食后",
+            "E.夜间深睡后"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 6
+    },
+    {
+        "question_text": "1527.对靶腺激素分泌增高时的负反馈作用的叙述.错误的是",
+        "options": [
+            "A.抑制下丘脑分泌相应的释放激素",
+            "B.抑制腺垂体分泌相应的促激素",
+            "C.使靶腺激素在血中浓度升高",
+            "D.使相应的释放激素和促激素均减少",
+            "E.靶腺激素中成分变化可影响靶腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 7
+    },
+    {
+        "question_text": "1528.血管升压素.即抗利尿激素主要产生在",
+        "options": [
+            "A.神经垂体",
+            "B.近球细胞",
+            "C.室旁核",
+            "D.视上核",
+            "E.腺垂体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 8
+    },
+    {
+        "question_text": "1529.能增加机体产热.使基础代谢率（BMR）升 高最明显的激素是",
+        "options": [
+            "A.肾上腺素",
+            "B.胰岛素",
+            "C.甲状腺激素",
+            "D.睾丸酮",
+            "E.糖皮质激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 9
+    },
+    {
+        "question_text": "1530.关于甲状腺激素对物质代谢影响的叙述.错 误的是：",
+        "options": [
+            "A.促进肠道对糖的吸收",
+            "B.促进胆固醇合成，并转化为胆汁酸",
+            "C.促进胆固醇合成，并转化为胆汁酸",
+            "D.生理剂量可促进蛋白质合成",
+            "E.分泌增多时组织间的粘蛋白增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 10
+    },
+    {
+        "question_text": "1531.甲状腺功能亢进（甲亢）时.不会出现下列 哪种症状",
+        "options": [
+            "A.心率加快",
+            "B.消瘦",
+            "C.肌肉震颤",
+            "D.皮肤干燥",
+            "E.注意力不集中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 11
+    },
+    {
+        "question_text": "1532.糖皮质激素对下列血细胞数量的影响的叙 述.哪项错误",
+        "options": [
+            "A.使红细胞增多",
+            "B.使血小板增多",
+            "C.使中性粒细胞增多",
+            "D.使淋巴细胞增多",
+            "E.使嗜酸性粒细胞减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 12
+    },
+    {
+        "question_text": "1533.有关糖皮质激素的叙述.错误的是",
+        "options": [
+            "A.机体处于应激状态，其分泌量增多",
+            "B.可增加机体对有害刺激的耐受力",
+            "C.长期使用此激素可使肾上腺皮质萎缩",
+            "D.可使血中嗜酸性粒细胞增多",
+            "E.此激素分泌过多可使脂肪重新分布"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 13
+    },
+    {
+        "question_text": "1534.肾上腺皮质球状带细胞分泌的主要激素是",
+        "options": [
+            "A.肾上腺素",
+            "B.氢化可的松",
+            "C.醛固酮",
+            "D.性激素",
+            "E.去甲肾上腺素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 14
+    },
+    {
+        "question_text": "1535.醛固酮保钠排钾作用的部位是",
+        "options": [
+            "A.近曲小管",
+            "B.远曲小管",
+            "C.髓祥升支",
+            "D.髓祥降支",
+            "E.远曲小管和集合管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 15
+    },
+    {
+        "question_text": "1536.对肾上腺素作用的叙述.错误的",
+        "options": [
+            "A.使心输出量增加",
+            "B.使支气管平滑肌舒张",
+            "C.使胃肠运动减弱",
+            "D.使肝糖原分解，血糖降低",
+            "E.使脂肪分解，血中游离脂肪酸增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 16
+    },
+    {
+        "question_text": "1537.有关胰岛素作用和调节的叙述.错误的是",
+        "options": [
+            "A.交感神经兴奋，分泌增加",
+            "B.促进蛋白质合成",
+            "C.血糖升高可刺激其分泌",
+            "D.可使血钾降低",
+            "E.促进脂肪合成，抑制脂肪分解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 17
+    },
+    {
+        "question_text": "1538.调节胰岛素分泌最重要的因素是",
+        "options": [
+            "A.胰高血糖素",
+            "B.胃肠道激素",
+            "C.血糖浓度",
+            "D.肾上腺素",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 18
+    },
+    {
+        "question_text": "1539.下列哪些激素是胰岛分泌的",
+        "options": [
+            "A.胰高血糖素和糖皮质激素",
+            "B.胰岛素和糖皮质激素",
+            "C.胰岛素和胰高血糖素",
+            "D.胰高血糖素和降钙素",
+            "E.胰岛素和降钙素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 19
+    },
+    {
+        "question_text": "1540.降钙素（CT）来源于",
+        "options": [
+            "A.肾上腺皮质",
+            "B.甲状旁腺",
+            "C.甲状腺滤泡旁细胞",
+            "D.腺垂体",
+            "E.胰岛D细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 20
+    },
+    {
+        "question_text": "1541.内分泌腺分泌的激素在血液中的浓度处于相 对稳定.主要是由于",
+        "options": [
+            "A.神经调节",
+            "B.体液调节",
+            "C.自身调节",
+            "D.正反馈调节",
+            "E.负反馈调节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 21
+    },
+    {
+        "question_text": "1542.激素传递的方式不包括",
+        "options": [
+            "A.血液运送",
+            "B.经组织液扩散",
+            "C.神经轴浆运输",
+            "D.经腺体导管分泌",
+            "E.自分泌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 22
+    },
+    {
+        "question_text": "1543.关于激素的信息传递作用.正确的是",
+        "options": [
+            "A.加强或减弱靶组织的生理生化过程",
+            "B.为靶组织活动提供额外能量",
+            "C.为靶组织代谢添加新成分",
+            "D.内分泌系统的信息是电信号",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 23
+    },
+    {
+        "question_text": "1544.当激素受体上调时",
+        "options": [
+            "A.激素-受体复合物内化",
+            "B.受体结合部位全部被激素占据",
+            "C.靶组织对激素的反应减弱",
+            "D.激素受体的数量增多",
+            "E.激素受体的亲和力减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 24
+    },
+    {
+        "question_text": "1545.下列物质中属于肽类激素的是",
+        "options": [
+            "A.GH",
+            "B.PRL",
+            "C.FSH",
+            "D.GnRH",
+            "E.TSH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 25
+    },
+    {
+        "question_text": "1546.含氮激素发挥作用的第一步是",
+        "options": [
+            "A.与细胞膜上的专一性受体结合",
+            "B.与胞质受体结合",
+            "C.与核内受体结合",
+            "D.使细胞内的ATP转变为cAMP",
+            "E.与核内DNA结合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 26
+    },
+    {
+        "question_text": "1547.下列激素中化学性质属于糖蛋白的是",
+        "options": [
+            "A.GH",
+            "B.PIF",
+            "C.胰岛素",
+            "D.PTH",
+            "E.TSH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 27
+    },
+    {
+        "question_text": "1548.神经激素是",
+        "options": [
+            "A.作用于神经细胞的激素",
+            "B.具有酶功能的神经递质",
+            "C.神经内分泌细胞分泌的激素",
+            "D.具有神经功能的激素",
+            "E.使神经兴奋的激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 28
+    },
+    {
+        "question_text": "1549.下列激素中化学性质属于固醇类的是",
+        "options": [
+            "A.皮质酮",
+            "B.醛固酮",
+            "C.睾酮",
+            "D.雌二醇",
+            "E.1，25-（OH）2-VD3"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 29
+    },
+    {
+        "question_text": "1550.下列物质中属于胺类激素的是",
+        "options": [
+            "A.甲状腺激素",
+            "B.糖皮质激素",
+            "C.前列腺素",
+            "D.生长激素",
+            "E.缩宫素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 30
+    },
+    {
+        "question_text": "1551.下列物质中属于类固醇激素的是",
+        "options": [
+            "A.促甲状腺激素",
+            "B.生长激素",
+            "C.生长激素介质",
+            "D.甲状旁腺素",
+            "E.糖皮质激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 31
+    },
+    {
+        "question_text": "1552.甾体激素发挥作用的第一步是",
+        "options": [
+            "A.与细胞膜受体结合",
+            "B.与核内受体结合",
+            "C.与核内DNA结合",
+            "D.与胞质受体结合",
+            "E.使细胞内的ATP转变为CAMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 32
+    },
+    {
+        "question_text": "1553.下列激素中不是类固醇激素的是",
+        "options": [
+            "A.糖皮质激素",
+            "B.雄激素",
+            "C.催乳素",
+            "D.皮质酮",
+            "E.雌激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 33
+    },
+    {
+        "question_text": "1554.分娩后血中催乳素分泌达到高峰的时间是",
+        "options": [
+            "A.30分钟",
+            "B.1小时",
+            "C.2小时",
+            "D.3小时",
+            "E.na"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 34
+    },
+    {
+        "question_text": "1555.下列激素中.通过细胞膜受体起作用的是",
+        "options": [
+            "A.糖皮质激素",
+            "B.盐皮质激素",
+            "C.肾上腺素",
+            "D.睾酮",
+            "E.雌二醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 35
+    },
+    {
+        "question_text": "1556.血中激素浓度虽低但生理作用很明显.其原 因是",
+        "options": [
+            "A.激素随血液分布全身",
+            "B.激素的特异性很高",
+            "C.激素的半衰期很长",
+            "D.激素与受体结合的时间很长",
+            "E.细胞内存在高效能的生物放大系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 36
+    },
+    {
+        "question_text": "1557.激素通过血液运输作用于远距离的靶细胞. 称为",
+        "options": [
+            "A.外分泌",
+            "B.远距分泌",
+            "C.旁分泌",
+            "D.神经分泌",
+            "E.自分泌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 37
+    },
+    {
+        "question_text": "1558.下列激素中作用于靶细胞时以cAMP为第二 信使的是",
+        "options": [
+            "A.皮质醇",
+            "B.甲状腺激素",
+            "C.睾酮",
+            "D.肾上腺素",
+            "E.胰岛素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 38
+    },
+    {
+        "question_text": "1559.第二信使cAMP在细胞内促进蛋白质磷酸化 的酶是",
+        "options": [
+            "A.PLC",
+            "B.PKA",
+            "C.PKC",
+            "D.PKG",
+            "E.PDE"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 39
+    },
+    {
+        "question_text": "1560.cAMP作为第二信使.在胞内最先激活",
+        "options": [
+            "A.磷酸化酶",
+            "B.蛋白激酶",
+            "C.腺苷酸环化酶",
+            "D.磷酸二酯酶",
+            "E.DNA 酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 40
+    },
+    {
+        "question_text": "1561.下列物质不属于第二信使的是",
+        "options": [
+            "A.cAMP",
+            "B.钙离子",
+            "C.ADP",
+            "D.DG",
+            "E.三磷酸肌醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 41
+    },
+    {
+        "question_text": "1562.G蛋白耦联膜受体介导的第二信使不包括",
+        "options": [
+            "A.cAMP",
+            "B.三磷酸肌醇和DG",
+            "C.cGMP",
+            "D.钙离子",
+            "E.磷脂酰二磷酸肌醇"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 42
+    },
+    {
+        "question_text": "1563.根据激素作用原理论述中的第二信使学说. 可以看作第一信使的物质是",
+        "options": [
+            "A.含氮激素",
+            "B.甾体激素",
+            "C.类固醇激素",
+            "D.cAMP",
+            "E.钙离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 43
+    },
+    {
+        "question_text": "1564.以DG与三磷酸肌醇为第二信使的跨膜信息 传递系统的膜效应器酶是",
+        "options": [
+            "A.腺苷酸环化酶",
+            "B.磷酸二酯酶",
+            "C.蛋白激酶A",
+            "D.蛋白激酶C",
+            "E.磷脂酶C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 44
+    },
+    {
+        "question_text": "1565.以三磷酸肌醇和DG作为第二信使的激素是",
+        "options": [
+            "A.催乳素",
+            "B.醛固酮",
+            "C.促肾上腺皮质激素",
+            "D.促甲状腺激素",
+            "E.儿茶酚胺激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 45
+    },
+    {
+        "question_text": "1566.下列激素中可穿过细胞膜与核受体结合而起 作用的是",
+        "options": [
+            "A.生长激素",
+            "B.胰岛素",
+            "C.甲状腺激素",
+            "D.肾上腺素",
+            "E.抗利尿激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 46
+    },
+    {
+        "question_text": "1567.下列激素的受体属于G蛋白耦联受体的是",
+        "options": [
+            "A.胰岛素受体",
+            "B.皮质醇受体",
+            "C.促甲状腺激素受体",
+            "D.雌激素受体",
+            "E.甲状腺激素受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 47
+    },
+    {
+        "question_text": "1568.下列激素的受体属于酪氨酸蛋白激酶受体的 是",
+        "options": [
+            "A.甲状旁腺激素受体",
+            "B.胰岛素受体",
+            "C.缩宫素受体",
+            "D.促甲状腺激素受体",
+            "E.促肾上腺皮质激素受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 48
+    },
+    {
+        "question_text": "1569.下列激素中对儿茶酚胺心血管效应起允许作 用的是",
+        "options": [
+            "A.甲状腺激素",
+            "B.生长激素",
+            "C.糖皮质激素",
+            "D.醛固酮",
+            "E.抗利尿激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 49
+    },
+    {
+        "question_text": "1570.下列激素是下丘脑调节肽的是",
+        "options": [
+            "A.FSH",
+            "B.LH",
+            "C.ACTH",
+            "D.TSH",
+            "E.TRH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 50
+    },
+    {
+        "question_text": "1571.下列各项中不属于下丘脑调节肽的是",
+        "options": [
+            "A.促甲状腺激素释放激素",
+            "B.抗利尿激素",
+            "C.促性腺激素释放激素",
+            "D.生长抑素",
+            "E.促肾上腺皮质激素释放激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 51
+    },
+    {
+        "question_text": "1572.下列各项中不参与下丘脑激素分泌调控的是",
+        "options": [
+            "A.靶腺分泌激素的长反馈调节",
+            "B.腺垂体分泌激素的短反馈调节",
+            "C.下丘脑自身超短反馈调节",
+            "D.、神经垂体分泌的激素",
+            "E.胺类神经递质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 52
+    },
+    {
+        "question_text": "1573.下列激素来自下丘脑的是",
+        "options": [
+            "A.TSH",
+            "B.LH",
+            "C.FSH",
+            "D.ACTH",
+            "E.GnRH"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 53
+    },
+    {
+        "question_text": "1574.下列分泌神经激素的细胞是",
+        "options": [
+            "A.甲状腺细胞",
+            "B.肾上腺皮质细胞",
+            "C.下丘脑内某些神经细胞",
+            "D.神经胶质细胞",
+            "E.甲状旁腺细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 54
+    },
+    {
+        "question_text": "1575.激素的半衰期用来表示",
+        "options": [
+            "A.激素作用持续的时间",
+            "B.激素释放的速度",
+            "C.激素作用的速度",
+            "D.激素更新的速度",
+            "E.激素分解的速度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 55
+    },
+    {
+        "question_text": "1576.下列各种神经递质在下丘脑调节肽的分泌调 节中起重要作用的是",
+        "options": [
+            "A.乙酰胆碱",
+            "B.去甲肾上腺素",
+            "C.氨基丁酸",
+            "D.甘氨酸",
+            "E.谷氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 56
+    },
+    {
+        "question_text": "1577.下列各种状态下GH分泌明显增加的是",
+        "options": [
+            "A.觉醒",
+            "B.轻微运动",
+            "C.进餐",
+            "D.慢波睡眠",
+            "E.异相睡眠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 57
+    },
+    {
+        "question_text": "1578.生长素对代谢的作用是",
+        "options": [
+            "A.促进蛋白质合成，抑制脂肪分解，促进葡萄糖 氧化",
+            "B.促进蛋白质合成， 氧化",
+            "C.促进蛋白质合成， 氧化",
+            "D.抑制蛋白质合成， 氧化",
+            "E.抑制蛋白质合成， 氧化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 58
+    },
+    {
+        "question_text": "1579.影响骨骼、肌肉生长发育的最主要的激素是",
+        "options": [
+            "A.糖皮质激素",
+            "B.生长激素",
+            "C.盐皮质激素",
+            "D.肾上腺素",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 59
+    },
+    {
+        "question_text": "1580.幼儿时生长素分泌不足可导致",
+        "options": [
+            "A.呆小症",
+            "B.巨人症",
+            "C.侏儒症",
+            "D.向心性肥胖",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 60
+    },
+    {
+        "question_text": "1581.下列各种疾病时血中胰岛素样生长因子-I 的含量明显降低的是",
+        "options": [
+            "A.肢端肥大症",
+            "B.巨人症",
+            "C.侏儒症",
+            "D.呆小症",
+            "E.糖尿病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 61
+    },
+    {
+        "question_text": "1582.下列各种疾病时血中胰岛素样生长因子- I 的含量明显增高的是",
+        "options": [
+            "A.侏儒症",
+            "B.呆小症",
+            "C.佝偻病",
+            "D.肢端肥大症",
+            "E.艾迪生病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 62
+    },
+    {
+        "question_text": "1583.下列各项中.对GH分泌刺激作用最强的是",
+        "options": [
+            "A.血中氨基酸增多",
+            "B.血中脂肪酸增多",
+            "C.睡眠",
+            "D.运动",
+            "E.低血糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 63
+    },
+    {
+        "question_text": "1584.关于生长介素错误的是",
+        "options": [
+            "A.主要由肝脏产生",
+            "B.又称为胰岛素样生长因子(IGF)",
+            "C.血中IGF含量与GH水平成反比关系",
+            "D.介导GH的促生长作用",
+            "E.、对脑组织的发育一般无影响"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 64
+    },
+    {
+        "question_text": "1585.下列抑制生长激素分泌的因素是",
+        "options": [
+            "A.血糖降低",
+            "B.血中游离脂肪酸增加",
+            "C.慢波睡眠期",
+            "D.创伤及应激",
+            "E.雌激素、睾酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 65
+    },
+    {
+        "question_text": "1586.引起生长激素分泌作用最强的因素是",
+        "options": [
+            "A.高血糖",
+            "B.低血糖",
+            "C.咼血脂",
+            "D.低血脂",
+            "E.血中氨基酸浓度增高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 66
+    },
+    {
+        "question_text": "1587.室旁核主要产生的激素是",
+        "options": [
+            "A.升压素",
+            "B.缩宫素",
+            "C.催乳素",
+            "D.生长素",
+            "E.褪黑素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 67
+    },
+    {
+        "question_text": "1588.下列各项错误的是",
+        "options": [
+            "A.视上核主要产生升压素",
+            "B.腺垂体产生各种促激素",
+            "C.下丘脑合成神经垂体激素",
+            "D.神经垂体细胞合成少部分神经垂体激素",
+            "E.缩宫素主要在下丘脑室旁核合成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 68
+    },
+    {
+        "question_text": "1589.生长素介质的主要产生部位是",
+        "options": [
+            "A.肾脏",
+            "B.肝脏",
+            "C.脾脏",
+            "D.小肠",
+            "E.胃"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 69
+    },
+    {
+        "question_text": "1590.血中生长素浓度分泌高峰出现在",
+        "options": [
+            "A.刚入睡时",
+            "B.深睡1小时左右",
+            "C.深睡2小时左右",
+            "D.清醒安静时",
+            "E.慢波睡眠时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 70
+    },
+    {
+        "question_text": "1591.GH受体有缺陷的侏儒症患者的血浆中",
+        "options": [
+            "A.高亲和力GHBP含量增加",
+            "B.高亲和力GHBP缺乏",
+            "C.高亲和力GHBP含量正常",
+            "D.低亲和力GHBP含量降低",
+            "E.低亲和力GHBP缺乏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 71
+    },
+    {
+        "question_text": "1592.GH分泌过多的患者可出现",
+        "options": [
+            "A.尿氮增加",
+            "B.血糖过高并可产生糖尿",
+            "C.血中脂肪酸含量减少",
+            "D.组织脂肪增加",
+            "E.血中生长激素介质含量减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 72
+    },
+    {
+        "question_text": "1593.人幼年时期缺乏下列激素可导致侏儒症的是",
+        "options": [
+            "A.T3",
+            "B.1，25- (OH) 2-VD3",
+            "C.GH",
+            "D.PRL",
+            "E.皮质醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 73
+    },
+    {
+        "question_text": "1594.化学结构与生长激素近似.并具有较弱生长 激素作用的激素是",
+        "options": [
+            "A.缩宫素",
+            "B.催乳素",
+            "C.促甲状腺激素",
+            "D.促肾上腺皮质激素",
+            "E.胰岛素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 74
+    },
+    {
+        "question_text": "1595.除促黑激素外.具有微弱促进黑色素细胞产生黑色素作用的激素是",
+        "options": [
+            "A.GH",
+            "B.PRL",
+            "C.ACTH",
+            "D.FSH",
+            "E.TSH"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 75
+    },
+    {
+        "question_text": "1596.下列各种情况下垂体可大量分泌PRL的是",
+        "options": [
+            "A.青春期",
+            "B.妊娠期",
+            "C.运动",
+            "D.授乳时婴儿吸吮乳头",
+            "E.进食"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 76
+    },
+    {
+        "question_text": "1597.可促进女性青春期乳腺发育的主要激素是",
+        "options": [
+            "A.催乳素",
+            "B.生长激素",
+            "C.甲状腺激素",
+            "D.雌激素",
+            "E.皮质醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 77
+    },
+    {
+        "question_text": "1598.可抑制腺垂体PRL分泌的神经递质是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.乙酰胆碱",
+            "C.甘氨酸",
+            "D.5-羟色胺",
+            "E.多巴胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 78
+    },
+    {
+        "question_text": "1599.具有抑制PRL对乳腺泌乳作用的激素是",
+        "options": [
+            "A.大量雌激素",
+            "B.糖皮质激素",
+            "C.盐皮质激素",
+            "D.甲状腺激素",
+            "E.雄激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 79
+    },
+    {
+        "question_text": "1600.关于催乳素对乳腺的作用错误的是",
+        "options": [
+            "A.促进青春期乳腺的生长发育",
+            "B.促进妊娠期乳腺的增生和乳汁的合成",
+            "C.妊娠期乳腺不泌乳是因其与雌激素的协同作用",
+            "D.维持哺乳期乳汁分泌",
+            "E.分娩后催乳素立即发挥泌乳作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 80
+    },
+    {
+        "question_text": "1601.血管加压素的生理作用是",
+        "options": [
+            "A.升高血糖",
+            "B.增加血容量",
+            "C.升高和维持动脉血压",
+            "D.增加肾脏远曲小管和集合管对水的重吸收",
+            "E.增加肾脏远曲小管和集合管对钠离子的重吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 81
+    },
+    {
+        "question_text": "1602.缩宫素的主要合成部位是",
+        "options": [
+            "A.神经垂体",
+            "B.腺垂体",
+            "C.下丘脑视上核",
+            "D.下丘脑室旁核",
+            "E.下丘脑视前区"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 82
+    },
+    {
+        "question_text": "1603.主要由下丘脑视上核合成的激素是",
+        "options": [
+            "A.ADH",
+            "B.OXT",
+            "C.TRH",
+            "D.GnRH",
+            "E.CRH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 83
+    },
+    {
+        "question_text": "1604.下列关于缩宫素的叙述.错误的是",
+        "options": [
+            "A.由下丘脑合成",
+            "B.由神经垂体释放",
+            "C.促进妊娠子宫收缩",
+            "D.促进妊娠期乳腺生长发育",
+            "E.促进哺乳期乳腺排乳"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 84
+    },
+    {
+        "question_text": "1605.腺垂体分泌的激素不包括",
+        "options": [
+            "A.生长素",
+            "B.缩宫素",
+            "C.卵泡刺激素",
+            "D.促甲状腺激素",
+            "E.黄体生成素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 85
+    },
+    {
+        "question_text": "1606.下列各种激素的分泌不受腺垂体控制的是",
+        "options": [
+            "A.糖皮质激素",
+            "B.甲状腺激素",
+            "C.甲状旁腺激素",
+            "D.雌激素",
+            "E.雄激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 86
+    },
+    {
+        "question_text": "1607.下列不是腺垂体分泌的激素是",
+        "options": [
+            "A.促甲状腺激素",
+            "B.黄体生成素",
+            "C.缩宫素受体",
+            "D.催乳素",
+            "E.促肾上腺皮质激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 87
+    },
+    {
+        "question_text": "1608.下列关于升压素的叙述.正确的是",
+        "options": [
+            "A.在血浆中的半衰期为20--30分钟",
+            "B.对维持正常血压有重要意义",
+            "C.对正常血压调节没有重要性",
+            "D.无抗利尿利用",
+            "E.正常情况下在血浆中的浓度为2--10ng/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 88
+    },
+    {
+        "question_text": "1609.在射乳反射中.除缩宫素外.下列激素的分 泌也增加的是",
+        "options": [
+            "A.GnRH",
+            "B.PRL",
+            "C.LH",
+            "D.FSH",
+            "E.GH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 89
+    },
+    {
+        "question_text": "1610.下列各种情况下.ADH的分泌将会减少的是",
+        "options": [
+            "A.大出血",
+            "B.大量出汗",
+            "C.严重呕吐或腹泻",
+            "D.大量饮清水",
+            "E.血糖浓度升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 90
+    },
+    {
+        "question_text": "1611.调节ADH释放最敏感的感受器是",
+        "options": [
+            "A.下丘脑渗透压感受器",
+            "B.心房和肺血管的容量感受器",
+            "C.主动脉弓压力感受器",
+            "D.颈动脉窦压力感受器",
+            "E.肾小球入球小动脉牵张感受器"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 91
+    },
+    {
+        "question_text": "1612.抑制抗利尿激素释放的主要原因是",
+        "options": [
+            "A.血浆晶体渗透压增加",
+            "B.大量出汗",
+            "C.情绪紧张",
+            "D.大量饮水",
+            "E.血浆胶体渗透压升高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 92
+    },
+    {
+        "question_text": "*1613.甲状腺含碘量占全身总碘量的",
+        "options": [
+            "A.50%",
+            "B.60%",
+            "C.70%",
+            "D.80%",
+            "E.90%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 93
+    },
+    {
+        "question_text": "1614.碘离子从血液转运入甲状腺上皮细胞内的方 式是",
+        "options": [
+            "A.单纯扩散",
+            "B.易化扩散",
+            "C.继发性主动转运",
+            "D.被动转运",
+            "E.入胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 94
+    },
+    {
+        "question_text": "*1615.下列各种酶在TSH促进甲状腺激素合成的 过程中起关键性作用的是",
+        "options": [
+            "A.脱碘酶",
+            "B.蛋白水解酶",
+            "C.过氧化酶",
+            "D.腺苷酸环化酶",
+            "E.磷脂酶C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 95
+    },
+    {
+        "question_text": "1616.合成甲状腺激素的关键酶TPO在甲状腺腺泡 分布最多的是在",
+        "options": [
+            "A.腺泡腔",
+            "B.腺泡上皮细胞溶酶体内",
+            "C.腺泡上皮细胞核糖体内",
+            "D.腺泡上皮细胞高尔基复合体内",
+            "E.腺泡上皮细胞顶缘的微绒毛处"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 96
+    },
+    {
+        "question_text": "1617.下列各项不是甲状腺激素作用的是",
+        "options": [
+            "A.分泌过多时，蛋白质合成增加",
+            "B.提高神经系统的兴奋性",
+            "C.促进骨骼和脑的生长发育",
+            "D.使心跳加快加强",
+            "E.生理剂量可以促进蛋白质合成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 97
+    },
+    {
+        "question_text": "1618.甲状腺激素分泌过多将",
+        "options": [
+            "A.增加肠道吸收葡萄糖及半乳糖",
+            "B.进食糖类后先出现高血糖，继之低血糖",
+            "C.进食含糖高的食物后出现糖尿",
+            "D.增加胰岛素的需要量",
+            "E.以上各项均出现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 98
+    },
+    {
+        "question_text": "1619.下列各种酪氨酸的碘化物在血中含量最多的 是",
+        "options": [
+            "A.三碘甲腺原氨酸",
+            "B.四碘甲腺原氨酸",
+            "C.逆-三碘甲腺原氨酸",
+            "D.MIT",
+            "E.DIT"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 99
+    },
+    {
+        "question_text": "1620.下列各种激素合成后储存于细胞外.而且储 量最大的是",
+        "options": [
+            "A.肾上腺素",
+            "B.甲状腺激素",
+            "C.胰岛素",
+            "D.皮质醇",
+            "E.生长激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 100
+    },
+    {
+        "question_text": "1621.三碘甲腺原氨酸比四碘甲腺原氨酸的生物活性大约强",
+        "options": [
+            "A.2倍",
+            "B.3倍",
+            "C.5倍",
+            "D.7倍",
+            "E.9倍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 101
+    },
+    {
+        "question_text": "1622.正常情况下.储存于腺泡腔内的甲状腺激素 可供机体利用",
+        "options": [
+            "A.5--10天",
+            "B.10--20天",
+            "C.20--30天",
+            "D.50--120 天",
+            "E.150--200 天"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 102
+    },
+    {
+        "question_text": "1623.与甲状腺激素结合的血浆蛋白主要是",
+        "options": [
+            "A.CBG",
+            "B.GHBP",
+            "C.ABP",
+            "D.TBG",
+            "E.白蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 103
+    },
+    {
+        "question_text": "1624.下列关于血中逆-三碘甲腺原氨酸来源的描述.正确的是",
+        "options": [
+            "A.绝大部分由甲状腺分泌",
+            "B.绝大部分在组织由四碘甲腺原氨酸脱碘而来",
+            "C.在组织由三碘甲腺原氨酸转变而来",
+            "D.绝大部分在甲状腺泡上皮内由四碘甲腺原氨酸脱碘而来",
+            "E.在血中由四碘甲腺原氨酸转变而来"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 104
+    },
+    {
+        "question_text": "1625.下列关于血中三碘甲腺原氨酸来源的描述.正确的是",
+        "options": [
+            "A.大部分在组织由四碘甲腺原氨酸脱碘而来",
+            "B.大部分由甲状腺分泌",
+            "C.大部分在甲状腺泡上皮内由四碘甲腺原氨酸脱 碘而来",
+            "D.在组织由逆-三碘甲腺原氨酸转变而来",
+            "E.在血中由四碘甲腺原氨酸转变而来"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 105
+    },
+    {
+        "question_text": "1626.在胚胎期对脑发育最为重要的激素是",
+        "options": [
+            "A.生长激素",
+            "B.胰岛素",
+            "C.甲状腺激素",
+            "D.糖皮质激素",
+            "E.绒毛膜生长素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 106
+    },
+    {
+        "question_text": "1627.甲状腺激素对靶细胞的作用的产生是通过",
+        "options": [
+            "A.cAMP-PKA 系统",
+            "B.三磷酸肌醇/二酰甘油-蛋白激酶C系统",
+            "C.cGMP-PKG 系统",
+            "D.PG的介导",
+            "E.进入核内调控DNA转录"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 107
+    },
+    {
+        "question_text": "1628.甲状腺激素能够降低",
+        "options": [
+            "A.血糖浓度",
+            "B.血胆固醇浓度",
+            "C.血钙离子浓度",
+            "D.血胰岛素浓度",
+            "E.中枢神经系统的兴奋性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 108
+    },
+    {
+        "question_text": "1629.婴幼儿时期甲状腺分泌不足可产生",
+        "options": [
+            "A.侏儒症",
+            "B.肢端肥大症",
+            "C.向心性肥胖",
+            "D.呆小症",
+            "E.糖尿病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 109
+    },
+    {
+        "question_text": "1630.对TSH的分泌具有促进作用的下丘脑调节肽 是",
+        "options": [
+            "A.TRH",
+            "B.CRH",
+            "C.GnRH",
+            "D.GHRH",
+            "E.PRF"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 110
+    },
+    {
+        "question_text": "1631.寒冷刺激的信息到达中枢神经系统后.其促进TRH和TSH的释放是通过",
+        "options": [
+            "A.NE",
+            "B.乙酰胆碱",
+            "C.GABA",
+            "D.DA",
+            "E.5-HT"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 111
+    },
+    {
+        "question_text": "1632.血中甲状腺激素浓度升高对TSH分泌的负反 馈抑制作用出现较慢.其原因是",
+        "options": [
+            "A.四碘甲腺原氨酸需先转变为三碘甲腺原氨酸",
+            "B.需先作用于下丘脑促垂体区",
+            "C.激素需从结合型变为游离型",
+            "D.需先刺激腺垂体产生一种抑制性蛋白",
+            "E.需先释放生长抑素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 112
+    },
+    {
+        "question_text": "1633.甲状腺激素能降低",
+        "options": [
+            "A.糖酵解",
+            "B.糖原异生",
+            "C.血浆胆固醇的水平",
+            "D.血浆氨基酸水平",
+            "E.血浆游离脂肪酸浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 113
+    },
+    {
+        "question_text": "1634.关于甲状腺腺泡细胞的聚碘作用错误的是",
+        "options": [
+            "A.需要激活钠-钾ATP酶产生能量",
+            "B.依靠腺泡细胞基底膜上钠/碘泵的帮助",
+            "C.当钠离子顺浓度差内流时抑制碘离子的转运",
+            "D.是逆电-化学梯度进行的",
+            "E.TSH能加强腺泡细胞的聚碘作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 114
+    },
+    {
+        "question_text": "1635.生物活性最高的甲状腺激素是",
+        "options": [
+            "A.四碘甲腺原氨酸",
+            "B.三碘甲腺原氨酸",
+            "C.逆-三碘甲腺原氨酸",
+            "D.DIT 和 MIT",
+            "E.酪氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 115
+    },
+    {
+        "question_text": "1636.以下关于甲状旁腺激素的描述错误的是",
+        "options": [
+            "A.其分泌主要受血浆中钙离子浓度的调节",
+            "B.直接刺激破骨细胞的溶骨",
+            "C.主要增加小肠黏膜对钙离子的吸收",
+            "D.直接刺激肾脏远球小管重吸收钙离子",
+            "E.主要作用是升高血钙，降低血磷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 116
+    },
+    {
+        "question_text": "1637.关于甲状腺激素的生理作用.错误的是",
+        "options": [
+            "A.增加组织细胞耗氧量",
+            "B.促进幼儿脑和骨的生长发育",
+            "C.增强心肌收缩力",
+            "D.降低肾上腺皮质激素的分泌率",
+            "E.增强食欲和食物的消化吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 117
+    },
+    {
+        "question_text": "1638.以下各因素不参与机体对寒冷刺激引起的适 应性反应的是",
+        "options": [
+            "A.神经递质去甲肾上腺素",
+            "B.TRH",
+            "C.TSH",
+            "D.三碘甲腺原氨酸和四碘甲腺原氨酸",
+            "E.生长抑素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 118
+    },
+    {
+        "question_text": "1639.应激时TSH释放减少.其主要原因是",
+        "options": [
+            "A.生长抑素释放较多，TRH的合成与释放受抑",
+            "B.四碘甲腺原氨酸与三碘甲腺原氨酸对腺垂体分泌TSH的抑制作用增强",
+            "C.腺垂体对TRH的反应性减弱",
+            "D.生长激素对TSH分泌的抑制作用增强",
+            "E.糖皮质激素对TSH分泌的抑制作用增强"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 119
+    },
+    {
+        "question_text": "1640.甲状腺具有适应碘的供应变化而改变摄碘与合成甲状腺激素的能力.这种调节称为",
+        "options": [
+            "A.长反馈调节",
+            "B.短反馈调节",
+            "C.超短反馈调节",
+            "D.自身调节",
+            "E.神经调节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 120
+    },
+    {
+        "question_text": "1641.甲状腺激素负反馈调节主要作用部位是",
+        "options": [
+            "A.下丘脑促垂体区",
+            "B.腺垂体",
+            "C.神经垂体",
+            "D.下丘脑视上核、视旁核",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 121
+    },
+    {
+        "question_text": "1642.有关三碘甲腺原氨酸、四碘甲腺原氨酸的作用.错误的是",
+        "options": [
+            "A.促进蛋白质的合成",
+            "B.维持正常生长、发育",
+            "C.提高神经系统的兴奋性",
+            "D.减少糖原分解",
+            "E.增加组织细胞耗氧量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 122
+    },
+    {
+        "question_text": "1643.成年人甲状腺激素分泌不足可出现的疾病或 症状是",
+        "options": [
+            "A.呆小症",
+            "B.侏儒症",
+            "C.黏液性水肿",
+            "D.克汀病",
+            "E.水中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 123
+    },
+    {
+        "question_text": "1644.硫氧嘧啶类药物可用于治疗甲状腺功能亢 进.这是由于它能",
+        "options": [
+            "A.抑制甲状腺腺泡上皮细胞中的TPO活性",
+            "B.抑制肠吸收碘",
+            "C.抑制甲状腺的聚碘作用",
+            "D.抑制甲状腺激素的释放",
+            "E.促进甲状腺激素的灭活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 124
+    },
+    {
+        "question_text": "1645.能升高血钙水平的激素是",
+        "options": [
+            "A.CT",
+            "B.PTH",
+            "C.TSH",
+            "D.ACTH",
+            "E.CRH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 125
+    },
+    {
+        "question_text": "1646.体内调节血钙水平最重要的激素是",
+        "options": [
+            "A.甲状旁腺激素",
+            "B.甲状腺激素",
+            "C.醛固酮",
+            "D.糖皮质激素",
+            "E.生长素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 126
+    },
+    {
+        "question_text": "1647.甲状旁腺激素的主要靶器官是",
+        "options": [
+            "A.甲状旁腺",
+            "B.胃肠道",
+            "C.骨组织",
+            "D.肾上腺",
+            "E.甲状腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 127
+    },
+    {
+        "question_text": "1648.有关甲状旁腺激素的作用.错误的是",
+        "options": [
+            "A.促进肠道对钙离子的吸收",
+            "B.使血钙升高，血磷降低",
+            "C.促进破骨细胞的活动",
+            "D.抑制维生素",
+            "E.促进小肠对磷的吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 128
+    },
+    {
+        "question_text": "1649.大剂量的降钙素能在15分钟内引起血钙降低.其原因是",
+        "options": [
+            "A.抑制肾小管对钙的重吸收",
+            "B.抑制破骨细胞活动，减弱溶骨过程",
+            "C.刺激成骨细胞活动，增强成骨过程",
+            "D.甲状旁腺激素分泌减少",
+            "E.肠对钙的吸收减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 129
+    },
+    {
+        "question_text": "1650.调节甲状旁腺激素和降钙素分泌的主要因素是",
+        "options": [
+            "A.血钠浓度",
+            "B.血钙浓度",
+            "C.血钾浓度",
+            "D.神经作用",
+            "E.血糖浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 130
+    },
+    {
+        "question_text": "1651.在PTH作用后几分钟内可引起血钙升高.其原因是",
+        "options": [
+            "A.促进肾小管对钙的重吸收",
+            "B.促进骨液中的钙转运至血液内",
+            "C.刺激破骨细胞活动，增强骨钙释放",
+            "D.抑制成骨细胞的活动，减少骨钙沉积",
+            "E.促进1，25-(OH)2-VD3的生成，增加肠对钙的吸收"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 131
+    },
+    {
+        "question_text": "1652.在PTH作用后12--14小时引起血钙升高.其原因是",
+        "options": [
+            "A.促进肾小管对钙的重吸收",
+            "B.促进骨液中的钙转运到血液内",
+            "C.刺激破骨细胞的活动，增强溶骨过程",
+            "D.抑制成骨细胞的活动，减少骨钙沉积",
+            "E.促进1，25-(OH)2-VD3的生成，增加肠对钙的吸收"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 132
+    },
+    {
+        "question_text": "1653.影响PTH分泌最重要的因素是",
+        "options": [
+            "A.血磷浓度",
+            "B.血钙离子浓度",
+            "C.血镁离子浓度",
+            "D.血中儿茶酚胺浓度",
+            "E.血中前列腺素浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 133
+    },
+    {
+        "question_text": "1654.下列各种维生素的激活形式可作为一种能显著影响钙吸收与代谢的激素的是",
+        "options": [
+            "A.维生素A",
+            "B.维生素B复合体",
+            "C.维生素C",
+            "D.维生素D",
+            "E.维生素K"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 134
+    },
+    {
+        "question_text": "1655.25- (OH) -VD3 转变为 1.25- (OH) 2-VD3 是在哪个部位中进行的",
+        "options": [
+            "A.肝",
+            "B.肾",
+            "C.肠",
+            "D.骨",
+            "E.皮肤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 135
+    },
+    {
+        "question_text": "1656.下列各种激素可促进1.25- (OH) 2-VD3形成的是",
+        "options": [
+            "A.PTH",
+            "B.三碘甲腺原氨酸",
+            "C.四碘甲腺原氨酸",
+            "D.CT",
+            "E.TSH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 136
+    },
+    {
+        "question_text": "1657.肾上腺皮质功能低下时可出现",
+        "options": [
+            "A.血容量减少",
+            "B.血容量增多",
+            "C.血浆钠离子浓度升高",
+            "D.血浆钾离子浓度降低",
+            "E.血压升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 137
+    },
+    {
+        "question_text": "1658.由肾上腺皮质束状带细胞分泌的激素主要是",
+        "options": [
+            "A.醛固酮",
+            "B.脱氢表雄酮",
+            "C.雌二醇",
+            "D.皮质醇",
+            "E.脱氧皮质酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 138
+    },
+    {
+        "question_text": "1659.由肾上腺皮质球状带细胞分泌的激素主要是",
+        "options": [
+            "A.皮质酮",
+            "B.醛固酮",
+            "C.脱氢表雄酮",
+            "D.甲状腺激素",
+            "E.雄激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 139
+    },
+    {
+        "question_text": "1660.正常情况下.下列各种激素中能促进蛋白质 分解的是",
+        "options": [
+            "A.糖皮质激素",
+            "B.生长激素",
+            "C.胰岛素",
+            "D.甲状腺激素",
+            "E.雄激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 140
+    },
+    {
+        "question_text": "1661.对糖代谢作用最强的肾上腺皮质激素是",
+        "options": [
+            "A.皮质醇",
+            "B.醛固酮",
+            "C.皮质酮",
+            "D.脱氧皮质酮",
+            "E.脱氢表雄酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 141
+    },
+    {
+        "question_text": "1662.保钠排钾作用最强的肾上腺皮质激素是",
+        "options": [
+            "A.皮质醇",
+            "B.醛固酮",
+            "C.皮质酮",
+            "D.脱氧皮质酮",
+            "E.可的松"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 142
+    },
+    {
+        "question_text": "1663.下列关于糖皮质激素对血细胞作用的描述.正确的是",
+        "options": [
+            "A.使红细胞减少",
+            "B.使血小板减少",
+            "C.使中性粒细胞减少",
+            "D.使淋巴细胞减少",
+            "E.使嗜酸粒细胞增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 143
+    },
+    {
+        "question_text": "1664.能与糖皮质激素结合的血浆蛋白主要是",
+        "options": [
+            "A.CBG",
+            "B.GHBP",
+            "C.ABP",
+            "D.TBG",
+            "E.白蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 144
+    },
+    {
+        "question_text": "1665.下列各种物质中能直接刺激肾上腺皮质球状带细胞分泌醛固酮的是",
+        "options": [
+            "A.血管紧张素I",
+            "B.血管紧张素原",
+            "C.血管紧张素II",
+            "D.促肾上腺皮质激素",
+            "E.肾素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 145
+    },
+    {
+        "question_text": "1666.糖皮质激素可以",
+        "options": [
+            "A.抑制蛋白质分解",
+            "B.使血糖浓度降低",
+            "C.使肾脏排水能力降低",
+            "D.使血浆白蛋白含量减少",
+            "E.增加血管对儿茶酚胺的敏感性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 146
+    },
+    {
+        "question_text": "1667.关于糖皮质激素生理作用错误的是",
+        "options": [
+            "A.升高血糖",
+            "B.使肝外全身细胞内蛋白质减少",
+            "C.加强心肌收缩力，维持动脉血压",
+            "D.增加脂肪的合成",
+            "E.减少淋巴细胞数量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 147
+    },
+    {
+        "question_text": "1668.以下哪种因素导致血中儿茶酚胺类激素浓度 升高--",
+        "options": [
+            "A.血糖升高",
+            "B.恐惧、焦虑和剧痛",
+            "C.慢波睡眠期",
+            "D.血压升高",
+            "E.机体清醒安静"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 148
+    },
+    {
+        "question_text": "1669.关于ACTH分泌的调节.错误的是",
+        "options": [
+            "A.受下丘脑促皮质激素释放激素的调节",
+            "B.受肾上腺皮质分泌糖皮质激素的反馈调节",
+            "C.受醛固酮的反馈调节",
+            "D.受下丘脑-腺垂体-肾上腺皮质轴调节",
+            "E.有与光照无关的日周期变化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 149
+    },
+    {
+        "question_text": "1670.关于ACTH分泌的调节.正确的是",
+        "options": [
+            "A.下丘脑CRH抑制其分泌",
+            "B.血中糖皮质激素的正反馈作用",
+            "C.血中糖皮质激素的负反馈作用",
+            "D.血中ACTH促进CRH的分泌",
+            "E.以上均不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 150
+    },
+    {
+        "question_text": "1671.机体受到刺激而发生应急反应的系统是",
+        "options": [
+            "A.下丘脑-腺垂体-肾上腺髓质系统",
+            "B.下丘脑-腺垂体-肾上腺皮质系统",
+            "C.下丘脑-腺垂体-性腺系统",
+            "D.下丘脑-神经垂体系统",
+            "E.交感-肾上腺髓质系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 151
+    },
+    {
+        "question_text": "1672.机体受到刺激而发生应激反应的系统是",
+        "options": [
+            "A.交感-肾上腺髓质系统",
+            "B.下丘脑-腺垂体-肾上腺皮质系统",
+            "C.下丘脑-腺垂体-甲状腺系统",
+            "D.下丘脑-腺垂体-性腺系统",
+            "E.下丘脑-神经垂体系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 152
+    },
+    {
+        "question_text": "1673.能促进ACTH释放的下丘脑调节肽是",
+        "options": [
+            "A.TRH",
+            "B.GnRH",
+            "C.GHRH",
+            "D.CRH",
+            "E.PRF"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 153
+    },
+    {
+        "question_text": "1674.长期使用大量糖皮质激素可引起肾上腺皮质萎缩.其原因是",
+        "options": [
+            "A.直接使束状带与网状带细胞凋亡",
+            "B.负反馈抑制腺垂体分泌ACTH",
+            "C.促进肾上腺皮质细胞蛋白质分解",
+            "D.抑制肾上腺皮质细胞蛋白质合成",
+            "E.促进肾上腺皮质细胞脂肪分解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 154
+    },
+    {
+        "question_text": "1675.长期大量使用糖皮质激素时可出现（）",
+        "options": [
+            "A.血中CRH含量升高",
+            "B.血中ACTH含量降低",
+            "C.血中TSH含量降低",
+            "D.血中GH含量降低",
+            "E.血中PRL含量降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 155
+    },
+    {
+        "question_text": "1676.长期大量使用糖皮质激素.可引起",
+        "options": [
+            "A.肾上腺皮质高度增生",
+            "B.肾上腺皮质逐渐萎缩",
+            "C.肾上腺髓质萎缩",
+            "D.促肾上腺皮质激素分泌增加",
+            "E.促肾上腺皮质激素释放激素增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 156
+    },
+    {
+        "question_text": "1677.下列各种激素中不利于人体生长发育的是",
+        "options": [
+            "A.生长激素",
+            "B.胰岛素",
+            "C.甲状腺激素",
+            "D.雌激素和睾酮",
+            "E.皮质醇"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 157
+    },
+    {
+        "question_text": "1678.肾上腺髓质合成的肾上腺素与去甲肾上腺素 的比例约为",
+        "options": [
+            "A.2 ： 1",
+            "B.4 ： 1",
+            "C.6 ： 1",
+            "D.8 ： l",
+            "E.10 ： 1"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 158
+    },
+    {
+        "question_text": "1679.切除双侧肾上腺后动物死亡的主要原因是缺乏",
+        "options": [
+            "A.肾上腺素",
+            "B.肾素",
+            "C.去甲肾上腺素",
+            "D.肾上腺皮质激素",
+            "E.血管紧张素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 159
+    },
+    {
+        "question_text": "1680.下列内分泌腺中.功能性活动主要受交感神经调节的是",
+        "options": [
+            "A.胰岛",
+            "B.甲状腺",
+            "C.肾上腺髓质",
+            "D.腺垂",
+            "E.性腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 160
+    },
+    {
+        "question_text": "1681.支配肾上腺髓质的神经纤维是",
+        "options": [
+            "A.交感神经节前纤维",
+            "B.交感胆碱能节后纤维",
+            "C.交感肾上腺素能节后纤维",
+            "D.副交感神经节前纤维",
+            "E.副交感胆碱能节后纤维"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 161
+    },
+    {
+        "question_text": "1682.交感神经兴奋时血糖浓度迅速升高.此作用是由于",
+        "options": [
+            "A.胰高血糖素",
+            "B.生长激素",
+            "C.肾上腺素",
+            "D.糖皮质激素",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 162
+    },
+    {
+        "question_text": "1683.胰岛素的生物学作用不包括",
+        "options": [
+            "A.促进葡萄糖进入细胞",
+            "B.促进脂肪酸转变成葡萄糖",
+            "C.促进糖原合成",
+            "D.促进机体生长",
+            "E.抑制脂肪和蛋白质分解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 163
+    },
+    {
+        "question_text": "1684.关于胰岛素降低血糖作用.错误的是",
+        "options": [
+            "A.促进组织细胞摄取葡萄糖",
+            "B.增强糖原的合成",
+            "C.抑制糖原的分解",
+            "D.增加糖异生",
+            "E.促进葡萄糖转变为脂肪酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 164
+    },
+    {
+        "question_text": "1685.以下各项可抑制胰岛素分泌的是",
+        "options": [
+            "A.交感神经兴奋",
+            "B.血中氨基酸及脂肪酸增加",
+            "C.胃肠激素",
+            "D.迷走神经兴奋",
+            "E.血糖升高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 165
+    },
+    {
+        "question_text": "1686.分泌胰岛素的B细胞约占胰岛细胞总数的",
+        "options": [
+            "A.小于1%",
+            "B.5%",
+            "C.20%",
+            "D.60%",
+            "E.75%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 166
+    },
+    {
+        "question_text": "1687.下列各种激素原经水解形成激素与连接肽（C肽）一同被分泌入血中的是",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.胰岛素",
+            "C.胰高血糖素",
+            "D.胰多肽",
+            "E.生长激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 167
+    },
+    {
+        "question_text": "1688.能降低血糖浓度的激素是",
+        "options": [
+            "A.皮质醇",
+            "B.肾上腺素",
+            "C.胰岛素",
+            "D.生长激素",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 168
+    },
+    {
+        "question_text": "1689.下列各种激素受体与激素结合后通过受体上 的酪氨酸残基发生磷酸化而引起跨膜信息传递的 是",
+        "options": [
+            "A.促肾上腺皮质激素受体",
+            "B.促甲状腺激素受体",
+            "C.促卵泡激素受体",
+            "D.胰岛素受体",
+            "E.肾上腺素受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 169
+    },
+    {
+        "question_text": "1690.下列各项中.不影响醛固酮分泌的是",
+        "options": [
+            "A.血浆钠离子浓度降低",
+            "B.血浆钾离子浓度升高",
+            "C.血浆钠离子浓度升",
+            "D.血浆钾离子浓度降低",
+            "E.血浆氯离子浓度升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 170
+    },
+    {
+        "question_text": "1691.M岛素缺乏时.一般不出现",
+        "options": [
+            "A.多尿",
+            "B.多饮",
+            "C.高血糖",
+            "D.高血压",
+            "E.高血脂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 171
+    },
+    {
+        "question_text": "1692.引起血糖降低的激素是",
+        "options": [
+            "A.生长素",
+            "B.胰岛素",
+            "C.肾上腺素",
+            "D.糖皮质激素",
+            "E.甲状腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 172
+    },
+    {
+        "question_text": "1693.调节胰岛素分泌最重要的因素是",
+        "options": [
+            "A.血中氨基酸浓度",
+            "B.血糖浓度",
+            "C.血中脂肪酸浓度",
+            "D.乙酰胆碱",
+            "E.胰高血糖素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 173
+    },
+    {
+        "question_text": "1694.下列各种激素中促进胰岛素分泌的作用最为 明显的是",
+        "options": [
+            "A.生长抑素",
+            "B.糖皮质激素",
+            "C.抑胃肽",
+            "D.甲状腺激素",
+            "E.生长激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 174
+    },
+    {
+        "question_text": "1695.胰高血糖素能直接影响哪项的分泌",
+        "options": [
+            "A.胰岛素",
+            "B.生长激素",
+            "C.糖皮质激素",
+            "D.甲状腺激素",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 175
+    },
+    {
+        "question_text": "1696.胰高血糖素对糖代谢作用的靶器官是",
+        "options": [
+            "A.肌肉",
+            "B.小肠",
+            "5",
+            "D.大脑",
+            "E.肾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 176
+    },
+    {
+        "question_text": "1697.胰高血糖素促进糖原分解作用的实现是通过",
+        "options": [
+            "A.cAMP-PKA",
+            "B.cGMP-PKG",
+            "C.离子通道受体",
+            "D.膜受体-PTK",
+            "E.核受体-DNA转录"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 177
+    },
+    {
+        "question_text": "1698.关于胰高血糖素的作用.错误的是",
+        "options": [
+            "A.最重要的作用是使血糖升高",
+            "B.作用的靶器官主要是肝脏",
+            "C.通过三磷酸肌醇-二酰甘油系统发挥作用",
+            "D.增加心肌收缩力",
+            "E.加强脂肪酸的氧化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 178
+    },
+    {
+        "question_text": "1699.能抑制胰岛素分泌的激素是",
+        "options": [
+            "A.生长抑素",
+            "B.生长激素",
+            "C.抑胃肽",
+            "D.皮质醇",
+            "E.胰高血糖素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 179
+    },
+    {
+        "question_text": "1700.能直接抑制胰岛A细胞分泌胰高血糖素的生 长抑素主要来源于",
+        "options": [
+            "A.下丘脑",
+            "B.胰岛",
+            "C.冃",
+            "D.小肠",
+            "E.结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 180
+    },
+    {
+        "question_text": "1701.蛋白餐可使胰高血糖素分泌增多.其原因是",
+        "options": [
+            "A.促进胰岛素释放而致血糖降低",
+            "B.小肠对糖的吸收减少而致血糖降低",
+            "C.小肠吸收较多的氨基酸而致血中氨基酸增多",
+            "D.糖皮质激素分泌减少而致血糖降低",
+            "E.生长激素分泌减少而致血糖降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 181
+    },
+    {
+        "question_text": "1702.下列各项中不是糖皮质激素的生理作用的是",
+        "options": [
+            "A.使血中嗜酸粒细胞增加",
+            "B.促进肝外蛋白质分解",
+            "C.促进四肢脂肪分解",
+            "D.增强机体对有害刺激的耐受力",
+            "E.增加胃酸和胃蛋白酶的分泌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 182
+    },
+    {
+        "question_text": "1703.主要使血钙升高的激素是",
+        "options": [
+            "A.甲状腺激素",
+            "B.糖皮质激素",
+            "C.胰高血糖素",
+            "D.甲状旁腺激素",
+            "E.生长素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 183
+    },
+    {
+        "question_text": "1704.促进脂肪分解代谢的激素不包括",
+        "options": [
+            "A.胰岛素",
+            "B.胰高血糖素",
+            "C.生长素",
+            "D.甲状腺激素",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 184
+    },
+    {
+        "question_text": "1705.生物活性最高的维生素D3是",
+        "options": [
+            "A.24，25-（OH）2-VD3",
+            "B.1，25-（OH）2-VD3",
+            "C.25-（OH）-VD3",
+            "D.7-脱氢胆固醇",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 185
+    },
+    {
+        "question_text": "1706.降钙素的主要作用是",
+        "options": [
+            "A.升咼血钙和血磷",
+            "B.降低血钙和血磷",
+            "C.降低血钙，升高血磷",
+            "D.升高血钙，降低血磷",
+            "E.主要参与正常血钙的调节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 186
+    },
+    {
+        "question_text": "1707.褪黑素的化学性质属于",
+        "options": [
+            "A.胺类",
+            "B.肽类",
+            "C.蛋白质",
+            "D.类固醇",
+            "E.脂肪酸衍生物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 187
+    },
+    {
+        "question_text": "1708.褪黑素是由哪项分泌的",
+        "options": [
+            "A.甲状腺C细胞",
+            "B.胰岛PP细胞",
+            "C.松果体细胞",
+            "D.肾上腺髓质嗜铬细胞",
+            "E.下丘脑的神经细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 188
+    },
+    {
+        "question_text": "1709.现认为使生物节律同步的内因子是",
+        "options": [
+            "A.褪黑素",
+            "B.前列腺素",
+            "C.5-羟色胺",
+            "D.色氨酸",
+            "E.去甲肾上腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 189
+    },
+    {
+        "question_text": "1710.褪黑素对哪项的功能活动有明显的抑制作用",
+        "options": [
+            "A.甲状腺",
+            "B.肾上腺",
+            "C.腺垂体",
+            "D.性腺",
+            "E.胰岛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 190
+    },
+    {
+        "question_text": "1711.下列各种激素中与乳腺的发育、分泌和排出 乳汁无关的是",
+        "options": [
+            "A.雌激素",
+            "B.孕激素",
+            "C.催乳素",
+            "D.缩宫素",
+            "E.前列腺素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 191
+    },
+    {
+        "question_text": "1712.关于月经周期血中激素浓度变化的叙述.错 误的是",
+        "options": [
+            "A.雌激素有两次高峰",
+            "B.孕激素高峰主要出现在排卵前",
+            "C.黄体生成素在排卵前达高峰",
+            "D.卵泡刺激素与黄体生成素的高峰同步出现",
+            "E.月经期前血中雌激素和孕激素均急剧下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 192
+    },
+    {
+        "question_text": "1713.关于孕激素的作用.错误的是",
+        "options": [
+            "A.刺激子宫内膜向增生期变化",
+            "B.使子宫肌活动减弱",
+            "C.降低母体免疫排斥作用",
+            "D.刺激乳腺腺泡的发育",
+            "E.促进能量代谢，有产热作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 193
+    },
+    {
+        "question_text": "1714.使子宫内膜产生分泌期变化的直接作用的激 素主要",
+        "options": [
+            "A.促性腺激素",
+            "B.促性腺激素释放激素",
+            "C.雌激素",
+            "D.孕激素和雌激素共同作用",
+            "E.促性腺激素抑制激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 194
+    },
+    {
+        "question_text": "1715.下列各种激素中具有促进睡眠作用的是",
+        "options": [
+            "A.胰岛素",
+            "B.生长激素",
+            "C.皮质醇",
+            "D.褪黑素",
+            "E.催乳素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 195
+    },
+    {
+        "question_text": "1716.控制褪黑素分泌呈昼夜节律变化的中枢位于",
+        "options": [
+            "A.丘脑前核",
+            "B.丘脑枕核",
+            "C.下丘脑视交叉上核",
+            "D.下丘脑视上核",
+            "E.下丘脑室旁核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 196
+    },
+    {
+        "question_text": "1717.PG 属于",
+        "options": [
+            "A.胺类",
+            "B.肽类",
+            "C.蛋白质",
+            "D.固醇类",
+            "E.脂肪酸衍生物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 197
+    },
+    {
+        "question_text": "1718.花生四烯酸是经过",
+        "options": [
+            "A.磷脂酶A2",
+            "B.环加氧酶",
+            "C.前列腺环素合成酶",
+            "D.异构酶",
+            "E.还原酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 198
+    },
+    {
+        "question_text": "1719.下列各种前列腺素类物质中具有较强的抑制 血小板聚集和舒血管作用的是",
+        "options": [
+            "A.PGF",
+            "B.PGE2",
+            "C.PG12",
+            "D.PGD2",
+            "E.TXA2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 199
+    },
+    {
+        "question_text": "1720.下列各种前列腺素类物质中具有很强的聚集 血小板与缩血管作用的是",
+        "options": [
+            "A.PGF",
+            "B.PGE2",
+            "C.PG12",
+            "D.PGD2",
+            "E.TXA2"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 200
+    },
+    {
+        "question_text": "1721.睾丸间质细胞的生理功能是",
+        "options": [
+            "A.营养和支持生殖细胞",
+            "B.产生精子",
+            "C.分泌雄激素",
+            "D.分泌雄激素结合蛋白",
+            "E.维持生精作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 201
+    },
+    {
+        "question_text": "1722.关于睾丸功能调控的叙述.错误的是",
+        "options": [
+            "A.生精过程受下丘脑-腺垂体的调节",
+            "B.睾酮分泌量受黄体生成素的影响",
+            "C.黄体生成素主要作用于间质细胞，因而称为间 质细胞刺激素",
+            "D.卵泡刺激素主要作用于睾丸的支持细胞和生精 细胞",
+            "E.抑制素主要对黄体生成素的分泌起抑制作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 202
+    },
+    {
+        "question_text": "1723.血浆中能高度特异性结合GH的蛋白质是",
+        "options": [
+            "A.CBG",
+            "B.GHBP",
+            "C.ABP",
+            "D.TBG",
+            "E.白蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 203
+    },
+    {
+        "question_text": "1724.接受下丘脑双重控制的腺垂体激素有",
+        "options": [
+            "A.促肾上腺激素",
+            "B.生长素",
+            "C.促甲状腺激素",
+            "D.催乳素",
+            "E.抗利尿激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 204
+    },
+    {
+        "question_text": "1725.下述哪种生长激素不能促进蛋白质的合成",
+        "options": [
+            "A.生长素",
+            "B.醛固酮",
+            "C.雄激素",
+            "D.胰岛素",
+            "E.生长素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 205
+    },
+    {
+        "question_text": "1726.促进LH、FSH释放的下丘脑调节肽是",
+        "options": [
+            "A.TRH",
+            "B.GnRH",
+            "C.GRH",
+            "D.GHRH",
+            "E.CRH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 206
+    },
+    {
+        "question_text": "1727.对GH分泌刺激作用最强的是",
+        "options": [
+            "A.低血糖",
+            "B.血中脂肪酸增多",
+            "C.运动",
+            "D.睡眠",
+            "E.饥饿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 207
+    },
+    {
+        "question_text": "1728.对于生长素的描述.下列哪一项是不正确的",
+        "options": [
+            "A.促进骨、软骨、肌肉及其它组织细胞分裂增殖",
+            "B.促进脂肪的合成",
+            "C.加速蛋白质的合成",
+            "D.抑制外周组织对葡萄糖的摄取",
+            "E.促进生长发育"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 208
+    },
+    {
+        "question_text": "1729.侏儒症患者出现的特征有",
+        "options": [
+            "A.智力正常",
+            "B.身材矮小",
+            "C.手足粗大",
+            "D.运动障碍",
+            "E.智力障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 209
+    },
+    {
+        "question_text": "1730.对于甲状腺激素的生理作用.下列那一项是 不正确的",
+        "options": [
+            "A.促进婴儿脑和骨骼的生长发育",
+            "B.增加组织耗氧，促进产热",
+            "C.促进蛋白质分解",
+            "D.增加糖原分解和抑制糖原合成",
+            "E.促进脂肪分解"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 210
+    },
+    {
+        "question_text": "1731.25- (0H) -维生素 D3 转变为 1. 25-(OH)-维生素D3是在下列哪个器官进行的",
+        "options": [
+            "A.肝",
+            "B.肾",
+            "5",
+            "D.肠",
+            "E.肺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 211
+    },
+    {
+        "question_text": "1732.大剂量的降钙素能在15分钟内导致血钙降 低.其原因是",
+        "options": [
+            "A.抑制肾小管对钙的重吸收",
+            "B.抑制破骨细胞活动，减弱溶骨过程",
+            "C.甲状旁腺激素分泌减少",
+            "D.刺激成骨细胞活动，增强成骨过程",
+            "E.降低血浆磷浓度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 212
+    },
+    {
+        "question_text": "1733.甲状旁腺激素的生理作用有",
+        "options": [
+            "A.促进溶骨过程",
+            "B.促进成骨过程",
+            "C.促进蛋白质的合成",
+            "D.升高血糖",
+            "E.抑制肠吸收钙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 213
+    },
+    {
+        "question_text": "1734.促进ACTH释放的下丘脑调节肽是",
+        "options": [
+            "A.GnRH",
+            "B.TRH",
+            "C.GHRH",
+            "D.CRH",
+            "E.GHIH"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 214
+    },
+    {
+        "question_text": "1735.对于糖皮质激素对血细胞的描述.恰当的是",
+        "options": [
+            "A.使血细胞减少",
+            "B.使红细胞减少",
+            "C.使中性粒细胞减少",
+            "D.使淋巴细胞减少",
+            "E.使血小板减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 215
+    },
+    {
+        "question_text": "1736.患者长期大量使用糖皮质激素时.下列哪项变化正确",
+        "options": [
+            "A.血中CRH增加",
+            "B.血中ACTH减少",
+            "C.血中TSH增加",
+            "D.血中GH减少",
+            "E.血中PRL增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 216
+    },
+    {
+        "question_text": "1737.机体受到刺激而发生应激反应的系统是",
+        "options": [
+            "A.交感一肾上腺髓质系统",
+            "B.下丘脑一腺垂体一肾上腺皮质系统",
+            "C.下丘脑一腺垂体一性腺系统",
+            "D.下丘脑一腺垂体一甲状腺系统",
+            "E.下丘脑一腺垂体一肾上腺髓质系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 217
+    },
+    {
+        "question_text": "1738.糖皮质激素的作用有",
+        "options": [
+            "A.促进肝组织蛋白质分解和葡萄糖的利用",
+            "B.抑制肝内糖异生",
+            "C.抑制脂肪分解",
+            "D.使血糖降低",
+            "E.使外周血液中红细胞、血小板、中性粒细胞增 加，嗜酸性粒细胞和淋巴细胞减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 218
+    },
+    {
+        "question_text": "1739.调节胰岛素分泌最重要的因素是",
+        "options": [
+            "A.血中氨基酸浓度",
+            "B.血糖浓度",
+            "C.乙酰胆碱",
+            "D.血中脂肪浓度",
+            "E.交感神经兴奋"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 219
+    },
+    {
+        "question_text": "1740.对于胰岛素生理作用的描述.哪一项是不正 确的",
+        "options": [
+            "A.促进糖的贮存和利用",
+            "B.促进糖异生",
+            "C.促进蛋白质合成",
+            "D.促进脂肪分解",
+            "E.抑制蛋白质分解"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 220
+    },
+    {
+        "question_text": "1741.肾上腺皮质激素机能亢进可导致",
+        "options": [
+            "A.血糖浓度降低",
+            "B.淋巴细胞数量增多",
+            "C.四肢脂肪增加",
+            "D.蛋白质合成增加",
+            "E.面、肩、腹部脂肪增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 221
+    },
+    {
+        "question_text": "1742.下列哪一项不是生长素的直接作用",
+        "options": [
+            "A.诱导肝脏产生生长介素",
+            "B.促进脂肪分解",
+            "C.促进软骨生长",
+            "D.增强脂肪酸氧化",
+            "E.抑制外周组织摄取、利用葡萄糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 222
+    },
+    {
+        "question_text": "1743.调节血钙浓度最主要的激素是",
+        "options": [
+            "A.生长素",
+            "B.降钙素",
+            "C.甲状腺激素",
+            "D.甲状旁腺激素",
+            "E.肾上腺皮质激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 223
+    },
+    {
+        "question_text": "1744.关于糖皮质激素对代谢的影响.下列哪项是 错误的",
+        "options": [
+            "A.促进肝外组织蛋白质分解",
+            "B.促进肾脏保钠、排钾、排水",
+            "C.促进糖异生",
+            "D.减少外周组织对葡萄糖利用",
+            "E.促进全身各部位的脂肪分解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 224
+    },
+    {
+        "question_text": "1745.生长素分泌有日周期.血中浓度最高的时间 是在",
+        "options": [
+            "A.清晨",
+            "B.中午",
+            "C.傍晚",
+            "D.慢波睡眠",
+            "E.异相睡眠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 225
+    },
+    {
+        "question_text": "1746.降钙素的主要靶器官是",
+        "options": [
+            "A.肾脏",
+            "B.甲状旁腺",
+            "C.胃肠道",
+            "D.骨",
+            "E.肝脏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 226
+    },
+    {
+        "question_text": "1747.下述内分泌腺中.内分泌功能性活动主要受 交感神经调节的是",
+        "options": [
+            "A.甲状腺",
+            "B.胰岛",
+            "C.肾上腺髓质",
+            "D.腺垂体",
+            "E.肾上腺皮质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "227",
+        "number": 227
+    }
+]

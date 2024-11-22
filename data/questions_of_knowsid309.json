@@ -1,0 +1,2676 @@
+[
+    {
+        "question_text": "1．某一溶液中蛋白质的百分含量为 55％，此溶液的蛋白质氮的百分浓度为",
+        "options": [
+            "A．8．8％",
+            "B．8．0％",
+            "C．8．4％",
+            "D．9．2％",
+            "E．9．6％"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 1
+    },
+    {
+        "question_text": "2．蛋白质分子中的氨基酸属于下列哪一项?",
+        "options": [
+            "A．L-β-氨基酸",
+            "B．D-β-氨基酸",
+            "C．L-α-氨基酸",
+            "D．D-α-氨基酸",
+            "E．L、D-α-氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 2
+    },
+    {
+        "question_text": "3．属于碱性氨基酸的是",
+        "options": [
+            "A．天冬氨酸",
+            "B．异亮氨酸",
+            "C．组氨酸",
+            "D．苯丙氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 3
+    },
+    {
+        "question_text": "4．280nm 波长处有吸收峰的氨基酸为",
+        "options": [
+            "A．丝氨酸",
+            "B．谷氨酸",
+            "C．蛋氨酸",
+            "D．色氨酸",
+            "E．精氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 4
+    },
+    {
+        "question_text": "5．维系蛋白质二级结构稳定的化学键是",
+        "options": [
+            "A．盐键",
+            "B．二硫键",
+            "C．肽键",
+            "D．疏水作用",
+            "E．氢键"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 5
+    },
+    {
+        "question_text": "6．下列有关蛋白质一级结构的叙述，错误的是",
+        "options": [
+            "A．多肽链中氨基酸的排列顺序",
+            "B．维持一级结构的化学键是氢键",
+            "C．从 N-—端至 C-—端氨基酸残基排列顺序",
+            "D．蛋白质一级结构并不包括各原子的空间位置",
+            "E．通过肽键形成的多肽链中氨基酸排列顺序"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 6
+    },
+    {
+        "question_text": "7．下列有关谷胱甘肽的叙述，正确的是",
+        "options": [
+            "A．谷胱甘肽中含有胱氨酸",
+            "B．谷胱肮甘肽中谷氨酸的α-—羧基是游离的",
+            "C．谷胱甘肽是体内重要的氧化剂",
+            "D．谷胱甘肽的 C 端羧基是主要的功能基团",
+            "E．谷胱甘肽所含的肽键均为α-—肽键"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 7
+    },
+    {
+        "question_text": "8．下列关于蛋白质二级结构的描述错误是",
+        "options": [
+            "A．蛋白质局部或某一段肽链有规则的重复构象",
+            "B．二级结构仅指主链的空间构象",
+            "C．多肽链主链构象由每个肽键的二个二面角所确定",
+            "D．整条多肽链中全部基团氨基酸的空间位置",
+            "E．无规卷曲也属二级结构范畴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 8
+    },
+    {
+        "question_text": "9．下列有关肽键的叙述，错误的是",
+        "options": [
+            "A．肽键属于一级结构内容",
+            "B．肽键中 C-—N 键所连的四个原子处于同一平面",
+            "C．肽键具有部分双键性质",
+            "D．肽键旋转而形成了β-—折叠",
+            "E．肽键中的 C-—N 键长度比 N-—Cα单键短"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 9
+    },
+    {
+        "question_text": "10．下列有关蛋白质三级结构的描述，错误的是",
+        "options": [
+            "A．具有三级结构的多肽链都有生物学活性",
+            "B．亲水基团多位于三级结构的表面",
+            "C．三级结构的稳定性由次级键维系",
+            "D．三级结构是单体蛋白质或亚基的空间结构",
+            "E．三级结构是各个单键旋转自由度受到各种限制的结果"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 10
+    },
+    {
+        "question_text": "11．下列关于蛋白质四级结构的叙述，正确的是",
+        "options": [
+            "A．蛋白质四级结构的稳定性由二硫键维系",
+            "B．蛋白质变性时其四级结构不一定受到破坏",
+            "C．蛋白质亚基间由非共价键聚合",
+            "D．四级结构是蛋白质保持生物活性的必要条件",
+            "E．蛋白质都有四级结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 11
+    },
+    {
+        "question_text": "12．下列关于血红蛋白的描述正确的是",
+        "options": [
+            "A．血红蛋白是含有铁卟啉的单亚基球蛋白",
+            "B．血红蛋白氧解离曲线为 S 型",
+            "C．1 个血红蛋白可与 1 个氧分子可逆结合",
+            "D．血红蛋白不属于变构蛋白",
+            "E．血红蛋白的功能与肌红蛋白相同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 12
+    },
+    {
+        "question_text": "13．蛋白质α-—螺旋的特点有",
+        "options": [
+            "A．多为左手螺旋",
+            "B．螺旋方向与长轴垂直",
+            "C．氨基酸侧链伸向螺旋外侧",
+            "D．肽键平面充分伸展",
+            "E．靠盐键维系稳定性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 13
+    },
+    {
+        "question_text": "14．蛋白质分子中的无规卷曲结构属于",
+        "options": [
+            "A．二级结构",
+            "B．三级结构",
+            "C．四级结构",
+            "D．结构域",
+            "E．模体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 14
+    },
+    {
+        "question_text": "15．下列有关蛋白质β-—折叠的描述，错误的是",
+        "options": [
+            "A．主链骨架呈锯齿状",
+            "B．氨基酸侧链交替位于锯齿状结构扇面上下方",
+            "C．β-—折叠的肽链之间不存在化学键",
+            "D．β-—折叠有反平行式结构，也有平行式结构",
+            "E．肽链充分伸展"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 15
+    },
+    {
+        "question_text": "16．下列有关氨基酸的叙述，错误的是",
+        "options": [
+            "A．丝氨酸和苏氨酸侧链都含羟基",
+            "B．异亮氨酸和缬氨酸侧链都有分支",
+            "C．组氨酸和脯氨酸都是亚氨基酸",
+            "D．苯丙氨酸和色氨酸都为芳香族氨基酸",
+            "E．精氨酸和赖氨酸都属于碱性氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 16
+    },
+    {
+        "question_text": "17．常出现于肽链转角结构中的氨基酸为",
+        "options": [
+            "A．脯氨酸",
+            "B．半胱氨酸",
+            "C．谷氨氮酸",
+            "D．甲硫氨酸",
+            "E．丙氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 17
+    },
+    {
+        "question_text": "18．在各种蛋白质中含量相近的元素是",
+        "options": [
+            "A．碳",
+            "B．氮",
+            "C．氧",
+            "D．氢",
+            "E．硫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 18
+    },
+    {
+        "question_text": "19．下列氨基酸中含有羟基的是",
+        "options": [
+            "A．谷氨酸、天冬酰胺",
+            "B．丝氨酸、苏氨酸",
+            "C．苯丙氨酸、酪氨酸",
+            "D．半胱氨酸、蛋氨酸",
+            "E．亮氨酸、缬氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 19
+    },
+    {
+        "question_text": "20．蛋白质吸收紫外光能力的大小主要取决于",
+        "options": [
+            "A．含硫氨基酸的含量",
+            "B．肽键中的肽键",
+            "C．碱性氨基酸的含量",
+            "D．芳香族氨基酸的含量",
+            "E．脂肪族氨基酸的含量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 20
+    },
+    {
+        "question_text": "21．下列有关肽的叙述，错误的得是",
+        "options": [
+            "A．肽是两个以上氨基酸借肽键连接而成的化合物",
+            "B．组成肽的氨基酸分子都不完整",
+            "C．多肽与蛋白质分子之间无明确分界线",
+            "D．氨基酸一旦生成肽，完全失去其原有的理化性质",
+            "E．根据 N-末端数目，可得知蛋白质的亚基数"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 21
+    },
+    {
+        "question_text": "22．下列关于蛋白质二级结构的描述，错误的是",
+        "options": [
+            "A．每种蛋白质都有二级结构形式",
+            "B．有的蛋白质几乎全是β-—折叠结构",
+            "C．有的蛋白质几乎全是α-—螺旋结构",
+            "D．几种二级结构可同时出现于同一种蛋白质分子中",
+            "E．大多数蛋白质分子中有β-—转角和三股螺旋结构"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 22
+    },
+    {
+        "question_text": "23．蛋白质和多肽相比较，蛋白质必定具有",
+        "options": [
+            "A．α-—螺旋",
+            "B．β-—折叠",
+            "C．三级结构",
+            "D．四级结构",
+            "E．辅基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 23
+    },
+    {
+        "question_text": "24．胰岛素分子 A 链与 B 链的交联是靠",
+        "options": [
+            "A．氢键",
+            "B．二硫键",
+            "C．盐键",
+            "D．疏水键",
+            "E．VanderWaals 力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 24
+    },
+    {
+        "question_text": "25．下列关于蛋白质亚基的描述，正确的是",
+        "options": [
+            "A．一条多肽链卷曲成螺旋结构",
+            "B．两条以上多肽链卷曲成二级结构",
+            "C．两条以上多肽链与辅基结合成蛋白质",
+            "D．每个亚基都有各自的三级结构",
+            "E．亚基一定是相同的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 25
+    },
+    {
+        "question_text": "26．蛋白质的空间构象主要取决于",
+        "options": [
+            "A．肽链中氨基酸残基的排列顺序",
+            "B．α-—螺旋和β-—折叠",
+            "C．肽链中的氨基酸主链原子组成",
+            "D．肽链中的肽键",
+            "E．肽链中的二硫键位置"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 26
+    },
+    {
+        "question_text": "27．蛋白质溶液的稳定因素是",
+        "options": [
+            "A．蛋白质溶液的粘度大",
+            "B．蛋白质分子表面的疏流水基团相互排斥",
+            "C．蛋白质分子表面带有水化膜",
+            "D．蛋白质溶液属于真溶液",
+            "E．蛋白质含芳香族氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 27
+    },
+    {
+        "question_text": "28．能使蛋白质沉淀的试剂是",
+        "options": [
+            "A．浓盐酸",
+            "B．硫酸铵溶液",
+            "C．浓氢氧化钠溶液",
+            "D．生理盐水",
+            "E．50mM 葡萄糖氯化钠溶液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 28
+    },
+    {
+        "question_text": "29．盐析法沉淀蛋白质的原理是",
+        "options": [
+            "A．中和电荷，破坏水化膜",
+            "B．盐与蛋白质结合成不溶性蛋白盐",
+            "C．降低蛋白质溶液的介电常数",
+            "D．调节蛋白质溶液的等电点",
+            "E．破坏蛋白质的空间结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 29
+    },
+    {
+        "question_text": "30．血清白蛋白(PI 为 4.7)在下列哪种 pPH 值溶液中带正电荷?",
+        "options": [
+            "A．pH4.0",
+            "B．pH5.0",
+            "C．pH6.0",
+            "D．pH4.7",
+            "E．pH8.0"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 30
+    },
+    {
+        "question_text": "31．甲硫氨基酸是",
+        "options": [
+            "A．酸性氨基酸",
+            "B．支链氨基酸",
+            "C．芳香族氨基酸",
+            "D．亚氨基酸",
+            "E．含硫氨基酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 31
+    },
+    {
+        "question_text": "32．色氨酸是",
+        "options": [
+            "A．酸性氨基酸",
+            "B．支链氨基酸",
+            "C．芳香族氨基酸",
+            "D．亚氨基酸",
+            "E．含硫氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 32
+    },
+    {
+        "question_text": "33．缬氨酸是",
+        "options": [
+            "A．酸性氨基酸",
+            "B．支链氨基酸",
+            "C．芳香族氨基酸",
+            "D．亚氨基酸",
+            "E．含硫氨基酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 33
+    },
+    {
+        "question_text": "34．苏氨酸是",
+        "options": [
+            "A．酸性氨基酸",
+            "B．支链氨基酸",
+            "C．芳香族氨基酸",
+            "D．亚氨基酸",
+            "E．羟基氨基酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 34
+    },
+    {
+        "question_text": "35．脯氨酸是",
+        "options": [
+            "A．酸性氨基酸",
+            "B．支链氨基酸",
+            "C．芳香族氨基酸",
+            "D．亚氨基酸",
+            "E．含硫氨基酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 35
+    },
+    {
+        "question_text": "36．锌指结构是",
+        "options": [
+            "A．二级结构",
+            "B．结构域",
+            "C．模序体",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 36
+    },
+    {
+        "question_text": "37．无规卷曲是",
+        "options": [
+            "A．二级结构",
+            "B．结构域",
+            "C．模体序",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 37
+    },
+    {
+        "question_text": "38．纤连蛋白 RGD 三肽是",
+        "options": [
+            "A．二级结构",
+            "B．结构域",
+            "C．模体序",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 38
+    },
+    {
+        "question_text": "39．在纤连蛋白分子中能与 DNA 结合的结构是",
+        "options": [
+            "A．二级结构",
+            "B．结构域",
+            "C．模一级结构序",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 39
+    },
+    {
+        "question_text": "40．亚基间的空间排布是",
+        "options": [
+            "A．二级结构",
+            "B．结构域",
+            "C．模体序",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 40
+    },
+    {
+        "question_text": "41．蛋白质协同效应发生时可出现",
+        "options": [
+            "A．构象改变",
+            "B．亚基聚合",
+            "C．肽键断裂",
+            "D．二硫键形成",
+            "E．蛋白质聚集"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 41
+    },
+    {
+        "question_text": "42．只有蛋白质的一级结构被破坏时才出现的现象是",
+        "options": [
+            "A．构象改变",
+            "B．亚基聚合",
+            "C．肽键断裂",
+            "D．二硫键形成",
+            "E．蛋白质聚集"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 42
+    },
+    {
+        "question_text": "43．蛋白质变性时一定会出现",
+        "options": [
+            "A．构象改变",
+            "B．亚基聚合",
+            "C．肽键断裂",
+            "D．二硫键形成",
+            "E．蛋白质聚集"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 43
+    },
+    {
+        "question_text": "44．蛋白质四级结构形成时出现",
+        "options": [
+            "A．构象改变",
+            "B．亚基聚合",
+            "C．肽键断裂",
+            "D．二硫键形成",
+            "E．蛋白质聚集"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 44
+    },
+    {
+        "question_text": "45．蛋白质水化合膜破坏时出现",
+        "options": [
+            "A．一级结构",
+            "B．亚基聚合",
+            "C．肽键断裂",
+            "D．二硫键形成",
+            "E．蛋白质聚集"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 45
+    },
+    {
+        "question_text": "46．在 pH8.0 缓冲液中，CAM 电泳血清蛋白，泳动最快的是",
+        "options": [
+            "A．清蛋白",
+            "B．α1 球蛋白",
+            "C．α2 球蛋白",
+            "D．β球蛋白",
+            "E．γ球蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 46
+    },
+    {
+        "question_text": "47．下列关于蛋白质溶解度错误的是？",
+        "options": [
+            "A．可因加入中性盐而增高",
+            "B．在等电点时最大",
+            "C．可因加入中性盐而降低",
+            "D．可因向水溶液中加入酒精而降低",
+            "E．可因向水溶液中加入丙酮而降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 47
+    },
+    {
+        "question_text": "48．蛋白质变性后，不发生下列哪种改变？",
+        "options": [
+            "A．生物活性丧失",
+            "B．易被降解",
+            "C．一级结构改变",
+            "D．空间结构改变",
+            "E．次级键断裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 48
+    },
+    {
+        "question_text": "49．某一蛋白质分子中一个氨基酸残基发生了改变，这个蛋白质",
+        "options": [
+            "A．二级结构一定改变",
+            "B．二级结构一定不变",
+            "C．三级结构一定改变",
+            "D．功能一定改变",
+            "E．功能不一定改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 49
+    },
+    {
+        "question_text": "50．维持蛋白质一级结构的化学键是",
+        "options": [
+            "A．氢键",
+            "B．离子键",
+            "C．疏水键",
+            "D．肽键",
+            "E．范德华力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 50
+    },
+    {
+        "question_text": "51．下列那种氨基酸不参与蛋白质合成",
+        "options": [
+            "A．甘氨酸",
+            "B．谷氨酸",
+            "C．鸟氨酸",
+            "D．半胱氨酸",
+            "E．蛋氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 51
+    },
+    {
+        "question_text": "52．处于等电点状态的蛋白质",
+        "options": [
+            "A．带正电荷",
+            "B．带负电荷",
+            "C．所带正负电荷相等",
+            "D．不易沉淀",
+            "E．溶解度最大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 52
+    },
+    {
+        "question_text": "53．蛋白质分子中的α-螺旋结构属于",
+        "options": [
+            "A．一级结构",
+            "B．二级结构",
+            "C．三级结构",
+            "D．四级结构",
+            "E．超二级结构"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 53
+    },
+    {
+        "question_text": "54．下列关于蛋白质空间结构的描述，错误的是",
+        "options": [
+            "A．二级结构指蛋白质主链的局部空间构象",
+            "B．二级结构以肽键平面为单位",
+            "C．三级结构指整条多肽链中所有原子的空间位置",
+            "D．所有蛋白质都有四级结构",
+            "E．所有蛋白质都有三级结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 54
+    },
+    {
+        "question_text": "55．下列有关蛋白质生物学功能的描述，错误的是",
+        "options": [
+            "A．代谢调节作用",
+            "B．免疫保护作用",
+            "C．物质的转运和存储",
+            "D．运动与支持作用",
+            "E．遗传物质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 55
+    },
+    {
+        "question_text": "56．组成人体蛋白质分子的氨基酸中唯一的亚氨基酸是",
+        "options": [
+            "A．Lys",
+            "B．Glu",
+            "C．Gly",
+            "D．Pro",
+            "E．Phe"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 56
+    },
+    {
+        "question_text": "57．下列哪个氨基酸上的碳原子没有“”手性””特征？",
+        "options": [
+            "A．Val",
+            "B．Try",
+            "C．Gly",
+            "D．Met",
+            "E．Cys"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 57
+    },
+    {
+        "question_text": "58．下列哪个理化性质不可以直接用来蛋白质的定量分析？",
+        "options": [
+            "A．等电点",
+            "B．茚三酮反应",
+            "C．紫外吸收特性",
+            "D．双缩脲反应",
+            "E．改良 Lowery 法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 58
+    },
+    {
+        "question_text": "59．下列有关蛋白质胶体性质的描述正确的是",
+        "options": [
+            "A．蛋白质属于生物大分子之一，分子量可自 1 万至100 万之巨",
+            "B．其分子的直径可达 1～100nm，为胶粒范围之内",
+            "C．蛋白质胶体稳定的因素之一是颗粒表面电荷",
+            "D．蛋白质胶体稳定的因素之一是水化膜",
+            "E．以上都正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 59
+    },
+    {
+        "question_text": "60．下列关于蛋白质构象改变与疾病的关系的描述，错误的是",
+        "options": [
+            "A．若蛋白质的折叠发生错误，可影响其功能，严重时可导致疾病发生",
+            "B．尽管其一级结构不变，但蛋白质的构象发生改变",
+            "C．这类疾病包括：人纹状体脊髓变性病、老年痴呆症、亨停顿舞蹈病、疯牛病等",
+            "D．疯牛病是由朊病毒蛋白(prionprotein,PrP)引起的一组人和动物神经退行性病变",
+            "E．疯牛病致病原因是由于正常的 PrP 由富含β-折叠转变成全为α-螺旋"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 60
+    },
+    {
+        "question_text": "61．下列关于蛋白质一级结构与功能的关系的描述，错误的是",
+        "options": [
+            "A．一级结构是空间构象的基础",
+            "B．一级结构的改变可以导致空间构象的改变",
+            "C．空间构象的改变可以影响蛋白质的功能",
+            "D．蛋白质一级结构和功能毫无关系",
+            "E．某一个氨基酸的改变也可以引起疾病的发生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 61
+    },
+    {
+        "question_text": "62．维持蛋白质三级结机构的主要化学键不包括",
+        "options": [
+            "A．疏水键",
+            "B．离子键",
+            "C．氢键",
+            "D．VanderWaals 力",
+            "E．肽键"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 62
+    },
+    {
+        "question_text": "63．有关肽单元的描述错误的是（）",
+        "options": [
+            "A．构成肽单元的是肽键及其两端的碳原子，共 6 个原子",
+            "B．肽单元上的 Ca1、C、O、N、H、Ca2 位于同一平面",
+            "C．Ca1 和 Ca2 在平面上所处的位置为顺式(cis)构型",
+            "D．肽单元是构成蛋白质二级结构的基础",
+            "E．肽单元也叫肽平面"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 63
+    },
+    {
+        "question_text": "64．下列关于蛋白质的一级结构的描述，错误的是",
+        "options": [
+            "A．多肽链中氨基酸残基的排列顺序",
+            "B．维持一级结构的主要化学键是肽键",
+            "C．有些蛋白质的一级结构还包括二硫键",
+            "D．一级结构是蛋白质空间构象和特异生物学功能的基础",
+            "E．一级结构改变空间结构一定改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 64
+    },
+    {
+        "question_text": "65．蛋白质的空间结构不包括",
+        "options": [
+            "A．一级结构",
+            "B．二级结构",
+            "C．三级结构",
+            "D．四级结构",
+            "E．结构域"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 65
+    },
+    {
+        "question_text": "66．下列关于 GSH（谷胱甘肽）的描述错误的是",
+        "options": [
+            "A．谷氨酸、半胱氨酸和甘氨酸组成的三肽",
+            "B．谷氨酸和半胱氨酸之间通过α-肽键连接",
+            "C．半胱氨酸和甘氨酸通过α-肽键连接",
+            "D．谷胱甘肽对于维持细胞表面的稳定有重要作用",
+            "E．两个 GSH 可以通过二硫键形成氧化型的谷胱甘肽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 66
+    },
+    {
+        "question_text": "67．蛋白质具有紫外吸收特性，其最大吸收峰是",
+        "options": [
+            "A．260nm",
+            "B．280nm",
+            "C．350nm",
+            "D．420nm",
+            "E．650nm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 67
+    },
+    {
+        "question_text": "68．蛋白质具有紫外吸收特性，是因为蛋白质中含有哪两种氨基酸？",
+        "options": [
+            "A．色氨酸和酪氨酸",
+            "B．亮氨酸和异亮氨酸",
+            "C．色氨酸和苏氨酸",
+            "D．丝氨酸和苏氨酸",
+            "E．苏氨酸和酪氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 68
+    },
+    {
+        "question_text": "69．属于支链氨基酸的是",
+        "options": [
+            "A．色氨酸",
+            "B．异亮氨酸",
+            "C．苏氨酸",
+            "D．丝氨酸",
+            "E．酪氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 69
+    },
+    {
+        "question_text": "70．下列关于等电点的叙述，错误的是",
+        "options": [
+            "A．氨基酸是两性电解质，其解离程度取决于所处溶液的酸碱度",
+            "B．在某一 pH 的溶液中，氨基酸解离成阳离子和阴离子的趋势及程度相等",
+            "C．氨基酸成为兼性离子，呈电中性",
+            "D．在等电点处蛋白质在电场中既不向正极也不向负极移动",
+            "E．在等电点处蛋白质溶解度最高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 70
+    },
+    {
+        "question_text": "71．某蛋白质的等电点为 7.2，该蛋白质在 pH 为 8.6的溶液中会出现",
+        "options": [
+            "A．带正电荷",
+            "B．带负电荷",
+            "C．不泳动",
+            "D．向负极泳动",
+            "E．不带电荷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 71
+    },
+    {
+        "question_text": "72．下列有关茚三酮反应的描述，错误的是",
+        "options": [
+            "A．氨基酸与茚三酮水合物共热，可生成蓝紫色化合物",
+            "B．蛋白质与茚三酮水合物共热，可生成蓝紫色化合物",
+            "C．反应后溶液的最大吸收峰在 570nm 处",
+            "D．溶液的吸收峰值与氨基酸的含量存在正比关系",
+            "E．可作为氨基酸定量分析方法"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 72
+    },
+    {
+        "question_text": "73．下列哪个不属于蛋白质二级结构的范畴",
+        "options": [
+            "A．a-螺旋",
+            "B．b-折叠",
+            "C．b-转角",
+            "D．无规卷曲",
+            "E．结构域"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 73
+    },
+    {
+        "question_text": "74．下列关于蛋白质分子的描述，错误的是",
+        "options": [
+            "A．蛋白质是生物体重要组成成分",
+            "B．蛋白质调节控制细胞的生长，分化和遗传信息的表达",
+            "C．蛋白质主要功能是氧化供能",
+            "D．蛋白质参与细胞间信息传递",
+            "E．蛋白质是由氨基酸组成的"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 74
+    },
+    {
+        "question_text": "75．下列关于蛋白质元素组成的描述，错误的是",
+        "options": [
+            "A．主要有 C、H、O、N 和 S",
+            "B．有些蛋白质含有少量磷或金属元素铁、铜、锌、锰、钴、钼",
+            "C．个别蛋白质还含有碘",
+            "D．各种蛋白质的含氮量很接近，平均为 25％",
+            "E．可以通过测定样品中氮元素的含量来确定蛋白质的量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列哪一项不是基本氨基酸的 a-碳原子的特征",
+        "options": [
+            "A．必然连接一个羧基",
+            "B．必然连接一个氨基（或亚氨基）",
+            "C．必然具有手性碳原子的旋光性",
+            "D．侧链基团不同，氨基酸的性质不同",
+            "E．必然连接至少一个氢原子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 76
+    },
+    {
+        "question_text": "77．分子伴侣",
+        "options": [
+            "A．可帮助肽链正确折叠",
+            "B．可维持蛋白质空间结构",
+            "C．在肽键的形成中起重要作用",
+            "D．在亚基聚合时发挥重要作用",
+            "E．对于蛋白质的空间结构的形成没有什么作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 77
+    },
+    {
+        "question_text": "78．下列关于血红蛋白的描述，错误的是",
+        "options": [
+            "A．由 4 个亚基组成",
+            "B．含有血红素",
+            "C．其亚基间可发生正协同作用",
+            "D．与氧结合呈现双曲线性质",
+            "E．与氧气的结合具有可逆性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 78
+    },
+    {
+        "question_text": "79．蛋白质变性",
+        "options": [
+            "A．由肽键断裂引起",
+            "B．都是不可逆的",
+            "C．可使其生物活性丧失",
+            "D．可增加其溶解度",
+            "E．变性不必破坏蛋白质的非共价键和二硫键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 79
+    },
+    {
+        "question_text": "80．α-—螺旋",
+        "options": [
+            "A．为左手螺旋",
+            "B．侧链基团填充在螺旋内部",
+            "C．螺距为 3.．4nm",
+            "D．疏水相互作用维持稳定",
+            "E．肽平面为折叠单位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 80
+    },
+    {
+        "question_text": "81.下列蛋白质的结构域描述错误的是？",
+        "options": [
+            "A．都有特定的功能",
+            "B．是折叠得较为紧密的区域",
+            "C．属于三级结构",
+            "D．存在每一种蛋白质中",
+            "E．常常呈球状或纤维状"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 81
+    },
+    {
+        "question_text": "82．β-折叠",
+        "options": [
+            "A．是一种超二级结构形式",
+            "B．蛋白质肽链主链的肽平面折叠呈螺旋状",
+            "C．侧链平行于长轴",
+            "D．疏水相互作用维持稳定",
+            "E．有正向、反向平行两种折叠片"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 82
+    },
+    {
+        "question_text": "83．下列关于蛋白质三级结构的描述，错误的是：",
+        "options": [
+            "A．存在于每个天然蛋白质分子中",
+            "B．是指局部肽段空间结构",
+            "C．分子量较大的蛋白质常可折叠成几个结构域",
+            "D．属于高级结构",
+            "E．稳定的主要化学键有疏水键、离子键、氢键和VanderWaals 力等"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 83
+    },
+    {
+        "question_text": "84．常用的蛋白质分离纯化的方法不包括",
+        "options": [
+            "A．透析和超滤",
+            "B．盐析",
+            "C．层析",
+            "D．电泳",
+            "E．凝固"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 84
+    },
+    {
+        "question_text": "85．下列关于层析的叙述，错误的是（）",
+        "options": [
+            "A．让待分离蛋白质溶液（流动相）经过一个固定介质（固定相）",
+            "B．根据溶液中待分离的蛋白质颗粒大小、电荷多少和（或）亲和力等，使待分离的蛋白质组分在两相中反复分配",
+            "C.蛋白质．以不同速度流经固定相从而达到分离的目的",
+            "D．蛋白质分离常用的层析方法有离子交换层析和凝胶过滤",
+            "E．带电离子在电场中移动的现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 85
+    },
+    {
+        "question_text": "86．在寡聚蛋白质中，亚基间的立体排布、相互作用以及接触部位间的空间结构称为",
+        "options": [
+            "A．三级结构",
+            "B．四级结构",
+            "C．缔合现象",
+            "D．变构现象",
+            "E．结构域"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 86
+    },
+    {
+        "question_text": "87．天然蛋白质中不存在的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．瓜氨酸",
+            "C．丝氨酸",
+            "D．蛋氨酸",
+            "E．谷胱氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 87
+    },
+    {
+        "question_text": "88．破坏α-螺旋结构的氨基酸之一是",
+        "options": [
+            "A．亮氨酸",
+            "B．丙氨酸",
+            "C．脯氨酸",
+            "D．谷氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 88
+    },
+    {
+        "question_text": "89．蛋白质的特征组成元素是",
+        "options": [
+            "A．氢",
+            "B．氧",
+            "C．碳",
+            "D．氮",
+            "E．磷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 89
+    },
+    {
+        "question_text": "90．组成蛋白质的基本氨基酸类是有多少种",
+        "options": [
+            "A．20",
+            "B．4",
+            "C．64",
+            "D．61",
+            "E．8"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 90
+    },
+    {
+        "question_text": "91．下面关于蛋白质结构和功能的关系的叙述，正确的是",
+        "options": [
+            "A．从蛋白质的氨基酸排列顺序可预测其生物学功能",
+            "B．蛋白质氨基酸排列顺序的改变一定会导致其生物学功能异常",
+            "C．只有具有特定二级结构的蛋白质才可能有活性",
+            "D．只有具有特定四级结构的蛋白质才可能有活性",
+            "E．蛋白质的一级结构是决定其空间结构的唯一因素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 91
+    },
+    {
+        "question_text": "92．下列关于蛋白质三级结构的描述，错误的是",
+        "options": [
+            "A．具有三级结构的多肽链都具有生物学活性",
+            "B．天然蛋白质分子都具有三级结构",
+            "C．三级结构的稳定性主要由次级键维系",
+            "D．亲水基团多聚集分布在三级结构表面",
+            "E．三级结构描述了多肽链中所多有原子的空间位置关系"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 92
+    },
+    {
+        "question_text": "93．在生理 pH 条件下带正电荷的氨基酸是",
+        "options": [
+            "A．丙氨酸",
+            "B．酪氨酸",
+            "C．蛋氨酸",
+            "D．赖氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 93
+    },
+    {
+        "question_text": "94．下列哪种氨基酸是非必需氨基酸",
+        "options": [
+            "A．亮氨酸",
+            "B．酪氨酸",
+            "C．蛋氨酸",
+            "D．赖氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 94
+    },
+    {
+        "question_text": "95．下列哪一项不是蛋白质的性质之一",
+        "options": [
+            "A．处于等电点状态时溶解度最小",
+            "B．加入少量中性盐溶解度增加",
+            "C．变性蛋白质溶解度增加",
+            "D．有紫外吸收特性",
+            "E．具有胶体特性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 95
+    },
+    {
+        "question_text": "96．下列哪个性质是氨基酸和蛋白质共有的",
+        "options": [
+            "A．胶体性质",
+            "B．两性解离",
+            "C．沉淀反应",
+            "D．变性性质",
+            "E．双缩脲反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 96
+    },
+    {
+        "question_text": "97．胶原蛋白质中常出现的修饰氨基酸是",
+        "options": [
+            "A．乙酰赖氨酸",
+            "B．羟基赖氨酸",
+            "C．甲基赖氨酸",
+            "D．D-赖氨酸",
+            "E．腺苷赖氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 97
+    },
+    {
+        "question_text": "98．下列属于酸性氨基酸的是",
+        "options": [
+            "A．天冬氨酸",
+            "B．异亮氨酸",
+            "C．组氨酸",
+            "D．苯丙氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 98
+    },
+    {
+        "question_text": "99．下列属于芳香族氨基酸的是",
+        "options": [
+            "A．天冬氨酸",
+            "B．异亮氨酸",
+            "C．组氨酸",
+            "D．苯丙氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 99
+    },
+    {
+        "question_text": "100．下列属于必需氨基酸的是",
+        "options": [
+            "A．天冬氨酸",
+            "B．异亮氨酸",
+            "C．组氨酸",
+            "D．丝氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 100
+    },
+    {
+        "question_text": "101．甘氨酸的解离常数分别是 pK1=2.34 和pK2=9.60，它的等电点是",
+        "options": [
+            "A．7.26",
+            "B．5.97",
+            "C．7.14",
+            "D．10.77",
+            "E．11.94"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 101
+    },
+    {
+        "question_text": "102．泛素的功能主要是",
+        "options": [
+            "A．帮助蛋白质折叠",
+            "B．促进某些酶生物合成",
+            "C．促进某些酶或蛋白质降解",
+            "D．改变酶的构象",
+            "E．变构效应剂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 102
+    },
+    {
+        "question_text": "103．人体内存在不同结构的蛋白质分子约有",
+        "options": [
+            "A．1000 种",
+            "B．5000 种",
+            "C．3 万种",
+            "D．100 万种",
+            "E．1000 万种"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 103
+    },
+    {
+        "question_text": "104．已知某血清样本的含氮量为 10g/L，则蛋白质的浓度大概是",
+        "options": [
+            "A．52.5g/L",
+            "B．62.5g/L",
+            "C．57.5g/L",
+            "D．72.5g/L",
+            "E．67.5g/L"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 104
+    },
+    {
+        "question_text": "105．含有两个羧基的氨基酸是",
+        "options": [
+            "A．丝氨酸",
+            "B．赖氨酸",
+            "C．酪氨酸",
+            "D．苏氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 105
+    },
+    {
+        "question_text": "106．在生理条件下含有可解离极性侧链的氨基酸是",
+        "options": [
+            "A．丙氨酸",
+            "B．亮氨酸",
+            "C．赖氨酸",
+            "D．苯丙氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 106
+    },
+    {
+        "question_text": "107．只有经过翻译后加工的蛋白质分子中才出现的氨基酸是",
+        "options": [
+            "A．脯氨酸",
+            "B．赖氨酸",
+            "C．羟脯氨酸",
+            "D．谷氨酰胺",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 107
+    },
+    {
+        "question_text": "108．属于单纯蛋白质的是",
+        "options": [
+            "A．肌红蛋白",
+            "B．血红蛋白",
+            "C．清蛋白",
+            "D．细胞色素",
+            "E．糖蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 108
+    },
+    {
+        "question_text": "109．属于色蛋白的是",
+        "options": [
+            "A．脂蛋白",
+            "B．血红蛋白",
+            "C．糖蛋白",
+            "D．角蛋白",
+            "E．胶原蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 109
+    },
+    {
+        "question_text": "110．氨基酸在等电点时是",
+        "options": [
+            "A．非极性分子",
+            "B．疏水分子",
+            "C．兼性离子",
+            "D．阴离子",
+            "E．阳离子"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 110
+    },
+    {
+        "question_text": "111．下列关于肽的叙述，错误的是",
+        "options": [
+            "A．2 个或 2 个以上的氨基酸借肽键连接成的化合物",
+            "B．组成肽的氨基酸分子都不完整",
+            "C．多肽和蛋白质之间无明确的分界线",
+            "D．肽没有氨基末端和羧基末端",
+            "E．肽分为寡肽和多肽"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 111
+    },
+    {
+        "question_text": "112．蛋白质二级结构中α-螺旋一圈相当于氨基酸残基的数目是",
+        "options": [
+            "A．2.5 个",
+            "B．3.4 个",
+            "C．3.6 个",
+            "D．45.4 个",
+            "E．510 个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 112
+    },
+    {
+        "question_text": "113．下列关于蛋白质α-螺旋的叙述，错误的是",
+        "options": [
+            "A．氢键稳定其结构",
+            "B．有些侧链 R 基团不利于α-螺旋形成",
+            "C．是二级结构的形式之一",
+            "D．一般蛋白质分子中都含有α-螺旋",
+            "E．链内疏水作用稳定其结构"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 113
+    },
+    {
+        "question_text": "114．蛋白质二级结构的结构单元是",
+        "options": [
+            "A．肽键",
+            "B．二硫键",
+            "C．氢键",
+            "D．肽键平面",
+            "E．氨基酸残基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 114
+    },
+    {
+        "question_text": "115．“肌红蛋白有 8 个α-螺旋区”是对肌红蛋白何种结构的描述",
+        "options": [
+            "A．肌红蛋白的主链构象",
+            "B．一级结构",
+            "C．三级结构",
+            "D．侧链构象",
+            "E．四级结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 115
+    },
+    {
+        "question_text": "116．蛋白质变性后会产生的结果是",
+        "options": [
+            "A．大量氨基酸游离出来",
+            "B．生成大量肽片段",
+            "C．空间构象改变",
+            "D．肽键断裂",
+            "E．等电点变为零"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 116
+    },
+    {
+        "question_text": "117．下列关于蛋白质的叙述，正确的是",
+        "options": [
+            "A．变性的蛋白质一定沉淀",
+            "B．沉淀的蛋白质一定变性",
+            "C．沉淀的蛋白质不再有生物学活性",
+            "D．盐析法使蛋白质变性",
+            "E．沉淀的蛋白质可溶于酸性溶液或碱性溶液中"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 117
+    },
+    {
+        "question_text": "118．在效应物作用下，蛋白质产生的变构效应是由于蛋白质的",
+        "options": [
+            "A．一级结构发生变化",
+            "B．构象发生变化",
+            "C．构型发生变化",
+            "D．氨基酸序列发生变化",
+            "E．肽键断裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 118
+    },
+    {
+        "question_text": "119．含 78 个氨基酸残基形成的α-螺旋长度应为",
+        "options": [
+            "A．3.6nm",
+            "B．5.4nm",
+            "C．11.7nm",
+            "D．78nm",
+            "E．20nm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 119
+    },
+    {
+        "question_text": "120．血液凝固的过程是凝血酶原",
+        "options": [
+            "A．变性的过程",
+            "B．激活的过程",
+            "C．变构的过程",
+            "D．重新组合的过程",
+            "E．聚合的过程"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 120
+    },
+    {
+        "question_text": "121．侧链含有咪唑基的氨基酸是",
+        "options": [
+            "A．甲硫氨酸",
+            "B．半胱氨酸",
+            "C．精氨酸",
+            "D．组氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 121
+    },
+    {
+        "question_text": "122．侧链含有巯基的氨基酸是",
+        "options": [
+            "A．甲硫氨酸",
+            "B．半胱氨酸",
+            "C．精氨酸",
+            "D．组氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 122
+    },
+    {
+        "question_text": "123．侧链含有胍基的氨基酸是",
+        "options": [
+            "A．甲硫氨酸",
+            "B．半胱氨酸",
+            "C．精氨酸",
+            "D．组氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 123
+    },
+    {
+        "question_text": "124．pH 为 8 时，带正电荷的氨基酸是",
+        "options": [
+            "A．赖氨酸",
+            "B．谷氨酸",
+            "C．丝氨酸",
+            "D．半胱氨酸",
+            "E．谷氨酰胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 124
+    },
+    {
+        "question_text": "125．组成蛋白质的氨基酸之间分子结构的不同在于其",
+        "options": [
+            "A．Cα",
+            "B．Cα-H",
+            "C．Cα-COOH",
+            "D．Cα-R",
+            "E．Cα-NH2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 125
+    },
+    {
+        "question_text": "126．氨基酸的平均分子量是",
+        "options": [
+            "A．1000",
+            "B．500",
+            "C．110",
+            "D．100",
+            "E．80"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 126
+    },
+    {
+        "question_text": "127．组成蛋白质的酸性氨基酸有几种",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．5",
+            "D．10",
+            "E．20"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 127
+    },
+    {
+        "question_text": "128．组成蛋白质的碱性氨基酸有几种",
+        "options": [
+            "A．2",
+            "B．3",
+            "C．5",
+            "D．10",
+            "E．20"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 128
+    },
+    {
+        "question_text": "129．组成蛋白质的氨基酸在自然界存在什么差异",
+        "options": [
+            "A．种族差异",
+            "B．个体差异",
+            "C．组织差异",
+            "D．器官差异",
+            "E．无差异"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 129
+    },
+    {
+        "question_text": "130．体内蛋白质分子中的胱氨酸是由什么氨基酸转变生成",
+        "options": [
+            "A．谷氨酸",
+            "B．精氨酸",
+            "C．组氨酸",
+            "D．半胱氨酸",
+            "E．丙氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 130
+    },
+    {
+        "question_text": "131．精氨酸与赖氨酸属于哪一类氨基酸",
+        "options": [
+            "A．酸性",
+            "B．碱性",
+            "C．中性极性",
+            "D．中性非极性",
+            "E．芳香族"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 131
+    },
+    {
+        "question_text": "132．下列那种氨基酸无遗传密码子编码",
+        "options": [
+            "A．谷氨酰胺",
+            "B．天冬酰胺",
+            "C．对羟苯丙氨酸",
+            "D．异亮氨酸",
+            "E．羟脯氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 132
+    },
+    {
+        "question_text": "133．氨基酸间脱水产生的小分子化合物为",
+        "options": [
+            "A．蛋白质",
+            "B．肽",
+            "C．核酸",
+            "D．多糖",
+            "E．脂肪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 133
+    },
+    {
+        "question_text": "134．Sanger 首次测出一级结构的蛋白质分子是",
+        "options": [
+            "A．核糖核酸酶",
+            "B．胰岛素",
+            "C．血浆白蛋白",
+            "D．血浆免疫球蛋白",
+            "E．血红蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 134
+    },
+    {
+        "question_text": "135．“\"分子病”\"首先是蛋白质什么基础层次结构的改变",
+        "options": [
+            "A．一级结构",
+            "B．二级结构",
+            "C．超二级结构",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 135
+    },
+    {
+        "question_text": "136．注射时用 75%的酒精消毒是使细菌蛋白质",
+        "options": [
+            "A．变性",
+            "B．变构",
+            "C．沉淀",
+            "D．解电离",
+            "E．溶解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 136
+    },
+    {
+        "question_text": "137．细胞内含量最多的有机成分为",
+        "options": [
+            "A．蛋白质",
+            "B．核酸",
+            "C．糖",
+            "D．脂类",
+            "E．酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 137
+    },
+    {
+        "question_text": "138．蛋白质的分子量一般是在以下什么范围左右",
+        "options": [
+            "A．几十",
+            "B．几百",
+            "C．几千",
+            "D．几万到几百万",
+            "E．几百万"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 138
+    },
+    {
+        "question_text": "139．若用重金属沉淀 pI 为 8 的蛋白质时，该溶液的pH 值应为",
+        "options": [
+            "A．8",
+            "B．＞8",
+            "C．＜8",
+            "D．≤8",
+            "E．≥8"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 139
+    },
+    {
+        "question_text": "140．蛋白质的β-折叠片层结构中，氢键取向与主链",
+        "options": [
+            "A．近乎平行",
+            "B．近乎垂直",
+            "C．成 60 度",
+            "D．无任何角度关系",
+            "E．重叠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 140
+    },
+    {
+        "question_text": "141．在蛋白质变性过程中，下列哪项性质不变",
+        "options": [
+            "A．溶解度",
+            "B．α螺旋数量",
+            "C．生物学活性",
+            "D．氨基酸序列",
+            "E．次级键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 141
+    },
+    {
+        "question_text": "142．血红蛋白的氧合曲线呈 S 形是由于",
+        "options": [
+            "A．氧与血红蛋白各亚基的结合是互不相关的过程",
+            "B．第一个亚基与氧结合后增加其它亚基与氧的亲和力",
+            "C．第一个亚基与氧结合后降低其它亚基与氧的亲和力",
+            "D．氧使亚铁变为正铁",
+            "E．氧对血红蛋白有辅基的作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 142
+    },
+    {
+        "question_text": "143．下列属于碱性氨基酸的是",
+        "options": [
+            "A．天冬氨酸",
+            "B．异亮氨酸",
+            "C．组氨酸",
+            "D．苯丙氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 143
+    },
+    {
+        "question_text": "144．“疯牛病”\"病原蛋白质什么层次结构没有发生改变",
+        "options": [
+            "A．一级结构",
+            "B．二级结构",
+            "C．超二级结构",
+            "D．三级结构",
+            "E．四级结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 144
+    },
+    {
+        "question_text": "145．蛋白质变性是由于",
+        "options": [
+            "A．氨基酸排列顺序的改变",
+            "B．氨基酸组成的改变",
+            "C．肽键的断裂",
+            "D．蛋白质空间构象的改变",
+            "E．蛋白质的水解"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 145
+    },
+    {
+        "question_text": "146．天然蛋白质中含有的 20 种氨基酸的结构",
+        "options": [
+            "A．全部是 L-型",
+            "B．全部是 D-型",
+            "C．除脯氨酸外都是 D-型",
+            "D．除甘氨酸外都是 L-型",
+            "E．除脯氨酸外都是 L-型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 146
+    },
+    {
+        "question_text": "147．当蛋白质处于等电点时，可使蛋白质分子的",
+        "options": [
+            "A．稳定性增加",
+            "B．表面净电荷增加",
+            "C．表面净电荷不变",
+            "D．溶解度最大",
+            "E．溶解度最小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 147
+    },
+    {
+        "question_text": "148．为了获得不变性的蛋白质，常用的方法有",
+        "options": [
+            "A．用三氯醋酸沉淀",
+            "B．用苦味酸沉淀",
+            "C．用重金属盐沉淀",
+            "D．低温盐析",
+            "E．常温乙醇沉淀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 148
+    },
+    {
+        "question_text": "149．向血清中加入等体容积的饱和硫酸铵溶液，可使",
+        "options": [
+            "A．白蛋白沉淀",
+            "B．白蛋白和球蛋白都沉淀",
+            "C．球蛋白沉淀",
+            "D．纤维蛋白原沉淀",
+            "E．血红蛋白沉淀"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 149
+    },
+    {
+        "question_text": "150．下列关于蛋白质的溶解度的叙述错误的是",
+        "options": [
+            "A．可因加入中性盐而增高",
+            "B．在等电点时最大",
+            "C．可因加入中性盐而降低",
+            "D．可因向水溶液中加入酒精降低",
+            "E．可因向水溶液中加入丙酮降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 150
+    },
+    {
+        "question_text": "151．含硫的必需氨基酸是",
+        "options": [
+            "A．谷氨酸",
+            "B．甲硫氨酸",
+            "C．组氨酸",
+            "D．半胱氨酸",
+            "E．丙氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 151
+    },
+    {
+        "question_text": "152．一蛋白质分子中一个氨基酸残基的改变，则该蛋白质分子",
+        "options": [
+            "A．二级结构一定改变",
+            "B．二级结构一定不变",
+            "C．三级结构一定改变",
+            "D．功能一定改变",
+            "E．功能不一定改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 152
+    },
+    {
+        "question_text": "153．在电场中，蛋白质泳动速度取决于",
+        "options": [
+            "A．蛋白质颗粒大小",
+            "B．带净电荷的多少",
+            "C．蛋白质颗粒的形状",
+            "D．A+B",
+            "E．A+B+C"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 153
+    },
+    {
+        "question_text": "154．多肽链的阅读方向是",
+        "options": [
+            "A．从 C 末端到 N 末端",
+            "B．从 N 末端到 C 末端",
+            "C．定点双向进行",
+            "D．随机",
+            "E．从磷酸端到羟基端"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 154
+    },
+    {
+        "question_text": "155．下列那组氨基酸的侧链可以被磷酸化修饰",
+        "options": [
+            "A．苏氨酸、丝氨酸、酪氨酸",
+            "B．天冬氨酸、谷氨酸",
+            "C．组氨酸、赖氨酸、精氨酸",
+            "D．半胱氨酸、甲硫氨酸",
+            "E．缬氨酸、亮氨酸、异亮氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 155
+    },
+    {
+        "question_text": "156．镰刀形红细胞贫血是最早被认识的分子病，它是由于血红蛋白二条β链中的谷氨酸被下列哪种氨基酸替",
+        "options": [
+            "代A．苏氨酸",
+            "B．天冬氨酸",
+            "C．组氨酸",
+            "D．半胱氨酸",
+            "E．缬氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 156
+    },
+    {
+        "question_text": "157．下列关于蛋白质中肽键的叙述错误的是",
+        "options": [
+            "A．具有部分双键性质",
+            "B．比 C-N 单键短",
+            "C．与肽键相连的氢原子和氧原子呈反式分布",
+            "D．肽键可以自由旋转",
+            "E．Cα相连的两个平面不同夹角形成不同的二级结构单元"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 157
+    },
+    {
+        "question_text": "158．测定蛋白质分子量可用",
+        "options": [
+            "A．聚丙烯酰胺凝胶电泳",
+            "B．SDS 聚丙烯酰胺凝胶电泳",
+            "C．紫外分光光度法",
+            "D．纸层析",
+            "E．离子交换层析"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 158
+    },
+    {
+        "question_text": "159．利用蛋白质分子带电荷进行的操作技术是",
+        "options": [
+            "A．电泳",
+            "B．超速离心",
+            "C．超滤",
+            "D．紫外吸收",
+            "E．凝胶过滤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 159
+    },
+    {
+        "question_text": "160．下列关于蛋白质结构的叙述错误的是",
+        "options": [
+            "A．三级结构即具有空间构象",
+            "B．各种蛋白质均具有一、二、三、四级结构",
+            "C．一级结构决定空间结构",
+            "D．α-螺旋属二级结构形式",
+            "E．无规则卷曲是在一级结构基础上形成的"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 160
+    },
+    {
+        "question_text": "161．下列蛋白质中具有四级结构的是",
+        "options": [
+            "A．血红蛋白",
+            "B．细胞色素 C",
+            "C．肌红蛋白",
+            "D．RNA 酶",
+            "E．胰岛素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 161
+    },
+    {
+        "question_text": "162．蛋白质三级结构形成的驱动力是",
+        "options": [
+            "A．范德华力",
+            "B．氢键",
+            "C．疏水作用力",
+            "D．二硫键",
+            "E．离子键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 162
+    },
+    {
+        "question_text": "163．不直接参入维系蛋白质三级结构的作用力是",
+        "options": [
+            "A．肽键",
+            "B．氢键",
+            "C．疏水作用力",
+            "D．二硫键",
+            "E．离子键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 163
+    },
+    {
+        "question_text": "164．若用生物碱试剂沉淀 pI 为 8 的蛋白质时，该溶液的 pH 值应为",
+        "options": [
+            "A．8",
+            "B．＞8",
+            "C．＜8",
+            "D．≤8",
+            "E．≥8"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 164
+    },
+    {
+        "question_text": "165．下列有关亚基的叙述，哪项不太恰当",
+        "options": [
+            "A．每种亚基都有各自的三级结构",
+            "B．亚基内除了肽键外还有可能有其它共价键存在",
+            "C．一个亚基单位只含有一条多肽链",
+            "D．亚基单位独立存在时具有原有的生物学活性",
+            "E．组成蛋白质的亚基可以是相同的也可以是不同的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 165
+    },
+    {
+        "question_text": "166．下列关于可溶性蛋白质三级结构的叙述，哪一项不恰当",
+        "options": [
+            "A．疏水性氨基酸残基尽可能包裹在分子内部",
+            "B．亲水性氨基酸残基尽可能包裹在分子内部",
+            "C．羧基、氨基、胍基等可解离基团多位于分子表面",
+            "D．苯丙氨酸、异亮氨酸等氨基酸尽可能分布在分子内部",
+            "E．疏水作用力是正确分布的驱动力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 166
+    },
+    {
+        "question_text": "167．变性蛋白质的主要特点是",
+        "options": [
+            "A．不易被胃蛋白酶水解",
+            "B．粘度下降",
+            "C．溶解度增加",
+            "D．原有生物学活性丧失",
+            "E．可以通过半透膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 167
+    },
+    {
+        "question_text": "168．盐析法沉淀蛋白质的原理是",
+        "options": [
+            "A．破坏水化膜、中和电荷",
+            "B．无机盐和蛋白质结合成不溶性的蛋白盐",
+            "C．降低蛋白质溶液的介电常数",
+            "D．破坏蛋白质的一级结构",
+            "E．调节蛋白质的等电点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 168
+    },
+    {
+        "question_text": "169．蛋白质溶液的稳定因素是",
+        "options": [
+            "A．蛋白质溶液的粘度大",
+            "B．蛋白质分子表面的疏水基团相互排斥",
+            "C．蛋白质分子表面带有水化膜、电荷层",
+            "D．蛋白质分子不带电荷",
+            "E．蛋白质分子内部有肽键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 169
+    },
+    {
+        "question_text": "170．下列哪种属于蛋白质的主链构象之一",
+        "options": [
+            "A．β-折叠",
+            "B．氨基酸侧链基团",
+            "C．亚基",
+            "D．氨基酸排列顺序",
+            "E．氢键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 170
+    },
+    {
+        "question_text": "171．下列哪种属于蛋白质的一级结构",
+        "options": [
+            "A．β-折叠",
+            "B．氨基酸侧链基团",
+            "C．亚基",
+            "D．氨基酸排列顺序",
+            "E．氢键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 171
+    },
+    {
+        "question_text": "172．下列哪种属于蛋白质二级结构单元",
+        "options": [
+            "A．β-折叠",
+            "B．氨基酸侧链基团",
+            "C．亚基",
+            "D．氨基酸排列顺序",
+            "E．氢键"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 172
+    },
+    {
+        "question_text": "173．别构蛋白质具有",
+        "options": [
+            "A．β-折叠",
+            "B．氨基酸侧链基团",
+            "C．亚基",
+            "D．氨基酸排列顺序",
+            "E．氢键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 173
+    },
+    {
+        "question_text": "174．构象改变",
+        "options": [
+            "A．蛋白质协同效应发生时可出现",
+            "B．蛋白质一级结构被破坏时出现",
+            "C．在一级结构基础上形成蛋白质三级结构时可伴有",
+            "D．蛋白质一级结构形成时出现",
+            "E．蛋白质水化膜破坏时出现"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 174
+    },
+    {
+        "question_text": "175．亚基聚合",
+        "options": [
+            "A．蛋白质协同效应发生时可出现",
+            "B．蛋白质一级结构被破坏时出现",
+            "C．在一级结构基础上形成蛋白质三级结构时可伴有",
+            "D．蛋白质四级结构形成时出现",
+            "E．蛋白质水化膜破坏时出现"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 175
+    },
+    {
+        "question_text": "176．肽键断裂",
+        "options": [
+            "A．蛋白质协同效应发生时可出现",
+            "B．蛋白质一级结构被破坏时出现",
+            "C．在一级结构基础上形成蛋白质三级结构时可伴有",
+            "D．蛋白质四级结构形成时出现",
+            "E．蛋白质水化膜破坏时出现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 176
+    },
+    {
+        "question_text": "177．二硫键形成",
+        "options": [
+            "A．蛋白质协同效应发生时可出现",
+            "B．蛋白质一级结构被破坏时出现",
+            "C．在一级结构基础上形成蛋白质三级结构时可伴有",
+            "D．蛋白质四级结构形成时出现",
+            "E．蛋白质水化膜破坏时出现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 177
+    },
+    {
+        "question_text": "178．蛋白质聚集",
+        "options": [
+            "A．蛋白质协同效应发生时可出现",
+            "B．蛋白质一级结构被破坏时出现",
+            "C．在一级结构基础上形成蛋白质三级结构时可伴有",
+            "D．蛋白质四级结构形成时出现",
+            "E．蛋白质水化膜破坏时出现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 178
+    },
+    {
+        "question_text": "179．下列属于氨基酸的呈色反应的是",
+        "options": [
+            "A．脱羧基反应",
+            "B．双缩脲反应",
+            "C．氧化反应",
+            "D．茚三酮反应",
+            "E．转氨基反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 179
+    },
+    {
+        "question_text": "180．蛋白质的主链构象属于",
+        "options": [
+            "A．一级结构",
+            "B．二级结构",
+            "C．三级结构",
+            "D．四级结构",
+            "E．空间结构"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 180
+    },
+    {
+        "question_text": "181．在一个单纯蛋白质分子结构中不一定存在的作用力是",
+        "options": [
+            "A．疏水键",
+            "B．肽键",
+            "C．范德华力",
+            "D．二硫键",
+            "E．氢键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 181
+    },
+    {
+        "question_text": "182．一个蛋白质分子含有二硫键，所以该蛋白质含有",
+        "options": [
+            "A．甲硫氨酸",
+            "B．赖氨酸",
+            "C．半胱氨酸",
+            "D．色氨酸",
+            "E．天冬氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 182
+    },
+    {
+        "question_text": "183．下列哪组氨基酸属于酸性氨基酸",
+        "options": [
+            "A．苏氨酸、丝氨酸、酪氨酸",
+            "B．天冬氨酸、谷氨酸",
+            "C．组氨酸、赖氨酸、精氨酸",
+            "D．半胱氨酸、甲硫氨酸",
+            "E．缬氨酸、亮氨酸、异亮氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 183
+    },
+    {
+        "question_text": "184．下列哪组氨基酸属于含硫氨基酸",
+        "options": [
+            "A．苏氨酸、丝氨酸、酪氨酸",
+            "B．天冬氨酸、谷氨酸",
+            "C．组氨酸、赖氨酸、精氨酸",
+            "D．半胱氨酸、甲硫氨酸",
+            "E．缬氨酸、亮氨酸、异亮氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 184
+    },
+    {
+        "question_text": "185．下列哪组氨基酸属于碱性氨基酸",
+        "options": [
+            "A．苏氨酸、丝氨酸、酪氨酸",
+            "B．天冬氨酸、谷氨酸",
+            "C．组氨酸、赖氨酸、精氨酸",
+            "D．半胱氨酸、甲硫氨酸",
+            "E．缬氨酸、亮氨酸、异亮氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 185
+    },
+    {
+        "question_text": "186．下列哪那组氨基酸属于支链氨基酸",
+        "options": [
+            "A．苏氨酸、丝氨酸、酪氨酸",
+            "B．天冬氨酸、谷氨酸",
+            "C．组氨酸、赖氨酸、精氨酸",
+            "D．半胱氨酸、甲硫氨酸",
+            "E．缬氨酸、亮氨酸、异亮氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 186
+    },
+    {
+        "question_text": "187．第一种人工合成的蛋白质是",
+        "options": [
+            "A．酶",
+            "B．抗生素",
+            "C．激素",
+            "D．抗体",
+            "E．载体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 187
+    },
+    {
+        "question_text": "188．硫酸铵可使",
+        "options": [
+            "A．蛋白质沉淀但不变性",
+            "B．蛋白质严格的空间构象破坏",
+            "C．二硫键被还原",
+            "D．丝氨酸残基被磷酸化",
+            "E．蛋白质发生变性并凝固"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 188
+    },
+    {
+        "question_text": "189．煮沸消毒可使",
+        "options": [
+            "A．蛋白质沉淀但不变性",
+            "B．蛋白质的空间构象破坏",
+            "C．二硫键被还原",
+            "D．丝氨酸残基被磷酸化",
+            "E．蛋白质发生变性但仍溶于热水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 189
+    },
+    {
+        "question_text": "190．紫外线照射可使",
+        "options": [
+            "A．蛋白质沉淀但不变性",
+            "B．蛋白质严格的空间构象破坏",
+            "C．二硫键被还原",
+            "D．丝氨酸残基被磷酸化",
+            "E．蛋白质发生变性并凝固"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 190
+    },
+    {
+        "question_text": "191．下列哪种结构中肽链进行 180°回转",
+        "options": [
+            "A．α-螺旋",
+            "B．β-折叠",
+            "C．β-转角",
+            "D．三股螺旋",
+            "E．无规卷曲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "191",
+        "number": 191
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1.具有抗流感病毒作用的抗震颤麻痹药是",
+        "options": [
+            "A.左旋多巴",
+            "B.卡比多巴",
+            "C.溴隐亭",
+            "D.金刚烷胺",
+            "E.司来吉兰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.金刚烷胺抗震颤麻痹的主要机制是",
+        "options": [
+            "A.增加脑内DA的合成",
+            "B.促进DA的释放",
+            "C.减少DA的再摄取",
+            "D.抑制DA在脑内的降解",
+            "E.直接阻断DA受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列左旋多巴的错误叙述是",
+        "options": [
+            "A.口服显效快",
+            "B.大部分在外周转变成多巴胺",
+            "C.改善运动困难效果好,缓解震颤效果差",
+            "D.对氯丙嗪引起的帕金森综合征无效",
+            "E.对轻症及年轻患者疗效好"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列卡比多巴的错误叙述是",
+        "options": [
+            "A.较强的L芳香氨基酸脱羧酶抑制剂",
+            "B.可减少左旋多巴的副作用",
+            "C.单用具有抗震颤麻痹作用",
+            "D.不易透过血脑屏障",
+            "E.与左旋多巴合用可提高抗震颤麻痹疗效"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.溴隐亭抗震麻痹的机制是",
+        "options": [
+            "A.促进DA在突触前膜的-释放",
+            "B.增加DA在脑内的合成",
+            "C.直接激动DA受体",
+            "D.抑制DA在脑内的降解",
+            "E.中枢性抗胆碱作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.左旋多巴不用于治疗",
+        "options": [
+            "A.震颤麻痹",
+            "B.老年血管硬化所致震颤麻痹综合征",
+            "C.氯丙嗪所致帕金森综合征",
+            "D.肝昏迷",
+            "E.运动徐缓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.左旋多巴不具有的不良反应是",
+        "options": [
+            "A.胃肠道反应",
+            "B.体位性低血压",
+            "C.锥体外系反应",
+            "D.不自主异常运动",
+            "E.精神障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列苯海索的错误叙述是",
+        "options": [
+            "A.缓解震颤效果好,对僵直效果较差",
+            "B.中枢抗胆碱作用选择性强",
+            "C.抗震颤麻痹作用较弱",
+            "D.对氯丙嗪引起的帕森综合征无效",
+            "E.外周抗胆碱作用弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

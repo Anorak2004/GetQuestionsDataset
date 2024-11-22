@@ -1,0 +1,912 @@
+[
+    {
+        "question_text": "1.维生素K参与合成:",
+        "options": [
+            "A.凝血酶原",
+            "B.凝血因子I、Ⅸ、Ⅹ、XI和Ⅻ",
+            "C.凝血因子Ⅱ、Ⅶ、Ⅸ和X",
+            "D.PGI2",
+            "E.抗凝血酶Ⅲ"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 1
+    },
+    {
+        "question_text": "2.氨甲苯酸的最佳适应症",
+        "options": [
+            "A.手术后伤口渗血",
+            "B.肺出血",
+            "C.新生儿出血",
+            "D.香豆素过量所致的出血",
+            "E.纤溶亢进所致的出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列组合中最有利于铁剂吸收的是:",
+        "options": [
+            "A.果糖+枸椽酸铁铵",
+            "B.维生素C+硫酸亚铁",
+            "C.碳酸钙+硫酸亚铁",
+            "D.同型半胱氨酸+富马酸亚铁",
+            "E.四环素+硫酸亚铁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 3
+    },
+    {
+        "question_text": "4.铁剂宜用于治疗:",
+        "options": [
+            "A.巨幼细胞贫血",
+            "B.恶性贫血",
+            "C.小细胞低色素性贫血",
+            "D.再生障碍性贫血",
+            "E.溶血性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 4
+    },
+    {
+        "question_text": "5.铁剂急性中毒特殊解毒剂",
+        "options": [
+            "A.碳酸氢钠",
+            "B.磷酸钙",
+            "C.四环素",
+            "D.转铁蛋白",
+            "E.去铁胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 5
+    },
+    {
+        "question_text": "6.参与脱氧尿苷酸转变为脱氧胸苷酸的叶酸是下列哪种形式?",
+        "options": [
+            "A.5-甲基四氢叶酸",
+            "B.5-甲酰四氢叶酸",
+            "C.10-甲酰四氢叶酸",
+            "D.5,10-甲炔四氢叶酸",
+            "E.5,10-甲烯四氢叶酸(5,10-甲烯四氢叶酸)"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 6
+    },
+    {
+        "question_text": "7.维生素K对下列哪种疾病所致的出血无效?",
+        "options": [
+            "A.新生儿出血",
+            "B.香豆素类过量",
+            "C.梗阻性黄疸",
+            "D.慢性腹泻",
+            "E.肝素过量致自发性出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 7
+    },
+    {
+        "question_text": "8.甲酰四氢叶酸主要用于:",
+        "options": [
+            "A.缺铁性贫血",
+            "B.营养性巨幼细胞贫血",
+            "C.恶性贫血",
+            "D.长期使用叶酸对抗剂所致的巨幼红细胞贫血",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 8
+    },
+    {
+        "question_text": "9.噻氯匹啶的作用机制是:",
+        "options": [
+            "A.阻止维生素K的作用",
+            "B.增强抗凝血酶Ⅲ的作用",
+            "C.激活纤溶酶",
+            "D.抑制环加氧酶",
+            "E.抑制血小板聚集"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 9
+    },
+    {
+        "question_text": "10.肝素的强大抗凝作用与下列何种理化特性有关?",
+        "options": [
+            "A.分子量大",
+            "B.脂溶性高",
+            "C.极性大",
+            "D.分子中带有大量的正电荷",
+            "E.分子中带有大量的负电荷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 10
+    },
+    {
+        "question_text": "11.肝素体内抗凝最常用的给药途径为:",
+        "options": [
+            "A.口服",
+            "B.肌肉注射",
+            "C.皮下注射",
+            "D.静脉注射",
+            "E.舌下含服"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 11
+    },
+    {
+        "question_text": "12.肝素的抗凝作用机制是:",
+        "options": [
+            "A.络合钙离子",
+            "B.抑制血小板聚集",
+            "C.加速凝血因子Ⅸa、Ⅹa、Ⅺa、和Ⅻa的灭活",
+            "D.激活纤溶酶",
+            "E.影响凝血因子Ⅱ、Ⅶ、Ⅸ和Ⅹ的活化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 12
+    },
+    {
+        "question_text": "13.抗凝作用最强最快的药物",
+        "options": [
+            "A.肝素",
+            "B.双香豆素",
+            "C.苄丙酮香豆素",
+            "D.噻氯匹啶",
+            "E.链激酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 13
+    },
+    {
+        "question_text": "14.体内、体外均有抗凝作用的药物是:",
+        "options": [
+            "A.双香豆素",
+            "B.华法林",
+            "C.双嘧达莫",
+            "D.噻氯匹啶",
+            "E.肝素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 14
+    },
+    {
+        "question_text": "15.物质参与甲基丙二酰酶转变为琥珀酰辅酶?",
+        "options": [
+            "A.氰钴胺",
+            "B.羟钴铵",
+            "C.甲钴铵",
+            "D.5-脱氧腺苷钴胺",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 15
+    },
+    {
+        "question_text": "16.恶性贫血的主要原因是:",
+        "options": [
+            "A.营养不良",
+            "B.骨髓红细胞生成障碍",
+            "C.叶酸利用障碍",
+            "D.维生素B12缺乏",
+            "E.内因子缺乏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 16
+    },
+    {
+        "question_text": "17.治疗恶性贫血宜用:",
+        "options": [
+            "A.硫酸亚铁",
+            "B.叶酸",
+            "C.甲酰四氢叶酸钙",
+            "D.维生素B12",
+            "E.红细胞生成素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 17
+    },
+    {
+        "question_text": "18.纠正恶性贫血的神经症状必须用:",
+        "options": [
+            "A.红细胞生成素",
+            "B.甲酰四氢叶酸",
+            "C.叶酸",
+            "D.维生素B12",
+            "E.硫酸亚铁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪项不是肝素的作用特点?",
+        "options": [
+            "A.口服和注射均有效",
+            "B.体内、体外均有抗凝作用",
+            "C.起效快、作用持续时间短",
+            "D.强大的抗凝作用依赖于分子中带有大量的负电荷及抗凝血酶Ⅲ",
+            "E.对已形成的血栓无溶解作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于双香豆素的叙述,下列哪项是错误的?",
+        "options": [
+            "A.口服有效",
+            "B.对已合成的凝血因子无对抗作用,故起效慢",
+            "C.抗凝作用持久,停药后尚可维持数天",
+            "D.体内、体外均有抗凝作用",
+            "E.应用剂量按凝血酶原时间个体化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 20
+    },
+    {
+        "question_text": "21.同型半胱氨酸转化为甲硫氨酸需要下列哪种维生素B12同类物参与?",
+        "options": [
+            "A.甲基B12",
+            "B.5-脱氧腺苷酸",
+            "C.羟钴铵",
+            "D.氰钴胺",
+            "E.维生素B12内因子复合物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 21
+    },
+    {
+        "question_text": "22.对纤维蛋白有一定程度特异性的纤维蛋白溶解药",
+        "options": [
+            "A.组织纤溶酶原激活因子",
+            "B.链激酶",
+            "C.茴酰化纤溶酶原链激酶激活剂复合物",
+            "D.尿激酶",
+            "E.氨甲环酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 22
+    },
+    {
+        "question_text": "23.肝素及双香豆素均可用于",
+        "options": [
+            "A.弥散性血管内凝血(DIC)",
+            "B.血栓栓塞性疾病",
+            "C.体外循环抗凝",
+            "D.高脂血症",
+            "E.脑溢血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 23
+    },
+    {
+        "question_text": "24.肝素应用过量可注射:",
+        "options": [
+            "A.维生素K",
+            "B.鱼精蛋白",
+            "C.葡萄糖酸钙",
+            "D.氨甲苯酸",
+            "E.叶酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 24
+    },
+    {
+        "question_text": "25.双香豆素的抗凝机制是:",
+        "options": [
+            "A.抑制血小板聚集",
+            "B.激活纤溶酶",
+            "C.促进抗凝血酶Ⅲ的作用",
+            "D.阻止凝血因子Ⅱ、Ⅶ、Ⅸ和Ⅹ谷氨酸残基的羧化",
+            "E.阻止凝血因子Ⅱ、Ⅸ、Ⅹ、Ⅺ和Ⅻ谷氨酸残基的羧化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 25
+    },
+    {
+        "question_text": "26.抗凝作用慢而持久的药物",
+        "options": [
+            "A.肝素",
+            "B.双香豆素",
+            "C.华法林",
+            "D.新抗凝",
+            "E.前列环素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 26
+    },
+    {
+        "question_text": "27.确定香豆素类抗凝效果的最好方法是测定:",
+        "options": [
+            "A.出血时间",
+            "B.凝血酶原时间",
+            "C.凝血酶时间",
+            "D.凝血时间",
+            "E.止血时间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 27
+    },
+    {
+        "question_text": "28.香豆素类与下列哪种药物合用作用增强?",
+        "options": [
+            "A.苯妥英钠",
+            "B.苯巴比妥",
+            "C.广谱抗生素",
+            "D.维生素K",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 28
+    },
+    {
+        "question_text": "29.双嘧达莫的抗凝作用机制是:",
+        "options": [
+            "A.抑制凝血酶",
+            "B.抑制磷酸二酯酶,使AMP降解减少",
+            "C.激活腺苷酸环化酶,使cAMP生成增多",
+            "D.激活纤溶酶",
+            "E.抑制纤溶酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 29
+    },
+    {
+        "question_text": "30.肝素最常见的不良反应是:",
+        "options": [
+            "A.变态反应",
+            "B.消化性溃疡",
+            "C.血压升高",
+            "D.自发性骨折",
+            "E.自发性出血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 30
+    },
+    {
+        "question_text": "31.对抗肝素过量引起的自发性出血,可选用的药物是",
+        "options": [
+            "A.氨甲苯酸",
+            "B.鱼精蛋白",
+            "C.维生素K",
+            "D.垂体后叶素",
+            "E.右旋糖酐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 31
+    },
+    {
+        "question_text": "32.关于铁剂的吸收,下列错误项是",
+        "options": [
+            "A.与维生素C合用有利于吸收",
+            "B.与四环素合用不利于吸收",
+            "C.植物中铁吸收较好,而动物血红素中铁吸收较差",
+            "D.饭后服用可以减轻对胃肠道的刺激",
+            "E.与高磷、高钙食物同服,有碍吸收"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列有关华法林的正确的",
+        "options": [
+            "A.口服不吸收",
+            "B.体内外均有效",
+            "C.血浆蛋白结合率高",
+            "D.通过激活纤溶酶原起作用",
+            "E.与广谱抗生素合用作用减弱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 33
+    },
+    {
+        "question_text": "34.体内外均有抗凝作用的抗凝血药是",
+        "options": [
+            "A.链激酶",
+            "B.华法林",
+            "C.肝素",
+            "D.尿激酶",
+            "E.双香豆素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 34
+    },
+    {
+        "question_text": "35.氨甲苯酸的作用机制是",
+        "options": [
+            "A.对抗纤溶酶原激活因子",
+            "B.激活血浆中的凝血因子",
+            "C.诱导血小板聚集",
+            "D.抑制抗凝血酶Ⅲ的活性",
+            "E.促进凝血因子的合成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 35
+    },
+    {
+        "question_text": "36.维生素K的作用机制是",
+        "options": [
+            "A.抑制抗凝血酶Ⅲ",
+            "B.促进血小板聚集",
+            "C.抑制纤溶酶",
+            "D.作为羧化酶的辅酶参与凝血因子的合成",
+            "E.竞争性对抗纤溶酶原激活因子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 36
+    },
+    {
+        "question_text": "37.服铁剂,最常见的不良反应是",
+        "options": [
+            "A.过敏反应",
+            "B.高血压",
+            "C.胃肠道剌激症状",
+            "D.嗜睡",
+            "E.出血倾向"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 37
+    },
+    {
+        "question_text": "38.影响维生素B12吸收的主要因素是",
+        "options": [
+            "A.浓茶",
+            "B.内因子缺乏",
+            "C.合用叶酸",
+            "D.铁剂同服",
+            "E.四环素同服"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 38
+    },
+    {
+        "question_text": "39.对于甲氨蝶呤所引起的巨幼红细胞性贫血,应选用",
+        "options": [
+            "A.铁剂",
+            "B.甲酰四氢叶酸钙",
+            "C.叶酸",
+            "D.红细胞生成素",
+            "E.维生素C"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 39
+    },
+    {
+        "question_text": "40.可减弱香豆素类抗凝作用的药物是",
+        "options": [
+            "A.水杨酸钠",
+            "B.苯巴比妥",
+            "C.广谱抗生素",
+            "D.血小板抑制剂",
+            "E.甲磺丁脲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 40
+    },
+    {
+        "question_text": "41.现认为肝素的作用机制是",
+        "options": [
+            "A.增强ATⅢ作用,后者是凝血因子所含丝氨酸残基蛋白酶的抑制剂",
+            "B.增强ATⅢ作用,后者是凝血因子所含精氨酸残基蛋白酶的抑制剂",
+            "C.增强ATⅢ作用,后者是凝血因子所含谷氨酸残基蛋白酶的抑制剂",
+            "D.肝素直接与凝血因子结合,水解活化的凝血因子",
+            "E.增强ATⅢ灭活所有蛋白质凝血因子作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 41
+    },
+    {
+        "question_text": "42.肝素增强抗凝血酶Ⅲ灭活下列哪组凝血因子",
+        "options": [
+            "A.IIa、IXa、Xa、XIa、XIIa",
+            "B.IIa、IIIa、VIIa、XIa、XIIa",
+            "C.IIa、VIIIa、VIIa、XIa、XIIa",
+            "D.IIa、IIIa、VIIa、Xa、XIIa",
+            "E.IIa、VIIIa、VIIa、Xa、XIIa"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 42
+    },
+    {
+        "question_text": "43.与普通肝素相比,低分子量肝素抗凝作用特点是",
+        "options": [
+            "A.对凝血因子Ⅱ、Ⅶa灭活作用强,对Xa作用弱",
+            "B.对凝血因子Ⅱ、Ⅸa灭活作用强,对Xa作用弱",
+            "C.对凝血因子X、Ⅺa灭活作用强,对Ⅱa作用弱",
+            "D.对凝血因子X、Ⅻa灭活作用强,对Ⅱa作用弱",
+            "E.对凝血因子X、Ⅸa灭活作用强,对Ⅱa作用弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 43
+    },
+    {
+        "question_text": "44.维生素K促凝血作用机制是",
+        "options": [
+            "A.在肝脏中参与凝血因子的合成",
+            "B.在血液中提高凝血因子的活性",
+            "C.在血液中提高血小板的功能",
+            "D.在组织促进外源性凝血过程",
+            "E.在组织抑制纤溶酶原激活"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 44
+    },
+    {
+        "question_text": "45.维生素K可促进凝血因子",
+        "options": [
+            "A.II、V、Ⅸ、Xa的合成",
+            "B.Ⅱ、Ⅶ、Ⅸ、Ⅹa的合成",
+            "C.Ⅶ、Ⅷ、Ⅸ、Xa的合成",
+            "D.Ⅶ、Ⅷ、Ⅸ、Ⅹ的合成",
+            "E.II、Ⅶ、Ⅸ、Ⅹ的合成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 45
+    },
+    {
+        "question_text": "46.梗阻性黄疸及胆漏引起的轻度出血,治疗药物是",
+        "options": [
+            "A.鱼精蛋白",
+            "B.氨甲环酸",
+            "C.氨甲苯酸",
+            "D.维生素K",
+            "E.硫酸亚铁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 46
+    },
+    {
+        "question_text": "47.体内体外均抗凝的药物是",
+        "options": [
+            "A.肝素",
+            "B.香豆素类",
+            "C.枸橼酸钠",
+            "D.链激酶",
+            "E.阿司匹林"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 47
+    },
+    {
+        "question_text": "48.阿司匹林的抗血栓作用适用于",
+        "options": [
+            "A.上呼吸道感染时解热",
+            "B.缺血性心脏病如心肌梗死和心绞痛的治疗和预防",
+            "C.慢性钝痛",
+            "D.血栓栓塞性疾病",
+            "E.慢性胃出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 48
+    },
+    {
+        "question_text": "50.下列药物中治疗低血容量性休克效果最好的药物是",
+        "options": [
+            "A.右旋糖酐70",
+            "B.右旋糖酐40",
+            "C.右旋糖酐10",
+            "D.甘露醇",
+            "E.山梨醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 49
+    },
+    {
+        "question_text": "51.肝素过量中毒时的出血,解救药物是",
+        "options": [
+            "A.氨甲苯酸",
+            "B.尿激酶",
+            "C.垂体后叶素",
+            "D.维生素K",
+            "E.鱼精蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 50
+    },
+    {
+        "question_text": "52.同服下列哪种物质会阻碍铁剂的吸收",
+        "options": [
+            "A.维生素C",
+            "B.稀盐酸",
+            "C.碳酸氢钠",
+            "D.果糖",
+            "E.含半胱氨酸的食物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 51
+    },
+    {
+        "question_text": "53.个7岁男童,患缺铁性贫血,治疗药物是",
+        "options": [
+            "A.叶酸制剂",
+            "B.右旋糖酐铁的制剂",
+            "C.硫酸亚铁片剂",
+            "D.枸盐酸铁铵注射剂",
+            "E.维生素B12注射剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 52
+    },
+    {
+        "question_text": "54.低分子量肝素灭活下列何种因子作用最强",
+        "options": [
+            "A.Xa",
+            "B.ⅨXa",
+            "C.Va",
+            "D.IIa",
+            "E.Ⅶa"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 53
+    },
+    {
+        "question_text": "55.下列肝素作用特点中,哪点是错误的",
+        "options": [
+            "A.口服不吸收,常静脉给药",
+            "B.具有体内、体外抗凝血作用",
+            "C.抗凝作用强大",
+            "D.静注后抗凝作用迅速产生",
+            "E.用药后,凝血酶原及凝血酶时间缩短"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 54
+    },
+    {
+        "question_text": "56.肝素含有大量负电荷,其抗凝作用机制是",
+        "options": [
+            "A.直接灭活凝血因子",
+            "B.减少凝血因子生成",
+            "C.增强抗凝血酶Ⅲ(ATⅢ)作用",
+            "D.对抗维生素K作用",
+            "E.与血液中Ca2+产生结合反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 55
+    },
+    {
+        "question_text": "57.链激酶的溶栓作用靶点是",
+        "options": [
+            "A.纤维蛋白",
+            "B.血小板",
+            "C.内源性纤维蛋白溶解酶原",
+            "D.纤维蛋白溶解酶原激活物",
+            "E.凝血酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 56
+    },
+    {
+        "question_text": "58.氨甲苯酸用于肺、肝、胰出血,这是因为",
+        "options": [
+            "A.肺、肝、胰腺这些部位纤维蛋白溶解因子多",
+            "B.肺、肝、胰腺这些部位纤维蛋白溶解酶多",
+            "C.肺、肝、胰腺这些部位纤维蛋白溶解酶原多",
+            "D.肺、肝、胰腺这些部位纤维蛋白溶解酶原激活因子多",
+            "E.肺、肝、胰腺这些部位纤维蛋白多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 57
+    },
+    {
+        "question_text": "59.可降低双香豆素抗凝作用的药物是",
+        "options": [
+            "A.广谱抗生素",
+            "B.阿司匹林",
+            "C.苯巴比妥",
+            "D.水合氯醛",
+            "E.口服避孕药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 58
+    },
+    {
+        "question_text": "60.孕妇轻度缺铁性贫血的治疗药物是",
+        "options": [
+            "A.叶酸",
+            "B.右旋糖酐",
+            "C.硫酸亚铁",
+            "D.枸缘酸铁铵",
+            "E.维生素B12"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 59
+    },
+    {
+        "question_text": "61.抗血小板聚集作用持续时间最短的药物是",
+        "options": [
+            "A.阿司匹林",
+            "B.双嘧达莫",
+            "C.前列环素",
+            "D.噻氯匹啶",
+            "E.水杨酸钠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 60
+    },
+    {
+        "question_text": "62.下列叙述中哪一点是错误的",
+        "options": [
+            "A.巨幼红细胞性贫血常用叶酸+维生素B12治疗",
+            "B.恶性贫血常用维生素B12治疗",
+            "C.重度缺铁性贫血需要输血治疗",
+            "D.抗肿瘤药引起的贫血常用叶酸+维生素B12治疗",
+            "E.月经过多导致的贫血常用硫酸亚铁治疗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 61
+    },
+    {
+        "question_text": "63.香豆素类药物常用于",
+        "options": [
+            "A.血库储存血液",
+            "B.外周动脉血栓溶栓治疗",
+            "C.血栓栓塞性疾病,防止血栓形成和扩大",
+            "D.静脉血栓栓塞",
+            "E.在烧伤时抗炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 62
+    },
+    {
+        "question_text": "64.治疗血栓栓塞性疾病,如脑血栓24小时内,选用",
+        "options": [
+            "A.香豆素类",
+            "B.肝素",
+            "C.链激酶",
+            "D.维生素K",
+            "E.阿司匹林"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 63
+    },
+    {
+        "question_text": "66.维生素K对下列哪种疾病所引起的出血无效",
+        "options": [
+            "A.梗阻性黄疸",
+            "B.新生儿出血",
+            "C.继发性凝血酶原缺乏",
+            "D.口服抗凝血药",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 64
+    },
+    {
+        "question_text": "67.氨甲苯酸、氨甲环酸过量诱发血栓，并可能诱发心肌梗死，此时的对抗治疗是",
+        "options": [
+            "A.注射尿激酶、链激酶或蝮蛇抗栓酶",
+            "B.口服给予香豆素类",
+            "C.注射水蛭素",
+            "D.口服阿司匹林",
+            "E.静脉注射甘露醇"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "65",
+        "number": 65
+    }
+]

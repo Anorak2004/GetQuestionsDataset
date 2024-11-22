@@ -1,0 +1,1668 @@
+[
+    {
+        "question_text": "1．核酸中核苷酸之间的连接方式是",
+        "options": [
+            "A．2’,3’-磷酸二酯键",
+            "B．3’,5’-磷酸二酯键",
+            "C．2’,5’-磷酸二酪键",
+            "D．糖苷键",
+            "E．氢键"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 1
+    },
+    {
+        "question_text": "2．DNA 合成需要的原料是",
+        "options": [
+            "A．ATP、CTP、GTP、TTP",
+            "B．ATP、CTP、GTP、UTP",
+            "C．dATP、dGTP、dCTP、dUTP",
+            "D．dATP、dGTP、dCTP、dTTP",
+            "E．dAMP、dGMP、dCMP、dTMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 2
+    },
+    {
+        "question_text": "3．RNA 合成需要的原料是",
+        "options": [
+            "A．ATP、CTP、GTP、TTP",
+            "B．ATP、CTP、GTP、UTP",
+            "C．dATP、dGTP、dCTP、dUTP",
+            "D．dATP、dGTP、dCTP、dTTP",
+            "E．AMP、GMP、CMP、TMP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 3
+    },
+    {
+        "question_text": "4．DNA 的基本组成单位是",
+        "options": [
+            "A．核苷酸",
+            "B．氨基酸",
+            "C．碱基",
+            "D．核苷",
+            "E．脱氧单核苷酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 4
+    },
+    {
+        "question_text": "5．RNA 的基本组成单位是",
+        "options": [
+            "A．核糖单核苷酸",
+            "B．氨基酸",
+            "C．碱基",
+            "D．核苷",
+            "E．脱氧核苷酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 5
+    },
+    {
+        "question_text": "6．DNA 中不会出现的组分是",
+        "options": [
+            "A．磷酸基团",
+            "B．腺嘌呤",
+            "C．碱基",
+            "D．胸腺嘧啶",
+            "E．核糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 6
+    },
+    {
+        "question_text": "7．RNA 中不会出现的组分是",
+        "options": [
+            "A．磷酸基团",
+            "B．腺嘌呤",
+            "C．胸腺嘧啶",
+            "D．碱基",
+            "E．脱氧核糖"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 7
+    },
+    {
+        "question_text": "8．dCDP 中文全称是",
+        "options": [
+            "A．脱氧腺嘌呤核苷二磷酸",
+            "B．胞嘧啶核苷二磷酸",
+            "C．脱氧胞嘧啶核苷二磷酸",
+            "D．双脱氧胞嘧啶核苷酸",
+            "E．双脱氧胞嘧啶核苷二磷酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 8
+    },
+    {
+        "question_text": "9．下列关于 DNA 和 RNA 的描述，错误的是",
+        "options": [
+            "A．DNA 含有的是脱氧核糖，RNA 含有的是核糖",
+            "B．DNA 可以作为模板指导 RNA 的合成，RNA 也可以作为模板指导 DNA 的合成",
+            "C．DNA 是生物遗传信息的载体，而 RNA 不是",
+            "D．DNA 通常是双链结构，而 RNA 通常是单链结构",
+            "E．DNA 通常含有 AGCT 四种碱基，而 RNA 通常含有 AGCU四种碱基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 9
+    },
+    {
+        "question_text": "10．核酸的一级结构是依靠下列什么化学键相连",
+        "options": [
+            "A．氢键",
+            "B．2’,5’-磷酸二酯键",
+            "C．3’,5’-磷酸二酯键",
+            "D．肽键",
+            "E．次级键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 10
+    },
+    {
+        "question_text": "11．DNA 双螺旋结构模型的描述中哪一条不正确",
+        "options": [
+            "A．腺嘌呤的摩尔数等于胸腺嘧啶的摩尔数",
+            "B．同种生物体不同组织中的 DNA 碱基组成相同",
+            "C．DNA 双螺旋中碱基对位于外侧",
+            "D．二股多核苷酸链通过 A 与 T 或 C 与 G 之间的氢键连接",
+            "E．维持双螺旋稳定的主要因素是氢键和碱基堆积力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 11
+    },
+    {
+        "question_text": "12．DNA 双螺旋结构模型的描述中哪一条不正确",
+        "options": [
+            "A．鸟嘌呤的摩尔数等于胞嘧啶的摩尔数",
+            "B．两条多核苷酸链走向相同",
+            "C．DNA 双螺旋中碱基对位于内侧",
+            "D．二股多核苷酸链通过 A 与 T 或 C 与 G 之间的氢键连接",
+            "E．维持双螺旋稳定的主要因素是氢键和碱基堆积力"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 12
+    },
+    {
+        "question_text": "13．下列哪一种 DNA 片段 GC 含量最高",
+        "options": [
+            "A．T%=15%",
+            "B．AT%=40%",
+            "C．G%=30%",
+            "D．C%=15%",
+            "E．GC%=55%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 13
+    },
+    {
+        "question_text": "14．在同一种哺乳细胞中，下列哪种情况是对的",
+        "options": [
+            "A．在过剩的 RNA 存在下，所有 DNA 片段能与 RNA 杂交",
+            "B．在过剩的 DNA 存在下，所有 RNA 都能与 DNA 杂交",
+            "C．RNA 与 DNA 有相同的碱基比例",
+            "D．RNA 与 DNA 有相同核苷酸组成",
+            "E．RNA 和 DNA 含量相同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 14
+    },
+    {
+        "question_text": "15．RNA 和 DNA 彻底水解后的产物",
+        "options": [
+            "A．核糖不同，部分碱基不同",
+            "B．碱基相同，核糖不同",
+            "C．碱基不同，核糖不同",
+            "D．碱基不同，核糖相同",
+            "E．碱基相同，部分核糖不同"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 15
+    },
+    {
+        "question_text": "16．DNA 和 RNA 共有的成分是",
+        "options": [
+            "A．D-核糖",
+            "B．D-2-脱氧核糖",
+            "C．鸟嘌呤",
+            "D．尿嘧啶",
+            "E．胸腺嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 16
+    },
+    {
+        "question_text": "17．核酸具有紫外吸收能力的原因是",
+        "options": [
+            "A．嘌呤和嘧啶是杂环化合物",
+            "B．嘌呤和嘧啶中有氮原子",
+            "C．嘌呤和嘧啶中有硫原子",
+            "D．嘌呤和嘧啶连接了核糖",
+            "E．嘌呤和嘧啶环中有共轭双键"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 17
+    },
+    {
+        "question_text": "18．已知 DNA 一条链的序列是 ACGCACTCA，其互补链序列应为",
+        "options": [
+            "A．UGCGUGAGU",
+            "B．TGCGTGAGT",
+            "C．TGAGTGCGT",
+            "D．UGAGUGCGU",
+            "E．以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 18
+    },
+    {
+        "question_text": "19．与 mRNA 中的密码子 ACG 相对应的 tRNA 反密码子是",
+        "options": [
+            "A．UGC",
+            "B．TGC",
+            "C．GCA",
+            "D．CGU",
+            "E．TGC"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 19
+    },
+    {
+        "question_text": "20．下列关于核小体的描述哪项正确",
+        "options": [
+            "A．核小体由 DNA 和非组蛋白共同构成",
+            "B．核小体由 RNA 和 Hl，H2，H3，H4 各二分子构成",
+            "C．组蛋白的成分是 H2A，H2B，H3 和 H4",
+            "D．核小体由 DNA 和 H1，H2，H3，H4 各二分子构成",
+            "E．组蛋白是由组氨酸构成的"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 20
+    },
+    {
+        "question_text": "21．下列关于核小体的描述哪项错误",
+        "options": [
+            "A．核小体由 DNA 和组蛋白共同构成",
+            "B．核小体由 DNA 缠绕在核心组蛋白构成",
+            "C．组蛋白的成分是 H2A，H2B，H3 和 H4",
+            "D．核小体由 DNA 和 H1，H2，H3，H4 各二分子构成",
+            "E．组蛋白富含组氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 21
+    },
+    {
+        "question_text": "22．核苷酸分子中嘌呤 N9 与核糖哪一位碳原子之间以糖苷键连接",
+        "options": [
+            "A．5’—C",
+            "B．3’—C",
+            "C．2’—C",
+            "D．1’—C",
+            "E．4’—C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 22
+    },
+    {
+        "question_text": "23．核苷酸分子中嘧啶 N1 与核糖哪一位碳原子之间以糖苷键连接",
+        "options": [
+            "A．5’—C",
+            "B．3’—C",
+            "C．2’—C",
+            "D．1’—C",
+            "E．4’—C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 23
+    },
+    {
+        "question_text": "24．核苷酸分子中嘌呤与核糖之间以何种糖苷键连接",
+        "options": [
+            "A．N1-C1’",
+            "B．N6—C1’",
+            "C．N9—C1’",
+            "D．N9—C5’",
+            "E．N1-C5’"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 24
+    },
+    {
+        "question_text": "25．核苷酸分子中嘧啶与核糖之间以何种糖苷键连接",
+        "options": [
+            "A．N1-C1’",
+            "B．N6—C1’",
+            "C．N9—C1’",
+            "D．N9—C5’",
+            "E．N1-C5’"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 25
+    },
+    {
+        "question_text": "26．tRNA 的结构特点不包括",
+        "options": [
+            "A．含甲基化核苷酸",
+            "B．5’末端具有特殊的帽子结构",
+            "C．三叶草形的二级结构",
+            "D．有局部的双链结构",
+            "E．含有二氢尿嘧啶环。"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 26
+    },
+    {
+        "question_text": "27．DNA 的解链温度指的是",
+        "options": [
+            "A．A260nm 达到最大值时的温度",
+            "B．A260nm 达到最大值的 50％时的温度",
+            "C．A260nm 达到最大增大值时的温度",
+            "D．A260nm 达到最大增大值的 50％时的温度",
+            "E．A280nm 达到最大值的 50％时的温度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 27
+    },
+    {
+        "question_text": "28．有关一个 DNA 分子的 Tm 值，下列哪种说法正确",
+        "options": [
+            "A．G 十 C 比例越高，Tm 值也越高",
+            "B．A+T 比例越高，Tm 值也越高",
+            "C．Tm=(A 十 T)％十(G 十 C)％",
+            "D．Tm 值越高，DNA 越易发生变性",
+            "E．Tm 值越高，双链 DNA 越容易与蛋白质结合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 28
+    },
+    {
+        "question_text": "29．有关核酸的变性与复性的正确叙述为",
+        "options": [
+            "A．热变性后序列相同的单链 DNA 经缓慢冷却后可复性",
+            "B．来源不同的 DNA 分子变性后，在合适条件下也可能发生复性",
+            "C．热变性的 DNA 迅速降温过程称作退火",
+            "D．复性的最佳温度为 25℃",
+            "E．热变性 DNA 迅速冷却后即可相互结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 29
+    },
+    {
+        "question_text": "30．有关核酸的变性与复性的错误叙述为",
+        "options": [
+            "A．热变性后序列互补的单链 DNA 经缓慢冷却后可复性",
+            "B．来源不同的 DNA 分子热变性后，在合适温度下也可能发生复性",
+            "C．热变性的 DNA 缓慢冷却的过程称作退火",
+            "D．复性的最佳温度为 25℃",
+            "E．热变性 DNA 经迅速冷却后不会发生复性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 30
+    },
+    {
+        "question_text": "31．有关核酶的正确解释是",
+        "options": [
+            "A．它是由 RNA 和蛋白质构成的",
+            "B．它是 RNA 分子，但具有酶的功能",
+            "C．是专门水解核酸的蛋白质",
+            "D．它是由 DNA 和蛋白质构成的",
+            "E．位于细胞核内的酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 31
+    },
+    {
+        "question_text": "32．有关 tRNA 分子的正确解释是",
+        "options": [
+            "A．tRNA 分子多数由 80 个左右的氨基酸组成",
+            "B．tRNA 的功能主要在于结合蛋白质合成所需要的各种辅助因子",
+            "C．tRNA3’末端有氨基酸臂",
+            "D．反密码环中的反密码子的作用是结合 DNA 中相互补的碱基",
+            "E．tRNA 的 5’末端有多聚腺苷酸结构"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 32
+    },
+    {
+        "question_text": "33．下列关于 DNA 的变性描述哪条正确",
+        "options": [
+            "A．是指 DNA 分子中磷酸二酯键的断裂",
+            "B．是指 DNA 分子中糖苷键的断裂",
+            "C．是指 DNA 分子中碱基的水解",
+            "D．是指 DNA 分子中碱基间氢键的断裂",
+            "E．是指 DNA 分子与蛋白质间的疏水键的断裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 33
+    },
+    {
+        "question_text": "34．参与 hnRNA 的剪接的 RNA 是",
+        "options": [
+            "A．SnRNA",
+            "B．ScRNA",
+            "C．mRNA",
+            "D．ScnRNA",
+            "E．rRNA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 34
+    },
+    {
+        "question_text": "35．人的基因组的碱基数目为",
+        "options": [
+            "A．3×109bp",
+            "B．3×106bp",
+            "C．4×109bp",
+            "D．4×106bp",
+            "E．4×108bp"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 35
+    },
+    {
+        "question_text": "36．下列哪项描述正确的是",
+        "options": [
+            "A．人的基因组中的基因是重叠排列的",
+            "B．人的不同组织细胞中的基因组都有差别",
+            "C．人的基因组远大于原核生物基因组，非编码区远大于编码区；",
+            "D．人的基因组远大于原核生物基因组，但不存在非编码区",
+            "E．各种生物的基因组大小一致但序列不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 36
+    },
+    {
+        "question_text": "37．符合 DNA 结构的正确描述是",
+        "options": [
+            "A．两股螺旋链序列相同",
+            "B．两股链平行，走向相同",
+            "C．每一戊糖上有一个游离羟基",
+            "D．氢键是维持双螺旋结构稳定的作用力之一",
+            "E．碱基对平面平行于螺旋轴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 37
+    },
+    {
+        "question_text": "38．与 pCAGCT 互补的 DNA 序列是",
+        "options": [
+            "A．pAGCTG",
+            "B．pGTCGA",
+            "C．pGUCGA",
+            "D．pAGCUG",
+            "E．pAGCUC"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 38
+    },
+    {
+        "question_text": "39．cAMP 是",
+        "options": [
+            "A．2’5’-环腺苷酸",
+            "B．3’5’-环腺苷酸",
+            "C．2’5’-环鸟苷酸",
+            "D．3’5’-环鸟苷酸",
+            "E．2’5’-环胞苷酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 39
+    },
+    {
+        "question_text": "40．cGMP 是",
+        "options": [
+            "A．2’5’-环腺苷酸",
+            "B．3’5’-环腺苷酸",
+            "C．2’5’-环鸟苷酸",
+            "D．3’5’-环鸟苷酸",
+            "E ．2’5’-环胞苷酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 40
+    },
+    {
+        "question_text": "41．下面哪个说法正确的是",
+        "options": [
+            "A．同一生物的不同组织的 DNA 碱基组成不同",
+            "B．一种生物 DNA 碱基随着生物年龄，营养状态过环境变化而改变",
+            "C．不同生物来源的 DNA 碱基组成不同，表现在A+T/G+C 比值不同",
+            "D．不同生物的 DNA，总的嘌呤分子数不等于总的嘧啶分子数",
+            "E．不同生物的相同组织 DNA 碱基组成相同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 41
+    },
+    {
+        "question_text": "42．DNA 双螺旋分子稳定作用主要靠",
+        "options": [
+            "A．大量的氢键",
+            "B．双链中碱基对之间的氢键",
+            "C．G≡C 之间的氢键",
+            "D．单核苷酸之间的氢键",
+            "E．碱基对之间的氢键和碱基层之间的堆积力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 42
+    },
+    {
+        "question_text": "43．有关 DNA 的变性",
+        "options": [
+            "A．DNA 链断裂引起",
+            "B．核苷酸之间磷酸二酯键的断裂",
+            "C．维持双螺旋稳定的氢键的断裂",
+            "D．DNA 变性后，分子量降低",
+            "E．变性后，DNA 一级结构发生改变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 43
+    },
+    {
+        "question_text": "44．有关 Tm 值描述不正确的是",
+        "options": [
+            "A．加热时 DNA 变性时，在 260nm 吸收最高的值是 Tm 值",
+            "B．Tm 是核酸分子内 50%的双螺旋结构破坏时对应的温度",
+            "C．核酸分子的 Tm 值与 G+C 与总碱基的百分比成正相关",
+            "D．典型的 DNA 变性曲线为 S 型",
+            "E．DNA 变性是在一个很窄的范围内发生的"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 44
+    },
+    {
+        "question_text": "45．有关退火的描述正确的是",
+        "options": [
+            "A．热变性 DNA 经速冷即可复性",
+            "B．热变性 DNA 经慢冷即可复性",
+            "C．DNA 复性仅受温度影响",
+            "D．DNA 复性仅受时间的影响",
+            "E．DNA 复性仅受其浓度影响"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 45
+    },
+    {
+        "question_text": "46．有关真核 mRNA 的正确描述是",
+        "options": [
+            "A．在其 5’端存在一个 7-甲基腺嘌呤的帽子结构",
+            "B．其 3’端的 polyA 尾是从 DNA 上转录下来的",
+            "C．5’端帽子结构下游紧接着的是起始密码 AUG",
+            "D．3’端 polyA 尾紧接在终止密码的下游",
+            "E．在细胞核内转录的初级转录物称为 hnRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 46
+    },
+    {
+        "question_text": "47．有关真核 mRNA 的错误描述是",
+        "options": [
+            "A．在其 5’端存在一个帽子结构",
+            "B．其 3’端的 polyA 尾是转录后添加的",
+            "C．所有 mRNA5’端帽子结构下游第一个 AUG 就是起始密码",
+            "D．3’端 polyA 尾一定在终止密码子的下游",
+            "E．在细胞核内转录的初级转录物称为 hnRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 47
+    },
+    {
+        "question_text": "48．有关遗传密码表中不正确的描述是",
+        "options": [
+            "A．此表在生物界中通用,仅有极少例外",
+            "B．共有 64 个密码子",
+            "C．64 个密码子中包括 1 个起始码和 3 个终止码",
+            "D．AUG 为起始码",
+            "E．只有 1 个氨基酸有 1 个密码子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 48
+    },
+    {
+        "question_text": "49．有关遗传密码表中正确的描述是",
+        "options": [
+            "A．此表在生物界中通用,没有任何例外",
+            "B．20 种基本氨基酸拥有 20 个密码子",
+            "C．UAA,UAG,UGG 都是终止密码子",
+            "D．AUG 为起始码",
+            "E．只有 1 个氨基酸有 1 个密码子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 49
+    },
+    {
+        "question_text": "50．有关 tRNA 与氨基酸的关系,不正确的是",
+        "options": [
+            "A．一种 tRNA 只能转运一种氨基酸",
+            "B．一种氨基酸可由几种 tRNA 转运",
+            "C．转运同一种氨基酸的不同 tRNA,其反密码都相同",
+            "D．转运同一种氨基酸的不同 tRNA,其反密码不相同",
+            "E．tRNA 与氨基酸的结合靠氨基酰 tRNA 合成酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 50
+    },
+    {
+        "question_text": "51．有关 tRNA 与氨基酸的关系,正确的是",
+        "options": [
+            "A．tRNA 与氨基酸的结合需要 mRNA 的指导",
+            "B．一种氨基酸可由几种 tRNA 转运",
+            "C．转运同一种氨基酸的不同 tRNA,其反密码都相同",
+            "D．tRNA 可以自主选择氨基酸",
+            "E．一种 tRNA 可以转运几种氨基酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 51
+    },
+    {
+        "question_text": "52．核酸紫外分光光度法定量的依据是",
+        "options": [
+            "A．碱基结构中都有共轭双键",
+            "B．嘌呤环中有共轭双键",
+            "C．嘧啶环中有共轭双键",
+            "D．嘌呤是两个杂环构成",
+            "E．嘧啶是两个杂环构成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 52
+    },
+    {
+        "question_text": "53．自然界游离核苷酸中，磷酸通常是位于",
+        "options": [
+            "A．戊糖的 C-5′上",
+            "B．戊糖的 C-2′上",
+            "C．戊糖的 C-3′上",
+            "D．戊糖的 C-2′和 C-5′上",
+            "E．戊糖的 C-2′和 C-3′上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 53
+    },
+    {
+        "question_text": "54．自然界游离的脱氧核苷酸中，磷酸通常是位于",
+        "options": [
+            "A．戊糖的 C-5′上",
+            "B．戊糖的 C-2′上",
+            "C．戊糖的 C-3′上",
+            "D．戊糖的 C-2′和 C-5′上",
+            "E．戊糖的 C-2′和 C-3′上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 54
+    },
+    {
+        "question_text": "55．自然界游离的脱氧核苷酸中，游离羟基通常是位于",
+        "options": [
+            "A．戊糖的 C-5′上",
+            "B．戊糖的 C-2′上",
+            "C．戊糖的 C-3′上",
+            "D．戊糖的 C-2′和 C-5′上",
+            "E．戊糖的 C-2′和 C-3′上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 55
+    },
+    {
+        "question_text": "56．自然界游离的核苷酸中，游离羟基通常是位于",
+        "options": [
+            "A．戊糖的 C-5′上",
+            "B．戊糖的 C-2′上",
+            "C．戊糖的 C-3′上",
+            "D．戊糖的 C-2′和 C-5′上",
+            "E．戊糖的 C-2′和 C-3′上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 56
+    },
+    {
+        "question_text": "57．可用于测量生物样品中核酸含量的元素是",
+        "options": [
+            "A．碳",
+            "B．氢",
+            "C．氧",
+            "D．磷",
+            "E．氮."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 57
+    },
+    {
+        "question_text": "58．下列哪种碱基只存在于 RNA 而不存在于 DNA",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．胸腺嘧啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 58
+    },
+    {
+        "question_text": "59．下列哪种碱基主要存在于 DNA 而很少存在于 RNA",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．胸腺嘧啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 59
+    },
+    {
+        "question_text": "60．下列哪种碱基属于 tRNA 中的稀有碱基",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．胸腺嘧啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 60
+    },
+    {
+        "question_text": "61．下列哪种碱基属于 tRNA 中的稀有碱基",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．二氢尿嘧啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 61
+    },
+    {
+        "question_text": "62．下列哪种碱基属于 tRNA 中的稀有碱基",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．次黄嘌呤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 62
+    },
+    {
+        "question_text": "63．下列哪种碱基属于 tRNA 中的稀有碱基",
+        "options": [
+            "A．尿嘧啶",
+            "B．腺嘌呤",
+            "C．胞嘧啶",
+            "D．鸟嘌呤",
+            "E．7-甲基鸟嘌呤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 63
+    },
+    {
+        "question_text": "64．下列哪种碱基不属于 tRNA 中的稀有碱基",
+        "options": [
+            "A．胸腺嘧啶",
+            "B．次黄嘌呤",
+            "C．二氢尿嘧啶",
+            "D．尿嘧啶",
+            "E．7-甲基鸟嘌呤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 64
+    },
+    {
+        "question_text": "65．核酸对紫外线的最大吸收峰在",
+        "options": [
+            "A．280nm",
+            "B．260nm",
+            "C．200nm",
+            "D．340nm",
+            "E．220nm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 65
+    },
+    {
+        "question_text": "66．有关 RNA 的描述哪项是错误的",
+        "options": [
+            "A．mRNA 分子中含有遗传密码",
+            "B．tRNA 是分子量最小的一种 RNA",
+            "C．胞浆中只有 mRNA",
+            "D．RNA 主要可分为 mRNA、tRNA、rRNA",
+            "E．组成核糖体的主要是 rRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 66
+    },
+    {
+        "question_text": "67．大部分真核细胞 mRNA 的 3′-末端都具有",
+        "options": [
+            "A．多聚 A",
+            "B．多聚 U",
+            "C．多聚 T",
+            "D．多聚 C",
+            "E．多聚 G"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 67
+    },
+    {
+        "question_text": "68．DNATm 值较高是由于下列哪组核苷酸含量较高所致",
+        "options": [
+            "A．G+A",
+            "B．C+G",
+            "C．A+T",
+            "D．C+T",
+            "E．A+C"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 68
+    },
+    {
+        "question_text": "69．某 DNA 分子中腺嘌呤的含量为 15%，则胞嘧啶的含量应为",
+        "options": [
+            "A．15%",
+            "B．30%",
+            "C．40%",
+            "D．35%",
+            "E．7%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 69
+    },
+    {
+        "question_text": "70．某一核酸分子，碱基 A 数量为 52％，该核酸分子是",
+        "options": [
+            "A．DNA 分子",
+            "B．单链 DNA 分子或 RNA 分子",
+            "C．RNA 分子",
+            "D．双链 DNA 分子或 RNA 分子",
+            "E．以上都有可能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 70
+    },
+    {
+        "question_text": "71．RNA 和 DNA 彻底水解后的产物（同 15 题）",
+        "options": [
+            "A．核糖相同,部分碱基不同",
+            "B．碱基相同，核糖不同",
+            "C．部分碱基不同，核糖不同",
+            "D．碱基不同，核糖相同",
+            "E．以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 71
+    },
+    {
+        "question_text": "72．腺嘌呤和鸟嘌呤在结构上的差别是",
+        "options": [
+            "A．腺嘌呤 C6 上有羟基，鸟嘌呤 C6 上有氨基",
+            "B．腺嘌呤 C6 上有甲基，鸟嘌呤 C6 上有氨基",
+            "C．腺嘌呤 C6 上有氨基，鸟嘌呤 C6 上有甲基",
+            "D．腺嘌呤 C6 上有氨基，鸟嘌呤 C6 上有羟基",
+            "E．腺嘌呤 C6 上有氨基，鸟嘌呤 C2 上有羟基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 72
+    },
+    {
+        "question_text": "73．胸腺嘧啶与尿嘧啶在结构上的差异是",
+        "options": [
+            "A．胸腺嘧啶 C2 上有 NH2，尿嘧啶 C2 上有 OH",
+            "B．胸腺嘧啶 C5 上有甲基，尿嘧啶 C5 上无甲基",
+            "C．胸腺嘧啶 C4 上有 NH2，尿嘧啶 C4 上有 OH",
+            "D．胸腺嘧啶 C5 上有羟甲基，尿嘧啶 C5 上无羟甲基",
+            "E．胸腺嘧啶 C1 上有羟基，尿嘧啶 C1 上无羟基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 73
+    },
+    {
+        "question_text": "74．核酸对紫外线的吸收是哪一结构所产生的",
+        "options": [
+            "A．磷酸二酯键",
+            "B．核糖成环",
+            "C．嘌呤、嘧啶环上的共轭双键",
+            "D．糖苷键",
+            "E．磷酸上的-P=双键"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 74
+    },
+    {
+        "question_text": "75．DNA 双螺旋每旋转一周，沿轴上升高度是",
+        "options": [
+            "A．5．4nm",
+            "B．0．34nm",
+            "C．0．15nm",
+            "D．3．4nm",
+            "E．6．8nm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 75
+    },
+    {
+        "question_text": "76．下列关于双键 DNA 碱基含量关系，哪个是错误的",
+        "options": [
+            "A．A=T",
+            "B．A+T=G+C",
+            "C．G=C",
+            "D．A+G=T+C",
+            "E．A+C=G+T"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 76
+    },
+    {
+        "question_text": "77．DNA 变性的原因是",
+        "options": [
+            "A．温度升高是唯一的原因",
+            "B．磷酸二酯键断裂",
+            "C．多核苷酸链的解聚",
+            "D．碱基的甲基化修饰",
+            "E．互补碱基之间的氢键断裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 77
+    },
+    {
+        "question_text": "78．DNA 变性后理化性质的改变包括",
+        "options": [
+            "A．溶液黏度增加",
+            "B．是循环渐进的过程",
+            "C．形成三股链螺旋",
+            "D．260nm 波长处的光吸收增高",
+            "E．变性是不可逆的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 78
+    },
+    {
+        "question_text": "79．DNA 的 Tm 值",
+        "options": [
+            "A．只与 DNA 链的长短有直接关系",
+            "B．与 G-C 碱基对含量成正比",
+            "C．与 A-T 碱基对含量成正比",
+            "D．与碱基组成无关",
+            "E．所有真核生物 Tm 都一样"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 79
+    },
+    {
+        "question_text": "80．核小体串珠状结构的核心组蛋白是",
+        "options": [
+            "A．H2A、H2B、H3、H4 各一分子",
+            "B．H2A、H2B、H3、H4 各二分子",
+            "C．H1 组蛋白与 140-145 碱基对 DNA",
+            "D．非组蛋白",
+            "E．H2A、H2B、H3、H4 各四分子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 80
+    },
+    {
+        "question_text": "81．真核生物的 mRNA",
+        "options": [
+            "A．在胞质内合成和发挥作用",
+            "B．帽子结构是一系列的腺嘌呤",
+            "C．有帽子结构和 polyA 尾巴",
+            "D．mRNA 因能携带遗传信息，所以可以长期存在",
+            "E．mRNA 的前体是 rRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 81
+    },
+    {
+        "question_text": "82．稀有碱基常出现于",
+        "options": [
+            "A．rRNA",
+            "B．tRNA",
+            "C．冈崎片段",
+            "D．hnRNA",
+            "E．mRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 82
+    },
+    {
+        "question_text": "83．在核酸中一般不含有的元素是",
+        "options": [
+            "A．碳",
+            "B．氢",
+            "C．氧",
+            "D．硫",
+            "E．氮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 83
+    },
+    {
+        "question_text": "84．通常即不见于 DNA 又不见于 RNA 的碱基是",
+        "options": [
+            "A．腺嘌呤",
+            "B．黄嘌呤",
+            "C．鸟嘌呤",
+            "D．胸腺嘧啶",
+            "E．尿嘧啶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 84
+    },
+    {
+        "question_text": "85．组成核酸的基本单位是",
+        "options": [
+            "A．核糖和脱氧核糖",
+            "B．磷酸和戊糖",
+            "C．戊糖和碱基",
+            "D．单核苷酸",
+            "E．磷酸、戊糖和碱基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 85
+    },
+    {
+        "question_text": "86．脱氧核糖核苷酸彻底水解，生成的产物是",
+        "options": [
+            "A．核糖和磷酸",
+            "B．脱氧核糖和碱基",
+            "C．脱氧核糖和磷酸",
+            "D．磷酸、核糖和碱基",
+            "E．脱氧核糖、磷酸和碱基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 86
+    },
+    {
+        "question_text": "87．DNA 的组成成分是",
+        "options": [
+            "A．A、G、T、C、磷酸",
+            "B．A、G、T、C、核糖",
+            "C．A、G、T、C、磷酸、脱氧核糖",
+            "D．A、G、T、U、磷酸、核糖",
+            "E．A、G、T、U、磷酸、脱氧核糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 87
+    },
+    {
+        "question_text": "88．核酸分子中储存、传递遗传信息的关键部分是",
+        "options": [
+            "A．核苷",
+            "B．戊糖",
+            "C．磷酸",
+            "D．碱基序列",
+            "E．戊糖磷酸骨架"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 88
+    },
+    {
+        "question_text": "89．不参与 DNA 组成的是",
+        "options": [
+            "A．dAMP",
+            "B．dGMP",
+            "C．dCMP",
+            "D．dUMP",
+            "E．dTMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 89
+    },
+    {
+        "question_text": "90．在核苷酸分子中戊糖（R）、碱基（N）和磷酸（P）的连接关系是",
+        "options": [
+            "A．N-R-P",
+            "B．N-P-R",
+            "C．P-N-R",
+            "D．R-N-P",
+            "E．R-P-N"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 90
+    },
+    {
+        "question_text": "91．CR 表示",
+        "options": [
+            "A．脱氧胞苷",
+            "B．胞苷",
+            "C．腺苷酸",
+            "D．胞苷酸",
+            "E．脱氧核糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 91
+    },
+    {
+        "question_text": "92．DNA 分子碱基含量关系哪种是错误的（与 76 题过于相似）",
+        "options": [
+            "A．A+T=C+G",
+            "B．A+G=C+T",
+            "C．G=C",
+            "D．A=T",
+            "E．A/T=G/C"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 92
+    },
+    {
+        "question_text": "93．下列关于 DNA 碱基组成的叙述，正确的是",
+        "options": [
+            "A．不同生物来源的 DNA 碱基组成不同",
+            "B．同一生物不同组织的 DNA 碱基组成不同",
+            "C．生物体碱基组成随年龄变化而改变",
+            "D．腺嘌呤数目始终与胞嘧啶相等",
+            "E．A+T 始终等于 G+C"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 93
+    },
+    {
+        "question_text": "94．DNA 的二级结构是指",
+        "options": [
+            "A．α-螺旋",
+            "B．β-片层",
+            "C．β-转角",
+            "D．双螺旋结构",
+            "E．超螺旋结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 94
+    },
+    {
+        "question_text": "95．下列关于核苷酸生理功能的叙述，错误的是",
+        "options": [
+            "A．作为生物界最主要的直接供能物质",
+            "B．作为辅酶的组成成分",
+            "C．作为质膜的基本结构成分",
+            "D．作为生理调节物质",
+            "E．多种核苷酸衍生物为生物合成过程中的中间物质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 95
+    },
+    {
+        "question_text": "96．ATP 的生理功能不包括",
+        "options": [
+            "A．为生物反应供能",
+            "B．合成 RNA",
+            "C．贮存化学能",
+            "D．作为底物合成 DNA",
+            "E．转变为 cAMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 96
+    },
+    {
+        "question_text": "97．DNA 分子中不包括",
+        "options": [
+            "A．磷酸二酯键",
+            "B．糖苷键",
+            "C．氢键",
+            "D．二硫键",
+            "E．疏水作用力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 97
+    },
+    {
+        "question_text": "98．下列关于真核生物 DNA 碱基的叙述哪项是错误的",
+        "options": [
+            "A．腺嘌呤与胸腺嘧啶相等",
+            "B．腺嘌呤与胸腺嘧啶间有两个氢键",
+            "C．鸟嘌呤与胞嘧啶相等",
+            "D．鸟嘌呤与胞嘧啶之间有三个氢键",
+            "E．营养不良可导致碱基数目明显减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 98
+    },
+    {
+        "question_text": "99．下列哪种核酸的二级结构为三叶草形",
+        "options": [
+            "A．mRNA",
+            "B．质粒 DNA",
+            "C．tRNA",
+            "D．线粒体 DNA",
+            "E．rRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 99
+    },
+    {
+        "question_text": "100．tRNA 的分子结构特征是",
+        "options": [
+            "A．含有密码环",
+            "B．含有反密码环",
+            "C．3′-末端有多聚 A",
+            "D．5′-末端有 CCA",
+            "E．DHU 环中含有假尿苷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 100
+    },
+    {
+        "question_text": "101．关于 rRNA 的叙述哪项是错误的",
+        "options": [
+            "A．是生物细胞中含量最多的 RNA",
+            "B．可与多种蛋白质构成核蛋白体",
+            "C．其前体来自于 hnRNA",
+            "D．不同的 rRNA 分子大小不同",
+            "E．原核和真核细胞的 rRNA 种类不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 101
+    },
+    {
+        "question_text": "102．有关 mRNA 的论述不正确的是",
+        "options": [
+            "A．mRNA 分子中含有生物遗传信息",
+            "B．mRNA 在生物细胞内种类最多",
+            "C．各种 mRNA3′末端和 5′末端都有相同的结构",
+            "D．mRNA 的碱基序列可以指导多肽链的合成",
+            "E．mRNA 的所有碱基都有编码氨基酸的作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 102
+    },
+    {
+        "question_text": "103．遗传密码子共有",
+        "options": [
+            "A．4 个",
+            "B．12 个",
+            "C．16 个",
+            "D．61 个",
+            "E．64 个"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 103
+    },
+    {
+        "question_text": "104．关于遗传密码的特征正确的是",
+        "options": [
+            "A．一个遗传密码子可编码多种氨基酸",
+            "B．密码子间有一个核苷酸间隔",
+            "C．一种氨基酸可有多个密码子",
+            "D．生物不同其遗传密码表也不同",
+            "E．所有密码子都代表不同的氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 104
+    },
+    {
+        "question_text": "105．下列关于 tRNA 的叙述，错误的是",
+        "options": [
+            "A．含有 IMP",
+            "B．含有 TMP",
+            "C．含有假尿嘧啶核苷酸",
+            "D．含有二氢尿嘧啶核苷酸",
+            "E．含有黄嘌呤核苷酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 105
+    },
+    {
+        "question_text": "106．下列关于 rRNA 的叙述哪项是正确的",
+        "options": [
+            "A．原核生物核蛋白体中有四种 rRNA，即 23s、16s、5s、5．8s",
+            "B．原核生物核蛋白体中有三种 rRNA，即 5s、18s、 5．8s",
+            "C．真核生物核蛋白体中有三种 rRNA，即 5s、16s、23s",
+            "D．真核生物核蛋白体中有四种 rRNA，即 5s、5．8s、18s、28s",
+            "E．原核和真核的核蛋白体有完全相同的 rRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 106
+    },
+    {
+        "question_text": "107．RNA 形成局部双螺旋时，其碱基配对原则是",
+        "options": [
+            "A．A-T,G-C",
+            "B．A-U,G-C",
+            "C．A-U,G-T",
+            "D．A-G,C-T",
+            "E．U-T,A-G"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 107
+    },
+    {
+        "question_text": "108．真核细胞染色质的基本结构单位是",
+        "options": [
+            "A．组蛋白",
+            "B．核心颗粒",
+            "C．核小体",
+            "D．超螺旋管",
+            "E．α-螺旋"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 108
+    },
+    {
+        "question_text": "109．不参与核小体核心颗粒的蛋白质是",
+        "options": [
+            "A．H1",
+            "B．H2A",
+            "C．H2B",
+            "D．H3",
+            "E．H4"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 109
+    },
+    {
+        "question_text": "110．组成核小体的是",
+        "options": [
+            "A．RNA 和组蛋白",
+            "B．RNA 和酸性蛋白质",
+            "C．DNA 和组蛋白",
+            "D．DNA 和酸性蛋白质",
+            "E．rRNA 和组蛋白"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 110
+    },
+    {
+        "question_text": "111．核酸的一级结构实质上就是",
+        "options": [
+            "A．多核苷酸链中的碱基排列顺序",
+            "B．多核苷酸链中的碱基配对关系",
+            "C．多核苷酸链中的碱基比例关系",
+            "D．多核苷酸链的盘绕、折叠方式",
+            "E．多核苷酸链之间的连接方式"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 111
+    },
+    {
+        "question_text": "112．下列关于核酸双螺旋结构的叙述错误的是",
+        "options": [
+            "A．双螺旋表面有一深沟和浅沟",
+            "B．双螺旋结构中上、下碱基对间存在碱基堆积力",
+            "C．双螺旋结构仅存在于 DNA 分子中",
+            "D．双螺旋结构也存在于 RNA 分子中",
+            "E．双螺旋结构区存在有碱基互补关系"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 112
+    },
+    {
+        "question_text": "113．核酸变性后可发生下列哪种变化",
+        "options": [
+            "A．减色效应",
+            "B．增色效应",
+            "C．紫外吸收能力丧失",
+            "D．溶液粘度增加",
+            "E．紫外吸收峰波长转移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 113
+    },
+    {
+        "question_text": "114．DNA 受热变性时",
+        "options": [
+            "A．在 260nm 波长处的吸光度下降",
+            "B．多核苷酸链断裂为寡核苷酸链",
+            "C．碱基对可形成氢键",
+            "D．溶液黏度明显增加",
+            "E．加入互补 RNA，冷却后可形成 DNA-RNA 杂交分子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 114
+    },
+    {
+        "question_text": "115．下列几种相同长度的 DNA 分子的碱基组成比例中，哪一种 DNA 的 Tm 值最低",
+        "options": [
+            "A．A-T 占 15%",
+            "B．G-C 占 25%",
+            "C．G-C 占 40%",
+            "D．A-T 占 80%",
+            "E．G-C 占 55%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 115
+    },
+    {
+        "question_text": "116．核酸分子杂交可发生在 DNA 和 RNA 之间、DNA 和DNA 之间，那么对于单链 DNA5′-CGGTA-3′，可以与下列哪一种 RNA 发生杂交",
+        "options": [
+            "A．5′-UACCG-3′",
+            "B．5′-GCCAU-3′",
+            "C．5′-GCCUU-3′",
+            "D．5′-AUCCG-3′",
+            "E．5′-UAGGC-3′"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 116
+    },
+    {
+        "question_text": "117．tRNA 的倒 L 型三级结构两端的功能部位分别是",
+        "options": [
+            "A．反密码环与氨基酸接受臂",
+            "B．反密码环与 DHU 环",
+            "C．氨基酸接受臂与 TφC 环",
+            "D．反密码环与额外环",
+            "E．DHU 环与额外环"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 117
+    },
+    {
+        "question_text": "118．tRNA 的三级结构是",
+        "options": [
+            "A．三叶草",
+            "B．双螺旋",
+            "C．倒 L 型",
+            "D．局部双螺旋",
+            "E．无规则卷曲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 118
+    },
+    {
+        "question_text": "119．自然界 DNA 以螺旋结构存在的主要方式",
+        "options": [
+            "A．A-DNA",
+            "B．B-DNA",
+            "C．GTC",
+            "D．E-DNA",
+            "E．Z-DNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "119",
+        "number": 119
+    }
+]

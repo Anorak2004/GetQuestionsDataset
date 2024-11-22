@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.安全范围是",
+        "options": [
+            "A.极量最小有效量间范围",
+            "B.最小中毒量与最小有效量间范围",
+            "C.治疗量与中毒量间范围",
+            "D.极量与中毒量间范围",
+            "E.95%有效量与5%中毒量间范围"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.质反应的量效曲线可以为用药提供何种参考",
+        "options": [
+            "A.药物的毒性性质",
+            "B.药物的疗效大小",
+            "C.药物的安全范围",
+            "D.药物的体内过程",
+            "E.药物的效价强度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.副作用是",
+        "options": [
+            "A.因病人有遗传缺陷而产生作用",
+            "B.药物应用不当而产生的作用",
+            "C.药物在治疗剂量下出现与治疗目的无关并可预料的作用",
+            "D.停药后出现的作用",
+            "E.不可预料的作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.安全性最大的药物是",
+        "options": [
+            "A.TI=20",
+            "B.TI=10",
+            "C.TI=15",
+            "D.TI=50",
+            "E.TI=25"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.受体激动剂的特点是",
+        "options": [
+            "A.对受体无亲和力,有内在活性",
+            "B.对受体有亲和力,有内在活性",
+            "C.对受体有亲和力,无内在活性",
+            "D.对受体无亲和力,无内在活性",
+            "E.促进传出神经末梢释放递质"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.药物产生副作用的药理学基础是",
+        "options": [
+            "A.用药剂量过大",
+            "B.血药浓度过高",
+            "C.药物作用选择性低",
+            "D.患者肝肾功能不良",
+            "E.患者反应性过高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.某药的量效曲线因受某种因素的影响平行右移时,表明",
+        "options": [
+            "A.作用点改变",
+            "B.作用机制改变",
+            "C.作用性质改变",
+            "D.效能改变",
+            "E.效价强度改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.药物的效价是指",
+        "options": [
+            "A.药物达到一定效应时所需的剂量",
+            "B.引起50%动物阳性反应的剂量",
+            "C.引起药理效应的最小剂量",
+            "D.治疗量的最大极限",
+            "E.药物的最大效应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.药物的下列哪种剂量会产生副作用",
+        "options": [
+            "A.治疗量",
+            "B.极量",
+            "C.中毒量",
+            "D.LD50",
+            "E.最小中毒量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于受体二态模型学说的叙述,下列哪项是错误的?",
+        "options": [
+            "A.拮抗药对R及R*的亲和力不等",
+            "B.受体蛋白有可以互变的构型状态,即静息态(R)和活动态(R*)",
+            "C.静息时平衡趋向于R",
+            "D.激动药只与R*有较大亲和力",
+            "E.部分激动药与R及R*都能结合,但对R*的亲和力大于对R的亲和力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

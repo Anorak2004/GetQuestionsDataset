@@ -1,0 +1,968 @@
+[
+    {
+        "question_text": "1.麻醉的概念是",
+        "options": [
+            "A.镇静",
+            "B.睡眠",
+            "C.无痛",
+            "D.肌松",
+            "E.整个或部分机体暂时失去感觉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 1
+    },
+    {
+        "question_text": "2.中国古代首先用全麻行剖腹产术的是",
+        "options": [
+            "A.扁鹊",
+            "B.华佗",
+            "C.王焘",
+            "D.孙思邈",
+            "E.李时珍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 2
+    },
+    {
+        "question_text": "3.中国古代最著名的麻醉药是",
+        "options": [
+            "A.大麻",
+            "B.乌头",
+            "C.草乌散",
+            "D.莨菪子",
+            "E.麻弗散"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 3
+    },
+    {
+        "question_text": "4.中国最早的一部比较完整的针灸专著是",
+        "options": [
+            "A.皇帝内经",
+            "B.难经",
+            "C.针灸",
+            "D.甲乙经",
+            "E."
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 4
+    },
+    {
+        "question_text": "5.中国最早用于急救的口对口吹气法见于古书",
+        "options": [
+            "A.肘后备急方",
+            "B.金匮要略方",
+            "C.普救类方",
+            "D.皇帝内经",
+            "E.广惠普救方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 5
+    },
+    {
+        "question_text": "6.世界上第一个有麻醉医师协会的国家是",
+        "options": [
+            "A.美国",
+            "B.英国",
+            "C.德国",
+            "D.法国",
+            "E.中国"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 6
+    },
+    {
+        "question_text": "7.我国卫生部把麻醉科定为与内、外科相并列的一级临床科室是在",
+        "options": [
+            "A.1997年",
+            "B.1985年",
+            "C.1989年",
+            "D.1992年",
+            "E.1995年"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 7
+    },
+    {
+        "question_text": "8.临床麻醉学属于",
+        "options": [
+            "A.一级学科",
+            "B.二级学科",
+            "C.三级学科",
+            "D.四级学科",
+            "E.五级学科"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 8
+    },
+    {
+        "question_text": "9.首先使用的麻醉药是",
+        "options": [
+            "A.丁卡因",
+            "B.普鲁卡因",
+            "C.利多卡因",
+            "D.布比卡因",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 9
+    },
+    {
+        "question_text": "10.“吸入麻醉药的一次革命是指那种药的应用",
+        "options": [
+            "A.恩氟烷",
+            "B.异氟烷",
+            "C.氟烷",
+            "D.七氟烷",
+            "E.地氟烷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 10
+    },
+    {
+        "question_text": "11.现代麻醉学包括以下内容，哪项最正确",
+        "options": [
+            "A.临床麻醉",
+            "B.麻醉后恢复及ICU",
+            "C.急救与复苏",
+            "D.临床疼痛治疗",
+            "E.以上全部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 11
+    },
+    {
+        "question_text": "12.临床麻醉人员编制一般应为（手术台与麻醉人员的比例）",
+        "options": [
+            "A.1:0.5?1",
+            "B.1:1?1.5",
+            "C.1:1.5?2",
+            "D.1:2?2.5",
+            "E.1:3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 12
+    },
+    {
+        "question_text": "13.全麻药作用的疏水部位下列何项表达最全面",
+        "options": [
+            "A.脂质内部的疏水基质",
+            "B.基质与蛋白质之间的疏水界面",
+            "C.蛋白质表面叠曲形成的疏水腔孔",
+            "D.暴露于水相中蛋白质的疏水区",
+            "E.以上全部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 13
+    },
+    {
+        "question_text": "14.麻药在中枢神经的宏观作用部位是下述哪项",
+        "options": [
+            "A.脑干网状结构",
+            "B.中脑结构",
+            "C.大脑皮质",
+            "D.脊髓背角",
+            "E.以上全部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 14
+    },
+    {
+        "question_text": "15.导致全身麻醉最重要的通道是",
+        "options": [
+            "A.AMPA受体通道",
+            "B.n-乙酰胆碱受体通道",
+            "C.AGBAA受体通道",
+            "D.电压门控Ca2+通道",
+            "E.电压门控Na+通道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 15
+    },
+    {
+        "question_text": "16.屏气实验值是床旁简易判断病人心肺功能的指标之一，其正常值下述哪项正确",
+        "options": [
+            "A.大于50秒",
+            "B.大于30秒",
+            "C.大于20秒",
+            "D.大于10秒",
+            "E.小于30秒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 16
+    },
+    {
+        "question_text": "17.吸入麻醉药最主要是影响乙酰胆碱的生物过程的哪一环节",
+        "options": [
+            "A.影响乙酰胆的降解",
+            "B.抑制乙酰胆碱的摄取",
+            "C.抑制乙酰胆碱的活性",
+            "D.减少乙酰胆碱的释放",
+            "E.加速乙酰胆碱的摄取"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项因素为老年人MAC减低的主要原因",
+        "options": [
+            "A.中枢神经系统对吸入麻醉药的抑制效应敏感性增强",
+            "B.主要与脑组织含水量少有关",
+            "C.主要与脑耗氧量减少有关",
+            "D.主要与代谢率降低有关",
+            "E.主要与中枢神经系统分布不均有关"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 18
+    },
+    {
+        "question_text": "19.最先用于临床的静脉全麻药及年限是",
+        "options": [
+            "A.硫喷妥钠，1932年",
+            "B.环己巴比妥钠，1932年",
+            "C.普尔安，1956年",
+            "D.氯胺酮，1965年",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 19
+    },
+    {
+        "question_text": "20.和吸入麻醉药相比，静脉麻醉药最突出的优点是",
+        "options": [
+            "A.效能强",
+            "B.镇痛效果好",
+            "C.起效快",
+            "D.苏醒快",
+            "E.并发症少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 20
+    },
+    {
+        "question_text": "21.经过多少个半衰期可以认为静脉麻醉药基本排除",
+        "options": [
+            "A.1?2个",
+            "B.2-3个",
+            "C.4?5个",
+            "D.7?8个",
+            "E.10个以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列哪种静脉麻醉药作用时间最短，清醒后定向力、自我感觉与判断力均恢复正常",
+        "options": [
+            "A.异丙酚",
+            "B.普尔安",
+            "C.氯胺酮",
+            "D.依托米脂",
+            "E.硫喷安钠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 22
+    },
+    {
+        "question_text": "23.窦性心动过速患者宜选用哪种药物作全麻辅助药物",
+        "options": [
+            "A.氯胺酮",
+            "B.硫喷安钠",
+            "C.r-OH",
+            "D.依托米脂",
+            "E.异丙酚"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 23
+    },
+    {
+        "question_text": "24.局麻药中毒、破伤风、癫痫和高热引起的痉挛和惊厥可使用下列那种静脉麻醉药",
+        "options": [
+            "A.氯胺酮",
+            "B.r-OH",
+            "C.硫喷安钠",
+            "D.依托米脂",
+            "E.明醇酮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 24
+    },
+    {
+        "question_text": "25.异丙酚引起低血压的主要原因为",
+        "options": [
+            "A.抑制心血管中枢",
+            "B.降低外周血管阻力",
+            "C.抑制心肌收缩性",
+            "D.兴奋迷走神经",
+            "E.阻断交感神经或拮抗受体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 25
+    },
+    {
+        "question_text": "26.静注等效剂量时，下列哪种药物对心肌收缩抑制作用最强",
+        "options": [
+            "A.异丙酚",
+            "B.硫喷安钠",
+            "C.依托米脂",
+            "D.氯胺酮",
+            "E.r-OH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 26
+    },
+    {
+        "question_text": "27.目前静脉麻醉药作用时间最长者是",
+        "options": [
+            "A.r-OH异丙酚",
+            "B.乙咪脂",
+            "C.普尔安",
+            "D.安泰酮",
+            "E.明醇酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 27
+    },
+    {
+        "question_text": "28.静脉全麻药按照其化学性质分成哪两大类",
+        "options": [
+            "A.巴比妥类和苯环己哌啶类",
+            "B.甾类和苯环己哌啶类",
+            "C.咪唑类和阿片类",
+            "D.巴比妥类和非巴比妥类",
+            "E.羟基酸盐类和巴比妥类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列那种全麻药公认具有镇痛作用",
+        "options": [
+            "A.硫喷妥钠",
+            "B.氯胺酮",
+            "C.异丙酚",
+            "D.乙咪脂",
+            "E.r-OH"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 29
+    },
+    {
+        "question_text": "30.术后苏醒最快的静脉麻醉药是",
+        "options": [
+            "A.异丙酚",
+            "B.硫喷妥钠",
+            "C.甲乙炔巴比妥钠",
+            "D.氯胺酮",
+            "E.r-OH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 30
+    },
+    {
+        "question_text": "31.吸空气时PVO2应是",
+        "options": [
+            "A.20mmHg",
+            "B.30mmHg",
+            "C.40mmHg",
+            "D.50mmHg",
+            "E.60mmHg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 31
+    },
+    {
+        "question_text": "32.吸纯氧（如气管插管全麻中）时、肺活量PVO2应是",
+        "options": [
+            "A.26mmHg",
+            "B.30mmHg",
+            "C.36mmHg",
+            "D.40mmHg",
+            "E.46mmHg"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 32
+    },
+    {
+        "question_text": "33.心跳骤停早期诊断的重要依据是",
+        "options": [
+            "A.神志突然消失",
+            "B.大动脉搏动消失",
+            "C.呼吸停止",
+            "D.抽搐",
+            "E.紫绀"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 33
+    },
+    {
+        "question_text": "34.应用何种药物是清醒期高血压的原因",
+        "options": [
+            "A.纳络酮",
+            "B.新斯的明",
+            "C.鱼精蛋白",
+            "D.抗生素",
+            "E.普奈洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 34
+    },
+    {
+        "question_text": "35.血氧饱和度是指",
+        "options": [
+            "A.血液中溶解量与总氧量的比值",
+            "B.Hb结合的氧量与所能结合的最大量的比值",
+            "C.Hb结合氧与未结合氧量的比值",
+            "D.Hb结合氧与Hb总量的比值",
+            "E.未结合氧的Hb量与Hb总量的比值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪项肺功能检查结果符合阻塞性通气障碍",
+        "options": [
+            "A.VC减低或正常",
+            "B.RV增加",
+            "C.TCL正常或增加",
+            "D.FEV1/FCV减低",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 36
+    },
+    {
+        "question_text": "37.肺功能实验中，下列哪一项需要患者的配合和能力才能测得",
+        "options": [
+            "A.最大弥散功能",
+            "B.双侧肺充分膨胀",
+            "C.隔肌的最大运动度",
+            "D.最大通气功能",
+            "E.肺血流惯性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 37
+    },
+    {
+        "question_text": "38.有关肺活量的描述，下面哪项是正确的",
+        "options": [
+            "A.在1分钟内能呼吸的气量",
+            "B.最大呼气后肺内的余气量",
+            "C.能够吸进的气量",
+            "D.在1分钟内能呼出的气量",
+            "E.在最大的吸气后能够排出的气量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 38
+    },
+    {
+        "question_text": "39.肺总容量等于",
+        "options": [
+            "A.肺活量+无效腔",
+            "B.肺活量+功能余气量",
+            "C.肺活量+余气量",
+            "D.潮气量+补呼气量",
+            "E.约等于3L"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 39
+    },
+    {
+        "question_text": "40.临床上所谓高位腰麻是指阻滞平面达",
+        "options": [
+            "A.T10",
+            "B.T8",
+            "C.T6",
+            "D.T4",
+            "E.T2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 40
+    },
+    {
+        "question_text": "41.成人发生局麻药中毒反应，已有抽搐或惊厥现象，下列处理最正确的是",
+        "options": [
+            "A.氯胺酮20mg静注",
+            "B.苯巴比妥钠0.1g肌注",
+            "C.地西泮5mg肌注",
+            "D.2.5%硫喷妥钠3?8ml静注",
+            "E.苯妥英钠125mg肌注"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 41
+    },
+    {
+        "question_text": "42.应用何种药物是清醒期高血压的原因",
+        "options": [
+            "A.纳络酮",
+            "B.新斯的明",
+            "C.鱼精蛋白",
+            "D.抗生素",
+            "E.普奈洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪种麻醉药增加颅内压",
+        "options": [
+            "A.氯胺酮",
+            "B.硫喷妥钠",
+            "C.异丙酚",
+            "D.依托米脂",
+            "E.米达唑仑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪种物质可形成半抗原",
+        "options": [
+            "A.离子化合物",
+            "B.苯胺化合物",
+            "C.对氨基化合物",
+            "D.氨基化合物",
+            "E.羟基化合物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 44
+    },
+    {
+        "question_text": "45.肾上腺素与局麻药的浓度比应为",
+        "options": [
+            "A.1:40000",
+            "B.1:80000",
+            "C.1:200000",
+            "D.1:300000",
+            "E.1:400000"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 45
+    },
+    {
+        "question_text": "46.表面麻醉最常用的药物是",
+        "options": [
+            "A.可卡因",
+            "B.利多卡因",
+            "C.丁卡因",
+            "D.布比卡因",
+            "E.普鲁卡因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 46
+    },
+    {
+        "question_text": "47.能在一定时间内阻滞神经纤维冲动传导所需的局麻药的最低浓度为",
+        "options": [
+            "A.局麻药有效浓度",
+            "B.局麻药的最低中毒浓度",
+            "C.局麻药的最低麻醉浓度",
+            "D.局麻药作用于神经纤维最大浓度",
+            "E.局麻药的标准浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 47
+    },
+    {
+        "question_text": "48.下列哪种局麻药收缩血管作用最强",
+        "options": [
+            "A.普鲁卡因",
+            "B.可卡因",
+            "C.氯普鲁卡因",
+            "D.地布卡因",
+            "E.丁卡因"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 48
+    },
+    {
+        "question_text": "49.作用持续时间最长的局麻药为",
+        "options": [
+            "A.普鲁卡因酰胺",
+            "B.地布卡因",
+            "C.卡波卡因",
+            "D.丁吡卡因",
+            "E.丙胺卡因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 49
+    },
+    {
+        "question_text": "50.局部麻醉药的局麻作用主要是通过下述哪一项实现",
+        "options": [
+            "A.生物碱本身的作用",
+            "B.有机酸的作用",
+            "C.游离基的作用?",
+            "D.环氧化物的作用",
+            "E.在组织内的慢性水解作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 50
+    },
+    {
+        "question_text": "51.局麻药的作用机制主要是",
+        "options": [
+            "A.阻断钙离子通道",
+            "B.阻断钠离子通道",
+            "C.阻断钾离子通道",
+            "D.阻断镁离子通道",
+            "E.阻断氢离子通道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 51
+    },
+    {
+        "question_text": "52.神经纤维对局麻药的敏感性与神经纤维断面的直径有无关系",
+        "options": [
+            "A.成反比",
+            "B.成正比",
+            "C.无关",
+            "D.无明显比例关系",
+            "E.等比"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 52
+    },
+    {
+        "question_text": "53.成人用1%的丁卡因行表面麻醉时每次用量不超过",
+        "options": [
+            "A.20mg",
+            "B.40mg",
+            "C.80mg",
+            "D.120mg",
+            "E.160mg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 53
+    },
+    {
+        "question_text": "54.以下局麻药毒性最大的是",
+        "options": [
+            "A.0.5%普鲁卡因100ml",
+            "B.2%普鲁卡因25ml",
+            "C.1%普鲁卡因50ml",
+            "D.1%利多卡因10ml",
+            "E.2%利多卡因5ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 54
+    },
+    {
+        "question_text": "55.硫喷妥钠的绝对禁忌症是",
+        "options": [
+            "A.咼血压患者",
+            "B.脑外伤昏迷患者",
+            "C.颅高压患者",
+            "D.紫质症患者",
+            "E.饱胃患者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 55
+    },
+    {
+        "question_text": "56.局麻药中毒最早期的表现为肌肉颤动，最常见的部位是",
+        "options": [
+            "A.背部肌肉",
+            "B.腹部",
+            "C.颜面部",
+            "D.局部和胸部",
+            "E.躯干"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 56
+    },
+    {
+        "question_text": "57.下列哪一种是长效局麻药",
+        "options": [
+            "A.普鲁卡因",
+            "B.利多卡因",
+            "C.甲哌卡因",
+            "D.丙胺卡因",
+            "E.布比卡因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 57
+    },
+    {
+        "question_text": "58.药物的解离常数用下列那种符号表示",
+        "options": [
+            "A.pH",
+            "B.pK",
+            "C.pHa",
+            "D.pKa",
+            "E.logpKA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 58
+    },
+    {
+        "question_text": "59.据统计，局麻药不良反应中变态反应的发生率",
+        "options": [
+            "A.2%",
+            "B.5%",
+            "C.10%",
+            "D.15%",
+            "E.20%"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 59
+    },
+    {
+        "question_text": "快速耐药性是下面哪项",
+        "options": [
+            "A.神经阻滞效能减弱",
+            "B.出现神经效能减弱",
+            "C.出现神经阻滞效能增加",
+            "D.出现神经阻滞效能增加",
+            "E.出现神经阻滞效能改变"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 60
+    },
+    {
+        "question_text": "61.关于局麻药的毒性，下面哪项是对的",
+        "options": [
+            "A.丁卡因溶液的毒性比普鲁卡因溶液小",
+            "B.地布卡因溶液的毒性与普鲁卡因溶液相似",
+            "C.1%利多卡因溶液毒性与1%普鲁卡因溶液毒性相似",
+            "D.2%利多卡因溶液毒性比2%普鲁卡因溶液毒性大1倍",
+            "E.0.75%布比卡因溶液毒性与1%普鲁卡因溶液毒性相似"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 61
+    },
+    {
+        "question_text": "62.使用不含肾上腺素的利多卡因，成人单次剂量是",
+        "options": [
+            "A.300mg",
+            "B.400mg",
+            "C.450mg",
+            "D.500mg",
+            "E.550mg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 62
+    },
+    {
+        "question_text": "63.下面哪种局麻药属于酰胺类",
+        "options": [
+            "A.普鲁卡因",
+            "B.氯普鲁卡因",
+            "C.利多卡因",
+            "D.丁卡因",
+            "E.可卡因"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 63
+    },
+    {
+        "question_text": "64.下面哪种局麻药属于脂类",
+        "options": [
+            "A.利多卡因",
+            "B.甲哌卡因",
+            "C.布比卡因",
+            "D.罗比卡因",
+            "E.氯普鲁卡因"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 64
+    },
+    {
+        "question_text": "65.影响局麻药弥散的最重要的屏障是",
+        "options": [
+            "A.神经内膜",
+            "B.神经束膜",
+            "C.周膜",
+            "D.神经外膜",
+            "E.髓鞘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 65
+    },
+    {
+        "question_text": "66.哪种局麻药最容易通过胎盘屏障，使胎儿脐静脉血药浓度较母体略高",
+        "options": [
+            "A.丁卡因",
+            "B.利多卡因",
+            "C.甲哌卡因",
+            "D.丙胺卡因",
+            "E.布比卡因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 66
+    },
+    {
+        "question_text": "67.局麻药实用浓度较理论上最低麻醉浓度",
+        "options": [
+            "A.基本相等",
+            "B.大1倍左右",
+            "C.大3倍左右",
+            "D.大5倍左右",
+            "E.大7倍左右"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 67
+    },
+    {
+        "question_text": "68.注射相同剂量而浓度不同的局麻药，血内浓度明显不同的是",
+        "options": [
+            "A.普鲁卡因",
+            "B.利多卡因",
+            "C.丁卡因",
+            "D.甲哌卡因",
+            "E.布比卡因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 68
+    },
+    {
+        "question_text": "69.目前国内麻醉医生最常用的麻醉方法是",
+        "options": [
+            "A.局麻",
+            "B.针麻",
+            "C.脊麻",
+            "D.硬膜外麻醉",
+            "E.气管内插管麻醉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "69",
+        "number": 69
+    }
+]

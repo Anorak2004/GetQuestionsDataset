@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.遗传异常主要表现在:",
+        "options": [
+            "A.对药物肾脏排泄的异常",
+            "B.对药物体内转化的异常",
+            "C.对药物体内分布的异常",
+            "D.对药物胃肠吸收的异常",
+            "E.对药物引起的效应异常"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.患者长期服用口服避孕药后失效,可能是因为:",
+        "options": [
+            "A.同时服用肝药酶诱导剂",
+            "B.同时服用肝药酶抑制剂",
+            "C.产生耐受性",
+            "D.产生耐药性",
+            "E.首关消除改变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.影响药动学相互作用的方式不包括:",
+        "options": [
+            "A.肝脏生物转化",
+            "B.吸收",
+            "C.血浆蛋白结合",
+            "D.排泄",
+            "E.生理性拮抗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.安慰剂是一种:",
+        "options": [
+            "A.可以增加疗效的药物",
+            "B.阳性对照药",
+            "C.口服制剂",
+            "D.使病人在精神上得到鼓励和安慰的药物",
+            "E.不具有药理活性的剂型"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.药物滥用是指:",
+        "options": [
+            "A.医生用药不当",
+            "B.未掌握药物适应症",
+            "C.大量长期使用某种药物",
+            "D.无病情根据的长期自我用药",
+            "E.采用不恰当的剂量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.药物的配伍禁忌是指",
+        "options": [
+            "A.吸收后和血浆蛋白结合",
+            "B.体外配伍过程中发生的物理和化学变化",
+            "C.肝药酶活性的抑制",
+            "D.两种药物在体内产生拮抗作用",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.长期应用某药后需要增加剂量才能奏效,这种现象称为:",
+        "options": [
+            "A.耐药性",
+            "B.耐受性",
+            "C.成瘾性",
+            "D.习惯性",
+            "E.适应性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.利用药物在肝脏的代谢",
+        "options": [
+            "A.增加药物在肝脏的代谢",
+            "B.增加药物在受体水平的拮抗",
+            "C.增加药物的吸收",
+            "D.增加药物的排泄",
+            "E.增加药物的疗效"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.刺激性强、渗透压高的溶液常采用的给药途径是：",
+        "options": [
+            "A.静脉注射",
+            "B.肌内注射",
+            "C.口服",
+            "D.皮下注射",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列药物中常用舌下给药的是：",
+        "options": [
+            "A.阿司匹林",
+            "B.硝酸甘油",
+            "C.维拉帕米",
+            "D.链霉素",
+            "E.苯妥英钠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.某患者应用药物时，必须应用比一般人更大些的剂量才呈现有的效应，这是因为产生了：",
+        "options": [
+            "A.耐受性",
+            "B.依赖性",
+            "C.高敏性",
+            "D.成瘾性",
+            "E.过敏性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.紧急治病，应采用的给药方式是：",
+        "options": [
+            "A.静脉注射",
+            "B.肌内注射",
+            "C.口服",
+            "D.皮下注射",
+            "E.外敷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.安慰剂是:",
+        "options": [
+            "A.治疗用的主药",
+            "B.治疗用的辅助药剂",
+            "C.用作参考比较的标准治疗药剂",
+            "D.不含活性药物的制剂",
+            "E.是色香味均佳,令病人高兴的药剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.合理用药需了解:",
+        "options": [
+            "A.药物作用与副作用",
+            "B.药物的毒性与安全范围",
+            "C.药物的效价与效能",
+            "D.药物的t1/2与消除途径",
+            "E.以上都需要"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.短期内应用数次麻黄碱后其效应降低,属于:",
+        "options": [
+            "A.习惯性",
+            "B.快速耐受性",
+            "C.成瘾性",
+            "D.耐药性",
+            "E.依赖性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.先天性遗传异常对药物动力学影响主要表现在",
+        "options": [
+            "A.口服吸收速度不同",
+            "B.药物体内生物转化异常",
+            "C.药物体内分布差异",
+            "D.肾排泄速度",
+            "E.肠道排泄速度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.对肝功能不良患者应用药物时,应着重考虑患者的:",
+        "options": [
+            "A.对药物的转运能力",
+            "B.对药物的吸收能力",
+            "C.对药物排泄能力",
+            "D.对药物转化能力",
+            "E.以上都不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.决定药物每日用药次数的主要因素是",
+        "options": [
+            "A.吸收快慢",
+            "B.作用强弱",
+            "C.体内分布速度",
+            "D.体内转化速度",
+            "E.体内消除速度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.联合应用两种药物,其总的作用大于各药单独作用的代数和,这种作用叫做:",
+        "options": [
+            "A.增强作用",
+            "B.相加作用",
+            "C.协同作用",
+            "D.互补作用",
+            "E.拮抗作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.反复应用药物后,人体对药物的敏感性降低,称为:",
+        "options": [
+            "A.习惯性",
+            "B.成瘾性",
+            "C.依赖性",
+            "D.耐受性",
+            "E.耐药性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

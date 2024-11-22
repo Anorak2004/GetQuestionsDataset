@@ -1,0 +1,184 @@
+[
+    {
+        "question_text": "1.抢救有机磷酸酯类中度以上中毒,最好应当使用",
+        "options": [
+            "A.阿托品",
+            "B.解磷定",
+            "C.解磷定和简箭毒碱",
+            "D.解磷定和阿托品",
+            "E.阿托品和筒箭毒碱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 1
+    },
+    {
+        "question_text": "3.无镇静作用的H1受体阻断药是",
+        "options": [
+            "A.苯海拉明",
+            "B.扑尔敏",
+            "C.安其敏",
+            "D.苯茚胺",
+            "E."
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 2
+    },
+    {
+        "question_text": "4.毒扁豆残用于去神经的眼,产生的效应是",
+        "options": [
+            "A.瞳孔散大",
+            "B.瞳孔缩小",
+            "C.脆孔无变化",
+            "D.眼压升高",
+            "E.调节麻痹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 3
+    },
+    {
+        "question_text": "5.是属于H2受体阻断药是",
+        "options": [
+            "A.苯海拉明",
+            "B.异丙嗪",
+            "C.扑尔敏",
+            "D.西米替丁",
+            "E.氯苯丁嗪(安其敏)"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 4
+    },
+    {
+        "question_text": "6.西米替丁治疗十二指肠溃疡的机制为",
+        "options": [
+            "A.中和过多的胃酸",
+            "B.能吸附胃酸,并降低胃液酸度",
+            "C.阻断胃腺壁细胞上的组技H1受体,抑制胃酸分泌",
+            "D.阻断胃腺壁细胞上的组胺H2受体,抑制胃酸分泌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 5
+    },
+    {
+        "question_text": "7.有机酸酯类中毒症状中,不属M样症状的是",
+        "options": [
+            "A.瞳孔缩小",
+            "B.流涎流泪流汗",
+            "C.腹痛腹泻",
+            "D.肌颤",
+            "E.小便失禁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 6
+    },
+    {
+        "question_text": "8.新斯的明在临床上的主要用途是",
+        "options": [
+            "A.阵发性室上性心动过速",
+            "B.阿托品中毒",
+            "C.青光眼",
+            "D.重症肌无力",
+            "E.机械性肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 7
+    },
+    {
+        "question_text": "9.新斯的明对下列效应器兴奋作用最强的是",
+        "options": [
+            "A.心血管",
+            "B.腺体",
+            "C.眼",
+            "D.骨骼肌",
+            "E.支气管平滑肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 8
+    },
+    {
+        "question_text": "10.扑尔敏是",
+        "options": [
+            "A.H1-受体阻断药",
+            "B.H2-受体阻断药",
+            "C.镇静催眠药",
+            "D.抗喘药",
+            "E.镇咳药"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 9
+    },
+    {
+        "question_text": "11.组胺H1受体阻断药对下列哪种与变态反应有关的疾病最有效",
+        "options": [
+            "A.过敏性结肠炎",
+            "B.过敏性休克",
+            "C.支气管哮喘",
+            "D.过敏性皮疹",
+            "E.风湿热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 10
+    },
+    {
+        "question_text": "12.不属于H1-受体阻断药者是",
+        "options": [
+            "A.氯丙嗪",
+            "B.异丙嗪",
+            "C.氨苯吡胺(扑尔敏",
+            "D.苯海拉明",
+            "E."
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 11
+    },
+    {
+        "question_text": "13.苯海拉明不具备的药理作用是",
+        "options": [
+            "A.镇静",
+            "B.抗过敏",
+            "C.催眠",
+            "D.减少胃酸分泌",
+            "E.防晕动"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 12
+    },
+    {
+        "question_text": "14.通过阻断H2-受体减少胃酸分泌的药物是",
+        "options": [
+            "A.苯海拉明",
+            "B.碳酸钙",
+            "C.胃复康",
+            "D.雷尼替丁",
+            "E.异丙阿托品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 13
+    }
+]

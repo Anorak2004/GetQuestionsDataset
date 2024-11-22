@@ -1,0 +1,898 @@
+[
+    {
+        "question_text": "1.不减少重要器官血流量,不影响脂肪和糖代谢的降压药物是:",
+        "options": [
+            "A.拉贝洛尔",
+            "B.可乐定",
+            "C.依那普利",
+            "D.普萘洛尔",
+            "E.米诺地尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 1
+    },
+    {
+        "question_text": "2.高血压伴有糖尿病的病人不宜用:",
+        "options": [
+            "A.噻嗪类",
+            "B.血管扩张药",
+            "C.血管紧张素转化酶抑制剂",
+            "D.神经节阻断药",
+            "E.中枢降压药"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列哪种药物不宜用于伴有心绞痛病史的病人:",
+        "options": [
+            "A.肼屈嗪",
+            "B.可乐定",
+            "C.利血平",
+            "D.甲基多巴",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 3
+    },
+    {
+        "question_text": "4.卡托普利等ACEI药理作用是:",
+        "options": [
+            "A.抑制循环中血管紧张素I转化酶",
+            "B.抑制局部组织中血管紧张素转化酶",
+            "C.减少缓激肽的释放",
+            "D.引起NO的释放",
+            "E.以上都是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 4
+    },
+    {
+        "question_text": "5.可作为吗啡成瘾者戒毒的抗高血压药物是:",
+        "options": [
+            "A.可乐定",
+            "B.甲基多巴",
+            "C.利血平",
+            "D.胍乙啶",
+            "E.硝普钠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 5
+    },
+    {
+        "question_text": "6.吲哚美辛可减弱卡托普利的降压效应,,此与",
+        "options": [
+            "A.抑制前列腺素合成有关",
+            "B.增加前列腺素合成有关",
+            "C.增加肾素分泌有关",
+            "D.抑制肾素分泌有关",
+            "E.抑制转肽酶有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 6
+    },
+    {
+        "question_text": "7.哌唑嗪引起降压反应时较少引起心率加快原因:",
+        "options": [
+            "A.抗α1及β受体",
+            "B.抗α2受体",
+            "C.抗α1及α2受体",
+            "D.抗α1受体，不抗α2受体",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗伴有溃疡病的高血压病人首选:",
+        "options": [
+            "A.利血平",
+            "B.可乐定",
+            "C.甲基多巴",
+            "D.肼屈嗪",
+            "E.米诺地尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列抗高血压药中,哪药物易引起踝部水肿:",
+        "options": [
+            "A.维拉帕米",
+            "B.地尔硫卓",
+            "C.粉防己碱",
+            "D.硝苯地平",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 9
+    },
+    {
+        "question_text": "10.对肾功能不良的高血压病人最好选用:",
+        "options": [
+            "A.利血平",
+            "B.可乐定",
+            "C.普萘洛尔",
+            "D.硝普钠",
+            "E.肌乙啶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 10
+    },
+    {
+        "question_text": "11.治疗高血压危象可首选:",
+        "options": [
+            "A.利血平",
+            "B.胍乙啶",
+            "C.硝普钠",
+            "D.甲基多巴",
+            "E.氢氯嚓嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 11
+    },
+    {
+        "question_text": "12.肼屈嗪和下列哪种药物合用既可增加降压效果又可减轻心悸不良反应:",
+        "options": [
+            "A.二氮嗪",
+            "B.米诺地尔",
+            "C.哌唑嗪",
+            "D.普萘洛尔",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 12
+    },
+    {
+        "question_text": "13.高血压伴稳定型心绞痛病人宜选用:",
+        "options": [
+            "A.硝苯地平",
+            "B.普萘洛尔",
+            "C.肼屈嗪",
+            "D.氢氯噻嗪",
+            "E.卡托普利"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 13
+    },
+    {
+        "question_text": "14.可乐定长期使用后突然停药可能出现血压突然升高与下列机制有关:",
+        "options": [
+            "A.突触后膜α1受体数目增多",
+            "B.突触后膜α1受体敏感性增加",
+            "C.中枢发放的交感冲动增加",
+            "D.突触前膜α2受体敏感性降低,负反馈减弱",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 14
+    },
+    {
+        "question_text": "15.在长期用药的过程中,突然停药易引起严重高血压,这种药物最可能是:",
+        "options": [
+            "A.哌唑嗪",
+            "B.肼尼嗪",
+            "C.普萘洛尔",
+            "D.甲基多巴",
+            "E.利血平"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 15
+    },
+    {
+        "question_text": "16.静脉注射较大剂量可引起血压短暂升高的降压药是",
+        "options": [
+            "A.哌唑嗪",
+            "B.甲基多巴",
+            "C.二氮嗪",
+            "D.肼屈嗪",
+            "E.可乐定"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 16
+    },
+    {
+        "question_text": "17.卡托普利可引起下列何种离子缺乏:",
+        "options": [
+            "A.K+",
+            "B.Fe2+",
+            "C.Ca2+",
+            "D.Mg2+",
+            "E.Zn2+"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪种药物可加重糖尿病病人由胰岛素引起的低血糖反应:",
+        "options": [
+            "A.肼屈嗪",
+            "B.哌唑嗪",
+            "C.普萘洛尔",
+            "D.硝苯地平",
+            "E.米诺地尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 18
+    },
+    {
+        "question_text": "19.肾性高血压宜选用:",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.硝苯地平",
+            "C.美托洛尔",
+            "D.哌唑嗪",
+            "E.卡托普利"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 19
+    },
+    {
+        "question_text": "20.哌唑嗪降低血压不引起心率加快的原因:",
+        "options": [
+            "A.阻断α1受体而不阻断α2受体",
+            "B.阻断α1受体与α2受体",
+            "C.阻断α1受体与β受体",
+            "D.阻断α2受体",
+            "E.阻断M受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 20
+    },
+    {
+        "question_text": "21.伴有肾功能不良的高血压患者宜选用",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.利血平",
+            "C.胍乙啶",
+            "D.肼屈嗪",
+            "E.卡托普利"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 21
+    },
+    {
+        "question_text": "22.伴消化性溃疡的高血压患者宜选用:",
+        "options": [
+            "A.甲基多巴",
+            "B.可乐定",
+            "C.肼屈嗪",
+            "D.利血平",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 22
+    },
+    {
+        "question_text": "23.关于米诺地尔错误的叙述是:",
+        "options": [
+            "A.开放钾通道",
+            "B.增加细胞内游离Ca2+水平",
+            "C.反射性心率加快",
+            "D.引起水钠潴留",
+            "E.主要用于严重的原发性高血压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列关于卡托普利,错误的叙述项是:",
+        "options": [
+            "A.降低外周血管阻力",
+            "B.可用于治疗慢性心功能不全",
+            "C.与利尿药合用可增强其降压作用",
+            "D.可增加体内醛固酮水平",
+            "E.双侧肾动脉狭窄的患者忌用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 24
+    },
+    {
+        "question_text": "25.可乐定的降压机制:",
+        "options": [
+            "A.激动中枢的I1-咪唑啉受体",
+            "B.激动中枢的α1受体",
+            "C.阻断中枢的α2受体",
+            "D.阻断中枢的α1受体",
+            "E.激动中枢M受体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 25
+    },
+    {
+        "question_text": "26.长期使用利尿药的降压机制主要是",
+        "options": [
+            "A.排Na+利尿,降低血容量",
+            "B.降低血浆肾素活性",
+            "C.增加血浆肾素活性",
+            "D.减少小动脉壁细胞内Na",
+            "E.抑制醛固酮分泌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 26
+    },
+    {
+        "question_text": "27.用于高血压危象伴心衰的降压药物是",
+        "options": [
+            "A.肼屈嗪",
+            "B.米诺地尔",
+            "C.硝普钠",
+            "D.普萘洛尔",
+            "E.拉贝洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 27
+    },
+    {
+        "question_text": "28.有关硝普钠的描述哪一点是错误的",
+        "options": [
+            "A.松弛小动脉和小静脉",
+            "B.可治疗高血压危象",
+            "C.遇光易破坏",
+            "D.起效快但作用持续时间短暂",
+            "E.口服静脉注射均可"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列哪种药物可增加体内前列腺素合成",
+        "options": [
+            "A.利血平",
+            "B.卡托普利",
+            "C.可乐定",
+            "D.洛沙坦",
+            "E.二氮嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪项叙述不是硝苯地平的特点",
+        "options": [
+            "A.对正常血压者有降压作用",
+            "B.对轻、中、重度高血压者均有降压作用",
+            "C.降压时伴有反射性心率加快和心搏出量增加",
+            "D.可增高血浆肾素活性",
+            "E.合用β受体阻断药可增加其降压作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 30
+    },
+    {
+        "question_text": "31.能升高血糖的降压药是",
+        "options": [
+            "A.肼屈嗪",
+            "B.拉贝洛尔",
+            "C.哌唑嗪",
+            "D.可乐定",
+            "E.二氮嗪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列何药可翻转肾上腺素的升压效应",
+        "options": [
+            "A.酚妥拉明",
+            "B.阿替洛尔",
+            "C.利血平",
+            "D.阿托品",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 32
+    },
+    {
+        "question_text": "33.呋塞米的利尿作用是",
+        "options": [
+            "A.抑制肾脏的稀释功能",
+            "B.抑制肾脏的浓缩功能",
+            "C.抑制肾脏的稀释和浓缩功能",
+            "D.对抗醛固酮的作用",
+            "E.阻滞Na重吸收"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 33
+    },
+    {
+        "question_text": "34.低血钾症病人使用利尿药,应选",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.苄氟噻嗪",
+            "C.布美他尼",
+            "D.呋噻米",
+            "E.氨苯蝶啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列疾病中,不属于氢氯噻嗪适应证的是",
+        "options": [
+            "A.心源性水肿",
+            "B.轻度高血压",
+            "C.尿崩症",
+            "D.糖尿病",
+            "E.特发性高尿钙伴有肾结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 35
+    },
+    {
+        "question_text": "36.可乐定的降压作用能被育亨宾所取消,但不受哌唑嗪的影响,说明可乐定的作用",
+        "options": [
+            "A.与激动中枢的α2受体有关",
+            "B.与激动中枢的α1受体有关",
+            "C.与阻断中枢的α2受体有关",
+            "D.与阻断中枢的α1受体有关",
+            "E.与以上均无关"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 36
+    },
+    {
+        "question_text": "37.降压药物中能引起“首剂现象”的药物是",
+        "options": [
+            "A.可乐定",
+            "B.硝苯地平",
+            "C.肼屈嗪",
+            "D.卡托普利",
+            "E.哌唑嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列哪种药物对心脏有明显的抑制作用",
+        "options": [
+            "A.维拉帕米",
+            "B.粉防已碱",
+            "C.尼莫地平",
+            "D.硝苯地平",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 38
+    },
+    {
+        "question_text": "39.长期使用可致血锌降低的药物是",
+        "options": [
+            "A.肼屈嗪",
+            "B.卡托普利",
+            "C.利血平",
+            "D.米诺地尔",
+            "E.二氮嗪"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 39
+    },
+    {
+        "question_text": "40.可乐定引起口干的原因是",
+        "options": [
+            "A.阻断突出后膜M受体,减少噻液分泌",
+            "B.增加胆碱醋酶活性,乙酰胆碱分解增加",
+            "C.增加肾脏排尿功能,使品体渗透压增高",
+            "D.激动胆碱能神经末梢突触前膜α2受体,减少乙酰胆碱释放",
+            "E.兴奋胆碱能神经末梢M受体,减少乙酰胆碱释放"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 40
+    },
+    {
+        "question_text": "41.高血压合并窦性心动过速的50岁以下病人,应选择下列哪种药物治疗高血压",
+        "options": [
+            "A.肼屈嗪",
+            "B.硝苯地平",
+            "C.米诺地尔",
+            "D.哌唑嗪",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 41
+    },
+    {
+        "question_text": "42.使用呋塞米不会引起",
+        "options": [
+            "A.低氯性碱中毒",
+            "B.低钾血症",
+            "C.低钠血症",
+            "D.耳毒性",
+            "E.血尿酸浓度降低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪种药物不宜用于伴有痛风症的高血压病人",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.可乐定",
+            "C.米诺地尔",
+            "D.哌唑嗪",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 43
+    },
+    {
+        "question_text": "44.肾性高血压最好选用",
+        "options": [
+            "A.肼屈嗪",
+            "B.卡托普利",
+            "C.呋塞米",
+            "D.硝酸甘油",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 44
+    },
+    {
+        "question_text": "45.高血压合并冠状动脉粥样硬化性心脏病不宜用",
+        "options": [
+            "A.普萘洛尔",
+            "B.维拉帕米",
+            "C.卡托普利",
+            "D.肼屈嗪",
+            "E.可乐定"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 45
+    },
+    {
+        "question_text": "46.神经节阻断药基本被淘汰的原因为",
+        "options": [
+            "A.不能口服",
+            "B.作用时间短",
+            "C.降压作用不可靠",
+            "D.显效慢",
+            "E.不良反应多且严重"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 46
+    },
+    {
+        "question_text": "47.能反射性增加心肌耗氧量的降压药",
+        "options": [
+            "A.利血平",
+            "B.肼屈嗪",
+            "C.普萘洛尔",
+            "D.卡托普利",
+            "E.氢氯噻嗪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 47
+    },
+    {
+        "question_text": "48.长期大量服用可引起自身免疫反应的药物",
+        "options": [
+            "A.哌唑嗪",
+            "B.普萘洛尔",
+            "C.甲基多巴",
+            "D.肼屈嗪",
+            "E.硝苯地平"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 48
+    },
+    {
+        "question_text": "49.有中枢神经系统抑制作用的降压药是",
+        "options": [
+            "A.肼屈嗪",
+            "B.美托洛尔",
+            "C.可乐定",
+            "D.二氮嗪",
+            "E.硝苯地平"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 49
+    },
+    {
+        "question_text": "50.长期应用氢氯噻嗪可引起下述不良反应",
+        "options": [
+            "A.升高血脂",
+            "B.升高血糖",
+            "C.增加血浆肾素活性",
+            "D.升高血尿酸",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 50
+    },
+    {
+        "question_text": "51.关于血管紧张素转化酶抑制剂治疗高血压的特点,下列哪种说法是错误",
+        "options": [
+            "A.用于各型高血压,不伴有反射性心率加快",
+            "B.防止和逆转血管壁增厚和心肌肥厚",
+            "C.降低糖尿病、肾病等患者肾小球损伤的可能性",
+            "D.降低血钾",
+            "E.久用不易引起脂质代谢障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 51
+    },
+    {
+        "question_text": "52.肾功能不全的高血压患者,可选用",
+        "options": [
+            "A.硝普钠",
+            "B.利血平",
+            "C.普萘洛尔",
+            "D.肼屈嗪",
+            "E.硝苯地平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 52
+    },
+    {
+        "question_text": "53.高血压合并消化性溃疡者宜选用",
+        "options": [
+            "A.甲基多巴",
+            "B.可乐定",
+            "C.肼屈嗪",
+            "D.利血平",
+            "E.洛沙坦"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 53
+    },
+    {
+        "question_text": "54.下列有关钾通道开放剂的叙述,哪项是错误的",
+        "options": [
+            "A.开放钾通道,使血管平滑肌细胞膜超极化",
+            "B.增加细胞内游离Ca2水平",
+            "C.具有心肌保护和抗心绞痛的作用",
+            "D.具有心悸、水钠潴留等不良反应",
+            "E.一般用于难治性严重高血压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 54
+    },
+    {
+        "question_text": "55.长期使用利尿药的降压机制是",
+        "options": [
+            "A.排Na、利尿、血容量减少",
+            "B.降低血浆肾素活性",
+            "C.增加血浆肾素活性",
+            "D.减少血管平滑肌细胞内Na+和Ca2+",
+            "E.抑制醛固酮的分泌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 55
+    },
+    {
+        "question_text": "56.卡托普利可引起下列何种离子在血浆中的浓度增高",
+        "options": [
+            "A.K",
+            "B.Fe2+",
+            "C.Ca",
+            "D.Mg",
+            "E.Zn"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 56
+    },
+    {
+        "question_text": "57.与普萘洛尔相比,选择性β1受体拮抗剂具有以下优点",
+        "options": [
+            "A.不引起支气管收缩",
+            "B.不引起血管收缩",
+            "C.对血糖影响小",
+            "D.对血脂影响小",
+            "E.以上均有"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 57
+    },
+    {
+        "question_text": "58.高血压合并糖尿病的患者,不宜用下列哪类药物",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.血管紧张素转化酶抑制剂",
+            "C.美托洛尔",
+            "D.哌唑嗪",
+            "E.以上均不能用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列药物一般不用于治疗高血压的是",
+        "options": [
+            "A.氢氯噻嗪",
+            "B.盐酸可乐定",
+            "C.安定",
+            "D.维拉帕米",
+            "E.卡托普利"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列利尿药分类正确",
+        "options": [
+            "A.中效利尿药-布美他尼",
+            "B.高效利尿药-阿米洛利",
+            "C.低效利尿药-呋塞米",
+            "D.高效利尿药-氢氯噻嗪",
+            "E.低效利尿药-螺内酯"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 60
+    },
+    {
+        "question_text": "61.呋塞米的利尿作用特点",
+        "options": [
+            "A.迅速、强大而短暂",
+            "B.迅速、强大而持久",
+            "C.迅速、微弱而短暂",
+            "D.缓慢、强大而持久",
+            "E.缓慢、微弱而短暂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 61
+    },
+    {
+        "question_text": "62.下述何种药物用于高血压危象",
+        "options": [
+            "A.依那普利",
+            "B.氢氯噻嗪",
+            "C.哌唑嗪",
+            "D.硝普钠",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 62
+    },
+    {
+        "question_text": "63.氢氯噻嗪不具有的不良反应是",
+        "options": [
+            "A.高钾血症",
+            "B.高尿酸血症",
+            "C.高血糖症",
+            "D.高脂血症",
+            "E.低镁血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 63
+    },
+    {
+        "question_text": "64.血管紧张素转化酶抑制剂的不良反应不包括",
+        "options": [
+            "A.低血钾",
+            "B.血管神经性水肿",
+            "C.对肾血管狭窄者,易致肾功能损害",
+            "D.咳嗽",
+            "E.高血钾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "64",
+        "number": 64
+    }
+]

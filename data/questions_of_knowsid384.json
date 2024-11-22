@@ -1,0 +1,353 @@
+[
+    {
+        "question_text": "1.全变态昆虫的发育过程为",
+        "options": [
+            "A.卵—若虫—蛹—成虫",
+            "B.卵—若虫—成虫",
+            "C.卵—幼虫—蛹—成虫",
+            "D.卵—幼虫—成虫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 1
+    },
+    {
+        "question_text": "2.医学节肢动物对人类的危害中最严重的是",
+        "options": [
+            "A.吸血、骚扰",
+            "B.毒质损害",
+            "C.超敏反应",
+            "D.传播疾病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 2
+    },
+    {
+        "question_text": "3.蝇传播疾病的主要方式是",
+        "options": [
+            "A.发育式",
+            "B.发育繁殖式",
+            "C.经卵传递式",
+            "D.机械性传播"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 3
+    },
+    {
+        "question_text": "4.通过与病人密切接触而感染的寄生虫病是",
+        "options": [
+            "A.弓形虫病与疥疮",
+            "B.疥疮与蠕形螨病",
+            "C.蝇蛆病与疥疮",
+            "D.疟疾与蠕形螨病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 4
+    },
+    {
+        "question_text": "5.属于完全变态的节肢动物是",
+        "options": [
+            "A.蚤和虱",
+            "B.蟑螂和蚊子",
+            "C.蚊和蝇",
+            "D.蚊和虱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 5
+    },
+    {
+        "question_text": "6.属于永久性寄生螨的是",
+        "options": [
+            "A.疥螨和恙螨",
+            "B.恙螨和草螨",
+            "C.蠕形螨和疥螨",
+            "D.蠕形螨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列生活史中属于全变态的昆虫是",
+        "options": [
+            "A.蚊、蜚蠊、虱",
+            "B.蚊、虱、蚤",
+            "C.蝇、蚊、蟑螂",
+            "D.蚊、蝇、蚤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 7
+    },
+    {
+        "question_text": "8.蜈蚣属于医学节肢动物中的",
+        "options": [
+            "A.昆虫纲",
+            "B.蛛形纲",
+            "C.甲壳纲",
+            "D.唇足纲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 8
+    },
+    {
+        "question_text": "9.蝎子属于医学节肢动物中的",
+        "options": [
+            "A.昆虫纲",
+            "B.蛛形纲",
+            "C.甲壳纲",
+            "D.唇足纲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列不是节肢动物的特性的是",
+        "options": [
+            "A.虫体左右对称",
+            "B.体表骨骼化",
+            "C.成虫均有4对足",
+            "D.循环系统为开放式的血淋巴腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 10
+    },
+    {
+        "question_text": "11.能在蚊体内即发育又增殖的是",
+        "options": [
+            "A.疟原虫",
+            "B.丝虫",
+            "C.鼠疫杆菌",
+            "D.登革热病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 11
+    },
+    {
+        "question_text": "12.检查蠕形螨的常用方法为",
+        "options": [
+            "A.透明胶纸粘贴法",
+            "B.免疫学检测",
+            "C.消毒针挑取皮损组织检查法",
+            "D.血涂片检查"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 12
+    },
+    {
+        "question_text": "13.危害人体健康的节肢动物主要属于",
+        "options": [
+            "A.蛛形纲、昆虫纲",
+            "B.蛛形纲、唇足纲",
+            "C.昆虫纲、甲壳纲",
+            "D.唇足纲、甲壳纲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 13
+    },
+    {
+        "question_text": "14.蠕形螨对人体的作用为",
+        "options": [
+            "A.机会性致病",
+            "B.无致病作用",
+            "C.引起季节性皮肤病",
+            "D.主要致儿童皮肤病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 14
+    },
+    {
+        "question_text": "15.医学节肢动物防制的基本措施是",
+        "options": [
+            "A.化学防制",
+            "B.物理防制",
+            "C.环境治理",
+            "D.生物防制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 15
+    },
+    {
+        "question_text": "16.雌蚊寻找吸血对象，其依靠的感觉器官是",
+        "options": [
+            "A.触角",
+            "B.复眼",
+            "C.喙",
+            "D.平衡棒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 16
+    },
+    {
+        "question_text": "17.按蚊属蚊卵的特征是",
+        "options": [
+            "A.纺锤形，单个散在，沉于水底",
+            "B.相互粘连成卵筏状",
+            "C.舟形，有浮囊，浮于水面",
+            "D.纺锤形，有浮囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于蚊的描述不正确的是",
+        "options": [
+            "A.蚊的生活史为全变态",
+            "B.雄蚊不是疟疾的传播媒介",
+            "C.按蚊可以传播疟疾",
+            "D.蚊可以传播丝虫病、地方性斑疹伤寒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 18
+    },
+    {
+        "question_text": "19.不属于蚊子传播的疾病的是",
+        "options": [
+            "A.丝虫病",
+            "B.疟疾",
+            "C.乙型脑炎",
+            "D.黑热病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 19
+    },
+    {
+        "question_text": "20.蝇可传播",
+        "options": [
+            "A.痢疾",
+            "B.丝虫病",
+            "C.疟疾",
+            "D.鼠疫"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 20
+    },
+    {
+        "question_text": "21.属于半变态的昆虫是",
+        "options": [
+            "A.蚊",
+            "B.蝇",
+            "C.蚤",
+            "D.虱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 21
+    },
+    {
+        "question_text": "22.蠕形螨的感染方式主要是通过",
+        "options": [
+            "A.媒介昆虫叮咬",
+            "B.粪—口途径",
+            "C.直接接触或间接接触感染",
+            "D.食源性感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 22
+    },
+    {
+        "question_text": "23.疥疮常用的实验诊断方法是",
+        "options": [
+            "A.透明胶纸粘贴法",
+            "B.免疫学检测",
+            "C.消毒针挑取皮损皮肤取材镜检",
+            "D.血涂片检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 23
+    },
+    {
+        "question_text": "24.蠕形螨感染最多的部位是",
+        "options": [
+            "A.胸部",
+            "B.腹部",
+            "C.颜面部",
+            "D.颈部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 24
+    },
+    {
+        "question_text": "25.蜱属于节肢动物门的",
+        "options": [
+            "A.昆虫纲",
+            "B.蛛形纲",
+            "C.甲壳纲",
+            "D.唇足纲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 25
+    },
+    {
+        "question_text": "26.能引起酒渣鼻的是",
+        "options": [
+            "A.蝇蛆",
+            "B.疥螨",
+            "C.蠕形螨",
+            "D.恙螨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 26
+    },
+    {
+        "question_text": "27.蠕形螨寄生于人体的",
+        "options": [
+            "A.上皮细胞内",
+            "B.皮肤隧道中",
+            "C.淋巴系统内",
+            "D.毛囊或皮脂腺内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 27
+    }
+]

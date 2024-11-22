@@ -1,0 +1,1024 @@
+[
+    {
+        "question_text": "1.长期应用糖皮质激素,突然停药或减量过快引起反跳现象的原因是:",
+        "options": [
+            "A.ACTH突然分泌增多",
+            "B.肾上腺皮质功能亢进",
+            "C.甲状腺功能亢进",
+            "D.病人对激素产生了依赖性或病情尚未完全控制",
+            "E.ACTH突然分泌减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 1
+    },
+    {
+        "question_text": "2.糖皮质激素类药物用于慢性炎症的主要目的是:",
+        "options": [
+            "A.稳定溶酶体膜,减少蛋白水解酶的释放",
+            "B.抑制花生四烯酸释放,使PG合成减少",
+            "C.抑制肉芽组织生长,防止粘连和瘢痕形成",
+            "D.促进炎症消散",
+            "E.降低毛细血管通透性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 2
+    },
+    {
+        "question_text": "3.糖皮质激素诱发和加重感染的主要原因是:",
+        "options": [
+            "A.抑制炎症反应和免疫反应,降低机体防御功能",
+            "B.激素用量不足,无法控制症状",
+            "C.病人对激素不敏感",
+            "D.激素与抗菌药物合用药效减弱",
+            "E.激素能促使病原微生物繁殖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 3
+    },
+    {
+        "question_text": "4.与糖皮质激素类药物抗休克作用无关的是:",
+        "options": [
+            "A.解除血管痉挛",
+            "B.降低血管对某些缩血管物质的敏感性",
+            "C.稳定溶酶体膜",
+            "D.提高机体对细菌内毒素的耐受力",
+            "E.扩充血容量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 4
+    },
+    {
+        "question_text": "5.糖皮质激素类药物对血液成分的影响是:",
+        "options": [
+            "A.减少血中中性白细胞数",
+            "B.减少血中淋巴细胞数",
+            "C.减少血中血小板数",
+            "D.减少血中红细胞数",
+            "E.血红蛋白含量降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 5
+    },
+    {
+        "question_text": "6.糖皮质激素和抗生素合用治疗严重感染的目的是",
+        "options": [
+            "A.消除抗生素的副作用",
+            "B.增强抗生素的抗菌活性",
+            "C.增强机体应激性",
+            "D.增强机体防御功能",
+            "E.抗毒、抗休克、缓解毒血症状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 6
+    },
+    {
+        "question_text": "7.糖皮质激素治疗严重中毒性感染及各种休克采用:",
+        "options": [
+            "A.小剂量快速静脉给药",
+            "B.大剂量突击静脉给药",
+            "C.小剂量口服替代疗法",
+            "D.一般剂量长期口服",
+            "E.大剂量长期静脉给药"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 7
+    },
+    {
+        "question_text": "8.糖皮质激素类药物与蛋白质代谢相关的不良反应",
+        "options": [
+            "A.精神失常",
+            "B.向心性肥胖",
+            "C.高血压",
+            "D.痤疮",
+            "E.伤口愈合迟缓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 8
+    },
+    {
+        "question_text": "9.治疗剂量几乎无留钠排钾作用的糖皮质激素是:",
+        "options": [
+            "A.氢化可的松",
+            "B.可的松",
+            "C.地塞米松",
+            "D.泼尼松龙",
+            "E.泼尼松"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列糖皮质激素类药物中抗炎作用最强的是",
+        "options": [
+            "A.地塞米松",
+            "B.泼尼松",
+            "C.泼尼松龙",
+            "D.可的松",
+            "E.氢化可的松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 10
+    },
+    {
+        "question_text": "11.长期应用糖皮质激素,突然停药产生反跳现象原因",
+        "options": [
+            "A.医源性肾上腺皮质功能亢进",
+            "B.垂体功能亢进",
+            "C.病人对激素产生依赖性或症状尚未被充分控制",
+            "D.下丘脑-垂体-肾上腺皮质系统功能减退",
+            "E.ACTH分泌突然增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 11
+    },
+    {
+        "question_text": "12.水钠潴留作用很小,抗炎活性很强的合成类固醇是",
+        "options": [
+            "A.地塞米松",
+            "B.氟轻松",
+            "C.氟氢可的松",
+            "D.可的松",
+            "E.氢化可的松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 12
+    },
+    {
+        "question_text": "13.泼尼松合用苯巴比妥时药效降低的原因是",
+        "options": [
+            "A.泼尼松吸收减少",
+            "B.泼尼松肝内代谢加强",
+            "C.降低泼尼松的生物利用度",
+            "D.泼尼松排泄增加",
+            "E.泼尼松与血浆蛋白结合率增加"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列哪项描述不正确",
+        "options": [
+            "A.严重感染使用糖皮质激素时必须使用足量有效的抗生素",
+            "B.糖皮激素可中和内毒素,提高机体对内毒素的耐受性",
+            "C.皮质激素可减轻炎症早期毛细血管的扩张",
+            "D.糖皮质激素可刺激骨髓,使红细胞、血小板增多",
+            "E.糖皮质激素可使血淋巴细胞减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 14
+    },
+    {
+        "question_text": "15.糖皮质激素诱发和加重溃疡病的原因不包括",
+        "options": [
+            "A.使胃酸分泌增加",
+            "B.抑制胃黏液分泌",
+            "C.使胃蛋白酶分泌增加",
+            "D.直接刺激胃黏膜",
+            "E.减弱PG的胃黏膜保护作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 15
+    },
+    {
+        "question_text": "16.严重肝肾功能不良患者应用糖皮质激素全身治疗时应选用",
+        "options": [
+            "A.氟轻松",
+            "B.氟轻可的松",
+            "C.泼尼松",
+            "D.氢化可的松",
+            "E.他莫昔芬"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于糖皮激素抗炎作用原理哪一点是错误的",
+        "options": [
+            "A.稳定溶酶体膜,抑制致炎物的释放",
+            "B.抑制白细胞和吞噬细胞移行血管外,减轻炎症浸润",
+            "C.促进肉芽组织生成,加速组织修复",
+            "D.直接收缩血管,减少渗出和水肿",
+            "E.增加肥大细胞颗粒的稳定性,减少组胺释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 17
+    },
+    {
+        "question_text": "18.糖皮质激素可用于治疗支气管哮喘是由于",
+        "options": [
+            "A.抑制前列腺素和白三烯的生成",
+            "B.直接扩张支气管",
+            "C.使血液中淋巴细胞增多",
+            "D.兴奋β受体",
+            "E.使NO生成增加"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪种药物不用于心源性哮喘",
+        "options": [
+            "A.吗啡",
+            "B.肾上腺素",
+            "C.氨茶碱",
+            "D.毒毛花甙K",
+            "E.呋塞米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 19
+    },
+    {
+        "question_text": "20.抗炎作用强,几乎无潴钠作用的糖皮质激素类药物",
+        "options": [
+            "A.氢化可的松",
+            "B.泼尼松龙",
+            "C.甲泼尼松",
+            "D.地塞米松",
+            "E.可的松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 20
+    },
+    {
+        "question_text": "21.糖皮质激素对消化系统的影响错误的描述是",
+        "options": [
+            "A.抑制食欲,减弱消化",
+            "B.便秘",
+            "C.抑制胃黏液分泌",
+            "D.减少胃酸与胃蛋白酶分泌",
+            "E.诱发和加重溃疡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 21
+    },
+    {
+        "question_text": "22.糖皮质激素诱发和加重感染的主要原因为",
+        "options": [
+            "A.病人对激素不敏感",
+            "B.激素用量不足",
+            "C.激素促使病原微生物生长繁殖",
+            "D.激素降低机体对病原微生物的抵抗力",
+            "E.未同服足量、有效的抗菌药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 22
+    },
+    {
+        "question_text": "23.严重感染服用抗生素的同时应用糖皮质激素的目的",
+        "options": [
+            "A.增强抗茵药物的抗菌活性",
+            "B.增强机体应激性",
+            "C.增强细胞和体液免疫",
+            "D.拮抗抗生素的副作用",
+            "E.抗炎、抗免疫、抗毒、抗休克、缓解毒血症状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于糖皮质激素对血液成分的影响错误的叙述是",
+        "options": [
+            "A.使血小板增多",
+            "B.降低纤维蛋白原浓度",
+            "C.使红细胞和血红蛋白含量增加",
+            "D.使中性粒细胞数增多",
+            "E.抑制中性粒细胞的游走和吞噬功能"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 24
+    },
+    {
+        "question_text": "25.与糖皮质激素抗休克作用无关的因素是",
+        "options": [
+            "A.扩张痉挛的血管,加强心脏收缩",
+            "B.增加血管对某些缩血管物质的敏感性",
+            "C.稳定溶酶体膜,减少心肌抑制因子的形成",
+            "D.提高机体对细菌内毒素的耐受力",
+            "E.抑制巨噬细胞吞噬和处理抗原"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 25
+    },
+    {
+        "question_text": "26.长期应用糖皮质激素引起",
+        "options": [
+            "A.低血钙",
+            "B.高血钾",
+            "C.低血钠",
+            "D.高血磷",
+            "E.钙、磷排泄减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 26
+    },
+    {
+        "question_text": "27.糖皮质激素的禁忌症是",
+        "options": [
+            "A.结核性脑膜炎",
+            "B.水痘发高烧",
+            "C.风湿性心肌炎",
+            "D.支气管哮喘",
+            "E.过敏性皮炎伴局部感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 27
+    },
+    {
+        "question_text": "28.属于长效糖皮质激素类的",
+        "options": [
+            "A.氢化可的松",
+            "B.泼尼松",
+            "C.地塞米松",
+            "D.氟轻松",
+            "E.可的松"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 28
+    },
+    {
+        "question_text": "29.长期应用糖皮质激素出现类肾上腺皮质功能亢进综合症时错误的处理是",
+        "options": [
+            "A.应用降压药",
+            "B.应用降糖药",
+            "C.口服氯化钾",
+            "D.低盐、低糖饮食",
+            "E.低蛋白饮食"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 29
+    },
+    {
+        "question_text": "30.糖皮质激素隔日疗法的给药时间为",
+        "options": [
+            "A.上午8时",
+            "B.中午12时",
+            "C.下午4时",
+            "D.晚上8时",
+            "E.凌晨4时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 30
+    },
+    {
+        "question_text": "31.糖皮质激素隔日清晨一次给药法可减少",
+        "options": [
+            "A.诱发和加重溃疡",
+            "B.医源性肾上腺皮质功能不全",
+            "C.反跳现象",
+            "D.诱发和加重感染",
+            "E.对垂体肾上腺皮质系统的生理性负反馈的影响"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 31
+    },
+    {
+        "question_text": "32.肾上腺皮质肿瘤所致的氢化可的松过多和皮质癌应选用",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.甲吡酮",
+            "C.胺碘酮",
+            "D.氨吡酮",
+            "E.炔诺酮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 32
+    },
+    {
+        "question_text": "33.需在体内转化后才能发挥作用的糖皮质激素类药物",
+        "options": [
+            "A.氢化可的松",
+            "B.地塞米松",
+            "C.泼尼松龙",
+            "D.泼尼松",
+            "E.倍他米松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 33
+    },
+    {
+        "question_text": "34.糖皮质激素抗毒作用的机制是",
+        "options": [
+            "A.提高机体对细菌内毒素的耐受力",
+            "B.中和细菌内毒素",
+            "C.中和细菌外毒素",
+            "D.稳定溶酶体膜",
+            "E.直接对抗毒素对机体的损害"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列何种疾病患者肝脏对氢化可的松灭活加速,使其半衰期缩短",
+        "options": [
+            "A.心绞痛",
+            "B.甲亢",
+            "C.慢性充血性心功能不全",
+            "D.肾功能不良",
+            "E.心律失常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 35
+    },
+    {
+        "question_text": "36.肝功能不良患者不宜使用的糖皮质激素是",
+        "options": [
+            "A.可的松",
+            "B.氢化可的松",
+            "C.氢化泼尼松",
+            "D.地塞米松",
+            "E.倍他米松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 36
+    },
+    {
+        "question_text": "37.糖皮质激素无下列何种作用",
+        "options": [
+            "A.抑制中枢",
+            "B.抑制肉芽组织的形成",
+            "C.稳定溶酶体膜",
+            "D.加速淋巴细胞破坏和解体",
+            "E.提高机体对细菌内毒素的耐受性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列何种疾病不是糖皮质激素的适应症",
+        "options": [
+            "A.风湿性关节炎",
+            "B.支气管哮喘",
+            "C.消化性溃疡",
+            "D.感染中毒性休克",
+            "E.再生障碍性贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 38
+    },
+    {
+        "question_text": "39.糖皮质激素无下列何种不良反应",
+        "options": [
+            "A.诱发神经失常和瘋痫发作",
+            "B.诱发或加重感染",
+            "C.诱发胃和十二指肠溃疡",
+            "D.低血糖",
+            "E.高血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 39
+    },
+    {
+        "question_text": "40.肾上腺皮质激素诱发和加重感染的主要原因是",
+        "options": [
+            "A.抑制炎症反应和免疫反应,降低机体的防御机能",
+            "B.抑制ACTH的释放",
+            "C.病人对激素不敏感而未反应出相应的疗效",
+            "D.促使许多病原微生物繁殖所致",
+            "E.用量不足,无法控制症状而造成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 40
+    },
+    {
+        "question_text": "41.肾上腺皮质功能减退症的治疗方案",
+        "options": [
+            "A.可的松+氢化可的松",
+            "B.氢化可的松+地塞米松",
+            "C.氢化可的松",
+            "D.氢化可的松+去氧皮质酮",
+            "E.泼尼松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 41
+    },
+    {
+        "question_text": "42.ACTH促使肾上腺皮质分泌的主要激素是:",
+        "options": [
+            "A.醛固酮",
+            "B.去氧皮质酮",
+            "C.氢化可的松",
+            "D.可的松",
+            "E.皮质酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 42
+    },
+    {
+        "question_text": "43.细胞因子在慢性炎症起重要作用,它们不能:",
+        "options": [
+            "A.促使血管内皮细胞粘附白细胞",
+            "B.使内皮细胞活化",
+            "C.使中性粒细胞活化",
+            "D.使巨噬细胞活化",
+            "E.使NO生成减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 43
+    },
+    {
+        "question_text": "44.不宜外用的糖皮质激素药",
+        "options": [
+            "A.氢化可的松",
+            "B.泼尼松龙",
+            "C.甲泼尼松",
+            "D.泼尼松",
+            "E.地塞米松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 44
+    },
+    {
+        "question_text": "45.糖皮质激素药理作用不含",
+        "options": [
+            "A.抗炎",
+            "B.抗免疫",
+            "C.抗病毒",
+            "D.抗休克",
+            "E.抗过敏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 45
+    },
+    {
+        "question_text": "46.糖皮质激素对血液和造血系统的主要作用是:",
+        "options": [
+            "A.使红细胞增加",
+            "B.使中性粒细胞增加",
+            "C.使血小板增加",
+            "D.刺激骨髓造血功能",
+            "E.提高纤维蛋白原浓度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 46
+    },
+    {
+        "question_text": "47.糖皮质激素不适用于下列哪种情况的治疗?",
+        "options": [
+            "A.中毒性菌痢",
+            "B.重症伤寒",
+            "C.霉菌感染",
+            "D.暴发型流行性脑膜炎",
+            "E.猩红热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 47
+    },
+    {
+        "question_text": "48.糖皮质激素治疗严重急性感染的主要目的是",
+        "options": [
+            "A.减轻炎症反应",
+            "B.减轻后遗症",
+            "C.增强机体抵抗力",
+            "D.增强机体应激性",
+            "E.缓解症状,帮助病人度过危险期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 48
+    },
+    {
+        "question_text": "49.情况禁用糖皮质激素",
+        "options": [
+            "A.虹虹膜炎",
+            "B.角膜炎",
+            "C.视网膜炎",
+            "D.角膜溃疡",
+            "E.视神经炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 49
+    },
+    {
+        "question_text": "50.糖皮质激素小剂量替代疗法用于:",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.粒细胞减少症",
+            "C.血小板减少症",
+            "D.阿狄森病",
+            "E.结缔组织病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 50
+    },
+    {
+        "question_text": "51.对糖代谢影响最大的糖皮质激素药物是:",
+        "options": [
+            "A.氢化可的松",
+            "B.可的松",
+            "C.泼尼松",
+            "D.曲安西龙",
+            "E.地塞米松"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 51
+    },
+    {
+        "question_text": "52.t1/2较短的糖皮质激素药物",
+        "options": [
+            "A.氢化可的松",
+            "B.泼尼松",
+            "C.泼尼松龙",
+            "D.甲泼尼松",
+            "E.曲安西龙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 52
+    },
+    {
+        "question_text": "53.属长效糖皮质激素的是",
+        "options": [
+            "A.氢化可的松",
+            "B.甲泼尼松",
+            "C.可的松",
+            "D.地塞米松",
+            "E.泼尼松龙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 53
+    },
+    {
+        "question_text": "54.地塞米松治疗",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.水痘",
+            "C.带状疱疹",
+            "D.糖尿病",
+            "E.霉菌感染"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 54
+    },
+    {
+        "question_text": "55.长期大量应用糖皮质激素的副作用是:",
+        "options": [
+            "A.骨质疏松",
+            "B.粒细胞减少症",
+            "C.血小板减少症",
+            "D.过敏性紫癜",
+            "E.枯草热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 55
+    },
+    {
+        "question_text": "56.长期应用泼尼松停药后,肾上腺皮质对ACTH起反应功能的恢复约需:",
+        "options": [
+            "A.停药后立即恢复",
+            "B.1周",
+            "C.1个月",
+            "D.2个月",
+            "E.半年以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 56
+    },
+    {
+        "question_text": "57.糖皮质激素一般剂量长期疗法用于:",
+        "options": [
+            "A.垂体前叶功能减退",
+            "B.阿狄森病",
+            "C.肾上腺皮质次全切除术后",
+            "D.中心性视网膜炎",
+            "E.败血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 57
+    },
+    {
+        "question_text": "58.糖皮质激素隔日疗法的给药时间是:",
+        "options": [
+            "A.隔日中午",
+            "B.隔日下午",
+            "C.隔日晚上",
+            "D.隔日午夜",
+            "E.隔日早上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 58
+    },
+    {
+        "question_text": "59.糖皮质激素隔日疗法采用哪种药物较好?",
+        "options": [
+            "A.可的松",
+            "B.氢化可的松",
+            "C.泼尼松",
+            "D.地塞米松",
+            "E.倍他米松"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 59
+    },
+    {
+        "question_text": "60.糖皮质激素具有什么作用",
+        "options": [
+            "A.使白三烯增加",
+            "B.使前列腺素增加",
+            "C.使血小板活化因子增加",
+            "D.使血小板增多",
+            "E.使IL-3增多"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 60
+    },
+    {
+        "question_text": "61.糖皮质激素具有_作用",
+        "options": [
+            "A.使IL-1增多",
+            "B.使GM-SF增多",
+            "C.使肿瘤坏死因子减少",
+            "D.使巨噬细胞集落刺激因子增多",
+            "E.使淋巴细胞增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 61
+    },
+    {
+        "question_text": "62.治疗伴高血压的慢性活动性风湿性关节炎宜首选:",
+        "options": [
+            "A.泼尼松龙",
+            "B.泼尼松",
+            "C.地塞米松",
+            "D.阿司匹林",
+            "E.保泰松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 62
+    },
+    {
+        "question_text": "63.氢化可的松比可的松抗炎作用强的原因是:",
+        "options": [
+            "A.C1-2位去氢",
+            "B.C11位加氢",
+            "C.C9位加氟",
+            "D.C6位加氟",
+            "E.C16位加甲基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 63
+    },
+    {
+        "question_text": "64.糖皮质激素大剂量突击疗法适用于",
+        "options": [
+            "A.感染中毒性休克",
+            "B.肾病综合征",
+            "C.结缔组织病",
+            "D.恶性淋巴瘤",
+            "E.顽固性支气管哮喘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 64
+    },
+    {
+        "question_text": "65.抗炎效能最大的糖皮质激素药物是:",
+        "options": [
+            "A.氢化可的松",
+            "B.可的松",
+            "C.曲安西龙",
+            "D.地塞米松",
+            "E.泼尼松龙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 65
+    },
+    {
+        "question_text": "66.对水盐代谢影响最大的糖皮质激索药物是",
+        "options": [
+            "A.氢化可的松",
+            "B.泼尼松",
+            "C.甲泼尼龙",
+            "D.曲安西龙",
+            "E.倍他米松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 66
+    },
+    {
+        "question_text": "67.肾上腺皮质激素的甾核中保持生理功能必需的结构",
+        "options": [
+            "A.C3的酮基C20的羟基和C4-5的双键",
+            "B.C17上有-OH,C1上有=0或-OH",
+            "C.C17上无-OH,C11上无=0",
+            "D.C1-2为双键",
+            "E.C9上有-F"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 67
+    },
+    {
+        "question_text": "68.主要合成和分泌糖皮质激素的部位是:",
+        "options": [
+            "A.垂体前叶",
+            "B.下丘脑",
+            "C.束状带",
+            "D.球状带",
+            "E.网状带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 68
+    },
+    {
+        "question_text": "69.糖皮质激素抗炎作用的基本机制是:",
+        "options": [
+            "A.减轻渗出、水肿、毛细血管扩张等炎症反应",
+            "B.抑制毛细血管和纤维母细胞的增生",
+            "C.稳定溶酶体膜",
+            "D.增加肥大细胞颗粒的稳定性",
+            "E.影响了参与炎症的一些基因转录"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 69
+    },
+    {
+        "question_text": "70.活化的糖皮质激素-糖皮质激素受体复合物进入核内,与靶的基因的启动子序列的何种成分相结合?",
+        "options": [
+            "A.介质蛋白",
+            "B.转录因子",
+            "C.糖皮质激素反应成分",
+            "D.热体克蛋白",
+            "E.一氧化氮合成酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 70
+    },
+    {
+        "question_text": "71.糖皮质激素可通过增加物质抑制合成白三烯",
+        "options": [
+            "A.磷脂酶A2",
+            "B.脂皮素",
+            "C.前列腺素",
+            "D.血小板活化因子",
+            "E.白细胞介素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 71
+    },
+    {
+        "question_text": "72.糖皮质激素可抑制巨噬细胞中的Nos,故可发挥:",
+        "options": [
+            "A.免疫抑制作用",
+            "B.抗休克作用",
+            "C.抗炎作用",
+            "D.刺激骨髓造血功能",
+            "E.血小板增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 72
+    },
+    {
+        "question_text": "73.抗炎效能最小的糖皮质激素药物是:",
+        "options": [
+            "A.氢化可的松",
+            "B.可的松",
+            "C.曲安西龙",
+            "D.甲泼尼龙",
+            "E.氟轻松"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 73
+    }
+]

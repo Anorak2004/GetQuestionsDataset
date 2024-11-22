@@ -1,0 +1,2787 @@
+[
+    {
+        "question_text": "1.丙氨酸和α-酮戊二酸经谷丙转氨酶和下述哪一种酶的连续催化作用才能产生游离的氨？",
+        "options": [
+            "A．谷氨酰胺酶",
+            "B．谷草转氨酶",
+            "C．谷氨酸脱氢酶",
+            "D．谷氨酰胺合成酶",
+            "E．α-酮戊二酸脱氢酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列哪一个不是一碳单位？",
+        "options": [
+            "A．CO2",
+            "B．-CH3",
+            "C．≥CH",
+            "D．>CH2",
+            "E．-CHO"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 2
+    },
+    {
+        "question_text": "3.5-羟色胺是由哪个氨基酸转变生成？",
+        "options": [
+            "A．组氨酸",
+            "B．色氨酸",
+            "C．脯氨酸",
+            "D．酪氨酸",
+            "E．精氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 3
+    },
+    {
+        "question_text": "4.肌肉中氨基酸脱氨的主要方式是",
+        "options": [
+            "A．转氨基偶联氧化脱氨基作用",
+            "B．L-谷氨酸氧化脱氨基作用",
+            "C．转氨基作用",
+            "D．鸟氨酸循环",
+            "E．嘌呤核苷酸循环"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪一种氨基酸经过转氨作用可生成草酰乙酸？",
+        "options": [
+            "A．谷氨酸",
+            "B．丙氨酸",
+            "C．苏氨酸",
+            "D．天冬氨酸",
+            "E．脯氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 5
+    },
+    {
+        "question_text": "6.S-腺苷蛋氨酸的重要生理作用是",
+        "options": [
+            "A．补充蛋氨酸",
+            "B．合成四氨叶酸",
+            "C．提供甲基",
+            "D．生成腺嘌呤核苷",
+            "E．合成同型半胱氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 6
+    },
+    {
+        "question_text": "7.在尿素合成中下列哪一种反应需要 ATP？",
+        "options": [
+            "A．精氨酸→鸟氨酸+尿素+α-酮戊二酸",
+            "B．草酰乙酸+谷氨酸→天冬氨酸",
+            "C．瓜氨酸+天冬氨酸→精氨酸代琥珀酸",
+            "D．延胡索酸→苹果酸",
+            "E．以上四种反应都不需要 ATP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 7
+    },
+    {
+        "question_text": "8.脑中γ-氨基丁酸是由以下哪一代谢物产生的？",
+        "options": [
+            "A．天冬氨酸",
+            "B．谷氨酸",
+            "C．α-酮戊二酸",
+            "D．草酰乙酸",
+            "E．苹果酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 8
+    },
+    {
+        "question_text": "9.体内转运一碳单位的载体是",
+        "options": [
+            "A．叶酸",
+            "B．维生素 B12",
+            "C．四氢叶酸",
+            "D．S-腺苷蛋氨酸",
+            "E．生物素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 9
+    },
+    {
+        "question_text": "10.血液中非蛋白氮中主要成分是",
+        "options": [
+            "A．尿素",
+            "B．尿酸",
+            "C．肌酸",
+            "D．多肽",
+            "E．氨基酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 10
+    },
+    {
+        "question_text": "11.转氨酶的辅酶中含有下列哪种维生素？",
+        "options": [
+            "A．Vit.B1",
+            "B．Vit.B12",
+            "C．Vit.C",
+            "D．Vit.B6",
+            "E．Vit.D"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 11
+    },
+    {
+        "question_text": "12.牛磺酸是由下列哪种氨基酸代谢衍变而来的？",
+        "options": [
+            "A．蛋氨酸",
+            "B．半胱氨酸",
+            "C．苏氨酸",
+            "D．甘氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 12
+    },
+    {
+        "question_text": "13.人类膳食中含有酪氨酸时",
+        "options": [
+            "A．苯丙氨酸在营养上是非必需氨基酸",
+            "B．不会出现苯丙酮酸尿",
+            "C．膳食中还需要少量的苯丙氨酸",
+            "D．酪氨酸能生成苯丙氨酸",
+            "E．以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 13
+    },
+    {
+        "question_text": "14.有关 S-腺苷蛋氨酸的代谢",
+        "options": [
+            "A．是以甜菜碱为甲基供体，使 S 腺苷同型半胱氨酸甲基化生成的",
+            "B．其合成与蛋氨酸和 AMP 的缩合有关",
+            "C．是合成胸腺嘧啶的甲基供给体",
+            "D．是合成胆碱的甲基供给体",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 14
+    },
+    {
+        "question_text": "15.丙氨酸分解为 CO2．H2O 和 NH3 时可净生成 ATP 的克分子数为",
+        "options": [
+            "A．10．5",
+            "B．12．5",
+            "C．18",
+            "D．14．5",
+            "E．17"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 15
+    },
+    {
+        "question_text": "16.脑中氨的主要去路是",
+        "options": [
+            "A．合成尿素",
+            "B．扩散入血",
+            "C．合成谷氨酰胺",
+            "D．合成氨基酸",
+            "E．合成嘌呤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪一个化合物不能由酪氨酸转变合成？",
+        "options": [
+            "A．甲状腺素",
+            "B．肾上腺素",
+            "C．多巴胺",
+            "D．苯丙氨酸",
+            "E．黑色素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 17
+    },
+    {
+        "question_text": "18.儿茶酚胺是由哪种氨基酸转化生成的？",
+        "options": [
+            "A．色氨酸",
+            "B．谷氨酸",
+            "C．天冬氨酸",
+            "D．酪氨酸",
+            "E．赖氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪一种物质是体内氨的储存及运输形式？",
+        "options": [
+            "A．谷氨酸",
+            "B．酪氨酸",
+            "C．谷氨酰胺",
+            "D．谷胱甘肽",
+            "E．天冬酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 19
+    },
+    {
+        "question_text": "20.白化病是由于先天缺乏",
+        "options": [
+            "A．色氨酸羟化酶",
+            "B．酪氨酸酶",
+            "C．苯丙氨酸羟化酶",
+            "D．脯氨酸羟化酶",
+            "E．以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 20
+    },
+    {
+        "question_text": "21.N5N10-CH2-FH4 参与下列哪种代谢合成？",
+        "options": [
+            "A．组成嘌呤核苷酸的第 8 位碳原子",
+            "B．参加肾上腺素的合成",
+            "C．参与胆碱的合成",
+            "D．参与肉毒碱的合成",
+            "E．参与胸腺嘧啶的合成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 21
+    },
+    {
+        "question_text": "22.肾脏中产生的氨主要来自",
+        "options": [
+            "A．氨基酸的联合脱氨基作用",
+            "B．谷氨酰胺的水解",
+            "C．尿素的水解",
+            "D．氨基酸的非氧化脱氨基作用",
+            "E．氨基酸的转氨基作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 22
+    },
+    {
+        "question_text": "23.参与生物转化作用的氨基酸为",
+        "options": [
+            "A．甘氨酸",
+            "B．丝氨酸",
+            "C．谷氨酸",
+            "D．酪氨酸",
+            "E．色氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 23
+    },
+    {
+        "question_text": "24.能转变为乙酰乙酰 CoA 的氨基酸为",
+        "options": [
+            "A．精氨酸",
+            "B．亮氨酸",
+            "C．蛋氨酸",
+            "D．苏氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 24
+    },
+    {
+        "question_text": "25.代谢库（池）中游离氨基酸的主要去路为",
+        "options": [
+            "A．参与许多必要的含氮物质合成",
+            "B．合成蛋白质",
+            "C．脱去氨基，生成相应的α-酮酸",
+            "D．转变成糖或脂肪\"",
+            "E．分解产生能量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 25
+    },
+    {
+        "question_text": "26.肠道中氨基酸的主要腐败产物是",
+        "options": [
+            "A．吲哚",
+            "B．色胺",
+            "C．组胺",
+            "D．氨",
+            "E．腐胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 26
+    },
+    {
+        "question_text": "27.鸟氨酸循环中需要 N-乙酰谷氨酸作为激活剂的酶是",
+        "options": [
+            "A．氨基甲酰磷酸合成酶 I",
+            "B．鸟氨酰氨基甲酰转移酶",
+            "C．精氨酸代琥珀酸合成酶",
+            "D．精氨酸酶",
+            "E．精氨酸代琥珀酸裂解酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 27
+    },
+    {
+        "question_text": "28.以下那一种氨基酸衍生物是神经递质",
+        "options": [
+            "A．酪胺",
+            "B．组胺",
+            "C．腐胺",
+            "D．精胺",
+            "E．5-羟色胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 28
+    },
+    {
+        "question_text": "29.能先后代谢提供两个一碳单位的氨基酸为",
+        "options": [
+            "A．甘氨酸",
+            "B．苏氨酸",
+            "C．组氨酸",
+            "D．丝氨酸",
+            "E．蛋氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 29
+    },
+    {
+        "question_text": "30.同型半胱氨酸和 N5-甲基四氢叶酸反应生成蛋氨酸时所必需的维生素为",
+        "options": [
+            "A．叶酸",
+            "B．二氢叶酸",
+            "C．四氢叶酸",
+            "D．维生素 B12",
+            "E．N5-甲基四氢叶酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 30
+    },
+    {
+        "question_text": "31.体内硫酸盐由哪种物质转变生成？",
+        "options": [
+            "A．胱氨酸",
+            "B．半胱氨酸",
+            "C．蛋氨酸",
+            "D．牛磺酸",
+            "E．以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 31
+    },
+    {
+        "question_text": "32.人体内黑色素由哪个氨基酸转变生成？",
+        "options": [
+            "A．苯丙氨酸",
+            "B．酪氨酸",
+            "C．色氨酸",
+            "D．组氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列哪一组氨基酸都是支链氨基酸？",
+        "options": [
+            "A．亮氨酸、异亮氨酸、苏氨酸",
+            "B．亮氨酸、缬氨酸、谷氨酸",
+            "C．异亮氨酸、缬氨酸、天冬氨酸",
+            "D．亮氨酸、异亮氨酸、缬氨酸",
+            "E．缬氨酸、天冬氨酸、赖氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列哪一组氨基酸都是芳香族氨基酸",
+        "options": [
+            "A．丙氨酸、丝氨酸",
+            "B．酪氨酸、苯丙氨酸",
+            "C．蛋氨酸、组氨酸",
+            "D．缬氨酸、亮氨酸",
+            "E．胱氨酸、半胱氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 34
+    },
+    {
+        "question_text": "35.必需氨基酸中含硫的是：",
+        "options": [
+            "A．缬氨酸",
+            "B．赖氨酸",
+            "C．亮氨酸",
+            "D．蛋氨酸",
+            "E．色氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 35
+    },
+    {
+        "question_text": "36.转氨酶的辅酶含有维生素：",
+        "options": [
+            "A．B1",
+            "B．B2",
+            "C．B6",
+            "D．PP",
+            "E．C"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列氨基酸中哪一个是非必需氨基酸？",
+        "options": [
+            "A．赖氨酸",
+            "B．谷氨酸",
+            "C．色氨酸",
+            "D．蛋氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 37
+    },
+    {
+        "question_text": "38.下列氨基酸中哪一个不是必需氨基酸？",
+        "options": [
+            "A．色氨酸",
+            "B．赖氨酸",
+            "C．酪氨酸",
+            "D．亮氨酸",
+            "E．蛋氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 38
+    },
+    {
+        "question_text": "39.经转氨基作用生成草酰乙酸的氨基酸是：",
+        "options": [
+            "A．谷氨酸",
+            "B．天冬氨酸",
+            "C．丙氨酸",
+            "D．丝氨酸",
+            "E．半胱氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 39
+    },
+    {
+        "question_text": "40.尿素中两个氨基来源于",
+        "options": [
+            "A．氨基甲酰磷酸和谷氨酸",
+            "B．氨基甲酰磷酸和谷氨酰胺",
+            "C．氨基甲酰磷酸和天冬氨酸",
+            "D．氨基甲酰磷酸和天冬酰胺",
+            "E．谷氨酰胺和天冬酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 40
+    },
+    {
+        "question_text": "41.能直接转变为α-酮戊二酸的氨基酸为",
+        "options": [
+            "A．天冬氨酸",
+            "B．丙氨酸",
+            "C．谷氨酸",
+            "D．谷氨酰胺",
+            "E．天门冬酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列哪一组氨基酸都是非必需氨基酸",
+        "options": [
+            "A．色氨酸、苯丙氨酸",
+            "B．亮氨酸、异亮氨酸",
+            "C．苏氨酸、缬氨酸",
+            "D．赖氨酸、蛋氨酸",
+            "E．谷氨酸、天冬氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 42
+    },
+    {
+        "question_text": "43.哺乳类动物体内氨的主要代谢去路",
+        "options": [
+            "A．渗入肠道",
+            "B．肾脏泌氨",
+            "C．在肝脏合成尿素",
+            "D．生成谷氨酰胺",
+            "E．重新合成氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 43
+    },
+    {
+        "question_text": "44.肝中进行糖异生的主要原料为",
+        "options": [
+            "A．乳酸",
+            "B．丙酮酸",
+            "C．甘油",
+            "D．氨基酸",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 44
+    },
+    {
+        "question_text": "45.谷胱甘肽的主要功能是",
+        "options": [
+            "A．参与氧化反应",
+            "B．脱羧基反应",
+            "C．参与氧化还原反应",
+            "D．参与甲基化反应",
+            "E．参与转巯基反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 45
+    },
+    {
+        "question_text": "46.体内活性甲基的直接供体是",
+        "options": [
+            "A．N10-甲基四氢叶酸",
+            "B．S-腺甘蛋氨酸",
+            "C．蛋氨酸",
+            "D．胆碱",
+            "E．肾上腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 46
+    },
+    {
+        "question_text": "47.体内蛋白质和许多重要酶的巯基均直接来自哪个氨基酸残基？",
+        "options": [
+            "A．半胱氨酸",
+            "B．胱氨酸",
+            "C．蛋氨酸",
+            "D．谷胱甘肽",
+            "E．肌酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 47
+    },
+    {
+        "question_text": "48.必需氨基酸是：",
+        "options": [
+            "A．可由其他氨基酸转变而来",
+            "B．可由糖转变而来",
+            "C．可由三羧酸循环中间产物转变而来",
+            "D．可由脂肪中的甘油部分转变而来",
+            "E．体内不能合成，只能由食物提供的氨基酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列哪组氨基酸均是必需氨基酸？",
+        "options": [
+            "A．赖氨酸、苯丙氨酸、色氨酸、酪氨酸",
+            "B．蛋氨酸、苯丙氨酸、缬氨酸、酪氨酸",
+            "C．缬氨酸、赖氨酸、丙氨酸、色氨酸",
+            "D．半胱氨酸、蛋氨酸、丙氨酸、丝氨酸",
+            "E．亮氨酸、异亮氨酸、苏氨酸、赖氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列哪种维生素与氨基酸氧化脱氨基作用有关？",
+        "options": [
+            "A．维生素 PP",
+            "B．维生素 B6",
+            "C．维生素 B1",
+            "D．维生素 C",
+            "E．泛酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 50
+    },
+    {
+        "question_text": "51.人体内可将某种氨基酸转变为另一种氨基酸如：",
+        "options": [
+            "A．半胱氨酸转变为蛋氨酸",
+            "B．苯丙氨酸转变为酪氨酸",
+            "C．天冬氨酸转变为亮氨酸",
+            "D．谷氨酸转变为赖氨酸",
+            "E．丝氨酸转变为缬氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列哪种物质与氨基酸的脱氨基作用有关？",
+        "options": [
+            "A．三磷酸尿苷（UTP）",
+            "B．二磷酸尿苷（UDP）",
+            "C．尿苷酸（UMP）",
+            "D．二磷酸鸟苷（GDP）",
+            "E．次黄嘌呤核苷酸（IMP）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 52
+    },
+    {
+        "question_text": "53.一位患者血液生化检查发现血清谷草转氨酶活性明显升高，可能为：",
+        "options": [
+            "A．慢性肝炎",
+            "B．脑动脉血栓",
+            "C．肾炎",
+            "D．肠粘膜细胞坏死",
+            "E．心肌梗塞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 53
+    },
+    {
+        "question_text": "54.体内氨的主要代谢来源是：",
+        "options": [
+            "A．肾脏的谷氨酰胺脱氨作用氨被吸收",
+            "B．肠道细菌腐败作用所产生的",
+            "C．尿素的肠肝循环",
+            "D．氨基酸脱氨基作用",
+            "E．体内胺类物质分解形成的氨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 54
+    },
+    {
+        "question_text": "55.体内丙氨酸-葡萄糖循环的作用是：",
+        "options": [
+            "A．促进糖异性",
+            "B．促进非必需氨基酸的合成",
+            "C．促进丙氨酸的转运",
+            "D．促进肌肉与肝脏之间氨的转运",
+            "E．促进脑与肾脏之间的氨转运"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 55
+    },
+    {
+        "question_text": "56.下列对谷氨酰胺生理作用的描述，哪项不正确？",
+        "options": [
+            "A．谷氨酰胺可促进必需氨基酸的合成",
+            "B．谷氨酰胺可促进脑与肝之间氨的转运",
+            "C．谷氨酰胺有助于脑与肾之间氨的转运",
+            "D．谷氨酰胺可参与核苷酸的合成",
+            "E．谷氨酰胺可参与体内酸碱平衡的调节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 56
+    },
+    {
+        "question_text": "57.下列哪种物质是氨基甲酰磷酸合成酶 I 的变构激活剂？",
+        "options": [
+            "A．谷氨酰胺",
+            "B．乙酰 CoA",
+            "C．GTP",
+            "D．N-乙酰谷氨酸",
+            "E．NAD+"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 57
+    },
+    {
+        "question_text": "58.合成一摩尔尿素需要消耗：",
+        "options": [
+            "A．1 摩尔 ATP",
+            "B．2 摩尔 ATP",
+            "C．2 摩尔 ATP 及 1 摩尔 GTP",
+            "D．3 摩尔 ATP",
+            "E．4 摩尔 ATP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 58
+    },
+    {
+        "question_text": "59.氨中毒引起肝昏迷的机理可能是：",
+        "options": [
+            "A．氨对肝脏功能的损害",
+            "B．氨对肾功能的损害",
+            "C．氨对心肌功能的损害",
+            "D．氨对脑组织功能的损害",
+            "E．氨对骨髓功能的损害"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 59
+    },
+    {
+        "question_text": "60.下列哪种氨基酸与尿素循环无关",
+        "options": [
+            "A．赖氨酸",
+            "B．天冬氨酸",
+            "C．鸟氨酸",
+            "D．瓜氨酸",
+            "E．精氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 60
+    },
+    {
+        "question_text": "61.肌肉组织中，氨基酸脱氨的主要方式是",
+        "options": [
+            "A．联合脱氨基作用",
+            "B．L－谷氨酸氧化脱氨基作用",
+            "C．转氨基作用",
+            "D．鸟氨酸循环",
+            "E．嘌呤核苷酸循环"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 61
+    },
+    {
+        "question_text": "62.尿素循环与三羧酸循环是通过哪些中间产物的代谢联结起来的",
+        "options": [
+            "A．天冬氨酸",
+            "B．草酰乙酸",
+            "C．延胡索酸",
+            "D．瓜氨酸",
+            "E．天冬氨酸与瓜氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 62
+    },
+    {
+        "question_text": "63.催化α-酮戊二酸和 NH3 生成相应含氮化合物的酶是",
+        "options": [
+            "A．谷丙转氨酶",
+            "B．谷草转氨酶",
+            "C．L－谷氨酰转肽酶",
+            "D．谷氨酸脱氢酶",
+            "E．谷氨酰胺合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 63
+    },
+    {
+        "question_text": "64.缺乏哪一种酶可导致 PKU（苯丙酮酸尿症）",
+        "options": [
+            "A．苯丙氨酸羟化酶",
+            "B．苯丙氨酸－酮戊二酸转氨酶",
+            "C．尿黑酸氧化酶",
+            "D．多巴脱羧酶",
+            "E．丙氨酸－丁氨酸硫醚合成酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 64
+    },
+    {
+        "question_text": "65.生物体内氨基酸脱氨基的主要方式为",
+        "options": [
+            "A．氧化脱氨基",
+            "B．还原脱氨基",
+            "C．直接脱氨基",
+            "D．转氨基",
+            "E．联合脱氨基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 65
+    },
+    {
+        "question_text": "66.成人体内氨的最主要代谢去路为:",
+        "options": [
+            "A．合成非必需氨基酸",
+            "B．合成必需氨基酸",
+            "C．合成 NH4+承尿排出",
+            "D . 合成尿素",
+            "E．合成嘌呤、嘧啶核苷酸等"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 66
+    },
+    {
+        "question_text": "67.转氨酶的辅酶组分含有：",
+        "options": [
+            "A．泛酸",
+            "B．吡哆醛（或吡哆胺）",
+            "C．尼克酸",
+            "D . 核黄素",
+            "E．硫胺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 67
+    },
+    {
+        "question_text": "68.GPT（ALT）活性最高的组织是：",
+        "options": [
+            "A．心肌",
+            "B．脑",
+            "C．骨骼肌",
+            "D．肝",
+            "E．肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 68
+    },
+    {
+        "question_text": "69.嘌呤核苷酸循环脱氨基作用主要在哪种组织中进行？",
+        "options": [
+            "肝",
+            "B．肾",
+            "C．脑",
+            "D．肌肉",
+            "E．肺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 69
+    },
+    {
+        "question_text": "70.嘌呤核苷酸循环中由 IMP 生成 AMP 时，氨基来自：",
+        "options": [
+            "A．天冬氨酸的α-氨基",
+            "B．氨基甲酰磷酸",
+            "C．谷氨酸的α-氨基",
+            "D．谷氨酰胺酰胺基",
+            "E．赖氨酸上的氨基"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 70
+    },
+    {
+        "question_text": "71.在尿素合成过程中，下列哪步反应需要 ATP？",
+        "options": [
+            "A．鸟氨酸+氨基甲酰磷酸→瓜氨酸+磷酸",
+            "B．瓜氨酸+天冬氨酸→精氨酸代琥珀酸",
+            "C．精氨酸代琥珀酸→精氨酸+延胡素酸",
+            "D．精氨酸→鸟氨酸+尿素",
+            "E．草酰乙酸+谷氨酸→天冬氨酸+α-酮戊二酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 71
+    },
+    {
+        "question_text": "72.鸟氨酸循环的限速酶是：",
+        "options": [
+            "A．氨基甲酰磷酸合成酶 II",
+            "B．鸟氨酸氨基甲酰转移酶",
+            "C．精氨酸代琥珀酸合成酶",
+            "D．精氨酸代琥珀酸裂解酶",
+            "E．精氨酸酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 72
+    },
+    {
+        "question_text": "73.氨中毒的根本原因是：",
+        "options": [
+            "A．肠道吸收氨过量",
+            "B．氨基酸在体内分解代谢增强",
+            "C．肾功能衰竭排出障碍",
+            "D．肝功能损伤，不能合成尿素",
+            "E．合成谷氨酸酰胺减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 73
+    },
+    {
+        "question_text": "74.体内转运一碳单位的载体是：",
+        "options": [
+            "A．叶酸",
+            "B．维生素 B12",
+            "C．硫胺素",
+            "D．生物素",
+            "E．四氢叶酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列哪一种化合物不能由酪氨酸合成？",
+        "options": [
+            "A．甲状腺素",
+            "B．肾上腺素",
+            "C．多巴胺",
+            "D．苯丙氨酸",
+            "E．黑色素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 75
+    },
+    {
+        "question_text": "76.下列哪一种氨基酸是生酮兼生糖氨基酸？",
+        "options": [
+            "A．丙氨酸",
+            "B．苯丙氨酸",
+            "C . 丝氨酸",
+            "D．羟脯氨酸",
+            "E．亮氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 76
+    },
+    {
+        "question_text": "77.鸟氨酸循环中，合成尿素的第二分子氨来源于：",
+        "options": [
+            "A．游离氨",
+            "B．谷氨酰胺",
+            "C．天冬酰胺",
+            "D．天冬氨酸",
+            "E．氨基甲酰磷酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 77
+    },
+    {
+        "question_text": "78.下列哪一种物质是体内氨的储存及运输形式？",
+        "options": [
+            "A．谷氨酸",
+            "B．酪氨酸",
+            "C．谷氨酰胺",
+            "D．谷胱甘肽",
+            "E．天冬酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 78
+    },
+    {
+        "question_text": "79.下述哪种酶缺乏可致白化病：",
+        "options": [
+            "A．酪氨酸转氨酶",
+            "B．苯丙氨酸转氨酶",
+            "C．苯丙酮酸羟化酶",
+            "D．酪氨酸羟化酶",
+            "E．酪氨酸酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 79
+    },
+    {
+        "question_text": "80.肌酸的合成原料是：",
+        "options": [
+            "A．精氨酸和瓜氨酸",
+            "B．精氨酸和甘氨酸",
+            "C．精氨酸和鸟氨酸",
+            "D．鸟氨酸和甘氨酸",
+            "E．鸟氨酸和瓜氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 80
+    },
+    {
+        "question_text": "81.下列哪种氨基酸是生酮氨基酸：",
+        "options": [
+            "A．谷氨酸",
+            "B．赖氨酸",
+            "C．亮氨酸",
+            "D．甘氨酸",
+            "E．蛋氨酸"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 81
+    },
+    {
+        "question_text": "82.下列氨基酸中不属于必需氨基酸的是：",
+        "options": [
+            "A．缬氨酸",
+            "B．苏氨酸",
+            "C．赖氨酸",
+            "D．蛋氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 82
+    },
+    {
+        "question_text": "83.巨幼红细胞贫血患者，如用维生素 B12 治疗常表现疗效良好，其原因可能是维生素 B12促进下述哪一种一碳单位中的 FH4 的重新利用：",
+        "options": [
+            "A．N15N10=CH-FH4",
+            "B．N5N10CH2-FH4",
+            "C．N5 一 CH3 一 FH4",
+            "D．N10 一 CHO—FH4",
+            "E．N5 一 CH=NH—FH4"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 83
+    },
+    {
+        "question_text": "84.血液中 NPN 的主要成分是：",
+        "options": [
+            "A．尿素",
+            "B．尿酸",
+            "C．肌酸",
+            "D．胺",
+            "E．氨基酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 84
+    },
+    {
+        "question_text": "85.下述有关糖、脂肪、蛋白质互变的叙述中，哪一项是错误的：",
+        "options": [
+            "A．蛋白质可转变为糖",
+            "B．脂肪可转变为蛋白质",
+            "C．糖可转变为脂肪",
+            "D．葡萄糖可转变为非必需氨基酸的碳链部分",
+            "E．脂肪中甘油可转变为糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 85
+    },
+    {
+        "question_text": "86.体内氨的主要去路：",
+        "options": [
+            "A．合成谷氨酰胺",
+            "B．合成尿素",
+            "C．生成铵盐",
+            "D．生成非必需氨基酸",
+            "E．参与嘌呤、嘧啶合成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 86
+    },
+    {
+        "question_text": "87.体内 NH3 的主要来源是：",
+        "options": [
+            "A．肠道吸收",
+            "B．肾脏产氨",
+            "C．氨基酸脱氨基",
+            "D．胺分解",
+            "E．碱基分解"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 87
+    },
+    {
+        "question_text": "88.下列氨基酸中不属于必需氨基酸的是：",
+        "options": [
+            "A．缬氨酸",
+            "B．苏氨酸",
+            "C．赖氨酸",
+            "D．蛋氨酸",
+            "E．丝氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 88
+    },
+    {
+        "question_text": "89.体内某些胺类在生长旺盛组织(胚胎、肿瘤)中含量较高，它是调节细胞生长的重要物质，该胺是：",
+        "options": [
+            "A．牛磺酸",
+            "B．多胺",
+            "C．组胺",
+            "D．γ氨基丁酸",
+            "E．5-羟色胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 89
+    },
+    {
+        "question_text": "90.CPS-Ⅰ和 CPS-Ⅱ均催化氨基甲酰磷酸的合成，而生成的氨基甲酰磷酸可参与尿素和嘧啶核苷酸合成，下述有关其叙述中哪一项是正确的：",
+        "options": [
+            "A．CPS-I 参与嘧啶核苷酸合成",
+            "B．CPS-Ⅱ参与尿素的合成",
+            "C．N-乙酰谷氨酸是 CPS-I 的别构激活剂",
+            "D．N-乙酰谷氨酸是 CPS-Ⅱ的别构抑制剂",
+            "E．CPS-I 可作为细胞增殖的指标，CPS-Ⅱ可作为肝细胞分化指标"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 90
+    },
+    {
+        "question_text": "91.下列哪种维生素参与了一碳单位的代谢：",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B6",
+            "C．维生素 PP",
+            "D．叶酸",
+            "E．泛酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 91
+    },
+    {
+        "question_text": "92.参与氧化脱氨基的维生素是：",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B6",
+            "C．维生素 PP",
+            "D．叶酸",
+            "E．泛酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 92
+    },
+    {
+        "question_text": "93.参与转氨基的维生素是：",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B6",
+            "C．维生素 PP",
+            "D．叶酸",
+            "E．泛酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 93
+    },
+    {
+        "question_text": "94.参与辅酶 A 组成的维生素是：",
+        "options": [
+            "A．维生素 B1",
+            "B．维生素 B6",
+            "C．维生素 PP",
+            "D．叶酸",
+            "E．泛酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 94
+    },
+    {
+        "question_text": "95.骨骼与心肌细胞中的主要脱氨基方式：",
+        "options": [
+            "A．甲硫氨酸循环",
+            "B．嘌呤核苷酸循环",
+            "C．γ-谷氨酰基循环",
+            "D．鸟氨酸循环",
+            "E．丙氨酸-葡萄糖循环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 95
+    },
+    {
+        "question_text": "96.SAM 生成过程是：",
+        "options": [
+            "A．甲硫氨酸循环",
+            "B．嘌呤核苷酸循环",
+            "C．γ-谷氨酰基循环",
+            "D．鸟氨酸循环",
+            "E．丙氨酸-葡萄糖循环"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 96
+    },
+    {
+        "question_text": "97.氨基酸的吸收可以通过下列哪种途径：",
+        "options": [
+            "A．甲硫氨酸循环",
+            "B．嘌呤核苷酸循环",
+            "C．γ-谷氨酰基循环",
+            "D．鸟氨酸循环",
+            "E．丙氨酸-葡萄糖循环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 97
+    },
+    {
+        "question_text": "98.NH3 由肌肉向肝中运输是通过：",
+        "options": [
+            "A．甲硫氨酸循环",
+            "B．嘌呤核苷酸循环",
+            "C．γ-谷氨酰基循环",
+            "D．鸟氨酸循环",
+            "E．丙氨酸-葡萄糖循环"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 98
+    },
+    {
+        "question_text": "99.组胺的前体是：",
+        "options": [
+            "A．鸟氨酸",
+            "B．谷氨酸",
+            "C．组氨酸",
+            "D．色氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 99
+    },
+    {
+        "question_text": "100.γ-氨基丁酸的前体是：",
+        "options": [
+            "A．鸟氨酸",
+            "B．谷氨酸",
+            "C．组氨酸",
+            "D．色氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 100
+    },
+    {
+        "question_text": "101.精脒、精胺的前体是：",
+        "options": [
+            "A．鸟氨酸",
+            "B．谷氨酸",
+            "C．组氨酸",
+            "D．色氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 101
+    },
+    {
+        "question_text": "102.5-羟色胺的前体是：",
+        "options": [
+            "A．鸟氨酸",
+            "B．谷氨酸",
+            "C．组氨酸",
+            "D．色氨酸",
+            "E．苏氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 102
+    },
+    {
+        "question_text": "103.氨在血液中主要运输形式是：",
+        "options": [
+            "A．丙氨酸和谷氨酰胺",
+            "B．谷氨酸和丙氨酸",
+            "C．瓜氨酸和精氨酸",
+            "D．半胱氨酸和瓜氨酸",
+            "E．组氨酸和赖氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 103
+    },
+    {
+        "question_text": "104.氨在肝中合成尿索的主要中间物质：",
+        "options": [
+            "A．丙氨酸和谷氨酰胺",
+            "B．谷氨酸和丙氨酸",
+            "C．瓜氨酸和精氨酸",
+            "D．半胱氨酸和瓜氨酸",
+            "E．组氨酸和赖氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 104
+    },
+    {
+        "question_text": "105.与下列α氨基酸相应的α-酮酸，何者是三羧酸循环的中间产物",
+        "options": [
+            "A．丙氨酸",
+            "B．鸟氨酸",
+            "C．缬氨酸",
+            "D．赖氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 105
+    },
+    {
+        "question_text": "106.肌肉中氨基酸脱氨基作用的主要方式是",
+        "options": [
+            "A．转氨基与嘌呤核苷酸循环的联合",
+            "B．谷氨酸氧化脱氨基作用",
+            "C．转氨基作用",
+            "D．鸟氨酸循环",
+            "E．转氨基与谷氨酸氧化脱氨基的联合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 106
+    },
+    {
+        "question_text": "107.仅在肝中合成的化合物是",
+        "options": [
+            "A．尿素",
+            "B．糖原",
+            "C．血浆蛋白",
+            "D．胆固醇",
+            "E．脂肪酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 107
+    },
+    {
+        "question_text": "108.氨由肌肉组织通过血液向肝进行转运的过程是",
+        "options": [
+            "A．三羧酸循环",
+            "B．鸟氨酸循环",
+            "C．丙氨酸-葡萄糖循环",
+            "D．甲硫氨酸循环",
+            "E．γ-谷氨酰基循环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 108
+    },
+    {
+        "question_text": "109.合成尿素首步反应的产物是",
+        "options": [
+            "A．鸟氨酸",
+            "B．氨基甲酰磷酸",
+            "C．瓜氨酸",
+            "D．精氨酸",
+            "E．天冬氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 109
+    },
+    {
+        "question_text": "110.鸟氨酸循环中，合成尿素的第一分子氨来源于",
+        "options": [
+            "A．游离氨",
+            "B．谷氨酰胺",
+            "C．天冬氨酸",
+            "D．天冬酰胺",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 110
+    },
+    {
+        "question_text": "111.S-腺苷甲硫氨酸（SAM）最重要的生理功能是",
+        "options": [
+            "A．补充甲硫氨酸",
+            "B．合成四氢叶酸",
+            "C．生成嘌岭核苷酸",
+            "D．生成嘧啶核苷酸",
+            "E．提供甲基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 111
+    },
+    {
+        "question_text": "112.下列哪类氨基酸都是必需氨基酸？",
+        "options": [
+            "A．碱性氨基酸",
+            "B．含硫氨基酸",
+            "C．支链氨基酸",
+            "D．芳香族氨基酸",
+            "E．脂肪族氨基酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 112
+    },
+    {
+        "question_text": "113.对儿童是必需而对成人则为非必需的氨基酸是",
+        "options": [
+            "A．异亮氨酸、亮氨酸",
+            "B．丝氨酸、蛋氨酸",
+            "C．苯丙氨酸、苏氨酸",
+            "D．精氨酸、组氨酸",
+            "E．色氨酸、缬氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 113
+    },
+    {
+        "question_text": "114.不参与γ-谷氨酰基循环的酶是",
+        "options": [
+            "A．γ-谷氨酰基转移酶",
+            "B．谷氨酸环化转移酶",
+            "C．γ-谷氨酰半胱氨酸合成酶",
+            "D．谷胱甘肽合成酶",
+            "E．谷胱甘肚还原酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 114
+    },
+    {
+        "question_text": "115.丙氨酸-葡萄糖循环的作用除转运氨外尚可引起",
+        "options": [
+            "A．促进氨基酸转变成糖",
+            "B．促进非必需氨基酸的合成",
+            "C．促进鸟氨酸循环",
+            "D．促进氨基酸转变为脂肪",
+            "E．促进氨基酸氧化供能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 115
+    },
+    {
+        "question_text": "116.生成吲哚及其衍生物的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．酪氨酸",
+            "C．色氨酸",
+            "D．鸟氨酸",
+            "E．精氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 116
+    },
+    {
+        "question_text": "117.生成肾上腺素的氨基酸是",
+        "options": [
+            "A．色氨酸",
+            "B．酪氨酸",
+            "C．苏氨酸",
+            "D．赖氨酸",
+            "E．组氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 117
+    },
+    {
+        "question_text": "118.赖氨酸的脱羧产物是",
+        "options": [
+            "A．酪胺",
+            "B．腐胺",
+            "C．多巴胺",
+            "D．尸胺",
+            "E．组胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 118
+    },
+    {
+        "question_text": "119.经脱羧作用可生成腐胺的氨基酸是",
+        "options": [
+            "A．鸟氨酸",
+            "B . 苯丙氨酸",
+            "C．苏氨酸",
+            "D．酪氨酸",
+            "E．组氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 119
+    },
+    {
+        "question_text": "120.下列肠道腐败产物中对人体有益无害的是",
+        "options": [
+            "A．吲哚",
+            "B．腐胺",
+            "C．羟胺",
+            "D．维生素 K",
+            "E．酪胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 120
+    },
+    {
+        "question_text": "121.下列哪种作用是人体内最有效的氨基酸脱氨基方式",
+        "options": [
+            "A．转氨基作用",
+            "B．氧化脱氨基作用",
+            "C．联合脱氨基作用",
+            "D．核苷酸循环脱氨基作用",
+            "E．脱水脱氨基作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 121
+    },
+    {
+        "question_text": "122.不能与α-酮酸进行转氨基作用的氨基酸是",
+        "options": [
+            "A．VaL",
+            "B．Trp",
+            "C．Lys",
+            "D．Ala",
+            "E．Ile"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 122
+    },
+    {
+        "question_text": "123.天冬氨酸可由三羧酸循环中哪个组分转变而来",
+        "options": [
+            "A．琥珀酸",
+            "B．苹果酸",
+            "C．草酰乙酸",
+            "D．α-酮戊二酸",
+            "E．草酰琥珀酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 123
+    },
+    {
+        "question_text": "124.可经脱氨基作用直接生成α-酮戊二酸的氨基酸是",
+        "options": [
+            "A．谷氨酸",
+            "B．甘氨酸",
+            "C．丝氨酸",
+            "D . 苏氨酸",
+            "E．天冬氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 124
+    },
+    {
+        "question_text": "125.经转氨作用可生成草酰乙酸的氨基酸是",
+        "options": [
+            "A．Ala",
+            "B．Asp",
+            "C．Glu",
+            "D．Thr",
+            "E．Trp"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 125
+    },
+    {
+        "question_text": "126.ALT 活性最高的组织是",
+        "options": [
+            "A．心肌",
+            "B．脑",
+            "C．骨骼肌",
+            "D．肝",
+            "E．肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 126
+    },
+    {
+        "question_text": "127.AST 活性最高的组织是",
+        "options": [
+            "A．心肌",
+            "B．骨骼肌",
+            "C．肝",
+            "D．脑",
+            "E．肾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 127
+    },
+    {
+        "question_text": "128.L-氨基酸氧化酶，催化氨基酸脱氨基作用，产物是",
+        "options": [
+            "A．α-酮酸、NH3．H2O2",
+            "B．α-酮酸、NH3．H2O",
+            "C．α-酮酸、NH3",
+            "D．亚氨基酸、H2O2",
+            "E．亚氨基酸、H2O"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 128
+    },
+    {
+        "question_text": "129.肝中能直接进行氧化脱氨基作用的氨基酸是",
+        "options": [
+            "A．天冬氨酸",
+            "B．缬氨酸",
+            "C．谷氨酸",
+            "D．丝氨酸",
+            "E．丙氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 129
+    },
+    {
+        "question_text": "130.催化α-酮戊二酸和 NH3 生成相应含氮化合物的酶是",
+        "options": [
+            "A．谷丙转氨酶",
+            "B．谷草转氨酶",
+            "C．谷氨酰转肽酶",
+            "D．谷氨酸脱氢酶",
+            "E．谷氨酰胺合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 130
+    },
+    {
+        "question_text": "131.L-谷氨酸脱氢酶的辅酶是",
+        "options": [
+            "A．NAD+",
+            "B．FAD",
+            "C．FMN",
+            "D．TPP",
+            "E．CoA-SH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 131
+    },
+    {
+        "question_text": "132.L-谷氨酸脱氢酶的变构抑制剂是",
+        "options": [
+            "A．TTP",
+            "B．CTP",
+            "C．ATP",
+            "D．UTP",
+            "E．GTP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 132
+    },
+    {
+        "question_text": "133.L-谷氨酸脱氢酶的变构激活剂是",
+        "options": [
+            "A．CDP",
+            "B．GTP",
+            "C．ADP",
+            "D．UDP",
+            "E．GDP"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 133
+    },
+    {
+        "question_text": "134.下列与氨基酸代谢有关的途径中，哪种对部分氨基酸分解和合成都起着主要作用",
+        "options": [
+            "A．联合脱氨基作用",
+            "B．嘌岭核苷酸循环",
+            "C．鸟氨酸循环",
+            "D．蛋氨酸循环",
+            "E．丙氨酸-葡萄糖循环"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 134
+    },
+    {
+        "question_text": "135.氨基酸的反应中不需要磷酸吡哆醛参加的反应是",
+        "options": [
+            "A．由丙氨酸与α-酮戊二酸生成丙酮酸与谷氨酸",
+            "B．谷氨酸脱氨生成α-酮戊二酸",
+            "C．丙氨酸脱去氨基，生成丙酮酸",
+            "D．苯丙氨酸生成苯丙酮酸",
+            "E．谷氨酸脱羧生成γ-氨基丁酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 135
+    },
+    {
+        "question_text": "136.含巯基的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．丝氨酸",
+            "C．蛋氨酸",
+            "D．脯氨酸",
+            "E．鸟氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 136
+    },
+    {
+        "question_text": "137.天然蛋白质中不含有的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．丝氨酸",
+            "C．蛋氨酸",
+            "D．脯氨酸",
+            "E．鸟氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 137
+    },
+    {
+        "question_text": "138.天然蛋白质中不含有的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．丝氨酸",
+            "C．蛋氨酸",
+            "D．脯氨酸",
+            "E．瓜氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 138
+    },
+    {
+        "question_text": "139.含巯基的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．丝氨酸",
+            "C．蛋氨酸",
+            "D．脯氨酸",
+            "E．鸟氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 139
+    },
+    {
+        "question_text": "140.下列哪种氨基酸是生酮氨基酸：",
+        "options": [
+            "A．谷氨酸",
+            "B．蛋氨酸",
+            "C．亮氨酸",
+            "D．甘氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 140
+    },
+    {
+        "question_text": "141.下列哪种氨基酸是生糖氨基酸：",
+        "options": [
+            "A．谷氨酸",
+            "B．苯丙氨酸",
+            "C．亮氨酸",
+            "D．赖氨酸",
+            "E．色氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 141
+    },
+    {
+        "question_text": "142.食物蛋白质的互补作用是指",
+        "options": [
+            "A．糖与蛋白质混合食用，提高营养价值",
+            "B．脂肪与蛋白质混合食用，提高营养价值",
+            "C．几种蛋白混合食用，提高营养价值",
+            "D．糖、脂肪、蛋白质混合食用，提高营养价值",
+            "E．用糖、脂肪代替蛋白质的营养作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 142
+    },
+    {
+        "question_text": "143.不出现于蛋白质中的氨基酸是",
+        "options": [
+            "A．半胱氨酸",
+            "B．胱氨酸",
+            "C．瓜氨酸",
+            "D．精氨酸",
+            "E．赖氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 143
+    },
+    {
+        "question_text": "144.营养充足的婴儿、孕妇、恢复期病人常保持",
+        "options": [
+            "A．氮平衡",
+            "B．氮的负平衡",
+            "C．氮的正平衡",
+            "D．氮的总平衡",
+            "E．以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 144
+    },
+    {
+        "question_text": "145.糖、脂肪酸与氨基酸三者代谢的交叉点是",
+        "options": [
+            "A．磷酸烯醇式丙酮酸",
+            "B．丙酮酸",
+            "C．延胡索酸",
+            "D．琥珀酸",
+            "E．乙酰辅酶 A"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 145
+    },
+    {
+        "question_text": "146.氨由肌肉组织通过血液向肝进行转运的过程是",
+        "options": [
+            "A．三羧酸循环",
+            "B．鸟氨酸循环",
+            "C．丙氨酸-葡萄糖循环",
+            "D．甲硫氨酸循环",
+            "E．γ谷氨酰基循环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 146
+    },
+    {
+        "question_text": "147.缺乏下列哪一种维生素可产生巨幼红细胞贫血?",
+        "options": [
+            "A．维生素 Bl",
+            "B．维生素 B2",
+            "C．维生素 B6",
+            "D．维生素 B12",
+            "E．维生素 C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 147
+    },
+    {
+        "question_text": "148.缺乏下列哪一种维生素可产生巨幼红细胞贫血?",
+        "options": [
+            "A．维生素 Bl",
+            "B．维生素 B2",
+            "C．维生素 B6",
+            "D．叶酸",
+            "E．维生素 C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 148
+    },
+    {
+        "question_text": "149.在体内转变为儿茶酚胺的氨基酸是",
+        "options": [
+            "A．色氨酸",
+            "B．天冬氨酸",
+            "C．谷氨酸",
+            "D．酪氨酸",
+            "E．赖氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 149
+    },
+    {
+        "question_text": "150.儿茶酚胺包括肾上腺素、去甲肾上腺素和",
+        "options": [
+            "A．甲状腺素",
+            "B．5-羟色胺",
+            "C．组胺",
+            "D．多巴胺",
+            "E．精胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 150
+    },
+    {
+        "question_text": "151.可在体内生成黑色素的氨基酸是",
+        "options": [
+            "A．甲硫氨酸",
+            "B．色氨酸",
+            "C．组氨酸",
+            "D．谷氨酸",
+            "E．酪氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 151
+    },
+    {
+        "question_text": "152.体内活性硫酸根是指",
+        "options": [
+            "A．GABA",
+            "B．GSH",
+            "C．GSSG",
+            "D．PAPS",
+            "E．SAM"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 152
+    },
+    {
+        "question_text": "153.经脱羧基后生成产物能使血管舒张的氨基酸是",
+        "options": [
+            "A．精氨酸",
+            "B．天冬氨酸",
+            "C．组氨酸",
+            "D．谷氨酸",
+            "E．5—羟色氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 153
+    },
+    {
+        "question_text": "154.尿素合成中，能穿出线粒体进入胞液中继续进行反应的代谢物是",
+        "options": [
+            "A．精氨酸",
+            "B．瓜氨酸",
+            "C．鸟氨酸",
+            "D．氨基甲酰磷酸",
+            "E．精氨酸代琥珀酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 154
+    },
+    {
+        "question_text": "155.可与谷丙转氨酶共同催化丙氨酸和α酮戊二酸反应产生游离氨的酶是",
+        "options": [
+            "A．谷氨酸脱氢酶",
+            "B．谷草转氨酶",
+            "C．谷氨酰胺酶",
+            "D．谷氨酰胺合成酶",
+            "E．α酮戊二酸脱氢酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 155
+    },
+    {
+        "question_text": "156.正常成人常保持",
+        "options": [
+            "A．氮平衡",
+            "B．氮的负平衡",
+            "C．氮的正平衡",
+            "D．氮的总平衡",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 156
+    },
+    {
+        "question_text": "157.消耗性疾病的病人常保持",
+        "options": [
+            "A．氮平衡",
+            "B．氮的负平衡",
+            "C．氮的正平衡",
+            "D．氮的总平衡",
+            "E．以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 157
+    },
+    {
+        "question_text": "158.某人摄取 100 克蛋白质，24 小时后从尿中排出尿素 35 克，粪便中排出氮 3 克，他处于",
+        "options": [
+            "A．氮平衡",
+            "B．氮的负平衡",
+            "C．氮的正平衡",
+            "D．氮的总平衡",
+            "E．必须明确年龄而后判断"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 158
+    },
+    {
+        "question_text": "159.关于氧化脱氨基作用，描述正确的是",
+        "options": [
+            "A．以 D 氨基酸脱氢酶为最重要",
+            "B．脱下的氢由 FAD 接受",
+            "C．先水解再氧化产生氨，两步反应需要两种酶参加",
+            "D．反应物有氨和α-酮酸",
+            "E．反应不可逆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 159
+    },
+    {
+        "question_text": "160.苯丙氨酸脱羧酶的辅酶是",
+        "options": [
+            "A．钴胺素",
+            "B．磷酸吡哆醛",
+            "C．四氢叶酸",
+            "D．TPP",
+            "E．烟酰胺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 160
+    },
+    {
+        "question_text": "161.合成尿素时，线粒体外合成步骤中的氮由下列哪种物质直接提供",
+        "options": [
+            "A．Gln",
+            "B．Glu",
+            "C．Asp",
+            "D．Asn",
+            "E．NH3"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 161
+    },
+    {
+        "question_text": "162.芳香必需氨基酸是",
+        "options": [
+            "A．蛋氨酸",
+            "B．酪氨酸",
+            "C．亮氨酸",
+            "D．脯氨酸",
+            "E．苯丙氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 162
+    },
+    {
+        "question_text": "163.关于γ-氨基丁酸，正确的是",
+        "options": [
+            "A．谷氨酸脱羧生成",
+            "B．谷氨酰胺脱羧产生",
+            "C．谷氨酰胺脱氨生成",
+            "D．天冬氨酸脱羧生成",
+            "E．天冬氨酸脱氨生成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 163
+    },
+    {
+        "question_text": "164.在代谢中能生成多巴胺的氨基酸是",
+        "options": [
+            "A．色氨酸",
+            "B．组氨酸",
+            "C．酪氨酸",
+            "D．丙氨酸",
+            "E．赖氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 164
+    },
+    {
+        "question_text": "165.黑色素是下列哪种氨基酸代谢的产物",
+        "options": [
+            "A．甘氨酸",
+            "B．丙氨酸",
+            "C．色氨酸",
+            "D．赖氨酸",
+            "E．酪氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 165
+    },
+    {
+        "question_text": "166.在细胞内代谢生成维生素 PP 的氨基酸是",
+        "options": [
+            "A．缬氨酸",
+            "B．赖氨酸",
+            "C．色氨酸",
+            "D．酪氨酸",
+            "E．异亮氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 166
+    },
+    {
+        "question_text": "167.能生成 NO 的氨基酸是",
+        "options": [
+            "A．缬氨酸",
+            "B．赖氨酸",
+            "C．色氨酸",
+            "D．精氨酸",
+            "E．苯丙氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 167
+    },
+    {
+        "question_text": "168.下列哪一种氨基酸与尿素循环无关",
+        "options": [
+            "A．赖氨酸",
+            "B．精氨酸",
+            "C．天冬氨酸",
+            "D．鸟氨酸",
+            "E．瓜氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 168
+    },
+    {
+        "question_text": "169.谷丙转氨酶的辅酶是",
+        "options": [
+            "A．吡哆醛",
+            "B．磷酸吡哆醛",
+            "C．磷酸吡哆醇",
+            "D．吡哆胺",
+            "E．吡哆醇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 169
+    },
+    {
+        "question_text": "170.在鸟氨酸循环中，尿素由下列哪种物质水解而得",
+        "options": [
+            "A．鸟氨酸",
+            "B．瓜氨酸",
+            "C．精氨酸",
+            "D．精氨酸代琥珀酸",
+            "E．氨基甲酰磷酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 170
+    },
+    {
+        "question_text": "171.可作为一碳基团供体的氨基酸有许多，下列哪一种氨基酸能够提供一碳基团",
+        "options": [
+            "A．丝氨酸",
+            "B．精氨酸",
+            "C．赖氨酸",
+            "D．缬氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 171
+    },
+    {
+        "question_text": "172.谷氨酰胺和甘氨酸可共同参与下列物质合成的是",
+        "options": [
+            "A．辅酶 A",
+            "B．嘌呤碱",
+            "C．嘧啶碱",
+            "D．血红素",
+            "E．胆红素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 172
+    },
+    {
+        "question_text": "173.组氨酸转变为组胺是通过",
+        "options": [
+            "A．转氨基",
+            "B．羟化作用",
+            "C．脱羧作用",
+            "D．还原作用",
+            "E．氧化脱氨基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 173
+    },
+    {
+        "question_text": "174.帕金森氏病（Parkinson~sdisease）患者体内的多巴胺生成减少，这是由于",
+        "options": [
+            "A．酪氨酸代谢异常",
+            "B．蛋氨酸代谢异常",
+            "C．半胱氨酸代谢异常",
+            "D．谷氨酸代谢异常",
+            "E．精氨酸代谢异常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 174
+    },
+    {
+        "question_text": "175.多巴胺、去甲肾上腺素和肾上腺素统称儿茶酚胺，合成儿茶酚胺的限速酶是",
+        "options": [
+            "A．丙氨酸转氨酶",
+            "B．酪氨酸羟化酶",
+            "C．丝氨酸水化酶",
+            "D．苏氨酸异构酶",
+            "E．苯丙氨酸转氨酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 175
+    },
+    {
+        "question_text": "176.把酶蛋白完全水解，其产物为",
+        "options": [
+            "A．辅酶或辅基",
+            "B．多肽",
+            "C．寡肽",
+            "D．氨基酸",
+            "E．核苷酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 176
+    },
+    {
+        "question_text": "177.下列哪一组全部为必需氨基酸",
+        "options": [
+            "A．苏氨酸,色氨酸,苯丙氨酸,赖氨酸",
+            "B．异亮氨酸,丝氨酸,苏氨酸,缬氨酸",
+            "C．亮氨酸,蛋氨酸,脯氨酸,苯丙氨酸",
+            "D．亮氨酸,丝氨酸,缬氨酸,谷氨酸",
+            "E．亮氨酸,丙氨酸,组氨酸,酪氨酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 177
+    },
+    {
+        "question_text": "178.真核细胞降解外来蛋白质的场所是",
+        "options": [
+            "A．高尔基体",
+            "B．内质网",
+            "C．溶酶体",
+            "D．线粒体",
+            "E．细胞核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 178
+    },
+    {
+        "question_text": "179.关于蛋白质降解的胞液途径，正确的是",
+        "options": [
+            "A．主要降解长寿蛋白质",
+            "B．泛素活化不需要 ATP",
+            "C．泛素与蛋白质以非共价键连接",
+            "D．泛素与蛋白质以共价键连接",
+            "E．泛素与蛋白质以氢键连接"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 179
+    },
+    {
+        "question_text": "180.急性肝炎患者血清中活性显著升高的酶是",
+        "options": [
+            "A．GOT",
+            "B．CPS-I",
+            "C．LDH",
+            "D．CPS-II",
+            "E．GPT"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 180
+    },
+    {
+        "question_text": "181.嘌呤核苷酸循环发挥作用的组织是",
+        "options": [
+            "A．肝脏",
+            "B．肾脏",
+            "C．脑",
+            "D．胰腺",
+            "E．肌肉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 181
+    },
+    {
+        "question_text": "182.临床上对高血氨病人做结肠透析时常用",
+        "options": [
+            "A．弱碱性透析液",
+            "B．弱酸性透析液",
+            "C．强碱性透析液",
+            "D．强酸性透析液",
+            "E．中性透析液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 182
+    },
+    {
+        "question_text": "183.尿素合成中，从线粒体进入胞液的中间代谢物是",
+        "options": [
+            "A．Arg",
+            "B．瓜氨酸",
+            "C．鸟氨酸",
+            "D．氨基甲酰磷酸",
+            "E．精氨酸代琥珀酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 183
+    },
+    {
+        "question_text": "184.尿素循环中既是起点又是终点的物质是",
+        "options": [
+            "A．Arg",
+            "B．瓜氨酸",
+            "C．鸟氨酸",
+            "D．氨基甲酰磷酸",
+            "E．精氨酸代琥珀酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 184
+    },
+    {
+        "question_text": "185.多胺生成的限速酶是",
+        "options": [
+            "A．瓜氨酸脱羧酶",
+            "B．鸟氨酸脱羧酶",
+            "C．赖氨酸脱羧酶",
+            "D．组氨酸脱羧酶",
+            "E．精氨酸脱羧酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 185
+    },
+    {
+        "question_text": "186.在癌组织中含量较高的胺类是",
+        "options": [
+            "A．组胺",
+            "B．5-HT",
+            "C．多胺",
+            "D．牛磺酸",
+            "E．GABA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 186
+    },
+    {
+        "question_text": "187.叶酸缺乏除影响氨基酸代谢外，还能影响",
+        "options": [
+            "A．糖代谢",
+            "B．脂代谢",
+            "C．DNA 合成代谢",
+            "D．DNA 分解代谢",
+            "E．蛋白质合成代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 187
+    },
+    {
+        "question_text": "188.其生物合成过程与 SAM 无关的是",
+        "options": [
+            "A．卵磷脂",
+            "B．肌酸",
+            "C．肾上腺素",
+            "D．肉碱",
+            "E．GABA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 188
+    },
+    {
+        "question_text": "189.肌酸和磷酸肌酸代谢的终产物是",
+        "options": [
+            "A．尿素",
+            "B．尿酸",
+            "C．胍乙酸",
+            "D．PAPS",
+            "E．肌酸酐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 189
+    },
+    {
+        "question_text": "190.甲状腺素合成的原料是",
+        "options": [
+            "A．精氨酸",
+            "B．色氨酸",
+            "C．亮氨酸",
+            "D．酪氨酸",
+            "E．组氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 190
+    },
+    {
+        "question_text": "191.参与氧化脱氨基作用的是",
+        "options": [
+            "A．VB12",
+            "B．磷酸吡哆醛",
+            "C．四氢叶酸",
+            "D．NAD+",
+            "E．FAD"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 191
+    },
+    {
+        "question_text": "192.参与一碳单位代谢的是",
+        "options": [
+            "A．VB12",
+            "B．磷酸吡哆醛",
+            "C．四氢叶酸",
+            "D．NAD+",
+            "E．FAD"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 192
+    },
+    {
+        "question_text": "193.下列属于酸性氨基酸的是",
+        "options": [
+            "A．瓜氨酸",
+            "B．亮氨酸",
+            "C．精氨酸",
+            "D．N-AGA",
+            "E．Asp"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 193
+    },
+    {
+        "question_text": "194.肌酸酐的排泄经过下列哪种脏器",
+        "options": [
+            "A．肝脏",
+            "B．胰腺",
+            "C．胆汁",
+            "D．小肠",
+            "E．肾脏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 194
+    },
+    {
+        "question_text": "195.影响四氢叶酸合成的物质是",
+        "options": [
+            "A．氨甲喋呤",
+            "B．生物素",
+            "C．6-巯基嘌呤",
+            "D．别嘌呤醇",
+            "E．GSH"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 195
+    },
+    {
+        "question_text": "196.尿素分子中一个 N 原子来自 NH3，另一分子直接来自",
+        "options": [
+            "A．鸟氨酸",
+            "B．N-AGA",
+            "C．天冬氨酸",
+            "D．瓜氨酸",
+            "E．氨基甲酰磷酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 196
+    },
+    {
+        "question_text": "197.合成一分子尿素消耗的高能键的数目是",
+        "options": [
+            "A．2 个",
+            "B．3 个",
+            "C．4 个",
+            "D．5 个",
+            "E．6 个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 197
+    },
+    {
+        "question_text": "198.肾小管分泌的氨主要来自",
+        "options": [
+            "A．Gln",
+            "B．Glu",
+            "C．Asn",
+            "D．Gly",
+            "E．Asp"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 198
+    },
+    {
+        "question_text": "199.关于转氨基作用的叙述，错误的是",
+        "options": [
+            "A．辅酶是磷酸吡哆醛",
+            "B．转氨酶主要分布于细胞内，血清中活性很低",
+            "C．体内有多种转氨酶",
+            "D．与氧化脱氨基联合是骨骼肌的主要脱氨基方式",
+            "E．可以合成非必需氨基酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "199",
+        "number": 199
+    }
+]

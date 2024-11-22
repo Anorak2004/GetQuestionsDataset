@@ -1,0 +1,1626 @@
+[
+    {
+        "question_text": "1.DNA 的遗传信息传递到蛋白质，中间经过",
+        "options": [
+            "A．tRNA",
+            "B．DNA 自身",
+            "C．rRNA",
+            "D．mRNA",
+            "E．外显子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 1
+    },
+    {
+        "question_text": "2.多数氨基酸都有两个以上密码子,下列哪组氨基酸只有一个密码子?",
+        "options": [
+            "A．苏氨酸、甘氨酸",
+            "B．脯氨酸、精氨酸",
+            "C．丝氨酸、亮氨酸",
+            "D．色氨酸、蛋氨酸",
+            "E．天冬氨酸和天冬酰胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 2
+    },
+    {
+        "question_text": "3.与 mRNA 上 ACG 密码子相应的 tRNA 反密码子是",
+        "options": [
+            "A．UGC",
+            "B．TGC",
+            "C．GCA",
+            "D．CGU",
+            "E．CGT"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 3
+    },
+    {
+        "question_text": "4.终止密码有 3 个，它们是",
+        "options": [
+            "A．AAACCCGGG",
+            "B．AUGUGAGAU",
+            "C．UAACAAGAA`",
+            "D．UUUUUCUUG",
+            "E．UAAUAGUGA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 4
+    },
+    {
+        "question_text": "5.白喉霉素抑制",
+        "options": [
+            "A．翻译起始过程",
+            "B．翻译延长过程",
+            "C．翻译终止过程",
+            "D．DNA 拓扑异构酶",
+            "E．核酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 5
+    },
+    {
+        "question_text": "6.原核生物和真核生物都有的 rRNA 是",
+        "options": [
+            "A．18S-rRNA",
+            "B．5S-rRNA",
+            "C．5.8S-rRNA",
+            "D．28S-rRNA",
+            "E．16S-rRNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 6
+    },
+    {
+        "question_text": "7.核糖体是",
+        "options": [
+            "A．tRNA 的三级结构形式",
+            "B．参与转录终止，因为翻译紧接着转录之后",
+            "C．有转运氨基酸的作用",
+            "D．遗传密码的携带者",
+            "E．由 rRNA 和蛋白质构成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 7
+    },
+    {
+        "question_text": "8.tRNA 分子上结合氨基酸的序列是",
+        "options": [
+            "A．CAA-3’",
+            "B．CCA-3’",
+            "C．AAC-3’",
+            "D．ACA-3’",
+            "E．ACA-3’"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 8
+    },
+    {
+        "question_text": "9.核糖体的 P 位 D-",
+        "options": [
+            "A．也称为受位",
+            "B．每生成一次肽即脱落",
+            "C．参与氨基酸的活化",
+            "D．在 A 位的前方",
+            "E．肽键在 P 位生成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 9
+    },
+    {
+        "question_text": "10.氨基酸和 tRNA 的结合是",
+        "options": [
+            "A．磷酸二酯键",
+            "B．氢键",
+            "C．肽键",
+            "D．酯键",
+            "E．酰胺键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 10
+    },
+    {
+        "question_text": "11.多聚核糖体",
+        "options": [
+            "A．是核糖体大、小亚基聚合",
+            "B．是核糖体小亚基与的 mRNA 聚合",
+            "C．在蛋白质合成中出现",
+            "D．是氨基酸在核糖体上聚合",
+            "E．即 DNA 串珠模型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 11
+    },
+    {
+        "question_text": "12.核糖体结合序列(RBS)",
+        "options": [
+            "A．也叫 Pribnow 盒",
+            "B．在 mRNA 分子上",
+            "C．真核生物转录起点",
+            "D．由 Meselson-Stahl 首先发现",
+            "E．在 tRNA 分子上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 12
+    },
+    {
+        "question_text": "13.翻译起始复合物的组成",
+        "options": [
+            "A．DNA 模板+RNA+RNA 聚合酶",
+            "B．Dna 蛋白+开链 DNA",
+            "C．核糖体+甲硫氨酰 tRNA+mRNA",
+            "D．翻译起始因子+核糖体",
+            "E．核糖体+起始者 tRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 13
+    },
+    {
+        "question_text": "14.翻译延长的注册",
+        "options": [
+            "A．指翻译起始复合物的生成",
+            "B．也称为转位",
+            "C．是指新的氨基酰-tRNA 进入核糖体空的 A 位",
+            "D．指 tRNA 进入核糖体",
+            "E．由延长因子 EFG 带领，不需消耗能量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 14
+    },
+    {
+        "question_text": "15.原核生物和真核生物翻译起始不同之处",
+        "options": [
+            "A．真核生物先靠 Shine-Dalgarno 序列使 mRNA 结合核糖体",
+            "B．真核生物帽子结合蛋白是翻译起始因子之一",
+            "C．IF 比 eIF 种类多",
+            "D．原核生物和真核生物使用不同起始密码",
+            "E．原核生物有 TATAAT 作为翻译起始序列，真核生物则是 TATA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 15
+    },
+    {
+        "question_text": "16.蛋白质生物合成部位在",
+        "options": [
+            "A．细胞核内",
+            "B．线粒体膜",
+            "C．粗面内质网",
+            "D．细胞膜内",
+            "E．细胞核膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 16
+    },
+    {
+        "question_text": "17.哪一种酶是翻译延长需要的?",
+        "options": [
+            "A．氨基酰-tRNA 转移酶",
+            "B．磷酸化酶",
+            "C．氨基酸合酶",
+            "D．肽链聚合酶",
+            "E．转肽酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 17
+    },
+    {
+        "question_text": "18.翻译延长因子",
+        "options": [
+            "A．作用是协助注册和成肽",
+            "B．EFT 就是转肽酶",
+            "C．EFG 有两个亚基",
+            "D．协助注册过程需要形成氨基酰-tRNA-延长因子-GTP复合物",
+            "E．延长因子是蛋白质，其作用过程不需能量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 18
+    },
+    {
+        "question_text": "19.翻译延长过程的描述哪一项是正确的?",
+        "options": [
+            "A．每延长一个氨基酸都要按照注册-转位-成肽的次序",
+            "B．氨基酰-tRNA 进入 A 位",
+            "C．转位是肽链同 mRNA 从 P 位转到 A 位",
+            "D．成肽是在延长因子催化下进行的",
+            "E．肽链从 C 端向 N 端延长"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 19
+    },
+    {
+        "question_text": "20.干扰素(Interferon)是",
+        "options": [
+            "A．病毒本身存在的",
+            "B．细菌产生的",
+            "C．根据竞争性抑制原理设计的",
+            "D．病毒感染后诱导细胞合成的",
+            "E．抗生素中的一种"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪一项是翻译后加工?",
+        "options": [
+            "A．5’-端帽子结构",
+            "B．3’-端聚苷酸尾巴",
+            "C．酶的激活",
+            "D．酶的变构",
+            "E．蛋白质糖基化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 21
+    },
+    {
+        "question_text": "22.哪一种物质是由鸦片促黑皮质素原(POMC)水解加工生成的?",
+        "options": [
+            "A．胰岛素",
+            "B．糖蛋白",
+            "C．脂蛋白",
+            "D．ACTH",
+            "E．cAMP"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 22
+    },
+    {
+        "question_text": "23.哪一种是分泌性蛋白",
+        "options": [
+            "A．血红蛋白",
+            "B．蛋白激酶",
+            "C．凝血因子",
+            "D．转肽酶",
+            "E．转位酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 23
+    },
+    {
+        "question_text": "24.信号肽酶",
+        "options": [
+            "A．存在于信号肽识别粒子(SRP)中",
+            "B．能把分泌蛋白带出细胞膜",
+            "C．是核糖体大亚基蛋白(rpL)中的一种",
+            "D．作用于信号肽的 C 端",
+            "E．也称为对接蛋白(DP)"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列哪一种直接抑制转肽酶?",
+        "options": [
+            "A．放线菌酮",
+            "B．四环素",
+            "C．土霉素",
+            "D．链霉素和卡那霉素",
+            "E．利福平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 25
+    },
+    {
+        "question_text": "26.真核生物在蛋白质生物合成中的启动 tRNA 是",
+        "options": [
+            "A．亮氨酸 tRNA",
+            "B．丙氨酸 tRNA",
+            "C．赖氨酸 tRNA",
+            "D．甲酰甲硫氨酸 tRNA",
+            "E．甲硫氨酸 tRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 26
+    },
+    {
+        "question_text": "27.哺乳动物核蛋白体大亚基的沉降系数是",
+        "options": [
+            "A．40S",
+            "B．70S",
+            "C．30S",
+            "D．80S",
+            "E．60S"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 27
+    },
+    {
+        "question_text": "28.使原核生物核蛋白体大小亚基保持分离状态的蛋白质因子是",
+        "options": [
+            "A．IF1",
+            "B．IF2",
+            "C．IF3",
+            "D．EF1",
+            "E．EF2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 28
+    },
+    {
+        "question_text": "29.蛋白质合成的方向是",
+        "options": [
+            "A．由 mRNA 的 3 端向 5 端进行",
+            "B．可同时由 mRNA 的 3 端与 5 端方向进行",
+            "C．由肽链的 C 端向 N 端进行",
+            "D．可同时由肽链的 N 端与 C 端方向进行",
+            "E．由肽链的 N 端向 C 端进行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 29
+    },
+    {
+        "question_text": "30.氯霉素抑制蛋白质合成，与其结合的是",
+        "options": [
+            "A．真核生物核蛋白体小亚基",
+            "B．原核生物核蛋白体小亚墓",
+            "C．真核生物核蛋白体大亚基",
+            "D．原核生物核蛋白体大亚基",
+            "E．氨基酞-tRNA 合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 30
+    },
+    {
+        "question_text": "31.蛋白质生物合成中不需要能量的步骤是",
+        "options": [
+            "A．氨基酰-tRNA 合成",
+            "B．启动",
+            "C．肽链延长",
+            "D．转位",
+            "E．终止"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 31
+    },
+    {
+        "question_text": "32.蛋白质生物合成的肽链延长阶段一定不需要",
+        "options": [
+            "A．GTP",
+            "B．转肽酶",
+            "C．甲酰甲硫氨酰 tRNA",
+            "D．mRNA",
+            "E．甲硫氨酰 tRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 32
+    },
+    {
+        "question_text": "33.mRNA 作为蛋白质合成的模板，根本上是由于",
+        "options": [
+            "A．含有核糖核苷酸",
+            "B．代谢快",
+            "C．含量少",
+            "D．由 DNA 转录而来",
+            "E．含有密码子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 33
+    },
+    {
+        "question_text": "34.蛋白质生物合成是",
+        "options": [
+            "A．蛋白质水解的逆反应",
+            "B．肽键合成的化学反应",
+            "C．遗传信息的逆向传递",
+            "D．在核蛋白体上以 mRNA 为模板的多肽链合成过程",
+            "E．氨基酸的自发反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 34
+    },
+    {
+        "question_text": "35.关于 mRNA，错误的叙述是",
+        "options": [
+            "A．一个 mRNA 分子只能指导一种多肽链生成",
+            "B．mRNA 通过转录生成",
+            "C．mRNA 与核蛋白体结合才能起作用",
+            "D．mRNA 极易降解",
+            "E．mRNA 种类极多"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 35
+    },
+    {
+        "question_text": "36.多肽链的氨基酸序列取决于",
+        "options": [
+            "A．tRNA",
+            "B．18SrRNA",
+            "C．28SrRNA",
+            "D．mRNA",
+            "E．氨基酰-mRNA 合成酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 36
+    },
+    {
+        "question_text": "37.反密码子是指",
+        "options": [
+            "A．DNA 中的遗传信息",
+            "B．tRNA 中的某些部分",
+            "C．mRNA 中除密码子以外的其他部分",
+            "D．rRNA 中的某些部分",
+            "E．密码子的相应氨基酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 37
+    },
+    {
+        "question_text": "38.密码子 GGC 的对应反密码子是",
+        "options": [
+            "A．GCC",
+            "B．CCG",
+            "C．CCC",
+            "D．CGC",
+            "E．GGC"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 38
+    },
+    {
+        "question_text": "39.兼可抑制真、原核生物蛋白质生物合成的抗生素是",
+        "options": [
+            "A．放线菌酮",
+            "B．四环素",
+            "C．链霉素",
+            "D．氯霉素",
+            "E．嘌呤霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 39
+    },
+    {
+        "question_text": "40.可识别分泌蛋白新生肽链 N 端的物质是",
+        "options": [
+            "A．转肽酶",
+            "B．信号肽识别颗粒",
+            "C．GTP 酶",
+            "D．RNA 酶",
+            "E．mRNA 的聚 A 尾部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 40
+    },
+    {
+        "question_text": "41.在蛋白质生物合成中有转运氨基酸作用的物质是",
+        "options": [
+            "A．mRNA",
+            "B．rRNA",
+            "C．hnRNA",
+            "D．DNA",
+            "E．tRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 41
+    },
+    {
+        "question_text": "42.mRNA 序列中所有的 AUG 都是",
+        "options": [
+            "A．蛋白质合成的终止信号",
+            "B．线粒体蛋白质合成启动信号",
+            "C．启动 tRNA 的反密码",
+            "D．代表蛋氨酸或甲酰蛋氨酸",
+            "E．蛋白质合成的启动信号"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 42
+    },
+    {
+        "question_text": "43.原核起始氨基酰 tRNA 三元复合物的形成需要",
+        "options": [
+            "A．IF1",
+            "B．EF2",
+            "C．IF3",
+            "D．IF2",
+            "E．IF1 与 1F3"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 43
+    },
+    {
+        "question_text": "44.蛋白质合成时，氨基酸的活化部位是",
+        "options": [
+            "A．烷基",
+            "B．羧基",
+            "C．氨基",
+            "D．硫氢基",
+            "E．羟基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 44
+    },
+    {
+        "question_text": "45.与原核生物核蛋白体小亚基结合的蛋白质合成抑制剂，是",
+        "options": [
+            "A．链霉素",
+            "B．氯霉素",
+            "C．利福霉素",
+            "D．放线菌素",
+            "E．青霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 45
+    },
+    {
+        "question_text": "46.蛋白质合成后加工，不包括",
+        "options": [
+            "A．蛋白质磷酸化",
+            "B．信号肽切除",
+            "C．蛋白质糖基化",
+            "D．酶的构象改变",
+            "E．蛋白质乙酰化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 46
+    },
+    {
+        "question_text": "47.白喉毒素抑制蛋白质生物合成，是因为",
+        "options": [
+            "A．它可作用于 EFTu",
+            "B．它可直接作用于 EF-2",
+            "C．它的 A 链有催化活性",
+            "D．它可作用于 EFTs",
+            "E．它可抑制 EFT1"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 47
+    },
+    {
+        "question_text": "48.信号肽位于",
+        "options": [
+            "A．分泌蛋白新生链的中段",
+            "B．成熟的分泌蛋白 N 端",
+            "C．分泌蛋白新生链的 C 端",
+            "D．成熟的分泌蛋白 C 端",
+            "E．分泌蛋白新生链的 N 端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 48
+    },
+    {
+        "question_text": "49.多核蛋白体指",
+        "options": [
+            "A．多个核蛋白体",
+            "B．多个核蛋白体小亚基",
+            "C．多个核蛋白体附着在一条 mRNA 上分别合成多肽链的复合物",
+            "D．多个核蛋白体大亚基",
+            "E．多个携有氨基酰 tRNA 的核蛋白体小亚基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 49
+    },
+    {
+        "question_text": "50.与核蛋白体无相互作用的物质，是",
+        "options": [
+            "A．氨基酰 tRNA",
+            "B．起始因子",
+            "C．mRNA",
+            "D．释放因子",
+            "E．氨基酰 tRNA 合成酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 50
+    },
+    {
+        "question_text": "51.关于核蛋白体循环的叙述，错误的是",
+        "options": [
+            "A．终止因子可识别 UGA",
+            "B．终止因子与“A 位”结合",
+            "C．终止因子可识别 UAA",
+            "D．终止因子可识别 UAG",
+            "E．终止因子与“P 位”结合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 51
+    },
+    {
+        "question_text": "52.核蛋白体“P 位”的功能是",
+        "options": [
+            "A．催化肽键生成",
+            "B．从 tRNA 水解新生肽链传递给 A 位",
+            "C．转肽",
+            "D．接受新进位的氨基酰 tRNA",
+            "E．活化氨基酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 52
+    },
+    {
+        "question_text": "53.核蛋白体“A 位”的功能是",
+        "options": [
+            "A．催化肽键生成",
+            "B．从 tRNA 水解新生肽链",
+            "C．转肽",
+            "D．接受新进位的氨基酰 tRNA",
+            "E．活化氨基酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 53
+    },
+    {
+        "question_text": "54.氨基酰-tRNA 中，tRNA 与氨基酸的结合键，是",
+        "options": [
+            "A．盐键",
+            "B．磷酸二酯键",
+            "C．肽键",
+            "D．糖苷键",
+            "E．酯键"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 54
+    },
+    {
+        "question_text": "55.原核生物的肽链延长因子，是",
+        "options": [
+            "A．EFTu，EFTU1",
+            "B．EFT，EFG",
+            "C．EFG，EFT2",
+            "D．EFT1，EFT2",
+            "E．EFT1，EFG"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 55
+    },
+    {
+        "question_text": "56.一个氨基酸合成入多肽链，需要",
+        "options": [
+            "A．两个 ATP 分子",
+            "B．一个 ATP 分子，两个 GTP 分子",
+            "C．一个 ATP 分子，一个 GTP 分子",
+            "D．两个 ATP 分子，一个 GTP 分子",
+            "E．两个 GTP 分子"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 56
+    },
+    {
+        "question_text": "57.寡核苷酸 pACGGUAC 抑制翻译，其 mRNA 上结合序列是",
+        "options": [
+            "A．pACGGUAC",
+            "B．pUUCCUCU",
+            "C．pUGCCAUG",
+            "D．pACUUAAU",
+            "E．pGUACCGU"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 57
+    },
+    {
+        "question_text": "58.关于真核生物 mRNA 成熟过程的叙述，正确的是",
+        "options": [
+            "A．不需要加帽（7mGTP）",
+            "B．不需要加尾（聚 A）",
+            "C．不需要剪切、拼接",
+            "D．不需要修饰",
+            "E．不需要在胞液中进行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 58
+    },
+    {
+        "question_text": "59.tRNA3’末端的核糖上与氨基酸相连的基团是",
+        "options": [
+            "A．3’-OH",
+            "B．2’-OH",
+            "C．1’-OH",
+            "D．5’-磷酸",
+            "E．3’-磷酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 59
+    },
+    {
+        "question_text": "60.可鉴别核蛋白体“P 位”与“A 位”的抗生素，是",
+        "options": [
+            "A．链霉素",
+            "B．嘌呤霉素",
+            "C．放线菌素",
+            "D．放线菌酮",
+            "E．氯霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 60
+    },
+    {
+        "question_text": "61.成熟的真核生物 mRNA5’端具有",
+        "options": [
+            "A．polyA",
+            "B．帽结构",
+            "C．polyC",
+            "D．polyG",
+            "E．polyU"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 61
+    },
+    {
+        "question_text": "62.成熟的真核生物 mRNA3’端具有",
+        "options": [
+            "A．polyA",
+            "B．帽结构",
+            "C．polyC",
+            "D．polyG",
+            "E．polyU"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 62
+    },
+    {
+        "question_text": "63.蛋白质生物合成中搬运氨基酸的分子是",
+        "options": [
+            "A．18SrRNA",
+            "B．5SrRNA",
+            "C．7StRNA",
+            "D．mRNA",
+            "E．tRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 63
+    },
+    {
+        "question_text": "64.代表氨基酸的密码子是",
+        "options": [
+            "A．UGA",
+            "B．UAG",
+            "C．UAA",
+            "D．UGG",
+            "E．以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 64
+    },
+    {
+        "question_text": "65.关于真核生物 mRNA 中的启动信号，正确的叙述是",
+        "options": [
+            "A．常在 mRNA 的 3’端",
+            "B．mRNA 启动部位的 AUG",
+            "C．mRNA 中任一 AUG",
+            "D．苯丙氨酸的密码子",
+            "E．甲酰蛋氨酸的密码子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 65
+    },
+    {
+        "question_text": "66.反密码子 ICG 的相应密码子是",
+        "options": [
+            "A．ACC",
+            "B．CGU",
+            "C．UCC",
+            "D．CCA",
+            "E．CCG"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 66
+    },
+    {
+        "question_text": "67.不稳定配对是指密码子第 3 个核苷酸与反密码子哪个核苷酸配对不按 G-C，A-U 原则",
+        "options": [
+            "A．第 1 或第 3 个",
+            "B．第 2 个",
+            "C．第 3 个",
+            "D．第 1 个",
+            "E．第 2 或第 3 个"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 67
+    },
+    {
+        "question_text": "68.简并性是指",
+        "options": [
+            "A．一种密码子体现一种氨基酸",
+            "B．一种氨基酸只有一种密码子",
+            "C．一种密码子不体现任何氨基酸",
+            "D．一种密码子既体现氨基酸，又是启动信号",
+            "E．一种以上密码子体现一种氨基酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 68
+    },
+    {
+        "question_text": "69.关于密码子，错误的叙述是",
+        "options": [
+            "A．每一密码子代表一种氨基酸",
+            "B．某些密码子不代表氨基酸",
+            "C．一种氨基酸只有一种密码子",
+            "D．蛋氨酸只有一种密码子",
+            "E．密码子无种属特异性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 69
+    },
+    {
+        "question_text": "70.氨基酸活化的特异性取决于",
+        "options": [
+            "A．rRNA",
+            "B．tRNA",
+            "C．转肽酶",
+            "D．核蛋白体",
+            "E．氨基酰-tRNA 合成酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 70
+    },
+    {
+        "question_text": "71.氨基酰-tRNA 合成酶",
+        "options": [
+            "A．只对氨基酸有特异性",
+            "B．只对 tRNA 有特异性",
+            "C．对氨基酸和 tRNA 都有特异性",
+            "D．对 GTP 有特异性",
+            "E．对 ATP 有特异性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 71
+    },
+    {
+        "question_text": "72.肽链合成的场所是",
+        "options": [
+            "A．mRNA",
+            "B．rRNA",
+            "C．核蛋白体",
+            "D．细胞核",
+            "E．tRNA"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 72
+    },
+    {
+        "question_text": "73.真核生物蛋白质合成时，正确的叙述是",
+        "options": [
+            "A．70S 核蛋白体首先进入核蛋白体循环",
+            "B．70S 核蛋白体不能进入核蛋白体循环",
+            "C．50S 核蛋白体亚基首先进入核蛋白体循环",
+            "D．60S 核蛋白体亚基首先进入核蛋白体循环",
+            "E．80S 核蛋白体解离后进入核蛋白体循环"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 73
+    },
+    {
+        "question_text": "74.真核生物蛋白质合成的特点是",
+        "options": [
+            "A．先转录，后翻译",
+            "B．边转录，边翻译",
+            "C．边复制，边翻译",
+            "D．核蛋白体大亚基先与小亚基结合",
+            "E．mRNA 先与 tRNA 结合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 74
+    },
+    {
+        "question_text": "75.链霉抑制蛋白质合成，可结合于",
+        "options": [
+            "A．真核生物核蛋白体小亚基",
+            "B．氨基酰-tRNA 合成酶",
+            "C．真核生物核蛋白体大亚基",
+            "D．原核生物核蛋白体大亚基",
+            "E．原核生物核蛋白体小亚基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 75
+    },
+    {
+        "question_text": "76.关于蛋白质合成的终止阶段，正确的叙述是",
+        "options": [
+            "A．某种蛋白质因子可识别终止密码子",
+            "B．终止密码子都由 U、G、A 三种脱氧核苷酸构成",
+            "C．一种特异的 tRNA 可识别终止密码子",
+            "D．终止密码子有两种",
+            "E．肽酰-tRNA 在核蛋白体“A 位”上脱落"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 76
+    },
+    {
+        "question_text": "77.转肽酶",
+        "options": [
+            "A．需要 ATP",
+            "B．需要 GTP",
+            "C．需要延长因子",
+            "D．位于核蛋白体大亚基",
+            "E．位于核蛋白体小亚基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 77
+    },
+    {
+        "question_text": "78.信号肽的作用是",
+        "options": [
+            "A．指导 DNA 合成起动",
+            "B．指导多肽链糖基化",
+            "C．引导多肽链进入内质网",
+            "D．指导 RNA 合成起动",
+            "E．指导蛋白质合成起动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 78
+    },
+    {
+        "question_text": "79.干扰素引起蛋白质合成抑制需有",
+        "options": [
+            "A．单链 DNA",
+            "B．单链 RNA",
+            "C．双链 DNA",
+            "D．双链 RNA",
+            "E．EIF2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 79
+    },
+    {
+        "question_text": "80.在终止阶段，使新生肽链自核蛋白体释出的原因确切的说是",
+        "options": [
+            "A．终止因子",
+            "B．核蛋白体解聚",
+            "C．终止密码子",
+            "D．核蛋白体释放因子",
+            "E．转肽酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 80
+    },
+    {
+        "question_text": "81.真核生物在蛋白质生物合成中的起始 tRNA 是",
+        "options": [
+            "A．亮氨酸 tRNA",
+            "B．丙氨酸 tRNA",
+            "C．赖氨酸 tRNA",
+            "D．甲酰蛋氨酸 tRNA",
+            "E．蛋氨酸 tRNA"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 81
+    },
+    {
+        "question_text": "82.原核生物蛋白质生物合成中肽链延长所需的能量来源于",
+        "options": [
+            "A．ATP",
+            "B．GTP",
+            "C．GDP",
+            "D．UTP",
+            "E．CTP"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 82
+    },
+    {
+        "question_text": "83.下列关于氨基酸密码子的叙述哪一项是正确的",
+        "options": [
+            "A．由 DNA 链中相邻的三个核苷酸组成",
+            "B．由 tRNA 链中相邻的三个核苷酸组成",
+            "C．由 mRNA 链中相邻的三个核苷酸组成",
+            "D．由 rRNA 链中相邻的三个核苷酸组成",
+            "E．由多肽链中相邻的三个氨基酸组成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 83
+    },
+    {
+        "question_text": "84.氨基酸活化所需的酶是",
+        "options": [
+            "A．信号肽酶",
+            "B．氨基酰-tRNA 合成酶",
+            "C．磷酸酶",
+            "D．蛋白激酶",
+            "E．GTP 酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 84
+    },
+    {
+        "question_text": "85.高等动物中代表蛋氨酸的密码子是",
+        "options": [
+            "A．AUG",
+            "B．UGA",
+            "C．AAA",
+            "D．UGG",
+            "E．以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 85
+    },
+    {
+        "question_text": "86.tRNA 与氨基酸相连的核苷酸是",
+        "options": [
+            "A．U",
+            "B．G",
+            "C．C",
+            "D．T",
+            "E．A"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 86
+    },
+    {
+        "question_text": "87.人类细胞终止密码子 5’端第一个核苷酸是",
+        "options": [
+            "A．U",
+            "B．G",
+            "C．C",
+            "D．T",
+            "E．A"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 87
+    },
+    {
+        "question_text": "88.多肽链的合成开始于",
+        "options": [
+            "A．甘氨酸",
+            "B．酪氨酸",
+            "C．脯氨酸",
+            "D．甲硫氨酸",
+            "E．甲酰蛋氨酸或蛋氨酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 88
+    },
+    {
+        "question_text": "89.下列哪个氨基酸在多肽链上可被磷酸化",
+        "options": [
+            "A．甘氨酸",
+            "B．酪氨酸",
+            "C．脯氨酸",
+            "D．亮氨酸",
+            "E．甲酰蛋氨酸或蛋氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 89
+    },
+    {
+        "question_text": "90.大肠杆菌中多肽链合成时，其氨基末端都是下列哪个氨基酸残基？",
+        "options": [
+            "A．蛋氨酸",
+            "B．丝氨酸",
+            "C．N-甲酰蛋氨酸",
+            "D．N-甲酰丝氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 90
+    },
+    {
+        "question_text": "91.mRNA 分子中的起始密码是",
+        "options": [
+            "A．UAA",
+            "B．UGA",
+            "C．UAG",
+            "D．AUG",
+            "E．UUU"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 91
+    },
+    {
+        "question_text": "92.氨基酸活化需要消耗",
+        "options": [
+            "A．ATP",
+            "B．GTP",
+            "C．CTP",
+            "D．UTP",
+            "E．TTP"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 92
+    },
+    {
+        "question_text": "93.核蛋白体的结构特点是：",
+        "options": [
+            "A．单链蛋白质",
+            "B．由大、小亚基组成",
+            "C．四个亚基组成",
+            "D．三个亚基组成",
+            "E．亚基与 NAD 构成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 93
+    },
+    {
+        "question_text": "94.翻译的含义是指：",
+        "options": [
+            "A．mRNA 的合成",
+            "B．tRNA 的合成",
+            "C．tRNA 运输氨基酸",
+            "D．核蛋白体大，小亚基的聚合与解聚",
+            "E．以 mRNA 为模板合成蛋白质的过程"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 94
+    },
+    {
+        "question_text": "95.mRNA 的信息阅读方式是：",
+        "options": [
+            "A．从多核苷酸链的 5‘末端向 3’末端进行",
+            "B．从多核苷酸链的 3‘-末端向 5’-末端进行",
+            "C．从多核苷酸链的多个位点阅读",
+            "D．5‘-末端及 3’末端同时进行",
+            "E．先从 5‘-末端阅读，然后再从 3’-末端阅读"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 95
+    },
+    {
+        "question_text": "96.AUG 的重要性在于：",
+        "options": [
+            "A．作为附着于 30S 核糖体位点",
+            "B．作为 tRNA 的识别位点",
+            "C．作为肽链的释放因子",
+            "D．作为肽链合成的终止密码子",
+            "E．作为肽链的起始密码子"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 96
+    },
+    {
+        "question_text": "97.哺乳动物细胞中蛋白质合成的主要部位是",
+        "options": [
+            "A．细胞核",
+            "B．核仁",
+            "C．溶酶体",
+            "D．高尔基复合体",
+            "E．粗面内质网"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 97
+    },
+    {
+        "question_text": "98.生物体编码 20 种氨基酸的密码子个数",
+        "options": [
+            "A．16",
+            "B．61",
+            "C．20",
+            "D．64",
+            "E．60"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 98
+    },
+    {
+        "question_text": "99.下列哪一项叙述说明遗传密码是不重叠的？",
+        "options": [
+            "A．多聚 U-G 指导多聚 Cys-Val 的合成",
+            "B．单个碱基突变只改变生成蛋白质的一个氨基酸",
+            "C．大多数氨基酸是由一组以上的密码编码的",
+            "D．原核生物和真核生物多肽链合成的起始信号均为AUG",
+            "E．已经发现了 3 组终止密码"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 99
+    },
+    {
+        "question_text": "100.摆动（Wobble）的正确含义是",
+        "options": [
+            "A．一种反密码子能与第三位碱基不同的几种密码子配对",
+            "B．使肽键在核蛋白体大亚基中得以伸展的一种机制",
+            "C．在翻译中由链霉素诱发的一种错误",
+            "D．指核蛋白体沿着 mRNA 从其 5‘端向 3’端的移动",
+            "E．热运动所导致的 DNA 双螺旋局部变性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 100
+    },
+    {
+        "question_text": "101.能出现在蛋白质分子中的下列氨基酸哪一种没有遗传密码？",
+        "options": [
+            "A．酪氨酸",
+            "B．苯丙氨酸",
+            "C．异亮氨酸、",
+            "D．羟赖氨酸",
+            "E．亮氨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 101
+    },
+    {
+        "question_text": "102.蛋白质生物合成时",
+        "options": [
+            "A．由 tRNA 识别 DNA 上的三联体密码",
+            "B．氨基酸能直接与其特异的三联体密码连接",
+            "C．tRNA 的反密码子能与 mRNA 上相应密码子形成碱基对",
+            "D．在合成蛋白质之前，密码子中碱基全部改变，才会出现由一种氨基酸置换另一种氨基酸",
+            "E．核蛋白体从 mRNA 的 5‘端向 3’端滑动时，相当于蛋白质从 C 端向 N 端延伸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 102
+    },
+    {
+        "question_text": "103.下列关于蛋白质生物合成的描述哪一项是错误的？",
+        "options": [
+            "A．活化氨基酸的羧基与相应 tRNA5’端核苷酸中核糖上的 3‘-OH 以酯键连接",
+            "B．原核生物完成多肽链合成以前，甲酰蛋氨酸残基就从 N 端切掉",
+            "C．mRNA 上密码的阅读方向是由 5‘-3’端",
+            "D．多肽链从 N 端→C 端延伸",
+            "E．新合成的多肽链需经加工修饰才具生理活性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 103
+    },
+    {
+        "question_text": "104.原核生物多肽链的延长与下列何种物质无关",
+        "options": [
+            "A．转肽酶",
+            "B．GTP",
+            "C．EFTu、EFTs、EFG",
+            "D．甲酰蛋氨酰-tRNA",
+            "E．mRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 104
+    },
+    {
+        "question_text": "105.下述蛋白质合成过程中核蛋白体上的移位应是",
+        "options": [
+            "A．空载 tRNA 的脱落发生在 A 位上",
+            "B．肽酰-tRNA 的移位消耗 ATP",
+            "C．核蛋白体沿 mRNA5‘-3’方向作相对移动",
+            "D．核蛋白体在 mRNA 上移动距离相当于一个核苷酸的长度",
+            "E．肽酰-tRNA 由 P 位移至 A 位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 105
+    },
+    {
+        "question_text": "106.下列哪个因子不参与原核生物的蛋白质生物合成？",
+        "options": [
+            "A．IF",
+            "B．EFTu",
+            "C．RF",
+            "D．eIF2",
+            "E．EF-G"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 106
+    },
+    {
+        "question_text": "107.大肠杆菌合成的所有未修饰的多肽链，其 N 末端应是哪种氨基酸？",
+        "options": [
+            "A．蛋氨酸",
+            "B．丝氨酸",
+            "C．甲酰蛋氨酸",
+            "D．甲酰丝氨酸",
+            "E．谷氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 107
+    },
+    {
+        "question_text": "108.镰刀形细胞贫血病人的血红蛋白的氨基酸被取代是由于",
+        "options": [
+            "A．DNA 的核苷酸顺序改变",
+            "B．mRNA 降解",
+            "C．氨基酰-tRNA 合成酶活性降低",
+            "D．rRNA 的大，小亚基结构改变",
+            "E．rRNA 的大，小亚基不能聚合"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 108
+    },
+    {
+        "question_text": "109.多肽链上可羟化的氨基酸是",
+        "options": [
+            "A．甘氨酸",
+            "B．酪氨酸",
+            "C．脯氨酸",
+            "D．苯丙氨酸",
+            "E．甲酰蛋氨酸或蛋氨酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 109
+    },
+    {
+        "question_text": "110.下列哪一种核苷酸类化合物与干扰素作用机制有关：",
+        "options": [
+            "A．ppGpp",
+            "B．2‘5’pppA（pA）n",
+            "C．A5‘pppp5’A",
+            "D．m7O5‘ppp5’N5‘P",
+            "E．polyA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 110
+    },
+    {
+        "question_text": "111.下列关于开放阅读框架，错误的是",
+        "options": [
+            "A．蛋白质编码序列的部分",
+            "B．位于起始密码子与终止密码子之间",
+            "C．包含一段可以编码蛋白的碱基序列，不能被终止子打断",
+            "D．开放阅读框架与核蛋白体相互作用指导翻译的起始",
+            "E．一个确定的开放阅读框架只能对应一条多肽链"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 111
+    },
+    {
+        "question_text": "112.下列关于 S-D 序列，错误的是",
+        "options": [
+            "A．以 AGGA 为核心",
+            "B．发现者是 Shine-Dalgarno",
+            "C．可与 16SrRNA 近 3′-末端处互补",
+            "D．需要 eIF 参与",
+            "E．又被称为核蛋白体结合位点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 112
+    },
+    {
+        "question_text": "113.基因工程能够应用大肠杆菌生产人类蛋白的前提是密码子具有",
+        "options": [
+            "A．通用性",
+            "B．方向性",
+            "C．连续性",
+            "D．摆动性",
+            "E．简并性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 113
+    },
+    {
+        "question_text": "114.识别 S-D 序列的是",
+        "options": [
+            "A．核蛋白体小亚基",
+            "B．tRNA",
+            "C．mRNA",
+            "D．16SrRNA",
+            "E．SnRNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 114
+    },
+    {
+        "question_text": "115.原核生物和真核生物翻译起始的不同之处在于",
+        "options": [
+            "A．真核生物无靠 shine-Dalgarno 序列使 mRNA 结合蛋白体",
+            "B．真核生物帽子结合蛋白是翻译起始因子之一",
+            "C．原核生物和真核生物使用不同的起始密码子",
+            "D．原核生物有 TATAAT 作为翻译起始序列，真核生物则是 TATA",
+            "E．真核生物 mRNA 与核蛋白体小亚基蛋白 rpS-1 识别结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 115
+    },
+    {
+        "question_text": "116.蛋白质合成的终止是由于",
+        "options": [
+            "A．特异的 tRNA 识别了终止密码",
+            "B．已经到达 mRNA 分子的尽头",
+            "C．释放因子能识别终止密码并进入受位",
+            "D．mRNA 上的终止密码阻止了核蛋白体的移动",
+            "E．β因子识别终止密码"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "116",
+        "number": 116
+    }
+]

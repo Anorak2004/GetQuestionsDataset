@@ -1,0 +1,828 @@
+[
+    {
+        "question_text": "1.胆汁中浓度最高的头孢菌素是",
+        "options": [
+            "A.头孢曲松",
+            "B.头孢孟多",
+            "C.头孢哌酮",
+            "D.头孢唑啉",
+            "E.头孢氨苄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 1
+    },
+    {
+        "question_text": "2.克拉维酸与阿莫西林配伍应用的主要药理学基础是",
+        "options": [
+            "A.可使阿莫西林口服吸牧更好",
+            "B.可使阿莫西林自肾小管分泌减少",
+            "C.可使阿莫西林用量减少,毒性降低",
+            "D.克拉维酸抗菌谱广,抗菌活性强",
+            "E.克拉维酸可抑制β-内酰胺酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 2
+    },
+    {
+        "question_text": "3.头孢菌素的叙述错误的是",
+        "options": [
+            "A.抗菌机制与青霉素类相似",
+            "B.与青霉素有部分交叉过敏反应",
+            "C.第一代头孢菌素对绿脓杆菌无效",
+            "D.第三代头孢菌素对β-内酰胺酶有较高稳定性",
+            "E.第三代头孢菌素对肾脏有一定毒性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 3
+    },
+    {
+        "question_text": "4.对青霉素G最易产生耐药的细菌是",
+        "options": [
+            "A.溶血性链球菌",
+            "B.肺炎球菌",
+            "C.破伤风杆菌",
+            "D.白喉杆菌",
+            "E.金黄色葡萄球菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 4
+    },
+    {
+        "question_text": "5.对绿脓杆菌作用最强的头孢菌素是",
+        "options": [
+            "A.头孢氨苄",
+            "B.头孢唑啉",
+            "C.头孢孟多",
+            "D.头孢呋辛",
+            "E.头孢他定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 5
+    },
+    {
+        "question_text": "6.第三代头孢菌素的叙述错误项是",
+        "options": [
+            "A.对革兰阳性菌的抗菌作用不如第一、第二代药物",
+            "B.对革兰阴性菌的抗菌作用比第一、二代强",
+            "C.血浆T1/2较短",
+            "D.体内分布广",
+            "E.组织穿透力强"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 6
+    },
+    {
+        "question_text": "7.对青霉素G的错误叙述",
+        "options": [
+            "A.毒性低",
+            "B.价格低廉",
+            "C.钠盐易溶于水",
+            "D.溶液性质稳定",
+            "E.可引起过敏性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 7
+    },
+    {
+        "question_text": "8.青霉素G体内过程的特点",
+        "options": [
+            "A.口服易吸收",
+            "B.主要分布于细胞内液",
+            "C.脂溶性高",
+            "D.主要以原形从尿排出",
+            "E.血浆蛋白结合率高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 8
+    },
+    {
+        "question_text": "9.对绿脓杆菌无效的药物是",
+        "options": [
+            "A.羧苄西林",
+            "B.氨苄西林",
+            "C.氧氟沙星",
+            "D.环丙沙星",
+            "E.磺苄西林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 9
+    },
+    {
+        "question_text": "10.氨苄西林的错误叙述项是",
+        "options": [
+            "A.对革兰阴性菌有较强的作用",
+            "B.脑膜炎时病脊液浓度较高",
+            "C.对耐药的金黄色葡萄球菌有效",
+            "D.对伤寒杆菌有效",
+            "E.对绿脓杆菌无效"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 10
+    },
+    {
+        "question_text": "11.对肾具有毒性的抗生素类",
+        "options": [
+            "A.青霉素类",
+            "B.广谱青霉素类",
+            "C.耐酶青霉素类",
+            "D.第一代头孢菌素类",
+            "E.第三代头孢菌素类"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 11
+    },
+    {
+        "question_text": "12.耐药金葡菌感染选用",
+        "options": [
+            "A.米诺环素",
+            "B.氨苄西林",
+            "C.磺胺嘧啶",
+            "D.苯唑西林",
+            "E.羧苄西林"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 12
+    },
+    {
+        "question_text": "13.普鲁卡因青霉素作用维持时间长是因为",
+        "options": [
+            "A.改变了青霉素的化学结构",
+            "B.排泄减少",
+            "C.吸收减慢",
+            "D.破坏减少",
+            "E.增加肝肠循环"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 13
+    },
+    {
+        "question_text": "14.青霉素在体内主要分布于",
+        "options": [
+            "A.血浆",
+            "B.脑脊液",
+            "C.房水",
+            "D.细胞外液",
+            "E.细胞内液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 14
+    },
+    {
+        "question_text": "15.青霉素在体内的主要消除方式是",
+        "options": [
+            "A.肝脏代谢",
+            "B.胆汁排泄",
+            "C.被血浆酶破坏",
+            "D.肾小球滤过",
+            "E.肾小管分泌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 15
+    },
+    {
+        "question_text": "16.抗绿脓杆菌作用最强的头孢菌素类是",
+        "options": [
+            "A.头孢他定",
+            "B.头孢西丁",
+            "C.头孢孟多",
+            "D.头孢噻肟",
+            "E.头孢呋辛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 16
+    },
+    {
+        "question_text": "17.有一定肾脏毒性的头孢菌素是",
+        "options": [
+            "A.头孢噻吩",
+            "B.头孢西丁",
+            "C.头孢曲松",
+            "D.头孢他定",
+            "E.头孢哌酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 17
+    },
+    {
+        "question_text": "18.可治疗伤寒的β-内酰胺类抗生素是",
+        "options": [
+            "A.青霉素",
+            "B.氨苄西林",
+            "C.苯唑西林",
+            "D.替卡西林",
+            "E.氯霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 18
+    },
+    {
+        "question_text": "19.治疗梅毒、钩端螺旋体病的首选药物是",
+        "options": [
+            "A.红霉素",
+            "B.四环素",
+            "C.氯霉素",
+            "D.青霉素",
+            "E.氟哌酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 19
+    },
+    {
+        "question_text": "20.治疗破伤风、白喉应采用",
+        "options": [
+            "A.氨苄西林+抗毒素",
+            "B.青霉素+磺胺嘧啶",
+            "C.青霉素+抗毒素",
+            "D.青霉素+类毒素",
+            "E.氨苄西林+甲氧苄啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 20
+    },
+    {
+        "question_text": "21.对肾脏毒性最小的头孢菌素是",
+        "options": [
+            "A.头孢唑啉",
+            "B.头孢噻吩",
+            "C.头孢孟多",
+            "D.头孢氨苄",
+            "E.头孢他定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 21
+    },
+    {
+        "question_text": "22.青霉素类药物共同的特点",
+        "options": [
+            "A.主要用于G+菌感染",
+            "B.耐酸",
+            "C.耐β-内酰胺酶",
+            "D.相互有交叉变态反应,可致过敏性休克",
+            "E.抑制骨髓造血功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 22
+    },
+    {
+        "question_text": "23.属单环β-内酰胺类的药物",
+        "options": [
+            "A.哌拉西林",
+            "B.亚胺培菌",
+            "C.舒巴坦",
+            "D.氨曲南",
+            "E.拉氧头孢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列头孢菌素药物中,t1/2最长的药物是",
+        "options": [
+            "A.头孢克洛",
+            "B.头孢孟多",
+            "C.头孢曲松",
+            "D.头孢氨苄",
+            "E.头孢哌酮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 24
+    },
+    {
+        "question_text": "25.青霉素治疗何种疾病时可引起赫氏反应",
+        "options": [
+            "A.大叶性肺炎",
+            "B.回归热",
+            "C.梅毒或钩端螺旋体病",
+            "D.破伤风",
+            "E.草绿色链球菌的心内膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 25
+    },
+    {
+        "question_text": "26.女婴,5天,发烧昏迷入院,皮肤黄染,囟门饱满,病理反射阳性,脑脊液有大量中性粒细胞,首选",
+        "options": [
+            "A.氯霉素",
+            "B.青霉素",
+            "C.磺胺嘧啶",
+            "D.头孢哌酮",
+            "E.庆大霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 26
+    },
+    {
+        "question_text": "27.男性,30岁,高烧,胸痛,咳铁锈色痰,右肺下叶突挛,青霉素试敏可疑,宜选用",
+        "options": [
+            "A.林可霉素",
+            "B.红霉素静脉点滴",
+            "C.青霉素静脉点滴",
+            "D.青霉素V口服",
+            "E.头孢曲松"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 27
+    },
+    {
+        "question_text": "28.男性,40岁,嗜酒,因胆囊炎给予抗菌药物治疗,恰朋友来探望,小酌后有明显的恶心、呕吐、面部潮红,头痛,血压降低,这种现象与下列哪种药物有关",
+        "options": [
+            "A.四环素",
+            "B.氨苄西林",
+            "C.青霉素",
+            "D.头孢孟多",
+            "E.氨曲南"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 28
+    },
+    {
+        "question_text": "29.男性,28岁,三月前去外地,近十天小便灼痛,近、三天来小便疼痛难忍,小便时尿道口有较多黄绿色脓性分泌物,查出淋球菌,患者有青霉素过敏史。该患者宜选用",
+        "options": [
+            "A.红霉素",
+            "B.大观霉素",
+            "C.青霉素",
+            "D.四环素",
+            "E.链霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 29
+    },
+    {
+        "question_text": "30.青霉素类药物中,对绿脓杆菌无效的药物是",
+        "options": [
+            "A.阿莫西林",
+            "B.羧苄西林",
+            "C.呋苄西林",
+            "D.替卡西林",
+            "E.哌拉西林"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 30
+    },
+    {
+        "question_text": "31.女性,50岁,患耐青霉素的金葡菌性心内膜炎,青霉素试敏阴性,既往有慢性肾盂肾炎,应选用",
+        "options": [
+            "A.青霉素",
+            "B.庆大霉素",
+            "C.头孢氨苄",
+            "D.头孢唑啉",
+            "E.双氯西林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 31
+    },
+    {
+        "question_text": "32.耐青霉素酶的半合成青素是",
+        "options": [
+            "A.氨苄西林",
+            "B.哌拉西林",
+            "C.阿莫西林",
+            "D.羧苄西林",
+            "E.苯唑西林"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 32
+    },
+    {
+        "question_text": "33.为防止青霉素过敏采取的预防措施中,错误的是",
+        "options": [
+            "A.详细询问病史",
+            "B.详细询问用药史",
+            "C.询问过敏史及家属过敏史",
+            "D.预先注射肾上腺素",
+            "E.预先进行青霉素皮试"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 33
+    },
+    {
+        "question_text": "34.临床治疗钩端螺旋体病选",
+        "options": [
+            "A.大剂量青霉素G钾",
+            "B.红霉素口服",
+            "C.氯霉素静滴",
+            "D.四环素口服",
+            "E.开始用较小剂量的青霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 34
+    },
+    {
+        "question_text": "35.头孢菌素中肾毒性最大的",
+        "options": [
+            "A.头孢噻吩",
+            "B.头孢孟多",
+            "C.头孢呋辛",
+            "D.头孢曲松",
+            "E.头孢哌酮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 35
+    },
+    {
+        "question_text": "36.细菌对青霉素产生耐药性的主要原因是",
+        "options": [
+            "A.产生水解酶",
+            "B.产生钝化酶",
+            "C.改变代谢途径",
+            "D.改变细胞膜通透性",
+            "E.改变核糖体结构"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 36
+    },
+    {
+        "question_text": "37.青霉素与丙磺舒合用优点",
+        "options": [
+            "A.丙磺舒无抗菌作用,但能直接增强青霉素抗菌作用",
+            "B.增加青霉素吸收速率,增强青霉素抗菌作用",
+            "C.竞争肾小管分泌,提高丙磺舒血药浓度",
+            "D.竞争肾小管分泌,提高青霉素血药浓度",
+            "E.加速青霉素重吸收作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 37
+    },
+    {
+        "question_text": "38.关于氨苄西林的特点错误",
+        "options": [
+            "A.对G-菌有较强抗菌作用",
+            "B.耐酸,口服可吸收",
+            "C.脑膜炎时脑脊液浓度较高",
+            "D.对耐药金葡菌有效",
+            "E.对铜绿假单胞菌无效"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 38
+    },
+    {
+        "question_text": "39.对青霉素易产生耐药性的菌株是",
+        "options": [
+            "A.白喉杆菌",
+            "B.金黄色葡萄球菌",
+            "C.肺炎球菌",
+            "D.溶血性链球菌",
+            "E.脑膜炎双球菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 39
+    },
+    {
+        "question_text": "40.半合成广谱青霉素不包括",
+        "options": [
+            "A.羧苄西林",
+            "B.阿莫西林",
+            "C.苯唑西林",
+            "D.氨苄西林",
+            "E.匹氨西林"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 40
+    },
+    {
+        "question_text": "41.耐酶青霉素不包括",
+        "options": [
+            "A.氟氯西林",
+            "B.双氯西林",
+            "C.苯唑西林",
+            "D.氨苄西林",
+            "E.氯唑西林"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 41
+    },
+    {
+        "question_text": "42.青霉素G的特点不包括",
+        "options": [
+            "A.杀菌力强",
+            "B.肺炎杆菌敏感",
+            "C.抗菌谱窄",
+            "D.不耐酸不能口服",
+            "E.毒性低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 42
+    },
+    {
+        "question_text": "43.普鲁卡因青霉素的特点是",
+        "options": [
+            "A.口服吸收慢",
+            "B.维持时间短",
+            "C.血药浓度高",
+            "D.穿透力强",
+            "E.溶解度小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 43
+    },
+    {
+        "question_text": "44.第三代头孢菌素的特点不包括",
+        "options": [
+            "A.对G+菌抗菌活性小于第一、二代",
+            "B.对G-菌抗菌作用较强",
+            "C.血浆半衰期长",
+            "D.对多种β-内酰胺酶稳定性低",
+            "E.对肾脏基本无毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 44
+    },
+    {
+        "question_text": "45.半合成青霉素的特点不包括",
+        "options": [
+            "A.耐酸",
+            "B.耐酶",
+            "C.广谱",
+            "D.抗铜绿假单胞菌",
+            "E.对G-菌无效"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 45
+    },
+    {
+        "question_text": "46.青霉素类的共同特点是",
+        "options": [
+            "A.抗菌谱广",
+            "B.主要作用于G+菌",
+            "C.可能易发生过敏反应,同类药存在交叉过敏",
+            "D.耐酸口服有效",
+            "E.耐内酰胺酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 46
+    },
+    {
+        "question_text": "47.β-内酰胺类中有较大肾毒性的药物是",
+        "options": [
+            "A.磺苄西林",
+            "B.苯唑西林",
+            "C.头孢氨苄",
+            "D.青霉素G",
+            "E.头孢噻肟"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 47
+    },
+    {
+        "question_text": "48.青霉素类药物中对伤寒、副伤寒疗效最佳的药是",
+        "options": [
+            "A.青霉素G",
+            "B.氨苄西林",
+            "C.苯唑西林",
+            "D.双氯西林",
+            "E.羧苄西林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 48
+    },
+    {
+        "question_text": "49.不能抗铜绿假单胞菌的半合成青霉素是",
+        "options": [
+            "A.羧苄西林",
+            "B.氯唑西林",
+            "C.磺苄西林",
+            "D.阿洛西林",
+            "E.呋苄西林"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 49
+    },
+    {
+        "question_text": "50.克拉维酸与阿莫西林配伍应用的优点是",
+        "options": [
+            "A.抗菌谱广",
+            "B.毒性低",
+            "C.利于吸收",
+            "D.增强抗菌作用",
+            "E.减弱过敏反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 50
+    },
+    {
+        "question_text": "51.头孢菌素类抗菌作用部位",
+        "options": [
+            "A.移位酶",
+            "B.核蛋白体50S亚基",
+            "C.细胞壁",
+            "D.DNA回旋酶",
+            "E.二氢叶酸还原酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 51
+    },
+    {
+        "question_text": "52.新生儿脑膜炎或肠杆菌样细菌所致成人脑膜炎选用",
+        "options": [
+            "A.头孢氨苄",
+            "B.头孢孟多",
+            "C.头孢克洛",
+            "D.头孢呋辛",
+            "E.头孢曲松"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 52
+    },
+    {
+        "question_text": "53.青霉素最严重的不良反应",
+        "options": [
+            "A.消化道反应",
+            "B.二重感染",
+            "C.肝肾功能损害",
+            "D.过敏反应",
+            "E.肝肾功能损害"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 53
+    },
+    {
+        "question_text": "54.对不良反应的说法错误",
+        "options": [
+            "A.头孢菌类抗生素毒性高",
+            "B.第一代头孢菌素大剂量有潜在肾毒性",
+            "C.第二代头孢菌素类大剂量可出现低凝血酶原症",
+            "D.第三代头孢菌素类偶致二重感染",
+            "E.头孢菌素类大剂量用偶发抽搐等"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 54
+    },
+    {
+        "question_text": "55.细菌耐药性产生机制是",
+        "options": [
+            "A.产生水解酶",
+            "B.酶与药物结合牢固",
+            "C.自溶酶缺少",
+            "D.改变胞壁与外膜通透性",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 55
+    },
+    {
+        "question_text": "56.青霉素的最佳适应证是以下何菌感染",
+        "options": [
+            "A.肺炎杆菌",
+            "B.铜绿假单胞菌",
+            "C.溶血性链球菌",
+            "D.变形杆菌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 56
+    },
+    {
+        "question_text": "57.主要经肾小管分泌的药物",
+        "options": [
+            "A.青霉素",
+            "B.四环素",
+            "C.庆大霉素",
+            "D.异烟肼",
+            "E.红霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 57
+    },
+    {
+        "question_text": "58.可供口服的头孢菌素是",
+        "options": [
+            "A.头孢氨苄",
+            "B.头孢噻吩",
+            "C.头孢噻肟",
+            "D.头孢哌酮",
+            "E.头孢他啶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 58
+    },
+    {
+        "question_text": "59.第二代头孢菌素的作用特点中错误的是",
+        "options": [
+            "A.对G+菌作用与第一代相似",
+            "B.对多数G-菌作用明显增强",
+            "C.部分对厌氧菌高效",
+            "D.对铜绿假单胞菌有效",
+            "E.对肾脏毒性较第一代小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "59",
+        "number": 59
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "question_text": "1.治疗粘液性水肿主要药物",
+        "options": [
+            "A.他巴唑",
+            "B.丙硫氧嘧啶",
+            "C.甲状腺素",
+            "D.小剂量碘剂",
+            "E.卡比马唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 1
+    },
+    {
+        "question_text": "2.硫脲类药物的基本作用",
+        "options": [
+            "A.抑制碘泵",
+            "B.抑制NA-K泵",
+            "C.抑制甲状腺过氧化物酶",
+            "D.抑制甲状腺蛋白水解酶",
+            "E.阻断甲状腺激素受体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 2
+    },
+    {
+        "question_text": "3.小剂量碘主要用于:",
+        "options": [
+            "A.呆小病",
+            "B.粘液性水肿",
+            "C.单纯性甲状腺肿",
+            "D.抑制甲状腺素的释放",
+            "E.甲状腺功能检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 3
+    },
+    {
+        "question_text": "4.大剂量碘产生抗甲状腺作用的主要原因是:",
+        "options": [
+            "A.抑制甲状腺激素的合成",
+            "B.使腺泡上皮破坏、萎缩",
+            "C.抑制免疫球蛋白的生成",
+            "D.抑制甲状腺素的释放",
+            "E.抑制碘泵"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 4
+    },
+    {
+        "question_text": "5.大剂量碘抑制甲状腺释放的酶是:",
+        "options": [
+            "A.多巴胺β羟化酶",
+            "B.琥珀酸脱氢酶",
+            "C.蛋白水解酶",
+            "D.甲状腺过氧化物酶",
+            "E.二氢叶酸合成酶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗呆小病的主要药物",
+        "options": [
+            "A.他巴唑",
+            "B.卡比马唑",
+            "C.丙硫氧嘧啶",
+            "D.甲状腺素",
+            "E.小剂量碘剂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 6
+    },
+    {
+        "question_text": "7.丙硫氧嘧啶治疗甲亢的严重不良反应是",
+        "options": [
+            "A.瘙痒",
+            "B.药疹",
+            "C.粒细胞缺乏",
+            "D.关节痛",
+            "E.咽痛、喉水肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 7
+    },
+    {
+        "question_text": "8.碘化物不能单独用于甲亢内科治疗的原因是:",
+        "options": [
+            "A.使甲状腺组织退化",
+            "B.使腺体增大、肥大",
+            "C.使甲状腺功能减退",
+            "D.使甲状腺功能亢进",
+            "E.失去抑制激素合成的效应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 8
+    },
+    {
+        "question_text": "9.能抑制外周组织的T4转变成T3的抗甲状腺药是:",
+        "options": [
+            "A.甲硫氧嘧啶",
+            "B.丙硫氧嘧啶",
+            "C.他巴唑",
+            "D.卡比马唑",
+            "E.大剂量碘剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 9
+    },
+    {
+        "question_text": "10.疾病禁用甲状腺激素",
+        "options": [
+            "A.克汀病",
+            "B.呆小病",
+            "C.甲状腺危象",
+            "D.粘液性水肿",
+            "E.单纯性甲状腺肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 10
+    },
+    {
+        "question_text": "11.甲状腺危象的治疗主要用",
+        "options": [
+            "A.大剂量碘剂",
+            "B.小剂量碘剂",
+            "C.大剂量硫脲类药物",
+            "D.普萘洛尔",
+            "E.甲状腺素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 11
+    },
+    {
+        "question_text": "12.硫脲类抗甲状腺药物的严重不良反应主要是:",
+        "options": [
+            "A.高血压",
+            "B.粒细胞缺乏症",
+            "C.肝功能损害",
+            "D.过敏反应",
+            "E.骨质疏松"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 12
+    },
+    {
+        "question_text": "13.小剂量碘剂用于",
+        "options": [
+            "A.甲状腺危象",
+            "B.甲状腺功能亢进",
+            "C.甲状腺功能亢进的术前准备",
+            "D.单纯性甲状腺肿",
+            "E.甲状腺功能减退"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 13
+    },
+    {
+        "question_text": "14.甲状腺功能亢进术前给予复方溶液的目的是:",
+        "options": [
+            "A.增强病人对手术的耐受性",
+            "B.使甲状腺腺体变大,便于乎术操作",
+            "C.使甲状腺腺体变小,血管网减少,变韧,利于手术",
+            "D.抑制呼吸道腺体分泌",
+            "E.降低血压"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 14
+    },
+    {
+        "question_text": "15.治疗粘液性水肿应选用:",
+        "options": [
+            "A.甲状腺激素",
+            "B.甲硫氧嘧啶",
+            "C.丙硫氧嘧啶",
+            "D.碘化钾",
+            "E.卡比马唑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 15
+    },
+    {
+        "question_text": "16.可抑制外周组织的T4转化为T3的抗甲状腺药物是",
+        "options": [
+            "A.丙硫氧嘧啶",
+            "B.甲硫氧嘧啶",
+            "C.甲巯咪唑",
+            "D.卡比马唑",
+            "E.碘化钾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 16
+    },
+    {
+        "question_text": "17.硫脲类抗甲状腺药的主要作用机制是",
+        "options": [
+            "A.破坏甲状腺组织",
+            "B.抑制过氧化物酶,甲状腺激素合成减少",
+            "C.阻止甲状腺细胞对碘的摄入",
+            "D.抑制甲状腺球蛋白水解酶",
+            "E.抑制下丘脑垂体-甲状腺轴,使甲状腺激素合成减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 17
+    },
+    {
+        "question_text": "18.碘化物的不良反应是",
+        "options": [
+            "A.粒细胞缺乏",
+            "B.诱发瘙痒、药疹过敏反应",
+            "C.诱发精神失常",
+            "D.诱发甲状腺功能紊乱",
+            "E.诱发肾上腺功能紊乱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 18
+    },
+    {
+        "question_text": "19.甲亢病人手术前服用丙基硫氧嘧啶出现甲状腺肿大",
+        "options": [
+            "A.停服硫脲类药物",
+            "B.减量加服甲状腺素",
+            "C.加服大剂量碘剂",
+            "D.停药改服甲巯咪唑",
+            "E.改用甲亢平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 19
+    },
+    {
+        "question_text": "20.丙基硫氧嘧啶",
+        "options": [
+            "A.在重症甲状腺功能亢进和甲状腺危象时为首选药",
+            "B.长期应用反馈抑制TSH分泌",
+            "C.可抑制外周组织的T3转化为T4",
+            "D.使血循环中甲状腺刺激性免疫球蛋白升高",
+            "E.抗甲状腺作用快而强"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 20
+    },
+    {
+        "question_text": "21.甲亢术前给予复方碘溶液,有利于手术的机制是",
+        "options": [
+            "A.抑制谷胱甘款还原酶",
+            "B.抑制TSH使腺体增生的作用",
+            "C.抑制过氧化物酶,减少激素合成",
+            "D.抑制腺泡细胞摄碘",
+            "E.促进腺泡细胞摄碘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 21
+    },
+    {
+        "question_text": "22.宜选用大剂量碘制剂治疗的疾病是",
+        "options": [
+            "A.黏液性水肿",
+            "B.甲状腺危象",
+            "C.轻症甲亢内科治疗",
+            "D.结节性甲状腺肿",
+            "E.弥漫性甲状腺肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 22
+    },
+    {
+        "question_text": "23.对黏液性水肿昏送必须立即静脉注射大剂量的药物",
+        "options": [
+            "A.碘化物",
+            "B.胰岛素",
+            "C.糖皮质激素",
+            "D.左旋甲状腺素",
+            "E.肾上腺素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 23
+    },
+    {
+        "question_text": "24.甲亢术前准备用硫脲类抗甲状腺药的主要目的是",
+        "options": [
+            "A.使甲状腺血管减少,减少手术出血",
+            "B.使甲状腺体缩小变韧有利于手术进行",
+            "C.使甲状腺功能恢复或接近正常,防止术后发生甲状腺危象",
+            "D.防止手术过程中血压下降",
+            "E.使甲状腺功能恢复或接近正常,防止术后甲状腺功能低下"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 24
+    },
+    {
+        "question_text": "25.硫脲类抗甲状腺药起效慢的主要原因是",
+        "options": [
+            "A.口服后吸收不完全",
+            "B.肝内代谢转化快",
+            "C.肾脏排泄速度快",
+            "D.待已合成的甲状腺素耗竭后才能生效",
+            "E.口服吸收缓慢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 25
+    },
+    {
+        "question_text": "26.指出硫脲类用于甲亢内科治疗的正确给药方式",
+        "options": [
+            "A.开始给小剂量,以后逐渐加大剂量,直至基础代谢率正常,改用维持量",
+            "B.开始给大剂量,基础代谢正常后药量递减,直至维持量",
+            "C.开始给治疗量,基础代谢正常后继续给3-6个月停药",
+            "D.开始给小剂量,基础代谢正常后药量递减,直至维持量",
+            "E.开始给小剂量,基础代谢正常后改用维持量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 26
+    },
+    {
+        "question_text": "27.大剂量碘剂不能单独用于甲状腺功能亢进长期内科治疗的主要原因是",
+        "options": [
+            "A.为甲状腺素合成提供原料",
+            "B.使甲状腺对碘摄取减少,失去抑制甲状腺素合成的作用",
+            "C.使T4转化为T3",
+            "D.使腺体血管增生,腺体增大",
+            "E.引起慢性碘中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 27
+    },
+    {
+        "question_text": "28.放射性碘治疗适用于",
+        "options": [
+            "A.单纯甲状腺肿",
+            "B.甲状腺危象抢救",
+            "C.甲亢术前",
+            "D.黏液性水肿昏迷",
+            "E.甲亢术后复发及硫脲类敏感者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 28
+    },
+    {
+        "question_text": "29.黏液性水肿宜用",
+        "options": [
+            "A.氢氯嘧啶",
+            "B.甲状腺激素",
+            "C.他巴唑",
+            "D.卡比马唑",
+            "E.小剂量碘剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 29
+    },
+    {
+        "question_text": "30.抗甲状腺药中能诱发甲亢",
+        "options": [
+            "A.甲硫氧嘧啶",
+            "B.甲硫咪唑",
+            "C.卡比马唑",
+            "D.大剂量碘化物",
+            "E.普萘洛尔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 30
+    },
+    {
+        "question_text": "31.有关硫脲类药表述错误的",
+        "options": [
+            "A.大剂量时抑制甲状腺过氧化物酶而抑制甲状腺激素合成",
+            "B.甲亢一般症状改善需2--3周,基础代谢恢复需1-2月",
+            "C.不易通过胎盘",
+            "D.易进入乳汁,哺乳妇女禁用",
+            "E.抑制免疫球蛋白的生成,使血循环中TSH下降"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 31
+    },
+    {
+        "question_text": "32.甲硫氧嘧啶最常见的不良反应是",
+        "options": [
+            "A.过敏性反应",
+            "B.消化道反应",
+            "C.粒细胞缺乏症",
+            "D.甲低",
+            "E.黄疸性肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 32
+    },
+    {
+        "question_text": "33.硫脲类药最严重的不良反应是",
+        "options": [
+            "A.甲状腺功能减退",
+            "B.药疹",
+            "C.粒细胞缺乏症",
+            "D.甲状腺肿",
+            "E.消化道反应"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 33
+    },
+    {
+        "question_text": "34.妊娠伴有严重甲亢首选药",
+        "options": [
+            "A.甲状腺素",
+            "B.小剂量碘剂",
+            "C.甲亢平",
+            "D.丙硫氧嘧啶",
+            "E.放射性碘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 34
+    },
+    {
+        "question_text": "35.丙硫氧嘧啶与甲亢平作用机制的不同点是",
+        "options": [
+            "A.抑制甲状腺激素的合成",
+            "B.抑制外周组织的T4转化为T3",
+            "C.免疫抑制作用",
+            "D.不抑制甲状腺激素的释放",
+            "E.抑制甲状腺过氧化物酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 35
+    },
+    {
+        "question_text": "36.关于丙基硫氧嘧啶的描述,不正确者是",
+        "options": [
+            "A.可用于甲亢的内科治疗",
+            "B.可用于甲亢术前准备",
+            "C.可使甲状腺组织的腺体和血管增生",
+            "D.严重的毒性反应是引起白细胞减少",
+            "E.可抑制已合成的甲状腺激素的释放"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 36
+    },
+    {
+        "question_text": "37.甲硫咪唑抗甲状腺的作用机制是",
+        "options": [
+            "A.抑制甲状腺激素的释放",
+            "B.抑制甲状腺对碘的摄取",
+            "C.抑制甲状腺球蛋白水解",
+            "D.抑制甲状腺素的生物合成",
+            "E.抑制TSH对甲状腺的作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 37
+    },
+    {
+        "question_text": "38.可诱发心绞痛的药物是",
+        "options": [
+            "A.胰岛素",
+            "B.可的松",
+            "C.I",
+            "D.甲状腺素",
+            "E.卡比马唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 38
+    },
+    {
+        "question_text": "39.可造成上呼吸道水肿及严重喉头水肿的药物是",
+        "options": [
+            "A.甲硫咪唑",
+            "B.丙硫氧嘧啶",
+            "C.甲状腺片",
+            "D.卡比马唑",
+            "E.碘化钾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 39
+    },
+    {
+        "question_text": "40.甲状腺激素可用于治疗",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.呆小病、黏液性水肿",
+            "C.甲亢危象",
+            "D.甲亢术前准备",
+            "E.甲亢常规治疗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 40
+    },
+    {
+        "question_text": "41.可进入乳汁并通过胎盘引起新生儿甲状腺肿的药物",
+        "options": [
+            "A.丙硫氧嘧啶",
+            "B.碘化物",
+            "C.普萘洛尔",
+            "D.卡比吗咪",
+            "E.甲状腺素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 41
+    },
+    {
+        "question_text": "42.需在体内转化成甲巯咪唑而发挥抗甲状腺作用的药",
+        "options": [
+            "A.他巴唑",
+            "B.卡比马唑",
+            "C.甲硫氧嘧啶",
+            "D.丙硫氧嘧啶",
+            "E.格列本脲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列情况慎用碘制剂",
+        "options": [
+            "A.甲亢危象",
+            "B.甲亢病人术前准备",
+            "C.单纯性甲状腺肿",
+            "D.孕妇和哺乳妇女",
+            "E.粒细胞缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 43
+    },
+    {
+        "question_text": "44.用于甲状腺机能检查的药",
+        "options": [
+            "A.心得安",
+            "B.丙硫氧嘧啶",
+            "C.小剂量碘剂",
+            "D.大剂量碘剂",
+            "E.放射性碘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 44
+    },
+    {
+        "question_text": "45.甲亢术前准备正确给药",
+        "options": [
+            "A.先给碘化物,术前两周再给硫脲类",
+            "B.先给硫脲类,术前两周再给碘化物",
+            "C.只给硫脲类",
+            "D.只给碘化物",
+            "E.两者都不给"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 45
+    },
+    {
+        "question_text": "46.抑制转化T4为T3的抗甲状腺药物是",
+        "options": [
+            "A.卡比吗咪",
+            "B.丙硫氧嘧啶",
+            "C.甲硫氧嘧啶",
+            "D.甲硫咪唑",
+            "E.丙硫咪唑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列关于T4和T3的药理特性哪些是正确的",
+        "options": [
+            "A.T4的作用大于T3",
+            "B.血中以T3为主",
+            "C.T3作用强于T4",
+            "D.T3维持时间长于T4",
+            "E.T4和T3在体内可相互转化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "47",
+        "number": 47
+    }
+]

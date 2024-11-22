@@ -1,0 +1,380 @@
+[
+    {
+        "question_text": "1.PAS是一种抑制结核杆菌的药物,在抗结核治疗中,PAS常与异烟肼、利福平、吡嗪酰胺或乙胺丁醇合用,联合用药的目的是",
+        "options": [
+            "A.减少异烟肼的神经毒性",
+            "B.增强吡嗪酰胺的抗菌作用",
+            "C.使结核杆菌对其他药物敏感",
+            "D.延缓结核菌耐药性产生",
+            "E.减缓乙胺丁醇对视神经的毒害"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 1
+    },
+    {
+        "question_text": "2.最常用的抗麻风病药是",
+        "options": [
+            "A.苯丙砜",
+            "B.氨苯砜",
+            "C.利福平",
+            "D.青霉烷砜",
+            "E.PAS"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 2
+    },
+    {
+        "question_text": "3.不属于一线抗结核药的是",
+        "options": [
+            "A.异烟肼",
+            "B.链霉素",
+            "C.对氨水杨酸",
+            "D.吡嗪酰胺",
+            "E.乙胺丁醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 3
+    },
+    {
+        "question_text": "4.女性糖尿病患者合并肺浸润性肺结核,以甲苯磺丁脲控制糖尿,以利福平、异烟肼、链霉素控制肺结核,在服用抗痨药二月后,发现糖尿病加重,而且出现肝功能损害,其原因是",
+        "options": [
+            "A.病人感染了肝炎",
+            "B.链霉素损害了肾",
+            "C.甲苯磺丁脲有肝毒性",
+            "D.利福平诱导肝药酶",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪种药可用于活动性肺结核的治疗,又可用于作预防",
+        "options": [
+            "A.乙胺丁醇",
+            "B.环丝氨酸",
+            "C.链霉素",
+            "D.异烟畊",
+            "E.对氨水杨酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 5
+    },
+    {
+        "question_text": "6.属于广谱抗生素的是",
+        "options": [
+            "A.异烟肼",
+            "B.PAS",
+            "C.链霉素",
+            "D.利福平",
+            "E.乙胺丁醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 6
+    },
+    {
+        "question_text": "7.异烟肼的作用特点是",
+        "options": [
+            "A.结核杆菌不易产生耐药性",
+            "B.只对细胞外的结核杆菌有效",
+            "C.对大多数G-菌有效",
+            "D.对细胞内外的结核杆菌有效",
+            "E.以上均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 7
+    },
+    {
+        "question_text": "8.乙胺丁醇",
+        "options": [
+            "A.对细胞内、外结核杆茵有较强杀茵作用",
+            "B.对耐异烟肼的结核杆菌无效",
+            "C.对抗链霉素的结核杆菌无效",
+            "D.单用产生抗药性较快",
+            "E.为二线抗结核药"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列药物中,抗结核菌作用强,对纤维化病灶中结核菌有效的是",
+        "options": [
+            "A.链霉素",
+            "B.丁胺卡那霉素",
+            "C.庆大霉素",
+            "D.异烟肼",
+            "E.卡那霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 9
+    },
+    {
+        "question_text": "10.有癫痫或精神病者应慎用",
+        "options": [
+            "A.利福乎",
+            "B.异烟肼",
+            "C.异胺丁醇",
+            "D.吡嗪酰胺",
+            "E.PAS"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 10
+    },
+    {
+        "question_text": "11.最常用的抗麻风病药物是",
+        "options": [
+            "A.氯法齐明",
+            "B.利福平",
+            "C.氨苯砜",
+            "D.醋氨苯砜",
+            "E.苯丙砜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 11
+    },
+    {
+        "question_text": "12.有关异烟肼的错误叙述项",
+        "options": [
+            "A.抗菌力强",
+            "B.对结核杆菌有高度的选择性",
+            "C.穿透力强",
+            "D.单用时结核杆菌不易产生耐药性",
+            "E.口服易吸收"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 12
+    },
+    {
+        "question_text": "13.属于“一线”的常用抗结核药是",
+        "options": [
+            "A.对氨水杨酸",
+            "B.异烟肼",
+            "C.乙硫异烟胺",
+            "D.卷曲霉素",
+            "E.环丝氨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 13
+    },
+    {
+        "question_text": "14.具有肝药酶抑制作用的抗结核药物是",
+        "options": [
+            "A.异烟肼",
+            "B.利福平",
+            "C.乙胺丁醇",
+            "D.链霉素",
+            "E.吡嗪酰胺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 14
+    },
+    {
+        "question_text": "15.第一线的抗结核药不包括",
+        "options": [
+            "A.异烟肼",
+            "B.利福平",
+            "C.乙胺丁醇",
+            "D.对氨基水杨酸",
+            "E.链霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 15
+    },
+    {
+        "question_text": "16.异烟肼抗结核杆菌的机制",
+        "options": [
+            "A.抑制细菌核酸代谢",
+            "B.抑制DNA螺旋酶",
+            "C.抑制细菌细胞壁的合成",
+            "D.抑制细菌分枝菌酸的合成",
+            "E.影响细菌胞质膜的通透性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 16
+    },
+    {
+        "question_text": "17.异烟肼药理作用特点不含",
+        "options": [
+            "A.对结核杆菌有高度的选择性",
+            "B.单用时结核杆菌不易产生耐药性",
+            "C.抗菌力强",
+            "D.治疗量下不良反应少而轻",
+            "E.穿透力强，易渗入纤维化病灶中"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 17
+    },
+    {
+        "question_text": "18.利福平的抗菌机制",
+        "options": [
+            "A.抑制细菌叶酸的合成",
+            "B.抑制细菌DNA螺旋酶",
+            "C.抑制细菌DNA依赖性RNA多聚酶",
+            "D.抑制细菌分枝酸的合成",
+            "E.抑制细菌蛋白质的合成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 18
+    },
+    {
+        "question_text": "19.乙胺丁醇最重要的不良反应是",
+        "options": [
+            "A.肝脏损害",
+            "B.外周神经炎",
+            "C.肾脏损害",
+            "D.耳毒性",
+            "E.视神经炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 19
+    },
+    {
+        "question_text": "20.使用异烟肼时为防止引起神经系统症状,宜合用",
+        "options": [
+            "A.维生素B6",
+            "B.维生素B2",
+            "C.维生素E",
+            "D.维生素C",
+            "E.维生素B12"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 20
+    },
+    {
+        "question_text": "21.治疗活动性结核的首选药",
+        "options": [
+            "A.利福平",
+            "B.异烟肼",
+            "C.链霉素",
+            "D.乙胺丁醇",
+            "E.对氨基水杨酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 21
+    },
+    {
+        "question_text": "22.用药后粪、尿、痰、汗液呈橘红色的抗结核药物是",
+        "options": [
+            "A.异烟肼",
+            "B.乙胺丁醇",
+            "C.链霉素",
+            "D.利福平",
+            "E.吡嗪酰胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 22
+    },
+    {
+        "question_text": "23.既可用于治疗又可用作预防的抗结核药物是",
+        "options": [
+            "A.异烟肼",
+            "B.链霉素",
+            "C.对氨基水杨酸",
+            "D.乙胺丁醇",
+            "E.利福平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 23
+    },
+    {
+        "question_text": "24.抗结核6个月短程方案,强化期2个月常联合应用的三联药物是",
+        "options": [
+            "A.异烟肼、利福平、吡嗪酰胺",
+            "B.异烟肼、链霉素、乙胺丁醇",
+            "C.利福平、吡嗪酰胺、链霉素",
+            "D.异烟肼、链霉素、乙硫异烟胺",
+            "E.异烟肼、对氨基水杨酸、链霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 24
+    },
+    {
+        "question_text": "25.治疗麻风病的首选药为",
+        "options": [
+            "A.利福平",
+            "B.氯法齐明",
+            "C.氨苯砜",
+            "D.对氨基水杨酸",
+            "E.沙利度胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 25
+    },
+    {
+        "question_text": "26.氨苯砜较常见的不良反应",
+        "options": [
+            "A.耳毒性",
+            "B.胃肠道反应",
+            "C.溶血反应",
+            "D.皮肤及角膜显红棕色",
+            "E.心脏毒性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 26
+    },
+    {
+        "question_text": "27.对麻风杆菌感染治疗有效的药物是",
+        "options": [
+            "A.链霉素",
+            "B.异烟肼",
+            "C.乙胺嘧啶",
+            "D.对氨基水杨酸",
+            "E.利福平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "27",
+        "number": 27
+    }
+]

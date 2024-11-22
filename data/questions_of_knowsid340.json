@@ -1,0 +1,436 @@
+[
+    {
+        "question_text": "1.在炎症或坏死组织中局麻药:",
+        "options": [
+            "A.作用完全消失",
+            "B.作用增强",
+            "C.作用减弱",
+            "D.作用时间延长",
+            "E.作用不受影响"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 1
+    },
+    {
+        "question_text": "2.蛛网膜下腔麻醉时合用麻黄碱的目的是",
+        "options": [
+            "A.预防麻醉时出现低血压",
+            "B.延长局麻时间",
+            "C.缩短起效时间",
+            "D.防止中枢抑制",
+            "E.防止过敏反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 2
+    },
+    {
+        "question_text": "3.普鲁卡因在体内的主要消除途径是:",
+        "options": [
+            "A.经肝药酶代谢",
+            "B.从胆汁排泄",
+            "C.以原形从肾小球滤过排出",
+            "D.以原形从肾小管分泌排出",
+            "E.被血浆假性胆碱酯酶水解灭活"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 3
+    },
+    {
+        "question_text": "4.丁卡因最常用于:",
+        "options": [
+            "A.浸润麻醉",
+            "B.蛛网膜下腔麻醉",
+            "C.传导麻醉",
+            "D.硬膜外麻醉",
+            "E.表面麻醉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列关于局麻药的错误叙述是:",
+        "options": [
+            "A.局麻作用是可逆的",
+            "B.只能抑制感觉神经纤维",
+            "C.可使动作电位降低,传导减慢",
+            "D.阻滞细胞膜Na通道",
+            "E.敏感性与神经纤维的直径(粗细)成反比"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 5
+    },
+    {
+        "question_text": "6.可用于各种局麻方法的局麻药是",
+        "options": [
+            "A.普鲁卡因",
+            "B.丁卡因",
+            "C.利多卡因",
+            "D.布比卡因",
+            "E.普鲁卡因胺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 6
+    },
+    {
+        "question_text": "7.局麻药的作用机制是:",
+        "options": [
+            "A.在细胞膜内侧阻断Na通道",
+            "B.在细胞膜外侧阻断Na通道",
+            "C.在细胞膜内侧阻断Ca通道",
+            "D.在细胞膜外侧阻断Ca通道",
+            "E.阻断K外流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 7
+    },
+    {
+        "question_text": "8.浸润麻醉时,在局麻药中加入少量肾上腺素的目的是:",
+        "options": [
+            "A.减少吸收中毒,延长局麻时间",
+            "B.抗过敏",
+            "C.预防心脏骤停",
+            "D.预防术中低血压",
+            "E.用于止血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 8
+    },
+    {
+        "question_text": "9.普鲁卡因一般不用于:",
+        "options": [
+            "A.蛛网膜下腔麻醉",
+            "B.硬膜外麻醉",
+            "C.传导麻醉",
+            "D.浸润麻醉",
+            "E.表面麻醉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 9
+    },
+    {
+        "question_text": "10.为了延长局麻药的作用时间,减少中毒,常在局麻药中加入适量",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.异丙肾上腺素",
+            "C.多巴胺",
+            "D.肾上腺素",
+            "E.阿托品"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 10
+    },
+    {
+        "question_text": "11.为预防腰麻引起血压下降,最好先肌内注射",
+        "options": [
+            "A.肾上腺素",
+            "B.去甲肾上腺素",
+            "C.麻黄碱",
+            "D.异丙肾上腺素",
+            "E.以上均不宜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 11
+    },
+    {
+        "question_text": "12.具有抗心律失常的局麻药是",
+        "options": [
+            "A.普鲁卡因",
+            "B.利多卡因",
+            "C.丁卡因",
+            "D.布比卡因",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 12
+    },
+    {
+        "question_text": "13.男,32岁,因上颌积液须经鼻腔行上颌窦穿刺治疗,该选用何种药物进行表面麻醉",
+        "options": [
+            "A.硫喷妥钠",
+            "B.普鲁卡因",
+            "C.利多卡因",
+            "D.丁卡因",
+            "E.乙醚"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 13
+    },
+    {
+        "question_text": "14.局麻药中加入肾上腺素禁用",
+        "options": [
+            "A.头部手术",
+            "B.面部手术",
+            "C.颈部手术",
+            "D.腹部手术",
+            "E.指趾末端手术"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 14
+    },
+    {
+        "question_text": "15.大剂量丁卡因的吸收毒性是",
+        "options": [
+            "A.局部组织缺氧坏死",
+            "B.全身麻醉",
+            "C.外周血管收缩而升压",
+            "D.中枢兴奋而惊厥",
+            "E.支气管收缩而呼吸困难"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 15
+    },
+    {
+        "question_text": "16.普鲁卡因局麻过量的病人可能出现",
+        "options": [
+            "A.眩晕",
+            "B.血压下降",
+            "C.心动过缓",
+            "D.惊厥发作",
+            "E.以上都可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 16
+    },
+    {
+        "question_text": "17.局麻药产生局部麻醉作用的原理是",
+        "options": [
+            "A.阻滞钠离子内流",
+            "B.阻滞钠离子外流",
+            "C.阻滞钾离子内流",
+            "D.阻滞钾离子外流",
+            "E.阻滞钙离子内流"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 17
+    },
+    {
+        "question_text": "18.丁卡因不宜用于",
+        "options": [
+            "A.硬膜外麻醉",
+            "B.浸润麻醉",
+            "C.传导麻醉",
+            "D.表面麻醉",
+            "E.腰麻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 18
+    },
+    {
+        "question_text": "19.以下关于局麻药的叙述正确的是",
+        "options": [
+            "A.药物入血后才能产生局麻作用",
+            "B.只影响机体的感觉功能",
+            "C.局麻药的部分吸收也有治疗作用",
+            "D.大剂量也不影响平滑肌、骨骼肌的活动",
+            "E.对机体只有抑制作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 19
+    },
+    {
+        "question_text": "20.普鲁卡因不宜用于",
+        "options": [
+            "A.浸润麻醉",
+            "B.表面麻醉",
+            "C.传导麻醉",
+            "D.硬膜外麻醉",
+            "E.腰麻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 20
+    },
+    {
+        "question_text": "21.局麻药对外周混合神经的麻醉作用顺序",
+        "options": [
+            "A.感觉神经和运动神经同时被麻醉",
+            "B.先麻醉运动神经后麻醉感觉神经",
+            "C.先麻醉感觉神经后麻醉运动神经",
+            "D.仅麻醉感觉神经",
+            "E.仅麻醉运动神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列局部麻醉方法中,不应用普鲁卡囚是:",
+        "options": [
+            "A.浸润麻醉",
+            "B.传导麻醉",
+            "C.蛛网膜下隙麻醉",
+            "D.硬膜外麻醉,",
+            "E.表面麻醉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 22
+    },
+    {
+        "question_text": "23.局麻药过量中毒发生惊厥，宜选哪个药对抗:",
+        "options": [
+            "A.硫酸镁",
+            "B.异戊巴比妥钠",
+            "C.水合氯醛",
+            "D.苯巴比妥",
+            "E.安定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 23
+    },
+    {
+        "question_text": "24.局麻药的作用机制:",
+        "options": [
+            "A.阻滞Na内流",
+            "B.阻滞K外流",
+            "C.阻滞Cl内流",
+            "D.阻滞Ca2内流",
+            "E.降低静息电位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 24
+    },
+    {
+        "question_text": "25.蛛网膜下腔麻醉前注射麻黄碱的意义是:",
+        "options": [
+            "A.可预防呼吸抑制",
+            "B.可预防发生心率失常",
+            "C.可预防血压下降",
+            "D.可减少局麻药在作用部位吸收",
+            "E.可延长局麻药作用时间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 25
+    },
+    {
+        "question_text": "26.影响局麻药作用的因素不包括:",
+        "options": [
+            "A.神经纤维的粗细",
+            "B.体液的pH",
+            "C.药物的的浓度",
+            "D.肝脏的功能",
+            "E.血管收缩药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 26
+    },
+    {
+        "question_text": "27.局麻作用时间最长的是:",
+        "options": [
+            "A.docaine",
+            "B.procane",
+            "C.tetracaine",
+            "D.popvacane",
+            "E.bupivacaine"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 27
+    },
+    {
+        "question_text": "28.局麻药在炎症组织中:",
+        "options": [
+            "A.作用增强",
+            "B.作用减弱",
+            "C.易被灭活",
+            "D.不受影响",
+            "E.无麻醉作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 28
+    },
+    {
+        "question_text": "29.关于利用多卡因具有的特征哪项是错误的:",
+        "options": [
+            "A.能穿透粘膜,作用比普鲁卡因快、强、持久",
+            "B.安全范围大",
+            "C.引起过敏反应",
+            "D.有抗心律失常作用",
+            "E.可用于各种局麻方法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 29
+    },
+    {
+        "question_text": "30.比普鲁卡因作用强且毒性大的常用局麻药是:",
+        "options": [
+            "A.利多卡因",
+            "B.普鲁卡因",
+            "C.布比卡因",
+            "D.丁卡因",
+            "E.可卡因"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 30
+    },
+    {
+        "question_text": "31.为延长局麻药的作用时间并减少吸收,宜采用的措施是",
+        "options": [
+            "A.增加局麻药的用量",
+            "B.加大局麻药的浓度",
+            "C.加入少量的去甲肾上腺素",
+            "D.加入少量肾上腺素",
+            "E.调节药物的PH至弱酸性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "31",
+        "number": 31
+    }
+]

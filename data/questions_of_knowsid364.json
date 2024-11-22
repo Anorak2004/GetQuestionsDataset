@@ -1,0 +1,506 @@
+[
+    {
+        "question_text": "1.氯霉素抑制蛋白质合成的机制是",
+        "options": [
+            "A.抑制70S初始复合物形成",
+            "B.与30S亚基结合,使mRNA密码错译",
+            "C.与50S亚基结合,抑制肽酰基转移酶",
+            "D.抑制肽链移位",
+            "E.抑制肽链的释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 1
+    },
+    {
+        "question_text": "2.男,40岁,慢性肾炎合并胆囊炎,宜选用",
+        "options": [
+            "A.磺胺嘧啶",
+            "B.头孢唑啉",
+            "C.庆大霉素",
+            "D.多西环素",
+            "E.多粘菌素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 2
+    },
+    {
+        "question_text": "3.男,50岁,持续高热,剧烈头痛入院,入院后用青霉素、链霉素治疗三天,无明显效果,发病第5日于胸、肩、背等处发现直径2-4mm的贺形鲜红色丘疹,但面部无疹,住院后病人谵妄、昏迷。其内衣有蚤、虮,外斐氏试验于发病后10天效价为1400,宜选用",
+        "options": [
+            "A.庆大霉素",
+            "B.磺胺嘧啶",
+            "C.头孢他定",
+            "D.林可霉素",
+            "E.四环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 3
+    },
+    {
+        "question_text": "4.对青霉素过敏的细菌性脑膜炎病人,可选用",
+        "options": [
+            "A.氯霉素",
+            "B.卡那霉素",
+            "C.头孢氨苄",
+            "D.大观霉素",
+            "E.多粘菌素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 4
+    },
+    {
+        "question_text": "5.班疹伤寒首选",
+        "options": [
+            "A.链霉素",
+            "B.四环素",
+            "C.磺胺嘧啶",
+            "D.多粘菌素",
+            "E.阿齐霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 5
+    },
+    {
+        "question_text": "6.治疗阿米巴痢疾的抗生素",
+        "options": [
+            "A.青霉素",
+            "B.链霉素",
+            "C.头孢氨苄",
+            "D.土霉素",
+            "E.大观霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 6
+    },
+    {
+        "question_text": "7.不用于绿脓杆菌感染的药",
+        "options": [
+            "A.米诺环素",
+            "B.羧苄西林",
+            "C.阿米卡星",
+            "D.庆大霉素",
+            "E.多粘菌素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 7
+    },
+    {
+        "question_text": "8.四环素不宜与抗酸药合用是因为",
+        "options": [
+            "A.抗酸药破坏四环素,降低抗酸药的疗效",
+            "B.与抗酸药的金属离子络合,降低抗酸药的疗效",
+            "C.与抗酸药的金属离子络合,减少四环素的吸收",
+            "D.增加消化道反应",
+            "E.促进四环素的排泄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于米诺环素的叙述,下列哪项是错误的",
+        "options": [
+            "A.为长效、高效的四环素",
+            "B.抗菌谱与四环素相近",
+            "C.属天然四环素类",
+            "D.抗菌作用为四环素类中最强者",
+            "E.对四环素耐药的金葡菌、链球菌仍敏感"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 9
+    },
+    {
+        "question_text": "10.伤寒或副伤寒的首选药",
+        "options": [
+            "A.四环素",
+            "B.多西环素",
+            "C.氯霉素",
+            "D.氨苄西林",
+            "E.麦迪霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 10
+    },
+    {
+        "question_text": "11.氯霉素在临床应用受限因",
+        "options": [
+            "A.抗菌活性弱",
+            "B.血药浓度低",
+            "C.细菌易耐药",
+            "D.易致过敏反应",
+            "E.严重损害造血系统"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 11
+    },
+    {
+        "question_text": "12.氯霉素的不良反应中,哪种属变态反应与剂量疗程无直接关系",
+        "options": [
+            "A.胃肠道反应",
+            "B.灰婴综合征",
+            "C.二重感染",
+            "D.不可逆的再生障碍性贫血",
+            "E.可逆性粒细胞减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 12
+    },
+    {
+        "question_text": "13.同服苯巴比妥、苯妥英钠能使下列哪种药物血浓度降低,t1/2缩短",
+        "options": [
+            "A.土霉素",
+            "B.四环素",
+            "C.米诺环素",
+            "D.氯霉素",
+            "E.多西环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 13
+    },
+    {
+        "question_text": "14.早产儿、新生儿避免使用",
+        "options": [
+            "A.红霉素",
+            "B.氯霉素",
+            "C.青霉素",
+            "D.吉他霉素",
+            "E.多西环素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 14
+    },
+    {
+        "question_text": "15.长效与高效的四环素类药",
+        "options": [
+            "A.四环素",
+            "B.土霉素",
+            "C.多西环素",
+            "D.去甲金霉素",
+            "E.米诺环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 15
+    },
+    {
+        "question_text": "16.对四环素不敏感的病原体",
+        "options": [
+            "A.革兰阳性球菌",
+            "B.绿脓杆菌",
+            "C.革兰阴性菌",
+            "D.肺炎支原体",
+            "E.立克次体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 16
+    },
+    {
+        "question_text": "17.多西环素的错误叙述项是",
+        "options": [
+            "A.口服吸收快、完全",
+            "B.抗菌作用较四环素强",
+            "C.不易透过血脑屏障",
+            "D.作用持续时间较四环素长",
+            "E.可用于肾功能不良患者"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 17
+    },
+    {
+        "question_text": "18.四环素类的不良反应中错误项是",
+        "options": [
+            "A.空腹口服易引起胃肠道反应",
+            "B.可导致幼儿乳牙釉质发育不全,牙齿发黄",
+            "C.可引起二重感染",
+            "D.不引起过敏反应",
+            "E.长期大量静滴,可引起严重肝损害"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 18
+    },
+    {
+        "question_text": "19.治疗立克次体病应选用",
+        "options": [
+            "A.四环素",
+            "B.庆大霉素",
+            "C.链霉素",
+            "D.青霉素G",
+            "E.多粘菌素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 19
+    },
+    {
+        "question_text": "20.治疗伤寒和副伤寒首选",
+        "options": [
+            "A.多西环素",
+            "B.四环素",
+            "C.土霉素",
+            "D.氯霉素",
+            "E.克林霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 20
+    },
+    {
+        "question_text": "21.氯霉素的最严重不良反应",
+        "options": [
+            "A.过敏反应",
+            "B.二重感染",
+            "C.抑制骨髓造血功能",
+            "D.胃肠道反应",
+            "E.耳毒性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 21
+    },
+    {
+        "question_text": "22.四环素类药不良反应不含",
+        "options": [
+            "A.胃肠道反应",
+            "B.二重感染",
+            "C.影响骨、牙生长",
+            "D.灰婴综合症",
+            "E.肝、肾毒性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 22
+    },
+    {
+        "question_text": "23.氯霉素抗菌谱广,但仅限于伤寒、立克次体病及所致的严重感染,是因为",
+        "options": [
+            "A.影响骨、牙生长",
+            "B.胃肠道反应",
+            "C.肝脏损害",
+            "D.二重感染",
+            "E.对造血系统严重的不良反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列有关四环素类药物的描述正确的是",
+        "options": [
+            "A.治疗细菌性感染的首选药",
+            "B.对立克次体、支原体、衣原体无效",
+            "C.本类药物间有密切的交叉耐药性",
+            "D.其吸收不受食物和离子的影响",
+            "E.脑脊液中药物浓度高于血浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 24
+    },
+    {
+        "question_text": "25.四环素类和氯霉素均可引起的不良反应是",
+        "options": [
+            "A.影响骨、牙生长",
+            "B.抑制骨髓造血功能",
+            "C.二重感染",
+            "D.肝损害",
+            "E.灰婴综合症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 25
+    },
+    {
+        "question_text": "26.四环素类药物的抗菌机制",
+        "options": [
+            "A.抑制二氢叶酸还原酶",
+            "B.阻止氨基酰RNA进入A位,阻止肽链延伸",
+            "C.抑制细胞壁合成",
+            "D.影响核酸的合成",
+            "E.抑制二氢蝶酸合成酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 26
+    },
+    {
+        "question_text": "27.易透过血-脑脊液屏障的药",
+        "options": [
+            "A.氯霉素",
+            "B.四环素",
+            "C.红霉素",
+            "D.土霉素",
+            "E.多西环素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 27
+    },
+    {
+        "question_text": "28.抗菌作用最强的四环素类药物是",
+        "options": [
+            "A.四环素",
+            "B.多西环素",
+            "C.美他环素",
+            "D.土霉素",
+            "E.米诺环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 28
+    },
+    {
+        "question_text": "29.氯霉素最严重的不良反应",
+        "options": [
+            "A.胃肠道反应",
+            "B.二重感染",
+            "C.抑制骨髓造血功能",
+            "D.灰婴综合症",
+            "E.肝脏损害"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 29
+    },
+    {
+        "question_text": "30.治疗立克次体感染首选药",
+        "options": [
+            "A.多西环素",
+            "B.多黏菌素",
+            "C.链霉素",
+            "D.庆大霉素",
+            "E.青霉素G"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 30
+    },
+    {
+        "question_text": "31.氯霉素的不良反应中与剂量、疗程无关的是",
+        "options": [
+            "A.可逆性白细胞减少",
+            "B.再生障碍性贫血",
+            "C.胃肠道反应",
+            "D.二重感染",
+            "E.灰婴综合症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 31
+    },
+    {
+        "question_text": "32.引起“灰婴综合症”的药",
+        "options": [
+            "A.青霉素",
+            "B.红霉素",
+            "C.氯霉素",
+            "D.灰黄霉素",
+            "E.四环素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 32
+    },
+    {
+        "question_text": "33.可致幼儿牙釉质发育不全且棕染的药物是",
+        "options": [
+            "A.红霉素",
+            "B.青霉素",
+            "C.链霉素",
+            "D.氯霉素",
+            "E.四环素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 33
+    },
+    {
+        "question_text": "34.四环素类中米诺环素独特的不良反应是",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.多毛症",
+            "C.灰婴综合症",
+            "D.前庭功能障碍",
+            "E.耳毒性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 34
+    },
+    {
+        "question_text": "35.四环素类的抗病原体作用范围不包括",
+        "options": [
+            "A.立克次体",
+            "B.病毒",
+            "C.支原体",
+            "D.衣原体",
+            "E.螺旋体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 35
+    },
+    {
+        "question_text": "36.引起可逆性前庭反应的药",
+        "options": [
+            "A.四环素",
+            "B.土霉素",
+            "C.多西环素",
+            "D.米诺环素",
+            "E.金霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 36
+    }
+]

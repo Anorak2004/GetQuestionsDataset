@@ -1,0 +1,1094 @@
+[
+    {
+        "question_text": "1.药源性疾病是:",
+        "options": [
+            "A.严重的不良反应",
+            "B.停药反应",
+            "C.变态反应",
+            "D.较难恢复的不良反应",
+            "E.特异质反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 1
+    },
+    {
+        "question_text": "2.药物的最大效能反映药物的",
+        "options": [
+            "A.内在活性",
+            "B.效应强度",
+            "C.亲和力",
+            "D.量效关系",
+            "E.时效关系"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 2
+    },
+    {
+        "question_text": "3.肾上腺素受体属于:",
+        "options": [
+            "A.G蛋白偶联受体",
+            "B.含离子通道的受体",
+            "C.具有酪氨酸激酶活性的受体",
+            "D.细胞内受体",
+            "E.以上均不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 3
+    },
+    {
+        "question_text": "4.拮抗参数pA2的定义是:",
+        "options": [
+            "A.使激动剂的效应增加倍时竞争性拮抗剂浓度的负对数",
+            "B.使激动剂的剂量增加1倍时竞争性拮抗剂浓度的负对数",
+            "C.使激动剂的效应增加1倍时激动剂浓度的负对数",
+            "D.使激动剂的效应不变时竞争性拮抗剂浓度的负对数",
+            "E.使激动剂的效应增加1倍时非竞争性拮抗剂浓度的负对数"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 4
+    },
+    {
+        "question_text": "5.药理效应是:",
+        "options": [
+            "A.药物的初始作用",
+            "B.药物作用的结果",
+            "C.药物的特异性",
+            "D.药物的选择性",
+            "E.药物的临床疗效"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 5
+    },
+    {
+        "question_text": "6.pD2是:",
+        "options": [
+            "A.药物受体复合体的解离常数负对数值",
+            "B.拮抗常数的负对数",
+            "C.解离常数",
+            "D.拮抗常数",
+            "E.平衡常数"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 6
+    },
+    {
+        "question_text": "7.安全范围是指:",
+        "options": [
+            "A.有效剂量的范围",
+            "B.最小中毒量与治疗量间的距离",
+            "C.最小治疗量至最小致死量间的距离",
+            "D.ED95与LD5间的距离",
+            "E.最小治疗量与最小中毒量间的距离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 7
+    },
+    {
+        "question_text": "8.质反应的累加曲线是:",
+        "options": [
+            "A.对称S型曲线",
+            "B.长尾S型曲线",
+            "C.直线",
+            "D.双曲线",
+            "E.正态分布曲线"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 8
+    },
+    {
+        "question_text": "9.从下列PD2值中可知，与受体亲和力最小的是",
+        "options": [
+            "A.1",
+            "B.2",
+            "C.4",
+            "D.5",
+            "E.6"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 9
+    },
+    {
+        "question_text": "10.从下列PA2值中可知拮抗作用最强的是：",
+        "options": [
+            "A.0.1",
+            "B.0.5",
+            "C.1.0",
+            "D.1.5",
+            "E.1.6"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 10
+    },
+    {
+        "question_text": "11.某降压药停药后血压剧烈回升,此种现象称为",
+        "options": [
+            "A.变态反应",
+            "B.停药反应",
+            "C.后遗效应",
+            "D.特异质反应",
+            "E.毒性反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列关于激动药的描述,错误的是",
+        "options": [
+            "A.有内在活性",
+            "B.与受体有亲和力",
+            "C.量效曲线呈S型",
+            "D.pD2值越大作用越强",
+            "E.与受体迅速解离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 12
+    },
+    {
+        "question_text": "13.储备受体是：",
+        "options": [
+            "A.药物未结合的受体",
+            "B.药物不结合的受体",
+            "C.与药物结合过的受体",
+            "D.药物难结合的受体",
+            "E.与药物解离了的受体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 13
+    },
+    {
+        "question_text": "14.药物与受体结合后，可激动受体，也可阻断受体，取决于",
+        "options": [
+            "A.药物是否具有亲和力",
+            "B.药物是否具有内在活性",
+            "C.药物的酸碱度",
+            "D.药物的脂溶性",
+            "E.药物的极性大小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 14
+    },
+    {
+        "question_text": "15.药物作用的基本表现是机体器官组织:",
+        "options": [
+            "A.功能升高或兴奋",
+            "B.功能降低或抑制",
+            "C.兴奋和或抑制",
+            "D.产生新的功能",
+            "E.A和D"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 15
+    },
+    {
+        "question_text": "16.药物的副反应是与治疗效应同时发生的不良反应,此时的药物剂量是:",
+        "options": [
+            "A.大于治疗量",
+            "B.小于治疗量",
+            "C.治疗剂量",
+            "D.极量",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 16
+    },
+    {
+        "question_text": "17.半数有效量是指",
+        "options": [
+            "A.临床有效量",
+            "B.LD50",
+            "C.引起50%阳性反应的剂量",
+            "D.效应强度",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 17
+    },
+    {
+        "question_text": "18.药物半数致死量(LD50)是指:",
+        "options": [
+            "A.致死量的一半",
+            "B.中毒量的一半",
+            "C.杀死半数病原微生物的剂量",
+            "D.杀死半数寄生虫的剂量",
+            "E.引起半数动物死亡的剂量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 18
+    },
+    {
+        "question_text": "19.可用于表示药物安全性的参数:",
+        "options": [
+            "A.阈剂量",
+            "B.效能",
+            "C.效价强度",
+            "D.治疗指数",
+            "E.LD50"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 19
+    },
+    {
+        "question_text": "20.副作用是在下述哪种剂量时产生的不良反应?",
+        "options": [
+            "A.中毒量",
+            "B.治疗量",
+            "C.无效量",
+            "D.极量",
+            "E.致死量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 20
+    },
+    {
+        "question_text": "21.药物作用的双重性是指:",
+        "options": [
+            "A.治疗作用和副作用",
+            "B.对因治疗和对症治疗",
+            "C.治疗作用和毒性作用",
+            "D.治疗作用和不良反应",
+            "E.局部作用和吸收作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 21
+    },
+    {
+        "question_text": "22.量效曲线可以为用药提供下列哪种参考?",
+        "options": [
+            "A.药物的安全范围",
+            "B.药物的疗效大小",
+            "C.药物的毒性性质",
+            "D.药物的体内过程",
+            "E.药物的给药方案"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 22
+    },
+    {
+        "question_text": "23.药物的极量是指:",
+        "options": [
+            "A.一次量",
+            "B.一日量",
+            "C.疗程总量",
+            "D.单位时间内注入量",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列关于受体的叙述,正确的是:",
+        "options": [
+            "A.受体是首先与药物结合并起反应的细胞成分",
+            "B.受体都是细胞膜上的蛋白质",
+            "C.受体是遗传基因生成的,其分布密度是固定不变的",
+            "D.受体与配基或激动药结合后都引起兴奋性效应",
+            "E.药物都是通过激动或抑制相应受体而发挥作用的"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 24
+    },
+    {
+        "question_text": "25.属于局部作用的例子是",
+        "options": [
+            "A.普鲁卡因的浸润麻醉作用",
+            "B.利多卡因的抗心律失常作用",
+            "C.洋地黄的强心作用",
+            "D.苯巴比妥的镇静催眠作用",
+            "E.硫喷妥钠的麻醉作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 25
+    },
+    {
+        "question_text": "26.肌注阿托品治疗肠绞痛时,引起的口干属于:",
+        "options": [
+            "A.治疗作用",
+            "B.后遗效应",
+            "C.变态反应",
+            "D.毒性反应",
+            "E.副作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 26
+    },
+    {
+        "question_text": "27.药物的作用是指:",
+        "options": [
+            "A.药理效应",
+            "B.药物具有的特异性作用",
+            "C.对不同脏器的选择性作用",
+            "D.药物与机体细胞间的初始反应",
+            "E.对机体器官兴奋或抑制作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 27
+    },
+    {
+        "question_text": "28.用强心苷治疗慢性心功能不全时,它对心脏的作用属于:",
+        "options": [
+            "A.局部作用",
+            "B.普遍细胞作用",
+            "C.继发作用",
+            "D.选择性作用",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 28
+    },
+    {
+        "question_text": "29.药物作用的选择性取决于:",
+        "options": [
+            "A.药物剂量大小",
+            "B.药物脂溶性大小",
+            "C.组织器官对药物的敏感性",
+            "D.药物在体内吸收速度",
+            "E.药物pKa大小"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 29
+    },
+    {
+        "question_text": "30.作用选择性低的药物,在治疗量时往往呈现:",
+        "options": [
+            "A.毒性较大",
+            "B.副作用较多",
+            "C.过敏反应较剧",
+            "D.容易成瘾",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 30
+    },
+    {
+        "question_text": "31.药物作用的两重性是指:",
+        "options": [
+            "A.治疗作用与不良反应",
+            "B.预防作用与不良反应",
+            "C.对症治疗与对因治疗",
+            "D.预防作用与治疗作用",
+            "E.原发作用与继发作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 31
+    },
+    {
+        "question_text": "32.副作用是在下述哪种剂量时产生的不良反应?",
+        "options": [
+            "A.治疗量",
+            "B.无效量",
+            "C.极量",
+            "D.LD50",
+            "E.中毒量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 32
+    },
+    {
+        "question_text": "33.一患者经1个疗程链霉索治疗后,听力下降,虽停药几周听力仍不能恢复,这是:",
+        "options": [
+            "A.药物毒性所致",
+            "B.药物引起的变态反应",
+            "C.药物引起的后遗效应",
+            "D.药物的特异质反应",
+            "E.药物的副作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 33
+    },
+    {
+        "question_text": "34.受体阻断药(拮抗药)的特点是:",
+        "options": [
+            "A.对受体有亲和力而无内在活性",
+            "B.对受体无亲和力而有内在活性",
+            "C.对受体有亲和力和内在活性",
+            "D.对受体的亲和力大而内在活性小",
+            "E.对受体的内在活性大而亲和力小"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 34
+    },
+    {
+        "question_text": "35.拮抗指数pA2的定义是",
+        "options": [
+            "A.使激动药效应加强一倍时的拮抗药浓度的负对数",
+            "B.使激动药效应减弱一半时的拮抗药浓度的负对数",
+            "C.使加倍浓度的激动药仍保持原有效应强度的洁抗药浓度的负对数",
+            "D.使激动药效应减弱至零时的拮抗药浓度的负对数",
+            "E.使加倍浓度的拮抗药仍保持原有效应强度的激动药浓度的负对数"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 35
+    },
+    {
+        "question_text": "36.pD2值可以反映药物与受体亲和力,pD2值大说明",
+        "options": [
+            "A.药物与受体亲和力大,用药剂量小",
+            "B.药物与受体亲和力大,用药剂量大",
+            "C.药物与受体亲和力小,用药剂量小",
+            "D.药物与受体亲和力小,用药剂量大",
+            "E.以上均不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 36
+    },
+    {
+        "question_text": "37.可能发生竞争性对抗作用是",
+        "options": [
+            "A.肾上腺素和乙酰胆碱",
+            "B.组胺和苯海拉明",
+            "C.毛果芸香碱和新斯的明",
+            "D.间羟胺和异丙肾上腺素",
+            "E.阿托品和尼可刹米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 37
+    },
+    {
+        "question_text": "38.副作用是:",
+        "options": [
+            "A.药物在治疗剂量下出现的与治疗目的无关的作用,常是难以避免的",
+            "B.应用药物不恰当而产生的作用",
+            "C.由于病人有遗传缺陷而产生的作用",
+            "D.停药后出现的作用",
+            "E.预防以外的作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 38
+    },
+    {
+        "question_text": "39.当某药物与受体相结合后,产生某种作用并引起一系列效应,该药是属于:",
+        "options": [
+            "A.兴奋剂",
+            "B.激动剂",
+            "C.抑制剂",
+            "D.拮抗剂",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 39
+    },
+    {
+        "question_text": "40.药物的适应证,取决于:",
+        "options": [
+            "A.药物的不同作用",
+            "B.药物作用的选择性",
+            "C.药物的不同给药途径",
+            "D.药物的不良反应",
+            "E.以上均可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 40
+    },
+    {
+        "question_text": "41.半数致死量LD50用以表示",
+        "options": [
+            "A.药物的安全度",
+            "B.药物的治疗指数",
+            "C.药物的急性毒性",
+            "D.药物的极量",
+            "E.评价新药是否优于老药的指标"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 41
+    },
+    {
+        "question_text": "42.与药物的过敏反应有关的是",
+        "options": [
+            "A.剂量大小",
+            "B.药物毒性大小",
+            "C.遗传缺陷",
+            "D.年龄性别",
+            "E.用药途径及次数"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 42
+    },
+    {
+        "question_text": "43.孕妇用药容易发生致畸胎作用的时间是:",
+        "options": [
+            "A.妊娠头3个月",
+            "B.妊娠中3个月",
+            "C.妊娠后3个月",
+            "D.分娩期",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 43
+    },
+    {
+        "question_text": "44.甘露醇的脱水作用机制属于:",
+        "options": [
+            "A.影响细胞代谢",
+            "B.对酶的作用",
+            "C.对受体的作用",
+            "D.理化性质的改变",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 44
+    },
+    {
+        "question_text": "45.具有药理活性的药物,在化学结构方面一定是:",
+        "options": [
+            "A.左旋体",
+            "B.右旋体",
+            "C.消旋体",
+            "D.大分子化合物",
+            "E.以上都可能"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 45
+    },
+    {
+        "question_text": "46.当X轴为实数、Y轴为累加频数坐标时,质反应的量效曲线的图形为",
+        "options": [
+            "A.对数曲线",
+            "B.长尾S型曲线",
+            "C.正态分布曲线",
+            "D.直线",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 46
+    },
+    {
+        "question_text": "47.质反应的量效曲线可以为用药提供参考的是药物的",
+        "options": [
+            "A.性质",
+            "B.疗效大小",
+            "C.安全性",
+            "D.给药方案",
+            "E.体内过程"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 47
+    },
+    {
+        "question_text": "48.完全激动药的概念是药物:",
+        "options": [
+            "A.与受体有较强的亲和力和较强的内在活性",
+            "B.与受体有较强亲和力,无内在活性",
+            "C.与受体有较强的亲和力和较弱的内在活性",
+            "D.与受体有较弱的亲和力,无内在活性",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 48
+    },
+    {
+        "question_text": "49.药物与特异性受体结合后,可能激动受体,也可能阻断受体,这取决于:",
+        "options": [
+            "A.药物的作用强度",
+            "B.药物的剂量大小",
+            "C.药物的脂/水分配系数",
+            "D.药物是否具有亲和力",
+            "E.药物是否具有效应力(内在活性)"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 49
+    },
+    {
+        "question_text": "50.几种药物相比较时,药物的LD50值愈大,则其:",
+        "options": [
+            "A.毒性愈大",
+            "B.毒性愈小",
+            "C.安全性愈小",
+            "D.安全性愈大",
+            "E.治疗指数愈高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 50
+    },
+    {
+        "question_text": "51.可表示药物的安全性的参数是:",
+        "options": [
+            "A.最小有效量",
+            "B.极量",
+            "C.治疗指数",
+            "D.半数致死量",
+            "E.半数有效量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 51
+    },
+    {
+        "question_text": "52.下列药物中,治疗指数最大的药物是",
+        "options": [
+            "A.A药LD50=50mg,ED5=100mg",
+            "B.B药LD50=100mg,ED50=50mg",
+            "C.C药LD50=500mg,ED50=250mg",
+            "D.D药LD5O=50mg,ED50=10mg",
+            "E.E药LD50=100mg,ED50=25mg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 52
+    },
+    {
+        "question_text": "53.药物的常用量是指:",
+        "options": [
+            "A.最小有效量到极量之间的剂量",
+            "B.最小有效量到最小中毒量之间的剂量",
+            "C.治疗量",
+            "D.最小有效量到最小致死量之间的剂量",
+            "E.以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 53
+    },
+    {
+        "question_text": "54.药物的质反应的ED50是指药物",
+        "options": [
+            "A.引起最大效应50%的剂量",
+            "B.引起50%动物阳性效应的剂量",
+            "C.和50%受体结合的剂量",
+            "D.达到50%有效血浓度的剂量",
+            "E.引起50%动物中毒的剂量"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 54
+    },
+    {
+        "question_text": "55.药物作用的两重性指",
+        "options": [
+            "A.既有对因治疗作用,又有对症治疗作用",
+            "B.既有副作用,又有毒性作用",
+            "C.既有治疗作用,又有不良反应",
+            "D.既有局部作用,又有全身作用",
+            "E.既有原发作用,又有继发作用"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 55
+    },
+    {
+        "question_text": "56.以下关于不良反应的论述何者不正确",
+        "options": [
+            "A.副作用是难以避免的",
+            "B.变态反应与药物剂量无关",
+            "C.有些不良反应可在治疗作用基础上继发",
+            "D.毒性作用只有在超极量下才会发生",
+            "E.有些毒性反应停药后仍可残存"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 56
+    },
+    {
+        "question_text": "57.以下阐述中何者不妥?",
+        "options": [
+            "A.最大效能反映药物内在活性",
+            "B.效价强度是引起等效反应的相对剂量",
+            "C.效价强度与最大效能含义完全相同",
+            "D.效价强度与最大效能含义完全不同",
+            "E.效价强度反映药物与受体的亲和力"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 57
+    },
+    {
+        "question_text": "58.关于受体的概念哪项是正确的",
+        "options": [
+            "A.与配体结合无饱和性",
+            "B.与配体结合不可逆性",
+            "C.结合配体的结构多样性",
+            "D.是位于细胞核上的基因片断",
+            "E.均有相应的内源性配体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 58
+    },
+    {
+        "question_text": "59.甲药对某受体有亲和力,无内在活性;乙药对该受体有亲和力,有内在活性,则",
+        "options": [
+            "A.甲药为激动剂,乙药为拮抗剂",
+            "B.甲药为拮抗剂,乙药为激动剂",
+            "C.甲药为部分激动剂,乙药为激动剂",
+            "D.甲药为拮抗剂,乙药为拮抗剂",
+            "E.甲药为激动剂,乙药为激动剂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 59
+    },
+    {
+        "question_text": "60.药物与受体结合后;可能激动受体,也可能阻断受体,取决",
+        "options": [
+            "A.效价强度",
+            "B.剂量大小",
+            "C.机能状态",
+            "D.是否有内在活性",
+            "E.效能高低"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 60
+    },
+    {
+        "question_text": "61.某药的量效关系曲线平行后移,说明",
+        "options": [
+            "A.作用受体改变",
+            "B.作用机制改变",
+            "C.有阻断剂存在",
+            "D.有激动剂存在",
+            "E.效价增加"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 61
+    },
+    {
+        "question_text": "62.量反应与质反应量效关系的主要区别是",
+        "options": [
+            "A.药物剂量大小不同",
+            "B.药物作用时间长短不同",
+            "C.药物效应性质不同",
+            "D.量效曲线图形不同",
+            "E.药物效能不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 62
+    },
+    {
+        "question_text": "63.药物的治疗指数是",
+        "options": [
+            "A.ED50/LD50",
+            "B.LD50/ED50",
+            "C.LD5/ED95",
+            "D.ED99/LD1",
+            "E.ED95/LD5"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 63
+    },
+    {
+        "question_text": "64.竞争性拮抗剂的特点是",
+        "options": [
+            "A.无亲和力,无内在活性",
+            "B.有亲和力,无内在活性",
+            "C.有亲和力,有内在活性",
+            "D.无亲和力,有内在活性",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 64
+    },
+    {
+        "question_text": "65.属于后遗效应的是",
+        "options": [
+            "A.青霉素过敏性休克",
+            "B.地高辛引起的心律失常",
+            "C.呋塞米所致的心律失常",
+            "D.保泰松所致的肝肾损害",
+            "E.巴比妥类药催眠后所致的次晨宿醉现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 65
+    },
+    {
+        "question_text": "66.拮抗参数PA2的定义是",
+        "options": [
+            "A.使激动剂的效应增加1倍时竞争性拮抗剂摩尔浓度的负对数",
+            "B.使激动剂的剂量增加1倍时竞争性拮抗剂摩尔浓度的负对数",
+            "C.使激动剂的效应增加倍时激动剂摩尔浓度的负对数",
+            "D.使激动剂的效应不变时竞争性拮抗剂摩尔浓度的负对数",
+            "E.使激动剂的效应增加1倍时非竞争性拮抗剂摩尔浓度的负对数"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 66
+    },
+    {
+        "question_text": "67.药物的内在活性(效应力)是指",
+        "options": [
+            "A.药物穿透生物膜的能力",
+            "B.药物对受体的亲和能力",
+            "C.药物水溶性大小",
+            "D.受体激动时的反应强度",
+            "E.药物脂溶性大小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 67
+    },
+    {
+        "question_text": "68.药物的治疗指数是指",
+        "options": [
+            "A.ED90/ED10",
+            "B.ED95/LD50",
+            "C.ED50/LD50",
+            "D.LD50/ED50",
+            "E.ED50与LD50之间的距离"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 68
+    },
+    {
+        "question_text": "69.药物对动物急性毒性的关系是",
+        "options": [
+            "A.LD50越大,毒性越大",
+            "B.LD50越大,毒性越小",
+            "C.LD50越小,毒性越小",
+            "D.LD50越大,越容易发生毒性反应",
+            "E.LD50越小,越容易发生过敏反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 69
+    },
+    {
+        "question_text": "70.对治疗指数的阐述何者不正确",
+        "options": [
+            "A.值越小越不安全",
+            "B.值越大则安全范围越广",
+            "C.可用LD50/ED50表示",
+            "D.用LD50/ED50表示也可,但不如用LD10/ED90合理",
+            "E.可用动物试验获得"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 70
+    },
+    {
+        "question_text": "71.药物的半数致死量(LD50)是指",
+        "options": [
+            "A.抗生素杀死一半细菌的剂量",
+            "B.抗寄生虫药杀死一半寄生虫的剂量",
+            "C.产生严重副作用的剂量",
+            "D.能杀死半数动物的剂量",
+            "E.致死量的一半"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 71
+    },
+    {
+        "question_text": "72.治疗指数最大的药物是",
+        "options": [
+            "A.A药LD50=500mg，ED50=100mg",
+            "B.B药LD50=100mg，ED50=50mg",
+            "C.C药LD50=500mg，ED50=25mg",
+            "D.D药LD50=50mg，ED50=250mg",
+            "E.E药LD50=100mg，ED50=25mg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 72
+    },
+    {
+        "question_text": "73.药物的不良反应不包括",
+        "options": [
+            "A.副作用",
+            "B.毒性反应",
+            "C.过敏反应",
+            "D.局部作用",
+            "E.特异质反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 73
+    },
+    {
+        "question_text": "74.药物的LD50越大,则其",
+        "options": [
+            "A.毒性越大",
+            "B.毒性越小",
+            "C.安全性越小",
+            "D.安全性越大",
+            "E.治疗指数越高"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 74
+    },
+    {
+        "question_text": "75.某病人服用某药的最低限量后即可产生正常药理效应或不良反应,这属于下列哪种反应?",
+        "options": [
+            "A.高敏性",
+            "B.过敏反应",
+            "C.耐受性",
+            "D.成瘾性",
+            "E.变态反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 75
+    },
+    {
+        "question_text": "76.药物产生副作用主要是由于",
+        "options": [
+            "A.剂量过大",
+            "B.用药时间过长",
+            "C.机体对药物敏感性高",
+            "D.连续多次用药后药物在体内蓄积",
+            "E.药物作用的选择性低"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 76
+    },
+    {
+        "question_text": "77.LD50是",
+        "options": [
+            "A.引起50%实验动物有效的剂量",
+            "B.引起50%实验动物中毒的剂量",
+            "C.引起50%实验动物死亡的剂量",
+            "D.与50%受体结合的剂量",
+            "E.-达到50%有效血药浓度的剂量"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 77
+    },
+    {
+        "question_text": "78.完全性受体阻断药的特点是",
+        "options": [
+            "A.对受体无亲和力,但有内在活性",
+            "B.对受体有亲和力,并有内在活性",
+            "C.对受体有亲和力,但无内在活性",
+            "D.对受体无亲和力,并无内在活性",
+            "E.对受体有强亲和力,但仅有弱的内在活性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "78",
+        "number": 78
+    }
+]

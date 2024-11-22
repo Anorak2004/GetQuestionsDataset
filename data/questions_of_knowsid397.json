@@ -1,0 +1,1220 @@
+[
+    {
+        "question_text": "1.下列不应预防性应用抗生素的手术是",
+        "options": [
+            "A.甲状腺癌根治手术",
+            "B.腹外疝修补术",
+            "C.门静脉高压症，分流术",
+            "D.结肠癌根治术",
+            "E.主动脉瘤切除血管移植术"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 1
+    },
+    {
+        "question_text": "2.与金黄色葡萄球菌毒力有关的因素",
+        "options": [
+            "A.形成血浆凝固酶的能力",
+            "B.特异性细胞糖类的存在",
+            "C.耐药性",
+            "D.透明质酸酶",
+            "E.磷酸酶活力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 2
+    },
+    {
+        "question_text": "3.气性坏疽最关键的治疗措施是",
+        "options": [
+            "A.大剂量青霉素",
+            "B.高压氧疗法",
+            "C.输血、输液",
+            "D.紧急手术处理",
+            "E.补充足够的营养"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 3
+    },
+    {
+        "question_text": "4.注射破伤风抗毒素（TAT）的目的是",
+        "options": [
+            "A.对易感人群进行预防接种",
+            "B.对可疑或确诊的破伤风患者进行紧急预防或治疗",
+            "C.杀灭伤口中繁殖的破伤风梭（杆）菌",
+            "D.主要用于儿童的预防接种",
+            "E.中和与神经细胞结合的毒素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 4
+    },
+    {
+        "question_text": "5.关于破伤风，正确的描述是",
+        "options": [
+            "A.颈部肌肉强烈收缩最早出现",
+            "B.光线不能诱发全身肌肉抽搐",
+            "C.严重者神志不清",
+            "D.可出现尿潴留",
+            "E.不会发生骨折"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 5
+    },
+    {
+        "question_text": "6.明确脓肿诊断并确定其致病菌的可靠方法是",
+        "options": [
+            "A.抗生素治疗观察",
+            "B.血液细菌培养",
+            "C.穿刺细菌培养",
+            "D.气味",
+            "E.颜色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 6
+    },
+    {
+        "question_text": "7.外科感染的局部治疗方法中错误的是",
+        "options": [
+            "A.散瘀消肿",
+            "B.患部适当活动，促进循环",
+            "C.伴有严重中毒症状时切开减压",
+            "D.必要时切除发炎脏器",
+            "E.加强营养支持"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 7
+    },
+    {
+        "question_text": "8.下述各项控制梭状芽孢杆菌生长繁殖的方法中错误的是",
+        "options": [
+            "A.用氧化剂冲洗创口",
+            "B.用止血带防止感染扩散",
+            "C.用3个大气压的纯氧治疗",
+            "D.投给大剂量的青霉素",
+            "E.可使用四环素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 8
+    },
+    {
+        "question_text": "9.有关痈处理方法错误的是",
+        "options": [
+            "A.中央部坏死组织多，全身症状重者，应手术治疗",
+            "B.切口应超出炎症范围",
+            "C.切开至皮肤全层",
+            "D.尽量剪除坏死组织",
+            "E.唇痈不宜切开"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 9
+    },
+    {
+        "question_text": "10.禁用于肾功能不全患者的抗菌药物是",
+        "options": [
+            "A.青霉素G",
+            "B.阿莫西林",
+            "C.头孢曲松",
+            "D.阿米卡星",
+            "E.阿奇霉素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 10
+    },
+    {
+        "question_text": "11.发生外科感染的必要条件不包括",
+        "options": [
+            "A.外界病菌大量侵入组织",
+            "B.人体正常菌群变成病菌",
+            "C.病菌在组织内大量繁殖",
+            "D.人体抵抗能力有一定缺陷",
+            "E.组织内的有氧环境"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 11
+    },
+    {
+        "question_text": "12.不能引起特异性感染的是",
+        "options": [
+            "A.破伤风杆菌",
+            "B.结核杆菌",
+            "C.B溶血性链球菌",
+            "D.真菌",
+            "E.梭状芽胞杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 12
+    },
+    {
+        "question_text": "13.丹毒是指",
+        "options": [
+            "A.多个毛囊同时感染",
+            "B.皮肤管状淋巴管的急性炎症",
+            "C.扩散到皮下组织的毛囊感染",
+            "D.皮肤及其网状淋巴管的急性炎症",
+            "E.有全身症状的毛囊及其所属皮脂腺的感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于痈的叙述下列哪一项不正确",
+        "options": [
+            "A.是邻近多个毛囊及所属皮脂腺、汗腺的急性化脓性感染",
+            "B.可由单个疖扩展或多个疖融合而成",
+            "C.金葡菌为主要致病菌",
+            "D.好发于上下嘴唇等质地柔软部位",
+            "E.在糖尿病等免疫力低下的成年病人中较为多见"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 14
+    },
+    {
+        "question_text": "15.被动免疫预防破伤风杆菌感染的叙述不正确的是",
+        "options": [
+            "A.伤后24小时内可注射",
+            "B.注药前必须常规做过敏试验",
+            "C.作用快，而且持久",
+            "D.适用于小、深、脏的创口，严重的开放伤",
+            "E.过敏后立即深部肌肉注射肾上腺素抢救"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于G+球菌脓毒血症，下列哪项是错误的",
+        "options": [
+            "A.继发于痛，急性蜂窝织炎等",
+            "B.致病菌为金葡菌或溶血链球菌",
+            "C.休克发生早",
+            "D.少尿或无尿不明显",
+            "E.转移性脓肿多见"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 16
+    },
+    {
+        "question_text": "17.发生于鼻唇三角区（危险三角区）的疖肿可并发",
+        "options": [
+            "A.颜面部蜂窝织炎",
+            "B.丹毒",
+            "C.颜面部淋巴管炎",
+            "D.化脓性海绵窦炎",
+            "E.败血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 17
+    },
+    {
+        "question_text": "18.很少化脓的软组织感染是",
+        "options": [
+            "A.疖",
+            "B.痈",
+            "C.急性蜂窝织炎",
+            "D.丹毒",
+            "E.急性淋巴结炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 18
+    },
+    {
+        "question_text": "19.关于气性坏疽的叙述错误的是",
+        "options": [
+            "A.由革兰阳性厌氧梭状芽胞杆菌感染引起",
+            "B.常在肌肉丰富部位（大腿、臀部）严重开放伤的基础上发病",
+            "C.平时发病率少，战时较多",
+            "D.以起病急、进展快、中海重、患处积气、分泌物恶臭为特点",
+            "E.一般不会危及生命"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于气性坏疽的早期诊断不正确的是",
+        "options": [
+            "A.肌肉丰富部位严重的损伤",
+            "B.伤后3天左右局部出现异乎寻常的疼痛，红、热不明显，而肿胀发展迅速",
+            "C.伤口流出黑色恶臭血性液体，周围皮肤有捻发音",
+            "D.伤口内渗出液涂片发现大量白细胞，革兰阳性粗大杆菌很少",
+            "E.X线摄片显示肌群间存在气体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 20
+    },
+    {
+        "question_text": "21.破伤风病人注射大量TAT的目的是",
+        "options": [
+            "A.中和游离毒素",
+            "B.减少毒素的产生",
+            "C.中和游离和结合的毒素",
+            "D.抑制破伤风杆菌的生长",
+            "E.控制痉挛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 21
+    },
+    {
+        "question_text": "22.破伤风发病时，最先出现的症状是",
+        "options": [
+            "A.苦笑面容",
+            "B.颈项强直",
+            "C.角弓反张",
+            "D.上肢屈曲，下肢挺直",
+            "E.牙关紧闭，开口困难"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 22
+    },
+    {
+        "question_text": "23.治疗小腿丹毒应首选",
+        "options": [
+            "A.土霉素",
+            "B.红霉素",
+            "C.庆大霉素",
+            "D.氨苄青霉素",
+            "E.青霉素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 23
+    },
+    {
+        "question_text": "24.诊断丹毒最有意义的临床表现是",
+        "options": [
+            "A.头痛、畏寒、咼热",
+            "B.好发部位",
+            "C.色鲜红界限清楚",
+            "D.局部发生水泡",
+            "E.所属淋巴结肿大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 24
+    },
+    {
+        "question_text": "25.曾经注射过破伤风类毒素的小儿，再次受伤后的处理",
+        "options": [
+            "A.注射TAT500U",
+            "B.注射TAT1000U",
+            "C.注射TAT1500U",
+            "D.注射TAF2000U",
+            "E.注射破伤风类毒素0.5ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 25
+    },
+    {
+        "question_text": "26.关于深部脓肿，下列哪些是错误的",
+        "options": [
+            "A.局部有疼痛与压痛",
+            "B.有凹陷性水肿",
+            "C.可扪及波动感",
+            "D.有明显全身症状",
+            "E.穿刺有脓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 26
+    },
+    {
+        "question_text": "27.预防手术后感染的最重要的措施是",
+        "options": [
+            "A.提咼机体抵抗力",
+            "B.术前、术中、术后大量应用抗生素",
+            "C.避免休克发生",
+            "D.术后早期离床活动",
+            "E.严格遵守无菌操作的原则"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 27
+    },
+    {
+        "question_text": "28.伤口附近出现“红线”是",
+        "options": [
+            "A.浅层静脉炎",
+            "B.深层静脉炎",
+            "C.网状淋巴管炎",
+            "D.浅层管状淋巴管炎",
+            "E.深层管状淋巴管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 28
+    },
+    {
+        "question_text": "29.能引起转移性脓肿的细菌是",
+        "options": [
+            "A.葡萄球菌",
+            "B.链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 29
+    },
+    {
+        "question_text": "30.破伤风最初出现典型的肌肉强烈收缩是",
+        "options": [
+            "A.咬肌",
+            "B.面肌",
+            "C.颈项肌",
+            "D.背腹肌",
+            "E.四肢肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 30
+    },
+    {
+        "question_text": "31.痈常见于",
+        "options": [
+            "A.心脏病人",
+            "B.高血压病人",
+            "C.肺结核病人",
+            "D.糖尿病病人",
+            "E.肾炎病人"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 31
+    },
+    {
+        "question_text": "32.化脓性感染形成脓肿后，外科治疗的基本原则是",
+        "options": [
+            "A.全身加大抗生素剂量",
+            "B.改用其他抗生素",
+            "C.配合肾上腺皮质激素",
+            "D.配合局部物理疗法",
+            "E.立即切开引流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 32
+    },
+    {
+        "question_text": "33.不引起败血症的细菌是",
+        "options": [
+            "A.葡萄球菌",
+            "B.链球菌",
+            "C.大肠杆菌",
+            "D.破伤风杆菌",
+            "E.绿脓杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 33
+    },
+    {
+        "question_text": "34.脓血症的主要特点是",
+        "options": [
+            "A.寒战",
+            "B.高热",
+            "C.病情发展迅速",
+            "D.白细胞计数明显增加",
+            "E.转移性脓肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 34
+    },
+    {
+        "question_text": "35.切开引流的最佳切口是",
+        "options": [
+            "A.侧面横切口",
+            "B.侧面纵切口",
+            "C.掌面横切口",
+            "D.掌面纵切口",
+            "E.鱼口形切口"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 35
+    },
+    {
+        "question_text": "36.深部脓肿的特点是",
+        "options": [
+            "A.局部红、肿、热、痛明显",
+            "B.局部波动感明显",
+            "C.全身中毒症状不明显",
+            "D.局部仅有水肿现象，但无压痛",
+            "E.局部水肿、压痛明显，穿刺可抽到脓液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 36
+    },
+    {
+        "question_text": "37.预防破伤风最有效、最可靠的方法是",
+        "options": [
+            "A.彻底清创",
+            "B.应用青霉素",
+            "C.注射TAT",
+            "D.注射破伤风类毒素",
+            "E.注射人体破伤风免疫球蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 37
+    },
+    {
+        "question_text": "38.破伤风患者的治疗原则为",
+        "options": [
+            "A.预防和抢救休克",
+            "B.早期行气管切开术",
+            "C.咼压氧治疗",
+            "D.应用破伤风类毒素",
+            "E.清除毒素来源中和毒素，控制和解除痉挛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 38
+    },
+    {
+        "question_text": "39.气性坏疽的临床特点是",
+        "options": [
+            "A.局部红、肿、热、痛不明显",
+            "B.一般白细胞不升高",
+            "C.体温正常",
+            "D.休克发生早",
+            "E.局部肌坏死，有血性分泌物，恶臭"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 39
+    },
+    {
+        "question_text": "40.引起气性坏疽的病原菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.厌氧性链球菌",
+            "C.变形杆菌",
+            "D.梭状芽孢杆菌",
+            "E.大肠杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 40
+    },
+    {
+        "question_text": "41.气性坏疽的早期诊断依据是",
+        "options": [
+            "A.受伤史和临床所见",
+            "B.血培养培养出革兰氏阳性杆菌",
+            "C.渗出物涂片找到革兰氏阳性杆菌",
+            "D.严重的败血症和溶血性贫血",
+            "E.伤口部位培养出厌氧性梭状芽孢杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 41
+    },
+    {
+        "question_text": "42.手部化脓性感染的手术原则应除外",
+        "options": [
+            "A.手术时宜应用区域组织阻滞麻醉",
+            "B.脓液应作细菌培养及药敏试验",
+            "C.伤口不应置引流物，以免影响功能",
+            "D.应用抗菌药物",
+            "E.炎症消退后，早期进行功能锻炼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 42
+    },
+    {
+        "question_text": "43.外科感染的发生最重要的原因为",
+        "options": [
+            "A.伤口的存在",
+            "B.致病菌入侵人体",
+            "C.局部组织血液循环不良",
+            "D.贫血",
+            "E.未及时应用抗菌药物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 43
+    },
+    {
+        "question_text": "44.关于病菌致病因素的描述，错误的是",
+        "options": [
+            "A.病菌有黏附因子",
+            "B.病菌有荚膜、微荚膜",
+            "C.与病菌的胞外酶有关",
+            "D.与病菌的内、外毒素有关",
+            "E.与病菌侵入的数量并无密切关系"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 44
+    },
+    {
+        "question_text": "45.关于非特异性感染不应出现的病理改变是",
+        "options": [
+            "A.炎症介质、细胞因子释放",
+            "B.血管通透性增加",
+            "C.调理素释放不足",
+            "D.干酪样坏死",
+            "E.形成抗原抗体复合物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 45
+    },
+    {
+        "question_text": "46.有关痛处理方法错误的是",
+        "options": [
+            "A.中央部坏死组织多，全身症状重者，应手术治疗",
+            "B.切口应超出炎症范围",
+            "C.切开至皮肤全层",
+            "D.尽量剪除坏死组织",
+            "E.唇痛不宜切开"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 46
+    },
+    {
+        "question_text": "47.男，70岁，上唇一个毛囊尖处出现红肿、疼痛的结节，中央部有灰黄色小脓栓形成，错误的处置是",
+        "options": [
+            "A.休息",
+            "B.外敷鱼石脂膏",
+            "C.挤出脓栓，以利引流",
+            "D.应用抗生素",
+            "E.湿热敷"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 47
+    },
+    {
+        "question_text": "48.男，18岁，右手背部深II度烧伤10天，近一天出现乏力、头痛及张口困难，不恰当的诊治措施是",
+        "options": [
+            "A.手背部烧伤部位清创",
+            "B.TAT2万U静脉注射",
+            "C.腰穿脑脊液检查",
+            "D.白蛋白20g静脉注射",
+            "E.10%水合氯醛30ml保留灌肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 48
+    },
+    {
+        "question_text": "49.女性，65岁，右上腹痛，寒战、高热3天入院，既往有胆结石病史。入院检查，体温39.5°C,血压80/50mmHg，神志淡漠，巩膜黄染，右上腹压痛（+）未及包块，肠鸣音正常，该病人初步诊断",
+        "options": [
+            "A.革兰氏染色阳性球菌败血症",
+            "B.革兰氏染色阴性杆菌败血症",
+            "C.毒血症",
+            "D.菌血症",
+            "E.脓血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 49
+    },
+    {
+        "question_text": "男,10岁,右足底被铁锈钉刺伤10天,突然出现张口困难,继之出现苦笑面容,角弓反张,声响及触碰病人可诱发上述症状,病人神志清楚,不发热。50.该病致病菌属于",
+        "options": [
+            "A.革兰染色阴性大肠杆菌",
+            "B.革兰染色阴性厌氧拟杆菌",
+            "C.革兰染色阴性变形杆菌",
+            "D.革兰染色阳性梭形芽孢杆菌",
+            "E.革兰染色阳性厌氧芽孢杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 50
+    },
+    {
+        "question_text": "51.该病属于",
+        "options": [
+            "A.毒血症",
+            "B.菌血症",
+            "C.败血症",
+            "D.脓血症",
+            "E.脓毒血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 51
+    },
+    {
+        "question_text": "52.对机体威胁最大的是",
+        "options": [
+            "A.肌肉断裂",
+            "B.骨折",
+            "C.尿潴留",
+            "D.持续的呼吸肌痉挛",
+            "E.营养障碍"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 52
+    },
+    {
+        "question_text": "女性,52岁,脾切除、小肠切除吻合术后第5天,已排气,头痛、&心.腹胀,随后出现寒颤,四肢发绀,体温39.6°C,脉搏108次/分,血压135/85mmHg,近24小时尿量650m/,轻度腹胀,腹软,全腹轻压痛,无反跳痛及肌紧张,肠鸣音3次/分，53.最有可能出现异常的是",
+        "options": [
+            "A.白细胞计数",
+            "B.尿常规检查",
+            "C.立位腹部透视",
+            "D.腹部超声检查",
+            "E.血清钾离子"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 53
+    },
+    {
+        "question_text": "54.最可能的原因为",
+        "options": [
+            "A.小肠吻合口痿",
+            "B.手术后创面出血",
+            "C.急性肾功能衰竭",
+            "D.革兰染色阴性杆菌感染",
+            "E.高位肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 54
+    },
+    {
+        "question_text": "男性,8岁,额部多发性疖肿,不慎碰伤额部,致使局部红肿扩大,弛张性高热,4天后臀部皮下又发现一肿块,疼痛、压痛明显,且有波动感。55.进一步确诊的方法是",
+        "options": [
+            "A.头部X线摄片",
+            "B.臀部肿块B超检查",
+            "C.臀部X线摄片",
+            "D.查血象",
+            "E.臀部肿块穿刺抽脓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 55
+    },
+    {
+        "question_text": "56.诊断应考虑为",
+        "options": [
+            "A.菌血症",
+            "B.败血症",
+            "C.毒血症",
+            "D.寒性脓肿",
+            "E.脓毒血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 56
+    },
+    {
+        "question_text": "57.治疗方案为",
+        "options": [
+            "A.醇浴（30%酒精）退热",
+            "B.额部疖肿换药",
+            "C.臀部脓肿切开引流及抗生素治疗",
+            "D.加强营养，增强抵抗力",
+            "E.综合应用多种抗生素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 57
+    },
+    {
+        "question_text": "女性,30岁,背部肿块,红、肿、疼痛3天,寒战、发热39C,查体:背部肿物3cmX5cm,触之有波动感。58.当病灶做局部引流和全身应用抗生素后，仍有寒战、高热，最合适的治疗措施是",
+        "options": [
+            "A.联合应用抗生素，并加大剂量",
+            "B.尽快明确细菌种类和药敏试验",
+            "C.寻找有无其他感染病灶",
+            "D.使用抗霉菌药物治疗",
+            "E.加用肾上腺皮质激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 58
+    },
+    {
+        "question_text": "59.为了提高病人血培养的阳性率，最好的抽血时间是",
+        "options": [
+            "A.发热开始时",
+            "B.寒战开始时",
+            "C.发热最高峰时",
+            "D.寒战结束时",
+            "E.预计寒战发热时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 59
+    },
+    {
+        "question_text": "60.根据临床表现，该患者有脓血症征象，其主要特点是",
+        "options": [
+            "A.寒战后，咼热呈稽留热",
+            "B.白细胞计数30X109/L",
+            "C.休克出现早",
+            "D.肝、肾功能损害",
+            "E.转移性脓肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 60
+    },
+    {
+        "question_text": "男,16岁,发热4天伴纳差2天急诊。检查:血压114/7OOmmHg,左脚趾甲沟部红肿破溃。血白细胞计数为20X109/L，中性粒细胞为89%。61.初步诊断是",
+        "options": [
+            "A.左脚趾甲沟炎",
+            "B.左脚趾坏疽",
+            "C.左侧小腿丹毒",
+            "D.左小腿蜂窝织炎",
+            "E.感染性休克"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 61
+    },
+    {
+        "question_text": "62.左脚趾经切开引流处理后应给予",
+        "options": [
+            "A.大剂量青霉素",
+            "B.激素",
+            "C.退热剂",
+            "D.庆大霉素",
+            "E.维生素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 62
+    },
+    {
+        "question_text": "63.经处理3天后病人体温升高，且血压和血小板计数下降，此时病人可能合并有",
+        "options": [
+            "A.败血症",
+            "B.DIC",
+            "C.感染性休克",
+            "D.多器官衰竭",
+            "E.菌血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 63
+    },
+    {
+        "question_text": "64.经血培养证实金黄色葡萄球菌阳性。根据经验首选抗生素是",
+        "options": [
+            "A.丁胺卡那霉素",
+            "B.环丙沙星",
+            "C.红霉素",
+            "D.万古霉素",
+            "E.甲硝唑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 64
+    },
+    {
+        "question_text": "男,30岁,四肢、躯干烧伤,面积70%,其中川度占20%,深H度占50%。由于初期抗休克治疗及创面治疗不当,6天后高热、谵妄,周身皮疹,创面有较多黄稠脓性分泌物。65.此时应考虑",
+        "options": [
+            "A.金葡菌感染败血症",
+            "B.链球菌感染败血症",
+            "C.大肠杆菌感染败血症",
+            "D.绿脓杆菌感染败血症",
+            "E.真菌感染败血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 65
+    },
+    {
+        "question_text": "66.该病人经积极治疗，支持疗法，联合应用大量广谱抗生素，病情好转，但仍有低热。抗生素一直持续应用，15天后病人又突发寒战，高热达40°C，神志淡漠，嗜睡，休克，白细胞计数25X109L。此时应考虑并发",
+        "options": [
+            "A.中毒性休克",
+            "B.革兰氏阳性细菌败血症",
+            "C.革兰氏阴性细菌败血症",
+            "D.绿脓杆菌败血症",
+            "E.真菌性败血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 66
+    },
+    {
+        "question_text": "67.对该病人高热原因的进一步确诊，应采用的可靠方法是",
+        "options": [
+            "A.胸部X线摄片",
+            "B.抽血作厌氧菌培养",
+            "C.尿和血液作真菌检查和培养",
+            "D.抽血作普通细菌培养",
+            "E.骨髓细菌培养"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 67
+    },
+    {
+        "question_text": "68.该病人经血、尿检查及培养，上述诊断成立。此时应如何处理",
+        "options": [
+            "A.加大已应用的广谱抗生素量",
+            "B.输血抗休克治疗",
+            "C.药物降温",
+            "D.停止使用原抗生素，改用抗真菌药物",
+            "E.人工冬眠治疗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 68
+    },
+    {
+        "question_text": "69.脓液稠厚，有恶臭或粪臭",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 69
+    },
+    {
+        "question_text": "70.脓液稠厚、黄色、不臭",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 70
+    },
+    {
+        "question_text": "71.常伴有转移性脓肿",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 71
+    },
+    {
+        "question_text": "72.大面积烧伤创面感染最常见的细菌",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 72
+    },
+    {
+        "question_text": "73.虽易引起败血症，但一般不发生转移性脓肿",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.溶血性链球菌",
+            "C.大肠杆菌",
+            "D.绿脓杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 73
+    },
+    {
+        "question_text": "74.寒战、高热、热型为间歇热。休克发生的早",
+        "options": [
+            "A.革兰氏阳性细菌败血症",
+            "B.革兰氏阴性细菌败血症",
+            "C.真菌性败血症",
+            "D.毒血症",
+            "E.菌血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 74
+    },
+    {
+        "question_text": "75.高热、寒战少见，热型多为稽留热或弛张热，休克发生的晚",
+        "options": [
+            "A.革兰氏阳性细菌败血症",
+            "B.革兰氏阴性细菌败血症",
+            "C.真菌性败血症",
+            "D.毒血症",
+            "E.菌血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 75
+    },
+    {
+        "question_text": "76.引起破伤风的细菌是",
+        "options": [
+            "A.溶血性链球菌",
+            "B.金黄色葡萄球菌",
+            "C.破伤风杆菌",
+            "D.梭状芽胞杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 76
+    },
+    {
+        "question_text": "77.引起急性蜂窝织炎的主要细菌是",
+        "options": [
+            "A.溶血性链球菌",
+            "B.金黄色葡萄球菌",
+            "C.破伤风杆菌",
+            "D.梭状芽胞杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 77
+    },
+    {
+        "question_text": "78.痈的致病菌是",
+        "options": [
+            "A.溶血性链球菌",
+            "B.金黄色葡萄球菌",
+            "C.破伤风杆菌",
+            "D.梭状芽胞杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 78
+    },
+    {
+        "question_text": "79.丹毒的致病菌是",
+        "options": [
+            "A.溶血性链球菌",
+            "B.金黄色葡萄球菌",
+            "C.破伤风杆菌",
+            "D.梭状芽胞杆菌",
+            "E.变形杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 79
+    },
+    {
+        "question_text": "80.男性，48岁，因右臂红肿热痛1周，发热",
+        "options": [
+            "A.革兰阴性细菌败血症",
+            "B.革兰阳性细菌败血症",
+            "C.脓血症",
+            "D.真菌性败血症",
+            "E.毒血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 80
+    },
+    {
+        "question_text": "81.女性，50岁，10天前作胆道手术，近几天来时有突然寒战，体温38C-39C，有时体温接近正常，白细胞计数为8.5X109/，中性0.70，血培养阳性，考虑为",
+        "options": [
+            "A.革兰阴性细菌败血症",
+            "B.革兰阳性细菌败血症",
+            "C.脓血症",
+            "D.真菌性败血症",
+            "E.毒血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 81
+    },
+    {
+        "question_text": "82.男性，16岁，因咽喉疼痛5天，昨天感寒战，发热39.5C,白细胞数为18.5X109/L,中性0.90,血培养阴性，考虑为",
+        "options": [
+            "A.革兰阴性细菌败血症",
+            "B.革兰阳性细菌败血症",
+            "C.脓血症",
+            "D.真菌性败血症",
+            "E.毒血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 82
+    },
+    {
+        "question_text": "83.男性，32岁，111度烧伤40%,伤后10天，体温40°C,心率140次/分，呼吸36次/分，创面湿，灶性积脓，创周炎症明显，血白细胞计数为20X109L,血培养无菌生长，考虑为",
+        "options": [
+            "A.败血症",
+            "B.菌血症",
+            "C.创面脓毒症",
+            "D.脓毒血症",
+            "E.真菌败血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 83
+    },
+    {
+        "question_text": "84.女性，6岁，烧伤50%,III度20%，体温37C，心率136次/分，呼吸36次分，创面可见坏死斑，血培养为阴沟杆菌，考虑为",
+        "options": [
+            "A.败血症",
+            "B.菌血症",
+            "C.创面脓毒症",
+            "D.脓毒血症",
+            "E.真菌败血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 84
+    },
+    {
+        "question_text": "疖",
+        "options": [
+            "A.皮肤及网状淋巴管的急性炎症",
+            "B.皮下筋膜下蜂窝组织急性炎症",
+            "C.皮下淋巴管及其周围的急性炎症",
+            "D.一个毛囊及其所属皮脂腺急性化脓性感染",
+            "E.多个相邻毛囊及其所属皮脂腺急性化脓性感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 85
+    },
+    {
+        "question_text": "86.痈",
+        "options": [
+            "A.皮肤及网状淋巴管的急性炎症",
+            "B.皮下筋膜下蜂窝组织急性炎症",
+            "C.皮下淋巴管及其周围的急性炎症",
+            "D.一个毛囊及其所属皮脂腺急性化脓性感染",
+            "E.多个相邻毛囊及其所属皮脂腺急性化脓性感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 86
+    },
+    {
+        "question_text": "87.丹毒",
+        "options": [
+            "A.皮肤及网状淋巴管的急性炎症",
+            "B.皮下筋膜下蜂窝组织急性炎症",
+            "C.皮下淋巴管及其周围的急性炎症",
+            "D.一个毛囊及其所属皮脂腺急性化脓性感染",
+            "E.多个相邻毛囊及其所属皮脂腺急性化脓性感染"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "87",
+        "number": 87
+    }
+]

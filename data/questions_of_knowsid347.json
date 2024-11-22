@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.维拉帕米不用于治疗",
+        "options": [
+            "A.心绞痛",
+            "B.慢性心功能不全",
+            "C.高血压",
+            "D.室上性心动过速",
+            "E.心房纤颤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.属于非选择性Ca2+通道阻滞药是",
+        "options": [
+            "A.硝苯地平",
+            "B.胺碘酮",
+            "C.地尔硫卓",
+            "D.维拉帕米",
+            "E.氟桂利嗪"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.对药物最敏感的钙通道亚型是",
+        "options": [
+            "A.L型",
+            "B.T型",
+            "C.N型",
+            "D.P型",
+            "E.H型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.以下半衰期最长的二氢吡啶类药物是",
+        "options": [
+            "A.硝苯地平",
+            "B.尼莫地平",
+            "C.氨氯地平",
+            "D.尼群地平",
+            "E.尼索地平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.对脑血管扩张作用最强的钙拮抗药是",
+        "options": [
+            "A.硝苯地平",
+            "B.尼莫地平",
+            "C.氨氯地平",
+            "D.维拉帕米",
+            "E.地尔硫卓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.作用于钙通道开放态的药物是",
+        "options": [
+            "A.维拉帕米",
+            "B.硝苯地平",
+            "C.地尔硫卓",
+            "D.尼群地平",
+            "E.尼莫地平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.L型钙通道有5个亚单位,其中主要功能单位为",
+        "options": [
+            "A.α1亚单位",
+            "B.α2亚单位",
+            "C.β亚单位",
+            "D.γ亚单位",
+            "E.δ亚单位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗心律失常、心绞痛、肥厚性心肌药疗效较好的药物是",
+        "options": [
+            "A.维拉帕米",
+            "B.地尔硫卓",
+            "C.硝苯地平",
+            "D.尼莫地平",
+            "E.尼群地平"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.二氢吡啶类钙拮抗药选择性松弛脑血管的是",
+        "options": [
+            "A.氟桂利嗪",
+            "B.尼群地平",
+            "C.尼莫地平",
+            "D.尼索地平",
+            "E.硝苯地平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.维拉帕米治疗肥厚性心肌病的主要机制是",
+        "options": [
+            "A.抑制心肌细胞内Ca2+量超负荷,减轻心室流出道狭窄",
+            "B.舒张血管,减少心脏负荷",
+            "C.负性频率作用",
+            "D.负性传导作用",
+            "E.抑制血小板聚集"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.维拉帕米抗心律失常的机制是",
+        "options": [
+            "A.负性肌力作用,负性频率作用,负性传导作用",
+            "B.负性肌力作用,负性频率作用,延长有效不应期",
+            "C.降低自律性,减慢传导速度,延长有效不应期",
+            "D.降低自律性,加快传导速度,延长有效不应期",
+            "E.降低自律性,减慢传导速度,缩短有效不应期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.具有频率依赖性的药物是",
+        "options": [
+            "A.硝苯地平",
+            "B.维拉帕米",
+            "C.尼莫地平",
+            "D.尼群地平",
+            "E.氨氯地平"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]
