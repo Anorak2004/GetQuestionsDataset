@@ -1,0 +1,3712 @@
+[
+    {
+        "question_text": "1.生命征是评价生命活动质量的重要征象。以下哪项为生命征的检查？",
+        "options": [
+            "A.意识状态、呼吸、脉搏、血压",
+            "B.体温、呼吸、血压、意识状态",
+            "C.性征、体温、呼吸、血压",
+            "D.体温、呼吸、脉搏、血压",
+            "E.意识状态、体温、呼吸、脉搏、血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 1
+    },
+    {
+        "question_text": "2.男，40岁，突然呼吸困难2小时，体检时首先应注意的是:",
+        "options": [
+            "A.头部",
+            "B.神志",
+            "C.生命体征",
+            "D.肺",
+            "E.心脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 2
+    },
+    {
+        "question_text": "3.有关正常人意识清晰的描述哪项不正确？",
+        "options": [
+            "A.反应敏锐精确",
+            "B.思维活动正常",
+            "C.表达能力机敏",
+            "D.语音流畅、准确",
+            "E.兴奋不安"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 3
+    },
+    {
+        "question_text": "4.临床上检查意识状态的方法一般多用:",
+        "options": [
+            "A.问诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.嗅诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项不是生命征的范围？",
+        "options": [
+            "A.体温",
+            "B.呼吸",
+            "C.脉搏",
+            "D.血压",
+            "E.表情"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于体温测量正确的是:",
+        "options": [
+            "A.口测法最为准确，因为最接近中心体温",
+            "B.口测法正常值为36.5～37.7℃",
+            "C.腋测法正常值为36～37℃",
+            "D.肛测法最安全，可用于体温筛查",
+            "E.肛测法正常值为36.3～37.2℃"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于体温的测量，下列哪种说法不正确？",
+        "options": [
+            "A.口测体温时，体温计需在口中保留5min",
+            "B.口测法不适用于神志不清者",
+            "C.肛测法一般较口测法低0.3～0.5℃",
+            "D.成人在24h内体温波动不超过1.0℃",
+            "E.体温低于正常称为体温过低"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 7
+    },
+    {
+        "question_text": "8.体温过低一般不出现在下列哪种情况？",
+        "options": [
+            "A.休克",
+            "B.慢性消耗性疾病",
+            "C.严重营养不良",
+            "D.甲亢",
+            "E.在低温环境中暴露过久"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 8
+    },
+    {
+        "question_text": "9.正常成人静息状态下，呼吸频率是:",
+        "options": [
+            "A.12～16次/分",
+            "B.16～18次/分",
+            "C.12～20次/分",
+            "D.15～18次/分",
+            "E.15～20次/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 9
+    },
+    {
+        "question_text": "10.体温每升高1℃，患者呼吸大约可增加:",
+        "options": [
+            "A.5次/分",
+            "B.4次/分",
+            "C.10次/分",
+            "D.6次/分",
+            "E.2次/分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 10
+    },
+    {
+        "question_text": "11.正常成人静息状态下，呼吸与脉搏之比为:",
+        "options": [
+            "A.1:3",
+            "B.1:4",
+            "C.1:5",
+            "D.1:6",
+            "E.1:8"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 11
+    },
+    {
+        "question_text": "12.关于脉搏的描述，正确的是:",
+        "options": [
+            "A.正常成人60～80次/分",
+            "B.正常成人60～100次/分",
+            "C.儿童约120次/分",
+            "D.老年人较快",
+            "E.男性较女性快"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 12
+    },
+    {
+        "question_text": "13.脉搏的紧张度取决于:",
+        "options": [
+            "A.收缩压",
+            "B.舒张压",
+            "C.脉压",
+            "D.血管壁弹性",
+            "E.心排出量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 13
+    },
+    {
+        "question_text": "14.哪种细菌感染时脉搏缓慢？",
+        "options": [
+            "A.伤寒杆菌",
+            "B.痢疾杆菌",
+            "C.霍乱弧菌",
+            "D.葡萄球菌",
+            "E.肺炎链球菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 14
+    },
+    {
+        "question_text": "15.血压增高的病人中，最常见的是:",
+        "options": [
+            "A.原发性高血压",
+            "B.妊娠高血压综合征",
+            "C.肾性高血压",
+            "D.内分泌性高血压",
+            "E.颅内高压"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 15
+    },
+    {
+        "question_text": "16.患者男性，34岁，因头痛就诊，测血压为170/105mmHg，此血压属于:",
+        "options": [
+            "A.正常高值",
+            "B.1级高血压",
+            "C.临界高血压",
+            "D.2级高血压",
+            "E.3级高血压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 16
+    },
+    {
+        "question_text": "17.低血压可见于下列哪种情况:",
+        "options": [
+            "A.库欣综合征",
+            "B.嗜铬细胞瘤",
+            "C.肾上腺皮质功能减退",
+            "D.肢端肥大症",
+            "E.甲状腺功能亢进症"
+        ],
+        "correct_answer": "C",
+        "analysis": "选项 B：嗜铬细胞瘤会阵发性或持续性地释放大量儿茶酚胺，导致血压升高，而非低血压。",
+        "total_number": "265",
+        "number": 17
+    },
+    {
+        "question_text": "18.为了解血压变异性和血压昼夜规律，指导治疗和评价降压药物疗效，常选择:",
+        "options": [
+            "A.直接血压测定",
+            "B.自我测量血压",
+            "C.诊所偶测血压",
+            "D.动态血压监测",
+            "E.电子血压计测量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 18
+    },
+    {
+        "question_text": "19.上肢血压高于或等于下肢血压常见于:",
+        "options": [
+            "A.动脉粥样硬化",
+            "B.主动脉狭窄",
+            "C.主动脉瓣狭窄",
+            "D.高血压病",
+            "E.甲状腺功能亢进症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 19
+    },
+    {
+        "question_text": "20.测血压时出现听诊间歇是指:",
+        "options": [
+            "A.收缩压以下40毫米处听不到声音",
+            "B.收缩压全部听不到声音",
+            "C.舒张压全部听不到声音",
+            "D.在收缩压下10-30毫米听不到声音，也扪不到脉搏",
+            "E.在收缩压与舒张压之间出现的无声间隙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 20
+    },
+    {
+        "question_text": "21.洪脉多见于:",
+        "options": [
+            "A.心力衰竭",
+            "B.休克",
+            "C.虚脱",
+            "D.二尖瓣狭窄",
+            "E.高热、贫血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 21
+    },
+    {
+        "question_text": "22.脱落脉可见于:",
+        "options": [
+            "A.心房颤动",
+            "B.二度方式传导阻滞",
+            "C.频发性早搏",
+            "D.窦性心律不齐",
+            "E.完全性房室传导阻滞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 22
+    },
+    {
+        "question_text": "23.成年人表现为体格粗壮、颈粗短，面红，肩宽平、胸围大、腹上角＞90°。属于下列哪一种体征？",
+        "options": [
+            "A.正力型",
+            "B.无力型",
+            "C.超力型",
+            "D.Cushing征体型",
+            "E.阉人征体型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 23
+    },
+    {
+        "question_text": "24.呆小症属于:",
+        "options": [
+            "A.垂体前叶功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能亢进",
+            "D.甲状腺功能减退",
+            "E.维生素D缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 24
+    },
+    {
+        "question_text": "25.侏儒症属于:",
+        "options": [
+            "A.垂体前叶功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能亢进",
+            "D.甲状腺功能减退",
+            "E.维生素D缺乏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 25
+    },
+    {
+        "question_text": "26.巨人症属于:",
+        "options": [
+            "A.垂体前叶功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能亢进",
+            "D.甲状腺功能减退",
+            "E.维生素D缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 26
+    },
+    {
+        "question_text": "27.佝偻症属于:",
+        "options": [
+            "A.垂体前叶功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能亢进",
+            "D.甲状腺功能减退",
+            "E.维生素D缺乏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 27
+    },
+    {
+        "question_text": "28.发育成熟前体格发育超过正常是因为:",
+        "options": [
+            "A.垂体前叶功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能亢进",
+            "D.甲状腺功能减退",
+            "E.维生素D缺乏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 28
+    },
+    {
+        "question_text": "29.垂体前叶分泌生长激素细胞瘤患者多见于:",
+        "options": [
+            "A.呈呆小症",
+            "B.矮小",
+            "C.呈巨人症",
+            "D.呈超力型",
+            "E.呈肥胖体型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 29
+    },
+    {
+        "question_text": "30.性腺功能低下的女性可出现:",
+        "options": [
+            "A.毛发稀少",
+            "B.肥胖",
+            "C.月经过多",
+            "D.发音男性化",
+            "E.下肢过长"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列关于无力型体型的临床表现错误的是:",
+        "options": [
+            "A.肩窄下垂",
+            "B.胸廓扁平",
+            "C.腹上角大于90度",
+            "D.体高肌瘦",
+            "E.颈细长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列关于小儿甲状腺机能亢进特征，错误的是:",
+        "options": [
+            "A.食欲亢进",
+            "B.体格发育超常",
+            "C.代谢增强",
+            "D.心率较快",
+            "E.脂肪丰满"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 32
+    },
+    {
+        "question_text": "33.继发性肥胖的病因主要是:",
+        "options": [
+            "A.内分泌疾病引起",
+            "B.消化系疾病引起",
+            "C.心血管疾病引起",
+            "D.神经体质",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 33
+    },
+    {
+        "question_text": "34.内分泌改变与下列病态发育的关系哪种说法正确？",
+        "options": [
+            "A.垂体功能减退致呆小症",
+            "B.垂体功能亢进致巨人症",
+            "C.甲状腺功能减退致侏儒症",
+            "D.性早熟儿童不会影响体格发育",
+            "E.甲状腺功能亢进患者不会影响体格发育影响体格发育"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 34
+    },
+    {
+        "question_text": "35.在某些特殊情况下对年龄需要评估，下列哪项内容不作为判断年龄的依据？",
+        "options": [
+            "A.皮肤弹性与光泽",
+            "B.毛发的颜色和分布",
+            "C.肌肉的状态",
+            "D.牙齿的状态",
+            "E.身高体重"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列关于“阉人”征错误的是:",
+        "options": [
+            "A.消瘦",
+            "B.发育女声样",
+            "C.无须",
+            "D.毛发稀少",
+            "E.骨盆宽大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列关于判断发育指标，错误的是:",
+        "options": [
+            "A.年龄",
+            "B.智力",
+            "C.性格",
+            "D.身高",
+            "E.第二性征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 37
+    },
+    {
+        "question_text": "38.肢端肥大症常见于:",
+        "options": [
+            "A.甲状腺功能亢进",
+            "B.腺垂体功能亢进",
+            "C.腺垂体功能低下",
+            "D.甲状腺功能低下",
+            "E.糖尿病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 38
+    },
+    {
+        "question_text": "39.体重超过标准体重多少为肥胖？",
+        "options": [
+            "A.10％以上",
+            "B.15％以上",
+            "C.20％以上",
+            "D.25％以上",
+            "E.30％以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 39
+    },
+    {
+        "question_text": "40.当体重至少低于正常体重的多少比例时，临床称为消瘦？",
+        "options": [
+            "A.5%",
+            "B.10%",
+            "C.15%",
+            "D.20%",
+            "E.25%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 40
+    },
+    {
+        "question_text": "41.判断营养状态最简便而迅速的方法是观察:",
+        "options": [
+            "A.皮肤弹性",
+            "B.毛发的多少",
+            "C.皮下脂肪充实程度",
+            "D.肌肉发育",
+            "E.指甲有无光泽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 41
+    },
+    {
+        "question_text": "42.判断脂肪充实最方便和最适宜的部位是:",
+        "options": [
+            "A.腹部皮下脂肪层",
+            "B.股部外侧上1/3处皮下脂肪层",
+            "C.肩胛部皮下脂肪层",
+            "D.面部皮下脂肪层",
+            "E.前臂曲侧或臂背侧下1/3处脂肪层"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列关于营养状态的判断，错误的是:",
+        "options": [
+            "A.皮肤弹性",
+            "B.毛发的润泽",
+            "C.皮下脂肪",
+            "D.声音",
+            "E.肌肉发育"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列哪项是营养不良的表现？",
+        "options": [
+            "A.皮下脂肪菲薄，肌肉松弛无力",
+            "B.肩胛部和股部肌肉丰满",
+            "C.指甲、毛发润泽",
+            "D.皮下脂肪丰满而有弹性",
+            "E.粘膜红润、皮肤光泽"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 44
+    },
+    {
+        "question_text": "45.向心性肥胖是由于下列哪一种激素分泌过多所致？",
+        "options": [
+            "A.生长素",
+            "B.胰岛素",
+            "C.糖皮质激素",
+            "D.盐皮质激素",
+            "E.甲状腺激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 45
+    },
+    {
+        "question_text": "46.肥胖的标准为体重超过正常的:",
+        "options": [
+            "A.5%",
+            "B.10%",
+            "C.15%",
+            "D.20%",
+            "E.25%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 46
+    },
+    {
+        "question_text": "47.营养状态的判断是根据:",
+        "options": [
+            "A.食欲的好坏",
+            "B.消化吸收情况",
+            "C.肌肉的发育",
+            "D.精力是否充沛",
+            "E.代谢情况"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 47
+    },
+    {
+        "question_text": "48.判断营养状态最简便而迅速的方法是:",
+        "options": [
+            "A.看皮下脂肪的充实程度",
+            "B.询问食欲情况",
+            "C.测试肌力与肌张力",
+            "D.看第二性征",
+            "E.看皮肤弹性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列关于营养良好的的表现，错误的是:",
+        "options": [
+            "A.粘膜红润",
+            "B.皮肤光泽",
+            "C.皮下脂肪丰满有弹性",
+            "D.肌肉结实",
+            "E.肋间隙、锁骨上窝凹陷"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列哪项不是营养不良的体征？",
+        "options": [
+            "A.皮下脂肪菲薄",
+            "B.皮肤潮湿多汗",
+            "C.肌肉松弛",
+            "D.毛发稀疏无光泽",
+            "E.锁骨上窝凹陷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 50
+    },
+    {
+        "question_text": "51.下列哪项不是肾上腺皮质功能亢进的表现？",
+        "options": [
+            "A.满月脸",
+            "B.水牛背",
+            "C.腹部脂肪很厚",
+            "D.四肢粗大",
+            "E.腹部可有紫纹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 51
+    },
+    {
+        "question_text": "52.检查皮下脂肪充实程度最适宜的部位是:",
+        "options": [
+            "A.腹壁1/3",
+            "B.面部脂肪",
+            "C.前臂曲侧或臂背侧下1/3处",
+            "D.手背",
+            "E.臀部和大腿上1/3处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 52
+    },
+    {
+        "question_text": "53.体重减轻低于正常的多少称消瘦？",
+        "options": [
+            "A.低于正常的5％",
+            "B.低于正常的10％",
+            "C.低于正常的20％",
+            "D.低于正常的30％",
+            "E.低于正常的15％"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 53
+    },
+    {
+        "question_text": "54.恶病质是指:",
+        "options": [
+            "A.病危者",
+            "B.极度消瘦者",
+            "C.被动体位的患者",
+            "D.高热昏迷者",
+            "E.典型无力型者"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 54
+    },
+    {
+        "question_text": "55.向心性肥胖，满月面，水牛背，腰腹部肥胖明显而四肢不明显，多见于:",
+        "options": [
+            "A.Ⅱ型糖尿病",
+            "B.肥胖性生殖无能综合症",
+            "C.肾上腺皮质功能亢进症",
+            "D.甲状腺功能低下",
+            "E.单纯性肥胖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 55
+    },
+    {
+        "question_text": "56.最简便又快速判断人体营养状态的方法是查看:",
+        "options": [
+            "A.身高",
+            "B.体重",
+            "C.脸部脂肪分布情况",
+            "D.腹部脂肪分布情况",
+            "E.前臂的屈侧或上臂背侧下1/3皮下脂肪的充盈程度"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 56
+    },
+    {
+        "question_text": "57.急性腹膜炎的体征应除外:",
+        "options": [
+            "A.急性病容",
+            "B.腹膜刺激三联征",
+            "C.腹部揉面感",
+            "D.腹式呼吸运动减弱",
+            "E.压痛，反跳痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 57
+    },
+    {
+        "question_text": "58.某患者长期用药治疗，检查面如满月，皮肤发红，伴痤疮，该患者属于何种面容？",
+        "options": [
+            "A.肾病面容",
+            "B.满月面容",
+            "C.急性病容",
+            "D.二尖瓣面容",
+            "E.甲亢面容"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 58
+    },
+    {
+        "question_text": "59.Cushing综合征常会出现下列哪种典型面容？",
+        "options": [
+            "A.苦笑面容",
+            "B.面具面容",
+            "C.满月面容",
+            "D.急性面容",
+            "E.伤寒面容"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 59
+    },
+    {
+        "question_text": "60.破伤风常会出现下列哪种典型面容？",
+        "options": [
+            "A.苦笑面容",
+            "B.面具面容",
+            "C.满月面容",
+            "D.急性面容",
+            "E.伤寒面容"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 60
+    },
+    {
+        "question_text": "61.二尖瓣面容见于:",
+        "options": [
+            "A.高血压心脏病",
+            "B.风湿性心脏病",
+            "C.伤寒",
+            "D.甲亢",
+            "E.肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 61
+    },
+    {
+        "question_text": "62.苦笑面容见于下列哪种疾病？",
+        "options": [
+            "A.疟疾",
+            "B.伤寒",
+            "C.甲状腺功能亢进",
+            "D.破伤风",
+            "E.脑炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 62
+    },
+    {
+        "question_text": "63.急性病容的表现主要是:",
+        "options": [
+            "A.面容憔悴",
+            "B.表情痛苦",
+            "C.面色晦暗",
+            "D.反应迟钝",
+            "E.目光有神"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 63
+    },
+    {
+        "question_text": "64.慢性病容的表现主要是:",
+        "options": [
+            "A.面容憔悴",
+            "B.颜面水肿",
+            "C.舌质色淡",
+            "D.目光呆滞",
+            "E.反应迟钝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 64
+    },
+    {
+        "question_text": "65.肝病的面容特点是:",
+        "options": [
+            "A.面色苍白",
+            "B.表情痛苦",
+            "C.面色晦暗",
+            "D.颜面水肿",
+            "E.目光呆滞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 65
+    },
+    {
+        "question_text": "66.面颊瘦削，面色灰褐，额部、鼻背、双颊有褐色色素沉着，见于:",
+        "options": [
+            "A.恶性肿瘤",
+            "B.贫血",
+            "C.慢性肾病",
+            "D.甲状腺功能减退",
+            "E.慢性肝病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 66
+    },
+    {
+        "question_text": "67.满月面容是:",
+        "options": [
+            "A.面容惊愕，眼裂增宽，眼球突出，目光炯炯",
+            "B.面色晦暗，双颊紫红，口唇轻度发绀",
+            "C.面若满月，皮肤发红，常伴痤疮与小须",
+            "D.面色苍白，唇舌色淡，表情疲惫",
+            "E.表情淡漠，反应迟钝，呈无欲状态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 67
+    },
+    {
+        "question_text": "68.贫血面容是:",
+        "options": [
+            "A.面容惊愕，眼裂增宽，眼球突出，目光炯炯",
+            "B.面色晦暗，双颊紫红，口唇轻度发绀",
+            "C.面若满月，皮肤发红，常伴痤疮与小须",
+            "D.面色苍白，唇舌色淡，表情疲惫",
+            "E.表情淡漠，反应迟钝，呈无欲状态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 68
+    },
+    {
+        "question_text": "69.伤寒面容是:",
+        "options": [
+            "A.面容惊愕，眼裂增宽，眼球突出，目光炯炯",
+            "B.面色晦暗，双颊紫红，口唇轻度发绀",
+            "C.面若满月，皮肤发红，常伴痤疮与小须",
+            "D.面色苍白，唇舌色淡，表情疲惫",
+            "E.表情淡漠，反应迟钝，呈无欲状态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 69
+    },
+    {
+        "question_text": "70.甲亢面容是:",
+        "options": [
+            "A.面容惊愕，眼裂增宽，眼球突出，目光炯炯",
+            "B.面色晦暗，双颊紫红，口唇轻度发绀",
+            "C.面若满月，皮肤发红，常伴痤疮与小须",
+            "D.面色苍白，唇舌色淡，表情疲惫",
+            "E.表情淡漠，反应迟钝，呈无欲状态"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 70
+    },
+    {
+        "question_text": "71.急性病容的表现是:",
+        "options": [
+            "A.面色晦暗",
+            "B.面色潮红",
+            "C.面色苍白",
+            "D.面色黄染",
+            "E.颜面浮肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 71
+    },
+    {
+        "question_text": "72.肾病面容特点为:",
+        "options": [
+            "A.面颊瘦削",
+            "B.面色苍白",
+            "C.表情淡漠",
+            "D.颜面浮肿",
+            "E.反应迟钝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 72
+    },
+    {
+        "question_text": "73.二尖瓣面容的典型临床表现是:",
+        "options": [
+            "A.双颊紫红，口唇轻度发绀",
+            "B.面色潮红，口唇苍白",
+            "C.面色苍白，口唇也苍白",
+            "D.面色苍白，颜面浮肿",
+            "E.面色潮红，鼻翼扇动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 73
+    },
+    {
+        "question_text": "74.下列关于伤寒面容错误的是:",
+        "options": [
+            "A.面色潮红",
+            "B.表情淡漠",
+            "C.反应迟钝",
+            "D.无欲状态",
+            "E.主要见于高热衰竭患者"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 74
+    },
+    {
+        "question_text": "75.下列甲状腺机能亢进面容，应除外:",
+        "options": [
+            "A.表情惊愕",
+            "B.眼裂增宽",
+            "C.眼球凸出",
+            "D.反应迟钝",
+            "E.目光闪烁"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 75
+    },
+    {
+        "question_text": "76.眼裂增大，眼球突出，目光闪烁，呈惊恐貌，兴奋不安，烦躁易怒。常见于:",
+        "options": [
+            "A.二尖瓣狭窄",
+            "B.严重脱水",
+            "C.甲状腺功能亢进症",
+            "D.震颤麻痹",
+            "E.破伤风"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 76
+    },
+    {
+        "question_text": "77.面色潮红，兴奋不安，有时面部与发际多汗，口唇干燥，呼吸急促，表情痛苦，有事鼻翼煽动，口唇疱疹，称为:",
+        "options": [
+            "A.急性病容",
+            "B.甲亢面容",
+            "C.伤寒面容",
+            "D.病危面容",
+            "E.苦笑面容"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 77
+    },
+    {
+        "question_text": "78.面色苍白无华，唇舌色淡，表情疲惫，见于:",
+        "options": [
+            "A.贫血",
+            "B.慢性肾病",
+            "C.慢性肝炎",
+            "D.肺结核",
+            "E.甲状腺功能减退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 78
+    },
+    {
+        "question_text": "79.男，22岁，淋雨后出现寒战、高热、右胸痛，咳铁锈色泡沫痰；面色潮红，兴奋不安，鼻翼煽动，口唇疱疹，表情痛苦。该患者的面容是",
+        "options": [
+            "A.急性面容",
+            "B.慢性面容",
+            "C.甲亢面容",
+            "D.二尖瓣面容",
+            "E.伤寒面容"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 79
+    },
+    {
+        "question_text": "80.关于贫血病人的表现错误的是:",
+        "options": [
+            "A.唇舌苍白",
+            "B.甲床发绀",
+            "C.脉搏快",
+            "D.心率快",
+            "E.呼吸快"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 80
+    },
+    {
+        "question_text": "81.下列关于满月面容的描述，错误的是:",
+        "options": [
+            "A.面如满月圆",
+            "B.皮肤发红",
+            "C.颜面浮肿",
+            "D.表情淡漠",
+            "E.面部常有痤疮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 81
+    },
+    {
+        "question_text": "82.风湿性心脏病患者典型的面容改变为:",
+        "options": [
+            "A.满月面容",
+            "B.二尖瓣面容",
+            "C.黏液性水肿面容",
+            "D.贫血面容",
+            "E.病危面容"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 82
+    },
+    {
+        "question_text": "83.大量胸腔积液的病人采取患侧卧位属:",
+        "options": [
+            "A.自主体位",
+            "B.被动体位",
+            "C.强迫侧卧位",
+            "D.辗转体位",
+            "E.强迫俯卧位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 83
+    },
+    {
+        "question_text": "84.患者不能自己调整或变换肢体的位置，称为:",
+        "options": [
+            "A.自主体位",
+            "B.被动体位",
+            "C.强迫体位",
+            "D.强迫仰卧位",
+            "E.强迫侧卧位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 84
+    },
+    {
+        "question_text": "85.强迫体位见于下列哪种疾病患者？",
+        "options": [
+            "A.心功能不全者",
+            "B.疾病早期",
+            "C.胃炎",
+            "D.意识丧失",
+            "E.病危者"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 85
+    },
+    {
+        "question_text": "86.患者，19岁，突然右上腹部钻顶样疼痛，大汗淋漓，，他最可能采取的体位是:",
+        "options": [
+            "A.强迫俯卧位",
+            "B.强迫仰卧位",
+            "C.强迫坐位",
+            "D.强迫侧卧位",
+            "E.辗转体位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 86
+    },
+    {
+        "question_text": "87.强迫侧卧位最常见于:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.脊柱疾病",
+            "C.一侧胸膜炎",
+            "D.哮喘",
+            "E.极度衰弱者"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 87
+    },
+    {
+        "question_text": "88.强迫下蹲位主要见于:",
+        "options": [
+            "A.经常头晕者",
+            "B.哮喘者",
+            "C.关节炎患者",
+            "D.发绀型先天性心脏病",
+            "E.冠心病心绞痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 88
+    },
+    {
+        "question_text": "89.被动体位见于:",
+        "options": [
+            "A.脑溢血昏迷",
+            "B.败血症",
+            "C.肿瘤",
+            "D.伤寒",
+            "E.肺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 89
+    },
+    {
+        "question_text": "90.下列哪项疾病与体位的关系不正确？",
+        "options": [
+            "A.强迫仰卧位——急性腹膜炎",
+            "B.强迫俯卧位——脊柱疾病",
+            "C.强迫侧卧位——胆道蛔虫症",
+            "D.角弓反张位——破伤风",
+            "E.端坐呼吸——左心功能不全"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 90
+    },
+    {
+        "question_text": "91.下列哪种疾病在患病时一般采用辗转体位？",
+        "options": [
+            "A.心绞痛",
+            "B.急性阑尾炎",
+            "C.大量胸腔积液",
+            "D.胆石症",
+            "E.主动脉夹层瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 91
+    },
+    {
+        "question_text": "92.紫绀型先天性心脏病常采取:",
+        "options": [
+            "A.强迫蹲位",
+            "B.强迫停立位",
+            "C.辗转体位",
+            "D.端坐体位",
+            "E.强迫仰卧位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 92
+    },
+    {
+        "question_text": "93.心绞痛时常采取:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫侧卧位",
+            "C.强迫停立位",
+            "D.强迫仰卧位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 93
+    },
+    {
+        "question_text": "94.发绀型先心病患者常采取:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫侧卧位",
+            "C.强迫停力位",
+            "D.强迫仰卧位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 94
+    },
+    {
+        "question_text": "95.急性腹膜炎时常采取:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫侧卧位",
+            "C.强迫停力位",
+            "D.强迫仰卧位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 95
+    },
+    {
+        "question_text": "96.一侧大量胸腔积液时常采取:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫侧卧位",
+            "C.强迫停力位",
+            "D.强迫仰卧位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 96
+    },
+    {
+        "question_text": "97.左心功能不全时常采取:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫侧卧位",
+            "C.强迫停力位",
+            "D.强迫仰卧位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 97
+    },
+    {
+        "question_text": "98.一患者60岁，咳嗽，咳痰20年，气促5年，下肢水肿半个月，诊断为慢性支气管炎，阻塞性肺气肿，肺心病，心功能血级，该患者多采用何种体位？",
+        "options": [
+            "A.自动体位",
+            "B.被动体位",
+            "C.强迫仰卧位",
+            "D.端坐呼吸",
+            "E.强迫侧卧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 98
+    },
+    {
+        "question_text": "99.强迫体位不见于:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.急性左心衰竭",
+            "C.大量胸腔积液",
+            "D.胆道蛔虫症",
+            "E.意识丧失者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 99
+    },
+    {
+        "question_text": "100.脊柱疾病患者为减轻疼痛采取的强迫体位是:",
+        "options": [
+            "A.仰卧位",
+            "B.俯卧位",
+            "C.前倾位",
+            "D.膝胸位",
+            "E.蹲位"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 100
+    },
+    {
+        "question_text": "101.胆道蛔虫症急性发作时的体位是:",
+        "options": [
+            "A.强迫蹲位",
+            "B.强迫停立位",
+            "C.辗转体位",
+            "D.强迫仰卧位",
+            "E.坐位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 101
+    },
+    {
+        "question_text": "102.女，45岁，近日有呼吸困难、咳嗽、下肢水肿。查体:呼吸急促，不能平卧，精神焦虑，该患者的体位可能是:",
+        "options": [
+            "A.强迫仰卧位",
+            "B.强迫侧卧位",
+            "C.辗转体位",
+            "D.强迫坐位",
+            "E.强迫蹲位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 102
+    },
+    {
+        "question_text": "103.破伤风发作时的体位是:",
+        "options": [
+            "A.强迫坐位",
+            "B.强迫蹲位",
+            "C.辗转体位",
+            "D.强迫停立位",
+            "E.角弓反张位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 103
+    },
+    {
+        "question_text": "104.辗转体位不见于:",
+        "options": [
+            "A.心绞痛",
+            "B.肠绞痛",
+            "C.胆绞痛",
+            "D.肾绞痛",
+            "E.胆道蛔虫症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 104
+    },
+    {
+        "question_text": "105.胸膜疾病患者常采用的体位是:",
+        "options": [
+            "A.强迫仰卧位",
+            "B.强迫俯卧位",
+            "C.强迫侧卧位",
+            "D.强迫坐位",
+            "E.自动体位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 105
+    },
+    {
+        "question_text": "106.强迫体位见于下列哪种情况？",
+        "options": [
+            "A.恶病质",
+            "B.昏迷",
+            "C.严重左心衰",
+            "D.极度衰竭",
+            "E.瘫痪"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 106
+    },
+    {
+        "question_text": "107.胆石症、胆道蛔虫症、肠绞痛患者，腹痛症状发作时，多采取何种体位？",
+        "options": [
+            "A.强迫蹲位",
+            "B.强迫仰卧位",
+            "C.强迫俯卧位",
+            "D.强迫坐位",
+            "E.辗转体位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 107
+    },
+    {
+        "question_text": "108.下肢伸直并外旋，举步时将患侧骨盆抬高以提起下肢，然后以髋关节为中心，脚尖拖地，向外划半个圆圈跨前一步。这种步态见于:",
+        "options": [
+            "A.脑性瘫痪",
+            "B.震颤麻痹",
+            "C.腓总神经麻痹",
+            "D.急性脑血管疾病",
+            "E.小脑疾病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 108
+    },
+    {
+        "question_text": "109.破伤风及小儿脑膜炎多见于:",
+        "options": [
+            "A.角弓反张位",
+            "B.辗转体位",
+            "C.强迫侧卧位",
+            "D.强迫仰卧位",
+            "E.端坐呼吸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 109
+    },
+    {
+        "question_text": "110.心肺功能不全患者多见于:",
+        "options": [
+            "A.角弓反张位",
+            "B.辗转体位",
+            "C.强迫侧卧位",
+            "D.强迫仰卧位",
+            "E.端坐呼吸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 110
+    },
+    {
+        "question_text": "111.一侧胸膜炎或大量胸腔积液患者多见于",
+        "options": [
+            "A.角弓反张位",
+            "B.辗转体位",
+            "C.强迫侧卧位",
+            "D.强迫仰卧位",
+            "E.端坐呼吸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 111
+    },
+    {
+        "question_text": "112.急性腹膜炎多见于:",
+        "options": [
+            "A.角弓反张位",
+            "B.辗转体位",
+            "C.强迫侧卧位",
+            "D.强迫仰卧位",
+            "E.端坐呼吸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 112
+    },
+    {
+        "question_text": "113.胆绞痛、肾绞痛、肠绞痛等多见于:",
+        "options": [
+            "A.角弓反张位",
+            "B.辗转体位",
+            "C.强迫侧卧位",
+            "D.强迫仰卧位",
+            "E.端坐呼吸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 113
+    },
+    {
+        "question_text": "114.新生儿，出生后7天出现喂养困难，继而出现阵发性颈、背部肌肉强直性痉挛，角弓反张体位，苦笑面容，该患儿最可能的诊断是:",
+        "options": [
+            "A.新生儿颅内出血",
+            "B.低血钙症",
+            "C.破伤风",
+            "D.低血糖症",
+            "E.癫痫大发作"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 114
+    },
+    {
+        "question_text": "115.强迫俯卧位见于:",
+        "options": [
+            "A.脊柱疾病",
+            "B.胸膜炎",
+            "C.破伤风",
+            "D.发绀型先心病",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 115
+    },
+    {
+        "question_text": "116.强迫仰卧位常见于:",
+        "options": [
+            "A.胸膜炎",
+            "B.胸腔积液",
+            "C.心力衰竭",
+            "D.气胸",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 116
+    },
+    {
+        "question_text": "117.发绀型先天性心脏病的病人可表现为:",
+        "options": [
+            "A.端坐呼吸",
+            "B.强迫停立位",
+            "C.强迫蹲位",
+            "D.强迫侧卧位",
+            "E.辗转体位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 117
+    },
+    {
+        "question_text": "118.醉酒步态见于下列哪种疾病？",
+        "options": [
+            "A.小脑疾患",
+            "B.佝偻病",
+            "C.震颤麻痹",
+            "D.脊髓病变",
+            "E.延髓疾患"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 118
+    },
+    {
+        "question_text": "119.跨阈步态见于:",
+        "options": [
+            "A.小脑疾病",
+            "B.震颤麻痹",
+            "C.腓总神经麻痹",
+            "D.脑性瘫痪",
+            "E.脊髓病变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 119
+    },
+    {
+        "question_text": "120.慌张步态常见于以下哪种疾病？",
+        "options": [
+            "A.脊髓痨",
+            "B.腓总神经麻痹",
+            "C.脑性瘫痪",
+            "D.大骨节病",
+            "E.震颤麻痹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 120
+    },
+    {
+        "question_text": "121.佝偻病患者的步态是:",
+        "options": [
+            "A.剪刀步态",
+            "B.慌张步态",
+            "C.蹒跚步态",
+            "D.跨阈步态",
+            "E.醉酒步态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 121
+    },
+    {
+        "question_text": "122.帕金森氏病的步态是:",
+        "options": [
+            "A.跨阈步态",
+            "B.慌张步态",
+            "C.剪刀步态",
+            "D.共济失调步态",
+            "E.跳跃步态"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 122
+    },
+    {
+        "question_text": "123.动脉硬化时可表现:",
+        "options": [
+            "A.蹒跚步态",
+            "B.醉酒步态",
+            "C.慌张步态",
+            "D.间隙性跛行",
+            "E.共济失调步态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 123
+    },
+    {
+        "question_text": "124.脑瘫与截肢的可表现:",
+        "options": [
+            "A.慌张步态",
+            "B.间隙性跛行",
+            "C.共济失调步态",
+            "D.剪刀步态",
+            "E.蹒跚步态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 124
+    },
+    {
+        "question_text": "125.先天性髋关节脱位时可表现:",
+        "options": [
+            "A.蹒跚步态",
+            "B.剪刀步态",
+            "C.慌张步态",
+            "D.间隙性跛行",
+            "E.共济失调步态"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 125
+    },
+    {
+        "question_text": "126.震颤麻痹时的步态为:",
+        "options": [
+            "A.蹒跚步态",
+            "B.醉酒步态",
+            "C.慌张步态",
+            "D.间隙性跛行",
+            "E.共济失调步态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 126
+    },
+    {
+        "question_text": "127.小脑疾病的步态是:",
+        "options": [
+            "A.蹒跚步态",
+            "B.醉酒步态",
+            "C.防痛步态",
+            "D.间隙性跛行",
+            "E.平足步态"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 127
+    },
+    {
+        "question_text": "128.脊髓痨的步态是:",
+        "options": [
+            "A.蹒跚步态",
+            "B.醉酒步态",
+            "C.慌张步态",
+            "D.间隙性跛行",
+            "E.共济失调步态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 128
+    },
+    {
+        "question_text": "129.急性脑血管疾病的后遗症患者的典型步态是:",
+        "options": [
+            "A.跨域步态",
+            "B.间歇性跛行",
+            "C.慌张步态",
+            "D.痉挛性偏瘫步态",
+            "E.剪刀步态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 129
+    },
+    {
+        "question_text": "130.腓总神经麻痹出现的足下垂患者的典型步态是:",
+        "options": [
+            "A.共济失调步态",
+            "B.间歇性跛行",
+            "C.跨域步态",
+            "D.慌张步态",
+            "E.剪刀步态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 130
+    },
+    {
+        "question_text": "131.佝偻病，大骨节病、进行性肌营养不良或先天性双髋关节脱位的步态是:",
+        "options": [
+            "A.共济失调步态",
+            "B.慌张步态",
+            "C.蹒跚步态",
+            "D.跨域步态",
+            "E.间歇性跛行"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 131
+    },
+    {
+        "question_text": "132.双侧锥体束损害及脑性瘫痪是，病人表现的步态是:",
+        "options": [
+            "A.偏瘫步态",
+            "B.慌张步态",
+            "C.蹒跚步态",
+            "D.共济失调步态",
+            "E.剪刀步态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 132
+    },
+    {
+        "question_text": "133.患者，男性，58岁，近一年出现手部震颤，写字时手指笨拙，起步困难，呈小碎步，且不能即刻停止，此步态障碍应属下列哪种？",
+        "options": [
+            "A.鸭步",
+            "B.剪刀步态",
+            "C.划圈步态",
+            "D.跨阈步态",
+            "E.慌张步态"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 133
+    },
+    {
+        "question_text": "134.闭塞性动脉硬化、高血压动脉硬化时，病人可表现为:",
+        "options": [
+            "A.跨域步态",
+            "B.间歇性跛行",
+            "C.共济失调步态",
+            "D.醉酒步态",
+            "E.蹒跚步态"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 134
+    },
+    {
+        "question_text": "135.不属于皮肤苍白的病变是:",
+        "options": [
+            "A.休克",
+            "B.虚脱",
+            "C.寒冷",
+            "D.白化症",
+            "E.贫血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 135
+    },
+    {
+        "question_text": "136.皮肤粘膜苍白主要见于:",
+        "options": [
+            "A.正常室内工作的女性",
+            "B.贫血",
+            "C.结核病",
+            "D.一氧化碳中毒",
+            "E.先天性白化病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 136
+    },
+    {
+        "question_text": "137.皮肤苍白、发凉最常见于:",
+        "options": [
+            "A.精神紧张",
+            "B.贫血",
+            "C.雷诺病",
+            "D.休克",
+            "E.主动脉瓣关闭不全"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 137
+    },
+    {
+        "question_text": "138.贫血时患者皮肤粘膜苍白，检查部位是:",
+        "options": [
+            "A.面颊皮肤及上颚粘膜",
+            "B.手背皮肤及鼻腔粘膜",
+            "C.耳廓皮肤及上颚粘膜",
+            "D.颈部皮肤及舌面",
+            "E.手掌皮肤及睑结膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 138
+    },
+    {
+        "question_text": "139.贫血最常见的临床表现是:",
+        "options": [
+            "A.窦性心动过速",
+            "B.心脏扩大",
+            "C.口腔炎、舌炎",
+            "D.皮肤和粘膜苍白",
+            "E.毛发干枯无光泽"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 139
+    },
+    {
+        "question_text": "140.下列哪种情况不会出现皮肤发红？",
+        "options": [
+            "A.虚脱",
+            "B.饮酒",
+            "C.阿托品中毒",
+            "D.肺结核",
+            "E.Cushing综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 140
+    },
+    {
+        "question_text": "141.下列情况中，哪种不会引起皮肤黄染？",
+        "options": [
+            "A.过食胡萝卜",
+            "B.过食南瓜",
+            "C.过食桔子",
+            "D.过食黄豆",
+            "E.长期服用呋喃唑酮"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 141
+    },
+    {
+        "question_text": "142.皮肤、黏膜呈殷桃红色见于:",
+        "options": [
+            "A.库欣综合征",
+            "B.真性红细胞增多症",
+            "C.一氧化碳中毒",
+            "D.猩红热",
+            "E.阿托品中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 142
+    },
+    {
+        "question_text": "143.每天午后双颧部发红、低热，常见于:",
+        "options": [
+            "A.大叶性肺炎",
+            "B.生理状态",
+            "C.肺结核",
+            "D.猩红热",
+            "E.轻度CO中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 143
+    },
+    {
+        "question_text": "144.对于区别药物性黄染和黄疸最有意义的部位是:",
+        "options": [
+            "A.手掌",
+            "B.皮肤",
+            "C.巩膜",
+            "D.口腔黏膜",
+            "E.角膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 144
+    },
+    {
+        "question_text": "145.关于白斑的叙述正确的是:",
+        "options": [
+            "A.白斑是先天性病变",
+            "B.白斑是体内酪氨酸缺乏所致",
+            "C.白斑多发生于面部及双手",
+            "D.肾上腺皮质功能减退时可出现白斑",
+            "E.白斑常发生在口腔粘膜，可发生癌变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 145
+    },
+    {
+        "question_text": "146.关于色素沉着，下列哪项不正确？",
+        "options": [
+            "A.可见妇女妊娠期",
+            "B.身体的外露部分色素比较深",
+            "C.色素沉着均为病理性",
+            "D.老年人全身或面部可发生散在的色素斑片",
+            "E.是原发性慢性肾上腺皮质功能减退的特征性表现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 146
+    },
+    {
+        "question_text": "147.色素沉着常见于:",
+        "options": [
+            "A.正常人",
+            "B.甲亢患者",
+            "C.肝炎",
+            "D.肝硬化",
+            "E.黏液性水肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 147
+    },
+    {
+        "question_text": "148.胰头癌患者可出现:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 148
+    },
+    {
+        "question_text": "149.酪氨酸缺乏症患者可出现:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 149
+    },
+    {
+        "question_text": "150.硫化氰中毒患者可出现:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 150
+    },
+    {
+        "question_text": "151.残质体的形成是:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 151
+    },
+    {
+        "question_text": "152.慢性肾上腺皮质功能减退患者可出现:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 152
+    },
+    {
+        "question_text": "153.出血热患者可出现:",
+        "options": [
+            "A.皮肤发黄",
+            "B.皮肤发紫",
+            "C.皮肤色素沉着",
+            "D.皮肤发红",
+            "E.皮肤色素脱失"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 153
+    },
+    {
+        "question_text": "154.判断皮肤的湿度，常触摸:",
+        "options": [
+            "A.前额",
+            "B.颈部",
+            "C.上臂内侧",
+            "D.手背",
+            "E.前胸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 154
+    },
+    {
+        "question_text": "155.出汗过多的疾病除外:",
+        "options": [
+            "A.风湿病",
+            "B.佝偻病",
+            "C.结核病",
+            "D.甲亢",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 155
+    },
+    {
+        "question_text": "156.皮肤异常干燥的疾病，除外:",
+        "options": [
+            "A.粘液性水肿",
+            "B.硬皮病",
+            "C.尿毒症",
+            "D.佝偻病",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 156
+    },
+    {
+        "question_text": "157.盗汗是指:",
+        "options": [
+            "A.无明显诱因的出汗",
+            "B.出汗时患者不知道",
+            "C.在高温环境下的出汗",
+            "D.夜间出汗",
+            "E.夜间熟睡后出汗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 157
+    },
+    {
+        "question_text": "158.盗汗多见于哪种疾病？",
+        "options": [
+            "A.风湿热",
+            "B.类风湿",
+            "C.大叶性肺炎",
+            "D.恶性肿瘤",
+            "E.结核病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 158
+    },
+    {
+        "question_text": "159.甲状腺功能亢进时:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 159
+    },
+    {
+        "question_text": "160.结核病患者可表现为:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 160
+    },
+    {
+        "question_text": "161.休克时可出现:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 161
+    },
+    {
+        "question_text": "162.尿毒症可表现为:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 162
+    },
+    {
+        "question_text": "163.心肌梗死发作时出现:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 163
+    },
+    {
+        "question_text": "164.黏液性水肿时可表现为:",
+        "options": [
+            "A.出汗比较多",
+            "B.盗汗",
+            "C.大汗淋漓",
+            "D.无汗或少汗",
+            "E.胸痛剧烈时出汗"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 164
+    },
+    {
+        "question_text": "165.皮肤弹性检查的常用部位是:",
+        "options": [
+            "A.后背",
+            "B.眼睑",
+            "C.上臂内侧",
+            "D.腹壁",
+            "E.小腿内侧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 165
+    },
+    {
+        "question_text": "166.皮肤弹性与下述哪项因素无关？",
+        "options": [
+            "A.皮下脂肪",
+            "B.营养状态",
+            "C.尿量",
+            "D.组织间隙含液量",
+            "E.年龄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 166
+    },
+    {
+        "question_text": "167.检查皮肤弹性时，常选择的部位是哪一项？",
+        "options": [
+            "A.上腹部",
+            "B.手背或上臂内侧部",
+            "C.前臂内侧或上臂内侧部",
+            "D.手背或前臂内侧部",
+            "E.手背或胫前"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 167
+    },
+    {
+        "question_text": "168.有关皮疹的描述，下列哪项正确？",
+        "options": [
+            "A.斑疹——麻疹",
+            "B.丘疹——丹毒",
+            "C.玫瑰疹——猩红热",
+            "D.斑丘疹——药疹",
+            "E.荨麻疹——风湿热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 168
+    },
+    {
+        "question_text": "169.斑疹的特点是:",
+        "options": [
+            "A.只有局部皮肤发红，不隆起",
+            "B.是一种鲜红色的圆形疹",
+            "C.红色，隆起皮面",
+            "D.皮疹中央隆起，周围皮肤发红",
+            "E.稍隆起的局限性水肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 169
+    },
+    {
+        "question_text": "170.玫瑰疹的特征是:",
+        "options": [
+            "A.局部皮肤发红，不隆起",
+            "B.玫瑰红样的圆形疹",
+            "C.隆起皮面的红色疹",
+            "D.皮疹周围红色，中央稍隆起",
+            "E.稍隆起的粉红色局限性水肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 170
+    },
+    {
+        "question_text": "171.荨麻疹的特点是:",
+        "options": [
+            "A.隆起皮面的红疹",
+            "B.鲜红色的圆形斑疹",
+            "C.丘疹周围有皮肤发红的底盘",
+            "D.局限性皮肤发红",
+            "E.稍隆起皮面苍白色的局限水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 171
+    },
+    {
+        "question_text": "172.在丘疹周围合并皮肤发红的底盘，称为:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 172
+    },
+    {
+        "question_text": "173.关于皮疹的描述，下列哪项不正确？",
+        "options": [
+            "A.玫瑰疹多见于斑疹伤寒",
+            "B.斑疹常见于风湿热",
+            "C.丘疹常见于药物疹",
+            "D.荨麻疹常见于皮肤变态反应",
+            "E.斑丘疹常见于猩红热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 173
+    },
+    {
+        "question_text": "174.关于玫瑰疹的描述，下列哪项正确？",
+        "options": [
+            "A.为一多形性丘疹",
+            "B.直径一般小于2mm",
+            "C.用手指按压可使皮疹消退",
+            "D.多见于四肢、手掌部",
+            "E.常见于药物过敏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 174
+    },
+    {
+        "question_text": "175.关于荨麻疹的描述，下列哪项正确？",
+        "options": [
+            "A.为皮肤发红的一种斑疹",
+            "B.为皮肤局限性水肿",
+            "C.用手指按压可使皮疹消退",
+            "D.直径一般为2～3mm",
+            "E.为迟发型皮肤变态反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 175
+    },
+    {
+        "question_text": "176.玫瑰疹是下列哪种疾病的特征皮疹？",
+        "options": [
+            "A.猩红热",
+            "B.麻疹",
+            "C.湿疹",
+            "D.风湿热",
+            "E.伤寒和副伤寒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 176
+    },
+    {
+        "question_text": "177.药物疹、湿疹特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 177
+    },
+    {
+        "question_text": "178.风疹、猩红热特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "C",
+        "analysis": "十版诊断学第98页，风疹、猩红热特征性皮疹是斑丘疹",
+        "total_number": "265",
+        "number": 178
+    },
+    {
+        "question_text": "179.伤寒与副伤寒特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 179
+    },
+    {
+        "question_text": "180.各种过敏反应特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 180
+    },
+    {
+        "question_text": "181.斑疹伤寒特征性皮疹是:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 181
+    },
+    {
+        "question_text": "182.皮肤、黏膜的小血管反应性扩张及渗透性增加而产生的一种局限性暂时性水肿，称为:",
+        "options": [
+            "A.斑疹",
+            "B.丘疹",
+            "C.斑丘疹",
+            "D.玫瑰疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 182
+    },
+    {
+        "question_text": "183.男童，双下肢皮肤出现散在的红色改变，直径3～5mm，压之不退色，不高起皮面。改变最有可能是:",
+        "options": [
+            "A.斑疹",
+            "B.小红痣",
+            "C.玫瑰疹",
+            "D.紫癜",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 183
+    },
+    {
+        "question_text": "184.玫瑰疹多出现在:",
+        "options": [
+            "A.胸腹部",
+            "B.面部",
+            "C.四肢",
+            "D.背部",
+            "E.生殖器"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 184
+    },
+    {
+        "question_text": "185.麻疹粘膜斑的描述，正确的是:",
+        "options": [
+            "A.颊粘膜出血点",
+            "B.颊粘膜点状糜烂",
+            "C.颊粘膜充血、肿胀",
+            "D.颊粘膜白色斑块",
+            "E.相当于第二磨牙的颊粘膜处针头大小白色斑点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 185
+    },
+    {
+        "question_text": "186.稍高起皮面的苍白色或红色的局限性水肿导致的皮疹称为:",
+        "options": [
+            "A.斑疹",
+            "B.玫瑰疹",
+            "C.丘疹",
+            "D.斑丘疹",
+            "E.荨麻疹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 186
+    },
+    {
+        "question_text": "187.下列疾病查体可见皮肤玫瑰疹的是:",
+        "options": [
+            "A.猩红热",
+            "B.伤寒",
+            "C.药物疹",
+            "D.风疹",
+            "E.风湿热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 187
+    },
+    {
+        "question_text": "188.下列哪项不是胸壁带状疱疹的特点？",
+        "options": [
+            "A.成簇水泡",
+            "B.沿一侧肋间神经分布",
+            "C.疱疹不超过体表中线",
+            "D.刀割样痛",
+            "E.疼痛游走不定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 188
+    },
+    {
+        "question_text": "189.下列哪项属皮肤、粘膜出血的范畴？",
+        "options": [
+            "A.皮肤、黏膜自发性出血",
+            "B.外伤出血",
+            "C.手术出血",
+            "D.溃疡出血",
+            "E.血管瘤破裂出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 189
+    },
+    {
+        "question_text": "190.紫癜按其直径大小又分为瘀点、紫癜和瘀斑，其中，紫癜的直径为:",
+        "options": [
+            "A.＜2mm",
+            "B.2～3mm",
+            "C.2～4mm",
+            "D.3～5mm",
+            "E.＞5mm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 190
+    },
+    {
+        "question_text": "191.紫癜是指皮肤粘膜下出血直径为:",
+        "options": [
+            "A.＞5mm",
+            "B.＜2mm",
+            "C.3～5mm",
+            "D.片状出血伴皮肤显著隆起",
+            "E.5～7mm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 191
+    },
+    {
+        "question_text": "192.下列哪项体征与肝脏对雌激素灭活作用减弱有关？",
+        "options": [
+            "A.肝掌",
+            "B.蜘蛛痣",
+            "C.紫癜",
+            "D.瘀斑",
+            "E.黄疸"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 192
+    },
+    {
+        "question_text": "193.关于蜘蛛痣分布的区域，下列哪项正确？",
+        "options": [
+            "A.面部、颈部、手掌部",
+            "B.前胸部、上腹部、肩部",
+            "C.面部、四肢、肩部",
+            "D.上臂部、背部、腹部",
+            "E.面颈部、手背部、前胸部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 193
+    },
+    {
+        "question_text": "194.蜘蛛痣不可能出现在:",
+        "options": [
+            "A.颈部",
+            "B.肩背部",
+            "C.胸部",
+            "D.脐周",
+            "E.腋窝下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 194
+    },
+    {
+        "question_text": "195.对蜘蛛痣描述正确的是:",
+        "options": [
+            "A.由皮肤小静脉末端分支性扩张形成",
+            "B.多分布于全身各处",
+            "C.一般出现于肝脏病患者",
+            "D.压迫其中心，辐射状小血管网不消退",
+            "E.与肝掌发生机理不同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 195
+    },
+    {
+        "question_text": "196.关于蜘蛛痣的描述下列哪一项不正确？",
+        "options": [
+            "A.皮肤小动脉末端分支扩张所致",
+            "B.大部分出现在上腔静脉分部区域",
+            "C.健康妇女妊娠期也可出现",
+            "D.见于慢性肝炎和肝硬化",
+            "E.与雄激素水平升高有关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 196
+    },
+    {
+        "question_text": "197.蜘蛛痣的产生机制是:",
+        "options": [
+            "A.皮肤小静脉末端分支性扩张所致",
+            "B.皮肤小动脉末端分支性扩张所致",
+            "C.皮肤毛细血管扩张所致",
+            "D.皮肤毛细血管瘤",
+            "E.皮肤的小动静脉瘘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 197
+    },
+    {
+        "question_text": "198.关于蜘蛛痣正确的说法是:",
+        "options": [
+            "A.是一种似蜘蛛状的红痣",
+            "B.大多出现于上腔静脉回流区",
+            "C.与体内性激素的多少有关",
+            "D.妇女在妊娠期间皆可出现，但分娩后即消失",
+            "E.有蜘蛛痣，即可诊断为肝硬化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 198
+    },
+    {
+        "question_text": "199.肝硬化病人蜘蛛痣最常见于哪个部位的皮肤？",
+        "options": [
+            "A.颈部，胸部，面部",
+            "B.腰部",
+            "C.腹部",
+            "D.上下肢",
+            "E.背部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 199
+    },
+    {
+        "question_text": "200.乙型肝炎肝硬化病人的蜘蛛痣出现在:",
+        "options": [
+            "A.面颈，上胸部",
+            "B.手掌大，小鱼际处",
+            "C.胸腹部",
+            "D.两侧脸颊部",
+            "E.位于关节附近"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 200
+    },
+    {
+        "question_text": "201.下列关于蜘蛛痣的描述不确切的是:",
+        "options": [
+            "A.是皮肤小动脉末端分支性扩张形成",
+            "B.肝对雌激素来活能力减弱时可发生",
+            "C.发现蜘蛛痣即为病态",
+            "D.常出现于面、颈、臂、胸部",
+            "E.蜘蛛痣大小不等"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 201
+    },
+    {
+        "question_text": "202.关于蜘蛛痣的概念，下列哪项是错误的？",
+        "options": [
+            "A.出现的部位大多在上腔静默分布的区域的",
+            "B.大小不等，直径可有帽针头大到数厘米以上",
+            "C.体检发现蜘蛛痣便可诊断肝硬化",
+            "D.蜘蛛痣的发生一般认为与肝对体内雌激素的灭能减弱有关",
+            "E.蜘蛛痣常见于急，慢性肝炎或肝硬化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 202
+    },
+    {
+        "question_text": "203.下列哪项可引起皮肤蜘蛛痣和肝掌:",
+        "options": [
+            "A.直肠癌",
+            "B.小肠肿瘤",
+            "C.胆囊炎",
+            "D.肝硬化门脉高压",
+            "E.非特异性直肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 203
+    },
+    {
+        "question_text": "204.关于蜘蛛痣不正确的是:",
+        "options": [
+            "A.常见于慢性肝炎",
+            "B.常见于肝硬化",
+            "C.为静脉血",
+            "D.多分布在上腔静脉分布的区域",
+            "E.大小不等"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 204
+    },
+    {
+        "question_text": "205.关于肝掌的叙述，正确的是:",
+        "options": [
+            "A.患者手掌似猪肝样颜色",
+            "B.掌心发红，加压后褪色",
+            "C.大小鱼际处发红，加压后褪色",
+            "D.健康妇女在妊娠期间可出现",
+            "E.也是性激素增多的特征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 205
+    },
+    {
+        "question_text": "206.酒精性肝硬化病人的肝掌出现在:",
+        "options": [
+            "A.面颈，上胸部",
+            "B.手掌大，小鱼际处",
+            "C.胸腹部",
+            "D.两侧脸颊部",
+            "E.位于关节附近"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 206
+    },
+    {
+        "question_text": "207.轻度水肿:",
+        "options": [
+            "A.可见于正常人",
+            "B.女性多于男性",
+            "C.手指加压无组织凹陷",
+            "D.见于全身疏松组织",
+            "E.可见于眼睑、胫骨前"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 207
+    },
+    {
+        "question_text": "208.关于粘液性水肿，正确的是:",
+        "options": [
+            "A.是长期营养缺乏所致",
+            "B.非压陷性水肿",
+            "C.四肢末端较明显",
+            "D.见于肢端肥大症",
+            "E.月经前期明显"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 208
+    },
+    {
+        "question_text": "209.女，10岁，低热、游走性关节痛20余天。检查发现左肘关节伸侧肱骨可扪及一黄豆大小结节圆形质硬、无压痛，与皮肤无粘连。该结节最有可能是:",
+        "options": [
+            "A.淋巴结",
+            "B.风湿小结",
+            "C.Osisr小结",
+            "D.脂肪瘤",
+            "E.恶性肿瘤皮下转移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 209
+    },
+    {
+        "question_text": "210.风湿小结的特点是:",
+        "options": [
+            "A.关节附近，长骨骨垢端，圆形而质硬，无压痛",
+            "B.位于皮下肌肉表层，豆状，硬韧，无压痛",
+            "C.沿末稍动脉分布的小结",
+            "D.指尖、足趾、大小鱼际处的蓝色或粉红色，压痛",
+            "E.皮肤上可见大小不等的柔软小结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 210
+    },
+    {
+        "question_text": "211.Osler小结见于:",
+        "options": [
+            "A.风湿病",
+            "B.猪绦虫病",
+            "C.结节性多动脉炎",
+            "D.感染性心内膜炎",
+            "E.平滑肌瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 211
+    },
+    {
+        "question_text": "212.卡博西（Kaposi）肉瘤皮肤结节的特点是:",
+        "options": [
+            "A.青红色或紫色的斑块结节",
+            "B.与皮肤色相同的圆形质软的小结",
+            "C.豆状而质硬的小结",
+            "D.粉红色有压痛的圆形小结",
+            "E.面部散在的丘疹样小结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 212
+    },
+    {
+        "question_text": "213.Osler小结可见于下列哪种疾病:",
+        "options": [
+            "A.感染性心内膜炎",
+            "B.系统性红斑狼疮",
+            "C.肺结核",
+            "D.伤寒",
+            "E.淋巴瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 213
+    },
+    {
+        "question_text": "214.关于皮肤脱屑，正确的说法是:",
+        "options": [
+            "A.正常人也可有大量皮肤脱屑",
+            "B.米糠样脱屑常见于麻疹",
+            "C.片状脱屑常见于癣",
+            "D.银白色鳞状脱屑见于红斑狼疮",
+            "E.脱屑较少者常为湿疹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 214
+    },
+    {
+        "question_text": "215.体格检查时，对淋巴结的检查哪一项是正确的:",
+        "options": [
+            "A.在全身各部分查体后，再系统地检查全身浅表淋巴结",
+            "B.查体一般只能检查身体各部浅表的淋巴结",
+            "C.检查时应该双手同时触诊双侧淋巴结",
+            "D.肿大淋巴结的个数和大小对判断良恶性疾病最重要",
+            "E.正常淋巴结直径多位1～2cm之间，质地柔软"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 215
+    },
+    {
+        "question_text": "216.正常人浅表淋巴结的大小直径为:",
+        "options": [
+            "A.0.2～0.3cm",
+            "B.0.2～0.5cm",
+            "C.0.3～0.5cm",
+            "D.0.5～0.8cm",
+            "E.0.5～1.0cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 216
+    },
+    {
+        "question_text": "217.正常人浅表淋巴结的描述，错误的是:",
+        "options": [
+            "A.直径＜10mm",
+            "B.质地柔软",
+            "C.表面光滑",
+            "D.与毗邻组织无粘连",
+            "E.不易触及"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 217
+    },
+    {
+        "question_text": "218.颌下淋巴结群收集淋巴液的区域，除外:",
+        "options": [
+            "A.口底",
+            "B.颊粘膜",
+            "C.牙龈",
+            "D.唇和舌",
+            "E.腮腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 218
+    },
+    {
+        "question_text": "219.关于正常淋巴结的描述哪项正确？",
+        "options": [
+            "A.容易触及",
+            "B.质地柔软，表面光滑",
+            "C.与毗邻组织可有粘连",
+            "D.有明显压痛",
+            "E.直径多为0.2～0.5cm，质地韧，表面光滑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 219
+    },
+    {
+        "question_text": "220.耳后、乳突区淋巴结收集哪个部位的淋巴液？",
+        "options": [
+            "A.头皮",
+            "B.鼻咽部",
+            "C.气管及肺",
+            "D.口底",
+            "E.甲状腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 220
+    },
+    {
+        "question_text": "221.收集口底、颊粘膜、牙龈等处淋巴液的是:",
+        "options": [
+            "A.颏下淋巴结",
+            "B.颌下淋巴结",
+            "C.颈深淋巴结上群",
+            "D.颈深淋巴结下群",
+            "E.枕骨下区淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 221
+    },
+    {
+        "question_text": "222.正常锁骨上淋巴结群左侧收集范围是:",
+        "options": [
+            "A.头皮",
+            "B.鼻咽部",
+            "C.食管、胃",
+            "D.气管、胸膜、肺",
+            "E.牙龈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 222
+    },
+    {
+        "question_text": "223.正常锁骨上淋巴结群右侧收集范围是:",
+        "options": [
+            "A.头皮",
+            "B.鼻咽部",
+            "C.食管、胃",
+            "D.气管、胸膜、肺",
+            "E.甲状腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 223
+    },
+    {
+        "question_text": "224.腹股沟淋巴结收集的部位是:",
+        "options": [
+            "A.胸壁",
+            "B.乳腺",
+            "C.腹壁",
+            "D.躯干下部",
+            "E.下肢及会阴部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 224
+    },
+    {
+        "question_text": "225.左锁骨上淋巴结群收集哪部分组织或器官的淋巴液？",
+        "options": [
+            "A.左颈下部",
+            "B.左肩部",
+            "C.左前胸",
+            "D.左肺及左侧胸膜",
+            "E.食管及胃"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 225
+    },
+    {
+        "question_text": "226.右侧锁骨上淋巴结群收集淋巴液的区域主要是:",
+        "options": [
+            "A.右颈下部",
+            "B.右肩",
+            "C.右胸壁",
+            "D.食管",
+            "E.气管、胸膜和肺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 226
+    },
+    {
+        "question_text": "227.右锁骨上淋巴结收集何处的淋巴液:",
+        "options": [
+            "A.食管和胃",
+            "B.鼻咽部",
+            "C.下肢和会阴部",
+            "D.乳腺和胸壁",
+            "E.气管、肺和胸膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 227
+    },
+    {
+        "question_text": "228.腋窝淋巴结中的“中央淋巴结群”位于:",
+        "options": [
+            "A.腋窝外侧壁",
+            "B.胸大肌下缘深部",
+            "C.腋窝后皱襞深部",
+            "D.腋窝内侧壁近肋骨及前锯肌处",
+            "E.腋窝顶部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 228
+    },
+    {
+        "question_text": "229.对淋巴结的检查，下列哪一项是正确的？",
+        "options": [
+            "A.在全身各部分查体后，再系统地检查全身浅表淋巴结",
+            "B.查体一般只能检查身体各部表浅的淋巴结",
+            "C.检查淋巴结应该双手同时触诊",
+            "D.肿大淋巴结的个数对判断良恶性肿瘤最重要",
+            "E.肿大淋巴结的大小对判断良恶性肿瘤最重要"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 229
+    },
+    {
+        "question_text": "230.查体时发现患者有淋巴结肿大，对其治疗最有用的是要弄清:",
+        "options": [
+            "A.大小和数量",
+            "B.质地",
+            "C.活动度",
+            "D.有无压痛",
+            "E.原发病灶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 230
+    },
+    {
+        "question_text": "231.关于慢性淋巴结肿大，正确的是:",
+        "options": [
+            "A.肿瘤性淋巴结肿大不属于慢性淋巴结肿大",
+            "B.系统性红斑狼疮属于慢性淋巴结肿大",
+            "C.淋巴结结核不属于慢性淋巴结肿大",
+            "D.艾滋病不属于慢性淋巴结肿大",
+            "E.药物热时淋巴结属于慢性淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 231
+    },
+    {
+        "question_text": "232.男，49岁，上腹部隐痛10年，半年来消瘦、黑便。查体:左锁骨上窝触及2cm×3cm淋巴结2枚。吸烟史20年。检查左锁骨上窝淋巴结的正确手法是:",
+        "options": [
+            "A.病人头向前屈，右手触诊左锁骨上区，由浅至锁骨深部",
+            "B.病人头向前屈，左手触诊，手法同上",
+            "C.病人头向右侧屈，右手触诊，手法同上",
+            "D.病人头向左侧屈，右手触诊，手法同上",
+            "E.病人头向前屈，左手触诊，手法同上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 232
+    },
+    {
+        "question_text": "233.淋巴结结核常发生的部位在何处:",
+        "options": [
+            "A.颌下",
+            "B.颈部",
+            "C.腋窝",
+            "D.滑车上",
+            "E.腹股沟"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 233
+    },
+    {
+        "question_text": "234.淋巴结结核的主要表现，除外:",
+        "options": [
+            "A.常发生在颈部血管周围",
+            "B.单发性",
+            "C.与周围组织可有粘连",
+            "D.可发生干酪样坏死",
+            "E.可形成瘘管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 234
+    },
+    {
+        "question_text": "235.淋巴结结核可触及:",
+        "options": [
+            "A.颌下淋巴结肿大",
+            "B.颈部淋巴结肿大",
+            "C.腋窝淋巴结肿大",
+            "D.右锁骨上窝淋巴结肿大",
+            "E.左锁骨上窝淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 235
+    },
+    {
+        "question_text": "236.患者，男性，53岁，反复上腹部疼痛、消瘦一年入院，疼痛无规律性，逐渐加重。辅检:胃镜示胃小弯处有一个2cm×2cm大小溃疡，边缘不整齐，有坏死，少量渗血。查体表淋巴结对诊断意义较大的结果是:",
+        "options": [
+            "A.颈前、颈后淋巴结肿大",
+            "B.锁骨上窝淋巴结肿大",
+            "C.枕后淋巴结肿大",
+            "D.腋下淋巴结肿大",
+            "E.腹股沟淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 236
+    },
+    {
+        "question_text": "237.化脓性扁桃体炎、齿龈炎等急慢性炎症可触及:",
+        "options": [
+            "A.颌下淋巴结肿大",
+            "B.颈部淋巴结肿大",
+            "C.腋窝淋巴结肿大",
+            "D.右锁骨上窝淋巴结肿大",
+            "E.左锁骨上窝淋巴结肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 237
+    },
+    {
+        "question_text": "238.腹腔脏器癌肿（胃癌、肝癌、结肠癌）转移可触及:",
+        "options": [
+            "A.颌下淋巴结肿大",
+            "B.颈部淋巴结肿大",
+            "C.腋窝淋巴结肿大",
+            "D.右锁骨上窝淋巴结肿大",
+            "E.左锁骨上窝淋巴结肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 238
+    },
+    {
+        "question_text": "239.鼻咽癌所致的转移性淋巴结肿大容易转移到:",
+        "options": [
+            "A.颌下",
+            "B.颈部",
+            "C.左锁骨上窝",
+            "D.右锁骨下窝",
+            "E.腋下"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 239
+    },
+    {
+        "question_text": "240.乳腺炎时可出现哪组淋巴结肿大:",
+        "options": [
+            "A.左锁骨上淋巴结",
+            "B.右锁骨上淋巴结",
+            "C.腋窝淋巴结",
+            "D.滑车淋巴结",
+            "E.腹股沟淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 240
+    },
+    {
+        "question_text": "241.甲状腺肿瘤时常出现哪组淋巴结肿大？",
+        "options": [
+            "A.胸锁乳突肌下部",
+            "B.胸锁乳突肌上部",
+            "C.腋窝",
+            "D.锁骨上淋巴结",
+            "E.颌下淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 241
+    },
+    {
+        "question_text": "242.肺癌最容易向下列哪组淋巴结转移？",
+        "options": [
+            "A.腋窝淋巴结",
+            "B.右锁骨上窝淋巴结",
+            "C.窝淋巴结",
+            "D.腹股沟淋巴结",
+            "E.下颌淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 242
+    },
+    {
+        "question_text": "243.鼻咽癌最容易向下列哪组淋巴结转移？",
+        "options": [
+            "A.下颌淋巴结",
+            "B.颈深淋巴结上群",
+            "C.右锁骨淋巴结",
+            "D.颈深淋巴结下群",
+            "E.腋窝淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 243
+    },
+    {
+        "question_text": "244.甲状腺癌易转移的淋巴结是:",
+        "options": [
+            "A.耳后、乳突区淋巴结",
+            "B.颈深淋巴结上群",
+            "C.颈深淋巴结下群",
+            "D.左锁骨上淋巴结",
+            "E.右锁骨上淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 244
+    },
+    {
+        "question_text": "245.Virchow淋巴结为何种恶性肿瘤转移的标志？",
+        "options": [
+            "A.鼻咽癌",
+            "B.口腔癌",
+            "C.胃癌",
+            "D.肺癌",
+            "E.乳腺癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 245
+    },
+    {
+        "question_text": "246.胸膜病变可能引起哪一组淋巴结肿大？",
+        "options": [
+            "A.左锁骨上淋巴结",
+            "B.右锁骨上淋巴结",
+            "C.颈深淋巴结下群",
+            "D.乳突区淋巴结",
+            "E.腋窝淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 246
+    },
+    {
+        "question_text": "247.关于恶性肿瘤淋巴结转移的特点，下列说法哪项不正确？",
+        "options": [
+            "A.质硬",
+            "B.表面光滑",
+            "C.活动度差",
+            "D.多发",
+            "E.有明显压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 247
+    },
+    {
+        "question_text": "248.哪种情况可引起全身淋巴结肿大？",
+        "options": [
+            "A.急性咽炎",
+            "B.慢性鼻炎",
+            "C.再生障碍性贫血",
+            "D.链霉素过敏",
+            "E.足癣合并感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 248
+    },
+    {
+        "question_text": "249.易向左锁骨上淋巴结转移的恶性肿瘤是:",
+        "options": [
+            "A.胃癌",
+            "B.肺癌",
+            "C.食管癌",
+            "D.结肠癌",
+            "E.乳腺癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 249
+    },
+    {
+        "question_text": "250.患者右侧锁骨上窝可触及一种大淋巴结，质硬，无压痛，活动度差，重点应考虑的疾病是:",
+        "options": [
+            "A.肺癌",
+            "B.乳腺癌",
+            "C.鼻咽癌",
+            "D.肝癌",
+            "E.牙龈癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 250
+    },
+    {
+        "question_text": "251.右锁骨上窝淋巴结肿大首先应考虑的疾病是:",
+        "options": [
+            "A.胃癌转移",
+            "B.胸部肿瘤转移",
+            "C.鼻咽癌转移",
+            "D.非特异性淋巴结炎",
+            "E.淋巴结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 251
+    },
+    {
+        "question_text": "252.胃癌淋巴结转移最常见于:",
+        "options": [
+            "A.右侧锁骨上窝淋巴结群",
+            "B.左侧锁骨上窝淋巴结群",
+            "C.右侧腋窝淋巴结群",
+            "D.耳下淋巴结",
+            "E.腹股沟淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 252
+    },
+    {
+        "question_text": "253.恶性肿瘤转移所致肿大的淋巴结不具备以下哪项特点？",
+        "options": [
+            "A.质地较坚硬，一般无压痛",
+            "B.常与周围组织粘连，不易推动",
+            "C.边界欠清楚，表面可有突起",
+            "D.胃癌多向左侧锁骨上淋巴结转移，肿大的淋巴结称为Virchowl为淋巴结",
+            "E.可发生干酪样坏死，破溃后形成瘘管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 253
+    },
+    {
+        "question_text": "254.左锁骨上淋巴结肿大，质硬首先考虑:",
+        "options": [
+            "A.淋巴瘤",
+            "B.肺癌转移",
+            "C.胃癌转移",
+            "D.慢性淋巴结炎",
+            "E.淋巴结结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 254
+    },
+    {
+        "question_text": "255.非特异性淋巴结炎时，淋巴结肿大的特点，除外:",
+        "options": [
+            "A.初肿时柔软有压痛",
+            "B.表面光滑",
+            "C.有粘连",
+            "D.慢性炎时较硬",
+            "E.可缩小或消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 255
+    },
+    {
+        "question_text": "256.乳腺炎时查体可发现下列哪组淋巴结肿大？",
+        "options": [
+            "A.滑车上淋巴结",
+            "B.腋窝淋巴结",
+            "C.腹股沟淋巴结",
+            "D.左锁骨上淋巴结",
+            "E.右锁骨上淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 256
+    },
+    {
+        "question_text": "257.关于淋巴结肿大的叙述，下列哪项是不正确的？",
+        "options": [
+            "A.颌下淋巴结肿大常由口腔内炎症所致",
+            "B.结核性淋巴结肿大多见于颈部，易破溃",
+            "C.左锁骨上窝淋巴结肿大多见于胸腔脏器癌肿转移",
+            "D.右锁骨上窝淋巴结肿大多见于胸腔脏器癌肿转移",
+            "E.肿瘤转移所致肿大淋巴结，质硬表面不光滑压痛明显。"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 257
+    },
+    {
+        "question_text": "258.全身性淋巴结肿大，首先表现为颈部或锁骨上窝的无痛性淋巴结肿大，淋巴结坚实而有弹性，触诊有软骨样感觉，无疼痛及压痛。见于:",
+        "options": [
+            "A.传染性单核细胞增多症",
+            "B.系统性红斑狼疮",
+            "C.淋巴结结核",
+            "D.淋巴瘤",
+            "E.淋巴细胞性白血病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 258
+    },
+    {
+        "question_text": "259.淋巴结结核的表现主要是:",
+        "options": [
+            "A.柔软",
+            "B.无粘连",
+            "C.有橡皮样感",
+            "D.多在颈部血管周围",
+            "E.无破溃"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 259
+    },
+    {
+        "question_text": "260.关于非特异性淋巴结炎的淋巴结肿大，下列哪种描述是正确的？",
+        "options": [
+            "A.质地较硬",
+            "B.与周围组织黏连",
+            "C.表面不光滑",
+            "D.不易推动",
+            "E.压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 260
+    },
+    {
+        "question_text": "261.男，58岁，咳嗽4年，2个月来痰中带血，消瘦，X线胸片示左上肺密度较高圆形阴影。如果该病人淋巴结肿大，哪组区域的浅表淋巴结最先肿大的可能性大？",
+        "options": [
+            "A.左颈深淋巴结上群",
+            "B.右颈深淋巴结上群",
+            "C.左锁骨上窝淋巴结",
+            "D.右锁骨上窝淋巴结",
+            "E.右颈深淋巴结下群"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 261
+    },
+    {
+        "question_text": "262.男，49岁，上腹部隐痛10年，半年来消瘦、黑便查体:左锁骨上窝触及2cm×3cm淋巴结2枚。吸烟史20年。该患者哪些部位发生炎症或肿瘤的可能性大？",
+        "options": [
+            "A.口底、头面部",
+            "B.鼻咽部",
+            "C.咽喉部、甲状腺",
+            "D.食管、胃",
+            "E.气管、胸膜、肺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 262
+    },
+    {
+        "question_text": "263.男，49岁，上腹部隐痛10年，半年来消瘦、黑便。查体:左锁骨上窝触及2cm×3cm淋巴结2枚。吸烟史20年。Virchow淋巴结是哪种癌转移的标志？",
+        "options": [
+            "A.甲状腺癌",
+            "B.胃癌",
+            "C.肺癌",
+            "D.乳癌",
+            "E.胸腺癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 263
+    },
+    {
+        "question_text": "264.女性，50岁，发现左腋窝淋巴结肿大，质地硬，表面不光滑，有粘连，无压痛，最有可能的诊断是:",
+        "options": [
+            "A.肺癌转移",
+            "B.胃癌转移",
+            "C.乳癌转移",
+            "D.结核病",
+            "E.淋巴瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 264
+    },
+    {
+        "question_text": "265.女，25岁，上腹部无规律性疼痛、消瘦一年入院，胃镜示胃小弯处有一个4cm×8cm大小溃疡，边缘不整齐。查体表淋巴结对诊断意义最大的是:",
+        "options": [
+            "A.颈前、颈后",
+            "B.锁骨上窝",
+            "C.枕后",
+            "D.腋下",
+            "E.腹股沟"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "265",
+        "number": 265
+    }
+]

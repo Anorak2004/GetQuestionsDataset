@@ -1,0 +1,1275 @@
+[
+    {
+        "question_text": "1.关于咳痰的正确说法是:",
+        "options": [
+            "A.正常人也常咳出少量的痰",
+            "B.咳痰是借咳嗽将呼吸道内的分泌物排出口腔外的动作",
+            "C.痰中可含黏液，浆液，尘埃，白细胞等成分",
+            "D.咳嗽对人体有害",
+            "E.正常时的痰为浆液性，无其他成分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 1
+    },
+    {
+        "question_text": "2.咳嗽与咳痰疾病中，下列最常见的疾病是:",
+        "options": [
+            "A.中枢神经系统疾病",
+            "B.呼吸道疾病",
+            "C.胸膜疾病",
+            "D.心血管疾病",
+            "E.消化系统疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 2
+    },
+    {
+        "question_text": "3.咳嗽与咳痰中，下列错误的是:",
+        "options": [
+            "A.咳嗽是一种保护性反射动作",
+            "B.咳嗽也属于一种病理现象",
+            "C.咳嗽控制中枢在延髓",
+            "D.咳痰是一种病态现象",
+            "E.胸膜疾病和心血管疾病不会出现咳嗽现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 3
+    },
+    {
+        "question_text": "4.有关咳嗽的描述下列哪项不正确？",
+        "options": [
+            "A.咳嗽是空气从肺内突然而有声地喷出",
+            "B.在吸入刺激性气体后作为一种反应进行短暂的咳嗽是正常现象",
+            "C.咳嗽是由于下丘脑咳嗽中枢受刺激引起",
+            "D.刺激可来自呼吸系统以外的器官",
+            "E.咳嗽是一种保护性反射动作"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 4
+    },
+    {
+        "question_text": "5.可导致咳嗽的疾病，除外:",
+        "options": [
+            "A.脑膜炎",
+            "B.腮腺炎",
+            "C.胸膜炎",
+            "D.咽喉炎",
+            "E.间质性肺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项是咳嗽咳痰最常见的病因？",
+        "options": [
+            "A.自发性气胸",
+            "B.呼吸道感染",
+            "C.二尖瓣狭窄",
+            "D.脑炎",
+            "E.肺栓塞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 6
+    },
+    {
+        "question_text": "7.引起咳嗽最常见的病因是:",
+        "options": [
+            "A.呼吸道肿瘤",
+            "B.胸膜炎",
+            "C.呼吸道炎症",
+            "D.刺激性气体",
+            "E.肺结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 7
+    },
+    {
+        "question_text": "8.干性咳嗽一般不见于哪种疾病？",
+        "options": [
+            "A.急性支气管炎",
+            "B.急性咽喉炎",
+            "C.慢性咽喉炎",
+            "D.空洞型肺结核",
+            "E.原发性肺动脉高压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 8
+    },
+    {
+        "question_text": "9.刺激性干咳患者查体发现三凹征，应注意以下的可能:",
+        "options": [
+            "A.支气管内膜结核",
+            "B.异物吸入",
+            "C.周围性肺癌",
+            "D.肿瘤转移所致一侧喉返神经麻痹",
+            "E.支气管囊肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 9
+    },
+    {
+        "question_text": "10.干性咳嗽最常见于哪种疾病？",
+        "options": [
+            "A.肺炎",
+            "B.肺结核",
+            "C.胸膜炎",
+            "D.肺脓肿",
+            "E.支气管扩张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪项不是长期慢性咳嗽的疾病？",
+        "options": [
+            "A.慢性支气管炎",
+            "B.支气管扩张",
+            "C.慢性肺脓肿",
+            "D.自发性气胸",
+            "E.肺结核"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 11
+    },
+    {
+        "question_text": "12.一般不引起咳嗽的病变是:",
+        "options": [
+            "A.气管异物",
+            "B.呼吸道炎症",
+            "C.胸膜炎",
+            "D.左心衰竭",
+            "E.肋间神经痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 12
+    },
+    {
+        "question_text": "13.干性咳嗽常见于下列哪些疾病？",
+        "options": [
+            "A.支气管异物",
+            "B.支气管炎",
+            "C.肺脓肿",
+            "D.支气管扩张",
+            "E.空洞型肺结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 13
+    },
+    {
+        "question_text": "14.干咳或刺激性咳嗽常见于:",
+        "options": [
+            "A.慢性支气管炎",
+            "B.支气管扩张症",
+            "C.肺炎",
+            "D.急性或慢性咽喉炎",
+            "E.肺脓肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 14
+    },
+    {
+        "question_text": "15.湿性咳嗽不常见于:",
+        "options": [
+            "A.支气管异物",
+            "B.慢性支气管炎",
+            "C.肺炎",
+            "D.肺脓肿",
+            "E.空洞性肺结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 15
+    },
+    {
+        "question_text": "16.湿性咳嗽常见于下列哪项疾病？",
+        "options": [
+            "A.胸膜炎",
+            "B.肺脓肿",
+            "C.急性喉炎",
+            "D.急性支气管炎初期",
+            "E.肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 16
+    },
+    {
+        "question_text": "17.刺激性咳嗽最常见于:",
+        "options": [
+            "A.慢性支气管炎",
+            "B.支气管扩张症",
+            "C.支气管肿瘤",
+            "D.肺结核",
+            "E.肺气肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 17
+    },
+    {
+        "question_text": "18.发作性咳嗽有可能是哪种疾病？",
+        "options": [
+            "A.胸膜炎早期",
+            "B.百日咳",
+            "C.空洞性肺结核",
+            "D.支气管肺癌",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 18
+    },
+    {
+        "question_text": "19.慢性支气管炎可出现:",
+        "options": [
+            "A.干咳",
+            "B.咳嗽、咯痰",
+            "C.发作性咳嗽",
+            "D.犬吠样咳嗽",
+            "E.金属音调咳嗽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 19
+    },
+    {
+        "question_text": "20.急性咽喉炎可出现:",
+        "options": [
+            "A.干咳",
+            "B.咳嗽、咯痰",
+            "C.发作性咳嗽",
+            "D.犬吠样咳嗽",
+            "E.金属音调咳嗽"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 20
+    },
+    {
+        "question_text": "21.气管异物可出现:",
+        "options": [
+            "A.干咳",
+            "B.咳嗽、咯痰",
+            "C.发作性咳嗽",
+            "D.犬吠样咳嗽",
+            "E.金属音调咳嗽"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 21
+    },
+    {
+        "question_text": "22.长期慢性咳嗽，咯血，咯大量脓痰，见于:",
+        "options": [
+            "A.肺炎",
+            "B.肺癌",
+            "C.百日咳",
+            "D.支气管扩张",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 22
+    },
+    {
+        "question_text": "23.夜间咳嗽常见于:",
+        "options": [
+            "A.气管异物",
+            "B.百日咳",
+            "C.慢性支气管炎",
+            "D.肺结核",
+            "E.支气管扩张症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 23
+    },
+    {
+        "question_text": "24.下列哪种疾病咳嗽伴大量痰液？",
+        "options": [
+            "A.急性咽喉炎",
+            "B.支气管扩张",
+            "C.急性支气管炎",
+            "D.胸膜炎",
+            "E.肺结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列哪种疾病咳痰受体位影响最明显？",
+        "options": [
+            "A.喉炎",
+            "B.支气管扩张",
+            "C.急性支气管炎",
+            "D.肺癌",
+            "E.声带炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 25
+    },
+    {
+        "question_text": "26.下列哪种疾病可出现干咳？",
+        "options": [
+            "A.肺炎",
+            "B.胸膜炎",
+            "C.支气管扩张",
+            "D.空洞性肺结核",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 26
+    },
+    {
+        "question_text": "27.下列哪项可出现金属音调咳嗽？",
+        "options": [
+            "A.纵隔肿瘤",
+            "B.声带炎",
+            "C.喉炎",
+            "D.喉结核",
+            "E.喉癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 27
+    },
+    {
+        "question_text": "28.喉炎的咳嗽声音特点是:",
+        "options": [
+            "A.金属样音调",
+            "B.犬吠样",
+            "C.短促轻咳",
+            "D.阵发性痉咳",
+            "E.无力性咳嗽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 28
+    },
+    {
+        "question_text": "29.金属音调咳嗽多见于下列哪种疾病？",
+        "options": [
+            "A.支气管肺癌",
+            "B.声带炎",
+            "C.百日咳",
+            "D.喉结核",
+            "E.喉癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 29
+    },
+    {
+        "question_text": "30.金属样音调咳嗽见于:",
+        "options": [
+            "A.喉癌",
+            "B.声带炎",
+            "C.百日咳",
+            "D.纵隔肿瘤",
+            "E.支气管扩张"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 30
+    },
+    {
+        "question_text": "31.伴有高调吸气回声的连续阵发性剧咳常见于:",
+        "options": [
+            "A.百日咳",
+            "B.左心衰竭",
+            "C.支气管肺癌",
+            "D.支气管扩张症",
+            "E.支气管内膜结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 31
+    },
+    {
+        "question_text": "32.伴金属音的刺激性咳嗽应首先考虑:",
+        "options": [
+            "A.支气管肺癌",
+            "B.胸膜炎",
+            "C.肺炎",
+            "D.肺气肿",
+            "E.支气管扩张"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 32
+    },
+    {
+        "question_text": "33.鸡鸣样咳嗽见于:",
+        "options": [
+            "A.纵隔肿瘤",
+            "B.严重肺气肿",
+            "C.声带麻痹",
+            "D.肿瘤压迫喉返神经",
+            "E.百日咳"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 33
+    },
+    {
+        "question_text": "34.金属音样咳嗽见于:",
+        "options": [
+            "A.肿瘤压迫喉返神经",
+            "B.百日咳",
+            "C.纵隔肿瘤压迫气管",
+            "D.声带麻痹",
+            "E.严重肺气肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 34
+    },
+    {
+        "question_text": "35.有金属调咳嗽音的疾病是:",
+        "options": [
+            "A.急性支气管炎",
+            "B.支气管癌",
+            "C.支气管扩张",
+            "D.肺气肿",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 35
+    },
+    {
+        "question_text": "36.咳嗽伴声音嘶哑常见于:",
+        "options": [
+            "A.百日咳",
+            "B.纵隔肿瘤",
+            "C.严重肺气肿",
+            "D.肿瘤压迫喉返神经",
+            "E.声带麻痹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 36
+    },
+    {
+        "question_text": "37.慢性支气管炎患者的痰液常为:",
+        "options": [
+            "A.分层现象",
+            "B.棕红色",
+            "C.有恶臭味",
+            "D.白色粘痰",
+            "E.粉红色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 37
+    },
+    {
+        "question_text": "38.支气管扩张症患者的痰液的性质常为:",
+        "options": [
+            "A.分层现象",
+            "B.棕红色",
+            "C.白色粘痰",
+            "D.粉红色",
+            "E.铁锈色"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 38
+    },
+    {
+        "question_text": "39.肺梗死患者的痰液常表现为:",
+        "options": [
+            "A.暗红色",
+            "B.鲜红色",
+            "C.粉红色",
+            "D.浆液脓性",
+            "E.胶冻状"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 39
+    },
+    {
+        "question_text": "40.患者咳嗽，咳大量脓痰，静置后痰液出现分层，应首先考虑:",
+        "options": [
+            "A.肺梗死",
+            "B.肺脓肿",
+            "C.肺结核",
+            "D.肺水肿",
+            "E.肺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 40
+    },
+    {
+        "question_text": "41.痰液静置后分层现象最常见于:",
+        "options": [
+            "A.肺泡癌",
+            "B.包虫病",
+            "C.急性支气管炎",
+            "D.肺炎球菌肺炎",
+            "E.支气管扩张症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 41
+    },
+    {
+        "question_text": "42.男，38岁，误服敌百虫后，出现恶心、呕吐流涎、咳嗽、呼吸困难。该患者咳痰性质常为:",
+        "options": [
+            "A.水样痰",
+            "B.痰中带血丝",
+            "C.粘液脓性痰",
+            "D.大量脓痰",
+            "E.大量泡沫样痰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 42
+    },
+    {
+        "question_text": "43.女，55岁，患Graves（甲亢眼病）病3年，一周来心悸咳嗽，夜间重。查体:心房颤动，两肺底水泡音。下列哪种因素与其夜间咳嗽加重有关？",
+        "options": [
+            "A.大脑皮层对延髓呼吸中枢抑制减弱",
+            "B.迷走神经兴奋性增高",
+            "C.交感神经兴奋性增高",
+            "D.痰量增多",
+            "E.以上均有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 43
+    },
+    {
+        "question_text": "44.肺炎杆菌肺炎时可出现:",
+        "options": [
+            "A.咯血颜色鲜红",
+            "B.铁锈色血痰",
+            "C.砖红色胶冻样粘痰",
+            "D.粉红色乳样痰",
+            "E.粉红色浆液性泡沫样痰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 44
+    },
+    {
+        "question_text": "45.葡萄球菌肺炎时可出现:",
+        "options": [
+            "A.咯血颜色鲜红",
+            "B.铁锈色血痰",
+            "C.砖红色胶冻样粘痰",
+            "D.粉红色乳样痰",
+            "E.粉红色浆液性泡沫样痰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 45
+    },
+    {
+        "question_text": "46.出血性疾病时可出现:",
+        "options": [
+            "A.咯血颜色鲜红",
+            "B.铁锈色血痰",
+            "C.砖红色胶冻样粘痰",
+            "D.粉红色乳样痰",
+            "E.粉红色浆液性泡沫样痰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 46
+    },
+    {
+        "question_text": "47.左心衰竭肺水肿时可出现:",
+        "options": [
+            "A.咯血颜色鲜红",
+            "B.铁锈色血痰",
+            "C.砖红色胶冻样粘痰",
+            "D.粉红色乳样痰",
+            "E.粉红色浆液性泡沫样痰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 47
+    },
+    {
+        "question_text": "48.肺部厌氧菌感染可出现:",
+        "options": [
+            "A.痰量增多",
+            "B.恶臭痰",
+            "C.铁锈色痰",
+            "D.粉红色泡沫痰",
+            "E.上层泡沫、中层为浆液、下层为坏死组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 48
+    },
+    {
+        "question_text": "49.肺脓肿可出现:",
+        "options": [
+            "A.痰量增多",
+            "B.恶臭痰",
+            "C.铁锈色痰",
+            "D.粉红色泡沫痰",
+            "E.上层泡沫、中层为浆液、下层为坏死组织"
+        ],
+        "correct_answer": "AE",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 49
+    },
+    {
+        "question_text": "50.支气管扩张可出现:",
+        "options": [
+            "A.痰量增多",
+            "B.恶臭痰",
+            "C.铁锈色痰",
+            "D.粉红色泡沫痰",
+            "E.上层泡沫、中层为浆液、下层为坏死组织"
+        ],
+        "correct_answer": "AE",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 50
+    },
+    {
+        "question_text": "51.肺水肿可出现:",
+        "options": [
+            "A.痰量增多",
+            "B.恶臭痰",
+            "C.铁锈色痰",
+            "D.粉红色泡沫痰",
+            "E.上层泡沫、中层为浆液、下层为坏死组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 51
+    },
+    {
+        "question_text": "52.咳嗽、咳痰伴痰中带血的常见疾病，一般不包括哪项？",
+        "options": [
+            "A.肺结核",
+            "B.支气管扩张",
+            "C.急性渗出性胸膜炎",
+            "D.肺癌",
+            "E.风心病二尖办瓣狭窄"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 52
+    },
+    {
+        "question_text": "53.长期反复的咳大量脓痰最可能为:",
+        "options": [
+            "A.肺结核",
+            "B.急性肺炎",
+            "C.支气管扩张",
+            "D.慢性支气管炎",
+            "E.哮喘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 53
+    },
+    {
+        "question_text": "54.咳嗽伴大量脓痰常见于:",
+        "options": [
+            "A.肺结核",
+            "B.肺癌",
+            "C.肺脓肿",
+            "D.肺气肿",
+            "E.肺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 54
+    },
+    {
+        "question_text": "55.男，42岁，冬季咳嗽4年，诊断为慢性支气管炎，下列哪项最有意义？",
+        "options": [
+            "A.咳嗽无咳痰",
+            "B.咳嗽有痰液",
+            "C.咳嗽伴咯血",
+            "D.咳嗽伴发热",
+            "E.吸烟史"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 55
+    },
+    {
+        "question_text": "56.支气管扩张症可出现:",
+        "options": [
+            "A.咳嗽、无痰、胸痛",
+            "B.咳嗽、泡沫血痰、呼吸困难",
+            "C.咳嗽、咳脓痰、大量咯血",
+            "D.咳嗽、少许黏痰、哮鸣音",
+            "E.咳嗽、咳痰、管状呼吸音、发热"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 56
+    },
+    {
+        "question_text": "57.支气管哮喘可伴有:",
+        "options": [
+            "A.咳嗽、无痰、胸痛",
+            "B.咳嗽、泡沫血痰、呼吸困难",
+            "C.咳嗽、咳脓痰、大量咯血",
+            "D.咳嗽、少许黏痰、哮鸣音",
+            "E.咳嗽、咳痰、管状呼吸音、发热"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 57
+    },
+    {
+        "question_text": "58.胸膜炎时可伴有:",
+        "options": [
+            "A.咳嗽、无痰、胸痛",
+            "B.咳嗽、泡沫血痰、呼吸困难",
+            "C.咳嗽、咳脓痰、大量咯血",
+            "D.咳嗽、少许黏痰、哮鸣音",
+            "E.咳嗽、咳痰、管状呼吸音、发热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 58
+    },
+    {
+        "question_text": "59.肺炎时可伴有:",
+        "options": [
+            "A.咳嗽、无痰、胸痛",
+            "B.咳嗽、泡沫血痰、呼吸困难",
+            "C.咳嗽、咳脓痰、大量咯血",
+            "D.咳嗽、少许黏痰、哮鸣音",
+            "E.咳嗽、咳痰、管状呼吸音、发热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 59
+    },
+    {
+        "question_text": "60.急性左心衰时可伴有:",
+        "options": [
+            "A.咳嗽、无痰、胸痛",
+            "B.咳嗽、泡沫血痰、呼吸困难",
+            "C.咳嗽、咳脓痰、大量咯血",
+            "D.咳嗽、少许黏痰、哮鸣音",
+            "E.咳嗽、咳痰、管状呼吸音、发热"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 60
+    },
+    {
+        "question_text": "61.长期慢性咳嗽、咯血、咯大量浓痰常见于:",
+        "options": [
+            "A.百日咳",
+            "B.支气管扩张",
+            "C.慢性支气管炎",
+            "D.肺炎",
+            "E.肺癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 61
+    },
+    {
+        "question_text": "62.咳嗽伴有大量脓痰主要见于:",
+        "options": [
+            "A.肺炎",
+            "B.肺结核",
+            "C.胸膜炎",
+            "D.支气管扩张",
+            "E.二尖瓣狭窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 62
+    },
+    {
+        "question_text": "63.粉红色泡沫痰最常见于:",
+        "options": [
+            "A.慢性支气管炎",
+            "B.肺结核",
+            "C.肺脓肿",
+            "D.肺水肿",
+            "E.支气管胸膜瘘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 63
+    },
+    {
+        "question_text": "64.下列哪种疾病咳嗽或用力呼吸后胸痛加剧？",
+        "options": [
+            "A.胸膜炎",
+            "B.心肌梗死",
+            "C.食道炎",
+            "D.心绞痛",
+            "E.过度通气综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 64
+    },
+    {
+        "question_text": "65.下列哪项是铁锈色痰最常见的疾病？",
+        "options": [
+            "A.肺泡癌",
+            "B.肺炎球菌肺炎",
+            "C.支原体肺炎",
+            "D.急性性肺脓肿",
+            "E.急性支气管炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 65
+    },
+    {
+        "question_text": "66.下列哪种疾病会出现干咳无痰症状？",
+        "options": [
+            "A.支气管炎",
+            "B.肺结核",
+            "C.肺癌",
+            "D.慢性咽喉炎",
+            "E.左心衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 66
+    },
+    {
+        "question_text": "67.浆液性粉红色泡沫痰是下列哪种疾病特征性表现？",
+        "options": [
+            "A.金黄色葡萄球菌性肺炎",
+            "B.干酪性肺炎",
+            "C.急性肺水肿",
+            "D.支气管扩张症",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 67
+    },
+    {
+        "question_text": "68.砖红色胶冻状血痰是下列哪种疾病的特征表现？",
+        "options": [
+            "A.支气管内膜结核",
+            "B.肺梗死",
+            "C.并殖吸虫病（肺吸虫）",
+            "D.克雷白杆菌肺炎",
+            "E.金黄色葡萄球性肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 68
+    },
+    {
+        "question_text": "69.砖红色胶胨样血痰主要见于:",
+        "options": [
+            "A.二尖瓣狭窄",
+            "B.吸血虫",
+            "C.肺炎克利伯杆菌肺炎",
+            "D.左心衰",
+            "E.右心衰竭"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 69
+    },
+    {
+        "question_text": "70.砖红色胶冻样血痰见于:",
+        "options": [
+            "A.肺吸虫病",
+            "B.干性支气管扩张症",
+            "C.活动性肺结核",
+            "D.肺梗死",
+            "E.肺炎杆菌性肺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 70
+    },
+    {
+        "question_text": "71.铁锈色血痰见于:",
+        "options": [
+            "A.肺吸虫病",
+            "B.干性支气管扩张症",
+            "C.活动性肺结核",
+            "D.肺梗死",
+            "E.肺炎球菌性肺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 71
+    },
+    {
+        "question_text": "72.粘稠暗红色血痰见于:",
+        "options": [
+            "A.肺吸虫病",
+            "B.干性支气管扩张症",
+            "C.活动性肺结核",
+            "D.肺梗死",
+            "E.肺炎杆菌性肺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 72
+    },
+    {
+        "question_text": "73.咯砖红色胶东样血痰，最大可能是:",
+        "options": [
+            "A.克雷白杆菌肺炎",
+            "B.肺气肿",
+            "C.肺梗死",
+            "D.肺癌",
+            "E.肺脓肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 73
+    },
+    {
+        "question_text": "74.恶臭味痰液最常见于:",
+        "options": [
+            "A.肺炎",
+            "B.正常痰液",
+            "C.大量咯血",
+            "D.厌氧菌感染",
+            "E.肺结核"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 74
+    },
+    {
+        "question_text": "75.鲜红血丝痰常见于:",
+        "options": [
+            "A.肺炎",
+            "B.肺梗死",
+            "C.早期肺结核",
+            "D.支气管哮喘",
+            "E.支气管扩张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 75
+    },
+    {
+        "question_text": "76.咳铁锈色痰主要见于哪种感染？",
+        "options": [
+            "A.铜绿色假单胞菌",
+            "B.肺炎球菌感染",
+            "C.肺吸虫感染",
+            "D.阿米巴感染",
+            "E.厌氧菌感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 76
+    },
+    {
+        "question_text": "77.绿脓杆菌感染时，痰液可呈:",
+        "options": [
+            "A.黄色脓性痰",
+            "B.黄绿色或翠绿色痰",
+            "C.微黄奶酪样痰",
+            "D.痰粘稠牵拉成丝",
+            "E.水样痰，内含粉皮样物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 77
+    },
+    {
+        "question_text": "78.化脓菌感染时，痰液可呈:",
+        "options": [
+            "A.黄色脓性痰",
+            "B.黄绿色或翠绿色痰",
+            "C.微黄奶酪样痰",
+            "D.痰粘稠牵拉成丝",
+            "E.水样痰，内含粉皮样物"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 78
+    },
+    {
+        "question_text": "79.肺结核干酪性肺炎时，痰液可呈:",
+        "options": [
+            "A.黄色脓性痰",
+            "B.黄绿色或翠绿色痰",
+            "C.微黄奶酪样痰",
+            "D.痰粘稠牵拉成丝",
+            "E.水样痰，内含粉皮样物"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 79
+    },
+    {
+        "question_text": "80.哪项咳嗽咳痰疾病而不伴杵状指？",
+        "options": [
+            "A.支气管扩张症",
+            "B.肺脓肿",
+            "C.肺结核",
+            "D.支气管肺癌",
+            "E.脓胸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 80
+    },
+    {
+        "question_text": "81.慢性咳嗽伴杵状指见于:",
+        "options": [
+            "A.肺结核",
+            "B.肺炎",
+            "C.气胸",
+            "D.二尖瓣狭窄合并肺淤血",
+            "E.支气管扩张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 81
+    },
+    {
+        "question_text": "82.咳嗽伴有杵状指的疾病是:",
+        "options": [
+            "A.肺炎",
+            "B.肺结核",
+            "C.胸膜炎",
+            "D.支气管扩张",
+            "E.二尖瓣狭窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 82
+    },
+    {
+        "question_text": "83.急性上呼吸道感染可出现:",
+        "options": [
+            "A.咳嗽伴发热",
+            "B.咳嗽伴呼吸困难",
+            "C.咳嗽伴胸痛",
+            "D.咳嗽伴咯血",
+            "E.咳嗽伴大量脓痰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 83
+    },
+    {
+        "question_text": "84.支气管扩张可出现:",
+        "options": [
+            "A.咳嗽伴发热",
+            "B.咳嗽伴呼吸困难",
+            "C.咳嗽伴胸痛",
+            "D.咳嗽伴大量脓痰"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 84
+    },
+    {
+        "question_text": "85.胸膜炎可出现:",
+        "options": [
+            "A.咳嗽伴发热",
+            "B.咳嗽伴呼吸困难",
+            "C.咳嗽伴胸痛",
+            "D.咳嗽伴咯血",
+            "E.咳嗽伴大量脓痰"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 85
+    },
+    {
+        "question_text": "86.支气管肺癌可出现:",
+        "options": [
+            "A.咳嗽伴发热",
+            "B.咳嗽伴呼吸困难",
+            "C.咳嗽伴胸痛",
+            "D.咳嗽伴咯血",
+            "E.咳嗽伴大量脓痰"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 86
+    },
+    {
+        "question_text": "87.气胸可出现:",
+        "options": [
+            "A.咳嗽伴发热",
+            "B.咳嗽伴呼吸困难",
+            "C.咳嗽伴胸痛",
+            "D.咳嗽伴咯血",
+            "E.咳嗽伴大量脓痰"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 87
+    },
+    {
+        "question_text": "88.患者，女性，31岁，5年来反复咳嗽，大量脓痰，痰中带血或咯血。该患者应首先考虑的是:",
+        "options": [
+            "A.支气管内膜结核",
+            "B.支气管扩张症",
+            "C.慢性支气管炎",
+            "D.支气管肺癌",
+            "E.肺脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 88
+    },
+    {
+        "question_text": "89.患者，男性，27岁，5年来反复咳嗽，大量脓痰，痰中带血或咯血。首先考虑的是:",
+        "options": [
+            "A.支气管内膜结核",
+            "B.支气管扩张症",
+            "C.慢性支气管炎",
+            "D.支气管肺癌",
+            "E.肺脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 89
+    },
+    {
+        "question_text": "90.患者，男性，60岁，咳嗽、咯痰、痰中带血一月，声嘶一周，该患者最可能的诊断为:",
+        "options": [
+            "A.肺结核",
+            "B.支气管扩张",
+            "C.肺癌",
+            "D.肺炎",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 90
+    },
+    {
+        "question_text": "91.患者，男性，52岁，有多年吸烟史，出现刺激性干咳伴咯血痰，该患者应首先考虑:",
+        "options": [
+            "A.肺气肿",
+            "B.支气管扩张",
+            "C.肺脓肿",
+            "D.支气管肿癌",
+            "E.慢性支气管炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "91",
+        "number": 91
+    }
+]

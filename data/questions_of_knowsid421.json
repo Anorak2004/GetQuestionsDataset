@@ -1,0 +1,5182 @@
+[
+    {
+        "question_text": "3772、上消化道是（  ）",
+        "options": [
+            "A.从口腔到食管",
+            "B.从口腔到胃",
+            "C.从口腔到十二指肠",
+            "D.口腔到空肠",
+            "E.咽峡到十二指肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 1
+    },
+    {
+        "question_text": "3773、既是上消化道又是上呼吸道的器官是",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.喉",
+            "D.气管",
+            "E.食管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 2
+    },
+    {
+        "question_text": "3774、上消化道不包括",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.食管",
+            "D.胃、十二指肠",
+            "E.空肠、回肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 3
+    },
+    {
+        "question_text": "3775、消化管最膨大的部分是",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.胃",
+            "D.盲肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 4
+    },
+    {
+        "question_text": "3776、关于口腔的叙述，错误的是",
+        "options": [
+            "A.是消化管的起始部，借口裂与外界相通",
+            "B.可分为口腔前庭和固有口腔两部",
+            "C.上壁为腭",
+            "D.侧壁为唇",
+            "E.下壁为舌及封闭口底的软组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 5
+    },
+    {
+        "question_text": "3777、下列不属于口腔内的结构是",
+        "options": [
+            "A.牙",
+            "B.舌",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.舌乳头"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 6
+    },
+    {
+        "question_text": "3778、26表示",
+        "options": [
+            "A.左上颌第2前磨牙",
+            "B.左上颌第1磨牙",
+            "C.左上颌第2磨牙",
+            "D.右上颌第1磨牙",
+            "E.右上颌第2磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 7
+    },
+    {
+        "question_text": "3779、27表示",
+        "options": [
+            "A.左上颌第2前磨牙",
+            "B.左上颌第2磨牙",
+            "C.左上颌第3磨牙",
+            "D.右上颌第2磨牙",
+            "E.右上颌第3磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 8
+    },
+    {
+        "question_text": "3780、32表示",
+        "options": [
+            "A.左下颌侧切牙",
+            "B.左下颌中切牙",
+            "C.左下颌尖牙",
+            "D.右下颌尖牙",
+            "E.右下颌侧切牙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 9
+    },
+    {
+        "question_text": "3781、83 表示",
+        "options": [
+            "A.左下颌乳侧切牙",
+            "B.左下颌乳中切牙",
+            "C.左下颌乳尖牙",
+            "D.右下颌乳尖牙",
+            "E.右下颌乳侧切牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 10
+    },
+    {
+        "question_text": "3782、54表示",
+        "options": [
+            "A.右上颌乳侧切牙",
+            "B.右上颌乳中切牙",
+            "C.右上颌乳尖牙",
+            "D.右上颌第1乳磨牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 11
+    },
+    {
+        "question_text": "3783、关于腭的叙述，错误的是",
+        "options": [
+            "A.腭是口腔的顶，分隔鼻腔与口腔",
+            "B.前2/3为硬腭，后1/3为软腭",
+            "C.软腭的后缘游离",
+            "D.粘膜形成2对皱襞",
+            "E.腭咽弓在腭舌弓之前"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 12
+    },
+    {
+        "question_text": "3784、围成咽峡的结构是",
+        "options": [
+            "A.两侧腭咽弓、腭帆后缘和舌根",
+            "B.腭垂、腭帆游离缘，两侧腭舌弓和舌根",
+            "C.腭垂、腭舌弓和腭咽弓",
+            "D.腭垂、腭舌弓、舌根",
+            "E.腭帆和舌根"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 13
+    },
+    {
+        "question_text": "3785、牙",
+        "options": [
+            "A.包括牙冠、牙颈、牙根和牙龈",
+            "B.由釉质和牙质构成",
+            "C.牙内的腔隙称牙腔，内容牙髓",
+            "D.牙周组织包括牙质、牙槽骨和牙周膜",
+            "E.磨牙萌出晚，故又称迟牙或智牙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 14
+    },
+    {
+        "question_text": "3786、关于牙的叙述，正确的是",
+        "options": [
+            "A.恒牙分侧切牙、尖牙、前磨牙和磨牙4类",
+            "B.分为牙冠、牙颈和牙根3部",
+            "C.乳牙无磨牙",
+            "D.大部分由牙骨质构成",
+            "E.　表示为右上颌第2前磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 15
+    },
+    {
+        "question_text": "3787、关于牙周组织的叙述，错误的是",
+        "options": [
+            "A.牙周组织对牙起保护、固定和支持作用",
+            "B.牙周膜位于牙根和牙颈之间",
+            "C.牙周膜是致密结缔组织",
+            "D.牙龈属于口腔粘膜",
+            "E.牙龈包被牙颈"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 16
+    },
+    {
+        "question_text": "3788、颏舌肌",
+        "options": [
+            "A.起于下颌支内面，呈扇形进入舌内",
+            "B.是舌内肌",
+            "C.两侧同时收缩，使舌缩短",
+            "D.一侧瘫痪，伸舌时则舌尖偏向痪侧",
+            "E.其肌纤维排列呈纵、横和垂直3个方向"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 17
+    },
+    {
+        "question_text": "3789、颏舌肌",
+        "options": [
+            "A.是成对的舌内肌",
+            "B.两侧收缩可拉舌向后上",
+            "C.单侧收缩，使舌尖伸向对侧",
+            "D.起于颏隆凸，止于舌两侧",
+            "E.受舌神经支配"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 18
+    },
+    {
+        "question_text": "3790、伸舌时，舌尖偏向患侧，被损伤的肌是",
+        "options": [
+            "A.颏舌肌",
+            "B.舌骨舌肌",
+            "C.茎突舌肌",
+            "D.舌纵肌",
+            "E.腭舌肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 19
+    },
+    {
+        "question_text": "3791、关于腮腺的叙述，错误的是",
+        "options": [
+            "A.腮腺上达颧弓，下至下颌角",
+            "B.前至咬肌后1/3的浅面",
+            "C.全部伸入下颌支与胸锁乳突肌之间",
+            "D.腮腺导管在颧弓下方一横指处越过咬肌浅面",
+            "E.腮腺导管穿过颊肌，开口于上颌第2磨牙平对的颊粘膜处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 20
+    },
+    {
+        "question_text": "3792、腮腺管开口于",
+        "options": [
+            "A.舌下阜",
+            "B.舌下襞",
+            "C.平对上颌第2磨牙的颊粘膜处",
+            "D.平对下颌第3磨牙的颊粘膜处",
+            "E.舌系带根部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 21
+    },
+    {
+        "question_text": "3793、咽",
+        "options": [
+            "A.是上窄下宽的肌性管道",
+            "B.向下至第6颈椎下缘续气管",
+            "C.分为鼻咽、口咽、喉咽三部",
+            "D.咽鼓管咽口位于口咽部",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 22
+    },
+    {
+        "question_text": "3794、关于咽，下列正确的是",
+        "options": [
+            "A.口咽是消化道和呼吸道的共同通道",
+            "B.上端附着颅底，下通食管和气管",
+            "C.鼻咽后壁有咽鼓管咽口",
+            "D.口咽侧壁有咽隐窝",
+            "E.喉咽下端续气管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 23
+    },
+    {
+        "question_text": "3795、咽鼓管咽口位于",
+        "options": [
+            "A.上鼻甲后端之后约1cm处",
+            "B.中鼻甲之后约1cm处",
+            "C.下鼻甲后端之后约1cm处",
+            "D.口咽的两侧壁上",
+            "E.中耳鼓室前壁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 24
+    },
+    {
+        "question_text": "3796、咽鼓管咽口位于",
+        "options": [
+            "A.鼻咽部侧壁上",
+            "B.口咽部侧壁上",
+            "C.咽峡两侧",
+            "D.鼻咽部后壁上",
+            "E.喉口两侧"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 25
+    },
+    {
+        "question_text": "3797、梨状隐窝位于",
+        "options": [
+            "A.口咽部两侧",
+            "B.喉口两侧",
+            "C.鼻咽部两侧",
+            "D.鼻咽部后壁",
+            "E.口腔内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 26
+    },
+    {
+        "question_text": "3798、食管",
+        "options": [
+            "A.上端在第6颈椎下缘处与咽相续",
+            "B.位于气管的前方",
+            "C.下端在第12胸椎处接胃",
+            "D.第2狭窄处距中切牙40cm",
+            "E.第3狭窄为食管与胃连续处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 27
+    },
+    {
+        "question_text": "3799、食管异物与食管癌易发生于",
+        "options": [
+            "A.食管穿膈处",
+            "B.食管第4-5胸椎间水平",
+            "C.右主支气管跨越处",
+            "D.距中切牙40cm处",
+            "E.食管的第一狭窄处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 28
+    },
+    {
+        "question_text": "3800、胃",
+        "options": [
+            "A.大部分位于腹上区",
+            "B.小部分位于左季肋区",
+            "C.贲门约在第11胸椎的右侧",
+            "D.幽门约在第1腰椎的右侧",
+            "E.胃前壁完全被膈与肋弓掩盖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 29
+    },
+    {
+        "question_text": "3801、胃在中等充盈时，其位置为",
+        "options": [
+            "A.大部在腹上区、小部在左季肋区",
+            "B.大部在左季肋区、小部在腹上区",
+            "C.贲门平对第10胸椎高度",
+            "D.幽门平对第12胸椎高度",
+            "E.前壁全被肝掩盖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 30
+    },
+    {
+        "question_text": "3802、与胃底相邻的器官是",
+        "options": [
+            "A.横结肠",
+            "B.肝和右肾",
+            "C.十二指肠",
+            "D.膈和脾",
+            "E.左肾和左肾上腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 31
+    },
+    {
+        "question_text": "3803、胃的错误描述是",
+        "options": [
+            "A.入口为贲门",
+            "B.幽门处有幽门瓣",
+            "C.出口为幽门",
+            "D.有两个切迹，分别是贲门切迹和角切迹",
+            "E.在幽门处纵形肌增厚，形成幽门括约肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 32
+    },
+    {
+        "question_text": "3804、胃不包括",
+        "options": [
+            "A.贲门部",
+            "B.胃底",
+            "C.胃体",
+            "D.小弯部",
+            "E.幽门部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 33
+    },
+    {
+        "question_text": "3805、十二指肠大乳头位于",
+        "options": [
+            "A.十二指肠上部",
+            "B.十二指肠降部",
+            "C.十二指肠水平部",
+            "D.十二指肠升部",
+            "E.十二指肠球部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 34
+    },
+    {
+        "question_text": "3806、关于Meckel憩室，错误的是",
+        "options": [
+            "A.出现于距回盲瓣0.4-1.0cm范围内",
+            "B.自回肠壁向外突出",
+            "C.是胚胎时卵黄蒂未完全消失形成的",
+            "D.大约2%的成人有Meckel憩室",
+            "E.憩室的炎症或合并穿孔，症状与阑尾相似"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 35
+    },
+    {
+        "question_text": "3807、美克尔氏憩室一般常见于",
+        "options": [
+            "A.空回肠的分界处",
+            "B.回肠末端的肠壁上",
+            "C.距回肠末端约0.4-1.0cm范围的肠壁上",
+            "D.肠管任何部位",
+            "E.肠壁薄弱处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 36
+    },
+    {
+        "question_text": "3808、关于十二指肠，何者错误",
+        "options": [
+            "A.为小肠的起始部",
+            "B.分为十二指肠球部、降部、水平部和升部4部",
+            "C.有胰管和胆总管的开口",
+            "D.降部后内侧壁上有十二指肠大乳头",
+            "E.十二指肠上部属腹膜内位器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 37
+    },
+    {
+        "question_text": "3809、胃与十二指肠在表面的标志是",
+        "options": [
+            "A.角切迹",
+            "B.中间沟",
+            "C.幽门",
+            "D.幽门前静脉",
+            "E.胃左静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 38
+    },
+    {
+        "question_text": "3810、下列对十二指肠描述中，错误的是",
+        "options": [
+            "A.分为上部、降部、水平部和升部",
+            "B.球部为溃疡的好发部位",
+            "C.降部后内侧壁上有十二指肠大乳头，为肝管开口",
+            "D.十二指肠悬肌将空肠曲固定于腹后壁",
+            "E.除始、末两端外，均为腹膜外位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 39
+    },
+    {
+        "question_text": "3811、十二指肠",
+        "options": [
+            "A.分上部、降部和升部三部分",
+            "B.上部近侧段又称球部，粘膜面光滑",
+            "C.降部沿第1－3腰椎前面下行",
+            "D.降部的外后壁上有十二指肠大乳头",
+            "E.大乳头距中切牙55cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 40
+    },
+    {
+        "question_text": "3812、十二指肠",
+        "options": [
+            "A.属于下消化道的一部分",
+            "B.在小肠中长度最长．管径最细",
+            "C.可分为降部、水平部和升部",
+            "D.有胰管和胆总管的开口",
+            "E.降部的外侧壁有十二指肠大乳头"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 41
+    },
+    {
+        "question_text": "3813、十二指肠悬肌",
+        "options": [
+            "A.起自膈肌",
+            "B.起自膈肌右脚",
+            "C.附着于十二指肠下部",
+            "D.为腹膜形成的结构",
+            "E.起固定十二指肠的作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 42
+    },
+    {
+        "question_text": "3814、十二指肠悬韧带是",
+        "options": [
+            "A.十二指肠起始部的标志",
+            "B.空肠起始部的标志",
+            "C.回肠起始部的标志",
+            "D.十二指肠降部起始的标志",
+            "E.将十二指肠下曲连于膈右脚"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 43
+    },
+    {
+        "question_text": "3815、识别空肠起始的标志是",
+        "options": [
+            "A.十二指肠大乳头",
+            "B.十二指肠空肠曲",
+            "C.十二指肠小乳头",
+            "D.十二指肠水平部",
+            "E.十二指肠悬韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 44
+    },
+    {
+        "question_text": "3816、空肠和回肠",
+        "options": [
+            "A.空肠管径较细",
+            "B.回肠管壁较厚",
+            "C.空肠血管较少",
+            "D.回肠粘膜皱襞密而高",
+            "E.空肠无集合淋巴滤泡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 45
+    },
+    {
+        "question_text": "3817、空肠和回肠",
+        "options": [
+            "A.空肠占小肠的3／5，回肠占2／5",
+            "B.空肠粘膜环状皱襞密而高，而回肠疏而低",
+            "C.空肠粘膜层中有集合淋巴滤泡",
+            "D.回肠血供比空肠丰富．颜色较红",
+            "E.空肠管径较细，管襞较薄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 46
+    },
+    {
+        "question_text": "3818、结肠带、结肠袋、肠脂垂存在于",
+        "options": [
+            "A.肛管",
+            "B.直肠",
+            "C.阑尾",
+            "D.盲肠",
+            "E.回肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 47
+    },
+    {
+        "question_text": "3819、具有结肠带、结肠袋和肠脂垂的肠管是",
+        "options": [
+            "A.所有肠管",
+            "B.大肠",
+            "C.小肠",
+            "D.盲肠和结肠",
+            "E.直肠和结肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 48
+    },
+    {
+        "question_text": "3820、没有结肠带的肠管是",
+        "options": [
+            "A.盲肠",
+            "B.升、降结肠",
+            "C.横结肠",
+            "D.乙状结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 49
+    },
+    {
+        "question_text": "3821、有关盲肠的叙述，何者错误",
+        "options": [
+            "A.是大肠的起始部",
+            "B.位于右髂窝内",
+            "C.以回盲瓣与升结肠及回肠为界",
+            "D.有3条结肠带",
+            "E.后外侧壁有阑尾开口"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 50
+    },
+    {
+        "question_text": "3822、关于回盲瓣的描述，错误的是",
+        "options": [
+            "A.由回肠末端突入盲肠所形成",
+            "B.有上、下两个半月形的瓣",
+            "C.环形肌增厚形成括约肌",
+            "D.可阻止小肠内容物过快流入大肠",
+            "E.可防止盲肠内容物逆流到回肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 51
+    },
+    {
+        "question_text": "3823、回盲瓣",
+        "options": [
+            "A.由回肠突入盲肠形成",
+            "B.由盲肠突入回肠形成",
+            "C.形如环行",
+            "D.上方有阑尾开口",
+            "E.定时排放食物残渣"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 52
+    },
+    {
+        "question_text": "3824、阑尾位于",
+        "options": [
+            "A.右季肋区",
+            "B.右外侧区",
+            "C.右腹股沟区",
+            "D.脐区",
+            "E.右髂区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 53
+    },
+    {
+        "question_text": "3825、阑尾开口于",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.盲肠",
+            "D.结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 54
+    },
+    {
+        "question_text": "3826、阑尾根部的体表投影位于",
+        "options": [
+            "A.右髂前上棘与脐连线的中、外l／3交点处",
+            "B.左髂前上棘与脐连线的中、外1／3交点处",
+            "C.右髂前上棘与脐连线的中、内1／3点处",
+            "D.左髂前上棘与脐连线的中、内1／3点处",
+            "E.脐与耻骨联合中、下1／3点处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 55
+    },
+    {
+        "question_text": "3827、手术时寻找阑尾的可靠方法是",
+        "options": [
+            "A.阑尾较细",
+            "B.肠脂垂",
+            "C.结肠袋",
+            "D.3条结肠带汇集处",
+            "E.回肠末端"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 56
+    },
+    {
+        "question_text": "3828、直肠",
+        "options": [
+            "A.分为盆部和会阴部",
+            "B.后面邻骶骨、尾骨",
+            "C.有凸向前的骶曲",
+            "D.有凹向前的会阴曲",
+            "E.上端平第1骶椎处与乙状结肠相续"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 57
+    },
+    {
+        "question_text": "3829、直肠",
+        "options": [
+            "A.于第1骶椎处与乙状结肠相续",
+            "B.后邻骶骨、尾骨",
+            "C.有凸向前的骶曲",
+            "D.有凹向前的会阴曲",
+            "E.腔内有一对横襞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 58
+    },
+    {
+        "question_text": "3830、直肠",
+        "options": [
+            "A.上端于小骨盆上口处接乙状结肠",
+            "B.下端穿过盆膈移行为肛管",
+            "C.前邻膀胱、后邻骶骨",
+            "D.上部凸向前称为骶曲",
+            "E.肛门外括约肌构成肛直肠环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 59
+    },
+    {
+        "question_text": "3831、男性直肠指诊时，能触及到的器官是",
+        "options": [
+            "A.阑尾",
+            "B.精索",
+            "C.输尿管",
+            "D.前列腺",
+            "E.脾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 60
+    },
+    {
+        "question_text": "3832、肛门指检时不能触到",
+        "options": [
+            "A.前列腺",
+            "B.阴道",
+            "C.卵巢",
+            "D.子宫颈",
+            "E.直肠子宫陷凹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 61
+    },
+    {
+        "question_text": "3833、区分内、外痔的标志是",
+        "options": [
+            "A.肛梳",
+            "B.痔环",
+            "C.白线",
+            "D.齿状线",
+            "E.肛直肠线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 62
+    },
+    {
+        "question_text": "3834、内痔、外痔、混合痔的分界是",
+        "options": [
+            "A.回盲瓣",
+            "B.齿状线",
+            "C.肛直肠线",
+            "D.肛梳",
+            "E.白线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 63
+    },
+    {
+        "question_text": "3835、不属于肛管的结构是",
+        "options": [
+            "A.肛柱",
+            "B.肛瓣位于肛柱下端之间",
+            "C.肛窦",
+            "D.横襞",
+            "E.肛梳"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 64
+    },
+    {
+        "question_text": "3836、肛管内面的结构",
+        "options": [
+            "A.齿状线为肛柱下端的连线",
+            "B.肛瓣位于肛柱下端之间",
+            "C.肛窦是肛管最膨大部分",
+            "D.肛柱纵贯肛管全长",
+            "E.白线是肛管粘膜与皮肤的分界线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 65
+    },
+    {
+        "question_text": "3837、肛瓣的边缘和肛柱的下端共同形成",
+        "options": [
+            "A.肛瓣线",
+            "B.肛白线",
+            "C.齿状线",
+            "D.肛窦",
+            "E.肛梳"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 66
+    },
+    {
+        "question_text": "3838、齿状线在临床上的实用意义是",
+        "options": [
+            "A.齿状线上肛管易感染引起肛周脓肿或肛瘘",
+            "B.齿状线上肛管有神经反射弧",
+            "C.齿状线上、下肛管血液供应、神经支配及淋巴引流各异",
+            "D.齿状线下是外括约肌所在部位",
+            "E.齿状线为肛门内、外括约肌的分界"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 67
+    },
+    {
+        "question_text": "3839、人体最大的消化腺是",
+        "options": [
+            "A.肝",
+            "B.胆囊",
+            "C.胰",
+            "D.腮腺",
+            "E.脾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 68
+    },
+    {
+        "question_text": "3840、肝的形态",
+        "options": [
+            "A.肝裸区与胰头相邻",
+            "B.肝的膈面由冠状韧带分为左、右两叶",
+            "C.肝的下面横沟后方是尾状叶",
+            "D.左侧纵沟前部由镰状韧带",
+            "E.右侧纵沟后部有静脉韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 69
+    },
+    {
+        "question_text": "3841、不经过肝门的结构是",
+        "options": [
+            "A.肝固有动脉左、右支",
+            "B.肝静脉",
+            "C.肝门静脉左、右支",
+            "D.肝左、右管",
+            "E.肝的神经、淋巴管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 70
+    },
+    {
+        "question_text": "3842、肝的上界在右锁骨中线相交于",
+        "options": [
+            "A.第4肋",
+            "B.第4肋间隙",
+            "C.第5肋",
+            "D.第6肋",
+            "E.第6肋间隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 71
+    },
+    {
+        "question_text": "3843、关于肝的体表投影，下列叙述哪项不正确",
+        "options": [
+            "A.在左锁骨中线内侧达第5肋间",
+            "B.右锁骨中线上达第5肋",
+            "C.肝上界与膈穹窿一致",
+            "D.在剑突下3－5cm范围内",
+            "E.2岁幼儿的肝下缘露出于右肋弓下属病理性肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 72
+    },
+    {
+        "question_text": "3844、肝门位于",
+        "options": [
+            "A.肝脏面横沟内",
+            "B.肝脏面左侧纵沟前部",
+            "C.肝脏面左侧纵沟后部",
+            "D.肝脏面右侧纵沟前部",
+            "E.肝脏面右侧纵沟后部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 73
+    },
+    {
+        "question_text": "3845、对第2肝门的描述，正确的是",
+        "options": [
+            "A.横沟内，肝门静脉注入的部位",
+            "B.横沟内，肝左、中、右静脉出肝的部位",
+            "C.腔静脉沟的上端，肝左、中、右静脉出肝的部位",
+            "D.腔静脉沟的上端，肝门静脉入肝的部位",
+            "E.腔静脉沟的上端，肝固有动脉注入肝的部位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 74
+    },
+    {
+        "question_text": "3846、肝的体表投影，下列描述哪项不正确",
+        "options": [
+            "A.肝上界与膈穹隆一致",
+            "B.右锁骨中线上达第5肋",
+            "C.在左锁骨中线稍内侧达第5肋间",
+            "D.在剑突下3一5cm范围内",
+            "E.幼儿的肝下缘露出于右肋弓下均属病理性肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 75
+    },
+    {
+        "question_text": "3847、肝外胆道系统的结构包括",
+        "options": [
+            "A.左、右肝管，胆囊和胆囊管，胆总管",
+            "B.左、右肝管，胆囊和胆囊管",
+            "C.左、右肝管，肝总管和胆囊，胆总管",
+            "D.左、右胆总管，肝总管，胆囊和胆囊管",
+            "E.左、右肝管，肝总管，胆囊和胆总管，肝脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 76
+    },
+    {
+        "question_text": "3848、肝胰壶腹开口于",
+        "options": [
+            "A.十二指肠上部",
+            "B.十二指肠下部",
+            "C.十二指肠大乳头",
+            "D.十二指肠升部",
+            "E.幽门部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 77
+    },
+    {
+        "question_text": "3849、肝外胆道不包括",
+        "options": [
+            "A.肝左管",
+            "B.肝右管",
+            "C.肝总管",
+            "D.胰管",
+            "E.胆囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 78
+    },
+    {
+        "question_text": "3850、胆总管",
+        "options": [
+            "A.由肝左、右管汇合而成",
+            "B.行于肝胃韧带内",
+            "C.位于门静脉的后方",
+            "D.位于十二指肠降部的前面",
+            "E.与胰管汇合共同开口于十二指肠大乳头"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 79
+    },
+    {
+        "question_text": "3851、胆囊",
+        "options": [
+            "A.位于肝下面，右纵沟后半的胆囊窝内",
+            "B.呈梨形，可分泌胆汁",
+            "C.胆囊底可突出肝下缘",
+            "D.参与围成胆囊三角",
+            "E.胆囊底与体分界明显"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 80
+    },
+    {
+        "question_text": "3852、胆囊",
+        "options": [
+            "A.分泌胆汁",
+            "B.肝脏面、胆囊管与胆总管围成的三角为胆囊三角",
+            "C.底的体表投影在右腹直肌外缘与肋弓交界处",
+            "D.位于肝左纵沟前部的胆囊窝内",
+            "E.胆囊管与胆总管汇合成肝总管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 81
+    },
+    {
+        "question_text": "3853、胆囊底的体表投影",
+        "options": [
+            "A.右锁骨中线与第7肋交界处",
+            "B.右侧肋弓中点",
+            "C.右腹直肌外侧缘与右肋弓相交处",
+            "D.肝的胆囊窝处",
+            "E.肝前缘胆囊切迹处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 82
+    },
+    {
+        "question_text": "3854、胆囊三角",
+        "options": [
+            "A.由胆囊管、肝总管和肝的脏面围成",
+            "B.由左、右肝管和肝的脏面围成",
+            "C.由肝右管、胆囊管和肝尾状叶围成",
+            "D.由胆总管、肝固有动脉和肝脏面围成",
+            "E.由胆总管、门静脉和方叶围成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 83
+    },
+    {
+        "question_text": "3855、对胰的下列说法，何者错误",
+        "options": [
+            "A.是人体内大消化腺之一",
+            "B.可分头、颈、体、尾三部",
+            "C.可分泌胰液及胰岛素",
+            "D.胰液及胰岛素经胰管排入十二指肠降部",
+            "E.副胰管开口于十二指肠降部"
+        ],
+        "correct_answer": "D",
+        "analysis": "胰液经胰管排入十二指肠降部，而胰岛素是直接进入血液发挥作用，而不是经胰管排入十二指肠，D 选项错误。",
+        "total_number": "370",
+        "number": 84
+    },
+    {
+        "question_text": "3856、胰头后方毗邻结构是",
+        "options": [
+            "A.右肾",
+            "B.腹腔动脉",
+            "C.十二指肠降部",
+            "D.胆总管",
+            "E.肠系膜上动、静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 85
+    },
+    {
+        "question_text": "3857、关于胰的叙述，何者错误",
+        "options": [
+            "A.右端膨大称为胰头",
+            "B.横卧于腹后壁约平第1-2腰椎",
+            "C.腹膜间位器官",
+            "D.左端为胰尾紧邻脾",
+            "E.胰体前面隔网膜囊g与胃相邻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 86
+    },
+    {
+        "question_text": "3858、胰头后方的结构不包括",
+        "options": [
+            "A.下腔静脉",
+            "B.肝门静脉",
+            "C.胆总管",
+            "D.腹主动脉",
+            "E.胃"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 87
+    },
+    {
+        "question_text": "3859、胰腺",
+        "options": [
+            "A.只有内分泌功能",
+            "B.胰颈的后方有门静脉",
+            "C.胰管和肝总管汇合开口于十二指肠乳头",
+            "D.空肠环绕胰头",
+            "E.钩突和胰头之间夹有肠系膜下动脉和静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 88
+    },
+    {
+        "question_text": "3860、胰的错误描述是",
+        "options": [
+            "A.只有外分泌功能",
+            "B.分为胰头、胰颈、胰体和胰尾",
+            "C.胰头被十二指肠包绕",
+            "D.胰管与胆总管合并，共同开口于十二直肠大乳头",
+            "E.在第1-2腰椎水平横贴于腹后壁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 89
+    },
+    {
+        "question_text": "3861、26表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 90
+    },
+    {
+        "question_text": "3862、27表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 91
+    },
+    {
+        "question_text": "3863、32表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 92
+    },
+    {
+        "question_text": "3864、83表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 93
+    },
+    {
+        "question_text": "3865、55表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 94
+    },
+    {
+        "question_text": "3866、伸舌的肌是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 95
+    },
+    {
+        "question_text": "3867、缩舌的肌是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 96
+    },
+    {
+        "question_text": "3868、降舌根的是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 97
+    },
+    {
+        "question_text": "3869、位于扁桃体窝的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 98
+    },
+    {
+        "question_text": "3870、位于鼻咽顶后壁粘膜下的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 99
+    },
+    {
+        "question_text": "3871、位于舌根部粘膜的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 100
+    },
+    {
+        "question_text": "3872、属于鼻咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 101
+    },
+    {
+        "question_text": "3873、属于口咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 102
+    },
+    {
+        "question_text": "3874、属于喉咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 103
+    },
+    {
+        "question_text": "3875、属于口腔的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 104
+    },
+    {
+        "question_text": "3876、属于胃的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 105
+    },
+    {
+        "question_text": "3877、食管的第一个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 106
+    },
+    {
+        "question_text": "3878、食管的第二个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 107
+    },
+    {
+        "question_text": "3879、食管的第三个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 108
+    },
+    {
+        "question_text": "3880、开口于十二指肠大乳头的是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 109
+    },
+    {
+        "question_text": "3881、开口于十二指肠小乳头的是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 110
+    },
+    {
+        "question_text": "3882、开口于腮腺管乳头的腺管是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 111
+    },
+    {
+        "question_text": "3883、开口于舌下襞的腺管是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 112
+    },
+    {
+        "question_text": "3884、属于鼻咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 113
+    },
+    {
+        "question_text": "3885、属于口咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 114
+    },
+    {
+        "question_text": "3886、属于喉咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 115
+    },
+    {
+        "question_text": "3887、食管第1个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 116
+    },
+    {
+        "question_text": "3888、食管第2个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 117
+    },
+    {
+        "question_text": "3889、食管第3个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 118
+    },
+    {
+        "question_text": "3890、贲门位于",
+        "options": [
+            "A.第11胸椎体左侧",
+            "B.第11胸椎体右侧",
+            "C.第1腰椎体左侧",
+            "D.第1腰椎体右侧",
+            "E.脐平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 119
+    },
+    {
+        "question_text": "3891、幽门位于",
+        "options": [
+            "A.第11胸椎体左侧",
+            "B.第11胸椎体右侧",
+            "C.第1腰椎体左侧",
+            "D.第1腰椎体右侧",
+            "E.脐平面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 120
+    },
+    {
+        "question_text": "3892、肛管内粘膜形成的纵行皱襞",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 121
+    },
+    {
+        "question_text": "3893、肛门内括约肌紧缩形成的环状带",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 122
+    },
+    {
+        "question_text": "3894、肛门内、外括约肌的分界处形成的环形浅沟",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 123
+    },
+    {
+        "question_text": "3895、肝的上界（右锁骨中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 124
+    },
+    {
+        "question_text": "3896、肝的上界（右腋中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 125
+    },
+    {
+        "question_text": "3897、肝的下界（右腋中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 126
+    },
+    {
+        "question_text": "3898、肝的上界（左锁骨中线内侧）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 127
+    },
+    {
+        "question_text": "3899、肝的下界（右锁骨中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 128
+    },
+    {
+        "question_text": "3772、上消化道是（  ）",
+        "options": [
+            "A.从口腔到食管",
+            "B.从口腔到胃",
+            "C.从口腔到十二指肠",
+            "D.口腔到空肠",
+            "E.咽峡到十二指肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 129
+    },
+    {
+        "question_text": "3773、既是上消化道又是上呼吸道的器官是",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.喉",
+            "D.气管",
+            "E.食管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 130
+    },
+    {
+        "question_text": "3774、上消化道不包括",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.食管",
+            "D.胃、十二指肠",
+            "E.空肠、回肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 131
+    },
+    {
+        "question_text": "3775、消化管最膨大的部分是",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.胃",
+            "D.盲肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 132
+    },
+    {
+        "question_text": "3776、关于口腔的叙述，错误的是",
+        "options": [
+            "A.是消化管的起始部，借口裂与外界相通",
+            "B.可分为口腔前庭和固有口腔两部",
+            "C.上壁为腭",
+            "D.侧壁为唇",
+            "E.下壁为舌及封闭口底的软组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 133
+    },
+    {
+        "question_text": "3777、下列不属于口腔内的结构是",
+        "options": [
+            "A.牙",
+            "B.舌",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.舌乳头"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 134
+    },
+    {
+        "question_text": "3778、26表示",
+        "options": [
+            "A.左上颌第2前磨牙",
+            "B.左上颌第1磨牙",
+            "C.左上颌第2磨牙",
+            "D.右上颌第1磨牙",
+            "E.右上颌第2磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 135
+    },
+    {
+        "question_text": "3779、27表示",
+        "options": [
+            "A.左上颌第2前磨牙",
+            "B.左上颌第2磨牙",
+            "C.左上颌第3磨牙",
+            "D.右上颌第2磨牙",
+            "E.右上颌第3磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 136
+    },
+    {
+        "question_text": "3780、32表示",
+        "options": [
+            "A.左下颌侧切牙",
+            "B.左下颌中切牙",
+            "C.左下颌尖牙",
+            "D.右下颌尖牙",
+            "E.右下颌侧切牙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 137
+    },
+    {
+        "question_text": "3781、83 表示",
+        "options": [
+            "A.左下颌乳侧切牙",
+            "B.左下颌乳中切牙",
+            "C.左下颌乳尖牙",
+            "D.右下颌乳尖牙",
+            "E.右下颌乳侧切牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 138
+    },
+    {
+        "question_text": "3782、54表示",
+        "options": [
+            "A.右上颌乳侧切牙",
+            "B.右上颌乳中切牙",
+            "C.右上颌乳尖牙",
+            "D.右上颌第1乳磨牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 139
+    },
+    {
+        "question_text": "3783、关于腭的叙述，错误的是",
+        "options": [
+            "A.腭是口腔的顶，分隔鼻腔与口腔",
+            "B.前2/3为硬腭，后1/3为软腭",
+            "C.软腭的后缘游离",
+            "D.粘膜形成2对皱襞",
+            "E.腭咽弓在腭舌弓之前"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 140
+    },
+    {
+        "question_text": "3784、围成咽峡的结构是",
+        "options": [
+            "A.两侧腭咽弓、腭帆后缘和舌根",
+            "B.腭垂、腭帆游离缘，两侧腭舌弓和舌根",
+            "C.腭垂、腭舌弓和腭咽弓",
+            "D.腭垂、腭舌弓、舌根",
+            "E.腭帆和舌根"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 141
+    },
+    {
+        "question_text": "3785、牙",
+        "options": [
+            "A.包括牙冠、牙颈、牙根和牙龈",
+            "B.由釉质和牙质构成",
+            "C.牙内的腔隙称牙腔，内容牙髓",
+            "D.牙周组织包括牙质、牙槽骨和牙周膜",
+            "E.磨牙萌出晚，故又称迟牙或智牙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 142
+    },
+    {
+        "question_text": "3786、关于牙的叙述，正确的是",
+        "options": [
+            "A.恒牙分侧切牙、尖牙、前磨牙和磨牙4类",
+            "B.分为牙冠、牙颈和牙根3部",
+            "C.乳牙无磨牙",
+            "D.大部分由牙骨质构成",
+            "E.　表示为右上颌第2前磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 143
+    },
+    {
+        "question_text": "3787、关于牙周组织的叙述，错误的是",
+        "options": [
+            "A.牙周组织对牙起保护、固定和支持作用",
+            "B.牙周膜位于牙根和牙颈之间",
+            "C.牙周膜是致密结缔组织",
+            "D.牙龈属于口腔粘膜",
+            "E.牙龈包被牙颈"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 144
+    },
+    {
+        "question_text": "3788、颏舌肌",
+        "options": [
+            "A.起于下颌支内面，呈扇形进入舌内",
+            "B.是舌内肌",
+            "C.两侧同时收缩，使舌缩短",
+            "D.一侧瘫痪，伸舌时则舌尖偏向痪侧",
+            "E.其肌纤维排列呈纵、横和垂直3个方向"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 145
+    },
+    {
+        "question_text": "3789、颏舌肌",
+        "options": [
+            "A.是成对的舌内肌",
+            "B.两侧收缩可拉舌向后上",
+            "C.单侧收缩，使舌尖伸向对侧",
+            "D.起于颏隆凸，止于舌两侧",
+            "E.受舌神经支配"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 146
+    },
+    {
+        "question_text": "3790、伸舌时，舌尖偏向患侧，被损伤的肌是",
+        "options": [
+            "A.颏舌肌",
+            "B.舌骨舌肌",
+            "C.茎突舌肌",
+            "D.舌纵肌",
+            "E.腭舌肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 147
+    },
+    {
+        "question_text": "3791、关于腮腺的叙述，错误的是",
+        "options": [
+            "A.腮腺上达颧弓，下至下颌角",
+            "B.前至咬肌后1/3的浅面",
+            "C.全部伸入下颌支与胸锁乳突肌之间",
+            "D.腮腺导管在颧弓下方一横指处越过咬肌浅面",
+            "E.腮腺导管穿过颊肌，开口于上颌第2磨牙平对的颊粘膜处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 148
+    },
+    {
+        "question_text": "3792、腮腺管开口于",
+        "options": [
+            "A.舌下阜",
+            "B.舌下襞",
+            "C.平对上颌第2磨牙的颊粘膜处",
+            "D.平对下颌第3磨牙的颊粘膜处",
+            "E.舌系带根部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 149
+    },
+    {
+        "question_text": "3793、咽",
+        "options": [
+            "A.是上窄下宽的肌性管道",
+            "B.向下至第6颈椎下缘续气管",
+            "C.分为鼻咽、口咽、喉咽三部",
+            "D.咽鼓管咽口位于口咽部",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 150
+    },
+    {
+        "question_text": "3794、关于咽，下列正确的是",
+        "options": [
+            "A.口咽是消化道和呼吸道的共同通道",
+            "B.上端附着颅底，下通食管和气管",
+            "C.鼻咽后壁有咽鼓管咽口",
+            "D.口咽侧壁有咽隐窝",
+            "E.喉咽下端续气管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 151
+    },
+    {
+        "question_text": "3795、咽鼓管咽口位于",
+        "options": [
+            "A.上鼻甲后端之后约1cm处",
+            "B.中鼻甲之后约1cm处",
+            "C.下鼻甲后端之后约1cm处",
+            "D.口咽的两侧壁上",
+            "E.中耳鼓室前壁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 152
+    },
+    {
+        "question_text": "3796、咽鼓管咽口位于",
+        "options": [
+            "A.鼻咽部侧壁上",
+            "B.口咽部侧壁上",
+            "C.咽峡两侧",
+            "D.鼻咽部后壁上",
+            "E.喉口两侧"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 153
+    },
+    {
+        "question_text": "3797、梨状隐窝位于",
+        "options": [
+            "A.口咽部两侧",
+            "B.喉口两侧",
+            "C.鼻咽部两侧",
+            "D.鼻咽部后壁",
+            "E.口腔内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 154
+    },
+    {
+        "question_text": "3798、食管",
+        "options": [
+            "A.上端在第6颈椎下缘处与咽相续",
+            "B.位于气管的前方",
+            "C.下端在第12胸椎处接胃",
+            "D.第2狭窄处距中切牙40cm",
+            "E.第3狭窄为食管与胃连续处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 155
+    },
+    {
+        "question_text": "3799、食管异物与食管癌易发生于",
+        "options": [
+            "A.食管穿膈处",
+            "B.食管第4-5胸椎间水平",
+            "C.右主支气管跨越处",
+            "D.距中切牙40cm处",
+            "E.食管的第一狭窄处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 156
+    },
+    {
+        "question_text": "3800、胃",
+        "options": [
+            "A.大部分位于腹上区",
+            "B.小部分位于左季肋区",
+            "C.贲门约在第11胸椎的右侧",
+            "D.幽门约在第1腰椎的右侧",
+            "E.胃前壁完全被膈与肋弓掩盖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 157
+    },
+    {
+        "question_text": "3801、胃在中等充盈时，其位置为",
+        "options": [
+            "A.大部在腹上区、小部在左季肋区",
+            "B.大部在左季肋区、小部在腹上区",
+            "C.贲门平对第10胸椎高度",
+            "D.幽门平对第12胸椎高度",
+            "E.前壁全被肝掩盖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 158
+    },
+    {
+        "question_text": "3802、与胃底相邻的器官是",
+        "options": [
+            "A.横结肠",
+            "B.肝和右肾",
+            "C.十二指肠",
+            "D.膈和脾",
+            "E.左肾和左肾上腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 159
+    },
+    {
+        "question_text": "3803、胃的错误描述是",
+        "options": [
+            "A.入口为贲门",
+            "B.幽门处有幽门瓣",
+            "C.出口为幽门",
+            "D.有两个切迹，分别是贲门切迹和角切迹",
+            "E.在幽门处纵形肌增厚，形成幽门括约肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 160
+    },
+    {
+        "question_text": "3804、胃不包括",
+        "options": [
+            "A.贲门部",
+            "B.胃底",
+            "C.胃体",
+            "D.小弯部",
+            "E.幽门部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 161
+    },
+    {
+        "question_text": "3805、十二指肠大乳头位于",
+        "options": [
+            "A.十二指肠上部",
+            "B.十二指肠降部",
+            "C.十二指肠水平部",
+            "D.十二指肠升部",
+            "E.十二指肠球部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 162
+    },
+    {
+        "question_text": "3806、关于Meckel憩室，错误的是",
+        "options": [
+            "A.出现于距回盲瓣0.4-1.0cm范围内",
+            "B.自回肠壁向外突出",
+            "C.是胚胎时卵黄蒂未完全消失形成的",
+            "D.20%的成人有Meckel憩室",
+            "E.憩室的炎症或合并穿孔，症状与阑尾相似"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 163
+    },
+    {
+        "question_text": "3807、美克尔氏憩室一般常见于",
+        "options": [
+            "A.空回肠的分界处",
+            "B.回肠末端的肠壁上",
+            "C.距回肠末端约0.4-1.0cm范围的肠壁上",
+            "D.肠管任何部位",
+            "E.肠壁薄弱处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 164
+    },
+    {
+        "question_text": "3808、关于十二指肠，何者错误",
+        "options": [
+            "A.为小肠的起始部",
+            "B.分为十二指肠球部、降部、水平部和升部4部",
+            "C.有胰管和胆总管的开口",
+            "D.降部后内侧壁上有十二指肠大乳头",
+            "E.十二指肠上部属腹膜内位器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 165
+    },
+    {
+        "question_text": "3809、胃与十二指肠在表面的标志是",
+        "options": [
+            "A.角切迹",
+            "B.中间沟",
+            "C.幽门",
+            "D.幽门前静脉",
+            "E.胃左静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 166
+    },
+    {
+        "question_text": "3810、下列对十二指肠描述中，错误的是",
+        "options": [
+            "A.分为上部、降部、水平部和升部",
+            "B.球部为溃疡的好发部位",
+            "C.降部后内侧壁上有十二指肠大乳头，为肝管开口",
+            "D.十二指肠悬肌将空肠曲固定于腹后壁",
+            "E.除始、末两端外，均为腹膜外位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 167
+    },
+    {
+        "question_text": "3811、十二指肠",
+        "options": [
+            "A.分上部、降部和升部三部分",
+            "B.上部近侧段又称球部，粘膜面光滑",
+            "C.降部沿第1－3腰椎前面下行",
+            "D.降部的外后壁上有十二指肠大乳头",
+            "E.大乳头距中切牙55cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 168
+    },
+    {
+        "question_text": "3812、十二指肠",
+        "options": [
+            "A.属于下消化道的一部分",
+            "B.在小肠中长度最长．管径最细",
+            "C.可分为降部、水平部和升部",
+            "D.有胰管和胆总管的开口",
+            "E.降部的外侧壁有十二指肠大乳头"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 169
+    },
+    {
+        "question_text": "3813、十二指肠悬肌",
+        "options": [
+            "A.起自膈肌",
+            "B.起自膈肌右脚",
+            "C.附着于十二指肠下部",
+            "D.为腹膜形成的结构",
+            "E.起固定十二指肠的作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 170
+    },
+    {
+        "question_text": "3814、十二指肠悬韧带是",
+        "options": [
+            "A.十二指肠起始部的标志",
+            "B.空肠起始部的标志",
+            "C.回肠起始部的标志",
+            "D.十二指肠降部起始的标志",
+            "E.将十二指肠下曲连于膈右脚"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 171
+    },
+    {
+        "question_text": "3815、识别空肠起始的标志是",
+        "options": [
+            "A.十二指肠大乳头",
+            "B.十二指肠空肠曲",
+            "C.十二指肠小乳头",
+            "D.十二指肠水平部",
+            "E.十二指肠悬韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 172
+    },
+    {
+        "question_text": "3816、空肠和回肠",
+        "options": [
+            "A.空肠管径较细",
+            "B.回肠管壁较厚",
+            "C.空肠血管较少",
+            "D.回肠粘膜皱襞密而高",
+            "E.空肠无集合淋巴滤泡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 173
+    },
+    {
+        "question_text": "3817、空肠和回肠",
+        "options": [
+            "A.空肠占小肠的3／5，回肠占2／5",
+            "B.空肠粘膜环状皱襞密而高，而回肠疏而低",
+            "C.空肠粘膜层中有集合淋巴滤泡",
+            "D.回肠血供比空肠丰富．颜色较红",
+            "E.空肠管径较细，管襞较薄"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 174
+    },
+    {
+        "question_text": "3818、结肠带、结肠袋、肠脂垂存在于",
+        "options": [
+            "A.肛管",
+            "B.直肠",
+            "C.阑尾",
+            "D.盲肠",
+            "E.回肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 175
+    },
+    {
+        "question_text": "3819、具有结肠带、结肠袋和肠脂垂的肠管是",
+        "options": [
+            "A.所有肠管",
+            "B.大肠",
+            "C.小肠",
+            "D.盲肠和结肠",
+            "E.直肠和结肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 176
+    },
+    {
+        "question_text": "3820、没有结肠带的肠管是",
+        "options": [
+            "A.盲肠",
+            "B.升、降结肠",
+            "C.横结肠",
+            "D.乙状结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 177
+    },
+    {
+        "question_text": "3821、有关盲肠的叙述，何者错误",
+        "options": [
+            "A.是大肠的起始部",
+            "B.位于右髂窝内",
+            "C.以回盲瓣与升结肠及回肠为界",
+            "D.有3条结肠带",
+            "E.后外侧壁有阑尾开口"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 178
+    },
+    {
+        "question_text": "3822、关于回盲瓣的描述，错误的是",
+        "options": [
+            "A.由回肠末端突入盲肠所形成",
+            "B.有上、下两个半月形的瓣",
+            "C.环形肌增厚形成括约肌",
+            "D.可阻止小肠内容物过快流入大肠",
+            "E.可防止盲肠内容物逆流到回肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 179
+    },
+    {
+        "question_text": "3823、回盲瓣",
+        "options": [
+            "A.由回肠突入盲肠形成",
+            "B.由盲肠突入回肠形成",
+            "C.形如环行",
+            "D.上方有阑尾开口",
+            "E.定时排放食物残渣"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 180
+    },
+    {
+        "question_text": "3824、阑尾位于",
+        "options": [
+            "A.右季肋区",
+            "B.右外侧区",
+            "C.右腹股沟区",
+            "D.脐区",
+            "E.右髂区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 181
+    },
+    {
+        "question_text": "3825、阑尾开口于",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.盲肠",
+            "D.结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 182
+    },
+    {
+        "question_text": "3826、阑尾根部的体表投影位于",
+        "options": [
+            "A.右髂前上棘与脐连线的中、外l／3交点处",
+            "B.左髂前上棘与脐连线的中、外1／3交点处",
+            "C.右髂前上棘与脐连线的中、内1／3点处",
+            "D.左髂前上棘与脐连线的中、内1／3点处",
+            "E.脐与耻骨联合中、下1／3点处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 183
+    },
+    {
+        "question_text": "3827、手术时寻找阑尾的可靠方法是",
+        "options": [
+            "A.阑尾较细",
+            "B.肠脂垂",
+            "C.结肠袋",
+            "D.3条结肠带汇集处",
+            "E.回肠末端"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 184
+    },
+    {
+        "question_text": "3828、直肠",
+        "options": [
+            "A.分为盆部和会阴部",
+            "B.后面邻骶骨、尾骨",
+            "C.有凸向前的骶曲",
+            "D.有凹向前的会阴曲",
+            "E.上端平第1骶椎处与乙状结肠相续"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 185
+    },
+    {
+        "question_text": "3829、直肠",
+        "options": [
+            "A.于第1骶椎处与乙状结肠相续",
+            "B.后邻骶骨、尾骨",
+            "C.有凸向前的骶曲",
+            "D.有凹向前的会阴曲",
+            "E.腔内有一对横襞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 186
+    },
+    {
+        "question_text": "3830、直肠",
+        "options": [
+            "A.上端于小骨盆上口处接乙状结肠",
+            "B.下端穿过盆膈移行为肛管",
+            "C.前邻膀胱、后邻骶骨",
+            "D.上部凸向前称为骶曲",
+            "E.肛门外括约肌构成肛直肠环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 187
+    },
+    {
+        "question_text": "3831、男性直肠指诊时，能触及到的器官是",
+        "options": [
+            "A.阑尾",
+            "B.精索",
+            "C.输尿管",
+            "D.前列腺",
+            "E.脾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 188
+    },
+    {
+        "question_text": "3832、肛门指检时不能触到",
+        "options": [
+            "A.前列腺",
+            "B.阴道",
+            "C.卵巢",
+            "D.子宫颈",
+            "E.直肠子宫陷凹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 189
+    },
+    {
+        "question_text": "3833、区分内、外痔的标志是",
+        "options": [
+            "A.肛梳",
+            "B.痔环",
+            "C.白线",
+            "D.齿状线",
+            "E.肛直肠线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 190
+    },
+    {
+        "question_text": "3834、内痔、外痔、混合痔的分界是",
+        "options": [
+            "A.回盲瓣",
+            "B.齿状线",
+            "C.肛直肠线",
+            "D.肛梳",
+            "E.白线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 191
+    },
+    {
+        "question_text": "3835、不属于肛管的结构是",
+        "options": [
+            "A.肛柱",
+            "B.肛瓣位于肛柱下端之间",
+            "C.肛窦",
+            "D.横襞",
+            "E.肛梳"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 192
+    },
+    {
+        "question_text": "3836、肛管内面的结构",
+        "options": [
+            "A.齿状线为肛柱下端的连线",
+            "B.肛瓣位于肛柱下端之间",
+            "C.肛窦是肛管最膨大部分",
+            "D.肛柱纵贯肛管全长",
+            "E.白线是肛管粘膜与皮肤的分界线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 193
+    },
+    {
+        "question_text": "3837、肛瓣的边缘和肛柱的下端共同形成",
+        "options": [
+            "A.肛瓣线",
+            "B.肛白线",
+            "C.齿状线",
+            "D.肛窦",
+            "E.肛梳"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 194
+    },
+    {
+        "question_text": "3838、齿状线在临床上的实用意义是",
+        "options": [
+            "A.齿状线上肛管易感染引起肛周脓肿或肛瘘",
+            "B.齿状线上肛管有神经反射弧",
+            "C.齿状线上、下肛管血液供应、神经支配及淋巴引流各异",
+            "D.齿状线下是外括约肌所在部位",
+            "E.齿状线为肛门内、外括约肌的分界"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 195
+    },
+    {
+        "question_text": "3839、人体最大的消化腺是",
+        "options": [
+            "A.肝",
+            "B.胆囊",
+            "C.胰",
+            "D.腮腺",
+            "E.脾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 196
+    },
+    {
+        "question_text": "3840、肝的形态",
+        "options": [
+            "A.肝裸区与胰头相邻",
+            "B.肝的膈面由冠状韧带分为左、右两叶",
+            "C.肝的下面横沟后方是尾状叶",
+            "D.左侧纵沟前部由镰状韧带",
+            "E.右侧纵沟后部有静脉韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 197
+    },
+    {
+        "question_text": "3841、不经过肝门的结构是",
+        "options": [
+            "A.肝固有动脉左、右支",
+            "B.肝静脉",
+            "C.肝门静脉左、右支",
+            "D.肝左、右管",
+            "E.肝的神经、淋巴管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 198
+    },
+    {
+        "question_text": "3842、肝的上界在右锁骨中线相交于",
+        "options": [
+            "A.第4肋",
+            "B.第4肋间隙",
+            "C.第5肋",
+            "D.第6肋",
+            "E.第6肋间隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 199
+    },
+    {
+        "question_text": "3843、关于肝的体表投影，下列叙述哪项不正确",
+        "options": [
+            "A.在左锁骨中线内侧达第5肋间",
+            "B.右锁骨中线上达第5肋",
+            "C.肝上界与膈穹窿一致",
+            "D.在剑突下3－5cm范围内",
+            "E.2岁幼儿的肝下缘露出于右肋弓下属病理性肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 200
+    },
+    {
+        "question_text": "3844、肝门位于",
+        "options": [
+            "A.肝脏面横沟内",
+            "B.肝脏面左侧纵沟前部",
+            "C.肝脏面左侧纵沟后部",
+            "D.肝脏面右侧纵沟前部",
+            "E.肝脏面右侧纵沟后部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 201
+    },
+    {
+        "question_text": "3845、对第2肝门的描述，正确的是",
+        "options": [
+            "A.横沟内，肝门静脉注入的部位",
+            "B.横沟内，肝左、中、右静脉出肝的部位",
+            "C.腔静脉沟的上端，肝左、中、右静脉出肝的部位",
+            "D.腔静脉沟的上端，肝门静脉入肝的部位",
+            "E.腔静脉沟的上端，肝固有动脉注入肝的部位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 202
+    },
+    {
+        "question_text": "3846、肝的体表投影，下列描述哪项不正确",
+        "options": [
+            "A.肝上界与膈穹隆一致",
+            "B.右锁骨中线上达第5肋",
+            "C.在左锁骨中线稍内侧达第5肋间",
+            "D.在剑突下3一5cm范围内",
+            "E.幼儿的肝下缘露出于右肋弓下均属病理性肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 203
+    },
+    {
+        "question_text": "3847、肝外胆道系统的结构包括",
+        "options": [
+            "A.左、右肝管，胆囊和胆囊管，胆总管",
+            "B.左、右肝管，胆囊和胆囊管",
+            "C.左、右肝管，肝总管和胆囊，胆总管",
+            "D.左、右胆总管，肝总管，胆囊和胆囊管",
+            "E.左、右肝管，肝总管，胆囊和胆总管，肝脏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 204
+    },
+    {
+        "question_text": "3848、肝胰壶腹开口于",
+        "options": [
+            "A.十二指肠上部",
+            "B.十二指肠下部",
+            "C.十二指肠大乳头",
+            "D.十二指肠升部",
+            "E.幽门部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 205
+    },
+    {
+        "question_text": "3849、肝外胆道不包括",
+        "options": [
+            "A.肝左管",
+            "B.肝右管",
+            "C.肝总管",
+            "D.胰管",
+            "E.胆囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 206
+    },
+    {
+        "question_text": "3850、胆总管",
+        "options": [
+            "A.由肝左、右管汇合而成",
+            "B.行于肝胃韧带内",
+            "C.位于门静脉的后方",
+            "D.位于十二指肠降部的前面",
+            "E.与胰管汇合共同开口于十二指肠大乳头"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 207
+    },
+    {
+        "question_text": "3851、胆囊",
+        "options": [
+            "A.位于肝下面，右纵沟后半的胆囊窝内",
+            "B.呈梨形，可分泌胆汁",
+            "C.胆囊底可突出肝下缘",
+            "D.参与围成胆囊三角",
+            "E.胆囊底与体分界明显"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 208
+    },
+    {
+        "question_text": "3852、胆囊",
+        "options": [
+            "A.分泌胆汁",
+            "B.肝脏面、胆囊管与胆总管围成的三角为胆囊三角",
+            "C.底的体表投影在右腹直肌外缘与肋弓交界处",
+            "D.位于肝左纵沟前部的胆囊窝内",
+            "E.胆囊管与胆总管汇合成肝总管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 209
+    },
+    {
+        "question_text": "3853、胆囊底的体表投影",
+        "options": [
+            "A.右锁骨中线与第7肋交界处",
+            "B.右侧肋弓中点",
+            "C.右腹直肌外侧缘与右肋弓相交处",
+            "D.肝的胆囊窝处",
+            "E.肝前缘胆囊切迹处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 210
+    },
+    {
+        "question_text": "3854、胆囊三角",
+        "options": [
+            "A.由胆囊管、肝总管和肝的脏面围成",
+            "B.由左、右肝管和肝的脏面围成",
+            "C.由肝右管、胆囊管和肝尾状叶围成",
+            "D.由胆总管、肝固有动脉和肝脏面围成",
+            "E.由胆总管、门静脉和方叶围成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 211
+    },
+    {
+        "question_text": "3855、对胰的下列说法，何者错误",
+        "options": [
+            "A.是人体内大消化腺之一",
+            "B.可分头、颈、体、尾三部",
+            "C.可分泌胰液及胰岛素",
+            "D.胰液及胰岛素经胰管排入十二指肠降部",
+            "E.副胰管开口于十二指肠降部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 212
+    },
+    {
+        "question_text": "3856、胰头后方毗邻结构是",
+        "options": [
+            "A.右肾",
+            "B.腹腔动脉",
+            "C.十二指肠降部",
+            "D.胆总管",
+            "E.肠系膜上动、静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 213
+    },
+    {
+        "question_text": "3857、关于胰的叙述，何者错误",
+        "options": [
+            "A.右端膨大称为胰头",
+            "B.横卧于腹后壁约平第1-2腰椎",
+            "C.腹膜间位器官",
+            "D.左端为胰尾紧邻脾",
+            "E.胰体前面隔网膜囊g与胃相邻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 214
+    },
+    {
+        "question_text": "3858、胰头后方的结构不包括",
+        "options": [
+            "A.下腔静脉",
+            "B.肝门静脉",
+            "C.胆总管",
+            "D.腹主动脉",
+            "E.胃"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 215
+    },
+    {
+        "question_text": "3859、胰腺",
+        "options": [
+            "A.只有内分泌功能",
+            "B.胰颈的后方有门静脉",
+            "C.胰管和肝总管汇合开口于十二指肠乳头",
+            "D.空肠环绕胰头",
+            "E.钩突和胰头之间夹有肠系膜下动脉和静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 216
+    },
+    {
+        "question_text": "3860、胰的错误描述是",
+        "options": [
+            "A.只有外分泌功能",
+            "B.分为胰头、胰颈、胰体和胰尾",
+            "C.胰头被十二指肠包绕",
+            "D.胰管与胆总管合并，共同开口于十二直肠大乳头",
+            "E.在第1-2腰椎水平横贴于腹后壁"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 217
+    },
+    {
+        "question_text": "3861、26表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 218
+    },
+    {
+        "question_text": "3862、27表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 219
+    },
+    {
+        "question_text": "3863、32表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 220
+    },
+    {
+        "question_text": "3864、83表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 221
+    },
+    {
+        "question_text": "3865、55表示",
+        "options": [
+            "A.左上颌第1磨牙",
+            "B.左上颌第2磨牙",
+            "C.右下颌侧切牙",
+            "D.右下颌乳尖牙",
+            "E.右上颌第2乳磨牙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 222
+    },
+    {
+        "question_text": "3866、伸舌的肌是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 223
+    },
+    {
+        "question_text": "3867、缩舌的肌是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 224
+    },
+    {
+        "question_text": "3868、降舌根的是",
+        "options": [
+            "A.茎突舌肌",
+            "B.颏舌肌",
+            "C.舌骨舌肌",
+            "D.下颌舌骨肌",
+            "E.舌内肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 225
+    },
+    {
+        "question_text": "3869、位于扁桃体窝的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 226
+    },
+    {
+        "question_text": "3870、位于鼻咽顶后壁粘膜下的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 227
+    },
+    {
+        "question_text": "3871、位于舌根部粘膜的是",
+        "options": [
+            "A.舌扁桃体",
+            "B.腭扁桃体",
+            "C.咽鼓管扁桃体",
+            "D.咽扁桃体",
+            "E.咽侧索"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 228
+    },
+    {
+        "question_text": "3872、属于鼻咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 229
+    },
+    {
+        "question_text": "3873、属于口咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 230
+    },
+    {
+        "question_text": "3874、属于喉咽部的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 231
+    },
+    {
+        "question_text": "3875、属于口腔的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 232
+    },
+    {
+        "question_text": "3876、属于胃的结构是",
+        "options": [
+            "A.咽鼓管圆枕",
+            "B.梨状隐窝",
+            "C.腭扁桃体",
+            "D.舌扁桃体",
+            "E.角切迹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 233
+    },
+    {
+        "question_text": "3877、食管的第一个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 234
+    },
+    {
+        "question_text": "3878、食管的第二个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 235
+    },
+    {
+        "question_text": "3879、食管的第三个狭窄位于",
+        "options": [
+            "A.咽与食管相续处",
+            "B.与左主支气管交叉处",
+            "C.穿膈的食管裂孔处",
+            "D.第三颈椎下缘",
+            "E.第二胸椎下缘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 236
+    },
+    {
+        "question_text": "3880、开口于十二指肠大乳头的是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 237
+    },
+    {
+        "question_text": "3881、开口于十二指肠小乳头的是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 238
+    },
+    {
+        "question_text": "3882、开口于腮腺管乳头的腺管是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 239
+    },
+    {
+        "question_text": "3883、开口于舌下襞的腺管是",
+        "options": [
+            "A.腮腺管",
+            "B.胆总管和胰管",
+            "C.副胰管",
+            "D.舌下腺小管",
+            "E.舌下腺大管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 240
+    },
+    {
+        "question_text": "3884、属于鼻咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 241
+    },
+    {
+        "question_text": "3885、属于口咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 242
+    },
+    {
+        "question_text": "3886、属于喉咽部的结构是",
+        "options": [
+            "A.梨状隐窝",
+            "B.中鼻甲",
+            "C.会厌谷",
+            "D.腭舌弓",
+            "E.咽鼓管咽口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 243
+    },
+    {
+        "question_text": "3887、食管第1个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 244
+    },
+    {
+        "question_text": "3888、食管第2个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 245
+    },
+    {
+        "question_text": "3889、食管第3个狭窄距离中切牙",
+        "options": [
+            "A.15CM",
+            "B.25CM",
+            "C.30CM",
+            "D.40CM",
+            "E.50CM"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 246
+    },
+    {
+        "question_text": "3890、贲门位于",
+        "options": [
+            "A.第11胸椎体左侧",
+            "B.第11胸椎体右侧",
+            "C.第1腰椎体左侧",
+            "D.第1腰椎体右侧",
+            "E.脐平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 247
+    },
+    {
+        "question_text": "3891、幽门位于",
+        "options": [
+            "A.第11胸椎体左侧",
+            "B.第11胸椎体右侧",
+            "C.第1腰椎体左侧",
+            "D.第1腰椎体右侧",
+            "E.脐平面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 248
+    },
+    {
+        "question_text": "3892、肛管内粘膜形成的纵行皱襞",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 249
+    },
+    {
+        "question_text": "3893、肛门内括约肌紧缩形成的环状带",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 250
+    },
+    {
+        "question_text": "3894、肛门内、外括约肌的分界处形成的环形浅沟",
+        "options": [
+            "A.齿状线",
+            "B.肛柱",
+            "C.肛瓣",
+            "D.肛梳",
+            "E.肛白线"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 251
+    },
+    {
+        "question_text": "3895、肝的上界（右锁骨中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 252
+    },
+    {
+        "question_text": "3896、肝的上界（右腋中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 253
+    },
+    {
+        "question_text": "3897、肝的下界（右腋中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 254
+    },
+    {
+        "question_text": "3898、肝的上界（左锁骨中线内侧）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 255
+    },
+    {
+        "question_text": "3899、肝的下界（右锁骨中线）",
+        "options": [
+            "A.第10肋",
+            "B.第7肋",
+            "C.第5肋",
+            "D.第5肋间",
+            "E.肋弓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 256
+    },
+    {
+        "question_text": "3900、The isthmus of fauces is bounded by which of the following structures?",
+        "options": [
+            "A.uvula（腭垂）",
+            "B.free border of the velum palatinum (腭帆)",
+            "C.palatoglossal arches （腭舌弓）",
+            "D.palatopharyngeal arches （腭咽弓）",
+            "E.root of the tongue"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 257
+    },
+    {
+        "question_text": "3901、上消化道包括",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.喉",
+            "D.胃",
+            "E.十二指肠"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 258
+    },
+    {
+        "question_text": "3902、下消化道包括",
+        "options": [
+            "A.十二指肠",
+            "B.阑尾",
+            "C.盲肠",
+            "D.直肠",
+            "E.肛管"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 259
+    },
+    {
+        "question_text": "3903、大唾液腺包括",
+        "options": [
+            "A.腮腺",
+            "B.舌下腺",
+            "C.下颌下腺",
+            "D.腭扁桃体",
+            "E.胸腺"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 260
+    },
+    {
+        "question_text": "3904、咽峡由下述哪些结构共同围成",
+        "options": [
+            "A.腭垂",
+            "B.腭帆后缘",
+            "C.腭舌弓",
+            "D.腭咽弓",
+            "E.舌根"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 261
+    },
+    {
+        "question_text": "3905、牙周组织包括",
+        "options": [
+            "A.牙髓",
+            "B.牙髓腔",
+            "C.牙周膜",
+            "D.牙槽骨",
+            "E.牙龈"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 262
+    },
+    {
+        "question_text": "3906、牙组织包括",
+        "options": [
+            "A.牙周膜",
+            "B.牙质",
+            "C.釉质",
+            "D.牙龈",
+            "E.牙骨质"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 263
+    },
+    {
+        "question_text": "3907、颏舌肌",
+        "options": [
+            "A.起自下颌骨后面的颏棘",
+            "B.向上止于舌根",
+            "C.两侧颏舌肌同时收缩，拉舌向前下方",
+            "D.单侧收缩，使舌伸向对侧",
+            "E.损伤后伸舌时偏向健侧"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 264
+    },
+    {
+        "question_text": "3908、开口于舌下阜的是",
+        "options": [
+            "A.下颌下腺导管",
+            "B.腮腺导管",
+            "C.副腮腺导管",
+            "D.舌下腺大管",
+            "E.舌下腺小管"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 265
+    },
+    {
+        "question_text": "3909、下列中含有味蕾的有",
+        "options": [
+            "A.丝状乳头",
+            "B.菌状乳头",
+            "C.叶状乳头",
+            "D.轮廓乳头",
+            "E.腮腺管乳头"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 266
+    },
+    {
+        "question_text": "3910、位于鼻咽侧壁的结构是",
+        "options": [
+            "A.腭扁桃体",
+            "B.咽隐窝",
+            "C.咽鼓管咽口",
+            "D.咽鼓管圆枕",
+            "E.梨状隐窝"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 267
+    },
+    {
+        "question_text": "3911、扁桃体",
+        "options": [
+            "A.咽扁桃体位于咽后上壁",
+            "B.腭扁桃体位于腭扁桃体窝内",
+            "C.舌扁桃体位于舌根背面粘膜内",
+            "D.咽鼓管扁桃体位于咽鼓管咽口的附近",
+            "E.对消化道和呼吸道有防御作用"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 268
+    },
+    {
+        "question_text": "3912、咽",
+        "options": [
+            "A.是上宽下窄的肌性管道",
+            "B.位于上6颈椎的前方",
+            "C.分为鼻咽、口咽、喉咽三部",
+            "D.是消化、呼吸共用通道",
+            "E.在第6颈椎下缘续气管"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 269
+    },
+    {
+        "question_text": "3913、咽的交通和邻接正确的是",
+        "options": [
+            "A.鼻咽经鼻后孔通鼻腔",
+            "B.鼻咽上接颅底",
+            "C.鼻咽经咽鼓管通中耳鼓室",
+            "D.口咽向前经咽峡通口腔",
+            "E.喉咽经喉口通喉"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 270
+    },
+    {
+        "question_text": "3914、鼻咽部的结构是",
+        "options": [
+            "A.咽鼓管咽口",
+            "B.咽隐窝",
+            "C.咽鼓管圆枕",
+            "D.腭扁桃体",
+            "E.会厌谷"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 271
+    },
+    {
+        "question_text": "3915、口咽部的结构是",
+        "options": [
+            "A.腭扁桃体",
+            "B.咽扁桃体",
+            "C.梨状隐窝",
+            "D.舌会厌正中襞",
+            "E.会厌谷"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 272
+    },
+    {
+        "question_text": "3916、异物易停留于",
+        "options": [
+            "A.会厌谷",
+            "B.咽峡",
+            "C.梨状隐窝",
+            "D.喉口",
+            "E.咽隐窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 273
+    },
+    {
+        "question_text": "3917、与咽交通的是",
+        "options": [
+            "A.鼻腔",
+            "B.口腔",
+            "C.喉腔",
+            "D.鼓室",
+            "E.食管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 274
+    },
+    {
+        "question_text": "3918、胃可分为",
+        "options": [
+            "A.贲门部",
+            "B.幽门部",
+            "C.胃底",
+            "D.胃体",
+            "E.上部"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 275
+    },
+    {
+        "question_text": "3919、幽门部可分为",
+        "options": [
+            "A.幽门窦",
+            "B.幽门管",
+            "C.上部",
+            "D.降部",
+            "E.水平部"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 276
+    },
+    {
+        "question_text": "3920、十二指肠可分为",
+        "options": [
+            "A.上部",
+            "B.降部",
+            "C.水平部",
+            "D.升部",
+            "E.球部"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 277
+    },
+    {
+        "question_text": "3921、十二指肠",
+        "options": [
+            "A.位于腹后壁",
+            "B.约呈“C”形包绕胰头",
+            "C.球部是溃疡的好发部位",
+            "D.降部后内壁上有十二指肠大乳头",
+            "E.全长约25cm"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 278
+    },
+    {
+        "question_text": "3922、十二指肠",
+        "options": [
+            "A.水平部前方有肠系膜血管下行",
+            "B.降部后内侧壁上有十二指肠大乳状",
+            "C.十二指肠小乳状是副胰管开口处",
+            "D.十二指肠悬肌是确定十二指肠和空肠的标志",
+            "E.上部在胆囊颈后下方弯曲形成十二指肠上曲"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 279
+    },
+    {
+        "question_text": "3923、空肠和回肠相比",
+        "options": [
+            "A.管径较粗",
+            "B.管壁较厚",
+            "C.血管较多",
+            "D.长度较长",
+            "E.环状襞高而密"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 280
+    },
+    {
+        "question_text": "3924、下列肠管属于小肠的是",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.阑尾",
+            "D.十二指肠",
+            "E.盲肠"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 281
+    },
+    {
+        "question_text": "3925、回肠的特点",
+        "options": [
+            "A.管径较细",
+            "B.管壁较薄",
+            "C.血管丰富",
+            "D.绒毛密集",
+            "E.集合淋巴滤泡较多"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 282
+    },
+    {
+        "question_text": "3926、大肠包括",
+        "options": [
+            "A.盲肠",
+            "B.阑尾",
+            "C.结肠",
+            "D.直肠",
+            "E.肛管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 283
+    },
+    {
+        "question_text": "3927、具有结肠带、结肠袋和肠脂垂的是",
+        "options": [
+            "A.阑尾",
+            "B.盲肠",
+            "C.横结肠",
+            "D.乙状结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 284
+    },
+    {
+        "question_text": "3928、无肠脂垂的肠管是",
+        "options": [
+            "A.盲肠",
+            "B.直肠",
+            "C.阑尾",
+            "D.回肠",
+            "E.结肠"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 285
+    },
+    {
+        "question_text": "3929、阑尾的常见位置是",
+        "options": [
+            "A.盲肠前位",
+            "B.盆位（回肠下位）",
+            "C.盲肠后位",
+            "D.回肠后位",
+            "E.回肠前位"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 286
+    },
+    {
+        "question_text": "3930、直肠",
+        "options": [
+            "A.于第3骶椎前面与降结肠相续",
+            "B.穿过盆膈，终止于肛门",
+            "C.下部膨大称为直肠壶腹",
+            "D.在冠状面上形成2个弯曲",
+            "E.在男性，前邻前列腺和精囊"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 287
+    },
+    {
+        "question_text": "3931、属于肛管内的结构是",
+        "options": [
+            "A.肛柱",
+            "B.肛窦",
+            "C.肛梳",
+            "D.肛瓣",
+            "E.齿状线"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 288
+    },
+    {
+        "question_text": "3932、肛门括约肌",
+        "options": [
+            "A.为围绕肛管周围的肌",
+            "B.分为肛门内和外括约肌",
+            "C.内括约肌为平滑肌，对控制排便作用不大",
+            "D.外括约肌分为皮下部、浅部和深部",
+            "E.切断皮下部，不会产生大便失禁"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 289
+    },
+    {
+        "question_text": "3933、下列属于肛直肠环的结构是",
+        "options": [
+            "A.肛门内括约肌",
+            "B.肛门外括约肌皮下部",
+            "C.肛门外括约肌浅部",
+            "D.肛门外括约肌深部",
+            "E.肛提肌"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 290
+    },
+    {
+        "question_text": "3934、齿状线",
+        "options": [
+            "A.由肛柱下端与肛瓣基部连成",
+            "B.位于肛门上方约1-1.5cm",
+            "C.为肛门内、外括约肌分界处",
+            "D.此线上方受内脏神经支配",
+            "E.下方的上皮为复层扁平上皮"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 291
+    },
+    {
+        "question_text": "3935、齿状线以下的结构有",
+        "options": [
+            "A.肛柱",
+            "B.肛梳",
+            "C.肛白线",
+            "D.肛门外括约肌",
+            "E.肛窦"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 292
+    },
+    {
+        "question_text": "3936、Which structures pass through the porta hepatis?",
+        "options": [
+            "A.portal vein",
+            "B.hepatic artery",
+            "C.hepatic vein",
+            "D.hepatic duct",
+            "E.inferior vena cava"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 293
+    },
+    {
+        "question_text": "3937、About the liver, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the largest gland in the body.",
+            "B.Its main function is to secrete the bile (胆汁) to promote the digestion and absorption of fat.",
+            "C.Its large portion lies in the right hypochondriac region (右季肋区)and epigastric region (腹上部).",
+            "D.The visceral surface can be divided into right lobe, left lobe, quadrate lobe (方叶) and caudate lob",
+            "E.The structures The diaphragmatic surface has \"H\" groove."
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 294
+    },
+    {
+        "question_text": "3938、About the gallbladder, which of the following descriptions are correct?",
+        "options": [
+            "A.It produces the bile to promote the digestion and absorption of fat..",
+            "B.It located in the fossa for gallbladder (胆囊窝) of the liver.",
+            "C.It can be divided into three parts: fundus of gallbladder (胆囊底), body of gallbladder and cystic d",
+            "D.The surface marking of the fundus of gallbladder lies at the point where the right midclavicular lin",
+            "E.The cystic duct and the common hepatic duct (肝总管) join together to form the common bile duct ."
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 295
+    },
+    {
+        "question_text": "3939、Which of the following organs belong to the parts of the extrahepatic bile duct?",
+        "options": [
+            "A.gallbladder",
+            "B.left and right hepatic ducts",
+            "C.common hepatic duct",
+            "D.common bile duct",
+            "E.pancreas"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 296
+    },
+    {
+        "question_text": "3940、About the pancreas, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the largest gland in the body.",
+            "B.It can be divided into 4 parts: head of pancreas, neck of pancreas, body of pancreas and tail of pan",
+            "C.The head of pancreas lies in the C-curve of the duodenum.",
+            "D.The tail of the pancreas is narrow, and usually lies in contact with the hilum of spleen (脾门).",
+            "E.The pancreatic duct and the common bile duct join together to form the hepatopancreatic ampulla (肝"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 297
+    },
+    {
+        "question_text": "3941、属于消化腺的是",
+        "options": [
+            "A.肝",
+            "B.胰",
+            "C.脾",
+            "D.甲状腺",
+            "E.腮腺"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 298
+    },
+    {
+        "question_text": "3942、肝",
+        "options": [
+            "A.位于右季肋区，小部分延至腹上区",
+            "B.上界与膈穹窿一致",
+            "C.腹上区剑突下触不到",
+            "D.下界与肝前缘一致，成人不超出右肋弓",
+            "E.上界在右侧平锁骨中线第4肋"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 299
+    },
+    {
+        "question_text": "3943、肝",
+        "options": [
+            "A.人体最大的消化腺",
+            "B.完全被腹膜覆盖",
+            "C.有分泌胆汁的功能",
+            "D.上面借冠状韧带分为左、右两叶",
+            "E.除接受肝固有动脉外，还接受门静脉的血供"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 300
+    },
+    {
+        "question_text": "3944、与肝相邻的结构是",
+        "options": [
+            "A.结肠左曲",
+            "B.十二指肠上部",
+            "C.右肾上腺",
+            "D.右肾",
+            "E.胃前壁"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 301
+    },
+    {
+        "question_text": "3945、进出肝门的结构是",
+        "options": [
+            "A.肝固有动脉左、右支",
+            "B.肝门静脉左、右支",
+            "C.胆总管",
+            "D.左、右肝管",
+            "E.肝左、右静脉"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 302
+    },
+    {
+        "question_text": "3946、Glisson系统由Glisson囊包裹下列哪些结构组成？",
+        "options": [
+            "A.肝静脉的属支",
+            "B.肝门静脉的分支",
+            "C.中央静脉",
+            "D.肝固有动脉的分支",
+            "E.肝内胆管"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 303
+    },
+    {
+        "question_text": "3947、出入肝门的结构是",
+        "options": [
+            "A.肝门静脉左、右支",
+            "B.肝静脉左、右支",
+            "C.肝左、右管",
+            "D.肝固有动脉左、右支",
+            "E.神经、淋巴管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 304
+    },
+    {
+        "question_text": "3948、肝下面相邻的结构是",
+        "options": [
+            "A.结肠右曲",
+            "B.十二指肠上曲",
+            "C.胃",
+            "D.右肾和右肾上腺",
+            "E.脾"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 305
+    },
+    {
+        "question_text": "3949、属于消化腺的是",
+        "options": [
+            "A.舌下腺",
+            "B.腮腺",
+            "C.泪腺",
+            "D.肝脏",
+            "E.肾上腺"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 306
+    },
+    {
+        "question_text": "3950、胰的描述正确的有",
+        "options": [
+            "A.胰分为胰头、胰颈、胰体和胰尾",
+            "B.胰头被十二指肠包绕",
+            "C.胰颈后方有门静脉经过",
+            "D.胰尾伸向脾门",
+            "E.胰管和胆总管汇合，膨大形成肝胰壶腹"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 307
+    },
+    {
+        "question_text": "3951、肝外胆道包括",
+        "options": [
+            "A.肝左管",
+            "B.肝右管",
+            "C.肝总管",
+            "D.胰管",
+            "E.胆囊"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 308
+    },
+    {
+        "question_text": "3952、胆囊",
+        "options": [
+            "A.位于肝下面右纵沟前部的胆囊窝内",
+            "B.是腹膜内位器官",
+            "C.分为底、体、颈、管四部",
+            "D.能贮存并浓缩胆汁",
+            "E.胆囊管和肝总管汇合成胆总管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 309
+    },
+    {
+        "question_text": "3953、肝外胆道包括",
+        "options": [
+            "A.胆囊三角",
+            "B.肝左、右管",
+            "C.肝总管",
+            "D.胆总管",
+            "E.胰管"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 310
+    },
+    {
+        "question_text": "3954、进食后，尤其是高脂肪食物后",
+        "options": [
+            "A.胆囊收缩",
+            "B.胆囊舒张",
+            "C.肝胰壶腹括约肌舒张",
+            "D.肝胰壶腹括约肌收缩",
+            "E.胆汁排入十二指肠"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 311
+    },
+    {
+        "question_text": "3955、胰",
+        "options": [
+            "A.是人体内的大消化腺",
+            "B.胰头被十二指肠包绕",
+            "C.胰体横卧于腹后壁，平第1－2腰椎",
+            "D.胰尾抵达左肾门",
+            "E.副胰管开口于十二指肠小乳头"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 312
+    },
+    {
+        "question_text": "3956、胰头",
+        "options": [
+            "A.肿瘤可引起肝门静脉高压症",
+            "B.肿瘤可引起阻塞性黄疸",
+            "C.前方有肠系膜上血管",
+            "D.后方有胆总管",
+            "E.上方有胃幽门"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 313
+    },
+    {
+        "question_text": "3900、The isthmus of fauces is bounded by which of the following structures?",
+        "options": [
+            "A.uvula（腭垂）",
+            "B.free border of the velum palatinum (腭帆)",
+            "C.palatoglossal arches （腭舌弓）",
+            "D.palatopharyngeal arches （腭咽弓）",
+            "E.root of the tongue"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 314
+    },
+    {
+        "question_text": "3901、上消化道包括",
+        "options": [
+            "A.口腔",
+            "B.咽",
+            "C.喉",
+            "D.胃",
+            "E.十二指肠"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 315
+    },
+    {
+        "question_text": "3902、下消化道包括",
+        "options": [
+            "A.十二指肠",
+            "B.阑尾",
+            "C.盲肠",
+            "D.直肠",
+            "E.肛管"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 316
+    },
+    {
+        "question_text": "3903、大唾液腺包括",
+        "options": [
+            "A.腮腺",
+            "B.舌下腺",
+            "C.下颌下腺",
+            "D.腭扁桃体",
+            "E.胸腺"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 317
+    },
+    {
+        "question_text": "3904、咽峡由下述哪些结构共同围成",
+        "options": [
+            "A.腭垂",
+            "B.腭帆后缘",
+            "C.腭舌弓",
+            "D.腭咽弓",
+            "E.舌根"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 318
+    },
+    {
+        "question_text": "3905、牙周组织包括",
+        "options": [
+            "A.牙髓",
+            "B.牙髓腔",
+            "C.牙周膜",
+            "D.牙槽骨",
+            "E.牙龈"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 319
+    },
+    {
+        "question_text": "3906、牙组织包括",
+        "options": [
+            "A.牙周膜",
+            "B.牙质",
+            "C.釉质",
+            "D.牙龈",
+            "E.牙骨质"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 320
+    },
+    {
+        "question_text": "3907、颏舌肌",
+        "options": [
+            "A.起自下颌骨后面的颏棘",
+            "B.向上止于舌根",
+            "C.两侧颏舌肌同时收缩，拉舌向前下方",
+            "D.单侧收缩，使舌伸向对侧",
+            "E.损伤后伸舌时偏向健侧"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 321
+    },
+    {
+        "question_text": "3908、开口于舌下阜的是",
+        "options": [
+            "A.下颌下腺导管",
+            "B.腮腺导管",
+            "C.副腮腺导管",
+            "D.舌下腺大管",
+            "E.舌下腺小管"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 322
+    },
+    {
+        "question_text": "3909、下列中含有味蕾的有",
+        "options": [
+            "A.丝状乳头",
+            "B.菌状乳头",
+            "C.叶状乳头",
+            "D.轮廓乳头",
+            "E.腮腺管乳头"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 323
+    },
+    {
+        "question_text": "3910、位于鼻咽侧壁的结构是",
+        "options": [
+            "A.腭扁桃体",
+            "B.咽隐窝",
+            "C.咽鼓管咽口",
+            "D.咽鼓管圆枕",
+            "E.梨状隐窝"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 324
+    },
+    {
+        "question_text": "3911、扁桃体",
+        "options": [
+            "A.咽扁桃体位于咽后上壁",
+            "B.腭扁桃体位于腭扁桃体窝内",
+            "C.舌扁桃体位于舌根背面粘膜内",
+            "D.咽鼓管扁桃体位于咽鼓管咽口的附近",
+            "E.对消化道和呼吸道有防御作用"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 325
+    },
+    {
+        "question_text": "3912、咽",
+        "options": [
+            "A.是上宽下窄的肌性管道",
+            "B.位于上6颈椎的前方",
+            "C.分为鼻咽、口咽、喉咽三部",
+            "D.是消化、呼吸共用通道",
+            "E.在第6颈椎下缘续气管"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 326
+    },
+    {
+        "question_text": "3913、咽的交通和邻接正确的是",
+        "options": [
+            "A.鼻咽经鼻后孔通鼻腔",
+            "B.鼻咽上接颅底",
+            "C.鼻咽经咽鼓管通中耳鼓室",
+            "D.口咽向前经咽峡通口腔",
+            "E.喉咽经喉口通喉"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 327
+    },
+    {
+        "question_text": "3914、鼻咽部的结构是",
+        "options": [
+            "A.咽鼓管咽口",
+            "B.咽隐窝",
+            "C.咽鼓管圆枕",
+            "D.腭扁桃体",
+            "E.会厌谷"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 328
+    },
+    {
+        "question_text": "3915、口咽部的结构是",
+        "options": [
+            "A.腭扁桃体",
+            "B.咽扁桃体",
+            "C.梨状隐窝",
+            "D.舌会厌正中襞",
+            "E.会厌谷"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 329
+    },
+    {
+        "question_text": "3916、异物易停留于",
+        "options": [
+            "A.会厌谷",
+            "B.咽峡",
+            "C.梨状隐窝",
+            "D.喉口",
+            "E.咽隐窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 330
+    },
+    {
+        "question_text": "3917、与咽交通的是",
+        "options": [
+            "A.鼻腔",
+            "B.口腔",
+            "C.喉腔",
+            "D.鼓室",
+            "E.食管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 331
+    },
+    {
+        "question_text": "3918、胃可分为",
+        "options": [
+            "A.贲门部",
+            "B.幽门部",
+            "C.胃底",
+            "D.胃体",
+            "E.上部"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 332
+    },
+    {
+        "question_text": "3919、幽门部可分为",
+        "options": [
+            "A.幽门窦",
+            "B.幽门管",
+            "C.上部",
+            "D.降部",
+            "E.水平部"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 333
+    },
+    {
+        "question_text": "3920、十二指肠可分为",
+        "options": [
+            "A.上部",
+            "B.降部",
+            "C.水平部",
+            "D.升部",
+            "E.球部"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 334
+    },
+    {
+        "question_text": "3921、十二指肠",
+        "options": [
+            "A.位于腹后壁",
+            "B.约呈“C”形包绕胰头",
+            "C.球部是溃疡的好发部位",
+            "D.降部后内壁上有十二指肠大乳头",
+            "E.全长约25cm"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 335
+    },
+    {
+        "question_text": "3922、十二指肠",
+        "options": [
+            "A.水平部前方有肠系膜血管下行",
+            "B.降部后内侧壁上有十二指肠大乳状",
+            "C.十二指肠小乳状是副胰管开口处",
+            "D.十二指肠悬肌是确定十二指肠和空肠的标志",
+            "E.上部在胆囊颈后下方弯曲形成十二指肠上曲"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 336
+    },
+    {
+        "question_text": "3923、空肠和回肠相比",
+        "options": [
+            "A.管径较粗",
+            "B.管壁较厚",
+            "C.血管较多",
+            "D.长度较长",
+            "E.环状襞高而密"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 337
+    },
+    {
+        "question_text": "3924、下列肠管属于小肠的是",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.阑尾",
+            "D.十二指肠",
+            "E.盲肠"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 338
+    },
+    {
+        "question_text": "3925、回肠的特点",
+        "options": [
+            "A.管径较细",
+            "B.管壁较薄",
+            "C.血管丰富",
+            "D.绒毛密集",
+            "E.集合淋巴滤泡较多"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 339
+    },
+    {
+        "question_text": "3926、大肠包括",
+        "options": [
+            "A.盲肠",
+            "B.阑尾",
+            "C.结肠",
+            "D.直肠",
+            "E.肛管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 340
+    },
+    {
+        "question_text": "3927、具有结肠带、结肠袋和肠脂垂的是",
+        "options": [
+            "A.阑尾",
+            "B.盲肠",
+            "C.横结肠",
+            "D.乙状结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 341
+    },
+    {
+        "question_text": "3928、无肠脂垂的肠管是",
+        "options": [
+            "A.盲肠",
+            "B.直肠",
+            "C.阑尾",
+            "D.回肠",
+            "E.结肠"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 342
+    },
+    {
+        "question_text": "3929、阑尾的常见位置是",
+        "options": [
+            "A.盲肠前位",
+            "B.盆位（回肠下位）",
+            "C.盲肠后位",
+            "D.回肠后位",
+            "E.回肠前位"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 343
+    },
+    {
+        "question_text": "3930、直肠",
+        "options": [
+            "A.于第3骶椎前面与降结肠相续",
+            "B.穿过盆膈，终止于肛门",
+            "C.下部膨大称为直肠壶腹",
+            "D.在冠状面上形成2个弯曲",
+            "E.在男性，前邻前列腺和精囊"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 344
+    },
+    {
+        "question_text": "3931、属于肛管内的结构是",
+        "options": [
+            "A.肛柱",
+            "B.肛窦",
+            "C.肛梳",
+            "D.肛瓣",
+            "E.齿状线"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 345
+    },
+    {
+        "question_text": "3932、肛门括约肌",
+        "options": [
+            "A.为围绕肛管周围的肌",
+            "B.分为肛门内和外括约肌",
+            "C.内括约肌为平滑肌，对控制排便作用不大",
+            "D.外括约肌分为皮下部、浅部和深部",
+            "E.切断皮下部，不会产生大便失禁"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 346
+    },
+    {
+        "question_text": "3933、下列属于肛直肠环的结构是",
+        "options": [
+            "A.肛门内括约肌",
+            "B.肛门外括约肌皮下部",
+            "C.肛门外括约肌浅部",
+            "D.肛门外括约肌深部",
+            "E.肛提肌"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 347
+    },
+    {
+        "question_text": "3934、齿状线",
+        "options": [
+            "A.由肛柱下端与肛瓣基部连成",
+            "B.位于肛门上方约1-1.5cm",
+            "C.为肛门内、外括约肌分界处",
+            "D.此线上方受内脏神经支配",
+            "E.下方的上皮为复层扁平上皮"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 348
+    },
+    {
+        "question_text": "3935、齿状线以下的结构有",
+        "options": [
+            "A.肛柱",
+            "B.肛梳",
+            "C.肛白线",
+            "D.肛门外括约肌",
+            "E.肛窦"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 349
+    },
+    {
+        "question_text": "3936、Which structures pass through the porta hepatis?",
+        "options": [
+            "A.portal vein",
+            "B.hepatic artery",
+            "C.hepatic vein",
+            "D.hepatic duct",
+            "E.inferior vena cava"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 350
+    },
+    {
+        "question_text": "3937、About the liver, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the largest gland in the body.",
+            "B.Its main function is to secrete the bile (胆汁) to promote the digestion and absorption of fat.",
+            "C.Its large portion lies in the right hypochondriac region (右季肋区)and epigastric region (腹上部).",
+            "D.The visceral surface can be divided into right lobe, left lobe, quadrate lobe (方叶) and caudate lob",
+            "E.The structures The diaphragmatic surface has \"H\" groove."
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 351
+    },
+    {
+        "question_text": "3938、About the gallbladder, which of the following descriptions are correct?",
+        "options": [
+            "A.It produces the bile to promote the digestion and absorption of fat..",
+            "B.It located in the fossa for gallbladder (胆囊窝) of the liver.",
+            "C.It can be divided into three parts: fundus of gallbladder (胆囊底), body of gallbladder and cystic d",
+            "D.The surface marking of the fundus of gallbladder lies at the point where the right midclavicular lin",
+            "E.The cystic duct and the common hepatic duct (肝总管) join together to form the common bile duct ."
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 352
+    },
+    {
+        "question_text": "3939、Which of the following organs belong to the parts of the extrahepatic bile duct?",
+        "options": [
+            "A.gallbladder",
+            "B.left and right hepatic ducts",
+            "C.common hepatic duct",
+            "D.common bile duct",
+            "E.pancreas"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 353
+    },
+    {
+        "question_text": "3940、About the pancreas, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the largest gland in the body.",
+            "B.It can be divided into 4 parts: head of pancreas, neck of pancreas, body of pancreas and tail of pan",
+            "C.The head of pancreas lies in the C-curve of the duodenum.",
+            "D.The tail of the pancreas is narrow, and usually lies in contact with the hilum of spleen (脾门).",
+            "E.The pancreatic duct and the common bile duct join together to form the hepatopancreatic ampulla (肝"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 354
+    },
+    {
+        "question_text": "3941、属于消化腺的是",
+        "options": [
+            "A.肝",
+            "B.胰",
+            "C.脾",
+            "D.甲状腺",
+            "E.腮腺"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 355
+    },
+    {
+        "question_text": "3942、肝",
+        "options": [
+            "A.位于右季肋区，小部分延至腹上区",
+            "B.上界与膈穹窿一致",
+            "C.腹上区剑突下触不到",
+            "D.下界与肝前缘一致，成人不超出右肋弓",
+            "E.上界在右侧平锁骨中线第4肋"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 356
+    },
+    {
+        "question_text": "3943、肝",
+        "options": [
+            "A.人体最大的消化腺",
+            "B.完全被腹膜覆盖",
+            "C.有分泌胆汁的功能",
+            "D.上面借冠状韧带分为左、右两叶",
+            "E.除接受肝固有动脉外，还接受门静脉的血供"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 357
+    },
+    {
+        "question_text": "3944、与肝相邻的结构是",
+        "options": [
+            "A.结肠左曲",
+            "B.十二指肠上部",
+            "C.右肾上腺",
+            "D.右肾",
+            "E.胃前壁"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 358
+    },
+    {
+        "question_text": "3945、进出肝门的结构是",
+        "options": [
+            "A.肝固有动脉左、右支",
+            "B.肝门静脉左、右支",
+            "C.胆总管",
+            "D.左、右肝管",
+            "E.肝左、右静脉"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 359
+    },
+    {
+        "question_text": "3946、Glisson系统由Glisson囊包裹下列哪些结构组成？",
+        "options": [
+            "A.肝静脉的属支",
+            "B.肝门静脉的分支",
+            "C.中央静脉",
+            "D.肝固有动脉的分支",
+            "E.肝内胆管"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 360
+    },
+    {
+        "question_text": "3947、出入肝门的结构是",
+        "options": [
+            "A.肝门静脉左、右支",
+            "B.肝静脉左、右支",
+            "C.肝左、右管",
+            "D.肝固有动脉左、右支",
+            "E.神经、淋巴管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 361
+    },
+    {
+        "question_text": "3948、肝下面相邻的结构是",
+        "options": [
+            "A.结肠右曲",
+            "B.十二指肠上曲",
+            "C.胃",
+            "D.右肾和右肾上腺",
+            "E.脾"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 362
+    },
+    {
+        "question_text": "3949、属于消化腺的是",
+        "options": [
+            "A.舌下腺",
+            "B.腮腺",
+            "C.泪腺",
+            "D.肝脏",
+            "E.肾上腺"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 363
+    },
+    {
+        "question_text": "3950、胰的描述正确的有",
+        "options": [
+            "A.胰分为胰头、胰颈、胰体和胰尾",
+            "B.胰头被十二指肠包绕",
+            "C.胰颈后方有门静脉经过",
+            "D.胰尾伸向脾门",
+            "E.胰管和胆总管汇合，膨大形成肝胰壶腹"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 364
+    },
+    {
+        "question_text": "3951、肝外胆道包括",
+        "options": [
+            "A.肝左管",
+            "B.肝右管",
+            "C.肝总管",
+            "D.胰管",
+            "E.胆囊"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 365
+    },
+    {
+        "question_text": "3952、胆囊",
+        "options": [
+            "A.位于肝下面右纵沟前部的胆囊窝内",
+            "B.是腹膜内位器官",
+            "C.分为底、体、颈、管四部",
+            "D.能贮存并浓缩胆汁",
+            "E.胆囊管和肝总管汇合成胆总管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 366
+    },
+    {
+        "question_text": "3953、肝外胆道包括",
+        "options": [
+            "A.胆囊三角",
+            "B.肝左、右管",
+            "C.肝总管",
+            "D.胆总管",
+            "E.胰管"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 367
+    },
+    {
+        "question_text": "3954、进食后，尤其是高脂肪食物后",
+        "options": [
+            "A.胆囊收缩",
+            "B.胆囊舒张",
+            "C.肝胰壶腹括约肌舒张",
+            "D.肝胰壶腹括约肌收缩",
+            "E.胆汁排入十二指肠"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 368
+    },
+    {
+        "question_text": "3955、胰",
+        "options": [
+            "A.是人体内的大消化腺",
+            "B.胰头被十二指肠包绕",
+            "C.胰体横卧于腹后壁，平第1－2腰椎",
+            "D.胰尾抵达左肾门",
+            "E.副胰管开口于十二指肠小乳头"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 369
+    },
+    {
+        "question_text": "3956、胰头",
+        "options": [
+            "A.肿瘤可引起肝门静脉高压症",
+            "B.肿瘤可引起阻塞性黄疸",
+            "C.前方有肠系膜上血管",
+            "D.后方有胆总管",
+            "E.上方有胃幽门"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "370",
+        "number": 370
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "question_text": "1.病历中主诉的记录是:",
+        "options": [
+            "A.患者主要的症状",
+            "B.患者主要辅助检查的异常",
+            "C.患者主要的阳性体征",
+            "D.患者主要的症状、体征及持续时间",
+            "E.患者主要的不适"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 1
+    },
+    {
+        "question_text": "2.主诉的书写要求以下哪项不正确？",
+        "options": [
+            "A.指出主要症状或体征",
+            "B.描述症状、体征持续时间",
+            "C.文字精练",
+            "D.一般字数在20字以内",
+            "E.指出疾病的预后"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 2
+    },
+    {
+        "question_text": "3.主诉写作要求下列哪项不正确？",
+        "options": [
+            "A.指出疾病主要属何系统",
+            "B.指出疾病的急性或慢性",
+            "C.指出疾病并发症的可能",
+            "D.指出疾病的发展及预后",
+            "E.文字精练、术语准确"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项不是书写病历的基本要求？",
+        "options": [
+            "A.内容真实",
+            "B.实验检查齐全",
+            "C.格式规范",
+            "D.描述精练",
+            "E.填写全面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "4",
+        "number": 4
+    }
+]

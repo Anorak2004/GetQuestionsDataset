@@ -1,0 +1,212 @@
+[
+    {
+        "question_text": "1.破伤风梭菌在血平业上生长的菌落特点是",
+        "options": [
+            "A.菌落周围双层溶血环",
+            "B.无溶血",
+            "C形成菜花样菌落",
+            "D.形成脐状菌落",
+            "E形成羽毛状菌落"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 1
+    },
+    {
+        "question_text": "2.注射TAT的目的是",
+        "options": [
+            "A.对易感人群进行预防接种",
+            "B.对破伤风病人进行治疗和紧急预防",
+            "C杀灭伤口中破伤风梭菌的繁殖体",
+            "D.用于儿童的计划免疫",
+            "E.中和与神经细胞结合的外毒素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 2
+    },
+    {
+        "question_text": "3.能在血平业上形成双层溶血环的细菌是",
+        "options": [
+            "A.产气荚膜梭菌",
+            "B.肉毒梭菌",
+            "C.炭疽芽胞杆菌",
+            "D.白喉棒状杆菌",
+            "E.鼠疫耶尔森菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 3
+    },
+    {
+        "question_text": "4.产气荚膜梭菌的培养特点是",
+        "options": [
+            "A.血平业上产生B溶血环",
+            "B.牛乳培养基中产生“汹涌发酵”",
+            "C.在含亚碲酸钾的培养基中菌落变黑",
+            "D.分离培养用SS培养基",
+            "E.培养基中需加人煌绿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 4
+    },
+    {
+        "question_text": "5.A型产气荚膜梭菌产生的毒性最强、量最大的毒素是",
+        "options": [
+            "A.胶原酶",
+            "B.肠毒素",
+            "C.透明质酸酶",
+            "D.磷脂酶C",
+            "E.θ毒素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 5
+    },
+    {
+        "question_text": "6.产气荚膜梭菌可引起",
+        "options": [
+            "A.假膜性肠炎",
+            "B.烫伤样皮肤综合征",
+            "C.食物中毒",
+            "D.TSS",
+            "E亚急性细菌性心内膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 6
+    },
+    {
+        "question_text": "7.引起气性坏疽的细菌是",
+        "options": [
+            "A.乙型溶血性链球菌",
+            "B.艰难梭菌",
+            "C.炭疽芽胞杆菌",
+            "D.结核分枝杆菌",
+            "E.产气荚膜梭菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 7
+    },
+    {
+        "question_text": "8.治疗气性坏疽可使用",
+        "options": [
+            "A.高压氧舱",
+            "B.注射TAT",
+            "C.口服利福平",
+            "D.肌内注射链霉素",
+            "E.静脉滴注庆大霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 8
+    },
+    {
+        "question_text": "9.肉毒毒素的特点是",
+        "options": [
+            "A.可被肠道蛋白酶水解",
+            "B.引起肌肉强制性收缩",
+            "C.引起肌肉大块坏死",
+            "D.引起肌肉弛缓性麻痹",
+            "E.沿神经轴突上行"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 9
+    },
+    {
+        "question_text": "10.肉毒毒素芽胞的特点是",
+        "options": [
+            "A.椭圆形，位于菌体顶端",
+            "B.椭圆形，位于菌体次级端",
+            "C.正圆形，位于菌体顶端",
+            "D.正圆形，位于菌体次级端",
+            "E椭圆形，小于菌体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 10
+    },
+    {
+        "question_text": "11.肉毒梭菌的作用部位是",
+        "options": [
+            "A.脊髓前角",
+            "B.脊髓后角",
+            "C外周神经肌肉接头处",
+            "D.呕吐中枢",
+            "E.血管内皮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 11
+    },
+    {
+        "question_text": "12.肉毒梭菌的致病机制",
+        "options": [
+            "A.抑制细胞蛋白质合成",
+            "B.阻碍乙酰胆碱释放",
+            "C.激活腺苷酸环化酶",
+            "D.与抗体Fc段非特异性结合",
+            "E.破坏CD4T细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 12
+    },
+    {
+        "question_text": "13.肉毒中毒最常见的感染途径是",
+        "options": [
+            "A.食用污染食物",
+            "B.污染伤口",
+            "C.节肢动物叮咬",
+            "D.吸人污染的空气",
+            "E.接触肉毒中毒病人的生活用品"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列细菌不能在土壤中长期存活的是",
+        "options": [
+            "A.产气荚膜梭菌",
+            "B.破伤风梭菌",
+            "C.肺炎链球菌",
+            "D.炭疽芽胞杆菌",
+            "E.枯草杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 14
+    },
+    {
+        "question_text": "15.无芽胞厌氧菌的特点是",
+        "options": [
+            "A.形态特征有鉴别意义",
+            "B.只能用抗酸染色",
+            "C.主要引起外源性感染",
+            "D.在肠道内数量是需氧菌的1000倍以上",
+            "E.菌体内形成异染颗粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 15
+    }
+]

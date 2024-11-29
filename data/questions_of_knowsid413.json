@@ -1,0 +1,1794 @@
+[
+    {
+        "question_text": "2461、毛细淋巴管（  ）",
+        "options": [
+            "A.分布于全身所有的组织和器官",
+            "B.以膨大的盲端起于组织间隙",
+            "C.比毛细血管通透性差",
+            "D.与毛细血管相通",
+            "E.为物质交换的场所"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 1
+    },
+    {
+        "question_text": "2462、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.颈干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 2
+    },
+    {
+        "question_text": "2463、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.锁骨下干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 3
+    },
+    {
+        "question_text": "2464、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.支气管纵隔干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 4
+    },
+    {
+        "question_text": "2465、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.腰干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 5
+    },
+    {
+        "question_text": "2466、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.肠干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 6
+    },
+    {
+        "question_text": "2467、不属于淋巴系统的结构是（  ）",
+        "options": [
+            "A.淋巴管道",
+            "B.淋巴器官",
+            "C.淋巴结",
+            "D.淋巴组织",
+            "E.组织液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 7
+    },
+    {
+        "question_text": "2468、收纳头颈部淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 8
+    },
+    {
+        "question_text": "2469、收纳上肢淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 9
+    },
+    {
+        "question_text": "2470、收纳腹腔内成对脏器淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 10
+    },
+    {
+        "question_text": "2471、收纳腹腔内不成对脏器淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 11
+    },
+    {
+        "question_text": "2472、收纳下肢淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 12
+    },
+    {
+        "question_text": "2478、鼻咽癌常首先转移至（　）",
+        "options": [
+            "A.枕淋巴结",
+            "B.下颌下淋巴结",
+            "C.角淋巴结",
+            "D.锁骨上淋巴结",
+            "E.胸肌淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 13
+    },
+    {
+        "question_text": "2479、颈外侧深淋巴结（  ）",
+        "options": [
+            "A.排列在颈内、外静脉周围",
+            "B.收纳头颈及上肢的 淋巴",
+            "C.锁骨上淋巴结属于该组淋巴结",
+            "D.其输出管注入腋淋巴结",
+            "E.胸肌淋巴结的输出管注入该组淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 14
+    },
+    {
+        "question_text": "2480、腋淋巴结（  ）",
+        "options": [
+            "A.根据其排列可分为4群",
+            "B.上肢的淋巴直接回流到尖群淋巴结",
+            "C.背部的淋巴直接回流到中央群淋巴结",
+            "D.乳房外侧部的淋巴回流到胸肌淋巴结",
+            "E.中央群淋巴结的输出管合成锁骨下干"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 15
+    },
+    {
+        "question_text": "2481、气管旁淋巴结（  ）",
+        "options": [
+            "A.仅收纳气管的淋巴",
+            "B.胸骨旁淋巴结的输出管注入该组淋巴结",
+            "C.纵隔前淋巴结的输出管也注入该组淋巴结",
+            "D.排列在肺门处",
+            "E.其输出管参与汇成支气管纵隔干"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 16
+    },
+    {
+        "question_text": "2482、腹股沟浅淋巴结（  ）",
+        "options": [
+            "A.排列在股动、静脉周围",
+            "B.收纳整个下肢的淋巴",
+            "C.腹前外侧壁下部的淋巴回流到该组淋巴结",
+            "D.盆腔脏器的淋巴也回流到该组淋巴结",
+            "E.其输出管注入髂内淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 17
+    },
+    {
+        "question_text": "2483、腰淋巴结（  ）",
+        "options": [
+            "A.排列在髂总动、静脉周围",
+            "B.收纳了整个腹腔脏器的淋巴",
+            "C.收纳了整个腹前、后壁的淋巴",
+            "D.收纳了腹腔不成对脏器的淋巴",
+            "E.其输出管形成左、右腰干"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 18
+    },
+    {
+        "question_text": "2484、由腹腔淋巴结收纳淋巴液的脏器为（  ）",
+        "options": [
+            "A.肝、胆囊、胰、脾、胃",
+            "B.肝、胆囊、胰、脾、胃、小肠",
+            "C.胰、脾、胃、小肠",
+            "D.小肠、大肠",
+            "E.肝、胆囊、胰、脾、胃、肾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 19
+    },
+    {
+        "question_text": "2485、输出管组成颈干的淋巴结是（  ）",
+        "options": [
+            "A.颈外侧浅淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.颈前淋巴结",
+            "D.头部淋巴结",
+            "E.颈后淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 20
+    },
+    {
+        "question_text": "2486、输出管组成腰干的淋巴结是（  ）",
+        "options": [
+            "A.髂总淋巴结",
+            "B.髂外淋巴结",
+            "C.髂内淋巴结",
+            "D.腰淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 21
+    },
+    {
+        "question_text": "2487、头面部的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 22
+    },
+    {
+        "question_text": "2488、肝、胆囊、胰的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 23
+    },
+    {
+        "question_text": "2489、胃和脾的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 24
+    },
+    {
+        "question_text": "2490、肾、肾上腺、输尿管的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 25
+    },
+    {
+        "question_text": "2491、盆腔脏器的淋巴主要注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 26
+    },
+    {
+        "question_text": "2492、胸肌淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 27
+    },
+    {
+        "question_text": "2493、肩胛下淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 28
+    },
+    {
+        "question_text": "2494、外侧淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 29
+    },
+    {
+        "question_text": "2495、尖淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 30
+    },
+    {
+        "question_text": "2496、乳房内侧部分的淋巴主要回流到（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 31
+    },
+    {
+        "question_text": "2497、乳房外侧部分的淋巴主要回流到（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 32
+    },
+    {
+        "question_text": "2498、排列在腋动、静脉近侧端的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 33
+    },
+    {
+        "question_text": "2499、收纳上肢大部分淋巴的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 34
+    },
+    {
+        "question_text": "2500、输出管组成锁骨下干的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 35
+    },
+    {
+        "question_text": "2501、沿腹腔干排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 36
+    },
+    {
+        "question_text": "2502、沿股血管排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 37
+    },
+    {
+        "question_text": "2503、沿大隐静脉末端排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 38
+    },
+    {
+        "question_text": "2504、沿腹股沟韧带排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 39
+    },
+    {
+        "question_text": "2516、胸导管（  ）",
+        "options": [
+            "A.由左、右腰干在腰1的前方汇合而成",
+            "B.穿腔静脉孔入胸腔",
+            "C.在胸部行于上腔静脉和奇静脉之间",
+            "D.最后注入左静脉角",
+            "E.收纳了全身的淋巴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 40
+    },
+    {
+        "question_text": "2517、左半头颈部的淋巴汇入（  ）",
+        "options": [
+            "A.胸导管",
+            "B.左锁骨下干",
+            "C.左支气管纵隔干",
+            "D.右淋巴导管",
+            "E.腰干"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 41
+    },
+    {
+        "question_text": "2518、右淋巴导管（  ）",
+        "options": [
+            "A.由右颈干和右锁骨下干汇合而成",
+            "B.由右颈干、右锁骨下干和右支气管纵隔干汇合而成",
+            "C.由右颈干和右支气管纵隔干汇合而成",
+            "D.最后注入上腔静脉",
+            "E.收纳右侧半身的淋巴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 42
+    },
+    {
+        "question_text": "2524、脾（  ）",
+        "options": [
+            "A.位于右季肋区",
+            "B.其长轴与第11肋一致",
+            "C.正常情况下在肋弓下可触及",
+            "D.触诊脾的标志为脾切迹",
+            "E.脾具有造血和协助消化的功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 43
+    },
+    {
+        "question_text": "2461、毛细淋巴管（  ）",
+        "options": [
+            "A.分布于全身所有的组织和器官",
+            "B.以膨大的盲端起于组织间隙",
+            "C.比毛细血管通透性差",
+            "D.与毛细血管相通",
+            "E.为物质交换的场所"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 44
+    },
+    {
+        "question_text": "2462、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.颈干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 45
+    },
+    {
+        "question_text": "2463、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.锁骨下干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 46
+    },
+    {
+        "question_text": "2464、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.支气管纵隔干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 47
+    },
+    {
+        "question_text": "2465、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.腰干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 48
+    },
+    {
+        "question_text": "2466、属于淋巴干的是（  ）",
+        "options": [
+            "A.头臂干",
+            "B.肠干",
+            "C.甲状颈干",
+            "D.腹腔干",
+            "E.胸干"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 49
+    },
+    {
+        "question_text": "2467、不属于淋巴系统的结构是（  ）",
+        "options": [
+            "A.淋巴管道",
+            "B.淋巴器官",
+            "C.淋巴结",
+            "D.淋巴组织",
+            "E.组织液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 50
+    },
+    {
+        "question_text": "2468、收纳头颈部淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 51
+    },
+    {
+        "question_text": "2469、收纳上肢淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 52
+    },
+    {
+        "question_text": "2470、收纳腹腔内成对脏器淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 53
+    },
+    {
+        "question_text": "2471、收纳腹腔内不成对脏器淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 54
+    },
+    {
+        "question_text": "2472、收纳下肢淋巴回流的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.锁骨下干",
+            "C.肠干",
+            "D.腰干",
+            "E.胸导管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 55
+    },
+    {
+        "question_text": "2478、鼻咽癌常首先转移至（　）",
+        "options": [
+            "A.枕淋巴结",
+            "B.下颌下淋巴结",
+            "C.角淋巴结",
+            "D.锁骨上淋巴结",
+            "E.胸肌淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 56
+    },
+    {
+        "question_text": "2479、颈外侧深淋巴结（  ）",
+        "options": [
+            "A.排列在颈内、外静脉周围",
+            "B.收纳头颈及上肢的 淋巴",
+            "C.锁骨上淋巴结属于该组淋巴结",
+            "D.其输出管注入腋淋巴结",
+            "E.胸肌淋巴结的输出管注入该组淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 57
+    },
+    {
+        "question_text": "2480、腋淋巴结（  ）",
+        "options": [
+            "A.根据其排列可分为4群",
+            "B.上肢的淋巴直接回流到尖群淋巴结",
+            "C.背部的淋巴直接回流到中央群淋巴结",
+            "D.乳房外侧部的淋巴回流到胸肌淋巴结",
+            "E.中央群淋巴结的输出管合成锁骨下干"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 58
+    },
+    {
+        "question_text": "2481、气管旁淋巴结（  ）",
+        "options": [
+            "A.仅收纳气管的淋巴",
+            "B.胸骨旁淋巴结的输出管注入该组淋巴结",
+            "C.纵隔前淋巴结的输出管也注入该组淋巴结",
+            "D.排列在肺门处",
+            "E.其输出管参与汇成支气管纵隔干"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 59
+    },
+    {
+        "question_text": "2482、腹股沟浅淋巴结（  ）",
+        "options": [
+            "A.排列在股动、静脉周围",
+            "B.收纳整个下肢的淋巴",
+            "C.腹前外侧壁下部的淋巴回流到该组淋巴结",
+            "D.盆腔脏器的淋巴也回流到该组淋巴结",
+            "E.其输出管注入髂内淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 60
+    },
+    {
+        "question_text": "2483、腰淋巴结（  ）",
+        "options": [
+            "A.排列在髂总动、静脉周围",
+            "B.收纳了整个腹腔脏器的淋巴",
+            "C.收纳了整个腹前、后壁的淋巴",
+            "D.收纳了腹腔不成对脏器的淋巴",
+            "E.其输出管形成左、右腰干"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 61
+    },
+    {
+        "question_text": "2484、由腹腔淋巴结收纳淋巴液的脏器为（  ）",
+        "options": [
+            "A.肝、胆囊、胰、脾、胃",
+            "B.肝、胆囊、胰、脾、胃、小肠",
+            "C.胰、脾、胃、小肠",
+            "D.小肠、大肠",
+            "E.肝、胆囊、胰、脾、胃、肾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 62
+    },
+    {
+        "question_text": "2485、输出管组成颈干的淋巴结是（  ）",
+        "options": [
+            "A.颈外侧浅淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.颈前淋巴结",
+            "D.头部淋巴结",
+            "E.颈后淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 63
+    },
+    {
+        "question_text": "2486、输出管组成腰干的淋巴结是（  ）",
+        "options": [
+            "A.髂总淋巴结",
+            "B.髂外淋巴结",
+            "C.髂内淋巴结",
+            "D.腰淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 64
+    },
+    {
+        "question_text": "2487、头面部的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 65
+    },
+    {
+        "question_text": "2488、肝、胆囊、胰的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 66
+    },
+    {
+        "question_text": "2489、胃和脾的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 67
+    },
+    {
+        "question_text": "2490、肾、肾上腺、输尿管的淋巴注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 68
+    },
+    {
+        "question_text": "2491、盆腔脏器的淋巴主要注入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.颈外侧深淋巴结",
+            "C.腰淋巴结",
+            "D.腹股沟浅淋巴结",
+            "E.髂内淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 69
+    },
+    {
+        "question_text": "2492、胸肌淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 70
+    },
+    {
+        "question_text": "2493、肩胛下淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 71
+    },
+    {
+        "question_text": "2494、外侧淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 72
+    },
+    {
+        "question_text": "2495、尖淋巴结沿（　）排列",
+        "options": [
+            "A.胸外侧血管",
+            "B.腋静脉远侧段",
+            "C.腋窝中央",
+            "D.肩胛下血管",
+            "E.腋静脉近侧段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 73
+    },
+    {
+        "question_text": "2496、乳房内侧部分的淋巴主要回流到（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 74
+    },
+    {
+        "question_text": "2497、乳房外侧部分的淋巴主要回流到（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 75
+    },
+    {
+        "question_text": "2498、排列在腋动、静脉近侧端的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 76
+    },
+    {
+        "question_text": "2499、收纳上肢大部分淋巴的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 77
+    },
+    {
+        "question_text": "2500、输出管组成锁骨下干的是（  ）",
+        "options": [
+            "A.胸肌淋巴结",
+            "B.外侧淋巴结",
+            "C.肩胛下淋巴结",
+            "D.尖淋巴结",
+            "E.胸骨旁淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 78
+    },
+    {
+        "question_text": "2501、沿腹腔干排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 79
+    },
+    {
+        "question_text": "2502、沿股血管排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 80
+    },
+    {
+        "question_text": "2503、沿大隐静脉末端排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 81
+    },
+    {
+        "question_text": "2504、沿腹股沟韧带排列的是（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.髂总淋巴结",
+            "C.腹股沟浅淋巴结上群",
+            "D.腹股沟浅淋巴结下群",
+            "E.腹股沟深淋巴结"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 82
+    },
+    {
+        "question_text": "2516、胸导管（  ）",
+        "options": [
+            "A.由左、右腰干在腰1的前方汇合而成",
+            "B.穿腔静脉孔入胸腔",
+            "C.在胸部行于上腔静脉和奇静脉之间",
+            "D.最后注入左静脉角",
+            "E.收纳了全身的淋巴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 83
+    },
+    {
+        "question_text": "2517、左半头颈部的淋巴汇入（  ）",
+        "options": [
+            "A.胸导管",
+            "B.左锁骨下干",
+            "C.左支气管纵隔干",
+            "D.右淋巴导管",
+            "E.腰干"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 84
+    },
+    {
+        "question_text": "2518、右淋巴导管（  ）",
+        "options": [
+            "A.由右颈干和右锁骨下干汇合而成",
+            "B.由右颈干、右锁骨下干和右支气管纵隔干汇合而成",
+            "C.由右颈干和右支气管纵隔干汇合而成",
+            "D.最后注入上腔静脉",
+            "E.收纳右侧半身的淋巴"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 85
+    },
+    {
+        "question_text": "2524、脾（  ）",
+        "options": [
+            "A.位于右季肋区",
+            "B.其长轴与第11肋一致",
+            "C.正常情况下在肋弓下可触及",
+            "D.触诊脾的标志为脾切迹",
+            "E.脾具有造血和协助消化的功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 86
+    },
+    {
+        "question_text": "2473、有关淋巴系的描述，正确的是（  ）",
+        "options": [
+            "A.淋巴系由淋巴管道、淋巴组织和淋巴器官组成",
+            "B.淋巴系为静脉系的辅助结构",
+            "C.毛细淋巴管起于毛细血管静脉端",
+            "D.在淋巴管道内流动的液体为内淋巴",
+            "E.胸导管为全身最大的淋巴导管"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 87
+    },
+    {
+        "question_text": "2474、属于淋巴干的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.头臂干",
+            "C.甲状颈干",
+            "D.锁骨下干",
+            "E.肠干"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 88
+    },
+    {
+        "question_text": "2475、属于淋巴干的是（  ）",
+        "options": [
+            "A.腰干",
+            "B.腹腔干",
+            "C.甲状颈干",
+            "D.锁骨下干",
+            "E.支气管纵隔干"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 89
+    },
+    {
+        "question_text": "2476、属于淋巴器官的是（  ）",
+        "options": [
+            "A.腭扁桃体",
+            "B.腋淋巴结",
+            "C.胸腺",
+            "D.脾",
+            "E.腰淋巴结"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 90
+    },
+    {
+        "question_text": "2477、毛细淋巴管（  ）",
+        "options": [
+            "A.以盲端起于组织",
+            "B.与毛细血管相通",
+            "C.通透性较毛细血管大",
+            "D.大分子物质容易进入",
+            "E.分布于角膜、晶状体等全身各处"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 91
+    },
+    {
+        "question_text": "2505、颈外侧浅淋巴结（  ）",
+        "options": [
+            "A.排列在颈外静脉周围",
+            "B.也排列在颈内静脉周围",
+            "C.收纳颈部浅层结构的淋巴",
+            "D.输出管注入颈外侧深淋巴结",
+            "E.角淋巴结属于颈外侧浅淋巴结"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 92
+    },
+    {
+        "question_text": "2506、颈外侧深淋巴结（  ）",
+        "options": [
+            "A.排列在颈内静脉周围",
+            "B.也有部分淋巴结排列在锁骨下动脉周围",
+            "C.颈外侧浅淋巴结的输出管注入该组淋巴结",
+            "D.锁骨上淋巴结属于该组淋巴结",
+            "E.输出管汇成颈干"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 93
+    },
+    {
+        "question_text": "2507、腋淋巴结（  ）",
+        "options": [
+            "A.胸肌淋巴结收纳乳房外侧部的淋巴",
+            "B.肩胛下淋巴结收纳项背部的淋巴",
+            "C.外侧淋巴结收纳上肢大部分的淋巴",
+            "D.中央淋巴结收纳胸外侧壁的淋巴",
+            "E.尖淋巴结的输出管组成锁骨下干"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 94
+    },
+    {
+        "question_text": "2508、腹腔内不成对脏器的淋巴回流入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.肠系膜上淋巴结",
+            "C.肠系膜下淋巴结",
+            "D.腰淋巴结",
+            "E.髂总淋巴结"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 95
+    },
+    {
+        "question_text": "2509、腋淋巴结包括（  ）",
+        "options": [
+            "A.尖淋巴结",
+            "B.肩胛下淋巴结",
+            "C.外侧淋巴结",
+            "D.角淋巴结",
+            "E.中央淋巴结"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 96
+    },
+    {
+        "question_text": "2510、参与汇成支气管纵隔干的淋巴结有（  ）",
+        "options": [
+            "A.胸骨旁淋巴结",
+            "B.纵隔前淋巴结",
+            "C.纵隔后淋巴结",
+            "D.气管旁淋巴结",
+            "E.肺门淋巴结"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 97
+    },
+    {
+        "question_text": "2511、腹股沟浅淋巴结（  ）",
+        "options": [
+            "A.上群沿腹股沟韧带排列",
+            "B.下群沿股静脉排列",
+            "C.上群收纳腹前壁下部、臀部及会阴的淋巴",
+            "D.下群收纳下肢大部分的浅淋巴",
+            "E.其输出管注入腹股沟深淋巴结"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 98
+    },
+    {
+        "question_text": "2512、沿腹腔干及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.胃左、右淋巴结",
+            "B.胃网膜左、右淋巴结",
+            "C.幽门上、下淋巴结",
+            "D.胰淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 99
+    },
+    {
+        "question_text": "2513、沿肠系膜上动脉及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.回结肠淋巴结",
+            "B.中结肠淋巴结",
+            "C.右结肠淋巴结",
+            "D.左结肠淋巴结",
+            "E.肠系膜上淋巴结"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 100
+    },
+    {
+        "question_text": "2514、沿肠系膜下动脉及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.中结肠淋巴结",
+            "B.左结肠淋巴结",
+            "C.乙状结肠淋巴结",
+            "D.直肠上淋巴结",
+            "E.肠系膜下淋巴结"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 101
+    },
+    {
+        "question_text": "2515、汇成肠干的淋巴结有（  ）",
+        "options": [
+            "A.肝淋巴结",
+            "B.脾淋巴结",
+            "C.肠系膜上淋巴结",
+            "D.肠系膜下淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 102
+    },
+    {
+        "question_text": "2519、乳糜池（  ）",
+        "options": [
+            "A.通常位于L1的前方",
+            "B.由左、右腰干和肠干汇合而成",
+            "C.产生淋巴液",
+            "D.为胸导管的起始",
+            "E.收纳了全身的淋巴"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 103
+    },
+    {
+        "question_text": "2520、右淋巴导管接受（  ）",
+        "options": [
+            "A.肠干",
+            "B.腰干",
+            "C.右支气管纵隔干",
+            "D.右颈干",
+            "E.右锁骨下干"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 104
+    },
+    {
+        "question_text": "2521、胸导管接受（  ）",
+        "options": [
+            "A.肠干",
+            "B.左、右腰干",
+            "C.左支气管纵隔干",
+            "D.左颈干",
+            "E.左锁骨下干"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 105
+    },
+    {
+        "question_text": "2522、胸导管（  ）",
+        "options": [
+            "A.由左、右肠干和腰干汇合而成",
+            "B.起始处常膨大称乳糜池",
+            "C.穿膈的腔静脉孔",
+            "D.在胸部行于胸主动脉的左侧",
+            "E.最后注入左静脉角"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 106
+    },
+    {
+        "question_text": "2523、右淋巴导管（  ）",
+        "options": [
+            "A.由右颈干和右锁骨下干汇合而成",
+            "B.穿主动脉裂孔入胸腔",
+            "C.行于脊柱的前方",
+            "D.最后注入右静脉角",
+            "E.收纳右侧半身的淋巴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 107
+    },
+    {
+        "question_text": "2473、有关淋巴系的描述，正确的是（  ）",
+        "options": [
+            "A.淋巴系由淋巴管道、淋巴组织和淋巴器官组成",
+            "B.淋巴系为静脉系的辅助结构",
+            "C.毛细淋巴管起于毛细血管静脉端",
+            "D.在淋巴管道内流动的液体为内淋巴",
+            "E.胸导管为全身最大的淋巴导管"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 108
+    },
+    {
+        "question_text": "2474、属于淋巴干的是（  ）",
+        "options": [
+            "A.颈干",
+            "B.头臂干",
+            "C.甲状颈干",
+            "D.锁骨下干",
+            "E.肠干"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 109
+    },
+    {
+        "question_text": "2475、属于淋巴干的是（  ）",
+        "options": [
+            "A.腰干",
+            "B.腹腔干",
+            "C.甲状颈干",
+            "D.锁骨下干",
+            "E.支气管纵隔干"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 110
+    },
+    {
+        "question_text": "2476、属于淋巴器官的是（  ）",
+        "options": [
+            "A.腭扁桃体",
+            "B.腋淋巴结",
+            "C.胸腺",
+            "D.脾",
+            "E.腰淋巴结"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 111
+    },
+    {
+        "question_text": "2477、毛细淋巴管（  ）",
+        "options": [
+            "A.以盲端起于组织",
+            "B.与毛细血管相通",
+            "C.通透性较毛细血管大",
+            "D.大分子物质容易进入",
+            "E.分布于角膜、晶状体等全身各处"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 112
+    },
+    {
+        "question_text": "2505、颈外侧浅淋巴结（  ）",
+        "options": [
+            "A.排列在颈外静脉周围",
+            "B.也排列在颈内静脉周围",
+            "C.收纳颈部浅层结构的淋巴",
+            "D.输出管注入颈外侧深淋巴结",
+            "E.角淋巴结属于颈外侧浅淋巴结"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 113
+    },
+    {
+        "question_text": "2506、颈外侧深淋巴结（  ）",
+        "options": [
+            "A.排列在颈内静脉周围",
+            "B.也有部分淋巴结排列在锁骨下动脉周围",
+            "C.颈外侧浅淋巴结的输出管注入该组淋巴结",
+            "D.锁骨上淋巴结属于该组淋巴结",
+            "E.输出管汇成颈干"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 114
+    },
+    {
+        "question_text": "2507、腋淋巴结（  ）",
+        "options": [
+            "A.胸肌淋巴结收纳乳房外侧部的淋巴",
+            "B.肩胛下淋巴结收纳项背部的淋巴",
+            "C.外侧淋巴结收纳上肢大部分的淋巴",
+            "D.中央淋巴结收纳胸外侧壁的淋巴",
+            "E.尖淋巴结的输出管组成锁骨下干"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 115
+    },
+    {
+        "question_text": "2508、腹腔内不成对脏器的淋巴回流入（  ）",
+        "options": [
+            "A.腹腔淋巴结",
+            "B.肠系膜上淋巴结",
+            "C.肠系膜下淋巴结",
+            "D.腰淋巴结",
+            "E.髂总淋巴结"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 116
+    },
+    {
+        "question_text": "2509、腋淋巴结包括（  ）",
+        "options": [
+            "A.尖淋巴结",
+            "B.肩胛下淋巴结",
+            "C.外侧淋巴结",
+            "D.角淋巴结",
+            "E.中央淋巴结"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 117
+    },
+    {
+        "question_text": "2510、参与汇成支气管纵隔干的淋巴结有（  ）",
+        "options": [
+            "A.胸骨旁淋巴结",
+            "B.纵隔前淋巴结",
+            "C.纵隔后淋巴结",
+            "D.气管旁淋巴结",
+            "E.肺门淋巴结"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 118
+    },
+    {
+        "question_text": "2511、腹股沟浅淋巴结（  ）",
+        "options": [
+            "A.上群沿腹股沟韧带排列",
+            "B.下群沿股静脉排列",
+            "C.上群收纳腹前壁下部、臀部及会阴的淋巴",
+            "D.下群收纳下肢大部分的浅淋巴",
+            "E.其输出管注入腹股沟深淋巴结"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 119
+    },
+    {
+        "question_text": "2512、沿腹腔干及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.胃左、右淋巴结",
+            "B.胃网膜左、右淋巴结",
+            "C.幽门上、下淋巴结",
+            "D.胰淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 120
+    },
+    {
+        "question_text": "2513、沿肠系膜上动脉及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.回结肠淋巴结",
+            "B.中结肠淋巴结",
+            "C.右结肠淋巴结",
+            "D.左结肠淋巴结",
+            "E.肠系膜上淋巴结"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 121
+    },
+    {
+        "question_text": "2514、沿肠系膜下动脉及其分支排列的淋巴结有（  ）",
+        "options": [
+            "A.中结肠淋巴结",
+            "B.左结肠淋巴结",
+            "C.乙状结肠淋巴结",
+            "D.直肠上淋巴结",
+            "E.肠系膜下淋巴结"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 122
+    },
+    {
+        "question_text": "2515、汇成肠干的淋巴结有（  ）",
+        "options": [
+            "A.肝淋巴结",
+            "B.脾淋巴结",
+            "C.肠系膜上淋巴结",
+            "D.肠系膜下淋巴结",
+            "E.腹腔淋巴结"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 123
+    },
+    {
+        "question_text": "2519、乳糜池（  ）",
+        "options": [
+            "A.通常位于L1的前方",
+            "B.由左、右腰干和肠干汇合而成",
+            "C.产生淋巴液",
+            "D.为胸导管的起始",
+            "E.收纳了全身的淋巴"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 124
+    },
+    {
+        "question_text": "2520、右淋巴导管接受（  ）",
+        "options": [
+            "A.肠干",
+            "B.腰干",
+            "C.右支气管纵隔干",
+            "D.右颈干",
+            "E.右锁骨下干"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 125
+    },
+    {
+        "question_text": "2521、胸导管接受（  ）",
+        "options": [
+            "A.肠干",
+            "B.左、右腰干",
+            "C.左支气管纵隔干",
+            "D.左颈干",
+            "E.左锁骨下干"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 126
+    },
+    {
+        "question_text": "2522、胸导管（  ）",
+        "options": [
+            "A.由左、右肠干和腰干汇合而成",
+            "B.起始处常膨大称乳糜池",
+            "C.穿膈的腔静脉孔",
+            "D.在胸部行于胸主动脉的左侧",
+            "E.最后注入左静脉角"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 127
+    },
+    {
+        "question_text": "2523、右淋巴导管（  ）",
+        "options": [
+            "A.由右颈干和右锁骨下干汇合而成",
+            "B.穿主动脉裂孔入胸腔",
+            "C.行于脊柱的前方",
+            "D.最后注入右静脉角",
+            "E.收纳右侧半身的淋巴"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "128",
+        "number": 128
+    }
+]

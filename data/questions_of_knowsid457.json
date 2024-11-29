@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.不引起出血热的病毒是",
+        "options": [
+            "A.汉坦病毒",
+            "B.登革病毒",
+            "C.黄热病病毒",
+            "D.狂犬病病毒",
+            "E.埃博拉病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.肾综合征出血热的病原体是",
+        "options": [
+            "A.汉坦病毒",
+            "B.克里米亚-刚果出血热病毒",
+            "C.登革病毒",
+            "D.埃博拉病毒",
+            "E.ECHO病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.汉坦病毒的核酸类型是",
+        "options": [
+            "A.单片段单负链RNA",
+            "B.多片段单负链RNA",
+            "C.单片段单正链RNA",
+            "D.多片段单正链RNA",
+            "E.双股RNA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于汉坦病毒的描述正确的是",
+        "options": [
+            "A.无包膜的单负链RNA病毒",
+            "B.主要通过虫媒传播",
+            "C.抵抗力强",
+            "D.在细胞内增殖一般不引起可见的细胞病变",
+            "E.不凝集鹅红细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.肾综合征出血热的主要宿主动物和传染源为",
+        "options": [
+            "A.鸟",
+            "B.猫",
+            "C.鼠",
+            "D.狗",
+            "E.牛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.哪种途径不能传播汉坦病毒",
+        "options": [
+            "A.呼吸道",
+            "B.消化道",
+            "C.携带病毒的蚊叮咬",
+            "D.胎盘传播",
+            "E.伤口"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于肾综合征出血热致病特点描述错误的是",
+        "options": [
+            "A.典型的病例具有三大主症",
+            "B.病毒是发病的始动因素",
+            "C.可导致免疫病理损伤",
+            "D.I型和III型变态反应参与了发病",
+            "E.起病急，发病快，一般无潜伏期"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于汉坦病毒免疫性描述正确的是",
+        "options": [
+            "A.人类对汉坦病毒普遍易感",
+            "B.多呈显性感染",
+            "C.病后免疫力不持久",
+            "D.中和抗体主要由病毒核衣壳蛋白刺激产生",
+            "E.机体主要依赖SIgA的保护"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.可通过哪种检验进行肾综合征出血热的早期诊断",
+        "options": [
+            "A.免疫组化法检测抗原",
+            "B.中和试验检测中和抗体",
+            "C.血凝试验检测血凝现象",
+            "D.ELISA捕捉法检测特异性IgM抗体",
+            "E.血凝抑制试验检测抗体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于克里米亚-刚果出血热的叙述哪项是正确的",
+        "options": [
+            "A.由啮齿类动物传搔",
+            "B.所致疾病与季节变化无关",
+            "C.是一种以硬蜱为传播媒介的自然疫源性疾病",
+            "D.病后免疫力不牢固",
+            "E.主要通过消化道传播"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "question_text": "1.关于眩晕下列哪种说法不正确？",
+        "options": [
+            "A.患者感到自身或周围环境有旋转或摇晃",
+            "B.一般无客观的平衡障碍",
+            "C.一般无意识障碍",
+            "D.可由全身性疾病引起",
+            "E.可伴有耳鸣症状"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 1
+    },
+    {
+        "question_text": "2.梅尼埃病可出现:",
+        "options": [
+            "A.眩晕伴听力下降",
+            "B.眩晕伴共济失调",
+            "C.眩晕伴发热",
+            "D.眩晕伴鼓膜穿孔",
+            "E.眩晕伴视力下降"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 2
+    },
+    {
+        "question_text": "3.迷路炎可出现:",
+        "options": [
+            "A.眩晕伴听力下降",
+            "B.眩晕伴共济失调",
+            "C.眩晕伴发热",
+            "D.眩晕伴鼓膜穿孔",
+            "E.眩晕伴视力下降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 3
+    },
+    {
+        "question_text": "4.哪种疾病常有眩晕？",
+        "options": [
+            "A.蛛网膜下腔出血",
+            "B.运动神经元病",
+            "C.帕金森病",
+            "D.椎基底动脉供血不足",
+            "E.偏头痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 4
+    },
+    {
+        "question_text": "5.最可能引起药物中毒性眩晕的常用药物是:",
+        "options": [
+            "A.头孢唑啉",
+            "B.红霉素",
+            "C.链霉素",
+            "D.甲硝唑",
+            "E.利福平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪项是梅尼埃病发作时的临床表现？",
+        "options": [
+            "A.眼球震颤",
+            "B.眩晕",
+            "C.耳鸣",
+            "D.恶心、呕吐",
+            "E.深感觉障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 6
+    },
+    {
+        "question_text": "7.发作性眩晕伴眼球震颤且具有复发性，最可能为:",
+        "options": [
+            "A.梅尼埃病",
+            "B.迷路炎",
+            "C.前庭神经元炎",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 7
+    },
+    {
+        "question_text": "8.发热后突然出现眩晕，无耳鸣及听力减退，最可能为:",
+        "options": [
+            "A.梅尼埃病",
+            "B.迷路炎",
+            "C.前庭神经元炎",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 8
+    },
+    {
+        "question_text": "9.头部处在一定位置时，出现眩晕和眼球震颤，最可能为:",
+        "options": [
+            "A.梅尼埃病",
+            "B.迷路炎",
+            "C.前庭神经元炎",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 9
+    },
+    {
+        "question_text": "10.由于中耳炎并发，检查发现鼓膜穿孔最可能为:",
+        "options": [
+            "A.迷路炎",
+            "B.前庭神经元炎",
+            "C.梅尼埃病",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 10
+    },
+    {
+        "question_text": "11.乘车时出现眩晕伴恶心、呕吐，面色苍白，最可能为:",
+        "options": [
+            "A.迷路炎",
+            "B.前庭神经元炎",
+            "C.梅尼埃病",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 11
+    },
+    {
+        "question_text": "12.静点庆大霉素后出现渐进性眩晕，伴耳鸣，最可能为:",
+        "options": [
+            "A.晕动病",
+            "B.中枢性眩晕",
+            "C.内耳药物中毒",
+            "D.位置性眩晕",
+            "E.晕动病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 12
+    },
+    {
+        "question_text": "13.Adams-Stokes（阿-斯）综合征属于:",
+        "options": [
+            "A.单纯性晕厥",
+            "B.心源性晕厥",
+            "C.脑源性晕厥",
+            "D.低血糖综合征",
+            "E.颈动脉窦综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 13
+    },
+    {
+        "question_text": "14.前庭神经元炎可出现:",
+        "options": [
+            "A.眩晕伴听力下降",
+            "B.眩晕伴共济失调",
+            "C.眩晕伴发热",
+            "D.眩晕伴鼓膜穿孔",
+            "E.眩晕伴视力下降"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 14
+    },
+    {
+        "question_text": "15.小脑肿瘤可出现:",
+        "options": [
+            "A.眩晕伴听力下降",
+            "B.眩晕伴共济失调",
+            "C.眩晕伴发热",
+            "D.眩晕伴鼓膜穿孔",
+            "E.眩晕伴视力下降"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 15
+    },
+    {
+        "question_text": "16.以下不属于周围性眩晕的是:",
+        "options": [
+            "A.梅尼埃病",
+            "B.迷路炎",
+            "C.前庭神经元炎",
+            "D.链霉素中毒",
+            "E.延髓空洞症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于前庭神经元炎，下列哪种说法不正确？",
+        "options": [
+            "A.易复发",
+            "B.多发生在发热或上呼吸道感染后",
+            "C.持续时间较长",
+            "D.发生突然，伴有恶心、呕吐",
+            "E.一般无耳鸣及听力减退"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于心血管疾病，如高血压、低血压等所致眩晕的特点，不正确的是:",
+        "options": [
+            "A.一般无真正旋转感",
+            "B.多半有听力减退",
+            "C.少有耳鸣",
+            "D.无眼球震颤",
+            "E.有原发病的表现"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列疾病中最常引起眩晕、晕厥症状的是:",
+        "options": [
+            "A.主动脉瓣狭窄",
+            "B.二尖瓣狭窄",
+            "C.肺动脉瓣狭窄",
+            "D.主动脉瓣关闭不全",
+            "E.缩窄性心包炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 19
+    },
+    {
+        "question_text": "20.引起周围性眩晕的因素有:",
+        "options": [
+            "A.小脑肿瘤",
+            "B.听神经纤维瘤",
+            "C.椎基底动脉供血不足",
+            "D.链霉素、庆大霉素中毒",
+            "E.多发性硬化（中枢神经炎性脱髓鞘病）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪种疾病可引起中枢性眩晕？",
+        "options": [
+            "A.晕动病",
+            "B.迷路炎",
+            "C.脑动脉硬化",
+            "D.前庭神经炎",
+            "E.Meniere病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 21
+    },
+    {
+        "question_text": "22.眩晕伴恶心、呕吐常见于:",
+        "options": [
+            "A.脑血管畸形",
+            "B.小脑肿瘤",
+            "C.梅尼埃病",
+            "D.青光眼",
+            "E.脑膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 22
+    },
+    {
+        "question_text": "23.眩晕伴听力减退最可能的病因是:",
+        "options": [
+            "A.前庭神经元炎",
+            "B.梅尼埃病",
+            "C.高血压",
+            "D.尿毒症",
+            "E.糖尿病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 23
+    },
+    {
+        "question_text": "24.青年女性，情绪激动后突发晕厥伴面色苍白、发绀、呼吸困难、手足搐搦，首先考虑下列哪种疾病:",
+        "options": [
+            "A.低血糖",
+            "B.换气过度综合征",
+            "C.重症贫血",
+            "D.急性左心衰",
+            "E.脑出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 24
+    }
+]

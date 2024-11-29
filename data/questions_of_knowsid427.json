@@ -1,0 +1,86 @@
+[
+    {
+        "question_text": "1.哪种微生物不属于原核细胞型微生物",
+        "options": [
+            "A.细菌",
+            "B.支原体",
+            "C.立克次体",
+            "D.衣原体",
+            "E.病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 1
+    },
+    {
+        "question_text": "2.哪种微生物属于真核细胞型微生物",
+        "options": [
+            "A.真菌",
+            "B.细菌",
+            "C.放线菌",
+            "D.螺旋体",
+            "E.病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 2
+    },
+    {
+        "question_text": "3.能在无生命培养基上生长的微生物是",
+        "options": [
+            "A.衣原体",
+            "B.立克次体",
+            "C.支原体",
+            "D.病毒",
+            "E.肮粒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 3
+    },
+    {
+        "question_text": "4.哪一种病原微生物缺少核酸",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.类病毒",
+            "D.肮粒",
+            "E.衣原体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 4
+    },
+    {
+        "question_text": "5.哪一种病原微生物同时拥有DNA和RNA",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.类病毒",
+            "D.朊粒",
+            "E.质粒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 5
+    },
+    {
+        "question_text": "6.创用接种牛痘苗预防天花的第一人是",
+        "options": [
+            "A.英国的李斯特",
+            "B.英国的琴纳",
+            "C.法国的巴斯德",
+            "D.德国的郭霍",
+            "E.俄国的伊万诺夫斯基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 6
+    }
+]

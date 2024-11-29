@@ -1,0 +1,4173 @@
+[
+    {
+        "question_text": "1382、呼吸系统",
+        "options": [
+            "A.呼吸系统的功能仅是进行气体交换",
+            "B.鼻、咽、喉，气管属上呼吸道",
+            "C.主支气管及其在肺内的分支称下呼吸道",
+            "D.肺由肺泡所组成",
+            "E.以上都不正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 1
+    },
+    {
+        "question_text": "1383、上呼吸道包括（  ）",
+        "options": [
+            "A.鼻",
+            "B.鼻和咽",
+            "C.鼻、咽和喉",
+            "D.鼻、咽、喉和气管",
+            "E.气管和支气管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 2
+    },
+    {
+        "question_text": "1384、鼻（  ）",
+        "options": [
+            "A.包括鼻腔和外鼻两部分",
+            "B.鼻翼是外鼻结构中的一部分",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.中鼻道有鼻泪管的开口",
+            "E.下鼻甲的前部为易出血区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 3
+    },
+    {
+        "question_text": "1385、关于鼻中隔的叙述，下列哪项是正确的",
+        "options": [
+            "A.以骨为基础",
+            "B.前下份有Little区",
+            "C.都是正中矢状位",
+            "D.以软骨为基础",
+            "E.其表面的粘膜称为呼吸区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 4
+    },
+    {
+        "question_text": "1386、一颅底外伤患者，脑脊液和血液从鼻腔流出，试问是伤及哪个结构？",
+        "options": [
+            "A.鼻骨",
+            "B.泪骨",
+            "C.筛骨水平板",
+            "D.蝶骨体",
+            "E.腭骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 5
+    },
+    {
+        "question_text": "1387、鼻腔",
+        "options": [
+            "A.鼻中隔将其分为完全对称的左右两腔",
+            "B.每侧又分为嗅部和呼吸部",
+            "C.外侧壁上有3个鼻甲",
+            "D.内侧壁上有3个鼻道",
+            "E.鼻旁窦均开口于各鼻道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 6
+    },
+    {
+        "question_text": "1388、有关鼻腔的错误描述为（  ）",
+        "options": [
+            "A.鼻腔为鼻的一部分",
+            "B.由鼻中隔分为左、右两半",
+            "C.可分为鼻前庭和固有鼻腔两部分",
+            "D.上、中、下鼻道均有鼻旁窦的开口",
+            "E.侧壁上有上、中、下鼻甲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 7
+    },
+    {
+        "question_text": "1389、鼻出血的好发部位是",
+        "options": [
+            "A.鼻腔顶部",
+            "B.鼻腔外侧壁上部",
+            "C.鼻腔外侧壁下部",
+            "D.鼻中隔上部",
+            "E.鼻中隔前下部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 8
+    },
+    {
+        "question_text": "1390、鼻腔的易出血区位于",
+        "options": [
+            "A.鼻中隔前下份",
+            "B.鼻中隔后上份",
+            "C.上鼻甲",
+            "D.中鼻甲",
+            "E.下鼻甲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 9
+    },
+    {
+        "question_text": "1391、不开口于中鼻道的鼻旁窦是",
+        "options": [
+            "A.额窦",
+            "B.筛窦后群",
+            "C.筛窦中群",
+            "D.筛窦前群",
+            "E.上颌窦"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 10
+    },
+    {
+        "question_text": "1392、开口于上鼻道的鼻旁窦是（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.额窦",
+            "C.筛窦中群",
+            "D.筛窦后群",
+            "E.蝶窦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 11
+    },
+    {
+        "question_text": "1393、有关鼻旁窦的错误描述为（  ）",
+        "options": [
+            "A.为鼻的一部分",
+            "B.有额窦、蝶窦、筛窦、上颌窦等四对",
+            "C.各对鼻旁窦均开口于中鼻道",
+            "D.鼻旁窦的黏膜与鼻腔黏膜相移行",
+            "E.对发音有共鸣作用是其功能之一"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 12
+    },
+    {
+        "question_text": "1394、鼻旁窦中容积最大的一对是",
+        "options": [
+            "A.上颌窦",
+            "B.蝶窦",
+            "C.额窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 13
+    },
+    {
+        "question_text": "1395、当鼻旁窦内积液时，最不易引流的是（  ）",
+        "options": [
+            "A.蝶窦",
+            "B.额窦",
+            "C.上颌窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 14
+    },
+    {
+        "question_text": "1396、与上颌牙根最临近的鼻旁窦是（  ）",
+        "options": [
+            "A.筛窦前、中群",
+            "B.上颌窦",
+            "C.额窦",
+            "D.蝶窦",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 15
+    },
+    {
+        "question_text": "1397、开口于下鼻道的结构是（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.筛窦前、中群",
+            "C.鼻泪管",
+            "D.泪小管",
+            "E.额窦"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 16
+    },
+    {
+        "question_text": "1398、直立时不能借助于重力引流，易患慢性化脓性鼻旁窦炎的是",
+        "options": [
+            "A.额窦",
+            "B.蝶窦",
+            "C.上颌窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 17
+    },
+    {
+        "question_text": "1399、下列鼻旁窦中，与牙的炎症可相互累及（  ）",
+        "options": [
+            "A.额窦",
+            "B.上颌窦",
+            "C.蝶窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 18
+    },
+    {
+        "question_text": "1400、关于喉位置的叙述，何者错误？",
+        "options": [
+            "A.位于颈前部的中份",
+            "B.在喉咽的前方",
+            "C.成人喉平对第3-6颈椎体",
+            "D.小儿喉较成人低",
+            "E.女性喉力高于男性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 19
+    },
+    {
+        "question_text": "1401、有关喉软骨的错误描述是（  ）",
+        "options": [
+            "A.有甲状软骨、环状软骨、勺状软骨和会厌软骨",
+            "B.环状软骨前部为环状软骨板、后部为环状软骨弓",
+            "C.甲状软骨为最大",
+            "D.勺状软骨底有声带突和肌突",
+            "E.喉结为成年男子甲状软骨前角上部最突出的部分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 20
+    },
+    {
+        "question_text": "1402、成年人喉的位置平对",
+        "options": [
+            "A.第2-4颈椎体",
+            "B.第3-5颈椎体",
+            "C.第3-6颈椎体",
+            "D.第5-6颈椎体",
+            "E.第5-7颈椎体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 21
+    },
+    {
+        "question_text": "1403、成对的喉软骨是（  ）",
+        "options": [
+            "A.甲状软骨",
+            "B.环状软骨",
+            "C.会厌软骨",
+            "D.杓状软骨",
+            "E.杓状软骨和会厌软骨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 22
+    },
+    {
+        "question_text": "1404、有声带突的喉软骨是（  ）",
+        "options": [
+            "A.甲状软骨",
+            "B.环状软骨",
+            "C.杓状软骨",
+            "D.会厌软骨",
+            "E.会厌软骨和甲状软骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 23
+    },
+    {
+        "question_text": "1405、有关杓状软骨及其相关结构的错误描述（  ）",
+        "options": [
+            "A.为成对喉软骨",
+            "B.基底部有声带突和肌突",
+            "C.两侧勺状软骨间的裂隙为声门裂的后部",
+            "D.底与环状软骨弓上缘构成环勺关节",
+            "E.环勺关节的主要功能为调节声门裂的大小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 24
+    },
+    {
+        "question_text": "1406、参与围成喉口的结构是",
+        "options": [
+            "A.甲状软骨上缘",
+            "B.腭咽弓",
+            "C.会厌软骨下缘",
+            "D.杓会厌襞",
+            "E.环状软骨后上缘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 25
+    },
+    {
+        "question_text": "1407、前庭襞和声襞",
+        "options": [
+            "A.是喉腔中部内面的两对粘膜皱襞",
+            "B.呈冠状位",
+            "C.上方一对是声襞",
+            "D.下方一对称为前庭襞",
+            "E.声襞和前庭襞之间的梭形隐窝称为喉中间腔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 26
+    },
+    {
+        "question_text": "1408、经环甲正中韧带穿刺可进入（  ）",
+        "options": [
+            "A.喉口",
+            "B.喉前庭",
+            "C.喉中间腔",
+            "D.喉室",
+            "E.声门下腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 27
+    },
+    {
+        "question_text": "1409、喉腔中最狭窄部位位于",
+        "options": [
+            "A.喉口",
+            "B.喉前庭",
+            "C.声门下腔",
+            "D.前庭裂",
+            "E.声门裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 28
+    },
+    {
+        "question_text": "1410、关于声门裂的叙述，下列哪项正确？",
+        "options": [
+            "A.声韧带游离缘之间称为膜间部",
+            "B.是两侧声襞之间的裂隙",
+            "C.是喉腔最狭窄的部位",
+            "D.杓状软骨之间称为软骨间部",
+            "E.是声带之间的窄隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 29
+    },
+    {
+        "question_text": "1411、婴幼儿炎症时易引起喉水肿，容易引起喉阻塞的部位为",
+        "options": [
+            "A.声带",
+            "B.喉前庭",
+            "C.喉中间腔粘膜",
+            "D.声门下腔粘膜",
+            "E.喉口粘膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 30
+    },
+    {
+        "question_text": "1412、指出喉的错误描述（  ）",
+        "options": [
+            "A.喉软骨是喉的支架",
+            "B.甲状软骨是喉软骨中最大的一块",
+            "C.喉腔经喉口通喉咽",
+            "D.前庭裂是喉腔最狭窄处",
+            "E.环甲关节可调节声带紧张度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 31
+    },
+    {
+        "question_text": "1413、弹性圆锥形成的结构是",
+        "options": [
+            "A.前庭韧带",
+            "B.声韧带",
+            "C.方形膜",
+            "D.甲状舌骨膜",
+            "E.环状软骨气管韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 32
+    },
+    {
+        "question_text": "1414、关于声韧带的描述，错误的是",
+        "options": [
+            "A.为弹性纤维组成的膜状结构",
+            "B.为弹性圆锥的游离上缘",
+            "C.声韧带又称声带",
+            "D.连于甲状软骨前角与杓状软骨之间",
+            "E.属于弹性圆锥一部分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 33
+    },
+    {
+        "question_text": "1415、调节声带紧张度的主要肌是（  ）",
+        "options": [
+            "A.环甲肌",
+            "B.甲状舌骨肌",
+            "C.胸骨舌骨肌",
+            "D.环勺后肌",
+            "E.勺横肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 34
+    },
+    {
+        "question_text": "1416、喉软骨的连接不包括（  ）",
+        "options": [
+            "A.环甲关节",
+            "B.环勺关节",
+            "C.弹性圆锥",
+            "D.方形膜",
+            "E.勺会厌襞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 35
+    },
+    {
+        "question_text": "1417、环甲肌的作用是",
+        "options": [
+            "A.开大声门、紧张声带",
+            "B.缩小喉口",
+            "C.开大喉口",
+            "D.关闭喉口",
+            "E.缩小声门，紧张声带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 36
+    },
+    {
+        "question_text": "1418、紧张声带的肌是",
+        "options": [
+            "A.甲杓肌",
+            "B.环甲肌",
+            "C.杓横肌",
+            "D.杓斜肌",
+            "E.环杓侧肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 37
+    },
+    {
+        "question_text": "1419、使声襞变短、松驰的肌是",
+        "options": [
+            "A.环甲肌",
+            "B.环杓后肌",
+            "C.环杓侧肌",
+            "D.甲杓肌",
+            "E.杓横肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 38
+    },
+    {
+        "question_text": "1420、气管（  ）",
+        "options": [
+            "A.上端平第4颈椎体下缘",
+            "B.下端在胸骨角平面分为左、右主支气管",
+            "C.气管切开常在第1－3气管软骨环进行",
+            "D.完整的气管软骨环构成气管支架",
+            "E.位于食管前方，上接甲状软骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 39
+    },
+    {
+        "question_text": "1421、气管（  ）",
+        "options": [
+            "A.位于食管后方",
+            "B.上接喉咽",
+            "C.气管软骨呈“O”形",
+            "D.分叉处称气管隆嵴",
+            "E.在胸骨角平面分为左、右主支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 40
+    },
+    {
+        "question_text": "1422、左、右主支气管（  ）",
+        "options": [
+            "A.右主支气管较长",
+            "B.左主支气管较粗",
+            "C.左主支气管较陡直",
+            "D.右主支气管后方有食管下行",
+            "E.气管异物易坠右主支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 41
+    },
+    {
+        "question_text": "1423、关于右主支气管的叙述，错误的是",
+        "options": [
+            "A.较左主支气管陡直",
+            "B.较左主支气管长",
+            "C.管径比左主支气管粗",
+            "D.构造与气管类似",
+            "E.气管异物多坠入右主支气管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 42
+    },
+    {
+        "question_text": "1424、支气管镜检查的重要标志是",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.嵴下角",
+            "D.气管膜壁",
+            "E.气管环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 43
+    },
+    {
+        "question_text": "1425、鼻前庭与固有鼻腔的分界是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 44
+    },
+    {
+        "question_text": "1426、属外鼻部分的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 45
+    },
+    {
+        "question_text": "1427、属鼻腔顶骨性部分的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 46
+    },
+    {
+        "question_text": "1428、有鼻泪管开口的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 47
+    },
+    {
+        "question_text": "1429、筛窦后群开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 48
+    },
+    {
+        "question_text": "1430、额窦开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 49
+    },
+    {
+        "question_text": "1431、与咽相通的是（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 50
+    },
+    {
+        "question_text": "1432、上鼻甲的后方称",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 51
+    },
+    {
+        "question_text": "1433、位于喉口与前庭裂之间的喉腔部分称（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 52
+    },
+    {
+        "question_text": "1434、位于前庭裂与声门裂之间的部分称（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 53
+    },
+    {
+        "question_text": "1435、喉中间腔突向两侧的部分为（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 54
+    },
+    {
+        "question_text": "1436、喉腔最狭窄处为（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 55
+    },
+    {
+        "question_text": "1437、支气管镜检时的定位标志是（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 56
+    },
+    {
+        "question_text": "1438、气管分叉处称（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 57
+    },
+    {
+        "question_text": "1439、气管异物易坠入（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 58
+    },
+    {
+        "question_text": "1440、喉室",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 59
+    },
+    {
+        "question_text": "1441、前庭裂",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 60
+    },
+    {
+        "question_text": "1442、声门裂",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 61
+    },
+    {
+        "question_text": "1443、气管起始处为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 62
+    },
+    {
+        "question_text": "1444、气管分杈为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 63
+    },
+    {
+        "question_text": "1445、喉上界为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 64
+    },
+    {
+        "question_text": "1467、肺",
+        "options": [
+            "A.位于纵隔两侧的胸膜腔内",
+            "B.肺尖可超出胸廓上口",
+            "C.深吸气时，肺下缘伸入到肋膈隐窝内",
+            "D.肺内侧面的上部有凹陷的肺门",
+            "E.肺门的下方有血管弓勾绕"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 65
+    },
+    {
+        "question_text": "1468、关于左肺和右肺描述中，错误的是",
+        "options": [
+            "A.左、右肺尖均经胸廓上口突至颈根部",
+            "B.左肺狭长、右肺宽短",
+            "C.左肺分上、下两叶，右肺分上、中、下三叶",
+            "D.左、右肺根内结构自上而下依次为肺静脉、肺动脉、支气管",
+            "E.左肺前缘有心切迹，其下有肺小舌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 66
+    },
+    {
+        "question_text": "1469、肺尖的体表投影位于",
+        "options": [
+            "A.锁骨平面",
+            "B.锁骨内1/3段上方2.5cm",
+            "C.锁骨中1/3段上方2.5cm",
+            "D.锁骨外1/3段上方2.5cm",
+            "E.胸膜顶下方约1cm处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 67
+    },
+    {
+        "question_text": "1470、肺根内经过的主要结构自前向后依次为",
+        "options": [
+            "A.肺静脉、支气管、肺动脉",
+            "B.肺动脉、肺静脉、支气管",
+            "C.支气管、肺动脉、肺静脉",
+            "D.肺静脉、肺动脉、支气管",
+            "E.支气管、肺静脉、肺动脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 68
+    },
+    {
+        "question_text": "1471、左肺根各结构的排列，自上而下依次为",
+        "options": [
+            "A.肺静脉、肺动脉、支气管",
+            "B.肺动脉、支气管、肺静脉",
+            "C.支气管、肺动脉、肺静脉",
+            "D.支气管、肺静脉、肺动脉",
+            "E.肺静脉、支气管、肺动脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 69
+    },
+    {
+        "question_text": "1472、肺的下界在锁骨中线位于",
+        "options": [
+            "A.第6肋",
+            "B.第8肋",
+            "C.第10肋",
+            "D.第11肋",
+            "E.第12肋"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 70
+    },
+    {
+        "question_text": "1473、肺（  ）",
+        "options": [
+            "A.右肺狭长",
+            "B.左肺宽短",
+            "C.右肺前缘下部有心切迹",
+            "D.左肺有斜裂和水平裂",
+            "E.纵隔面有肺门"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 71
+    },
+    {
+        "question_text": "1474、左肺（  ）",
+        "options": [
+            "A.有斜裂和水平裂",
+            "B.分上、中、下三叶",
+            "C.前缘下部有肺小舌",
+            "D.较右肺宽短",
+            "E.在右肺根内最上方的结构是肺静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 72
+    },
+    {
+        "question_text": "1475、右肺（  ）",
+        "options": [
+            "A.较左肺狭长",
+            "B.右肺的肺裂仅有斜裂",
+            "C.分上、下二叶",
+            "D.前缘有肺小舌",
+            "E.在右肺根内最上方的结构是支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 73
+    },
+    {
+        "question_text": "1476、肺手术切断肺韧带时，须注意保护的结构是",
+        "options": [
+            "A.下叶支气管",
+            "B.肺动脉",
+            "C.左、右下肺静脉",
+            "D.迷走神经",
+            "E.心包膈血管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 74
+    },
+    {
+        "question_text": "1477、某患者因肺内肿块需做肺段切除术，下列哪项对肺段的叙述是错误的？",
+        "options": [
+            "A.第3级支气管及其所属的肺组织构成一个肺段",
+            "B.相邻肺段间以结缔组织分隔",
+            "C.段间静脉收集相邻肺段的血液",
+            "D.每一个肺段呈圆锥形",
+            "E.肺段间有肺段动脉、段支气管及其血管伴行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 75
+    },
+    {
+        "question_text": "1478、属左肺形态结构的是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 76
+    },
+    {
+        "question_text": "1479、属右肺形态结构的是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 77
+    },
+    {
+        "question_text": "1480、肺的功能血管是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 78
+    },
+    {
+        "question_text": "1481、肺的营养血管是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 79
+    },
+    {
+        "question_text": "1493、胸膜下界在锁骨中线处于",
+        "options": [
+            "A.第6肋",
+            "B.第8肋",
+            "C.第10肋",
+            "D.第12肋",
+            "E.第9肋"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 80
+    },
+    {
+        "question_text": "1494、在人直立或坐位时，胸膜腔的最低处是",
+        "options": [
+            "A.肺下界",
+            "B.膈穹窿",
+            "C.肋纵隔隐窝",
+            "D.肋膈隐窝",
+            "E.膈纵隔隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 81
+    },
+    {
+        "question_text": "1495、肋膈隐窝描述中，错误的是",
+        "options": [
+            "A.为胸膜腔的最低部位",
+            "B.深度一般可达两个肋及间隙",
+            "C.深吸气时，肺下缘不能充满此隐窝",
+            "D.位于肋胸膜与纵膈胸膜转折处",
+            "E.胸膜隐窝的一部分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 82
+    },
+    {
+        "question_text": "1496、不属于壁胸膜的是（  ）",
+        "options": [
+            "A.肋胸膜",
+            "B.肺胸膜",
+            "C.膈胸膜",
+            "D.纵隔胸膜",
+            "E.胸膜顶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 83
+    },
+    {
+        "question_text": "1497、有关胸膜腔的错误描述（  ）",
+        "options": [
+            "A.由脏胸膜和壁胸膜围成",
+            "B.左右各一，并不连通",
+            "C.腔内为负压",
+            "D.最低处为肋膈隐窝",
+            "E.在深吸气时，肺缘能深入各胸膜隐窝内"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 84
+    },
+    {
+        "question_text": "1498、胸膜的描述错误的是",
+        "options": [
+            "A.为一层浆膜",
+            "B.分脏、壁两层",
+            "C.脏、壁两层相互移行围成胸膜腔",
+            "D.脏胸膜形成胸膜顶",
+            "E.壁胸膜移行处形成胸膜隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 85
+    },
+    {
+        "question_text": "1499、有关胸膜的错误描述（  ）",
+        "options": [
+            "A.可分脏胸膜和壁胸膜两部分",
+            "B.脏胸膜也称肺胸膜",
+            "C.肋胸膜为壁胸膜的一部分",
+            "D.脏胸膜和壁胸膜不连续",
+            "E.脏胸膜可深入肺裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 86
+    },
+    {
+        "question_text": "1500、下列正确的描述（  ）",
+        "options": [
+            "A.胸腔和胸膜腔在解剖学上是同一个概念",
+            "B.胸廓和胸壁在解剖学上是同一个概念",
+            "C.纵隔在胸腔内",
+            "D.纵隔内所有结构均在胸膜腔内",
+            "E.胸膜腔内结构除纵隔内各结构外，还有肺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 87
+    },
+    {
+        "question_text": "1501、某患者心脏突然停止跳动，医生决定作心内注射以抢救患者，为避免损伤胸膜，正确的进针部位是",
+        "options": [
+            "A.胸骨右缘第4肋间隙",
+            "B.胸骨右缘第5肋间隙",
+            "C.胸骨左缘第4肋间隙",
+            "D.胸骨左缘第5肋间隙",
+            "E.胸骨下角靠右"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 88
+    },
+    {
+        "question_text": "1502、胸膜和胸膜腔",
+        "options": [
+            "A.壁胸膜为衬贴于胸壁内面的浆膜",
+            "B.覆盖胸腔各器官表面的浆膜称为脏胸膜",
+            "C.胸膜腔左、右各一，分别容纳两肺",
+            "D.脏、壁胸膜共同围成胸膜腔",
+            "E.胸膜隐窝为胸膜腔的最低部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 89
+    },
+    {
+        "question_text": "1503、开放性气胸患者常引起纵隔摆动，严重影响肺的正常呼吸功能，其原因是",
+        "options": [
+            "A.外伤破坏双侧胸膜腔负压",
+            "B.外伤使双侧胸膜腔不等压",
+            "C.两侧胸膜腔相通",
+            "D.两侧胸膜腔不相通",
+            "E.损伤纵隔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 90
+    },
+    {
+        "question_text": "1504、属脏胸膜的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 91
+    },
+    {
+        "question_text": "1505、属壁胸膜的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 92
+    },
+    {
+        "question_text": "1506、属胸膜腔部分的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 93
+    },
+    {
+        "question_text": "1507、胸膜形成物是（ ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.膈胸膜",
+            "D.肝肾隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 94
+    },
+    {
+        "question_text": "1518、纵隔",
+        "options": [
+            "A.通常以胸骨角平面分为上、下两部",
+            "B.下纵隔又分为前、后两部",
+            "C.下纵隔的前部有心脏",
+            "D.下纵隔后部有气管",
+            "E.上纵隔内有胸主动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 95
+    },
+    {
+        "question_text": "1519、纵隔的错误描述（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间所有结构的总称",
+            "B.前界为胸骨",
+            "C.后界为脊柱胸段",
+            "D.两侧为纵隔胸膜",
+            "E.上界为胸骨角平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 96
+    },
+    {
+        "question_text": "1520、位于中纵隔内的是（  ）",
+        "options": [
+            "A.胸主动脉",
+            "B.胸导管",
+            "C.心",
+            "D.奇静脉",
+            "E.食管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 97
+    },
+    {
+        "question_text": "1521、位于上纵隔最前面的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 98
+    },
+    {
+        "question_text": "1522、位于中纵隔内的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 99
+    },
+    {
+        "question_text": "1523、既在上纵隔，又在下纵隔内的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 100
+    },
+    {
+        "question_text": "1382、呼吸系统",
+        "options": [
+            "A.呼吸系统的功能仅是进行气体交换",
+            "B.鼻、咽、喉，气管属上呼吸道",
+            "C.主支气管及其在肺内的分支称下呼吸道",
+            "D.肺由肺泡所组成",
+            "E.以上都不正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 101
+    },
+    {
+        "question_text": "1383、上呼吸道包括（  ）",
+        "options": [
+            "A.鼻",
+            "B.鼻和咽",
+            "C.鼻、咽和喉",
+            "D.鼻、咽、喉和气管",
+            "E.气管和支气管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 102
+    },
+    {
+        "question_text": "1384、鼻（  ）",
+        "options": [
+            "A.包括鼻腔和外鼻两部分",
+            "B.鼻翼是外鼻结构中的一部分",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.中鼻道有鼻泪管的开口",
+            "E.下鼻甲的前部为易出血区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 103
+    },
+    {
+        "question_text": "1385、关于鼻中隔的叙述，下列哪项是正确的",
+        "options": [
+            "A.以骨为基础",
+            "B.前下份有Little区",
+            "C.都是正中矢状位",
+            "D.以软骨为基础",
+            "E.其表面的粘膜称为呼吸区"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 104
+    },
+    {
+        "question_text": "1386、一颅底外伤患者，脑脊液和血液从鼻腔流出，试问是伤及哪个结构？",
+        "options": [
+            "A.鼻骨",
+            "B.泪骨",
+            "C.筛骨垂直板",
+            "D.蝶骨体",
+            "E.腭骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 105
+    },
+    {
+        "question_text": "1387、鼻腔",
+        "options": [
+            "A.鼻中隔将其分为完全对称的左右两腔",
+            "B.每侧又分为嗅部和呼吸部",
+            "C.外侧壁上有3个鼻甲",
+            "D.内侧壁上有3个鼻道",
+            "E.鼻旁窦均开口于各鼻道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 106
+    },
+    {
+        "question_text": "1388、有关鼻腔的错误描述为（  ）",
+        "options": [
+            "A.鼻腔为鼻的一部分",
+            "B.由鼻中隔分为左、右两半",
+            "C.可分为鼻前庭和固有鼻腔两部分",
+            "D.上、中、下鼻道均有鼻旁窦的开口",
+            "E.侧壁上有上、中、下鼻甲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 107
+    },
+    {
+        "question_text": "1389、鼻出血的好发部位是",
+        "options": [
+            "A.鼻腔顶部",
+            "B.鼻腔外侧壁上部",
+            "C.鼻腔外侧壁下部",
+            "D.鼻中隔上部",
+            "E.鼻中隔前下部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 108
+    },
+    {
+        "question_text": "1390、鼻腔的易出血区位于",
+        "options": [
+            "A.鼻中隔前下份",
+            "B.鼻中隔后上份",
+            "C.上鼻甲",
+            "D.中鼻甲",
+            "E.下鼻甲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 109
+    },
+    {
+        "question_text": "1391、不开口于中鼻道的鼻旁窦是",
+        "options": [
+            "A.额窦",
+            "B.筛窦后群",
+            "C.筛窦中群",
+            "D.筛窦前群",
+            "E.上颌窦"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 110
+    },
+    {
+        "question_text": "1392、开口于上鼻道的鼻旁窦是（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.额窦",
+            "C.筛窦中群",
+            "D.筛窦后群",
+            "E.蝶窦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 111
+    },
+    {
+        "question_text": "1393、有关鼻旁窦的错误描述为（  ）",
+        "options": [
+            "A.为鼻的一部分",
+            "B.有额窦、蝶窦、筛窦、上颌窦等四对",
+            "C.各对鼻旁窦均开口于中鼻道",
+            "D.鼻旁窦的黏膜与鼻腔黏膜相移行",
+            "E.对发音有共鸣作用是其功能之一"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 112
+    },
+    {
+        "question_text": "1394、鼻旁窦中容积最大的一对是",
+        "options": [
+            "A.上颌窦",
+            "B.蝶窦",
+            "C.额窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 113
+    },
+    {
+        "question_text": "1395、当鼻旁窦内积液时，最不易引流的是（  ）",
+        "options": [
+            "A.蝶窦",
+            "B.额窦",
+            "C.上颌窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 114
+    },
+    {
+        "question_text": "1396、与上颌牙根最临近的鼻旁窦是（  ）",
+        "options": [
+            "A.筛窦前、中群",
+            "B.上颌窦",
+            "C.额窦",
+            "D.蝶窦",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 115
+    },
+    {
+        "question_text": "1397、开口于下鼻道的结构是（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.筛窦前、中群",
+            "C.鼻泪管",
+            "D.泪小管",
+            "E.额窦"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 116
+    },
+    {
+        "question_text": "1398、直立时不能借助于重力引流，易患慢性化脓性鼻旁窦炎的是",
+        "options": [
+            "A.额窦",
+            "B.蝶窦",
+            "C.上颌窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 117
+    },
+    {
+        "question_text": "1399、下列鼻旁窦中，与牙的炎症可相互累及（  ）",
+        "options": [
+            "A.额窦",
+            "B.上颌窦",
+            "C.蝶窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 118
+    },
+    {
+        "question_text": "1400、关于喉位置的叙述，何者错误？",
+        "options": [
+            "A.位于颈前部的中份",
+            "B.在喉咽的前方",
+            "C.成人喉平对第3-6颈椎体",
+            "D.小儿喉较成人低",
+            "E.女性喉力高于男性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 119
+    },
+    {
+        "question_text": "1401、有关喉软骨的错误描述是（  ）",
+        "options": [
+            "A.有甲状软骨、环状软骨、勺状软骨和会厌软骨",
+            "B.环状软骨前部为环状软骨板、后部为环状软骨弓",
+            "C.甲状软骨为最大",
+            "D.勺状软骨底有声带突和肌突",
+            "E.喉结为成年男子甲状软骨前角上部最突出的部分"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 120
+    },
+    {
+        "question_text": "1402、成年人喉的位置平对",
+        "options": [
+            "A.第2-4颈椎体",
+            "B.第3-5颈椎体",
+            "C.第3-6颈椎体",
+            "D.第5-6颈椎体",
+            "E.第5-7颈椎体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 121
+    },
+    {
+        "question_text": "1403、成对的喉软骨是（  ）",
+        "options": [
+            "A.甲状软骨",
+            "B.环状软骨",
+            "C.会厌软骨",
+            "D.杓状软骨",
+            "E.杓状软骨和会厌软骨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 122
+    },
+    {
+        "question_text": "1404、有声带突的喉软骨是（  ）",
+        "options": [
+            "A.甲状软骨",
+            "B.环状软骨",
+            "C.杓状软骨",
+            "D.会厌软骨",
+            "E.会厌软骨和甲状软骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 123
+    },
+    {
+        "question_text": "1405、有关杓状软骨及其相关结构的错误描述（  ）",
+        "options": [
+            "A.为成对喉软骨",
+            "B.基底部有声带突和肌突",
+            "C.两侧勺状软骨间的裂隙为声门裂的后部",
+            "D.底与环状软骨弓上缘构成环勺关节",
+            "E.环勺关节的主要功能为调节声门裂的大小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 124
+    },
+    {
+        "question_text": "1406、参与围成喉口的结构是",
+        "options": [
+            "A.甲状软骨上缘",
+            "B.腭咽弓",
+            "C.会厌软骨下缘",
+            "D.杓会厌襞",
+            "E.环状软骨后上缘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 125
+    },
+    {
+        "question_text": "1407、前庭襞和声襞",
+        "options": [
+            "A.是喉腔中部内面的两对粘膜皱襞",
+            "B.呈冠状位",
+            "C.上方一对是声襞",
+            "D.下方一对称为前庭襞",
+            "E.声襞和前庭襞之间的梭形隐窝称为喉中间腔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 126
+    },
+    {
+        "question_text": "1408、经环甲正中韧带穿刺可进入（  ）",
+        "options": [
+            "A.喉口",
+            "B.喉前庭",
+            "C.喉中间腔",
+            "D.喉室",
+            "E.声门下腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 127
+    },
+    {
+        "question_text": "1409、喉腔中最狭窄部位位于",
+        "options": [
+            "A.喉口",
+            "B.喉前庭",
+            "C.声门下腔",
+            "D.前庭裂",
+            "E.声门裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 128
+    },
+    {
+        "question_text": "1410、关于声门裂的叙述，下列哪项正确？",
+        "options": [
+            "A.声韧带游离缘之间称为膜间部",
+            "B.是两侧声襞之间的裂隙",
+            "C.是喉腔最狭窄的部位",
+            "D.杓状软骨之间称为软骨间部",
+            "E.是声带之间的窄隙"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 129
+    },
+    {
+        "question_text": "1411、婴幼儿炎症时易引起喉水肿，容易引起喉阻塞的部位为",
+        "options": [
+            "A.声带",
+            "B.喉前庭",
+            "C.喉中间腔粘膜",
+            "D.声门下腔粘膜",
+            "E.喉口粘膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 130
+    },
+    {
+        "question_text": "1412、指出喉的错误描述（  ）",
+        "options": [
+            "A.喉软骨是喉的支架",
+            "B.甲状软骨是喉软骨中最大的一块",
+            "C.喉腔经喉口通喉咽",
+            "D.前庭裂是喉腔最狭窄处",
+            "E.环甲关节可调节声带紧张度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 131
+    },
+    {
+        "question_text": "1413、弹性圆锥形成的结构是",
+        "options": [
+            "A.前庭韧带",
+            "B.声韧带",
+            "C.方形膜",
+            "D.甲状舌骨膜",
+            "E.环状软骨气管韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 132
+    },
+    {
+        "question_text": "1414、关于声韧带的描述，错误的是",
+        "options": [
+            "A.为弹性纤维组成的膜状结构",
+            "B.为弹性圆锥的游离上缘",
+            "C.声韧带又称声带",
+            "D.连于甲状软骨前角与杓状软骨之间",
+            "E.属于弹性圆锥一部分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 133
+    },
+    {
+        "question_text": "1415、调节声带紧张度的主要肌是（  ）",
+        "options": [
+            "A.环甲肌",
+            "B.甲状舌骨肌",
+            "C.胸骨舌骨肌",
+            "D.环勺后肌",
+            "E.勺横肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 134
+    },
+    {
+        "question_text": "1416、喉软骨的连接不包括（  ）",
+        "options": [
+            "A.环甲关节",
+            "B.环勺关节",
+            "C.弹性圆锥",
+            "D.方形膜",
+            "E.勺会厌襞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 135
+    },
+    {
+        "question_text": "1417、环甲肌的作用是",
+        "options": [
+            "A.开大声门、紧张声带",
+            "B.缩小喉口",
+            "C.开大喉口",
+            "D.关闭喉口",
+            "E.缩小声门，紧张声带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 136
+    },
+    {
+        "question_text": "1418、紧张声带的肌是",
+        "options": [
+            "A.甲杓肌",
+            "B.环甲肌",
+            "C.杓横肌",
+            "D.杓斜肌",
+            "E.环杓侧肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 137
+    },
+    {
+        "question_text": "1419、使声襞变短、松驰的肌是",
+        "options": [
+            "A.环甲肌",
+            "B.环杓后肌",
+            "C.环杓侧肌",
+            "D.甲杓肌",
+            "E.杓横肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 138
+    },
+    {
+        "question_text": "1420、气管（  ）",
+        "options": [
+            "A.上端平第4颈椎体下缘",
+            "B.下端在胸骨角平面分为左、右主支气管",
+            "C.气管切开常在第1－3气管软骨环进行",
+            "D.完整的气管软骨环构成气管支架",
+            "E.位于食管前方，上接甲状软骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 139
+    },
+    {
+        "question_text": "1421、气管（  ）",
+        "options": [
+            "A.位于食管后方",
+            "B.上接喉咽",
+            "C.气管软骨呈“O”形",
+            "D.分叉处称气管隆嵴",
+            "E.在胸骨角平面分为左、右主支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 140
+    },
+    {
+        "question_text": "1422、左、右主支气管（  ）",
+        "options": [
+            "A.右主支气管较长",
+            "B.左主支气管较粗",
+            "C.左主支气管较陡直",
+            "D.右主支气管后方有食管下行",
+            "E.气管异物易坠右主支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 141
+    },
+    {
+        "question_text": "1423、关于右主支气管的叙述，错误的是",
+        "options": [
+            "A.较左主支气管陡直",
+            "B.较左主支气管长",
+            "C.管径比左主支气管粗",
+            "D.构造与气管类似",
+            "E.气管异物多坠入右主支气管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 142
+    },
+    {
+        "question_text": "1424、支气管镜检查的重要标志是",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.嵴下角",
+            "D.气管膜壁",
+            "E.气管环"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 143
+    },
+    {
+        "question_text": "1425、鼻前庭与固有鼻腔的分界是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 144
+    },
+    {
+        "question_text": "1426、属外鼻部分的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 145
+    },
+    {
+        "question_text": "1427、属鼻腔顶骨性部分的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 146
+    },
+    {
+        "question_text": "1428、有鼻泪管开口的是（  ）",
+        "options": [
+            "A.鼻翼",
+            "B.鼻阈",
+            "C.鼻中隔表面的黏膜为鼻黏膜的嗅区",
+            "D.筛板",
+            "E.下鼻道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 147
+    },
+    {
+        "question_text": "1429、筛窦后群开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 148
+    },
+    {
+        "question_text": "1430、额窦开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 149
+    },
+    {
+        "question_text": "1431、与咽相通的是（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 150
+    },
+    {
+        "question_text": "1432、上鼻甲的后方称",
+        "options": [
+            "A.上鼻道",
+            "B.中鼻道",
+            "C.下鼻道",
+            "D.鼻后孔",
+            "E.蝶筛隐窝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 151
+    },
+    {
+        "question_text": "1433、位于喉口与前庭裂之间的喉腔部分称（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 152
+    },
+    {
+        "question_text": "1434、位于前庭裂与声门裂之间的部分称（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 153
+    },
+    {
+        "question_text": "1435、喉中间腔突向两侧的部分为（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 154
+    },
+    {
+        "question_text": "1436、喉腔最狭窄处为（  ）",
+        "options": [
+            "A.喉前庭",
+            "B.喉中间腔",
+            "C.声门裂",
+            "D.喉室",
+            "E.前庭裂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 155
+    },
+    {
+        "question_text": "1437、支气管镜检时的定位标志是（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 156
+    },
+    {
+        "question_text": "1438、气管分叉处称（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 157
+    },
+    {
+        "question_text": "1439、气管异物易坠入（  ）",
+        "options": [
+            "A.气管杈",
+            "B.气管隆嵴",
+            "C.右主支气管",
+            "D.左主支气管",
+            "E.气管软骨"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 158
+    },
+    {
+        "question_text": "1440、喉室",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 159
+    },
+    {
+        "question_text": "1441、前庭裂",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 160
+    },
+    {
+        "question_text": "1442、声门裂",
+        "options": [
+            "A.喉腔的上口",
+            "B.两侧前庭襞之间的裂隙",
+            "C.两侧声襞之间的裂隙",
+            "D.每侧声襞与前庭襞之间的隐窝",
+            "E.喉腔上口两侧的隐窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 161
+    },
+    {
+        "question_text": "1443、气管起始处为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 162
+    },
+    {
+        "question_text": "1444、气管分杈为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 163
+    },
+    {
+        "question_text": "1445、喉上界为",
+        "options": [
+            "A.第4、5颈椎椎间盘平面",
+            "B.第6颈椎体下缘平面",
+            "C.第1胸椎体下缘平面",
+            "D.第2胸椎体下缘平面",
+            "E.第4胸椎体下缘平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 164
+    },
+    {
+        "question_text": "1467、肺",
+        "options": [
+            "A.位于纵隔两侧的胸膜腔内",
+            "B.肺尖可超出胸廓上口",
+            "C.深吸气时，肺下缘伸入到肋膈隐窝内",
+            "D.肺内侧面的上部有凹陷的肺门",
+            "E.肺门的下方有血管弓勾绕"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 165
+    },
+    {
+        "question_text": "1468、关于左肺和右肺描述中，错误的是",
+        "options": [
+            "A.左、右肺尖均经胸廓上口突至颈根部",
+            "B.左肺狭长、右肺宽短",
+            "C.左肺分上、下两叶，右肺分上、中、下三叶",
+            "D.左、右肺根内结构自上而下依次为肺静脉、肺动脉、支气管",
+            "E.左肺前缘有心切迹，其下有肺小舌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 166
+    },
+    {
+        "question_text": "1469、肺尖的体表投影位于",
+        "options": [
+            "A.锁骨平面",
+            "B.锁骨内1/3段上方2.5cm",
+            "C.锁骨中1/3段上方2.5cm",
+            "D.锁骨外1/3段上方2.5cm",
+            "E.胸膜顶下方约1cm处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 167
+    },
+    {
+        "question_text": "1470、肺根内经过的主要结构自前向后依次为",
+        "options": [
+            "A.肺静脉、支气管、肺动脉",
+            "B.肺动脉、肺静脉、支气管",
+            "C.支气管、肺动脉、肺静脉",
+            "D.肺静脉、肺动脉、支气管",
+            "E.支气管、肺静脉、肺动脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 168
+    },
+    {
+        "question_text": "1471、左肺根各结构的排列，自上而下依次为",
+        "options": [
+            "A.肺静脉、肺动脉、支气管",
+            "B.肺动脉、支气管、肺静脉",
+            "C.支气管、肺动脉、肺静脉",
+            "D.支气管、肺静脉、肺动脉",
+            "E.肺静脉、支气管、肺动脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 169
+    },
+    {
+        "question_text": "1472、肺的下界在锁骨中线位于",
+        "options": [
+            "A.第6肋",
+            "B.第8肋",
+            "C.第10肋",
+            "D.第11肋",
+            "E.第12肋"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 170
+    },
+    {
+        "question_text": "1473、肺（  ）",
+        "options": [
+            "A.右肺狭长",
+            "B.左肺宽短",
+            "C.右肺前缘下部有心切迹",
+            "D.左肺有斜裂和水平裂",
+            "E.纵隔面有肺门"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 171
+    },
+    {
+        "question_text": "1474、左肺（  ）",
+        "options": [
+            "A.有斜裂和水平裂",
+            "B.分上、中、下三叶",
+            "C.前缘下部有肺小舌",
+            "D.较右肺宽短",
+            "E.在右肺根内最上方的结构是肺静脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 172
+    },
+    {
+        "question_text": "1475、右肺（  ）",
+        "options": [
+            "A.较左肺狭长",
+            "B.右肺的肺裂仅有斜裂",
+            "C.分上、下二叶",
+            "D.前缘有肺小舌",
+            "E.在右肺根内最上方的结构是支气管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 173
+    },
+    {
+        "question_text": "1476、肺手术切断肺韧带时，须注意保护的结构是",
+        "options": [
+            "A.下叶支气管",
+            "B.肺动脉",
+            "C.左、右下肺静脉",
+            "D.迷走神经",
+            "E.心包膈血管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 174
+    },
+    {
+        "question_text": "1477、某患者因肺内肿块需做肺段切除术，下列哪项对肺段的叙述是错误的？",
+        "options": [
+            "A.第3级支气管及其所属的肺组织构成一个肺段",
+            "B.相邻肺段间以结缔组织分隔",
+            "C.段间静脉收集相邻肺段的血液",
+            "D.每一个肺段呈圆锥形",
+            "E.肺段间有肺段动脉、段支气管及其血管伴行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 175
+    },
+    {
+        "question_text": "1478、属左肺形态结构的是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 176
+    },
+    {
+        "question_text": "1479、属右肺形态结构的是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 177
+    },
+    {
+        "question_text": "1480、肺的功能血管是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 178
+    },
+    {
+        "question_text": "1481、肺的营养血管是（  ）",
+        "options": [
+            "A.肺小舌",
+            "B.肋间后动脉",
+            "C.中叶",
+            "D.肺动脉",
+            "E.支气管动脉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 179
+    },
+    {
+        "question_text": "1493、胸膜下界在锁骨中线处于",
+        "options": [
+            "A.第6肋",
+            "B.第8肋",
+            "C.第10肋",
+            "D.第12肋",
+            "E.第9肋"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 180
+    },
+    {
+        "question_text": "1494、在人直立或坐位时，胸膜腔的最低处是",
+        "options": [
+            "A.肺下界",
+            "B.膈穹窿",
+            "C.肋纵隔隐窝",
+            "D.肋膈隐窝",
+            "E.膈纵隔隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 181
+    },
+    {
+        "question_text": "1495、肋膈隐窝描述中，错误的是",
+        "options": [
+            "A.为胸膜腔的最低部位",
+            "B.深度一般可达两个肋及间隙",
+            "C.深吸气时，肺下缘不能充满此隐窝",
+            "D.位于肋胸膜与纵膈胸膜转折处",
+            "E.胸膜隐窝的一部分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 182
+    },
+    {
+        "question_text": "1496、不属于壁胸膜的是（  ）",
+        "options": [
+            "A.肋胸膜",
+            "B.肺胸膜",
+            "C.膈胸膜",
+            "D.纵隔胸膜",
+            "E.胸膜顶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 183
+    },
+    {
+        "question_text": "1497、有关胸膜腔的错误描述（  ）",
+        "options": [
+            "A.由脏胸膜和壁胸膜围成",
+            "B.左右各一，并不连通",
+            "C.腔内为负压",
+            "D.最低处为肋膈隐窝",
+            "E.在深吸气时，肺缘能深入各胸膜隐窝内"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 184
+    },
+    {
+        "question_text": "1498、胸膜的描述错误的是",
+        "options": [
+            "A.为一层浆膜",
+            "B.分脏、壁两层",
+            "C.脏、壁两层相互移行围成胸膜腔",
+            "D.脏胸膜形成胸膜顶",
+            "E.壁胸膜移行处形成胸膜隐窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 185
+    },
+    {
+        "question_text": "1499、有关胸膜的错误描述（  ）",
+        "options": [
+            "A.可分脏胸膜和壁胸膜两部分",
+            "B.脏胸膜也称肺胸膜",
+            "C.肋胸膜为壁胸膜的一部分",
+            "D.脏胸膜和壁胸膜不连续",
+            "E.脏胸膜可深入肺裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 186
+    },
+    {
+        "question_text": "1500、下列正确的描述（  ）",
+        "options": [
+            "A.胸腔和胸膜腔在解剖学上是同一个概念",
+            "B.胸廓和胸壁在解剖学上是同一个概念",
+            "C.纵隔在胸腔内",
+            "D.纵隔内所有结构均在胸膜腔内",
+            "E.胸膜腔内结构除纵隔内各结构外，还有肺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 187
+    },
+    {
+        "question_text": "1501、某患者心脏突然停止跳动，医生决定作心内注射以抢救患者，为避免损伤胸膜，正确的进针部位是",
+        "options": [
+            "A.胸骨右缘第4肋间隙",
+            "B.胸骨右缘第5肋间隙",
+            "C.胸骨左缘第4肋间隙",
+            "D.胸骨左缘第5肋间隙",
+            "E.胸骨下角靠右"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 188
+    },
+    {
+        "question_text": "1502、胸膜和胸膜腔",
+        "options": [
+            "A.壁胸膜为衬贴于胸壁内面的浆膜",
+            "B.覆盖胸腔各器官表面的浆膜称为脏胸膜",
+            "C.胸膜腔左、右各一，分别容纳两肺",
+            "D.脏、壁胸膜共同围成胸膜腔",
+            "E.胸膜隐窝为胸膜腔的最低部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 189
+    },
+    {
+        "question_text": "1503、开放性气胸患者常引起纵隔摆动，严重影响肺的正常呼吸功能，其原因是",
+        "options": [
+            "A.外伤破坏双侧胸膜腔负压",
+            "B.外伤使双侧胸膜腔不等压",
+            "C.两侧胸膜腔相通",
+            "D.两侧胸膜腔不相通",
+            "E.损伤纵隔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 190
+    },
+    {
+        "question_text": "1504、属脏胸膜的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 191
+    },
+    {
+        "question_text": "1505、属壁胸膜的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 192
+    },
+    {
+        "question_text": "1506、属胸膜腔部分的是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 193
+    },
+    {
+        "question_text": "1507、胸膜形成物是（  ）",
+        "options": [
+            "A.肺胸膜",
+            "B.肺韧带",
+            "C.肋膈隐窝",
+            "D.肝肾隐窝",
+            "E.膈胸膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 194
+    },
+    {
+        "question_text": "1518、纵隔",
+        "options": [
+            "A.通常以胸骨角平面分为上、下两部",
+            "B.下纵隔又分为前、后两部",
+            "C.下纵隔的前部有心脏",
+            "D.下纵隔后部有气管",
+            "E.上纵隔内有胸主动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 195
+    },
+    {
+        "question_text": "1519、纵隔的错误描述（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间所有结构的总称",
+            "B.前界为胸骨",
+            "C.后界为脊柱胸段",
+            "D.两侧为纵隔胸膜",
+            "E.上界为胸骨角平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 196
+    },
+    {
+        "question_text": "1520、位于中纵隔内的是（  ）",
+        "options": [
+            "A.胸主动脉",
+            "B.胸导管",
+            "C.心",
+            "D.奇静脉",
+            "E.食管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 197
+    },
+    {
+        "question_text": "1521、位于上纵隔最前面的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 198
+    },
+    {
+        "question_text": "1522、位于中纵隔内的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 199
+    },
+    {
+        "question_text": "1523、既在上纵隔，又在下纵隔内的是（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心切迹",
+            "C.食管",
+            "D.主动脉弓",
+            "E.升主动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 200
+    },
+    {
+        "question_text": "1446、上呼吸道包括",
+        "options": [
+            "A.固有鼻腔",
+            "B.鼻咽",
+            "C.口咽",
+            "D.喉",
+            "E.喉咽"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 201
+    },
+    {
+        "question_text": "1447、下呼吸道包括",
+        "options": [
+            "A.喉",
+            "B.气管",
+            "C.主支气管",
+            "D.肺内支气管",
+            "E.肺泡"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 202
+    },
+    {
+        "question_text": "1448、鼻腔（  ）",
+        "options": [
+            "A.由鼻中隔分为左右两半",
+            "B.可分为鼻前庭和固有鼻腔两部",
+            "C.鼻前庭和固有鼻腔均衬有黏膜",
+            "D.鼻黏膜可分为嗅区和呼吸区两部",
+            "E.经鼻后孔通鼻咽"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 203
+    },
+    {
+        "question_text": "1449、构成鼻中隔的主要结构是",
+        "options": [
+            "A.筛骨垂直板",
+            "B.犁骨",
+            "C.鼻中隔软骨",
+            "D.腭骨垂直板",
+            "E.腭骨水平板"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 204
+    },
+    {
+        "question_text": "1450、鼻旁窦开口的描述中，正确的是",
+        "options": [
+            "A.额窦开口于中鼻道",
+            "B.上颌窦开口于上鼻道",
+            "C.蝶窦开口于蝶筛隐窝",
+            "D.筛窦中群开口于中鼻道",
+            "E.筛窦前群开口于上鼻道"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 205
+    },
+    {
+        "question_text": "1451、开口于中鼻道的鼻旁窦（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.蝶窦",
+            "C.额窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 206
+    },
+    {
+        "question_text": "1452、环状软骨弓",
+        "options": [
+            "A.后方平第6颈椎椎体下缘",
+            "B.为咽与食管分界平面",
+            "C.为喉与气管分界平面",
+            "D.甲状舌骨膜起于该弓之外面",
+            "E.环甲正中韧带张于此弓上缘"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 207
+    },
+    {
+        "question_text": "1453、弹性圆锥",
+        "options": [
+            "A.又称环甲韧带",
+            "B.上缘游离称声韧带",
+            "C.下缘附着于环状软骨弓上缘",
+            "D.前部较厚，称为环甲正中韧带",
+            "E.急性喉阻塞可穿刺环甲正中韧带"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 208
+    },
+    {
+        "question_text": "1454、属弹性圆锥的结构是（  ）",
+        "options": [
+            "A.环甲正中韧带",
+            "B.室韧带",
+            "C.甲状舌骨膜",
+            "D.声韧带",
+            "E.声襞"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 209
+    },
+    {
+        "question_text": "1455、不成对的喉软骨有",
+        "options": [
+            "A.甲状软骨",
+            "B.杓状软骨",
+            "C.环状软骨",
+            "D.会厌软骨",
+            "E.气管软骨"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 210
+    },
+    {
+        "question_text": "1456、喉",
+        "options": [
+            "A.上借甲状舌骨膜与下颌骨相连",
+            "B.下借环状软骨气管韧带与气管相连",
+            "C.位于颈前部，前方有舌骨下肌群",
+            "D.前方通口腔",
+            "E.后方与咽相邻"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 211
+    },
+    {
+        "question_text": "1457、喉（  ）",
+        "options": [
+            "A.喉口与口咽直接相通",
+            "B.既是呼吸道的一部分，又是发音器官",
+            "C.甲状软骨是喉软骨中最大一块",
+            "D.前庭裂是喉腔最狭窄处",
+            "E.杓状软骨为成对的喉软骨"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 212
+    },
+    {
+        "question_text": "1458、喉腔（  ）",
+        "options": [
+            "A.喉腔可分为喉前庭、喉中间腔和声门下腔",
+            "B.喉室是喉中间腔和声门下腔的总称",
+            "C.前庭襞位于声襞的内下方",
+            "D.声门裂是喉腔最狭窄处",
+            "E.声带由声襞和声韧带组成"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 213
+    },
+    {
+        "question_text": "1459、构成声带的结构（  ）",
+        "options": [
+            "A.前庭襞",
+            "B.声襞",
+            "C.声带肌",
+            "D.声韧带",
+            "E.前庭韧带"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 214
+    },
+    {
+        "question_text": "1460、存在于喉腔侧壁上的结构是",
+        "options": [
+            "A.前庭襞",
+            "B.前庭裂",
+            "C.声襞",
+            "D.声门裂",
+            "E.喉前庭"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 215
+    },
+    {
+        "question_text": "1461、参与围成喉口的结构是",
+        "options": [
+            "A.声襞",
+            "B.会厌",
+            "C.前庭襞",
+            "D.杓会厌襞",
+            "E.杓间切迹"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 216
+    },
+    {
+        "question_text": "1462、气管",
+        "options": [
+            "A.上端平第6颈椎下方",
+            "B.颈部位置浅表，可以摸到",
+            "C.在第5－6气管前方有甲状腺峡",
+            "D.气管隆嵴是气管镜检查的重要标志",
+            "E.在第4胸椎体下缘分为左、右主支气管"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 217
+    },
+    {
+        "question_text": "1463、气管（  ）",
+        "options": [
+            "A.为下呼吸道的一部分",
+            "B.在第六颈椎高度与喉相连",
+            "C.气管软骨呈“C”形",
+            "D.分左、右主支气管的分叉处称“气管杈”",
+            "E.在第二到四气管软骨环的前方有甲状腺峡"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 218
+    },
+    {
+        "question_text": "1464、主支气管",
+        "options": [
+            "A.左侧细长，走行较水平",
+            "B.右侧短粗，走行较陡直",
+            "C.异物多易落入右主支气管",
+            "D.右侧上方有奇静脉弓跨过",
+            "E.左主支气管上方有主动脉弓跨过"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 219
+    },
+    {
+        "question_text": "1465、左主支气管",
+        "options": [
+            "A.管径较右主支气管细",
+            "B.管径较右主支气管粗",
+            "C.较右侧的短",
+            "D.走向较横平",
+            "E.走向较垂直"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 220
+    },
+    {
+        "question_text": "1466、吸入的异物趋向局限于右下叶支气管，这是因为",
+        "options": [
+            "A.右肺没有中叶",
+            "B.左主支气管比右主支气管更为水平",
+            "C.右主支气管的管径比左主支气管大",
+            "D.右下叶支气管几乎与右主支气管相延续",
+            "E.右主支气管较左主支气管相对倾斜"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 221
+    },
+    {
+        "question_text": "1482、肺",
+        "options": [
+            "A.成年人肺入水则下沉",
+            "B.表面覆脏胸膜",
+            "C.肺尖高出锁骨内侧1/3段上方2.5cm",
+            "D.内侧面中部有一凹陷称肺门",
+            "E.肺底稍向上凹，又称膈面"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 222
+    },
+    {
+        "question_text": "1483、肺",
+        "options": [
+            "A.肺尖高出锁骨内侧1/3段上方2-3cm",
+            "B.内侧面中央部凹陷称肺门",
+            "C.肺底又称膈面",
+            "D.下界在腋中线与第10肋相交",
+            "E.右肺分为10个支气管肺段"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 223
+    },
+    {
+        "question_text": "1484、肺",
+        "options": [
+            "A.膈面中部凹陷称肺门",
+            "B.进出肺门结构被结缔组织包绕称肺根",
+            "C.左肺前缘有心切迹",
+            "D.右肺被斜裂分为上、下两叶",
+            "E.肺尖高出胸廓上口至颈根部"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 224
+    },
+    {
+        "question_text": "1485、支气管肺段",
+        "options": [
+            "A.由肺段支气管分布",
+            "B.由二级支气管分布",
+            "C.由单一的细支气管通气",
+            "D.略呈圆锥形",
+            "E.在结构和功能上有相对的独立性"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 225
+    },
+    {
+        "question_text": "1486、进出肺门的结构为",
+        "options": [
+            "A.气管",
+            "B.主支气管",
+            "C.肺血管",
+            "D.淋巴管",
+            "E.神经"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 226
+    },
+    {
+        "question_text": "1487、肺下界的体表投影为",
+        "options": [
+            "A.起自第6肋或第6胸肋关节",
+            "B.锁骨中线平第6肋",
+            "C.肩胛线平第8肋",
+            "D.腋中线平第10肋",
+            "E.后正中线平第10胸椎棘突"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 227
+    },
+    {
+        "question_text": "1488、肺（  ）",
+        "options": [
+            "A.右肺分为上、下二叶",
+            "B.右肺较左肺宽短",
+            "C.左肺和右肺均有斜裂和水平裂",
+            "D.肺底又称膈面",
+            "E.肺尖与锁骨内1/3的高度一致"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 228
+    },
+    {
+        "question_text": "1489、属左肺的结构（  ）",
+        "options": [
+            "A.水平裂",
+            "B.心切迹",
+            "C.肺小舌",
+            "D.中叶",
+            "E.斜裂"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 229
+    },
+    {
+        "question_text": "1490、肺根内的结构包括（  ）",
+        "options": [
+            "A.主支气管",
+            "B.肺动脉",
+            "C.肺静脉",
+            "D.支气管动脉",
+            "E.肺韧带"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 230
+    },
+    {
+        "question_text": "1491、肺根内的主要结构的位置排列（ ）",
+        "options": [
+            "A.左右肺根内结构由前向后均为：V、A、B",
+            "B.左右肺根内结构由上向下均为：A、B、V",
+            "C.左肺根内结构由上向下为：A、B、V",
+            "D.右肺根内结构由上向下为：B、A、V",
+            "E.左右肺根内结构由上向下均为：V、B、A"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 231
+    },
+    {
+        "question_text": "1492、肺的体表定位（  ）",
+        "options": [
+            "A.在后正中线肺下界平12胸椎棘突",
+            "B.在锁骨中线肺的下界平第5肋",
+            "C.肩胛线上肺的下界平第10肋",
+            "D.腋中线上肺的下界平第8肋",
+            "E.肺尖在锁骨内1/3上方2-3厘米"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 232
+    },
+    {
+        "question_text": "1508、胸膜隐窝",
+        "options": [
+            "A.又称肋膈隐窝",
+            "B.即使深吸气时肺下缘也不能伸入肋膈隐窝",
+            "C.是胸膜腔最低的部位",
+            "D.位于壁胸膜相互移行处",
+            "E.位于脏壁胸膜相互移行处"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 233
+    },
+    {
+        "question_text": "1509、肋膈隐窝（  ）",
+        "options": [
+            "A.是胸膜腔的一部分",
+            "B.由肋胸膜与膈胸膜返折形成",
+            "C.是胸膜腔最低的部位",
+            "D.深吸气时，肺下缘能深入其间",
+            "E.其下界在腋中线相交于第10肋"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 234
+    },
+    {
+        "question_text": "1510、肋膈隐窝（  ）",
+        "options": [
+            "A.由肋胸膜和纵隔胸膜反折形成",
+            "B.呈半环形",
+            "C.为胸膜腔的最低部位",
+            "D.胸膜腔积液首先聚积于此",
+            "E.深吸气时，肺下缘能伸入其中"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 235
+    },
+    {
+        "question_text": "1511、关于纵隔胸膜的叙述，下列哪些是正确的",
+        "options": [
+            "A.衬贴在纵隔的两侧面",
+            "B.中部包绕肺根移行于脏胸膜",
+            "C.包绕肺根的胸膜称为肺韧带",
+            "D.是壁胸膜的一部分",
+            "E.下份与膈胸膜的移行处形成肋纵隔隐窝"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 236
+    },
+    {
+        "question_text": "1512、壁胸膜包括",
+        "options": [
+            "A.肋胸膜",
+            "B.膈胸膜",
+            "C.胸膜顶",
+            "D.纵隔胸膜",
+            "E.肺表面的浆膜"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 237
+    },
+    {
+        "question_text": "1513、胸膜（  ）",
+        "options": [
+            "A.可分脏胸膜和壁胸膜两部分",
+            "B.壁胸膜仅衬于胸壁的内面",
+            "C.肺韧带是胸膜形成的结构",
+            "D.膈胸膜是脏胸膜的一部分",
+            "E.胸膜为纤维膜，较厚"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 238
+    },
+    {
+        "question_text": "1514、胸膜腔（  ）",
+        "options": [
+            "A.由肋胸膜和膈胸膜围成",
+            "B.腔内为负压",
+            "C.左右胸膜腔相连通",
+            "D.肋膈隐窝是胸膜隐窝中最大的一个",
+            "E.胸膜腔积液首先积聚在肋纵隔隐窝"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 239
+    },
+    {
+        "question_text": "1515、肋膈隐窝（  ）",
+        "options": [
+            "A.是胸膜隐窝中最大的一个",
+            "B.是胸膜腔位置最低处",
+            "C.深吸气时肺的下缘可达此窝",
+            "D.为纵隔胸膜与肋胸膜转折处的半环形间隙",
+            "E.胸膜腔积液首先积聚在此"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 240
+    },
+    {
+        "question_text": "1516、胸膜腔（  ）",
+        "options": [
+            "A.左右各一，并不连通",
+            "B.为潜在的腔隙",
+            "C.密闭负压",
+            "D.内有少量浆液",
+            "E.与纵隔相通"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 241
+    },
+    {
+        "question_text": "1517、胸膜的体表定位（  ）",
+        "options": [
+            "A.胸膜顶在锁骨内1/3上方2-3厘米",
+            "B.在锁骨中线下界平第8肋",
+            "C.在腋中线下界在第9肋",
+            "D.肩胛线上其下界在第11肋",
+            "E.在后正中线其下界平第10胸椎棘突"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 242
+    },
+    {
+        "question_text": "1524、纵隔（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间纵行的纤维隔",
+            "B.前界为胸骨",
+            "C.后界为脊柱胸段",
+            "D.两侧为左右肺的肋面",
+            "E.下界为膈"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 243
+    },
+    {
+        "question_text": "1525、纵隔（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间所有结构的总称",
+            "B.以胸骨角平面分为上、下纵隔两部",
+            "C.后纵隔是上纵隔的一部分",
+            "D.食管在前纵隔内",
+            "E.胸导管在中纵隔内"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 244
+    },
+    {
+        "question_text": "1526、纵隔（  ）",
+        "options": [
+            "A.位于胸膜腔内",
+            "B.容纳心和肺",
+            "C.两侧为纵隔胸膜",
+            "D.中纵隔内包括心和胸膜",
+            "E.以胸骨角平面分为上、下纵隔"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 245
+    },
+    {
+        "question_text": "1527、后纵隔内含有",
+        "options": [
+            "A.食管",
+            "B.膈神经",
+            "C.迷走神经",
+            "D.气管",
+            "E.胸导管"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 246
+    },
+    {
+        "question_text": "1528、后纵隔内的结构有（  ）",
+        "options": [
+            "A.心",
+            "B.胸导管",
+            "C.胸主动脉",
+            "D.胸腺",
+            "E.迷走神经"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 247
+    },
+    {
+        "question_text": "1529、上纵隔内的结构有（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心",
+            "C.上腔静脉",
+            "D.气管",
+            "E.食管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 248
+    },
+    {
+        "question_text": "1530、在上纵隔和后纵隔内均可见到的是",
+        "options": [
+            "A.胸导管",
+            "B.食管",
+            "C.支气管",
+            "D.喉返神经",
+            "E.迷走神经"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 249
+    },
+    {
+        "question_text": "1446、上呼吸道包括",
+        "options": [
+            "A.固有鼻腔",
+            "B.鼻咽",
+            "C.口咽",
+            "D.喉",
+            "E.喉咽"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 250
+    },
+    {
+        "question_text": "1447、下呼吸道包括",
+        "options": [
+            "A.喉",
+            "B.气管",
+            "C.主支气管",
+            "D.肺内支气管",
+            "E.肺泡"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 251
+    },
+    {
+        "question_text": "1448、鼻腔（  ）",
+        "options": [
+            "A.由鼻中隔分为左右两半",
+            "B.可分为鼻前庭和固有鼻腔两部",
+            "C.鼻前庭和固有鼻腔均衬有黏膜",
+            "D.鼻黏膜可分为嗅区和呼吸区两部",
+            "E.经鼻后孔通鼻咽"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 252
+    },
+    {
+        "question_text": "1449、构成鼻中隔的主要结构是",
+        "options": [
+            "A.筛骨垂直板",
+            "B.犁骨",
+            "C.鼻中隔软骨",
+            "D.腭骨垂直板",
+            "E.腭骨水平板"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 253
+    },
+    {
+        "question_text": "1450、鼻旁窦开口的描述中，正确的是",
+        "options": [
+            "A.额窦开口于中鼻道",
+            "B.上颌窦开口于上鼻道",
+            "C.蝶窦开口于蝶筛隐窝",
+            "D.筛窦中群开口于中鼻道",
+            "E.筛窦前群开口于上鼻道"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 254
+    },
+    {
+        "question_text": "1451、开口于中鼻道的鼻旁窦（  ）",
+        "options": [
+            "A.上颌窦",
+            "B.蝶窦",
+            "C.额窦",
+            "D.筛窦前、中群",
+            "E.筛窦后群"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 255
+    },
+    {
+        "question_text": "1452、环状软骨弓",
+        "options": [
+            "A.后方平第6颈椎椎体下缘",
+            "B.为咽与食管分界平面",
+            "C.为喉与气管分界平面",
+            "D.甲状舌骨膜起于该弓之外面",
+            "E.环甲正中韧带张于此弓上缘"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 256
+    },
+    {
+        "question_text": "1453、弹性圆锥",
+        "options": [
+            "A.又称环甲韧带",
+            "B.上缘游离称声韧带",
+            "C.下缘附着于环状软骨弓上缘",
+            "D.前部较厚，称为环甲正中韧带",
+            "E.急性喉阻塞可穿刺环甲正中韧带"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 257
+    },
+    {
+        "question_text": "1454、属弹性圆锥的结构是（  ）",
+        "options": [
+            "A.环甲正中韧带",
+            "B.室韧带",
+            "C.甲状舌骨膜",
+            "D.声韧带",
+            "E.声襞"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 258
+    },
+    {
+        "question_text": "1455、不成对的喉软骨有",
+        "options": [
+            "A.甲状软骨",
+            "B.杓状软骨",
+            "C.环状软骨",
+            "D.会厌软骨",
+            "E.气管软骨"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 259
+    },
+    {
+        "question_text": "1456、喉",
+        "options": [
+            "A.上借甲状舌骨膜与下颌骨相连",
+            "B.下借环状软骨气管韧带与气管相连",
+            "C.位于颈前部，前方有舌骨下肌群",
+            "D.前方通口腔",
+            "E.后方与咽相邻"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 260
+    },
+    {
+        "question_text": "1457、喉（  ）",
+        "options": [
+            "A.喉口与口咽直接相通",
+            "B.既是呼吸道的一部分，又是发音器官",
+            "C.甲状软骨是喉软骨中最大一块",
+            "D.前庭裂是喉腔最狭窄处",
+            "E.杓状软骨为成对的喉软骨"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 261
+    },
+    {
+        "question_text": "1458、喉腔（  ）",
+        "options": [
+            "A.喉腔可分为喉前庭、喉中间腔和声门下腔",
+            "B.喉室是喉中间腔和声门下腔的总称",
+            "C.前庭襞位于声襞的内下方",
+            "D.声门裂是喉腔最狭窄处",
+            "E.声带由声襞和声韧带组成"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 262
+    },
+    {
+        "question_text": "1459、构成声带的结构（  ）",
+        "options": [
+            "A.前庭襞",
+            "B.声襞",
+            "C.声带肌",
+            "D.声韧带",
+            "E.前庭韧带"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 263
+    },
+    {
+        "question_text": "1460、存在于喉腔侧壁上的结构是",
+        "options": [
+            "A.前庭襞",
+            "B.前庭裂",
+            "C.声襞",
+            "D.声门裂",
+            "E.喉前庭"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 264
+    },
+    {
+        "question_text": "1461、参与围成喉口的结构是",
+        "options": [
+            "A.声襞",
+            "B.会厌",
+            "C.前庭襞",
+            "D.杓会厌襞",
+            "E.杓间切迹"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 265
+    },
+    {
+        "question_text": "1462、气管",
+        "options": [
+            "A.上端平第6颈椎下方",
+            "B.颈部位置浅表，可以摸到",
+            "C.在第5－6气管前方有甲状腺峡",
+            "D.气管隆嵴是气管镜检查的重要标志",
+            "E.在第4胸椎体下缘分为左、右主支气管"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 266
+    },
+    {
+        "question_text": "1463、气管（  ）",
+        "options": [
+            "A.为下呼吸道的一部分",
+            "B.在第六颈椎高度与喉相连",
+            "C.气管软骨呈“C”形",
+            "D.分左、右主支气管的分叉处称“气管杈”",
+            "E.在第二到四气管软骨环的前方有甲状腺峡"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 267
+    },
+    {
+        "question_text": "1464、主支气管",
+        "options": [
+            "A.左侧细长，走行较水平",
+            "B.右侧短粗，走行较陡直",
+            "C.异物多易落入右主支气管",
+            "D.右侧上方有奇静脉弓跨过",
+            "E.左主支气管上方有主动脉弓跨过"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 268
+    },
+    {
+        "question_text": "1465、左主支气管",
+        "options": [
+            "A.管径较右主支气管细",
+            "B.管径较右主支气管粗",
+            "C.较右侧的短",
+            "D.走向较横平",
+            "E.走向较垂直"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 269
+    },
+    {
+        "question_text": "1466、吸入的异物趋向局限于右下叶支气管，这是因为",
+        "options": [
+            "A.右肺没有中叶",
+            "B.左主支气管比右主支气管更为水平",
+            "C.右主支气管的管径比左主支气管大",
+            "D.右下叶支气管几乎与右主支气管相延续",
+            "E.右主支气管较左主支气管相对倾斜"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 270
+    },
+    {
+        "question_text": "1482、肺",
+        "options": [
+            "A.成年人肺入水则下沉",
+            "B.表面覆脏胸膜",
+            "C.肺尖高出锁骨内侧1/3段上方2.5cm",
+            "D.内侧面中部有一凹陷称肺门",
+            "E.肺底稍向上凹，又称膈面"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 271
+    },
+    {
+        "question_text": "1483、肺",
+        "options": [
+            "A.肺尖高出锁骨内侧1/3段上方2-3cm",
+            "B.内侧面中央部凹陷称肺门",
+            "C.肺底又称膈面",
+            "D.下界在腋中线与第10肋相交",
+            "E.右肺分为10个支气管肺段"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 272
+    },
+    {
+        "question_text": "1484、肺",
+        "options": [
+            "A.膈面中部凹陷称肺门",
+            "B.进出肺门结构被结缔组织包绕称肺根",
+            "C.左肺前缘有心切迹",
+            "D.右肺被斜裂分为上、下两叶",
+            "E.肺尖高出胸廓上口至颈根部"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 273
+    },
+    {
+        "question_text": "1485、支气管肺段",
+        "options": [
+            "A.由肺段支气管分布",
+            "B.由二级支气管分布",
+            "C.由单一的细支气管通气",
+            "D.略呈圆锥形",
+            "E.在结构和功能上有相对的独立性"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 274
+    },
+    {
+        "question_text": "1486、进出肺门的结构为",
+        "options": [
+            "A.气管",
+            "B.主支气管",
+            "C.肺血管",
+            "D.淋巴管",
+            "E.神经"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 275
+    },
+    {
+        "question_text": "1487、肺下界的体表投影为",
+        "options": [
+            "A.起自第6肋或第6胸肋关节",
+            "B.锁骨中线平第6肋",
+            "C.肩胛线平第8肋",
+            "D.腋中线平第10肋",
+            "E.后正中线平第10胸椎棘突"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 276
+    },
+    {
+        "question_text": "1488、肺（  ）",
+        "options": [
+            "A.右肺分为上、下二叶",
+            "B.右肺较左肺宽短",
+            "C.左肺和右肺均有斜裂和水平裂",
+            "D.肺底又称膈面",
+            "E.肺尖与锁骨内1/3的高度一致"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 277
+    },
+    {
+        "question_text": "1489、属左肺的结构（  ）",
+        "options": [
+            "A.水平裂",
+            "B.心切迹",
+            "C.肺小舌",
+            "D.中叶",
+            "E.斜裂"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 278
+    },
+    {
+        "question_text": "1490、肺根内的结构包括（  ）",
+        "options": [
+            "A.主支气管",
+            "B.肺动脉",
+            "C.肺静脉",
+            "D.支气管动脉",
+            "E.肺韧带"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 279
+    },
+    {
+        "question_text": "1491、肺根内的主要结构的位置排列（  ）",
+        "options": [
+            "A.左右肺根内结构由前向后均为：V、A、B",
+            "B.左右肺根内结构由上向下均为：A、B、V",
+            "C.左肺根内结构由上向下为：A、B、V",
+            "D.右肺根内结构由上向下为：B、A、V",
+            "E.左右肺根内结构由上向下均为：V、B、A"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 280
+    },
+    {
+        "question_text": "1492、肺的体表定位（  ）",
+        "options": [
+            "A.在后正中线肺下界平12胸椎棘突",
+            "B.在锁骨中线肺的下界平第5肋",
+            "C.肩胛线上肺的下界平第10肋",
+            "D.腋中线上肺的下界平第8肋",
+            "E.肺尖在锁骨内1/3上方2-3厘米"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 281
+    },
+    {
+        "question_text": "1508、胸膜隐窝",
+        "options": [
+            "A.又称肋膈隐窝",
+            "B.即使深吸气时肺下缘也不能伸入肋膈隐窝",
+            "C.是胸膜腔最低的部位",
+            "D.位于壁胸膜相互移行处",
+            "E.位于脏壁胸膜相互移行处"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 282
+    },
+    {
+        "question_text": "1509、肋膈隐窝（  ）",
+        "options": [
+            "A.是胸膜腔的一部分",
+            "B.由肋胸膜与膈胸膜返折形成",
+            "C.是胸膜腔最低的部位",
+            "D.深吸气时，肺下缘能深入其间",
+            "E.其下界在腋中线相交于第10肋"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 283
+    },
+    {
+        "question_text": "1510、肋膈隐窝（  ）",
+        "options": [
+            "A.由肋胸膜和纵隔胸膜反折形成",
+            "B.呈半环形",
+            "C.为胸膜腔的最低部位",
+            "D.胸膜腔积液首先聚积于此",
+            "E.深吸气时，肺下缘能伸入其中"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 284
+    },
+    {
+        "question_text": "1511、关于纵隔胸膜的叙述，下列哪些是正确的",
+        "options": [
+            "A.衬贴在纵隔的两侧面",
+            "B.中部包绕肺根移行于脏胸膜",
+            "C.包绕肺根的胸膜称为肺韧带",
+            "D.是壁胸膜的一部分",
+            "E.下份与膈胸膜的移行处形成肋纵隔隐窝"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 285
+    },
+    {
+        "question_text": "1512、壁胸膜包括",
+        "options": [
+            "A.肋胸膜",
+            "B.膈胸膜",
+            "C.胸膜顶",
+            "D.纵隔胸膜",
+            "E.肺表面的浆膜"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 286
+    },
+    {
+        "question_text": "1513、胸膜（  ）",
+        "options": [
+            "A.可分脏胸膜和壁胸膜两部分",
+            "B.壁胸膜仅衬于胸壁的内面",
+            "C.肺韧带是胸膜形成的结构",
+            "D.膈胸膜是脏胸膜的一部分",
+            "E.胸膜为纤维膜，较厚"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 287
+    },
+    {
+        "question_text": "1514、胸膜腔（  ）",
+        "options": [
+            "A.由肋胸膜和膈胸膜围成",
+            "B.腔内为负压",
+            "C.左右胸膜腔相连通",
+            "D.肋膈隐窝是胸膜隐窝中最大的一个",
+            "E.胸膜腔积液首先积聚在肋纵隔隐窝"
+        ],
+        "correct_answer": "BD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 288
+    },
+    {
+        "question_text": "1515、肋膈隐窝（  ）",
+        "options": [
+            "A.是胸膜隐窝中最大的一个",
+            "B.是胸膜腔位置最低处",
+            "C.深吸气时肺的下缘可达此窝",
+            "D.为纵隔胸膜与肋胸膜转折处的半环形间隙",
+            "E.胸膜腔积液首先积聚在此"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 289
+    },
+    {
+        "question_text": "1516、胸膜腔（  ）",
+        "options": [
+            "A.左右各一，并不连通",
+            "B.为潜在的腔隙",
+            "C.密闭负压",
+            "D.内有少量浆液",
+            "E.与纵隔相通"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 290
+    },
+    {
+        "question_text": "1517、胸膜的体表定位（  ）",
+        "options": [
+            "A.胸膜顶在锁骨内1/3上方2-3厘米",
+            "B.在锁骨中线下界平第8肋",
+            "C.在腋中线下界在第9肋",
+            "D.肩胛线上其下界在第11肋",
+            "E.在后正中线其下界平第10胸椎棘突"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 291
+    },
+    {
+        "question_text": "1524、纵隔（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间纵行的纤维隔",
+            "B.前界为胸骨",
+            "C.后界为脊柱胸段",
+            "D.两侧为左右肺的肋面",
+            "E.下界为膈"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 292
+    },
+    {
+        "question_text": "1525、纵隔（  ）",
+        "options": [
+            "A.为两侧纵隔胸膜之间所有结构的总称",
+            "B.以胸骨角平面分为上、下纵隔两部",
+            "C.后纵隔是上纵隔的一部分",
+            "D.食管在前纵隔内",
+            "E.胸导管在中纵隔内"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 293
+    },
+    {
+        "question_text": "1526、纵隔（  ）",
+        "options": [
+            "A.位于胸膜腔内",
+            "B.容纳心和肺",
+            "C.两侧为纵隔胸膜",
+            "D.中纵隔内包括心和胸膜",
+            "E.以胸骨角平面分为上、下纵隔"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 294
+    },
+    {
+        "question_text": "1527、后纵隔内含有",
+        "options": [
+            "A.食管",
+            "B.膈神经",
+            "C.迷走神经",
+            "D.气管",
+            "E.胸导管"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 295
+    },
+    {
+        "question_text": "1528、后纵隔内的结构有（  ）",
+        "options": [
+            "A.心",
+            "B.胸导管",
+            "C.胸主动脉",
+            "D.胸腺",
+            "E.迷走神经"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 296
+    },
+    {
+        "question_text": "1529、上纵隔内的结构有（  ）",
+        "options": [
+            "A.胸腺",
+            "B.心",
+            "C.上腔静脉",
+            "D.气管",
+            "E.食管"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 297
+    },
+    {
+        "question_text": "1530、在上纵隔和后纵隔内均可见到的是",
+        "options": [
+            "A.胸导管",
+            "B.食管",
+            "C.支气管",
+            "D.喉返神经",
+            "E.迷走神经"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "298",
+        "number": 298
+    }
+]

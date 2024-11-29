@@ -1,0 +1,744 @@
+[
+    {
+        "question_text": "1.关于呕吐的概念，下列哪项不正确？",
+        "options": [
+            "A.是一反射动作",
+            "B.具有一定的保护作用",
+            "C.与返食不同",
+            "D.可造成吸入性肺炎",
+            "E.恶心、呕吐二者不会单独出现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 1
+    },
+    {
+        "question_text": "2.恶心时是由于:",
+        "options": [
+            "A.胃张力增高",
+            "B.胃张力和蠕动减弱",
+            "C.十二指肠张力减弱",
+            "D.胃窦部持续收缩",
+            "E.腹压减低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 2
+    },
+    {
+        "question_text": "3.呕吐中枢位于:",
+        "options": [
+            "A.大脑皮质",
+            "B.丘脑",
+            "C.中脑",
+            "D.延髓",
+            "E.脑桥"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 3
+    },
+    {
+        "question_text": "4.以下哪个选项引起的呕吐属于中枢性呕吐？",
+        "options": [
+            "A.剧烈咳嗽",
+            "B.幽门梗阻",
+            "C.抗癌药物",
+            "D.胃肠神经症",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪个直接支配呕吐的动作？",
+        "options": [
+            "A.传入神经元",
+            "B.神经发射中枢",
+            "C.化学感受器触发带",
+            "D.感受器",
+            "E.传出神经元"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 5
+    },
+    {
+        "question_text": "6.主要作用于延髓第四脑室底面化学感受器触发带的呕吐是:",
+        "options": [
+            "A.糖尿病酮症酸中毒引起的呕吐",
+            "B.内耳迷路病变引起的呕吐",
+            "C.幽门梗阻引起的呕吐",
+            "D.神经性呕吐",
+            "E.妊娠呕吐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 6
+    },
+    {
+        "question_text": "7.主要作用于延髓外侧网状结构背部呕吐中枢的是:",
+        "options": [
+            "A.糖尿病酮症酸中毒引起的呕吐",
+            "B.内耳迷路病变引起的呕吐",
+            "C.幽门梗阻引起的呕吐",
+            "D.神经性呕吐",
+            "E.妊娠呕吐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 7
+    },
+    {
+        "question_text": "8.常不伴有恶心的呕吐是:",
+        "options": [
+            "A.糖尿病酮症酸中毒引起的呕吐",
+            "B.内耳迷路病变引起的呕吐",
+            "C.幽门梗阻引起的呕吐",
+            "D.中枢性呕吐",
+            "E.妊娠呕吐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪种疾病引起的呕吐物常带有食物发酵引起的馊味:",
+        "options": [
+            "A.糖尿病酮症酸中毒引起的呕吐",
+            "B.内耳迷路病变引起的呕吐",
+            "C.幽门梗阻引起的呕吐",
+            "D.神经性呕吐",
+            "E.妊娠呕吐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪项引起的呕吐不是中枢性呕吐？",
+        "options": [
+            "A.脑膜炎",
+            "B.脑炎",
+            "C.脑震荡",
+            "D.有机磷农药中毒",
+            "E.青光眼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪种疾病导致的呕吐不属于反射性呕吐？",
+        "options": [
+            "A.吸烟",
+            "B.尿毒症",
+            "C.青光眼",
+            "D.急性阑尾炎",
+            "E.消化腺溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪种病变导致的呕吐是由于刺激性化学感受器触发的:",
+        "options": [
+            "A.急性胃炎",
+            "B.肠梗阻",
+            "C.急性心肌梗死",
+            "D.泌尿系结石",
+            "E.洋地黄中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 12
+    },
+    {
+        "question_text": "13.晨起呕吐可见于下列情况，除了:",
+        "options": [
+            "A.早期妊娠",
+            "B.尿毒症",
+            "C.幽门梗阻",
+            "D.慢性酒精中毒",
+            "E.鼻窦炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 13
+    },
+    {
+        "question_text": "14.晚上以及夜间呕吐多见于:",
+        "options": [
+            "A.幽门梗阻",
+            "B.鼻窦炎",
+            "C.慢性酒精中毒",
+            "D.功能性消化不良",
+            "E.尿毒症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 14
+    },
+    {
+        "question_text": "15.妊娠反应导致的呕吐多出现在:",
+        "options": [
+            "A.饭后",
+            "B.饭前",
+            "C.早晨",
+            "D.进食酸食后",
+            "E.晚上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于幽门梗阻的呕吐，下列哪种说法是不正确的？",
+        "options": [
+            "A.幽门梗阻呕吐量大",
+            "B.幽门梗阻呕吐比高位小肠梗阻呕吐频繁而剧烈",
+            "C.幽门梗阻呕吐后较轻松",
+            "D.呕吐宿食是幽门梗阻的特点",
+            "E.幽门梗阻呕吐物中无胆汁"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 16
+    },
+    {
+        "question_text": "17.低位小肠梗阻的病人，其呕吐物的性质应是:",
+        "options": [
+            "A.呕吐棕黄色带粪臭的内容物",
+            "B.呕吐大量胃、肠、胰液和胆汁的内容物",
+            "C.剧烈呕吐胃内容物后呕吐血液",
+            "D.呕吐大量隔宿食物",
+            "E.喷射性呕吐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项可引起呕吐大量隔宿食物？",
+        "options": [
+            "A.幽门梗阻",
+            "B.慢性胃炎",
+            "C.急性肝炎",
+            "D.急性糜烂性胃炎",
+            "E.胃十二指肠溃疡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 18
+    },
+    {
+        "question_text": "19.呕吐大量隔宿食物，且常在晚间发生，多见于:",
+        "options": [
+            "A.迷路炎",
+            "B.急性肝炎",
+            "C.幽门梗阻",
+            "D.脑膜炎",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 19
+    },
+    {
+        "question_text": "20.呕吐宿食常见于以下哪种原因？",
+        "options": [
+            "A.幽门梗阻",
+            "B.妊娠",
+            "C.食物中毒",
+            "D.颅脑外伤",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 20
+    },
+    {
+        "question_text": "21.喷射状呕吐多见于:",
+        "options": [
+            "A.幽门梗阻",
+            "B.肠梗阻",
+            "C.急性腹膜炎",
+            "D.颅内高压",
+            "E.偏头痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 21
+    },
+    {
+        "question_text": "22.颅内高压症所致呕吐的特点是:",
+        "options": [
+            "A.喷射型，无恶心，呕吐后不轻松",
+            "B.喷射性，有恶心，呕吐后轻松",
+            "C.非喷射性，有恶心，呕吐后不轻松",
+            "D.非喷射性，无恶心，呕吐后轻松",
+            "E.喷射性，无恶心，呕吐后轻松"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 22
+    },
+    {
+        "question_text": "23.低位小肠梗阻的病人可有腹胀、腹痛、剧烈呕吐及排便、排气停止的症状，其呕吐物的性质应是下列哪种？",
+        "options": [
+            "A.呕吐棕黄色带粪臭的内容物",
+            "B.呕吐大量胃、肠、胰和胆汁的内容物",
+            "C.剧烈呕吐胃内容物后呕吐血液",
+            "D.呕吐大量酸酵宿食",
+            "E.喷射性呕吐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 23
+    },
+    {
+        "question_text": "24.表现为胃肠神经症的呕吐属于:",
+        "options": [
+            "A.延迟性呕吐",
+            "B.晨起呕吐",
+            "C.喷射性呕吐",
+            "D.精神性呕吐",
+            "E.反射性呕吐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 24
+    },
+    {
+        "question_text": "25.早期妊娠的呕吐属于:",
+        "options": [
+            "A.延迟性呕吐",
+            "B.晨起呕吐",
+            "C.喷射性呕吐",
+            "D.精神性呕吐",
+            "E.反射性呕吐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 25
+    },
+    {
+        "question_text": "26.化脓性脑膜炎时出现的呕吐是:",
+        "options": [
+            "A.延迟性呕吐",
+            "B.晨起呕吐",
+            "C.喷射性呕吐",
+            "D.精神性呕吐",
+            "E.反射性呕吐"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 26
+    },
+    {
+        "question_text": "27.急性胆囊炎时出现的呕吐是:",
+        "options": [
+            "A.延迟性呕吐",
+            "B.晨起呕吐",
+            "C.喷射性呕吐",
+            "D.精神性呕吐",
+            "E.反射性呕吐"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 27
+    },
+    {
+        "question_text": "28.呕吐咖啡色液体最常见于:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.食管静脉曲张破裂出血",
+            "C.消化性溃疡",
+            "D.急性胃粘膜病变",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 28
+    },
+    {
+        "question_text": "29.喷射性呕吐多见于以下哪种疾病:",
+        "options": [
+            "A.妊娠反应",
+            "B.胆石症",
+            "C.颅内压增高",
+            "D.肠梗阻",
+            "E.急性毒物中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 29
+    },
+    {
+        "question_text": "30.幽门梗阻导致呕吐的典型特点为:",
+        "options": [
+            "A.伴有腹痛",
+            "B.餐后较久或数餐后呕吐",
+            "C.含有胆汁",
+            "D.呕吐量小",
+            "E.呕吐物内含有血液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列哪项属于胃肠源性呕吐？",
+        "options": [
+            "A.内耳迷路病变",
+            "B.溃疡病",
+            "C.脑膜炎",
+            "D.尿毒症",
+            "E.神经症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 31
+    },
+    {
+        "question_text": "32.呕吐大量暗红色血液常见于:",
+        "options": [
+            "A.急性肠炎",
+            "B.急性胃炎",
+            "C.急性胃粘膜病变",
+            "D.食道胃底静脉破裂出血",
+            "E.胃癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 32
+    },
+    {
+        "question_text": "33.服用阿司匹林后引起的呕血常为:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性胃粘膜病变",
+            "C.胃粘膜脱垂",
+            "D.急性胰腺炎",
+            "E.食管炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 33
+    },
+    {
+        "question_text": "34.呕吐隔餐隔日食物并有腐酵气味常见于:",
+        "options": [
+            "A.急性胃炎",
+            "B.幽门梗阻",
+            "C.肠梗阻",
+            "D.慢性肠炎",
+            "E.慢性胆囊炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 34
+    },
+    {
+        "question_text": "35.引起前庭障碍性呕吐的疾病是:",
+        "options": [
+            "A.癔病",
+            "B.脑震荡",
+            "C.梅尼埃病",
+            "D.颅内高压",
+            "E.幽门梗阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列哪项可引起头痛伴喷射性呕吐？",
+        "options": [
+            "A.急性胃炎",
+            "B.霍乱",
+            "C.胃储留",
+            "D.颅内高压",
+            "E.幽门梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 36
+    },
+    {
+        "question_text": "37.呕吐伴上腹痛、发热、黄疸可见于:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.急生胰腺炎",
+            "C.急性腹膜炎",
+            "D.急性胃炎",
+            "E.急性肾盂肾炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 37
+    },
+    {
+        "question_text": "38.呕吐物多且有粪臭味多见于:",
+        "options": [
+            "A.潴留",
+            "B.肠梗阻",
+            "C.急性中毒",
+            "D.幽门梗阻",
+            "E.十二指肠淤滞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 38
+    },
+    {
+        "question_text": "39.下列哪种疾病引起的呕吐常无恶心先兆？",
+        "options": [
+            "A.急性胃炎",
+            "B.消化性溃疡",
+            "C.急性胆囊炎",
+            "D.急性肝炎",
+            "E.颅内高压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 39
+    },
+    {
+        "question_text": "40.引起精神性呕吐的疾病是:",
+        "options": [
+            "A.癔病",
+            "B.脑震荡",
+            "C.颅内血肿",
+            "D.胃肠疾病",
+            "E.Meniere病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 40
+    },
+    {
+        "question_text": "41.呕吐物出现粪臭味，则提示可能为:",
+        "options": [
+            "A.幽门梗阻",
+            "B.胰腺炎",
+            "C.肠梗阻",
+            "D.酒后",
+            "E.胃坏疽"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 41
+    },
+    {
+        "question_text": "42.急性脑出血患者，出现呕吐咖啡色胃内容物，应考虑出现:",
+        "options": [
+            "A.消化性溃疡",
+            "B.应激性溃疡",
+            "C.急性胆囊炎",
+            "D.急性胰腺炎",
+            "E.门静脉高压"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列哪种疾病呕吐但不伴头痛？",
+        "options": [
+            "A.脑炎",
+            "B.偏头痛",
+            "C.青光眼",
+            "D.梅尼埃病",
+            "E.高血压脑病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 43
+    },
+    {
+        "question_text": "44.呕吐伴贫血、水肿、高血压可见于:",
+        "options": [
+            "A.慢性胃炎",
+            "B.慢性肝炎",
+            "C.慢性胰腺炎",
+            "D.慢性胆囊炎",
+            "E.慢性肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 44
+    },
+    {
+        "question_text": "45.呕吐伴上腹绞痛，最常见于:",
+        "options": [
+            "A.急性肝炎",
+            "B.胆道梗阻",
+            "C.肠梗阻",
+            "D.泌尿系结石",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 45
+    },
+    {
+        "question_text": "46.呕吐伴腹痛及肛门停止排便、排气见于:",
+        "options": [
+            "A.急性肠炎",
+            "B.急性肠梗阻",
+            "C.急性胆囊炎",
+            "D.急性肝炎",
+            "E.急性肾盂肾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 46
+    },
+    {
+        "question_text": "47.下列哪种疾病可引起呕吐伴眩晕、眼球震颤？",
+        "options": [
+            "A.脑出血",
+            "B.脑震荡",
+            "C.脑栓塞",
+            "D.颅内血肿",
+            "E.前庭器官疾病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 47
+    },
+    {
+        "question_text": "48.慢性进行性头痛伴有呕吐，提示:",
+        "options": [
+            "A.蛛网膜下腔出血",
+            "B.血管性头痛",
+            "C.神经官能症",
+            "D.脑出血",
+            "E.颅内占位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 48
+    },
+    {
+        "question_text": "49.呕吐伴眩晕、眼球震颤者，应考虑:",
+        "options": [
+            "A.急性胃肠炎",
+            "B.前庭器官疾病",
+            "C.脑炎",
+            "D.肾绞痛",
+            "E.脑出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 49
+    },
+    {
+        "question_text": "50.患者，女性，59岁，上消化道出血患者，既往有慢性周期性、节律性上腹痛病史，该患者出血原因多为:",
+        "options": [
+            "A.慢性胃炎",
+            "B.胃癌",
+            "C.消化性溃疡",
+            "D.慢性胰腺炎",
+            "E.慢性胆囊炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 50
+    },
+    {
+        "question_text": "51.患者，男性，46岁，饮酒后出现剧烈呕吐，开始为胃内容物，后有鲜血，该患者最可能的诊断是:",
+        "options": [
+            "A.食管贲门粘膜撕裂",
+            "B.食管胃底静脉曲张破裂",
+            "C.急性胃炎",
+            "D.慢性胃炎",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 51
+    },
+    {
+        "question_text": "52.患者，38岁，男性，突然出现剧烈头痛、呕吐及抽搐，查体:体温、血压正常，脑膜刺激征（+），该患者最可能的诊断是:",
+        "options": [
+            "A.偏头痛",
+            "B.高血压脑病",
+            "C.蛛网膜下腔出血",
+            "D.脑血栓形成",
+            "E.低血糖症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 52
+    },
+    {
+        "question_text": "53.患者，男性，27岁，突发呕吐伴上腹痛、发热、黄疸，下列哪项符合患者诊断:",
+        "options": [
+            "A.急性胃炎",
+            "B.急性胰腺炎",
+            "C.急性腹膜炎",
+            "D.急性胆囊炎",
+            "E.急性肾盂肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "53",
+        "number": 53
+    }
+]

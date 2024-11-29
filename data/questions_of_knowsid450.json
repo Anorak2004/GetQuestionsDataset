@@ -1,0 +1,464 @@
+[
+    {
+        "question_text": "1.病毒垂直传播主要是经",
+        "options": [
+            "A.胎盘",
+            "B.蚊子叮咬",
+            "C.吸人",
+            "D.皮肤损伤",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 1
+    },
+    {
+        "question_text": "2.病毒垂直感染的正确概念是",
+        "options": [
+            "A.在公共场所被病毒感染",
+            "B.通过性接触而发生病毒感染",
+            "C.父亲患病毒病传给其子女的病毒感染",
+            "D.母亲惠病毒病传给其子女的病毒感染",
+            "E.母体内病毒经胎盘或产道传给胎儿的病毒感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 2
+    },
+    {
+        "question_text": "3.可经垂直感染导致胎儿畸形的病毒是",
+        "options": [
+            "A.麻疹病毒",
+            "B.风疹病毒",
+            "C.流感病毒",
+            "D.乙脑病毒",
+            "E.甲肝病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 3
+    },
+    {
+        "question_text": "4.不能经垂直传播的病毒是",
+        "options": [
+            "A.风疹病毒",
+            "B.巨细胞病毒",
+            "C.乙型肝炎病毒",
+            "D.单纯疱疹病毒",
+            "E.脊箱灰质炎病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 4
+    },
+    {
+        "question_text": "5.主要不是经输血传播的病毒是",
+        "options": [
+            "A.乙型肝炎病毒",
+            "B.人免疫缺陷病毒",
+            "C.乙型脑炎病毒",
+            "D.丙型肝炎病毒",
+            "E.巨细胞病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 5
+    },
+    {
+        "question_text": "6.细胞受病毒感染后于胞浆或(和）核内可形成一种具有诊断意义的物质",
+        "options": [
+            "A.质粒",
+            "B.中介体",
+            "C.包涵体",
+            "D.核糖体",
+            "E.溶酶体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 6
+    },
+    {
+        "question_text": "7.以下病毒感染中，包涵体有诊断价值的是",
+        "options": [
+            "A.EB病毒",
+            "B.巨细胞病毒",
+            "C.单纯疱疹病毒",
+            "D.流感病毒",
+            "E.脊髓灰质炎病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 7
+    },
+    {
+        "question_text": "8.内基小体(Negri小体)可用于辅助诊断的疾病是",
+        "options": [
+            "A.腺病毒感染",
+            "B.鹦鹉热",
+            "C.麻珍",
+            "D.狂犬病",
+            "E.疱疹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于病毒感染，不正确的是",
+        "options": [
+            "A.急性病毒感染后机体一般不能清除病毒",
+            "B.多数人对多数病毒表现为隐性感染",
+            "C.持续性病毒感染者长期带病毒",
+            "D.病毒携带者可成为重要传染源",
+            "E.隐性感染者机体可获得免疫力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 9
+    },
+    {
+        "question_text": "10.哪项不是病毒感染对宿主细胞的直接作用",
+        "options": [
+            "A.杀细胞感染",
+            "B.细胞融合",
+            "C.整合感染",
+            "D.形成包涵体",
+            "E.继发感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 10
+    },
+    {
+        "question_text": "11.影响病毒致病作用的因素，错误的是",
+        "options": [
+            "A.病毒对组织器官的亲嗜性",
+            "B.病毒对宿主细胞的杀伤作用",
+            "C.病毒引起的免疫性病理损伤",
+            "D.机体接受抗生素的剂量与种类",
+            "E.机体对病毒的免疫力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 11
+    },
+    {
+        "question_text": "12.在病毒的致病机制中，除病毒对宿主细胞的直接作用外,还有",
+        "options": [
+            "A.病毒感染诱发的免疫病理作用",
+            "B.致细胞病变作用",
+            "C.细胞转化",
+            "D.细胞融合",
+            "E.包涵体形成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 12
+    },
+    {
+        "question_text": "13.宿主细胞受病毒感染和被杀伤的机制中错误的是",
+        "options": [
+            "A.在补体参与下溶解靶细胞",
+            "B.中和抗体直接溶解靶细胞",
+            "C.CTL直接杀伤靶细胞",
+            "D.淋巴因子直接或间接作用与靶细胞",
+            "E.ADCC机制杀伤靶细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 13
+    },
+    {
+        "question_text": "14.潜伏性病毒感染的特点是在间歇期",
+        "options": [
+            "A.可以分离出病毒",
+            "B.不能分离出病毒",
+            "C.不产生抗体",
+            "D.可以分离出病毒但测不出抗体",
+            "E.不能分离出病毒但能测出抗体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 14
+    },
+    {
+        "question_text": "15.易发生潜伏感染的病毒是",
+        "options": [
+            "A.乙型脑炎病毒",
+            "B.乙型肝炎病毒",
+            "C.流感病毒",
+            "D.水痘带状疱疹病毒",
+            "E.脊髓灰质炎病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 15
+    },
+    {
+        "question_text": "16.病毒人侵机体后最早产生的有免疫调节作用的物质是",
+        "options": [
+            "A.sIgA",
+            "B.中和抗体",
+            "C.补体结合抗体",
+            "D.千扰素",
+            "E.T杀伤细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 16
+    },
+    {
+        "question_text": "17.在感染早期.能非特异杀伤病毒感染细胞的免疫因素是",
+        "options": [
+            "A.B细胞",
+            "B.巨噬细胞",
+            "C.NK细胞",
+            "D.Thl细胞",
+            "E.CTL"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于干扰素的描述，正确的是",
+        "options": [
+            "A.病毒基因编码的抗原",
+            "B.病毒化学治疗剂",
+            "C.病毒感染后,由宿主免疫活性细胞产生的球蛋白",
+            "D.宿主细胞受病毒感染后、结构基因活化后产生的一种糖蛋白",
+            "E.病毒复制所产生的衣壳抗原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 18
+    },
+    {
+        "question_text": "19.干扰素的抗病毒作用",
+        "options": [
+            "A.无种属特异性，无病毒特异性",
+            "B.有种属特异性，有病毒特异性",
+            "C.有种属特异性,无病毒特异性",
+            "D.无种属特异性，有病毒特异性",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 19
+    },
+    {
+        "question_text": "20.干扰素抗病毒的机制是",
+        "options": [
+            "A.直接干扰病海mRNA的转译",
+            "B.阻碍病毒进人易感细胞",
+            "C.干扰病毒吸附",
+            "D.诱发细胞产生抗病毒蛋白",
+            "E.直接杀病毒作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于干扰素抗病毒机制的叙述，错误的是",
+        "options": [
+            "A.干扰素必须与细胞表面的受体结合，才能发挥作用",
+            "B.千扰素必须进人细胞内，才能发挥作用",
+            "C.细胞内基因需要被激活后才能产生抗病毒蛋白",
+            "D.2’-5’A合成酶导致病毒mRNA的降解",
+            "E.蛋白激酶抑制病毒多肽链的合成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 21
+    },
+    {
+        "question_text": "22.IFN-a主要的生物学活性是",
+        "options": [
+            "A.抗病毒作用",
+            "B.抗肿瘤作用",
+            "C.激活巨噬细胞",
+            "D.活化NK细胞",
+            "E.活化工细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 22
+    },
+    {
+        "question_text": "23.应用干扰索诱生剂治疗病毒性疾病的主要缺点是",
+        "options": [
+            "A.合成困难",
+            "B.诱生干扰素量少",
+            "C.具有抗原性",
+            "D.反复使用可产生耐受及毒性",
+            "E.不能注射"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于隐性感染，错误的是",
+        "options": [
+            "A.可获得免疫力",
+            "B.病毒感染中极少见",
+            "C.又称亚临床感染",
+            "D.可造成组织细胞损伤",
+            "E.可作为传染源"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 24
+    },
+    {
+        "question_text": "25.抗病毒免疫对游离病毒起直接作用的是",
+        "options": [
+            "A.NK细胞",
+            "B.淋巴因子",
+            "C.干扰素",
+            "D.中和抗体",
+            "E.补体结合性抗体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 25
+    },
+    {
+        "question_text": "26.病毒中和抗体是指",
+        "options": [
+            "A.能中和毒素毒性作用的抗体",
+            "B.针对病毒体某些表面抗原的抗体",
+            "C.针对病毒体内部抗原的抗体",
+            "D.针对细胞受体的抗体",
+            "E.针对病毒神经氨酸酶的抗体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 26
+    },
+    {
+        "question_text": "27.病毒中和抗体的主要作用是",
+        "options": [
+            "A.直接杀伤病毒",
+            "B.阻止病毒吸附",
+            "C.阻止病毒脱壳",
+            "D.阻止病毒核酸转录",
+            "E.阻止病毒释放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 27
+    },
+    {
+        "question_text": "28.病毒感染后，机体会产生多种免疫球蛋白，其中能作为早期感染指标而具有诊断价值的一种是",
+        "options": [
+            "A.IgG",
+            "B.IgM",
+            "C.IgE",
+            "D.IgA",
+            "E.IgD"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 28
+    },
+    {
+        "question_text": "29.防止病毒血行扩散的最有效免疫物质是",
+        "options": [
+            "A.sIgA",
+            "B.IgA",
+            "C.IgG",
+            "D.干扰素",
+            "E.补体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 29
+    },
+    {
+        "question_text": "30.终止细胞内病毒感染的主要免疫因素是",
+        "options": [
+            "A.中和抗体",
+            "B.NK细胞",
+            "C.巨噬细胞",
+            "D.CD4ThI细胞",
+            "E.CD8'CTL"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 30
+    },
+    {
+        "question_text": "31.不易形成病毒血症的病毒是",
+        "options": [
+            "A.轮状病毒",
+            "B.麻疹病毒",
+            "C.风疹病毒",
+            "D.腮腺炎病毒",
+            "E.脊隨灰质炎病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 31
+    },
+    {
+        "question_text": "32.在以下病毒感染中，机体血清中虽有特异性抗体，但仍可发病的是",
+        "options": [
+            "A.脊髓灰质炎病毒感染",
+            "B.单纯疱疹病毒感染",
+            "C.甲型肝炎病毒感染",
+            "D.流感病毒感染",
+            "E.柯萨奇病毒感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列病毒感染后，不能获得牢固免疫的一种是",
+        "options": [
+            "A.甲型肝炎病毒",
+            "B.乙型肝炎病毒",
+            "C.流感病毒",
+            "D.麻疹病毒",
+            "E.乙型脑炎病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "33",
+        "number": 33
+    }
+]

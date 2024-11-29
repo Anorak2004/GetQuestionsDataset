@@ -1,0 +1,4453 @@
+[
+    {
+        "question_text": "1531、产生尿液的结构是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.膀胱",
+            "D.尿道",
+            "E.肾盂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 1
+    },
+    {
+        "question_text": "1532、贮存尿液的结构是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.膀胱",
+            "D.尿道",
+            "E.肾盂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 2
+    },
+    {
+        "question_text": "1533、对肾的描述，正确的是（  ）",
+        "options": [
+            "A.为中空性器官",
+            "B.只有泌尿功能",
+            "C.形似蚕豆",
+            "D.外缘有肾门",
+            "E.两肾上端同高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 3
+    },
+    {
+        "question_text": "1534、对肾的描述，正确的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.只有泌尿功能",
+            "C.形似卵圆",
+            "D.外缘有肾门",
+            "E.两肾上端同高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 4
+    },
+    {
+        "question_text": "1535、下列叙述，哪项是错误的（  ）",
+        "options": [
+            "A.泌尿系统各器官的功能只是生成输送和排出尿液",
+            "B.左侧肾蒂较右侧者长",
+            "C.两肾上端比下端较靠近脊柱",
+            "D.肾的上端较下端宽而薄",
+            "E.肾的上端附有肾上腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 5
+    },
+    {
+        "question_text": "1536、下列叙述，哪项是错误的（  ）",
+        "options": [
+            "A.泌尿系统各器官的功能是生成输送储存和排出尿液",
+            "B.左侧肾蒂较右侧者长",
+            "C.两肾上端比下端较靠近脊柱",
+            "D.肾的上端较下端宽而薄",
+            "E.肾的外侧附有肾上腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 6
+    },
+    {
+        "question_text": "1537、对肾的描述，错误的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.左右各一",
+            "C.新鲜时呈红褐色",
+            "D.是产生尿液的器官",
+            "E.分为前后两端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 7
+    },
+    {
+        "question_text": "1538、对肾的描述，错误的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.左右各一",
+            "C.新鲜时呈黑色",
+            "D.是产生尿液的器官",
+            "E.分为上下两端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 8
+    },
+    {
+        "question_text": "1539、对肾门的描述，正确的是（  ）",
+        "options": [
+            "A.肾的外侧缘凹陷而成",
+            "B.肾的内侧缘中部凹陷而成",
+            "C.为输尿管出入肾的门户",
+            "D.无神经出入",
+            "E.无淋巴管出入"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 9
+    },
+    {
+        "question_text": "1540、对肾蒂的描述，正确的是（  ）",
+        "options": [
+            "A.出入肾门的结构被结缔组织包裹称肾蒂",
+            "B.右侧肾蒂较长",
+            "C.左侧肾蒂较短",
+            "D.肾盂不在肾蒂内",
+            "E.肾蒂内有肾大盏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 10
+    },
+    {
+        "question_text": "1541、肾窦内结构不包括（  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾大盏",
+            "E.肾小盏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 11
+    },
+    {
+        "question_text": "1542、肾蒂内结构不包括（  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.肾盂",
+            "D.淋巴管",
+            "E.输尿管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 12
+    },
+    {
+        "question_text": "1543、肾蒂内主要结构排列，由前向后依次为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉、肾盂",
+            "B.肾静脉、肾动脉、肾盂",
+            "C.肾盂、肾动脉、肾静脉",
+            "D.肾盂、肾静脉、肾动脉",
+            "E.肾动脉、肾盂、肾静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 13
+    },
+    {
+        "question_text": "1544、肾蒂内主要结构排列，由上向下依次为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉、肾盂",
+            "B.肾静脉、肾动脉、肾盂",
+            "C.肾盂、肾动脉、肾静脉",
+            "D.肾盂、肾静脉、肾动脉",
+            "E.肾动脉、肾盂、肾静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 14
+    },
+    {
+        "question_text": "1545、肾窦（  ）",
+        "options": [
+            "A.是肾门向肾内延续的腔",
+            "B.由肾皮质围成",
+            "C.内有输尿管起始部",
+            "D.内有肾锥体",
+            "E.内有肾柱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 15
+    },
+    {
+        "question_text": "1546、肾窦（  ）",
+        "options": [
+            "A.内有肾柱",
+            "B.内有肾皮质",
+            "C.内有肾盂",
+            "D.内有肾锥体",
+            "E.内有输尿管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 16
+    },
+    {
+        "question_text": "1547、关于肾的位置，错误的是（  ）",
+        "options": [
+            "A.脊柱两侧，腹膜后间隙",
+            "B.属腹膜外位器官",
+            "C.肾门约在第1腰椎平面",
+            "D.左肾低于右肾",
+            "E.第12肋横过左肾后面的中部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 17
+    },
+    {
+        "question_text": "1548、关于肾的位置，错误的是（  ）",
+        "options": [
+            "A.脊柱两侧，腹膜后间隙",
+            "B.属腹膜间位器官",
+            "C.肾门约在第1腰椎平面",
+            "D.左肾高于右肾",
+            "E.第12肋横过左肾后面的中部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 18
+    },
+    {
+        "question_text": "1549、肾的位置（  ）",
+        "options": [
+            "A.右肾比左肾偏高",
+            "B.两肾均在第12肋前方",
+            "C.肾门约平第2腰椎",
+            "D.体表投影相当于肾区内",
+            "E.儿童肾位置高于成人"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 19
+    },
+    {
+        "question_text": "1550、下列哪项结构不与右肾毗邻（  ）",
+        "options": [
+            "A.右肾上腺",
+            "B.十二指肠",
+            "C.空肠",
+            "D.结肠",
+            "E.肝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 20
+    },
+    {
+        "question_text": "1551、两肾后面的上1／3毗邻的结构是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃底",
+            "C.腰大肌",
+            "D.腰方肌",
+            "E.膈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 21
+    },
+    {
+        "question_text": "1552、肾后方毗邻结构不包括（  ）",
+        "options": [
+            "A.膈",
+            "B.腰大肌",
+            "C.腰方肌",
+            "D.腹横肌",
+            "E.髂肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 22
+    },
+    {
+        "question_text": "1553、肾的被膜，由内向外依次是（  ）",
+        "options": [
+            "A.纤维囊、肾筋膜、脂肪囊",
+            "B.纤维囊、脂肪囊、肾筋膜",
+            "C.脂肪囊、纤维囊、肾筋膜",
+            "D.肾筋膜、脂肪囊、纤维囊",
+            "E.肾筋膜、纤维囊、脂肪囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 23
+    },
+    {
+        "question_text": "1554、对肾被膜的描述，错误的是（  ）",
+        "options": [
+            "A.肾的被膜分为3层",
+            "B.纤维囊在最外层",
+            "C.肾囊封闭时将药液注入脂肪囊",
+            "D.肾筋膜下方完全开放",
+            "E.肾破裂时需缝合纤维囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 24
+    },
+    {
+        "question_text": "1555、对肾被膜的描述，正确的是（  ）",
+        "options": [
+            "A.分为三层，由内向外是：纤维囊、脂肪囊和肾筋膜",
+            "B.在正常情况下纤维囊剥离困难",
+            "C.肾囊封闭时将药物注入筋膜囊",
+            "D.肾筋膜的前后两层不愈着",
+            "E.肾的固定主要依靠肾被膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 25
+    },
+    {
+        "question_text": "1556、关于肾筋膜的叙述，下列哪项是正确的（  ）",
+        "options": [
+            "A.分前后两层贴于肾的表面",
+            "B.前后两层在上方和内外侧相互融合",
+            "C.肾筋膜前层的前方覆盖有脏腹膜",
+            "D.位于脂肪囊外面，包被肾上腺和肾周围",
+            "E.前后两层在肾下方分离，其间有精索内血管通过"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 26
+    },
+    {
+        "question_text": "1557、对肾额状切面的描述，正确的是（  ）",
+        "options": [
+            "A.肾实质可分为皮质、髓质、肾窦",
+            "B.肾柱为肾髓质结构",
+            "C.肾锥体尖端朝向肾皮质",
+            "D.2-3个肾小盏合成1个肾大盏",
+            "E.肾小盏在皮质内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 27
+    },
+    {
+        "question_text": "1558、属于肾皮质的结构是（  ）",
+        "options": [
+            "A.肾盂",
+            "B.肾盏",
+            "C.肾锥体",
+            "D.肾乳头",
+            "E.肾柱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 28
+    },
+    {
+        "question_text": "1559、肾乳头（  ）",
+        "options": [
+            "A.朝向肾皮质",
+            "B.每肾仅有2-3个",
+            "C.被肾大盏包绕",
+            "D.顶端有乳头孔",
+            "E.是肉眼难以看到的结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 29
+    },
+    {
+        "question_text": "1560、肾柱（  ）",
+        "options": [
+            "A.是肾髓质的一部分",
+            "B.位于肾髓质的表层",
+            "C.位于肾髓质的深层",
+            "D.由许多小的管道组成",
+            "E.是肾皮质伸入肾锥体之间的一部分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 30
+    },
+    {
+        "question_text": "1561、对肾髓质的描述，错误的是（  ）",
+        "options": [
+            "A.约占肾实质厚度的2/3",
+            "B.肾锥体尖朝向皮质",
+            "C.2-3个肾锥体的尖端合并成肾乳头",
+            "D.有15-20个肾锥体",
+            "E.肾锥体有放射状条纹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 31
+    },
+    {
+        "question_text": "1562、对肾段的概念的描述，正确的是（  ）",
+        "options": [
+            "A.一个肾静脉所收集的这部分肾组织",
+            "B.一个肾孟所收集的这部分肾组织",
+            "C.一个肾大盏所收集的这部分肾组织",
+            "D.一个肾小盏所收集的这部分肾组织",
+            "E.肾段动脉分布到一定区域的肾实质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 32
+    },
+    {
+        "question_text": "1563、对肾段的描述，错误的是（  ）",
+        "options": [
+            "A.每侧肾有5个肾段",
+            "B.肾段动脉阻塞可导致肾坏死",
+            "C.肾段动脉间缺少吻合",
+            "D.肾段动脉为肾动脉的三级分支",
+            "E.肾段动脉分布到一定区域的肾实质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 33
+    },
+    {
+        "question_text": "1564、肾段可分为（  ）",
+        "options": [
+            "A.3个",
+            "B.4个",
+            "C.5个",
+            "D.6个",
+            "E.3－5个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 34
+    },
+    {
+        "question_text": "1565、肾段可分为（  ）",
+        "options": [
+            "A.上段、上前段、下段、下前段、后段",
+            "B.上前段、下段、下前段、后段",
+            "C.上段、下段、下前段、后段",
+            "D.上段、上前段、下前段、后段",
+            "E.上段、上前段、下段、后段、尖段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 35
+    },
+    {
+        "question_text": "1566、属于泌尿器官的为（　）",
+        "options": [
+            "A.肾上腺",
+            "B.精囊腺",
+            "C.附睾",
+            "D.肾",
+            "E.输精管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 36
+    },
+    {
+        "question_text": "1567、属于泌尿器官的为（　）",
+        "options": [
+            "A.肾上腺",
+            "B.前列腺",
+            "C.睾丸",
+            "D.肾",
+            "E.精囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 37
+    },
+    {
+        "question_text": "1568、储存尿液的器官是（　）",
+        "options": [
+            "A.输尿管",
+            "B.膀胱",
+            "C.睾丸",
+            "D.肾窦",
+            "E.肾上腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 38
+    },
+    {
+        "question_text": "1569、储存尿液的器官是（　）",
+        "options": [
+            "A.膀胱",
+            "B.输尿管",
+            "C.肾",
+            "D.肾窦",
+            "E.肾囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 39
+    },
+    {
+        "question_text": "1570、肾门位于 （   ）",
+        "options": [
+            "A.肾的上端",
+            "B.肾的下端",
+            "C.肾的外侧缘",
+            "D.肾的前面",
+            "E.肾的内侧缘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 40
+    },
+    {
+        "question_text": "1571、肾段的划分依据是  （   ）",
+        "options": [
+            "A.肾锥体",
+            "B.肾大盏",
+            "C.肾动脉的分支",
+            "D.肾静脉的属支",
+            "E.肾柱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 41
+    },
+    {
+        "question_text": "1572、在肾的冠状切面  （   )",
+        "options": [
+            "A.肾实质表层为肾髓质",
+            "B.肾实质表层为肾柱",
+            "C.肾实质表层为肾皮质",
+            "D.肾实质深层为肾皮质",
+            "E.肾实质深层为肾盂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 42
+    },
+    {
+        "question_text": "1573、肾小盏  （   ）",
+        "options": [
+            "A.位于肾皮质内",
+            "B.包绕肾乳头",
+            "C.汇合成肾盂",
+            "D.伸入肾锥体之间",
+            "E.位于肾髓质内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 43
+    },
+    {
+        "question_text": "1574、左肾上端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 44
+    },
+    {
+        "question_text": "1575、左肾下端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 45
+    },
+    {
+        "question_text": "1576、右肾上端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 46
+    },
+    {
+        "question_text": "1577、右肾下端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 47
+    },
+    {
+        "question_text": "1578、肾门的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 48
+    },
+    {
+        "question_text": "1579、最外层的肾被膜是  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 49
+    },
+    {
+        "question_text": "1580、最内层的肾被膜是  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 50
+    },
+    {
+        "question_text": "1581、中层肾被膜为  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 51
+    },
+    {
+        "question_text": "1582、肾蒂内结构位于最前方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 52
+    },
+    {
+        "question_text": "1583、肾蒂内结构位于最后方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 53
+    },
+    {
+        "question_text": "1584、肾蒂内结构位于最上方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 54
+    },
+    {
+        "question_text": "1585、肾蒂内结构位于最下方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 55
+    },
+    {
+        "question_text": "1586、与左肾前上部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 56
+    },
+    {
+        "question_text": "1587、与左肾中部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 57
+    },
+    {
+        "question_text": "1588、与左肾下部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠左曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 58
+    },
+    {
+        "question_text": "1589、与右肾前上部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 59
+    },
+    {
+        "question_text": "1590、与右肾下部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 60
+    },
+    {
+        "question_text": "1614、对输尿管的描述，错误的是（  ）",
+        "options": [
+            "A.成对的肌性管道",
+            "B.腹膜外位器官",
+            "C.约平第2腰椎起于肾大盏",
+            "D.终于膀胱",
+            "E.分为三部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 61
+    },
+    {
+        "question_text": "1615、对输尿管的描述，错误的是（  ）",
+        "options": [
+            "A.成对的肌性管道",
+            "B.腹膜内位器官",
+            "C.约平第2腰椎起于肾盂",
+            "D.下端开口于膀胱",
+            "E.分为三部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 62
+    },
+    {
+        "question_text": "1616、输尿管（  ）",
+        "options": [
+            "A.沿腰大肌外侧下降",
+            "B.于小骨盆入口处，右侧输尿管跨越右髂总动脉前方",
+            "C.于子宫颈外侧2cm处，行经子宫动脉下方",
+            "D.于膀胱尖前方注入膀胱",
+            "E.按行径可分为腹段,盆段和壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 63
+    },
+    {
+        "question_text": "1617、输尿管下端开口于（  ）",
+        "options": [
+            "A.膀胱",
+            "B.子宫",
+            "C.肾",
+            "D.肾上腺",
+            "E.尿道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 64
+    },
+    {
+        "question_text": "1618、输尿管（  ）",
+        "options": [
+            "A.沿腰大肌外侧下降",
+            "B.于小骨盆入口处，右侧输尿管跨越右髂总动脉前方",
+            "C.于子宫颈外侧2cm处，行经子宫动脉下方",
+            "D.于膀胱体后上方注入膀胱",
+            "E.按行径可分为腹段和盆段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 65
+    },
+    {
+        "question_text": "1619、关于输尿管走行的描述，错误的是（  ）",
+        "options": [
+            "A.腹段经腰大肌前面下行，并与睾丸血管或卵巢血管交叉",
+            "B.左侧腹段越过左髂总动脉末端前方",
+            "C.右侧腹段越过右髂外动脉起始部的前方",
+            "D.女性输尿管盆段经子宫颈外侧约2.5cm处，从子宫动脉前方绕过",
+            "E.壁内段是走行于膀胱壁内的一段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 66
+    },
+    {
+        "question_text": "1620、输尿管壁内段（  ）",
+        "options": [
+            "A.为输尿管行经腹后壁的一段",
+            "B.经子宫动脉的前方下行",
+            "C.位于子宫体外侧约2cm处",
+            "D.能限制膀胱内的尿液倒流",
+            "E.仅女性存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 67
+    },
+    {
+        "question_text": "1621、输尿管壁内段长（  ）",
+        "options": [
+            "A.3cm",
+            "B.4cm",
+            "C.5cm",
+            "D.1.5cm",
+            "E.3-5cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 68
+    },
+    {
+        "question_text": "1622、输尿管腹段的走行是（  ）",
+        "options": [
+            "A.沿腹主动脉前方下行",
+            "B.沿脊柱前方下行",
+            "C.沿腰大肌前方下行",
+            "D.沿腰方肌前方下行",
+            "E.沿下腔静脉后方下行"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 69
+    },
+    {
+        "question_text": "1623、输尿管可分为（  ）",
+        "options": [
+            "A.腹段和盆段",
+            "B.上段、中段、下段",
+            "C.腹段、盆段和壁内段",
+            "D.远段、中段、近段",
+            "E.腹段、膀胱段、壁内段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 70
+    },
+    {
+        "question_text": "1624、输尿管可分为（  ）",
+        "options": [
+            "A.腹段、盆段、壁内段",
+            "B.上段、中段、下段",
+            "C.腹段、盆段、膀胱段",
+            "D.远段、中段、近段",
+            "E.腹段、膀胱段、壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 71
+    },
+    {
+        "question_text": "1625、与男性输尿管盆部相交叉结构的是（  ）",
+        "options": [
+            "A.膀胱底",
+            "B.前列腺",
+            "C.尿道球腺",
+            "D.膀胱三角",
+            "E.输精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 72
+    },
+    {
+        "question_text": "1626、女性输尿管与子宫动脉的关系是（  ）",
+        "options": [
+            "A.子宫动脉越过输尿管的前外方",
+            "B.子宫动脉越过输尿管的前上方",
+            "C.子宫动脉越过输尿管的前下方",
+            "D.子宫动脉越过输尿管的后上方",
+            "E.子宫动脉越过输尿管的后下方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 73
+    },
+    {
+        "question_text": "1627、About the ureters, which of the following descriptions are correct?",
+        "options": [
+            "A.The paired ureters convey the urine from the renal pelvises to the urinary bladder.",
+            "B.The ureter can be divided into abdominal portion, pelvic portion and intramural portion (壁内部).",
+            "C.In the female, about 2 cm lateral to the cervix of uterus (子宫颈), the ureter is crossed anteriorly",
+            "D.The intramural portion is the shortest part of the ureter, and passes through the wall of the urinar",
+            "E.Each ureter has two normal constrictions"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 74
+    },
+    {
+        "question_text": "1628、About the normal constriction of the ureter, which of the following descriptions are correct?",
+        "options": [
+            "A.Each ureter has three normal constriction.",
+            "B.The first normal constriction is at the the junction between the renal pelvis and the ureter.",
+            "C.The second normal constriction is at the brim of the lesser pelvis.",
+            "D.The third normal constriction is at the place where the ureter passes through the bladder wall.",
+            "E.The stone of ureter is easily lodged in these three normal constrictions."
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 75
+    },
+    {
+        "question_text": "1629、在小骨盆入口处，左输尿管越过（  ）",
+        "options": [
+            "A.髂总动脉末端前方",
+            "B.髂外动脉末端前方",
+            "C.髂内动脉末端前方",
+            "D.髂总动脉末端后方",
+            "E.髂外动脉末端后方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 76
+    },
+    {
+        "question_text": "1630、在小骨盆入口处，右输尿管越过（  ）",
+        "options": [
+            "A.髂总动脉末端前方",
+            "B.髂外动脉起始部的前方",
+            "C.髂内动脉起始部的前方",
+            "D.髂总动脉末端后方",
+            "E.髂外动脉末端后方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 77
+    },
+    {
+        "question_text": "1631、输尿管的第1个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 78
+    },
+    {
+        "question_text": "1632、输尿管的第2个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 79
+    },
+    {
+        "question_text": "1633、输尿管的第3个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 80
+    },
+    {
+        "question_text": "1637、临床寻找输尿管口的标志是（  ）",
+        "options": [
+            "A.膀胱三角",
+            "B.尿道内口",
+            "C.输尿管间襞",
+            "D.尿道嵴",
+            "E.膀胱垂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 81
+    },
+    {
+        "question_text": "1638、膀胱肿瘤的好发部位是（  ）",
+        "options": [
+            "A.膀胱垂",
+            "B.膀胱体",
+            "C.膀胱尖",
+            "D.膀胱颈",
+            "E.膀胱三角"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 82
+    },
+    {
+        "question_text": "1639、膀胱肿瘤的好发部位是（  ）",
+        "options": [
+            "A.膀胱垂",
+            "B.膀胱三角",
+            "C.尿道内口",
+            "D.输尿管间襞",
+            "E.输尿管口"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 83
+    },
+    {
+        "question_text": "1640、膀胱可分为（  ）",
+        "options": [
+            "A.膀胱尖、膀胱体、膀胱底、膀胱颈",
+            "B.膀胱尖、膀胱体、膀胱底",
+            "C.膀胱体、膀胱底、膀胱颈",
+            "D.膀胱尖、膀胱体、膀胱颈",
+            "E.膀胱尖、膀胱体、膀胱底、膀胱垂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 84
+    },
+    {
+        "question_text": "1641、女性膀胱后方的毗邻是（  ）",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.直肠",
+            "D.结肠",
+            "E.阴道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 85
+    },
+    {
+        "question_text": "1642、女性膀胱后方的毗邻是（  ）",
+        "options": [
+            "A.直肠",
+            "B.阴道",
+            "C.回肠",
+            "D.结肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 86
+    },
+    {
+        "question_text": "1643、女性膀胱前方的毗邻是（  ）",
+        "options": [
+            "A.子宫",
+            "B.会阴",
+            "C.回肠",
+            "D.耻骨联合",
+            "E.结肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 87
+    },
+    {
+        "question_text": "1644、女性膀胱前方的毗邻是（  ）",
+        "options": [
+            "A.直肠",
+            "B.耻骨联合",
+            "C.乙状结肠",
+            "D.空肠",
+            "E.坐骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 88
+    },
+    {
+        "question_text": "1645、膀胱三角的位置在（  ）",
+        "options": [
+            "A.膀胱底",
+            "B.膀胱尖",
+            "C.输尿管间襞",
+            "D.膀胱颈",
+            "E.膀胱体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 89
+    },
+    {
+        "question_text": "1646、膀胱三角的位置是（  ）",
+        "options": [
+            "A.尿道内口与膀胱底",
+            "B.尿道内口与膀胱尖",
+            "C.输尿管间襞与膀胱尖",
+            "D.尿道内口与两输尿管口之间",
+            "E.膀胱体中份"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 90
+    },
+    {
+        "question_text": "1647、膀胱（  ）",
+        "options": [
+            "A.属于腹膜间位器官",
+            "B.充盈的膀胱全部位于盆腔内",
+            "C.在女性，后邻直肠",
+            "D.在男性，膀胱体与前列腺相邻",
+            "E.膀胱尖向后上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 91
+    },
+    {
+        "question_text": "1648、膀胱（  ）",
+        "options": [
+            "A.属于腹膜内位器官",
+            "B.空虚的膀胱全部位于盆腔内",
+            "C.在女性，后邻直肠",
+            "D.在男性，膀胱体与前列腺相邻",
+            "E.膀胱尖向后上方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 92
+    },
+    {
+        "question_text": "1649、对膀胱壁的描述，正确的是（  ）",
+        "options": [
+            "A.膀胱的内面、外面均被覆粘膜",
+            "B.膀胱三角处缺少粘膜下层",
+            "C.由浆膜层、肌层、粘膜下层组成",
+            "D.由浆膜层、粘膜下层、粘膜构成",
+            "E.各处粘膜层和肌层紧密相连"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 93
+    },
+    {
+        "question_text": "1650、膀胱充盈时（  ）",
+        "options": [
+            "A.全部位于盆腔内",
+            "B.膀胱底可上移至耻骨联合上",
+            "C.膀胱三角可上移至耻骨联合上",
+            "D.膀胱腹膜返折线仍在原位",
+            "E.膀胱腹膜返折线可上移至耻骨联合上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 94
+    },
+    {
+        "question_text": "1651、膀胱充盈时（  ）",
+        "options": [
+            "A.膀胱腹膜返折线可上移至耻骨联合上",
+            "B.膀胱底可上移至耻骨联合上",
+            "C.膀胱三角可上移至耻骨联合上",
+            "D.膀胱腹膜返折线仍在原位",
+            "E.膀胱尖下移"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 95
+    },
+    {
+        "question_text": "1652、男性膀胱颈下邻（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.精囊腺",
+            "E.直肠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 96
+    },
+    {
+        "question_text": "1653、女性膀胱颈下邻（  ）",
+        "options": [
+            "A.子宫",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.尿道",
+            "E.直肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 97
+    },
+    {
+        "question_text": "1654、膀胱空虚时，膀胱尖位于（  ）",
+        "options": [
+            "A.坐骨结节水平",
+            "B.坐骨棘水平",
+            "C.耻骨联合以下",
+            "D.耻骨联合以上",
+            "E.耻骨联合水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 98
+    },
+    {
+        "question_text": "1655、输尿管属于  (    )",
+        "options": [
+            "A.腹膜间位器官",
+            "B.腹膜内位器官",
+            "C.腹膜外位器官",
+            "D.筋膜后位器官",
+            "E.筋膜内位器官"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 99
+    },
+    {
+        "question_text": "1656、输尿管依其行程依次分为  (    )",
+        "options": [
+            "A.壁内段、腹段、盆段",
+            "B.壁内段、盆段、腹段",
+            "C.肾内段、腹段、盆段",
+            "D.盆段、腹段、壁内段",
+            "E.腹段、盆段、壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 100
+    },
+    {
+        "question_text": "1657、输尿管壁内段   （    ）",
+        "options": [
+            "A.为输尿管最长一段",
+            "B.为输尿管最窄一段",
+            "C.位于肾窦内",
+            "D.垂直穿膀胱壁",
+            "E.开口于肾窦"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 101
+    },
+    {
+        "question_text": "1658、膀胱尖朝向     (      )",
+        "options": [
+            "A.前下方",
+            "B.后下方",
+            "C.前上方",
+            "D.后上方",
+            "E.后方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 102
+    },
+    {
+        "question_text": "1659、膀胱体介于 ( )",
+        "options": [
+            "A.膀胱底与膀胱尖之间",
+            "B.膀胱尖与膀胱颈之间",
+            "C.膀胱三角与膀胱尖之间",
+            "D.膀胱底与膀胱颈之间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 103
+    },
+    {
+        "question_text": "1660、与男性膀胱前下壁相邻的为  （   ）",
+        "options": [
+            "A.耻骨联合后面",
+            "B.直肠",
+            "C.前列腺",
+            "D.输精管",
+            "E.精囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 104
+    },
+    {
+        "question_text": "1661、与男性膀胱底相邻的为  （   ）",
+        "options": [
+            "A.耻骨后隙",
+            "B.前列腺",
+            "C.精囊",
+            "D.尿生殖膈",
+            "E.盆膈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 105
+    },
+    {
+        "question_text": "1662、与女性膀胱底相邻的为  （   ）",
+        "options": [
+            "A.阴道",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.耻骨后隙",
+            "E.直肠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 106
+    },
+    {
+        "question_text": "1663、与男性膀胱颈相邻的为  （   ）",
+        "options": [
+            "A.尿生殖膈",
+            "B.前列腺",
+            "C.盆膈",
+            "D.耻骨后隙",
+            "E.直肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 107
+    },
+    {
+        "question_text": "1664、与女性膀胱颈相邻的为  （   ）",
+        "options": [
+            "A.盆膈",
+            "B.直肠",
+            "C.尿生殖膈",
+            "D.阴道",
+            "E.子宫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 108
+    },
+    {
+        "question_text": "1665、膀胱可分为   （     ）",
+        "options": [
+            "A.尖、体、颈三部",
+            "B.体、颈、底三部",
+            "C.尖、底、颈三部",
+            "D.尖、体、底三部",
+            "E.尖、体、底、颈四部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 109
+    },
+    {
+        "question_text": "1666、膀胱三角的下角为     (       )",
+        "options": [
+            "A.左输尿管口",
+            "B.右输尿管口",
+            "C.输尿管间襞",
+            "D.尿道内口",
+            "E.尿道外口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 110
+    },
+    {
+        "question_text": "1667、关于膀胱三角的描述，错误的是   （    ）",
+        "options": [
+            "A.有明显的黏膜皱襞",
+            "B.是结核好发部位",
+            "C.是肿瘤好发部位",
+            "D.其下角为尿道内口",
+            "E.其外上角为两输尿管口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 111
+    },
+    {
+        "question_text": "1668、膀胱三角位于     (    )",
+        "options": [
+            "A.膀胱颈的前面",
+            "B.膀胱尖的内面",
+            "C.膀胱底的内面",
+            "D.膀胱体的内面",
+            "E.输尿管间襞的上方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 112
+    },
+    {
+        "question_text": "1669、与前列腺相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 113
+    },
+    {
+        "question_text": "1670、与精囊相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 114
+    },
+    {
+        "question_text": "1671、与耻骨联合相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 115
+    },
+    {
+        "question_text": "1672、腹前壁的腹膜向下向后移行返折至（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 116
+    },
+    {
+        "question_text": "1673、输尿管的第一个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 117
+    },
+    {
+        "question_text": "1674、输尿管的第二个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 118
+    },
+    {
+        "question_text": "1675、输尿管的第三个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 119
+    },
+    {
+        "question_text": "1684、女性尿道的特点是（  ）",
+        "options": [
+            "A.细而长",
+            "B.短而直",
+            "C.细而弯曲",
+            "D.长而弯曲",
+            "E.细而直"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 120
+    },
+    {
+        "question_text": "1685、尿道阴道括约肌肌环绕（  ）",
+        "options": [
+            "A.尿道外口",
+            "B.尿道内口",
+            "C.尿道起始部",
+            "D.尿道穿尿生殖膈处",
+            "E.尿道末段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 121
+    },
+    {
+        "question_text": "1686、女性尿道后方毗邻（  ）",
+        "options": [
+            "A.直肠",
+            "B.子宫",
+            "C.阴道",
+            "D.肛管",
+            "E.肛门"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 122
+    },
+    {
+        "question_text": "1531、产生尿液的结构是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.膀胱",
+            "D.尿道",
+            "E.肾盂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 123
+    },
+    {
+        "question_text": "1532、贮存尿液的结构是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.膀胱",
+            "D.尿道",
+            "E.肾盂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 124
+    },
+    {
+        "question_text": "1533、对肾的描述，正确的是（  ）",
+        "options": [
+            "A.为中空性器官",
+            "B.只有泌尿功能",
+            "C.形似蚕豆",
+            "D.外缘有肾门",
+            "E.两肾上端同高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 125
+    },
+    {
+        "question_text": "1534、对肾的描述，正确的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.只有泌尿功能",
+            "C.形似卵圆",
+            "D.外缘有肾门",
+            "E.两肾上端同高"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 126
+    },
+    {
+        "question_text": "1535、下列叙述，哪项是错误的（  ）",
+        "options": [
+            "A.泌尿系统各器官的功能只是生成输送和排出尿液",
+            "B.左侧肾蒂较右侧者长",
+            "C.两肾上端比下端较靠近脊柱",
+            "D.肾的上端较下端宽而薄",
+            "E.肾的上端附有肾上腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 127
+    },
+    {
+        "question_text": "1536、下列叙述，哪项是错误的（  ）",
+        "options": [
+            "A.泌尿系统各器官的功能是生成输送储存和排出尿液",
+            "B.左侧肾蒂较右侧者长",
+            "C.两肾上端比下端较靠近脊柱",
+            "D.肾的上端较下端宽而薄",
+            "E.肾的外侧附有肾上腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 128
+    },
+    {
+        "question_text": "1537、对肾的描述，错误的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.左右各一",
+            "C.新鲜时呈红褐色",
+            "D.是产生尿液的器官",
+            "E.分为前后两端"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 129
+    },
+    {
+        "question_text": "1538、对肾的描述，错误的是（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.左右各一",
+            "C.新鲜时呈黑色",
+            "D.是产生尿液的器官",
+            "E.分为上下两端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 130
+    },
+    {
+        "question_text": "1539、对肾门的描述，正确的是（  ）",
+        "options": [
+            "A.肾的外侧缘凹陷而成",
+            "B.肾的内侧缘中部凹陷而成",
+            "C.为输尿管出入肾的门户",
+            "D.无神经出入",
+            "E.无淋巴管出入"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 131
+    },
+    {
+        "question_text": "1540、对肾蒂的描述，正确的是（  ）",
+        "options": [
+            "A.出入肾门的结构被结缔组织包裹称肾蒂",
+            "B.右侧肾蒂较长",
+            "C.左侧肾蒂较短",
+            "D.肾盂不在肾蒂内",
+            "E.肾蒂内有肾大盏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 132
+    },
+    {
+        "question_text": "1541、肾窦内结构不包括（  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾大盏",
+            "E.肾小盏"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 133
+    },
+    {
+        "question_text": "1542、肾蒂内结构不包括（  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.肾盂",
+            "D.淋巴管",
+            "E.输尿管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 134
+    },
+    {
+        "question_text": "1543、肾蒂内主要结构排列，由前向后依次为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉、肾盂",
+            "B.肾静脉、肾动脉、肾盂",
+            "C.肾盂、肾动脉、肾静脉",
+            "D.肾盂、肾静脉、肾动脉",
+            "E.肾动脉、肾盂、肾静脉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 135
+    },
+    {
+        "question_text": "1544、肾蒂内主要结构排列，由上向下依次为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉、肾盂",
+            "B.肾静脉、肾动脉、肾盂",
+            "C.肾盂、肾动脉、肾静脉",
+            "D.肾盂、肾静脉、肾动脉",
+            "E.肾动脉、肾盂、肾静脉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 136
+    },
+    {
+        "question_text": "1545、肾窦（  ）",
+        "options": [
+            "A.是肾门向肾内延续的腔",
+            "B.由肾皮质围成",
+            "C.内有输尿管起始部",
+            "D.内有肾锥体",
+            "E.内有肾柱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 137
+    },
+    {
+        "question_text": "1546、肾窦（  ）",
+        "options": [
+            "A.内有肾柱",
+            "B.内有肾皮质",
+            "C.内有肾盂",
+            "D.内有肾锥体",
+            "E.内有输尿管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 138
+    },
+    {
+        "question_text": "1547、关于肾的位置，错误的是（  ）",
+        "options": [
+            "A.脊柱两侧，腹膜后间隙",
+            "B.属腹膜外位器官",
+            "C.肾门约在第1腰椎平面",
+            "D.左肾低于右肾",
+            "E.第12肋横过左肾后面的中部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 139
+    },
+    {
+        "question_text": "1548、关于肾的位置，错误的是（  ）",
+        "options": [
+            "A.脊柱两侧，腹膜后间隙",
+            "B.属腹膜间位器官",
+            "C.肾门约在第1腰椎平面",
+            "D.左肾高于右肾",
+            "E.第12肋横过左肾后面的中部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 140
+    },
+    {
+        "question_text": "1549、肾的位置（  ）",
+        "options": [
+            "A.右肾比左肾偏高",
+            "B.两肾均在第12肋前方",
+            "C.肾门约平第2腰椎",
+            "D.体表投影相当于肾区内",
+            "E.儿童肾位置高于成人"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 141
+    },
+    {
+        "question_text": "1550、下列哪项结构不与右肾毗邻（  ）",
+        "options": [
+            "A.右肾上腺",
+            "B.十二指肠",
+            "C.空肠",
+            "D.结肠",
+            "E.肝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 142
+    },
+    {
+        "question_text": "1551、两肾后面的上1／3毗邻的结构是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃底",
+            "C.腰大肌",
+            "D.腰方肌",
+            "E.膈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 143
+    },
+    {
+        "question_text": "1552、肾后方毗邻结构不包括（  ）",
+        "options": [
+            "A.膈",
+            "B.腰大肌",
+            "C.腰方肌",
+            "D.腹横肌",
+            "E.髂肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 144
+    },
+    {
+        "question_text": "1553、肾的被膜，由内向外依次是（  ）",
+        "options": [
+            "A.纤维囊、肾筋膜、脂肪囊",
+            "B.纤维囊、脂肪囊、肾筋膜",
+            "C.脂肪囊、纤维囊、肾筋膜",
+            "D.肾筋膜、脂肪囊、纤维囊",
+            "E.肾筋膜、纤维囊、脂肪囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 145
+    },
+    {
+        "question_text": "1554、对肾被膜的描述，错误的是（  ）",
+        "options": [
+            "A.肾的被膜分为3层",
+            "B.纤维囊在最外层",
+            "C.肾囊封闭时将药液注入脂肪囊",
+            "D.肾筋膜下方完全开放",
+            "E.肾破裂时需缝合纤维囊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 146
+    },
+    {
+        "question_text": "1555、对肾被膜的描述，正确的是（  ）",
+        "options": [
+            "A.分为三层，由内向外是：纤维囊、脂肪囊和肾筋膜",
+            "B.在正常情况下纤维囊剥离困难",
+            "C.肾囊封闭时将药物注入筋膜囊",
+            "D.肾筋膜的前后两层不愈着",
+            "E.肾的固定主要依靠肾被膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 147
+    },
+    {
+        "question_text": "1556、关于肾筋膜的叙述，下列哪项是正确的（  ）",
+        "options": [
+            "A.分前后两层贴于肾的表面",
+            "B.前后两层在上方和内外侧相互融合",
+            "C.肾筋膜前层的前方覆盖有脏腹膜",
+            "D.位于脂肪囊外面，包被肾上腺和肾周围",
+            "E.前后两层在肾下方分离，其间有精索内血管通过"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 148
+    },
+    {
+        "question_text": "1557、对肾额状切面的描述，正确的是（  ）",
+        "options": [
+            "A.肾实质可分为皮质、髓质、肾窦",
+            "B.肾柱为肾髓质结构",
+            "C.肾锥体尖端朝向肾皮质",
+            "D.2-3个肾小盏合成1个肾大盏",
+            "E.肾小盏在皮质内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 149
+    },
+    {
+        "question_text": "1558、属于肾皮质的结构是（  ）",
+        "options": [
+            "A.肾盂",
+            "B.肾盏",
+            "C.肾锥体",
+            "D.肾乳头",
+            "E.肾柱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 150
+    },
+    {
+        "question_text": "1559、肾乳头（  ）",
+        "options": [
+            "A.朝向肾皮质",
+            "B.每肾仅有2-3个",
+            "C.被肾大盏包绕",
+            "D.顶端有乳头孔",
+            "E.是肉眼难以看到的结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 151
+    },
+    {
+        "question_text": "1560、肾柱（  ）",
+        "options": [
+            "A.是肾髓质的一部分",
+            "B.位于肾髓质的表层",
+            "C.位于肾髓质的深层",
+            "D.由许多小的管道组成",
+            "E.是肾皮质伸入肾锥体之间的一部分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 152
+    },
+    {
+        "question_text": "1561、对肾髓质的描述，错误的是（  ）",
+        "options": [
+            "A.约占肾实质厚度的2/3",
+            "B.肾锥体尖朝向皮质",
+            "C.2-3个肾锥体的尖端合并成肾乳头",
+            "D.有15-20个肾锥体",
+            "E.肾锥体有放射状条纹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 153
+    },
+    {
+        "question_text": "1562、对肾段的概念的描述，正确的是（  ）",
+        "options": [
+            "A.一个肾静脉所收集的这部分肾组织",
+            "B.一个肾孟所收集的这部分肾组织",
+            "C.一个肾大盏所收集的这部分肾组织",
+            "D.一个肾小盏所收集的这部分肾组织",
+            "E.肾段动脉分布到一定区域的肾实质"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 154
+    },
+    {
+        "question_text": "1563、对肾段的描述，错误的是（  ）",
+        "options": [
+            "A.每侧肾有5个肾段",
+            "B.肾段动脉阻塞可导致肾坏死",
+            "C.肾段动脉间缺少吻合",
+            "D.肾段动脉为肾动脉的三级分支",
+            "E.肾段动脉分布到一定区域的肾实质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 155
+    },
+    {
+        "question_text": "1564、肾段可分为（  ）",
+        "options": [
+            "A.3个",
+            "B.4个",
+            "C.5个",
+            "D.6个",
+            "E.3－5个"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 156
+    },
+    {
+        "question_text": "1565、肾段可分为（  ）",
+        "options": [
+            "A.上段、上前段、下段、下前段、后段",
+            "B.上前段、下段、下前段、后段",
+            "C.上段、下段、下前段、后段",
+            "D.上段、上前段、下前段、后段",
+            "E.上段、上前段、下段、后段、尖段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 157
+    },
+    {
+        "question_text": "1566、属于泌尿器官的为（　）",
+        "options": [
+            "A.肾上腺",
+            "B.精囊腺",
+            "C.附睾",
+            "D.肾",
+            "E.输精管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 158
+    },
+    {
+        "question_text": "1567、属于泌尿器官的为（　）",
+        "options": [
+            "A.肾上腺",
+            "B.前列腺",
+            "C.睾丸",
+            "D.肾",
+            "E.精囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 159
+    },
+    {
+        "question_text": "1568、储存尿液的器官是（　）",
+        "options": [
+            "A.输尿管",
+            "B.肾",
+            "C.睾丸",
+            "D.肾窦",
+            "E.肾上腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 160
+    },
+    {
+        "question_text": "1569、储存尿液的器官是（　）",
+        "options": [
+            "A.膀胱",
+            "B.输尿管",
+            "C.肾",
+            "D.肾窦",
+            "E.肾囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 161
+    },
+    {
+        "question_text": "1570、肾门位于 （   ）",
+        "options": [
+            "A.肾的上端",
+            "B.肾的下端",
+            "C.肾的外侧缘",
+            "D.肾的前面",
+            "E.肾的内侧缘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 162
+    },
+    {
+        "question_text": "1571、肾段的划分依据是  （   ）",
+        "options": [
+            "A.肾锥体",
+            "B.肾大盏",
+            "C.肾动脉的分支",
+            "D.肾静脉的属支",
+            "E.肾柱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 163
+    },
+    {
+        "question_text": "1572、在肾的冠状切面  （   )",
+        "options": [
+            "A.肾实质表层为肾髓质",
+            "B.肾实质表层为肾柱",
+            "C.肾实质表层为肾皮质",
+            "D.肾实质深层为肾皮质",
+            "E.肾实质深层为肾盂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 164
+    },
+    {
+        "question_text": "1573、肾小盏  （   ）",
+        "options": [
+            "A.位于肾皮质内",
+            "B.包绕肾乳头",
+            "C.汇合成肾盂",
+            "D.伸入肾锥体之间",
+            "E.位于肾髓质内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 165
+    },
+    {
+        "question_text": "1574、左肾上端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 166
+    },
+    {
+        "question_text": "1575、左肾下端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 167
+    },
+    {
+        "question_text": "1576、右肾上端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 168
+    },
+    {
+        "question_text": "1577、右肾下端的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 169
+    },
+    {
+        "question_text": "1578、肾门的高度（  ）",
+        "options": [
+            "A.第11胸椎体的下缘",
+            "B.第2腰椎体的下缘",
+            "C.第12胸椎体的上缘",
+            "D.第3腰椎体的上缘",
+            "E.第1腰椎体平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 170
+    },
+    {
+        "question_text": "1579、最外层的肾被膜是  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 171
+    },
+    {
+        "question_text": "1580、最内层的肾被膜是  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 172
+    },
+    {
+        "question_text": "1581、中层肾被膜为  （   ）",
+        "options": [
+            "A.纤维囊",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.肌织膜",
+            "E.壁腹膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 173
+    },
+    {
+        "question_text": "1582、肾蒂内结构位于最前方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 174
+    },
+    {
+        "question_text": "1583、肾蒂内结构位于最后方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 175
+    },
+    {
+        "question_text": "1584、肾蒂内结构位于最上方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 176
+    },
+    {
+        "question_text": "1585、肾蒂内结构位于最下方的是 （  ）",
+        "options": [
+            "A.肾动脉",
+            "B.肾静脉",
+            "C.输尿管",
+            "D.肾盂",
+            "E.肾大盏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 177
+    },
+    {
+        "question_text": "1586、与左肾前上部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 178
+    },
+    {
+        "question_text": "1587、与左肾中部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 179
+    },
+    {
+        "question_text": "1588、与左肾下部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠左曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 180
+    },
+    {
+        "question_text": "1589、与右肾前上部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 181
+    },
+    {
+        "question_text": "1590、与右肾下部相邻的结构是（  ）",
+        "options": [
+            "A.胃底",
+            "B.胰尾和脾血管",
+            "C.空肠和结肠右曲",
+            "D.肝",
+            "E.结肠右曲"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 182
+    },
+    {
+        "question_text": "1614、对输尿管的描述，错误的是（  ）",
+        "options": [
+            "A.成对的肌性管道",
+            "B.腹膜外位器官",
+            "C.约平第2腰椎起于肾大盏",
+            "D.终于膀胱",
+            "E.分为三部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 183
+    },
+    {
+        "question_text": "1615、对输尿管的描述，错误的是（  ）",
+        "options": [
+            "A.成对的肌性管道",
+            "B.腹膜内位器官",
+            "C.约平第2腰椎起于肾盂",
+            "D.下端开口于膀胱",
+            "E.分为三部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 184
+    },
+    {
+        "question_text": "1616、输尿管（  ）",
+        "options": [
+            "A.沿腰大肌外侧下降",
+            "B.于小骨盆入口处，右侧输尿管跨越右髂总动脉前方",
+            "C.于子宫颈外侧2cm处，行经子宫动脉下方",
+            "D.于膀胱尖前方注入膀胱",
+            "E.按行径可分为腹段,盆段和壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 185
+    },
+    {
+        "question_text": "1617、输尿管下端开口于（  ）",
+        "options": [
+            "A.膀胱",
+            "B.子宫",
+            "C.肾",
+            "D.肾上腺",
+            "E.尿道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 186
+    },
+    {
+        "question_text": "1618、输尿管（  ）",
+        "options": [
+            "A.沿腰大肌外侧下降",
+            "B.于小骨盆入口处，右侧输尿管跨越右髂总动脉前方",
+            "C.于子宫颈外侧2cm处，行经子宫动脉下方",
+            "D.于膀胱体后上方注入膀胱",
+            "E.按行径可分为腹段和盆段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 187
+    },
+    {
+        "question_text": "1619、关于输尿管走行的描述，错误的是（  ）",
+        "options": [
+            "A.腹段经腰大肌前面下行，并与睾丸血管或卵巢血管交叉",
+            "B.左侧腹段越过左髂总动脉末端前方",
+            "C.右侧腹段越过右髂外动脉起始部的前方",
+            "D.女性输尿管盆段经子宫颈外侧约2.5cm处，从子宫动脉前方绕过",
+            "E.壁内段是走行于膀胱壁内的一段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 188
+    },
+    {
+        "question_text": "1620、输尿管壁内段（  ）",
+        "options": [
+            "A.为输尿管行经腹后壁的一段",
+            "B.经子宫动脉的前方下行",
+            "C.位于子宫体外侧约2cm处",
+            "D.能限制膀胱内的尿液倒流",
+            "E.仅女性存在"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 189
+    },
+    {
+        "question_text": "1621、输尿管壁内段长（  ）",
+        "options": [
+            "A.3cm",
+            "B.4cm",
+            "C.5cm",
+            "D.1.5cm",
+            "E.3-5cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 190
+    },
+    {
+        "question_text": "1622、输尿管腹段的走行是（  ）",
+        "options": [
+            "A.沿腹主动脉前方下行",
+            "B.沿脊柱前方下行",
+            "C.沿腰大肌前方下行",
+            "D.沿腰方肌前方下行",
+            "E.沿下腔静脉后方下行"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 191
+    },
+    {
+        "question_text": "1623、输尿管可分为（  ）",
+        "options": [
+            "A.腹段和盆段",
+            "B.上段、中段、下段",
+            "C.腹段、盆段和壁内段",
+            "D.远段、中段、近段",
+            "E.腹段、膀胱段、壁内段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 192
+    },
+    {
+        "question_text": "1624、输尿管可分为（  ）",
+        "options": [
+            "A.腹段、盆段、壁内段",
+            "B.上段、中段、下段",
+            "C.腹段、盆段、膀胱段",
+            "D.远段、中段、近段",
+            "E.腹段、膀胱段、壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 193
+    },
+    {
+        "question_text": "1625、与男性输尿管盆部相交叉结构的是（  ）",
+        "options": [
+            "A.膀胱底",
+            "B.前列腺",
+            "C.尿道球腺",
+            "D.膀胱三角",
+            "E.输精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 194
+    },
+    {
+        "question_text": "1626、女性输尿管与子宫动脉的关系是（  ）",
+        "options": [
+            "A.子宫动脉越过输尿管的前外方",
+            "B.子宫动脉越过输尿管的前上方",
+            "C.子宫动脉越过输尿管的前下方",
+            "D.子宫动脉越过输尿管的后上方",
+            "E.子宫动脉越过输尿管的后下方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 195
+    },
+    {
+        "question_text": "1627、About the ureters, which of the following descriptions are correct?",
+        "options": [
+            "A.The paired ureters convey the urine from the renal pelvises to the urinary bladder.",
+            "B.The ureter can be divided into abdominal portion, pelvic portion and intramural portion (壁内部).",
+            "C.In the female, about 2 cm lateral to the cervix of uterus (子宫颈), the ureter is crossed anteriorly",
+            "D.The intramural portion is the shortest part of the ureter, and passes through the wall of the urinar",
+            "E.Each ureter has two normal constrictions"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 196
+    },
+    {
+        "question_text": "1628、About the normal constriction of the ureter, which of the following descriptions are correct?",
+        "options": [
+            "A.Each ureter has three normal constriction.",
+            "B.The first normal constriction is at the the junction between the renal pelvis and the ureter.",
+            "C.The second normal constriction is at the brim of the lesser pelvis.",
+            "D.The third normal constriction is at the place where the ureter passes through the bladder wall.",
+            "E.The stone of ureter is easily lodged in these three normal constrictions."
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 197
+    },
+    {
+        "question_text": "1629、在小骨盆入口处，左输尿管越过（  ）",
+        "options": [
+            "A.髂总动脉末端前方",
+            "B.髂外动脉末端前方",
+            "C.髂内动脉末端前方",
+            "D.髂总动脉末端后方",
+            "E.髂外动脉末端后方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 198
+    },
+    {
+        "question_text": "1630、在小骨盆入口处，右输尿管越过（  ）",
+        "options": [
+            "A.髂总动脉末端前方",
+            "B.髂外动脉起始部的前方",
+            "C.髂内动脉起始部的前方",
+            "D.髂总动脉末端后方",
+            "E.髂外动脉末端后方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 199
+    },
+    {
+        "question_text": "1631、输尿管的第1个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 200
+    },
+    {
+        "question_text": "1632、输尿管的第2个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 201
+    },
+    {
+        "question_text": "1633、输尿管的第3个狭窄位于（  ）",
+        "options": [
+            "A.肾盂与输尿管的移行处",
+            "B.小骨盆的出口",
+            "C.输尿管跨髂血管处",
+            "D.输尿管盆部",
+            "E.输尿管壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 202
+    },
+    {
+        "question_text": "1637、临床寻找输尿管口的标志是（  ）",
+        "options": [
+            "A.膀胱三角",
+            "B.尿道内口",
+            "C.输尿管间襞",
+            "D.尿道嵴",
+            "E.膀胱垂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 203
+    },
+    {
+        "question_text": "1638、膀胱肿瘤的好发部位是（  ）",
+        "options": [
+            "A.膀胱垂",
+            "B.膀胱体",
+            "C.膀胱尖",
+            "D.膀胱颈",
+            "E.膀胱三角"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 204
+    },
+    {
+        "question_text": "1639、膀胱肿瘤的好发部位是（  ）",
+        "options": [
+            "A.膀胱垂",
+            "B.膀胱三角",
+            "C.尿道内口",
+            "D.输尿管间襞",
+            "E.输尿管口"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 205
+    },
+    {
+        "question_text": "1640、膀胱可分为（  ）",
+        "options": [
+            "A.膀胱尖、膀胱体、膀胱底、膀胱颈",
+            "B.膀胱尖、膀胱体、膀胱底",
+            "C.膀胱体、膀胱底、膀胱颈",
+            "D.膀胱尖、膀胱体、膀胱颈",
+            "E.膀胱尖、膀胱体、膀胱底、膀胱垂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 206
+    },
+    {
+        "question_text": "1641、女性膀胱后方的毗邻是（  ）",
+        "options": [
+            "A.空肠",
+            "B.回肠",
+            "C.直肠",
+            "D.结肠",
+            "E.阴道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 207
+    },
+    {
+        "question_text": "1642、女性膀胱后方的毗邻是（  ）",
+        "options": [
+            "A.直肠",
+            "B.阴道",
+            "C.回肠",
+            "D.结肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 208
+    },
+    {
+        "question_text": "1643、女性膀胱前方的毗邻是（  ）",
+        "options": [
+            "A.子宫",
+            "B.会阴",
+            "C.回肠",
+            "D.耻骨联合",
+            "E.结肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 209
+    },
+    {
+        "question_text": "1644、女性膀胱前方的毗邻是（  ）",
+        "options": [
+            "A.直肠",
+            "B.耻骨联合",
+            "C.乙状结肠",
+            "D.空肠",
+            "E.坐骨"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 210
+    },
+    {
+        "question_text": "1645、膀胱三角的位置在（  ）",
+        "options": [
+            "A.膀胱底",
+            "B.膀胱尖",
+            "C.输尿管间襞",
+            "D.膀胱颈",
+            "E.膀胱体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 211
+    },
+    {
+        "question_text": "1646、膀胱三角的位置是（  ）",
+        "options": [
+            "A.尿道内口与膀胱底",
+            "B.尿道内口与膀胱尖",
+            "C.输尿管间襞与膀胱尖",
+            "D.尿道内口与两输尿管口之间",
+            "E.膀胱体中份"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 212
+    },
+    {
+        "question_text": "1647、膀胱（  ）",
+        "options": [
+            "A.属于腹膜间位器官",
+            "B.充盈的膀胱全部位于盆腔内",
+            "C.在女性，后邻直肠",
+            "D.在男性，膀胱体与前列腺相邻",
+            "E.膀胱尖向后上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 213
+    },
+    {
+        "question_text": "1648、膀胱（  ）",
+        "options": [
+            "A.属于腹膜内位器官",
+            "B.空虚的膀胱全部位于盆腔内",
+            "C.在女性，后邻直肠",
+            "D.在男性，膀胱体与前列腺相邻",
+            "E.膀胱尖向后上方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 214
+    },
+    {
+        "question_text": "1649、对膀胱壁的描述，正确的是（  ）",
+        "options": [
+            "A.膀胱的内面、外面均被覆粘膜",
+            "B.膀胱三角处缺少粘膜下层",
+            "C.由浆膜层、肌层、粘膜下层组成",
+            "D.由浆膜层、粘膜下层、粘膜构成",
+            "E.各处粘膜层和肌层紧密相连"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 215
+    },
+    {
+        "question_text": "1650、膀胱充盈时（  ）",
+        "options": [
+            "A.全部位于盆腔内",
+            "B.膀胱底可上移至耻骨联合上",
+            "C.膀胱三角可上移至耻骨联合上",
+            "D.膀胱腹膜返折线仍在原位",
+            "E.膀胱腹膜返折线可上移至耻骨联合上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 216
+    },
+    {
+        "question_text": "1651、膀胱充盈时（  ）",
+        "options": [
+            "A.膀胱腹膜返折线可上移至耻骨联合上",
+            "B.膀胱底可上移至耻骨联合上",
+            "C.膀胱三角可上移至耻骨联合上",
+            "D.膀胱腹膜返折线仍在原位",
+            "E.膀胱尖下移"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 217
+    },
+    {
+        "question_text": "1652、男性膀胱颈下邻（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.精囊腺",
+            "E.直肠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 218
+    },
+    {
+        "question_text": "1653、女性膀胱颈下邻（  ）",
+        "options": [
+            "A.子宫",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.尿道",
+            "E.直肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 219
+    },
+    {
+        "question_text": "1654、膀胱空虚时，膀胱尖位于（  ）",
+        "options": [
+            "A.坐骨结节水平",
+            "B.坐骨棘水平",
+            "C.耻骨联合以下",
+            "D.耻骨联合以上",
+            "E.耻骨联合水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 220
+    },
+    {
+        "question_text": "1655、输尿管属于  (    )",
+        "options": [
+            "A.腹膜间位器官",
+            "B.腹膜内位器官",
+            "C.腹膜外位器官",
+            "D.筋膜后位器官",
+            "E.筋膜内位器官"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 221
+    },
+    {
+        "question_text": "1656、输尿管依其行程依次分为  (    )",
+        "options": [
+            "A.壁内段、腹段、盆段",
+            "B.壁内段、盆段、腹段",
+            "C.肾内段、腹段、盆段",
+            "D.盆段、腹段、壁内段",
+            "E.腹段、盆段、壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 222
+    },
+    {
+        "question_text": "1657、输尿管壁内段   （    ）",
+        "options": [
+            "A.为输尿管最长一段",
+            "B.为输尿管最窄一段",
+            "C.位于肾窦内",
+            "D.垂直穿膀胱壁",
+            "E.开口于肾窦"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 223
+    },
+    {
+        "question_text": "1658、膀胱尖朝向     (      )",
+        "options": [
+            "A.前下方",
+            "B.后下方",
+            "C.前上方",
+            "D.后上方",
+            "E.后方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 224
+    },
+    {
+        "question_text": "1659、膀胱体介于  (    )",
+        "options": [
+            "A.膀胱底与膀胱尖之间",
+            "B.膀胱尖与膀胱颈之间",
+            "C.膀胱三角与膀胱尖之间",
+            "D.膀胱尖与膀胱底之间",
+            "E.膀胱底与膀胱颈之间"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 225
+    },
+    {
+        "question_text": "1660、与男性膀胱前下壁相邻的为  （   ）",
+        "options": [
+            "A.耻骨联合后面",
+            "B.直肠",
+            "C.前列腺",
+            "D.输精管",
+            "E.精囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 226
+    },
+    {
+        "question_text": "1661、与男性膀胱底相邻的为  （   ）",
+        "options": [
+            "A.耻骨后隙",
+            "B.前列腺",
+            "C.精囊",
+            "D.尿生殖膈",
+            "E.盆膈"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 227
+    },
+    {
+        "question_text": "1662、与女性膀胱底相邻的为  （   ）",
+        "options": [
+            "A.阴道",
+            "B.尿生殖膈",
+            "C.盆膈",
+            "D.耻骨后隙",
+            "E.直肠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 228
+    },
+    {
+        "question_text": "1663、与男性膀胱颈相邻的为  （   ）",
+        "options": [
+            "A.尿生殖膈",
+            "B.前列腺",
+            "C.盆膈",
+            "D.耻骨后隙",
+            "E.直肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 229
+    },
+    {
+        "question_text": "1664、与女性膀胱颈相邻的为  （   ）",
+        "options": [
+            "A.盆膈",
+            "B.直肠",
+            "C.尿生殖膈",
+            "D.阴道",
+            "E.子宫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 230
+    },
+    {
+        "question_text": "1665、膀胱可分为   （     ）",
+        "options": [
+            "A.尖、体、颈三部",
+            "B.体、颈、底三部",
+            "C.尖、底、颈三部",
+            "D.尖、体、底三部",
+            "E.尖、体、底、颈四部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 231
+    },
+    {
+        "question_text": "1666、膀胱三角的下角为     (       )",
+        "options": [
+            "A.左输尿管口",
+            "B.右输尿管口",
+            "C.输尿管间襞",
+            "D.尿道内口",
+            "E.尿道外口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 232
+    },
+    {
+        "question_text": "1667、关于膀胱三角的描述，错误的是   （    ）",
+        "options": [
+            "A.有明显的黏膜皱襞",
+            "B.是结核好发部位",
+            "C.是肿瘤好发部位",
+            "D.其下角为尿道内口",
+            "E.其外上角为两输尿管口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 233
+    },
+    {
+        "question_text": "1668、膀胱三角位于     (    )",
+        "options": [
+            "A.膀胱颈的前面",
+            "B.膀胱尖的内面",
+            "C.膀胱底的内面",
+            "D.膀胱体的内面",
+            "E.输尿管间襞的上方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 234
+    },
+    {
+        "question_text": "1669、与前列腺相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 235
+    },
+    {
+        "question_text": "1670、与精囊相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 236
+    },
+    {
+        "question_text": "1671、与耻骨联合相邻的是（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 237
+    },
+    {
+        "question_text": "1672、腹前壁的腹膜向下向后移行返折至（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱的上面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 238
+    },
+    {
+        "question_text": "1673、输尿管的第一个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 239
+    },
+    {
+        "question_text": "1674、输尿管的第二个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 240
+    },
+    {
+        "question_text": "1675、输尿管的第三个狭窄位于   （    ）",
+        "options": [
+            "A.越过小骨盆入口处",
+            "B.在输精管后方",
+            "C.在子宫动脉后下方",
+            "D.与肾盂移行处",
+            "E.壁内段"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 241
+    },
+    {
+        "question_text": "1684、女性尿道的特点是（  ）",
+        "options": [
+            "A.细而长",
+            "B.短而直",
+            "C.细而弯曲",
+            "D.长而弯曲",
+            "E.细而直"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 242
+    },
+    {
+        "question_text": "1685、尿道阴道括约肌肌环绕（  ）",
+        "options": [
+            "A.尿道外口",
+            "B.尿道内口",
+            "C.尿道起始部",
+            "D.尿道穿尿生殖膈处",
+            "E.尿道末段"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 243
+    },
+    {
+        "question_text": "1686、女性尿道后方毗邻（  ）",
+        "options": [
+            "A.直肠",
+            "B.子宫",
+            "C.阴道",
+            "D.肛管",
+            "E.肛门"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 244
+    },
+    {
+        "question_text": "1591、组成泌尿系统的器官有（  ）",
+        "options": [
+            "A.肾",
+            "B.肾盂",
+            "C.输尿管",
+            "D.膀胱",
+            "E.尿道"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 245
+    },
+    {
+        "question_text": "1592、关于泌尿系统的描述，正确的是（  ）",
+        "options": [
+            "A.由肾、膀胱、输尿管、尿道组成",
+            "B.主要功能是排出废物和多余的水",
+            "C.肾的功能仅为生成尿液",
+            "D.输尿管输送尿液到膀胱",
+            "E.尿道将尿液排出体外"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 246
+    },
+    {
+        "question_text": "1593、关于泌尿系统的描述，正确的是（  ）",
+        "options": [
+            "A.由肾、膀胱、尿道组成",
+            "B.主要功能是排出废物和多余的水",
+            "C.肾的功能仅为生成尿液",
+            "D.输尿管输送尿液到膀胱",
+            "E.尿道将尿液排出体外"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 247
+    },
+    {
+        "question_text": "1594、对肾外形的描述，正确的是（  ）",
+        "options": [
+            "A.实质性器官",
+            "B.左右各一",
+            "C.分为内、外两缘",
+            "D.分为前、后两面",
+            "E.分为上、下两端"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 248
+    },
+    {
+        "question_text": "1595、对肾外形的描述，正确的是（  ）",
+        "options": [
+            "A.实质性器官",
+            "B.左右各一,形似梨形",
+            "C.分为内、外两缘",
+            "D.分为前、后两面",
+            "E.分为上、下两端"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 249
+    },
+    {
+        "question_text": "1596、对肾门的描述，正确的是（  ）",
+        "options": [
+            "A.有肾动脉经过",
+            "B.有肾静脉经过",
+            "C.肾的内侧缘中部凹陷而成肾门",
+            "D.为输尿管出入肾的门户",
+            "E.有神经经过"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 250
+    },
+    {
+        "question_text": "1597、出入肾门的结构为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉",
+            "B.淋巴管",
+            "C.神经",
+            "D.肾盂",
+            "E.输尿管"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 251
+    },
+    {
+        "question_text": "1598、对肾位置的描述，正确的是（  ）",
+        "options": [
+            "A.脊柱的两侧，腹膜后间隙",
+            "B.属腹膜外位器官",
+            "C.左肾上端平第12胸椎体上缘",
+            "D.第12肋横过右肾后面的中部",
+            "E.肾门约在第1腰椎体平面"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 252
+    },
+    {
+        "question_text": "1599、肾（  ）",
+        "options": [
+            "A.左肾上端平对第11胸推下缘",
+            "B.左肾后面中部有第12肋斜过",
+            "C.右肾后面上部有第12肋斜过",
+            "D.左肾下端平第2腰椎下缘",
+            "E.右肾比左肾低半个椎体"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 253
+    },
+    {
+        "question_text": "1600、肾（  ）",
+        "options": [
+            "A.其实质由皮质和髓质构成",
+            "B.是腹膜外位器官",
+            "C.左肾高于右肾",
+            "D.位于腹腔后上部",
+            "E.为成对的器官，分列于脊柱的两旁"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 254
+    },
+    {
+        "question_text": "1601、肾（  ）",
+        "options": [
+            "A.是成对的实质性器官",
+            "B.上端有肾上腺紧密相邻",
+            "C.右肾比左肾高",
+            "D.左右肾蒂等长",
+            "E.为腹膜外位器官"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 255
+    },
+    {
+        "question_text": "1602、关于肾的毗邻，正确的是（  ）",
+        "options": [
+            "A.肾上腺位于两肾的上方",
+            "B.左肾前上部与胃底后面相邻",
+            "C.右肾前上部与肝相邻",
+            "D.两肾后面的上1/3与膈相邻",
+            "E.两肾后面下部与腰大肌、腰方肌及腹横肌相邻"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 256
+    },
+    {
+        "question_text": "1603、肾后面毗邻（  ）",
+        "options": [
+            "A.腰大肌",
+            "B.腰方肌",
+            "C.腹横肌",
+            "D.脊柱",
+            "E.膈"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 257
+    },
+    {
+        "question_text": "1604、肾的毗邻（  ）",
+        "options": [
+            "A.两肾的上端均有肾上腺附着，下端邻近输尿管的上端",
+            "B.两肾的肾门约平第1腰椎体，距正中线约5cm",
+            "C.左肾前面上部邻接胃后壁，中部邻胰尾",
+            "D.右肾前面的下部邻接结肠右曲，内侧有十二指肠降部经过",
+            "E.两肾后面第12肋以上部分借膈与胸膜相邻"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 258
+    },
+    {
+        "question_text": "1605、肾的被膜包括（  ）",
+        "options": [
+            "A.肾前方腹膜",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.纤维囊",
+            "E.肾后方腹膜"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 259
+    },
+    {
+        "question_text": "1606、关于肾的被膜，正确的是（  ）",
+        "options": [
+            "A.由内向外依次是：肾筋膜、脂肪囊和纤维囊",
+            "B.肾筋膜的两层之间有输尿管通过",
+            "C.两侧的肾筋膜前层相互移行",
+            "D.肾破裂或部分切除时需缝合纤维囊",
+            "E.纤维囊在病理情况下剥离困难"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 260
+    },
+    {
+        "question_text": "1607、属于肾髓质的结构包括（  ）",
+        "options": [
+            "A.肾盂",
+            "B.肾盏",
+            "C.肾锥体",
+            "D.肾柱",
+            "E.肾乳头"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 261
+    },
+    {
+        "question_text": "1608、关于肾结构的描述，正确的是（  ）",
+        "options": [
+            "A.冠状切面上，肾实质分为肾皮质和肾髓质",
+            "B.肾皮质由肾小体和肾小管组成",
+            "C.肾皮质内可见15-20个肾锥体",
+            "D.肾乳状是由2-3个肾锥体尖端合并而成",
+            "E.肾柱是伸入到肾锥体的髓质"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 262
+    },
+    {
+        "question_text": "1609、发育过程中出现的肾畸形与异常有（  ）",
+        "options": [
+            "A.单肾",
+            "B.低位肾",
+            "C.马蹄肾",
+            "D.结石肾",
+            "E.多囊肾"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 263
+    },
+    {
+        "question_text": "1610、Which of the following organs compose the urinary system?",
+        "options": [
+            "A.kidneies",
+            "B.suprarenal glands",
+            "C.ureters",
+            "D.urinary bladder",
+            "E.urethra"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 264
+    },
+    {
+        "question_text": "1611、About the kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.Each kidney has two ends, two borders and two surfaces.",
+            "B.The central part of the lateral border has the renal hilum (肾门).",
+            "C.The structures, which pass through the renal hilum, are enclosed together by the connective tissue t",
+            "D.From superior to inferior, the order of structures in the renal pedicle is renal vien, renal artery,",
+            "E.The left kidney is lower than the right kidney"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 265
+    },
+    {
+        "question_text": "1612、About the structure of kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.On the coronary section, the kidney is divided into renal cortex (肾皮质) and renal medulla (肾髓质)",
+            "B.The renal column (肾柱) is a part of the renal medulla.",
+            "C.The tips of renal (肾锥体) pyramids form the renal papillae (肾乳头), which have papillary foramina",
+            "D.Two of three minor renal calices (肾小盏) converge into one major renal calices.",
+            "E.The renal pelvis (肾盂) becomes narrow and then form the ureter."
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 266
+    },
+    {
+        "question_text": "1613、About the coverings of kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.From superficial to deep, three layers of coverings of kidney are fibrous capsule (纤维囊), adipose",
+            "B.The renal fascia is divided into anterior and posterior layers to enclose the kidney and suprarenal",
+            "C.The adipose capsule acts as a “spring cushion” to protects and support the kidney.",
+            "D.The fibrous capsule is difficult stripped from a normal kidney.",
+            "E.The coverings of kidney have the function to maintain the kidney in the normal position."
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 267
+    },
+    {
+        "question_text": "1634、输尿管的分部包括（  ）",
+        "options": [
+            "A.腹部",
+            "B.盆部",
+            "C.膀胱部",
+            "D.中部",
+            "E.壁内部"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 268
+    },
+    {
+        "question_text": "1635、输尿管（  ）",
+        "options": [
+            "A.起于肾大盏，终于膀胱",
+            "B.可分为腹段、盆段和壁内段",
+            "C.属腹膜外位器官",
+            "D.沿腰大肌前面下降",
+            "E.与子宫动脉交叉处是结石易嵌顿部位"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 269
+    },
+    {
+        "question_text": "1636、输尿管的狭窄部位于（  ）",
+        "options": [
+            "A.肾盂与输尿管移行处",
+            "B.与输精管的交叉处",
+            "C.与髂血管的交叉处",
+            "D.与子宫动脉交叉处",
+            "E.斜穿膀胱的壁内段"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 270
+    },
+    {
+        "question_text": "1676、膀胱（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.是储存尿液的肌性器官",
+            "C.大小和位置随尿液的充盈程度而异",
+            "D.正常成人容量为350-500ml",
+            "E.老年人因膀胱肌张力低而容量增大"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 271
+    },
+    {
+        "question_text": "1677、空虚膀胱的形态可分为（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱垂"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 272
+    },
+    {
+        "question_text": "1678、关于膀胱形态的描述，正确的是（  ）",
+        "options": [
+            "A.空虚时呈锥体形",
+            "B.充盈时呈卵圆形",
+            "C.分尖、体、底和颈四部",
+            "D.尖朝向前上方",
+            "E.各部之间缺乏明显界限"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 273
+    },
+    {
+        "question_text": "1679、对膀胱的位置与形态的描述，正确的是（  ）",
+        "options": [
+            "A.属于腹膜间位器官",
+            "B.空虚的膀胱全部位于小骨盆腔内",
+            "C.在女性后邻子宫",
+            "D.在男性后邻直肠",
+            "E.尖向后上方"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 274
+    },
+    {
+        "question_text": "1680、膀胱的位置（  ）",
+        "options": [
+            "A.无论充盈或空虚，均可在耻骨联合上方扪及",
+            "B.男性膀胱后方为直肠、精囊腺和输精管壶腹",
+            "C.女性膀胱后方为子宫和阴道",
+            "D.无论充盈或空虚，均为腹膜外位器官",
+            "E.底的后方男性与前列腺相邻"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 275
+    },
+    {
+        "question_text": "1681、膀胱三角（  ）",
+        "options": [
+            "A.位于两输尿管口与尿道内口之间",
+            "B.输尿管间襞位于2个输尿管口之间",
+            "C.缺少粘膜下层",
+            "D.空虚时形成皱襞，充盈时平滑",
+            "E.是肿瘤和结核的好发部位"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 276
+    },
+    {
+        "question_text": "1682、The urinary bladder can be divided into which of the following portion.",
+        "options": [
+            "A.apex of bladder (膀胱尖)",
+            "B.fundus of bladder (fundus of bladder 膀胱底)",
+            "C.body of bladder",
+            "D.trigone of bladder (膀胱三角)",
+            "E.neck of bladder"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 277
+    },
+    {
+        "question_text": "1683、On the mucous membrane surface of the urinary bladder, which of the following structures can be identified?",
+        "options": [
+            "A.external urethral orifice (尿道外口)",
+            "B.ureteric orifices （输尿管口）",
+            "C.internal urethral orifice (尿道内口)",
+            "D.trigone of bladder",
+            "E.interureteric fold (输尿管间襞)"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 278
+    },
+    {
+        "question_text": "1687、女性尿道比男性尿道（  ）",
+        "options": [
+            "A.细",
+            "B.长",
+            "C.短",
+            "D.宽",
+            "E.直"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 279
+    },
+    {
+        "question_text": "1688、女性尿道（  ）",
+        "options": [
+            "A.较男性尿道短、宽且直",
+            "B.兼具排尿和排卵功能",
+            "C.开口于阴道前庭",
+            "D.前壁与阴道后壁相邻",
+            "E.尿道旁腺感染形成的囊肿可引起尿路阻塞"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 280
+    },
+    {
+        "question_text": "1689、女性尿道（  ）",
+        "options": [
+            "A.起自尿道内口，开口于阴道前庭",
+            "B.其外口位于阴蒂与阴道口之间",
+            "C.其外口周围有尿道阴道括约肌，能随意括约阴道和尿道",
+            "D.较男尿道短、宽和直",
+            "E.较易产生尿路逆行感染"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 281
+    },
+    {
+        "question_text": "1591、组成泌尿系统的器官有（  ）",
+        "options": [
+            "A.肾",
+            "B.肾盂",
+            "C.输尿管",
+            "D.膀胱",
+            "E.尿道"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 282
+    },
+    {
+        "question_text": "1592、关于泌尿系统的描述，正确的是（  ）",
+        "options": [
+            "A.由肾、膀胱、输尿管、尿道组成",
+            "B.主要功能是排出废物和多余的水",
+            "C.肾的功能仅为生成尿液",
+            "D.输尿管输送尿液到膀胱",
+            "E.尿道将尿液排出体外"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 283
+    },
+    {
+        "question_text": "1593、关于泌尿系统的描述，正确的是（  ）",
+        "options": [
+            "A.由肾、膀胱、尿道组成",
+            "B.主要功能是排出废物和多余的水",
+            "C.肾的功能仅为生成尿液",
+            "D.输尿管输送尿液到膀胱",
+            "E.尿道将尿液排出体外"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 284
+    },
+    {
+        "question_text": "1594、对肾外形的描述，正确的是（  ）",
+        "options": [
+            "A.实质性器官",
+            "B.左右各一",
+            "C.分为内、外两缘",
+            "D.分为前、后两面",
+            "E.分为上、下两端"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 285
+    },
+    {
+        "question_text": "1595、对肾外形的描述，正确的是（  ）",
+        "options": [
+            "A.实质性器官",
+            "B.左右各一,形似梨形",
+            "C.分为内、外两缘",
+            "D.分为前、后两面",
+            "E.分为上、下两端"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 286
+    },
+    {
+        "question_text": "1596、对肾门的描述，正确的是（  ）",
+        "options": [
+            "A.有肾动脉经过",
+            "B.有肾静脉经过",
+            "C.肾的内侧缘中部凹陷而成肾门",
+            "D.为输尿管出入肾的门户",
+            "E.有神经经过"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 287
+    },
+    {
+        "question_text": "1597、出入肾门的结构为（  ）",
+        "options": [
+            "A.肾动脉、肾静脉",
+            "B.淋巴管",
+            "C.神经",
+            "D.肾盂",
+            "E.输尿管"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 288
+    },
+    {
+        "question_text": "1598、对肾位置的描述，正确的是（  ）",
+        "options": [
+            "A.脊柱的两侧，腹膜后间隙",
+            "B.属腹膜外位器官",
+            "C.左肾上端平第12胸椎体上缘",
+            "D.第12肋横过右肾后面的中部",
+            "E.肾门约在第1腰椎体平面"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 289
+    },
+    {
+        "question_text": "1599、肾（  ）",
+        "options": [
+            "A.左肾上端平对第11胸推下缘",
+            "B.左肾后面中部有第12肋斜过",
+            "C.右肾后面上部有第12肋斜过",
+            "D.左肾下端平第2腰椎下缘",
+            "E.右肾比左肾低半个椎体"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 290
+    },
+    {
+        "question_text": "1600、肾（  ）",
+        "options": [
+            "A.其实质由皮质和髓质构成",
+            "B.是腹膜外位器官",
+            "C.左肾高于右肾",
+            "D.位于腹腔后上部",
+            "E.为成对的器官，分列于脊柱的两旁"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 291
+    },
+    {
+        "question_text": "1601、肾（  ）",
+        "options": [
+            "A.是成对的实质性器官",
+            "B.上端有肾上腺紧密相邻",
+            "C.右肾比左肾高",
+            "D.左右肾蒂等长",
+            "E.为腹膜外位器官"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 292
+    },
+    {
+        "question_text": "1602、关于肾的毗邻，正确的是（  ）",
+        "options": [
+            "A.肾上腺位于两肾的上方",
+            "B.左肾前上部与胃底后面相邻",
+            "C.右肾前上部与肝相邻",
+            "D.两肾后面的上1/3与膈相邻",
+            "E.两肾后面下部与腰大肌、腰方肌及腹横肌相邻"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 293
+    },
+    {
+        "question_text": "1603、肾后面毗邻（  ）",
+        "options": [
+            "A.腰大肌",
+            "B.腰方肌",
+            "C.腹横肌",
+            "D.脊柱",
+            "E.膈"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 294
+    },
+    {
+        "question_text": "1604、肾的毗邻（  ）",
+        "options": [
+            "A.两肾的上端均有肾上腺附着，下端邻近输尿管的上端",
+            "B.两肾的肾门约平第1腰椎体，距正中线约5cm",
+            "C.左肾前面上部邻接胃后壁，中部邻胰尾",
+            "D.右肾前面的下部邻接结肠右曲，内侧有十二指肠降部经过",
+            "E.两肾后面第12肋以上部分借膈与胸膜相邻"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 295
+    },
+    {
+        "question_text": "1605、肾的被膜包括（  ）",
+        "options": [
+            "A.肾前方腹膜",
+            "B.脂肪囊",
+            "C.肾筋膜",
+            "D.纤维囊",
+            "E.肾后方腹膜"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 296
+    },
+    {
+        "question_text": "1606、关于肾的被膜，正确的是（  ）",
+        "options": [
+            "A.由内向外依次是：肾筋膜、脂肪囊和纤维囊",
+            "B.肾筋膜的两层之间有输尿管通过",
+            "C.两侧的肾筋膜前层相互移行",
+            "D.肾破裂或部分切除时需缝合纤维囊",
+            "E.纤维囊在病理情况下剥离困难"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 297
+    },
+    {
+        "question_text": "1607、属于肾髓质的结构包括（  ）",
+        "options": [
+            "A.肾盂",
+            "B.肾盏",
+            "C.肾锥体",
+            "D.肾柱",
+            "E.肾乳头"
+        ],
+        "correct_answer": "CE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 298
+    },
+    {
+        "question_text": "1608、关于肾结构的描述，正确的是（  ）",
+        "options": [
+            "A.冠状切面上，肾实质分为肾皮质和肾髓质",
+            "B.肾皮质由肾小体和肾小管组成",
+            "C.肾皮质内可见15-20个肾锥体",
+            "D.肾乳状是由2-3个肾锥体尖端合并而成",
+            "E.肾柱是伸入到肾锥体的髓质"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 299
+    },
+    {
+        "question_text": "1609、发育过程中出现的肾畸形与异常有（  ）",
+        "options": [
+            "A.单肾",
+            "B.低位肾",
+            "C.马蹄肾",
+            "D.结石肾",
+            "E.多囊肾"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 300
+    },
+    {
+        "question_text": "1610、Which of the following organs compose the urinary system?",
+        "options": [
+            "A.kidneies",
+            "B.suprarenal glands",
+            "C.ureters",
+            "D.urinary bladder",
+            "E.urethra"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 301
+    },
+    {
+        "question_text": "1611、About the kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.Each kidney has two ends, two borders and two surfaces.",
+            "B.The central part of the lateral border has the renal hilum (肾门).",
+            "C.The structures, which pass through the renal hilum, are enclosed together by the connective tissue t",
+            "D.From superior to inferior, the order of structures in the renal pedicle is renal vien, renal artery,",
+            "E.The left kidney is lower than the right kidney"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 302
+    },
+    {
+        "question_text": "1612、About the structure of kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.On the coronary section, the kidney is divided into renal cortex (肾皮质) and renal medulla (肾髓质)",
+            "B.The renal column (肾柱) is a part of the renal medulla.",
+            "C.The tips of renal (肾锥体) pyramids form the renal papillae (肾乳头), which have papillary foramina",
+            "D.Two of three minor renal calices (肾小盏) converge into one major renal calices.",
+            "E.The renal pelvis (肾盂) becomes narrow and then form the ureter."
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 303
+    },
+    {
+        "question_text": "1613、About the coverings of kidney, which of the following descriptions are correct?",
+        "options": [
+            "A.From superficial to deep, three layers of coverings of kidney are fibrous capsule (纤维囊), adipose",
+            "B.The renal fascia is divided into anterior and posterior layers to enclose the kidney and suprarenal",
+            "C.The adipose capsule acts as a “spring cushion” to protects and support the kidney.",
+            "D.The fibrous capsule is difficult stripped from a normal kidney.",
+            "E.The coverings of kidney have the function to maintain the kidney in the normal position."
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 304
+    },
+    {
+        "question_text": "1634、输尿管的分部包括（  ）",
+        "options": [
+            "A.腹部",
+            "B.盆部",
+            "C.膀胱部",
+            "D.中部",
+            "E.壁内部"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 305
+    },
+    {
+        "question_text": "1635、输尿管（  ）",
+        "options": [
+            "A.起于肾大盏，终于膀胱",
+            "B.可分为腹段、盆段和壁内段",
+            "C.属腹膜外位器官",
+            "D.沿腰大肌前面下降",
+            "E.与子宫动脉交叉处是结石易嵌顿部位"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 306
+    },
+    {
+        "question_text": "1636、输尿管的狭窄部位于（  ）",
+        "options": [
+            "A.肾盂与输尿管移行处",
+            "B.与输精管的交叉处",
+            "C.与髂血管的交叉处",
+            "D.与子宫动脉交叉处",
+            "E.斜穿膀胱的壁内段"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 307
+    },
+    {
+        "question_text": "1676、膀胱（  ）",
+        "options": [
+            "A.为实质性器官",
+            "B.是储存尿液的肌性器官",
+            "C.大小和位置随尿液的充盈程度而异",
+            "D.正常成人容量为350-500ml",
+            "E.老年人因膀胱肌张力低而容量增大"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 308
+    },
+    {
+        "question_text": "1677、空虚膀胱的形态可分为（  ）",
+        "options": [
+            "A.膀胱尖",
+            "B.膀胱底",
+            "C.膀胱体",
+            "D.膀胱颈",
+            "E.膀胱垂"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 309
+    },
+    {
+        "question_text": "1678、关于膀胱形态的描述，正确的是（  ）",
+        "options": [
+            "A.空虚时呈锥体形",
+            "B.充盈时呈卵圆形",
+            "C.分尖、体、底和颈四部",
+            "D.尖朝向前上方",
+            "E.各部之间缺乏明显界限"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 310
+    },
+    {
+        "question_text": "1679、对膀胱的位置与形态的描述，正确的是（  ）",
+        "options": [
+            "A.属于腹膜间位器官",
+            "B.空虚的膀胱全部位于小骨盆腔内",
+            "C.在女性后邻子宫",
+            "D.在男性后邻直肠",
+            "E.尖向后上方"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 311
+    },
+    {
+        "question_text": "1680、膀胱的位置（  ）",
+        "options": [
+            "A.无论充盈或空虚，均可在耻骨联合上方扪及",
+            "B.男性膀胱后方为直肠、精囊腺和输精管壶腹",
+            "C.女性膀胱后方为子宫和阴道",
+            "D.无论充盈或空虚，均为腹膜外位器官",
+            "E.底的后方男性与前列腺相邻"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 312
+    },
+    {
+        "question_text": "1681、膀胱三角（  ）",
+        "options": [
+            "A.位于两输尿管口与尿道内口之间",
+            "B.输尿管间襞位于2个输尿管口之间",
+            "C.缺少粘膜下层",
+            "D.空虚时形成皱襞，充盈时平滑",
+            "E.是肿瘤和结核的好发部位"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 313
+    },
+    {
+        "question_text": "1682、The urinary bladder can be divided into which of the following portion.",
+        "options": [
+            "A.apex of bladder (膀胱尖)",
+            "B.fundus of bladder (fundus of bladder 膀胱底)",
+            "C.body of bladder",
+            "D.trigone of bladder (膀胱三角)",
+            "E.neck of bladder"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 314
+    },
+    {
+        "question_text": "1683、On the mucous membrane surface of the urinary bladder, which of the following structures can be identified?",
+        "options": [
+            "A.external urethral orifice (尿道外口)",
+            "B.ureteric orifices （输尿管口）",
+            "C.internal urethral orifice (尿道内口)",
+            "D.trigone of bladder",
+            "E.interureteric fold (输尿管间襞)"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 315
+    },
+    {
+        "question_text": "1687、女性尿道比男性尿道（  ）",
+        "options": [
+            "A.细",
+            "B.长",
+            "C.短",
+            "D.宽",
+            "E.直"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 316
+    },
+    {
+        "question_text": "1688、女性尿道（  ）",
+        "options": [
+            "A.较男性尿道短、宽且直",
+            "B.兼具排尿和排卵功能",
+            "C.开口于阴道前庭",
+            "D.前壁与阴道后壁相邻",
+            "E.尿道旁腺感染形成的囊肿可引起尿路阻塞"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 317
+    },
+    {
+        "question_text": "1689、女性尿道（  ）",
+        "options": [
+            "A.起自尿道内口，开口于阴道前庭",
+            "B.其外口位于阴蒂与阴道口之间",
+            "C.其外口周围有尿道阴道括约肌，能随意括约阴道和尿道",
+            "D.较男尿道短、宽和直",
+            "E.较易产生尿路逆行感染"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "318",
+        "number": 318
+    }
+]

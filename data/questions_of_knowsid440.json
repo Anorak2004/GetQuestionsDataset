@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.分枝杆菌属细菌最显著的特点是",
+        "options": [
+            "A.生长迅速",
+            "B.胞壁中含有大量脂质",
+            "C.抵抗力弱",
+            "D.不容易变异",
+            "E.有芽胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.在固体培养基上生长最慢的细菌是",
+        "options": [
+            "A.麻风分枝杆菌",
+            "B.结核分枝杆菌",
+            "C.大肠埃希菌",
+            "D.布鲁菌",
+            "E破伤风梭菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.结核分枝杆菌脂质中比重较大并可引起慢性肉芽肿的是",
+        "options": [
+            "A.脂阿拉伯甘露糖",
+            "B.海藻糖6,6’-二分枝菌酸",
+            "C.磷脂",
+            "D.硫酸脑苷脂",
+            "E.磷脂酰肌醇甘露糖苷"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于结核分枝杆菌原发感染说法错误的是",
+        "options": [
+            "A.多见于儿童",
+            "B.可形成特征性的原发综合征",
+            "C.不随淋巴、血流扩散",
+            "D.原发灶大多可纤维化和钙化而自愈",
+            "E.为初次感染结核分枝杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.关于结核分枝杆菌原发后感染说法错误的是",
+        "options": [
+            "A.大名数为外源性感染",
+            "B.多见于成年人",
+            "C.感染的病灶局限一般不扩散",
+            "D.主要表现为慢性肉芽肿性炎症",
+            "E.病变常在肺尖部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于结核分枝杆菌感染后机体免疫反应说法正确的是",
+        "options": [
+            "A.抗结核免疫主要是细胞免疫",
+            "B.抗结核免疫主要是体液免疫",
+            "C.不发生超敏反应",
+            "D.人体感染结核分枝杆菌后即成为患者",
+            "E感染率等于发病率"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于结核分枝杆菌微生物学检查法说法错误的是",
+        "options": [
+            "A.根据病变部位，采取合适的样本",
+            "B.样本不能用酸碱处理",
+            "C.如果查到抗酸杆菌,报告“查到抗酸杆菌”",
+            "D.分离培养需要较长时间",
+            "E.敏感实验动物为豚鼠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.可用于区别麻风分枝杆菌与结核分枝杆菌的特性是",
+        "options": [
+            "A.抗酸染色阳性",
+            "B.胞内寄生",
+            "C.脂质含量较高",
+            "D.细长杆菌",
+            "E.泡沫细胞形成"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于麻风病说法错误的是",
+        "options": [
+            "A.一种慢性传染病",
+            "B.流行地区人群多为隐性感染",
+            "C.形成肉芽肿病变",
+            "D.潜伏期长",
+            "E.自然条件下多种动物均可感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.最有意义的麻风病传染源是",
+        "options": [
+            "A.麻风病患者",
+            "B.麻风分枝杆菌携带者",
+            "C.带菌犰狳",
+            "D.带菌小鼠",
+            "E.带菌黑猩猩"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

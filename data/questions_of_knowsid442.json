@@ -1,0 +1,226 @@
+[
+    {
+        "question_text": "1.人类最常见的炭疽病是",
+        "options": [
+            "A.皮肤炭疽",
+            "B.肠炭疽",
+            "C.肺炭疽",
+            "D.肝炭疽",
+            "E.脑膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 1
+    },
+    {
+        "question_text": "2.可产生芽胞的动物源性细菌是",
+        "options": [
+            "A.鼠疫耶尔森菌",
+            "B.炭疽芽胞杆菌",
+            "C.布鲁菌",
+            "D.蜡状芽胞杆菌",
+            "E.枯草芽胞杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 2
+    },
+    {
+        "question_text": "3.布鲁菌感染人体后，使机体的热型呈波浪式是因为",
+        "options": [
+            "A.内毒素的释放",
+            "B.反复形成菌血症",
+            "C.细菌进入血液",
+            "D.细菌被中性粒细胞吞噬",
+            "E.细菌被巨噬细胞吞噬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 3
+    },
+    {
+        "question_text": "4.鼠疫耶尔森菌的传播媒介是",
+        "options": [
+            "A.鼠蚤",
+            "B.人虱",
+            "C.恙螨",
+            "D.蚊",
+            "E.蜱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列病原体不是人畜共患病病原体的是",
+        "options": [
+            "A.鼠疫耶尔森菌",
+            "B.布鲁菌",
+            "C.炭疽芽胞杆菌",
+            "D.贝纳柯克斯体",
+            "E.百日咳鲍特菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于炭疽芽胞杆菌，下列叙述错误的是",
+        "options": [
+            "A.革兰阴性大杆菌，可形成长链状",
+            "B.有荚膜,其与该菌致病力有关",
+            "C.是人畜共患病病原体",
+            "D.炭疽毒素由保护性抗原、致死因子和水肿因子三种成分构成",
+            "E临床可致皮肤炭疽、肺炭疽和肠炭疽"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 6
+    },
+    {
+        "question_text": "7.食人末经消毒的羊奶，最有可能患的疾病是",
+        "options": [
+            "A.破伤风",
+            "B.炭疽",
+            "C.伤寒",
+            "D.波浪热",
+            "E.肉毒中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 7
+    },
+    {
+        "question_text": "8.可引起杆菌性血管瘤及杆菌性紫癜的病原体是",
+        "options": [
+            "A.炭疽芽胞杆菌",
+            "B.布鲁菌",
+            "C.汉塞巴通体",
+            "D.鼠疫耶尔森菌",
+            "E.贝纳柯克斯体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 8
+    },
+    {
+        "question_text": "9.控制炭疽芽胞杆菌毒力的物质是",
+        "options": [
+            "A.质粒",
+            "B.噬菌体",
+            "C.转座子",
+            "D.染色体基因",
+            "E.顺式作用元件"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 9
+    },
+    {
+        "question_text": "10.在液体培养基培养形成菌膜,摇动后菌膜呈特征性“钟乳石”状下沉的是",
+        "options": [
+            "A.结核分枝杆菌",
+            "B.布鲁菌",
+            "C.大肠埃希菌",
+            "D.炭疽芽胞杆菌",
+            "E.鼠疫耶尔森菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 10
+    },
+    {
+        "question_text": "11.感染动物后引起母畜流产的病原菌是",
+        "options": [
+            "A.炭疽芽胞杆菌",
+            "B.鼠疫耶尔森菌",
+            "C.布鲁菌",
+            "D.钩端螺旋体",
+            "E.普氏立克次体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 11
+    },
+    {
+        "question_text": "12.菌体呈卵圆形，革兰阴性，两极浓染的细菌是",
+        "options": [
+            "A.白喉棒状杆菌",
+            "B.结核分枝杆菌",
+            "C.鼠疫耶尓森菌",
+            "D.伤寒沙门菌",
+            "E.炭疽芽胞杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 12
+    },
+    {
+        "question_text": "13.导致炭疽病患者死亡的致病物质是",
+        "options": [
+            "A.炭疽毒素",
+            "B.荚膜",
+            "C.菌体抗原",
+            "D.内毒素",
+            "E.肠毒素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 13
+    },
+    {
+        "question_text": "14.人类感染炭疽芽胞杆菌引起的疾病多见于",
+        "options": [
+            "A.肺炭疽",
+            "B.肠炭疽",
+            "C.炭疽性脑膜炎",
+            "D.皮肤炭疽",
+            "E.败血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列哪种方法可用于鉴别羊、猪和牛布鲁菌",
+        "options": [
+            "A.初次分离培养需5%~10%的CO2",
+            "B.是否分解乳糖",
+            "C.菌体A抗原与M抗原的比例",
+            "D.是否分解葡萄糖",
+            "E.血琼脂平板是否溶血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 15
+    },
+    {
+        "question_text": "16.能引起人畜共患病的病原体是",
+        "options": [
+            "A.梅毒螺旋体",
+            "B.霍乱弧菌",
+            "C.布鲁菌",
+            "D.淋病奈惡菌",
+            "E.白喉棒状杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "16",
+        "number": 16
+    }
+]

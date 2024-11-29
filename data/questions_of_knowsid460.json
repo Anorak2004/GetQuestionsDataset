@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1.与子宫颈癌发生有关的病毒是",
+        "options": [
+            "A.HAV",
+            "B.HSV-l",
+            "C.CMV",
+            "D.HBV",
+            "FHpV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.人被狂犬咬伤后，预防发病的最主要措施",
+        "options": [
+            "A.杀犬取脑查包涵体",
+            "B.免疫血清局部浸润注射",
+            "C立即清洗伤口",
+            "D.捕犬观察",
+            "E注射狂犬病疫苗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.我国狂犬病的主要传染源是",
+        "options": [
+            "A.患病野兽",
+            "B.患者",
+            "C.病犬",
+            "D.吸血蝙蝠",
+            "E.牛、马、猪等家畜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.狂犬病病毒属于",
+        "options": [
+            "A.虫媒病毒",
+            "B.弹状病毒",
+            "C.丝状病毒",
+            "D.披膜病毒",
+            "E.正黏病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.关于狂犬病病毒叙述正确的是",
+        "options": [
+            "A.病死率低",
+            "B.在动物脑组织中感染均形成内基小体",
+            "C.病毒在未梢神经细胞内增殖",
+            "D.动物发病前5天内唾液中含有病毒",
+            "E.潜伏期短"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.感染宿主细胞易形成包涵体的病毒是",
+        "options": [
+            "A.腺病毒",
+            "B.麻疹病毒",
+            "C.狂犬病病毒",
+            "D.流感病毒",
+            "E.巨细胞病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.引起尖税湿疣的病原体是",
+        "options": [
+            "A.水痘带状疱疹病毒(VZV)",
+            "B.人乳头瘤病毒(HPV)",
+            "C.EB病毒(EBV)",
+            "D.人免疫缺陷病毒(HIV)",
+            "E.巨细胞病毒(CMV)"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.目前己在全世界灭绝的病毒是",
+        "options": [
+            "A.脊髓灰质炎病毒",
+            "B.HBV",
+            "C.天花病毒",
+            "D.HIV",
+            "E.HSV"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

@@ -1,0 +1,1556 @@
+[
+    {
+        "question_text": "1.脑神经中属混合神经的有",
+        "options": [
+            "A.嗅神经、位听神经、副神经",
+            "B.视神经、舌下神经、三叉神经",
+            "C.三叉神经、迷走神经、舌咽神经",
+            "D.位听神经、面神经、三叉神经",
+            "E.迷走神经、舌咽神经、舌下神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 1
+    },
+    {
+        "question_text": "2.直接反射消失，间接反射存在，提示有损害的神经是:",
+        "options": [
+            "A.迷走神经",
+            "B.面神经",
+            "C.滑车神经",
+            "D.副神经",
+            "E.三叉神经"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 2
+    },
+    {
+        "question_text": "3.舌后1/3的味觉减退提示有损害的神经是:",
+        "options": [
+            "A.迷走神经",
+            "B.面神经",
+            "C.舌咽神经",
+            "D.副神经",
+            "E.三叉神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 3
+    },
+    {
+        "question_text": "4.眼球运动向内、向上及向下活动受限提示有损害的神经是:",
+        "options": [
+            "A.动眼神经",
+            "B.视神经",
+            "C.滑车神经",
+            "D.展神经",
+            "E.三叉神经"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 4
+    },
+    {
+        "question_text": "5.支持动眼神经损伤的是:",
+        "options": [
+            "A.闭眼困难",
+            "B.瞳孔缩小",
+            "C.眼球向外下方运动障碍",
+            "D.眼球内陷",
+            "E.患眼不能向上和向内运动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 5
+    },
+    {
+        "question_text": "6.支配瞳孔缩小的神经是:",
+        "options": [
+            "A.视神经",
+            "B.三叉神经",
+            "C.滑车神经",
+            "D.动眼神经的副交感神经",
+            "E.动眼神经的交感神经"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 6
+    },
+    {
+        "question_text": "7.动眼、滑车、外展神经检查范围，不包括:",
+        "options": [
+            "A.眼球运动",
+            "B.眼球突出度",
+            "C.瞳孔",
+            "D.视野",
+            "E.眼球位置"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 7
+    },
+    {
+        "question_text": "8.以下哪项不属于视神经的功能检查？",
+        "options": [
+            "A.视力检查",
+            "B.视野检查",
+            "C.色觉检查",
+            "D.眼底检查",
+            "E.瞳孔对光反射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 8
+    },
+    {
+        "question_text": "9.滑车神经受损时会出现:",
+        "options": [
+            "A.眼球向内活动受限",
+            "B.眼球向上活动受限",
+            "C.眼球向上及外展运动减弱",
+            "D.眼球向下及外展运动减弱",
+            "E.眼球震颤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 9
+    },
+    {
+        "question_text": "10.角膜的感觉纤维来自:",
+        "options": [
+            "A.三叉神经眼支",
+            "B.动眼神经",
+            "C.面神经",
+            "D.外展神经",
+            "E.视神经"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪对颅神经属于混合神经？",
+        "options": [
+            "A.嗅神经",
+            "B.视神经",
+            "C.三叉神经",
+            "D.动眼神经",
+            "E.舌下神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列哪项不属视神经检查范围？",
+        "options": [
+            "A.眼球运动",
+            "B.视力",
+            "C.视野",
+            "D.眼底视网膜有无渗出",
+            "E.眼底视乳头边界"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 12
+    },
+    {
+        "question_text": "13.面部感觉障碍提示有损害的神经是:",
+        "options": [
+            "A.迷走神经",
+            "B.面神经",
+            "C.滑车神经",
+            "D.副神经",
+            "E.三叉神经"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 13
+    },
+    {
+        "question_text": "14.面神经检查时不正确的是:",
+        "options": [
+            "A.皱额",
+            "B.闭眼",
+            "C.露齿",
+            "D.鼓腮",
+            "E.咀嚼"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 14
+    },
+    {
+        "question_text": "15.一侧肢体瘫痪，伴有同侧颅神经损害，见于:",
+        "options": [
+            "A.交叉性瘫痪",
+            "B.偏瘫",
+            "C.单瘫",
+            "D.截瘫",
+            "E.混合性瘫痪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 15
+    },
+    {
+        "question_text": "16.一侧肢体（上、下肢）瘫痪伴有同侧颅神经损害是:",
+        "options": [
+            "A.不完全性瘫痪",
+            "B.单瘫",
+            "C.偏瘫",
+            "D.交叉性偏瘫",
+            "E.截瘫"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 16
+    },
+    {
+        "question_text": "17.中枢型面瘫与周围型面瘫有鉴别价值的是:",
+        "options": [
+            "A.皱额，皱眉",
+            "B.露齿",
+            "C.鼓腮",
+            "D.吹口哨",
+            "E.鼻齿沟变浅"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 17
+    },
+    {
+        "question_text": "18.周围性面瘫病人最有价值的体征是:",
+        "options": [
+            "A.一侧额纹消失",
+            "B.口角向一侧歪斜",
+            "C.一侧鼻唇沟消失",
+            "D.一侧舌前2/3味觉消失",
+            "E.一侧鼓腮不能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 18
+    },
+    {
+        "question_text": "19.交叉性瘫痪是哪个部位病变的特征性改变？",
+        "options": [
+            "A.皮层",
+            "B.脊髓",
+            "C.小脑",
+            "D.脑干",
+            "E.外周神经"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 19
+    },
+    {
+        "question_text": "20.以下哪项不是中枢性面瘫的表现？",
+        "options": [
+            "A.患侧皱额、闭眼不能",
+            "B.患侧鼻唇沟变浅",
+            "C.患侧吹口哨不能",
+            "D.患侧鼓腮漏气",
+            "E.患侧口角歪斜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 20
+    },
+    {
+        "question_text": "21.检查三叉神经有无感觉障碍，不包括下列哪项？",
+        "options": [
+            "A.医生用棉签轻触患者面部",
+            "B.用针尖轻刺三叉神经分布区",
+            "C.两侧对比",
+            "D.观察患者感觉反应",
+            "E.双手触按被检查者颞肌、咀嚼肌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 21
+    },
+    {
+        "question_text": "22.三叉神经检查不包括:",
+        "options": [
+            "A.两侧咀嚼肌的力量",
+            "B.张口动作时的肌力",
+            "C.用力闭眼时的闭合肌力",
+            "D.角膜反射",
+            "E.面部痛觉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 22
+    },
+    {
+        "question_text": "23.椎体束损害时，可出现:",
+        "options": [
+            "A.折刀现象",
+            "B.铅管样强直",
+            "C.静止性震颤",
+            "D.动作性震颤",
+            "E.舞蹈样动作"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 23
+    },
+    {
+        "question_text": "24.震颤在休息时消失，动作时发生，逾近目的物逾明显，称为:",
+        "options": [
+            "A.闭目难立正",
+            "B.感觉性共济失调",
+            "C.静止性震颤",
+            "D.手足徐动",
+            "E.意向性震颤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 24
+    },
+    {
+        "question_text": "25.检查感觉最应注意的是:",
+        "options": [
+            "A.感觉障碍程度",
+            "B.有无感觉异常",
+            "C.障碍的部位",
+            "D.有无疼痛",
+            "E.有无感觉过度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 25
+    },
+    {
+        "question_text": "26.皮肤温度觉的检查，多采用盛有热水或冷水的试管测试，使用的冷水温度为:",
+        "options": [
+            "A.10～20℃",
+            "B.5～10℃",
+            "C.3～5℃",
+            "D.1～3℃",
+            "E.1℃"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 26
+    },
+    {
+        "question_text": "27.浅感觉包括:",
+        "options": [
+            "A.痛觉、触觉、位置觉",
+            "B.实体辨别觉、温度觉",
+            "C.震动觉、图形觉",
+            "D.痛觉、触觉、温度觉",
+            "E.运动觉、皮肤定位觉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 27
+    },
+    {
+        "question_text": "28.浅感觉不包括:",
+        "options": [
+            "A.痛觉",
+            "B.位置觉",
+            "C.温度觉",
+            "D.触觉",
+            "E.冷热觉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 28
+    },
+    {
+        "question_text": "29.病人浅感觉障碍，可能出现异常的是:",
+        "options": [
+            "A.关节觉",
+            "B.痛温觉",
+            "C.震动觉",
+            "D.位置觉",
+            "E.两点辨别觉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列感觉中属于深感觉的是:",
+        "options": [
+            "A.体表图形觉",
+            "B.两点辨别觉",
+            "C.震动觉",
+            "D.触觉",
+            "E.实体觉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 30
+    },
+    {
+        "question_text": "31.属于深感觉的是:",
+        "options": [
+            "A.触觉",
+            "B.痛觉",
+            "C.温觉",
+            "D.位置觉",
+            "E.图形觉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 31
+    },
+    {
+        "question_text": "32.下述哪种感觉属于深感觉？",
+        "options": [
+            "A.位置觉",
+            "B.痛觉",
+            "C.温觉",
+            "D.触觉",
+            "E.温觉和视觉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列感觉中，不属于复合感觉的是:",
+        "options": [
+            "A.体表图形觉",
+            "B.两点辨别觉",
+            "C.皮肤定位觉",
+            "D.位置觉",
+            "E.实体觉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 33
+    },
+    {
+        "question_text": "34.复合感觉检查不包括:",
+        "options": [
+            "A.关节位置觉",
+            "B.皮肤定位觉",
+            "C.两点辩别觉",
+            "D.体表图形觉",
+            "E.实体辩别觉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 34
+    },
+    {
+        "question_text": "35.下列哪项不是复合感觉检查？",
+        "options": [
+            "A.皮肤定位觉",
+            "B.两点辨别觉",
+            "C.实体觉",
+            "D.运动觉",
+            "E.体表图形觉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 35
+    },
+    {
+        "question_text": "36.运动功能检查，不包括下列哪项？",
+        "options": [
+            "A.反射",
+            "B.肌张力",
+            "C.不自主运动",
+            "D.共济运动",
+            "E.肌力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 36
+    },
+    {
+        "question_text": "37.关于肌张力，下列叙述那项不正确？",
+        "options": [
+            "A.可分为肌张力增高及肌张力降低",
+            "B.静息状态下肌肉紧张度",
+            "C.肌张力增加在触摸肌肉时有坚实感",
+            "D.肌张力增加，伸屈其肢体时阻力增加",
+            "E.机体做某种主动运动时肌肉最大的收缩力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 37
+    },
+    {
+        "question_text": "38.关于肌张力增加的叙述，下列哪项是正确的？",
+        "options": [
+            "A.触诊时肌肉松软",
+            "B.触摸肌肉时有坚实感，做被动检查时阻力增加",
+            "C.指鼻试验不能完成",
+            "D.轮替动作不协调",
+            "E.有舞蹈样运动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 38
+    },
+    {
+        "question_text": "39.关于肌力及肌张力的描述，下列哪些是不正确的？",
+        "options": [
+            "A.肌力是指肢体作某种主动运动时肌肉最大的收缩力",
+            "B.除肌肉的收缩力外，还可以动作的幅度与速度来衡量肌力",
+            "C.肌张力增加时可表现为关节过伸",
+            "D.肌张力增加时可见于椎体束损伤",
+            "E.肌张力是指静息状态下的肌肉紧张度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 39
+    },
+    {
+        "question_text": "40.能作抗阻力动作，但较正常差是:",
+        "options": [
+            "A.肌力0级",
+            "B.肌力1级",
+            "C.肌力2级",
+            "D.肌力3级",
+            "E.肌力4级"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 40
+    },
+    {
+        "question_text": "41.肢体能抬离床面，但不能抗阻力是:",
+        "options": [
+            "A.肌力0级",
+            "B.肌力1级",
+            "C.肌力2级",
+            "D.肌力3级",
+            "E.肌力4级"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 41
+    },
+    {
+        "question_text": "42.肢体在床面上能水平移动，但不能抬离床面是:",
+        "options": [
+            "A.肌力0级",
+            "B.肌力1级",
+            "C.肌力2级",
+            "D.肌力3级",
+            "E.肌力4级"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 42
+    },
+    {
+        "question_text": "43.患者肢体能抬离床面，但不能抗阻力，其肌力为几级",
+        "options": [
+            "A.2级",
+            "B.3级",
+            "C.4级",
+            "D.5级",
+            "E.6级"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 43
+    },
+    {
+        "question_text": "44.病人椎体外系损害时，肌张力改变为:",
+        "options": [
+            "A.折刀现象",
+            "B.痉挛性增高",
+            "C.齿轮样强直",
+            "D.铅管样强直",
+            "E.搓丸样动作"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 44
+    },
+    {
+        "question_text": "45.下列哪个部位的损害会导致截痪？",
+        "options": [
+            "A.锥体外系",
+            "B.皮层",
+            "C.脑干",
+            "D.小脑",
+            "E.脊髓"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 45
+    },
+    {
+        "question_text": "46.肌张力增高表现为折刀现象，提示:",
+        "options": [
+            "A.锥体外系损害",
+            "B.锥体束损害",
+            "C.小脑病变",
+            "D.脊髓损害",
+            "E.延髓受损"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 46
+    },
+    {
+        "question_text": "47.共济运动检查法中不包括:",
+        "options": [
+            "A.尼克格征（Kerning征）",
+            "B.闭目难立征",
+            "C.轮替动作",
+            "D.指鼻试验",
+            "E.跟膝胫试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 47
+    },
+    {
+        "question_text": "48.共济失调最多见于:",
+        "options": [
+            "A.视神经损害",
+            "B.锥体束病变",
+            "C.脊髓病变",
+            "D.三叉神经病变",
+            "E.小脑、前庭器官病变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 48
+    },
+    {
+        "question_text": "49.下列哪项检查不属于共济运动检查方法？",
+        "options": [
+            "A.指鼻试验",
+            "B.轮替动作",
+            "C.温度觉试验",
+            "D.罗姆伯试验",
+            "E.跟膝试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 49
+    },
+    {
+        "question_text": "50.下列哪项不属于共济运动检查？",
+        "options": [
+            "A.指鼻试验",
+            "B.卧立位试验",
+            "C.闭目难立征",
+            "D.快速轮替动作",
+            "E.跟膝胫试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 50
+    },
+    {
+        "question_text": "51.共济运动检查不包括:",
+        "options": [
+            "A.指鼻试验",
+            "B.跟-膝-胫试验",
+            "C.快速轮替动作",
+            "D.闭目难立征",
+            "E.折刀现象"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 51
+    },
+    {
+        "question_text": "52.共济运动检查方法不包括:",
+        "options": [
+            "A.Kernig征",
+            "B.Romberg征",
+            "C.指鼻试验",
+            "D.轮替动作",
+            "E.跟-膝-胫试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 52
+    },
+    {
+        "question_text": "53.低血钙症时可出现:",
+        "options": [
+            "A.震颤",
+            "B.舞蹈样动作",
+            "C.手足搐搦",
+            "D.手足徐动",
+            "E.摸空症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 53
+    },
+    {
+        "question_text": "54.小脑病变:",
+        "options": [
+            "A.手足搐",
+            "B.舞蹈样运动",
+            "C.手足徐动",
+            "D.指鼻试验阳性",
+            "E.静止性震颤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 54
+    },
+    {
+        "question_text": "55.下列检查中，不属于自主神经功能检查的是:",
+        "options": [
+            "A.卧立位试验",
+            "B.指鼻试验",
+            "C.发汗试验",
+            "D.竖毛反射",
+            "E.皮肤划痕试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 55
+    },
+    {
+        "question_text": "56.关于指鼻试验，下列叙述哪项不正确？",
+        "options": [
+            "A.嘱患者手臂外展伸直，以示指触自己的鼻尖",
+            "B.由慢到快，先睁眼后闭眼，反复上述动作",
+            "C.正常人动作准确",
+            "D.如闭眼时指鼻准确，睁眼时出现障碍为感觉性共济失调",
+            "E.小脑半球病变时同侧指鼻不准"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 56
+    },
+    {
+        "question_text": "57.某患者发病后，出现声音嘶哑、饮水呛咳和吞咽困难，常提示哪对颅神经受损？",
+        "options": [
+            "A.面神经",
+            "B.三叉神经",
+            "C.吞咽、迷走神经",
+            "D.洞眼、滑车、展神经",
+            "E.副神经"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 57
+    },
+    {
+        "question_text": "58.下列哪一项检查不属于浅反射？",
+        "options": [
+            "A.角膜反射",
+            "B.腹壁反射",
+            "C.提睾反射",
+            "D.肱二头肌反射",
+            "E.肛门反射"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列属于浅反射的是:",
+        "options": [
+            "A.跖反射",
+            "B.肱二头肌反射",
+            "C.踝阵挛",
+            "D.Kernig征",
+            "E.Oppenheim征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 59
+    },
+    {
+        "question_text": "60.患者浅反射检查中，不可能出现阳性的是:",
+        "options": [
+            "A.腹壁反射",
+            "B.提睾反射",
+            "C.角膜反射",
+            "D.肛门反射",
+            "E.桡骨骨膜反射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 60
+    },
+    {
+        "question_text": "61.以下哪项反射属于浅反射？",
+        "options": [
+            "A.肱二头肌反射",
+            "B.桡骨膜反射",
+            "C.踝阵挛",
+            "D.跖反射",
+            "E.霍夫曼征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 61
+    },
+    {
+        "question_text": "62.下列关于腹壁反射的说法正确的是:",
+        "options": [
+            "A.检查时、嘱患者仰卧，下肢稍曲，使腹壁松弛",
+            "B.分别沿肋缘、脐平及腹股沟的方向，由内向外轻划两侧腹壁皮肤",
+            "C.一侧腹壁反射均消失见于对侧锥体束病损",
+            "D.应为垂直方向自下向中划皮肤",
+            "E.可以分三段脐平，脐上，脐下垂直划动皮肤。"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 62
+    },
+    {
+        "question_text": "63.中腹壁的反射是由下述哪个胸段脊髓神经节支配？",
+        "options": [
+            "A.胸3～4",
+            "B.胸5～6",
+            "C.胸7～8",
+            "D.胸9～10",
+            "E.胸11～12"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 63
+    },
+    {
+        "question_text": "64.下腹壁反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.胸髓7～8节",
+            "B.胸髓9～10节",
+            "C.胸髓11～12节",
+            "D.腰髓1～2节",
+            "E.骶髓4～5节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 64
+    },
+    {
+        "question_text": "65.提睾反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.胸髓7～8节",
+            "B.胸髓9～10节",
+            "C.胸髓11～12节",
+            "D.腰髓1～2节",
+            "E.骶髓4～5节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 65
+    },
+    {
+        "question_text": "66.肛门反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.胸髓7～8节",
+            "B.胸髓9～10节",
+            "C.胸髓11～12节",
+            "D.腰髓1～2节",
+            "E.骶髓4～5节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 66
+    },
+    {
+        "question_text": "67.反射中枢在腰髓第1～2节的是:",
+        "options": [
+            "A.角膜反射",
+            "B.腹壁反射",
+            "C.提睾反射",
+            "D.膝腱反射",
+            "E.跟腱反射"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 67
+    },
+    {
+        "question_text": "68.下列反射中哪个属于深反射？",
+        "options": [
+            "A.角膜反射",
+            "B.腹壁反射",
+            "C.跟腱反射",
+            "D.跖反射",
+            "E.Babinski征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 68
+    },
+    {
+        "question_text": "69.下列反射中，不属于深反射的是:",
+        "options": [
+            "A.Babinski征",
+            "B.膝反射",
+            "C.踝反射",
+            "D.肱三头肌反射",
+            "E.桡骨骨膜反射"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 69
+    },
+    {
+        "question_text": "70.下列关于深反射错误的是:",
+        "options": [
+            "A.肱二头肌反射",
+            "B.肱三头肌反射",
+            "C.膝腱反射",
+            "D.桡骨膜反射",
+            "E.肛门反射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 70
+    },
+    {
+        "question_text": "71.肱二头肌反射的反射中枢为:",
+        "options": [
+            "A.反射中枢为颈髓5～6节",
+            "B.反射中枢为颈髓6～7节",
+            "C.反射中枢为腰髓1～2节",
+            "D.反射中枢为颈髓2～4节",
+            "E.反射中枢为骶髓1～2节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 71
+    },
+    {
+        "question_text": "72.肱三头肌反射的反射中枢为:",
+        "options": [
+            "A.反射中枢为颈髓5～6节",
+            "B.反射中枢为颈髓6～7节",
+            "C.反射中枢为腰髓1～2节",
+            "D.反射中枢为颈髓2～4节",
+            "E.反射中枢为骶髓1～2节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 72
+    },
+    {
+        "question_text": "73.肱二头肌反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.颈髓5～6节",
+            "B.颈髓6～8节",
+            "C.颈髓5～8节",
+            "D.颈髓5～7节",
+            "E.颈髓8～1节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 73
+    },
+    {
+        "question_text": "74.肱三头肌反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.颈髓5～6节",
+            "B.颈髓6～7节",
+            "C.颈髓5～8节",
+            "D.颈髓5～7节",
+            "E.颈髓8～1节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 74
+    },
+    {
+        "question_text": "75.膝反射的反射中枢是:",
+        "options": [
+            "A.反射中枢为颈髓5～6节",
+            "B.反射中枢为颈髓6～7节",
+            "C.反射中枢为腰髓1～2节",
+            "D.反射中枢为腰髓2～4节",
+            "E.反射中枢为骶髓1～2节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 75
+    },
+    {
+        "question_text": "76.桡骨骨膜反射消失，受损的脊髓节段是:",
+        "options": [
+            "A.颈髓5～6节",
+            "B.颈髓6～8节",
+            "C.颈髓5～8节",
+            "D.颈髓5～7节",
+            "E.颈髓8～1节"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 76
+    },
+    {
+        "question_text": "77.膝腱反射，应叫患者放松，叩击以下位置:",
+        "options": [
+            "A.叩击髌骨下方的股四头肌腱",
+            "B.叩击髌骨",
+            "C.叩击髌骨以上部位",
+            "D.叩击股四头肌",
+            "E.以上位置都可以"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 77
+    },
+    {
+        "question_text": "78.膝反射的反射中枢在:",
+        "options": [
+            "A.腰髓1～2节段",
+            "B.腰髓2～4节段",
+            "C.骶髓1～2节段",
+            "D.胸髓9～10节段",
+            "E.胸髓11～12节段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 78
+    },
+    {
+        "question_text": "79.关于踝阵挛的叙述，下列哪项不正确？",
+        "options": [
+            "A.嘱病人仰卧，髋关节与膝关节稍屈",
+            "B.医生一手持病人小腿，一手持病人足掌前端，用力使距小腿关节过伸",
+            "C.阳性表现为腓肠肌与股四头肌发生节律性收缩",
+            "D.意义与深反射亢进征同",
+            "E.见于锥体束损害"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 79
+    },
+    {
+        "question_text": "80.关于踝阵挛的叙述中，下列哪项是不正确的？",
+        "options": [
+            "A.临床意义Kerning同征",
+            "B.患者取仰卧，髋关节与膝关节稍屈",
+            "C.医生一手持患者小腿，一手持患者足掌前端，用力使踝关节背屈",
+            "D.阳性表现为腓肠肌与比目鱼肌连续性节律性收缩",
+            "E.系腱反射极度亢进"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 80
+    },
+    {
+        "question_text": "81.病理反射出现是由于:",
+        "options": [
+            "A.脊髓反射弧的损害",
+            "B.神经系统兴奋性普遍增高",
+            "C.基底节受损",
+            "D.锥体束受损",
+            "E.脑干网状结构损害"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 81
+    },
+    {
+        "question_text": "82.病理反射中，哪项不属于病理反射？",
+        "options": [
+            "A.Oppenheim征",
+            "B.Chaddock征",
+            "C.Babinski征",
+            "D.Gordon征",
+            "E.Lasegue征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 82
+    },
+    {
+        "question_text": "83.生理反射应是:",
+        "options": [
+            "A.颈强直",
+            "B.Kernig征",
+            "C.Brudzinski征",
+            "D.Gordon征",
+            "E.腹壁反射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 83
+    },
+    {
+        "question_text": "84.属于病理反射:",
+        "options": [
+            "A.Babinski征",
+            "B.跖反射",
+            "C.Kernig征",
+            "D.踝反射",
+            "E.肱二头肌反射"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 84
+    },
+    {
+        "question_text": "85.下列哪一项检查为病理反射？",
+        "options": [
+            "A.巴彬斯基征",
+            "B.膝反射",
+            "C.踝反射",
+            "D.跖反射",
+            "E.跟腱反射"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 85
+    },
+    {
+        "question_text": "86.在病理反射中，上肢椎体束征为:",
+        "options": [
+            "A.Oppenheim征",
+            "B.Chaddock征",
+            "C.Babinski征",
+            "D.Hoffmann征",
+            "E.Gordon征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 86
+    },
+    {
+        "question_text": "87.哪一个病理征为上肢的椎体束征？",
+        "options": [
+            "A.Hoffmann征",
+            "B.Babinski征",
+            "C.Gordon征",
+            "D.Kernig征",
+            "E.Lasegue征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 87
+    },
+    {
+        "question_text": "88.Babinski征阳性的典型表现为:",
+        "options": [
+            "A.脚趾均不动",
+            "B.脚趾均背屈",
+            "C.脚趾均跖屈",
+            "D.下肢迅速回收",
+            "E.拇指背伸，余趾呈扇形展开"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 88
+    },
+    {
+        "question_text": "89.患者仰卧，一侧下肢髋，膝关节曲折成直角，检查者将患者小腿抬高伸膝的检查方法是:",
+        "options": [
+            "A.Babinski征",
+            "B.Oppenheim征",
+            "C.Gordon征",
+            "D.Kerning征",
+            "E.Brudzinski征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 89
+    },
+    {
+        "question_text": "90.用拇指及示指沿患者胫骨前缘用力由上向下滑压的检查方法是:",
+        "options": [
+            "A.Babinski征",
+            "B.Oppenheim征",
+            "C.Gordon征",
+            "D.Kerning征",
+            "E.Brudzinski征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 90
+    },
+    {
+        "question_text": "91.用手以一定的力量捏压的腓肠肌的检查方法是:",
+        "options": [
+            "A.Babinski征",
+            "B.Oppenheim征",
+            "C.Gordon征",
+            "D.Kerning征",
+            "E.Brudzinski征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 91
+    },
+    {
+        "question_text": "92.下列那些体征与Babinski征临床意义相同:",
+        "options": [
+            "A.Murphys征",
+            "B.Chaddock征",
+            "C.布氏征",
+            "D.Kernig征",
+            "E.Lasegue征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 92
+    },
+    {
+        "question_text": "93.下列哪项是检查神经根受刺激的？",
+        "options": [
+            "A.Kerning征",
+            "B.Brudzinski征",
+            "C.Lasegue征",
+            "D.Oppenheim征",
+            "E.Babinski征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 93
+    },
+    {
+        "question_text": "94.下列哪项不属于检查锥体束病变的神经反射？",
+        "options": [
+            "A.Babinski＇s征",
+            "B.Brudzinski＇s征",
+            "C.Gordon＇s征",
+            "D.Oppenheim＇s征",
+            "E.Hoffmann＇s征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 94
+    },
+    {
+        "question_text": "95.坐骨神经痛时下面哪项阳性？",
+        "options": [
+            "A.Kernig征",
+            "B.Oppenheim征",
+            "C.Brudzinski征",
+            "D.Hoffmann征",
+            "E.Laseguef征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 95
+    },
+    {
+        "question_text": "96.下列反射中属于病理反射的是:",
+        "options": [
+            "A.Kerning征",
+            "B.Oppenheim征",
+            "C.Brudzinski征",
+            "D.皮肤划痕试验",
+            "E.Valsalva动作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 96
+    },
+    {
+        "question_text": "97.检查者用手以一定力量捏压患者腓肠肌，如出现拇趾背伸，其余四趾呈扇形展开，这属于:",
+        "options": [
+            "A.Babinski征阳性",
+            "B.Hoffmann＇s征阳性",
+            "C.Kerning征阳性",
+            "D.Gordon＇s征阳性",
+            "E.Oppenheim征阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 97
+    },
+    {
+        "question_text": "98.锥体束损害时不应出现的体征是:",
+        "options": [
+            "A.Babinski征",
+            "B.Brudzinski征",
+            "C.Hoffmann征",
+            "D.腱反射",
+            "E.阵挛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 98
+    },
+    {
+        "question_text": "99.脑膜炎时下列哪种反射应为阳性？",
+        "options": [
+            "A.Babinski征",
+            "B.阵挛",
+            "C.Kernig征",
+            "D.Chaddock征",
+            "E.Hoffmann征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 99
+    },
+    {
+        "question_text": "100.下列说法正确的是:",
+        "options": [
+            "A.角膜反射属于深反射",
+            "B.Brudzinski征属于脑膜刺激征",
+            "C.Kerning征提示椎体束受损",
+            "D.发汗试验反映小脑功能",
+            "E.颈椎病时颈项强直，甚至角弓反张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 100
+    },
+    {
+        "question_text": "101.检查者用手以一定力量捏压患者腓肠肌，如反应为拇趾背伸，余趾呈扇形展开为:",
+        "options": [
+            "A.Babinski征阳性",
+            "B.Hoffmann征阳性",
+            "C.Oppenheim征阳性",
+            "D.Gordon征阳性",
+            "E.Brudzinski征阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 101
+    },
+    {
+        "question_text": "102.引起脑膜刺激征阳性最多见的疾病是:",
+        "options": [
+            "A.脑膜炎",
+            "B.脑出血",
+            "C.脑血栓",
+            "D.脑栓塞",
+            "E.脑肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 102
+    },
+    {
+        "question_text": "103.下列体征中属于脑膜刺激征的是:",
+        "options": [
+            "A.Babinski征",
+            "B.Kernig征",
+            "C.Oppenheim征",
+            "D.Gordon征",
+            "E.Chaddock征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 103
+    },
+    {
+        "question_text": "104.下列哪项是脑膜刺激征的表现？",
+        "options": [
+            "A.Hoffmann征",
+            "B.Kernig征",
+            "C.Babinski征",
+            "D.呕吐",
+            "E.单一侧肢体瘫痪"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 104
+    },
+    {
+        "question_text": "105.脑膜刺激征应该包括:",
+        "options": [
+            "A.颈强直、Kernig征和Babinski征阳性",
+            "B.颈强直、Kernig征和Brudzinski征阳性",
+            "C.Kernig征、Gordon征和Brudzinski征阳性",
+            "D.Gordon征、Babinski征和Oppenheim征阳性",
+            "E.颈强直、Babinski征和Oppenheim征阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 105
+    },
+    {
+        "question_text": "106.下述哪个征象不是脑膜刺激征的主要检查方法？",
+        "options": [
+            "A.Lasegue征",
+            "B.颈强直",
+            "C.Kernig征",
+            "D.抬颈试验",
+            "E.坐位低头试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 106
+    },
+    {
+        "question_text": "107.下列哪项检查不属于自主神经功能检查？",
+        "options": [
+            "A.眼心反射",
+            "B.角膜反射",
+            "C.卧立位反射",
+            "D.竖毛反射",
+            "E.皮肤划痕试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 107
+    },
+    {
+        "question_text": "108.自主神经检查不包括:",
+        "options": [
+            "A.眼心反射",
+            "B.卧立位反射",
+            "C.皮肤划痕反射",
+            "D.发汗试验",
+            "E.膝反射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 108
+    },
+    {
+        "question_text": "109.关于眼心反射，下列叙述哪项不正确？",
+        "options": [
+            "A.加压20～30秒后计数1分钟脉率",
+            "B.加压后正常可减少10～12次/分",
+            "C.如减少超过12次/分，提示副交感神经功能增强",
+            "D.此反射为检查感觉功能",
+            "E.如压迫后脉率不减慢，反而加快，提示交感神经功能亢进"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 109
+    },
+    {
+        "question_text": "110.皮肤红色划纹征阳性提示:",
+        "options": [
+            "A.交感神经兴奋性增高",
+            "B.交感神经兴奋性与副交感兴奋性都降低",
+            "C.副交感兴奋性增高",
+            "D.副交感兴奋性都降低",
+            "E.大脑皮质兴奋性增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 110
+    },
+    {
+        "question_text": "111.患者，男性，38岁，自述有复视，检查时发现右眼睑下垂，眼球处于外展位眼球向内、上、下活动受限，右瞳孔散，该患者神经受损部位是:",
+        "options": [
+            "A.坐骨神经",
+            "B.外展神经",
+            "C.副神经",
+            "D.桡神经",
+            "E.动眼神经"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "111",
+        "number": 111
+    }
+]

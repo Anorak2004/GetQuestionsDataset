@@ -1,0 +1,240 @@
+[
+    {
+        "question_text": "1.与革兰染色性状密切相关的细菌结构是",
+        "options": [
+            "A.核质",
+            "B.细胞质",
+            "C.微荚膜",
+            "D.细胞膜",
+            "E.细胞壁"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 1
+    },
+    {
+        "question_text": "2.目前可用疫苗预防的疾病是",
+        "options": [
+            "A.炭疽",
+            "B.梅毒",
+            "C.AIDS",
+            "D.登革热",
+            "E.丙型肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 2
+    },
+    {
+        "question_text": "3.紧急预防破伤风应选用",
+        "options": [
+            "A.破伤风类毒素",
+            "B.破伤风抗毒素",
+            "C.白百破三联疫苗",
+            "D.破伤风菌苗",
+            "E.大剂量抗生素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 3
+    },
+    {
+        "question_text": "4.可鉴定细菌型别的试验方法是",
+        "options": [
+            "A.形态染色观察",
+            "B.细菌的分离培养",
+            "C.菌落观察",
+            "D.药敏试验",
+            "E.血清学鉴定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 4
+    },
+    {
+        "question_text": "5.在咽喉假膜中检出含异染颗粒的棒状杆菌，可初步认定的病原体是",
+        "options": [
+            "A.A群链球菌",
+            "B.百日咳鲍特菌",
+            "C.嗜肺军团菌",
+            "D.白喉棒状杆菌",
+            "E.产气荚膜梭菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 5
+    },
+    {
+        "question_text": "6.不属于细菌生化反应的试验是",
+        "options": [
+            "A.糖发酵试验",
+            "B.抗O试验",
+            "C.V-P试验",
+            "D.吲哚试验",
+            "E.甲基红试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 6
+    },
+    {
+        "question_text": "7.可鉴别肠道不同种类致病菌的试验是",
+        "options": [
+            "A.标本的涂片染色",
+            "B.细菌的分离培养",
+            "C.生化试验",
+            "D.药物敏感试验",
+            "E.暗视野显微镜观察"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 7
+    },
+    {
+        "question_text": "8.减毒活疫苗的优点不包括",
+        "options": [
+            "A.接种次数少",
+            "B.免疫效果好",
+            "C免疫维持时间长",
+            "D.可引起黏膜免疫",
+            "E.接种者无禁忌证"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于灭活疫苗的叙述，不正确的是",
+        "options": [
+            "A.易于保存",
+            "B.接种次数少",
+            "C.无毒力回复之患",
+            "D.稳定性相对较好",
+            "E.可诱导体液免疫"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 9
+    },
+    {
+        "question_text": "10.参与协同凝集试验的金黄色葡萄球菌成分是",
+        "options": [
+            "A.凝固酶",
+            "B.肠毒素",
+            "C.A蛋白",
+            "D.核酸酶",
+            "E.溶血素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 10
+    },
+    {
+        "question_text": "11.利用生化反应鉴定细菌的依据是",
+        "options": [
+            "A.细菌合成代谢产物",
+            "B.细菌分解代谢产物",
+            "C.细菌毒素的活性",
+            "D.细菌色素的产生",
+            "E.细菌的裂解产物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 11
+    },
+    {
+        "question_text": "12.不能用于测定细菌药物敏感性的试验方法是",
+        "options": [
+            "A.纸片扩散法",
+            "B.连续梯度法",
+            "C.平板稀释法",
+            "D.试管稀释法",
+            "E.电场电泳法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 12
+    },
+    {
+        "question_text": "13.采用悬滴法观察有助于诊断的细菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.布鲁菌",
+            "C.霍乱弧菌",
+            "D.结核分枝杆菌",
+            "E.破伤风梭菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 13
+    },
+    {
+        "question_text": "14.辅助诊断肠热症的试验是",
+        "options": [
+            "A.外斐试验",
+            "B.肥达试验",
+            "C.冷凝集试验",
+            "D.锡克试验",
+            "E.抗O试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于类毒素，正确的叙述是",
+        "options": [
+            "A.有毒性，有免疫原性",
+            "B.有毒性，无免疫反应性",
+            "C.无毒性，无免疫原性",
+            "D.无毒性，有免疫原性",
+            "E.无毒性，无免疫反应性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 15
+    },
+    {
+        "question_text": "16.可用类毒素预防的疾病是",
+        "options": [
+            "A.伤寒",
+            "B.痢疾",
+            "C.白喉",
+            "D.结核病",
+            "E.百日咳"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 16
+    },
+    {
+        "question_text": "17.16SrDNA序列不存在于",
+        "options": [
+            "A.真菌",
+            "B.细菌",
+            "C.衣原体",
+            "D.立克次体",
+            "E.放线菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 17
+    }
+]

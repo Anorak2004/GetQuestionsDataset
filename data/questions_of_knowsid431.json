@@ -1,0 +1,310 @@
+[
+    {
+        "question_text": "1.细菌的成分中，染色体外的遗传物质是",
+        "options": [
+            "A.质粒",
+            "B.rRNA",
+            "C.mRNA",
+            "D.异染颗粒",
+            "E.菌毛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 1
+    },
+    {
+        "question_text": "2.细菌耐药基因可通过多种方式发生水平转移，其中R质粒转移的方式为",
+        "options": [
+            "A.转化",
+            "B.转染",
+            "C.转导",
+            "D.接合",
+            "E.溶原性转换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 2
+    },
+    {
+        "question_text": "3.棒状杆菌噬菌体基因组携带白喉毒素基因，当其感染白喉棒状杆菌无毒株后其基因组整合于染色体,细菌成为溶原性细菌,可产生白喉毒素,这种基因转移的方式称为",
+        "options": [
+            "A.转化",
+            "B.转染",
+            "C.转导",
+            "D.接合",
+            "E.溶原性转换"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 3
+    },
+    {
+        "question_text": "4.F因子整合于细茵染色体后,可使其染色体发生水平转移，导致细菌的某些特性发生改变，染色体中整合有F因子的细菌称为",
+        "options": [
+            "A.F-细菌",
+            "B.F+细菌",
+            "C.Hfi菌（高频重组菌）",
+            "D.耐药菌",
+            "E.溶原性细菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 4
+    },
+    {
+        "question_text": "5.活IIR型链球菌（不产荚膜）与灭活IIIS型链球茵（产荚膜）混合培养后，出现了可产生荚膜的活IIIS型链球菌，这种基因转移方式称为",
+        "options": [
+            "A.转化",
+            "B.转染",
+            "C.转导",
+            "D.接合",
+            "E.基因转位"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 5
+    },
+    {
+        "question_text": "6.以噬菌体为媒介将供体菌的DNA片段转移到受体菌，使其获得新的遗传性状，这种基因转移方式称为",
+        "options": [
+            "A.转化",
+            "B.转染",
+            "C.转导",
+            "D.接合",
+            "E.基因转位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 6
+    },
+    {
+        "question_text": "7.不携带耐药基因或其他基因的遗传元件是",
+        "options": [
+            "A,染色体",
+            "B.插入序列",
+            "C.质粒",
+            "D.噬菌体",
+            "E.转座子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 7
+    },
+    {
+        "question_text": "8.在细菌接合反应中,受体菌与供体菌配对时需要",
+        "options": [
+            "A.供体菌的裂解",
+            "B.性菌毛",
+            "C.双方DNA的转移",
+            "D.限制性内切酶",
+            "E,转座子的整合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 8
+    },
+    {
+        "question_text": "9.在下列基因水平转移方式中，对DNA酶处理敏感的是",
+        "options": [
+            "A.转座子的整合",
+            "B.接合",
+            "C.转导",
+            "D.溶原性转换",
+            "E.转化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 9
+    },
+    {
+        "question_text": "10.溶原性细菌是指",
+        "options": [
+            "A.L型细菌",
+            "B.带有毒性噬菌体基因组的细菌",
+            "C.带有前噬菌体的细菌",
+            "D.带有F质粒的细菌",
+            "E.带有转座子的细菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 10
+    },
+    {
+        "question_text": "11.细菌耐药基因可通过多种方式传递，下列可携带耐药基因的遗传物质中下不包括",
+        "options": [
+            "A.染色体",
+            "B.RTF",
+            "C.R质粒",
+            "D.噬菌体",
+            "E.转座子"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 11
+    },
+    {
+        "question_text": "12.BCG菌株的变异属于",
+        "options": [
+            "A.毒力变异",
+            "B.形态变异",
+            "C.耐药性变异",
+            "D.抗原性变异",
+            "E.荚膜变异"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 12
+    },
+    {
+        "question_text": "13.有关细菌致病岛特征的描述，错误的是",
+        "options": [
+            "A.致病岛基因序列的G+C与细菌染色体有明显差异",
+            "B.致病岛基因序列密码子使用偏向性与细菌染色体有明显差异",
+            "C.是建立细菌溶原性周期所必需的",
+            "D.编码与毒力相关的基因",
+            "E.其两侧常含有重复序列"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 13
+    },
+    {
+        "question_text": "14.细菌基因的转移和重组方式不包括",
+        "options": [
+            "A.转化",
+            "B.接合",
+            "C.转导",
+            "D.突变",
+            "E.溶原性转换"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 14
+    },
+    {
+        "question_text": "15.H-O变异属于",
+        "options": [
+            "A.毒力变异",
+            "B.菌落变异",
+            "C.鞭毛变异",
+            "D.耐药性变异",
+            "E.代谢性变异"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 15
+    },
+    {
+        "question_text": "16.S-R变异属于",
+        "options": [
+            "A.毒力变异",
+            "B.菌落变异",
+            "C.鞭毛变异",
+            "D.耐药性变异",
+            "E.代谢性变异"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 16
+    },
+    {
+        "question_text": "17.能产生外毒素的白喉棒状杆菌是因为其染色体上有",
+        "options": [
+            "A.R质粒",
+            "B.F质粒",
+            "C.Vi质粒",
+            "D.Col质粒",
+            "E.前噬菌体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 17
+    },
+    {
+        "question_text": "18.介导细菌间接合的结构是",
+        "options": [
+            "A.鞭毛",
+            "B.普通菌毛",
+            "C.性菌毛",
+            "D.中介体",
+            "E.异染颗粒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 18
+    },
+    {
+        "question_text": "19.关于L型细菌的特性，错误的是",
+        "options": [
+            "A.呈多形性",
+            "B.固体培养基上形成“油煎蛋”样菌落",
+            "C.除去抑制物后可以返祖",
+            "D.与亲代菌株一样，不能通过细菌滤器",
+            "E.分离培养需要高滲培养基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 19
+    },
+    {
+        "question_text": "20.流产转导指噬菌体携带的外源DNA",
+        "options": [
+            "A.未能进人受体菌",
+            "B.进入受体菌后复制",
+            "C.进入受体菌后游离于胞质中，未能与染色体重组",
+            "D.进入受体菌后能与染色体重组,随染色体复制而复制",
+            "E.进入受体菌后被降解"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 20
+    },
+    {
+        "question_text": "21.有关质粒的描述，错误的是",
+        "options": [
+            "A.是细菌染色体外的遗传物质",
+            "B.具有自我复制能力",
+            "C.可自行丢失或经理化因素处理后消除",
+            "D.是细菌生长所必需的结构",
+            "E.带有遗传信息，赋予细菌某些特性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 21
+    },
+    {
+        "question_text": "22.最先发现肺炎球菌转化现象的科学家是",
+        "options": [
+            "A.Griffith",
+            "B.Avery",
+            "C.Luria",
+            "D.Lederberg",
+            "E.Delbruck"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "22",
+        "number": 22
+    }
+]

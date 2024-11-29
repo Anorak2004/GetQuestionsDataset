@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1两性霉素B对细菌无效是因为细菌",
+        "options": [
+            "A.细胞壁脂质成分",
+            "B.细胞壁肽聚糖成分",
+            "C.细胞壁过于致密",
+            "D.细胞膜缺乏固醇类",
+            "E.细胞膜磷脂成分"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.细菌耐药是指药物对菌株的",
+        "options": [
+            "A.最小抑菌浓度小于治疗浓度",
+            "B.最小抑菌浓度等于治疗浓度",
+            "C.最小抑菌浓度大于治疗浓度",
+            "D.最大抑菌浓度小于治疗浓度",
+            "E.最大抑菌浓度大于治疗浓度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.有关固有耐药性的描述错误的是",
+        "options": [
+            "A.来源于细菌染色体上的耐药基因",
+            "B.来源于基因突变",
+            "C.可代代相传",
+            "D.具有典型的种属特异性",
+            "E.始终如一可以预测"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.细菌对三类或三类以上抗菌药物同时耐药称为",
+        "options": [
+            "A.单一耐药菌",
+            "B.多重耐药菌",
+            "C.交叉耐药菌",
+            "D.泛耐药菌",
+            "E.超级细菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.有关R质粒所致耐药性的描述错误的是",
+        "options": [
+            "A.R质粒转移是造成耐药性传播的主要原因",
+            "B.一种R质粒可携带一种或多种耐药性基因群",
+            "C.主要通过接合方式转移",
+            "D.耐药性不稳定",
+            "E.不能在异种细菌之间转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.细菌产生多重耐药性的主要途径有",
+        "options": [
+            "A.基因突变",
+            "B.转座",
+            "C.转化",
+            "D.R质粒的接合",
+            "E.转座和R质粒的接合"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.抗菌药物的正确使用原则是",
+        "options": [
+            "A.使用广谱抗菌药物",
+            "B.大剂量使用药物",
+            "C.少量多次使用药物",
+            "D.根据药敏试验选择药物",
+            "E.联合使用多种药物"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.有计划地将抗菌药物分期分批交替使用的目的是",
+        "options": [
+            "A.节约抗菌药物",
+            "B.有利于杀灭各种病原菌",
+            "C.使耐药基因发生回复突变，恢复敏感性",
+            "D.使疗效最佳",
+            "E.按病程发展的要求"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "question_text": "1.隐血便是指:",
+        "options": [
+            "A.便血呈暗红色",
+            "B.便血呈黑色",
+            "C.便血呈柏油样",
+            "D.便血呈洗肉水样",
+            "E.便血呈无肉眼可见的改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 1
+    },
+    {
+        "question_text": "2.粪便外带鲜血，表示出血可能在:",
+        "options": [
+            "A.上消化道",
+            "B.小肠",
+            "C.升结肠",
+            "D.回盲部",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 2
+    },
+    {
+        "question_text": "3.排便后有鲜红色血液滴下，一般见于以下哪一部位出血？",
+        "options": [
+            "A.小肠",
+            "B.乙状结肠",
+            "C.肛管",
+            "D.十二指肠",
+            "E.横结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 3
+    },
+    {
+        "question_text": "4.上消化道大出血的特点，不正确的是:",
+        "options": [
+            "A.定有呕血",
+            "B.定有黑便",
+            "C.呕血常为咖啡色",
+            "D.出血后疼痛减轻",
+            "E.出血后可有发热及氮质血症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项是引起便血的小肠疾病:",
+        "options": [
+            "A.急性出血性坏死性肠炎",
+            "B.急性细菌性痢疾",
+            "C.结肠癌",
+            "D.非特异性溃疡性结肠炎",
+            "E.痔疮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪种消化性溃疡最易发生出血？",
+        "options": [
+            "A.十二指肠球部溃疡",
+            "B.十二指肠球后溃疡",
+            "C.胃小弯溃疡",
+            "D.幽门管溃疡",
+            "E.复合性溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于隐血便，以下描述错误的是:",
+        "options": [
+            "A.消化道少量出血时可出现",
+            "B.不造成粪便颜色改变",
+            "C.需经隐血试验确定",
+            "D.隐血试验有一定的假阳性",
+            "E.消化道出血每日在10m以下者出现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 7
+    },
+    {
+        "question_text": "8.隐血便时提示出血量在多少以上？",
+        "options": [
+            "A.3ml",
+            "B.5ml",
+            "C.10ml",
+            "D.30ml",
+            "E.50ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 8
+    },
+    {
+        "question_text": "9.重复",
+        "options": [
+            "A.重复",
+            "B.重复",
+            "C.重复",
+            "D.重复",
+            "E.重复"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪项是引起便血的结肠疾病？",
+        "options": [
+            "A.肠伤寒",
+            "B.Crohn病",
+            "C.肠结核",
+            "D.急性细菌性痢疾",
+            "E.急性出血性坏死性肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 10
+    },
+    {
+        "question_text": "11.粪便呈黑色，但隐血试验阴性，见于:",
+        "options": [
+            "A.上消化道出血",
+            "B.下消化道出血",
+            "C.咽喉部出血吞咽后",
+            "D.服铋剂或铁剂后",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列疾病不可能出现黑便的是:",
+        "options": [
+            "A.支气管扩张咯血患者",
+            "B.Crohn病",
+            "C.痔疮",
+            "D.胃癌",
+            "E.肝硬化失代偿期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 12
+    },
+    {
+        "question_text": "13.粪便显全血液或血液与粪便混合，提示有:",
+        "options": [
+            "A.小肠出血",
+            "B.下消化道出血",
+            "C.上消化道出血",
+            "D.肛门直肠出血",
+            "E.胃出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 13
+    },
+    {
+        "question_text": "14.便血鲜红不与粪便混合，仅黏附于粪便表面见于:",
+        "options": [
+            "A.急性细菌性痢疾",
+            "B.直肠癌",
+            "C.阿米巴痢疾",
+            "D.结肠息肉",
+            "E.肠伤寒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 14
+    },
+    {
+        "question_text": "15.出现黑便时，消化道出血量至少应超过:",
+        "options": [
+            "A.10ml",
+            "B.30ml",
+            "C.50ml",
+            "D.80ml",
+            "E.100ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 15
+    },
+    {
+        "question_text": "16.药物性黑便与柏油样便的区别可根据:",
+        "options": [
+            "A.粪便量多少",
+            "B.粪便臭味轻重",
+            "C.粪便表面有无光泽",
+            "D.粪便稀薄或粘稠",
+            "E.排便次数多少"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪种疾病可出现柏油样便？",
+        "options": [
+            "A.内痔",
+            "B.直肠癌",
+            "C.结肠炎",
+            "D.回盲部结核",
+            "E.十二指肠溃疡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 17
+    },
+    {
+        "question_text": "18.柏油样便来源于下列哪个部位出血的可能性最大？",
+        "options": [
+            "A.回肠末端",
+            "B.十二指肠球部",
+            "C.结肠",
+            "D.直肠",
+            "E.痔疮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 18
+    },
+    {
+        "question_text": "19.粪便恶臭，呈紫红色血便，常见于:",
+        "options": [
+            "A.细菌性痢疾",
+            "B.阿米巴痢疾",
+            "C.缺血性肠炎",
+            "D.溃疡性结肠炎",
+            "E.急性出血性坏死性小肠炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 19
+    },
+    {
+        "question_text": "20.大便呈黑色，隐血试验阴性，可见于:",
+        "options": [
+            "A.咯血吞咽后",
+            "B.服用铋剂后",
+            "C.上消化道出血",
+            "D.下消化道出血",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 20
+    },
+    {
+        "question_text": "21.鲜红色血液粘附于粪便表面、不与粪便混合多见于下列哪种疾病？",
+        "options": [
+            "A.胃溃疡出血",
+            "B.胆道出血",
+            "C.肠结核",
+            "D.白血病",
+            "E.痔疮"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 21
+    },
+    {
+        "question_text": "22.哪个部位的病变可出现便血伴里急后重？",
+        "options": [
+            "A.小肠",
+            "B.升结肠",
+            "C.横结肠",
+            "D.降结肠",
+            "E.直肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 22
+    },
+    {
+        "question_text": "23.血便伴发热常见于哪种疾病:",
+        "options": [
+            "A.十二指肠炎",
+            "B.肠结核",
+            "C.直肠息肉",
+            "D.消化性溃疡",
+            "E.流行性出血热"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 23
+    },
+    {
+        "question_text": "24.黑便伴皮肤有蜘蛛痣及肝掌可见于:",
+        "options": [
+            "A.非特异性直肠炎",
+            "B.直肠癌",
+            "C.胆道疾病",
+            "D.肝硬化门静脉高压",
+            "E.小肠肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列哪种疾病皮肤有蜘蛛痣及肝掌同时出现黑便？",
+        "options": [
+            "A.直肠癌",
+            "B.小肠肿瘤",
+            "C.胆道疾病",
+            "D.非特异性直肠炎",
+            "E.肝硬化门静脉高压"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 25
+    },
+    {
+        "question_text": "26.男性，48岁。上腹部隐痛伴厌肉食3个月，大便有时浅黑色，上腹轻度压痛，应首先检查:",
+        "options": [
+            "A.大便隐血试验",
+            "B.腹部B超检查",
+            "C.腹部CT检查",
+            "D.上消化道内镜检查",
+            "E.上消化道钡剂造影检查"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 26
+    },
+    {
+        "question_text": "27.患者，男性，24岁，消化性溃疡半年余，近日中上腹痛加剧，粪便黑色成形，隐血试验（++++）。其消化道出血量至少为:",
+        "options": [
+            "A.5ml",
+            "B.10ml",
+            "C.50ml",
+            "D.100ml",
+            "E.500ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 27
+    },
+    {
+        "question_text": "28.36岁男性，溃疡病史，近2天来黑便，每天1～2次，估计其出血量大约为:",
+        "options": [
+            "A.50～70ml",
+            "B.60～80ml",
+            "C.70～90ml",
+            "D.80～100ml",
+            "E.90～110ml"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 28
+    },
+    {
+        "question_text": "29.中年男性便血，血色鲜红，不与粪便混合，可能的疾病为:",
+        "options": [
+            "A.右半结肠癌",
+            "B.急性出血性坏死性肠炎",
+            "C.肛管疾病",
+            "D.急性细菌性痢疾",
+            "E.上消化道出血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 29
+    },
+    {
+        "question_text": "30.患者女，20岁，因昨天大便为黑色而紧张询问你是什么原因，你在答复她时应先了解:",
+        "options": [
+            "A.是否吃过肉",
+            "B.是否吃过黑色食物",
+            "C.是否吃过不消化的食物",
+            "D.是否吃过过热的食物",
+            "E.是否吃过过凉的食物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "30",
+        "number": 30
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "question_text": "1.良性肿瘤的临床特征，肿瘤多呈",
+        "options": [
+            "A.质地软",
+            "B.小而硬",
+            "C.固定",
+            "D.结节状",
+            "E.圆或椭圆形，表面光滑，活动，不发生转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 1
+    },
+    {
+        "question_text": "2.交界性肿瘤是",
+        "options": [
+            "A.良性肿瘤位于两个脏器交界处",
+            "B.良性肿瘤来源于两种组织者",
+            "C.良性肿瘤位于重要器官",
+            "D.良性肿瘤远处转移者",
+            "E.形态上属良性而呈浸润性生长并容易复发的肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列病变中，哪个属癌前期病变",
+        "options": [
+            "A.交界痣",
+            "B.皮肤或粘膜的乳头状瘤",
+            "C.乳腺增生症伴上皮或腺增生",
+            "D.胃粘膜慢性炎症",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列病变中，哪个属真性肿瘤",
+        "options": [
+            "A.皮脂囊肿",
+            "B.腹壁带状纤维瘤",
+            "C.乳头状疣",
+            "D.女婴皮肤毛细血管瘤，增大速度快于婴儿发育",
+            "E.炎性息肉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列肿瘤中，生物学行为是恶性表现者，但属良性的是",
+        "options": [
+            "A.霍奇金病",
+            "B.肾母细胞瘤",
+            "C.唾液腺混合瘤",
+            "D.包膜不完整的纤维瘤",
+            "E.肾上腺髓质嗜铬细胞瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于肿瘤的描述，下列哪一项是正确的",
+        "options": [
+            "A.肾母细胞瘤切除后易复发，为交界性肿瘤",
+            "B.精原细胞瘤为交界性肿瘤",
+            "C.涎腺混合瘤属良性肿瘤",
+            "D.基底细胞癌发展缓慢，为良性肿瘤",
+            "E.膀胱乳头状瘤属交界性肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列那一类肿瘤不属于先天性？",
+        "options": [
+            "A.黑痣",
+            "B.有毛黑痣",
+            "C.皮内痣",
+            "D.皮样囊肿",
+            "E.表皮样囊肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 7
+    },
+    {
+        "question_text": "8.以下不属于癌前期的是",
+        "options": [
+            "A.交界痣",
+            "B.皮肤乳头状瘤",
+            "C.萎缩性胃炎伴不典型增生",
+            "D.乳腺囊性增生症伴上皮增生",
+            "E.炎性息肉"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 8
+    },
+    {
+        "question_text": "9.肿瘤的特点中，下列哪项是错误的",
+        "options": [
+            "A.细胞过度增殖",
+            "B.丧失正常细胞的功能",
+            "C.破坏原来器官结构",
+            "D.不按正常器官的规律生长",
+            "E.最终均发生转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 9
+    },
+    {
+        "question_text": "10.良性肿瘤具有下列特点，但应除外",
+        "options": [
+            "A.表面光滑",
+            "B.活动度大",
+            "C.生长迅速",
+            "D.边界清楚",
+            "E.细胞分化程度高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于良性肿瘤下列哪项不正确？",
+        "options": [
+            "A.呈膨胀性生长，发展较慢",
+            "B.有明显包膜与周围组织分界明显",
+            "C.不发生转移",
+            "D.从不恶变",
+            "E.极少威胁生命"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 11
+    },
+    {
+        "question_text": "12.关于一般的恶性肿瘤的症状，下列哪项除外？",
+        "options": [
+            "A.早期均有疼痛",
+            "B.易成溃疡",
+            "C.局部常形成肿块",
+            "D.直接侵入周围器官",
+            "E.引起小血管破裂出血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 12
+    },
+    {
+        "question_text": "13.根据目前研究，以下哪些癌前期病变或相关疾患与癌没有明确关系",
+        "options": [
+            "A.乙型肝炎与肝癌",
+            "B.萎缩性胃炎与胃癌",
+            "C.膀胱乳头状瘤与膀胱癌",
+            "D.EB病毒反复感染与鼻咽癌",
+            "E.肝囊肿与肝癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列关于恶性肿瘤病因的叙述中，哪项是错误的",
+        "options": [
+            "A.烧伤瘢痕长期破溃易癌变",
+            "B.致癌病毒主要是指DNA肿瘤病毒",
+            "C.吸入放射污染粉尘可致骨肉瘤和甲状腺肿瘤等",
+            "D.相当数量的肝癌、食管癌、鼻咽癌患者有家族史，说明遗传因素亦是致癌因素之一",
+            "E.先天或后天免疫缺陷者易发生恶性肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 14
+    },
+    {
+        "question_text": "15.下列有关体表肿瘤描述中，错误的是",
+        "options": [
+            "A.脂肪瘤位于深部者可恶变，应及时切除",
+            "B.神经鞘瘤中央型者，手术不慎易切断神经",
+            "C.下肢皮肤鳞状细胞癌亚重时伴骨髓浸润，常需截肢",
+            "D.体表肿瘤是指来源于皮肤、皮肤附件、皮下组织与浅表软组织的肿瘤",
+            "E.皮肤基底细胞，发展缓慢，呈浸润性生长，但也常伴血道或淋巴道转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列有关肿瘤与年龄关系的叙述中，错误的是",
+        "options": [
+            "A.肿瘤特点与病人年龄有一定关系",
+            "B.儿童肿瘤多为软组织及淋巴造血系统肉瘤",
+            "C.青年癌患者往往发展迅速",
+            "D.癌多发生于中年以上",
+            "E.老年患者的恶性肿瘤发展速度相对较慢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于肿瘤特点的描述中，下列哪项是错误的",
+        "options": [
+            "A.细胞过度增殖",
+            "B.破坏原来器官结构",
+            "C.不按正常的规律生长",
+            "D.丧失正常细胞的功能",
+            "E.最终均可发生转移"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 17
+    },
+    {
+        "question_text": "18.良性肿瘤治疗措施应选取",
+        "options": [
+            "A.手术治疗",
+            "B.放射疗法",
+            "C.化学疗法",
+            "D.中医治疗",
+            "E.免疫治疗"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 18
+    },
+    {
+        "question_text": "膀胱粘膜的乳头状瘤属于",
+        "options": [
+            "A.良性肿瘤",
+            "B.恶性肿瘤",
+            "C.交界性肿瘤",
+            "D.肿瘤样病变",
+            "E.继发性肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 19
+    },
+    {
+        "question_text": "20.黑色素瘤属于",
+        "options": [
+            "A.良性肿瘤",
+            "B.恶性肿瘤",
+            "C.交界性肿瘤",
+            "D.肿瘤样病变",
+            "E.继发性肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 20
+    },
+    {
+        "question_text": "带状纤维瘤属于",
+        "options": [
+            "A.良性肿瘤",
+            "B.交界性肿瘤",
+            "C.恶性肿瘤",
+            "D.肿瘤样病变",
+            "E.继发性肿瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 21
+    },
+    {
+        "question_text": "唾液腺混合瘤属于",
+        "options": [
+            "A.良性肿瘤",
+            "B.交界性肿瘤",
+            "C.恶性肿瘤",
+            "D.肿瘤样病变",
+            "E.继发性肿瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 22
+    },
+    {
+        "question_text": "精原细胞瘤属于",
+        "options": [
+            "A.良性肿瘤",
+            "B.交界性肿瘤",
+            "C.恶性肿瘤",
+            "D.肿瘤样病变",
+            "E.继发性肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "23",
+        "number": 23
+    }
+]

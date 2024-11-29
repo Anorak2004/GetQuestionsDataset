@@ -1,0 +1,674 @@
+[
+    {
+        "question_text": "1.酸碱的化学烧伤，急救首选",
+        "options": [
+            "A.碱性溶液冲洗",
+            "B.酸性溶液冲洗",
+            "C.中和剂冲洗",
+            "D.消毒剂冲洗",
+            "E.清水冲洗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 1
+    },
+    {
+        "question_text": "2.导致烧伤全身性感染的内源性来源主要是",
+        "options": [
+            "A.创面",
+            "B.肠道",
+            "C.泌尿道",
+            "D.输液管道",
+            "E.呼吸道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 2
+    },
+    {
+        "question_text": "3.男性，22岁，体重60kg，烫伤双上肢，躯干及双臀部，均为深II度，右大腿为I度，急诊入院，其第2个24小时补液总量应该是",
+        "options": [
+            "A.3250ml",
+            "B.3750ml",
+            "C.4250ml",
+            "D.5750ml",
+            "E.6500ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 3
+    },
+    {
+        "question_text": "4.患儿7岁，开水烫伤双上肢，创面渗出明显、肿胀、发红、皮温较高，疼痛，对该患儿的诊断是",
+        "options": [
+            "A.9%II度烧伤",
+            "B.10%深II度烧伤",
+            "C.10%浅I度烧伤",
+            "D.18%浅II度烧伤",
+            "E.18%深I度烧伤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 4
+    },
+    {
+        "question_text": "5.全身大面积烧伤，一般很少用的修复创面的办法是",
+        "options": [
+            "A.大张异体皮开洞镶嵌植自体皮",
+            "B.自体微粒皮",
+            "C.游离皮瓣移植",
+            "D.刃厚皮片移植",
+            "E.点状植皮法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 5
+    },
+    {
+        "question_text": "6.大面积烧伤时，可反复多次取刃厚皮的最常用的供区是",
+        "options": [
+            "A.大腿",
+            "B.头皮",
+            "C.背部",
+            "D.腹部",
+            "E.小腿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 6
+    },
+    {
+        "question_text": "7.在烧伤抗休克中一般要求儿童心率小于",
+        "options": [
+            "A.100次/分",
+            "B.110次/分",
+            "C.120次/分",
+            "D.130次/分",
+            "E.140次/分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 7
+    },
+    {
+        "question_text": "8.在烧伤抗休克中一般要求成人心率小于",
+        "options": [
+            "A.100次/分",
+            "B.110次/分",
+            "C.120次/分",
+            "D.130次/分",
+            "E.140次/分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 8
+    },
+    {
+        "question_text": "9.在烧伤的病程中持续时间最长的是",
+        "options": [
+            "A.休克期",
+            "B.感染期",
+            "C.修复期",
+            "D.创面愈合期",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 9
+    },
+    {
+        "question_text": "10.浅II度烧伤及真皮的层次是",
+        "options": [
+            "A.生发层",
+            "B.乳头层",
+            "C.乳头下层",
+            "D.网状层",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 10
+    },
+    {
+        "question_text": "11.成年女性双足烧伤面积占人体体表面积",
+        "options": [
+            "A.5%",
+            "B.6%",
+            "C.7%",
+            "D.8%",
+            "E.10%"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 11
+    },
+    {
+        "question_text": "12.在氢氟酸烧伤后除大量生理盐水冲洗外，还应创周浸润注射的药物是",
+        "options": [
+            "A.1.25%碳酸氢钠+1%普鲁卡因",
+            "B.5%-10%葡萄糖酸钙+1%普鲁卡因",
+            "C.33%硫酸镁+1%普鲁卡因",
+            "D.1%甲基强的松龙+1%警鲁卡因",
+            "E."
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 12
+    },
+    {
+        "question_text": "13.在烧伤的并发症中占首位的是",
+        "options": [
+            "A.肝功能衰竭",
+            "B.消化系统功能衰竭",
+            "C.心功能衰竭",
+            "D.肾功能衰竭",
+            "E.肺部并发症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 13
+    },
+    {
+        "question_text": "14.严重烧伤休克期一般可延至伤后",
+        "options": [
+            "A.24小时",
+            "B.96小时",
+            "C.48小时",
+            "D.72小时",
+            "E.以上都不对"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 14
+    },
+    {
+        "question_text": "15.观察烧伤病人休克期补液是否有效的指标应除外",
+        "options": [
+            "A.血压",
+            "B.每小时尿量",
+            "C.心率",
+            "D.精神状态",
+            "E.红细胞比容"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于磷烧伤，处理不正确的是",
+        "options": [
+            "A.急救时使用水浸泡",
+            "B.1%的硫酸铜湿敷",
+            "C.凡士林纱布覆盖",
+            "D.3%-5%的碳酸氢钠溶液湿敷包扎",
+            "E.再转运过程中一直湿敷包扎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 16
+    },
+    {
+        "question_text": "17.男孩，9岁，头面、颈部烧伤；其烧伤面积为",
+        "options": [
+            "A.20%",
+            "B.9%",
+            "C.12%",
+            "D.17%",
+            "E.14%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 17
+    },
+    {
+        "question_text": "18.女孩，6岁，面颈部皮双手掌度烧伤，其烧伤面积为",
+        "options": [
+            "A.5%",
+            "B.8%",
+            "C.10%",
+            "D.12%",
+            "E.17%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 18
+    },
+    {
+        "question_text": "19.深II度局部损伤的深度是",
+        "options": [
+            "A.真皮浅层，部分生发层健在",
+            "B.表皮层，生发层健在",
+            "C.脂肪层",
+            "D.皮下组织层",
+            "E.真皮深层，有皮肤附件残留"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于III度烧伤，下列正确的是",
+        "options": [
+            "A.可自行非疤痕愈合",
+            "B.有焦痂，呈皮革样",
+            "C.痛览迟钝",
+            "D.痛觉减退",
+            "E.有水疱"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 20
+    },
+    {
+        "question_text": "21.浅II度愈合时间一般为",
+        "options": [
+            "A.2-3天",
+            "B.3-5天",
+            "C.1-2周",
+            "D.3-4周",
+            "E.5周以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 21
+    },
+    {
+        "question_text": "22.烧伤休克的主要原因",
+        "options": [
+            "A.患者烧伤时体液蒸发",
+            "B.大量红细胞丧失",
+            "C.创面感染",
+            "D.疼痛",
+            "E.大量体液从血管中渗出"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 22
+    },
+    {
+        "question_text": "23.在烧伤后48小时内主要威胁的是",
+        "options": [
+            "A.体液失调",
+            "B.脑水肿",
+            "C.脓毒血症",
+            "D.ARDS",
+            "E.休克"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 23
+    },
+    {
+        "question_text": "24.一烧伤95%BSA患者烧伤后已出现休克，问：下列处理哪项失当？",
+        "options": [
+            "A.立即转入烧伤中心",
+            "B.镇静止痛",
+            "C.立即静脉补液",
+            "D.外用凡士林油纱布覆盖，防止再损伤",
+            "E.可口服一些生理盐水"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 24
+    },
+    {
+        "question_text": "25.一烧伤85%成年男性，伤后6小时，无吸入性损伤及其他损伤，出现烦燥不安，其最可能的原因是",
+        "options": [
+            "A.疼痛",
+            "B.心理因素",
+            "C.暴发感染",
+            "D.反应性精神病",
+            "E.补液不足或过多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 25
+    },
+    {
+        "question_text": "26.—男性患者，全身烧伤54%BSA，其中I度为5%BSA，无深度烧伤，无吸入性及其他损伤，抗体克时，额外丧失量晶胶比为",
+        "options": [
+            "A.2:01",
+            "B.1:02",
+            "C.1:01",
+            "D.3:01",
+            "E.1:03"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 26
+    },
+    {
+        "question_text": "27.烧伤死亡的最重要原因是",
+        "options": [
+            "A.感染",
+            "B.肾功能衰退",
+            "C.休克",
+            "D.应激性溃疡",
+            "E.心功能衰竭"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 27
+    },
+    {
+        "question_text": "28.在烧伤全身感染的防治中，下列哪项不对？",
+        "options": [
+            "A.积极纠正休克",
+            "B.正确处理创面",
+            "C.反复作创面培养加药敏",
+            "D.待创面愈合后停用抗生素",
+            "E.尽可能用肠内营养进行营养支持"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 28
+    },
+    {
+        "question_text": "29.中国新九分法计算烧伤面积，错误的是",
+        "options": [
+            "A.头面颈各3%",
+            "B.双上肢18%",
+            "C.双臀5%",
+            "D.躯干会阴27%",
+            "E.双大腿双小腿双足46%"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 29
+    },
+    {
+        "question_text": "30.中度烧伤如以2度面积计算，下列正确的是",
+        "options": [
+            "A.5%以下",
+            "B.9%以下",
+            "C.10%-29%",
+            "D.30%49%",
+            "E.50%以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 30
+    },
+    {
+        "question_text": "31.深II度烧伤的临床表现，错误的是",
+        "options": [
+            "A.可见树枝状栓塞的血管",
+            "B.创面多有水泡",
+            "C.创面感觉迟钝",
+            "D.如无感染，创面3-4周可以愈合",
+            "E.愈合后多有增生性疤痕"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 31
+    },
+    {
+        "question_text": "32.中厚皮片含有的组织成分有",
+        "options": [
+            "A.表皮",
+            "B.表皮和部分真皮",
+            "C.真皮全层",
+            "D.表皮真皮及部分皮下组织",
+            "E.带血管蒂的组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 32
+    },
+    {
+        "question_text": "33.烧伤脓毒症的表现中，下列错误的是",
+        "options": [
+            "A.高热或低温",
+            "B.急性呼吸衰竭",
+            "C.烦躁不安",
+            "D.创面不长或出现坏死斑",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 33
+    },
+    {
+        "question_text": "34.大面积烧伤休克期病人出现烦躁，多由于",
+        "options": [
+            "A.疼痛",
+            "B.心理因素",
+            "C.早期毒血症",
+            "D.血容量不足",
+            "E.以上都是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 34
+    },
+    {
+        "question_text": "一男孩,7岁,25kg,头面部四肢会阴开水烫伤3小时,烧伤面积50%,深2度20%,III度30%,烦燥不安,手足湿润,心率160次/分,呼吸25次分,伤后无尿35.首选诊断是",
+        "options": [
+            "A.火焰烧伤",
+            "B.重度烧伤",
+            "C.急性肾衰",
+            "D.呼吸道吸入性烧伤",
+            "E.大面积特重度烧伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 35
+    },
+    {
+        "question_text": "36.实验室检查最可能的结果是",
+        "options": [
+            "A.血白细胞总数增高、血小板降低",
+            "B.血电解质异常",
+            "C.红细胞比容增高",
+            "D.血HCO3降低?",
+            "E.BUN严重增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 36
+    },
+    {
+        "question_text": "37.该患儿伤后第一个8小时要输额外丧失量是",
+        "options": [
+            "A.500ml",
+            "B.600ml",
+            "C.700ml",
+            "D.800ml",
+            "E.900ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 37
+    },
+    {
+        "question_text": "38.其紧急处理应首先",
+        "options": [
+            "A.立即吸氧",
+            "B.迅速建立静脉通道",
+            "C.立即配血，准备输浓缩红细胞",
+            "D.无痛下清创",
+            "E.及时使用抗生素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 38
+    },
+    {
+        "question_text": "一男性患者,火焰烧伤4小时,烧伤面积80%BSA,深II度40%,川度40%,伤后无尿,心率150次1分,呼吸32次分,伤后头8小时,输液4500毫升（其中胶体1800毫升）后无尿39.针对无尿首先应",
+        "options": [
+            "A.应用利尿剂",
+            "B.加快补液速度",
+            "C.急查电解质、肌酐，尿素氮",
+            "D.利用皮质激素",
+            "E.检查膀胱区冲洗导尿管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 39
+    },
+    {
+        "question_text": "伤后第九天,体温39.8°C,心率148次分,呼吸40次分,创面潮湿痂下积脓,创周红肿血培养阴性,创面培养为绿脓杆菌,40.其最可能的原因是",
+        "options": [
+            "A.感染",
+            "B.烧伤创面脓毒症",
+            "C.多器官功能不全综合症",
+            "D.蜂窝质炎",
+            "E.休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 40
+    },
+    {
+        "question_text": "41.目前处理方案哪项不对？",
+        "options": [
+            "A.选用有效抗菌素",
+            "B.尽量行肠内营养",
+            "C.创面清创暴露",
+            "D.创面以异种皮包扎",
+            "E.输入人免疫球蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 41
+    },
+    {
+        "question_text": "42.6%的III度烧伤",
+        "options": [
+            "A.一次性切痂植皮",
+            "B.分期切痂植皮",
+            "C.削痂",
+            "D.溶痂后逐步植皮",
+            "E.蚕食脱痂植皮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 42
+    },
+    {
+        "question_text": "43.深度和III度烧伤分界不清时",
+        "options": [
+            "A.一次性切痂植皮",
+            "B.分期切痂植皮",
+            "C.削痂",
+            "D.溶痂后逐步植皮",
+            "E.蚕食脱痂植皮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 43
+    },
+    {
+        "question_text": "烧伤休克补液时,",
+        "options": [
+            "A.晶体液和糖液",
+            "B.胶体液",
+            "C.升压药",
+            "D.A.B均可",
+            "E.A.B均不对"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 44
+    },
+    {
+        "question_text": "45.烧伤休克补液时",
+        "options": [
+            "A.晶体液和糖液",
+            "B.胶体液",
+            "C.升压药",
+            "D.A.B均可",
+            "E.A.B均不对,"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 45
+    },
+    {
+        "question_text": "46.烧伤休克补液时,",
+        "options": [
+            "A.晶体液和糖液",
+            "B.胶体液",
+            "C.升压药",
+            "D.A.B均可",
+            "E.A.B均不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 46
+    },
+    {
+        "question_text": "47.烧伤后病人高热寒颤，兴奋多语，呼吸急促，心率明显增快，白细胞及中性粒细胞升高，有中毒颗粒及核左移现象。提示为",
+        "options": [
+            "A.休克",
+            "B.二重感染",
+            "C.蜂窝质炎",
+            "D.全身性感染",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 47
+    },
+    {
+        "question_text": "48.烧伤后病人体温骤降，反应淡漠，呼吸浅，脉搏快，白细胞及血小板较正常明显降低，创面突然停止生长，干枯，出现坏死斑，提示为",
+        "options": [
+            "A.休克",
+            "B.二重感染",
+            "C.蜂窝质炎",
+            "D.全身性感染",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 48
+    }
+]

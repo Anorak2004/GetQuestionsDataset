@@ -1,0 +1,254 @@
+[
+    {
+        "question_text": "1.螺旋体常用的染色方法是",
+        "options": [
+            "A.革兰染色法",
+            "B.抗酸染色法",
+            "C阿培脱染色法",
+            "D.吉姆萨染色法",
+            "E.镀银染色法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 1
+    },
+    {
+        "question_text": "2.钩端螺旋体主要的感染途径是",
+        "options": [
+            "A.接触病人或病兽",
+            "B.接触疫水或疫土",
+            "C.经呼吸道感染",
+            "D.经消化道感染",
+            "E.经节肢动物叮咬"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 2
+    },
+    {
+        "question_text": "3.引起人类梅毒的病原体是",
+        "options": [
+            "A.钩端螺旋体",
+            "B.苍白密螺旋体",
+            "C.伯氏疏螺旋体",
+            "D.雅司螺旋体",
+            "E.回归热疏螺旋体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 3
+    },
+    {
+        "question_text": "4.引起人类菜姆病的病原体是",
+        "options": [
+            "A.钩端螺旋体",
+            "B.苍白密螺旋体",
+            "C.伯氏疏螺旋体",
+            "D.雅司螺旋体",
+            "E.回归热疏螺旋体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 4
+    },
+    {
+        "question_text": "5.培养钩端螺旋体的培养基为",
+        "options": [
+            "A.肉汤培养基",
+            "B.哥伦比亚培养基",
+            "C.布氏培养基",
+            "D.Korthof培养基",
+            "E.牛心脑浸液培养基"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 5
+    },
+    {
+        "question_text": "6.传播菜姆病的节肢动物是",
+        "options": [
+            "A蚊",
+            "B.蚤",
+            "C.蜱",
+            "D.蛉",
+            "E.虱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 6
+    },
+    {
+        "question_text": "7.传播流行性回归热的节肢动物是",
+        "options": [
+            "A.蚊",
+            "B.蚤",
+            "C.蜱",
+            "D.蛉",
+            "E.虱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 7
+    },
+    {
+        "question_text": "8.传播地方性回归热的节肢动物是",
+        "options": [
+            "A.蚊",
+            "B.蚤",
+            "C.蜱",
+            "D.蛉",
+            "E.虱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 8
+    },
+    {
+        "question_text": "9.体外培养钩端螺旋体最合适的温度是",
+        "options": [
+            "A.25摄氏度",
+            "B.28摄氏度",
+            "C.35摄氏度",
+            "D.37摄氏度",
+            "E.56摄氏度"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 9
+    },
+    {
+        "question_text": "10.临床治疗钩端螺旋体病的抗生素主要是",
+        "options": [
+            "A.磺胺类",
+            "B.青霉素类",
+            "C.头孢菌素",
+            "D.链霉素",
+            "E.四环崇"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 10
+    },
+    {
+        "question_text": "11.不能在无生命培养基中生长的螺旋体是",
+        "options": [
+            "A.钩端螺旋体",
+            "B.梅毒螺旋体",
+            "C.伯氏疏螺旋体",
+            "D.奋森疏螺旋体",
+            "E.回归热螺旋体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 11
+    },
+    {
+        "question_text": "12.第一期梅毒的典型临床体征是",
+        "options": [
+            "A.硬下疳",
+            "B.梅毒疹",
+            "C.树胶肿",
+            "D.脊髓痨",
+            "E.全身麻痹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 12
+    },
+    {
+        "question_text": "13.第二期梅毒的典型临床体征是",
+        "options": [
+            "A.硬下疳",
+            "B.梅毒疹",
+            "C.树胶肿",
+            "D.脊髓痨",
+            "E.全身麻痹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 13
+    },
+    {
+        "question_text": "14.第三期梅毒的典型临床体征是",
+        "options": [
+            "A.硬下疳",
+            "B.梅毒疹",
+            "C.树胶胂",
+            "D.脊髓痨",
+            "E.全身麻痹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 14
+    },
+    {
+        "question_text": "15.诊断钩端螺旋体病最为常用的血清学检查方法为",
+        "options": [
+            "A.肥达试验",
+            "B.外斐试验",
+            "C.补体结合试验",
+            "D.显微镜凝集试验",
+            "E.玻片凝集试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 15
+    },
+    {
+        "question_text": "16.用于梅毒病人初筛的常用实验室方法是",
+        "options": [
+            "A.RPR",
+            "B.TPHA",
+            "C.FTA-ABS",
+            "D.TPI",
+            "E.捕获ELISA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 16
+    },
+    {
+        "question_text": "17.用于梅毒病人确诊的常用实验室方法是",
+        "options": [
+            "A.RPR",
+            "B.TPHA",
+            "C.FTA-ABS",
+            "D.TPI",
+            "E.捕获ELISA"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 17
+    },
+    {
+        "question_text": "18.莱姆病典型的早期临床体征是",
+        "options": [
+            "A.树胶肿",
+            "B.慢性关节炎",
+            "C.移行性红斑",
+            "D.萎缩性肌皮炎",
+            "E.化脓性皮疹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "18",
+        "number": 18
+    }
+]

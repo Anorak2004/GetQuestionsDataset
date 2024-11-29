@@ -1,0 +1,1360 @@
+[
+    {
+        "question_text": "1.以下说法不正确的是",
+        "options": [
+            "A.正常人脊柱无侧弯",
+            "B.姿势性侧弯无脊柱结构异常",
+            "C.器质性侧弯改变可纠正",
+            "D.从侧面观正常人脊柱有四个生理弯曲",
+            "E.脊柱结核可见于成角畸形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 1
+    },
+    {
+        "question_text": "2.检查脊柱的正确体位是:",
+        "options": [
+            "A.仰卧位",
+            "B.右侧卧位",
+            "C.左侧卧位",
+            "D.肘膝位",
+            "E.站立位或坐位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 2
+    },
+    {
+        "question_text": "3.脊柱活动度最大的椎体是:",
+        "options": [
+            "A.颈椎和腰椎",
+            "B.颈椎和胸椎",
+            "C.腰椎和骶椎",
+            "D.胸椎和腰椎",
+            "E.胸椎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 3
+    },
+    {
+        "question_text": "4.检查脊柱活动不包括:",
+        "options": [
+            "A.脊柱前屈",
+            "B.脊柱侧弯",
+            "C.脊柱旋转",
+            "D.脊柱后伸",
+            "E.脊柱压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列何种疾病最易致脊柱病理性变形:",
+        "options": [
+            "A.脊柱结核",
+            "B.急性脊髓炎",
+            "C.格林巴利综合征",
+            "D.脊髓灰质炎",
+            "E.马尾肿瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 5
+    },
+    {
+        "question_text": "6.脊柱过度后弯称为脊柱后凸，也称为驼背，多发生于:",
+        "options": [
+            "A.颈段脊柱",
+            "B.胸段脊柱",
+            "C.腰段脊柱",
+            "D.骶椎",
+            "E.腰、骶段"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 6
+    },
+    {
+        "question_text": "7.脊柱过度向前凸出性弯曲，称脊柱前凸，多发生于:",
+        "options": [
+            "A.颈段脊柱",
+            "B.胸段脊柱",
+            "C.颈胸段脊柱",
+            "D.腰段脊柱",
+            "E.骶椎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 7
+    },
+    {
+        "question_text": "8.脊柱前凸常见于:",
+        "options": [
+            "A.佝偻病",
+            "B.结核病",
+            "C.大量腹水",
+            "D.强直性脊柱炎",
+            "E.脊椎退行性病变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 8
+    },
+    {
+        "question_text": "9.青少年时期出现脊柱后凸，多见于:",
+        "options": [
+            "A.佝偻病",
+            "B.胸椎结核",
+            "C.类风湿性脊柱炎",
+            "D.骨质退行性变",
+            "E.椎间盘脱出"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 9
+    },
+    {
+        "question_text": "10.老年人骨质退行性变时，常出现:",
+        "options": [
+            "A.脊柱前凸",
+            "B.脊柱后凸",
+            "C.脊柱侧凸",
+            "D.杵状指",
+            "E.匙状指"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 10
+    },
+    {
+        "question_text": "11.脊柱颈椎段活动受限，常见原因除外:",
+        "options": [
+            "A.颈部肌纤维炎及颈肌韧带劳损",
+            "B.颈椎增生性关节炎",
+            "C.结核或肿瘤侵润使颈椎骨质破坏",
+            "D.颈椎外伤、骨折或关节脱位",
+            "E.椎间盘脱出"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 11
+    },
+    {
+        "question_text": "12.脊髓灰质炎后遗症可出现的改变是:",
+        "options": [
+            "A.膝部摩擦感",
+            "B.匙状甲",
+            "C.X形腿",
+            "D.握茶杯姿势",
+            "E.膝反张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 12
+    },
+    {
+        "question_text": "13.以下除外哪项均可用于腰骶椎的体检？",
+        "options": [
+            "A.摇摆试验",
+            "B.拾物试验",
+            "C.直腿抬高试验",
+            "D.旋颈试验",
+            "E.屈颈试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 13
+    },
+    {
+        "question_text": "14.直腿抬高试验（Lasegue征）阳性见于:",
+        "options": [
+            "A.脊柱后凸畸形",
+            "B.强制性脊柱炎",
+            "C.腰椎结核",
+            "D.髋关节脱位",
+            "E.椎间盘突出"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 14
+    },
+    {
+        "question_text": "15.胸椎结核时可见:",
+        "options": [
+            "A.脊柱成角畸形",
+            "B.脊柱弓形畸形",
+            "C.脊柱过度前凸",
+            "D.脊柱姿势性侧凸",
+            "E.脊柱器质性侧凸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 15
+    },
+    {
+        "question_text": "16.强直性脊柱炎时脊柱呈:",
+        "options": [
+            "A.脊柱成角畸形",
+            "B.脊柱弓形畸形",
+            "C.脊柱过度前凸",
+            "D.脊柱姿势性侧凸",
+            "E.脊柱器质性侧凸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 16
+    },
+    {
+        "question_text": "17.慢性胸膜粘连，增厚时脊柱呈:",
+        "options": [
+            "A.脊柱成角畸形",
+            "B.脊柱弓形畸形",
+            "C.脊柱过度前凸",
+            "D.脊柱姿势性侧凸",
+            "E.脊柱器质性侧凸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 17
+    },
+    {
+        "question_text": "18.先天性髋关节后脱位时脊柱呈:",
+        "options": [
+            "A.脊柱成角畸形",
+            "B.脊柱弓形畸形",
+            "C.脊柱过度前凸",
+            "D.脊柱姿势性侧凸",
+            "E.脊柱器质性侧凸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 18
+    },
+    {
+        "question_text": "19.椎间盘脱出症脊柱可呈:",
+        "options": [
+            "A.脊柱成角畸形",
+            "B.脊柱弓形畸形",
+            "C.脊柱过度前凸",
+            "D.脊柱姿势性侧凸",
+            "E.脊柱器质性侧凸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 19
+    },
+    {
+        "question_text": "20.脊柱两旁肌肉压痛常见于:",
+        "options": [
+            "A.脊柱结核",
+            "B.椎间盘突出",
+            "C.腰背肌劳损",
+            "D.脊柱增生性关节炎",
+            "E.强直性脊柱炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于“方肩”，常提示的疾病是:",
+        "options": [
+            "A.锁骨骨折",
+            "B.肱骨骨折",
+            "C.颈椎病",
+            "D.斜方肌萎缩",
+            "E.肩关节脱位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 21
+    },
+    {
+        "question_text": "22.强直性脊柱炎时可表现为:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.斜方肌中点压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 22
+    },
+    {
+        "question_text": "23.脊柱结核时可造成:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.斜方肌中点压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 23
+    },
+    {
+        "question_text": "24.先天性斜颈患者可出现:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.斜方肌中点压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 24
+    },
+    {
+        "question_text": "25.脊椎骨软骨炎可见:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.斜方肌中点压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 25
+    },
+    {
+        "question_text": "26.落枕时可造成:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.斜方肌中点压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 26
+    },
+    {
+        "question_text": "27.腰肌劳损时表现为:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.一侧胸锁乳突肌隆起伴颈侧偏",
+            "D.青少年胸段以下均匀性后凸",
+            "E.腰椎旁肌压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 27
+    },
+    {
+        "question_text": "28.颈部肌纤维织炎时可有:",
+        "options": [
+            "A.脊柱畸形仰卧位不能伸直",
+            "B.青少年胸腰椎体破坏",
+            "C.颈肩部压痛",
+            "D.青少年胸段以下均匀性后凸",
+            "E.腰椎旁肌压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 28
+    },
+    {
+        "question_text": "29.肩锁关节脱位时可见:",
+        "options": [
+            "A.方肩",
+            "B.肩章肩",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 29
+    },
+    {
+        "question_text": "30.肩关节脱位时可见:",
+        "options": [
+            "A.方肩",
+            "B.肩章肩",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 30
+    },
+    {
+        "question_text": "31.肩关节外展60～120°时痛，＞120°痛消失，见于:",
+        "options": [
+            "A.方肩",
+            "B.肩章肩",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 31
+    },
+    {
+        "question_text": "32.肩关节各方向活动均受限，称为:",
+        "options": [
+            "A.方肩",
+            "B.肩章肩",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 32
+    },
+    {
+        "question_text": "33.副神经受损时可出现:",
+        "options": [
+            "A.直接与间接角膜反射消失",
+            "B.面部感觉缺失",
+            "C.斜方肌萎缩，耸肩无力",
+            "D.伸舌不能",
+            "E.咀嚼肌萎缩，肌力减弱"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 33
+    },
+    {
+        "question_text": "34.肩关节外展开始疼痛，但仍能外展，见于:",
+        "options": [
+            "A.肩关节炎",
+            "B.肩章肩",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 34
+    },
+    {
+        "question_text": "35.上肢轻微外展即感疼痛多见于:",
+        "options": [
+            "A.肩关节炎",
+            "B.搭肩试验阳性",
+            "C.锁骨骨折",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 35
+    },
+    {
+        "question_text": "36.肩肱关节脱位时可有:",
+        "options": [
+            "A.肩关节炎",
+            "B.搭肩试验阳性",
+            "C.耸肩",
+            "D.冻结肩",
+            "E.冈上肌腱炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 36
+    },
+    {
+        "question_text": "37.膝内翻或膝外翻畸形多见于:",
+        "options": [
+            "A.佝偻病",
+            "B.脊髓灰质炎后遗症",
+            "C.大骨节病",
+            "D.腓神经受损",
+            "E.膝关节结核"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 37
+    },
+    {
+        "question_text": "38.匙状甲常见于:",
+        "options": [
+            "A.甲癣",
+            "B.风湿热",
+            "C.紫绀性先天性心脏病",
+            "D.肝硬化",
+            "E.缺铁性贫血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 38
+    },
+    {
+        "question_text": "39.佝偻病是由于哪种因素所导致？",
+        "options": [
+            "A.垂体功能亢进",
+            "B.垂体功能减退",
+            "C.甲状腺功能低下",
+            "D.维生素D缺乏",
+            "E.维生素A缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 39
+    },
+    {
+        "question_text": "40.佝偻病视诊可见:",
+        "options": [
+            "A.膝部摩擦感",
+            "B.匙状甲",
+            "C.X形腿",
+            "D.握茶杯姿势",
+            "E.膝反张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 40
+    },
+    {
+        "question_text": "41.缺铁性贫血时可见:",
+        "options": [
+            "A.膝部摩擦感",
+            "B.匙状甲",
+            "C.X形腿",
+            "D.握茶杯姿势",
+            "E.膝反张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 41
+    },
+    {
+        "question_text": "42.正常人手的功能位置呈:",
+        "options": [
+            "A.膝部摩擦感",
+            "B.匙状甲",
+            "C.X形腿",
+            "D.握茶杯姿势",
+            "E.膝反张"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 42
+    },
+    {
+        "question_text": "43.创伤性关节炎时可有:",
+        "options": [
+            "A.膝部摩擦感",
+            "B.匙状甲",
+            "C.X形腿",
+            "D.握茶杯姿势",
+            "E.膝反张"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 43
+    },
+    {
+        "question_text": "44.匙状甲由什么原因所致:",
+        "options": [
+            "A.组织缺钙",
+            "B.组织缺镁",
+            "C.组织缺铁",
+            "D.真菌感染",
+            "E.外伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 44
+    },
+    {
+        "question_text": "45.尺神经损伤时手指变形呈:",
+        "options": [
+            "A.杵状指",
+            "B.匙状甲",
+            "C.爪形手",
+            "D.梭形指畸形",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 45
+    },
+    {
+        "question_text": "46.感染性心内膜炎时手指呈:",
+        "options": [
+            "A.杵状指",
+            "B.匙状甲",
+            "C.爪形手",
+            "D.梭形指畸形",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 46
+    },
+    {
+        "question_text": "47.缺铁性贫血时手指可呈:",
+        "options": [
+            "A.杵状指",
+            "B.匙状甲",
+            "C.爪形手",
+            "D.梭形指畸形",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 47
+    },
+    {
+        "question_text": "48.垂体GH分泌细胞瘤表现为:",
+        "options": [
+            "A.杵状指",
+            "B.匙状甲",
+            "C.爪形手",
+            "D.梭形指畸形",
+            "E.肢端肥大症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 48
+    },
+    {
+        "question_text": "49.胫前胫后肌麻痹时可呈:",
+        "options": [
+            "A.足外翻",
+            "B.足内翻",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 49
+    },
+    {
+        "question_text": "50.脊髓灰质炎后遗症时可呈:",
+        "options": [
+            "A.足外翻",
+            "B.足内翻",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 50
+    },
+    {
+        "question_text": "51.腓总神经麻痹可引起:",
+        "options": [
+            "A.足外翻",
+            "B.足内翻",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 51
+    },
+    {
+        "question_text": "52.髌前滑囊炎时，可有:",
+        "options": [
+            "A.髌骨前方可及囊性肿块",
+            "B.膝关节间隙可及肿块",
+            "C.胫骨上端无痛性隆起",
+            "D.腘窝囊性肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 52
+    },
+    {
+        "question_text": "53.半月板囊肿时，可有:",
+        "options": [
+            "A.髌骨前方可及囊性肿块",
+            "B.膝关节间隙可及肿块",
+            "C.胫骨上端无痛性隆起",
+            "D.腘窝囊性肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 53
+    },
+    {
+        "question_text": "54.动脉瘤时可出现:",
+        "options": [
+            "A.髌骨前方可及囊性肿块",
+            "B.膝关节间隙可及肿块",
+            "C.胫骨上端无痛性隆起",
+            "D.腘窝囊性肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 54
+    },
+    {
+        "question_text": "55.骨软骨瘤时可见:",
+        "options": [
+            "A.髌骨前方可及囊性肿块",
+            "B.膝关节间隙可及肿块",
+            "C.胫骨上端无痛性隆起",
+            "D.腘窝囊性肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 55
+    },
+    {
+        "question_text": "56.腘窝囊肿时可有:",
+        "options": [
+            "A.髌骨前方可及囊性肿块",
+            "B.膝关节间隙可及肿块",
+            "C.胫骨上端无痛性隆起",
+            "D.腘窝囊性肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 56
+    },
+    {
+        "question_text": "57.髌骨骨折时，体检可发现:",
+        "options": [
+            "A.拇指指甲滑动试验阳性",
+            "B.膝关节侧方加压试验阳性",
+            "C.髌骨前方可及囊性肿块",
+            "D.膝关节间隙可及肿块",
+            "E.腘窝搏动性肿块"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 57
+    },
+    {
+        "question_text": "58.足底变平，直立时足底中部内侧着地，称为:",
+        "options": [
+            "A.膝外翻",
+            "B.膝内翻",
+            "C.足外翻",
+            "D.足内翻",
+            "E.平跖足"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 58
+    },
+    {
+        "question_text": "59.跟骨外旋，前足外展，称为:",
+        "options": [
+            "A.膝外翻",
+            "B.膝内翻",
+            "C.足外翻",
+            "D.足内翻",
+            "E.平跖足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 59
+    },
+    {
+        "question_text": "60.两膝关节向内形成角度，称为:",
+        "options": [
+            "A.膝外翻",
+            "B.膝内翻",
+            "C.足外翻",
+            "D.足内翻",
+            "E.平跖足"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 60
+    },
+    {
+        "question_text": "61.两膝关节靠近时，两内踝分离，称为:",
+        "options": [
+            "A.膝外翻",
+            "B.膝内翻",
+            "C.足外翻",
+            "D.足内翻",
+            "E.平跖足"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 61
+    },
+    {
+        "question_text": "62.跟骨内旋，前足内收，站立时足外侧着地，称为:",
+        "options": [
+            "A.膝外翻",
+            "B.膝内翻",
+            "C.足外翻",
+            "D.足内翻",
+            "E.平跖足"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 62
+    },
+    {
+        "question_text": "63.足不能跖屈，站立时足跟着地，称为",
+        "options": [
+            "A.跟足",
+            "B.跟骨骨刺",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 63
+    },
+    {
+        "question_text": "64.足底跟骨内侧压痛，称为:",
+        "options": [
+            "A.跟足",
+            "B.跟骨骨刺",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 64
+    },
+    {
+        "question_text": "65.足纵弓高起，足背隆起，称为:",
+        "options": [
+            "A.跟足",
+            "B.跟骨骨刺",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 65
+    },
+    {
+        "question_text": "66.踝关节跖屈，前半足着地，称为:",
+        "options": [
+            "A.跟足",
+            "B.跟骨骨刺",
+            "C.马蹄足",
+            "D.高弓足",
+            "E.平跖足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 66
+    },
+    {
+        "question_text": "67.桡神经损伤时可出现:",
+        "options": [
+            "A.肱骨结节间压痛",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 67
+    },
+    {
+        "question_text": "68.肱二头肌长头腱鞘炎可有:",
+        "options": [
+            "A.肱骨结节间压痛",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征猿手"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 68
+    },
+    {
+        "question_text": "69.肱骨踝上骨折时可见:",
+        "options": [
+            "A.肱骨结节间压痛",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征猿手"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 69
+    },
+    {
+        "question_text": "70.桡骨头脱位时可见:",
+        "options": [
+            "A.肱骨结节间压痛",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征猿手"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 70
+    },
+    {
+        "question_text": "71.肘关节向后脱位后造成:",
+        "options": [
+            "A.肱骨结节间压痛",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征猿手"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 71
+    },
+    {
+        "question_text": "72.正中神经损伤时可见:",
+        "options": [
+            "A.餐叉手",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.猿手"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 72
+    },
+    {
+        "question_text": "73.Colles骨折时造成:",
+        "options": [
+            "A.腕关节背侧局部隆起",
+            "B.肘窝下方向桡侧突出",
+            "C.肘窝上方突出饱满",
+            "D.Huter氏三角关系改变",
+            "E.腕垂征猿手"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 73
+    },
+    {
+        "question_text": "74.髋关节脱位可造成:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 74
+    },
+    {
+        "question_text": "75.股骨头骨折错位可出现:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 75
+    },
+    {
+        "question_text": "76.髋关节结核时行走呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 76
+    },
+    {
+        "question_text": "77.股骨头无菌性坏死时行走呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 77
+    },
+    {
+        "question_text": "78.双髋关节脱位时可呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 78
+    },
+    {
+        "question_text": "79.小儿麻痹症肌萎缩时行走呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 79
+    },
+    {
+        "question_text": "80.小儿麻痹后遗症时行走呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 80
+    },
+    {
+        "question_text": "81.髋关节强直时行走呈:",
+        "options": [
+            "A.疼痛性跛行",
+            "B.鸭步",
+            "C.短肢跛行",
+            "D.呆步",
+            "E.髋关节内收畸形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 81
+    },
+    {
+        "question_text": "82.膝关节积液时可有:",
+        "options": [
+            "A.膝关节均匀性肿大",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 82
+    },
+    {
+        "question_text": "83.膝关节结核时可有:",
+        "options": [
+            "A.膝关节均匀性肿大",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 83
+    },
+    {
+        "question_text": "84.髌骨软骨炎时造成:",
+        "options": [
+            "A.膝关节均匀性肿大",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 84
+    },
+    {
+        "question_text": "85.髌前滑囊炎时可有:",
+        "options": [
+            "A.膝关节均匀性肿大",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 85
+    },
+    {
+        "question_text": "86.膝关节炎时可见:",
+        "options": [
+            "A.膝关节均匀性肿大",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 86
+    },
+    {
+        "question_text": "87.半月板损伤时可有:",
+        "options": [
+            "A.膝关节间隙压痛",
+            "B.膝关节梭形膨大",
+            "C.髌骨前明显隆起",
+            "D.双膝眼处压痛",
+            "E.髌骨两侧压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 87
+    },
+    {
+        "question_text": "88.“浮髌试验”阳性见于膝关节:",
+        "options": [
+            "A.少量积液",
+            "B.中等量积液",
+            "C.大量积液",
+            "D.滑膜增生",
+            "E.髌骨骨折"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 88
+    },
+    {
+        "question_text": "89.浮髌试验主要是检查:",
+        "options": [
+            "A.髌骨有无骨折",
+            "B.膝关节滑膜炎",
+            "C.关节腔积液",
+            "D.膝腱反射",
+            "E.膝关节活动度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 89
+    },
+    {
+        "question_text": "90.直腿抬高实验（Lasegue征）见于:",
+        "options": [
+            "A.强制性脊柱炎",
+            "B.腰椎骨折",
+            "C.腰椎间盘突出症",
+            "D.腰椎肿瘤",
+            "E.腰椎结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 90
+    },
+    {
+        "question_text": "91.了解下肢和足的血循环，最重要的检查是:",
+        "options": [
+            "A.足趾能主动活动",
+            "B.足是否肿胀或发凉",
+            "C.足趾被动活动是否疼痛",
+            "D.足背动脉触诊",
+            "E.足的感觉是否正常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 91
+    },
+    {
+        "question_text": "92.类风湿关节炎的手部特征性改变时:",
+        "options": [
+            "A.平手",
+            "B.爪形手",
+            "C.垂腕",
+            "D.杵状指",
+            "E.梭形关节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 92
+    },
+    {
+        "question_text": "93.杵状指多是由于什么所致:",
+        "options": [
+            "A.慢性缺氧",
+            "B.组织缺钙",
+            "C.组织缺镁",
+            "D.真菌感染",
+            "E.外伤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 93
+    },
+    {
+        "question_text": "94.膝内翻是:",
+        "options": [
+            "A.X形腿",
+            "B.Y形腿",
+            "C.O形腿",
+            "D.两腿并拢",
+            "E.两腿分开"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 94
+    },
+    {
+        "question_text": "95.匙状甲多见于:",
+        "options": [
+            "A.风湿热",
+            "B.紫绀型先天性心脏病",
+            "C.支气管扩张",
+            "D.缺铁性贫血",
+            "E.呼吸不良综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 95
+    },
+    {
+        "question_text": "96.爪形手多见于:",
+        "options": [
+            "A.尺神经损伤",
+            "B.正中神经损伤",
+            "C.进行性肌肉萎缩",
+            "D.脊髓空洞症",
+            "E.麻风"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 96
+    },
+    {
+        "question_text": "97.杵状指（趾）最常见于:",
+        "options": [
+            "A.肝硬化",
+            "B.呼吸系统疾病",
+            "C.高原疾病",
+            "D.风湿热",
+            "E.甲癣"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "97",
+        "number": 97
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "question_text": "1.细菌生长的稳定期",
+        "options": [
+            "A.细菌繁殖数和死亡数大体相等",
+            "B.细菌代谢速度最快",
+            "C.细菌不形成芽胞",
+            "D.细菌的形态、染色性、生理活性较典型",
+            "E.细菌极少繁殖"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列监测细菌生化反应的试验中，用于检测靛基质试验的是",
+        "options": [
+            "A.甲基红试验",
+            "B.尿素酶试验",
+            "C.柠檬酸盐利用试验",
+            "D.吲哚试验",
+            "E.硫化氢实验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 2
+    },
+    {
+        "question_text": "3.不属于细菌代谢产物的是",
+        "options": [
+            "A.内毒素",
+            "B.外毒素",
+            "C.抗毒素",
+            "D.抗生素",
+            "E.细菌素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 3
+    },
+    {
+        "question_text": "4.不是抗生素的范畴的是",
+        "options": [
+            "A.可由真菌产生",
+            "B.可由放线菌产生",
+            "C.可由细菌产生",
+            "D.只对产生菌、有近缘关系菌有杀伤作用",
+            "E.对微生物有抑制作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 4
+    },
+    {
+        "question_text": "5.细菌代谢产物中与致病性无关的是",
+        "options": [
+            "A.外毒素",
+            "B.内毒素",
+            "C.侵袭性酶",
+            "D.色素",
+            "E.热原质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于热原质的叙述，下列哪项是错误的",
+        "options": [
+            "A.多由革兰阴性菌产生",
+            "B.本质是细菌细胞壁中的脂多糖",
+            "C.注入人体内能引起发热反应",
+            "D.高压蒸汽灭菌法可破坏热原质",
+            "E.250摄氏度高温干烤可破坏热原质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 6
+    },
+    {
+        "question_text": "7.杀菌作用最强的紫外线波长范围是",
+        "options": [
+            "A.245-246nm",
+            "B.250-256nm",
+            "C.265-266nm",
+            "D.270~276nm",
+            "E.280~290nm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 7
+    },
+    {
+        "question_text": "8.乙醇杀菌力最强时的浓度是",
+        "options": [
+            "A.50%",
+            "B.60%",
+            "C.70%",
+            "D.90%",
+            "E.95%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 8
+    },
+    {
+        "question_text": "9.杀灭物体上微生物最彻底的方法称为",
+        "options": [
+            "A.消毒",
+            "B.灭菌",
+            "C.过滤除菌",
+            "D.防腐",
+            "E.无菌操作"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 9
+    },
+    {
+        "question_text": "10.多数细菌繁殖一代所需的时间为",
+        "options": [
+            "A.20~30分钟",
+            "B.30~40分钟",
+            "C.45~55分钟",
+            "D.1小时",
+            "E.2小时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 10
+    },
+    {
+        "question_text": "11.研究细菌的生物学性状最好选用细菌生长繁殖期中的",
+        "options": [
+            "A.迟缓期",
+            "B.对数期",
+            "C.稳定期",
+            "D.衰亡期",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 11
+    },
+    {
+        "question_text": "12.能以简单无机物为原料合成复杂原生质的细菌是",
+        "options": [
+            "A,异养菌",
+            "B.自养歯",
+            "C.腐生菌",
+            "D.寄生菌",
+            "E.致病菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 12
+    },
+    {
+        "question_text": "13,属于细菌分解性代谢产物的是",
+        "options": [
+            "A.热原质",
+            "B.硫化氢",
+            "C.外毒素",
+            "D.维生素",
+            "E.抗生素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 13
+    },
+    {
+        "question_text": "14.大肠埃希菌产生的大肠菌素为",
+        "options": [
+            "A.热原质",
+            "B.毒素",
+            "C.抗生素",
+            "D.细菌素",
+            "E.维生素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 14
+    },
+    {
+        "question_text": "15.所有的病原菌都是",
+        "options": [
+            "A.自养菌",
+            "B.嗜冷菌",
+            "C.嗜热菌",
+            "D.腐生菌",
+            "E.异养菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 15
+    },
+    {
+        "question_text": "16.病原菌大多数属于",
+        "options": [
+            "A.专性需氧菌",
+            "B.兼性厌氧菌",
+            "C.微需氧菌",
+            "D.专性厌氧菌",
+            "E.嗜热菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 16
+    },
+    {
+        "question_text": "17.大多数病原菌生长的最适温度为",
+        "options": [
+            "A.28摄氏度",
+            "B.30摄氏度",
+            "C.32摄氏度",
+            "D.37摄氏度",
+            "E.39摄氏度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 17
+    },
+    {
+        "question_text": "18.大多数病原菌生长的最适pH为",
+        "options": [
+            "A.3.2~5.2",
+            "B.5.2~7.1",
+            "C.7.2~7.6",
+            "D.7.7~8.8",
+            "E.8.9~9.2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 18
+    },
+    {
+        "question_text": "19,细菌主要以什么方式进行繁殖",
+        "options": [
+            "A.复制",
+            "B.有丝分裂",
+            "C.有性繁殖",
+            "D.形成抱子",
+            "E.二分裂法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 19
+    },
+    {
+        "question_text": "20.药敏试验应选用哪期的细菌",
+        "options": [
+            "A.迟缓期",
+            "B.对数期",
+            "C.稳定期",
+            "D.衰亡期",
+            "E.晚期"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于外毒素的叙述错误的是",
+        "options": [
+            "A.革兰阳性菌产生",
+            "B.也可由革兰阴性菌产生",
+            "C.毒性较强",
+            "D.为细菌细胞壁的组成成分",
+            "E.可制成类毒素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于内毒素的叙述错误的是",
+        "options": [
+            "A.革兰阴性细胞壁的组成成分",
+            "B.对组织器官有选择性毒害效应",
+            "C.菌体死亡崩解后才释放",
+            "D.不可制成类毒素",
+            "E.加热100摄氏度1小时不能使内毒素失活"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 22
+    },
+    {
+        "question_text": "23.IMViC试验常用于鉴别",
+        "options": [
+            "A.肠道杆菌",
+            "B.葡萄球菌",
+            "C.肺炎球菌",
+            "D.脑膜炎奈瑟菌",
+            "E.厌氧菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 23
+    },
+    {
+        "question_text": "24.细菌对糖的分解能力不同，主要是由于",
+        "options": [
+            "A.营养型不同",
+            "B.酶系统不同",
+            "C.糖的种类不同",
+            "D.氧气存在与否",
+            "E.细胞膜通透性不同"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "24",
+        "number": 24
+    }
+]

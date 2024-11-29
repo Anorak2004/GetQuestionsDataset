@@ -1,0 +1,1024 @@
+[
+    {
+        "question_text": "1.肺潮气量正常人约",
+        "options": [
+            "A.350ml",
+            "B.400ml",
+            "C.450ml",
+            "D.500ml",
+            "E.550ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 1
+    },
+    {
+        "question_text": "2.用力肺活量（FVC）减少在以下哪种情况不常出现？",
+        "options": [
+            "A.间质性肺疾病",
+            "B.支气管哮喘",
+            "C.呼吸肌疲劳",
+            "D.大面积肺不张",
+            "E.广泛胸膜粘连"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 2
+    },
+    {
+        "question_text": "3.以下哪些肺功能指标同时改变才符合慢性阻塞性肺疾病的诊断？",
+        "options": [
+            "A.FEV1及FVC",
+            "B.功能残气量及FVC",
+            "C.FEV1及FEV1/FVC",
+            "D.FEV1及RC/TLC（残气量/肺总量）",
+            "E.FEV1/FVC及FVC"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 3
+    },
+    {
+        "question_text": "4.功能残气量与残气量的区别为:",
+        "options": [
+            "A.都是反应肺容积的指标",
+            "B.功能残气量是呼出气量",
+            "C.残气量是呼出气量",
+            "D.功能残气量是平静呼气后残留于肺内的气量",
+            "E.残气量是平静呼气后残留于肺内的气量"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 4
+    },
+    {
+        "question_text": "5.功能残气量与残气量增加的临床意义:",
+        "options": [
+            "A.提示肺充气过度",
+            "B.提示肺呼气过度",
+            "C.提示有间质性肺水肿",
+            "D.提示有肺不张",
+            "E.提示有中等量以上的胸腔积液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 5
+    },
+    {
+        "question_text": "6.慢性阻塞性肺气肿患者下列哪项肺功能检查不正确？",
+        "options": [
+            "A.最大通气量占预计值的70％",
+            "B.残气量占肺总量的45％",
+            "C.第1秒时间肺活量50％",
+            "D.肺活量占预计值70％",
+            "E.最大呼气中段流速正常或增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 6
+    },
+    {
+        "question_text": "7.患者，60岁，男性，长期咳嗽，咳痰10余年，伴活动后气促4年，胸廓呈桶状，肋间隙增宽，肺、肝界下移，该患者肺功能测定哪项最有可能正常？",
+        "options": [
+            "A.残气量占肺总量百分比",
+            "B.最大通气量占预计值的百分比",
+            "C.FEV%",
+            "D.Vmax25",
+            "E.VC"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 7
+    },
+    {
+        "question_text": "8.诊断慢性阻塞性肺气肿最有意义的肺功能检查结果是:",
+        "options": [
+            "A.肺总量增加",
+            "B.时间肺活量减低",
+            "C.残气量/肺总量增加",
+            "D.最大通气量减少",
+            "E.小气道功能流速容量曲线改变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列哪一种疾病肺活量正常:",
+        "options": [
+            "A.大量胸腔积液",
+            "B.气胸",
+            "C.肺不张",
+            "D.急性支气管炎",
+            "E.支气管哮喘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 9
+    },
+    {
+        "question_text": "10.死腔样通气是指:",
+        "options": [
+            "A.肺泡通气分布严重不均",
+            "B.部分肺泡V/Q比率增高",
+            "C.各部肺泡的V/Q比率自上而下递减",
+            "D.肺泡通气与血液比例低于0.01",
+            "E.肺A-V短路开放"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 10
+    },
+    {
+        "question_text": "11.患者，男性，35岁，肺功能检查发现第1秒时间肺活量（FEV）＞80％，残气量/肺总量35％，VC占预计值60％，说明该患者:",
+        "options": [
+            "A.正常",
+            "B.阻塞性通气功能障碍",
+            "C.限制性通气功能障碍",
+            "D.弥散功能障碍",
+            "E.混合性通气功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 11
+    },
+    {
+        "question_text": "12.支气管哮喘患者，肺功能检查哪一项改变是错误的？",
+        "options": [
+            "A.第1秒用力呼气率（FEV1/FVC％）降低",
+            "B.最大呼气中期流速降低",
+            "C.最大呼气流速容量减低",
+            "D.残气量及残气肺总量增大",
+            "E.肺总量减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 12
+    },
+    {
+        "question_text": "13.当一慢性支气管炎的男性患者，肺功能测定出现肺活量占预计值90％，第一秒稍用力呼气容积占用力肺活量80％，闭合气量增加，肺活量为50％及25％时的呼气瞬时流量（Vmax50及Vmax25）降低。该患者的肺功能改变属于哪一种？",
+        "options": [
+            "A.总气道阻力增加",
+            "B.小气道阻力功能障碍",
+            "C.限制性通气功能障碍",
+            "D.阻塞性通气功能障碍",
+            "E.混合性通气功能障碍"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 13
+    },
+    {
+        "question_text": "14.患者，女性，67岁，反复咳嗽、咳痰20年，气促2年，加重5天入院。查体:桶状胸，语音震颤减弱，呼吸音减弱，呼吸音显著延长。如果患者上述诊断成立，肺功能检查最可能出现的是下列哪项？",
+        "options": [
+            "A.小气道功能受损",
+            "B.大气道功能受损",
+            "C.阻塞性通气功能障碍",
+            "D.限制性通气功能障碍",
+            "E.混合性通气功能障碍"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 14
+    },
+    {
+        "question_text": "15.患者，男性，55岁。反复咳嗽、咳痰15年，气促3年，加重一周入院。查体:示桶状胸，语音震颤减弱，呼吸音减弱，呼气音显著延长。假设上述诊断成立，肺功能检查最可能出现的是:",
+        "options": [
+            "A.阻塞性通气功能障碍",
+            "B.限制性通气功能障碍",
+            "C.混合性通气功能障碍",
+            "D.小气道功能受损",
+            "E.大气道功能受损"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 15
+    },
+    {
+        "question_text": "16.男性，35岁患者，肺功能检查发现第一秒时间肺活量占用力肺活量（FEV1％，即一秒率）40％，残气量/肺总量为45％，血气分析正常，应诊断为:",
+        "options": [
+            "A.限制性通气功能障碍",
+            "B.阻塞性通气功能障碍",
+            "C.混合性通气功能障碍",
+            "D.弥散功能障碍",
+            "E.通气功能正常"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 16
+    },
+    {
+        "question_text": "17.动脉血氧分压（PaO2）的正常范围是:",
+        "options": [
+            "A.80～95mmHg",
+            "B.85～100mmHg",
+            "C.90～100mmHg",
+            "D.95～100mmhg",
+            "E.100～120mmhg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 17
+    },
+    {
+        "question_text": "18.动脉血氧饱和度（SaO2）的正常范围是:",
+        "options": [
+            "A.80％～90％",
+            "B.80％～95％",
+            "C.95％～98％",
+            "D.95％～100％",
+            "E.98％～100％"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 18
+    },
+    {
+        "question_text": "19.动脉血二氧化碳分压（PaCO2）的正常范围是:",
+        "options": [
+            "A.30～40mmHg",
+            "B.35～40mmHg",
+            "C.35～45mmHg",
+            "D.40～50mmHg",
+            "E.45～55mmHg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于标准碳酸氢盐的描述哪项正确？",
+        "options": [
+            "A.受呼吸影响较大",
+            "B.是反应呼吸性碱中毒的指标",
+            "C.是准确反应代谢性酸碱平衡失调的指标",
+            "D.正常值为45～55mmol/L",
+            "E.以上各项均不正确"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 20
+    },
+    {
+        "question_text": "21.在动脉血氧分压的叙述中，哪项是不正确的？",
+        "options": [
+            "A.健康成人随着年龄的增加而降低",
+            "B.正常值为95～100mmHg，但老年人需用预计公式计算正常值",
+            "C.可判断有无缺氧及缺氧的程度",
+            "D.可判断有无呼吸衰竭",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 21
+    },
+    {
+        "question_text": "22.如果慢性阻塞性肺病患者出现精神症状，即可能是由于肺性脑病所致:",
+        "options": [
+            "A.PaCO2＞45mmHg",
+            "B.PaCO2＞70mmHg",
+            "C.PaCO2＜35mmHg",
+            "D.PaCO2＜20mmHg",
+            "E.以上都不具备"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 22
+    },
+    {
+        "question_text": "23.临床判断病人酸碱是否平衡，通过二氧化碳结合力可了解以下哪项指标的变化？",
+        "options": [
+            "A.血pH",
+            "B.PaCO2",
+            "C.TCO2",
+            "D.HCO3-",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 23
+    },
+    {
+        "question_text": "24.一般血清蛋白电泳所用缓冲体系的pH值是:",
+        "options": [
+            "A.pH4.8",
+            "B.pH7.4",
+            "C.ph8.6",
+            "D.pH10.0",
+            "E.pH2.6"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 24
+    },
+    {
+        "question_text": "25.表明氧离曲线的位置:",
+        "options": [
+            "A.PaO2",
+            "B.SaO2",
+            "C.P50",
+            "D.PaCO2",
+            "E.pH值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 25
+    },
+    {
+        "question_text": "26.反应血红蛋白对氧的亲和力的是:",
+        "options": [
+            "A.PaO2",
+            "B.SaO2",
+            "C.P50",
+            "D.PaCO2",
+            "E.pH值"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 26
+    },
+    {
+        "question_text": "27.反应血红蛋白实际结合氧量与应结含氧量的比是:",
+        "options": [
+            "A.PaO2",
+            "B.SaO2",
+            "C.P50",
+            "D.PaCO2",
+            "E.pH值"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 27
+    },
+    {
+        "question_text": "28.判断呼吸衰竭最重要的指标是:",
+        "options": [
+            "A.PaO2",
+            "B.SaO2",
+            "C.P50",
+            "D.PaCO2",
+            "E.pH值"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 28
+    },
+    {
+        "question_text": "29.判定酸碱失衡的重要指标是:",
+        "options": [
+            "A.PaO2",
+            "B.SaO2",
+            "C.P50",
+            "D.PaCO2",
+            "E.pH值"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 29
+    },
+    {
+        "question_text": "30.一位25岁男性患者，外伤致多发性骨折后1天，出现口唇紫绀，呼吸急速，40次/分。此时，对其诊断最有意义的动脉血气指标为:",
+        "options": [
+            "A.SaO2",
+            "B.SaCO2",
+            "C.PaO2",
+            "D.PaCO2",
+            "E.T-CO2"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 30
+    },
+    {
+        "question_text": "31.代谢性酸中毒的代偿反应为:",
+        "options": [
+            "A.HCO3-升高",
+            "B.PaO2升高",
+            "C.PaO2下降",
+            "D.PaCO2升高",
+            "E.PaCO2下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 31
+    },
+    {
+        "question_text": "32.呼吸性酸中毒的代偿反应为:",
+        "options": [
+            "A.PaCO2下降",
+            "B.PaO2升高",
+            "C.PaO2下降",
+            "D.HCO3-升高",
+            "E.HCO3-下降"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 32
+    },
+    {
+        "question_text": "33.符合Ⅰ型呼吸衰竭的动脉血气标准是:",
+        "options": [
+            "A.PaO250mmHg，\tPaCO240mmHg",
+            "B.PaO255mmHg，\tPaCO250mmHg",
+            "C.PaO265mmHg，\tPaCO240mmHg",
+            "D.PaO270mmHg，\tPaCO240mmHg",
+            "E.PaO270mmHg，\tPaCO245mmHg"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 33
+    },
+    {
+        "question_text": "34.符合Ⅱ型呼吸衰竭的动脉血气标准是:",
+        "options": [
+            "A.PaO250mmHg，\tPaCO241mmHg",
+            "B.PaO255mmHg，\tPaCO251mmHg",
+            "C.PaO265mmHg，\tPaCO241mmHg",
+            "D.PaO270mmHg，\tPaCO241mmHg",
+            "E.PaO270mmHg，\tPaCO246mmHg"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 34
+    },
+    {
+        "question_text": "35.代谢性酸中毒的指标哪项不对？",
+        "options": [
+            "A.HCO3-下降为继发性改变",
+            "B.机体产酸过多",
+            "C.碱性物质损失过多",
+            "D.大量使用水杨酸类药物",
+            "E.糖尿病酮症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 35
+    },
+    {
+        "question_text": "36.患者，男，50岁，糖尿病5年，因昏迷伴深快呼吸被送急诊，急查动脉血气结果如下它们有助于诊断，除外的是:",
+        "options": [
+            "A.CO2-CP70vol％",
+            "B.pH7.25",
+            "C.SB15mmol/LI",
+            "D.BB38mmol/L↓",
+            "E.测定时配合欠佳"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 36
+    },
+    {
+        "question_text": "37.患者，19岁，男性，因休克型肺炎住院，依据哪项动脉血气指标的变化，说明患者存在呼吸衰竭:",
+        "options": [
+            "A.CO2-CP70vol％",
+            "B.BE-6mmol/L",
+            "C.HCO3-30mmol/L",
+            "D.Pa0250mmHg",
+            "E.PaCO242mmHg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 37
+    },
+    {
+        "question_text": "38.静息状态下，健康成人每分钟通气/血流比值是:",
+        "options": [
+            "A.0.5",
+            "B.0.6",
+            "C.0.8",
+            "D.1",
+            "E.1.5"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 38
+    },
+    {
+        "question_text": "39.诊断呼吸衰竭，血气分析必须具备以下哪一项？",
+        "options": [
+            "A.PaO2＞60mmHg",
+            "B.PaO2＞90mmHg",
+            "C.PaO2＜60mmHg",
+            "D.PaO2＜90mmHg",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 39
+    },
+    {
+        "question_text": "40.对呼吸性碱中毒的描述哪项不对？",
+        "options": [
+            "A.原发性PaCO2下降",
+            "B.机械通气不当可引起呼吸性碱中毒",
+            "C.PaCO2增高",
+            "D.癔病可引起呼吸性碱中毒",
+            "E.PH可正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 40
+    },
+    {
+        "question_text": "41.在下列关于动脉血二氧化碳分压的描述中，哪项是错误的？",
+        "options": [
+            "A.是判断呼吸衰竭类型与程度的指标",
+            "B.正常值为35～45mmHg",
+            "C.是判断呼吸酸碱平衡失调的指标",
+            "D.可用来判断代谢性酸碱平衡失调的代偿反应",
+            "E.Ⅱ型呼吸衰竭动脉血二氧化碳分压必须小于50mmHg"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 41
+    },
+    {
+        "question_text": "42.支气管激发试验主要用于何种疾病的诊断:",
+        "options": [
+            "A.肺气肿",
+            "B.哮喘",
+            "C.肺炎",
+            "D.肺不张",
+            "E.肺纤维化"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 42
+    },
+    {
+        "question_text": "43.PaO2显著下降伴PaCO2明显增加的疾病主要见于:",
+        "options": [
+            "A.COPD（慢阻肺）所致呼吸衰竭",
+            "B.肺水肿所致呼吸衰竭",
+            "C.ARDS所致呼吸衰竭",
+            "D.间质性肺疾病所致呼吸衰竭",
+            "E.张力气胸所致呼吸衰竭"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 43
+    },
+    {
+        "question_text": "44.支气管炎，肺气肿患者测血气:pH7.24，PaO242mmHg，PaCO270mmHg，HCO3-19.5mmol/L，该患者应诊断为",
+        "options": [
+            "A.失代偿性呼吸性酸中毒",
+            "B.呼吸性酸中毒并代谢性碱中毒",
+            "C.呼吸性酸中毒合并代谢性酸中毒",
+            "D.代谢性酸中毒",
+            "E.代偿性呼吸性酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 44
+    },
+    {
+        "question_text": "45.患者，女性，43岁，间断性呕吐1周，pH7.8，PaCO26.4Kpa，HCO3-36mmol/L，PaO265mmhg，该患者可诊断为:",
+        "options": [
+            "A.呼吸性碱中毒",
+            "B.呼吸性碱中毒并代谢性碱中毒",
+            "C.呼吸性酸中毒",
+            "D.失代偿性代谢性碱中毒",
+            "E.代谢性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 45
+    },
+    {
+        "question_text": "46.一份血气报告结果如下:pH7.15，HCO3-12mmol/L，PaCO215mmHg，PaO2110mmHg，应诊断为:",
+        "options": [
+            "A.代谢性酸中毒合并呼吸性碱中毒",
+            "B.代谢性碱中毒合并呼吸性碱中毒",
+            "C.呼吸性酸中毒合并代谢性碱中毒",
+            "D.代谢性酸中毒合并呼吸性酸中毒",
+            "E.代谢性酸中毒合并代谢性碱中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 46
+    },
+    {
+        "question_text": "47.一肺心病慢性呼吸衰竭患者血气分析结果为:pH7.18，PaCO29.9Kpa，HCO3-27.6mmol/L，BE:-5mmol/L，下列哪项诊断正确？",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.呼吸性酸中毒",
+            "C.呼吸性酸中毒合并代谢性酸中毒",
+            "D.代谢性酸中毒合并呼吸性碱中毒",
+            "E.以上都不符合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 47
+    },
+    {
+        "question_text": "48.临床上过度通气的患者易于出现以下哪种酸碱紊乱？",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.代谢性碱中毒",
+            "C.呼吸性碱中毒",
+            "D.呼吸性酸中毒",
+            "E.以上都不符合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 48
+    },
+    {
+        "question_text": "49.肺心病呼吸衰竭患者行气管切开辅助呼吸后，检查血气为PaO275mmHg，Ph7.42，PaCO228.5mmHg，BE-5.2mEq/L，HCO3-18.3mEq/L，你考虑是:",
+        "options": [
+            "A.正常",
+            "B.代谢性碱中毒",
+            "C.呼吸性碱中毒",
+            "D.呼吸性酸中毒（代偿）",
+            "E.代谢性酸中毒伴有呼吸性碱中毒（代偿）"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 49
+    },
+    {
+        "question_text": "50.阴离子间隙增高反映机体酸碱平衡的失调是:",
+        "options": [
+            "A.高血氯性代谢性酸中毒",
+            "B.正常血氯性代谢性酸中毒",
+            "C.呼吸性酸中毒",
+            "D.代谢性碱中毒",
+            "E.呼吸性碱中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 50
+    },
+    {
+        "question_text": "51.下述哪项是反映呼吸性酸碱平衡失调的主要指标？",
+        "options": [
+            "A.动脉血氧分压",
+            "B.动脉血二氧化碳分压",
+            "C.血pH",
+            "D.二氧化碳结合力",
+            "E.标准碳酸氢盐/实际碳酸氢盐"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 51
+    },
+    {
+        "question_text": "52.患者，男，38岁，因肾功能衰竭，嗜睡30小时入院，血压160/100mmHg，化验:血pH7.25，PCO23.7KPa，血肌酐884umol/L（10mg/dl），尿素氮35.6mmol/L（100mg/dl），Na+138mmol/L，K+5mmol/L，Cl-105mmol/L，HCO3-12mmol/L。患者有:",
+        "options": [
+            "A.呼吸性碱中毒代偿",
+            "B.呼吸性碱中毒+代谢性酸中毒",
+            "C.代谢性碱中毒",
+            "D.代谢性酸中毒",
+            "E.呼吸性酸中毒+代谢性酸中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 52
+    },
+    {
+        "question_text": "53.某慢性肾功能不全患者，合并肺部感染入院，血气分析结果:pH7.25，PCO28.66kPa（65mmHg），PO211.3kpa（85mmHg）20mmol/L，BE-8，血K+6mmol/L，血Cl-110mmol/L。患者存在:",
+        "options": [
+            "A.呼吸性酸中毒",
+            "B.代谢性酸中毒",
+            "C.呼吸性酸中毒+代谢性酸中毒",
+            "D.呼吸性酸中毒+代谢性碱中毒",
+            "E.呼吸性碱中毒+代谢性酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 53
+    },
+    {
+        "question_text": "54.以下哪一类复合型酸碱紊乱不可能同时存在于同一患者？",
+        "options": [
+            "A.呼吸性酸中毒合并代谢性酸中毒",
+            "B.代谢性酸中毒合并代谢性碱中毒",
+            "C.代谢性酸中毒合并呼吸性碱中毒",
+            "D.呼吸性酸中毒合并呼吸性碱中毒",
+            "E.呼吸性碱中毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 54
+    },
+    {
+        "question_text": "55.临床上腹泻明显的患者易于出现以下哪种酸碱紊乱？",
+        "options": [
+            "A.呼吸性酸中毒",
+            "B.代谢性碱中毒",
+            "C.代谢性酸中毒",
+            "D.呼吸性碱中毒",
+            "E.代谢性碱中毒合并代谢性酸中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 55
+    },
+    {
+        "question_text": "56.下述哪种情况不会引起PaO2下降？",
+        "options": [
+            "A.肺泡通气量下降",
+            "B.V/Q比率失调",
+            "C.肺内分流",
+            "D.弥散面积减少",
+            "E.红细胞生成增多"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 56
+    },
+    {
+        "question_text": "57.肺弥散功能障碍最常出现:",
+        "options": [
+            "A.PaO2正常，PaCO2上升",
+            "B.PaO2下降，PaCO2上升",
+            "C.PaO2正常，PaCO2正常",
+            "D.PaO2正常，PaCO2下降",
+            "E.PaO2下降，PaCO2正常或下降"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 57
+    },
+    {
+        "question_text": "58.判断呼吸衰竭最重要的指标是:",
+        "options": [
+            "A.呼吸节律的异常",
+            "B.呼吸困难的程度",
+            "C.发绀的程度",
+            "D.血气分析",
+            "E.细胞缺氧的程度"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 58
+    },
+    {
+        "question_text": "59.对呼吸性酸碱失衡的判断，最有价值的是:",
+        "options": [
+            "A.pH值",
+            "B.PaCO2",
+            "C.BE",
+            "D.SB",
+            "E.AB"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 59
+    },
+    {
+        "question_text": "60.对代谢性酸碱失衡的判断，最有价值的是:",
+        "options": [
+            "A.BB",
+            "B.PaCO2",
+            "C.BE",
+            "D.SB",
+            "E.AB"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 60
+    },
+    {
+        "question_text": "61.Ⅱ型呼吸衰竭血气诊断标准为:",
+        "options": [
+            "A.PaO2＜60mmHg",
+            "B.PaO2＜80mmHg",
+            "C.PaCO2＞50mmHg",
+            "D.PaO2＜80mmHg，PaCO2＞50mmHg",
+            "E.PaO2＜60mmHg，PaCO2＞50mmHg"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 61
+    },
+    {
+        "question_text": "62.判定机体缺氧最敏感的指标为:",
+        "options": [
+            "A.发绀",
+            "B.PaO2",
+            "C.SaO2",
+            "D.动脉血氧含量",
+            "E.肺泡-动脉血氧分压差"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 62
+    },
+    {
+        "question_text": "63.肺泡膜病变发生呼吸衰竭的主要机制为:",
+        "options": [
+            "A.血液与肺泡接触时间过短",
+            "B.肺泡膜厚度增加",
+            "C.肺泡膜厚度减少",
+            "D.肺泡通气血液比例失调",
+            "E.呼吸功能及耗能增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 63
+    },
+    {
+        "question_text": "64.Ⅱ型呼吸衰竭的呼吸功能改变为:",
+        "options": [
+            "A.肺弥散功能障碍",
+            "B.通气/血流比例失调",
+            "C.机体耗氧量增加",
+            "D.肺泡通气不足",
+            "E.肺动静脉样分流增加"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 64
+    },
+    {
+        "question_text": "65.呼吸性酸中毒患者当人工呼吸过度时可导致:",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.高钾血症",
+            "C.呼吸性碱中毒",
+            "D.高钙血症",
+            "E.高镁血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 65
+    },
+    {
+        "question_text": "66.下列哪种情况引起的呼吸衰竭氧疗无效？",
+        "options": [
+            "A.通气障碍",
+            "B.弥散障碍",
+            "C.功能性分流",
+            "D.死腔样通气",
+            "E.肺内动静脉解剖分流增加"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 66
+    },
+    {
+        "question_text": "67.某患者既往健康，因急性肺水肿入院，血液检查:pH7.02，PaCO260mmHg，PaO240mmHg,HCO3-15mmol/L,属于哪一类酸碱平衡失调？",
+        "options": [
+            "A.急性呼吸性酸中毒",
+            "B.代谢性酸中毒",
+            "C.慢性呼吸性酸中毒",
+            "D.低氧血症",
+            "E.急性呼酸合并代酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 67
+    },
+    {
+        "question_text": "68.肺心病慢性呼吸衰竭患者，血气分析结果:pH7.188，PaCO275mmHg，PaO250mmHg，HCO3-27.6mmol/L，BE-5mmol/L。其酸碱失衡类型是",
+        "options": [
+            "A.代谢性酸中毒",
+            "B.呼吸性酸中毒",
+            "C.呼吸性酸中毒合并代谢性酸中毒",
+            "D.代谢性碱中毒",
+            "E.呼吸性酸中毒合并代谢性碱中毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 68
+    },
+    {
+        "question_text": "69.男，60岁，慢性咳嗽15年，糖尿病2年，咳嗽气喘加重1月，发热1周就诊，检查结果:血pH7.25，PaO240mmHg，PaCO285mmHg，BE-10mmol/L，你的诊断是:",
+        "options": [
+            "A.失代偿性呼酸",
+            "B.失代偿性呼酸合并代酸",
+            "C.失代偿性呼酸合并代碱",
+            "D.失代偿性代酸",
+            "E.三重酸碱失衡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 69
+    },
+    {
+        "question_text": "70.患者，女性，60岁，有反复咳嗽，咳痰病史30年，近一周出现呼吸困难，说明患者存在通气功能不足，下列哪项指标改变最有意义？",
+        "options": [
+            "A.CaO220vol％",
+            "B.SaO290％",
+            "C.PaO255mmHg",
+            "D.PaCO260mmHg",
+            "E.P5027mmHg"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 70
+    },
+    {
+        "question_text": "71.患者，男性，69岁，患慢性支气管炎，阻塞性肺气肿，肺心病。因受凉后咳嗽，咳痰重，伴气促，急查动脉血气，下列哪项检查结果对诊断没有意义？",
+        "options": [
+            "A.PaCO260mmHg",
+            "B.PaO240mmHg",
+            "C.PH7.3",
+            "D.HCO3-32mmol/L",
+            "E.CO2-CP30vol％"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 71
+    },
+    {
+        "question_text": "72.患者，男性，50岁，糖尿病5年，因昏迷伴深快呼吸被送急诊，急查动脉血气结果如下，下列哪项检查结果没有诊断意义？",
+        "options": [
+            "A.CO2-CP70vol％",
+            "B.pH7.25",
+            "C.SB15mmol/L↓",
+            "D.BB38mM/L↓",
+            "E.BE7mmol/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 72
+    },
+    {
+        "question_text": "73.患者，男性，46岁，高热两周，呼吸深而快pH7.44，PCO230mmHg，PO270mmHg，HCO3-20mmol/L，应诊断为:",
+        "options": [
+            "A.失代偿性呼吸性碱中毒",
+            "B.急性呼吸性碱中毒",
+            "C.代谢性碱中毒",
+            "D.呼吸性碱中毒并代谢性碱中毒",
+            "E.代偿性呼吸性碱中毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "73",
+        "number": 73
+    }
+]

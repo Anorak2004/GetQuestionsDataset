@@ -1,0 +1,478 @@
+[
+    {
+        "question_text": "1.所谓上消化道出血是指:",
+        "options": [
+            "A.胃或十二指肠出血",
+            "B.屈氏韧带以下的出血",
+            "C.屈氏韧带以上的出血",
+            "D.食管及胃的出血",
+            "E.空肠以上的出血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于呕血，下列叙述哪项不正确？",
+        "options": [
+            "A.病因最多为消化性溃疡",
+            "B.出血前有上腹部不适、恶心、呕吐等",
+            "C.出血方式为呕出",
+            "D.出血前喉部痒感、咳嗽等",
+            "E.血中混有食物残渣和胃液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 2
+    },
+    {
+        "question_text": "3.呕血最常见的原因是:",
+        "options": [
+            "A.胃底、食管静脉曲张破裂",
+            "B.食管癌",
+            "C.消化性溃疡",
+            "D.钩端螺旋体病",
+            "E.急性胃粘膜病变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 3
+    },
+    {
+        "question_text": "4.呕血最常见的疾病是:",
+        "options": [
+            "A.胃底及食管静脉曲张破裂",
+            "B.慢性胃炎",
+            "C.十二指肠炎",
+            "D.胃癌",
+            "E.消化性溃疡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 4
+    },
+    {
+        "question_text": "5.关于消化道出血，哪种说法是错误的？",
+        "options": [
+            "A.上消化道出血可有呕血及黑便",
+            "B.下消化道出血粪便多为红色或咖啡色",
+            "C.消化性溃疡是消化道出血最常见的原因",
+            "D.黄色粪便可排除消化道出血",
+            "E.上消化道出血量较大时，粪便可为暗红色"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 5
+    },
+    {
+        "question_text": "6.由于血管结构异常引起呕血的是:",
+        "options": [
+            "A.恒径动脉综合征（Dieulafoy病）",
+            "B.克罗恩病（Crohn病）",
+            "C.Mallory-Weiss综合征",
+            "D.Meniere综合征（梅尼埃综合征）",
+            "E.Meckel憩室炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 6
+    },
+    {
+        "question_text": "7.一有溃疡病史男性病人，因1小时前呕血住院，自觉出汗、心慌，查体:心率120次/分，四肢湿冷。根据上述临床表现估计出血量大约为:",
+        "options": [
+            "A.200ml",
+            "B.250ml",
+            "C.300ml",
+            "D.350ml",
+            "E.400ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 7
+    },
+    {
+        "question_text": "8.男，42岁，因呕血急诊住院，查体:心率160次/分，呼吸急促，BP:60/30mmHg。估计其出血量大约是:",
+        "options": [
+            "A.500～1500ml",
+            "B.1000～2000ml",
+            "C.1500～2500ml",
+            "D.2000～3000ml",
+            "E.3000ml以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 8
+    },
+    {
+        "question_text": "9.由于大量饮酒，呕吐，导致贲门撕裂而引起呕血的是:",
+        "options": [
+            "A.Dieulafoy综合征",
+            "B.Crohn病",
+            "C.Mallory-Weisss综合征",
+            "D.Meniere合征（梅尼埃综合征）",
+            "E.Meckel憩室炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 9
+    },
+    {
+        "question_text": "10.何为急性上消化道大量出血？",
+        "options": [
+            "A.24h内失血量至少超过500ml或循环血量的10％",
+            "B.24h内失血量至少超过1000ml或循环血量的10％",
+            "C.24h内失血量至少超过2000ml或循环血量的20％",
+            "D.24h内失血量至少超过1000ml或循环血量的20％",
+            "E.24h内失血量至少超过2000ml或循环血量的10％"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 10
+    },
+    {
+        "question_text": "11.持续性粪便潜血阳性，应首先考虑:",
+        "options": [
+            "A.慢性胃炎",
+            "B.反流性食管炎",
+            "C.消化性溃疡",
+            "D.十二指肠憩室炎",
+            "E.胃癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 11
+    },
+    {
+        "question_text": "12.呕吐大量暗红色血液最常见于:",
+        "options": [
+            "A.急性胃炎",
+            "B.急性胃粘膜病变",
+            "C.胃底、食管静脉曲张破裂出血",
+            "D.消化性溃疡并出血",
+            "E.胃癌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 12
+    },
+    {
+        "question_text": "13.消化性溃疡并上消化道大出血一般不会出现下列哪项？",
+        "options": [
+            "A.呕血黑便",
+            "B.发热",
+            "C.血尿素氮增高",
+            "D.晕厥",
+            "E.血液检查白细胞及血小板减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于上消化道出血，以下哪种说法是正确的？",
+        "options": [
+            "A.呕血者不会有黑便",
+            "B.呕血常伴黑便，而黑便不一定有呕血",
+            "C.幽门以上出血常表现呕血，无黑便",
+            "D.幽门以下出血常表现黑便，无呕血",
+            "E.上消化道出血均见黑便"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 14
+    },
+    {
+        "question_text": "15.患者，男性，34岁，既往身体健康，今饮酒后出现剧烈呕吐，开始为胃内容物，后有鲜血，诊断最可能是:",
+        "options": [
+            "A.食管贲门黏膜撕裂",
+            "B.食管胃底静脉曲张破裂",
+            "C.急性胃炎",
+            "D.慢性胃炎",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于上消化道出血，下列哪种说法是正确的？",
+        "options": [
+            "A.呕血多伴有黑便，但黑便不一定有呕血",
+            "B.呕血不一定有黑便",
+            "C.幽门以上的出血常表现为黑便，无呕血",
+            "D.幽门以下的出血常为呕血，无黑便",
+            "E.幽门以下的出血不会导致呕血"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于呕血与黑便下列哪项不正确？",
+        "options": [
+            "A.呕血为上消化道出血的表现",
+            "B.红色血便多提示下消化道出血",
+            "C.上消化道出血不会出现红色大便",
+            "D.高位小肠出血也可出现黑便",
+            "E.胃空肠吻合术后的空肠出血也属上消化道出血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 17
+    },
+    {
+        "question_text": "18.患者，男性，63岁，呕血伴反复发作的、无明显规律的上腹痛并有厌食及消瘦，该患者多考虑:",
+        "options": [
+            "A.胃癌",
+            "B.慢性胃炎",
+            "C.十二指肠炎",
+            "D.消化性溃疡",
+            "E.急性胃粘膜病变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 18
+    },
+    {
+        "question_text": "19.呕血时呕吐物为咖啡渣样，其实质为呕吐物内含有:",
+        "options": [
+            "A.血红素",
+            "B.酸化正铁血红素",
+            "C.红细胞",
+            "D.铁质",
+            "E.血红蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 19
+    },
+    {
+        "question_text": "20.大量呕血时可出现以下症状，哪项不正确？",
+        "options": [
+            "A.出血早期血象无变化",
+            "B.不出现发热",
+            "C.可出现氮质血症",
+            "D.都伴有黑便",
+            "E.某些患者出现的失血性休克可出现在呕吐前"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 20
+    },
+    {
+        "question_text": "21.剧烈呕吐后继而呕血，应警惕:",
+        "options": [
+            "A.急性胃炎",
+            "B.消化性溃疡",
+            "C.急性胃黏膜病变",
+            "D.食管静脉曲张破裂出血",
+            "E.食管喷们黏膜撕裂伤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 21
+    },
+    {
+        "question_text": "22.大面积烧伤出现呕血最常因是:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性胃粘膜病变",
+            "C.胃烧伤",
+            "D.食道粘膜撕裂伤",
+            "E.胃息肉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 22
+    },
+    {
+        "question_text": "23.消化道出血患者伴呕血者，其出血部位一般不低于:",
+        "options": [
+            "A.贲门",
+            "B.幽门",
+            "C.十二指肠球部",
+            "D.屈氏韧带",
+            "E.空肠下端"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 23
+    },
+    {
+        "question_text": "24.上消化道出血表现为呕血或黑便，主要取决于:",
+        "options": [
+            "A.出血的速度和量",
+            "B.出血部位的高低",
+            "C.病变的性质",
+            "D.凝血机制",
+            "E.胃肠蠕动情况"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 24
+    },
+    {
+        "question_text": "25.呕血伴黄疸常见于:",
+        "options": [
+            "A.胃粘膜脱垂症",
+            "B.胆道疾病",
+            "C.慢性胃炎",
+            "D.消化性溃疡",
+            "E.十二指肠炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 25
+    },
+    {
+        "question_text": "26.黄疸伴胆囊肿大最常见于:",
+        "options": [
+            "A.肝胆管以上梗阻",
+            "B.胆总管以下梗阻",
+            "C.胆囊管梗阻",
+            "D.左右肝管汇合部梗阻",
+            "E.胆囊癌肝门部转移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 26
+    },
+    {
+        "question_text": "27.呕血伴左锁骨上淋巴结肿大，多见于:",
+        "options": [
+            "A.胃溃疡",
+            "B.肺癌",
+            "C.胰腺癌",
+            "D.胃癌",
+            "E.肝癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 27
+    },
+    {
+        "question_text": "28.呕血伴冷汗、四肢厥冷、心慌、脉搏增快说明出血至少在多少血容量以上？",
+        "options": [
+            "A.10%",
+            "B.15%",
+            "C.20%",
+            "D.40%",
+            "E.30%"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 28
+    },
+    {
+        "question_text": "29.下列各项症状提示胆道出血的是:",
+        "options": [
+            "A.呕血伴慢性节律性上腹痛",
+            "B.呕血、色红、量大",
+            "C.呕咖啡样物，或黑便伴胃酸缺乏",
+            "D.呕血前有发热、黄疸、右上腹绞痛",
+            "E.呕血伴慢性肾疾患"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列各项症状提示胃癌的是:",
+        "options": [
+            "A.呕血伴慢性无节律性上腹痛",
+            "B.呕血伴黄疸、寒战",
+            "C.剧烈呕吐后呕血",
+            "D.呕血伴皮肤黏膜出血",
+            "E.呕血伴肝脾肿大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列各项症状提示消化性溃疡的是:",
+        "options": [
+            "A.呕血伴慢性节律性上腹痛",
+            "B.呕血、色红、量大",
+            "C.呕咖啡样物，或黑便伴胃酸缺乏",
+            "D.呕血前有发热、黄疸、右上腹绞痛",
+            "E.呕血伴慢性肾疾患"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 31
+    },
+    {
+        "question_text": "32.黄疸、畏寒、发烧、右上腹绞痛伴呕血，见于:",
+        "options": [
+            "A.消化性溃疡",
+            "B.胆道出血",
+            "C.急性胃粘膜病变",
+            "D.胃癌",
+            "E.胃息肉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 32
+    },
+    {
+        "question_text": "33.中老年患者，慢性上腹痛，无明显规律性伴消瘦和呕血，应警惕:",
+        "options": [
+            "A.慢性胃炎",
+            "B.消化性溃疡",
+            "C.胃癌",
+            "D.肝硬化",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 33
+    },
+    {
+        "question_text": "34.呕血伴肝掌、蜘蛛痣、腹水及腹壁静脉曲张，其出血原因为:",
+        "options": [
+            "A.消化性溃疡",
+            "B.食管胃底静脉曲张破裂",
+            "C.急性胃粘膜病变",
+            "D.Mallory-Weisss综合征",
+            "E.胃癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 34
+    }
+]

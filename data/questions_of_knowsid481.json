@@ -1,0 +1,268 @@
+[
+    {
+        "question_text": "1.关于晕厥，下列哪种说法不正确:",
+        "options": [
+            "A.晕厥也叫昏厥",
+            "B.由一过性广泛性脑供血不足引起",
+            "C.恢复缓慢",
+            "D.一般为突然发作",
+            "E.少有后遗症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于惊厥，下列哪种说法是错误的？",
+        "options": [
+            "A.惊厥与癫痫大发作的概念相同",
+            "B.惊厥时意识可以正常",
+            "C.惊厥一般表现为全身性、对称性",
+            "D.惊厥伴有瞳孔扩大、舌咬伤多见于癫痫大发作和癔症性惊厥",
+            "E.惊厥属于不随意运动"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 2
+    },
+    {
+        "question_text": "3.下列哪种疾病可导致晕厥？",
+        "options": [
+            "A.脑动脉硬化",
+            "B.偏头痛",
+            "C.重度贫血",
+            "D.低血糖",
+            "E.以上皆可"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 3
+    },
+    {
+        "question_text": "4.晕厥常见病因分类不包括:",
+        "options": [
+            "A.血管舒缩障碍",
+            "B.心源性晕厥",
+            "C.脑源性晕厥",
+            "D.周围血管疾病",
+            "E.血液成分异常"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 4
+    },
+    {
+        "question_text": "5.血液成分异常所致晕厥不包括:",
+        "options": [
+            "A.低血糖综合征",
+            "B.通气过度综合征",
+            "C.重症贫血",
+            "D.高原晕厥",
+            "E.高血钾致房室传导阻滞晕厥"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 5
+    },
+    {
+        "question_text": "6.晕厥伴呼吸急促，手足发麻、抽搐最可能为:",
+        "options": [
+            "A.体位性低血压",
+            "B.单纯性晕厥",
+            "C.换气过度综合症",
+            "D.心源性晕厥",
+            "E.咳嗽性晕厥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 6
+    },
+    {
+        "question_text": "7.长期卧床者，由卧位突然站起时发生晕厥属于:",
+        "options": [
+            "A.体位性低血压",
+            "B.单纯性晕厥",
+            "C.换气过度综合症",
+            "D.心源性晕厥",
+            "E.咳嗽性晕厥"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 7
+    },
+    {
+        "question_text": "8.有慢性肺部疾患者剧烈咳嗽后发生晕厥:",
+        "options": [
+            "A.体位性低血压",
+            "B.单纯性晕厥",
+            "C.换气过度综合症",
+            "D.心源性晕厥",
+            "E.咳嗽性晕厥"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 8
+    },
+    {
+        "question_text": "9.青年体弱女性，发作晕厥常有明显诱因，无后遗症。这种晕厥属于:",
+        "options": [
+            "A.单纯性晕厥",
+            "B.体位性低血压",
+            "C.颈动脉窦综合症",
+            "D.心源性晕厥",
+            "E.脑源性晕厥"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 9
+    },
+    {
+        "question_text": "10.用手压迫颈动脉窦或衣领过紧时发生的晕厥最可能为:",
+        "options": [
+            "A.单纯性晕厥",
+            "B.体位性低血压",
+            "C.颈动脉窦综合症",
+            "D.心源性晕厥",
+            "E.脑源性晕厥"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 10
+    },
+    {
+        "question_text": "11.偏头痛及颈椎病时基底动脉舒缩障碍可引起:",
+        "options": [
+            "A.脑源性晕厥",
+            "B.排尿性晕厥",
+            "C.咳嗽性晕厥",
+            "D.心源性晕厥",
+            "E.单纯性晕厥"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 11
+    },
+    {
+        "question_text": "12.头痛、呕吐、视听障碍可见于:",
+        "options": [
+            "A.血管抑制性晕厥",
+            "B.心源性晕厥",
+            "C.脑源性晕厥",
+            "D.心肺疾病",
+            "E.癔症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 12
+    },
+    {
+        "question_text": "13.伴有呼吸深快、手足发麻、抽搐的晕厥可见于:",
+        "options": [
+            "A.血管抑制性晕厥",
+            "B.心源性晕厥",
+            "C.脑源性晕厥",
+            "D.心肺疾病",
+            "E.癔症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于Admas-Stokes（阿-斯综合征）哪项不正确？",
+        "options": [
+            "A.属于心源性晕厥",
+            "B.发作时心脏输出量减少或心脏停搏",
+            "C.可出现抽搐",
+            "D.可以有大小便失禁",
+            "E.多出现低血糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 14
+    },
+    {
+        "question_text": "15.出现低血糖时，多出现下列症状或体征，除外:",
+        "options": [
+            "A.饥饿感",
+            "B.恶心呕吐",
+            "C.出汗",
+            "D.血压升高",
+            "E.晕厥"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 15
+    },
+    {
+        "question_text": "16.下列哪种不属于血管舒缩障碍性晕厥？",
+        "options": [
+            "A.直立性低血压",
+            "B.排尿性晕厥",
+            "C.颈动脉窦综合征",
+            "D.高血压病",
+            "E.单纯性晕厥"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 16
+    },
+    {
+        "question_text": "17.Adams-Stokes（阿-斯综合征）可见于下列哪项？",
+        "options": [
+            "A.脑梗塞",
+            "B.脑炎",
+            "C.脑外伤",
+            "D.病态窦房结综合征",
+            "E.低血糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 17
+    },
+    {
+        "question_text": "18.阿-斯综合征可见于下列哪项？",
+        "options": [
+            "A.脑梗死",
+            "B.脑炎",
+            "C.脑外伤",
+            "D.病态窦房结综合征",
+            "E.低血糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 18
+    },
+    {
+        "question_text": "19.患者、男性、40岁，平时有持续性窦性心动过缓（心率为50次/分以下），近1年偶尔出现发作性头晕、黑蒙、乏力等，严重时出现晕厥，最可能的诊断为:",
+        "options": [
+            "A.单纯性晕厥",
+            "B.心源性晕厥",
+            "C.脑源性晕厥",
+            "D.低血糖症",
+            "E.颈动脉窦综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 19
+    }
+]

@@ -1,0 +1,6078 @@
+[
+    {
+        "question_text": "1.下列哪项体征最能提示腹膜炎的存在？",
+        "options": [
+            "A.肠鸣音减弱",
+            "B.叩出移动性浊音",
+            "C.腹部压痛",
+            "D.腹部触及肿块",
+            "E.反跳痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 1
+    },
+    {
+        "question_text": "2.腹壁病变引起的腹部压痛特点是:",
+        "options": [
+            "A.抓捏腹壁疼痛加重",
+            "B.抓捏腹壁疼痛减轻",
+            "C.仰卧曲颈抬肩时减轻",
+            "D.转移性压痛",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 2
+    },
+    {
+        "question_text": "3.脐周或上腹部隐痛数小时后，转移至右下腹部疼痛时，最常出现腹部压痛部位:",
+        "options": [
+            "A.右下腹压痛",
+            "B.右上腹压痛",
+            "C.中上腹压痛",
+            "D.脐周压痛",
+            "E.下腹压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 3
+    },
+    {
+        "question_text": "4.男性，36岁，进食不洁海鲜食物后出现腹痛一天伴腹泻6次，最常出现腹部压痛的部位是:",
+        "options": [
+            "A.右下腹压痛",
+            "B.右上腹压痛",
+            "C.中上腹压痛",
+            "D.脐周压痛",
+            "E.下腹压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 4
+    },
+    {
+        "question_text": "5.女性，30岁，在月经干净后出现尿频，尿急，尿痛2天，最常出现腹部压痛的部位:",
+        "options": [
+            "A.右下腹压痛",
+            "B.右上腹压痛",
+            "C.中上腹压痛",
+            "D.脐周压痛",
+            "E.下腹压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 5
+    },
+    {
+        "question_text": "6.胃溃疡时可出现:",
+        "options": [
+            "A.上腹部偏右或脐周疼痛",
+            "B.上腹部正中或偏左疼痛",
+            "C.腰背部疼痛",
+            "D.左上腹疼痛",
+            "E.右上腹疼痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 6
+    },
+    {
+        "question_text": "7.十二指肠溃疡可出现:",
+        "options": [
+            "A.上腹部偏右或脐周疼痛",
+            "B.上腹部正中或偏左疼痛",
+            "C.腰背部疼痛",
+            "D.左上腹疼痛",
+            "E.右上腹疼痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 7
+    },
+    {
+        "question_text": "8.标志着炎症波及壁层腹膜的是:",
+        "options": [
+            "A.反跳痛",
+            "B.腹壁紧张",
+            "C.腹部压痛",
+            "D.逆蠕动波",
+            "E.肠鸣音活跃"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 8
+    },
+    {
+        "question_text": "9.哪项检查阳性标志着炎症累及腹膜壁？",
+        "options": [
+            "A.腹部压痛",
+            "B.反跳痛",
+            "C.腹壁紧张",
+            "D.脐周围蓝色",
+            "E.逆蠕动波"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 9
+    },
+    {
+        "question_text": "10.库瓦西耶（Courvoisier）征在哪种疾病阳性:",
+        "options": [
+            "A.胆囊炎",
+            "B.胆结石",
+            "C.心源性肝硬化",
+            "D.肝细胞性黄疸",
+            "E.胰头癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪项属于腹膜刺激征？",
+        "options": [
+            "A.腹部压痛，肠鸣音消失",
+            "B.全腹反跳痛，移动性浊音阳性",
+            "C.腹膨隆，腹肌紧张",
+            "D.腹肌紧张，压痛及反跳痛",
+            "E.腹部压痛，呼吸运动减弱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 11
+    },
+    {
+        "question_text": "12.肝脏触诊方法不正确的是？",
+        "options": [
+            "A.以示指前端桡侧指腹接肝",
+            "B.右手宜置于腹直肌外缘稍外处向上触诊",
+            "C.吸气时手指上抬速度要快于腹壁的抬起",
+            "D.如遇腹水患者可应用浮沉触诊法",
+            "E.如有腹部饱满，需下移初始触诊部位"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 12
+    },
+    {
+        "question_text": "13.进行肝脏触诊时，病人的最佳体位是:",
+        "options": [
+            "A.低枕仰卧，两手自然放于躯干两侧，两膝关节屈曲，做较深的腹式呼吸动作",
+            "B.低枕仰卧，两手自然交叉放于前胸下部，两膝关节屈曲，做平静的腹式呼吸动作",
+            "C.低枕仰卧，两手垫于后颈，两膝关节屈曲，做平静的腹式呼吸动作",
+            "D.低枕仰卧，两手自然放于躯干两侧，两膝关节屈曲，做较深的胸式呼吸动作",
+            "E.低枕仰卧，两手自然交叉放于前胸下部，两膝关节屈曲，做平静的胸式呼吸动作"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 13
+    },
+    {
+        "question_text": "14.以下哪项是错误的？",
+        "options": [
+            "A.肝的大小测右锁骨中线肋弓缘至肝下缘",
+            "B.肝硬度分三个等级表示",
+            "C.正常肝下缘在剑下3cm，深吸气可肋下1-2cm",
+            "D.肝癌时肝大，表面凹凸不平",
+            "E.胆囊炎时在右肋缘下多能触到肿大的胆囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 14
+    },
+    {
+        "question_text": "15.正常肝脏:",
+        "options": [
+            "A.质地柔软",
+            "B.质地稍韧",
+            "C.轻压痛",
+            "D.有搏动",
+            "E.边缘整齐，薄厚不一致"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 15
+    },
+    {
+        "question_text": "16.成人肝大小正常范围为:",
+        "options": [
+            "A.深吸气时肋缘下3cm以内",
+            "B.深吸气时肋缘下2cm以内",
+            "C.剑突尖端下3cm以内",
+            "D.剑突根部下3cm以内",
+            "E.剑突根部下6cm以内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪项不正确？",
+        "options": [
+            "A.正常人肝脏可达剑突下3cm",
+            "B.正常人脾脏肋缘下可摸及",
+            "C.正常人可摸及右肾下极",
+            "D.正常人肝脏可达右锁骨中线肋缘下1cm",
+            "E.正常人左下腹部可摸及乙状结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 17
+    },
+    {
+        "question_text": "18.正常情况下，剑突下肝脏不易触及，或即使触及，也小于:",
+        "options": [
+            "A.2～3cm",
+            "B.5cm",
+            "C.8cm",
+            "D.10cm",
+            "E.1～2cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 18
+    },
+    {
+        "question_text": "19.正常人深吸气时可在肋弓下缘触及肝下缘，但一般不超过:",
+        "options": [
+            "A.0.2cm",
+            "B.0.5cm",
+            "C.1cm",
+            "D.1.5cm",
+            "E.2cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于肝脏下缘正常大小的描述，哪项不正确？",
+        "options": [
+            "A.右锁骨中线肋缘下可触及＜2cm",
+            "B.深呼吸时剑突下可触及＜3cm",
+            "C.腹上角可触及＜5cm",
+            "D.右锁骨中线肋缘下可触及＜1cm",
+            "E.右锁骨中线上肝上下界间距离为9～11cm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 20
+    },
+    {
+        "question_text": "21.触及肝脏时对其性质的判断，下列叙述正确的是:",
+        "options": [
+            "A.肝脏质地如鼻尖为质硬",
+            "B.肝脏质软多为慢性肝炎",
+            "C.肝脏质韧表示正常",
+            "D.肝脏质硬见于肝硬变、肝癌",
+            "E.肝淤血时肝脏质硬"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 21
+    },
+    {
+        "question_text": "22.肝触诊较为常用的方法是:",
+        "options": [
+            "A.双手触诊法",
+            "B.钩指触诊法",
+            "C.单手触诊法",
+            "D.冲击触诊法",
+            "E.浅部触诊法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 22
+    },
+    {
+        "question_text": "23.肝脏质地坚硬可见于:",
+        "options": [
+            "A.急性肝炎",
+            "B.肝脓肿",
+            "C.肝癌",
+            "D.心功能不全",
+            "E.急性肝炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 23
+    },
+    {
+        "question_text": "24.肝呈弥漫性肿大，质如鼻尖，常见疾病是:",
+        "options": [
+            "A.肝淤血",
+            "B.脂肪肝",
+            "C.肝囊肿",
+            "D.急性肝炎",
+            "E.肝硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 24
+    },
+    {
+        "question_text": "25.Cullen症可见于:",
+        "options": [
+            "A.长久局部热敷",
+            "B.晚期妊娠",
+            "C.消化道内大量积血",
+            "D.坏死性胰腺炎",
+            "E.卵巢囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 25
+    },
+    {
+        "question_text": "26.肝癌者触肝最突出的体征是:",
+        "options": [
+            "A.肝逐渐肿大",
+            "B.表面有结节",
+            "C.压痛明显",
+            "D.质硬如石",
+            "E.边缘不齐"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 26
+    },
+    {
+        "question_text": "27.肝逐渐肿大，质地坚硬如石，有结节，最常见:",
+        "options": [
+            "A.肝淤血",
+            "B.慢性肝炎",
+            "C.肝癌",
+            "D.脂肪肝",
+            "E.急性肝炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 27
+    },
+    {
+        "question_text": "28.肝脏呈扩张性博动见于:",
+        "options": [
+            "A.二尖瓣关闭不全",
+            "B.三尖瓣关闭不全",
+            "C.肝肿大压到腹主动脉上",
+            "D.肝癌",
+            "E.肝缩小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 28
+    },
+    {
+        "question_text": "29.关于肝下移的含义下列哪条不正确？",
+        "options": [
+            "A.右锁骨中线的肝上界低于第5肋间",
+            "B.右锁骨中线肋缘下＞1cm，腹上角＞5cm",
+            "C.肝质地柔软，表面光滑且无压痛",
+            "D.肝下界常见于内脏下垂、肺气肿、右胸腔大量积液",
+            "E.肝上、下径间距离＞9～11cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 29
+    },
+    {
+        "question_text": "30.肝局限性压痛常见于:",
+        "options": [
+            "A.急性肝炎",
+            "B.肝瘀血",
+            "C.脂肪肝",
+            "D.肝脓肿",
+            "E.肝硬化"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 30
+    },
+    {
+        "question_text": "31.局限性肝肿大见于:",
+        "options": [
+            "A.Budd-ChiAri综合征",
+            "B.肝肿瘤",
+            "C.白血病",
+            "D.血吸虫病",
+            "E.华支睾吸虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 31
+    },
+    {
+        "question_text": "32.弥漫性肝肿大在临床上最常见于下列哪种疾病？",
+        "options": [
+            "A.肝肿瘤",
+            "B.肝脓肿",
+            "C.病毒性肝炎",
+            "D.胆结石",
+            "E.肝囊肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 32
+    },
+    {
+        "question_text": "33.重度肝大不见于:",
+        "options": [
+            "A.肝癌",
+            "B.早期肝硬化",
+            "C.血吸虫病",
+            "D.原发性胆汁性肝硬化",
+            "E.多囊肝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列哪一项能肯定肝脏确实肿大？",
+        "options": [
+            "A.肝下缘肋下刚可触及",
+            "B.肝下缘肋下2cm",
+            "C.于锁中线处肝上界至肝下缘距离为10cm",
+            "D.肝下缘于剑下3cm",
+            "E.于锁中线处肝上界至肝下缘距离13cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 34
+    },
+    {
+        "question_text": "35.肝呈弥漫性肿大，质软常见疾病是:",
+        "options": [
+            "A.肝淤血",
+            "B.脂肪肝",
+            "C.肝囊肿",
+            "D.肝脓肿",
+            "E.慢性肝炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列关于肝脏肿大的说法哪一项是错误的？",
+        "options": [
+            "A.一般肋缘下触不到",
+            "B.瘦长体型于深吸气时可于肋弓下触及肝下缘，在1cm以内",
+            "C.在剑突下可触及肝下缘，在3cm以内；",
+            "D.腹上角较锐的瘦长者剑突根部下可达5cm，但不超过剑突根部至脐距离的中、下1/3交界处",
+            "E.正常肝界于锁骨中线处肝浊音界至肝下缘距离13cm"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列哪种疾病引起的肝肿大不属于瘀血性的？",
+        "options": [
+            "A.缩窄性心包炎",
+            "B.高血压心脏病全心衰",
+            "C.二尖瓣狭窄心力衰竭",
+            "D.门脉性肝硬化",
+            "E.大量心包积液"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 37
+    },
+    {
+        "question_text": "38.诊断原发性肝癌以下哪项检查最具特异性？",
+        "options": [
+            "A.肝大，质硬",
+            "B.肝区疼痛",
+            "C.同位素肝扫描区有占位性病变",
+            "D.血清AKP升高",
+            "E.以上均不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 38
+    },
+    {
+        "question_text": "39.肝颈静脉回流征阳性见于:",
+        "options": [
+            "A.慢性肝炎",
+            "B.肝癌",
+            "C.上腔静脉综合症",
+            "D.心包积液",
+            "E.肝硬化门静脉高压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 39
+    },
+    {
+        "question_text": "40.肝颈回流征阳性不正确的描述是:",
+        "options": [
+            "A.压迫肝脏使颈静脉怒张更明显",
+            "B.压迫肝脏使颈静脉怒张消失",
+            "C.是右心功能不全的表现之一",
+            "D.肝脏淤血肿大",
+            "E.左心功能不全一般无此体征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 40
+    },
+    {
+        "question_text": "41.检查正常人脾脏，下列哪项是正确的？",
+        "options": [
+            "A.仰卧位可触及",
+            "B.右侧卧位吸气时可触及",
+            "C.左侧卧位可触及",
+            "D.坐位前倾可触及",
+            "E.以上都不是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 41
+    },
+    {
+        "question_text": "42.脾触诊时由下而上开始触诊的部位是:",
+        "options": [
+            "A.脐水平线",
+            "B.左、右上腹部",
+            "C.双髂前上棘水平线",
+            "D.腹股沟",
+            "E.左、右肋缘下"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 42
+    },
+    {
+        "question_text": "43.触诊正常脾脏，下列叙述哪项正确？",
+        "options": [
+            "A.坐位可触及",
+            "B.左侧卧位可触及",
+            "C.右侧卧位可触及",
+            "D.仰卧位可触及",
+            "E.正常情况下脾不能触及"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 43
+    },
+    {
+        "question_text": "44.脾脏触诊方法正确的是:",
+        "options": [
+            "A.病人仰卧位，医生手掌与肋部大致成垂直方向",
+            "B.病人取仰卧位，医生右手掌与肋弓大致成平行",
+            "C.病人取右侧卧位时，右下肢屈曲，左下肢伸直",
+            "D.病人取左侧卧位时，右下肢伸直，左下肢屈曲",
+            "E.呼气时向肋部方向迎触脾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 44
+    },
+    {
+        "question_text": "45.脾脏轻度肿大病人应采用哪种体位最易触及？",
+        "options": [
+            "A.低枕仰卧两手自然放于躯干两侧，两膝关节屈曲，做较深的腹式呼吸动作",
+            "B.右侧卧位，右下肢伸直，左下肢屈曲，做较深的腹式呼吸运动",
+            "C.右侧卧位，双下肢屈曲，做较深的腹式呼吸运动",
+            "D.身体前倾站立床旁，做较深的腹式呼吸运动",
+            "E.屈胸膝卧位，做较深的腹式呼吸运动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 45
+    },
+    {
+        "question_text": "46.触诊肾脏时，常采用哪种手法？",
+        "options": [
+            "A.浅部触诊法",
+            "B.深部滑行触诊法",
+            "C.深插触诊法",
+            "D.双手触诊法（双合诊法）",
+            "E.冲击触诊法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 46
+    },
+    {
+        "question_text": "47.关于脾脏肿大的测量法，下列哪项是错误的？",
+        "options": [
+            "A.第I线测量指左肋缘至脾下缘的距离",
+            "B.第Ⅱ线测量指左锁骨中线与左肋缘交点至脾最远点的距离",
+            "C.第Ⅲ线测量指脾右缘与前正中线距离",
+            "D.脾轻度肿大只作第I线测量",
+            "E.脾明显肿大时，应加作第线测量和第线测量"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 47
+    },
+    {
+        "question_text": "48.关于脾肿大分度及测量法，下列哪项是错误的？",
+        "options": [
+            "A.深吸气时，脾缘不超过肋下3cm为轻度",
+            "B.超前正中线也为高度肿大",
+            "C.超过2cm至脐水平以上为中度肿大",
+            "D.超过脐水平线为高度肿大",
+            "E.脾高度肿大向右越过正中线，则测量脾右缘至正中线的最大距离"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 48
+    },
+    {
+        "question_text": "49.临床上将脾肿大分为轻、中、高三度，其中轻度脾肿大于深吸气时不超过肋下:",
+        "options": [
+            "A.1.0cm",
+            "B.1.5cm",
+            "C.2.0cm",
+            "D.2.5cm",
+            "E.3.0cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 49
+    },
+    {
+        "question_text": "50.脾脏第一测量指:",
+        "options": [
+            "A.左锁骨中线与左肋缘交点至脾最远点的距离",
+            "B.左锁骨中线与左肋缘交点至脾下缘的距离",
+            "C.脾右缘与前正中线的距离",
+            "D.脐至脾下缘的距离",
+            "E.脾右缘与脐的距离"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 50
+    },
+    {
+        "question_text": "51.脾脏中度肿大指:",
+        "options": [
+            "A.脾缘不超过肋下2cm",
+            "B.脾缘超过肋下2cm至脐水平线以上",
+            "C.脾缘超过肋下3cm至脐水平线上",
+            "D.脾缘超过脐水平线",
+            "E.脾缘超过前正中线"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 51
+    },
+    {
+        "question_text": "52.巨脾是指:",
+        "options": [
+            "A.肋下触及脾脏",
+            "B.脾大在肋下2cm",
+            "C.脾大在肋下3cm",
+            "D.脾大达脐水平线",
+            "E.脾大超过脐水平线"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 52
+    },
+    {
+        "question_text": "53.肿大的脾触诊时显著特征是:",
+        "options": [
+            "A.形态不规则，表面凸凹不平",
+            "B.边缘及表面光滑",
+            "C.质软，压痛",
+            "D.质硬，轻压痛",
+            "E.有明显切迹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 53
+    },
+    {
+        "question_text": "54.在左锁骨中线肋缘下触诊脾脏大小时，哪一种描述最正确？",
+        "options": [
+            "A.脾缘不超过2cm为轻度肿大，脾缘＞2cm至脐水平线以上为中度肿大，脾缘超过脐水平或前正中线为巨脾",
+            "B.正常情况下脾缘能触及但不超过1cm",
+            "C.脾下移时，脾缘能触及但不超过2cm",
+            "D.左侧胸腔积液时，脾缘可触及但质地柔软",
+            "E.脾肿大时，脾区叩诊前界不超过腋前线"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 54
+    },
+    {
+        "question_text": "55.脾轻度肿大见于下列各项，但除外:",
+        "options": [
+            "A.急、慢性肝炎",
+            "B.伤寒",
+            "C.粟粒结核",
+            "D.骨髓纤维化",
+            "E.急性疟疾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 55
+    },
+    {
+        "question_text": "56.肿大脾脏与腹腔肿块的主要鉴别点是:",
+        "options": [
+            "A.质地",
+            "B.活动度",
+            "C.叩诊音不同",
+            "D.有无切迹",
+            "E.部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 56
+    },
+    {
+        "question_text": "57.不会出现脾脏轻度肿大的疾病是:",
+        "options": [
+            "A.亚急性感染性心内膜炎",
+            "B.急、慢性肝炎",
+            "C.粟粒型结核",
+            "D.骨髓纤维化",
+            "E.伤寒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 57
+    },
+    {
+        "question_text": "58.轻度肿大的脾脏在仰卧位时触不到，医生可用双手触诊，病人应取哪种体位？",
+        "options": [
+            "A.右侧卧位，右下肢伸直，左下肢屈曲",
+            "B.右侧卧位，右下肢屈曲，左下肢伸直",
+            "C.右侧卧位，双下肢屈曲",
+            "D.左侧卧位，双下肢屈曲",
+            "E.左侧卧位，双下肢位置同B"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 58
+    },
+    {
+        "question_text": "59.下列哪些疾病不会导致脾脏肿大？",
+        "options": [
+            "A.伤寒病",
+            "B.急性疟疾",
+            "C.病毒性肝炎",
+            "D.慢性白血病",
+            "E.肝硬化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 59
+    },
+    {
+        "question_text": "60.关于胆囊触诊的描述，下述哪项最正确？",
+        "options": [
+            "A.正常胆囊常不能触及",
+            "B.胆囊肿大时，在右肋缘下腹直肌外缘可触及梨形或卵圆形囊性物",
+            "C.未触及胆囊肿大时，用左手掌平放于病人右胸下部，用拇指指腹勾压于右肋下胆囊处，如嘱病人深吸气时出现胆囊点疼痛称为胆囊触痛征阳性",
+            "D.Murphy征阳性是指出现胆囊触痛征阳性的病人伴有吸气动作终止现象",
+            "E.以上均正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 60
+    },
+    {
+        "question_text": "61.麦氏点位于:",
+        "options": [
+            "A.右侧腹直肌外缘与肋弓交界处",
+            "B.脐水平线上腹直肌外缘（右侧）",
+            "C.两髂前上棘连线与通过右侧耻骨结节垂直线的相交点",
+            "D.右髂前上棘与脐的连线的中、外1/3交界处",
+            "E.第12肋骨与腰肌外缘的交角"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 61
+    },
+    {
+        "question_text": "62.急性胆囊炎可能出现如下重要体征:",
+        "options": [
+            "A.腹痛、黄疸、库凡济埃氏征",
+            "B.腹痛、黄疸、发热、Murphy氏征阳性",
+            "C.发热伴右腰背部叩痛",
+            "D.剑突下或右上腹部轻压痛",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 62
+    },
+    {
+        "question_text": "63.诊断急性阑尾炎的重要依据是:",
+        "options": [
+            "A.转移性右下腹痛",
+            "B.McBurney点压痛和反跳痛",
+            "C.按压左下腹突然松手引起右下腹疼痛",
+            "D.腰大肌征阳性",
+            "E.直肠指检局部溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 63
+    },
+    {
+        "question_text": "64.McBurney点压痛伴局限性右下腹肌紧张多见于:",
+        "options": [
+            "A.急性膜腺炎",
+            "B.急性胆囊炎",
+            "C.急性阑尾炎",
+            "D.急性胃肠炎",
+            "E.急性结肠炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 64
+    },
+    {
+        "question_text": "65.急性阑尾炎，当腹痛尚未转移至右下腹前，最具诊断意义的是:",
+        "options": [
+            "A.发热",
+            "B.白细胞升高",
+            "C.脐区压痛及反跳痛",
+            "D.脐区及右下腹均有压痛、反跳痛",
+            "E.压痛已固定在右下腹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 65
+    },
+    {
+        "question_text": "66.胆囊肿大、无压痛，伴显著黄疽，应考虑:",
+        "options": [
+            "A.胆囊炎",
+            "B.胆管炎",
+            "C.胰头癌",
+            "D.胆囊结石",
+            "E.胆总管结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 66
+    },
+    {
+        "question_text": "67.患壶腹周围癌时，胆囊肿大呈:",
+        "options": [
+            "A.囊性感，有轻压痛",
+            "B.囊性感，有明显增加压痛",
+            "C.囊性感，无压痛",
+            "D.实性感，有轻压痛",
+            "E.实性感，有明显压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 67
+    },
+    {
+        "question_text": "68.腹部检查时发现胆囊肿大、无压痛，但伴有皮肤、巩膜明显黄染，首先考虑哪一种病变？",
+        "options": [
+            "A.胰头癌",
+            "B.胰体癌",
+            "C.急性胆囊炎",
+            "D.急性胆管炎",
+            "E.急性黄疸型肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 68
+    },
+    {
+        "question_text": "69.查体时发现胆囊肿大有压痛，见于:",
+        "options": [
+            "A.慢性胆囊炎",
+            "B.急性胆囊炎",
+            "C.胆囊癌",
+            "D.胰头癌",
+            "E.健康查体时B超诊断胆囊炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 69
+    },
+    {
+        "question_text": "70.Murphy征阳性见于:",
+        "options": [
+            "A.急性肝炎",
+            "B.急性胃炎",
+            "C.急性胆囊炎",
+            "D.急性胰腺炎",
+            "E.急性阑尾炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 70
+    },
+    {
+        "question_text": "71.胆囊炎疼痛可牵涉至:",
+        "options": [
+            "A.上腹及脐周",
+            "B.右肩",
+            "C.左肩",
+            "D.胸骨后",
+            "E.胸部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 71
+    },
+    {
+        "question_text": "72.胆囊炎时可出现:",
+        "options": [
+            "A.上腹部偏右或脐周疼痛",
+            "B.上腹部正中或偏左疼痛",
+            "C.腰背部疼痛",
+            "D.左上腹疼痛",
+            "E.右上腹疼痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 72
+    },
+    {
+        "question_text": "73.下列哪项不符合胆囊肿大所见？",
+        "options": [
+            "A.梨形或圆形肿物",
+            "B.位于右上腹表浅",
+            "C.随呼吸上下移动",
+            "D.自左向右蠕动",
+            "E.触诊呈囊性感"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 73
+    },
+    {
+        "question_text": "74.肾脏常用的触诊法是:",
+        "options": [
+            "A.深部滑行触诊法",
+            "B.冲击触诊法",
+            "C.双手触诊法",
+            "D.单手触诊法",
+            "E.勾指触诊法"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 74
+    },
+    {
+        "question_text": "75.关于肾下垂的描述，正确的是:",
+        "options": [
+            "A.在深吸气时能触及肾下级",
+            "B.在深吸气时能触及1/6以上的肾",
+            "C.在深吸气时能触及到1/2以上的肾",
+            "D.在深吸气时能触及2/3以上的肾",
+            "E.在深吸气时能触及1/4以上的肾"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 75
+    },
+    {
+        "question_text": "76.关于肾脏检查，有关的压痛点，正确的是:",
+        "options": [
+            "A.脐水平线腹直肌外缘为中输尿管点",
+            "B.髂前上棘水平线腹直肌外缘为中输尿管点",
+            "C.髂前上棘水平线腹直肌外缘为下输尿管",
+            "D.第10肋下缘为季肋点",
+            "E.背部第12肋下缘为季肋点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 76
+    },
+    {
+        "question_text": "77.下列哪项不属于肾脏和输尿管病变引起的压痛点？",
+        "options": [
+            "A.第12肋骨与脊柱的夹角",
+            "B.脐水平线上腹直肌外缘",
+            "C.第12肋骨与腰肌外缘的夹角",
+            "D.脐与髂前上棘连线中外1/3交界处",
+            "E.腹直肌外缘与肋弓的交点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 77
+    },
+    {
+        "question_text": "78.正常人肾脏不易触及，有时可触及右肾下极，当深吸气时能触及1/2以上肾脏，但大小正常，表面光滑，无压痛者常表示哪种疾病？",
+        "options": [
+            "A.肾盂积水",
+            "B.肾盂积脓",
+            "C.肾肿瘤",
+            "D.肾下垂",
+            "E.多囊肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 78
+    },
+    {
+        "question_text": "79.触诊前列腺发现前列腺肿大，质硬，并可触及坚硬结节者，多为:",
+        "options": [
+            "A.前列腺癌",
+            "B.良性前列腺肥大",
+            "C.前列腺结核",
+            "D.急性前列腺炎",
+            "E.前列腺囊肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 79
+    },
+    {
+        "question_text": "80.前列腺位于膀胱下方，为尿道根部的实质性附属性腺，其形状和大小最接近下列哪一项？",
+        "options": [
+            "A.栗子",
+            "B.蚕豆",
+            "C.核桃",
+            "D.花生",
+            "E.葡萄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 80
+    },
+    {
+        "question_text": "81.正常胰腺柔软，不易触及，关于它在腹部位置的描述，下列哪项不正确？",
+        "options": [
+            "A.位于腹膜后位置较深",
+            "B.横位于第1、2腰椎处",
+            "C.横位于脐上5～10cm处",
+            "D.有时候下垂至脐部",
+            "E.胰头、颈部位于中线偏右，胰体、尾部位于中线偏左"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 81
+    },
+    {
+        "question_text": "82.急性胰腺炎属于:",
+        "options": [
+            "A.细菌性感染",
+            "B.病毒性感染",
+            "C.化学性刺激",
+            "D.原虫性感染",
+            "E.机械性梗阻"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 82
+    },
+    {
+        "question_text": "83.下列哪一种不是病理性腹部包块？",
+        "options": [
+            "A.脏器肿大",
+            "B.炎性包块",
+            "C.肿瘤",
+            "D.乙状结肠粪块",
+            "E.包囊虫病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 83
+    },
+    {
+        "question_text": "84.用食指和中指的指腹贴于剑突下部肝脏表面的方法来区别肝脏的搏动是由于右心室肥大还是腹住动脉搏动的传导所致，下列哪项描述正确？",
+        "options": [
+            "A.搏动于呼气时期明显为右心室肥大",
+            "B.搏动于吸气时期明显为右心室肥大",
+            "C.搏动于呼气和吸气均明显为右心室肥大",
+            "D.搏动在深压时明显为主动脉搏动",
+            "E.搏动在浅表触诊时明显为主动脉搏动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 84
+    },
+    {
+        "question_text": "85.左侧腹部扪及包块，下列哪种疾病应除外？",
+        "options": [
+            "A.巨脾",
+            "B.左肾积液",
+            "C.回盲部肿瘤",
+            "D.游走肾",
+            "E.降结肠肿瘤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 85
+    },
+    {
+        "question_text": "86.某患者上腹偏左可触及6cm×2.5cm×3cm大小卵圆形、表面光滑、有囊性感、无明显压痛的包块，可能性较大是:",
+        "options": [
+            "A.肝左叶肿大",
+            "B.横结肠",
+            "C.胰腺癌",
+            "D.胃癌",
+            "E.胰腺囊肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 86
+    },
+    {
+        "question_text": "87.个黄疸病人右上腹触及一无痛性囊性包块，最有可能的疾病是:",
+        "options": [
+            "A.肝脓肿",
+            "B.肝硬化",
+            "C.急性胆囊炎",
+            "D.胰头癌",
+            "E.肝癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 87
+    },
+    {
+        "question_text": "88.患者，女性、45岁，进行性贫血一年，查体左肋缘下触到包块，位置较深，边缘钝，无切迹，随呼吸上下移动，质地不硬，应考虑为:",
+        "options": [
+            "A.增大的左肾",
+            "B.脾",
+            "C.胰尾部囊肿",
+            "D.结肠",
+            "E.肿大的肝左叶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 88
+    },
+    {
+        "question_text": "89.液波震颤（波动感）阳性能查出的腹水量为:",
+        "options": [
+            "A.0～1000ml",
+            "B.1000～2000m1",
+            "C.2000～3000ml",
+            "D.3000～4000ml",
+            "E.4000～5000ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 89
+    },
+    {
+        "question_text": "90.当腹腔内有大量液体时，如用手触击腹部可感到液波震颤，此种检查腹水的方法，腹腔内需要的游离液体的量是:",
+        "options": [
+            "A.大于1000ml",
+            "B.大于500ml",
+            "C.大于2000ml",
+            "D.大于2500ml",
+            "E.大于3000ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 90
+    },
+    {
+        "question_text": "91.下列哪项体征提示有大量腹水的存在？",
+        "options": [
+            "A.水坑征",
+            "B.移动性浊音",
+            "C.液波感",
+            "D.振水音",
+            "E.蠕动波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 91
+    },
+    {
+        "question_text": "92.振水音阳性常见于:",
+        "options": [
+            "A.幽门梗阻",
+            "B.急性胃炎",
+            "C.胃体部溃疡",
+            "D.肠梗阻",
+            "E.以上均是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 92
+    },
+    {
+        "question_text": "93.餐后多久仍出现振水音即提示有胃扩张:",
+        "options": [
+            "A.4～6小时",
+            "B.6～8小时",
+            "C.8～10小时",
+            "D.10～12小时",
+            "E.12小时以上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 93
+    },
+    {
+        "question_text": "94.振水音阳性见于:",
+        "options": [
+            "A.幽门梗阻",
+            "B.结核性腹膜炎",
+            "C.肝硬化腹水",
+            "D.肾病综合症",
+            "E.急性肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 94
+    },
+    {
+        "question_text": "95.空腹或饭后6～8小时仍有振水音出现，提示:",
+        "options": [
+            "A.十二指肠球部溃疡",
+            "B.急性肠炎",
+            "C.腹膜炎",
+            "D.胃排空障碍",
+            "E.胆道梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 95
+    },
+    {
+        "question_text": "96.腹部振水音通常见于:",
+        "options": [
+            "A.幽门梗阻",
+            "B.腹水",
+            "C.胸水",
+            "D.尿潴留",
+            "E.巨大卵巢囊肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 96
+    },
+    {
+        "question_text": "97.空腹听诊出现振水音，可见于:",
+        "options": [
+            "A.肝硬化腹水",
+            "B.肾病综合征",
+            "C.结核性腹膜炎",
+            "D.幽门梗阻",
+            "E.急性肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 97
+    },
+    {
+        "question_text": "98.上腹部听到振水音时多见于:",
+        "options": [
+            "A.胃溃疡",
+            "B.胃扩张",
+            "C.急性胃肠炎",
+            "D.慢性胃炎",
+            "E.十二指肠球部溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 98
+    },
+    {
+        "question_text": "99.幽门梗阻时体格检查有:",
+        "options": [
+            "A.肠型",
+            "B.移动性浊音",
+            "C.液波震颤",
+            "D.振水音",
+            "E.全腹膨隆"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 99
+    },
+    {
+        "question_text": "100.正常哪项不会出现振水音？",
+        "options": [
+            "A.正常人餐后1小时",
+            "B.正常人大量饮水后",
+            "C.正常人清晨空腹",
+            "D.幽门梗阻",
+            "E.胃扩张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 100
+    },
+    {
+        "question_text": "101.多长时间听不到肠鸣音为肠鸣音消失？",
+        "options": [
+            "A.＜1min",
+            "B.1～3min",
+            "C.2～3min",
+            "D.3～4min",
+            "E.3～5min"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 101
+    },
+    {
+        "question_text": "102.清晨空腹或餐后6～8小时，用冲击触诊法，在上腹部可听到气液撞击的声音是:",
+        "options": [
+            "A.振水音",
+            "B.Murphy征",
+            "C.Courvoisier征",
+            "D.肝震颤",
+            "E.腹壁静脉曲张常可听到静脉血管杂音"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 102
+    },
+    {
+        "question_text": "103.某患者因上腹部胀痛不适，清晨未进食来院就诊，检查发现上腹部有振水音。该患者最大可能是:",
+        "options": [
+            "A.正常情况",
+            "B.胃内大量液体潴留",
+            "C.腹腔内有大量液体",
+            "D.胃内有大量气体",
+            "E.腹腔内有气体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 103
+    },
+    {
+        "question_text": "104.下列哪项体征提示有小量腹水存在？",
+        "options": [
+            "A.腹部向前隆起",
+            "B.最大腹围在脐孔水平以下",
+            "C.水坑征阳性",
+            "D.有振水音",
+            "E.平卧位时，腹部叩诊中部呈鼓音，侧腹为浊音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 104
+    },
+    {
+        "question_text": "105.正常情况下腹部叩诊是:",
+        "options": [
+            "A.清音",
+            "B.浊音",
+            "C.过清音",
+            "D.移动性浊音",
+            "E.肝脾区呈浊音，其余为鼓音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 105
+    },
+    {
+        "question_text": "106.关于腹部叩诊，下列叙述哪项正确？",
+        "options": [
+            "A.正常腹部叩诊大部分区域均为鼓音",
+            "B.正常腹部叩诊除肝脾所在部位，余为鼓音",
+            "C.胃肠穿孔时，肝绝对浊音区扩大",
+            "D.腹部叩诊音包括鼓音、浊音、过清音",
+            "E.肺气肿时肝浊音界上移"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 106
+    },
+    {
+        "question_text": "107.最灵敏的检查腹部游离腹水的体位是:",
+        "options": [
+            "A.平卧屈膝位",
+            "B.侧卧屈膝位",
+            "C.站立位",
+            "D.肘膝位",
+            "E.半卧位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 107
+    },
+    {
+        "question_text": "108.腹部叩诊鼓音范围缩小见于:",
+        "options": [
+            "A.肝脾极度肿大",
+            "B.胃肠高度胀气",
+            "C.人工气腹",
+            "D.胃肠穿孔",
+            "E.肠梗阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 108
+    },
+    {
+        "question_text": "109.关于腹部叩诊发现的描述，哪一项最正确？",
+        "options": [
+            "A.腹部叩诊大部分区域均为鼓音",
+            "B.肝脾所在部位叩诊为浊音",
+            "C.腹腔内肿瘤或大量腹水时，腹部叩诊鼓音区缩小",
+            "D.胃肠胀气则腹部叩诊鼓音",
+            "E.以上描述均正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 109
+    },
+    {
+        "question_text": "110.关于腹部叩诊发现的描述，不正确的是:",
+        "options": [
+            "A.腹部叩诊大部分区域均为鼓音",
+            "B.肝脾所在部位叩诊为浊音",
+            "C.腹腔内肿瘤或大量腹水时，腹部叩诊鼓音区缩小",
+            "D.胃肠胀气则腹部叩诊鼓音区扩大",
+            "E.胃肠穿孔时，则鼓音区缩小"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 110
+    },
+    {
+        "question_text": "111.腹部胀大，叩诊两侧腹部鼓音，中腹部为浊音，不应见于哪一种疾病？",
+        "options": [
+            "A.卵巢囊肿",
+            "B.妊娠子宫",
+            "C.子宫肌瘤",
+            "D.腹水",
+            "E.尿潴留"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 111
+    },
+    {
+        "question_text": "112.确定肝上界时一般沿那几条线叩诊？",
+        "options": [
+            "A.前正中线、右腋中线、右肩胛线",
+            "B.前正中线、右腋中线、后正中线",
+            "C.右锁骨中线、右腋前线、右腋中线",
+            "D.右锁骨中线、右腋中线、右肩胛线",
+            "E.右锁骨中线、右腋前线、右肩胛线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 112
+    },
+    {
+        "question_text": "113.正常肝脏叩诊上界至下界的距离为:",
+        "options": [
+            "A.3～5cm",
+            "B.5～7cm",
+            "C.7～9cm",
+            "D.9～11cm",
+            "E.11～13cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 113
+    },
+    {
+        "question_text": "114.肝上下径间距离，是指在右锁骨中线上所叩的肝界，其正常范围应是:",
+        "options": [
+            "A.7～9cm",
+            "B.8～10cm",
+            "C.9～11cm",
+            "D.10～12cm",
+            "E.11～13cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 114
+    },
+    {
+        "question_text": "115.均称体型正常人肝叩诊相对浊音界，哪项是错误的？",
+        "options": [
+            "A.右锁骨中线第5肋间",
+            "B.右锁骨中线上下径约为9～11cm",
+            "C.右腋中线第8肋间",
+            "D.右肩胛线第10肋骨水平",
+            "E.肝绝对浊音界比相对浊音界低1-2肋间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 115
+    },
+    {
+        "question_text": "116.匀称体型者正常肝上界位于:",
+        "options": [
+            "A.右锁骨中线上第4肋间",
+            "B.右锁骨中线上第5肋间",
+            "C.右锁骨中线上第6肋间",
+            "D.右锁骨中线上第8肋间",
+            "E.右锁骨中线上第9肋间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 116
+    },
+    {
+        "question_text": "117.肝上界为:",
+        "options": [
+            "A.肝绝对浊音界",
+            "B.肝相对浊音界",
+            "C.膈顶部",
+            "D.肺下界",
+            "E.不被肺遮盖部分的上缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 117
+    },
+    {
+        "question_text": "118.叩诊肝上界哪项符合正力型体型者？",
+        "options": [
+            "A.右锁骨中线第6肋间",
+            "B.右腋线第7肋间",
+            "C.右腋后线第10肋间",
+            "D.右肩胛线上难以叩清楚",
+            "E.肝上界为浊音和实音的交界处"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 118
+    },
+    {
+        "question_text": "119.下列哪种情况出现肝浊音界消失？",
+        "options": [
+            "A.膈下脓肿",
+            "B.急性肝坏死",
+            "C.急性胃肠穿孔",
+            "D.肝癌",
+            "E.肺气肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 119
+    },
+    {
+        "question_text": "120.肝浊音界向上移位可除外:",
+        "options": [
+            "A.右肺纤维化",
+            "B.右下肺不张",
+            "C.气腹",
+            "D.鼓肠",
+            "E.右侧张力性气胸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 120
+    },
+    {
+        "question_text": "121.肝浊音界缩小或消失可除外:",
+        "options": [
+            "A.爆发性肝炎",
+            "B.急性胃肠穿孔",
+            "C.胃溃疡",
+            "D.肝硬化",
+            "E.胃肠胀气"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 121
+    },
+    {
+        "question_text": "122.肝肿大不应出现于哪一种疾病？",
+        "options": [
+            "A.急性肝炎",
+            "B.脂肪肝",
+            "C.肝淤血",
+            "D.肝糖原累积症",
+            "E.晚期肝硬化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 122
+    },
+    {
+        "question_text": "123.肝浊音界消失见于:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.急性胃炎",
+            "C.急性胰腺炎",
+            "D.急性阑尾炎",
+            "E.溃疡病穿孔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 123
+    },
+    {
+        "question_text": "124.肝脏浊音区缩小常见于哪些疾病？",
+        "options": [
+            "A.肝淤血",
+            "B.肝硬化",
+            "C.暴发性肝炎",
+            "D.脂肪肝",
+            "E.多囊肝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 124
+    },
+    {
+        "question_text": "125.急性胃肠穿孔的特征性体征是:",
+        "options": [
+            "A.肝浊音界下移",
+            "B.移动性浊音阳性",
+            "C.肝浊音界上移",
+            "D.肝浊音界缩小",
+            "E.肝浊音界消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 125
+    },
+    {
+        "question_text": "126.下列哪种病变可使肝浊音界下移？",
+        "options": [
+            "A.肺不张",
+            "B.肺气肿",
+            "C.大叶性肺炎",
+            "D.肝硬化",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 126
+    },
+    {
+        "question_text": "127.肝脏浊音区消失常见于哪些疾病？",
+        "options": [
+            "A.肝癌",
+            "B.肝淤血",
+            "C.急性肝坏死",
+            "D.肝囊肿",
+            "E.急性胃穿孔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 127
+    },
+    {
+        "question_text": "128.肝浊音界消失可见于:",
+        "options": [
+            "A.右侧气胸",
+            "B.胃肠胀气",
+            "C.腹部手术后数日内",
+            "D.胃十二指肠溃疡",
+            "E.右肺不张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 128
+    },
+    {
+        "question_text": "129.肝浊音界缩小常见于:",
+        "options": [
+            "A.肝脓肿",
+            "B.肝癌",
+            "C.肝包虫病",
+            "D.肠麻痹胀气",
+            "E.胃肠穿孔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 129
+    },
+    {
+        "question_text": "130.肝浊音区增大见于:",
+        "options": [
+            "A.肠麻痹胀气",
+            "B.肝坏死",
+            "C.肝脓肿",
+            "D.胃肠穿孔",
+            "E.人工气腹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 130
+    },
+    {
+        "question_text": "131.肝浊音界消失代之以鼓音者最重要的临床疾病是:",
+        "options": [
+            "A.人工气腹术",
+            "B.全内脏转位",
+            "C.间位结肠",
+            "D.右侧气胸",
+            "E.急性胃肠穿孔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 131
+    },
+    {
+        "question_text": "132.下列体征均可用叩诊法检查，除了:",
+        "options": [
+            "A.肺下缘移动度",
+            "B.肝大小",
+            "C.二头肌腱反射",
+            "D.Oppenheim征",
+            "E.脾大小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 132
+    },
+    {
+        "question_text": "133.正常人脾浊音界在左腋中线的第几肋之间:",
+        "options": [
+            "A.7～10",
+            "B.8～10",
+            "C.8～11",
+            "D.9～11",
+            "E.10～肋缘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 133
+    },
+    {
+        "question_text": "134.脾浊音区减小见于:",
+        "options": [
+            "A.肺梗死",
+            "B.左侧气胸",
+            "C.肝淤血",
+            "D.肝硬化",
+            "E.胃溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 134
+    },
+    {
+        "question_text": "135.腹部叩诊鼓音区缩小见于:",
+        "options": [
+            "A.大量腹水",
+            "B.人工气腹",
+            "C.胃穿孔",
+            "D.胃肠胀气",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 135
+    },
+    {
+        "question_text": "136.腹部叩诊鼓音区扩大见于:",
+        "options": [
+            "A.胃穿孔",
+            "B.肠梗阻",
+            "C.大量腹水",
+            "D.巨脾",
+            "E.尿潴留"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 136
+    },
+    {
+        "question_text": "137.关于胃泡鼓音区的叙述，下列哪项是错误的:",
+        "options": [
+            "A.位于左前胸下部肋缘以上",
+            "B.呈半圆形",
+            "C.上界为膈及肺下缘",
+            "D.下界为肋弓",
+            "E.左界为脾，右界为胰"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 137
+    },
+    {
+        "question_text": "138.胃泡鼓音区位于左前胸下部肋缘以上，约呈半圆形，为胃底穹窿含气所致，下列哪种病变可使此区缩小或消失？",
+        "options": [
+            "A.中、重度脾肿大",
+            "B.左侧胸腔积液",
+            "C.肝左叶肿大",
+            "D.急性胃扩张",
+            "E.以上病变均可产生"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 138
+    },
+    {
+        "question_text": "139.中等量腹水病人腹部叩诊所见正确的是:",
+        "options": [
+            "A.患者仰卧，腹中部呈浊音，两侧腹部呈鼓音",
+            "B.患者仰卧，腹中部呈鼓音，两侧腹部呈浊音",
+            "C.患者向左侧卧位，左侧腹部呈鼓音，右侧腹部呈浊音",
+            "D.患者向右侧卧位，右侧腹部呈鼓音，左侧腹部呈浊音",
+            "E.患者站立，下腹部呈鼓音，上腹部呈浊音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 139
+    },
+    {
+        "question_text": "140.移动性浊音阳性提示腹水量:",
+        "options": [
+            "A.1000ml以上",
+            "B.2000ml以上",
+            "C.500ml以上",
+            "D.3000ml以上",
+            "E.1500ml以上"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 140
+    },
+    {
+        "question_text": "141.移动性浊音阳性见于下列哪种情况？",
+        "options": [
+            "A.大量气腹",
+            "B.急性胃扩张",
+            "C.大量腹水",
+            "D.胸腔积液",
+            "E.巨大卵巢囊肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 141
+    },
+    {
+        "question_text": "142.下列哪些疾病查体时不会出现移动性浊音？",
+        "options": [
+            "A.肝硬化腹水",
+            "B.肾病综合征出现的腹水",
+            "C.腹腔内出血",
+            "D.巨大卵巢囊肿",
+            "E.结核性腹膜炎大量腹水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 142
+    },
+    {
+        "question_text": "143.对诊断腹水较敏感的体征是:",
+        "options": [
+            "A.蛙状腹",
+            "B.振水音",
+            "C.液波震颤",
+            "D.移动性浊音",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 143
+    },
+    {
+        "question_text": "144.腹水量至少大于多少时，移动性浊音阳性:",
+        "options": [
+            "A.500ml以上",
+            "B.1500m以上",
+            "C.2000ml以上",
+            "D.1000ml以上",
+            "E.2500ml以上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 144
+    },
+    {
+        "question_text": "145.腹腔积液和腹腔积气鉴别，下列哪项最有价值？",
+        "options": [
+            "A.腹部外形",
+            "B.腹壁张力",
+            "C.移动体位时其形态有无改变",
+            "D.肝浊音界改变",
+            "E.移动性浊音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 145
+    },
+    {
+        "question_text": "146.巨大卵巢肿与大量腹水鉴别，以下哪项体征有帮助？",
+        "options": [
+            "A.有振水感",
+            "B.平卧叩诊脐部为浊音，双侧为鼓音",
+            "C.主要是下腹部膨隆",
+            "D.肠鸣音存在",
+            "E.可听到静脉营营音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 146
+    },
+    {
+        "question_text": "147.巨大卵巢囊肿腹部检查最有诊断意义的体征是:",
+        "options": [
+            "A.腹部膨隆，外形可随体位而变化",
+            "B.脐位置不偏斜",
+            "C.肝上界正常",
+            "D.尺压试验（＋）",
+            "E.平卧时腹部中间为鼓音，两侧为浊音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 147
+    },
+    {
+        "question_text": "148.先让病人仰卧，行腹部叩诊时，其中腹部呈鼓音，两侧呈浊音，转成左侧位时左侧腹部浊音区增大，而右侧腹部转为鼓音，称为移动性浊音阳性，表示哪一种疾病？",
+        "options": [
+            "A.幽门梗阻",
+            "B.急性胃扩张",
+            "C.巨大卵巢囊肿",
+            "D.腹腔内有游离腹腔积液",
+            "E.尿潴留"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 148
+    },
+    {
+        "question_text": "149.肋脊角叩痛不应见于哪一种病变？",
+        "options": [
+            "A.肾盂肾炎",
+            "B.肾结石",
+            "C.肾结核",
+            "D.肾囊肿",
+            "E.肾周围炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 149
+    },
+    {
+        "question_text": "150.下述关于脊柱叩击痛检查的描述，哪项是错误的？",
+        "options": [
+            "A.患者多取端坐位",
+            "B.可用中指直接叩击椎体棘突",
+            "C.左手掌置患者头顶部，右手半握拳叩击左手背",
+            "D.叩击痛的部位多为病变所在部位",
+            "E.直接叩击法多用于检查骶椎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 150
+    },
+    {
+        "question_text": "151.肋脊角叩痛一般不见于:",
+        "options": [
+            "A.游走肾",
+            "B.肾盂肾炎",
+            "C.肾结石",
+            "D.肾结核",
+            "E.肾周围炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 151
+    },
+    {
+        "question_text": "152.下列哪项疾病不会出现肾区叩击痛阳性？",
+        "options": [
+            "A.急性肾炎",
+            "B.肾盂肾炎",
+            "C.肾病",
+            "D.肾周围炎",
+            "E.肾结核"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 152
+    },
+    {
+        "question_text": "153.当肾脏和尿路有炎症时，下列哪个部位不是该病的压痛点？",
+        "options": [
+            "A.两腹直肌外缘与肋弓交点",
+            "B.脐水平线上腹直肌外缘",
+            "C.脐与右髂前上棘连线中，外1/3交界处",
+            "D.脊柱外缘和第12肋下缘交界处",
+            "E.第12肋下缘和腰肌外缘的交界处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 153
+    },
+    {
+        "question_text": "154.哪项最提示盲肠后位阑尾炎？",
+        "options": [
+            "A.转移性腹痛上腹至右下腹",
+            "B.腹肌紧张",
+            "C.反跳痛",
+            "D.闭孔内肌征阳性",
+            "E.腰大肌征阳性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 154
+    },
+    {
+        "question_text": "155.膀胱潴留时，耻骨联合上部叩诊特征为:",
+        "options": [
+            "A.鼓音",
+            "B.过清音",
+            "C.圆形浊音区",
+            "D.浊音区弧形上缘凹向脐部",
+            "E.排尿后圆形浊音区消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 155
+    },
+    {
+        "question_text": "156.充盈的膀胱与卵巢囊肿最有意义的鉴别体征是:",
+        "options": [
+            "A.囊性感和实体感",
+            "B.移动性浊音或浊音程度",
+            "C.触诊形态",
+            "D.按之有无尿意",
+            "E.排尿或导尿后有肿块体积变化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 156
+    },
+    {
+        "question_text": "157.腹部胀大在耻骨上方叩诊出现弧形上缘凹向脐部的浊音区应见于哪种疾病？",
+        "options": [
+            "A.膀胱肿大",
+            "B.腹腔积液",
+            "C.妊娠子宫",
+            "D.子宫肌瘤",
+            "E.卵巢囊肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 157
+    },
+    {
+        "question_text": "158.膀胱内有尿液充盈时，耻骨上部叩诊呈？",
+        "options": [
+            "A.鼓音",
+            "B.过清音",
+            "C.圆形浊音区",
+            "D.浊音区弧形上缘凹向脐部",
+            "E.实音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 158
+    },
+    {
+        "question_text": "159.腹部听诊时，可听到哪一项正常的声音？",
+        "options": [
+            "A.动脉杂音",
+            "B.摩擦音",
+            "C.肠鸣音",
+            "D.振水音",
+            "E.静脉杂音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 159
+    },
+    {
+        "question_text": "160.健康人肠鸣音每分钟应为多少次？",
+        "options": [
+            "A.4～5次",
+            "B.6～7次",
+            "C.2～3次",
+            "D.＜2次",
+            "E.8～9次"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 160
+    },
+    {
+        "question_text": "161.肠鸣音减弱见于:",
+        "options": [
+            "A.腹泻",
+            "B.餐后",
+            "C.胃肠大出血",
+            "D.高血钾",
+            "E.低血钾"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 161
+    },
+    {
+        "question_text": "162.下列关于肠鸣音描述错误的是:",
+        "options": [
+            "A.是肠蠕动时，肠管内气体和液体随之流动产生的一种断续的气过水声",
+            "B.正常情况下肠鸣音约每分钟4-5次",
+            "C.通常可用左上腹作为肠鸣音的听诊点",
+            "D.肠鸣音每分钟10次以上，但音调不特别高亢，称为肠鸣音活跃",
+            "E.如持续听诊3-5分钟为听到肠鸣音，用手指轻扣或搔弹腹部仍未听到肠鸣音，为肠鸣音消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 162
+    },
+    {
+        "question_text": "163.肠鸣音减弱不可能见于:",
+        "options": [
+            "A.机械性肠梗阻早期",
+            "B.机械性肠梗阻晚期",
+            "C.麻痹性肠梗阻",
+            "D.肝硬化大量腹水",
+            "E.腹腔内脏器手术患者围手术期"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 163
+    },
+    {
+        "question_text": "164.肠鸣音亢进的特点是:",
+        "options": [
+            "A.金属声",
+            "B.摩擦声",
+            "C.捻发声",
+            "D.咕噜音",
+            "E.乐鸣音"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 164
+    },
+    {
+        "question_text": "165.肠鸣音亢进是指:",
+        "options": [
+            "A.肠鸣音每分钟在10次以上，音调响亮、高亢",
+            "B.肠鸣音每分钟在15次以上，音调响亮、高亢",
+            "C.肠鸣音每分钟在20次以上，音调响亮、高亢",
+            "D.肠鸣音每分钟在25次以上，音调响亮、高亢",
+            "E.肠鸣音每分钟在30次以上，音调响亮、高亢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 165
+    },
+    {
+        "question_text": "166.肠鸣音消失常见于:",
+        "options": [
+            "A.大量腹水",
+            "B.机械性肠梗阻",
+            "C.巨大卵巢囊肿",
+            "D.肠麻痹",
+            "E.急性胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 166
+    },
+    {
+        "question_text": "167.腹膜炎时:",
+        "options": [
+            "A.肠鸣音活跃",
+            "B.肠鸣音亢进",
+            "C.肠鸣音减弱",
+            "D.肠鸣音消失",
+            "E.肠鸣音正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 167
+    },
+    {
+        "question_text": "168.急性胃肠炎时:",
+        "options": [
+            "A.肠鸣音减弱",
+            "B.肠鸣音活跃",
+            "C.肠鸣音亢进",
+            "D.肠鸣音消失",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 168
+    },
+    {
+        "question_text": "169.腹中部听到喷射杂音且局部搏动减弱，见于:",
+        "options": [
+            "A.肾动脉狭窄",
+            "B.髂动脉狭窄",
+            "C.腹主动脉瘤",
+            "D.肝左叶肿瘤压迫腹主动脉",
+            "E.腹主动脉狭窄"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 169
+    },
+    {
+        "question_text": "170.腹部听到连续性的血管杂音，常见于哪一种病征？",
+        "options": [
+            "A.动脉瘤",
+            "B.动脉狭窄",
+            "C.腹壁静脉严重曲张",
+            "D.腹部压迫腹主动脉",
+            "E.肝癌压迫肝动脉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 170
+    },
+    {
+        "question_text": "171.机械性肠梗阻的典型表现为:",
+        "options": [
+            "A.肠鸣音亢进",
+            "B.肠鸣音消失",
+            "C.肠鸣音活跃",
+            "D.肠鸣音正常",
+            "E.肠鸣音减弱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 171
+    },
+    {
+        "question_text": "172.在中腹部听到收缩期喷射性杂音见于:",
+        "options": [
+            "A.腹主动脉瘤",
+            "B.肾动脉瘤",
+            "C.肾动脉狭窄",
+            "D.肝癌",
+            "E.髂动脉狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 172
+    },
+    {
+        "question_text": "173.左上腹听到摩擦音见于何种疾病:",
+        "options": [
+            "A.胸膜炎",
+            "B.腹膜炎",
+            "C.脾梗死",
+            "D.肠梗阻",
+            "E.肝包虫病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 173
+    },
+    {
+        "question_text": "174.在深呼吸时，哪一种病变可听到摩擦音？",
+        "options": [
+            "A.脾梗阻",
+            "B.脾周围炎",
+            "C.肝周围炎",
+            "D.胆囊炎累及周围腹膜",
+            "E.以上均可听到"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 174
+    },
+    {
+        "question_text": "175.腹部听诊搔弹音的变化，可帮助测定微量腹水，其可测出最小量是:",
+        "options": [
+            "A.120ml",
+            "B.200ml",
+            "C.300ml",
+            "D.400ml",
+            "E.500ml"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 175
+    },
+    {
+        "question_text": "176.上腹部听到连续的嗡鸣声，常提示:",
+        "options": [
+            "A.腹主动脉瘤",
+            "B.肾动脉狭窄",
+            "C.肝癌",
+            "D.门静脉高压侧支循环形成",
+            "E.腹主动脉狭窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 176
+    },
+    {
+        "question_text": "177.用搔弹音测出腹水量应是多少？",
+        "options": [
+            "A.100ml",
+            "B.120ml",
+            "C.130ml",
+            "D.1000ml",
+            "E.300ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 177
+    },
+    {
+        "question_text": "178.腹部搔弹音的变化，可帮助测定微量腹水可测出的最小量是多少？",
+        "options": [
+            "A.120ml",
+            "B.240ml",
+            "C.250ml",
+            "D.300ml",
+            "E.400ml"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 178
+    },
+    {
+        "question_text": "179.患者伴有大量腹水时，为了确定有无肝脏肿大，最好采用哪种触诊手法:",
+        "options": [
+            "A.单手触诊法",
+            "B.双手触诊法",
+            "C.钩指触诊法",
+            "D.冲击触诊法",
+            "E.胸膝位触诊法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 179
+    },
+    {
+        "question_text": "180.大量腹水的体征不包括:",
+        "options": [
+            "A.腹部膨隆呈蛙腹",
+            "B.波动感",
+            "C.振水音",
+            "D.腹胀及双下肢水肿",
+            "E.脐膨出"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 180
+    },
+    {
+        "question_text": "181.下列哪项不是腹水的体征？",
+        "options": [
+            "A.腹部隆起，平卧时双胁腹部明显",
+            "B.有波动感",
+            "C.移动性浊音阳性",
+            "D.振水音阳性",
+            "E.尺压试验阴性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 181
+    },
+    {
+        "question_text": "182.腹部检查下列哪项错误？",
+        "options": [
+            "A.振水声见于幽门梗阻",
+            "B.肋下扪及肝脏提示肝肿大",
+            "C.脾脏正常时不能扪及",
+            "D.肠鸣音消失可见于肠麻痹",
+            "E.腹主动脉搏动正常人可触到"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 182
+    },
+    {
+        "question_text": "183.上消化道出血的部位不包括下列哪项？",
+        "options": [
+            "A.食道",
+            "B.咽喉",
+            "C.十二指肠",
+            "D.肝脏",
+            "E.胰腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 183
+    },
+    {
+        "question_text": "184.上消化道出血可单纯表现为呕血或黑便，也可两者兼有，这取决于:",
+        "options": [
+            "A.原发病",
+            "B.出血部位",
+            "C.出血量",
+            "D.在胃内停留时间",
+            "E.以上均非"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 184
+    },
+    {
+        "question_text": "185.消化溃疡最常见的并发症是:",
+        "options": [
+            "A.并发出血",
+            "B.溃疡发生穿孔",
+            "C.穿孔",
+            "D.幽门梗阻",
+            "E.癌变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 185
+    },
+    {
+        "question_text": "186.胃溃疡发生癌变，应提高警惕，其早期征象是:",
+        "options": [
+            "A.年龄大、病程短、疼痛失规律",
+            "B.粪隐血",
+            "C.溃疡发生在胃大弯或胃窦部",
+            "D.抗溃疡治疗效果不显著",
+            "E.以上情况均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 186
+    },
+    {
+        "question_text": "187.消化性溃疡常指人体哪一个部位的慢性溃疡？",
+        "options": [
+            "A.结肠",
+            "B.食管下段",
+            "C.胃肠吻合术后空肠上段",
+            "D.胃、十二指肠",
+            "E.以上部位均是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 187
+    },
+    {
+        "question_text": "188.患者，男性，30岁，十二指肠球部溃疡并发消化道出血，头晕、心悸、出汗，粪便柏油状。体检:BP:80/40mmHg，心率:120次/分，律齐，两肺呼吸音清，腹平软，肠鸣音活跃。其出血量约为:",
+        "options": [
+            "A.＞50ml",
+            "B.＞100ml",
+            "C.＞500ml",
+            "D.＞1000ml",
+            "E.＞1500ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 188
+    },
+    {
+        "question_text": "189.消化性溃疡发生急性穿孔时，腹部检查时最有诊断价值的体征是:",
+        "options": [
+            "A.腹部膨胀且腹式呼气消失",
+            "B.腹部膨胀伴移动性浊音阳性",
+            "C.上腹部局限性腹肌紧张、压痛、反跳痛",
+            "D.肝浊音上界消失",
+            "E.全腹肌紧张、压痛、反跳痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 189
+    },
+    {
+        "question_text": "190.患十二指肠球部溃疡的病人，当发生幽门梗阻时可发现哪种体征？",
+        "options": [
+            "A.肠型",
+            "B.移动性浊音阳性",
+            "C.液波震颤",
+            "D.振水音",
+            "E.高亢肠鸣音"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 190
+    },
+    {
+        "question_text": "191.女性，30岁，有十二指肠溃疡史5年，近一个月来腹部胀痛加重且伴有呕吐就诊，呕吐后症状可暂时缓解，疑有幽门梗阻，诊断此症最重要的表现:",
+        "options": [
+            "A.胃部振水音",
+            "B.饭后上腹饱胀感",
+            "C.呕吐物为酸酵宿食",
+            "D.呕吐后感到舒适",
+            "E.胃型及蠕动波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 191
+    },
+    {
+        "question_text": "192.患者十二指肠球部溃疡病史8年，突发剧烈上腹痛，迅速波及全腹。查体:板状腹，腹压痛，反跳痛。肌紧张，高度怀疑球部溃疡合并穿孔，此时最有诊断价值的检查为:",
+        "options": [
+            "A.急性胃镜",
+            "B.饮水超声",
+            "C.x-RAY钡餐",
+            "D.立位腹平片",
+            "E.吞线试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 192
+    },
+    {
+        "question_text": "193.十二指肠溃疡的病人的慢性，周期性，节律性的中上腹痛的特点常为:",
+        "options": [
+            "A.中上腹痛多发生在两餐之间，持续至下一次进餐后缓解",
+            "B.中上腹痛于餐后1～2小时出现，至下一餐前消失",
+            "C.中上腹部于餐后2～3小时出现，至下一餐即可消失",
+            "D.中上腹痛于餐前半小时出现，进餐即可消失",
+            "E.中上腹痛于进餐时发生，至餐后半小时消失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 193
+    },
+    {
+        "question_text": "194.胃溃疡的病人的慢性，周期性，节律性的中上腹痛的特点常为:",
+        "options": [
+            "A.中上腹痛多发生在两餐之间，持续至下一次进餐后缓解",
+            "B.中上腹痛于餐后1～3小时出现，至下一餐前消失",
+            "C.中上腹部于餐后2～4小时出现，至下一餐即可消失",
+            "D.中上腹痛于餐前半小时出现，进餐即可消失",
+            "E.中上腹痛于进餐时发生，至餐后半小时消失"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 194
+    },
+    {
+        "question_text": "195.胃溃疡的腹痛部位多位于:",
+        "options": [
+            "A.上腹正中或上腹偏左",
+            "B.上腹偏右或脐周",
+            "C.剑突处",
+            "D.右肋缘下腹直肌外缘",
+            "E.左肋缘下腹直肌外缘"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 195
+    },
+    {
+        "question_text": "196.十二指肠溃疡的腹痛部位多位于:",
+        "options": [
+            "A.上腹正中或上腹偏左",
+            "B.上腹偏右或脐周",
+            "C.剑突处",
+            "D.右肋缘下腹直肌外缘",
+            "E.左肋缘下腹直肌外缘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 196
+    },
+    {
+        "question_text": "197.消化性溃疡的疼痛特征为:",
+        "options": [
+            "A.慢性周期性",
+            "B.节律性和季节性",
+            "C.过劳、忧郁、生冷饮食及烟酒等可诱导疼痛发作",
+            "D.服制酸药或稍进食物疼痛科缓解",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 197
+    },
+    {
+        "question_text": "198.下列哪项不是胃肠穿孔的腹部主要体征是？",
+        "options": [
+            "A.腹式呼吸运动消失",
+            "B.腹肌紧张、腹压痛、反跳痛",
+            "C.肝浊音界消失",
+            "D.肠鸣音减弱或消失",
+            "E.有移动性浊音"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 198
+    },
+    {
+        "question_text": "199.消化性溃疡最常见的并发症是:",
+        "options": [
+            "A.消化道出血",
+            "B.穿透性溃疡",
+            "C.穿孔",
+            "D.幽门梗阻",
+            "E.癌变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 199
+    },
+    {
+        "question_text": "200.急性内脏穿孔引起急性弥漫性腹膜炎的腹痛特点是:",
+        "options": [
+            "A.全腹持续性剧烈疼痛",
+            "B.阵发性绞痛",
+            "C.烧灼样疼痛",
+            "D.钻样疼痛",
+            "E.间歇性顿痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 200
+    },
+    {
+        "question_text": "201.腹膜受到各种致病因素刺激时，可发生急性腹膜炎，下列哪种原因一开始就属于感染性腹膜炎？",
+        "options": [
+            "A.急性重症胰腺炎",
+            "B.十二指肠溃疡急性穿孔",
+            "C.胃溃疡急性穿孔",
+            "D.肠梗阻穿孔",
+            "E.卵巢囊肿破裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 201
+    },
+    {
+        "question_text": "202.急性弥漫性腹膜炎时，不会出现哪项体征？",
+        "options": [
+            "A.腹壁肌紧张呈板状硬",
+            "B.可叩到移动性浊音",
+            "C.明显的压痛及反跳痛",
+            "D.腹壁红肿、发热",
+            "E.肠鸣音可减弱或消失"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 202
+    },
+    {
+        "question_text": "203.哪一项体征不是肝硬化病人的体征？",
+        "options": [
+            "A.毛细血管扩张",
+            "B.蜘蛛痣",
+            "C.肝掌",
+            "D.男性乳房发育",
+            "E.环形红斑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 203
+    },
+    {
+        "question_text": "204.下列哪项不是肝硬化腹水的发病机制？",
+        "options": [
+            "A.门脉高压所致腹腔脏器毛细血管的滤过压增高",
+            "B.肝淋巴液回流障碍",
+            "C.继发性醛固酮增多致水钠潴留",
+            "D.低蛋白血症",
+            "E.脾肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 204
+    },
+    {
+        "question_text": "205.若肝硬化患者已进入失代偿期，最具有判断价值的症状的是:",
+        "options": [
+            "A.食欲不振",
+            "B.恶心呕吐",
+            "C.消化不良",
+            "D.腹水",
+            "E.腹胀"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 205
+    },
+    {
+        "question_text": "206.下列哪项不是肝硬化失代偿期的主要表现是？",
+        "options": [
+            "A.腹水",
+            "B.皮肤水肿",
+            "C.黄疸",
+            "D.发热",
+            "E.肝区疼痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 206
+    },
+    {
+        "question_text": "207.以下哪项不是肝硬化的体征？",
+        "options": [
+            "A.慢性病容",
+            "B.蜘蛛痣",
+            "C.腹部揉面感",
+            "D.肝脏质地变硬，表面不光滑",
+            "E.男性乳房发育伴压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 207
+    },
+    {
+        "question_text": "208.肝硬化门静脉高压时不出现:",
+        "options": [
+            "A.食管静脉曲张",
+            "B.胃底静脉曲张",
+            "C.胸壁静脉曲张",
+            "D.腹壁静脉曲张",
+            "E.痔静脉曲张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 208
+    },
+    {
+        "question_text": "209.关于门静脉高压脾肿大不正确的是:",
+        "options": [
+            "A.开始为淤血性肿大",
+            "B.伴有脾功能亢进",
+            "C.上消化道出血时可暂时缩小",
+            "D.有脾周围炎时可引起左上腹疼痛",
+            "E.脾为浸润性肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 209
+    },
+    {
+        "question_text": "210.下面哪项最能代表门脉高压？",
+        "options": [
+            "A.脾肿大",
+            "B.腹壁静脉曲张",
+            "C.痔核",
+            "D.食管下段静脉曲张",
+            "E.腹水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 210
+    },
+    {
+        "question_text": "211.肝硬化代偿期可出现:",
+        "options": [
+            "A.腹水",
+            "B.肝脏缩小",
+            "C.脾脏肿大",
+            "D.食管静脉曲张",
+            "E.出血倾向和贫血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 211
+    },
+    {
+        "question_text": "212.门脉高压症侯群应除外:",
+        "options": [
+            "A.腹水",
+            "B.脾大",
+            "C.肝大",
+            "D.痔核形成",
+            "E.食管和胃底静脉曲张"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 212
+    },
+    {
+        "question_text": "213.门静脉高压的特异性表现是:",
+        "options": [
+            "A.腹水",
+            "B.一侧支循环开放",
+            "C.脾肿大",
+            "D.蜘蛛痣",
+            "E.皮肤出血点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 213
+    },
+    {
+        "question_text": "214.下述哪项最能反映门脉高压的特征？",
+        "options": [
+            "A.脾脏肿大",
+            "B.腹水形成",
+            "C.食管静脉曲张",
+            "D.腹壁静脉曲张",
+            "E.痔核形成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 214
+    },
+    {
+        "question_text": "215.下列哪项可作为肝硬变腹水与右心衰伴大量腹水的主要鉴别点？",
+        "options": [
+            "A.颈静脉怒张",
+            "B.肝大质硬",
+            "C.呈现蛙腹",
+            "D.下肢浮肿",
+            "E.伴黄疸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 215
+    },
+    {
+        "question_text": "216.以下哪项检查对肝癌诊断最有临床价值？",
+        "options": [
+            "A.肝区疼痛",
+            "B.肝脏触之质硬",
+            "C.触诊肝脏有压痛",
+            "D.肝边缘钝",
+            "E.肝进行性肿大，表面不平"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 216
+    },
+    {
+        "question_text": "217.下列关于肠梗阻腹部体征哪项是错误的？",
+        "options": [
+            "A.蠕动波肠形",
+            "B.可扪及肿块",
+            "C.肠鸣音亢进",
+            "D.腹痛",
+            "E.舟状腹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 217
+    },
+    {
+        "question_text": "218.下列关于幽门梗阻的体征错误的是？",
+        "options": [
+            "A.呕吐隔夜食",
+            "B.胃形及蠕动波",
+            "C.振水音阳性",
+            "D.肠鸣音亢进",
+            "E.脱水及消瘦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 218
+    },
+    {
+        "question_text": "219.最提示胃幽门梗阻的临床表现是:",
+        "options": [
+            "A.消化性溃疡史",
+            "B.反复呕吐隔餐隔宿食物",
+            "C.胃型",
+            "D.胃肠蠕动",
+            "E.振水音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 219
+    },
+    {
+        "question_text": "220.肠梗阻伴有肠壁血液循环障碍，属于:",
+        "options": [
+            "A.绞窄性肠梗阻",
+            "B.单纯性肠梗阻",
+            "C.机械性肠梗阻",
+            "D.麻痹性肠梗阻",
+            "E.完全性肠梗阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 220
+    },
+    {
+        "question_text": "221.可以确诊幽门梗阻较有意义的体征是:",
+        "options": [
+            "A.腹部胀气",
+            "B.有振水音",
+            "C.移动性浊音阳性",
+            "D.胃蠕动波",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 221
+    },
+    {
+        "question_text": "222.幽门梗阻最常见的病因是:",
+        "options": [
+            "A.胃粘膜脱垂",
+            "B.消化性溃疡",
+            "C.胃癌",
+            "D.胃炎",
+            "E.胃结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 222
+    },
+    {
+        "question_text": "223.幽门梗阻时腹壁可见明显的蠕动波，其方向是:",
+        "options": [
+            "A.上腹部可见自右上向左下的蠕动波",
+            "B.上腹部可见自左上向右下的蠕动波",
+            "C.脐部可见方向不定的蠕动波",
+            "D.腹部可见右至左的蠕动波",
+            "E.腹部可见上而下的蠕动波"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 223
+    },
+    {
+        "question_text": "224.不属于肠梗阻体征的是:",
+        "options": [
+            "A.肠型",
+            "B.蠕动波",
+            "C.腹肌紧张伴压痛",
+            "D.肠鸣音亢进",
+            "E.腹壁静脉曲张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 224
+    },
+    {
+        "question_text": "225.关于机械性肠梗阻，下列哪一项描述是错误的？",
+        "options": [
+            "A.腹部膨胀",
+            "B.排便排气停止",
+            "C.见肠型",
+            "D.无蠕动波",
+            "E.肠鸣音亢进"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 225
+    },
+    {
+        "question_text": "226.机械性小肠梗阻时出现:",
+        "options": [
+            "A.持续性绞痛",
+            "B.阵发性胀痛",
+            "C.频繁呕吐",
+            "D.早期即无排气、排便",
+            "E.肠鸣音减弱或消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 226
+    },
+    {
+        "question_text": "227.下列关于幽门梗阻的腹部体征错误的是:",
+        "options": [
+            "A.上腹部膨隆",
+            "B.胃肠蠕动波",
+            "C.胃鼓音区增大",
+            "D.振水音阳性",
+            "E.腹壁静脉曲张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 227
+    },
+    {
+        "question_text": "228.肠内容物完全不能通过者，称为:",
+        "options": [
+            "A.不完全性肠梗阻",
+            "B.完全性肠梗阻",
+            "C.单纯性肠梗阻",
+            "D.绞窄性肠梗阻",
+            "E.机械性肠梗阻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 228
+    },
+    {
+        "question_text": "229.哪一种疾病不应该出现肝肿大？",
+        "options": [
+            "A.急性病毒性肝炎伴黄疸",
+            "B.肝硬化伴腹水",
+            "C.肝癌伴肝性脑病",
+            "D.肝脓肿伴右侧胸水",
+            "E.右心衰竭伴下肢浮肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 229
+    },
+    {
+        "question_text": "230.以下哪一种疾病一般不引起脾大？",
+        "options": [
+            "A.再生障碍性贫血",
+            "B.败血症",
+            "C.病毒性肝炎",
+            "D.溶血性贫血",
+            "E.慢性粒细胞性白血病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 230
+    },
+    {
+        "question_text": "231.下列哪种疾病可引起脾脏高度肿大？",
+        "options": [
+            "A.早期肝硬化",
+            "B.感染性心内膜炎",
+            "C.败血症",
+            "D.慢性溶血性贫血",
+            "E.慢性粒细胞性白血病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 231
+    },
+    {
+        "question_text": "232.肾脏肿大，不应该出现于哪一种疾病？",
+        "options": [
+            "A.多囊肾",
+            "B.慢性肾炎",
+            "C.肾肿瘤",
+            "D.肾盂积水",
+            "E.肾盂积脓"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 232
+    },
+    {
+        "question_text": "233.下列哪种疾病不会引起脾肿大？",
+        "options": [
+            "A.伤寒",
+            "B.肝炎",
+            "C.慢性溶血性黄疸",
+            "D.心力衰竭",
+            "E.甲亢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 233
+    },
+    {
+        "question_text": "234.男，66岁，体检发现中腹部有一个6cm×5cm×3cm肿块，形态不规则，表面凹不平且坚硬，该患者肿块应考虑为:",
+        "options": [
+            "A.炎性包块",
+            "B.蛔虫团",
+            "C.肠套叠",
+            "D.肿大淋巴结",
+            "E.恶性肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 234
+    },
+    {
+        "question_text": "235.男，48岁，体检发现右肾肿大，表面不平，质地坚硬，最可能的是:",
+        "options": [
+            "A.多囊肾",
+            "B.肾盂积脓",
+            "C.肾肿瘤",
+            "D.游走肾",
+            "E.肾盂积水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 235
+    },
+    {
+        "question_text": "236.男，28岁，持续性右上腹痛2天，疼痛放射至右肩部，腹部查体发现右上腹肌紧张，压痛、反跳痛该患者最有可能的诊断是:",
+        "options": [
+            "A.急性胃炎",
+            "B.急性胰腺炎",
+            "C.急性胆囊炎",
+            "D.急性肝炎",
+            "E.右肾结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 236
+    },
+    {
+        "question_text": "237.男，36岁，满腹剧痛10小时，腹部检查发现腹式呼吸运动减弱，腹部稍隆起，触诊全腹腹肌紧张，压痛和反跳痛.该患者最有可能的诊断是:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.急性阑尾炎",
+            "C.急性胰腺炎",
+            "D.门脉性肝硬变",
+            "E.结核性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 237
+    },
+    {
+        "question_text": "238.男，34岁，因腹部绞痛1小时来院就诊，查体见腹部膨隆，有压痛，可见肠型及蠕动波，可能的诊断为:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.肠梗阻",
+            "C.肾结石",
+            "D.急性胰腺炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 238
+    },
+    {
+        "question_text": "239.男，32岁，因发热伴腹痛半天就诊，查体右下腹压痛伴反跳痛，考虑可能为:",
+        "options": [
+            "A.急性膀胱炎",
+            "B.结肠癌",
+            "C.前列腺炎",
+            "D.急性阑尾炎",
+            "E.肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 239
+    },
+    {
+        "question_text": "240.女性，40岁，常有脂餐后出现右上腹疼痛1年。昨晚吃蹄膀后1h出现右上腹痛，向右肩放射，呕吐2次，腹部检查应出现哪一部位压痛？",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 240
+    },
+    {
+        "question_text": "241.女性，患巨大卵巢肿大时，腹部检查应发现下列哪一种体征？",
+        "options": [
+            "A.仰卧时浊音在中腹部，鼓音在两侧腹部",
+            "B.浊音无移动性",
+            "C.液波震颤阴性",
+            "D.尺压试验阳性",
+            "E.以上均可存在"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 241
+    },
+    {
+        "question_text": "242.女性，40岁，右上腹疼痛伴腹胀，消瘦3月余入院，查体示:肝脏逐渐肿大，质地硬，有触痛，表面有结节感该患者首先考虑的疾病是:",
+        "options": [
+            "A.原发性肝癌",
+            "B.肝硬化",
+            "C.肝脓肿",
+            "D.脂肪肝",
+            "E.慢性肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 242
+    },
+    {
+        "question_text": "243.女性，38岁，上腹部胀痛伴呕吐隔餐宿食3天，查体示:急性病容，腹部膨隆，振水音（＋）。该患者首先考虑的疾病是:",
+        "options": [
+            "A.急性化脓性胆管炎",
+            "B.急性胃扩张",
+            "C.急性胃炎",
+            "D.肠梗阻",
+            "E.幽门梗阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 243
+    },
+    {
+        "question_text": "244.男性，32岁，发现右上腹包块半月余。查体示:右上腹饱满，肝震颤（＋）。该患者最可能的诊断是:",
+        "options": [
+            "A.肝脓肿",
+            "B.肝癌",
+            "C.肝硬化",
+            "D.肝包虫",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 244
+    },
+    {
+        "question_text": "245.患者，男性，40岁。出现上腹痛1天，腹部检查右下腹点有固定压痛和反跳痛，应首先考虑的疾病是:",
+        "options": [
+            "A.急性阑尾炎",
+            "B.输尿管结石",
+            "C.盲肠肿瘤",
+            "D.肠系膜淋巴结炎",
+            "E.前列腺癌伴腹腔转移"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 245
+    },
+    {
+        "question_text": "246.患者，男性，36岁。在触诊腹部时发现肝肿大，医生用手压迫肝脏时出现颈静脉怒张更明显，患者以上体征是下列哪种疾病的征象",
+        "options": [
+            "A.右心衰竭引起的肝淤血",
+            "B.肝硬化门脉高压症",
+            "C.上腔静脉阻塞综合征",
+            "D.下腔静脉阻塞综合征",
+            "E.肝静脉阻塞综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 246
+    },
+    {
+        "question_text": "247.某病人，女性，40岁，常有脂餐后出现右上腹疼痛1年；昨晚吃蹄髈后1小时出现右上腹痛，向右肩部放射，呕吐2次，腹部检查应出现哪一部位压痛？",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 247
+    },
+    {
+        "question_text": "248.某病人，女性，30岁，患巨大卵巢囊肿时，腹部检查应发现下列哪种体征？",
+        "options": [
+            "A.仰卧时浊音在中腹部鼓音在两侧腹部",
+            "B.浊音无移动性",
+            "C.液波震颤阴性",
+            "D.尺压试验阳性",
+            "E.以上均可存在"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 248
+    },
+    {
+        "question_text": "249.某病人，男性，55岁，巩膜皮肤进行性黄染2月余，伴皮肤瘙痒，腹部检查发现胆囊明显肿大，呈圆形光滑可推动，且无压痛，首先应考虑哪种疾病？",
+        "options": [
+            "A.胆囊癌",
+            "B.急性胆囊炎",
+            "C.胆囊结石",
+            "D.急性病毒性肝炎",
+            "E.胰头癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 249
+    },
+    {
+        "question_text": "250.某病人，男性，20岁，活动后心悸、气急2月。腹部检查:肝肿大，质地中等，表面光滑，有压痛，肝-颈静脉回流阳性，移动性浊音阳性，下肢凹陷性水肿，该病人最可能的诊断是:",
+        "options": [
+            "A.肝硬化腹腔积液",
+            "B.原发性肝癌伴腹腔积液",
+            "C.肝结核伴结核性腹膜炎",
+            "D.肾病综合征伴腹腔积液",
+            "E.右心衰、肝淤血伴腹腔积液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 250
+    },
+    {
+        "question_text": "251.某病人，男性，45岁，纳差，中上腹隐痛不适2个月。腹部检查:中上腹部及鸡蛋大小质地中等的包块；胃液分析显示胃酸缺乏、胃液呈咖啡色，下列哪种辅助检查最有确诊价值？",
+        "options": [
+            "A.X线胃肠钡餐",
+            "B.B超",
+            "C.CT",
+            "D.放射性核素显像",
+            "E.胃镜检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 251
+    },
+    {
+        "question_text": "252.某病人，男性，40岁，出现上腹痛1天，腹部检查右下腹点有固定压痛和反跳痛，应首先考虑哪种疾病？",
+        "options": [
+            "A.盲肠肿瘤",
+            "B.输尿管结石",
+            "C.急性阑尾炎",
+            "D.肠系膜淋巴结炎",
+            "E.前列腺癌伴腹腔转移"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 252
+    },
+    {
+        "question_text": "253.男性，30岁，有10年消化性溃疡病史，近半年来发生瘢痕性幽门梗阻，在出现的临床表现中，哪项不符合实际情况？",
+        "options": [
+            "A.呕吐物有酸臭味",
+            "B.呕吐量大，有宿食",
+            "C.有胃型和胃蠕动波",
+            "D.消瘦、脱水，碱中毒",
+            "E.呕吐物有粪臭味"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 253
+    },
+    {
+        "question_text": "254.男，30岁，饱餐后劳动时，突然腹部剧烈绞痛，阵发性加重，伴呕吐。6小时末排气、排便，查体:体温37，脉率84次/分，左腹部膨隆，压痛明显，肠鸣音高亢，移动性浊音阴性，最可能诊断为:",
+        "options": [
+            "A.肠梗阻",
+            "B.肠道蛔虫病",
+            "C.急性胰腺炎",
+            "D.溃疡病穿孔",
+            "E.肠系膜血管栓塞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 254
+    },
+    {
+        "question_text": "255.女性，30岁，农民，2小时前无诱因突然上腹刀割样疼痛，不敢直腰，腹肌紧张，压痛反跳痛明显，肝浊音界消失，应诊断为:",
+        "options": [
+            "A.阑尾炎穿孔，弥漫性腹膜炎",
+            "B.宫外孕破裂",
+            "C.溃疡病穿孔",
+            "D.绞窄性肠梗阻",
+            "E.急性出血坏死性胰腺炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 255
+    },
+    {
+        "question_text": "256.男性，33岁，5年来常有空腹痛和夜间痛，以秋季为重，服用雷尼替丁可以减轻。体格检查:上腹部偏右轻压痛，最可能的诊断:",
+        "options": [
+            "A.胆囊炎",
+            "B.胃溃疡",
+            "C.十二指肠溃疡",
+            "D.胃炎",
+            "E.肾结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 256
+    },
+    {
+        "question_text": "257.男性，23岁，3年来经常有餐后半小时上腹痛，以秋末冬初为重，伴腹胀，暖气查体:腹软，上腹部偏左轻压痛，无反跳痛，最可能诊断为:",
+        "options": [
+            "A.肠癌",
+            "B.胃溃疡",
+            "C.十二指肠溃疡",
+            "D.胰腺炎",
+            "E.肠梗阻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 257
+    },
+    {
+        "question_text": "258.男性，35岁，经常上腹部不适10年，近两月来，呕吐频繁。体格检查，上腹部见蠕动波，振水声阳性，其呕吐物的性状应是:",
+        "options": [
+            "A.黄绿色液体",
+            "B.咖啡样液体",
+            "C.鲜血",
+            "D.酸酵食物",
+            "E.带粪臭味"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 258
+    },
+    {
+        "question_text": "259.女性，30岁脐周阵发性腹痛3天伴呕吐，鸣音亢进，有气过水声，诊断为急性肠梗阻，其原因应除外:",
+        "options": [
+            "A.肠粘连",
+            "B.肠扭转",
+            "C.肠套叠",
+            "D.肠狭窄",
+            "E.肠麻痹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 259
+    },
+    {
+        "question_text": "260.男性，30岁，急性化脓性阑尾炎，术后一周腹部持续性胀痛，排气排便消失，诊断为麻痹性肠梗阻，其临床表现应除外:",
+        "options": [
+            "A.肠鸣音亢进",
+            "B.肠鸣音消失",
+            "C.大小肠均胀气",
+            "D.无肠型及蠕动波",
+            "E.呕吐"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 260
+    },
+    {
+        "question_text": "261.男，40岁，腹胀5年，加重1年，近一周发热，腹痛，有慢性乙型肝炎史。查体:巩膜黄染，全腹膨隆，压痛、反跳痛阳性，脾肋下4cm，移动性浊音阳性。最可能的诊断:",
+        "options": [
+            "A.肝硬化并发原发性腹膜炎",
+            "B.结核性腹膜炎",
+            "C.肝癌并癌性腹水",
+            "D.溃疡病穿孔",
+            "E.急性化脓性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 261
+    },
+    {
+        "question_text": "262.男，40岁，有慢性肝炎史15年，近来腹胀消瘦，体格检查:巩膜黄染，上腹部触到拳头大质硬、表面不光滑包块，最可能的诊断是:",
+        "options": [
+            "A.原发性肝癌",
+            "B.转移性肝癌",
+            "C.慢性肝炎",
+            "D.肝脓疡",
+            "E.肝硬化"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 262
+    },
+    {
+        "question_text": "263.男，40岁，因呼吸困难入院，体格检查:肝右锁骨中线肋缘下4cm，表面光滑，有压痛肝颈静脉回流阳性，移动性浊音阳性，最可能的诊断:",
+        "options": [
+            "A.肝硬化、腹水",
+            "B.肝癌",
+            "C.血吸虫病",
+            "D.右心衰竭",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 263
+    },
+    {
+        "question_text": "264.男，55岁，食欲不振2月。体格检查:左锁骨上触及1.5cm×1cm×1cm包块，质硬，上腹部触及4cm×3cm×2cm大小包块，质硬，表面不光滑，无压痛，随呼吸上下移动，最可能的诊断为:",
+        "options": [
+            "A.肝癌",
+            "B.胃癌",
+            "C.胰腺癌",
+            "D.胰腺囊肿",
+            "E.腹膜间皮瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 264
+    },
+    {
+        "question_text": "265.病人以腹胀就诊，即往有乙肝病史，超声检查示肝脏缩小，肝内回声增强，不均匀，肝表面不平，肝静脉变细，脾大，腹水（＋）可诊断为:",
+        "options": [
+            "A.慢性肝炎",
+            "B.肝硬化",
+            "C.脂肪肝",
+            "D.淤血肝",
+            "E.弥漫性肝癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 265
+    },
+    {
+        "question_text": "266.男，40岁，水肿、乏力、腹胀2个月，有乙肝病史。查体:全身水肿，壁静脉曲张，腹水征（＋）下列哪项与该患者腹水形成无关？",
+        "options": [
+            "A.钠与水的潴留",
+            "B.血管滤过压增高",
+            "C.血管通透性增加",
+            "D.血浆胶体渗透压降低",
+            "E.淋巴液生成过多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 266
+    },
+    {
+        "question_text": "267.男，45岁，腹胀2个月，查体:腹壁静脉曲张，腹水征（＋），脾大。该患者腹壁静脉血流方向为:",
+        "options": [
+            "A.脐上、脐下皆上行",
+            "B.脐上、脐下皆下行",
+            "C.脐上下行，脐下上行",
+            "D.脐上上行，脐下下行",
+            "E.由脐部向四周放射状流行"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 267
+    },
+    {
+        "question_text": "268.男性，50岁，低热，盗汗伴纳差，乏力，反复咳嗽，咯血痰一年，病人的腹部体征是:",
+        "options": [
+            "A.蛙腹",
+            "B.尖腹",
+            "C.球状腹",
+            "D.板状腹",
+            "E.舟状腹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 268
+    },
+    {
+        "question_text": "269.男性，30岁，反复餐后半小时出现上腹剧痛五年，今晨中上腹剧痛后，转为全腹持续性剧痛3小时，伴恶心和呕吐，病人的腹部体征是:",
+        "options": [
+            "A.蛙腹",
+            "B.尖腹",
+            "C.球状腹",
+            "D.板状腹",
+            "E.舟状腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 269
+    },
+    {
+        "question_text": "270.男性，40岁，有嗜酒史20年，腹部检查肝肋下cm，剑突下5cm，表面光滑，质地稍韧，边缘圆钝，且无压痛最可能诊断是:",
+        "options": [
+            "A.脂肪肝",
+            "B.肝瘀血",
+            "C.原发性肝癌",
+            "D.肝包虫病",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 270
+    },
+    {
+        "question_text": "271.女性，35岁，有风湿性心脏病，二尖瓣双病变，近半年来常有活动后心悸，气促，双下肢浮肿，夜间不能平卧，腹部检查肝肋下3cm，剑突下5cm，表面光滑，质地稍韧，边缘圆钝，有弥漫性压痛，肝颈静脉回流征阳性。最可能诊断是:",
+        "options": [
+            "A.脂肪肝",
+            "B.肝瘀血",
+            "C.原发性肝癌",
+            "D.肝包虫病",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 271
+    },
+    {
+        "question_text": "272.男性，39岁，有乙型肝炎史15年，近半年来右肋胀痛，纳差，乏力，消瘦，腹部检查肝肋下5c，剑突下3cm，质地坚硬，表面不光滑，肋下可们及多个结节，边缘厚薄不一致，化验:AFP700ng/ml，肝功能ALT＜40u，SB＜17umol/L，A30g/L，G40g/L。最可能诊断是:",
+        "options": [
+            "A.脂肪肝",
+            "B.肝瘀血",
+            "C.原发性肝癌",
+            "D.肝包虫病",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 272
+    },
+    {
+        "question_text": "273.男性，35岁，有内蒙古牧区工作史，近一年右肋胀痛，腹部检查，肝肋下5cm，剑突下3cm，右肋下肝区及多个蚕豆至核桃大小结节，有囊性感，肝震颤阳性。最可能诊断是:",
+        "options": [
+            "A.脂肪肝",
+            "B.肝瘀血",
+            "C.原发性肝癌",
+            "D.肝包虫病",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 273
+    },
+    {
+        "question_text": "274.女性，40岁，吃油炒蛋后出现右上腹部剧烈绞痛并向右肩放射，伴呕吐3次，腹部检查右肋缘下有压痛伴吸气终止现象是:",
+        "options": [
+            "A.振水音",
+            "B.Murphy征",
+            "C.Courvoisier征",
+            "D.肝震颤",
+            "E.腹壁静脉曲张常可听到静脉血管杂音"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 274
+    },
+    {
+        "question_text": "275.男性，50岁，发现皮肤巩膜进行性黄染1月，粪便呈陶土色，腹部检查，右肋缘下可扪及囊状物，无压痛，是哪一种体征？",
+        "options": [
+            "A.振水音",
+            "B.Murphy征",
+            "C.Courvoisier征",
+            "D.肝震颤",
+            "E.腹壁静脉曲张常可听到静脉血管杂音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 275
+    },
+    {
+        "question_text": "276.男性病人，因黄疸来诊，化验检查符合阻塞性黄疸，查体胆囊肿大，为鉴别壶腹区癌与胆囊底部结石，下列体征哪项支持后者:",
+        "options": [
+            "A.皮肤呈黄绿色",
+            "B.皮肤呈金黄色",
+            "C.皮肤呈柠檬色",
+            "D.胆囊坚硬而不规则",
+            "E.胆囊光滑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 276
+    },
+    {
+        "question_text": "277.一肝硬化腹水病人，近日腹水进行性加重伴腹胀、低热。首先应考虑合并哪种情况:",
+        "options": [
+            "A.肝病活动",
+            "B.肝肾综合征",
+            "C.上消化道出血",
+            "D.癌变",
+            "E.自发性腹膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 277
+    },
+    {
+        "question_text": "278.一肝硬化腹水病人，近日来低热，腹水进行性加重，疑发生自发性腹膜炎。为确定诊断，最具诊断价值的检查是:",
+        "options": [
+            "A.腹水细胞数500×106/L",
+            "B.腹水培养有G-杆菌生长",
+            "C.腹水外观不透明",
+            "D.腹水蛋白量30g/L",
+            "E.腹水比重1.0180"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 278
+    },
+    {
+        "question_text": "279.男，12岁，持续高热4天。体查:心前区隆起可见心脏搏动，胸骨左缘3、4肋间可触及收缩期震颤，肝末及，脾左肋下2cm，质软，无压痛。该患者脾肿大最有可能的病因是:",
+        "options": [
+            "A.伤寒",
+            "B.淋巴瘤",
+            "C.亚急性感染性心内膜炎",
+            "D.慢性粒细胞性白血病",
+            "E.系统性红斑狼疮"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 279
+    },
+    {
+        "question_text": "280.男，40岁，畏寒、发热6天，肝区疼痛1天。腹部查体:肝右肋下2cm，质软，触痛，边缘整齐，肝右侧肋间隙局限性压痛，并有叩击痛。该患者最有可能的诊断是:",
+        "options": [
+            "A.肝癌",
+            "B.肝炎",
+            "C.肝脓肿",
+            "D.多囊肝",
+            "E.肝包虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 280
+    },
+    {
+        "question_text": "281.男，55岁，腹部查体:肝剑突下5cm，边缘不整，坚硬，有压痛，表面有结节感可闻及血管杂音。该患者最可能拟诊为:",
+        "options": [
+            "A.肝左叶癌",
+            "B.肝血管瘤",
+            "C.肝血吸虫病",
+            "D.腹主动脉瘤",
+            "E.胰腺囊肿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 281
+    },
+    {
+        "question_text": "282.男，26岁，腹部剧烈阵发性绞痛3小时，伴呕吐，腹部检查发现肠鸣音8次/分，伴金属音。该患者最有可能的诊断为:",
+        "options": [
+            "A.血管性肠梗阻",
+            "B.机械性肠梗阻",
+            "C.急性胃肠炎",
+            "D.急性胃肠出血",
+            "E.麻痹性肠梗阻"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 282
+    },
+    {
+        "question_text": "283.男，35岁，上腹部反复发作性疼痛10年，近来上腹疼痛缓解的规律消失，而出现持续的剧烈上腹痛及腰背痛，背部明显压痛。该患者最可能的诊断是:",
+        "options": [
+            "A.胃溃疡活动期",
+            "B.胃黏膜脱垂",
+            "C.十二指肠溃疡活动期",
+            "D.胃癌",
+            "E.穿透性溃疡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 283
+    },
+    {
+        "question_text": "284.女性，45岁，因双膝关节酸痛10天，服吲哚美辛12.5mg，每日三次，连服3天，今晨觉中上腹部不适，呕吐咖啡色液300ml，最可能诊断是:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性糜烂出血性胃炎",
+            "C.食管贲门粘膜撕裂症",
+            "D.胃癌",
+            "E.胃泌素瘤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 284
+    },
+    {
+        "question_text": "285.男性，20岁，反复中上腹部疼痛一年，伴反酸，做胃液分析检查:BAO/MAO＜0.6，MAO42mmol/h，最可能诊断是:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性糜烂出血性胃炎",
+            "C.食管贲门粘膜撕裂症",
+            "D.胃癌",
+            "E.胃泌素瘤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 285
+    },
+    {
+        "question_text": "286.男性，50岁，出现中上腹隐痛3月，疼痛与饮食无明确关系，伴厌食，胃纳减退，腹部检查肝脾不大，中上腹部扪及质地中等边缘不清的鸡蛋大小肿块，最可能诊断是:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性糜烂出血性胃炎",
+            "C.食管贲门粘膜撕裂症",
+            "D.胃癌",
+            "E.胃泌素瘤"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 286
+    },
+    {
+        "question_text": "287.女性，35岁，进食油腻饮食后反复出现右上腹部疼痛一年，腹部检查右上腹部胆囊区有压痛，Murphy征阳性，其可能诊断是:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.肠梗阻",
+            "C.胰头癌",
+            "D.幽门梗阻",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 287
+    },
+    {
+        "question_text": "288.男性，50岁，巩膜皮肤进行性黄疸1月，伴粪色变淡，皮肤瘙痒，腹部检查时右上腹部及卵圆形无压痛的囊性肿物，其可能诊断是:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.肠梗阻",
+            "C.胰头癌",
+            "D.幽门梗阻",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 288
+    },
+    {
+        "question_text": "289.男性，28岁，反复发生饥饿时中上腹部隐痛十年，近一月来出现中上腹胀不适，且于晚间明显，伴呕吐大量酸酵宿食，吐后腹胀症状缓解，其可能诊断是:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.肠梗阻",
+            "C.胰头癌",
+            "D.幽门梗阻",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 289
+    },
+    {
+        "question_text": "290.男性，40岁，皮肤黄染一月余，伴皮肤瘙痒，粪便陶土色，TB140umol/L，CB9umol/L，胆囊可打及，粪OB（＋＋＋）。最适当的检查是:",
+        "options": [
+            "A.骨髓涂片检查",
+            "B.腹部B超",
+            "C.腹部CT",
+            "D.逆行胰导管管造影",
+            "E.肝穿刺活检"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 290
+    },
+    {
+        "question_text": "291.男性，20岁，乏力，纳差1周，尿黄2天，右季肋部隐痛，皮肤巩膜黄染，肝肋下2cm，质软，触痛，脾未及，TB85umol/L,CB26umol/L，尿胆原及尿胆红素均（＋），为明确黄疸性质宜首选的检查是:",
+        "options": [
+            "A.肝穿刺活检",
+            "B.B型超声波检查",
+            "C.转氨酶测定",
+            "D.口服胆囊造影检查",
+            "E.骨髓涂片检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 291
+    },
+    {
+        "question_text": "292.女性，27岁，头昏，乏力5月余。查体:轻度贫血貌，心肺（-），腹软，肝肋下1cm，TB54umol/l，CB10umol/L，ALT＜40u，尿胆红素（-），尿胆原1:320（＋）为明确黄疸性质宜首选的检查是:",
+        "options": [
+            "A.肝穿刺活检",
+            "B.B型超声波检查",
+            "C.转氨酶测定",
+            "D.口服胆囊造影检查",
+            "E.骨髓涂片检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 292
+    },
+    {
+        "question_text": "293.男性，41岁，皮肤巩膜黄染半月余，经检查系胆汁淤积性黄疸，为区别肝内外胆汁淤积应首选哪项检查？",
+        "options": [
+            "A.肝穿刺活检",
+            "B.B型超声波检查",
+            "C.转氨酶测定",
+            "D.口服胆囊造影检查",
+            "E.骨髓涂片检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 293
+    },
+    {
+        "question_text": "294.患者，男性，36岁，间隙性中上腹饥饿痛，夜间痛10年，近二周症状加重，今日午餐后出现中上腹部剧烈而持续性疼痛1小时，伴恶心、呕吐4次，腹部检查见腹式呼吸消失全腹压痛，肌紧张、反跳痛的体征是:",
+        "options": [
+            "A.Murphyi征",
+            "B.Courvoisier征",
+            "C.Grey-turner征",
+            "D.腹膜刺激征",
+            "E.Cullen征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 294
+    },
+    {
+        "question_text": "295.儿科患者下消化道出血的常见原因是:",
+        "options": [
+            "A.Dieulafoy综合征",
+            "B.Crohn病",
+            "C.Mallory-Weiss综合征",
+            "D.Meniere综合征（梅尼埃综合征）",
+            "E.Meckel憩室炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 295
+    },
+    {
+        "question_text": "296.急性阑尾炎时，最有诊断意义的体征是:",
+        "options": [
+            "A.Murphy征阳性",
+            "B.尺压实验阳性",
+            "C.Traube区减小",
+            "D.Courvoisier征阳性",
+            "E.Mcburney点压痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 296
+    },
+    {
+        "question_text": "297.急性阑尾炎属于:",
+        "options": [
+            "A.细菌性感染",
+            "B.病毒性感染",
+            "C.化学性刺激",
+            "D.原虫性感染",
+            "E.机械性梗阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 297
+    },
+    {
+        "question_text": "298.急性胆囊炎时:",
+        "options": [
+            "A.Murphy征阳性",
+            "B.尺压试验阳性",
+            "C.Traube区减小",
+            "D.Courvoisier征阳性",
+            "E.Mcburney点压痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 298
+    },
+    {
+        "question_text": "299.胰腺癌可见:",
+        "options": [
+            "A.Murphy征阳性",
+            "B.尺压实验阳性",
+            "C.Traube区减小",
+            "D.Courvoisier征阳性",
+            "E.Mcburney点压痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 299
+    },
+    {
+        "question_text": "300.脾肿大时:",
+        "options": [
+            "A.Murphy征阳性",
+            "B.尺压实验阳性",
+            "C.Traube区减小",
+            "D.Courvoisier征阳性",
+            "E.Mcburney点压痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 300
+    },
+    {
+        "question_text": "301.巨大卵巢囊肿时:",
+        "options": [
+            "A.Murphy征阳性",
+            "B.尺压实验阳性",
+            "C.Traube区减小",
+            "D.Courvoisier征阳性",
+            "E.Mcburney点压痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 301
+    },
+    {
+        "question_text": "302.肝硬化时可见:",
+        "options": [
+            "A.腹水",
+            "B.腹壁曲张静脉血流方向均向上",
+            "C.食管胃底静脉曲张",
+            "D.脾大",
+            "E.肝肿大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 302
+    },
+    {
+        "question_text": "303.低蛋白血症可见:",
+        "options": [
+            "A.腹水",
+            "B.腹壁曲张静脉血流方向均向上",
+            "C.食管胃底静脉曲张",
+            "D.脾大",
+            "E.肝肿大"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 303
+    },
+    {
+        "question_text": "304.肝癌可见:",
+        "options": [
+            "A.腹水",
+            "B.腹壁曲张静脉血流方向均向上",
+            "C.食管胃底静脉曲张",
+            "D.脾大",
+            "E.肝肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 304
+    },
+    {
+        "question_text": "305.慢性溶血性贫血时可见:",
+        "options": [
+            "A.腹水",
+            "B.腹壁曲张静脉血流方向均向上",
+            "C.食管胃底静脉曲张",
+            "D.脾大",
+            "E.肝肿大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 305
+    },
+    {
+        "question_text": "306.最常见用于腹部的体检方法是",
+        "options": [
+            "A.视诊",
+            "B.触诊",
+            "C.叩诊",
+            "D.听诊",
+            "E.触诊和听诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 306
+    },
+    {
+        "question_text": "307.腹部由腹壁、腹腔和腹腔内脏器组成，体表的腹部上界是由哪一标志组成的？",
+        "options": [
+            "A.胸骨体",
+            "B.胸骨角",
+            "C.第12肋骨",
+            "D.两侧肋弓下缘",
+            "E.两侧季肋部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 307
+    },
+    {
+        "question_text": "308.区别腹部肿块来自腹腔或腹壁最简易的检查方法是:",
+        "options": [
+            "A.超声波检查",
+            "B.胃肠钡餐检查",
+            "C.腹部体格检查",
+            "D.腹部X线平片",
+            "E.同位素扫描"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 308
+    },
+    {
+        "question_text": "309.下列概念哪项是错误的？",
+        "options": [
+            "A.肋脊角是12肋骨与脊柱所形成的角",
+            "B.蛙腹是仰卧时腹水积于两侧腹部",
+            "C.腹纹系真皮层弹力纤维断裂所致",
+            "D.门脉高压腹壁静脉血流方向脐以上的向下",
+            "E.下腔静脉受阻，腹壁静脉血流方向均为自下而上"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 309
+    },
+    {
+        "question_text": "310.关于脊肋角的概念正确的是:",
+        "options": [
+            "A.在两侧腹直肌外缘与肋弓交界处",
+            "B.背部第12肋与脊柱的夹角的顶点",
+            "C.背部第12肋与脊柱的夹角",
+            "D.第12肋与腰肌外缘的夹角",
+            "E.第12肋腰肌外缘的夹角的顶点"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 310
+    },
+    {
+        "question_text": "311.肋脊角压痛常见于哪一种疾病？",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性胆囊炎",
+            "C.急性胰腺炎",
+            "D.急性肾炎",
+            "E.急性肾盂肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 311
+    },
+    {
+        "question_text": "312.位于腹部和右锁骨中线与肋缘的交界处是:",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 312
+    },
+    {
+        "question_text": "313.位于腹部在脐与右髂前上棘连线中，外1/3交界处是:",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 313
+    },
+    {
+        "question_text": "314.位于背部在第12肋骨与脊柱的夹角的顶点是:",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 314
+    },
+    {
+        "question_text": "315.位于背部在第12肋骨与腰肌外缘的夹角的顶点是:",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.肋腰点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 315
+    },
+    {
+        "question_text": "316.位于腹部在脐水平线上腹直肌外缘的是:",
+        "options": [
+            "A.胆囊点",
+            "B.McBurney点",
+            "C.季肋点",
+            "D.上输尿管点",
+            "E.肋脊点"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 316
+    },
+    {
+        "question_text": "317.腹部的范围是:",
+        "options": [
+            "A.肋弓下缘至耻骨联合上缘",
+            "B.包含膈肌及盆腔脏器",
+            "C.上起膈肌，下至耻骨联合，前面及侧面为腹壁，后为脊柱及腰肌",
+            "D.上起膈肌，下至骨盆，前面及侧面为腹壁，后为脊柱及腰肌",
+            "E.上起肋弓下缘，下至骨盆，前面及侧面为腹壁，后为脊柱及腰肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 317
+    },
+    {
+        "question_text": "318.脐在腹壁分区的临床意义不包括:",
+        "options": [
+            "A.平腰椎3、4之间",
+            "B.腹部四区分法的标志",
+            "C.腰椎穿刺的标志",
+            "D.腹部的中心",
+            "E.麦氏点的定位标志"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 318
+    },
+    {
+        "question_text": "319.腹股沟韧带的临床意义不包括:",
+        "options": [
+            "A.寻找股动、静脉的标志",
+            "B.脐疝通过的部位",
+            "C.腹股沟疝的通过部位",
+            "D.与耻骨联合上缘共同构成腹部体表的下届",
+            "E.可以协助鉴别股疝及腹股沟直疝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 319
+    },
+    {
+        "question_text": "320.四区分法的右上腹所包含的右上腹所包含的脏器不包括:",
+        "options": [
+            "A.幽门",
+            "B.十二指肠",
+            "C.胰体尾部",
+            "D.腹主动脉",
+            "E.胆囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 320
+    },
+    {
+        "question_text": "321.根据四区分法，胆囊位于:",
+        "options": [
+            "A.左上腹部",
+            "B.右上腹部",
+            "C.上腹部",
+            "D.右腰部",
+            "E.脐部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 321
+    },
+    {
+        "question_text": "322.在四区分法中，胰头位于:",
+        "options": [
+            "A.左上腹部",
+            "B.右上腹部",
+            "C.右下腹部",
+            "D.左下腹部",
+            "E.上腹部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 322
+    },
+    {
+        "question_text": "323.按四区分法，十二指肠位置在:",
+        "options": [
+            "A.右上腹部",
+            "B.左上腹部",
+            "C.右下腹部",
+            "D.左下腹部",
+            "E.下腹部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 323
+    },
+    {
+        "question_text": "324.根据九区分法，十二指肠下部位于:",
+        "options": [
+            "A.上腹部",
+            "B.左上腹部",
+            "C.右上腹部",
+            "D.脐部",
+            "E.左侧腹部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 324
+    },
+    {
+        "question_text": "325.根据九区分法，乙状结肠位于:",
+        "options": [
+            "A.左上腹部",
+            "B.左下腹部及下腹部",
+            "C.右下腹部",
+            "D.脐部",
+            "E.左侧腹部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 325
+    },
+    {
+        "question_text": "326.腹部分区九区法右上腹不包括哪个脏器？",
+        "options": [
+            "A.十二指肠",
+            "B.肝右叶",
+            "C.右肾上腺",
+            "D.结肠肝曲",
+            "E.胆囊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 326
+    },
+    {
+        "question_text": "327.按九区分区，位于左季肋部的脏器有:",
+        "options": [
+            "A.脾、胃、结肠左曲降结肠左肾左肾上腺",
+            "B.脾、胃、结肠左曲，降结肠空肠或回肠一部分左肾左肾上腺",
+            "C.脾、胃、结肠左曲降结肠胰尾左肾上腺",
+            "D.脾胃结肠左曲胰尾左肾左肾上腺",
+            "E.脾胃空肠胰尾左肾上腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 327
+    },
+    {
+        "question_text": "328.九区分法，乙状结肠位置在:",
+        "options": [
+            "A.右下腹部",
+            "B.右侧腹部",
+            "C.中腹部",
+            "D.左侧腹",
+            "E.左下腹部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 328
+    },
+    {
+        "question_text": "329.在九区分法中，胆囊位于:",
+        "options": [
+            "A.左上腹部",
+            "B.右上腹部",
+            "C.左下腹部",
+            "D.右下腹部",
+            "E.脐部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 329
+    },
+    {
+        "question_text": "330.关于腹围的概念，下列正确的是:",
+        "options": [
+            "A.用软尺绕腹一周，测得的周长",
+            "B.用软尺经两髂前上棘绕腹一周，测得的周长",
+            "C.用软尺经两侧肋弓下缘绕腹一周，测得的周长",
+            "D.用软尺经脐绕腹一周，测得的周长",
+            "E.用软尺经上腹部绕腹一周，测得的周长"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 330
+    },
+    {
+        "question_text": "331.下列哪项不是腹部视诊的内容？",
+        "options": [
+            "A.外形",
+            "B.呼吸运动",
+            "C.腹壁紧张度",
+            "D.腹壁静脉",
+            "E.蠕动波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 331
+    },
+    {
+        "question_text": "332.有关腹部外形视诊的内容下列哪项不正确？",
+        "options": [
+            "A.腹水所致的腹膨隆随体位变化而改变外形",
+            "B.肠胀气所致的腹膨隆其外形不随体位变化而变化",
+            "C.腹壁疝在立体时膨出，平卧时可见局部凹陷",
+            "D.腹壁肿块在仰卧起坐时消失",
+            "E.肥胖症的腹外形如球状膨隆但脐呈凹陷"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 332
+    },
+    {
+        "question_text": "333.下列哪项不是引起全腹膨隆的病因？",
+        "options": [
+            "A.腹水",
+            "B.肠麻痹",
+            "C.人工气腹",
+            "D.幽门梗阻",
+            "E.足月妊娠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 333
+    },
+    {
+        "question_text": "334.有关腹部外形的描述，哪项是错误？",
+        "options": [
+            "A.腹部呈蛙状腹，脐凹陷是腹腔积液",
+            "B.腹部呈球状见肠麻痹",
+            "C.腹部尖腹见于结核性腹膜炎",
+            "D.腹部呈蛙状腹，脐凹陷可见于肥胖者",
+            "E.巨大卵巢囊肿时，脐与耻骨联合间距离大于脐与剑突根部间距离"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 334
+    },
+    {
+        "question_text": "335.关于腹部隆起的描述，错误的是:",
+        "options": [
+            "A.正常人平卧时前腹面明显高于肋缘至耻骨联合平面",
+            "B.因肥胖而致腹部隆起，脐部常凹陷",
+            "C.因肝硬化而致的大量腹水患者多为蛙腹",
+            "D.因结核性腹膜炎而出现腹水的患者多为尖腹",
+            "E.因胃十二指肠穿孔所致的气腹常为球型"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 335
+    },
+    {
+        "question_text": "336.上腹部局限性膨隆最常见于:",
+        "options": [
+            "A.胆囊肿大",
+            "B.肝左叶肿瘤性病变",
+            "C.脾肿大",
+            "D.巨大肾上腺肿瘤",
+            "E.结核性腹膜炎所致的肠粘连"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 336
+    },
+    {
+        "question_text": "337.关于右上腹膨隆原因中，哪项是错误的？",
+        "options": [
+            "A.胆囊肿大",
+            "B.结肠肝区肿瘤",
+            "C.肝脓肿",
+            "D.肝癌",
+            "E.胃扩张"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 337
+    },
+    {
+        "question_text": "338.关于腹部膨隆正确的是:",
+        "options": [
+            "A.下腹部膨隆排尿后都可以消失",
+            "B.局部膨隆是长型者多为囊肿",
+            "C.局部膨隆随呼吸移动者多为膈下脏器或其肿块",
+            "D.膨隆有搏动者可能为动脉后面的肿块",
+            "E.于卧位出现而站立时消失的局部膨隆为腹外疝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 338
+    },
+    {
+        "question_text": "339.全腹膨隆，主要见于哪种情况？",
+        "options": [
+            "A.畸胎瘤",
+            "B.卵巢囊肿",
+            "C.气腹",
+            "D.腹水（约500ml）",
+            "E.肥胖症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 339
+    },
+    {
+        "question_text": "340.腹部局部膨隆呈长条形者，不见于:",
+        "options": [
+            "A.腹腔囊肿",
+            "B.肠套叠",
+            "C.肠扭转",
+            "D.肠梗阻",
+            "E.巨结肠"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 340
+    },
+    {
+        "question_text": "341.肝右叶癌可引起腹部外形何种改变？",
+        "options": [
+            "A.中腹部膨隆",
+            "B.右上腹膨隆",
+            "C.左上腹膨隆",
+            "D.下腹部膨隆",
+            "E.以上均不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 341
+    },
+    {
+        "question_text": "342.腹部局限性膨隆，常可因腹内原因（如脏器肿大、肿瘤、包块等）和腹壁上肿物等原因引起为了进行鉴别，常采用下列哪种方法？",
+        "options": [
+            "A.观察局限性膨隆有无随呼吸而移动",
+            "B.观察局限性膨隆有无搏动",
+            "C.观察局限性膨隆有无随体位而移动",
+            "D.观察尺压试验有无节奏的跳动",
+            "E.仰卧作屈颈抬肩动作看局限性膨隆变得明显或消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 342
+    },
+    {
+        "question_text": "343.腹部肥胖与腹腔内容物增多（积液、积气或大包块）进行鉴别最简单的方法:",
+        "options": [
+            "A.腹部外形的变化",
+            "B.脐部凸出或凹陷",
+            "C.脐周服围的大小程度",
+            "D.腹壁静脉有无曲张",
+            "E.腹式呼吸存在与否"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 343
+    },
+    {
+        "question_text": "344.病人于仰卧位做屈颈抬肩动作时，全腹壁明显凹陷，哪种情况不应出现以上表现？",
+        "options": [
+            "A.恶液质",
+            "B.膈麻痹",
+            "C.腹直肌分裂",
+            "D.急性弥漫性腹膜炎",
+            "E.膈疝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 344
+    },
+    {
+        "question_text": "345.胃肠穿孔患者，腹外形呈:",
+        "options": [
+            "A.球形膨隆",
+            "B.蛙形膨隆",
+            "C.局部膨隆",
+            "D.扁圆形膨隆",
+            "E.尖凸形膨隆"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 345
+    },
+    {
+        "question_text": "346.肝右叶癌可引起腹部外形何种改变？",
+        "options": [
+            "A.中腹部膨隆",
+            "B.左上腹膨隆",
+            "C.右上腹膨隆",
+            "D.全腹膨隆",
+            "E.右下腹膨隆"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 346
+    },
+    {
+        "question_text": "347.蛙腹见于下列哪种情况？",
+        "options": [
+            "A.腹膜有炎症或肿瘤侵润",
+            "B.腹腔大量积液",
+            "C.腹腔大量积气",
+            "D.腹腔巨大肿瘤",
+            "E.腹壁上的肿物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 347
+    },
+    {
+        "question_text": "348.蛙腹常见于:",
+        "options": [
+            "A.腹膜转移瘤",
+            "B.肝硬化",
+            "C.心功能不全",
+            "D.心包炎",
+            "E.肾病综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 348
+    },
+    {
+        "question_text": "349.腹部外形呈蛙腹，见于哪种疾病？",
+        "options": [
+            "A.畸胎瘤",
+            "B.卵巢囊肿",
+            "C.气腹",
+            "D.肝硬化腹水",
+            "E.肥胖症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 349
+    },
+    {
+        "question_text": "350.下列哪项描述是错误的？",
+        "options": [
+            "A.蛙腹仰卧时腹水积于两侧腹部",
+            "B.肋脊角是十二骨与脊柱所形成的角",
+            "C.腹纹是真皮层弹力纤维断裂所致",
+            "D.腹部平坦是平卧时前腹壁与肋缘至耻骨大致位于同一水平面",
+            "E.腹部膨隆是仰卧时前腹壁明显低于肋缘至耻骨的水平面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 350
+    },
+    {
+        "question_text": "351.门脉高压的病人可出现:",
+        "options": [
+            "A.尖腹",
+            "B.板状腹",
+            "C.蛙腹",
+            "D.球状腹",
+            "E.舟状腹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 351
+    },
+    {
+        "question_text": "352.巨大卵巢囊肿常见:",
+        "options": [
+            "A.蛙腹",
+            "B.球形腹",
+            "C.舟状腹",
+            "D.板状腹",
+            "E.平坦腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 352
+    },
+    {
+        "question_text": "353.舟状腹见于以下哪种疾病？",
+        "options": [
+            "A.恶病质，慢性消耗性疾病晚期等",
+            "B.胃肠道梗阻",
+            "C.胃肠穿孔",
+            "D.肝硬化门脉高压症",
+            "E.胃十二指肠溃疡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 353
+    },
+    {
+        "question_text": "354.下列哪项不是舟状腹的病因？",
+        "options": [
+            "A.结核病",
+            "B.肝性腹水",
+            "C.糖尿病",
+            "D.恶性肿瘤",
+            "E.神经性厌食"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 354
+    },
+    {
+        "question_text": "355.板状腹见于:",
+        "options": [
+            "A.肠内积液",
+            "B.肠内积气",
+            "C.腹腔肿瘤",
+            "D.腹水",
+            "E.急性外肠穿孔或脏器破裂所致"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 355
+    },
+    {
+        "question_text": "356.不应出现腹式呼吸减弱或消失的疾病是:",
+        "options": [
+            "A.消化性溃疡",
+            "B.急性胆囊炎",
+            "C.急性胰腺炎",
+            "D.急性肾盂肾炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 356
+    },
+    {
+        "question_text": "357.不应出现腹式呼吸减弱或消失的疾病是:",
+        "options": [
+            "A.腹膜炎症",
+            "B.胸腔积液",
+            "C.急性腹痛",
+            "D.膈麻痹",
+            "E.大量腹水和腹腔内巨大肿物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 357
+    },
+    {
+        "question_text": "358.腹壁疝病人仰卧作屈颈抬肩动作时，腹壁肌肉紧张腹压增加时，可见到哪种变化？",
+        "options": [
+            "A.局限性凹陷",
+            "B.局限性膨隆",
+            "C.局限性搏动",
+            "D.腹部平坦",
+            "E.局限膨隆随腹式呼吸而移动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 358
+    },
+    {
+        "question_text": "359.腹式呼吸增强见于:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.膈麻痹",
+            "C.腹水",
+            "D.腹腔内巨大肿物",
+            "E.胸腔疾病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 359
+    },
+    {
+        "question_text": "360.哪一个脏器的包块不会随呼吸上下移动？",
+        "options": [
+            "A.胆囊",
+            "B.脾脏",
+            "C.胃",
+            "D.游走肾",
+            "E.肝脏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 360
+    },
+    {
+        "question_text": "361.哪一种脏器的包块，不随呼吸上下移动？",
+        "options": [
+            "A.肝脏",
+            "B.肾脏",
+            "C.脐疝",
+            "D.脾脏",
+            "E.胆囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 361
+    },
+    {
+        "question_text": "362.正常腹壁静脉的血流方向是:",
+        "options": [
+            "A.脐以上由上向下",
+            "B.均由上向下",
+            "C.均由下向上",
+            "D.脐以下由下向上",
+            "E.脐以上由下向上，脐以下由上向下"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 362
+    },
+    {
+        "question_text": "363.当患者有上腔静脉阻塞时血流方向是:",
+        "options": [
+            "A.脐水平线以上腹壁静脉血流方向自下而上脐水平线以下腹壁静脉血流方向自上而下",
+            "B.脐水平线以上腹壁静脉血流方向自下而上，脐水平线以下腹壁静脉血流方向自下而上",
+            "C.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自上而下",
+            "D.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自下而上",
+            "E.腹壁静脉常以脐为中心，流向四方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 363
+    },
+    {
+        "question_text": "364.当患者有下腔静脉阻塞时血流方向是:",
+        "options": [
+            "A.脐水平线以上腹壁静脉血流方向自下而上脐水平线以下腹壁静脉血流方向自上而下",
+            "B.脐水平线以上腹壁静脉血流方向自下而上，脐水平线以下腹壁静脉血流方向自下而上",
+            "C.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自上而下",
+            "D.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自下而上",
+            "E.腹壁静脉常以脐为中心，流向四方"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 364
+    },
+    {
+        "question_text": "365.腹壁静脉血流方向均自上而下的见于:",
+        "options": [
+            "A.肝硬化",
+            "B.肝癌",
+            "C.上腔静脉阻塞",
+            "D.子宫肌瘤",
+            "E.下腔静脉阻塞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 365
+    },
+    {
+        "question_text": "366.腹壁静脉曲张，其血流方向向上最可能是:",
+        "options": [
+            "A.胸导管阻塞",
+            "B.肝硬化门脉高压症",
+            "C.上腔静脉阻塞",
+            "D.下腔静脉阻塞",
+            "E.正常老人或消瘦者"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 366
+    },
+    {
+        "question_text": "367.门脉高压征，腹壁静脉曲张时的血流方向正确的是:",
+        "options": [
+            "A.与正常的血流方向相同",
+            "B.血流方向不固定",
+            "C.脐以下的静脉，血流方向为上行性",
+            "D.脐以下的静脉，血流方向为下行性",
+            "E.全部血流方向向上"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 367
+    },
+    {
+        "question_text": "368.肝硬化门静脉高压出现腹壁静脉曲张时，其静脉血流方向为:",
+        "options": [
+            "A.脐以上及脐以下静脉血流方向均向上",
+            "B.脐以上及脐以下静脉血流方向均向下",
+            "C.脐以上静脉血流向上，脐以下静脉血流向下",
+            "D.脐以上静脉血流向下，脐以下静脉血流向上",
+            "E.以上都不对"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 368
+    },
+    {
+        "question_text": "369.腹壁静脉曲张，从血流方向判定，下列哪项为肝硬化的表现？",
+        "options": [
+            "A.血流方向是紊乱的",
+            "B.上腹壁静脉均为向下流",
+            "C.下腹壁静脉均上向流",
+            "D.脐以上静脉向上流，脐以下静脉向下流",
+            "E.脐以上静脉向下流，脐以下静脉向上流"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 369
+    },
+    {
+        "question_text": "370.当患者有肝硬化，门脉高压时血流方向是:",
+        "options": [
+            "A.脐水平线以上腹壁静脉血流方向自下而上，脐水平线以下腹壁静脉血流方向自上而下",
+            "B.脐水平线以上腹壁静脉血流方向自下而上，脐水平线以下腹壁静脉血流方向自下而上",
+            "C.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自上而下",
+            "D.脐水平线以上腹壁静脉血流方向自上而下，脐水平线以下腹壁静脉血流方向自下而上",
+            "E.腹壁静脉常以脐为中心，流向四方"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 370
+    },
+    {
+        "question_text": "371.下列均为检查腹壁静脉曲张血流方向的正确方法，但除外哪一项？",
+        "options": [
+            "A.检查者将手示指和中指并拢压在静脉上",
+            "B.一手指紧压静脉向外滑动，挤出该段静脉血液",
+            "C.挤出该段静脉血流至一定距离放松该手指",
+            "D.一手指挤压静脉至一定距离后两手指同时放松",
+            "E.一手指挤压静脉至一定距离后不动，另一手指放松"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 371
+    },
+    {
+        "question_text": "372.检查腹壁静脉曲张患者，脐以上血流方向由下至上，脐以下血流由上至下。该患者符合哪项？",
+        "options": [
+            "A.上腔静脉阻塞",
+            "B.下腔静脉阻塞",
+            "C.门静脉高压或门静脉阻塞",
+            "D.髂内静脉阻塞",
+            "E.髂外静脉阻塞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 372
+    },
+    {
+        "question_text": "373.下腔静脉阻塞综合征时:",
+        "options": [
+            "A.腹水",
+            "B.腹壁曲张静脉血流方向均向上",
+            "C.食管胃底静脉曲张",
+            "D.脾大",
+            "E.肝肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 373
+    },
+    {
+        "question_text": "374.腹部触诊发现肝肿大时，用手压迫肝脏时出现颈静脉怒张更明显，称为肝一颈静脉回流征阳性，是下列哪种疾病的征象？",
+        "options": [
+            "A.右心衰竭肝淤血征",
+            "B.肝硬化门静脉高压",
+            "C.上腔静脉阻塞综合征",
+            "D.下腔静脉阻塞综合征",
+            "E.肝静脉阻塞综合征"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 374
+    },
+    {
+        "question_text": "375.进行腹部视诊时，下列哪种情况不应见到胃肠型和蠕动波？",
+        "options": [
+            "A.腹壁菲薄或松弛的老年人",
+            "B.幽门梗阻",
+            "C.小肠梗阻",
+            "D.结肠梗阻",
+            "E.大量腹腔积液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 375
+    },
+    {
+        "question_text": "376.关于肠胃型和蠕动波不正确的是:",
+        "options": [
+            "A.胃蠕动波自右向左为逆蠕动波",
+            "B.小肠梗阻所至的蠕动波多见于中腹部",
+            "C.严重的肠梗阻可呈多层梯型肠型，蠕动波运行方向一致",
+            "D.结肠远端梗阻、肠型多位于腹部周边",
+            "E.如发生肠麻痹，则蠕动波消失"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 376
+    },
+    {
+        "question_text": "377.关于蠕动波的叙述错误的是:",
+        "options": [
+            "A.胃蠕动波可与胃型同时看到",
+            "B.胃蠕动波从左到右",
+            "C.胃蠕动波不能从右向左",
+            "D.肠梗阻时可见肠蠕动波",
+            "E.肠麻痹时肠型明显但无蠕动波"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 377
+    },
+    {
+        "question_text": "378.上腹部出现明显自左向右下的蠕动波，常见于下列哪种疾病？",
+        "options": [
+            "A.急性胃炎",
+            "B.胃粘膜脱垂",
+            "C.胃癌",
+            "D.胃溃疡",
+            "E.幽门梗阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 378
+    },
+    {
+        "question_text": "379.患者腹部出现由左肋下向右进行的较强蠕动波，见于下列何种病变？",
+        "options": [
+            "A.胃下垂",
+            "B.胃扩张",
+            "C.幽门梗阻",
+            "D.胃癌",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 379
+    },
+    {
+        "question_text": "380.胃蠕动波见于:",
+        "options": [
+            "A.胃溃疡",
+            "B.急性胃炎",
+            "C.胃癌",
+            "D.幽门梗阻",
+            "E.肠梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 380
+    },
+    {
+        "question_text": "381.有关腹部皮肤的视诊，下列哪项不正确？",
+        "options": [
+            "A.急性坏死性胰腺炎时出现脐周发蓝",
+            "B.腹部紫纹见于皮质醇增多症",
+            "C.妊娠期腹纹呈淡蓝色",
+            "D.腰部不规则色素斑见于神经纤维瘤",
+            "E.体毛增多见于粘液水肿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 381
+    },
+    {
+        "question_text": "382.关于紫纹出现的部位，不正确的是:",
+        "options": [
+            "A.上腹部",
+            "B.下腹部",
+            "C.臀部",
+            "D.股外侧",
+            "E.肩背部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 382
+    },
+    {
+        "question_text": "383.紫纹出现于:",
+        "options": [
+            "A.肥胖者",
+            "B.妊娠期",
+            "C.皮质醇增多症",
+            "D.Addison病",
+            "E.传染病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 383
+    },
+    {
+        "question_text": "384.Grey-Turner征是指:",
+        "options": [
+            "A.左腰部皮肤呈蓝色",
+            "B.脐周围皮肤呈蓝色",
+            "C.系腰带部呈黑色",
+            "D.脐与趾骨之间有褐色沉着",
+            "E.上腹部地图样红褐色"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 384
+    },
+    {
+        "question_text": "385.Cullen征是指:",
+        "options": [
+            "A.脐周围发蓝",
+            "B.左腰部呈蓝色",
+            "C.下腹部紫纹",
+            "D.脐周簇状曲张静脉",
+            "E.系腰带部位皮肤发黑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 385
+    },
+    {
+        "question_text": "386.脐部皮肤变蓝，应考虑:",
+        "options": [
+            "A.粘连性结核性腹膜炎",
+            "B.脐部化脓性感染",
+            "C.脾破裂",
+            "D.大量腹水",
+            "E.肾上腺皮质功能减退"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 386
+    },
+    {
+        "question_text": "387.急性坏死型胰腺炎出现皮肤变化是:",
+        "options": [
+            "A.皮肤褶皱处，腹股沟，腰带部位有褐色素沉淀",
+            "B.腰部，脐周皮肤呈蓝色",
+            "C.腹部点状深褐色色素沉着",
+            "D.一侧腰部或腹部的疱疹",
+            "E.下腹部和髂部淡蓝色，粉红色或白色条纹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 387
+    },
+    {
+        "question_text": "388.肾上腺皮质功能减退出现皮肤变化是:",
+        "options": [
+            "A.皮肤褶皱处，腹股沟，腰带部位有褐色素沉淀",
+            "B.腰部，脐周皮肤呈蓝色",
+            "C.腹部点状深褐色色素沉着",
+            "D.一侧腰部或腹部的疱疹",
+            "E.下腹部和髂部淡蓝色，粉红色或白色条纹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 388
+    },
+    {
+        "question_text": "389.带状疱疹出现皮肤变化是:",
+        "options": [
+            "A.皮肤褶皱处，腹股沟，腰带部位有褐色素沉淀",
+            "B.腰部，脐周皮肤呈蓝色",
+            "C.腹部点状深褐色色素沉着",
+            "D.一侧腰部或腹部的疱疹",
+            "E.下腹部和髂部淡蓝色，粉红色或白色条纹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 389
+    },
+    {
+        "question_text": "390.妊娠或产后出现皮肤变化是:",
+        "options": [
+            "A.皮肤褶皱处，腹股沟，腰带部位有褐色素沉淀",
+            "B.腰部，脐周皮肤呈蓝色",
+            "C.腹部点状深褐色色素沉着",
+            "D.一侧腰部或腹部的疱疹",
+            "E.下腹部和髂部淡蓝色，粉红色或白色条纹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 390
+    },
+    {
+        "question_text": "391.血色病出现皮肤变化是:",
+        "options": [
+            "A.皮肤褶皱处，腹股沟，腰带部位有褐色素沉淀",
+            "B.腰部，脐周皮肤呈蓝色",
+            "C.腹部点状深褐色色素沉着",
+            "D.一侧腰部或腹部的疱疹",
+            "E.下腹部和髂部淡蓝色，粉红色或白色条纹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 391
+    },
+    {
+        "question_text": "392.关于腹外疝不正确的是:",
+        "options": [
+            "A.脐疝多见于婴幼儿",
+            "B.两侧腹直肌闭合不良者可有白线疝",
+            "C.手术愈合不良处可有切口疝",
+            "D.股疝位于腹股沟韧带内侧，多见于男性",
+            "E.男性腹股沟斜疝可下降至阴囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 392
+    },
+    {
+        "question_text": "393.关于上腹部搏动的临床意义，下列正确的是:",
+        "options": [
+            "A.腹主动脉瘤和肝血管瘤时，在吸气时明显",
+            "B.二尖瓣狭窄或关闭不全引起的右心室增大，在呼气时明显",
+            "C.二尖瓣狭窄或关闭不全引起的右心室增大，在吸气时明显",
+            "D.腹主动脉瘤，用手指及中指指腹贴于剑突下，于呼气时指腹感到搏动为右心室肥大",
+            "E.于吸气时指尖感到搏动明显，则为腹主动脉搏动"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 393
+    },
+    {
+        "question_text": "394.腹部检查，下列哪项错误？",
+        "options": [
+            "A.幽门梗阻时有振水音",
+            "B.肋下扪及肝脏提示肝肿大",
+            "C.正常人不能扪及脾脏",
+            "D.正常人可触到腹主动脉搏动",
+            "E.肠鸣音消失可见于肠麻痹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 394
+    },
+    {
+        "question_text": "395.进行腹部触诊时，一般按下列哪种顺序进行？",
+        "options": [
+            "A.自右下腹开始顺时针方向，自下而上，先右后左进行触诊",
+            "B.自右上腹开始逆时针方向，自上而下，先左后右进行触诊",
+            "C.自右上腹开始顺时针方向，自上而下，先右后左进行触诊",
+            "D.自左下腹开始逆时针方向，自下而上，先左后右进行触诊",
+            "E.一般自脐部开始向四周自下而上，先左后右进行触诊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 395
+    },
+    {
+        "question_text": "396.腹部触诊顺序，以下哪项不正确？",
+        "options": [
+            "A.由下而上",
+            "B.先左后右",
+            "C.先浅后深",
+            "D.先广泛后局部",
+            "E.病变或疼痛部位最先检查，以免遗漏"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 396
+    },
+    {
+        "question_text": "397.哪一项为正常腹部可触及的脏器？",
+        "options": [
+            "A.腹直肌腱划",
+            "B.横结肠",
+            "C.腰椎椎体",
+            "D.乙状结肠",
+            "E.以上均是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 397
+    },
+    {
+        "question_text": "398.触诊腹部时，下列哪项是错误的？",
+        "options": [
+            "A.正常人腹壁柔软",
+            "B.腹肌紧张均为腹部病理改变",
+            "C.板状腹是指广泛性的腹壁紧张",
+            "D.局限性腹壁紧张常为某一局部炎症所引起",
+            "E.急性阑尾炎可出现右下腹肌紧张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 398
+    },
+    {
+        "question_text": "399.腹部触诊内容，不包括下列哪一项？",
+        "options": [
+            "A.腹壁紧张度",
+            "B.腹部包块",
+            "C.液波震颤",
+            "D.蠕动波",
+            "E.有无压痛及反跳痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 399
+    },
+    {
+        "question_text": "400.腹部触诊内容不包括:",
+        "options": [
+            "A.液波震颤",
+            "B.腹肌紧张度",
+            "C.移动性浊音",
+            "D.压痛及反跳痛",
+            "E.振水音"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 400
+    },
+    {
+        "question_text": "401.腹部触诊的注意事项，下列哪一项正确？",
+        "options": [
+            "A.病人半卧位，两腿对称屈起",
+            "B.病人平卧位，缓慢作胸式呼吸",
+            "C.病人卧位，双手放于胸前，作腹式呼吸",
+            "D.病人取仰卧位，两上肢平伸放于躯干两侧，双腿屈曲，平静状态下作腹式呼吸",
+            "E.侧卧位，平静呼吸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 401
+    },
+    {
+        "question_text": "402.在腹部触诊中，哪种体征的检查手法不属于浅部触诊？",
+        "options": [
+            "A.浅表压痛",
+            "B.反跳痛",
+            "C.腹肌紧张",
+            "D.搏动",
+            "E.腹内肿块块和脏器肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 402
+    },
+    {
+        "question_text": "403.在腹部触诊中，检查内容不属于浅部触诊法的是:",
+        "options": [
+            "A.浅表压痛",
+            "B.反跳痛",
+            "C.腹肌紧张",
+            "D.搏动",
+            "E.腹壁上的肿物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 403
+    },
+    {
+        "question_text": "404.正常腹部触诊时，可触及哪一种脏器？",
+        "options": [
+            "A.脾脏",
+            "B.胆囊",
+            "C.膀胱",
+            "D.腰椎椎体、骶骨岬",
+            "E.子宫"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 404
+    },
+    {
+        "question_text": "405.下列关于腹部触诊的内容哪项不正确？",
+        "options": [
+            "A.腹壁紧张度",
+            "B.Murphy征",
+            "C.肝大小",
+            "D.反跳痛",
+            "E.蠕动波"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 405
+    },
+    {
+        "question_text": "406.正常人腹部不能触及的器官是:",
+        "options": [
+            "A.腹主动脉",
+            "B.3～5腰椎椎体",
+            "C.盲肠",
+            "D.胰腺",
+            "E.横结肠"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 406
+    },
+    {
+        "question_text": "407.下列体征适用于深部触诊法检查，除了:",
+        "options": [
+            "A.中输尿管点压痛",
+            "B.板状腹",
+            "C.肝脏左叶",
+            "D.右肾下极",
+            "E.乙状结肠包块"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 407
+    },
+    {
+        "question_text": "408.为了鉴别腹部局限性膨隆是腹腔内肿块或腹壁上肿块，常采用的方法是:",
+        "options": [
+            "A.局限性膨隆有无随呼吸而移动",
+            "B.局限性膨隆有无搏动",
+            "C.局限膨隆有无随体位而移动",
+            "D.尺压试验有无有节奏的跳动",
+            "E.仰卧作屈颈抬肩动作看局限性膨隆变得明显或消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 408
+    },
+    {
+        "question_text": "409.以下何者错误？",
+        "options": [
+            "A.触诊肝大小，测右锁骨中线肋弓缘至肝下缘",
+            "B.肝硬度分三个等级表示",
+            "C.正常肝下缘在剑下3cm，深呼气可达肋缘下1～2cm",
+            "D.肝癌时肝大，表面凹凸不平",
+            "E.胆囊炎时在右肋缘下多能触到肿大的胆囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 409
+    },
+    {
+        "question_text": "410.检查腹壁是否紧张，应选用下述哪一种触诊法？",
+        "options": [
+            "A.深部触诊法",
+            "B.Murphy触诊法",
+            "C.双手触诊法",
+            "D.冲击触诊法",
+            "E.浅触法"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 410
+    },
+    {
+        "question_text": "411.冲击触诊法最适宜于下列何种情况？",
+        "options": [
+            "A.患者呼吸动作配合不好时肝脏触诊",
+            "B.有腹水者肝脏触诊",
+            "C.腹膜炎肝脏触诊",
+            "D.患者极度肥胖时肝脏触诊",
+            "E.双手触诊不满意时肝脏触诊"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 411
+    },
+    {
+        "question_text": "412.腹腔积液过多，触诊肿大肝脾时宜采用:",
+        "options": [
+            "A.浅部触诊法",
+            "B.深部滑行触诊法",
+            "C.双手触诊法",
+            "D.冲击触诊法",
+            "E.深插触诊法"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 412
+    },
+    {
+        "question_text": "413.局限性右下腹肌紧张见于:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.急性胆囊炎",
+            "C.胃肠穿孔",
+            "D.盆腔脏器炎症",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 413
+    },
+    {
+        "question_text": "414.腹部检查扪及胆囊肿大且有压痛，首先考虑哪一种疾病？",
+        "options": [
+            "A.慢性胆囊炎",
+            "B.胆囊癌",
+            "C.胰头癌",
+            "D.急性胆囊炎",
+            "E.胆囊结石"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 414
+    },
+    {
+        "question_text": "415.进行腹部检查时，使用下列哪种方法可将腹壁和腹内脏器的病变所致压痛进行鉴别:",
+        "options": [
+            "A.抓捏腹壁",
+            "B.做腹部浅部触诊",
+            "C.做腹部深部滑行触诊",
+            "D.做腹部深压触诊",
+            "E.做腹部冲击触诊"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 415
+    },
+    {
+        "question_text": "416.腹壁紧张度增加，常见于:",
+        "options": [
+            "A.大量放腹水后",
+            "B.老年人",
+            "C.经产妇",
+            "D.腹肌瘫痪",
+            "E.弥漫性腹膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 416
+    },
+    {
+        "question_text": "417.腹膜刺激征是下列哪种疾病的重要体征:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.急性胰腺炎",
+            "C.急性胆囊炎",
+            "D.急性阑尾炎",
+            "E.急性肠梗阻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 417
+    },
+    {
+        "question_text": "418.当腹膜受到细菌感染或化学物质刺激时，可出现腹壁紧张度增加，下列哪种病征可不明显？",
+        "options": [
+            "A.消化性溃疡急性穿孔",
+            "B.癌性腹膜炎",
+            "C.结核性腹膜炎",
+            "D.急性坏死性胰腺炎",
+            "E.大量腹腔积液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 418
+    },
+    {
+        "question_text": "419.下列关于腹膜刺激征错误的是:",
+        "options": [
+            "A.腹肌紧张度增加",
+            "B.弥漫性或限局性压痛",
+            "C.反跳痛阳性",
+            "D.亦称腹膜炎三联征",
+            "E.肠鸣音减弱或消失"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 419
+    },
+    {
+        "question_text": "420.因咳嗽、呼吸、转动体位均可使疼痛加剧，急性弥漫性腹膜炎患者被迫采取何种体位？",
+        "options": [
+            "A.仰卧位",
+            "B.俯卧位",
+            "C.半卧位",
+            "D.仰卧位，两下肢屈曲",
+            "E.仰卧位，两下肢伸直"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 420
+    },
+    {
+        "question_text": "421.哪种病征在腹部检查时，不应出现腹直肌紧张度减低？",
+        "options": [
+            "A.慢性消耗性疾病",
+            "B.大量放腹腔积液后",
+            "C.经产妇或老年体弱脱水者",
+            "D.腹腔内容物增加",
+            "E.脊髓损伤所致腹直肌瘫痪和重症肌无力"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 421
+    },
+    {
+        "question_text": "422.下腹壁反射的反射中枢位于:",
+        "options": [
+            "A.胸7～8节",
+            "B.胸3～4节",
+            "C.胸5～6节",
+            "D.胸9～10节",
+            "E.胸11～12节"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 422
+    },
+    {
+        "question_text": "423.一侧腹壁反射消失，见于:",
+        "options": [
+            "A.昏迷",
+            "B.急性弥漫性腹膜炎",
+            "C.经产妇腹壁过于松驰",
+            "D.同侧椎体束病损",
+            "E.对侧椎体束病损"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 423
+    },
+    {
+        "question_text": "424.关于腹壁反射消失，错误的是:",
+        "options": [
+            "A.可见于儿童",
+            "B.可见于老年患者",
+            "C.可见于经产妇",
+            "D.可见于昏迷患者",
+            "E.可见于急性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 424
+    },
+    {
+        "question_text": "425.全腹紧张呈揉面或柔韧感见于:",
+        "options": [
+            "A.肝硬化",
+            "B.急性胃穿孔",
+            "C.腹膜肿瘤",
+            "D.肠梗阻",
+            "E.胃下垂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 425
+    },
+    {
+        "question_text": "426.腹部揉面感最多见于:",
+        "options": [
+            "A.胃穿孔",
+            "B.腹腔出血",
+            "C.急性弥漫性腹膜炎",
+            "D.结核性腹膜炎",
+            "E.急性阑尾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 426
+    },
+    {
+        "question_text": "427.左上腹突发横行带状压痛，伴肌紧张，并涉及左腰部，最可能的诊断为:",
+        "options": [
+            "A.急性腹膜炎",
+            "B.急性胃炎",
+            "C.急性胆囊炎",
+            "D.急性胰腺炎",
+            "E.急性肝炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 427
+    },
+    {
+        "question_text": "428.腹壁触诊揉面感可见于:",
+        "options": [
+            "A.胃肠穿孔弥漫性腹膜炎",
+            "B.癌肿的腹膜转移",
+            "C.结核性腹膜炎",
+            "D.急性阑尾炎",
+            "E.肝硬化腹水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 428
+    },
+    {
+        "question_text": "429.腹部触诊呈板状腹提示:",
+        "options": [
+            "A.腹部胀气",
+            "B.腹水",
+            "C.腹膜炎",
+            "D.巨大卵巢囊肿",
+            "E.腹壁疝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 429
+    },
+    {
+        "question_text": "430.腹部反跳痛发生的病理机制是:",
+        "options": [
+            "A.空腔脏器扩张",
+            "B.内脏肿大与肿瘤",
+            "C.腹膜后淋巴结肿大",
+            "D.腹腔脏器炎症累及壁层腹膜",
+            "E.腹腔脏器炎症累及脏层腹膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 430
+    },
+    {
+        "question_text": "431.关于腹部反跳痛不正确的是:",
+        "options": [
+            "A.检查时腹部出现压痛后手指于原处稍停片刻",
+            "B.检查时腹部出现压痛后迅速抬手",
+            "C.当突然抬手时腹膜被牵拉引起疼痛",
+            "D.阳性说明腹膜壁层已受累及",
+            "E.见于急慢性腹膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 431
+    },
+    {
+        "question_text": "432.腹部检查发现压痛及反跳痛说明:",
+        "options": [
+            "A.腹部实质性脏器炎症",
+            "B.腹壁疾病",
+            "C.腹膜壁层炎症",
+            "D.腹部空腔性脏器炎症",
+            "E.肠系膜淋巴结炎症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 432
+    },
+    {
+        "question_text": "433.腹部产生反跳痛的原因是:",
+        "options": [
+            "A.腹膜壁层受炎症累及",
+            "B.腹腔过度充血",
+            "C.肠道黏膜层炎症",
+            "D.急性消化道出血",
+            "E.腹腔内淋巴结发炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 433
+    },
+    {
+        "question_text": "434.患者，男性，36岁。反复上腹部饥饿痛、夜间痛10年，近2周症状加重，今日午餐后出现中上腹剧烈疼痛1小时，伴呕吐3次，腹部检查可见腹式呼吸消失，全腹压痛，反跳痛，腹肌紧张，该患者典型的体征是下列哪项？",
+        "options": [
+            "A.Murphy征",
+            "B.Courvoisier征",
+            "C.Grey-turner征",
+            "D.Peritonealirritation征",
+            "E.Cullen征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "434",
+        "number": 434
+    }
+]

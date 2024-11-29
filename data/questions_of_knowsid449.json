@@ -1,0 +1,352 @@
+[
+    {
+        "question_text": "1.测量病毒大小常用的是",
+        "options": [
+            "A.米",
+            "B.厘米",
+            "C.毫米",
+            "D.微米",
+            "E.纳米"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 1
+    },
+    {
+        "question_text": "2.可直接测量病毒体大小的方法是",
+        "options": [
+            "A.电镜观察法",
+            "B.光镜观察法",
+            "C.X线衍射法",
+            "D.超速离心法",
+            "E.超过滤法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 2
+    },
+    {
+        "question_text": "3.对病毒生物学性状的描述，不正确的是",
+        "options": [
+            "A.对抗生素不敏感，对干扰素敏感",
+            "B.含有DNA和RNA两种核酸",
+            "C.以复制方式增殖",
+            "D.必须寄生于活细胞内",
+            "E.属于非细胞型微生物"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 3
+    },
+    {
+        "question_text": "4.在生物学性状上病毒与衣原体共同具有的特点是",
+        "options": [
+            "A.只有一种核酸",
+            "B.非细胞结构",
+            "C.严格细胞内寄生",
+            "D.对抗生素敏感",
+            "E.以复制方式繁殖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 4
+    },
+    {
+        "question_text": "5.能代表病毒体的一种结构成分是",
+        "options": [
+            "A.核酸",
+            "B.衣壳",
+            "C.核衣壳",
+            "D.包膜",
+            "E.刺突"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 5
+    },
+    {
+        "question_text": "6.病毒的增殖方式是",
+        "options": [
+            "A.复制",
+            "B.裂殖",
+            "C二分裂",
+            "D.芽生",
+            "E.分泌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于病毒的描述正确的是",
+        "options": [
+            "A.病毒能侵害动植物",
+            "B.病毒可产生类毒索",
+            "C.病毒对抗生素敏感",
+            "D.病毒不具有免疫原性",
+            "E.抗病毒药物种类多、效果好、副作用小、价格低"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 7
+    },
+    {
+        "question_text": "8.病毒的感染性核酸指的是",
+        "options": [
+            "A.双链DNA",
+            "B.单链RNA",
+            "C.去除包膜的病毒核酸",
+            "D.去除衣壳的病毒核酸",
+            "E.去除衣壳仍能进人宿主细胞引起感染的游离核酸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 8
+    },
+    {
+        "question_text": "9.核酸的特点是",
+        "options": [
+            "A.容易被细胞摄取",
+            "B.不易被细胞外面的体液及细胞膜上的核酸酶降解",
+            "C.感染性强于病毒体",
+            "D.感染的宿主范围比病毒体广",
+            "E.感染性核酸不能进人宿主细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 9
+    },
+    {
+        "question_text": "10.裸露病毒体的结构是",
+        "options": [
+            "A.核酸＋包膜",
+            "B.核心＋衣壳＋包膜",
+            "C.核衣壳＋刺突",
+            "D.核心+衣壳",
+            "E.核酸+蛋白质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于病毒包膜的叙述，不正确的是",
+        "options": [
+            "A.主要来源于宿主细胞膜",
+            "B.具有保护病毒的作用",
+            "C.化学成分为脂类、蛋白质和多糖",
+            "D.破坏包膜可使病毒失去感染性",
+            "E.表面突起称为壳粒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 11
+    },
+    {
+        "question_text": "12.判断病毒有无包膜的依据是",
+        "options": [
+            "A.是否出现细胞病变",
+            "B.对脂溶剂是否敏感",
+            "C.对温度抵抗力不同",
+            "D.超速离心沉降速度不同",
+            "E.对苯酚是否敏感"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 12
+    },
+    {
+        "question_text": "13.与病毒衣壳功能无关的是",
+        "options": [
+            "A.介导病毒体吸附易感细胞受体",
+            "B.保护病毒核酸",
+            "C.病毒分类、鉴定的依据",
+            "D.本身具有传染性",
+            "E.构成病毒特异性抗原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 13
+    },
+    {
+        "question_text": "14.哪项不是包膜病毒所具有的特点",
+        "options": [
+            "A.对脂溶剂敏感",
+            "B.出芽增殖",
+            "C.能在肠道黏膜细胞中生长繁殖",
+            "D.含有宿主细胞的化学成分",
+            "E.有包膜病毒电镜下常呈多形态性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 14
+    },
+    {
+        "question_text": "15.病毒复制周期中，不正确的一个环节是",
+        "options": [
+            "A.吸附",
+            "B.穿人",
+            "C.脱壳",
+            "D.生物合成",
+            "E.分裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于正链RNA病海，下列描述正确的是",
+        "options": [
+            "A.病毒的RNA只能携带部分遗传信息",
+            "B.病毒的RNA需经转录方能作为mRNA",
+            "C.病毒的RNA可直接作为mRNA翻译病毒蛋白",
+            "D.病毒的RNAG+C含量高",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 16
+    },
+    {
+        "question_text": "17.病毒的遗传信息从RNA转移到DNA的过程被称为",
+        "options": [
+            "A.转导作用",
+            "B.转化作用",
+            "C.逆转录",
+            "D.重组",
+            "E.翻译"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 17
+    },
+    {
+        "question_text": "18.缺陷病毒的本质是指",
+        "options": [
+            "A.包膜表面缺少剌突",
+            "B.缺少衣壳",
+            "C.病毒的酶有缺损",
+            "D.基因组缺损",
+            "E.复制周期不完整"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 18
+    },
+    {
+        "question_text": "19.可将自身基因组与宿主细胞基因组整合的病毒是",
+        "options": [
+            "ASS(-)RNA病毒",
+            "B.SSDNA病毒",
+            "C.dsRNA病毒",
+            "D.SS(+RNA病毒",
+            "E.逆转录病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 19
+    },
+    {
+        "question_text": "20.复制过程可形成RNA-DNA杂合中间体的是",
+        "options": [
+            "A.流感病毒",
+            "B.麻珍病毒",
+            "C.腺病毒",
+            "D.乙肝病毒",
+            "E.疱疹病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 20
+    },
+    {
+        "question_text": "21.属于病毒基因突变的是",
+        "options": [
+            "A.交叉复活",
+            "B.互补作用",
+            "C.温度敏感性变异",
+            "D.干扰现象",
+            "E.表型混合"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 21
+    },
+    {
+        "question_text": "22.不属于病毒遗传性变异的是",
+        "options": [
+            "A.温度敏感性变异",
+            "B.表型混合",
+            "C.缺陷型干扰突变",
+            "D.基因重组",
+            "E.交叉复活"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 22
+    },
+    {
+        "question_text": "23.易发生基因重配的病毒是",
+        "options": [
+            "A.DNA病毒",
+            "B.RNA病毒",
+            "C.包膜病毒",
+            "D.肿瘤相关病毒",
+            "E.基因组分节段的病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 23
+    },
+    {
+        "question_text": "24.灭活是指在理化因素作用下使病毒失去",
+        "options": [
+            "A.免疫原性",
+            "B.血凝特性",
+            "C.诱生干扰素的能力",
+            "D.感染性",
+            "E.融合细胞特性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 24
+    },
+    {
+        "question_text": "25.灭活病毒无效的因素是",
+        "options": [
+            "A.温度",
+            "B.乙醚",
+            "C.青霉素",
+            "D.氯仿",
+            "E.紫外线"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "25",
+        "number": 25
+    }
+]

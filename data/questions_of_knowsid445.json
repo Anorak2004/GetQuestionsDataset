@@ -1,0 +1,100 @@
+[
+    {
+        "question_text": "1.下述能通过0.45微米滤菌器的微生物是",
+        "options": [
+            "A.葡萄球菌",
+            "B.大肠埃希菌",
+            "C.肺炎链球菌",
+            "D.肺炎支原体",
+            "E.白色念珠菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 1
+    },
+    {
+        "question_text": "2.能在无生命培养基中生长繁殖的最小原核细胞型微生物是",
+        "options": [
+            "A.支原体",
+            "B.螺旋体",
+            "C.立克次体",
+            "D.衣原体",
+            "E.病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 2
+    },
+    {
+        "question_text": "3.支原体与细菌的主要不同点是",
+        "options": [
+            "A.含有两种核酸",
+            "B.含有核糖体",
+            "C.无细胞壁",
+            "D.仅有核质，无核膜和核仁",
+            "E.能在无生命培养基中生长"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 3
+    },
+    {
+        "question_text": "4.支原体胞膜具有几层结构",
+        "options": [
+            "A.2",
+            "B.3",
+            "C.4",
+            "D.5",
+            "E.6"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 4
+    },
+    {
+        "question_text": "5.支原体胞膜成分中胆固醇含量为",
+        "options": [
+            "A.6%",
+            "B.16%",
+            "C.26%",
+            "D.36%",
+            "E.46%"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列哪种结构与肺炎支原体的致病性有关？",
+        "options": [
+            "A.菌毛",
+            "B.胞膜",
+            "C.顶端结构",
+            "D.微丝",
+            "E.脂质"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 6
+    },
+    {
+        "question_text": "7.能通过胎盘感染胎儿的支原体是",
+        "options": [
+            "A.脲原体",
+            "B.肺炎支原体",
+            "C.发酵支原体",
+            "D.原体",
+            "E.始体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "7",
+        "number": 7
+    }
+]

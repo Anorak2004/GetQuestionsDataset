@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "2525、本体感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自外界的触、压、温度等理化刺激",
+            "E.接受来自内环境的压力、温度、离子浓度等理化刺激"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2526、外感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自内环境的压力、温度、离子浓度等理化刺激",
+            "E.接收机体运动时产生的刺激"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "2527、内感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自外界的触、压、温度等理化刺激",
+            "E.接收机体运动时产生的刺激"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "2525、本体感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自外界的触、压、温度等理化刺激",
+            "E.接受来自内环境的压力、温度、离子浓度等理化刺激"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "2526、外感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自内环境的压力、温度、离子浓度等理化刺激",
+            "E.接收机体运动时产生的刺激"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "2527、内感受器（  ）",
+        "options": [
+            "A.分布于肌、肌腱、关节和内耳位觉器等处",
+            "B.分布于皮肤、黏膜等处",
+            "C.分布于内脏、血管壁等处",
+            "D.接受来自外界的触、压、温度等理化刺激",
+            "E.接收机体运动时产生的刺激"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "2528、本体感受器分布于（  ）",
+        "options": [
+            "A.肌",
+            "B.肌腱",
+            "C.关节",
+            "D.中耳",
+            "E.内耳"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "2529、属于内感受器的是",
+        "options": [
+            "A.视器",
+            "B.分布于内脏的感受器",
+            "C.分布于黏膜的感受器",
+            "D.分布于关节的感受器",
+            "E.分布于血管的感受器"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "2530、属于外感受器的是",
+        "options": [
+            "A.视器",
+            "B.分布于内脏的感受器",
+            "C.分布于黏膜的感受器",
+            "D.听器",
+            "E.分布于血管的感受器"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "2528、本体感受器分布于（  ）",
+        "options": [
+            "A.肌",
+            "B.肌腱",
+            "C.关节",
+            "D.中耳",
+            "E.内耳"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "2529、属于内感受器的是",
+        "options": [
+            "A.视器",
+            "B.分布于内脏的感受器",
+            "C.分布于黏膜的感受器",
+            "D.分布于关节的感受器",
+            "E.分布于血管的感受器"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "2530、属于外感受器的是",
+        "options": [
+            "A.视器",
+            "B.分布于内脏的感受器",
+            "C.分布于黏膜的感受器",
+            "D.听器",
+            "E.分布于血管的感受器"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

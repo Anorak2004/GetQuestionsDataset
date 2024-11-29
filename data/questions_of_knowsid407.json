@@ -1,0 +1,86 @@
+[
+    {
+        "question_text": "1379、中空性器官有",
+        "options": [
+            "A.肝",
+            "B.睾丸",
+            "C.肺",
+            "D.子宫",
+            "E.肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 1
+    },
+    {
+        "question_text": "1380、实质性器官有",
+        "options": [
+            "A.肺",
+            "B.胃",
+            "C.直肠",
+            "D.输卵管",
+            "E.膀胱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 2
+    },
+    {
+        "question_text": "1379、中空性器官有",
+        "options": [
+            "A.肝",
+            "B.睾丸",
+            "C.肺",
+            "D.子宫",
+            "E.肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 3
+    },
+    {
+        "question_text": "1380、实质性器官有",
+        "options": [
+            "A.肺",
+            "B.胃",
+            "C.直肠",
+            "D.输卵管",
+            "E.膀胱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 4
+    },
+    {
+        "question_text": "1381、全部或部分位于左季肋区的器官是",
+        "options": [
+            "A.胃",
+            "B.肝左叶",
+            "C.脾",
+            "D.胰尾",
+            "E.左肾"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 5
+    },
+    {
+        "question_text": "1381、全部或部分位于左季肋区的器官是",
+        "options": [
+            "A.胃",
+            "B.肝左叶",
+            "C.脾",
+            "D.胰尾",
+            "E.左肾"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "6",
+        "number": 6
+    }
+]

@@ -1,0 +1,674 @@
+[
+    {
+        "question_text": "1.关于骨髓穿刺术，常用的穿刺点的选择，错误的是",
+        "options": [
+            "A.髂前上棘",
+            "B.髂后上棘",
+            "C.胸骨柄",
+            "D.胸椎棘突",
+            "E.腰椎棘突"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 1
+    },
+    {
+        "question_text": "2.骨髓穿刺术中，适宜的骨髓吸取量为",
+        "options": [
+            "A.0.1～0.2ml",
+            "B.0.2～0.3ml",
+            "C.0.3～0.4ml",
+            "D.0.4～0.5ml",
+            "E.0.5～1.0ml"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 2
+    },
+    {
+        "question_text": "3.骨髓穿刺的禁忌症是",
+        "options": [
+            "A.有紫癜者",
+            "B.重度贫血者",
+            "C.血友病者",
+            "D.白血病有感染者",
+            "E.小儿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 3
+    },
+    {
+        "question_text": "4.骨髓穿刺前，必须",
+        "options": [
+            "A.洗澡",
+            "B.备皮",
+            "C.利多卡因皮试",
+            "D.出、凝血时间检查",
+            "E.查血型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 4
+    },
+    {
+        "question_text": "5.骨髓穿刺术时，拔出穿刺针，针孔处应按压",
+        "options": [
+            "A.1～2分钟",
+            "B.3～5分钟",
+            "C.3～5分钟",
+            "D.10～15分钟",
+            "E.片刻"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 5
+    },
+    {
+        "question_text": "6.骨髓穿刺时，抽吸骨髓的针筒应该",
+        "options": [
+            "A.干燥",
+            "B.放少量生理盐水",
+            "C.放少许抗凝剂",
+            "D.放少许无水酒精",
+            "E.无空气"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 6
+    },
+    {
+        "question_text": "7.作骨髓液细菌培养者，需留取多少骨髓液",
+        "options": [
+            "A.0.1～0.2ml",
+            "B.0.3～0.5ml",
+            "C.0.6～0.8ml",
+            "D.0.8～1.0ml",
+            "E.1.0～2.0ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 7
+    },
+    {
+        "question_text": "8.为男性导尿时，导尿管应大约插入",
+        "options": [
+            "A.5～10cm",
+            "B.10～15cm",
+            "C.15～20cm",
+            "D.8～12cm",
+            "E.10～14cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 8
+    },
+    {
+        "question_text": "9.导尿术中，如需作尿培养，必须取",
+        "options": [
+            "A.导尿前的尿",
+            "B.插管后的前段尿",
+            "C.插管后的中段尿",
+            "D.插管后的后段尿",
+            "E.插管后导出的全部尿的一部分"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 9
+    },
+    {
+        "question_text": "10.导尿术中，当导尿管插入后见到有尿液流出时，导尿管应该",
+        "options": [
+            "A.再插入2cm",
+            "B.再插入3cm",
+            "C.再插入4cm",
+            "D.再插入5cm",
+            "E.再插入6cm"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 10
+    },
+    {
+        "question_text": "11.残余尿量般为",
+        "options": [
+            "A.1～5ml",
+            "B.5～10ml",
+            "C.10～15ml",
+            "D.15～20ml",
+            "E.20～25ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 11
+    },
+    {
+        "question_text": "12.为女性导尿时，导尿管应大约插入",
+        "options": [
+            "A.2～4cm",
+            "B.4～6cm",
+            "C.6～8cm",
+            "D.8～10cm",
+            "E.10～12cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 12
+    },
+    {
+        "question_text": "13.在一般导尿术中，需要留置导尿管的残尿量为",
+        "options": [
+            "A.50ml",
+            "B.100ml",
+            "C.150ml",
+            "D.200ml",
+            "E.250ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 13
+    },
+    {
+        "question_text": "14.留置导尿管时，应每日以无菌药液冲冼膀胱几次",
+        "options": [
+            "A.1次",
+            "B.2次",
+            "C.3次",
+            "D.4次",
+            "E.每4小时1次"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 14
+    },
+    {
+        "question_text": "15.留置导尿管的患者，应更换导尿管的时间是",
+        "options": [
+            "A.每日一次",
+            "B.每2日一次",
+            "C.3～4日一次",
+            "D.4～6日一次",
+            "E.5～7日一次"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 15
+    },
+    {
+        "question_text": "16.为留置导尿管的病人更换导尿管，应让尿道松弛多久才能再次重新插入导尿管",
+        "options": [
+            "A.5分钟",
+            "B.10分钟",
+            "C.30分钟",
+            "D.60分钟",
+            "E.数小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 16
+    },
+    {
+        "question_text": "17.一般腰椎穿刺时穿刺点确定，正确的是",
+        "options": [
+            "A.第1～2腰椎棘突间隙",
+            "B.第2～3腰椎棘突间隙",
+            "C.第3～4腰椎棘突间隙",
+            "D.第4～5腰椎棘突间隙",
+            "E.第4腰椎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 17
+    },
+    {
+        "question_text": "18.腰椎穿刺术时，作局部麻醉方法正确的是",
+        "options": [
+            "A.常用0.1％普鲁卡因",
+            "B.常用0.1％利多卡因",
+            "C.局麻到皮下",
+            "D.局麻到椎间韧带",
+            "E.局麻到硬脑脊膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 18
+    },
+    {
+        "question_text": "19.腰椎穿刺术时，成人的进针深度是",
+        "options": [
+            "A.1～2cm",
+            "B.2～4cm",
+            "C.3～5cm",
+            "D.4～6cm",
+            "E.5～7cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 19
+    },
+    {
+        "question_text": "20.腰椎穿刺，在放液前应该",
+        "options": [
+            "A.询问病人有否头痛",
+            "B.测脉搏或心率",
+            "C.测血压",
+            "D.测呼吸",
+            "E.测脑脊液压力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 20
+    },
+    {
+        "question_text": "21.胸膜腔穿刺术时，麻醉方法错误的是",
+        "options": [
+            "A.麻醉药用2％利多卡因",
+            "B.麻醉进针点选在下一肋骨上缘的穿刺点处",
+            "C.麻醉进针点在该肋间的肋骨下缘处",
+            "D.浸润麻醉自皮肤至胸膜壁层",
+            "E.麻醉前应询问病人有无过敏史"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 21
+    },
+    {
+        "question_text": "22.胸膜腔穿刺时，针锋进入胸膜腔的标志是",
+        "options": [
+            "A.抵抗感突然消失",
+            "B.见有胸水向针筒内回流",
+            "C.穿刺针随呼吸上下摆动",
+            "D.见有气泡到针筒内",
+            "E.达到穿刺针的预计深度"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 22
+    },
+    {
+        "question_text": "23.首次胸膜腔抽液不能超过",
+        "options": [
+            "A.200ml",
+            "B.400ml",
+            "C.600ml",
+            "D.800ml",
+            "E.1000ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 23
+    },
+    {
+        "question_text": "24.胸膜腔穿刺抽液，第二次以后每次抽液不能超过",
+        "options": [
+            "A.600ml",
+            "B.1000ml",
+            "C.800ml",
+            "D.1200ml",
+            "E.1500ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 24
+    },
+    {
+        "question_text": "25.脓胸患者进行治疗性胸膜穿刺术中，每次抽液量为",
+        "options": [
+            "A.50～100ml",
+            "B.＜600ml",
+            "C.＜1000ml",
+            "D.＜1500ml",
+            "E.抽尽"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 25
+    },
+    {
+        "question_text": "26.患者疑胸膜肿瘤，在抽胸水送检时，最少需要抽多少？",
+        "options": [
+            "A.5ml",
+            "B.10ml",
+            "C.50ml",
+            "D.100ml",
+            "E.150ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于胸膜腔穿刺术，正确的是:",
+        "options": [
+            "A.对精神较紧张者，不适穿刺。",
+            "B.抽液过程中遇患者头晕、心悸、出汗、面色苍白，应嘱其坚持。",
+            "C.诊断性抽液，10ml左右即可。",
+            "D.胸水可使其自行从引流管流出，不必抽吸。",
+            "E.操作中要防止空气进入胸腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 27
+    },
+    {
+        "question_text": "28.有关胸腔穿刺的方法，下列哪项不正确？",
+        "options": [
+            "A.穿刺抽液时，穿刺点取浊音明显部位，一般取肩胛线7～9肋间隙或腋中线6～7肋间",
+            "B.穿刺抽气时，穿刺点取患侧锁骨中线第2肋间",
+            "C.穿刺时应沿肋骨下缘进针",
+            "D.抽液量每次不超过1000ml",
+            "E.抽液量每次可大于1000ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 28
+    },
+    {
+        "question_text": "29.大量放腹水后应当:",
+        "options": [
+            "A.多喝开水",
+            "B.禁食",
+            "C.迅速利尿",
+            "D.束多头腹带",
+            "E.留置引流管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 29
+    },
+    {
+        "question_text": "30.肝硬化腹水者，一般一次放腹水不超过:",
+        "options": [
+            "A.500ml",
+            "B.1000ml",
+            "C.2000ml",
+            "D.3000ml",
+            "E.4000ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 30
+    },
+    {
+        "question_text": "31.放腹水过多可诱发:",
+        "options": [
+            "A.食欲亢进",
+            "B.腹泻",
+            "C.电解质紊乱",
+            "D.尿少",
+            "E.穿刺点感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列哪项不是腹膜腔穿刺术的禁忌症:",
+        "options": [
+            "A.有肝性脑病先兆",
+            "B.结核性腹膜炎粘连包块",
+            "C.包虫病",
+            "D.肝脾肿大",
+            "E.卵巢囊肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 32
+    },
+    {
+        "question_text": "33.Queckenstedt试验用于:",
+        "options": [
+            "A.胸腔穿刺，检查胸膜腔是否为负压",
+            "B.腹腔穿刺，检查腹膜腔有无腹水",
+            "C.骨髓穿刺，检查骨髓液是否被稀释",
+            "D.腰椎穿刺，检查蛛网膜下腔是否通畅",
+            "E.膝关节腔穿刺，检查针头是否进入关节囊内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 33
+    },
+    {
+        "question_text": "34.心包腔穿刺术的指征，错误的是:",
+        "options": [
+            "A.判定积液性质",
+            "B.穿刺抽液减轻症状",
+            "C.穿刺排浓",
+            "D.化脓性心包炎时注药",
+            "E.心包活组织检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 34
+    },
+    {
+        "question_text": "35.心包腔穿刺的注意事项，错误的是:",
+        "options": [
+            "A.必须由技术熟练的专科医师执行",
+            "B.术前须进行心脏超声检查，确定穿刺部位",
+            "C.抽液量第一次不宜超过100～200ml",
+            "D.如抽出鲜血，立即停止抽吸",
+            "E.如有积液但抽不出，可注入少量空气后再抽吸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 35
+    },
+    {
+        "question_text": "36.肝穿刺术后的4小时内测脉搏、血压应隔多久一次:",
+        "options": [
+            "A.15～30分钟",
+            "B.30～60分钟",
+            "C.60～90分钟",
+            "D.100～120分钟",
+            "E.术后一次，过4小时再测一次"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 36
+    },
+    {
+        "question_text": "37.中心静脉压正常值为:",
+        "options": [
+            "A.50～120mmH2O",
+            "B.O～10mmH20",
+            "C.50～100mmH2O",
+            "D.10～50mmH2O",
+            "E.50～80mmH2O"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 37
+    },
+    {
+        "question_text": "38.肝一般活组织穿刺术时，穿刺点选在:",
+        "options": [
+            "A.右腋中线第8、9肋间",
+            "B.右腋中线第7、8肋间",
+            "C.右腋前线第8、9肋间",
+            "D.右腋前线第7、8肋间",
+            "E.右锁骨中线第6、7肋间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 38
+    },
+    {
+        "question_text": "39.肝穿前应进行胸腹透视，主要观察:",
+        "options": [
+            "A.膈肌位置",
+            "B.肠胀气情况",
+            "C.有无肺气肿",
+            "D.心脏有无扩大",
+            "E.肾脏大小"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 39
+    },
+    {
+        "question_text": "40.肝穿术后需要卧床多久？",
+        "options": [
+            "A.4小时",
+            "B.6小时",
+            "C.8小时",
+            "D.12小时",
+            "E.24小时"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列各项中，哪一项是肝脏穿刺的禁忌症？",
+        "options": [
+            "A.慢性肝炎",
+            "B.肝硬化",
+            "C.肝癌",
+            "D.肝脓肿",
+            "E.肝血管瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 41
+    },
+    {
+        "question_text": "42.关于肝脓肿时肝穿刺术的处理，错误的是:",
+        "options": [
+            "A.阿米巴肝脓肿时，先用甲硝唑等抗阿米巴2～4天后再行肝穿术",
+            "B.若疑细菌性肝脓肿时，应先行肝穿抽脓，术后再用抗生素",
+            "C.如有明显压痛，可在压痛点处穿刺",
+            "D.如进针深度已达脓腔但抽不出脓，可再前进或后退少许再抽",
+            "E.抽脓过程中，可让针头随呼吸摆动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 42
+    },
+    {
+        "question_text": "43.可使静脉压升高的情况是:",
+        "options": [
+            "A.高血压",
+            "B.左心衰竭",
+            "C.昏厥",
+            "D.右心衰竭",
+            "E.休克"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 43
+    },
+    {
+        "question_text": "44.可使静脉压降低的病变是:",
+        "options": [
+            "A.右心衰竭",
+            "B.渗出性心包炎",
+            "C.阻塞性肺气肿",
+            "D.休克",
+            "E.上腔静脉受压"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 44
+    },
+    {
+        "question_text": "45.静脉压是指:",
+        "options": [
+            "A.与右心房水平时测得的静脉血压",
+            "B.与左心房水平时测得的静脉血压",
+            "C.右心房的压力",
+            "D.上腔静脉的压力",
+            "E.下腔静脉的压力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 45
+    },
+    {
+        "question_text": "46.肘静脉压正常值为:",
+        "options": [
+            "A.O～10mmH2O",
+            "B.10～20mmH2O",
+            "C.20～50mmH2O",
+            "D.30～125mmH2O",
+            "E.30～145mmH2O"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 46
+    },
+    {
+        "question_text": "47.中心静脉压是指:",
+        "options": [
+            "A.右心房及上、下腔静脉胸段的压力",
+            "B.右心房及上、下腔静脉的压力",
+            "C.右心房及右心室的压力",
+            "D.右心房的压力",
+            "E.大静脉的压力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 47
+    },
+    {
+        "question_text": "48.中心静脉压测定，一般不用于:",
+        "options": [
+            "A.高血压二级",
+            "B.急性心力衰竭",
+            "C.大量输液时",
+            "D.危重病人",
+            "E.体外循环手术时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 48
+    }
+]

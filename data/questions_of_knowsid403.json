@@ -1,0 +1,1542 @@
+[
+    {
+        "question_text": "1.有关无菌术，以下哪项是不正确的",
+        "options": [
+            "A.气性坏疽术后器械应煮沸半小时",
+            "B.抗菌法是指用化学方法消灭细菌",
+            "C.对肛门或感染伤口，消毒应从手术区外周向肛门或感染伤口",
+            "D.锐利器械，内腔镜等不适于热力灭菌",
+            "E.煮沸灭菌法，一般不能杀死芽胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 1
+    },
+    {
+        "question_text": "2.除了哪一项，其它都是无菌术所包含的内容",
+        "options": [
+            "A.灭菌法",
+            "B.消毒法",
+            "C.具体规定",
+            "D.管理制度",
+            "E.操作规则"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 2
+    },
+    {
+        "question_text": "3.病人手术区消毒后铺无菌布单时，下列哪一项与铺单的原则不符合",
+        "options": [
+            "A.除手术野外,至少要有两层无菌布单遮盖",
+            "B.通常先铺相对不洁区",
+            "C.无菌布单铺下后,不可随便移动",
+            "D.大单的头端应盖过麻醉架",
+            "E.大单的两侧和足端应垂下超过手术台边30厘米"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 3
+    },
+    {
+        "question_text": "4.手术人员穿无菌手术衣和戴无菌手套后，哪一部位可以认为是无菌地带，能够用手接触",
+        "options": [
+            "A.背部",
+            "B.腰部以下部位",
+            "C.前胸部",
+            "D.肩部以上部位",
+            "E.手术台边缘以下的布单"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 4
+    },
+    {
+        "question_text": "5.经过洗手穿手术衣及戴手套后，哪些地方是属于无菌地带",
+        "options": [
+            "A.两上肢，胸前及腰部以上的腹部",
+            "B.两上肢，胸前及整个腹部",
+            "C.两上肢及前胸",
+            "D.两上肢，胸前及颈部",
+            "E.双手，前臂，胸前及背部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 5
+    },
+    {
+        "question_text": "6.穿无菌手术衣和带无菌手套后，被认为有菌的地带是",
+        "options": [
+            "A.肩部以下，腰部以上",
+            "B.胸部，腰部",
+            "C.肩部以上，腰部以上",
+            "D.肩部以上，腰部以下",
+            "E.胸部以上，腰部以下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 6
+    },
+    {
+        "question_text": "7.经过洗手穿手术衣及戴手套后，哪些地方是属于无菌地带",
+        "options": [
+            "A.两上肢，胸前及腰部以上的腹部",
+            "B.两上肢，胸前及整个腹部",
+            "C.两上肢及前胸",
+            "D.两上肢，胸前及颈部",
+            "E.双手，前臂，胸前及背部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪种物品宜用高压蒸汽灭菌法",
+        "options": [
+            "A.内腔镜",
+            "B.碘仿",
+            "C.橡胶类",
+            "D.酒精",
+            "E.苯类"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 8
+    },
+    {
+        "question_text": "9.穿无菌手术衣和带无菌手套后，被认为有菌的地带是",
+        "options": [
+            "A.肩部以下，腰部以上",
+            "B.胸部，腰部",
+            "C.肩部以上，腰部以上",
+            "D.肩部以上，腰部以下",
+            "E.胸部以上，腰部以下"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 9
+    },
+    {
+        "question_text": "10.手术区皮肤消毒范围包括手术切口周围区域",
+        "options": [
+            "A.5cm",
+            "B.10cm",
+            "C.15cm",
+            "D.20cm",
+            "E.25cm"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 10
+    },
+    {
+        "question_text": "11.少尿无尿期，水电解质和酸碱平衡失调哪项是不正确的",
+        "options": [
+            "A.水中毒",
+            "B.碱中毒",
+            "C.低钠血症",
+            "D.低氯血症",
+            "E.高钾血症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 11
+    },
+    {
+        "question_text": "12.严重低血钾时不会出现",
+        "options": [
+            "A.腹胀排便，排气停止",
+            "B.CO2结合力升高",
+            "C.心率缓慢，心律失常",
+            "D.腱反射消失",
+            "E.ST段降低，QT间期延长，Q波出现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 12
+    },
+    {
+        "question_text": "13.腱反射减退见于下列哪些情况，除外",
+        "options": [
+            "A.低渗性缺水",
+            "B.高渗性缺水",
+            "C.代谢性酸中毒",
+            "D.低血钾",
+            "E.严重高血钾"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于低渗性缺水有轻度缺钠时，下列不正确的",
+        "options": [
+            "A.疲乏，头晕",
+            "B.口渴明显",
+            "C.尿中Na+,Cl-异常",
+            "D.血清Na+在135mmol/L以下",
+            "E.手足麻木"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 14
+    },
+    {
+        "question_text": "15.女性45岁，胃大部切除术后3天，头迷，恶心，查：P100次/分，BP120/60mmHg,血清K+4.5mmol/L,Na+130mmol/L,Cl—101mmol/L，当天需要补充氯化钠多少克(体重60kg)",
+        "options": [
+            "A.21g",
+            "B.18g",
+            "C.15g",
+            "D.10.5g",
+            "E.4.5g"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 15
+    },
+    {
+        "question_text": "16.男性，35岁，体重60kg，炼钢工人，在工作中突然昏倒，查：P110次/分，BP90/60mmHg，口唇干燥，眼窝下陷，血清Na+156mmol/L,K+3.4mmol/L,应补给的液体量计算公式为(ml)",
+        "options": [
+            "A.(156-142)X60X2",
+            "B.(156-142)X60X4",
+            "C.(156-135)X60X4",
+            "D.(156-150)X60X2",
+            "E.(156-150)X60X4"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 16
+    },
+    {
+        "question_text": "17.女性，40岁，恶心呕吐3天，乏力，尿少。查：P100次/分，BP90/60mmHg口唇干燥，眼窝下陷，尿比重1.012，血清Na+137mmol/L,体重60kg，对该患者最好采用何种液体进行纠正？",
+        "options": [
+            "A.输5%氯化钠溶液",
+            "B.乳酸钠溶液",
+            "C.1.86%乳酸钠溶液1/3和复方氯化钠溶液2/3",
+            "D.1.25%碳酸氢钠溶液2/3和等渗盐水1/3",
+            "E.0.9%氯化钠溶液"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 17
+    },
+    {
+        "question_text": "18.患者男性，41岁，胸腹部和上肢损伤后并发急性呼吸衰竭，作气管插管，呼吸机支持呼吸，若给予的肺活量过大，频率过快，可引起",
+        "options": [
+            "A.呼吸性酸中毒",
+            "B.呼吸性碱中毒",
+            "C.代谢性酸中毒",
+            "D.代谢性碱中毒",
+            "E.等渗性脱水"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 18
+    },
+    {
+        "question_text": "19.低钾血症病人，经补充钾治疗后，病情仍无改善时，应考虑有",
+        "options": [
+            "A.低钠血症",
+            "B.代谢性酸中毒",
+            "C.高钙血症",
+            "D.低镁血症",
+            "E.低氧血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列哪种疾病可引起血钙升高",
+        "options": [
+            "A.急性重症胰腺炎",
+            "B.坏死性筋膜炎",
+            "C.消化道痿",
+            "D.甲状旁腺功能亢进症",
+            "E.肾衰竭"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪一项不是肠外营养的并发症",
+        "options": [
+            "A.气胸",
+            "B.高/低血糖",
+            "C.电解质紊乱",
+            "D.切口难以愈合",
+            "E.微量元素缺乏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 21
+    },
+    {
+        "question_text": "22.清蛋白低于多少表示重度营养不良",
+        "options": [
+            "A.35g/L",
+            "B.29g/L",
+            "C.25g/L",
+            "D.15g/L",
+            "E.21g/L"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 22
+    },
+    {
+        "question_text": "23.机体脂肪储存比正常减少多少为营养不良",
+        "options": [
+            "A.0.2",
+            "B.0.24",
+            "C.0.3",
+            "D.0.35",
+            "E.0.4"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 23
+    },
+    {
+        "question_text": "24.肠外营养发生导管性脓毒症时，应立即采取的措施为",
+        "options": [
+            "A.大剂量抗生素",
+            "B.更换营养液",
+            "C.镇静、退热",
+            "D.拔除导管",
+            "E.局部清洁、换药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 24
+    },
+    {
+        "question_text": "25.男性，78岁，全胃切除术后6天，大量肠液自腹腔引流管引出，左上腹疼痛，查体：左上腹轻压痛，无肌紧张，首选治疗措施是",
+        "options": [
+            "A.急诊手术",
+            "B.全胃肠外营养",
+            "C.要素饮食",
+            "D.普通饮食",
+            "E.输血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 25
+    },
+    {
+        "question_text": "26.防治输血时的发热反应中，不正确的一项是",
+        "options": [
+            "A.用一次性处理输血器",
+            "B.用无热原技术配制保液",
+            "C.口服阿斯匹林1g",
+            "D.苯海拉明25mg肌注",
+            "E.异丙嗪25mg肌注"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 26
+    },
+    {
+        "question_text": "27.自体输血时，采血量以血红蛋白多少为限？",
+        "options": [
+            "A.140g/L",
+            "B.120g/L",
+            "C.100g/L",
+            "D.60g/L",
+            "E.没有限制"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 27
+    },
+    {
+        "question_text": "28.输血反应最严重的并发症是",
+        "options": [
+            "A.非溶血性发热反应",
+            "B.变态反应",
+            "C.酸碱平衡失调",
+            "D.溶血反应",
+            "E.出血倾向"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 28
+    },
+    {
+        "question_text": "29.预防输血时的发热反应中，哪一项措施是不正确的",
+        "options": [
+            "A.用一次性处理输血器",
+            "B.用无热原技术配制保存液",
+            "C.苯海拉明25mg肌注或静注",
+            "D.口服阿斯匹林1g",
+            "E.肌注地塞米松20mg"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 29
+    },
+    {
+        "question_text": "30.下列哪一个不是输血的适应证",
+        "options": [
+            "A.出血量500-800ml",
+            "B.贫血",
+            "C.低蛋白血症",
+            "D.严重感染",
+            "E.凝血异常"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 30
+    },
+    {
+        "question_text": "31.患儿6岁，20公斤，角膜外伤行缝合术，用2.5%硫贲妥钠400mg肌注后，患儿出现呼吸困难，吸气有鸡鸣音，发绀，下列哪项治疗是不正确的",
+        "options": [
+            "A.加压给氧",
+            "B.给氨茶碱0.25g缓慢静注",
+            "C.静注琥珀胆碱后气管插管",
+            "D.解除原因",
+            "E.粗针头环甲膜穿刺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 31
+    },
+    {
+        "question_text": "32.关于局麻药试敏反应的叙述中哪一项是不正确的",
+        "options": [
+            "A.意义不大",
+            "B.必须作试敏",
+            "C.50%出现阳性",
+            "D.有酯类过敏者应改为胺类局麻药",
+            "E.术前用苯海拉明有预防作用"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 32
+    },
+    {
+        "question_text": "33.关于硫贲妥钠的药理特点中，哪一些是不正确的",
+        "options": [
+            "A.抑制交感神经",
+            "B.兴奋副交感神经",
+            "C.易通过血脑屏障",
+            "D.有良好的抗惊厥作用",
+            "E.有较强的镇痛作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 33
+    },
+    {
+        "question_text": "34.下列哪种病人不宜用阿托品",
+        "options": [
+            "A.呼吸道梗阻",
+            "B.小儿",
+            "C.肠梗阻",
+            "D.心脏手术",
+            "E.老年肺癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 34
+    },
+    {
+        "question_text": "35.患儿6岁，20公斤，角膜外伤行缝合术，用2.5%硫贲妥钠400mg肌注后，患儿出现呼吸困难，吸气有鸡鸣音，发绀，您首先考虑的诊断是：",
+        "options": [
+            "A.Mendelson综合征",
+            "B.下呼吸道梗阻",
+            "C.上呼吸道梗阻",
+            "D.呕吐",
+            "E.支气管痉挛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 35
+    },
+    {
+        "question_text": "36.可能引起药物性肝炎的是：",
+        "options": [
+            "A.安氟醚",
+            "B.异氟醚",
+            "C.甲氧氟烷",
+            "D.氟烷",
+            "E.七氟醚"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 36
+    },
+    {
+        "question_text": "37.异氟醚的血/气分配系数为：",
+        "options": [
+            "A.0.47",
+            "B.1.4",
+            "C.1.9",
+            "D.1.7",
+            "E.1.92"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 37
+    },
+    {
+        "question_text": "38.吸入麻醉时，术前用阿托品的目的是",
+        "options": [
+            "A.减少呼吸道分泌物",
+            "B.减少胃肠道蠕动",
+            "C.抑制迷走神经反射",
+            "D.提咼病人耐受力",
+            "E.减轻术中交感神经兴奋"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 38
+    },
+    {
+        "question_text": "39.关于硫贲妥钠的药理特点中，哪一些是不正确的",
+        "options": [
+            "A.抑制交感神经",
+            "B.兴奋副交感神经",
+            "C.易通过血脑屏障",
+            "D.有良好的抗惊厥作用",
+            "E.有较强的镇痛作用"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 39
+    },
+    {
+        "question_text": "40.腰麻术后最常见的并发症为",
+        "options": [
+            "A.尿潴留",
+            "B.头痛",
+            "C.马尾综合征",
+            "D.化脓性蛛网膜炎",
+            "E.神经损伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 40
+    },
+    {
+        "question_text": "41.测定中心静脉压时，应先将刻度零点置于",
+        "options": [
+            "A.腋前线水平",
+            "B.第五肋与锁中线交点处",
+            "C.腋中线水平",
+            "D.颈外静脉水平",
+            "E.腋后线水平"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 41
+    },
+    {
+        "question_text": "42.女性，工人,30岁，以低位肠梗阻10天诊断入院，BP10/8kPa,(80/60mmHg),P120次/分，皮肤湿冷，舌质干燥，眼窝凹陷，浅静脉萎缩，血[Na+]120mmol/l,CO2CP20mmol/L,最佳补液方案为",
+        "options": [
+            "A.快速补充等渗盐后加碳酸氢钠",
+            "B.快速补充等渗盐后加5%氯化钠",
+            "C.快速补充乳酸钠-复方氯化钠，羟乙基淀粉后加5%氯化钠",
+            "D.先补充5%氯化钠后改为乳酸钠-复方氯化钠",
+            "E.先补充5%氯化钠后改为等渗盐水"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 42
+    },
+    {
+        "question_text": "43.下列因素中，哪一项对中心静脉压的变化影响不大",
+        "options": [
+            "A.左心室排血能力",
+            "B.血容量",
+            "C.静脉血管张力",
+            "D.静脉回心血量",
+            "E.胸腔内压力"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 43
+    },
+    {
+        "question_text": "44.低排高阻型感染性休克的临床表现与下列哪项不符合",
+        "options": [
+            "A.毛细血管充盈时间1-2秒",
+            "B.脉压小于4kPa",
+            "C.尿量每小时小于25亳升",
+            "D.脉搏细速",
+            "E.皮肤湿冷"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 44
+    },
+    {
+        "question_text": "45.通常迅速失血超过全身总血量多少即出现休克",
+        "options": [
+            "A.0.6",
+            "B.0.5",
+            "C.0.4",
+            "D.0.3",
+            "E.0.2"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 45
+    },
+    {
+        "question_text": "46.休克时表示血容量不足，尿量每小时少于",
+        "options": [
+            "A.40ml",
+            "B.35ml",
+            "C.30ml",
+            "D.25ml",
+            "E.20ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 46
+    },
+    {
+        "question_text": "47.有关休克病人体位，合理的是",
+        "options": [
+            "A.平卧，头转向一侧",
+            "B.平卧,头低位",
+            "C.低半坐位卧式",
+            "D.15°-30°头高脚低斜坡卧位",
+            "E.下肢抬高15°-20°，头部和躯干同时抬高20°-30°左右"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 47
+    },
+    {
+        "question_text": "48.休克患者，出现进行性呼吸困难，脉速，烦燥，紫绀，咳粉红色痰，此时应首选哪项检查？",
+        "options": [
+            "A.中心静脉压",
+            "B.肺动脉楔压",
+            "C.动脉血气分析",
+            "D.动脉血乳酸盐测定",
+            "E.弥散性血管凝血的实验室检查"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 48
+    },
+    {
+        "question_text": "49.既能增加心排出量又能扩张肾动脉的药物是",
+        "options": [
+            "A.去甲肾上腺素",
+            "B.异丙肾上腺素",
+            "C.苯肾上腺素",
+            "D.阿拉明",
+            "E.多巴胺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 49
+    },
+    {
+        "question_text": "50.抗休克的根本措施是",
+        "options": [
+            "A.积极处理原发病",
+            "B.纠正组织缺氧引起的严重酸中毒",
+            "C.补充血容量",
+            "D.应用血管扩张剂改善微循环",
+            "E.抗凝治疗解除微细血栓"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 50
+    },
+    {
+        "question_text": "51.呼吸功能不全的主要表现是",
+        "options": [
+            "A.稍微运动后就发生呼吸困难",
+            "B.稍微运动后就发生紫绀",
+            "C.经常有轻度紫绀",
+            "D.经常有喘息",
+            "E.反复出现呼吸性酸中毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 51
+    },
+    {
+        "question_text": "52.关于呼吸衰竭发生的机理，下述哪项不正确",
+        "options": [
+            "A.肺泡通气量减少致PaCO2增高",
+            "B.严重的V/Q比例失调可导致CO2潴留",
+            "C.弥散功能障碍致PaO2下降",
+            "D.氧耗量增加可使A-aDO2增大",
+            "E.动-静脉分流量＞30%，吸氧不能明显提高PaO2"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 52
+    },
+    {
+        "question_text": "53.引起急性肾性肾衰哪项是不正确的",
+        "options": [
+            "A.广泛性烧伤",
+            "B.挤压伤综合征",
+            "C.双输尿管结石",
+            "D.血清过敏反应",
+            "E.感染性休克"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 53
+    },
+    {
+        "question_text": "54.少尿无尿期，水电解质和酸碱平衡失调哪项是不正确的",
+        "options": [
+            "A.水中毒",
+            "B.高钾血症",
+            "C.低钠血症",
+            "D.咼氯血症",
+            "E.低钙血症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 54
+    },
+    {
+        "question_text": "55.为鉴别肾后性肾功衰竭的存在，下列哪项检查没有意义",
+        "options": [
+            "A.B超",
+            "B.KUB平片",
+            "C.尿素氮测定",
+            "D.肾图",
+            "E.逆行性肾盂造影"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 55
+    },
+    {
+        "question_text": "56.男，37岁，因车祸跌入鱼池中，诊断“吸入性肺炎\"，经治疗稍好转，1天前突发进行性呼吸困难，经给氧（吸入氧浓度50%）后效果不佳，且紫绀加重，呼吸频率加快，45次/分，两肺满布湿罗音。X线示两肺大片状浸润阴影。血气分析示Pa0240mmHg,PaC0230mmHg，可能出现了下列哪种并发症",
+        "options": [
+            "A.自发性气胸",
+            "B.成人呼吸窘迫综合征",
+            "C.急性左心衰",
+            "D.急性肺源性心脏病",
+            "E.肺不张"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 56
+    },
+    {
+        "question_text": "57.心肺复苏时首选的给药途径",
+        "options": [
+            "A.心内",
+            "B.动脉",
+            "C.静脉",
+            "D.皮下",
+            "E.舌下"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 57
+    },
+    {
+        "question_text": "58.下列哪项不是造成肾性ARF的病因",
+        "options": [
+            "A.盆腔肿瘤",
+            "B.感染性休克",
+            "C.口服过量阿昔洛韦",
+            "D.大面积深度烧伤",
+            "E.应用青霉素发生过敏反应"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 58
+    },
+    {
+        "question_text": "59,下列哪项不是ARF高钾血症的心电图表现",
+        "options": [
+            "A.T波高尖",
+            "B.Q-T间期缩短",
+            "C.QRS间期延长",
+            "D.PR间期增宽",
+            "E.P波升高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 59
+    },
+    {
+        "question_text": "60,关于呼吸衰竭的发病机制，下列叙述哪项是不正确的",
+        "options": [
+            "A.PaQ2<60mmHg才兴奋呼吸中枢",
+            "B.PaQ2<30mmHg即会出现不可逆的脑细胞损伤",
+            "C.缺氧和二氧化碳潴留均会使血管扩张",
+            "D.CQ2潴留表现先兴奋后抑制呼吸中枢",
+            "E.缺Q2对呼吸影响较CQ2潴留为小"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 60
+    },
+    {
+        "question_text": "61.55岁男性，右下肢骨折，肿胀明显，手法复位石膏固定，该损伤的制动肢体应位于",
+        "options": [
+            "A.45°-60°高",
+            "B.30°-45。高",
+            "C.15°-30°高",
+            "D.0°-15°高",
+            "E.低于心脏高度"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 61
+    },
+    {
+        "question_text": "62,有关闭合伤口的处理以下哪项不对",
+        "options": [
+            "A.挤压伤需进行预防肾衰",
+            "B.腹腔内脏损伤大多需急诊手术",
+            "C.骨折需手术复位和固定",
+            "D.软组织挫伤局部早期可冷敷",
+            "E.气血胸需穿刺或引流"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 62
+    },
+    {
+        "question_text": "63,以下哪项不影响创伤后的修复过程",
+        "options": [
+            "A.感染",
+            "B.高血压",
+            "C.使用皮质激素",
+            "D.低蛋白血症",
+            "E.糖尿病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 63
+    },
+    {
+        "question_text": "64.有关不利创口愈合因素不包括",
+        "options": [
+            "A.缝合过紧",
+            "B.静脉曲张",
+            "C.局部制动",
+            "D.成纤维细胞增生",
+            "E.使用消炎痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 64
+    },
+    {
+        "question_text": "65.机械性致伤因子造成的创伤不取决于",
+        "options": [
+            "A.重量和速度",
+            "B.暴力作用的角度和大小",
+            "C.其外形",
+            "D.受组织的可塑性",
+            "E.其颜色"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 65
+    },
+    {
+        "question_text": "66.离体新鲜肢体，再植前保存时最适宜的温度为",
+        "options": [
+            "A.-10°C",
+            "B.-5°C",
+            "C.0C",
+            "D.+4C",
+            "E.+36C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 66
+    },
+    {
+        "question_text": "67.关节受外力作用，发生异常扭转所致的损伤为",
+        "options": [
+            "A.挫伤",
+            "B.扭伤",
+            "C.挤压伤",
+            "D.裂伤",
+            "E.冲击伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 67
+    },
+    {
+        "question_text": "68.严重复合性损伤的处理首先是",
+        "options": [
+            "A.清创",
+            "B.镇静止痛",
+            "C.输血",
+            "D.保持呼吸道通畅",
+            "E.骨折固定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 68
+    },
+    {
+        "question_text": "69.易发生挤压综合征的挤压伤部位是",
+        "options": [
+            "A.头部",
+            "B.胸部",
+            "C.手和前臂",
+            "D.大腿和臀部",
+            "E.足和小腿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 69
+    },
+    {
+        "question_text": "70.25岁男性，交通肇事外伤30分后抬到急诊，意识清楚，情绪紧张，呼吸急促，脉搏微弱，面色苍白，以下哪项原则不恰当",
+        "options": [
+            "A.立即检查重要生命指征",
+            "B.检查步骤尽量简捷",
+            "C.详细询问既往史",
+            "D.检查四肢运动情况",
+            "E.立即建立静脉通道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 70
+    },
+    {
+        "question_text": "71.创伤抢救中，需首先处理",
+        "options": [
+            "A.出血",
+            "B.休克",
+            "C.窒息",
+            "D.骨折",
+            "E.内脏损伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 71
+    },
+    {
+        "question_text": "72.下列哪项与创伤表现无关",
+        "options": [
+            "A.体温增高",
+            "B.口渴尿少",
+            "C.脉压差增大",
+            "D.舒张压上升",
+            "E.月经失调"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 72
+    },
+    {
+        "question_text": "73.下列脾破裂的处理中，哪项是不正确的",
+        "options": [
+            "A.破裂严重时，可行脾切除术",
+            "B.破裂较轻时，可行脾修补术",
+            "C.可先抗休克治疗，待好转后再行手术",
+            "D.可回收腹腔内血液行自身回输",
+            "E.输血，补平衡液以纠正血容量不足"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 73
+    },
+    {
+        "question_text": "74.以下哪项不影响创伤后的修复过程",
+        "options": [
+            "A.感染",
+            "B.高血压",
+            "C.使用皮质激素",
+            "D.低蛋白血症",
+            "E.糖尿病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 74
+    },
+    {
+        "question_text": "75.有关不利创口愈合因素不包括",
+        "options": [
+            "A.缝合过紧",
+            "B.静脉曲张",
+            "C.局部制动",
+            "D.成纤维细胞增生",
+            "E.使用消炎痛"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 75
+    },
+    {
+        "question_text": "76.机械性致伤因子造成的创伤不取决于",
+        "options": [
+            "A.重量和速度",
+            "B.暴力作用的角度和大小",
+            "C.其外形",
+            "D.受组织的可塑性",
+            "E.其颜色"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 76
+    },
+    {
+        "question_text": "77.离体新鲜肢体，再植前保存时最适宜的温度为",
+        "options": [
+            "A.TO°C",
+            "B.-5°C",
+            "C.0C",
+            "D.+4C",
+            "E.+36C"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 77
+    },
+    {
+        "question_text": "78.关节受外力作用，发生异常扭转所致的损伤为",
+        "options": [
+            "A.挫伤",
+            "B.扭伤",
+            "C.挤压伤",
+            "D.裂伤",
+            "E.冲击伤"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 78
+    },
+    {
+        "question_text": "79.严重复合性损伤的处理首先是",
+        "options": [
+            "A.清创",
+            "B.镇静止痛",
+            "C.输血",
+            "D.保持呼吸道通畅",
+            "E.骨折固定"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 79
+    },
+    {
+        "question_text": "80.易发生挤压综合征的挤压伤部位是",
+        "options": [
+            "A.头部",
+            "B.胸部",
+            "C.手和前臂",
+            "D.大腿和臀部",
+            "E.足和小腿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 80
+    },
+    {
+        "question_text": "81.12岁男性，双手双足面部烧伤，面积为：",
+        "options": [
+            "A.0.15",
+            "B.0.12",
+            "C.0.18",
+            "D.0.09",
+            "E.0.21"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 81
+    },
+    {
+        "question_text": "82.人体重60kg,11°111°25%烧伤，第一个24小时补液量应为：",
+        "options": [
+            "A.4250ml",
+            "B.4500ml",
+            "C.5000ml",
+            "D.4000ml",
+            "E.2250ml"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 82
+    },
+    {
+        "question_text": "83.关于局部冻伤下列哪项不对",
+        "options": [
+            "A.I。冻伤损伤皮肤表层",
+            "B.11°冻伤2-3周愈合",
+            "C.III。冻伤达皮肤全层和皮下组织",
+            "D.11°冻伤愈合有功能障碍",
+            "E.IV。冻伤深达肌肉和骨"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 83
+    },
+    {
+        "question_text": "84.成人一侧下肢、双手和一侧臀部烧伤，诊断为",
+        "options": [
+            "A.51%烧伤",
+            "B.48%烧伤",
+            "C.28%烧伤",
+            "D.25%烧伤",
+            "E.41%烧伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 84
+    },
+    {
+        "question_text": "85.烧伤引起的全身感染最易发生在",
+        "options": [
+            "A.回吸收期",
+            "B.休克期",
+            "C.焦痂溶解时",
+            "D.植皮术后",
+            "E.肉芽创面暴露时"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 85
+    },
+    {
+        "question_text": "86.成人双手、双前臂、前后躯干烧伤，面积为",
+        "options": [
+            "A.0.24",
+            "B.0.26",
+            "C.0.35",
+            "D.0.37",
+            "E.0.32"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 86
+    },
+    {
+        "question_text": "87.双手烧伤病人，剧疼，有大水疱，基底潮红，愈合不可能发生",
+        "options": [
+            "A.功能正常",
+            "B.疼痛搔痒",
+            "C.色素沉着",
+            "D.排汗功能丧失",
+            "E.局部脱屑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 87
+    },
+    {
+        "question_text": "88.一3岁小儿头面颈烧伤，面积为",
+        "options": [
+            "A.0.09",
+            "B.0.18",
+            "C.0.2",
+            "D.0.12",
+            "E.0.15"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 88
+    },
+    {
+        "question_text": "89.2岁小儿，体重8kg,30%111°烧伤，伤后第一个24小时应补晶体液为",
+        "options": [
+            "A.480ml",
+            "B.240ml",
+            "C.360ml",
+            "D.680ml",
+            "E.540ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 89
+    },
+    {
+        "question_text": "90.瘢痕软化开始时间一般在",
+        "options": [
+            "A.伤后24小时",
+            "B.伤后3-7天",
+            "C.伤后2-3周",
+            "D.伤后6-8周",
+            "E.伤后8周以后"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 90
+    },
+    {
+        "question_text": "91.化脓性感染形成脓肿后，外科治疗的基本原则是",
+        "options": [
+            "A.全身加大抗生素剂量",
+            "B.改用其他抗生素",
+            "C.配合肾上腺皮质激素",
+            "D.配合局部物理疗法",
+            "E.立即切开引流"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 91
+    },
+    {
+        "question_text": "92.男性农民,22岁，因破伤风并发肺内感染而入院，为限制输液量每日只补2000ml,日体温高达39°C，持续大量出汗，血[Na+]155mmol/l,调整输液时首选",
+        "options": [
+            "A.0.9%Nacl",
+            "B.0.45%Nacl",
+            "C.5%Glucose",
+            "D.10%Glucose",
+            "E.10%kcl"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 92
+    },
+    {
+        "question_text": "93.曾经注射过破伤风类毒素的小儿，再次受伤后的处理",
+        "options": [
+            "A.注射TAT500U",
+            "B.注射TAT1000U",
+            "C.注射TAT1500U",
+            "D.注射TAT2000U",
+            "E.注射破伤风类毒素0.5ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 93
+    },
+    {
+        "question_text": "94.外科特异性感染包括",
+        "options": [
+            "A.丹毒",
+            "B.厌氧菌感染",
+            "C.气性坏疽",
+            "D.绿脓杆菌感染",
+            "E.变形杆菌感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 94
+    },
+    {
+        "question_text": "95.革兰氏染色阳性细菌脓毒症不常有",
+        "options": [
+            "A.皮疹",
+            "B.间歇热",
+            "C.檐妄",
+            "D.转移性脓肿",
+            "E.并发心肌炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 95
+    },
+    {
+        "question_text": "96.革兰氏染色阳性细菌脓毒症特点中不包括",
+        "options": [
+            "A.主要致病菌为金黄色葡萄球菌",
+            "B.一般无寒战",
+            "C.发生休克时间晚",
+            "D.主要是内毒素作用",
+            "E.血压下降慢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 96
+    },
+    {
+        "question_text": "97.外科感染手术时应注意但不包括",
+        "options": [
+            "A.操作轻柔",
+            "B.爱护组织",
+            "C.彻底止血",
+            "D.必放引流",
+            "E.防止积水"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 97
+    },
+    {
+        "question_text": "98.外科非特异性感染不包括",
+        "options": [
+            "A.绿脓杆菌",
+            "B.变形杆菌",
+            "C.梭状芽胞杆菌",
+            "D.拟杆菌",
+            "E.克雷伯菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 98
+    },
+    {
+        "question_text": "99.预防切口感染，下列哪项措施不正确",
+        "options": [
+            "A.严格无菌操作",
+            "B.严密止血",
+            "C.作好术前准备，纠正贫血及低蛋白血症",
+            "D.估计术后感染机会大应放引流物",
+            "E.手术病人均应使用抗生素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 99
+    },
+    {
+        "question_text": "100.下列各项均为组织对细菌侵入的生理反应，除外",
+        "options": [
+            "A.释放作用于小静脉和毛细血管的活性物质",
+            "B.白细胞粘附伴有白细胞和血浆的渗出",
+            "C.抗体和补体对细菌的调理作用",
+            "D.吞噬作用",
+            "E.每1克组织含有100个致病菌即能发生感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 100
+    },
+    {
+        "question_text": "101.对放射治疗首选的肿瘤是",
+        "options": [
+            "A.直肠癌",
+            "B.鼻咽癌",
+            "C.食管癌",
+            "D.肺癌",
+            "E.胃癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 101
+    },
+    {
+        "question_text": "102.下列恶性肿瘤侵袭转移，属淋巴转移方式的为",
+        "options": [
+            "A.甲状腺癌的颅骨转移",
+            "B.晚期胃癌，盆腔腹膜转移",
+            "C.肺癌转移至肾上腺",
+            "D.子宫颈癌，骨盆壁受累",
+            "E.乳腺癌呈“橘皮”样改变"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 102
+    },
+    {
+        "question_text": "103.下列诊断空腔脏器肿瘤最重要的方法是：",
+        "options": [
+            "A.同位素检查",
+            "B.内窥镜检查",
+            "C.X线检查",
+            "D.免疫学检查",
+            "E.根据症状和体征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 103
+    },
+    {
+        "question_text": "104.下列肿瘤中，哪个属真性肿瘤",
+        "options": [
+            "A.皮脂囊肿",
+            "B.腹壁带状纤维瘤",
+            "C.乳头状疣",
+            "D.女婴皮肤毛细血管瘤，增大速度快于婴儿发育",
+            "E.炎性息肉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 104
+    },
+    {
+        "question_text": "105.乳癌患者，肺部无转移灶，而椎体转移，是由于",
+        "options": [
+            "A.直接蔓延",
+            "B.转移途径现尚未明确",
+            "C.经肺血行转移",
+            "D.经椎旁静脉系血行转移",
+            "E.经椎旁淋巴道转移"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 105
+    },
+    {
+        "question_text": "106.应用干板以及钼靶X线摄影有诊断价值的肿瘤是",
+        "options": [
+            "A.甲状腺癌",
+            "B.乳癌",
+            "C.肝癌",
+            "D.胃癌",
+            "E.肾癌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 106
+    },
+    {
+        "question_text": "107.细胞毒类药抗肿瘤又被称为",
+        "options": [
+            "A.激素类药物",
+            "B.烷化剂类药物",
+            "C.抗代谢类药物",
+            "D.抗癌抗菌素类药物",
+            "E.植物药类"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 107
+    },
+    {
+        "question_text": "108.对恶性肿瘤采取综合治疗的最主要理由是",
+        "options": [
+            "A.恶性肿瘤是一种全身性疾病",
+            "B.肿瘤细胞动力学需要",
+            "C.晚期恶性肿瘤",
+            "D.有多种抗肿瘤方法可供选用",
+            "E.根据病人要求"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 108
+    },
+    {
+        "question_text": "109.脱落细胞检查不常用于",
+        "options": [
+            "A.宫颈癌",
+            "B.膀胱癌",
+            "C.食道癌",
+            "D.结肠癌",
+            "E.肺癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 109
+    },
+    {
+        "question_text": "110.以下不属于癌前期病变的是",
+        "options": [
+            "A.萎缩性胃炎伴不典型增生",
+            "B.皮肤乳头状瘤",
+            "C.交界痣",
+            "D.炎性息肉",
+            "E.乳腺囊性增生症伴上皮增生"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "110",
+        "number": 110
+    }
+]

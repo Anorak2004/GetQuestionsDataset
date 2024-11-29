@@ -1,0 +1,408 @@
+[
+    {
+        "question_text": "1.细菌荚膜的主要功能不包括",
+        "options": [
+            "A.免受溶菌酶的作用",
+            "B.抵抗药物的杀菌作用",
+            "C.传递遗传物质",
+            "D.抗吞噬",
+            "E.营养"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 1
+    },
+    {
+        "question_text": "2.具有抗吞噬作用的细菌结构是",
+        "options": [
+            "A.质粒",
+            "B.鞭毛",
+            "C.菌毛",
+            "D.荚膜",
+            "E.芽胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 2
+    },
+    {
+        "question_text": "3.溶菌酶的杀菌机制是",
+        "options": [
+            "A.水解细胞壁磷壁酸",
+            "B.溶解细菌细胞膜",
+            "C.水解肽聚糖β-1，4糖苷键",
+            "D.破坏革兰阴性菌外膜结构",
+            "E.抑制肽聚糖合成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 3
+    },
+    {
+        "question_text": "4.对外界抵抗力最强的细菌结构是",
+        "options": [
+            "A.鞭毛",
+            "B.细胞膜",
+            "C.核质",
+            "D.芽胞",
+            "E.耐药质粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 4
+    },
+    {
+        "question_text": "5.细胞壁的功能不包括",
+        "options": [
+            "A.维持细菌固有形态",
+            "B.保护细菌抗低渗环境",
+            "C.具有抗吞噬作用",
+            "D.具有免疫原性",
+            "E.菌细胞物质交换通道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 5
+    },
+    {
+        "question_text": "6.在抗生素存在时可缺乏但不影响细菌存活的结构是",
+        "options": [
+            "A.细胞壁",
+            "B.细胞膜",
+            "C.鞭毛",
+            "D.核质",
+            "E.荚膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 6
+    },
+    {
+        "question_text": "7.有关荚膜描述，错误的是",
+        "options": [
+            "A.由于具有免疫原性，可用于鉴别细菌",
+            "B.可增强细菌对热的抵抗力",
+            "C.具有抗吞噬作用",
+            "D.—般在机体内形成",
+            "E.化学成分为多糖或多肽"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 7
+    },
+    {
+        "question_text": "8.革兰阴性细菌特有的结构是",
+        "options": [
+            "A.外膜",
+            "B.磷壁酸",
+            "C.五肽交联桥",
+            "D.质粒",
+            "E.菌毛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 8
+    },
+    {
+        "question_text": "9.细菌细胞壁肽聚糖主要成分为",
+        "options": [
+            "A.脂多糖、聚糖骨架和四肽侧链",
+            "B.脂质双层、四肽侧链和五肽交联桥",
+            "C.特异性多糖、核心多糖和脂质A",
+            "D.聚糖骨架、四肽侧链和五肽交联桥",
+            "E.脂蛋白、脂质双层和脂多糖"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 9
+    },
+    {
+        "question_text": "10.有关质粒,错误的描述是",
+        "options": [
+            "A.细菌生命活动不可缺少的基因",
+            "B.细菌染色体以外的遗传物质",
+            "C.具有自我复制的特点",
+            "D.可在细菌间转移",
+            "E.可自行丢失"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 10
+    },
+    {
+        "question_text": "11.细菌的测量单位是",
+        "options": [
+            "A.厘米",
+            "B.微米",
+            "C.毫米",
+            "D.纳米",
+            "E.米"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 11
+    },
+    {
+        "question_text": "12.缺乏细胞壁结构的原核细胞型微生物是",
+        "options": [
+            "A.螺旋体",
+            "B.衣原体",
+            "C.L型细菌",
+            "D.真菌",
+            "E.立克次体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 12
+    },
+    {
+        "question_text": "13.关于细菌外毒素的描述错误的是",
+        "options": [
+            "A.革兰阳性菌和阴性菌均可产生",
+            "B.为蛋白质、热稳定性差",
+            "C.毒性强，严重可导致弥散性血管内凝血",
+            "D.用压力蒸汽灭菌法易使其破坏",
+            "E.甲醛处理不能形成类毒素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于G+菌细胞壁，不正确的叙述是",
+        "options": [
+            "A.主要成分是黏肽",
+            "B.含有磷壁酸",
+            "C.对青霉素敏感",
+            "D.含有大量脂多糖",
+            "E.易被溶菌酶破坏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 14
+    },
+    {
+        "question_text": "15.普通菌毛的作用是",
+        "options": [
+            "A.吸附宿主细胞",
+            "B.与运动性有关",
+            "C.介导接合作用",
+            "D.抗吞噬作用",
+            "E.有丝分裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 15
+    },
+    {
+        "question_text": "16.不属于G-菌细胞壁成分的是",
+        "options": [
+            "A.黏肽",
+            "B.磷壁酸",
+            "C.脂蛋白",
+            "D.脂多糖",
+            "E.外膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 16
+    },
+    {
+        "question_text": "17.细菌“核质以外的遗传物质”是指",
+        "options": [
+            "A.核糖体",
+            "B.mRNA",
+            "C.性菌毛",
+            "D.质粒",
+            "E.异染颗粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 17
+    },
+    {
+        "question_text": "18.细菌的运动器官是",
+        "options": [
+            "A.菌毛",
+            "B.鞭毛",
+            "C.荚膜",
+            "D.芽胞",
+            "E.质粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 18
+    },
+    {
+        "question_text": "19.芽胞是细菌的",
+        "options": [
+            "A.生长状态",
+            "B.耐药状态",
+            "C.发育状态",
+            "D.休眠状态",
+            "E.繁殖状态"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 19
+    },
+    {
+        "question_text": "20.磷壁酸是",
+        "options": [
+            "A.细菌细胞膜的主要成分",
+            "B.细菌荚膜的主要成分",
+            "C.细菌芽胞中耐热性成分",
+            "D.革兰阴性菌细胞壁成分",
+            "E.革兰阳性菌细胞壁成分"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 20
+    },
+    {
+        "question_text": "21.检验压力蒸汽灭菌是否合格常用的指示菌是",
+        "options": [
+            "A.大肠埃希菌",
+            "B.沙门菌",
+            "C.芽胞杆菌",
+            "D.葡萄球菌",
+            "E.结核分枝杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 21
+    },
+    {
+        "question_text": "22.青霉素的作用机制是",
+        "options": [
+            "A.水解细胞壁磷壁酸",
+            "B.溶解细胞??细胞膜",
+            "C.破坏细菌外膜结构",
+            "D.抑制肽聚糖合成",
+            "E.水解肽聚糖β-1,4糖苷键"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 22
+    },
+    {
+        "question_text": "23.不属于细菌特殊结构的是",
+        "options": [
+            "A.荚膜",
+            "B.鞭毛",
+            "C.质粒",
+            "D.芽胞",
+            "E.菌毛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 23
+    },
+    {
+        "question_text": "24.与内毒素有关的细菌结构是",
+        "options": [
+            "A.外膜",
+            "B.核膜",
+            "C.线粒体膜",
+            "D.荚膜",
+            "E.细胞膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 24
+    },
+    {
+        "question_text": "25.关于内毒素脂质A,不正确的描述是",
+        "options": [
+            "A.为内毒素主要毒性成分",
+            "B.为内毒素主要生物活性组分",
+            "C.无种属特异性",
+            "D.由革兰阳性菌产生",
+            "E.高温不易破坏"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 25
+    },
+    {
+        "question_text": "26.与细菌L型形成无关的诱发因素是",
+        "options": [
+            "A.溶酶菌",
+            "B.溶葡萄球菌素",
+            "C.透明质酸酶",
+            "D.胆汁",
+            "E.青霉素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 26
+    },
+    {
+        "question_text": "27.可用于鉴别细菌的结构是",
+        "options": [
+            "A.原生质体",
+            "B.异染颗粒",
+            "C.包涵体",
+            "D.线粒体",
+            "E.中介体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 27
+    },
+    {
+        "question_text": "28.与细菌侵袭力有关的表面结构是",
+        "options": [
+            "A.芽胞",
+            "B.荚膜",
+            "C.质粒",
+            "D.线粒体",
+            "E.包涵体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 28
+    },
+    {
+        "question_text": "29.红霉素的杀菌机制为",
+        "options": [
+            "A.破坏细菌细胞膜结构",
+            "B.抑制细菌蛋白质的合成",
+            "C.抑制细菌的核酸代谢",
+            "D.干扰细胞壁脂多糖合成",
+            "E.干扰细胞壁肽聚糖合成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "29",
+        "number": 29
+    }
+]

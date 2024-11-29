@@ -1,0 +1,618 @@
+[
+    {
+        "question_text": "1.白喉棒状杆菌的形态特点中叙述错误的是",
+        "options": [
+            "A.革兰染色阳性",
+            "B.特殊染色后可见鞭毛",
+            "C.排列呈V、L文字形",
+            "D.排列呈歪斜的栅栏状",
+            "E.特殊染色后可在胞质中观察到嗜碱性的浓染颗粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 1
+    },
+    {
+        "question_text": "2.不属于白喉棒状杆菌致病的特点是",
+        "options": [
+            "A.该菌是棒状杆菌属中唯一能引起人类白喉的病原菌",
+            "B.白喉的传染源包括白喉病人和带菌者",
+            "C.该菌可在局部繁殖后人血繁殖，侵犯靶器官",
+            "D.该菌侵人鼻咽部黏膜生长繁殖",
+            "E.该菌易在咽喉部形成灰白色假膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 2
+    },
+    {
+        "question_text": "3.白喉棒状杆菌感染后可引起的局部病变特征是",
+        "options": [
+            "A.化脓性炎症",
+            "B.咽喉部假膜",
+            "C.皮肤坏疽",
+            "D.表面溃疡",
+            "E.肌肉红肿"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列感染后机体免疫以体液免疫为主的病原体是",
+        "options": [
+            "A.白喉棒状杆菌",
+            "B.结核分枝杆菌",
+            "C.伤寒沙门菌",
+            "D.布鲁菌",
+            "E.麻风分枝杆菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 4
+    },
+    {
+        "question_text": "5.咽喉部出现灰白色假膜，提示感染的病原体为",
+        "options": [
+            "A.白假丝酵母菌",
+            "B.结核分枝杆菌",
+            "C.白喉棒状杆菌",
+            "D.百日咳鲍特菌",
+            "E.嗜肺军团菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于白喉免疫的叙述，错误的是",
+        "options": [
+            "A.主要为抗毒素发挥中和外毒素的作用",
+            "B.婴儿出生时，可从母体获得免疫",
+            "C.可用Schicktest测定人群免疫力",
+            "D.接种白百破三联疫苗后可获得免疫",
+            "E.隐性感染后无免疫力"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 6
+    },
+    {
+        "question_text": "7.关于白喉棒状杆菌的特征，叙述错误的是",
+        "options": [
+            "A.6个月以下婴儿较少患有白喉",
+            "B.预防白喉，必须接种白喉死菌苗",
+            "C.治疗白喉患者,除了使用抗生素以外，还必须使用抗毒素",
+            "D.调查人群对白喉有无免疫力，可做锡克试验",
+            "E.白喉棒状杆菌的致病性与其产生的外毒素有关"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于白喉棒状杆菌的致病性，叙述错误的是",
+        "options": [
+            "A白喉棒状杆菌的致病物质包括白喉毒素和素状因子",
+            "B.白喉主要通过飞沫和污染的物品传播",
+            "C.引起鼻咽黏膜上皮细胞炎症，渗出和坏死",
+            "D.可引起咽喉部局部病变,形成灰白色假膜",
+            "E.可导致脓毒血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 8
+    },
+    {
+        "question_text": "9.从白喉患者鼻咽部分离到一株可疑白喉棒状杆菌，要确定其是否为引起疾病的病原菌,还必须做",
+        "options": [
+            "A.涂片做革兰染色用光学显微镜镜检",
+            "B.接种到TCBS平板培养",
+            "C.接种到亚碲酸钾血平板培养",
+            "D.接种碱性蛋白胨培养基",
+            "E.接种到Elek平板"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 9
+    },
+    {
+        "question_text": "10.鉴定白喉棒状杆菌菌株是否为产毒株最简便的方法是",
+        "options": [
+            "A.豚鼠体内实验",
+            "B.判断细菌在吕氏血清斜面上的生长能力",
+            "C.观察亚碲酸钾血平板上细菌菌落特征",
+            "D.做Elek平板试验",
+            "E.做生化反应检测细菌是否产生过氧化氢酶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 10
+    },
+    {
+        "question_text": "11.在抗菌免疫中，不以细胞免疫为主的细菌是",
+        "options": [
+            "A.伤寒沙门菌",
+            "B.嗜肺军团菌",
+            "C.布鲁菌",
+            "D.结核分枝杆菌",
+            "E.白喉棒状杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 11
+    },
+    {
+        "question_text": "12.不以荚膜为致病因子的细菌是",
+        "options": [
+            "A.肺炎链球菌",
+            "B.白喉棒状杆菌",
+            "C.炭疽芽胞杆菌",
+            "D.布鲁菌",
+            "E.百日咳鲍特菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 12
+    },
+    {
+        "question_text": "13.白喉棒状杆菌的最主要致病物质为",
+        "options": [
+            "A.肽聚糖",
+            "B.分枝菌酸",
+            "C.菌毛",
+            "D.外毒素",
+            "E.内毒素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 13
+    },
+    {
+        "question_text": "14.白喉病人早期死亡的主要原因为",
+        "options": [
+            "A.毒血症",
+            "B.脓毒血症",
+            "C.心肌炎",
+            "D.假膜阻塞呼吸道引起窒息",
+            "E.中毒性休克"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 14
+    },
+    {
+        "question_text": "15.可用亚碲酸钾血琼脂平板选择鉴别培养的细菌是",
+        "options": [
+            "A.霍乱弧菌",
+            "B.副溶血性弧菌",
+            "C.白喉棒状杆菌",
+            "D.炭疽芽胞杆菌",
+            "E.肉毒梭菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 15
+    },
+    {
+        "question_text": "16.关于白喉的叙述，错误的是",
+        "options": [
+            "A.患者咽喉部会出现假膜",
+            "B.病原体是产毒性白喉棒状杆菌",
+            "C.细菌可人血而引起菌血症",
+            "D.是一种急性呼吸道传染病",
+            "E.细菌外毒素人血导致全身中毒症状"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 16
+    },
+    {
+        "question_text": "17.属于白喉棒状杆菌特有的属性是",
+        "options": [
+            "A.白喉棒状杆菌为条件致病菌",
+            "B.白喉为人畜共患病",
+            "C.其致病物质主要是白喉棒状杆菌内毒素",
+            "D.白喉棒状杆菌所有菌株均有致病性",
+            "E.只有溶原性白喉棒状杆菌才具有致病性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 17
+    },
+    {
+        "question_text": "18.确诊为白喉病的实验室依据是",
+        "options": [
+            "A.标本涂片染色镜检查发现异染颗粒",
+            "B.分离到的细菌在吕氏血清斜面上生长迅速",
+            "C.咽喉部有灰白色假膜",
+            "D.从患者鼻咽部分离到白喉杆菌，毒力试验阳性",
+            "E患者血清白喉抗毒素为阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 18
+    },
+    {
+        "question_text": "19.一旦患儿确诊为患有白喉，应采取的治疗措施中不包括",
+        "options": [
+            "A.注射青霉素",
+            "B.早期、足量注射白喉抗毒素",
+            "C.接种白百破三联疫苗DPT",
+            "D.防止假膜脱落堵塞气管",
+            "E.防止中毒性心肌炎的发生"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 19
+    },
+    {
+        "question_text": "20.可以用来帮助鉴定白喉棒状杆菌的结构是",
+        "options": [
+            "A.内基小体",
+            "B.硫黄样颗粒",
+            "C.异染颗粒",
+            "D.原体",
+            "E.始体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 20
+    },
+    {
+        "question_text": "21.棒状杆菌菌体内异染颗粒的主要成分包括",
+        "options": [
+            "A.肽聚糖",
+            "B.核心多糖",
+            "C.RNA和多偏磷酸盐",
+            "D.DNA和多偏磷酸盐",
+            "E.特异多糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 21
+    },
+    {
+        "question_text": "22.关于白喉外毒素，错误的是",
+        "options": [
+            "A.只有携带β-棒状杆菌噬菌体的溶原性白喉棒状杆菌才能产生",
+            "B.A亚单位具有酶活性，作用于延伸因子2,使细胞蛋白质合成受阻",
+            "C.B亚单位可协助A片段进人细胞",
+            "D.A亚单位是诱导机体产生抗毒素的主要部位",
+            "E.毒素由tox基因编码"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 22
+    },
+    {
+        "question_text": "23.关于白喉棒状杆菌编码白喉毒素的基因来源，正确的是",
+        "options": [
+            "A.非接合性质粒",
+            "B.接合性质粒",
+            "C.细菌染色体",
+            "D.毒性噬菌体",
+            "E.温和噬菌体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 23
+    },
+    {
+        "question_text": "24.白喉棒状杆菌引起白喉的致病机制是",
+        "options": [
+            "A.细菌人血繁殖引起白喉",
+            "B.白喉内毒素人血在咽喉部引起白喉",
+            "C.外毒素人血作用于心肌细胞，引起疾病",
+            "D.外毒素入血作用于肾脏，引起疾病",
+            "E.细菌在感染局部大量繁殖并产生外毒素，引起局部炎症和全身中毒症状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 24
+    },
+    {
+        "question_text": "25.白喉抗毒素的使用，叙述错误的是",
+        "options": [
+            "A.使用前一定要做皮肤过敏试验",
+            "B.如发现有过敏者,应进行脱敏疔法",
+            "C.可用于紧急预防",
+            "D.如用于治疗必须早期足量",
+            "E.作用机制属于人工主动免疫"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 25
+    },
+    {
+        "question_text": "26.豚鼠体内试验测定白喉棒状杆菌毒力的原理为",
+        "options": [
+            "A.白喉毒素引起的超敏反应",
+            "B.I型变态反应",
+            "C.红型变态反应",
+            "D.皿型变态反应",
+            "E.毒素与抗毒素的中和反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 26
+    },
+    {
+        "question_text": "27.调查人群对白喉的免疫力可使用以下哪种实验？",
+        "options": [
+            "A.Elek平板试验",
+            "B.OT试验",
+            "C.RPR试验",
+            "D.VDRL试验",
+            "E.Schick试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 27
+    },
+    {
+        "question_text": "28.下列可引起患者阵发性痉挛性剧咳的可能是",
+        "options": [
+            "A.伤寒沙门菌",
+            "B.副伤寒沙门菌",
+            "C.百日咳鲍特菌",
+            "D.嗜肺军团菌",
+            "E.结核分枝杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 28
+    },
+    {
+        "question_text": "29.百日咳鲍特菌的分离培养应采用",
+        "options": [
+            "A.TCBS培养基",
+            "B.巧克力色血平皿培养基",
+            "C.鲍-金(B-G)培养基",
+            "D.罗氏培养基",
+            "E.亚碲酸钾血平皿培养基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 29
+    },
+    {
+        "question_text": "30.百日咳鲍特菌由S型变异为R型是因为丢失了以下哪个组分",
+        "options": [
+            "A.菌毛",
+            "B.鞭毛",
+            "C.芽胞",
+            "D.荚膜",
+            "E.微荚膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 30
+    },
+    {
+        "question_text": "31.目前预防百日咳主要采用以下哪种方法",
+        "options": [
+            "A.注射类毒素",
+            "B.注射亚单位疫苗",
+            "C.注射减毒活疫苗",
+            "D.注射白百破三联疫苗",
+            "E.注射白百破三联疫苗和死菌苗均可"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 31
+    },
+    {
+        "question_text": "32.百日咳的免疫特点不包括",
+        "options": [
+            "A.免疫力持久",
+            "B.细胞免疫起主要作用",
+            "C.可产生多种特异性抗体",
+            "D.抵抗再感染的主要因素是sIgA",
+            "E.母体血清IgG可保护新生儿不受感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 32
+    },
+    {
+        "question_text": "33.引起百日咳的病原体在分类上属于",
+        "options": [
+            "A.鲍特菌属",
+            "B.志贺菌属",
+            "C.假单胞菌属",
+            "D.分枝杆菌属",
+            "E.棒状杆菌属"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 33
+    },
+    {
+        "question_text": "34.传染源来源于受污染的中央空调和供水系统水源的细菌是",
+        "options": [
+            "A.流感嗜血杆菌",
+            "B.空肠弯曲菌",
+            "C.嗜肺军团菌",
+            "D.结核分枝杆菌",
+            "E.百日咳鲍特菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 34
+    },
+    {
+        "question_text": "35.分离嗜肺军团菌可采用",
+        "options": [
+            "A.巧克力色血平板",
+            "B.罗氏培养基",
+            "C.活性炭酵母浸液琼脂(BCYE）",
+            "D.碱性蛋白胨平板",
+            "E.沙保弱培养基"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 35
+    },
+    {
+        "question_text": "36.需作病原菌分离才能明确诊断的疾病是",
+        "options": [
+            "A.破伤风梭菌",
+            "B.肉壶中毒",
+            "C.猩红热",
+            "D.军团菌病",
+            "E.白喉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 36
+    },
+    {
+        "question_text": "37.关于嗜肺军团菌，叙述错误的是",
+        "options": [
+            "A.对外界环境抵抗力低",
+            "B.可奇生在单核吞噬细胞内",
+            "C.广泛存在于各种水环境中",
+            "D.是引起医源性肺炎的常见病原菌",
+            "E.治疗首选红霉素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 37
+    },
+    {
+        "question_text": "38.目前控制嗜肺军因菌导致的肺炎流行的主要有效措施是",
+        "options": [
+            "A.接种减毒活疫苗预防感染",
+            "B.使用免疫增强剂",
+            "C.使用抗生素预防感染",
+            "D.用乳酸熏蒸室内空气进行消毒",
+            "E对供水管道及循环水系统进行检测和消毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 38
+    },
+    {
+        "question_text": "39.属于铜绿假单胞菌特征的是",
+        "options": [
+            "A.为专性厌氧菌",
+            "B.具有周鞭毛的革兰阴性菌",
+            "C.只引起创伤感染，不会引起败血症",
+            "D.对青霉素等多种抗生素敏感",
+            "E在液体培养基中会形成菌膜，菌液呈蓝绿色"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 39
+    },
+    {
+        "question_text": "40.关于铜绿假单胞菌，叙述错误的是",
+        "options": [
+            "A.菌体一端有鞭毛",
+            "B.氧化酶试验为阳性",
+            "C.可产生脂溶性色素",
+            "D.通过接触引起医源性传播",
+            "E.抵抗力强且对多种抗生素耐药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 40
+    },
+    {
+        "question_text": "41.有关“铜绿假单胞菌”，叙述错误的是",
+        "options": [
+            "A.革兰阴性杆菌",
+            "B.不属于条件致病菌",
+            "C.4摄氏度不生长而在42摄氏度可生长",
+            "D.广泛存在于医院的潮湿环境",
+            "E.为多重耐药菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 41
+    },
+    {
+        "question_text": "42.有关铜绿假单胞菌致病性的描述,错误的是",
+        "options": [
+            "A.可引起医院内感染",
+            "B.可引起烧伤感染",
+            "C.可见于免疫力低下人群的继发感染",
+            "D.可产生带荧光的水溶性色素",
+            "E.可引起急性胃肠炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 42
+    },
+    {
+        "question_text": "43.与空肠弯曲菌有关的疾病主要是",
+        "options": [
+            "A.散发性细菌性肠炎",
+            "B.脑膜炎",
+            "C.败血症",
+            "D.伤口化脓性感染",
+            "E.假膜性肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 43
+    },
+    {
+        "question_text": "44.下列细菌与所致疾病组合，错误的是",
+        "options": [
+            "A.铜绿假单胞菌-烧伤感染",
+            "B.幽门螺杆菌-慢性胃炎",
+            "C.嗜肺军团菌-军团菌病",
+            "D.百日咳鲍特菌-百日咳",
+            "E.空肠弯曲菌-胃溃疡"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "44",
+        "number": 44
+    }
+]

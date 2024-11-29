@@ -1,0 +1,212 @@
+[
+    {
+        "question_text": "1.病毒标本送检的要求是",
+        "options": [
+            "A.暖箱保存",
+            "B.室温保存",
+            "C.加人防腐剂",
+            "D.常温速送",
+            "E.含抗生素的50%甘油缓冲盐水液冷藏速送"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 1
+    },
+    {
+        "question_text": "2.不能用于培养病毒的是",
+        "options": [
+            "A.原代细胞",
+            "B.肿瘤细胞",
+            "C.人胚肺成纤维细胞",
+            "D.传代细胞",
+            "E.营养琼脂培养基"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 2
+    },
+    {
+        "question_text": "3.病毒凝集红细胞（血凝试验）的机制是",
+        "options": [
+            "A.红细胞表面抗原和血凝素抗体结合",
+            "B.红细胞表面受体与病毒表面血凝素结合",
+            "C.红细胞表面病毒抗原与相应抗体结合",
+            "D.病毒与结合在红细胞表面的抗体结合",
+            "E.红细胞上的血凝素与病毒结合"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 3
+    },
+    {
+        "question_text": "4.在可疑病大大脑海马回中观察內基小体",
+        "options": [
+            "A.可确诊为狂犬病病毒感染",
+            "B.可诊断是否有病毒特异性抗体产生",
+            "C.必须在电子品微镜下观察",
+            "D.是衡量病毒毒力强弱的标准",
+            "E.是测定病毒数量的指标"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 4
+    },
+    {
+        "question_text": "5.细胞病变效应不包括",
+        "options": [
+            "A.细胞圆缩、脱落",
+            "B.细胞融合",
+            "C.细胞裂解",
+            "D.干扰现象",
+            "E.形成包涵体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 5
+    },
+    {
+        "question_text": "6.检测病毒抗体的方法有",
+        "options": [
+            "A.酶联免疫吸附试验、PCR、免疫电镜",
+            "B.中和试验、补体结合试验、血凝试验",
+            "C.中和试验、补体结合试验、血凝抑制试验",
+            "D.血凝试验、中和试验、免疫电泳技术",
+            "E.酶联免疫吸附试验、凝胶免疫扩散试验、基因测序"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 6
+    },
+    {
+        "question_text": "7.分离流感病毒的最常用方法是",
+        "options": [
+            "A.动物接种",
+            "B.半固体培养基培养",
+            "C.鸡胚接种",
+            "D.血平板培养",
+            "E.细胞培养"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 7
+    },
+    {
+        "question_text": "8.目前用于测定感染病毒数量较准确易行的方法是",
+        "options": [
+            "A.电镜下直接计数",
+            "B.空斑形成试验",
+            "C.红细胞凝集试验",
+            "D.IDso",
+            "E.TCIDsO"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 8
+    },
+    {
+        "question_text": "9.感染性病毒数量的单位常用",
+        "options": [
+            "A.TCIDs",
+            "B.PFU",
+            "C.CPE",
+            "D.CEU",
+            "E.inclusionbody"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 9
+    },
+    {
+        "question_text": "10.在电镜下可观察到病毒颗粒10°个/ml,而空斑形成试验只能检测到10°PFU/ml,其原因最可能是",
+        "options": [
+            "A.空斑形成试验所用细胞为非允许细胞",
+            "B.在原液中存在儿种病毒",
+            "C.空斑形成试验不敏感",
+            "D.此病毒发生基因变异",
+            "E.100个病毒颗粒中仅有1个病毒颗粒具有传染性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 10
+    },
+    {
+        "question_text": "11.预防病毒感染最有效的方法是",
+        "options": [
+            "A.抗病毒药物",
+            "B.免疫球蛋白",
+            "C.使用疫苗",
+            "D.干扰素",
+            "E.中药"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 11
+    },
+    {
+        "question_text": "12.不属于人工被动免疫的方式是",
+        "options": [
+            "A.注射人血清丙种球蛋白",
+            "B.注射胎盘球蛋白",
+            "C.注射胸腺肽",
+            "D.注射干扰素",
+            "E.注射疫苗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 12
+    },
+    {
+        "question_text": "13.对中和试验描述不正确的是",
+        "options": [
+            "A.是病毒在细胞培养中被特异性抗体中和而失去感染性的一种试验",
+            "B.常用于检测病人血清中抗体的消长情况",
+            "C.中和抗体在体内一般维持时间较长",
+            "D.中和抗体阳性表明机体正在感染中",
+            "E.该法特异性较高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 13
+    },
+    {
+        "question_text": "14.减毒活疫苗对人体有潜在危险性的原因不包括",
+        "options": [
+            "A.毒力回复性变异",
+            "B.激活机体潜伏病毒",
+            "C.可引起持续性感染",
+            "D.不便于保存",
+            "E.可能进人机体引发相应并发症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 14
+    },
+    {
+        "question_text": "15.不属于抗病毒药物的是",
+        "options": [
+            "A.阿昔洛韦",
+            "B.拉米夫定",
+            "C.奈韦拉平",
+            "D.头孢拉定",
+            "E.奥司他韦"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 15
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "question_text": "1.关于立克次体，叙述不正确的是",
+        "options": [
+            "A.为革兰阴性小杆菌",
+            "B.专性细胞内寄生",
+            "C.大多是人畜共患病原体",
+            "D.以节肢动物为传播媒介",
+            "E.对抗生素不敏感"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 1
+    },
+    {
+        "question_text": "2.立克次体与病毒的共同特点是",
+        "options": [
+            "A.含有DNA和RNA两种核酸",
+            "B.无细胞壁及细胞膜",
+            "C.以节肢动物为传播媒介",
+            "D.严格活细胞内寄生",
+            "E.对抗生素不敏感"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 2
+    },
+    {
+        "question_text": "3.立克次体与细菌的主要区别是",
+        "options": [
+            "A.有细胞壁和核糖体",
+            "B.含有DNA和RNA两种核酸",
+            "C.严格活细胞内寄生",
+            "D.以二分裂方式繁殖",
+            "E.对抗生素敏感"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 3
+    },
+    {
+        "question_text": "4.辅助诊断立克次体病的交叉凝集试验是",
+        "options": [
+            "A反向间接血凝试验",
+            "B.正向间接血凝试验",
+            "C.冷凝集试验",
+            "D.锡克试验",
+            "E.外斐反应"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 4
+    },
+    {
+        "question_text": "5.观察立克次体常用的染色法是",
+        "options": [
+            "A.Giemsa染色法",
+            "B.抗酸染色法",
+            "C.革兰染色法",
+            "D.棉蓝染色法",
+            "E.墨汁负染法"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 5
+    },
+    {
+        "question_text": "6.与立克次体有共同抗原成分的细菌是",
+        "options": [
+            "A.志贺菌",
+            "B.埃希菌",
+            "C.假单胞菌",
+            "D.变形杆菌",
+            "E.产碱杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 6
+    },
+    {
+        "question_text": "7.立克次体内毒素的化学本质是",
+        "options": [
+            "A.脂多糖",
+            "B.蛋白质",
+            "C.脂质",
+            "D.多糖",
+            "E.多肽"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 7
+    },
+    {
+        "question_text": "8.斑疹伤寒立克次体的储存宿主与传染源是",
+        "options": [
+            "A.恙螨",
+            "B.蜱",
+            "C.鼠蚤",
+            "D.鼠",
+            "E.鼠虱"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 8
+    },
+    {
+        "question_text": "9.地方性斑疹伤寒的主要传播媒介是",
+        "options": [
+            "A.蜱",
+            "B.蚊",
+            "C.鼠蚤",
+            "D.恙螨",
+            "E.白蛉"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 9
+    },
+    {
+        "question_text": "10.普氏立克次体的传播媒介是",
+        "options": [
+            "A.蜱",
+            "B.蚊",
+            "C.鼠蚤",
+            "D.蝇",
+            "E.人虱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 10
+    },
+    {
+        "question_text": "11.不属于动物源性疾病的是",
+        "options": [
+            "A.地方性斑疹伤寒",
+            "B.流行性斑疹伤寒",
+            "C.炭疽病",
+            "D.波浪热",
+            "E.恙虫病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 11
+    },
+    {
+        "question_text": "12.立克次体属的主要致病物质是",
+        "options": [
+            "A.内毒素和外毒素",
+            "B.外毒素和脂多糖",
+            "C.内毒素和磷脂酶A",
+            "D.荚膜和鞭毛",
+            "E.血浆凝固酶和a溶素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 12
+    },
+    {
+        "question_text": "13.外斐反应结果为OXk（++++),OX19(-),OX2（-）,诊断为",
+        "options": [
+            "A.地方性斑疹伤寒",
+            "B.流行性斑疹伤寒",
+            "C.菜姆病",
+            "D.猫爪热",
+            "E.恙虫病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 13
+    },
+    {
+        "question_text": "14.预防恙虫病最重要的是",
+        "options": [
+            "A.接种疫苗",
+            "B.灭鼠、灭螨",
+            "C.灭鼠、灭蚊",
+            "D.注射抗生素",
+            "E.口服抗生素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 14
+    },
+    {
+        "question_text": "15.治疗立克次体病首选的抗微生物药物是",
+        "options": [
+            "A.青霉素",
+            "B.四环素",
+            "C.金刚烷胺",
+            "D.利巴韦林",
+            "E.两性霉素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 15
+    }
+]

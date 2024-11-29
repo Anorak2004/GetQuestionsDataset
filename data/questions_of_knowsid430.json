@@ -1,0 +1,128 @@
+[
+    {
+        "question_text": "1.下列那一项不符合噬菌体的特性",
+        "options": [
+            "A.只含有一种核酸",
+            "B.既有溶原性周期又有溶菌性周期",
+            "C.严格的宿主特异性",
+            "D.可通过细菌滤器",
+            "E.具有细胞结构"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 1
+    },
+    {
+        "question_text": "2.溶原性细菌是",
+        "options": [
+            "A.被毒性噬菌体感染的细菌",
+            "B.能产生细菌素的细菌",
+            "C.带有F质粒的细菌",
+            "D.带有R质粒的细菌",
+            "E.带有前噬菌体的细菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 2
+    },
+    {
+        "question_text": "3.噬菌体在分类上属于",
+        "options": [
+            "A.支原体",
+            "B.原虫",
+            "C.真菌",
+            "D.病毒",
+            "E.细菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 3
+    },
+    {
+        "question_text": "4.白喉棒状杆菌能够产生白喉毒素是因为其基因组发生了",
+        "options": [
+            "A.转化",
+            "B.转导",
+            "C.接合",
+            "D.基因突变",
+            "E.溶原性转换"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 4
+    },
+    {
+        "question_text": "5.前噬菌体是",
+        "options": [
+            "A.整合至宿主菌染色体上的噬菌体基因组",
+            "B.进人宿主菌内的噬菌体核酸",
+            "C.吸附至细菌表面的噬菌体",
+            "D.尚未完成装配的子代噬菌体基因组",
+            "E.成熟的子代噬菌体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 5
+    },
+    {
+        "question_text": "6.只有溶菌性周期没有溶原性周期的噬菌体是",
+        "options": [
+            "A.毒性噬菌体",
+            "B.温和噬菌体",
+            "C.前噬菌体",
+            "D.大肠埃希菌λ噬菌体",
+            "E.β-棒状杆菌噬菌体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列细胞中，不受噬菌体侵袭的是",
+        "options": [
+            "A.淋巴细胞",
+            "B.直菌细胞",
+            "C.细菌细胞",
+            "D.螺旋体细胞",
+            "E.衣原体细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 7
+    },
+    {
+        "question_text": "8.溶原性细菌不被密切相关的噬菌体感染的主要原因是",
+        "options": [
+            "A.该噬菌体不能穿人",
+            "B.该噬菌体不能释放",
+            "C.该噬菌体在胞内不能装配合成子代噬菌体",
+            "D.该噬菌体不能复制",
+            "E.产生“免疫”，使该噬菌体不能吸附"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 8
+    },
+    {
+        "question_text": "9.毒性噬菌体感染细菌后导致细菌",
+        "options": [
+            "A.快速繁殖",
+            "B.停止繁殖",
+            "C.产生毒素",
+            "D.基因突变",
+            "E裂解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "9",
+        "number": 9
+    }
+]

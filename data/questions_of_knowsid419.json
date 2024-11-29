@@ -1,0 +1,1962 @@
+[
+    {
+        "question_text": "3542、关于肾上腺的叙述，错误的是 （  ）",
+        "options": [
+            "A.位于腹膜之后",
+            "B.左肾上腺近似半月形",
+            "C.与肾共同包在肾纤维囊内",
+            "D.分皮质和髓质两部分",
+            "E.分泌的激素可参与调节体内水盐代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 1
+    },
+    {
+        "question_text": "3543、垂体 （  ）",
+        "options": [
+            "A.神经垂体包括结节部、神经部",
+            "B.位于颅前窝的垂体窝内",
+            "C.神经垂体可以分泌血管升压素(抗利尿激素)及催产素",
+            "D.腺垂体包括结节部、远部、漏斗部",
+            "E.产生的激素可以影响甲状腺、肾上腺、性腺的活动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 2
+    },
+    {
+        "question_text": "3544、属于神经垂体的结构是 （  ）",
+        "options": [
+            "A.前叶",
+            "B.远侧部",
+            "C.结节部",
+            "D.漏斗部",
+            "E.中间部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 3
+    },
+    {
+        "question_text": "3545、对垂体的说法中哪项是错误的 （  ）",
+        "options": [
+            "A.分腺垂体和神经垂体两部分",
+            "B.位于蝶骨的垂体窝内",
+            "C.借漏斗连于下丘脑",
+            "D.腺垂体分远侧部、中间部和结节部",
+            "E.神经垂体能分泌加压素(抗利尿素)和催产素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 4
+    },
+    {
+        "question_text": "3546、在垂体后叶内贮存的激素有 （  ）",
+        "options": [
+            "A.抗利尿激素和催产素",
+            "B.生长激素和抗利尿激素",
+            "C.促甲状腺素和生长激素",
+            "D.生长激素和促肾上腺皮质激素",
+            "E.抗利尿激素和促性腺激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 5
+    },
+    {
+        "question_text": "3547、能分泌多种促激素促进其他内分泌腺的分泌活动的是 （  ）",
+        "options": [
+            "A.甲状腺",
+            "B.肾上腺",
+            "C.垂体前叶",
+            "D.垂体后叶",
+            "E.松果体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 6
+    },
+    {
+        "question_text": "3548、对松果体的描述，错误的是 （  ）",
+        "options": [
+            "A.成年后可形成钙斑",
+            "B.位于背侧丘脑后上方",
+            "C.分泌褪黑素",
+            "D.儿童期比较发达",
+            "E.与性成熟无关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 7
+    },
+    {
+        "question_text": "3549、除具有内分泌功能外还能产生T淋巴细胞的是 （  ）",
+        "options": [
+            "A.松果体",
+            "B.肾上腺",
+            "C.黄体",
+            "D.甲状旁腺",
+            "E.胸腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 8
+    },
+    {
+        "question_text": "3550、具有分泌雄性激素的器官是 （  ）",
+        "options": [
+            "A.甲状旁腺",
+            "B.胸腺",
+            "C.睪丸",
+            "D.松果体",
+            "E.垂体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 9
+    },
+    {
+        "question_text": "3551、兼有内、外分泌功能的器官是",
+        "options": [
+            "A.垂体",
+            "B.胰腺",
+            "C.甲状腺、甲状旁腺",
+            "D.松果体",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 10
+    },
+    {
+        "question_text": "3552、兼有内、外分泌功能的器官是",
+        "options": [
+            "A.垂体",
+            "B.甲状旁腺",
+            "C.甲状腺",
+            "D.松果体",
+            "E.胰腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 11
+    },
+    {
+        "question_text": "3553、内分泌腺 （  ）",
+        "options": [
+            "A.包括甲状腺、肾上腺、垂体、胰岛、睾丸、卵巢等",
+            "B.其腺细胞属腺上皮细胞",
+            "C.腺细胞多排成囊泡，有排泄管",
+            "D.其功能调节与神经系统无关",
+            "E.其分泌物可直接输送至靶器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 12
+    },
+    {
+        "question_text": "3554、不属于内分泌系统的组织是 （  ）",
+        "options": [
+            "A.甲状腺和甲状旁腺",
+            "B.腺垂体和神经垂体",
+            "C.肾上腺髓质和胰岛",
+            "D.松果体和黄体",
+            "E.胰腺和肝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 13
+    },
+    {
+        "question_text": "3555、关于内分泌系统的叙述正确的是 （  ）",
+        "options": [
+            "A.由内分泌器官组成",
+            "B.是完全独立于神经系统之外的调节系统",
+            "C.内分泌细胞的分泌物首先由排泄管导入腺腔内，然后渗入血液",
+            "D.内分泌器官产生的某种激素经血液循环可影响全身各器官的功能活动",
+            "E.在胃肠道、泌尿生殖道等处有散在的内分泌细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 14
+    },
+    {
+        "question_text": "3556、属于内分泌组织的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.胰岛",
+            "D.胸腺",
+            "E.肾上腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 15
+    },
+    {
+        "question_text": "3557、不能分泌激素的是 （  ）",
+        "options": [
+            "A.肾上腺的髓质",
+            "B.卵巢的黄体",
+            "C.胰腺的胰岛",
+            "D.睾丸的精曲小管",
+            "E.卵巢的卵泡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 16
+    },
+    {
+        "question_text": "3558、甲状腺 （  ）",
+        "options": [
+            "A.峡部多位于第4—6气管软骨环的前方",
+            "B.吞咽时，可随喉上下移动",
+            "C.分泌甲状腺素可调节体内钙磷代谢",
+            "D.侧叶贴于喉和气管的两侧，上达甲状软骨中部，下抵第6颈椎下缘",
+            "E.均有锥状叶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 17
+    },
+    {
+        "question_text": "3559、关于甲状腺的叙述，错误的是 （  ）",
+        "options": [
+            "A.形如“H”",
+            "B.侧叶贴附于喉的下方、气管上部的两侧面",
+            "C.被膜内层为纤维囊",
+            "D.内膜外层为甲状腺鞘",
+            "E.吞咽时甲状腺可随喉上、下移动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 18
+    },
+    {
+        "question_text": "3560、分泌的激素，能调节机体的基础代谢的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.松果体",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 19
+    },
+    {
+        "question_text": "3561、甲状腺 （  ）",
+        "options": [
+            "A.甲状腺素分泌不足时，可致血钙下降",
+            "B.位于颈前部、第2—4气管软骨环前方",
+            "C.由两侧叶和锥状叶构成",
+            "D.被颈深筋膜包绕，称为甲状腺被囊",
+            "E.甲状腺被囊伸入腺组织，分腺实质为若干小叶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 20
+    },
+    {
+        "question_text": "3562、甲状腺峡位于 （  ）",
+        "options": [
+            "A.舌骨前方",
+            "B.环状软骨前方",
+            "C.第2—4气管软骨环前方",
+            "D.第2—4颈椎前方",
+            "E.甲状软骨前方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 21
+    },
+    {
+        "question_text": "3563、甲状腺峡部多位于 （  ）",
+        "options": [
+            "A.1—2气管软骨环前面",
+            "B.4—5气管软骨环前面",
+            "C.4—6气管软骨环前面",
+            "D.3—6气管软骨环前面",
+            "E.2—4气管软骨环前面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 22
+    },
+    {
+        "question_text": "3564、缺碘可引起哪一内分泌腺体肿大 （  ）",
+        "options": [
+            "A.甲状腺",
+            "B.肾上腺",
+            "C.胸腺",
+            "D.松果体",
+            "E.垂体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 23
+    },
+    {
+        "question_text": "3565、甲状旁腺 （  ）",
+        "options": [
+            "A.功能亢进时常引起血钙下降",
+            "B.通常为一对扁橢圆形小体",
+            "C.位置、大小较恒定",
+            "D.贴附于甲状腺侧叶后面",
+            "E.小儿时期体积较小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 24
+    },
+    {
+        "question_text": "3566、甲状旁腺的特点 （  ）",
+        "options": [
+            "A.调节钙的代谢，维持血钙的平衡",
+            "B.位置、大小较恒定",
+            "C.左右各一",
+            "D.位于甲状腺下方",
+            "E.位于甲状腺浅面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 25
+    },
+    {
+        "question_text": "3567、内分泌腺分泌激素不足时，引起血钙下降的是 （  ）",
+        "options": [
+            "A.松果体",
+            "B.甲状腺",
+            "C.肾上腺",
+            "D.垂体",
+            "E.甲状旁腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 26
+    },
+    {
+        "question_text": "3568、肾上腺 （  ）",
+        "options": [
+            "A.由皮质和髓质构成",
+            "B.为一对三角形腺体",
+            "C.属腹膜内位器官",
+            "D.被肾上腺纤维膜包绕",
+            "E.位于肾的后上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 27
+    },
+    {
+        "question_text": "3569、肾上腺的形状 （  ）",
+        "options": [
+            "A.左侧近似半月形，右侧呈三角形",
+            "B.左侧呈三角形，右侧近似半月形",
+            "C.左侧呈三角形，右侧近似“肾”形",
+            "D.左侧呈三角形，右侧近似球形",
+            "E.双侧均呈三角形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 28
+    },
+    {
+        "question_text": "3570、位于颅内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 29
+    },
+    {
+        "question_text": "3571、位于颈部的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 30
+    },
+    {
+        "question_text": "3572、位于腹腔内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 31
+    },
+    {
+        "question_text": "3573、位于胸腔内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 32
+    },
+    {
+        "question_text": "3574、位于阴囊内的内分泌结构有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 33
+    },
+    {
+        "question_text": "3575、垂体产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 34
+    },
+    {
+        "question_text": "3576、胰岛产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 35
+    },
+    {
+        "question_text": "3577、睪丸间质细胞产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 36
+    },
+    {
+        "question_text": "3578、松果体产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 37
+    },
+    {
+        "question_text": "3579、胸腺产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 38
+    },
+    {
+        "question_text": "3580、垂体产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 39
+    },
+    {
+        "question_text": "3581、肾上腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 40
+    },
+    {
+        "question_text": "3582、胸腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 41
+    },
+    {
+        "question_text": "3583、卵巢产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 42
+    },
+    {
+        "question_text": "3584、甲状旁腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 43
+    },
+    {
+        "question_text": "3585、能调控许多其他内分泌腺的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 44
+    },
+    {
+        "question_text": "3586、主要作用为调节机体基础代谢的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 45
+    },
+    {
+        "question_text": "3587、主要作用为维持血钙平衡的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 46
+    },
+    {
+        "question_text": "3588、主要作用为调节血糖浓度的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 47
+    },
+    {
+        "question_text": "3589、主要作用为分泌性激素的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 48
+    },
+    {
+        "question_text": "3590、胸腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 49
+    },
+    {
+        "question_text": "3591、甲状旁腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 50
+    },
+    {
+        "question_text": "3592、垂体 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 51
+    },
+    {
+        "question_text": "3593、肾上腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 52
+    },
+    {
+        "question_text": "3594、甲状腺前面有 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 53
+    },
+    {
+        "question_text": "3595、垂体后叶释放 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 54
+    },
+    {
+        "question_text": "3596、胰岛产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 55
+    },
+    {
+        "question_text": "3597、睪丸间质细胞产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 56
+    },
+    {
+        "question_text": "3598、胸腺产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 57
+    },
+    {
+        "question_text": "3599、甲状腺产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 58
+    },
+    {
+        "question_text": "3542、关于肾上腺的叙述，错误的是 （  ）",
+        "options": [
+            "A.位于腹膜之后",
+            "B.左肾上腺近似半月形",
+            "C.与肾共同包在肾纤维囊内",
+            "D.分皮质和髓质两部分",
+            "E.分泌的激素可参与调节体内水盐代谢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 59
+    },
+    {
+        "question_text": "3543、垂体 （  ）",
+        "options": [
+            "A.神经垂体包括结节部、神经部",
+            "B.位于颅前窝的垂体窝内",
+            "C.神经垂体可以分泌血管升压素(抗利尿激素)及催产素",
+            "D.腺垂体包括结节部、远部、漏斗部",
+            "E.产生的激素可以影响甲状腺、肾上腺、性腺的活动"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 60
+    },
+    {
+        "question_text": "3544、属于神经垂体的结构是 （  ）",
+        "options": [
+            "A.前叶",
+            "B.远侧部",
+            "C.结节部",
+            "D.漏斗部",
+            "E.中间部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 61
+    },
+    {
+        "question_text": "3545、对垂体的说法中哪项是错误的 （  ）",
+        "options": [
+            "A.分腺垂体和神经垂体两部分",
+            "B.位于蝶骨的垂体窝内",
+            "C.借漏斗连于下丘脑",
+            "D.腺垂体分远侧部、中间部和结节部",
+            "E.神经垂体能分泌加压素(抗利尿素)和催产素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 62
+    },
+    {
+        "question_text": "3546、在垂体后叶内贮存的激素有 （  ）",
+        "options": [
+            "A.抗利尿激素和催产素",
+            "B.生长激素和抗利尿激素",
+            "C.促甲状腺素和生长激素",
+            "D.生长激素和促肾上腺皮质激素",
+            "E.抗利尿激素和促性腺激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 63
+    },
+    {
+        "question_text": "3547、能分泌多种促激素促进其他内分泌腺的分泌活动的是 （  ）",
+        "options": [
+            "A.甲状腺",
+            "B.肾上腺",
+            "C.垂体前叶",
+            "D.垂体后叶",
+            "E.松果体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 64
+    },
+    {
+        "question_text": "3548、对松果体的描述，错误的是 （  ）",
+        "options": [
+            "A.成年后可形成钙斑",
+            "B.位于背侧丘脑后上方",
+            "C.分泌褪黑素",
+            "D.儿童期比较发达",
+            "E.与性成熟无关"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 65
+    },
+    {
+        "question_text": "3549、除具有内分泌功能外还能产生T淋巴细胞的是 （  ）",
+        "options": [
+            "A.松果体",
+            "B.肾上腺",
+            "C.黄体",
+            "D.甲状旁腺",
+            "E.胸腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 66
+    },
+    {
+        "question_text": "3550、具有分泌雄性激素的器官是 （  ）",
+        "options": [
+            "A.甲状旁腺",
+            "B.胸腺",
+            "C.睪丸",
+            "D.松果体",
+            "E.垂体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 67
+    },
+    {
+        "question_text": "3551、兼有内、外分泌功能的器官是",
+        "options": [
+            "A.垂体",
+            "B.胰腺",
+            "C.甲状腺、甲状旁腺",
+            "D.松果体",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 68
+    },
+    {
+        "question_text": "3552、兼有内、外分泌功能的器官是",
+        "options": [
+            "A.垂体",
+            "B.甲状旁腺",
+            "C.甲状腺",
+            "D.松果体",
+            "E.胰腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 69
+    },
+    {
+        "question_text": "3553、内分泌腺 （  ）",
+        "options": [
+            "A.包括甲状腺、肾上腺、垂体、胰岛、睾丸、卵巢等",
+            "B.其腺细胞属腺上皮细胞",
+            "C.腺细胞多排成囊泡，有排泄管",
+            "D.其功能调节与神经系统无关",
+            "E.其分泌物可直接输送至靶器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 70
+    },
+    {
+        "question_text": "3554、不属于内分泌系统的组织是 （  ）",
+        "options": [
+            "A.甲状腺和甲状旁腺",
+            "B.腺垂体和神经垂体",
+            "C.肾上腺髓质和胰岛",
+            "D.松果体和黄体",
+            "E.胰腺和肝"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 71
+    },
+    {
+        "question_text": "3555、关于内分泌系统的叙述正确的是 （  ）",
+        "options": [
+            "A.由内分泌器官组成",
+            "B.是完全独立于神经系统之外的调节系统",
+            "C.内分泌细胞的分泌物首先由排泄管导入腺腔内，然后渗入血液",
+            "D.内分泌器官产生的某种激素经血液循环可影响全身各器官的功能活动",
+            "E.在胃肠道、泌尿生殖道等处有散在的内分泌细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 72
+    },
+    {
+        "question_text": "3556、属于内分泌组织的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.胰岛",
+            "D.胸腺",
+            "E.肾上腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 73
+    },
+    {
+        "question_text": "3557、不能分泌激素的是 （  ）",
+        "options": [
+            "A.肾上腺的髓质",
+            "B.卵巢的黄体",
+            "C.胰腺的胰岛",
+            "D.睾丸的精曲小管",
+            "E.卵巢的卵泡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 74
+    },
+    {
+        "question_text": "3558、甲状腺 （  ）",
+        "options": [
+            "A.峡部多位于第4—6气管软骨环的前方",
+            "B.吞咽时，可随喉上下移动",
+            "C.分泌甲状腺素可调节体内钙磷代谢",
+            "D.侧叶贴于喉和气管的两侧，上达甲状软骨中部，下抵第6颈椎下缘",
+            "E.均有锥状叶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 75
+    },
+    {
+        "question_text": "3559、关于甲状腺的叙述，错误的是 （  ）",
+        "options": [
+            "A.形如“H”",
+            "B.侧叶贴附于喉的下方、气管上部的两侧面",
+            "C.被膜内层为纤维囊",
+            "D.内膜外层为甲状腺鞘",
+            "E.吞咽时甲状腺可随喉上、下移动"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 76
+    },
+    {
+        "question_text": "3560、分泌的激素，能调节机体的基础代谢的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.松果体",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 77
+    },
+    {
+        "question_text": "3561、甲状腺 （  ）",
+        "options": [
+            "A.甲状腺素分泌不足时，可致血钙下降",
+            "B.位于颈前部、第2—4气管软骨环前方",
+            "C.由两侧叶和锥状叶构成",
+            "D.被颈深筋膜包绕，称为甲状腺被囊",
+            "E.甲状腺被囊伸入腺组织，分腺实质为若干小叶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 78
+    },
+    {
+        "question_text": "3562、甲状腺峡位于 （  ）",
+        "options": [
+            "A.舌骨前方",
+            "B.环状软骨前方",
+            "C.第2—4气管软骨环前方",
+            "D.第2—4颈椎前方",
+            "E.甲状软骨前方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 79
+    },
+    {
+        "question_text": "3563、甲状腺峡部多位于 （  ）",
+        "options": [
+            "A.1—2气管软骨环前面",
+            "B.4—5气管软骨环前面",
+            "C.4—6气管软骨环前面",
+            "D.3—6气管软骨环前面",
+            "E.2—4气管软骨环前面"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 80
+    },
+    {
+        "question_text": "3564、缺碘可引起哪一内分泌腺体肿大 （  ）",
+        "options": [
+            "A.甲状腺",
+            "B.肾上腺",
+            "C.胸腺",
+            "D.松果体",
+            "E.垂体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 81
+    },
+    {
+        "question_text": "3565、甲状旁腺 （  ）",
+        "options": [
+            "A.功能亢进时常引起血钙下降",
+            "B.通常为一对扁橢圆形小体",
+            "C.位置、大小较恒定",
+            "D.贴附于甲状腺侧叶后面",
+            "E.小儿时期体积较小"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 82
+    },
+    {
+        "question_text": "3566、甲状旁腺的特点 （  ）",
+        "options": [
+            "A.调节钙的代谢，维持血钙的平衡",
+            "B.位置、大小较恒定",
+            "C.左右各一",
+            "D.位于甲状腺下方",
+            "E.位于甲状腺浅面"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 83
+    },
+    {
+        "question_text": "3567、内分泌腺分泌激素不足时，引起血钙下降的是 （  ）",
+        "options": [
+            "A.松果体",
+            "B.甲状腺",
+            "C.肾上腺",
+            "D.垂体",
+            "E.甲状旁腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 84
+    },
+    {
+        "question_text": "3568、肾上腺 （  ）",
+        "options": [
+            "A.由皮质和髓质构成",
+            "B.为一对三角形腺体",
+            "C.属腹膜内位器官",
+            "D.被肾上腺纤维膜包绕",
+            "E.位于肾的后上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 85
+    },
+    {
+        "question_text": "3569、肾上腺的形状 （  ）",
+        "options": [
+            "A.左侧近似半月形，右侧呈三角形",
+            "B.左侧呈三角形，右侧近似半月形",
+            "C.左侧呈三角形，右侧近似“肾”形",
+            "D.左侧呈三角形，右侧近似球形",
+            "E.双侧均呈三角形"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 86
+    },
+    {
+        "question_text": "3570、位于颅内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 87
+    },
+    {
+        "question_text": "3571、位于颈部的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 88
+    },
+    {
+        "question_text": "3572、位于腹腔内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 89
+    },
+    {
+        "question_text": "3573、位于胸腔内的内分泌器官有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 90
+    },
+    {
+        "question_text": "3574、位于阴囊内的内分泌结构有（　）",
+        "options": [
+            "A.垂体、松果体",
+            "B.胰岛、肾上腺",
+            "C.甲状腺、甲状旁腺",
+            "D.睾丸",
+            "E.胸腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 91
+    },
+    {
+        "question_text": "3575、垂体产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 92
+    },
+    {
+        "question_text": "3576、胰岛产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 93
+    },
+    {
+        "question_text": "3577、睪丸间质细胞产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 94
+    },
+    {
+        "question_text": "3578、松果体产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 95
+    },
+    {
+        "question_text": "3579、胸腺产生 （  ）",
+        "options": [
+            "A.生长激素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.褪黑激素",
+            "E.男性激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 96
+    },
+    {
+        "question_text": "3580、垂体产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 97
+    },
+    {
+        "question_text": "3581、肾上腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 98
+    },
+    {
+        "question_text": "3582、胸腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 99
+    },
+    {
+        "question_text": "3583、卵巢产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 100
+    },
+    {
+        "question_text": "3584、甲状旁腺产生 （  ）",
+        "options": [
+            "A.促肾上腺皮质激素",
+            "B.促胸腺生成素",
+            "C.去甲肾上腺素",
+            "D.甲状旁腺素",
+            "E.雌激素和孕激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 101
+    },
+    {
+        "question_text": "3585、能调控许多其他内分泌腺的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 102
+    },
+    {
+        "question_text": "3586、主要作用为调节机体基础代谢的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 103
+    },
+    {
+        "question_text": "3587、主要作用为维持血钙平衡的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 104
+    },
+    {
+        "question_text": "3588、主要作用为调节血糖浓度的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 105
+    },
+    {
+        "question_text": "3589、主要作用为分泌性激素的是（　）",
+        "options": [
+            "A.垂体",
+            "B.甲状腺",
+            "C.甲状旁腺",
+            "D.胰岛",
+            "E.睾丸、卵巢"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 106
+    },
+    {
+        "question_text": "3590、胸腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 107
+    },
+    {
+        "question_text": "3591、甲状旁腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 108
+    },
+    {
+        "question_text": "3592、垂体 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 109
+    },
+    {
+        "question_text": "3593、肾上腺 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 110
+    },
+    {
+        "question_text": "3594、甲状腺前面有 （  ）",
+        "options": [
+            "A.位于腹腔内",
+            "B.舌骨下肌",
+            "C.连于下丘脑",
+            "D.贴附于甲状腺叶的后面",
+            "E.位于胸腔内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 111
+    },
+    {
+        "question_text": "3595、垂体后叶释放 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 112
+    },
+    {
+        "question_text": "3596、胰岛产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 113
+    },
+    {
+        "question_text": "3597、睪丸间质细胞产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 114
+    },
+    {
+        "question_text": "3598、胸腺产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 115
+    },
+    {
+        "question_text": "3599、甲状腺产生 （  ）",
+        "options": [
+            "A.催产素",
+            "B.促胸腺生成素",
+            "C.胰岛素",
+            "D.甲状腺素",
+            "E.男性激素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 116
+    },
+    {
+        "question_text": "3600、属于内分泌腺的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.松果体",
+            "C.胰腺",
+            "D.甲状旁腺",
+            "E.胸腺"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 117
+    },
+    {
+        "question_text": "3601、有关内分泌腺说法中，正确的描述是 （  ）",
+        "options": [
+            "A.能分泌激素参与神经体液调节",
+            "B.其结构和功能活动有显著的年龄变化",
+            "C.为有导管腺",
+            "D.有丰富的血液供应",
+            "E.前列腺属于内分泌腺"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 118
+    },
+    {
+        "question_text": "3602、甲状腺 （  ）",
+        "options": [
+            "A.分泌甲状腺素",
+            "B.分泌不足时引起突眼性甲状腺肿",
+            "C.峽部位于第2—4气管软骨环前方",
+            "D.侧叶紧贴附在喉的外侧面",
+            "E.被膜内层为纤维囊"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 119
+    },
+    {
+        "question_text": "3603、与生长发育有关的内分泌腺 （  ）",
+        "options": [
+            "A.甲状旁腺",
+            "B.松果体",
+            "C.甲状腺",
+            "D.垂体",
+            "E.肾上腺"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 120
+    },
+    {
+        "question_text": "3604、肾上腺 （  ）",
+        "options": [
+            "A.腺的后面有不显著的门",
+            "B.包于肾筋膜内",
+            "C.右侧呈三角形",
+            "D.位于腹膜后方",
+            "E.腺实质可分为皮质和髓质两部分"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 121
+    },
+    {
+        "question_text": "3605、垂体 （  ）",
+        "options": [
+            "A.神经垂体无内分泌功能",
+            "B.位于垂体窝内",
+            "C.借垂体柄连于下丘脑",
+            "D.外面有坚韧的硬脑膜",
+            "E.可分为腺垂体和神经垂体两部分"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 122
+    },
+    {
+        "question_text": "3606、松果体 （ ）",
+        "options": [
+            "A.抑制性器官早熟",
+            "B.位于背侧丘脑后上方",
+            "C.儿童较发达",
+            "D.分泌褪黑色素",
+            "E.成年后部分钙化形成钙斑"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 123
+    },
+    {
+        "question_text": "3607、Which of the following glands belong to the endocrine glands ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parotid gland",
+            "C.suprarenal sland",
+            "D.pineal body (松果体)",
+            "E.submandibular gland"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 124
+    },
+    {
+        "question_text": "3608、Which of the following glands belong to the endocrine glands ?",
+        "options": [
+            "A.sublingual gland",
+            "B.thymus",
+            "C.parathyroid gland",
+            "D.hypophysis",
+            "E.liver"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 125
+    },
+    {
+        "question_text": "3609、Which of the following endocrine glands are located in the cranial cavity ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parathyroid gland",
+            "C.pineal body (松果体)",
+            "D.hypophysis",
+            "E.suprarenal sland"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 126
+    },
+    {
+        "question_text": "3610、Which of the following endocrine glands are located in the cervical region ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parathyroid gland",
+            "C.pineal body (松果体)",
+            "D.hypophysis",
+            "E.suprarenal sland"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 127
+    },
+    {
+        "question_text": "3611、About the thyroid gland, which of the following descriptions are correct ?",
+        "options": [
+            "A.It is located in the anterior region of the neck.",
+            "B.It is an H-shaped organ composed of isthmus and two lobes.",
+            "C.It is surrounded by two layers of capsule: false capsule and true capsule.",
+            "D.Deep to the true capsule, there are parathyroid glands.",
+            "E.It is supplied by the superior and inferior thyroid arteries."
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 128
+    },
+    {
+        "question_text": "3600、属于内分泌腺的是 （  ）",
+        "options": [
+            "A.垂体",
+            "B.松果体",
+            "C.胰腺",
+            "D.甲状旁腺",
+            "E.胸腺"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 129
+    },
+    {
+        "question_text": "3601、有关内分泌腺说法中，正确的描述是 （  ）",
+        "options": [
+            "A.能分泌激素参与神经体液调节",
+            "B.其结构和功能活动有显著的年龄变化",
+            "C.为有导管腺",
+            "D.有丰富的血液供应",
+            "E.前列腺属于内分泌腺"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 130
+    },
+    {
+        "question_text": "3602、甲状腺 （  ）",
+        "options": [
+            "A.分泌甲状腺素",
+            "B.分泌不足时引起突眼性甲状腺肿",
+            "C.峽部位于第2—4气管软骨环前方",
+            "D.侧叶紧贴附在喉的外侧面",
+            "E.被膜内层为纤维囊"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 131
+    },
+    {
+        "question_text": "3603、与生长发育有关的内分泌腺 （  ）",
+        "options": [
+            "A.甲状旁腺",
+            "B.松果体",
+            "C.甲状腺",
+            "D.垂体",
+            "E.肾上腺"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 132
+    },
+    {
+        "question_text": "3604、肾上腺 （  ）",
+        "options": [
+            "A.腺的后面有不显著的门",
+            "B.包于肾筋膜内",
+            "C.右侧呈三角形",
+            "D.位于腹膜后方",
+            "E.腺实质可分为皮质和髓质两部分"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 133
+    },
+    {
+        "question_text": "3605、垂体 （  ）",
+        "options": [
+            "A.神经垂体无内分泌功能",
+            "B.位于垂体窝内",
+            "C.借垂体柄连于下丘脑",
+            "D.外面有坚韧的硬脑膜",
+            "E.可分为腺垂体和神经垂体两部分"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 134
+    },
+    {
+        "question_text": "3606、松果体 （  ）",
+        "options": [
+            "A.抑制性器官早熟",
+            "B.位于上丘脑后上方",
+            "C.儿童较发达",
+            "D.分泌褪黑色素",
+            "E.成年后部分钙化形成钙斑"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 135
+    },
+    {
+        "question_text": "3607、Which of the following glands belong to the endocrine glands ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parotid gland",
+            "C.suprarenal sland",
+            "D.pineal body (松果体)",
+            "E.submandibular gland"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 136
+    },
+    {
+        "question_text": "3608、Which of the following glands belong to the endocrine glands ?",
+        "options": [
+            "A.sublingual gland",
+            "B.thymus",
+            "C.parathyroid gland",
+            "D.hypophysis",
+            "E.liver"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 137
+    },
+    {
+        "question_text": "3609、Which of the following endocrine glands are located in the cranial cavity ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parathyroid gland",
+            "C.pineal body (松果体)",
+            "D.hypophysis",
+            "E.suprarenal sland"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 138
+    },
+    {
+        "question_text": "3610、Which of the following endocrine glands are located in the cervical region ?",
+        "options": [
+            "A.thyroid gland",
+            "B.parathyroid gland",
+            "C.pineal body (松果体)",
+            "D.hypophysis",
+            "E.suprarenal sland"
+        ],
+        "correct_answer": "AB",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 139
+    },
+    {
+        "question_text": "3611、About the thyroid gland, which of the following descriptions are correct ?",
+        "options": [
+            "A.It is located in the anterior region of the neck.",
+            "B.It is an H-shaped organ composed of isthmus and two lobes.",
+            "C.It is surrounded by two layers of capsule: false capsule and true capsule.",
+            "D.Deep to the true capsule, there are parathyroid glands.",
+            "E.It is supplied by the superior and inferior thyroid arteries."
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 140
+    }
+]

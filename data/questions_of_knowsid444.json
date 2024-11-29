@@ -1,0 +1,184 @@
+[
+    {
+        "question_text": "1关于放线菌的描述错误的是",
+        "options": [
+            "A.呈分枝状生长",
+            "B.抗生素的主要产生菌",
+            "C.真核细胞型微生物",
+            "D.绝大多数无致病性",
+            "E.革兰染色阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列与抗生素产生最密切相关的微生物是",
+        "options": [
+            "A.细菌",
+            "B.病毒",
+            "C.衣原体",
+            "D.支原体",
+            "E.放线菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 2
+    },
+    {
+        "question_text": "3.放线菌属的生物学特性需除外的是",
+        "options": [
+            "A.厌氧或微需氧",
+            "B.非抗酸性细菌",
+            "C.初次分离须加5%CO2",
+            "D.在血平板上生长1~2天可见微小菌落",
+            "E.脓汁标本肉眼可见硫黄样颗粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 3
+    },
+    {
+        "question_text": "4.放线菌病最常见的临床类型是",
+        "options": [
+            "A.肺部感染",
+            "B.面颈部放线菌病",
+            "C.腹部感染",
+            "D.原发性皮肤放线菌病",
+            "E.龋齿和牙周炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 4
+    },
+    {
+        "question_text": "5.放线菌属中具有鉴别诊断意义的微生物检查是",
+        "options": [
+            "A脓汁标本中寻找硫黄样颗粒",
+            "B.是否具有弱抗酸性",
+            "C.呈分枝状生长",
+            "D.液体培养基呈表面膜生长",
+            "E革兰染色阳性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 5
+    },
+    {
+        "question_text": "6.放线菌病患者的化脓性感染的脓汁特征是",
+        "options": [
+            "A.黏稠，呈金黄色",
+            "B.稀薄，呈血水样",
+            "C.可见硫黄样颗粒",
+            "D.黄色或黑色颗粒",
+            "E.稀薄，呈暗褐色"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 6
+    },
+    {
+        "question_text": "7.放线菌属的微生物学检查不包括",
+        "options": [
+            "A.组织切片染色镜检",
+            "B.血清学检测",
+            "C.分离培养",
+            "D.脓汁中寻找到硫黄样颗粒",
+            "E.直接镜检有无放射状菌丝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于诺卡菌属描述错误的是",
+        "options": [
+            "A常引起内源性感染",
+            "B.可引起足分枝菌病",
+            "C.专性需氧菌",
+            "D.具有弱抗酸性",
+            "E.主要通过呼吸道引起肺部感染"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 8
+    },
+    {
+        "question_text": "9.引起足分枝菌病的病原菌是",
+        "options": [
+            "A.内氏放线菌",
+            "B.鸟分枝杆菌",
+            "C.巴西诺卡菌",
+            "D.衣氏放线菌",
+            "E.牛型放线菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 9
+    },
+    {
+        "question_text": "10.关于星形诺卡菌描述错误的是",
+        "options": [
+            "A.常引起外源性感染",
+            "B.诺卡菌属中致病力最强",
+            "C.可通过血行播散，引起脑膜炎",
+            "D.痰液和组织切片中可寻找到硫黄样颗粒",
+            "E.主要通过呼吸道引起肺部感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 10
+    },
+    {
+        "question_text": "11.星形诺卡菌引起最常见疾病的是",
+        "options": [
+            "A.肺炎",
+            "B.脑膜炎",
+            "C.脑脓胂",
+            "D.败血症",
+            "E.腹膜炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 11
+    },
+    {
+        "question_text": "12.诺卡菌属主要分布于",
+        "options": [
+            "A.空气",
+            "B.水",
+            "C.土壤",
+            "D.人与外界相通的腔道",
+            "E.人体体外"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 12
+    },
+    {
+        "question_text": "13.衣氏放线菌和星形诺卡菌的共同点有",
+        "options": [
+            "A.抗酸染色阳性",
+            "B.为专性需氧菌",
+            "C.常引起外源性感染",
+            "D.感染病灶中可见菌丝颗粒",
+            "E.菌丝末端不膨大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "13",
+        "number": 13
+    }
+]

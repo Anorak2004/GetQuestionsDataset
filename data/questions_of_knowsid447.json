@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.衣原体与病毒的相同点是",
+        "options": [
+            "A.含有RNA和DNA",
+            "B.有核糖体",
+            "C.严格活胞内寄生",
+            "D.二分裂方式繁殖",
+            "E.对抗生素敏感"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.衣原体与细菌的不同点是",
+        "options": [
+            "A.有胞壁",
+            "B.含有RNA和DNA",
+            "C.二分裂紧殖方式",
+            "D.对抗生素敏感",
+            "E.在无生命培养基上不生长"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.首先成功分离培养出沙眼衣原体的学者是",
+        "options": [
+            "A.汤飞凡",
+            "B.郭霍",
+            "C.巴斯德",
+            "D.李斯特",
+            "E.琴纳"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.具有独特发育周期的病原体是",
+        "options": [
+            "A.支原体",
+            "B.衣原体",
+            "C.立克次体",
+            "D.螺旋体",
+            "E.巴兴小体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.有关衣原体的描述不正确的是",
+        "options": [
+            "A衣原体对低温抵抗力强，-70°可保存数年",
+            "B.衣原体对热敏感,50~60仁仅能存活5~16分钟",
+            "C.衣原体对四环素与红霉素敏感",
+            "D.衣原体对0.5%苯酚和75%乙醇敏感",
+            "E.以干热灭菌方式处理衣原体仍有感染性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.不能用于衣原体培养的是",
+        "options": [
+            "A.鸡胚卵黄囊",
+            "B.Vero细胞",
+            "C.HeLa细胞",
+            "D.血琼脂平板",
+            "E.MCCoy细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列可经性接触传播的病原体是",
+        "options": [
+            "A.沙眼衣原体",
+            "B.肺炎衣原体",
+            "C.鹦鹉热衣原体",
+            "D.钩端螺旋体",
+            "E.普氏立克次体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于肺炎衣原体的致病性，下列叙述不正确的是",
+        "options": [
+            "A.只奇生于人类，无动物储存宿主",
+            "B.经呼吸道传播",
+            "C.大多数感染表现为亚临床型",
+            "D.其抗体的存在与冠心病和心肌梗死密切相关",
+            "E.除引起肺炎外，还可以引起泌尿生殖道感染"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.关于沙眼衣原体沙眼生物型致病性和免疫性叙述不正确的是",
+        "options": [
+            "A主要寄生于人类，无动动物储存宿主",
+            "B.以体液免疫为主",
+            "C.其传播方式是眼-眼及眼-手-眼",
+            "D.是沙眼的病原体",
+            "E.病后免疫力不强，可反复感染"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.人畜共患的病原体是",
+        "options": [
+            "A.霍乱孤菌",
+            "B.鹦鹉热衣原体",
+            "C.风疹病毒",
+            "D.肺炎衣原体",
+            "E.沙眼衣原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

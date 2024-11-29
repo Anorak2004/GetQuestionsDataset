@@ -1,0 +1,268 @@
+[
+    {
+        "question_text": "1.有关便秘的概念，哪种说法是错误的？",
+        "options": [
+            "A.便秘是指排便频率减少，7天内少于2～3次",
+            "B.粪便量少且千硬",
+            "C.排便每天少于1次即认为是便秘",
+            "D.便秘有器质性及功能性之分",
+            "E.按积粪部位可分为结肠性便秘及直肠性便秘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 1
+    },
+    {
+        "question_text": "2.关于便秘的发生机制，下列说法错误的是:",
+        "options": [
+            "A.摄入食物过少或纤维水分不足",
+            "B.肠道内肌肉张力减低",
+            "C.肠蠕动受阻碍",
+            "D.排便反应减弱",
+            "E.膈肌收缩力增强"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 2
+    },
+    {
+        "question_text": "3.就排便过程而言，下列哪种描述是错误的？",
+        "options": [
+            "A.粪团在直肠内膨胀所致的机械刺激，引起便意",
+            "B.直肠平滑肌推动性收缩",
+            "C.肛门内、外括约肌舒张",
+            "D.肛门内括约肌收缩",
+            "E.腹肌与膈肌收缩使腹压增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列哪项不是器质性便秘的原因？",
+        "options": [
+            "A.肠粘连",
+            "B.肠易激综合征",
+            "C.先天性巨结肠",
+            "D.痔疮",
+            "E.糖尿病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪项疾病可引起器质性便秘？",
+        "options": [
+            "A.结肠冗长",
+            "B.肠易激综合征",
+            "C.先天性巨结肠症",
+            "D.滥用泻药造成对泻药的依赖",
+            "E.进食少量或食物缺乏纤维素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 5
+    },
+    {
+        "question_text": "6.便秘是指7天内自发性排便少于:",
+        "options": [
+            "A.1～2次",
+            "B.3次",
+            "C.4次",
+            "D.4～5次",
+            "E.5～6次"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 6
+    },
+    {
+        "question_text": "7.便秘患者常无下列临床表现:",
+        "options": [
+            "A.左腹部痉挛性疼痛",
+            "B.腹胀",
+            "C.剧烈呕吐",
+            "D.可以在左下腹触及包块",
+            "E.排便坚硬"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列不属于功能性便秘的是:",
+        "options": [
+            "A.结肠冗长",
+            "B.长期滥用泻药",
+            "C.肠易激综合征",
+            "D.所进食物缺乏纤维素",
+            "E.全身性疾病使肠肌松弛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列疾病引起的便秘属于功能性便秘的是:",
+        "options": [
+            "A.甲状腺功能低下",
+            "B.尿毒症",
+            "C.糖尿病",
+            "D.血卟啉病",
+            "E.应用吗啡类药物"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪种因素导致的便秘不属于功能性便秘？",
+        "options": [
+            "A.长期滥用泻药",
+            "B.肠易激综合征",
+            "C.肿瘤",
+            "D.结肠冗长",
+            "E.食物缺乏纤维素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 10
+    },
+    {
+        "question_text": "11.急性便秘多见于:",
+        "options": [
+            "A.结肠肿瘤",
+            "B.痔疮",
+            "C.肠梗阻",
+            "D.肠易激综合征",
+            "E.溃疡性结肠炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 11
+    },
+    {
+        "question_text": "12.生活条件改变引起的便秘是:",
+        "options": [
+            "A.慢性习惯性便秘",
+            "B.功能性便秘",
+            "C.急性便秘",
+            "D.排便困难便后滴血",
+            "E.药物性便秘"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 12
+    },
+    {
+        "question_text": "13.肠梗阻引起的便秘是:",
+        "options": [
+            "A.慢性习惯性便秘",
+            "B.功能性便秘",
+            "C.急性便秘",
+            "D.排便困难便后滴血",
+            "E.药物性便秘"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 13
+    },
+    {
+        "question_text": "14.长期服用抗抑郁药引起的便秘是:",
+        "options": [
+            "A.慢性习惯性便秘",
+            "B.功能性便秘",
+            "C.急性便秘",
+            "D.排便困难便后滴血",
+            "E.药物性便秘"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 14
+    },
+    {
+        "question_text": "15.严重痔疮引起的便秘是:",
+        "options": [
+            "A.慢性习惯性便秘",
+            "B.功能性便秘",
+            "C.急性便秘",
+            "D.排便困难便后滴血",
+            "E.药物性便秘"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 15
+    },
+    {
+        "question_text": "16.大便呈白陶土见于:",
+        "options": [
+            "A.中毒性肝炎",
+            "B.败血症",
+            "C.误输异型血",
+            "D.胰头癌",
+            "E.钩端螺旋体病"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 16
+    },
+    {
+        "question_text": "17.关于慢性便秘者下列哪项检查最为重要？",
+        "options": [
+            "A.粪便检查",
+            "B.结肠镜检查",
+            "C.腹部B超",
+            "D.肿瘤标志物",
+            "E.直肠指检"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 17
+    },
+    {
+        "question_text": "18.便秘伴腹部包块最常见的疾病有:",
+        "options": [
+            "A.结肠肿瘤",
+            "B.慢性痢疾",
+            "C.血吸虫病",
+            "D.肠易激综合征",
+            "E.慢性非特异性溃疡性结肠炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 18
+    },
+    {
+        "question_text": "19.便秘伴肠鸣音亢进，常见于:",
+        "options": [
+            "A.肠结核",
+            "B.肠梗阻",
+            "C.低钾血症",
+            "D.肠黏连",
+            "E.痔疮"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "19",
+        "number": 19
+    }
+]

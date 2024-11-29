@@ -1,0 +1,156 @@
+[
+    {
+        "question_text": "1.甲型流感病毒亚型划分的依据是",
+        "options": [
+            "A.包膜上的HA和NA",
+            "B.核酸",
+            "C核糖核蛋白",
+            "D.M蛋白",
+            "E.核蛋白"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 1
+    },
+    {
+        "question_text": "2.决定流感病毒型别的是",
+        "options": [
+            "A.RNP",
+            "B.NP",
+            "C.MP",
+            "D.HA+NA",
+            "E.NP+MP"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 2
+    },
+    {
+        "question_text": "3.SARS的病原体是",
+        "options": [
+            "A.吸道合胞病毒",
+            "B.麻疹病毒",
+            "C.鼻病毒",
+            "D.流感病毒",
+            "E.冠状病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 3
+    },
+    {
+        "question_text": "4.易发生变异的呼吸道病毒是",
+        "options": [
+            "A.腮腺炎病毒",
+            "B.麻疹病毒",
+            "C.呼吸道合胞病毒",
+            "D.流感病毒",
+            "E.鼻病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 4
+    },
+    {
+        "question_text": "5.由麻疹病毒引起的SSPE是",
+        "options": [
+            "A.隐性感染",
+            "B.潜伏感染",
+            "C.慢发病毒感染",
+            "D.亚临床感染",
+            "E.慢性感染"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 5
+    },
+    {
+        "question_text": "6.分离流感病毒最常采取的材料是",
+        "options": [
+            "A.血液",
+            "B.咽漱液",
+            "C.粪便",
+            "D痰",
+            "E.脑组织"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 6
+    },
+    {
+        "question_text": "7.孕妇感染哪种病毒可引起胎儿先天性畸形",
+        "options": [
+            "A.冠状病毒",
+            "B.鼻病毒",
+            "C.麻疹病毒",
+            "D.流感病毒",
+            "E风疹病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 7
+    },
+    {
+        "question_text": "8.属于正黏病毒科,基因分节段的病毒是",
+        "options": [
+            "A.流感病毒",
+            "B.风疹病毒",
+            "C.副流感病毒",
+            "D.呼肠孤病毒",
+            "E.轮状病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 8
+    },
+    {
+        "question_text": "9.抗流感病毒再感染的主要免疫因素是",
+        "options": [
+            "A.干扰素",
+            "B.血凝素抗体",
+            "C.细胞免疫",
+            "D.神经氨酸酶抗体",
+            "E.核蛋白抗体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 9
+    },
+    {
+        "question_text": "10.造成流感世界性大流行的原因是",
+        "options": [
+            "A.流感病毒抗原性不强,故免疫力不强",
+            "B.流感疠毒对理化因素的抵抗力强",
+            "C.流感病毒型别多",
+            "D.甲型流感病毒易变异成新的亚型",
+            "E.乙型流感病毒易变异成新的亚型"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 10
+    },
+    {
+        "question_text": "11.婴幼儿病毒性肺炎的最主要病原是",
+        "options": [
+            "A.流感病毒",
+            "B.腺病毒",
+            "C.鼻病毒",
+            "D.呼吸道合胞病毒",
+            "E.腮腺炎病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "11",
+        "number": 11
+    }
+]

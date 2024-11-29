@@ -1,0 +1,240 @@
+[
+    {
+        "question_text": "1.正常成人24小时尿量平均为:",
+        "options": [
+            "A.1000ml",
+            "B.1500ml",
+            "C.2000ml",
+            "D.2500ml",
+            "E.3000ml"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 1
+    },
+    {
+        "question_text": "2.多尿是指24小时尿量超过:",
+        "options": [
+            "A.1500ml",
+            "B.2000ml",
+            "C.2500ml",
+            "D.3000ml",
+            "E.3500ml"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 2
+    },
+    {
+        "question_text": "3.少尿是指24小时尿量小于:",
+        "options": [
+            "A.1200ml",
+            "B.1000ml",
+            "C.800ml",
+            "D.400ml",
+            "E.100ml"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 3
+    },
+    {
+        "question_text": "4.无尿是指24小时尿量小于:",
+        "options": [
+            "A.1200ml",
+            "B.1000ml",
+            "C.800ml",
+            "D.400ml",
+            "E.100ml"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 4
+    },
+    {
+        "question_text": "5.产生少尿因素不属于肾前性的为:",
+        "options": [
+            "A.水钠丢失",
+            "B.毛细血管通透性升高，水分渗入组织",
+            "C.肾血管狭窄",
+            "D.血浆胶体渗透压降低",
+            "E.肾小球纤维化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 5
+    },
+    {
+        "question_text": "6.少尿见于以下情况，除外:",
+        "options": [
+            "A.休克",
+            "B.大出血",
+            "C.心功能不全",
+            "D.急性肾炎",
+            "E.原发性醛固酮增多症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 6
+    },
+    {
+        "question_text": "7.持续性多尿常见于以下疾病，除外:",
+        "options": [
+            "A.尿崩症",
+            "B.肾病综合征",
+            "C.糖尿病",
+            "D.原发性醛固酮增多症",
+            "E.肾小管酸中毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪项不属于肾前性少尿？",
+        "options": [
+            "A.休克",
+            "B.脱水",
+            "C.右心衰",
+            "D.糖尿病肾病",
+            "E.肾动脉狭窄"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 8
+    },
+    {
+        "question_text": "9.排尿次数增多而每次尿量正常见于:",
+        "options": [
+            "A.糖尿病",
+            "B.膀胱炎",
+            "C.前列腺增生",
+            "D.输尿管结石",
+            "E.神经源性膀胱"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 9
+    },
+    {
+        "question_text": "10.排尿次数增多而每次尿量减少见于:",
+        "options": [
+            "A.糖尿病",
+            "B.尿崩症",
+            "C.神经源性膀胱",
+            "D.生理性尿频",
+            "E.急性肾衰竭多尿期"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪项不属于肾后性少尿的病因？",
+        "options": [
+            "A.尿路结石",
+            "B.特发性腹膜后纤维化",
+            "C.严重肾下垂",
+            "D.肾血管狭窄",
+            "E.膀胱癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 11
+    },
+    {
+        "question_text": "12.采集多尿患者的病史时哪些不必要？",
+        "options": [
+            "A.多尿开始时间",
+            "B.日排尿总量",
+            "C.日饮水量",
+            "D.是否服利尿剂",
+            "E.日摄入盐含量"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列属于肾前性少尿病因的是:",
+        "options": [
+            "A.前列腺肥大",
+            "B.急性肾小管坏死",
+            "C.急进性肾炎",
+            "D.肝肾综合征",
+            "E.急性间质性肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 13
+    },
+    {
+        "question_text": "14.少尿伴肾绞痛见于:",
+        "options": [
+            "A.慢性肾炎",
+            "B.肾结石",
+            "C.肾病综合征",
+            "D.高血压",
+            "E.心功能不全"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 14
+    },
+    {
+        "question_text": "15.患者，男性，60岁，间歇排尿困难5年，12小时未排尿，初步诊断为:",
+        "options": [
+            "A.慢性肾炎",
+            "B.尿毒症",
+            "C.输尿管结石",
+            "D.前列腺增生症",
+            "E.尿道炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 15
+    },
+    {
+        "question_text": "16.进行性排尿困难后出现尿潴留见于:",
+        "options": [
+            "A.前列腺增生症",
+            "B.膀胱癌",
+            "C.膀胱结核",
+            "D.膀胱炎",
+            "E.急性前列腺炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 16
+    },
+    {
+        "question_text": "17.引起急性尿潴留的原因，除外:",
+        "options": [
+            "A.精神过度紧张",
+            "B.机械性梗阻",
+            "C.动力性梗阻",
+            "D.昏迷",
+            "E.会阴部手术后因疼痛不能用力排尿"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "17",
+        "number": 17
+    }
+]

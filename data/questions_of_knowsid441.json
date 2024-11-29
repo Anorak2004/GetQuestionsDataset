@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1对流感嗜血杆菌特性描述正确的是",
+        "options": [
+            "A.革兰阳性菌",
+            "B.是流感的病原体",
+            "C.无芽胞",
+            "D.有鞭毛",
+            "E.可以发酵乳糖"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.对流感嗜血杆菌培养条件的描述中错误的是",
+        "options": [
+            "A.需氧或兼性厌氧",
+            "B.培养时需要X因子和V因子",
+            "C.在巧克力平板上培养后可产生溶血现象",
+            "D.与金黄色葡萄球菌在血平板上共培养可产生“卫星现象”",
+            "E.长期的人工培养物中通常会丧失荚膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.以下哪一种不属于流感嗜血杆菌的致病物质",
+        "options": [
+            "A.荚膜",
+            "B.菌毛",
+            "C.内毒素",
+            "D.IgA蛋白酶",
+            "E.。外毒素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.致病力最强的流感嗜血杆菌是",
+        "options": [
+            "A.a型流感嗜血杆菌",
+            "B.b型流感嗜血杆菌",
+            "C.c型流感嗜血杆菌",
+            "D.d型流感嗜血杆菌",
+            "E.e型流感嗜血杆菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.哪种细菌不能引起化脓性感染",
+        "options": [
+            "A.脑膜炎奈瑟菌",
+            "B.肺炎链球菌",
+            "C破伤风梭菌",
+            "D.b型流感嗜血杆菌",
+            "E.淋病奈瑟菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.人工培养时需要加人X因子和V因子的细菌是",
+        "options": [
+            "A.布鲁菌",
+            "B.炭疽芽胞杆菌",
+            "C.痢疾志贺菌",
+            "D.流感嗜血杆菌",
+            "E.金黄色葡萄球菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.与金黄色葡萄球菌共培养时可出现“卫星现象”的细菌是",
+        "options": [
+            "A.肺炎链球菌",
+            "B.流感嗜血杆菌",
+            "C.嗜肺军团菌",
+            "D.支原体",
+            "E.铜绿假单胞菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.流感嗜血杆菌具有型特异性的抗原是",
+        "options": [
+            "A.荚膜多糖抗原",
+            "B.菌体抗原",
+            "C.鞭毛抗原",
+            "D.K抗原",
+            "E.Vi抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

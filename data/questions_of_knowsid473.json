@@ -1,0 +1,1205 @@
+[
+    {
+        "question_text": "1.有关黄疸的概念，哪种说法是错误的？",
+        "options": [
+            "A.皮肤黏膜发黄即为黄疸",
+            "B.皮肤黏膜发黄不一定有黄疸",
+            "C.皮肤黏膜不黄不一定无黄疸",
+            "D.黄疸多见于肝胆疾病",
+            "E.胆汁淤积性黄疸时可有皮肤瘙痒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列关于黄染的叙述，哪项是不正确的？",
+        "options": [
+            "A.球结膜下脂肪积聚，往往分布不均匀",
+            "B.胡萝卜血症可引起皮肤黄染，巩膜不黄",
+            "C.胡萝卜血可引起巩膜黄染，皮肤不黄",
+            "D.阿的平所致的巩膜黄染，首先出现在角膜周围",
+            "E.黄疸患者巩膜黄染，首先出现在角膜外周"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常人血中胆红素的主要来源是:",
+        "options": [
+            "A.骨髓内血红蛋白分解",
+            "B.骨髓内在红细胞成熟前血红素分解",
+            "C.骨髓内新生红细胞分解",
+            "D.肝肾内铁卟啉蛋白产生",
+            "E.周围血中红细胞被裂解"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 3
+    },
+    {
+        "question_text": "4.体格检查时，鉴别是否为黄疸，下列判断哪项正确:",
+        "options": [
+            "A.皮肤有黄染肯定是黄疸",
+            "B.巩膜有黄染肯定为黄疸",
+            "C.巩膜黄染出现仅在角膜缘周围，离角膜缘愈远，黄染愈浅，为食物或药物所致的黄染",
+            "D.舌有黄苔为药物所致",
+            "E.出现黄汗为黄疸另一重要表现"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 4
+    },
+    {
+        "question_text": "5.血清中未结合胆红素其主要运输形式是:",
+        "options": [
+            "A.胆红素",
+            "B.胆红素清蛋白",
+            "C.胆红素-Y-蛋白",
+            "D.胆红素Z-蛋白",
+            "E.葡萄糖醛酸胆红素"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 5
+    },
+    {
+        "question_text": "6.当血中胆红素达到一定浓度时，即可出现显性黄疸，这一浓度为:",
+        "options": [
+            "A.超过1.7umol/l",
+            "B.超过8.55umol/L",
+            "C.超过17.1umol/L",
+            "D.超过34.2umol/L",
+            "E.超过51.3umol/L"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪些物质可转变生成胆红素？",
+        "options": [
+            "A.血红蛋白分解",
+            "B.肌红蛋白分解",
+            "C.过氧化物酶分解",
+            "D.细胞色素分解",
+            "E.以上都是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 7
+    },
+    {
+        "question_text": "8.旁路胆红素不包括:",
+        "options": [
+            "A.过氧化物酶",
+            "B.细胞色素氧化酶",
+            "C.幼稚红细胞",
+            "D.肌红蛋白",
+            "E.衰老红细胞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 8
+    },
+    {
+        "question_text": "9.血清非结合胆红素12umol/L，结合胆红素11.2umol最可能见于",
+        "options": [
+            "A.溶血性黄疸",
+            "B.肝细胞性黄疸",
+            "C.胆汁淤积性黄疸",
+            "D.Gilbert综合征",
+            "E.Crigler-Najjar综合征"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 9
+    },
+    {
+        "question_text": "10.引起黄疸的疾病中，下列不是后天获得性溶血性黄疸的是:",
+        "options": [
+            "A.自身免疫性溶血性贫血",
+            "B.海洋性贫血",
+            "C.伯氨喹啉引起的溶血",
+            "D.新生儿溶血",
+            "E.蛇毒引起的贫血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于溶血性黄疸患者的胆红素代谢检查，下列哪项是错误的:",
+        "options": [
+            "A.总胆红素增加",
+            "B.非结合胆红素明显减少",
+            "C.结合胆红素轻度增加",
+            "D.尿胆原明显增高",
+            "E.尿胆红素阴性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 11
+    },
+    {
+        "question_text": "12.溶血性黄疸一般不会出现:",
+        "options": [
+            "A.发热",
+            "B.贫血",
+            "C.皮肤瘙痒",
+            "D.血红蛋白尿",
+            "E.尿胆原增多"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项不属于溶血性黄疸？",
+        "options": [
+            "A.地中海贫血",
+            "B.遗传性球形红细胞增多症",
+            "C.误输异形血",
+            "D.阵发性睡眠性血红蛋白尿",
+            "E.败血症"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 13
+    },
+    {
+        "question_text": "14.急性溶血为特征的是:",
+        "options": [
+            "A.Charcot三联征阳性",
+            "B.尿血红蛋白定性试验阳性和隐血试验强阳性",
+            "C.可发生新生儿核黄疸",
+            "D.Courvoisier征阳性",
+            "E.尿胆原增高和尿结合胆红素定性试验阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 14
+    },
+    {
+        "question_text": "15.溶血性黄疸的特点是:",
+        "options": [
+            "A.UCB正常，CB显著增加",
+            "B.UCB增加，CB增加",
+            "C.UCB正常，CB增加",
+            "D.UCB增加，CB正常",
+            "E.TB正常，UCB增加，"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 15
+    },
+    {
+        "question_text": "16.符合溶血性黄疸临床表现的是:",
+        "options": [
+            "A.网织红细胞减少",
+            "B.尿中尿胆原减少",
+            "C.尿中胆红素强阳性",
+            "D.大便色浅",
+            "E.结合胆红素与总胆红素比值＜20％"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列哪项符合溶血性黄疸的特点",
+        "options": [
+            "A.血中结合胆红素增多",
+            "B.血中非结合胆红素增多",
+            "C.血中结合与非结合胆红素均增多",
+            "D.尿胆红素阳性",
+            "E.尿胆原阴性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪一项不是溶血性黄疸的特征？",
+        "options": [
+            "A.黄疸一般为轻度，呈浅柠檬色",
+            "B.皮肤无瘙痒",
+            "C.尿胆原排出减少",
+            "D.骨髓增生旺盛",
+            "E.急性溶血时可有发热、寒战、头痛、呕吐和血红蛋白尿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列哪种疾病可引起肝细胞性黄疸？",
+        "options": [
+            "A.病毒性肝炎",
+            "B.肝内泥沙样结石",
+            "C.溶血性贫血",
+            "D.原发性胆汁性肝硬化",
+            "E.胆总管狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 19
+    },
+    {
+        "question_text": "20.下列哪项结果不符合肝细胞性黄疸表现？",
+        "options": [
+            "A.尿结合胆红素阳性",
+            "B.血结合胆红素量增加",
+            "C.血非结合胆红素量减少",
+            "D.尿胆元可减少",
+            "E.肝功能检查可不正常"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 20
+    },
+    {
+        "question_text": "21.下列哪项不属于肝细胞性黄疸？",
+        "options": [
+            "A.毛细胆管型病毒性肝炎",
+            "B.肝硬化",
+            "C.急性病毒性肝炎",
+            "D.中毒性肝炎",
+            "E.肝癌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列不支持肝细胞性黄疸的是:",
+        "options": [
+            "A.总胆红素增加",
+            "B.非结合胆红素增加",
+            "C.结合胆红素增加",
+            "D.尿胆红素阳性",
+            "E.尿胆原减少"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 22
+    },
+    {
+        "question_text": "23.肝细胞性黄疸时，尿液检查结果:",
+        "options": [
+            "A.尿胆原减少，胆红素阳性",
+            "B.尿胆原增加，胆红素阴性",
+            "C.尿胆原增加，胆红素阳性",
+            "D.尿胆原正常，胆红素阳性",
+            "E.尿胆原减少，胆红素阴性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 23
+    },
+    {
+        "question_text": "24.肝细胞性黄疸实验室检查不可能出现的是:",
+        "options": [
+            "A.血中CB和UCB均增加",
+            "B.尿中胆红素阳性",
+            "C.尿隐血试验阳性",
+            "D.有不同程度的肝损害",
+            "E.尿胆原阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 24
+    },
+    {
+        "question_text": "25.阻塞性黄疸不会出现下列哪项？",
+        "options": [
+            "A.发热",
+            "B.腹痛",
+            "C.胆囊肿大",
+            "D.网织红细胞增多",
+            "E.ALP增高"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 25
+    },
+    {
+        "question_text": "26.下列哪项符合阻塞性黄疸的临床表现？",
+        "options": [
+            "A.结合胆红素增多",
+            "B.非结合胆红素增多",
+            "C.尿胆红素阴性",
+            "D.尿胆红素阳性",
+            "E.大便颜色变深"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 26
+    },
+    {
+        "question_text": "27.完全性阻塞性黄疸时，正确的是:",
+        "options": [
+            "A.尿胆原（-），尿胆红素（-）",
+            "B.尿胆原（+），尿胆红素（-）",
+            "C.尿胆原（-），尿胆红素（+）",
+            "D.尿胆原（+），尿胆红素（+）",
+            "E.粪胆元（+）"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 27
+    },
+    {
+        "question_text": "28.符合阻塞性黄疸临床表现的是:",
+        "options": [
+            "A.粪便色加深",
+            "B.尿中胆红素阴性",
+            "C.尿中尿胆原增加",
+            "D.心率增快",
+            "E.血清碱性磷酸酶明显增高"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 28
+    },
+    {
+        "question_text": "29.引起阻塞性黄疸的疾病是:",
+        "options": [
+            "A.原发性胆汁性肝硬化",
+            "B.系统性红斑狼疮",
+            "C.毒覃中毒",
+            "D.蚕豆病",
+            "E.病毒性肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 29
+    },
+    {
+        "question_text": "30.胆汁淤积性黄疸的临床特点，除外:",
+        "options": [
+            "A.尿胆红素阳性",
+            "B.伴皮肤瘙痒",
+            "C.血非结合胆红素明显增高",
+            "D.皮肤呈暗黄色",
+            "E.血结合胆红素明显增高"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 30
+    },
+    {
+        "question_text": "31.下列哪项不属于胆汁淤积性黄疸？",
+        "options": [
+            "A.肝内泥沙样结石",
+            "B.胆石症",
+            "C.胰头癌",
+            "D.壶腹癌",
+            "E.肝硬化"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 31
+    },
+    {
+        "question_text": "32.下列支持胆汁淤积性黄疸的是:",
+        "options": [
+            "A.非结合胆红素增加",
+            "B.结合胆红素增加",
+            "C.尿胆红素阴性",
+            "D.尿胆原增加",
+            "E.血总胆固醇降低"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 32
+    },
+    {
+        "question_text": "33.下列哪种疾病可引起胆汁淤积性黄疸？",
+        "options": [
+            "A.中毒性肝炎",
+            "B.病毒性肝炎",
+            "C.钩端螺旋体病",
+            "D.毛细胆管型病毒性肝炎",
+            "E.遗传性球形红细胞增多症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 33
+    },
+    {
+        "question_text": "34.哪种药物试验治疗可用来鉴别肝外阻塞性黄疸与非梗阻性胆汁淤积性黄疸？",
+        "options": [
+            "A.安体舒通",
+            "B.心得安",
+            "C.酚妥拉明",
+            "D.泼尼松",
+            "E.多巴胺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 34
+    },
+    {
+        "question_text": "35.哪项有助于鉴别肝细胞性黄疸和阻塞性黄疸？",
+        "options": [
+            "A.皮肤黏膜颜色",
+            "B.血中结合胆红素是否升高",
+            "C.尿胆红素阳性或阴性",
+            "D.有无血红蛋白尿",
+            "E.尿胆原定性或定量检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 35
+    },
+    {
+        "question_text": "36.肝内胆汁淤积性黄疸与肝外胆汁淤积性黄疸鉴别方法下列哪种最为简单明确？",
+        "options": [
+            "A.腹部B超",
+            "B.TB及CB测定",
+            "C.血胆固醇测定",
+            "D.苯巴比妥试验",
+            "E.肾上腺皮质激素治疗试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 36
+    },
+    {
+        "question_text": "37.区别肝外或肝内胆管阻塞的部位，下列最好的检查是",
+        "options": [
+            "A.X线检查",
+            "B.CT",
+            "C.B超",
+            "D.ERCP（内镜逆行性胰胆管造影术)",
+            "E.PTC（经皮肝穿刺胆管照影）"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 37
+    },
+    {
+        "question_text": "38.肝细胞对摄取非结合胆红素和排泄结合胆红素均有障碍的，考虑是:",
+        "options": [
+            "A.Gilbert综合征",
+            "B.Crigler-Najjar综合征",
+            "C.Rotor综合征",
+            "D.Dubin-Johnson综合征",
+            "E.淤胆性肝病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 38
+    },
+    {
+        "question_text": "39.肝细胞缺乏葡萄糖醛酸转移酶的，考虑是:",
+        "options": [
+            "A.Gilbert综合征",
+            "B.Crigler-Najar综合征",
+            "C.Rotor综合征",
+            "D.Dubin-Johnson综合征",
+            "E.淤胆性肝病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 39
+    },
+    {
+        "question_text": "40.肝细胞摄取非结合胆红素障碍的，考虑是:",
+        "options": [
+            "A.Gilbert综合征",
+            "B.Crigler-Najjar综R合征",
+            "C.Rotor综合征",
+            "D.Dubin-Johnson综合征",
+            "E.淤胆性肝病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 40
+    },
+    {
+        "question_text": "41.下列仅见结合胆红素增高而非结合胆红素正常的是:",
+        "options": [
+            "A.Gilbert综合征",
+            "B.Crigler-Najar综合征",
+            "C.溶血性黄疸",
+            "D.Dubin-Johnson综合征",
+            "E.Rotor综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 41
+    },
+    {
+        "question_text": "42.下列哪些疾病非结合胆红素及结合性胆红素均升高？",
+        "options": [
+            "A.Gibert综合征",
+            "B.Dubin-Jonson综合征",
+            "C.Rotor综合征",
+            "D.Crigler-Najiar综合征",
+            "E.遗传性球形红细胞增多症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 42
+    },
+    {
+        "question_text": "43.UCB为65umol/l，CB为14umol/L，该患者最有可能为:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.溶血性黄疸",
+            "C.淤血性肝炎",
+            "D.胆石症",
+            "E.Rotor综合征"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 43
+    },
+    {
+        "question_text": "44.血清总胆红素和结合胆红素增高，粪便呈白陶土色常见于:",
+        "options": [
+            "A.先天性黄疸",
+            "B.溶血性黄疸",
+            "C.不完全性胆汁淤积性黄疸",
+            "D.肝细胞性黄疸",
+            "E.完全性胆汁淤积性黄疸"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 44
+    },
+    {
+        "question_text": "45.肝脏进行性肿大，黄疸持续性加重，提示:",
+        "options": [
+            "A.胆石症",
+            "B.肝炎",
+            "C.肝癌",
+            "D.胆汁淤积性肝硬化",
+            "E.胆道蛔虫症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 45
+    },
+    {
+        "question_text": "46.患者，皮肤黄染不断加深，身体日渐消瘦大便持续变白，碱性磷酸酶增高，主要考虑:",
+        "options": [
+            "A.肝硬化",
+            "B.胰头癌",
+            "C.肝癌",
+            "D.病毒性肝炎",
+            "E.胆囊炎、胆石症"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 46
+    },
+    {
+        "question_text": "47.一深度黄疸患者，恶心呕吐，肝界小，后昏迷抽搐，出现“胆酶分离”现象，应考虑:",
+        "options": [
+            "A.急性病毒性肝炎",
+            "B.肝硬化",
+            "C.胰头癌",
+            "D.急性重症肝炎",
+            "E.肝癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 47
+    },
+    {
+        "question_text": "48.病毒性肝炎时可呈现:",
+        "options": [
+            "A.Charcot三联征阳性",
+            "B.尿血红蛋白定性试验阳性和隐血试验强阳性",
+            "C.可发生新生儿核黄疸",
+            "D.Courvoisier征阳性",
+            "E.尿胆原增高和尿结合胆红素定性试验阳性"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 48
+    },
+    {
+        "question_text": "49.胰腺癌时可呈现:",
+        "options": [
+            "A.Charcot三联征阳性",
+            "B.尿血红蛋白定性试验阳性和隐血试验强阳性",
+            "C.可发生新生儿核黄疸",
+            "D.Courvoisier征阳性",
+            "E.尿胆原增高和尿结合胆红素定性试验阳性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 49
+    },
+    {
+        "question_text": "50.急性化脓性胆管炎时，表现为:",
+        "options": [
+            "A.Charcot三联征阳性",
+            "B.尿血红蛋白定性试验阳性和隐血试验强阳性",
+            "C.可发生新生儿核黄疸",
+            "D.Courvoisier征阳性",
+            "E.尿胆原增高和尿结合胆红素定性试验阳性"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 50
+    },
+    {
+        "question_text": "51.Crigler-Najjar综合征，导致:",
+        "options": [
+            "A.Charcot三联征阳性",
+            "B.尿血红蛋白定性试验阳性和隐血试验强阳性",
+            "C.可发生新生儿核黄疸",
+            "D.Courvoisier征阳性",
+            "E.尿胆原增高和尿结合胆红素定性试验阳性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 51
+    },
+    {
+        "question_text": "52.全身黄疸，粪土呈白陶土色常见哪种疾病？",
+        "options": [
+            "A.急性肝炎",
+            "B.肝硬化",
+            "C.溶血性贫血",
+            "D.胆囊炎",
+            "E.胰头癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 52
+    },
+    {
+        "question_text": "53.女，45岁，食欲不振，乏力一个月，近日恶心、呕吐、腹痛、腹胀、巩膜及皮肤黄染，伴有皮肤瘙痒，粪色变浅，应考虑是哪种黄疸？",
+        "options": [
+            "A.肝细胞性黄疸",
+            "B.溶血性黄疸",
+            "C.胆汁淤积性黄疸",
+            "D.先天性溶血性黄疸",
+            "E.以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 53
+    },
+    {
+        "question_text": "54.夏科（Charcot）三联症多见于哪种疾病？",
+        "options": [
+            "A.急性化脓性胆管炎",
+            "B.胆结石",
+            "C.肝炎并胆结石",
+            "D.胆道蛔虫",
+            "E.肝脓肿并破裂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 54
+    },
+    {
+        "question_text": "55.粪便颜色呈白陶土色多见于:",
+        "options": [
+            "A.溶血性黄疸",
+            "B.肝细胞性黄疸",
+            "C.胆汁淤积性黄疸",
+            "D.家族遗传性黄疸",
+            "E.以上均不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 55
+    },
+    {
+        "question_text": "56.过多食用含有胡萝卜的食物可使皮肤黄染，但一般不会发生在:",
+        "options": [
+            "A.足底",
+            "B.前额",
+            "C.手掌",
+            "D.巩膜和口腔黏膜",
+            "E.鼻部及双颊部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 56
+    },
+    {
+        "question_text": "57.肝病黄疸一般在下列哪个部位的皮肤黄染最明显？",
+        "options": [
+            "A.巩膜",
+            "B.角手",
+            "C.膜掌",
+            "D.结膜",
+            "E.鼻部及双颊部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 57
+    },
+    {
+        "question_text": "58.下列药物易引起溶血性黄疸的是:",
+        "options": [
+            "A.氯丙嗪",
+            "B.卡铂",
+            "C.伯氨喹啉",
+            "D.甲基睾丸酮",
+            "E.甲基硫氧嘧啶"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 58
+    },
+    {
+        "question_text": "59.尿胆元、尿胆素增加，尿胆红素阴性，下列疾病中哪种可能性大？",
+        "options": [
+            "A.地中海贫血",
+            "B.中毒性肝炎",
+            "C.胆囊结石",
+            "D.胆总管癌",
+            "E.病毒性肝炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 59
+    },
+    {
+        "question_text": "60.粪便颜色变浅灰或呈白陶土色，见于:",
+        "options": [
+            "A.溶血性贫血",
+            "B.肝细胞性黄疸",
+            "C.梗阻性黄疸",
+            "D.先天性非溶血性黄疸",
+            "E.正常大便"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 60
+    },
+    {
+        "question_text": "61.核黄疸产生的机制是:",
+        "options": [
+            "A.肝细胞摄取非结合胆红素功能障碍",
+            "B.细胞缺乏葡萄糖醛酸转移酶",
+            "C.肝细胞对结合胆红素及其某些阴离子向毛细胆管排泄发生障碍",
+            "D.肝细胞排泄结合胆红素存在先天性障碍",
+            "E.以上都不对"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 61
+    },
+    {
+        "question_text": "62.患者因食用过多胡萝卜，黄疸多出现的部位是:",
+        "options": [
+            "A.手掌、足底、前额",
+            "B.巩膜",
+            "C.口腔黏膜",
+            "D.躯干",
+            "E.耳廓"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 62
+    },
+    {
+        "question_text": "63.黄疸患者大便呈灰白色，胆囊肿大无压痛，首先考虑:",
+        "options": [
+            "A.急性肝炎",
+            "B.急性胆囊炎",
+            "C.胰头癌",
+            "D.肝硬化",
+            "E.胆道结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 63
+    },
+    {
+        "question_text": "64.发热，黄疸，尿呈酱油样，可见于:",
+        "options": [
+            "A.伤寒",
+            "B.急性肝炎",
+            "C.急性胆囊炎",
+            "D.胆管梗阻并感染",
+            "E.蚕豆病"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 64
+    },
+    {
+        "question_text": "65.区别药物性黄染和黄疸最有意义的部位是:",
+        "options": [
+            "A.巩膜",
+            "B.手掌",
+            "C.角膜",
+            "D.皮肤",
+            "E.口腔粘膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 65
+    },
+    {
+        "question_text": "66.下列哪种疾病可引起黄疸、呕血、发热及全身皮肤粘膜出血？",
+        "options": [
+            "A.败血症",
+            "B.慢性胃炎",
+            "C.十二指肠炎",
+            "D.消化性溃疡",
+            "E.胃粘膜脱垂"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 66
+    },
+    {
+        "question_text": "67.黄疸伴上腹部剧烈疼痛最常见于:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.原发性肝癌",
+            "C.肝硬化",
+            "D.败血症",
+            "E.胆道结石"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 67
+    },
+    {
+        "question_text": "68.黄疸伴皮肤瘙痒见于:",
+        "options": [
+            "A.急性肝炎",
+            "B.药物中毒性肝炎",
+            "C.胆总管结石",
+            "D.自身免疫性贫血",
+            "E.肝硬化"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 68
+    },
+    {
+        "question_text": "69.黄疸伴肝掌、蜘蛛痣，常见于:",
+        "options": [
+            "A.急性溶血",
+            "B.慢性溶血",
+            "C.慢性胰腺炎",
+            "D.肝硬化",
+            "E.胆囊炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 69
+    },
+    {
+        "question_text": "70.黄疸伴皮肤瘙痒，可见于:",
+        "options": [
+            "A.急性溶血",
+            "B.慢性溶血",
+            "C.急性肝炎",
+            "D.慢性肝炎",
+            "E.肝内胆汁淤积"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 70
+    },
+    {
+        "question_text": "71.黄疸伴高热、右上腹绞痛，多见于:",
+        "options": [
+            "A.急性溶血",
+            "B.急性肝炎",
+            "C.胆道梗阻并感染",
+            "D.急性胰腺炎",
+            "E.钩端螺旋体病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 71
+    },
+    {
+        "question_text": "72.黄疸伴寒战，高热可见于:",
+        "options": [
+            "A.病毒性肝炎",
+            "B.肝硬化",
+            "C.胆石症",
+            "D.胆囊炎",
+            "E.壶腹癌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 72
+    },
+    {
+        "question_text": "73.胰头癌时可出现:",
+        "options": [
+            "A.黄疸伴发热",
+            "B.黄疸伴脾大",
+            "C.黄疸伴腹水",
+            "D.黄疸伴瘙痒",
+            "E.黄疸伴胆囊肿大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 73
+    },
+    {
+        "question_text": "74.钩端螺旋体病时可出现:",
+        "options": [
+            "A.黄疸伴发热",
+            "B.黄疸伴脾大",
+            "C.黄疸伴腹水",
+            "D.黄疸伴瘙痒",
+            "E.黄疸伴胆囊肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 74
+    },
+    {
+        "question_text": "75.疟疾时可出现:",
+        "options": [
+            "A.黄疸伴发热",
+            "B.黄疸伴脾大",
+            "C.黄疸伴腹水",
+            "D.黄疸伴瘙痒",
+            "E.黄疸伴胆囊肿大"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 75
+    },
+    {
+        "question_text": "76.肝硬化失代偿时可有:",
+        "options": [
+            "A.黄疸伴发热",
+            "B.黄疸伴脾大",
+            "C.黄疸伴腹水",
+            "D.黄疸伴瘙痒",
+            "E.黄疸伴胆囊肿大"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 76
+    },
+    {
+        "question_text": "77.胆总管结石时可出现:",
+        "options": [
+            "A.黄疸伴发热",
+            "B.黄疸伴脾大",
+            "C.黄疸伴腹水",
+            "D.黄疸伴胆囊肿大"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 77
+    },
+    {
+        "question_text": "78.对诊断肝癌宜选用哪项检查:",
+        "options": [
+            "A.X线造影检查",
+            "B.ERCP（内镜逆行性胰胆管造影术）",
+            "C.CT",
+            "D.腹腔镜检查",
+            "E.染料（如靛青绿）排泄试验"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 78
+    },
+    {
+        "question_text": "79.对确定胆囊收缩功能检查是:",
+        "options": [
+            "A.X线造影检查",
+            "B.ERCP（内镜逆行性胰胆管造影术）",
+            "C.CT",
+            "D.腹腔镜检查",
+            "E.染料（如靛青绿）排泄试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 79
+    },
+    {
+        "question_text": "80.对明确肝脏疾病的诊断并行肝穿刺活检宜用的检查是:",
+        "options": [
+            "A.线造影检查",
+            "B.ERCP（内镜逆行性胰胆管造影术）",
+            "C.CT",
+            "D.腹腔镜检查",
+            "E.染料（如靛青绿）排泄试验"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 80
+    },
+    {
+        "question_text": "81.对胆总管壶腹部和乳头病变诊断宜用的检查是:",
+        "options": [
+            "A.X线造影检查",
+            "B.ERCP（内镜逆行性胰胆管造影术）",
+            "C.CT",
+            "D.腹腔镜检查",
+            "E.染料（如靛青绿）排泄试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 81
+    },
+    {
+        "question_text": "82.对诊断Crigler-Najjar综合征选用的检查为:",
+        "options": [
+            "A.X线造影检查",
+            "B.ERCP（内镜逆行性胰胆管造影术）",
+            "C.CT",
+            "D.腹腔镜检查",
+            "E.染料（如靛青绿）排泄试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 82
+    },
+    {
+        "question_text": "83.女，45岁，右上腹绞痛，查体:皮肤、巩膜未见黄染，辅助检查:腹部超声示胆总管结石，血清总胆红素26umol/L。关于黄疸的诊断，该患者符合哪项？",
+        "options": [
+            "A.无黄疸",
+            "B.隐性黄疸",
+            "C.轻度黄疸",
+            "D.中度黄疸",
+            "E.重度黄疸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 83
+    },
+    {
+        "question_text": "84.女，45岁，右上腹绞痛，查体:皮肤、巩膜见黄染，辅助检查:腹部超声示胆总管结石，血清总胆红素26umol/L。该患者行血胆红素测定时，可出现哪种改变？",
+        "options": [
+            "A.血清总胆红素和非结合胆红素升高",
+            "B.血清总胆红素和结合胆红素升高",
+            "C.血清总胆红素和结合胆红素及非结合胆红素均升高",
+            "D.结合胆红素/总胆红素比值为20％",
+            "E.结合胆红素/总胆红素比值为35％"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 84
+    },
+    {
+        "question_text": "85.女，45岁，右上腹绞痛，查体:皮肤、巩膜味见黄染，辅助检查:腹部超声示胆总管结石，血清总胆红素26umol/L。该患者的尿胆红素代谢检查，可出现哪种改变？",
+        "options": [
+            "A.尿胆元正常，胆红素阴性",
+            "B.尿胆元明显升高，胆红素阴性",
+            "C.尿胆元减少，胆红素强阳性",
+            "D.尿胆元中度升高，胆红素阳性",
+            "E.尿胆元减少，胆红素阴性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 85
+    },
+    {
+        "question_text": "86.女，45岁，右上腹绞痛，查体:皮肤、巩膜未见黄染，辅助检查:腹部超声示胆总管结石，血清总胆红素26umol/L。该患者黄疸发生的机制为:",
+        "options": [
+            "A.肝内胆汁淤积",
+            "B.肝内阻塞性黄疸",
+            "C.肝外胆管外阻塞",
+            "D.肝外胆管内阻塞",
+            "E.肝细胞性黄疸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "86",
+        "number": 86
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.属于DNA病毒的是",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HCV",
+            "D.HDV",
+            "E.HEV"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.属于缺陷病毒的是",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HCV",
+            "D.HDV",
+            "FHEV"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.肝炎病毒与传播途径组合销误的是",
+        "options": [
+            "A.甲型肝炎病毒一粪-口途径传播",
+            "B.乙型肝炎病毒一血源性传播",
+            "C.丙型肝炎病毒—血源性传播",
+            "D.丁型肝炎病毒一粪-口途径传播",
+            "E.戊型肝炎病毒一粪-口途径传播"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.Dane颗粒是指",
+        "options": [
+            "A.完整的HAV颗粒",
+            "B.完整的HBV颗粒",
+            "C.完整的HCV颗粒",
+            "D.HBV小球形颗粒",
+            "E.完整的HDV颗粒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.HBV包膜上的S蛋白的成分是",
+        "options": [
+            "A.HBsAg",
+            "B.HBsAg+PreS2Ag",
+            "C.PreSIAg",
+            "D.PreS2Ag",
+            "E.HBsAg+PreS1Ag+PreS2Ag"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.HBV的核酸类型是",
+        "options": [
+            "A.单正镇RNA",
+            "B.单负链RNA",
+            "C.双链RNA",
+            "D.不完全双链环状DNA",
+            "E.分节段双链DNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.HBV的P基因编码的蛋白是",
+        "options": [
+            "A.HBsAg",
+            "B.HBcAg",
+            "C.PreSlAg",
+            "D.PreS2Ag",
+            "E.DNA聚合酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.不属于病毒结构蛋白的HBV蛋白是",
+        "options": [
+            "A.HBsAg",
+            "B.HBcAg",
+            "C.HBeAg",
+            "D.PreSIAg",
+            "E.PreS2Ag"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.目前已有疫苗可供预防的肝炎病毒包括",
+        "options": [
+            "A.HAVHBVICV",
+            "B.HAVHBVHEV",
+            "C.HBVHCVHEV",
+            "D.HAVHCVHDV",
+            "E.HCVHDVHEV"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.没有中和作用的肝炎病毒抗体是",
+        "options": [
+            "A.抗-HAV",
+            "B.抗-HBS",
+            "C.抗-PreS1",
+            "D.抗-PreS2",
+            "E.抗-HDV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.在乙型肝炎病人血清中不易检测到的抗原抗体成分是",
+        "options": [
+            "A.HBsAg",
+            "B.HBeAg",
+            "C.HBcAg",
+            "D.抗-fBs",
+            "E.抗-HBC"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.对脂浴剂不敏感的病毒是",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HCV",
+            "D.HDV",
+            "E.HSV"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.可在体外原代及传代细胞中增殖的病毒是",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HCV",
+            "D.HDV",
+            "E.HEV"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.HBV的致病机制不包括",
+        "options": [
+            "A.特异性CTL对感染肝细胞的直接杀伤作用",
+            "B.肝细胞凋亡",
+            "C.自身免疫介导的免疫病理损伤",
+            "D.I型超敏反应",
+            "E.III型超敏反应"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.与原发性肝细胞癌密切相关的病毒是",
+        "options": [
+            "A.HAV",
+            "B.HBV",
+            "C.HIV",
+            "D.EBV",
+            "E.HSV-2"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.提示患者体内HBV处于复制状态，血清具有传染性的血清学指标是",
+        "options": [
+            "A.HBsAgfu-HBs",
+            "B.HBSAg、抗-HBe'、抗-HBC*",
+            "C.HBsAg*HBeAgti-HBe",
+            "D.HBsAg*tü-HBs\"ti-HBc",
+            "E.ti-HBs*ti-HBc*"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.诊断慢性HDV感染的血清学指标是",
+        "options": [
+            "A.HBsAg+抗HBS+",
+            "B.HBsAg+抗HBS+抗HBC+",
+            "C.HBcAg+HBeAg+抗HBC+",
+            "D.HBeAg+K抗HDV+",
+            "E.HBSAg+抗-HDV+抗-HDV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.机体对HBV产生免疫耐受可导致的结果是",
+        "options": [
+            "A.急性肝炎",
+            "B.重型肝炎",
+            "C.慢性持续性肝炎",
+            "D.原发性肝癌",
+            "E.耐药性变异"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.HIBV与一般DNA病毒不同之处是",
+        "options": [
+            "A.含有DNA多聚酶",
+            "B.含有衣壳蛋白",
+            "C病毒复制时在胞核内合成DNA,在胞质内合成蛋白质",
+            "D.DNA复制时有逆转录过程",
+            "E.基因组DNA可以整合到宿主细胞染色体DNA中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.关于肝炎病毒及其所致疾病的叙述,错误的是",
+        "options": [
+            "A.甲型肝炎一般为自限性疾病",
+            "B.乙型肝炎主要通过血源性传播",
+            "C.丙型肝炎病毒感染一般不易慢性化",
+            "D.丁型肝炎病毒可与HBV发生共感染",
+            "E.戊型肝炎病毒的传播途径与HAV相同"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

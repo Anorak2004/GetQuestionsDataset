@@ -1,0 +1,142 @@
+[
+    {
+        "question_text": "1.在我国，流行性乙型脑炎病毒的主要传播媒介是",
+        "options": [
+            "A.库蚊",
+            "B.伊蚊",
+            "C.硬蜱",
+            "D.体虱",
+            "E.白蛉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 1
+    },
+    {
+        "question_text": "2.给流行区的幼猪进行疫苗接种可以降低人群发病率的疾病是",
+        "options": [
+            "A.流行性感冒",
+            "B.肾综合征出血热",
+            "C.乙型脑炎",
+            "D.登革热",
+            "E.脊髓灰质炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 2
+    },
+    {
+        "question_text": "3.主要通过伊蚊传播的病毒是",
+        "options": [
+            "A.汉坦病毒",
+            "B.登革病毒",
+            "C.乙型脑炎病毒",
+            "D.森林脑炎病毒",
+            "E.发热伴血小板减少综合征病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 3
+    },
+    {
+        "question_text": "4.感染后可获得牢固免疫力的病毒是",
+        "options": [
+            "A.流感病毒",
+            "B.戊型肝炎病毒",
+            "C丙型肝炎病毒",
+            "D.乙型脑炎病毒",
+            "E.登革病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 4
+    },
+    {
+        "question_text": "5.可致自然疫源性疾病的病毒是",
+        "options": [
+            "A.登革病毒",
+            "B.单纯疱疹病毒",
+            "C.戊型肝炎病毒",
+            "D.脊髓灰质炎病毒",
+            "E.轮状病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 5
+    },
+    {
+        "question_text": "6.蚊是乙型脑炎病毒长期储存宿主的主要原因是",
+        "options": [
+            "A.蚊可叮咬多种家畜或禽类",
+            "B.乙型脑炎病毒不会使蚊致病",
+            "C.乙型脑炎病毒在蚊体可形成病毒血症",
+            "D.蚊体可携带乙脑病毒越冬以及经卵传代",
+            "E.蚊可在动物与人体间传播乙型脑炎病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 6
+    },
+    {
+        "question_text": "7.乙型脑炎的实验室早期诊断方法首选",
+        "options": [
+            "A.病毒分离",
+            "B.中和试验",
+            "C.血凝抑制试验",
+            "D.补体结合试验",
+            "E.特异性IgM抗体测定"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 7
+    },
+    {
+        "question_text": "8.森林脑炎病毒的传播媒介是",
+        "options": [
+            "A.白纹伊蚊",
+            "B.硬蜱",
+            "C.鼠蚤",
+            "D.体虱",
+            "E.白蛉"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 8
+    },
+    {
+        "question_text": "9.只有单一血清型,抗原性稳定的病毒是",
+        "options": [
+            "A.登革病毒",
+            "B.乙型肝炎病毒",
+            "C.汉坦病毒",
+            "D.乙型脑炎病毒",
+            "E.流感病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 9
+    },
+    {
+        "question_text": "10.寨卡病毒的传播媒介是",
+        "options": [
+            "A.白纹伊蚊",
+            "B.三带喙库蚊",
+            "C.硬蜱",
+            "D.体虱",
+            "E.白蛉"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "10",
+        "number": 10
+    }
+]

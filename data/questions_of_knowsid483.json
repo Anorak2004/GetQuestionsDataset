@@ -1,0 +1,478 @@
+[
+    {
+        "question_text": "1.血尿是指:",
+        "options": [
+            "A.尿为茶红色",
+            "B.尿中有红细胞",
+            "C.尿显微镜下见红细胞",
+            "D.肉眼见尿呈洗肉水样",
+            "E.离心沉淀后的尿液，红细胞3个以上Hp"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列关于血尿的描述哪项是错误的:",
+        "options": [
+            "A.血尿当尿液为碱性时，颜色呈红色",
+            "B.血红蛋白尿，尿是均匀暗红色或酱油色",
+            "C.血尿当尿液为酸性时，颜色是棕色或黑色",
+            "D.若三杯尿中均有血液表示病变在上尿道路或膀胱",
+            "E.作尿三杯试验时，第一杯尿含血液，说明病变部位在膀胱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 2
+    },
+    {
+        "question_text": "3.血尿是指尿液离心沉淀后，光镜下每高倍视野有几个红细胞？",
+        "options": [
+            "A.1～2个",
+            "B.2～3个",
+            "C.3个以上",
+            "D.4个以上",
+            "E.5个以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 3
+    },
+    {
+        "question_text": "4.血尿最多见于:",
+        "options": [
+            "A.运动后",
+            "B.妇女月经期",
+            "C.药物性",
+            "D.泌尿系结石",
+            "E.泌尿系感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 4
+    },
+    {
+        "question_text": "5.临床上最常见的血尿原因为:",
+        "options": [
+            "A.泌尿系统疾病",
+            "B.全身性疾病",
+            "C.药物作用",
+            "D.化学因素",
+            "E.功能性疾病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 5
+    },
+    {
+        "question_text": "6.常见血尿的泌尿系疾病，除外:",
+        "options": [
+            "A.结石",
+            "B.结核",
+            "C.细菌感染",
+            "D.尿失禁",
+            "E.肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列哪项是引起血尿最常见的原因？",
+        "options": [
+            "A.败血症",
+            "B.流行性出血热",
+            "C.泌尿系统结石",
+            "D.前列腺炎",
+            "E.通风"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪项是血尿最常见的病因？",
+        "options": [
+            "A.感染",
+            "B.泌尿系统疾病",
+            "C.血液病",
+            "D.药物与化学因素",
+            "E.尿路邻近脏器疾病"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 8
+    },
+    {
+        "question_text": "9.功能性血尿多见于:",
+        "options": [
+            "A.急进性高血压病",
+            "B.慢性心力衰竭",
+            "C.急性阑尾炎",
+            "D.药物副作用",
+            "E.运动后血尿"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 9
+    },
+    {
+        "question_text": "10.尿中含有血液提示:",
+        "options": [
+            "A.后尿道部位出血",
+            "B.输尿管出血",
+            "C.膀胱出血",
+            "D.血液来自肾脏",
+            "E.膀胱颈部和三角区或后尿道部位出血"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 10
+    },
+    {
+        "question_text": "11.后段尿中含有血液提示:",
+        "options": [
+            "A.后尿道部位出血",
+            "B.膀胱颈部和三角区或后尿道部位出血",
+            "C.输尿管及膀胱出血",
+            "D.血液来自肾脏",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 11
+    },
+    {
+        "question_text": "12.镜下血尿的定义哪一条是错误的？",
+        "options": [
+            "A.新鲜尿液，离心沉淀，每高倍视野下红细胞数超过3个者",
+            "B.非离心尿液，每高倍视野下红细胞数超过1个者",
+            "C.一小时尿沉渣红细胞计数男性超过3万/小时，女性超过4万/小时者",
+            "D.12小时尿沉渣红细胞计数超过50万者",
+            "E.12小时尿沉渣红细胞计数超过100万者"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪种情况可出现红细胞尿，但除外:",
+        "options": [
+            "A.SLE",
+            "B.白血病",
+            "C.急性溶血",
+            "D.肾结核",
+            "E.感染性心内膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 13
+    },
+    {
+        "question_text": "14.尿三杯试验中，如三杯尿中均有血液，表明病变部位在:",
+        "options": [
+            "A.尿道",
+            "B.膀胱颈部",
+            "C.膀胱三角区",
+            "D.后尿道",
+            "E.上尿路或膀胱"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 14
+    },
+    {
+        "question_text": "15.尿三杯试验是患者一次排尿分前、中、后三杯送验，主要了解:",
+        "options": [
+            "A.肾功能",
+            "B.膀胱功能",
+            "C.血尿与血红蛋白尿的鉴别",
+            "D.真性血尿与假性血尿的鉴别",
+            "E.血尿来自泌尿系的何部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 15
+    },
+    {
+        "question_text": "16.尿三杯试验中，哪一项提示血液来自肾脏？",
+        "options": [
+            "A.起始段尿中含有血液",
+            "B.终末段尿中含有血液",
+            "C.中段尿中含有血液",
+            "D.三杯尿中均含有血液",
+            "E.尿道口滴血"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 16
+    },
+    {
+        "question_text": "17.尿三杯试验显示患者的三段尿为“全程血尿”，则其血尿来自于:",
+        "options": [
+            "A.尿道",
+            "B.膀胱颈部",
+            "C.肾脏或输尿管",
+            "D.前列腺",
+            "E.精囊腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列血液系统疾病中，哪个不出现血尿？",
+        "options": [
+            "A.溶血性贫血",
+            "B.再生障碍性贫血",
+            "C.血小板减少性紫癜",
+            "D.血友病",
+            "E.过敏性紫癜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 18
+    },
+    {
+        "question_text": "19.下列药物中哪种会引起假性血尿？",
+        "options": [
+            "A.磺胺药",
+            "B.吲哚美辛",
+            "C.利福平",
+            "D.环磷酞胺",
+            "E.甘露醇"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 19
+    },
+    {
+        "question_text": "20.无症状性血尿常见于下列哪种疾病？",
+        "options": [
+            "A.膀胱炎",
+            "B.膀胱结核",
+            "C.前列腺增生",
+            "D.肾结石",
+            "E.膀胱癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 20
+    },
+    {
+        "question_text": "21.尿潴留发生前有无痛性血尿或膀胱刺激征后血尿可见于:",
+        "options": [
+            "A.尿道炎",
+            "B.膀胱癌",
+            "C.前列腺癌",
+            "D.急性膀胱炎",
+            "E.麻醉手术后"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列哪种疾病可引起40岁以上男性无痛性血尿？",
+        "options": [
+            "A.膀胱癌",
+            "B.膀胱结石",
+            "C.膀胱结核",
+            "D.前列腺增生症",
+            "E.肾输尿管结石"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 22
+    },
+    {
+        "question_text": "23.区别血尿与血红蛋白尿的主要方法是:",
+        "options": [
+            "A.尿血红蛋白测定",
+            "B.显微镜检查",
+            "C.尿比重测定",
+            "D.尿三杯试验",
+            "E.腹部影像学检查"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 23
+    },
+    {
+        "question_text": "24.通过相差显微镜观察尿液中红细胞的形态，可鉴别:",
+        "options": [
+            "A.肾性血尿与肾后性血尿",
+            "B.尿道源性血尿与膀胱源性血尿",
+            "C.膀胱源性血尿与输尿管性血尿",
+            "D.输尿管源性血尿与肾源性血尿",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 24
+    },
+    {
+        "question_text": "25.尿路刺激征不包括下列哪些临床表现？",
+        "options": [
+            "A.尿频",
+            "B.尿急",
+            "C.尿痛",
+            "D.尿流变细",
+            "E.排尿不尽"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 25
+    },
+    {
+        "question_text": "26.血尿伴明显的膀胱刺激症状常见于:",
+        "options": [
+            "A.急性膀胱炎",
+            "B.肾肿瘤",
+            "C.过敏性紫癜",
+            "D.肾小球肾炎",
+            "E.多囊肾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 26
+    },
+    {
+        "question_text": "27.血尿伴剧烈腹痛最常见于:",
+        "options": [
+            "A.膀胱结石",
+            "B.肾炎",
+            "C.肾肿瘤",
+            "D.泌尿系结石",
+            "E.肾小球肾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 27
+    },
+    {
+        "question_text": "28.血尿伴排尿时疼痛，尿流突然中断常见于:",
+        "options": [
+            "A.肾结石",
+            "B.膀胱结石",
+            "C.前列腺炎",
+            "D.肾炎",
+            "E.肾盂肾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 28
+    },
+    {
+        "question_text": "29.血尿伴皮肤黏膜出血见于下列情况，但除外:",
+        "options": [
+            "A.再障",
+            "B.白血病",
+            "C.流行性出血热",
+            "D.败血症",
+            "E.肾肿瘤"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 29
+    },
+    {
+        "question_text": "30.血尿伴肾绞痛见于:",
+        "options": [
+            "A.肾炎是",
+            "B.肾结核",
+            "C.肾肿瘤",
+            "D.膀胱结石",
+            "E.肾或输尿管结石"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 30
+    },
+    {
+        "question_text": "31.血尿伴肾绞痛最常见于:",
+        "options": [
+            "A.肾小球肾炎",
+            "B.肾结核",
+            "C.膀胱结石",
+            "D.输尿管结石",
+            "E.多囊肾"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 31
+    },
+    {
+        "question_text": "32.男，19岁，受凉后咽痛，发热，咳嗽，一周后出现颜面及下肢浮肿，查尿蛋白++，尿红细胞12500/ml，异形为80％，血尿最可能的诊断:",
+        "options": [
+            "A.急性肾小球肾炎",
+            "B.慢性肾小球肾炎",
+            "C.感染性间质性肾炎",
+            "D.败血症",
+            "E.猩红热"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 32
+    },
+    {
+        "question_text": "33.男，21岁，自幼发现心脏杂音，最近因淋雨后出现高热，活动后气促，并出现肉眼血尿，可能的原因是:",
+        "options": [
+            "A.心力衰竭",
+            "B.亚急性细菌性心内膜炎",
+            "C.败血症",
+            "D.猩红热",
+            "E.再障"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 33
+    },
+    {
+        "question_text": "34.50岁男性，出现无症状性血尿，首先考虑:",
+        "options": [
+            "A.膀胱炎",
+            "B.肾盂肾炎",
+            "C.前列腺增生",
+            "D.肾结石",
+            "E.膀胱癌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "34",
+        "number": 34
+    }
+]

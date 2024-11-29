@@ -1,0 +1,170 @@
+[
+    {
+        "question_text": "1.下列选项中，有关急性胃肠炎病毒的描述错误的是",
+        "options": [
+            "A.轮状病毒是引起人类腹泻的重要病原体",
+            "B.病裤核酸均为RNA",
+            "C.主要包括四种病毒",
+            "D.主要症状为腹泻与呕吐",
+            "E.主要通过粪-口途径传播"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列选项中，不属于急性胃肠炎病毒的是",
+        "options": [
+            "A.轮状病毒",
+            "B.杯状病毒",
+            "C.埃可病毒",
+            "D.星状病毒",
+            "E.肠道腺病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 2
+    },
+    {
+        "question_text": "3.导致婴幼儿重症腹泻最常见的病原体是",
+        "options": [
+            "A.轮状病毒B组",
+            "B.EV71",
+            "C.诺如病毒",
+            "D.轮状病毒A组",
+            "E.星状病毒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 3
+    },
+    {
+        "question_text": "4.轮状病毒导致腹泻的主要机制是",
+        "options": [
+            "A.肠壁神经功能失调",
+            "B.肠道细胞损失后大量水分进人肠腔",
+            "C.与肠道神经细胞作用，刺激呕吐中枢",
+            "D.肠道炎症分泌过度",
+            "E.肠道吸收功能受损"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 4
+    },
+    {
+        "question_text": "5.下列哪一项检测对轮状病毒感染不具有诊断意义？",
+        "options": [
+            "A.红细胞吸附试验",
+            "B.RTPCR检测病毒核酸",
+            "C.细胞培养分离病毒",
+            "D.提取核酸进行檠丙烯酰胺凝胶电泳",
+            "E.ELISA检测病毒抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 5
+    },
+    {
+        "question_text": "6.经常引起急性胃肠炎，且基因组为双链分节段RNA的双层衣壳病毒是下述哪个病毒科成员",
+        "options": [
+            "A.杯状病毒科",
+            "B.呼肠病毒科",
+            "C.腺病毒科",
+            "D.冠状病蟲科",
+            "E.副黏病毒科"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 6
+    },
+    {
+        "question_text": "7.下列描述中，不属于轮状病毒特性的是",
+        "options": [
+            "A.可引起婴幼儿或成人腹泻",
+            "B.主要经类口途径传播",
+            "C.可引起急性出血性结膜炎",
+            "D.核酸为RNA病毒",
+            "E.电镜下呈车轮状形态"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 7
+    },
+    {
+        "question_text": "8.能够引起急性胃肠炎的腺病毒是",
+        "options": [
+            "A.44.45.46三型",
+            "B.VP1.VP2.VP3型",
+            "C.40.41.42三型",
+            "D.3、7、9三型",
+            "E.37、38、39三型"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 8
+    },
+    {
+        "question_text": "9.下列病毒中，不能进行人工培养的是",
+        "options": [
+            "A.柯萨奇病毒",
+            "B.星状病毒",
+            "C.埃可病毒",
+            "D.轮状病毒",
+            "E.诺如病毒"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列关于星状病毒的描述中，错误的是",
+        "options": [
+            "A.主要引起婴幼儿腹泻",
+            "B.基因组为双链RNA",
+            "C.电镜下表面结构呈星形",
+            "D.经类-口途径传播",
+            "E.至少有8个血清型"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 10
+    },
+    {
+        "question_text": "11.全球引起急性病毒性胃肠炎暴发流行的主要病原体是",
+        "options": [
+            "A.诺如病毒",
+            "B.札幌病毒",
+            "C.轮状病毒",
+            "D.星状病毒",
+            "E.肠道腺病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 11
+    },
+    {
+        "question_text": "12.轮状病毒感染可用多种方法预防，但不包括",
+        "options": [
+            "A.隔离传染源",
+            "C.消毒污染物",
+            "B.切断传播途径",
+            "D.接种灭活疫苗",
+            "E.加强洗手环节"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "12",
+        "number": 12
+    }
+]

@@ -1,0 +1,1332 @@
+[
+    {
+        "question_text": "1.关于腹痛部位，下列叙述哪项正确？",
+        "options": [
+            "A.胃、十二指肠溃疡疼痛多在脐周",
+            "B.急性阑尾炎疼痛在右下腹麦氏点",
+            "C.小肠疾病疼痛多在右上腹",
+            "D.胆囊炎疼痛多在左上腹",
+            "E.胆道蛔虫病疼痛多在下腹部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 1
+    },
+    {
+        "question_text": "2.下列关于腹痛的叙述，哪项是错误的？",
+        "options": [
+            "A.空腔脏器的痉挛或扩张可引起腹痛",
+            "B.腹膜的化学刺激可引起腹痛",
+            "C.腹腔内血管阻塞可引起缺血性腹痛",
+            "D.腹痛由腹腔内脏所致",
+            "E.腹痛原因未明确之前不宜用止痛药"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 2
+    },
+    {
+        "question_text": "3.关于腹痛，下列哪项描述不正确？",
+        "options": [
+            "A.绞痛多为空腔脏器痉挛、扩张或梗阻引起",
+            "B.小肠病变所导致的慢性疼痛，常在排便后减轻",
+            "C.腹痛伴胃寒发热提示炎症存在",
+            "D.胆囊炎发作前常有进油腻食物",
+            "E.一般疼痛部位即是病变部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 3
+    },
+    {
+        "question_text": "4.腹痛发生的三种基本机制是:",
+        "options": [
+            "A.急性腹痛、慢性腹痛和牵涉痛",
+            "B.腹腔内、腹腔外和全身性疾病",
+            "C.内脏性腹痛、躯体性腹痛和牵涉痛",
+            "D.内脏性腹痛、反射性腹痛和牵涉痛",
+            "E.神经性腹痛、反射性腹痛和牵涉痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 4
+    },
+    {
+        "question_text": "5.一般情况下不会引起腹痛的疾病有:",
+        "options": [
+            "A.过敏性紫癜",
+            "B.溃疡病",
+            "C.尿路感染",
+            "D.急性肠炎",
+            "E.慢性肾炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 5
+    },
+    {
+        "question_text": "6.可以引起腹痛的疾病有:",
+        "options": [
+            "A.过敏性紫癜",
+            "B.血卟啉病",
+            "C.铅中毒",
+            "D.尿毒症",
+            "E.以上皆可"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 6
+    },
+    {
+        "question_text": "7.可引起腹痛的全身性疾病不包括:",
+        "options": [
+            "A.克罗恩病（Crohn病）",
+            "B.过敏性紫癜",
+            "C.风湿热",
+            "D.铅中毒",
+            "E.血卟啉病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 7
+    },
+    {
+        "question_text": "8.急性腹痛不出现休克的疾病是:",
+        "options": [
+            "A.急性心肌梗死",
+            "B.血卟啉病",
+            "C.急性胃肠穿孔",
+            "D.急性化脓性腹膜炎",
+            "E.肝脾破裂"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 8
+    },
+    {
+        "question_text": "9.急性腹痛一般不出现黄疸的是:",
+        "options": [
+            "A.胆石症胆绞痛",
+            "B.急性胰腺炎",
+            "C.急性溶血",
+            "D.肠梗阻",
+            "E.肺炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 9
+    },
+    {
+        "question_text": "10.下列哪种疾病可出现急性腹痛？",
+        "options": [
+            "A.消化性溃疡",
+            "B.肝炎",
+            "C.慢性胃炎",
+            "D.反流性食管炎",
+            "E.肠梗阻"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 10
+    },
+    {
+        "question_text": "11.下列哪项不是急性腹痛的病因？",
+        "options": [
+            "A.急性肠梗阻",
+            "B.心绞痛",
+            "C.肠易激综合征",
+            "D.缺血性肠病",
+            "E.腹型过敏性紫癜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列各项中能引起急性腹痛的疾病是:",
+        "options": [
+            "A.慢性胃炎",
+            "B.肝炎",
+            "C.肠梗阻",
+            "D.返流性食管炎",
+            "E.胃、十二指肠溃疡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 12
+    },
+    {
+        "question_text": "13.下列哪项不是引起慢性腹痛的常见原因？",
+        "options": [
+            "A.结核性腹膜炎",
+            "B.慢性胆囊炎",
+            "C.消化性溃疡",
+            "D.慢性肠梗阻",
+            "E.异位妊娠破裂"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 13
+    },
+    {
+        "question_text": "14.下列哪项不是引起慢性腹痛的常见原因？",
+        "options": [
+            "A.肝癌",
+            "B.克隆病",
+            "C.肠蛔虫病",
+            "D.溃疡穿孔",
+            "E.肝淤血"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 14
+    },
+    {
+        "question_text": "15.慢性腹痛，每于冬季发作，进食后缓解，应考虑:",
+        "options": [
+            "A.胆道蛔虫症",
+            "B.胆石症",
+            "C.慢性胰腺炎",
+            "D.消化性溃疡",
+            "E.结核性腹膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 15
+    },
+    {
+        "question_text": "16.慢性上腹痛，呕吐后缓解，可见于:",
+        "options": [
+            "A.胆石症",
+            "B.反流性食管炎",
+            "C.幽门梗阻",
+            "D.慢性阑尾炎",
+            "E.溃疡病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 16
+    },
+    {
+        "question_text": "17.下列引起慢性腹痛的疾病是:",
+        "options": [
+            "A.肠梗阻",
+            "B.胆道蛔虫症",
+            "C.异位妊娠破裂",
+            "D.胃、十二指肠溃疡",
+            "E.门静脉血栓形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 17
+    },
+    {
+        "question_text": "18.下列哪项疾病常表现为慢性腹痛？",
+        "options": [
+            "A.胆囊结石",
+            "B.急性胆囊炎",
+            "C.急性胰腺炎",
+            "D.结核性腹膜炎",
+            "E.异位妊娠破裂"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 18
+    },
+    {
+        "question_text": "19.进食油腻后右腹痛发作，应考虑:",
+        "options": [
+            "A.胰腺炎",
+            "B.食管炎",
+            "C.溃疡病",
+            "D.胆石症",
+            "E.肠蛔虫症"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 19
+    },
+    {
+        "question_text": "20.进食后上腹痛，左侧卧可缓解，可见于:",
+        "options": [
+            "A.溃疡病",
+            "B.胃黏膜脱垂",
+            "C.反流性食管炎",
+            "D.慢性胃炎",
+            "E.慢性胰腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 20
+    },
+    {
+        "question_text": "21.内脏性腹痛的特点是:",
+        "options": [
+            "A.疼痛感觉模糊",
+            "B.疼痛部位明确",
+            "C.疼痛持续时间长",
+            "D.疼痛程度剧烈",
+            "E.疼痛可随体位变化而加重"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 21
+    },
+    {
+        "question_text": "22.下列属于内脏性腹痛特点的是:",
+        "options": [
+            "A.腹痛程度剧烈而持续",
+            "B.可有局部腹肌强直",
+            "C.腹痛可因咳嗽、体位变化而加重",
+            "D.常不伴恶心、呕吐、出汗等自主神经兴奋症状",
+            "E.腹痛部位不确切，接近腹中线"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 22
+    },
+    {
+        "question_text": "23.下列哪项不是内脏性腹痛的特点？",
+        "options": [
+            "A.疼痛部位含混",
+            "B.疼痛部位接近腹中线",
+            "C.常伴自主神经兴奋症状",
+            "D.腹痛可因体位变化加重",
+            "E.疼痛感觉模糊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 23
+    },
+    {
+        "question_text": "24.内脏性腹痛的特点不包括:",
+        "options": [
+            "A.疼痛部位确切",
+            "B.多伴有腹泻",
+            "C.疼痛剧烈而持续",
+            "D.疼痛感觉模糊",
+            "E.常伴有恶心、呕吐、出汗"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 24
+    },
+    {
+        "question_text": "25.下列哪项不是躯体性腹痛的特点？",
+        "options": [
+            "A.定位准确",
+            "B.程度剧烈而持续",
+            "C.可有局部腹肌强直",
+            "D.疼痛部位不准确",
+            "E.腹痛可因咳嗽、体位改变而加重"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 25
+    },
+    {
+        "question_text": "26.下列哪项不是躯体性腹痛的特点？",
+        "options": [
+            "A.疼痛定位准确",
+            "B.疼痛程度剧烈而持久",
+            "C.可有局部腹肌强直",
+            "D.咳嗽、体位变化可加重疼痛",
+            "E.常伴自主神经兴奋症状"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 26
+    },
+    {
+        "question_text": "27.胆道疾病疼痛放射的部位常见于:",
+        "options": [
+            "A.右肩背",
+            "B.左肩背",
+            "C.会阴部",
+            "D.右下腹部",
+            "E.左下腹部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 27
+    },
+    {
+        "question_text": "28.胰腺炎疼痛放射的部位是:",
+        "options": [
+            "A.右肩背",
+            "B.左腰背",
+            "C.左肩背",
+            "D.右下腹部",
+            "E.左下腹部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 28
+    },
+    {
+        "question_text": "29.腹部反跳痛的发生机制是:",
+        "options": [
+            "A.肠腔胀气",
+            "B.内脏肿大、充血",
+            "C.肿瘤淋巴结转移",
+            "D.炎症波及腹膜壁层",
+            "E.胆管结石并梗阻"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 29
+    },
+    {
+        "question_text": "30.胆囊炎疼痛可牵涉至:",
+        "options": [
+            "A.上腹及脐周",
+            "B.右胸、右肩",
+            "C.左胸、左肩",
+            "D.胸骨后",
+            "E.下胸部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 30
+    },
+    {
+        "question_text": "31.胆囊炎腹痛可牵涉至:",
+        "options": [
+            "A.脐部",
+            "B.胸部",
+            "C.胸骨后",
+            "D.右胸、右肩",
+            "E.左胸、左肩"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 31
+    },
+    {
+        "question_text": "32.肠绞痛的部位多位于:",
+        "options": [
+            "A.上腹部、脐周",
+            "B.下腹部、脐周",
+            "C.右上腹",
+            "D.左上腹",
+            "E.腰部并向下放射"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 32
+    },
+    {
+        "question_text": "33.肾绞痛的部位多位于:",
+        "options": [
+            "A.上腹部、脐周",
+            "B.下腹部、脐周",
+            "C.右上腹",
+            "D.左上腹",
+            "E.腰部并向下放射"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 33
+    },
+    {
+        "question_text": "34.30岁男性，以急性阑尾炎住院，早期腹痛位于脐周，伴恶心、呕吐。其腹痛发生机制是:",
+        "options": [
+            "A.牵涉痛",
+            "B.反射性腹痛",
+            "C.躯体性腹痛",
+            "D.中枢性腹痛",
+            "E.内脏性腹痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 34
+    },
+    {
+        "question_text": "35.急性阑尾炎病人，10小时前脐周痛，现腹痛加剧，转移至右下腹，病变尚未波及腹膜壁层。其腹痛发生的机制是:",
+        "options": [
+            "A.牵涉痛",
+            "B.反射性腹痛",
+            "C.躯体性腹痛",
+            "D.中枢性腹痛",
+            "E.内脏性腹痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 35
+    },
+    {
+        "question_text": "36.30岁男性，急性阑尾炎住院，现腹痛转至右下腹，查体:右下腹压痛，伴抬手痛及肌紧张。其腹痛发生的机制是:",
+        "options": [
+            "A.牵涉痛",
+            "B.反射性腹痛",
+            "C.躯体性腹痛",
+            "D.中枢性腹痛",
+            "E.内脏性腹痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 36
+    },
+    {
+        "question_text": "37.持续性广泛性剧烈腹痛主要见于:",
+        "options": [
+            "A.消化性溃疡",
+            "B.胆道蛔虫梗阻",
+            "C.脊髓痨胃肠危象",
+            "D.肠梗阻",
+            "E.急性弥漫性腹膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 37
+    },
+    {
+        "question_text": "38.发生腹部阵发性剧烈绞痛，常提示:",
+        "options": [
+            "A.腹内脏器破裂",
+            "B.腹膜炎症病变",
+            "C.有管腔脏器的痉挛",
+            "D.腹腔内出血",
+            "E.腹壁创伤"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 38
+    },
+    {
+        "question_text": "39.仰卧位时腹痛明显、前倾位或俯卧位时减轻，提示何种疾病？",
+        "options": [
+            "A.十二指肠淤滞症",
+            "B.胰体癌",
+            "C.反流性食管炎",
+            "D.胃粘膜脱垂",
+            "E.胃溃疡"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 39
+    },
+    {
+        "question_text": "40.上体前屈时腹痛明显、直立位时减轻，提示何种疾病？",
+        "options": [
+            "A.十二指肠淤滞症",
+            "B.胰体癌",
+            "C.反流性食管炎",
+            "D.胃粘膜脱垂",
+            "E.胃溃疡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 40
+    },
+    {
+        "question_text": "41.左侧卧位可使腹痛减轻，提示何种疾病？",
+        "options": [
+            "A.十二指肠淤滞症",
+            "B.胰体癌",
+            "C.反流性食管炎",
+            "D.胃粘膜脱垂",
+            "E.胃溃疡"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 41
+    },
+    {
+        "question_text": "42.膝胸或俯卧位可使痛减轻，提示何种疾病？",
+        "options": [
+            "A.十二指肠淤滞症",
+            "B.胰体癌",
+            "C.反流性食管炎",
+            "D.胃粘膜脱垂",
+            "E.胃溃疡"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 42
+    },
+    {
+        "question_text": "43.周期性、节律性上腹部痛常见于:",
+        "options": [
+            "A.急性胆囊炎",
+            "B.急性胰腺炎",
+            "C.十二指肠溃疡",
+            "D.胃穿孔",
+            "E.肝炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 43
+    },
+    {
+        "question_text": "44.突然出现腹痛、休克、进行性血红蛋白降低，见于:",
+        "options": [
+            "A.消化溃疡穿孔",
+            "B.胆道蛔虫症",
+            "C.肝或脾破裂",
+            "D.急性胆囊炎",
+            "E.肾结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 44
+    },
+    {
+        "question_text": "45.急性胆囊炎腹痛常发生于:",
+        "options": [
+            "A.右上腹部",
+            "B.左上腹部",
+            "C.左下腹部",
+            "D.下腹中部",
+            "E.右下腹部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 45
+    },
+    {
+        "question_text": "46.急性胰腺炎腹痛常发生于:",
+        "options": [
+            "A.中上腹痛",
+            "B.右上腹痛",
+            "C.McBurney点",
+            "D.脐周痛",
+            "E.左下腹痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 46
+    },
+    {
+        "question_text": "47.餐后腹痛见于如下疾病，除外:",
+        "options": [
+            "A.十二指肠溃疡",
+            "B.胆囊疾病",
+            "C.胰腺疾病",
+            "D.胃部肿瘤",
+            "E.消化不良"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 47
+    },
+    {
+        "question_text": "48.根据腹痛部位判断病变部位时，哪种说法是错误的？",
+        "options": [
+            "A.上腹痛时病变必然在胃或十二指肠",
+            "B.右上腹痛多为肝胆病变",
+            "C.右下腹痛多为回盲部病变",
+            "D.小肠病变疼痛都在脐部",
+            "E.左上腹痛应想到胰腺病变"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 48
+    },
+    {
+        "question_text": "49.有关腹痛性质及程度的描述，哪项是错误的？",
+        "options": [
+            "A.消化性溃疡有中上腹节律性痛",
+            "B.急性胰腺炎多为持续性中上腹痛",
+            "C.胆石症或泌尿系统结石常为阵发性绞痛",
+            "D.胆道蛔虫症常为剑突下钻顶样痛",
+            "E.腹膜炎时腹痛并有肌卫及反跳痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 49
+    },
+    {
+        "question_text": "50.空腔脏器痉挛引起的腹痛性质为:",
+        "options": [
+            "A.闷痛",
+            "B.胀痛",
+            "C.绞痛",
+            "D.钝痛",
+            "E.烧灼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 50
+    },
+    {
+        "question_text": "51.有关腹痛与体位的关系，哪种说法不正确？",
+        "options": [
+            "A.右侧卧位可使胃黏膜脱垂病人腹痛减轻",
+            "B.胸膝卧位可使十二指肠雍积症腹痛减轻",
+            "C.胰腺癌患者仰卧时腹痛明显",
+            "D.反流性食管炎病人躯体前屈时剑突下灼烧痛明显",
+            "E.前倾位或俯卧位可使胰腺癌病人腹痛缓解"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 51
+    },
+    {
+        "question_text": "52.哪一种疾病，腹痛的部位常发生转移的是？",
+        "options": [
+            "A.急性心肌梗死",
+            "B.急性阑尾炎",
+            "C.急性胰腺炎",
+            "D.急性胆囊炎",
+            "E.肾结石"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 52
+    },
+    {
+        "question_text": "53.下列哪项疾病可引起右上腹部阵发性绞痛？",
+        "options": [
+            "A.肝癌",
+            "B.肝脓肿",
+            "C.胆石症",
+            "D.急性胰腺炎",
+            "E.十二指肠球部溃疡"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 53
+    },
+    {
+        "question_text": "54.弥漫性或部位不定的腹痛多见于:",
+        "options": [
+            "A.机械性肠梗阻",
+            "B.消化性溃疡",
+            "C.膀胱炎",
+            "D.急性阑尾炎",
+            "E.胆石症"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 54
+    },
+    {
+        "question_text": "55.胃肠穿孔引起的腹痛性质多是:",
+        "options": [
+            "A.烧灼样",
+            "B.刀割样",
+            "C.钻顶样",
+            "D.撕裂样",
+            "E.压迫样"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 55
+    },
+    {
+        "question_text": "56.患者在仰卧位或腹部加压时腹痛加重，俯卧位时腹痛减轻，常见于:",
+        "options": [
+            "A.胰头癌",
+            "B.阑尾炎",
+            "C.急性胃炎",
+            "D.胃粘膜脱垂",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 56
+    },
+    {
+        "question_text": "57.关于腹痛部位，下列叙述哪项是正确的？",
+        "options": [
+            "A.胃十二指肠溃疡疼痛多在脐周",
+            "B.急性阑尾炎疼痛在右下腹麦氏点",
+            "C.小肠疾病疼痛多在右上腹部",
+            "D.胆囊炎疼痛多在左上腹",
+            "E.肝脓肿疼痛多在中下腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 57
+    },
+    {
+        "question_text": "58.十二指肠溃疡疼痛的特点是:",
+        "options": [
+            "A.进食-疼痛-缓解",
+            "B.上腹部间歇性疼痛",
+            "C.疼痛-进食-缓解",
+            "D.上腹部持续性疼痛",
+            "E.无一定的规律"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 58
+    },
+    {
+        "question_text": "59.上呼吸道出血伴慢性、节律性、周期性上腹痛，诊断考虑为:",
+        "options": [
+            "A.反流性食管炎",
+            "B.消化性溃疡",
+            "C.食管静脉曲张破裂",
+            "D.急性胃黏膜病变",
+            "E.胆道出血"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 59
+    },
+    {
+        "question_text": "60.排血便后腹痛不减轻者，常为:",
+        "options": [
+            "A.阿米巴痢疾",
+            "B.细菌性痢疾",
+            "C.小肠疾病",
+            "D.溃疡性结肠炎",
+            "E.直肠肛管疾病"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 60
+    },
+    {
+        "question_text": "61.溃疡性结肠炎患者:",
+        "options": [
+            "A.腹痛时排血便或脓血便，便后腹痛减轻",
+            "B.排血便后腹痛不减轻",
+            "C.上腹绞痛或有黄疸不减轻",
+            "D.便后滴鲜血",
+            "E.慢性，节律性，周期性上腹痛伴柏油样便"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 61
+    },
+    {
+        "question_text": "62.肾结石的疼痛特点是:",
+        "options": [
+            "A.转移性腹痛",
+            "B.节律性腹痛",
+            "C.剧烈性绞痛",
+            "D.持续性隐痛",
+            "E.反复的灼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 62
+    },
+    {
+        "question_text": "63.急性阑尾炎的疼痛特点是:",
+        "options": [
+            "A.转移性腹痛",
+            "B.节律性腹痛",
+            "C.剧烈性绞痛",
+            "D.持续性隐痛",
+            "E.反复的灼痛"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 63
+    },
+    {
+        "question_text": "64.溃疡病的疼痛特点是:",
+        "options": [
+            "A.转移性腹痛",
+            "B.节律性腹痛",
+            "C.剧烈性绞痛",
+            "D.持续性隐痛",
+            "E.反复的灼痛"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 64
+    },
+    {
+        "question_text": "65.胃肠穿孔引起的腹痛，多呈:",
+        "options": [
+            "A.隐痛",
+            "B.刀割样",
+            "C.钻顶样",
+            "D.撕裂样",
+            "E.压迫样"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 65
+    },
+    {
+        "question_text": "66.消化性溃疡所引起的疼痛以何者最具有特征性？",
+        "options": [
+            "A.中下腹疼痛",
+            "B.持续性上腹痛",
+            "C.节律性疼痛",
+            "D.反复发作性上腹疼痛",
+            "E.饥饿疼痛"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 66
+    },
+    {
+        "question_text": "67.阑尾炎的疼痛特点位于:",
+        "options": [
+            "A.上腹痛",
+            "B.下腹痛",
+            "C.左下腹痛",
+            "D.右下腹痛",
+            "E.转移性右下腹痛"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 67
+    },
+    {
+        "question_text": "68.麦氏点压痛多见于哪种疾病？",
+        "options": [
+            "A.急性阑尾炎",
+            "B.急性胆囊炎",
+            "C.急性胰腺炎",
+            "D.急性肠炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 68
+    },
+    {
+        "question_text": "69.阵发性剑突下钻顶样疼痛时哪种疾病的典型表现？",
+        "options": [
+            "A.胃扭转",
+            "B.胆结石",
+            "C.急性胰腺炎",
+            "D.胆道蛔虫症",
+            "E.急性腹膜炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 69
+    },
+    {
+        "question_text": "70.进食油腻性食物后右上腹剧痛，辗转不安常见于:",
+        "options": [
+            "A.急性胃炎",
+            "B.胃穿孔",
+            "C.胆石症",
+            "D.急性胰腺炎",
+            "E.肝脓肿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 70
+    },
+    {
+        "question_text": "71.关于结核性腹膜炎腹痛的特点，下列哪项除外？",
+        "options": [
+            "A.疼痛多位于脐周围和下腹",
+            "B.早期腹痛比较明显，或可始终无疼痛",
+            "C.并发不完全性肠梗阻时，有阵发性腹痛",
+            "D.出现肌卫和板状强直",
+            "E.腹部压痛一般轻微"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 71
+    },
+    {
+        "question_text": "72.小肠疾病的腹痛特点是:",
+        "options": [
+            "A.上腹痛伴反酸嗳气",
+            "B.脐周疼痛伴腹泻",
+            "C.腹部一侧或双侧疼痛伴腹泻或便秘",
+            "D.右上腹痛向背部放射",
+            "E.左上腹痛向腰背放射"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 72
+    },
+    {
+        "question_text": "73.继发性腹膜炎的腹痛特点是:",
+        "options": [
+            "A.阵发性全腹绞痛",
+            "B.逐渐加重的阵发性腹痛",
+            "C.剧烈、持续性全腹痛，原发部位显著",
+            "D.高热后全腹痛",
+            "E.腹痛伴肠鸣音亢进"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 73
+    },
+    {
+        "question_text": "74.下列哪项临床表现最可能是消化性溃疡幽门梗阻？",
+        "options": [
+            "A.上腹痛，以夜间痛常见",
+            "B.上腹痛，餐后很快发生疼痛",
+            "C.上腹痛伴有腹泻",
+            "D.上腹痛，伴有呕吐，呕吐物含酸酵宿食",
+            "E.慢性上腹痛，嗳气反酸"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 74
+    },
+    {
+        "question_text": "75.阵发性剑突下钻顶样疼痛是下列哪个疾病的典型表现？",
+        "options": [
+            "A.胃溃疡",
+            "B.十二指肠球部溃疡",
+            "C.急性胆囊炎",
+            "D.胆道蛔虫症",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 75
+    },
+    {
+        "question_text": "76.消化性溃疡活动时，下列哪种说法是错误的？",
+        "options": [
+            "A.疼痛可放射至背部",
+            "B.疼痛性质不一，常为持续性钝痛、灼痛、饥饿痛",
+            "C.疼痛可呈慢性、节律性、周期性特点",
+            "D.并发大出血后，疼痛常加剧",
+            "E.少数胃溃疡可癌变"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 76
+    },
+    {
+        "question_text": "77.下腹痛，发热，伴尿频、尿急、尿痛，多见于:",
+        "options": [
+            "A.膀胱结核",
+            "B.膀胱癌",
+            "C.急性肾盂肾炎",
+            "D.膀胱李缩",
+            "E.急性膀胱炎"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 77
+    },
+    {
+        "question_text": "78.阵发性剑突下钻顶样疼痛是哪项疾病的典型表现？",
+        "options": [
+            "A.胃溃疡穿孔",
+            "B.急性胰腺炎",
+            "C.胆道蛔虫症",
+            "D.急性胆囊炎",
+            "E.胆道结石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 78
+    },
+    {
+        "question_text": "79.急性广泛性剧烈腹痛，主要见于:",
+        "options": [
+            "A.消化性溃疡",
+            "B.胆道蛔虫梗阻",
+            "C.肠梗阻",
+            "D.急性弥漫性腹膜炎",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 79
+    },
+    {
+        "question_text": "80.尿频伴真性尿失禁见于:",
+        "options": [
+            "A.前列腺增生症",
+            "B.神经源性膀胱",
+            "C.急性膀胱炎",
+            "D.前列腺炎",
+            "E.膀胱结核"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 80
+    },
+    {
+        "question_text": "81.腹痛伴里急后重者可见于:",
+        "options": [
+            "A.急性细菌性痢疾",
+            "B.伤寒",
+            "C.副伤寒",
+            "D.肠结核",
+            "E.Crohn病"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 81
+    },
+    {
+        "question_text": "82.腹痛伴休克可见于:",
+        "options": [
+            "A.急性阑尾炎",
+            "B.急性胆囊炎",
+            "C.急性胰腺炎",
+            "D.急性肝炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 82
+    },
+    {
+        "question_text": "83.胆总管结石",
+        "options": [
+            "A.腹痛伴发热",
+            "B.腹痛伴黄疸",
+            "C.腹痛伴休克，贫血",
+            "D.腹痛伴血尿",
+            "E.饭前上腹痛伴反酸"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 83
+    },
+    {
+        "question_text": "84.腹痛伴急性高热寒战，可见于:",
+        "options": [
+            "A.阑尾炎",
+            "B.结缔组织病",
+            "C.急性腹腔内出血",
+            "D.肠梗阻",
+            "E.结核性腹膜炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 84
+    },
+    {
+        "question_text": "85.腹痛伴休克常见于:",
+        "options": [
+            "A.溃疡性结肠炎",
+            "B.肝破裂",
+            "C.慢性胰腺炎",
+            "D.胃癌",
+            "E.急性阑尾炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 85
+    },
+    {
+        "question_text": "86.患者，男性，49岁，进食油腻食物后，右上腹剧痛，辗转不安，结合病史，下列哪项符合该患者的诊断:",
+        "options": [
+            "A.急性胃肠穿孔",
+            "B.胆绞痛",
+            "C.肝脓肿",
+            "D.急性胃炎",
+            "E.急性胰腺炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 86
+    },
+    {
+        "question_text": "87.患者，男性，22岁，饱餐后突发剧烈中上腹刀割样疼痛，板状腹，该患者最可能的诊断是:",
+        "options": [
+            "A.急性肠炎",
+            "B.急性胆囊炎",
+            "C.急性胃炎",
+            "D.消化性溃疡穿孔",
+            "E.急性阑尾炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 87
+    },
+    {
+        "question_text": "88.患者，男性，35岁，进食后出现腹痛，呈阵发性剑突下钻顶样疼痛，查体可见表情痛苦、蜷缩体位，该患者最可能的诊断是:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.急性胆囊炎",
+            "C.胆道蛔虫症",
+            "D.急性阑尾炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 88
+    },
+    {
+        "question_text": "89.40岁，女性，参加婚宴后右上腹痛，呈剧烈绞痛，查体见表情痛苦，不安。该患者最可能的诊断是:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.急性胆囊炎",
+            "C.急性心肌梗死",
+            "D.急性阑尾炎",
+            "E.急性胃炎"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 89
+    },
+    {
+        "question_text": "90.男，35岁，腹痛一天，初位于脐周，后转移至右下腹，现腹痛加剧，呈持续性，查体:右下腹压痛，伴肌紧张及反跳痛。该患者腹痛特点提示其病理基础是:",
+        "options": [
+            "A.病变局限于阑尾本身",
+            "B.病变波及腹膜脏层",
+            "C.病变波及腹膜壁层",
+            "D.泛发性腹膜炎",
+            "E.阑尾内粪石"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 90
+    },
+    {
+        "question_text": "91.40岁，女性，参加婚宴后右上腹痛，呈剧烈绞痛，查体见表情痛苦，不安。对该患者诊治，紧急又有价值的处置是:",
+        "options": [
+            "A.镇痛药止痛",
+            "B.抗生素消炎",
+            "C.急查血常规",
+            "D.行PTC检查",
+            "E.紧急行腹部超声检查"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 91
+    },
+    {
+        "question_text": "92.男性，30岁。有胃病史5年，近一个月症状加剧就诊，胃镜检查见胃角溃疡，询问病史时，病人的典型症状为:",
+        "options": [
+            "A.午夜痛为主",
+            "B.发作性剧痛",
+            "C.上腹部疼痛无规律性",
+            "D.饥饿痛为主，进食后缓解",
+            "E.疼痛经常于餐后0.5～1小时出现"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 92
+    },
+    {
+        "question_text": "93.女性，30岁，转移性右下腹痛10小时，除考虑急性阑尾炎外，还应考虑:",
+        "options": [
+            "A.十二指肠溃疡穿孔",
+            "B.输卵管扭转",
+            "C.宫外孕破裂",
+            "D.输尿管结石",
+            "E.肠系膜淋巴结炎"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 93
+    },
+    {
+        "question_text": "94.女性，30岁，转移性右下腹痛3天，伴呕吐4次，体温39℃。体格检查:右下腹压痛和肌紧张，诊断为:",
+        "options": [
+            "A.异位妊娠",
+            "B.急性肠系膜淋巴结炎",
+            "C.卵巢囊肿扭转",
+            "D.急性阑尾炎",
+            "E.翕室炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 94
+    },
+    {
+        "question_text": "95.一男性青年，饱餐后突发剧烈中上腹部刀割样疼痛，板状腹，最有可能的诊断是:",
+        "options": [
+            "A.急性胰腺炎",
+            "B.急性胆囊炎",
+            "C.消化性溃疡",
+            "D.急性胃炎",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "95",
+        "number": 95
+    }
+]

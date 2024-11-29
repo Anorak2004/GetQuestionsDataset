@@ -1,0 +1,1765 @@
+[
+    {
+        "question_text": "1929、有关腹膜的描述正确是（  ）",
+        "options": [
+            "A.只衬于腹、盆腔脏器的表面",
+            "B.分为前、后两层",
+            "C.前层又分为脏层和壁层",
+            "D.为浆膜",
+            "E.没有分泌和吸收功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 1
+    },
+    {
+        "question_text": "1930、有关腹膜腔的错误描述是（  ）",
+        "options": [
+            "A.由腹膜的脏层和壁层围成",
+            "B.与胸膜腔一样，男、女腹膜腔均为密闭、负压",
+            "C.为一潜在性腔隙",
+            "D.属腹膜内的浆膜腔",
+            "E.内有少量浆液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 2
+    },
+    {
+        "question_text": "1931、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.空肠",
+            "C.子宫",
+            "D.胰",
+            "E.升结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 3
+    },
+    {
+        "question_text": "1932、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.升结肠",
+            "C.膀胱",
+            "D.胃",
+            "E.胆囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 4
+    },
+    {
+        "question_text": "1933、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.升结肠",
+            "D.脾",
+            "E.横结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 5
+    },
+    {
+        "question_text": "1934、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.子宫",
+            "B.横结肠",
+            "C.回肠",
+            "D.肾",
+            "E.胰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 6
+    },
+    {
+        "question_text": "1935、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.横结肠",
+            "B.胃",
+            "C.空肠",
+            "D.子宫",
+            "E.输尿管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 7
+    },
+    {
+        "question_text": "1936、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.横结肠",
+            "B.胰",
+            "C.子宫",
+            "D.空肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 8
+    },
+    {
+        "question_text": "1937、指出下列的错误描述（  ）",
+        "options": [
+            "A.腹膜腔和腹腔是两个不同的概念",
+            "B.腹膜腔位于腹腔内",
+            "C.腹腔内脏器均位于腹膜腔内",
+            "D.女性腹膜腔可间接和外界相通",
+            "E.男性腹膜腔不和外界相通"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 9
+    },
+    {
+        "question_text": "1938、肝十二韧带内重要结构排列是（  ）",
+        "options": [
+            "A.右前方为胆总管，左前方为肝门静脉，二者之间后方为肝固有动脉",
+            "B.右前方为胆总管，左前方为肝固有动脉，二者之间后方为肝门静脉",
+            "C.右前方为肝门静脉，左前方为肝固有动脉，二者之间后方为胆总管",
+            "D.右前方为肝固有动脉，左前方为胆总管，二者之间后方为肝门静脉",
+            "E.右前方为肝固有动脉，左前方为肝门静脉，二者之间后方为胆总管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 10
+    },
+    {
+        "question_text": "1939、指出有关网膜孔的错误描述（  ）",
+        "options": [
+            "A.为网膜囊与腹膜腔其余部分之间的唯一通道",
+            "B.上界为肝尾状叶",
+            "C.下界为十二指肠上部",
+            "D.前界为横结肠系膜",
+            "E.后界为覆盖于下腔静脉表面的腹膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 11
+    },
+    {
+        "question_text": "1940、没有系膜的肠管是（  ）",
+        "options": [
+            "A.升结肠",
+            "B.横结肠",
+            "C.乙状结肠",
+            "D.空肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 12
+    },
+    {
+        "question_text": "1941、不属于腹膜形成的韧带是（  ）",
+        "options": [
+            "A.镰状韧带",
+            "B.冠状韧带",
+            "C.肝圆韧带",
+            "D.胃脾韧带",
+            "E.脾肾韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 13
+    },
+    {
+        "question_text": "1942、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 14
+    },
+    {
+        "question_text": "1943、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 15
+    },
+    {
+        "question_text": "1944、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 16
+    },
+    {
+        "question_text": "1945、属腹膜内位器官的是（ ）",
+        "options": [
+            "A.尿道",
+            "B.空肠",
+            "C.胆囊",
+            "D.阴道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 17
+    },
+    {
+        "question_text": "1946、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.尿道",
+            "B.肾",
+            "C.胆囊",
+            "D.阴道",
+            "E.空肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 18
+    },
+    {
+        "question_text": "1947、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.尿道",
+            "B.肾",
+            "C.胆囊",
+            "D.阴道",
+            "E.空肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 19
+    },
+    {
+        "question_text": "1948、脐静脉闭锁后的遗迹是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 20
+    },
+    {
+        "question_text": "1949、内有胆总管的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 21
+    },
+    {
+        "question_text": "1950、内有胰尾的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 22
+    },
+    {
+        "question_text": "1951、位于脾下方的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 23
+    },
+    {
+        "question_text": "1952、手术中确定空肠起始处标志的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 24
+    },
+    {
+        "question_text": "1953、与网膜孔围成的有关韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 25
+    },
+    {
+        "question_text": "1954、内有胃短血管的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 26
+    },
+    {
+        "question_text": "1955、内有胃左、右血管的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 27
+    },
+    {
+        "question_text": "1956、与膈相连的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 28
+    },
+    {
+        "question_text": "1957、为大网膜一部分的是（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 29
+    },
+    {
+        "question_text": "1958、平卧位男性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 30
+    },
+    {
+        "question_text": "1959、平卧位女性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 31
+    },
+    {
+        "question_text": "1960、站立或坐位男性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 32
+    },
+    {
+        "question_text": "1961、站立或坐位女性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 33
+    },
+    {
+        "question_text": "1962、固定空、回肠的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 34
+    },
+    {
+        "question_text": "1963、将腹膜腔划分为结肠上区和结肠下区的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 35
+    },
+    {
+        "question_text": "1964、呈三角形，游离缘有血管的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 36
+    },
+    {
+        "question_text": "1965、位于左髂窝内的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 37
+    },
+    {
+        "question_text": "1929、有关腹膜的描述正确是（  ）",
+        "options": [
+            "A.只衬于腹、盆腔脏器的表面",
+            "B.分为前、后两层",
+            "C.前层又分为脏层和壁层",
+            "D.为浆膜",
+            "E.没有分泌和吸收功能"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 38
+    },
+    {
+        "question_text": "1930、有关腹膜腔的错误描述是（  ）",
+        "options": [
+            "A.由腹膜的脏层和壁层围成",
+            "B.与胸膜腔一样，男、女腹膜腔均为密闭、负压",
+            "C.为一潜在性腔隙",
+            "D.属腹膜内的浆膜腔",
+            "E.内有少量浆液"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 39
+    },
+    {
+        "question_text": "1931、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.空肠",
+            "C.子宫",
+            "D.胰",
+            "E.升结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 40
+    },
+    {
+        "question_text": "1932、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.升结肠",
+            "C.膀胱",
+            "D.胃",
+            "E.胆囊"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 41
+    },
+    {
+        "question_text": "1933、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肾",
+            "B.输尿管",
+            "C.升结肠",
+            "D.脾",
+            "E.横结肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 42
+    },
+    {
+        "question_text": "1934、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.子宫",
+            "B.横结肠",
+            "C.回肠",
+            "D.肾",
+            "E.胰"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 43
+    },
+    {
+        "question_text": "1935、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.横结肠",
+            "B.胃",
+            "C.空肠",
+            "D.子宫",
+            "E.输尿管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 44
+    },
+    {
+        "question_text": "1936、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.横结肠",
+            "B.胰",
+            "C.子宫",
+            "D.空肠",
+            "E.乙状结肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 45
+    },
+    {
+        "question_text": "1937、指出下列的错误描述（  ）",
+        "options": [
+            "A.腹膜腔和腹腔是两个不同的概念",
+            "B.腹膜腔位于腹腔内",
+            "C.腹腔内脏器均位于腹膜腔内",
+            "D.女性腹膜腔可间接和外界相通",
+            "E.男性腹膜腔不和外界相通"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 46
+    },
+    {
+        "question_text": "1938、肝十二韧带内重要结构排列是（  ）",
+        "options": [
+            "A.右前方为胆总管，左前方为肝门静脉，二者之间后方为肝固有动脉",
+            "B.右前方为胆总管，左前方为肝固有动脉，二者之间后方为肝门静脉",
+            "C.右前方为肝门静脉，左前方为肝固有动脉，二者之间后方为胆总管",
+            "D.右前方为肝固有动脉，左前方为胆总管，二者之间后方为肝门静脉",
+            "E.右前方为肝固有动脉，左前方为肝门静脉，二者之间后方为胆总管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 47
+    },
+    {
+        "question_text": "1939、指出有关网膜孔的错误描述（  ）",
+        "options": [
+            "A.为网膜囊与腹膜腔其余部分之间的唯一通道",
+            "B.上界为肝尾状叶",
+            "C.下界为十二指肠上部",
+            "D.前界为横结肠系膜",
+            "E.后界为覆盖于下腔静脉表面的腹膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 48
+    },
+    {
+        "question_text": "1940、没有系膜的肠管是（  ）",
+        "options": [
+            "A.升结肠",
+            "B.横结肠",
+            "C.乙状结肠",
+            "D.空肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 49
+    },
+    {
+        "question_text": "1941、不属于腹膜形成的韧带是（  ）",
+        "options": [
+            "A.镰状韧带",
+            "B.冠状韧带",
+            "C.肝圆韧带",
+            "D.胃脾韧带",
+            "E.脾肾韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 50
+    },
+    {
+        "question_text": "1942、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 51
+    },
+    {
+        "question_text": "1943、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 52
+    },
+    {
+        "question_text": "1944、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.胃",
+            "C.胰",
+            "D.肛管",
+            "E.尿道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 53
+    },
+    {
+        "question_text": "1945、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.尿道",
+            "B.肾",
+            "C.胆囊",
+            "D.阴道",
+            "E.空肠"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 54
+    },
+    {
+        "question_text": "1946、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.尿道",
+            "B.肾",
+            "C.胆囊",
+            "D.阴道",
+            "E.空肠"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 55
+    },
+    {
+        "question_text": "1947、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.尿道",
+            "B.肾",
+            "C.胆囊",
+            "D.阴道",
+            "E.空肠"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 56
+    },
+    {
+        "question_text": "1948、脐静脉闭锁后的遗迹是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 57
+    },
+    {
+        "question_text": "1949、内有胆总管的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 58
+    },
+    {
+        "question_text": "1950、内有胰尾的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 59
+    },
+    {
+        "question_text": "1951、位于脾下方的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 60
+    },
+    {
+        "question_text": "1952、手术中确定空肠起始处标志的韧带是（  ）",
+        "options": [
+            "A.肝圆韧带",
+            "B.膈结肠韧带",
+            "C.十二指肠悬韧带韧带",
+            "D.脾肾韧带",
+            "E.肝十二指肠韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 61
+    },
+    {
+        "question_text": "1953、与网膜孔围成的有关韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 62
+    },
+    {
+        "question_text": "1954、内有胃短血管的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 63
+    },
+    {
+        "question_text": "1955、内有胃左、右血管的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 64
+    },
+    {
+        "question_text": "1956、与膈相连的韧带（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 65
+    },
+    {
+        "question_text": "1957、为大网膜一部分的是（  ）",
+        "options": [
+            "A.肝十二指肠韧带",
+            "B.胃脾韧带",
+            "C.胃结肠韧带",
+            "D.冠状韧带",
+            "E.肝胃韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 66
+    },
+    {
+        "question_text": "1958、平卧位男性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 67
+    },
+    {
+        "question_text": "1959、平卧位女性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 68
+    },
+    {
+        "question_text": "1960、站立或坐位男性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 69
+    },
+    {
+        "question_text": "1961、站立或坐位女性腹膜腔最低处（  ）",
+        "options": [
+            "A.肝肾隐窝",
+            "B.直肠子宫陷凹",
+            "C.直肠膀胱陷凹",
+            "D.膀胱子宫陷凹",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 70
+    },
+    {
+        "question_text": "1962、固定空、回肠的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 71
+    },
+    {
+        "question_text": "1963、将腹膜腔划分为结肠上区和结肠下区的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 72
+    },
+    {
+        "question_text": "1964、呈三角形，游离缘有血管的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 73
+    },
+    {
+        "question_text": "1965、位于左髂窝内的是（  ）",
+        "options": [
+            "A.横结肠系膜",
+            "B.肠系膜",
+            "C.阑尾系膜",
+            "D.乙状结肠系膜",
+            "E.子宫系膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 74
+    },
+    {
+        "question_text": "1966、腹膜（  ）",
+        "options": [
+            "A.为薄而光滑的浆膜（）",
+            "B.分前层和后层",
+            "C.腹盆腔内各脏器的表面几乎均被腹膜覆盖",
+            "D.具有分泌和吸收功能（）",
+            "E.可形成系膜、网膜及韧带等结构"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 75
+    },
+    {
+        "question_text": "1967、腹膜（  ）",
+        "options": [
+            "A.为薄而光滑的浆膜（）",
+            "B.分壁层和脏层",
+            "C.腹盆腔内各脏器的表面几乎均被腹膜覆盖",
+            "D.具有分泌和吸收功能（）",
+            "E.可形成系膜、网膜及韧带等结构"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 76
+    },
+    {
+        "question_text": "1968、腹膜腔 （  ）",
+        "options": [
+            "A.由腹膜脏层和壁层围成",
+            "B.男性腹膜腔密闭",
+            "C.女性腹膜腔与外界可间接相通",
+            "D.腹膜腔与腹腔在解剖学上为同一概念",
+            "E.腹腔内的脏器均位于腹膜腔内"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 77
+    },
+    {
+        "question_text": "1969、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.回肠",
+            "B.卵巢",
+            "C.空肠",
+            "D.膀胱",
+            "E.肾"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 78
+    },
+    {
+        "question_text": "1970、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.脾",
+            "C.空肠",
+            "D.降结肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 79
+    },
+    {
+        "question_text": "1971、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.空肠",
+            "C.胆囊",
+            "D.子宫",
+            "E.胃"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 80
+    },
+    {
+        "question_text": "1972、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.子宫",
+            "B.升结肠",
+            "C.乙状结肠",
+            "D.膀胱",
+            "E.肾"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 81
+    },
+    {
+        "question_text": "1973、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.肾",
+            "B.肾上腺",
+            "C.胰",
+            "D.胃",
+            "E.肝"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 82
+    },
+    {
+        "question_text": "1974、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.降结肠",
+            "B.胃",
+            "C.膀胱",
+            "D.输尿管",
+            "E.胰"
+        ],
+        "correct_answer": "DE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 83
+    },
+    {
+        "question_text": "1975、小网膜（  ）",
+        "options": [
+            "A.为双层腹膜形成的结构",
+            "B.连于肝与胃大弯及十二指肠上部之间",
+            "C.左侧部为肝胃韧带",
+            "D.右侧部为肝十二指肠韧带",
+            "E.右侧缘游离缘后方有网膜孔"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 84
+    },
+    {
+        "question_text": "1976、大网膜（  ）",
+        "options": [
+            "A.形似围裙",
+            "B.覆于空、回肠及横结肠的前方",
+            "C.内有巨噬细胞",
+            "D.有重要防御功能",
+            "E.小儿大网膜较短"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 85
+    },
+    {
+        "question_text": "1977、网膜囊（  ）",
+        "options": [
+            "A.在小网膜、胃前壁与腹后壁腹膜之间",
+            "B.位置较浅",
+            "C.为腹膜腔的一部分",
+            "D.经网膜孔通腹膜腔的其余部分",
+            "E.除网膜孔外，网膜囊另有通道与腹膜腔其余部分相通"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 86
+    },
+    {
+        "question_text": "1978、具有系膜的肠管（  ）",
+        "options": [
+            "A.横结肠",
+            "B.降结肠",
+            "C.升结肠",
+            "D.乙状结肠",
+            "E.空肠"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 87
+    },
+    {
+        "question_text": "1979、没有系膜的肠管是（  ）",
+        "options": [
+            "A.回肠",
+            "B.空肠",
+            "C.十二指肠",
+            "D.降结肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 88
+    },
+    {
+        "question_text": "1980、直立位腹膜腔最低处（  ）",
+        "options": [
+            "A.直肠膀胱陷凹（男）",
+            "B.膀胱子宫陷凹（女）",
+            "C.直肠子宫陷凹（女）",
+            "D.肝肾隐窝",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 89
+    },
+    {
+        "question_text": "1981、肝十二韧带内重要结构排列是（  ）",
+        "options": [
+            "A.胆总管",
+            "B.肝门静脉",
+            "C.肝固有动脉",
+            "D.肝总管",
+            "E.肝静脉"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 90
+    },
+    {
+        "question_text": "1982、Which of the following organs are retroperitoneal viscera (腹膜外位器官)?",
+        "options": [
+            "A.spleen",
+            "B.kidney",
+            "C.pancreas",
+            "D.urinary bladder",
+            "E.ureter"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 91
+    },
+    {
+        "question_text": "1983、Which of the following organs are intraperitoneal viscera (腹膜内位器官)?",
+        "options": [
+            "A.stomach",
+            "B.gallbladder",
+            "C.pancreas",
+            "D.transverse colon",
+            "E.liver"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 92
+    },
+    {
+        "question_text": "1984、Which of the following organs are interperitoneal viscera (腹膜间位器官)?",
+        "options": [
+            "A.uterine tube",
+            "B.jejunum",
+            "C.ascending colon",
+            "D.uterus",
+            "E.urinary bladder"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 93
+    },
+    {
+        "question_text": "1985、Which of the following organs are retroperitoneal viscera?",
+        "options": [
+            "A.kidney",
+            "B.suprarenal gland",
+            "C.uterus",
+            "D.pancreas",
+            "E.ureter"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 94
+    },
+    {
+        "question_text": "1986、The lesser omentum (小网膜) can be divided into which of following parts?",
+        "options": [
+            "A.gastrocolic ligament (胃结肠韧带)",
+            "B.hepatogastric ligament (肝胃韧带)",
+            "C.falciform ligament (镰状韧带)",
+            "D.coronary ligament (冠状韧带)",
+            "E.hepatoduodenal ligament (肝十二指肠韧带)"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 95
+    },
+    {
+        "question_text": "1987、Which of the following ligaments are connected with the liver?",
+        "options": [
+            "A.round ligament of liver (肝圆韧带)",
+            "B.hepatogastric ligament",
+            "C.falciform ligament",
+            "D.coronary ligament",
+            "E.hepatoduodinal ligament"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 96
+    },
+    {
+        "question_text": "1988、Which of the following ligaments are connected with the stomach?",
+        "options": [
+            "A.gastrosplenic ligament (胃脾韧带)",
+            "B.hepatogastric ligament",
+            "C.gastrocolic ligament (胃结肠韧带)",
+            "D.gastrophrenic ligament (胃膈韧带)",
+            "E.hepatoduodinal ligament"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 97
+    },
+    {
+        "question_text": "1989、Which of the following ligaments are connected with the spleen?",
+        "options": [
+            "A.gastrosplenic ligament",
+            "B.splenorenal ligament (脾肾韧带)",
+            "C.gastrocolic ligament",
+            "D.gastrophrenic ligament",
+            "E.phrenicosplenic ligament (膈脾韧带)"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 98
+    },
+    {
+        "question_text": "1990、Which of the following structures are located within the hepatoduodenal ligament?",
+        "options": [
+            "A.hepatic vein",
+            "B.proper hepatic artery (肝固有动脉)",
+            "C.common bile duct",
+            "D.hepatic portal vein",
+            "E.inferior vena cava"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 99
+    },
+    {
+        "question_text": "1991、About the recess and pouch in peritoneum, which of the following discreption is correct?",
+        "options": [
+            "A.The hepatorenal recess is the lowest part of the peritoneal cavity in erect position.",
+            "B.In female, the rectouterine pouch is the lowest part of the peritoneal cavity in erect position.",
+            "C.In female, the vesicouterine pouch is the lowest part of the peritoneal cavity in erect position.",
+            "D.The hatatorenal recess is the lowest part of the peritoneal cavity in sitting position.",
+            "E.In male, the rectovesical pouch is the lowest part of the peritoneal cavity in erect position."
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 100
+    },
+    {
+        "question_text": "1966、腹膜（  ）",
+        "options": [
+            "A.为薄而光滑的浆膜（）",
+            "B.分前层和后层",
+            "C.腹盆腔内各脏器的表面几乎均被腹膜覆盖",
+            "D.具有分泌和吸收功能（）",
+            "E.可形成系膜、网膜及韧带等结构"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 101
+    },
+    {
+        "question_text": "1967、腹膜（  ）",
+        "options": [
+            "A.为薄而光滑的浆膜（）",
+            "B.分壁层和脏层",
+            "C.腹盆腔内各脏器的表面几乎均被腹膜覆盖",
+            "D.具有分泌和吸收功能（）",
+            "E.可形成系膜、网膜及韧带等结构"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 102
+    },
+    {
+        "question_text": "1968、腹膜腔 （  ）",
+        "options": [
+            "A.由腹膜脏层和壁层围成",
+            "B.男性腹膜腔密闭",
+            "C.女性腹膜腔与外界可间接相通",
+            "D.腹膜腔与腹腔在解剖学上为同一概念",
+            "E.腹腔内的脏器均位于腹膜腔内"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 103
+    },
+    {
+        "question_text": "1969、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.回肠",
+            "B.卵巢",
+            "C.空肠",
+            "D.膀胱",
+            "E.肾"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 104
+    },
+    {
+        "question_text": "1970、属腹膜内位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.脾",
+            "C.空肠",
+            "D.降结肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 105
+    },
+    {
+        "question_text": "1971、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.肝",
+            "B.空肠",
+            "C.胆囊",
+            "D.子宫",
+            "E.胃"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 106
+    },
+    {
+        "question_text": "1972、属腹膜间位器官的是（  ）",
+        "options": [
+            "A.子宫",
+            "B.升结肠",
+            "C.乙状结肠",
+            "D.膀胱",
+            "E.肾"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 107
+    },
+    {
+        "question_text": "1973、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.肾",
+            "B.肾上腺",
+            "C.胰",
+            "D.胃",
+            "E.肝"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 108
+    },
+    {
+        "question_text": "1974、属腹膜外位器官的是（  ）",
+        "options": [
+            "A.降结肠",
+            "B.胃",
+            "C.膀胱",
+            "D.输尿管",
+            "E.胰"
+        ],
+        "correct_answer": "DE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 109
+    },
+    {
+        "question_text": "1975、小网膜（  ）",
+        "options": [
+            "A.为双层腹膜形成的结构",
+            "B.连于肝与胃大弯及十二指肠上部之间",
+            "C.左侧部为肝胃韧带",
+            "D.右侧部为肝十二指肠韧带",
+            "E.右侧缘游离缘后方有网膜孔"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 110
+    },
+    {
+        "question_text": "1976、大网膜（  ）",
+        "options": [
+            "A.形似围裙",
+            "B.覆于空、回肠及横结肠的前方",
+            "C.内有巨噬细胞",
+            "D.有重要防御功能",
+            "E.小儿大网膜较短"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 111
+    },
+    {
+        "question_text": "1977、网膜囊（  ）",
+        "options": [
+            "A.在小网膜、胃前壁与腹后壁腹膜之间",
+            "B.位置较浅",
+            "C.为腹膜腔的一部分",
+            "D.经网膜孔通腹膜腔的其余部分",
+            "E.除网膜孔外，网膜囊另有通道与腹膜腔其余部分相通"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 112
+    },
+    {
+        "question_text": "1978、具有系膜的肠管（  ）",
+        "options": [
+            "A.横结肠",
+            "B.降结肠",
+            "C.升结肠",
+            "D.乙状结肠",
+            "E.空肠"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 113
+    },
+    {
+        "question_text": "1979、没有系膜的肠管是（  ）",
+        "options": [
+            "A.回肠",
+            "B.空肠",
+            "C.十二指肠",
+            "D.降结肠",
+            "E.阑尾"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 114
+    },
+    {
+        "question_text": "1980、直立位腹膜腔最低处（  ）",
+        "options": [
+            "A.直肠膀胱陷凹（男）",
+            "B.膀胱子宫陷凹（女）",
+            "C.直肠子宫陷凹（女）",
+            "D.肝肾隐窝",
+            "E.盲肠后隐窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 115
+    },
+    {
+        "question_text": "1981、肝十二韧带内重要结构排列是（  ）",
+        "options": [
+            "A.胆总管",
+            "B.肝门静脉",
+            "C.肝固有动脉",
+            "D.肝总管",
+            "E.肝静脉"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 116
+    },
+    {
+        "question_text": "1982、Which of the following organs are retroperitoneal viscera (腹膜外位器官)?",
+        "options": [
+            "A.spleen",
+            "B.kidney",
+            "C.pancreas",
+            "D.urinary bladder",
+            "E.ureter"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 117
+    },
+    {
+        "question_text": "1983、Which of the following organs are intraperitoneal viscera (腹膜内位器官)?",
+        "options": [
+            "A.stomach",
+            "B.gallbladder",
+            "C.pancreas",
+            "D.transverse colon",
+            "E.liver"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 118
+    },
+    {
+        "question_text": "1984、Which of the following organs are interperitoneal viscera (腹膜间位器官)?",
+        "options": [
+            "A.uterine tube",
+            "B.jejunum",
+            "C.ascending colon",
+            "D.uterus",
+            "E.urinary bladder"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 119
+    },
+    {
+        "question_text": "1985、Which of the following organs are retroperitoneal viscera?",
+        "options": [
+            "A.kidney",
+            "B.suprarenal gland",
+            "C.uterus",
+            "D.pancreas",
+            "E.ureter"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 120
+    },
+    {
+        "question_text": "1986、The lesser omentum (小网膜) can be divided into which of following parts?",
+        "options": [
+            "A.gastrocolic ligament (胃结肠韧带)",
+            "B.hepatogastric ligament (肝胃韧带)",
+            "C.falciform ligament (镰状韧带)",
+            "D.coronary ligament (冠状韧带)",
+            "E.hepatoduodenal ligament (肝十二指肠韧带)"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 121
+    },
+    {
+        "question_text": "1987、Which of the following ligaments are connected with the liver?",
+        "options": [
+            "A.round ligament of liver (肝圆韧带)",
+            "B.hepatogastric ligament",
+            "C.falciform ligament",
+            "D.coronary ligament",
+            "E.hepatoduodinal ligament"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 122
+    },
+    {
+        "question_text": "1988、Which of the following ligaments are connected with the stomach?",
+        "options": [
+            "A.gastrosplenic ligament (胃脾韧带)",
+            "B.hepatogastric ligament",
+            "C.gastrocolic ligament (胃结肠韧带)",
+            "D.gastrophrenic ligament (胃膈韧带)",
+            "E.hepatoduodinal ligament"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 123
+    },
+    {
+        "question_text": "1989、Which of the following ligaments are connected with the spleen?",
+        "options": [
+            "A.gastrosplenic ligament",
+            "B.splenorenal ligament (脾肾韧带)",
+            "C.gastrocolic ligament",
+            "D.gastrophrenic ligament",
+            "E.phrenicosplenic ligament (膈脾韧带)"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 124
+    },
+    {
+        "question_text": "1990、Which of the following structures are located within the hepatoduodenal ligament?",
+        "options": [
+            "A.hepatic vein",
+            "B.proper hepatic artery (肝固有动脉)",
+            "C.common bile duct",
+            "D.hepatic portal vein",
+            "E.inferior vena cava"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 125
+    },
+    {
+        "question_text": "1991、About the recess and pouch in peritoneum, which of the following discreption is correct?",
+        "options": [
+            "A.The hepatorenal recess is the lowest part of the peritoneal cavity in erect position.",
+            "B.In female, the rectouterine pouch is the lowest part of the peritoneal cavity in erect position.",
+            "C.In female, the vesicouterine pouch is the lowest part of the peritoneal cavity in erect position.",
+            "D.The hatatorenal recess is the lowest part of the peritoneal cavity in sitting position.",
+            "E.In male, the rectovesical pouch is the lowest part of the peritoneal cavity in erect position."
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "126",
+        "number": 126
+    }
+]

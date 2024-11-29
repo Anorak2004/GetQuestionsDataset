@@ -1,0 +1,506 @@
+[
+    {
+        "question_text": "1.下列无芽胞的细菌中,抵抗力最强的细菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.乙型溶血性链球菌",
+            "C.百日咳杆菌",
+            "D.大肠杆菌",
+            "E.肺炎链球菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 1
+    },
+    {
+        "question_text": "2.能产生SPA的细菌是",
+        "options": [
+            "A.粪链球菌",
+            "B.乙型溶血性链球菌",
+            "C.肺炎链球菌",
+            "D.金黄色葡萄球菌",
+            "E.表皮葡萄球菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 2
+    },
+    {
+        "question_text": "3.葡萄球菌肠毒素的作用是",
+        "options": [
+            "A.直接破坏胃黏膜细胞，导致腹污、腹痛",
+            "B.直接毒害肠黏膜细胞，导致腹泻、腹痛",
+            "C直接毒害中枢神经，引起食物中毒",
+            "D.通过刺激呕吐中枢而导致呕吐",
+            "E直接破坏肠壁血管，导致出血性肠炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 3
+    },
+    {
+        "question_text": "4.能产生脂溶性色素的细菌是",
+        "options": [
+            "A.淋病奈瑟菌",
+            "B.乙型溶血性链球菌",
+            "C.铜绿假单胞菌",
+            "D.金黄色葡萄球菌",
+            "E.肺炎链球菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 4
+    },
+    {
+        "question_text": "5.葡萄球菌重要的表面抗原有",
+        "options": [
+            "A.M抗原",
+            "B.V抗原",
+            "C.SPA",
+            "D.OT抗原",
+            "E.K抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 5
+    },
+    {
+        "question_text": "6.可与IgGFe段结合的细菌表面物质是",
+        "options": [
+            "A.M蛋白",
+            "B.Vi抗原",
+            "C.葡萄球菌A蛋白",
+            "D.炭疽杆菌荚膜多糖抗原",
+            "E大肠埃希菌K抗原"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 6
+    },
+    {
+        "question_text": "7.血浆凝固酶可以",
+        "options": [
+            "A.促进细菌在体内扩散",
+            "B.由表皮葡萄球菌产生",
+            "C.增强细菌抗吞噬能力",
+            "D.与1gG抗体的Fc段非特异性结合",
+            "E.水解透明质酸"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 7
+    },
+    {
+        "question_text": "8.下列哪种细菌是医院感染最常见的致病菌",
+        "options": [
+            "A.肺炎链球菌",
+            "B.耐甲氧西林金黄色葡萄球菌",
+            "C乙型溶血性链球菌",
+            "D.腐生葡萄球菌",
+            "E.脑膜炎奈瑟菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 8
+    },
+    {
+        "question_text": "9.金黄色葡萄球菌引起的毒素性疾病不包括",
+        "options": [
+            "A.食物中毒",
+            "B.剥脱性皮炎",
+            "C.毒性休克综合征",
+            "D.猩红热",
+            "E烫伤样皮肤综合征"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 9
+    },
+    {
+        "question_text": "10.致病性葡萄球菌重要的鉴定依据不包括",
+        "options": [
+            "A.金黄色色素",
+            "B.血平板上溶血",
+            "C.凝固酶阳性",
+            "D.耐热核酸酶",
+            "E.发酵葡萄糖"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 10
+    },
+    {
+        "question_text": "11.化脓性炎症，其脓汁黏稠、病灶局限，这是由于病原菌产生",
+        "options": [
+            "A.透明质酸酶",
+            "B.血浆凝固酶",
+            "C耐热核酸酶",
+            "D.链道酶",
+            "E.链激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 11
+    },
+    {
+        "question_text": "12.下列细菌中可引起食物中毒的细菌是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.链球菌",
+            "C.肺炎链球菌",
+            "D.脑膜炎奈瑟菌",
+            "E.淋病奈瑟菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 12
+    },
+    {
+        "question_text": "13.链球菌分类依据是",
+        "options": [
+            "A.能否产生血浆凝固酶",
+            "B.产生色素颜色的不同",
+            "C.鞭毛抗原的不同",
+            "D.在血琼脂培养基中溶血现象的不同",
+            "E.传播途径的不同"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 13
+    },
+    {
+        "question_text": "14.A群链球菌的主要致病物质不包括",
+        "options": [
+            "A.肠毒素",
+            "B.M蛋白",
+            "C致热外毒素",
+            "D.链激酶",
+            "E.透明质酸酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 14
+    },
+    {
+        "question_text": "15.致病性葡萄球菌的特点是",
+        "options": [
+            "A.一般不发酵乳糖",
+            "B.能分解甘露醇",
+            "C.血平皿上形成双溶血环",
+            "D.细菌能产生自溶酶",
+            "E.串珠试验阳性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 15
+    },
+    {
+        "question_text": "16.链球菌可导致风湿热、急性肾小球肾炎等超敏反应性疾病，这与其何种致病物质相关",
+        "options": [
+            "A.致热外毒素",
+            "B.M蛋白",
+            "C.F蛋白",
+            "D.链道酶",
+            "E.链激酶"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 16
+    },
+    {
+        "question_text": "17.引发猩红热的病原体是",
+        "options": [
+            "A.葡萄球菌",
+            "B.A群链球菌",
+            "C.肺炎链球菌",
+            "D.脑膜炎奈瑟菌",
+            "E.淋球菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 17
+    },
+    {
+        "question_text": "18.活动性风湿患者抗O试验效价超过多少有诊断意义？",
+        "options": [
+            "A.1:200",
+            "B.1:250",
+            "C.1:300",
+            "D.1:350",
+            "E.1:400"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 18
+    },
+    {
+        "question_text": "19.测定SLO抗体，可协助下列哪种疾病的诊断",
+        "options": [
+            "A.风湿热",
+            "B肠热症",
+            "C.类风湿关节炎",
+            "D.猩红热",
+            "E.红斑性狼疮"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 19
+    },
+    {
+        "question_text": "20.A群链球菌在培养早期可形成荚膜，其主要成分为",
+        "options": [
+            "A.M蛋白",
+            "B.透明质酸",
+            "C.F蛋白",
+            "D.P蛋白",
+            "E.多糖"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 20
+    },
+    {
+        "question_text": "21.亚急性细菌性心内膜炎是一种",
+        "options": [
+            "A.立克次体引起的感染",
+            "B.衣原体引起的感染",
+            "C.肠道病毒引起的感染",
+            "D.条件致病菌引起的感染",
+            "E.乙型溶血型链球菌引起的感染"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 21
+    },
+    {
+        "question_text": "22.以下疾病中由甲型溶血性链球菌引起的是",
+        "options": [
+            "A.大叶性肺炎",
+            "B.烫伤样皮肤综合征",
+            "C.感染性心内膜炎",
+            "D.化脓性扁桃体炎",
+            "E.流行性脑脊髓膜炎"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 22
+    },
+    {
+        "question_text": "23.在培养特性上,链球菌与葡萄球菌的不同点是",
+        "options": [
+            "A.营养要求高",
+            "B.需氧或兼性厌氧",
+            "C.最适生长温度为37摄氏度",
+            "D.最适pH7.4~7.6",
+            "E液体培养呈混油生长，管底有沉淀"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 23
+    },
+    {
+        "question_text": "24.初次分离培养脑膜炎奈瑟菌需要",
+        "options": [
+            "A.含5%的新鲜红血球培养基",
+            "B.5%~10%的CO2气体",
+            "C.含10%~20%小牛血清的培养基",
+            "D.0.3%琼脂培养基",
+            "E.含0.05%胆盐的培养基"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 24
+    },
+    {
+        "question_text": "25.引起龋齿最常见的病原菌是",
+        "options": [
+            "A.甲型溶血性链球菌",
+            "B.类白喉杆菌",
+            "C.无芽胞厌氧菌",
+            "D.铜绿假单胞菌",
+            "E.白假丝酵母菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 25
+    },
+    {
+        "question_text": "26.以下能够产生自溶酶的细菌是",
+        "options": [
+            "A.艰难梭菌",
+            "B.百日咳鲍特菌",
+            "C.金黄色葡萄球菌",
+            "D.结核分枝杆菌",
+            "E.肺炎链球菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 26
+    },
+    {
+        "question_text": "27.关于肺炎链球菌的叙述正确的是",
+        "options": [
+            "A.产生芽胞和自溶酶",
+            "B.菌体呈矛头状,成对排列",
+            "C.革兰染色阴性",
+            "D.有鞭毛而有动力",
+            "E不形成荚膜也有致病性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 27
+    },
+    {
+        "question_text": "28.胆汁溶菌试验常用于鉴别",
+        "options": [
+            "A.破伤风梭菌与肉毒梭菌",
+            "B.肺炎链球菌与甲型溶血性链球菌",
+            "C.金黄色葡萄球菌与表皮葡萄球菌",
+            "D.淋病耐瑟菌与脑膜炎奈瑟菌",
+            "E.霍乱弧菌与肠炎沙门菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 28
+    },
+    {
+        "question_text": "29.肺炎链球菌致病主要依赖于",
+        "options": [
+            "A.内毒素",
+            "B.外毒素",
+            "C.侵袭性酶",
+            "D.荚膜",
+            "E.M蛋白"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 29
+    },
+    {
+        "question_text": "30.脑膜炎奈瑟菌的传播方式主要为",
+        "options": [
+            "A.粪-口途径",
+            "B.接触传播",
+            "C.呼吸道传播",
+            "D.垂直传播",
+            "E.血液传播"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 30
+    },
+    {
+        "question_text": "31.脑膜炎奈瑟菌的主要致病物质是",
+        "options": [
+            "A.外毒素",
+            "B.LOS",
+            "C.自溶酶",
+            "D.溶血毒素",
+            "E.微荚膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 31
+    },
+    {
+        "question_text": "32.脑膜炎奈瑟菌是",
+        "options": [
+            "A.乙脑的病原体",
+            "B.流脑的病原体",
+            "C.SSPE的病原体",
+            "D.结核性脑膜炎的病原体",
+            "E.隐脑的病原体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 32
+    },
+    {
+        "question_text": "33.关于脑膜炎奈瑟菌，正确的是",
+        "options": [
+            "A.G+肾形双球菌",
+            "B.专性需氧，普通培养基中不能生长",
+            "C.对理化因素抵抗力强",
+            "D.可分解甘露醇",
+            "E.标本直接涂片,细菌不可能位于中性粒细胞内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 33
+    },
+    {
+        "question_text": "34.在黏膜表面黏附时，可产生分解SIgA蛋白酶的细菌是",
+        "options": [
+            "A.葡萄球菌",
+            "B.链球菌",
+            "C.肺炎链球菌",
+            "D.肠球菌",
+            "E.淋病奈瑟菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 34
+    },
+    {
+        "question_text": "35.淋病奈瑟菌可引起",
+        "options": [
+            "A性病淋巴肉芽胂",
+            "B.包涵体结膜炎",
+            "C.新生儿脓漏眼",
+            "D.沙眼",
+            "E.青光眼"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 35
+    },
+    {
+        "question_text": "36.下列组合，正确的是",
+        "options": [
+            "A.脑膜炎奈瑟菌一接触传播",
+            "B.布魯菌一消化道传播",
+            "C.脑膜炎奈瑟菌一呼吸道传播",
+            "D.伤寒杆菌一呼吸道传播",
+            "E.淋病奈瑟菌一血液传播"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "36",
+        "number": 36
+    }
+]

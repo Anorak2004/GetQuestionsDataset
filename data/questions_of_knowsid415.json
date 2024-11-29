@@ -1,0 +1,1962 @@
+[
+    {
+        "question_text": "2531、眼球（  ）",
+        "options": [
+            "A.亦就是视器",
+            "B.位于眶的后部",
+            "C.眼轴即为视轴",
+            "D.由眼球壁和眼球内容物组成",
+            "E.赤道为眼球前、后极的连线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 1
+    },
+    {
+        "question_text": "2532、眼球壁（  ）",
+        "options": [
+            "A.由外膜纤维膜和内膜视网膜构成",
+            "B.由外膜纤维膜和内膜血管膜构成",
+            "C.由外膜纤维膜、中膜血管膜和内膜视网膜构成",
+            "D.由外膜纤维膜、中膜视网膜和内膜血管膜构成",
+            "E.由外膜视网膜、中膜纤维膜和内膜血管膜构成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 2
+    },
+    {
+        "question_text": "2533、眼球壁外膜（  ）",
+        "options": [
+            "A.由前5/6的角膜和后1/6的巩膜构成",
+            "B.整个外膜富含有血管",
+            "C.角膜没有感觉神经末梢分布",
+            "D.角膜具有屈光作用",
+            "E.巩膜为无色透明的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 3
+    },
+    {
+        "question_text": "2534、眼球壁中膜（血管膜）（  ）",
+        "options": [
+            "A.由前向后分为虹膜、睫状体和脉络膜三部分",
+            "B.具有感光细胞",
+            "C.虹膜具有屈光作用",
+            "D.睫状体具有屈光作用",
+            "E.在脉络膜后份有生理盲点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 4
+    },
+    {
+        "question_text": "2535、前房角（  ）",
+        "options": [
+            "A.位于角膜和巩膜交界处",
+            "B.位于角膜和虹膜交界处",
+            "C.位于虹膜和巩膜交界处",
+            "D.位于虹膜和睫状体交界处",
+            "E.房水由此产生"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 5
+    },
+    {
+        "question_text": "2536、睫状体（  ）",
+        "options": [
+            "A.位于中膜的前份，为中膜的增厚部分",
+            "B.通过睫状小带与玻璃体相连",
+            "C.其内的睫状肌收缩和舒张可调节玻璃体的曲度",
+            "D.可产生房水",
+            "E.具有屈光作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 6
+    },
+    {
+        "question_text": "2537、具有感光作用的结构为（  ）",
+        "options": [
+            "A.角膜",
+            "B.视网膜虹膜部",
+            "C.视网膜睫状体部",
+            "D.视神经盘",
+            "E.黄斑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 7
+    },
+    {
+        "question_text": "2538、视网膜（  ）",
+        "options": [
+            "A.可分为虹膜部、盲部和视部三部分",
+            "B.视神经盘位于眼球后极颞侧",
+            "C.视神经盘中央的凹陷称中央凹",
+            "D.黄斑处无感光细胞称盲点",
+            "E.结构上可分为外层的色素层和内层的神经层"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 8
+    },
+    {
+        "question_text": "2539、生理盲点指（  ）",
+        "options": [
+            "A.视网膜虹膜部",
+            "B.视网膜睫状体部",
+            "C.视神经盘",
+            "D.黄斑",
+            "E.中央凹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 9
+    },
+    {
+        "question_text": "2540、房水（  ）",
+        "options": [
+            "A.由角膜分泌产生",
+            "B.自眼前房经瞳孔至眼后房",
+            "C.最后经虹膜角膜角渗入巩膜静脉窦",
+            "D.具有清洁角膜的功能",
+            "E.房水回流受阻致眼内压增高称白内障"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 10
+    },
+    {
+        "question_text": "2541、视近物时（  ）",
+        "options": [
+            "A.睫状肌收缩，睫状小带松弛，晶状体凸度增加",
+            "B.睫状肌收缩，睫状小带松弛，晶状体凸度减少",
+            "C.睫状肌收缩，睫状小带紧张，晶状体凸度增加",
+            "D.睫状肌舒张，睫状小带紧张，晶状体凸度减少",
+            "E.睫状肌舒张，睫状小带舒张，晶状体凸度减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 11
+    },
+    {
+        "question_text": "2542、视远物时（  ）",
+        "options": [
+            "A.睫状肌收缩，睫状小带松弛，晶状体凸度增加",
+            "B.睫状肌收缩，睫状小带松弛，晶状体凸度减少",
+            "C.睫状肌收缩，睫状小带紧张，晶状体凸度增加",
+            "D.睫状肌舒张，睫状小带紧张，晶状体凸度减少",
+            "E.睫状肌舒张，睫状小带舒张，晶状体凸度减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 12
+    },
+    {
+        "question_text": "2543、眼球内容物（  ）",
+        "options": [
+            "A.包括角膜、房水、晶状体和玻璃体",
+            "B.均有血管",
+            "C.均有折光作用",
+            "D.晶状体混浊称青光眼",
+            "E.玻璃体混浊称白内障"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 13
+    },
+    {
+        "question_text": "2544、关于角膜说法错误的是（  ）",
+        "options": [
+            "A.有屈光作用",
+            "B.有丰富的神经末梢",
+            "C.有丰富的的血管",
+            "D.占外膜的前1/6",
+            "E.无色通明"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 14
+    },
+    {
+        "question_text": "2545、巩膜静脉窦位于（  ）",
+        "options": [
+            "A.角膜与巩膜连接处",
+            "B.巩膜后分",
+            "C.虹膜根部",
+            "D.角膜与虹膜连接处",
+            "E.虹膜与睫状体连接处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 15
+    },
+    {
+        "question_text": "2546、下列不属于眼球中膜的结构是（  ）",
+        "options": [
+            "A.脉络膜",
+            "B.角膜",
+            "C.虹膜",
+            "D.睫状体",
+            "E.瞳孔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 16
+    },
+    {
+        "question_text": "2547、属于眼球中膜的结构是（  ）",
+        "options": [
+            "A.纤维膜",
+            "B.晶状体",
+            "C.角膜",
+            "D.视网膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 17
+    },
+    {
+        "question_text": "2548、关于虹膜正确的描述是（  ）",
+        "options": [
+            "A.是眼球壁的外膜",
+            "B.中央有瞳孔",
+            "C.参与晶状体的调节",
+            "D.产生房水",
+            "E.属于屈光系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 18
+    },
+    {
+        "question_text": "2549、关于晶状体的错误说法是（  ）",
+        "options": [
+            "A.为双凸透镜状",
+            "B.无色透明",
+            "C.有弹性",
+            "D.富含血管和神经",
+            "E.位于晶状体囊中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 19
+    },
+    {
+        "question_text": "2550、无折光作用的是（  ）",
+        "options": [
+            "A.房水",
+            "B.角膜",
+            "C.虹膜",
+            "D.晶状体",
+            "E.玻璃体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 20
+    },
+    {
+        "question_text": "2551、下列无屈光作用的是（  ）",
+        "options": [
+            "A.房水",
+            "B.角膜",
+            "C.睫状体",
+            "D.晶状体",
+            "E.玻璃体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 21
+    },
+    {
+        "question_text": "2552、可以调节晶状体曲度的是（  ）",
+        "options": [
+            "A.玻璃体",
+            "B.睫状肌",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.虹膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 22
+    },
+    {
+        "question_text": "2553、房水回流入（  ）",
+        "options": [
+            "A.结膜囊",
+            "B.玻璃体",
+            "C.泪囊",
+            "D.巩膜静脉窦",
+            "E.晶状体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 23
+    },
+    {
+        "question_text": "2554、关于视神经盘（  ）",
+        "options": [
+            "A.为视觉最敏锐处",
+            "B.为生理盲点",
+            "C.有中央凹",
+            "D.位于黄斑的颞侧",
+            "E.含视锥细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 24
+    },
+    {
+        "question_text": "2555、眼房位于（  ）",
+        "options": [
+            "A.角膜与巩膜之间",
+            "B.角膜与虹膜之间",
+            "C.角膜与晶状体之间",
+            "D.角膜与玻璃体之间",
+            "E.角膜与中膜之间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 25
+    },
+    {
+        "question_text": "2556、能产生房水的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 26
+    },
+    {
+        "question_text": "2557、具有屈光作用的结构为（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 27
+    },
+    {
+        "question_text": "2558、富含有血管和色素细胞的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 28
+    },
+    {
+        "question_text": "2559、具有感光作用的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 29
+    },
+    {
+        "question_text": "2560、受交感神经支配（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 30
+    },
+    {
+        "question_text": "2561、受副交感神经支配（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 31
+    },
+    {
+        "question_text": "2562、产生房水（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 32
+    },
+    {
+        "question_text": "2563、调节视力（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 33
+    },
+    {
+        "question_text": "2564、晶状体混浊（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 34
+    },
+    {
+        "question_text": "2565、眼内压过高（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 35
+    },
+    {
+        "question_text": "2566、睑板腺囊肿（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 36
+    },
+    {
+        "question_text": "2567、眼的屈光系统的屈光能力过强（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 37
+    },
+    {
+        "question_text": "2568、视力最敏感处（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 38
+    },
+    {
+        "question_text": "2569、调节入眼光线多少的是（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 39
+    },
+    {
+        "question_text": "2570、生理盲点",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 40
+    },
+    {
+        "question_text": "2571、产生房水（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 41
+    },
+    {
+        "question_text": "2584、眼睑的结构特点为（  ）",
+        "options": [
+            "A.由皮肤、皮下组织和肌层构成",
+            "B.球结膜构成眼睑的最内层",
+            "C.睫毛腺的炎症称霰粒肿",
+            "D.睑板腺囊肿称霰粒肿",
+            "E.睑板腺囊肿称麦粒肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 42
+    },
+    {
+        "question_text": "2585、泪器（  ）",
+        "options": [
+            "A.由泪腺和泪小管组成",
+            "B.泪腺位于眼眶的下壁",
+            "C.泪液具有清洁角膜的功能",
+            "D.泪囊位于眼眶上壁前外侧的泪囊窝内",
+            "E.鼻泪管开口于中鼻道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 43
+    },
+    {
+        "question_text": "2586、使眼球前极转向外上方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 44
+    },
+    {
+        "question_text": "2587、使眼球前极转向外下方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 45
+    },
+    {
+        "question_text": "2588、使眼球前极转向内上方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 46
+    },
+    {
+        "question_text": "2589、使眼球前极转向内下方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 47
+    },
+    {
+        "question_text": "2590、有关结膜描述错误的是（  ）",
+        "options": [
+            "A.睑结膜构成眼睑的最内层",
+            "B.睑结膜与球结膜移行处为结膜穹隆",
+            "C.球结膜覆盖在角膜表面",
+            "D.结膜囊经睑裂与外界相通",
+            "E.闭眼时,全部结膜形成结膜囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 48
+    },
+    {
+        "question_text": "2591、使泪囊扩大的肌是（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.上睑提肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.上直肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 49
+    },
+    {
+        "question_text": "2592、不属于泪器的是（  ）",
+        "options": [
+            "A.泪点",
+            "B.泪腺",
+            "C.泪小管",
+            "D.泪囊窝",
+            "E.鼻泪管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 50
+    },
+    {
+        "question_text": "2593、鼻泪管开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.下鼻道",
+            "C.中鼻道",
+            "D.泪点",
+            "E.泪腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 51
+    },
+    {
+        "question_text": "2594、上斜肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 52
+    },
+    {
+        "question_text": "2595、下斜肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 53
+    },
+    {
+        "question_text": "2596、上直肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 54
+    },
+    {
+        "question_text": "2597、下直肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 55
+    },
+    {
+        "question_text": "2531、眼球（  ）",
+        "options": [
+            "A.亦就是视器",
+            "B.位于眶的后部",
+            "C.眼轴即为视轴",
+            "D.由眼球壁和眼球内容物组成",
+            "E.赤道为眼球前、后极的连线"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 56
+    },
+    {
+        "question_text": "2532、眼球壁（  ）",
+        "options": [
+            "A.由外膜纤维膜和内膜视网膜构成",
+            "B.由外膜纤维膜和内膜血管膜构成",
+            "C.由外膜纤维膜、中膜血管膜和内膜视网膜构成",
+            "D.由外膜纤维膜、中膜视网膜和内膜血管膜构成",
+            "E.由外膜视网膜、中膜纤维膜和内膜血管膜构成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 57
+    },
+    {
+        "question_text": "2533、眼球壁外膜（  ）",
+        "options": [
+            "A.由前5/6的角膜和后1/6的巩膜构成",
+            "B.整个外膜富含有血管",
+            "C.角膜没有感觉神经末梢分布",
+            "D.角膜具有屈光作用",
+            "E.巩膜为无色透明的"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 58
+    },
+    {
+        "question_text": "2534、眼球壁中膜（血管膜）（  ）",
+        "options": [
+            "A.由前向后分为虹膜、睫状体和脉络膜三部分",
+            "B.具有感光细胞",
+            "C.虹膜具有屈光作用",
+            "D.睫状体具有屈光作用",
+            "E.在脉络膜后份有生理盲点"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 59
+    },
+    {
+        "question_text": "2535、前房角（  ）",
+        "options": [
+            "A.位于角膜和巩膜交界处",
+            "B.位于角膜和虹膜交界处",
+            "C.位于虹膜和巩膜交界处",
+            "D.位于虹膜和睫状体交界处",
+            "E.房水由此产生"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 60
+    },
+    {
+        "question_text": "2536、睫状体（  ）",
+        "options": [
+            "A.位于中膜的前份，为中膜的增厚部分",
+            "B.通过睫状小带与玻璃体相连",
+            "C.其内的睫状肌收缩和舒张可调节玻璃体的曲度",
+            "D.可产生房水",
+            "E.具有屈光作用"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 61
+    },
+    {
+        "question_text": "2537、具有感光作用的结构为（  ）",
+        "options": [
+            "A.角膜",
+            "B.视网膜虹膜部",
+            "C.视网膜睫状体部",
+            "D.视神经盘",
+            "E.黄斑"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 62
+    },
+    {
+        "question_text": "2538、视网膜（  ）",
+        "options": [
+            "A.可分为虹膜部、盲部和视部三部分",
+            "B.视神经盘位于眼球后极颞侧",
+            "C.视神经盘中央的凹陷称中央凹",
+            "D.黄斑处无感光细胞称盲点",
+            "E.结构上可分为外层的色素层和内层的神经层"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 63
+    },
+    {
+        "question_text": "2539、生理盲点指（  ）",
+        "options": [
+            "A.视网膜虹膜部",
+            "B.视网膜睫状体部",
+            "C.视神经盘",
+            "D.黄斑",
+            "E.中央凹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 64
+    },
+    {
+        "question_text": "2540、房水（  ）",
+        "options": [
+            "A.由角膜分泌产生",
+            "B.自眼前房经瞳孔至眼后房",
+            "C.最后经虹膜角膜角渗入巩膜静脉窦",
+            "D.具有清洁角膜的功能",
+            "E.房水回流受阻致眼内压增高称白内障"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 65
+    },
+    {
+        "question_text": "2541、视近物时（  ）",
+        "options": [
+            "A.睫状肌收缩，睫状小带松弛，晶状体凸度增加",
+            "B.睫状肌收缩，睫状小带松弛，晶状体凸度减少",
+            "C.睫状肌收缩，睫状小带紧张，晶状体凸度增加",
+            "D.睫状肌舒张，睫状小带紧张，晶状体凸度减少",
+            "E.睫状肌舒张，睫状小带舒张，晶状体凸度减少"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 66
+    },
+    {
+        "question_text": "2542、视远物时（  ）",
+        "options": [
+            "A.睫状肌收缩，睫状小带松弛，晶状体凸度增加",
+            "B.睫状肌收缩，睫状小带松弛，晶状体凸度减少",
+            "C.睫状肌收缩，睫状小带紧张，晶状体凸度增加",
+            "D.睫状肌舒张，睫状小带紧张，晶状体凸度减少",
+            "E.睫状肌舒张，睫状小带舒张，晶状体凸度减少"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 67
+    },
+    {
+        "question_text": "2543、眼球内容物（  ）",
+        "options": [
+            "A.包括角膜、房水、晶状体和玻璃体",
+            "B.均有血管",
+            "C.均有折光作用",
+            "D.晶状体混浊称青光眼",
+            "E.玻璃体混浊称白内障"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 68
+    },
+    {
+        "question_text": "2544、关于角膜说法错误的是（  ）",
+        "options": [
+            "A.有屈光作用",
+            "B.有丰富的神经末梢",
+            "C.有丰富的的血管",
+            "D.占外膜的前1/6",
+            "E.无色通明"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 69
+    },
+    {
+        "question_text": "2545、巩膜静脉窦位于（  ）",
+        "options": [
+            "A.角膜与巩膜连接处",
+            "B.巩膜后分",
+            "C.虹膜根部",
+            "D.角膜与虹膜连接处",
+            "E.虹膜与睫状体连接处"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 70
+    },
+    {
+        "question_text": "2546、下列不属于眼球中膜的结构是（  ）",
+        "options": [
+            "A.脉络膜",
+            "B.角膜",
+            "C.虹膜",
+            "D.睫状体",
+            "E.瞳孔"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 71
+    },
+    {
+        "question_text": "2547、属于眼球中膜的结构是（  ）",
+        "options": [
+            "A.纤维膜",
+            "B.晶状体",
+            "C.角膜",
+            "D.视网膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 72
+    },
+    {
+        "question_text": "2548、关于虹膜正确的描述是（  ）",
+        "options": [
+            "A.是眼球壁的外膜",
+            "B.中央有瞳孔",
+            "C.参与晶状体的调节",
+            "D.产生房水",
+            "E.属于屈光系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 73
+    },
+    {
+        "question_text": "2549、关于晶状体的错误说法是（  ）",
+        "options": [
+            "A.为双凸透镜状",
+            "B.无色透明",
+            "C.有弹性",
+            "D.富含血管和神经",
+            "E.位于晶状体囊中"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 74
+    },
+    {
+        "question_text": "2550、无折光作用的是（  ）",
+        "options": [
+            "A.房水",
+            "B.角膜",
+            "C.虹膜",
+            "D.晶状体",
+            "E.玻璃体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 75
+    },
+    {
+        "question_text": "2551、下列无屈光作用的是（  ）",
+        "options": [
+            "A.房水",
+            "B.角膜",
+            "C.睫状体",
+            "D.晶状体",
+            "E.玻璃体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 76
+    },
+    {
+        "question_text": "2552、可以调节晶状体曲度的是（  ）",
+        "options": [
+            "A.玻璃体",
+            "B.睫状肌",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.虹膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 77
+    },
+    {
+        "question_text": "2553、房水回流入（  ）",
+        "options": [
+            "A.结膜囊",
+            "B.玻璃体",
+            "C.泪囊",
+            "D.巩膜静脉窦",
+            "E.晶状体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 78
+    },
+    {
+        "question_text": "2554、关于视神经盘（  ）",
+        "options": [
+            "A.为视觉最敏锐处",
+            "B.为生理盲点",
+            "C.有中央凹",
+            "D.位于黄斑的颞侧",
+            "E.含视锥细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 79
+    },
+    {
+        "question_text": "2555、眼房位于（  ）",
+        "options": [
+            "A.角膜与巩膜之间",
+            "B.角膜与虹膜之间",
+            "C.角膜与晶状体之间",
+            "D.角膜与玻璃体之间",
+            "E.角膜与中膜之间"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 80
+    },
+    {
+        "question_text": "2556、能产生房水的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 81
+    },
+    {
+        "question_text": "2557、具有屈光作用的结构为（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 82
+    },
+    {
+        "question_text": "2558、富含有血管和色素细胞的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 83
+    },
+    {
+        "question_text": "2559、具有感光作用的是（  ）",
+        "options": [
+            "A.角膜",
+            "B.睫状体",
+            "C.脉络膜",
+            "D.视网膜",
+            "E.巩膜"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 84
+    },
+    {
+        "question_text": "2560、受交感神经支配（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 85
+    },
+    {
+        "question_text": "2561、受副交感神经支配（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 86
+    },
+    {
+        "question_text": "2562、产生房水（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 87
+    },
+    {
+        "question_text": "2563、调节视力（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.睫状体",
+            "C.瞳孔括约肌",
+            "D.瞳孔开大肌",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 88
+    },
+    {
+        "question_text": "2564、晶状体混浊（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 89
+    },
+    {
+        "question_text": "2565、眼内压过高（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 90
+    },
+    {
+        "question_text": "2566、睑板腺囊肿（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 91
+    },
+    {
+        "question_text": "2567、眼的屈光系统的屈光能力过强（  ）",
+        "options": [
+            "A.青光眼",
+            "B.白内障",
+            "C.霰粒肿",
+            "D.麦粒肿",
+            "E.近视"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 92
+    },
+    {
+        "question_text": "2568、视力最敏感处（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 93
+    },
+    {
+        "question_text": "2569、调节入眼光线多少的是（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 94
+    },
+    {
+        "question_text": "2570、生理盲点",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 95
+    },
+    {
+        "question_text": "2571、产生房水（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.黄斑",
+            "C.瞳孔",
+            "D.脉络膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 96
+    },
+    {
+        "question_text": "2584、眼睑的结构特点为（  ）",
+        "options": [
+            "A.由皮肤、皮下组织和肌层构成",
+            "B.球结膜构成眼睑的最内层",
+            "C.睫毛腺的炎症称霰粒肿",
+            "D.睑板腺囊肿称霰粒肿",
+            "E.睑板腺囊肿称麦粒肿"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 97
+    },
+    {
+        "question_text": "2585、泪器（  ）",
+        "options": [
+            "A.由泪腺和泪小管组成",
+            "B.泪腺位于眼眶的下壁",
+            "C.泪液具有清洁角膜的功能",
+            "D.泪囊位于眼眶上壁前外侧的泪囊窝内",
+            "E.鼻泪管开口于中鼻道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 98
+    },
+    {
+        "question_text": "2586、使眼球前极转向外上方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 99
+    },
+    {
+        "question_text": "2587、使眼球前极转向外下方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 100
+    },
+    {
+        "question_text": "2588、使眼球前极转向内上方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 101
+    },
+    {
+        "question_text": "2589、使眼球前极转向内下方的眼外肌为（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 102
+    },
+    {
+        "question_text": "2590、有关结膜描述错误的是（  ）",
+        "options": [
+            "A.睑结膜构成眼睑的最内层",
+            "B.睑结膜与球结膜移行处为结膜穹隆",
+            "C.球结膜覆盖在角膜表面",
+            "D.结膜囊经睑裂与外界相通",
+            "E.闭眼时,全部结膜形成结膜囊"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 103
+    },
+    {
+        "question_text": "2591、使泪囊扩大的肌是（  ）",
+        "options": [
+            "A.眼轮匝肌",
+            "B.上睑提肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.上直肌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 104
+    },
+    {
+        "question_text": "2592、不属于泪器的是（  ）",
+        "options": [
+            "A.泪点",
+            "B.泪腺",
+            "C.泪小管",
+            "D.泪囊窝",
+            "E.鼻泪管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 105
+    },
+    {
+        "question_text": "2593、鼻泪管开口于（  ）",
+        "options": [
+            "A.上鼻道",
+            "B.下鼻道",
+            "C.中鼻道",
+            "D.泪点",
+            "E.泪腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 106
+    },
+    {
+        "question_text": "2594、上斜肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 107
+    },
+    {
+        "question_text": "2595、下斜肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 108
+    },
+    {
+        "question_text": "2596、上直肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 109
+    },
+    {
+        "question_text": "2597、下直肌（  ）",
+        "options": [
+            "A.使眼球前极转向内上方",
+            "B.使眼球前极转向外上方",
+            "C.使眼球前极转向内下方",
+            "D.使眼球前极转向外下方",
+            "E.提上睑"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 110
+    },
+    {
+        "question_text": "2572、角膜（  ）",
+        "options": [
+            "A.占眼球外膜的前1/6",
+            "B.血管丰富",
+            "C.感觉神经末梢也丰富",
+            "D.具有屈光作用",
+            "E.由表面的血管来营养"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 111
+    },
+    {
+        "question_text": "2573、眼球壁中膜（血管膜）（  ）",
+        "options": [
+            "A.含有丰富的血管和色素细胞",
+            "B.分为虹膜、睫状体和脉络膜三部分",
+            "C.虹膜中央有瞳孔",
+            "D.睫状体具有屈光作用",
+            "E.睫状体具有产生房水的作用"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 112
+    },
+    {
+        "question_text": "2574、睫状体（  ）",
+        "options": [
+            "A.为眼球中膜中部环形增厚部分",
+            "B.发出睫状小带与晶状体相连",
+            "C.内有睫状肌",
+            "D.具有屈光作用",
+            "E.具有产生房水的作用"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 113
+    },
+    {
+        "question_text": "2575、视网膜上具有感光作用的为（  ）",
+        "options": [
+            "A.视网膜虹膜部",
+            "B.视网膜睫状体部",
+            "C.视神经盘",
+            "D.黄斑",
+            "E.中央凹"
+        ],
+        "correct_answer": "DE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 114
+    },
+    {
+        "question_text": "2576、眼的屈光系统包括（  ）",
+        "options": [
+            "A.角膜",
+            "B.房水",
+            "C.睫状体",
+            "D.玻璃体",
+            "E.晶状体"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 115
+    },
+    {
+        "question_text": "2577、晶状体（  ）",
+        "options": [
+            "A.位于角膜和虹膜之间",
+            "B.无血管和神经",
+            "C.由房水营养",
+            "D.具有屈光作用",
+            "E.混浊称为白内障"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 116
+    },
+    {
+        "question_text": "2578、房水（  ）",
+        "options": [
+            "A.由睫状体产生",
+            "B.由前房经瞳孔至后房",
+            "C.经虹膜角膜角渗入巩膜静脉窦",
+            "D.具有屈光作用",
+            "E.营养角膜和晶状体"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 117
+    },
+    {
+        "question_text": "2579、属于眼球内肌的是（  ）",
+        "options": [
+            "A.瞳孔开大肌",
+            "B.瞳孔括约肌",
+            "C.上睑提肌",
+            "D.睫状肌",
+            "E.上斜肌"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 118
+    },
+    {
+        "question_text": "2580、属于眼球壁外膜的结构有（  ）",
+        "options": [
+            "A.角膜",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 119
+    },
+    {
+        "question_text": "2581、属于眼球壁中膜的结构是（  ）",
+        "options": [
+            "A.角膜",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 120
+    },
+    {
+        "question_text": "2582、属于眼球壁内膜的结构是（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.黄斑"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 121
+    },
+    {
+        "question_text": "2583、调节瞳孔大小的肌包括（  ）",
+        "options": [
+            "A.瞳孔括约肌",
+            "B.外直肌",
+            "C.瞳孔开大肌",
+            "D.睫状体",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 122
+    },
+    {
+        "question_text": "2598、参与眼球外转的肌有（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 123
+    },
+    {
+        "question_text": "2599、泪器包括（  ）",
+        "options": [
+            "A.泪点",
+            "B.泪腺",
+            "C.泪囊",
+            "D.泪小管",
+            "E.鼻泪管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 124
+    },
+    {
+        "question_text": "2600、Extraocular muscles include:",
+        "options": [
+            "A.ciliary muscle",
+            "B.levator palpebrae superioris (上睑提肌)",
+            "C.inferior obliquus (下斜肌)",
+            "D.superior rectus (上直肌)",
+            "E.dilator pupillae"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 125
+    },
+    {
+        "question_text": "2572、角膜（  ）",
+        "options": [
+            "A.占眼球外膜的前1/6",
+            "B.血管丰富",
+            "C.感觉神经末梢也丰富",
+            "D.具有屈光作用",
+            "E.由表面的血管来营养"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 126
+    },
+    {
+        "question_text": "2573、眼球壁中膜（血管膜）（  ）",
+        "options": [
+            "A.含有丰富的血管和色素细胞",
+            "B.分为虹膜、睫状体和脉络膜三部分",
+            "C.虹膜中央有瞳孔",
+            "D.睫状体具有屈光作用",
+            "E.睫状体具有产生房水的作用"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 127
+    },
+    {
+        "question_text": "2574、睫状体（  ）",
+        "options": [
+            "A.为眼球中膜中部环形增厚部分",
+            "B.发出睫状小带与晶状体相连",
+            "C.内有睫状肌",
+            "D.具有屈光作用",
+            "E.具有产生房水的作用"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 128
+    },
+    {
+        "question_text": "2575、视网膜上具有感光作用的为（  ）",
+        "options": [
+            "A.视网膜虹膜部",
+            "B.视网膜睫状体部",
+            "C.视神经盘",
+            "D.黄斑",
+            "E.中央凹"
+        ],
+        "correct_answer": "DE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 129
+    },
+    {
+        "question_text": "2576、眼的屈光系统包括（  ）",
+        "options": [
+            "A.角膜",
+            "B.房水",
+            "C.睫状体",
+            "D.玻璃体",
+            "E.晶状体"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 130
+    },
+    {
+        "question_text": "2577、晶状体（  ）",
+        "options": [
+            "A.位于角膜和虹膜之间",
+            "B.无血管和神经",
+            "C.由房水营养",
+            "D.具有屈光作用",
+            "E.混浊称为白内障"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 131
+    },
+    {
+        "question_text": "2578、房水（  ）",
+        "options": [
+            "A.由睫状体产生",
+            "B.由前房经瞳孔至后房",
+            "C.经虹膜角膜角渗入巩膜静脉窦",
+            "D.具有屈光作用",
+            "E.营养角膜和晶状体"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 132
+    },
+    {
+        "question_text": "2579、属于眼球内肌的是（  ）",
+        "options": [
+            "A.瞳孔开大肌",
+            "B.瞳孔括约肌",
+            "C.上睑提肌",
+            "D.睫状肌",
+            "E.上斜肌"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 133
+    },
+    {
+        "question_text": "2580、属于眼球壁外膜的结构有（  ）",
+        "options": [
+            "A.角膜",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "AD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 134
+    },
+    {
+        "question_text": "2581、属于眼球壁中膜的结构是（  ）",
+        "options": [
+            "A.角膜",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.睫状体"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 135
+    },
+    {
+        "question_text": "2582、属于眼球壁内膜的结构是（  ）",
+        "options": [
+            "A.视神经盘",
+            "B.虹膜",
+            "C.视网膜",
+            "D.巩膜",
+            "E.黄斑"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 136
+    },
+    {
+        "question_text": "2583、调节瞳孔大小的肌包括（  ）",
+        "options": [
+            "A.瞳孔括约肌",
+            "B.外直肌",
+            "C.瞳孔开大肌",
+            "D.睫状体",
+            "E.上睑提肌"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 137
+    },
+    {
+        "question_text": "2598、参与眼球外转的肌有（  ）",
+        "options": [
+            "A.上直肌",
+            "B.下直肌",
+            "C.上斜肌",
+            "D.下斜肌",
+            "E.外直肌"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 138
+    },
+    {
+        "question_text": "2599、泪器包括（  ）",
+        "options": [
+            "A.泪点",
+            "B.泪腺",
+            "C.泪囊",
+            "D.泪小管",
+            "E.鼻泪管"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 139
+    },
+    {
+        "question_text": "2600、Extraocular muscles include:",
+        "options": [
+            "A.ciliary muscle",
+            "B.levator palpebrae superioris (上睑提肌)",
+            "C.inferior obliquus (下斜肌)",
+            "D.superior rectus (上直肌)",
+            "E.dilator pupillae"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "140",
+        "number": 140
+    }
+]

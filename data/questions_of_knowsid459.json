@@ -1,0 +1,282 @@
+[
+    {
+        "question_text": "1.逆转录病毒复制的特点是",
+        "options": [
+            "A.病毒的基因组是DNA",
+            "B.病毒基因组是分节段RNA",
+            "C.病毒复制利用病毒的RNA依赖RNA聚合酶",
+            "D.病毒复制过程中，以病毒基因组RNA为模板合成DNA复制中间体后再转录为RNA",
+            "E.病毒复制过程中，以病毒基因组RNA模板直接合成RNA"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 1
+    },
+    {
+        "question_text": "2.属于RNA肿瘤病毒的是",
+        "options": [
+            "A.HIV",
+            "B.HBV",
+            "C.EBV",
+            "D.HSV",
+            "E.HTLV"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 2
+    },
+    {
+        "question_text": "3.含有逆转录酶的病毒是",
+        "options": [
+            "A.HIV",
+            "B.HCV",
+            "C.HPV",
+            "D.HSV",
+            "E.EBV"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 3
+    },
+    {
+        "question_text": "4.HIV编码衣壳蛋白的基因是",
+        "options": [
+            "A.pol",
+            "B.env",
+            "C.gag",
+            "D.rev",
+            "E.nef"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 4
+    },
+    {
+        "question_text": "5.HIV编码逆转录酶的基因是",
+        "options": [
+            "A.pol",
+            "B.env",
+            "C.gag",
+            "D.rev",
+            "E.nef"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 5
+    },
+    {
+        "question_text": "6.HIV基因组中编码gp120糖蛋白的基因是",
+        "options": [
+            "A.pol",
+            "B.env",
+            "C.gag",
+            "D.rev",
+            "E.nef"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 6
+    },
+    {
+        "question_text": "7.HIV最易发生变异的基因是",
+        "options": [
+            "A.pol",
+            "B.env",
+            "C.gag",
+            "D.rev",
+            "E.nef"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 7
+    },
+    {
+        "question_text": "8.与靶细胞CD分子结合的HIV病毒颗粒表面蛋白是",
+        "options": [
+            "A.gp120",
+            "B.gp41",
+            "C.gp160",
+            "D.D24",
+            "E.p17"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 8
+    },
+    {
+        "question_text": "9.HIV主要感染的细胞是",
+        "options": [
+            "A.CD4+T淋巴细胞",
+            "B.CD8+T淋巴细胞",
+            "C.单核-巨噬细胞",
+            "D.中性粒细胞",
+            "E.B淋巴细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 9
+    },
+    {
+        "question_text": "10.HIV的主要传播途径是",
+        "options": [
+            "A.粪-口途径传播",
+            "B.间接接触",
+            "C.输血和性接触",
+            "D.蚊虫叮咬",
+            "E.呼吸道传播"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 10
+    },
+    {
+        "question_text": "11.致成人工淋巴细胞白血病的病原体是",
+        "options": [
+            "A.HTLV-2",
+            "B.HIV.I",
+            "C.HIV-2",
+            "D.HTLV-1",
+            "EHpV"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 11
+    },
+    {
+        "question_text": "12.临床检查HIV感染者/AIDS病人的初筛方法是",
+        "options": [
+            "A.外周血单核细胞中分离HIV",
+            "B.PCR法检测HIV核酸",
+            "C.ELISA法检测HIV抗原",
+            "D.ELISA法检测HIV抗体",
+            "E.WesternBlot法检测HIV抗体"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 12
+    },
+    {
+        "question_text": "13.有关典型艾滋病期的描述，错误的是",
+        "options": [
+            "A.病人血中CD4+T细胞明显下降",
+            "B.病人血液中HIV载量降至较低水平",
+            "C.出现各种致命性机会感染",
+            "D.出现各种恶性肿瘤，如卡波西肉瘤",
+            "E.如不治疗预后极差"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 13
+    },
+    {
+        "question_text": "14.HIV抗体阳性病人最具有传染性的是",
+        "options": [
+            "A.粪便",
+            "B.尿液",
+            "C.唾液",
+            "D.汗液",
+            "E.血液"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 14
+    },
+    {
+        "question_text": "15.病毒核酸中具有长末端重复序列(LTR)的是",
+        "options": [
+            "A.轮状病毒",
+            "B.柯萨奇病毒",
+            "C.HIV",
+            "DHBV",
+            "E.腺病毒"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 15
+    },
+    {
+        "question_text": "16.有关HIV的特点，错误的是",
+        "options": [
+            "A.是引起艾滋病的病原体",
+            "B.可通过性行为传播",
+            "C.主要感染表达CD4分子的细胞",
+            "D.不能通过胎盘传播",
+            "E.为中等大小的球形颗粒"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 16
+    },
+    {
+        "question_text": "17.研制HIV亚单位疫苗效果较好的成分是",
+        "options": [
+            "A.p24",
+            "B.gp120",
+            "C.gp41",
+            "D.p7",
+            "E.gp17"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 17
+    },
+    {
+        "question_text": "18.关于AIDS的防治，错误的是",
+        "options": [
+            "A.广泛宣传教育、普及预防知识",
+            "B.建立HIV感染的监测网，及时掌握疫情",
+            "C.对献血、献器官、献精液者必须作HIV抗体检测",
+            "D.禁止共用注射器、注射针、牙刪和剃须刀等",
+            "E.HIV抗体阳性妇女可以母乳喂养"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 18
+    },
+    {
+        "question_text": "19.世界“艾滋病日”是",
+        "options": [
+            "A.3月24日",
+            "B.6月1日",
+            "C.7月28日",
+            "D.12月1日",
+            "E.12A月12日"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 19
+    },
+    {
+        "question_text": "20.有关HIV抵抗力的描述，错误的是",
+        "options": [
+            "A0.5%次氯酸钠，或5%甲醛处理10~30分钟可灭活病毒",
+            "B.0.5%过氧乙酸,或70%乙醇处理10～30分钟可灭活病毒",
+            "C.高压灭菌1219,20分钟可灭活病毒",
+            "D.煮沸100°,20分钟可灭活病毒",
+            "E.对紫外线较敏感"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "20",
+        "number": 20
+    }
+]

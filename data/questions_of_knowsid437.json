@@ -1,0 +1,198 @@
+[
+    {
+        "question_text": "1.霍乱弧菌的初次分离培养常用的培养基是",
+        "options": [
+            "A.SS琼脂平板",
+            "B.血琼脂平板",
+            "C.巧克力色平板",
+            "D.碱性蛋白胨水或碱性琼脂平板",
+            "E.我妻琼脂平板"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 1
+    },
+    {
+        "question_text": "2.不能引发霍乱的霍乱弧菌是",
+        "options": [
+            "A.0139群",
+            "B.古典生物型霍乱弧菌",
+            "C.E1Tor生物型霍乱弧菌",
+            "D.0138群",
+            "E.小川型霍乱弧菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 2
+    },
+    {
+        "question_text": "3.检测副溶血性孤菌致病性的试验是",
+        "options": [
+            "A.肥达试验",
+            "B.神奈川现象",
+            "C.PPD试验",
+            "D.锡克试验",
+            "E.抗“O”试验"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 3
+    },
+    {
+        "question_text": "4.下列细菌的悬滴标本在暗视野显微镜下观察呈快速飞镖样运动的是",
+        "options": [
+            "A.金黄色葡萄球菌",
+            "B.链球菌",
+            "C.霍乱弧菌",
+            "D.白喉棒状杆菌",
+            "E.结核分枝杆菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 4
+    },
+    {
+        "question_text": "5.霍乱弧菌感染引发霍乱后，患者的粪便呈",
+        "options": [
+            "A.黏液脓血便",
+            "B.果酱样粪便",
+            "C.柏油样便",
+            "D.米泔水样便",
+            "E.黄色稀便"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 5
+    },
+    {
+        "question_text": "6.01群霍乱弧菌的主要致病物质是",
+        "options": [
+            "A.外毒素",
+            "B.内毒素",
+            "C.性菌毛",
+            "D.荚膜",
+            "E.IgA酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 6
+    },
+    {
+        "question_text": "7.霍乱弧菌古典生物型和E1Tor生物型的鉴别试验之一是",
+        "options": [
+            "A.革兰染色",
+            "B.动力试验",
+            "C.吲哚试验",
+            "D.O抗原凝集试验",
+            "E.羊红细胞溶血试验"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 7
+    },
+    {
+        "question_text": "8.与O1群霍乱孤菌比较,O139群独有的致病物质是",
+        "options": [
+            "A.荚膜",
+            "B.霍乱毒素",
+            "C.菌毛",
+            "D.鞭毛",
+            "E.HapA"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 8
+    },
+    {
+        "question_text": "9.1992年在南亚流行霍乱分离出的霍乱弧菌是",
+        "options": [
+            "A.古典生物型",
+            "B.E1Tor生物型",
+            "C.O1群",
+            "D.O139群",
+            "E.O92群"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 9
+    },
+    {
+        "question_text": "10.霍乱弧菌引发腹泻与肠黏膜细胞内何种物质升高有关",
+        "options": [
+            "A.cAMP",
+            "B.Na+",
+            "C.cGMP",
+            "D.ATP",
+            "E.CI-"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 10
+    },
+    {
+        "question_text": "11.关于霍乱毒素特性的描述，不恰当的是",
+        "options": [
+            "A.是最强的致泻毒素",
+            "B.由1个A亚单位和5个B亚单位组成",
+            "C.化学本质是蛋白质",
+            "D.受体是GM1神经节苷脂受体",
+            "E.由细菌固有的染色体基因编码"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 11
+    },
+    {
+        "question_text": "12.我国沿海和海岛地区细菌性胃肠炎的主要病原是",
+        "options": [
+            "A.副溶血性弧菌",
+            "B.沙门菌",
+            "C.肠致病性大肠埃希菌",
+            "D.霍乱孤菌",
+            "E.蜡样芽胞杄菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 12
+    },
+    {
+        "question_text": "13.副溶血性弧菌所致疾病常与海产品或盐腌制食品有关,是因为该菌",
+        "options": [
+            "A.神奈川现象阳性",
+            "B.嗜盐",
+            "C耐碱",
+            "D.可产生TDH",
+            "E.具有III型分泌系统"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 13
+    },
+    {
+        "question_text": "14.孤菌主要分布于",
+        "options": [
+            "A.土壤",
+            "B.空气",
+            "C.水",
+            "D.人和动物肠道",
+            "E.皮肤表面"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "14",
+        "number": 14
+    }
+]

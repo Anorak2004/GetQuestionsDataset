@@ -1,0 +1,674 @@
+[
+    {
+        "question_text": "1.存在细菌最多的人体部位是",
+        "options": [
+            "A.肠道",
+            "B.外耳道",
+            "C.阴道",
+            "D.口腔",
+            "E.皮肤"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 1
+    },
+    {
+        "question_text": "2.正常情况下,机体有菌的部位是",
+        "options": [
+            "A.血液",
+            "B.肝脏",
+            "C.肾脏",
+            "D.骨髓",
+            "E.上呼吸道"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 2
+    },
+    {
+        "question_text": "3.正常菌群引起感染的条件之一是",
+        "options": [
+            "A.发生基因突变",
+            "B.定位转移",
+            "C.变为L型细菌",
+            "D.变为耐药性菌",
+            "E.细菌菌落发生变异"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 3
+    },
+    {
+        "question_text": "4.与细菌致病性无关的是",
+        "options": [
+            "A.菌毛",
+            "B.荚膜",
+            "C.磷壁酸",
+            "D.脂多糖",
+            "E.极体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 4
+    },
+    {
+        "question_text": "5.与细菌致病性无关的代谢产物是",
+        "options": [
+            "A.透明质酸酶",
+            "B.血浆凝固酶",
+            "C.毒素",
+            "D.细菌素",
+            "E.热原质"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 5
+    },
+    {
+        "question_text": "6.与细菌侵袭力无关的物质是",
+        "options": [
+            "A.菌毛",
+            "B.杀白细胞素",
+            "C.芽胞",
+            "D.透明质酸酶",
+            "E.荚膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 6
+    },
+    {
+        "question_text": "7.具有黏附作用的细菌结构是",
+        "options": [
+            "A.普通菌毛",
+            "B.性菌毛",
+            "C.鞭毛",
+            "D.芽胞",
+            "E.外膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 7
+    },
+    {
+        "question_text": "8.革兰阳性菌具有黏附作用的成分是",
+        "options": [
+            "A.特异性多糖",
+            "B.磷壁酸",
+            "C.肽聚糖",
+            "D.M蛋白",
+            "E.四肽侧链"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 8
+    },
+    {
+        "question_text": "9.助长细菌在体内扩散的物质是",
+        "options": [
+            "A.透明质酸酶",
+            "B.血浆凝固酶",
+            "C.RNA酶",
+            "D.歧化酶",
+            "E.过氧化氢酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 9
+    },
+    {
+        "question_text": "10.细菌内毒素的化学成分是",
+        "options": [
+            "A.肽聚糖",
+            "B.H抗原",
+            "C.荚膜多糖",
+            "D.脂多糖",
+            "E.O抗原"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 10
+    },
+    {
+        "question_text": "11.内毒素的毒性成分是",
+        "options": [
+            "A.脂蛋白",
+            "B.脂多糖",
+            "C.核心多糖",
+            "D.O-特异性多糖",
+            "E.脂质A"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 11
+    },
+    {
+        "question_text": "12.内毒素不具有的毒性作用是",
+        "options": [
+            "A.发热",
+            "B.食物中毒",
+            "C.休克",
+            "D.DIC",
+            "E.白细胞反应"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 12
+    },
+    {
+        "question_text": "13.能引起内毒素休克的细菌成分是",
+        "options": [
+            "A.磷壁酸",
+            "B.肽聚糖",
+            "C.脂多糖",
+            "D.脂蛋白",
+            "E.磷脂"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 13
+    },
+    {
+        "question_text": "14.关于内毒素的描述，下列哪项不正确",
+        "options": [
+            "A.来源于革兰阴性菌细胞壁",
+            "B.性质稳定，耐热",
+            "C.能用甲醛脱毒制成类毒素",
+            "D.其化学成分是LPS",
+            "E.在细菌裂解后释放"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 14
+    },
+    {
+        "question_text": "15.关于细菌外毒素的描述，下面哪项不正确",
+        "options": [
+            "A.多由革兰阳性菌产生",
+            "B.化学成分是蛋白质",
+            "C.耐热，不容易破坏",
+            "D.刺激机体产生抗毒素",
+            "E.经甲醛处理可制成类毒素"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 15
+    },
+    {
+        "question_text": "16.外毒素的特点之一是",
+        "options": [
+            "A.来源于革兰阴性菌",
+            "B.经甲醛处理可制成类毒素",
+            "C.多为细菌裂解后释放",
+            "D.化学成分是脂多糖",
+            "E.对热稳定"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 16
+    },
+    {
+        "question_text": "17.毒性最强的细菌毒素是",
+        "options": [
+            "A.霍乱肠毒素",
+            "B.白喉外毒素",
+            "C.破伤风痉挛毒素",
+            "D.毒性休克综合毒素I",
+            "E.肉毒毒素"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 17
+    },
+    {
+        "question_text": "18.以神经毒素致病的细菌是",
+        "options": [
+            "A.霍乱弧菌",
+            "B.白喉杆菌",
+            "C.肉毒梭菌",
+            "D.金黄色葡萄球菌",
+            "E.产气荚膜梭菌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 18
+    },
+    {
+        "question_text": "19.类毒素是经甲醛处理后的",
+        "options": [
+            "A.内毒素",
+            "B.抗毒素",
+            "C.细菌素",
+            "D.脱毒外毒素，并保留了抗原性",
+            "E脱毒外毒素，并失去了抗原性"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 19
+    },
+    {
+        "question_text": "20.不能引起食物中毒的细菌是",
+        "options": [
+            "A.肉毒梭菌",
+            "B.破伤风梭菌",
+            "C.产气荚膜梭菌",
+            "D.金黄色葡萄球菌",
+            "E.肠炎沙门菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 20
+    },
+    {
+        "question_text": "21.关于抗毒素，下列说法正确的是",
+        "options": [
+            "A.可以中和游离外毒素的毒性作用",
+            "B.为外毒素经甲醛处理后获得",
+            "C.可以中和细菌内毒素的毒性作用",
+            "D.可中和与易感细胞结合的外毒素的毒性作用",
+            "E.A+D"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 21
+    },
+    {
+        "question_text": "22.可以引起菌血症的细菌是",
+        "options": [
+            "A.肉毒梭菌",
+            "B.霍乱孤菌",
+            "C.白喉棒状杆菌",
+            "D.破伤风梭菌",
+            "E.伤寒沙门菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 22
+    },
+    {
+        "question_text": "23.随着年龄的增长，人体肠道内的哪种细菌明显减少",
+        "options": [
+            "A.双歧杆菌",
+            "B.乳酸杆菌",
+            "C大肠杆菌",
+            "D.葡萄球菌",
+            "E.肠球菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 23
+    },
+    {
+        "question_text": "24.关于机会致病菌的叙述，正确的是",
+        "options": [
+            "A.感染的条件是细菌毒力增强",
+            "B.感染的常见诱因是滥用抗生素",
+            "C.均由正常菌群在特殊条件下演变而成",
+            "D.感染的原因是细菌发生耐药性变异",
+            "E.只有在机体免疫功能降低时感染机体"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 24
+    },
+    {
+        "question_text": "25.霍乱肠毒素的作用机制是",
+        "options": [
+            "A.激活肠黏膜腺苷环化酶使cGMP增多",
+            "B.激活肠黏膜腺苷环化酶使cAMP增多",
+            "C.抑制肠黏膜腺苷环化酶使cGMP减少",
+            "D.抑制肠黏膜腺苷环化酶使cAMP减少",
+            "E抑制肠黏膜转肽酶使cGMP减少"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 25
+    },
+    {
+        "question_text": "26.内毒素引起发热的机制是",
+        "options": [
+            "A.使巨噬细胞等释放内源性致热原",
+            "B.直接刺激下丘脑体温调节中枢",
+            "C.使红细胞释放内源性致热原",
+            "D.提高机体基础代谢使之发热",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 26
+    },
+    {
+        "question_text": "27.G菌产生的内毒素引起的毒性作用基本相似，原因是其脂质A",
+        "options": [
+            "A.化学组成基本相似",
+            "B.抗原性基本相似",
+            "C.作用的受体基本相似",
+            "D.毒素进人细胞的方式",
+            "E.与补体的相互作用基本相似"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 27
+    },
+    {
+        "question_text": "28.细菌的黏附素是指",
+        "options": [
+            "A.革兰阴性菌的菌毛",
+            "B.革兰阳性菌的膜磷壁酸",
+            "C.有黏附作用的细菌壁磷壁酸",
+            "D.具有黏附作用的细菌结构",
+            "E.其受体为D-甘露醇"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 28
+    },
+    {
+        "question_text": "29.当细菌溶溃后才释放到胞外的外毒素是",
+        "options": [
+            "A.痢疾志贺毒素",
+            "B.霍乱肠毒素",
+            "C.破伤风痉挛毒素",
+            "D.白喉毒素",
+            "E.TSS-1"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 29
+    },
+    {
+        "question_text": "30.细菌产生的具有抗吞噬的酶是",
+        "options": [
+            "A.链激酶",
+            "B.链道酶",
+            "C.透明质酸酶",
+            "D.溶纤维蛋白酶",
+            "E.血浆凝固酶"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 30
+    },
+    {
+        "question_text": "31.破伤风梭菌可引起下列哪种全身感染类型",
+        "options": [
+            "A.菌血症",
+            "B.败血症",
+            "C.毒血症",
+            "D.脓毒血症",
+            "E.内毒素血症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 31
+    },
+    {
+        "question_text": "32.可经多途径感染的细菌是",
+        "options": [
+            "A.炭疽杆菌",
+            "B.淋病奈瑟菌",
+            "C.军团菌",
+            "D.伤寒杆菌",
+            "E.脑膜炎奈瑟菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 32
+    },
+    {
+        "question_text": "33.能经旁路途径激活补体的物质是",
+        "options": [
+            "A.内毒素",
+            "B.外毒素",
+            "C.血浆凝固酶",
+            "D.组蛋白",
+            "E.酯酶"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 33
+    },
+    {
+        "question_text": "34.溶菌酶不能破坏革兰阴性菌的原因主要是",
+        "options": [
+            "A.肽聚糖外有外膜保护",
+            "C.肽聚糖为二维结构",
+            "B.肽聚糖无五肽桥",
+            "D.肽聚糖含量少",
+            "E.四肽侧链第三位为二氨基庚二酸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 34
+    },
+    {
+        "question_text": "35.目前尚无特异的防治内毒素致病的措施，其原因是内毒素",
+        "options": [
+            "A.作用细胞内",
+            "B.作用无组织特异性",
+            "C.引起化学中毒",
+            "D.一次产量大",
+            "E.抗原性弱,不能制成疫苗"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 35
+    },
+    {
+        "question_text": "36.构成细菌侵袭力的细菌表面结构不包括",
+        "options": [
+            "A.侵袭性酶",
+            "B.荚膜",
+            "C.菌毛",
+            "D.磷壁酸",
+            "E.Vi抗原"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 36
+    },
+    {
+        "question_text": "37.下列哪组细菌均不产生外毒素",
+        "options": [
+            "A.伤寒杆菌、痢疾杆菌",
+            "B.霍乱弧菌、结核分枝杆菌",
+            "C.炭疽杆菌、白喉棒状杆菌",
+            "D.白喉棒状杆菌、肉毒梭菌",
+            "E结核分枝杆菌、脑膜炎奈瑟菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 37
+    },
+    {
+        "question_text": "38.关于细菌内毒素的描述，下列哪项不正确",
+        "options": [
+            "A.其化学成分是LPS",
+            "B.主要由革兰阴性菌产生",
+            "C.可经旁路途径激活补体",
+            "D.对热不稳定",
+            "E.可使鲎血液变形细胞溶解物凝固"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 38
+    },
+    {
+        "question_text": "39.胞内寄生菌不包括",
+        "options": [
+            "A.立克次体",
+            "B.军团菌",
+            "C.结核分枝杆菌",
+            "D.痢疾杆菌",
+            "E.伤寒杆菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 39
+    },
+    {
+        "question_text": "40.不属于正常体液与组织中的抗菌物质是",
+        "options": [
+            "A.抗生素",
+            "B.溶菌酶",
+            "C.补体",
+            "D.乙型溶素",
+            "E.白细胞素"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 40
+    },
+    {
+        "question_text": "41.参与吞噬细胞依赖氧茶菌作用的物质是",
+        "options": [
+            "A.溶菌酶",
+            "B.脂肪酶",
+            "C.乳酸",
+            "D.蛋白酶",
+            "E.MPO"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 41
+    },
+    {
+        "question_text": "42.能直接识别和结合病原体的巨噬细胞受体是",
+        "options": [
+            "A.CD14",
+            "B.甘露糖受体",
+            "C.C3b受体",
+            "D.iC3b受体",
+            "E.LPS结合蛋白"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 42
+    },
+    {
+        "question_text": "43.参与胞外菌免疫应答的工细胞主要是",
+        "options": [
+            "A.Tho细胞",
+            "B.Th1细胞",
+            "C.Th2细胞",
+            "D.TC细胞",
+            "E.TS细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 43
+    },
+    {
+        "question_text": "44.构成细菌毒力的是",
+        "options": [
+            "A.细菌基本结构",
+            "B.细菌特殊结构",
+            "C.细菌分解代谢产物",
+            "D.侵袭力和毒素",
+            "E.细菌侵人的门户和定居的部位"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 44
+    },
+    {
+        "question_text": "45.发挥调理吞噬的抗体是",
+        "options": [
+            "A.IgG",
+            "B.IgM",
+            "C.IgA",
+            "D.IgD",
+            "E.IgE"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 45
+    },
+    {
+        "question_text": "46.下列哪种细菌在流行期常有健康带菌者形成",
+        "options": [
+            "A.鼠疫杆菌",
+            "B.绿脓杆菌",
+            "C.金黄色葡萄球菌",
+            "D.结核分枝杅菌",
+            "E.脑膜炎奈瑟菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 46
+    },
+    {
+        "question_text": "47.类毒素与外毒素的区别是",
+        "options": [
+            "A.有抗原性，也有毒性",
+            "B.有抗原性，但无毒性",
+            "C.无抗原性，,但有毒性",
+            "D.无抗原性，也无毒性",
+            "E.仅有半抗原性，但无毒性"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 47
+    },
+    {
+        "question_text": "48.引起菌群失调症的常见原因是",
+        "options": [
+            "A.正常菌群各菌种间的比例发生较大幅度变化",
+            "B.正常菌群的耐药性明显改变",
+            "C.滥用抗生素",
+            "D.正常菌群的增殖方式明显改变",
+            "E正常菌群的遗传特性明显改变"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "48",
+        "number": 48
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "question_text": "1.肠道致病菌和非致病菌在生化反应上的重要特点是",
+        "options": [
+            "A.致病菌和非致病茵都发酵乳糖",
+            "B.多数致病菌不发酵乳糖，非致病菌发酵乳糖",
+            "C.多数非致病菌不发酵乳糖，致病菌发酵乳糖",
+            "D.致病菌和非致病菌都不发酵乳糖",
+            "E.以上都不是"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 1
+    },
+    {
+        "question_text": "2.主要引起肠道外感染的肠道杆菌是",
+        "options": [
+            "A.肠产毒素性大肠埃希菌",
+            "B.普通大肠埃希菌",
+            "C.宋内志贺菌",
+            "D.伤寒沙门菌",
+            "E.鼠伤寒沙门菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 2
+    },
+    {
+        "question_text": "3.引起出血性结肠炎的细菌是",
+        "options": [
+            "A.伤寒沙门菌",
+            "B.金黄色葡萄球菌",
+            "C.霍乱弧菌",
+            "D.0157：H7大肠埃希菌",
+            "E.希氏沙门菌"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 3
+    },
+    {
+        "question_text": "4.可引起菌痢样症状的大肠埃希菌是",
+        "options": [
+            "A.肠产毒素性大肠埃希菌",
+            "B.肠侵袭性大肠埃希菌",
+            "C.肠致病性大肠埃希菌",
+            "D.肠集聚性大肠埃希菌",
+            "E肠出血性大肠埃希菌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 4
+    },
+    {
+        "question_text": "5.可引起霍乱样腹污的大肠埃希菌是",
+        "options": [
+            "A肠产毒素性大肠埃希菌",
+            "B.肠侵袭性大肠埃希菌",
+            "C.肠致病性大肠埃希菌",
+            "D.肠集聚性大肠埃希菌",
+            "E肠出血性大肠埃希菌"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 5
+    },
+    {
+        "question_text": "6.下列关于志贺菌的叙述，错误的是",
+        "options": [
+            "A.无荚膜",
+            "B.不形成芽胞",
+            "C.有鞭毛",
+            "D.易出现耐药株",
+            "E.革兰染色阴性"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 6
+    },
+    {
+        "question_text": "7.志贺菌在我国常见的流行型别有",
+        "options": [
+            "A.痢疾志贺菌和福氏志贺菌",
+            "B.福氏志贺菌和宋内志贺菌",
+            "C.鲍氏志贺菌和痢疾志贺菌",
+            "D.痢疾志贺菌",
+            "E.四种型别都有"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 7
+    },
+    {
+        "question_text": "8.关于痢疾志贺菌,说法正确的是",
+        "options": [
+            "A.传染源为病人和带菌者",
+            "B.易人血引起败血症",
+            "C.志贺菌感染后能产生持久的免疫",
+            "D.福氏志贺菌因能产生外毒素，故引起的痢疾比较严重",
+            "E.以上都不对"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 8
+    },
+    {
+        "question_text": "9.对痢疾病人做微生物学检查，错误的是",
+        "options": [
+            "A分离培养细菌进行生化鉴定",
+            "B.取黏液性或脓血便涂片，革兰染色镜检",
+            "C.取标本接种于肠道选择培养基培养",
+            "D.最后进行血清学鉴定",
+            "E所取标本及时送检"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 9
+    },
+    {
+        "question_text": "10.急性中毒性痢疾的主要临床表现有",
+        "options": [
+            "A.全身中毒症状",
+            "B.腹痛、腹泻",
+            "C.剧烈呕吐",
+            "D.脓血黏液便",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 10
+    },
+    {
+        "question_text": "11.志贺菌引起中毒性痢疾的主要致病物质是",
+        "options": [
+            "A.痉挛毒素",
+            "B.肠毒素",
+            "C.溶血毒素",
+            "D.内毒素",
+            "E.志贺毒素"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 11
+    },
+    {
+        "question_text": "12.欲对疑似肠热症患者进行沙门菌的分离与鉴定,病程第一周应采取的标本是",
+        "options": [
+            "A.血液",
+            "B.粪便",
+            "C.尿液",
+            "D.胆汁",
+            "E.痰液"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 12
+    },
+    {
+        "question_text": "13.可铺助诊断肠热症的实验是",
+        "options": [
+            "A.肥达试验",
+            "B.汹涌发酵试验",
+            "C.抗溶血素“O”试验",
+            "D.外斐反应",
+            "E.玻片凝集"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 13
+    },
+    {
+        "question_text": "14.肥达试验的原理是",
+        "options": [
+            "A.协同凝集",
+            "B.非特异性凝集",
+            "C.间接凝集",
+            "D.定量凝集",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 14
+    },
+    {
+        "question_text": "15.伤寒病后带菌者的细菌主要存留部位通常是",
+        "options": [
+            "A.肠系膜淋巴结",
+            "B肝",
+            "C.胆囊",
+            "D.喉部",
+            "E.结肠壁"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 15
+    },
+    {
+        "question_text": "16.伤寒沙门菌Vi抗体的检查可用于",
+        "options": [
+            "A.早期诊断",
+            "B.观察超敏反应",
+            "C.调查带菌者",
+            "D.检查免疫力",
+            "E.以上都不是"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 16
+    },
+    {
+        "question_text": "17.可从尿中检测出病原体的疾病是",
+        "options": [
+            "A.痢疾",
+            "B.霍乱",
+            "C.伤寒",
+            "D.风湿热",
+            "E.以上都不行"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 17
+    },
+    {
+        "question_text": "18.机体抗伤寒沙门菌感染主要依靠",
+        "options": [
+            "A.天然免疫",
+            "B.补体",
+            "C.体液免疫",
+            "D.细胞免疫",
+            "E.吞噬细胞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 18
+    },
+    {
+        "question_text": "19.疑似志贺菌感染的粪便标本在选择培养时宜选用",
+        "options": [
+            "A.SS平板",
+            "B.普通平板",
+            "C.血平板",
+            "D.罗氏培养基",
+            "E.巧克力色平板"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 19
+    },
+    {
+        "question_text": "20.从粪便中分离的肠道杆菌，如果不分解乳糖，分解葡萄糖产酸产气,产生硫化氢,该菌最可能是",
+        "options": [
+            "A.痢疾志贺菌",
+            "B.大肠埃希菌",
+            "C伤寒沙门菌",
+            "D.肖氏沙门菌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 20
+    },
+    {
+        "question_text": "21.感染过程中一般不通过血流播散的细菌是",
+        "options": [
+            "A.痢疾志贺菌",
+            "B.大肠埃希菌",
+            "C.伤寒沙门菌",
+            "D.肖氏沙门菌",
+            "E.以上都不是"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "21",
+        "number": 21
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "question_text": "1.与慢性胃炎和消化性溃疡密切相关的病原菌为",
+        "options": [
+            "A.空肠弯曲菌",
+            "B.变形杆菌",
+            "C.大肠埃希菌",
+            "D.鼠伤寒沙门菌",
+            "E.幽门螺杆菌"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 1
+    },
+    {
+        "question_text": "2.可作为快速鉴定幽门螺杆菌的试验是",
+        "options": [
+            "A.尿素酶试验",
+            "B.吲哚实验",
+            "C.乳糖发酵试验",
+            "D.肥达试验",
+            "E.菊糖发酵试验"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 2
+    },
+    {
+        "question_text": "3.不属于幽门螺杆菌的致病物质的是",
+        "options": [
+            "A.尿素酶",
+            "B.鞭毛",
+            "C.VacA",
+            "D.CagA",
+            "E.荚膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 3
+    },
+    {
+        "question_text": "4.关于幽门螺杆菌培养的描述错误的是",
+        "options": [
+            "A.微需氧",
+            "B.生长时需二氧化碳",
+            "C.最适生长阳H为6~8",
+            "D.营养要求简单，可在普通培养基生长",
+            "E.37摄氏度培养了3～5天后可见针尖状无色透明菌落"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 4
+    },
+    {
+        "question_text": "5.幽门螺杆菌的主要传播途径是",
+        "options": [
+            "A.飞沫传播",
+            "B.粪口传播",
+            "C.性接触传播",
+            "D.虫媒传播",
+            "E血液传播"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 5
+    },
+    {
+        "question_text": "6.关于幽门螺杆菌的描述正确的是",
+        "options": [
+            "A.革兰染色阳性",
+            "B.有单鞭毛",
+            "C.菌体螺旋形弯曲",
+            "D.有芽胞",
+            "E.有荚膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 6
+    },
+    {
+        "question_text": "7.幽门螺杆菌在下列哪种气体环境中生长最佳",
+        "options": [
+            "A.5%N2，10%CO2和85%O2",
+            "B.70%N2,15%CO2和15%O2",
+            "C.85%N2，5%CO2和10%O2",
+            "D.10%N2，5%CO2和85%O2",
+            "E.85%N2；10%CO2和5%O2"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 7
+    },
+    {
+        "question_text": "8.幽门螺杆菌感染早期血清中可测得",
+        "options": [
+            "A.IgG",
+            "B.IgM",
+            "C.IgA",
+            "D.IgD",
+            "E.IgE"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "8",
+        "number": 8
+    }
+]

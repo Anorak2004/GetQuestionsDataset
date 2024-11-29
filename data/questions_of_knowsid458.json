@@ -1,0 +1,212 @@
+[
+    {
+        "question_text": "1.疱疹病毒可引起潜伏感染，其特征之一是",
+        "options": [
+            "A.原发感染后始终能检测到病毒",
+            "B.在原发感染及复发时均可检测到病毒，但在原发感染与复发的期间则检測不到病毒",
+            "C.感染后在出现临床症状时，检测不到病毒",
+            "D.原发感染时可检测到病毒，但复发时检測不到病毒",
+            "E.复发时能检测到病毒，但原发感染时检测不到病毒"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 1
+    },
+    {
+        "question_text": "2.某中年人出现了带状疱疹，提示其在儿童期可能患过",
+        "options": [
+            "A.水痘",
+            "B.玫瑰丘疹",
+            "C.麻疹",
+            "D.皮炎",
+            "E.风珍"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 2
+    },
+    {
+        "question_text": "3.HSV-I和HSV-II常见的潜伏部位，分别为",
+        "options": [
+            "A.脑神经的感觉神经节,运动神经",
+            "B.三叉神经节,脊髓后根神经节",
+            "C.三叉神经节,脑神经的感觉神经节",
+            "D.脑神经的感觉神经节，脊髓后根神经节",
+            "E.骶神经节,颈上神经节"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 3
+    },
+    {
+        "question_text": "4.VZV常见的潜伏部位为",
+        "options": [
+            "A.运动神经",
+            "B.三叉神经节",
+            "C.脊髓后根神经节",
+            "D.外周神经",
+            "E.骶神经节"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 4
+    },
+    {
+        "question_text": "5.孕妇感染人巨细胞病毒后，常引起的疾病是",
+        "options": [
+            "A.唇疱疹",
+            "B.带状疱疹",
+            "C.先天性畸形",
+            "D.病毒性心肌炎",
+            "E.传染性单核细胞增多症"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 5
+    },
+    {
+        "question_text": "6.EB病毒感染后主要潜伏于",
+        "options": [
+            "A.T细胞",
+            "B.B细胞",
+            "CCD8+细胞",
+            "D.巨噬细胞",
+            "E.树突状细胞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 6
+    },
+    {
+        "question_text": "7.青春期初次感染大量EBV后,易发生的疾病时",
+        "options": [
+            "A.唇疱疹",
+            "B.带状疱疹",
+            "C.病毒性脑炎",
+            "D.传染性单核细胞增多症",
+            "E.病毒性心肌炎"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 7
+    },
+    {
+        "question_text": "8.可引起婴儿玫瑰疹的疱疹病毒是",
+        "options": [
+            "A.HHV-l",
+            "B.HHV-2",
+            "C.HHV-3",
+            "D.HHV-6",
+            "E.HHV-4"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 8
+    },
+    {
+        "question_text": "9.刚出生的新生儿血清中检测出;抗CMV-IgM阳性，提示",
+        "options": [
+            "A.该新生儿从母体获得该抗体",
+            "B.该新生儿被动获得抗CMV免疫力",
+            "C.该新生儿先天感染了CMV",
+            "D.新生儿在出生过程中自母体感染了CMV",
+            "E.接生的医护人员将CMV传给了新生儿"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 9
+    },
+    {
+        "question_text": "10.可导致胎儿畸形的病毒有",
+        "options": [
+            "A.风疹病毒、CMV",
+            "B.VZV、腮腺炎病毒",
+            "C.乙型脑炎病毒、麻疹病毒",
+            "D.HBV、VzV",
+            "E.VZV、腮腺炎病毒"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 10
+    },
+    {
+        "question_text": "11.EBV感染可引起的相关疾病中不包括",
+        "options": [
+            "A.鼻咽癌",
+            "B.传染性单核细胞增多症",
+            "C.非洲儿童恶性淋巴瘤",
+            "D.B细胞淋巴瘤",
+            "E.皮肤疱疹"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 11
+    },
+    {
+        "question_text": "12.能引起卡波西肉瘤的疱疹病毒是",
+        "options": [
+            "A.HHV-5",
+            "B.HHV-2",
+            "C.HHv-6",
+            "D.HHV-8",
+            "EHHV.7"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 12
+    },
+    {
+        "question_text": "13.控制疱瘆病毒感染的关键免疫因素是",
+        "options": [
+            "A.中和抗体",
+            "B.体液免疫",
+            "C.特异性工细胞免疫",
+            "D.NK细胞",
+            "E.树突状细胞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 13
+    },
+    {
+        "question_text": "14.可通过性接触传播的疱珍病毒是",
+        "options": [
+            "A.HSV-IIHHV-8",
+            "B.HSV-I.HHV-6",
+            "C.VZV.HHV-8",
+            "D.HSV-L.VZV",
+            "E.HHV-6HHV-7"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 14
+    },
+    {
+        "question_text": "15.感染后，可潜伏在神经元中的疱疹病毒有",
+        "options": [
+            "A.HHV-1.CMVEBV",
+            "B.HHV-1HHV-2HHV-3",
+            "C.HHV-1CMVEBV",
+            "D.HHV-1HHV-6HHV-7",
+            "E.HHV-2HHV-6HHV-7"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "15",
+        "number": 15
+    }
+]

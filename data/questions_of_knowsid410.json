@@ -1,0 +1,6694 @@
+[
+    {
+        "question_text": "1690、男性生殖腺是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精囊腺",
+            "D.前列腺",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 1
+    },
+    {
+        "question_text": "1691、不属于输精管道的男性生殖器官为  (      )",
+        "options": [
+            "A.附睾",
+            "B.精囊",
+            "C.输精管",
+            "D.射精管",
+            "E.尿道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 2
+    },
+    {
+        "question_text": "1692、暂时储存精子的器官是    (       )",
+        "options": [
+            "A.精囊",
+            "B.睾丸",
+            "C.前列腺",
+            "D.附睾",
+            "E.输精管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 3
+    },
+    {
+        "question_text": "1693、精子产生的部位在（  ）",
+        "options": [
+            "A.精曲小管",
+            "B.精直小管",
+            "C.睾丸小隔",
+            "D.睾丸网",
+            "E.睾丸间质细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 4
+    },
+    {
+        "question_text": "1694、附睾（  ）",
+        "options": [
+            "A.紧贴睾丸的上端和后缘",
+            "B.分泌液为精液的主要组成成分",
+            "C.末端延续为睾丸输出小管",
+            "D.上端狭细称附睾尾",
+            "E.为男性生殖器的附属腺体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 5
+    },
+    {
+        "question_text": "1695、精索（  ）",
+        "options": [
+            "A.由输精管和睾丸动脉组成",
+            "B.位于腹股沟管皮下环至睾丸上端之间",
+            "C.质地坚硬",
+            "D.外有腹膜包被",
+            "E.男性节育手术多在睾丸上方结扎其中的输精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 6
+    },
+    {
+        "question_text": "1696、输精管结扎的部位，通常位于（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.精索部",
+            "C.腹股沟管部",
+            "D.盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 7
+    },
+    {
+        "question_text": "1697、包含在精索中的结构是（  ）",
+        "options": [
+            "A.附睾管",
+            "B.射精管",
+            "C.输精管",
+            "D.输尿管",
+            "E.男性尿道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 8
+    },
+    {
+        "question_text": "1698、除输精管精索部外，输精管行于精索中的部分还包括（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.附睾部",
+            "C.盆部",
+            "D.腹股沟部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 9
+    },
+    {
+        "question_text": "1699、对射精管的描述，正确的是（  ）",
+        "options": [
+            "A.输精管末端膨大形成射精管",
+            "B.向前下穿前列腺实质",
+            "C.开口于尿道球部",
+            "D.穿尿生殖膈",
+            "E.长约10cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 10
+    },
+    {
+        "question_text": "1700、组成射精管的是（  ）",
+        "options": [
+            "A.输精管末端和睾丸输出小管",
+            "B.输精管末端和前列腺排泄管",
+            "C.输精管末端和附睾管",
+            "D.输精管末端和精囊腺排泄管",
+            "E.输精管末端和尿道球腺排泄管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 11
+    },
+    {
+        "question_text": "1701、射精管开口于（  ）",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.尿道前列腺部",
+            "D.尿道海绵体部",
+            "E.尿道起始部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 12
+    },
+    {
+        "question_text": "1702、射精管开口于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道膜部",
+            "D.尿道海绵体部",
+            "E.尿道前列腺部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 13
+    },
+    {
+        "question_text": "1703、精囊腺（ ）",
+        "options": [
+            "A.位于前列腺后部",
+            "B.直肠指检时可触及",
+            "C.可贮存精子",
+            "D.外侧有输精管壶腹",
+            "E.开口于尿道球部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 14
+    },
+    {
+        "question_text": "1704、对精囊的描述，正确的是（  ）",
+        "options": [
+            "A.精囊位于膀胱的前方",
+            "B.精囊为单一的囊状器官",
+            "C.由附睾管构成",
+            "D.可储存精子",
+            "E.排泄管与输精管末端合成射精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 15
+    },
+    {
+        "question_text": "1705、射精管    (     )",
+        "options": [
+            "A.由输精管末端单独形成",
+            "B.由精囊的排泄管单独形成",
+            "C.由输精管末端与精囊的排泄管汇合而成",
+            "D.由输精管末端与尿道汇合而成",
+            "E.由精囊的排泄管与前列腺的排泄管汇合而成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 16
+    },
+    {
+        "question_text": "1706、有关精囊的描述错误的为    (    )",
+        "options": [
+            "A.是男性生殖系的附属腺体",
+            "B.储存精子",
+            "C.位于膀胱底的后方",
+            "D.分泌物参与精液组成",
+            "E.其排泄管与输精管末端汇合而成射精管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 17
+    },
+    {
+        "question_text": "1707、前列腺位于   (     )",
+        "options": [
+            "A.直肠后方",
+            "B.膀胱底后方",
+            "C.膀胱颈下方",
+            "D.尿生殖膈下方",
+            "E.盆膈上方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 18
+    },
+    {
+        "question_text": "1708、对前列腺的描述，正确的是（  ）",
+        "options": [
+            "A.是成对的中空性器官",
+            "B.由平滑肌构成",
+            "C.尖朝上，底朝下",
+            "D.体后面有纵行的前列腺沟",
+            "E.位于尿生殖膈下方"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 19
+    },
+    {
+        "question_text": "1709、前列腺（  ）",
+        "options": [
+            "A.下端宽大，称前列腺底",
+            "B.位于盆膈之上",
+            "C.内有尿道膜部经过",
+            "D.可分为前、中、后三叶",
+            "E.中叶位于尿道前列腺部与射精管之间"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 20
+    },
+    {
+        "question_text": "1710、对前列腺位置的描述，正确的是（  ）",
+        "options": [
+            "A.位于耻骨联合与膀胱之间",
+            "B.位于膀胱与直肠之间",
+            "C.位于膀胱与尿生殖膈之间",
+            "D.位于直肠与骶骨之间",
+            "E.位于尿生殖膈内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 21
+    },
+    {
+        "question_text": "1711、前列腺后方的结构是（  ）",
+        "options": [
+            "A.膀胱",
+            "B.直肠",
+            "C.精囊",
+            "D.输精管壶腹",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 22
+    },
+    {
+        "question_text": "1712、引起排尿困难的原因是前列腺（  ）",
+        "options": [
+            "A.常为前叶肥大",
+            "B.常为后叶肥大",
+            "C.常为侧叶肥大",
+            "D.常为中叶和后叶肥大",
+            "E.常为侧叶和中叶肥大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 23
+    },
+    {
+        "question_text": "1713、尿道球腺开口于（  ）",
+        "options": [
+            "A.膀胱",
+            "B.尿道前列腺部",
+            "C.尿道球部",
+            "D.尿道膜部",
+            "E.舟状窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 24
+    },
+    {
+        "question_text": "1714、关于男性尿道的描述，哪项错误（  ）",
+        "options": [
+            "A.起于膀胱的输尿管口",
+            "B.有3个狭窄",
+            "C.有3个扩大",
+            "D.有2个弯曲",
+            "E.兼有排尿和排精功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 25
+    },
+    {
+        "question_text": "1715、男性前尿道是指（  ）",
+        "options": [
+            "A.尿道前列腺部",
+            "B.尿道膜部",
+            "C.尿道海绵体部",
+            "D.尿道球部",
+            "E.尿道膜部和尿道球部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 26
+    },
+    {
+        "question_text": "1716、男性尿道（  ）",
+        "options": [
+            "A.兼有排尿和排精功能",
+            "B.分为前列腺部、膜部、球部和海绵体部4个部分",
+            "C.前列腺部位于前列腺中叶后方",
+            "D.球部为男性尿道最狭窄处",
+            "E.前列腺部为其最短的一段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 27
+    },
+    {
+        "question_text": "1717、阴茎    (     )",
+        "options": [
+            "A.为男性内生殖器",
+            "B.分为头、颈、体三部",
+            "C.由两条尿道海绵体和一条阴茎海绵体组成",
+            "D.阴茎头的尖端有尿道外口开口",
+            "E.全长无弯曲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 28
+    },
+    {
+        "question_text": "1718、有关男性尿道描述错误的是    (     )",
+        "options": [
+            "A.只有排尿功能",
+            "B.起自尿道内口",
+            "C.止于尿道外口",
+            "D.有两个弯曲",
+            "E.有三个狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 29
+    },
+    {
+        "question_text": "1719、有关男性尿道描述错误的是    (     )",
+        "options": [
+            "A.耻骨前弯可变直",
+            "B.耻骨下弯可变直",
+            "C.尿道外口是其狭窄部位之一",
+            "D.尿道内口是其狭窄部位之一",
+            "E.尿道膜部是其狭窄部位之一"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 30
+    },
+    {
+        "question_text": "1720、尿道前列腺部    (     )",
+        "options": [
+            "A.是狭窄部位",
+            "B.有括约肌环绕",
+            "C.延续为尿道海绵体部",
+            "D.只有一对射精管开口于其后壁",
+            "E.贯穿前列腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 31
+    },
+    {
+        "question_text": "1721、精阜位于（  ）",
+        "options": [
+            "A.尿道前列腺部",
+            "B.尿道膜部",
+            "C.尿道球部",
+            "D.尿道海绵体部",
+            "E.尿道内口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 32
+    },
+    {
+        "question_text": "1722、男性尿道最狭窄部位在（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道外口",
+            "D.尿道膜部",
+            "E.前列腺部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 33
+    },
+    {
+        "question_text": "1723、尿道外括约肌位于（  ）",
+        "options": [
+            "A.尿道前列列腺部周围",
+            "B.尿道膜部周围",
+            "C.尿道球部周围",
+            "D.尿道海绵体周围",
+            "E.舟状窝周围"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 34
+    },
+    {
+        "question_text": "1724、男性尿道形态可发生变化的是（  ）",
+        "options": [
+            "A.尿道球",
+            "B.尿道膜部",
+            "C.尿道前列腺部",
+            "D.耻骨前弯",
+            "E.耻骨下弯"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 35
+    },
+    {
+        "question_text": "1725、穿过尿生殖膈的是（  ）",
+        "options": [
+            "A.尿道海绵体部",
+            "B.尿道膜部",
+            "C.尿道球部",
+            "D.尿道前列腺部",
+            "E.尿道膜部和前列腺部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 36
+    },
+    {
+        "question_text": "1726、阴茎（  ）",
+        "options": [
+            "A.有不成对的阴茎海绵体和成对的尿道海绵体",
+            "B.阴茎海绵体前端形成阴茎头",
+            "C.阴茎脚附着于两侧的耻骨下支和坐骨支",
+            "D.尿道海绵体位于阴茎背侧",
+            "E.尿道海绵体前端形成尿道球"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 37
+    },
+    {
+        "question_text": "1727、尿道球的形成是（  ）",
+        "options": [
+            "A.阴茎海绵体前端膨大形成",
+            "B.阴茎海绵体后端膨大形成",
+            "C.尿道海绵体前端膨大形成",
+            "D.尿道海绵体后端膨大形成",
+            "E.阴茎海绵体中部膨大形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 38
+    },
+    {
+        "question_text": "1728、包皮系带（  ）",
+        "options": [
+            "A.位于阴茎根背侧",
+            "B.位于阴茎体背侧",
+            "C.位于阴茎头背侧",
+            "D.包皮环切时应一起切除",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 39
+    },
+    {
+        "question_text": "1729、男性生殖腺是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 40
+    },
+    {
+        "question_text": "1730、产生精子的器官是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 41
+    },
+    {
+        "question_text": "1731、贮存精子的器官是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 42
+    },
+    {
+        "question_text": "1732、输精管参与构成的结构是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 43
+    },
+    {
+        "question_text": "1733、输精管最长的一段是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 44
+    },
+    {
+        "question_text": "1734、输精管最短的一段是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 45
+    },
+    {
+        "question_text": "1735、输精管位于膀胱底后面的部分是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 46
+    },
+    {
+        "question_text": "1736、结扎输精管的良好部位是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 47
+    },
+    {
+        "question_text": "1737、前列腺排泄管开口于（  ）",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 48
+    },
+    {
+        "question_text": "1738、射精管开口于    (     )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 49
+    },
+    {
+        "question_text": "1739、尿道球腺排泄管开口于   (    )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 50
+    },
+    {
+        "question_text": "1740、男性尿道第二个狭窄在   (     )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 51
+    },
+    {
+        "question_text": "1741、精索外筋膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 52
+    },
+    {
+        "question_text": "1742、提睾肌  (   )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 53
+    },
+    {
+        "question_text": "1743、精索内筋膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 54
+    },
+    {
+        "question_text": "1744、睾丸鞘膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 55
+    },
+    {
+        "question_text": "1745、尿道球腺开口于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 56
+    },
+    {
+        "question_text": "1746、射精管开口于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 57
+    },
+    {
+        "question_text": "1747、男尿道位置最固定的一段是（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 58
+    },
+    {
+        "question_text": "1748、男尿道的第二个生理性狭窄位于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 59
+    },
+    {
+        "question_text": "1749、排泄管与输精管合并的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 60
+    },
+    {
+        "question_text": "1750、有后尿道穿行其中的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 61
+    },
+    {
+        "question_text": "1751、排泄开口于前尿道的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 62
+    },
+    {
+        "question_text": "1752、排泄管最终不是开口于尿道的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 63
+    },
+    {
+        "question_text": "1778、女性生殖腺是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.卵巢",
+            "D.前列腺",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 64
+    },
+    {
+        "question_text": "1779、产生卵子和分泌女性激素的器官是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.卵巢",
+            "D.阴道",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 65
+    },
+    {
+        "question_text": "1780、关于女性生殖器的叙述，正确的是 （  ）",
+        "options": [
+            "A.卵子在子宫内受精",
+            "B.前庭球是女性生殖器的附属腺体",
+            "C.女性生殖器的输送管道就是指输卵管",
+            "D.女阴就是指阴道前庭",
+            "E.前庭大腺为附属腺体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 66
+    },
+    {
+        "question_text": "1781、不属于外生殖器的结构是 （ ）",
+        "options": [
+            "A.阴阜",
+            "B.小阴唇",
+            "C.阴蒂",
+            "D.前庭球",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 67
+    },
+    {
+        "question_text": "1782、以下哪些不属于女性内生殖器",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.前列腺",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 68
+    },
+    {
+        "question_text": "1783、女性正常孕育胎儿的器官是 （  ）",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.阴道",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 69
+    },
+    {
+        "question_text": "1784、属于外生殖器的结构是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.小阴唇",
+            "D.卵巢",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 70
+    },
+    {
+        "question_text": "1785、属于外生殖器的结构是 （  ）",
+        "options": [
+            "A.大阴唇",
+            "B.输尿管",
+            "C.输精管",
+            "D.输卵管",
+            "E.睾丸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 71
+    },
+    {
+        "question_text": "1786、卵巢 （  ）",
+        "options": [
+            "A.位于髂内动、静脉之间所夹的卵巢窝内",
+            "B.借子宫阔韧带悬挂于骨盆侧壁上",
+            "C.前缘有卵巢门",
+            "D.被子宫阔韧带的前层所包裹",
+            "E.以破溃的方式将卵细胞直接排入输卵管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 72
+    },
+    {
+        "question_text": "1787、卵巢 （  ）",
+        "options": [
+            "A.随年龄增长而增大",
+            "B.上端有卵巢固有韧带与子宫相连",
+            "C.与输卵管不直接通连",
+            "D.位于子宫后方",
+            "E.下端称输卵管端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 73
+    },
+    {
+        "question_text": "1788、卵巢 （  ）",
+        "options": [
+            "A.上有卵巢固有韧带连于子宫",
+            "B.前缘借卵巢系膜连于子宫阔韧带",
+            "C.下端又称输卵管端",
+            "D.卵巢位置固定主要靠卵巢窝",
+            "E.卵巢悬韧带又称卵巢子宫索"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 74
+    },
+    {
+        "question_text": "1789、对卵巢的描述，错误的是 （  ）",
+        "options": [
+            "A.卵巢位于卵巢窝内",
+            "B.属于腹膜内位器官",
+            "C.后缘有系膜连于子宫阔韧带内",
+            "D.上端连卵巢悬韧带",
+            "E.下端连卵巢固有韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 75
+    },
+    {
+        "question_text": "1790、对卵巢的描述，错误的是 （  ）",
+        "options": [
+            "A.是女性生殖腺，又有内分泌功能",
+            "B.卵巢固有韧带内含有卵巢动、静脉",
+            "C.被包于子宫阔韧带内",
+            "D.呈内、外侧扁的卵圆形",
+            "E.后缘游离"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 76
+    },
+    {
+        "question_text": "1791、卵巢位于 （  ）",
+        "options": [
+            "A.髂总动脉末端的前方",
+            "B.髂外动脉与输尿管之间",
+            "C.髂内、外动脉起始处所形成的夹角内",
+            "D.髂窝内，髂外动脉起始段的外侧",
+            "E.髂窝内，髂总动脉起始的内侧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 77
+    },
+    {
+        "question_text": "1792、卵巢位于（  ）",
+        "options": [
+            "A.盆腔内，膀胱与直肠之间",
+            "B.髂窝内",
+            "C.左右髂总动脉之间",
+            "D.髂内、外动脉起始处的夹角内",
+            "E.子宫圆韧带内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 78
+    },
+    {
+        "question_text": "1793、卵巢窝位于 （  ）",
+        "options": [
+            "A.髂外动脉和髂内动脉的夹角处",
+            "B.髂外动脉和髂总动脉的夹角处",
+            "C.髂内动脉和髂总动脉的夹角处",
+            "D.髂外动脉的分支之间",
+            "E.髂内动脉的分支之间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 79
+    },
+    {
+        "question_text": "1794、卵巢悬韧带 （  ）",
+        "options": [
+            "A.由纤维结缔组织构成，较坚实",
+            "B.又称卵巢固有韧带",
+            "C.起自小骨盆侧缘",
+            "D.连于卵巢后缘",
+            "E.连于子宫角"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 80
+    },
+    {
+        "question_text": "1795、对卵巢固有韧带的描述正确的是（  ）",
+        "options": [
+            "A.由腹膜皱襞构成",
+            "B.对子宫的位置起固定作用",
+            "C.包绕输卵管",
+            "D.自卵巢下端连于输卵管与子宫结合处的后下方",
+            "E.又称卵巢悬韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 81
+    },
+    {
+        "question_text": "1796、卵巢与子宫角相连的韧带是 （  ）",
+        "options": [
+            "A.卵巢系膜",
+            "B.卵巢固有韧带",
+            "C.卵巢悬韧带",
+            "D.子宫阔韧带",
+            "E.子宫圆韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 82
+    },
+    {
+        "question_text": "1797、对输卵管的描述错误的是 （  ）",
+        "options": [
+            "A.位于子宫阔韧带上缘",
+            "B.输卵管腹腔口开口于腹膜腔",
+            "C.输卵管峡短直而狭窄，壁厚、血管少",
+            "D.壶腹部粗且弯曲，血管丰富",
+            "E.子宫部是受精部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 83
+    },
+    {
+        "question_text": "1798、对输卵管的叙述正确的是 （  ）",
+        "options": [
+            "A.位于子宫系膜内",
+            "B.其内侧端有子宫口，外侧端有卵巢口",
+            "C.输卵管峡位于其壶腹部的外侧",
+            "D.输卵管壶腹边缘有输卵管伞",
+            "E.卵巢伞是输卵管伞中一个较大的突起"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 84
+    },
+    {
+        "question_text": "1799、对输卵管的描述正确的是 （  ）",
+        "options": [
+            "A.子宫部最细，是结扎部位",
+            "B.输卵管峡部是穿子宫壁的部位",
+            "C.输卵管漏斗最长",
+            "D.漏斗部开口于子宫腔",
+            "E.壶腹部是受精部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 85
+    },
+    {
+        "question_text": "1800、输卵管的分部不包括 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.输卵管伞",
+            "C.峡部",
+            "D.壶腹部",
+            "E.漏斗部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 86
+    },
+    {
+        "question_text": "1801、手术中辨认输卵管的标志是 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 87
+    },
+    {
+        "question_text": "1802、手术时识别输卵管的标志是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.子宫阔韧带",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 88
+    },
+    {
+        "question_text": "1803、输卵管结扎通常位于 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.输卵管伞",
+            "E.漏斗部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 89
+    },
+    {
+        "question_text": "1804、最常见的受精部位在 （  ）",
+        "options": [
+            "A.卵巢表面",
+            "B.输卵管伞",
+            "C.输卵管壶腹部",
+            "D.输卵管峡部",
+            "E.输卵管漏斗部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 90
+    },
+    {
+        "question_text": "1805、输卵管最细的部位在 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管腹腔口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 91
+    },
+    {
+        "question_text": "1806、输卵管最靠内侧的是 （  ）",
+        "options": [
+            "A.峡部",
+            "B.漏斗部",
+            "C.壶腹部",
+            "D.子宫部",
+            "E.伞部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 92
+    },
+    {
+        "question_text": "1807、子宫颈可分为 （  ）",
+        "options": [
+            "A.阴道部和阴道上部",
+            "B.阴道部和阴道下部",
+            "C.阴道部",
+            "D.阴道上部",
+            "E.阴道上部和阴道下部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 93
+    },
+    {
+        "question_text": "1808、输卵管由内侧向外侧依次分为 （  ）",
+        "options": [
+            "A.峡部、子宫部、壶腹部、漏斗部",
+            "B.子宫部、峡部、壶腹部、漏斗部",
+            "C.子宫部、壶腹部、峡部、漏斗部",
+            "D.子宫部、峡部、漏斗部、壶腹部",
+            "E.壶腹部、漏斗部、子宫部、峡部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 94
+    },
+    {
+        "question_text": "1809、非妊娠子宫是 （  ）",
+        "options": [
+            "A.壁厚腔小的实质性器官",
+            "B.壁厚腔小的肌性器官",
+            "C.壁厚腔大的膜性器官",
+            "D.壁薄腔大的肌性器官",
+            "E.壁薄腔小的肌性器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 95
+    },
+    {
+        "question_text": "1810、对子宫形态的描述，错误的是 （  ）",
+        "options": [
+            "A.子宫分底、体、颈三部分",
+            "B.子宫与输卵管相接处称子宫角",
+            "C.子宫峡在妊娠末期可延长至10cm左右",
+            "D.子宫腔与子宫颈管不相通",
+            "E.子宫颈管下口称子宫口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 96
+    },
+    {
+        "question_text": "1811、对子宫形态的描述，正确的是 （  ）",
+        "options": [
+            "A.子宫分头、体、颈三部分",
+            "B.子宫与阴道相通，不与输卵管相通",
+            "C.子宫颈全部被阴道包绕",
+            "D.子宫颈管下口称子宫口",
+            "E.非娠妊期子宫峡长约5cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 97
+    },
+    {
+        "question_text": "1812、关于子宫的叙述，错误的是 （  ）",
+        "options": [
+            "A.三角形的子宫腔的基底两侧通输卵管；尖向下直接通阴道",
+            "B.未娠妊时，子宫底高度在小骨盆入口平面以下",
+            "C.子宫前倾位是指子宫的长轴与阴道的长轴形成一个向前开放的钝角",
+            "D.子宫的前屈位是指子宫体与子宫颈之间的向前开放的钝角",
+            "E.子宫口通阴道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 98
+    },
+    {
+        "question_text": "1813、有关子宫的描述，正确的是 （  ）",
+        "options": [
+            "A.子宫位于盆腔中央、阴道后方",
+            "B.可分为子宫底、体、颈、峡四部分",
+            "C.子宫颈位于阴道上方",
+            "D.内腔可分为子宫腔和子宫颈管两部分",
+            "E.子宫口为子宫颈管的上口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 99
+    },
+    {
+        "question_text": "1814、子宫 （  ）",
+        "options": [
+            "A.位于耻骨联合与膀胱之间",
+            "B.子宫下端称子宫底",
+            "C.子宫口为子宫颈管的上口",
+            "D.子宫的内腔称子宫腔",
+            "E.成年未孕子宫的正常姿态为前倾前屈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 100
+    },
+    {
+        "question_text": "1815、子宫 （  ）",
+        "options": [
+            "A.属腹膜内位器官",
+            "B.子宫体与阴道间呈前屈位",
+            "C.子宫体与子宫颈之间呈前倾位",
+            "D.子宫口通阴道",
+            "E.子宫的内腔称子宫腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 101
+    },
+    {
+        "question_text": "1816、子宫后方相邻的结构是 （  ）",
+        "options": [
+            "A.膀胱",
+            "B.直肠",
+            "C.阴道",
+            "D.输卵管",
+            "E.卵巢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 102
+    },
+    {
+        "question_text": "1817、对子宫位置的描述，正确的是 （  ）",
+        "options": [
+            "A.在耻骨联合与直肠之间",
+            "B.在耻骨联合与膀胱之间",
+            "C.在膀胱与直肠之间",
+            "D.呈后倾后屈位",
+            "E.末妊娠时，子宫底在小骨盆入口平面以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 103
+    },
+    {
+        "question_text": "1818、对成人未孕子宫位置的描述，错误的是 （  ）",
+        "options": [
+            "A.位于盆腔中央",
+            "B.膀胱与直肠之间",
+            "C.两侧有输卵管和卵巢",
+            "D.呈前倾前屈位",
+            "E.子宫底在小骨盆上口平面以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 104
+    },
+    {
+        "question_text": "1819、子宫峡位于 （  ）",
+        "options": [
+            "A.子宫与输卵管之间",
+            "B.子宫体与子宫颈之间",
+            "C.子宫颈阴道上部与子宫颈阴道部之间",
+            "D.子宫颈与阴道之间",
+            "E.子宫体与子宫颈阴道部之间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 105
+    },
+    {
+        "question_text": "1820、产科常经子宫的何部行剖腹取胎术 （  ）",
+        "options": [
+            "A.子宫体",
+            "B.子宫颈阴道上部",
+            "C.子宫峡",
+            "D.子宫底",
+            "E.子宫底与子宫体交界处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 106
+    },
+    {
+        "question_text": "1821、正常成人未孕子宫颈的下端位于 （  ）",
+        "options": [
+            "A.坐骨棘平面稍上方",
+            "B.坐骨结节平面稍上方",
+            "C.耻骨联合上缘平面稍上方",
+            "D.耻骨联合下缘平面稍上方",
+            "E.尾骨尖平面稍上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 107
+    },
+    {
+        "question_text": "1822、子宫腔呈 （  ）",
+        "options": [
+            "A.椭圆形",
+            "B.三角形",
+            "C.菱形",
+            "D.梭形",
+            "E.圆形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 108
+    },
+    {
+        "question_text": "1823、子宫颈管的形态呈",
+        "options": [
+            "A.椭圆形",
+            "B.三角形",
+            "C.菱形",
+            "D.梭形",
+            "E.圆形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 109
+    },
+    {
+        "question_text": "1824、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 110
+    },
+    {
+        "question_text": "1825、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.盆膈",
+            "B.阴道",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 111
+    },
+    {
+        "question_text": "1826、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 112
+    },
+    {
+        "question_text": "1827、子宫的韧带不包括 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫主韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.子宫阔韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 113
+    },
+    {
+        "question_text": "1828、由结缔组织和平滑肌构成的韧带不包括 （  ）",
+        "options": [
+            "A.卵巢固有韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.子宫主韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 114
+    },
+    {
+        "question_text": "1829、子宫阔韧带内不包含 （  ）",
+        "options": [
+            "A.输卵管",
+            "B.卵巢",
+            "C.子宫圆韧带",
+            "D.膀胱",
+            "E.子宫动、静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 115
+    },
+    {
+        "question_text": "1830、限制子宫向两侧移位的韧带是 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫圆韧带",
+            "E.子宫骶韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 116
+    },
+    {
+        "question_text": "1831、子宫圆韧带的作用是 （  ）",
+        "options": [
+            "A.防止子宫向两侧移位",
+            "B.防止子宫向下脱垂",
+            "C.上提子宫底",
+            "D.维持子宫前倾",
+            "E.牵引子宫颈向后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 117
+    },
+    {
+        "question_text": "1832、防止子宫下垂的韧带是 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫骶韧带",
+            "D.子宫圆韧带",
+            "E.子宫主韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 118
+    },
+    {
+        "question_text": "1833、维持子宫前倾位的主要结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.盆底肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 119
+    },
+    {
+        "question_text": "1834、维持子宫前屈的主要结构是 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全部结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 120
+    },
+    {
+        "question_text": "1835、子宫附件是 （  ）",
+        "options": [
+            "A.阴道和卵巢",
+            "B.卵巢和子宫阔韧带",
+            "C.输卵管和卵巢",
+            "D.输卵管和子宫阔韧带",
+            "E.输卵管和子宫圆韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 121
+    },
+    {
+        "question_text": "1836、女性外生殖器不包括 （  ）",
+        "options": [
+            "A.阴道前庭",
+            "B.阴蒂",
+            "C.阴道",
+            "D.前庭球",
+            "E.阴阜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 122
+    },
+    {
+        "question_text": "1837、关于女性外生殖器的叙述，错误的是 （  ）",
+        "options": [
+            "A.女性外生殖器即女阴",
+            "B.阴道前庭为两侧大阴唇之间的裂隙",
+            "C.阴道前庭前部有尿道的开口",
+            "D.阴道前庭后部有阴道的开口",
+            "E.阴道口两侧有前庭大腺开口"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 123
+    },
+    {
+        "question_text": "1838、关于阴道的叙述，正确的是 （  ）",
+        "options": [
+            "A.前面盖有腹膜",
+            "B.上端包绕子宫颈全部",
+            "C.阴道穹以前部最深",
+            "D.阴道属女性外生殖器",
+            "E.阴道下部穿经尿生殖膈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 124
+    },
+    {
+        "question_text": "1839、对阴道的描述，错误的是 （  ）",
+        "options": [
+            "A.上端包绕子宫颈阴道部",
+            "B.下端开口于阴道前庭",
+            "C.阴道后穹比前穹深",
+            "D.阴道后穹与膀胱子宫陷凹相邻",
+            "E.阴道穿过尿生殖膈"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 125
+    },
+    {
+        "question_text": "1840、对阴道位置的描述，正确的是 （  ）",
+        "options": [
+            "A.是腹膜内位器官",
+            "B.位于尿道前方",
+            "C.位于膀胱下方",
+            "D.位于直肠后方",
+            "E.阴道后穹最深"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 126
+    },
+    {
+        "question_text": "1841、对阴道前庭的描述，错误的是 （  ）",
+        "options": [
+            "A.位于两侧小阴唇之间的裂隙",
+            "B.前部有尿道外口",
+            "C.后部有阴道口",
+            "D.中部有子宫口",
+            "E.阴道口两侧各有1个前庭大腺导管开口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 127
+    },
+    {
+        "question_text": "1842、对前庭大腺的描述，正确的是 （  ）",
+        "options": [
+            "A.属于内分泌腺",
+            "B.位于前庭球深面",
+            "C.位于前庭球外侧",
+            "D.在阴蒂根部",
+            "E.导管开口于阴道前庭内，阴道口的两侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 128
+    },
+    {
+        "question_text": "1843、对阴道前庭的描述，正确的是 （  ）",
+        "options": [
+            "A.两侧大阴唇之间的裂隙",
+            "B.是两侧小阴唇之间的裂隙",
+            "C.尿道外口在后方，阴道口在前方",
+            "D.阴道前庭又称阴道穹",
+            "E.前庭球位于阴道前庭内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 129
+    },
+    {
+        "question_text": "1844、对阴蒂的描述，正确的是 （  ）",
+        "options": [
+            "A.由阴蒂海绵体组成",
+            "B.相当于男性的尿道海绵体",
+            "C.附着于耻骨上支",
+            "D.位于前庭球的后端",
+            "E.神经末梢丰富"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 130
+    },
+    {
+        "question_text": "1845、乳房的构成不包括 （  ）",
+        "options": [
+            "A.皮肤",
+            "B.皮下脂肪",
+            "C.纤维组织",
+            "D.胸大肌",
+            "E.乳腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 131
+    },
+    {
+        "question_text": "1846、对乳房的描述，错误的是 （  ）",
+        "options": [
+            "A.乳腺叶有15—20个",
+            "B.每个腺叶有1个排泄管，称输乳管",
+            "C.输乳管以乳头为中心，呈放射状排列",
+            "D.乳头周围的皮肤色素较多，形成乳晕",
+            "E.男性乳头位置较为恒定，多位于第5肋间隙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 132
+    },
+    {
+        "question_text": "1847、对乳房的描述，正确的是 （  ）",
+        "options": [
+            "A.位于深筋膜深面",
+            "B.男性乳头位置较为恒定，多位于第5肋间隙",
+            "C.每个乳腺叶有多条排泄管",
+            "D.输乳管以乳头为中心，呈放射状排列",
+            "E.乳房悬韧带将腺体分割为乳腺叶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 133
+    },
+    {
+        "question_text": "1848、关于乳房的叙述，错误的是 （  ）",
+        "options": [
+            "A.由大量结缔组织束和乳腺构成",
+            "B.乳腺叶以乳头为中心呈放射状排列",
+            "C.每个乳腺叶只有一个输乳管",
+            "D.乳晕皮肤较薄而易受损伤",
+            "E.乳房悬韧带对乳腺有支持和固定作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 134
+    },
+    {
+        "question_text": "1849、乳腺手术时，宜作（  ）",
+        "options": [
+            "A.环形切口",
+            "B.横形切口",
+            "C.斜形切口",
+            "D.放射状切口",
+            "E.任意形切口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 135
+    },
+    {
+        "question_text": "1850、乳房悬韧带（  ）",
+        "options": [
+            "A.由乳腺周围的纤维束连于胸小肌构成",
+            "B.由乳腺周围的纤维束连于胸筋膜、皮肤和乳头构成",
+            "C.由乳腺周围的纤维束连于胸大肌构成",
+            "D.由乳腺周围的纤维束连于肋构成",
+            "E.由乳腺周围的纤维束连于肋间肌构成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 136
+    },
+    {
+        "question_text": "1851、乳腺癌早期常见橘皮样病变是由于侵犯了（  ）",
+        "options": [
+            "A.乳房悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫园韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 137
+    },
+    {
+        "question_text": "1852、卵细胞受精的部位通常是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 138
+    },
+    {
+        "question_text": "1853、输卵管直径最细的部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 139
+    },
+    {
+        "question_text": "1854、结扎输卵管最理想的部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 140
+    },
+    {
+        "question_text": "1855、手术中辨认输卵管的标志是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 141
+    },
+    {
+        "question_text": "1856、输卵管结扎部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 142
+    },
+    {
+        "question_text": "1857、受精部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 143
+    },
+    {
+        "question_text": "1858、是手术时辨认输卵管的标志 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 144
+    },
+    {
+        "question_text": "1859、开口于腹膜腔 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 145
+    },
+    {
+        "question_text": "1860、防止子宫向两侧移位的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 146
+    },
+    {
+        "question_text": "1861、行于腹股沟管内的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 147
+    },
+    {
+        "question_text": "1862、主要固定子宫颈，防止子宫脱垂的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 148
+    },
+    {
+        "question_text": "1863、维持子宫前倾的主要结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 149
+    },
+    {
+        "question_text": "1864、子宫与输卵管相接处为 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 150
+    },
+    {
+        "question_text": "1865、下端被阴道上端包绕 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 151
+    },
+    {
+        "question_text": "1866、子宫颈管的下口为 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 152
+    },
+    {
+        "question_text": "1867、呈前后扁的三角形 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 153
+    },
+    {
+        "question_text": "1868、防止子宫下垂 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 154
+    },
+    {
+        "question_text": "1869、维持子宫前倾 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 155
+    },
+    {
+        "question_text": "1870、限制子宫向两侧移位 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 156
+    },
+    {
+        "question_text": "1871、前庭大腺开口于（  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 157
+    },
+    {
+        "question_text": "1872、有子宫动脉的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 158
+    },
+    {
+        "question_text": "1873、内有卵巢动脉的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 159
+    },
+    {
+        "question_text": "1874、通过腹股沟管的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 160
+    },
+    {
+        "question_text": "1875、连接到子宫底的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 161
+    },
+    {
+        "question_text": "1876、连接到骶骨的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 162
+    },
+    {
+        "question_text": "1915、广义会阴的描述，错误的是 （  ）",
+        "options": [
+            "A.前界是耻骨联合下缘",
+            "B.后界是尾骨尖",
+            "C.坐骨结节连线以前为尿生殖区",
+            "D.坐骨结节连线以后为肛区",
+            "E.尿道和肛管都通过尿生殖区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 163
+    },
+    {
+        "question_text": "1916、狭义的会阴是指 （  ）",
+        "options": [
+            "A.盆腔以下的软组织",
+            "B.尿生殖膈以下的软组织",
+            "C.耻骨联合至外生殖器之间的软组织",
+            "D.肛门至外生殖器之间的软组织",
+            "E.肛门至尾骨尖的软组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 164
+    },
+    {
+        "question_text": "1917、尿生殖区与肛区的分界是 （  ）",
+        "options": [
+            "A.坐骨结节之间的连线",
+            "B.耻骨结节之间的连线",
+            "C.坐骨棘之间的连线",
+            "D.坐骨结节与耻骨结节之间的连线",
+            "E.坐骨结节与坐骨棘之间的连线"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 165
+    },
+    {
+        "question_text": "1918、对盆膈组成的描述，正确的是 （  ）",
+        "options": [
+            "A.由会阴深横肌和盆膈上、下筋膜构成",
+            "B.由肛提肌和尿生殖膈上、下筋膜构成",
+            "C.由尿生殖膈和浅层软组织构成",
+            "D.由肛提肌、尾骨肌和盆膈上、下筋膜构成",
+            "E.由肛提肌和尾骨肌构成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 166
+    },
+    {
+        "question_text": "1919、尿生殖膈的构成是 （  ）",
+        "options": [
+            "A.由会阴深横肌、尿道括约肌和尿生殖膈上、下筋膜构成",
+            "B.由肛提肌和尿生殖膈上、下筋膜构成",
+            "C.由肛提肌、尾骨肌和尿生殖膈上、下筋膜构成",
+            "D.由会阴深横肌和盆膈上、下筋膜构成",
+            "E.由会阴深横肌、尿道括约肌和盆膈上、下筋膜构成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 167
+    },
+    {
+        "question_text": "1920、尿生殖三角内的深层肌是 （  ）",
+        "options": [
+            "A.会阴浅横肌",
+            "B.球海绵体肌",
+            "C.尿道括约肌",
+            "D.尾骨肌",
+            "E.坐骨海绵体肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 168
+    },
+    {
+        "question_text": "1921、女性尿生殖三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 169
+    },
+    {
+        "question_text": "1922、肛三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 170
+    },
+    {
+        "question_text": "1923、男性腹股沟管内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 171
+    },
+    {
+        "question_text": "1924、男性尿生殖三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 172
+    },
+    {
+        "question_text": "1925、子宫阔韧带内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 173
+    },
+    {
+        "question_text": "1690、男性生殖腺是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精囊腺",
+            "D.前列腺",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 174
+    },
+    {
+        "question_text": "1691、不属于输精管道的男性生殖器官为  (      )",
+        "options": [
+            "A.附睾",
+            "B.精囊",
+            "C.输精管",
+            "D.射精管",
+            "E.尿道"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 175
+    },
+    {
+        "question_text": "1692、暂时储存精子的器官是    (       )",
+        "options": [
+            "A.精囊",
+            "B.睾丸",
+            "C.前列腺",
+            "D.附睾",
+            "E.输精管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 176
+    },
+    {
+        "question_text": "1693、精子产生的部位在（  ）",
+        "options": [
+            "A.精曲小管",
+            "B.精直小管",
+            "C.睾丸小隔",
+            "D.睾丸网",
+            "E.睾丸间质细胞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 177
+    },
+    {
+        "question_text": "1694、附睾（  ）",
+        "options": [
+            "A.紧贴睾丸的上端和后缘",
+            "B.分泌液为精液的主要组成成分",
+            "C.末端延续为睾丸输出小管",
+            "D.上端狭细称附睾尾",
+            "E.为男性生殖器的附属腺体"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 178
+    },
+    {
+        "question_text": "1695、精索（  ）",
+        "options": [
+            "A.由输精管和睾丸动脉组成",
+            "B.位于腹股沟管皮下环至睾丸上端之间",
+            "C.质地坚硬",
+            "D.外有腹膜包被",
+            "E.男性节育手术多在睾丸上方结扎其中的输精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 179
+    },
+    {
+        "question_text": "1696、输精管结扎的部位，通常位于（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.精索部",
+            "C.腹股沟管部",
+            "D.盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 180
+    },
+    {
+        "question_text": "1697、包含在精索中的结构是（  ）",
+        "options": [
+            "A.附睾管",
+            "B.射精管",
+            "C.输精管",
+            "D.输尿管",
+            "E.男性尿道"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 181
+    },
+    {
+        "question_text": "1698、除输精管精索部外，输精管行于精索中的部分还包括（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.附睾部",
+            "C.盆部",
+            "D.腹股沟部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 182
+    },
+    {
+        "question_text": "1699、对射精管的描述，正确的是（  ）",
+        "options": [
+            "A.输精管末端膨大形成射精管",
+            "B.向前下穿前列腺实质",
+            "C.开口于尿道球部",
+            "D.穿尿生殖膈",
+            "E.长约10cm"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 183
+    },
+    {
+        "question_text": "1700、组成射精管的是（  ）",
+        "options": [
+            "A.输精管末端和睾丸输出小管",
+            "B.输精管末端和前列腺排泄管",
+            "C.输精管末端和附睾管",
+            "D.输精管末端和精囊腺排泄管",
+            "E.输精管末端和尿道球腺排泄管"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 184
+    },
+    {
+        "question_text": "1701、射精管开口于（  ）",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.尿道前列腺部",
+            "D.尿道海绵体部",
+            "E.尿道起始部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 185
+    },
+    {
+        "question_text": "1702、射精管开口于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道膜部",
+            "D.尿道海绵体部",
+            "E.尿道前列腺部"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 186
+    },
+    {
+        "question_text": "1703、精囊腺（  ）",
+        "options": [
+            "A.位于前列腺后部",
+            "B.直肠指检时可触及",
+            "C.可贮存精子",
+            "D.外侧有输精管壶腹",
+            "E.开口于尿道球部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 187
+    },
+    {
+        "question_text": "1704、对精囊的描述，正确的是（  ）",
+        "options": [
+            "A.精囊位于膀胱的前方",
+            "B.精囊为单一的囊状器官",
+            "C.由附睾管构成",
+            "D.可储存精子",
+            "E.排泄管与输精管末端合成射精管"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 188
+    },
+    {
+        "question_text": "1705、射精管    (     )",
+        "options": [
+            "A.由输精管末端单独形成",
+            "B.由精囊的排泄管单独形成",
+            "C.由输精管末端与精囊的排泄管汇合而成",
+            "D.由输精管末端与尿道汇合而成",
+            "E.由精囊的排泄管与前列腺的排泄管汇合而成"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 189
+    },
+    {
+        "question_text": "1706、有关精囊的描述错误的为    (    )",
+        "options": [
+            "A.是男性生殖系的附属腺体",
+            "B.储存精子",
+            "C.位于膀胱底的后方",
+            "D.分泌物参与精液组成",
+            "E.其排泄管与输精管末端汇合而成射精管"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 190
+    },
+    {
+        "question_text": "1707、前列腺位于   (     )",
+        "options": [
+            "A.直肠后方",
+            "B.膀胱底后方",
+            "C.膀胱颈下方",
+            "D.尿生殖膈下方",
+            "E.盆膈上方"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 191
+    },
+    {
+        "question_text": "1708、对前列腺的描述，正确的是（  ）",
+        "options": [
+            "A.是成对的中空性器官",
+            "B.由平滑肌构成",
+            "C.尖朝上，底朝下",
+            "D.体后面有纵行的前列腺沟",
+            "E.位于尿生殖膈下方"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 192
+    },
+    {
+        "question_text": "1709、前列腺（  ）",
+        "options": [
+            "A.下端宽大，称前列腺底",
+            "B.位于盆膈之上",
+            "C.内有尿道膜部经过",
+            "D.可分为前、中、后三叶",
+            "E.中叶位于尿道前列腺部与射精管之间"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 193
+    },
+    {
+        "question_text": "1710、对前列腺位置的描述，正确的是（  ）",
+        "options": [
+            "A.位于耻骨联合与膀胱之间",
+            "B.位于膀胱与直肠之间",
+            "C.位于膀胱与尿生殖膈之间",
+            "D.位于直肠与骶骨之间",
+            "E.位于尿生殖膈内"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 194
+    },
+    {
+        "question_text": "1711、前列腺后方的结构是（  ）",
+        "options": [
+            "A.膀胱",
+            "B.直肠",
+            "C.精囊",
+            "D.输精管壶腹",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 195
+    },
+    {
+        "question_text": "1712、引起排尿困难的原因是前列腺（  ）",
+        "options": [
+            "A.常为前叶肥大",
+            "B.常为后叶肥大",
+            "C.常为侧叶肥大",
+            "D.常为中叶和后叶肥大",
+            "E.常为侧叶和中叶肥大"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 196
+    },
+    {
+        "question_text": "1713、尿道球腺开口于（  ）",
+        "options": [
+            "A.膀胱",
+            "B.尿道前列腺部",
+            "C.尿道球部",
+            "D.尿道膜部",
+            "E.舟状窝"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 197
+    },
+    {
+        "question_text": "1714、关于男性尿道的描述，哪项错误（  ）",
+        "options": [
+            "A.起于膀胱的输尿管口",
+            "B.有3个狭窄",
+            "C.有3个扩大",
+            "D.有2个弯曲",
+            "E.兼有排尿和排精功能"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 198
+    },
+    {
+        "question_text": "1715、男性前尿道是指（  ）",
+        "options": [
+            "A.尿道前列腺部",
+            "B.尿道膜部",
+            "C.尿道海绵体部",
+            "D.尿道球部",
+            "E.尿道膜部和尿道球部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 199
+    },
+    {
+        "question_text": "1716、男性尿道（  ）",
+        "options": [
+            "A.兼有排尿和排精功能",
+            "B.分为前列腺部、膜部、球部和海绵体部4个部分",
+            "C.前列腺部位于前列腺中叶后方",
+            "D.球部为男性尿道最狭窄处",
+            "E.前列腺部为其最短的一段"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 200
+    },
+    {
+        "question_text": "1717、阴茎    (     )",
+        "options": [
+            "A.为男性内生殖器",
+            "B.分为头、颈、体三部",
+            "C.由两条尿道海绵体和一条阴茎海绵体组成",
+            "D.阴茎头的尖端有尿道外口开口",
+            "E.全长无弯曲"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 201
+    },
+    {
+        "question_text": "1718、有关男性尿道描述错误的是    (     )",
+        "options": [
+            "A.只有排尿功能",
+            "B.起自尿道内口",
+            "C.止于尿道外口",
+            "D.有两个弯曲",
+            "E.有三个狭窄"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 202
+    },
+    {
+        "question_text": "1719、有关男性尿道描述错误的是    (     )",
+        "options": [
+            "A.耻骨前弯可变直",
+            "B.耻骨下弯可变直",
+            "C.尿道外口是其狭窄部位之一",
+            "D.尿道内口是其狭窄部位之一",
+            "E.尿道膜部是其狭窄部位之一"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 203
+    },
+    {
+        "question_text": "1720、尿道前列腺部    (     )",
+        "options": [
+            "A.是狭窄部位",
+            "B.有括约肌环绕",
+            "C.延续为尿道海绵体部",
+            "D.只有一对射精管开口于其后壁",
+            "E.贯穿前列腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 204
+    },
+    {
+        "question_text": "1721、精阜位于（  ）",
+        "options": [
+            "A.尿道前列腺部",
+            "B.尿道膜部",
+            "C.尿道球部",
+            "D.尿道海绵体部",
+            "E.尿道内口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 205
+    },
+    {
+        "question_text": "1722、男性尿道最狭窄部位在（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道外口",
+            "D.尿道膜部",
+            "E.前列腺部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 206
+    },
+    {
+        "question_text": "1723、尿道外括约肌位于（  ）",
+        "options": [
+            "A.尿道前列列腺部周围",
+            "B.尿道膜部周围",
+            "C.尿道球部周围",
+            "D.尿道海绵体周围",
+            "E.舟状窝周围"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 207
+    },
+    {
+        "question_text": "1724、男性尿道形态可发生变化的是（  ）",
+        "options": [
+            "A.尿道球",
+            "B.尿道膜部",
+            "C.尿道前列腺部",
+            "D.耻骨前弯",
+            "E.耻骨下弯"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 208
+    },
+    {
+        "question_text": "1725、穿过尿生殖膈的是（  ）",
+        "options": [
+            "A.尿道海绵体部",
+            "B.尿道膜部",
+            "C.尿道球部",
+            "D.尿道前列腺部",
+            "E.尿道膜部和前列腺部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 209
+    },
+    {
+        "question_text": "1726、阴茎（  ）",
+        "options": [
+            "A.有不成对的阴茎海绵体和成对的尿道海绵体",
+            "B.阴茎海绵体前端形成阴茎头",
+            "C.阴茎脚附着于两侧的耻骨下支和坐骨支",
+            "D.尿道海绵体位于阴茎背侧",
+            "E.尿道海绵体前端形成尿道球"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 210
+    },
+    {
+        "question_text": "1727、尿道球的形成是（  ）",
+        "options": [
+            "A.阴茎海绵体前端膨大形成",
+            "B.阴茎海绵体后端膨大形成",
+            "C.尿道海绵体前端膨大形成",
+            "D.尿道海绵体后端膨大形成",
+            "E.阴茎海绵体中部膨大形成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 211
+    },
+    {
+        "question_text": "1728、包皮系带（  ）",
+        "options": [
+            "A.位于阴茎根背侧",
+            "B.位于阴茎体背侧",
+            "C.位于阴茎头背侧",
+            "D.包皮环切时应一起切除",
+            "E.以上均不正确"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 212
+    },
+    {
+        "question_text": "1729、男性生殖腺是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 213
+    },
+    {
+        "question_text": "1730、产生精子的器官是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 214
+    },
+    {
+        "question_text": "1731、贮存精子的器官是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 215
+    },
+    {
+        "question_text": "1732、输精管参与构成的结构是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精索",
+            "D.精囊腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 216
+    },
+    {
+        "question_text": "1733、输精管最长的一段是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 217
+    },
+    {
+        "question_text": "1734、输精管最短的一段是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 218
+    },
+    {
+        "question_text": "1735、输精管位于膀胱底后面的部分是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 219
+    },
+    {
+        "question_text": "1736、结扎输精管的良好部位是（  ）",
+        "options": [
+            "A.输精管睾丸部",
+            "B.输精管精索部",
+            "C.输精管腹股沟管部",
+            "D.输精管盆部",
+            "E.输精管壶腹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 220
+    },
+    {
+        "question_text": "1737、前列腺排泄管开口于（  ）",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 221
+    },
+    {
+        "question_text": "1738、射精管开口于    (     )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 222
+    },
+    {
+        "question_text": "1739、尿道球腺排泄管开口于   (    )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 223
+    },
+    {
+        "question_text": "1740、男性尿道第二个狭窄在   (     )",
+        "options": [
+            "A.尿道膜部",
+            "B.尿道球部",
+            "C.膀胱",
+            "D.尿道前列腺部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 224
+    },
+    {
+        "question_text": "1741、精索外筋膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 225
+    },
+    {
+        "question_text": "1742、提睾肌  (   )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 226
+    },
+    {
+        "question_text": "1743、精索内筋膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 227
+    },
+    {
+        "question_text": "1744、睾丸鞘膜  (    )",
+        "options": [
+            "A.来自腹内斜肌和腹横肌",
+            "B.来自腹外斜肌腱膜",
+            "C.来自腹膜",
+            "D.来自腹壁浅筋膜",
+            "E.来自腹横筋膜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 228
+    },
+    {
+        "question_text": "1745、尿道球腺开口于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 229
+    },
+    {
+        "question_text": "1746、射精管开口于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 230
+    },
+    {
+        "question_text": "1747、男尿道位置最固定的一段是（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 231
+    },
+    {
+        "question_text": "1748、男尿道的第二个生理性狭窄位于（  ）",
+        "options": [
+            "A.尿道球部",
+            "B.精索部",
+            "C.尿道前列腺部",
+            "D.尿道膜部",
+            "E.尿道海绵体部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 232
+    },
+    {
+        "question_text": "1749、排泄管与输精管合并的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 233
+    },
+    {
+        "question_text": "1750、有后尿道穿行其中的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 234
+    },
+    {
+        "question_text": "1751、排泄开口于前尿道的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 235
+    },
+    {
+        "question_text": "1752、排泄管最终不是开口于尿道的是（  ）",
+        "options": [
+            "A.前列腺",
+            "B.尿道球腺",
+            "C.精囊",
+            "D.前庭大腺",
+            "E.尿道球"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 236
+    },
+    {
+        "question_text": "1778、女性生殖腺是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.卵巢",
+            "D.前列腺",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 237
+    },
+    {
+        "question_text": "1779、产生卵子和分泌女性激素的器官是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.卵巢",
+            "D.阴道",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 238
+    },
+    {
+        "question_text": "1780、关于女性生殖器的叙述，正确的是 （  ）",
+        "options": [
+            "A.卵子在子宫内受精",
+            "B.前庭球是女性生殖器的附属腺体",
+            "C.女性生殖器的输送管道就是指输卵管",
+            "D.女阴就是指阴道前庭",
+            "E.前庭大腺为附属腺体"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 239
+    },
+    {
+        "question_text": "1781、属于内生殖器的结构是 （  ）",
+        "options": [
+            "A.阴阜",
+            "B.小阴唇",
+            "C.阴蒂",
+            "D.前庭球",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 240
+    },
+    {
+        "question_text": "1782、以下哪些不属于女性内生殖器",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.前列腺",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 241
+    },
+    {
+        "question_text": "1783、女性正常孕育胎儿的器官是 （  ）",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.阴道",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 242
+    },
+    {
+        "question_text": "1784、属于外生殖器的结构是 （  ）",
+        "options": [
+            "A.子宫",
+            "B.输卵管",
+            "C.小阴唇",
+            "D.卵巢",
+            "E.前庭大腺"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 243
+    },
+    {
+        "question_text": "1785、属于外生殖器的结构是 （  ）",
+        "options": [
+            "A.大阴唇",
+            "B.输尿管",
+            "C.输精管",
+            "D.输卵管",
+            "E.睾丸"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 244
+    },
+    {
+        "question_text": "1786、卵巢 （  ）",
+        "options": [
+            "A.位于髂内动、静脉之间所夹的卵巢窝内",
+            "B.借子宫阔韧带悬挂于骨盆侧壁上",
+            "C.前缘有卵巢门",
+            "D.被子宫阔韧带的前层所包裹",
+            "E.以破溃的方式将卵细胞直接排入输卵管"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 245
+    },
+    {
+        "question_text": "1787、卵巢 （  ）",
+        "options": [
+            "A.随年龄增长而增大",
+            "B.上端有卵巢固有韧带与子宫相连",
+            "C.与输卵管不直接通连",
+            "D.位于子宫后方",
+            "E.下端称输卵管端"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 246
+    },
+    {
+        "question_text": "1788、卵巢 （  ）",
+        "options": [
+            "A.上有卵巢固有韧带连于子宫",
+            "B.前缘借卵巢系膜连于子宫阔韧带",
+            "C.下端又称输卵管端",
+            "D.卵巢位置固定主要靠卵巢窝",
+            "E.卵巢悬韧带又称卵巢子宫索"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 247
+    },
+    {
+        "question_text": "1789、对卵巢的描述，错误的是 （  ）",
+        "options": [
+            "A.卵巢位于卵巢窝内",
+            "B.属于腹膜内位器官",
+            "C.后缘有系膜连于子宫阔韧带内",
+            "D.上端连卵巢悬韧带",
+            "E.下端连卵巢固有韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 248
+    },
+    {
+        "question_text": "1790、对卵巢的描述，错误的是 （  ）",
+        "options": [
+            "A.是女性生殖腺，又有内分泌功能",
+            "B.卵巢固有韧带内含有卵巢动、静脉",
+            "C.被包于子宫阔韧带内",
+            "D.呈内、外侧扁的卵圆形",
+            "E.后缘游离"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 249
+    },
+    {
+        "question_text": "1791、卵巢位于 （  ）",
+        "options": [
+            "A.髂总动脉末端的前方",
+            "B.髂外动脉与输尿管之间",
+            "C.髂内、外动脉起始处所形成的夹角内",
+            "D.髂窝内，髂外动脉起始段的外侧",
+            "E.髂窝内，髂总动脉起始的内侧"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 250
+    },
+    {
+        "question_text": "1792、卵巢位于（  ）",
+        "options": [
+            "A.盆腔内，膀胱与直肠之间",
+            "B.髂窝内",
+            "C.左右髂总动脉之间",
+            "D.髂内、外动脉起始处的夹角内",
+            "E.子宫圆韧带内"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 251
+    },
+    {
+        "question_text": "1793、卵巢窝位于 （  ）",
+        "options": [
+            "A.髂外动脉和髂内动脉的夹角处",
+            "B.髂外动脉和髂总动脉的夹角处",
+            "C.髂内动脉和髂总动脉的夹角处",
+            "D.髂外动脉的分支之间",
+            "E.髂内动脉的分支之间"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 252
+    },
+    {
+        "question_text": "1794、卵巢悬韧带 （  ）",
+        "options": [
+            "A.由纤维结缔组织构成，较坚实",
+            "B.又称卵巢固有韧带",
+            "C.起自小骨盆侧缘",
+            "D.连于卵巢后缘",
+            "E.连于子宫角"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 253
+    },
+    {
+        "question_text": "1795、对卵巢固有韧带的描述正确的是（  ）",
+        "options": [
+            "A.由腹膜皱襞构成",
+            "B.对子宫的位置起固定作用",
+            "C.包绕输卵管",
+            "D.自卵巢下端连于输卵管与子宫结合处的后下方",
+            "E.又称卵巢悬韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 254
+    },
+    {
+        "question_text": "1796、卵巢与子宫角相连的韧带是 （  ）",
+        "options": [
+            "A.卵巢系膜",
+            "B.卵巢固有韧带",
+            "C.卵巢悬韧带",
+            "D.子宫阔韧带",
+            "E.子宫圆韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 255
+    },
+    {
+        "question_text": "1797、对输卵管的描述错误的是 （  ）",
+        "options": [
+            "A.位于子宫阔韧带上缘",
+            "B.输卵管腹腔口开口于腹膜腔",
+            "C.输卵管峡短直而狭窄，壁厚、血管少",
+            "D.壶腹部粗且弯曲，血管丰富",
+            "E.子宫部是受精部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 256
+    },
+    {
+        "question_text": "1798、对输卵管的叙述正确的是 （  ）",
+        "options": [
+            "A.位于子宫系膜内",
+            "B.其内侧端有子宫口，外侧端有卵巢口",
+            "C.输卵管峡位于其壶腹部的外侧",
+            "D.输卵管壶腹边缘有输卵管伞",
+            "E.卵巢伞是输卵管伞中一个较大的突起"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 257
+    },
+    {
+        "question_text": "1799、对输卵管的描述正确的是 （  ）",
+        "options": [
+            "A.子宫部最细，是结扎部位",
+            "B.输卵管峡部是穿子宫壁的部位",
+            "C.输卵管漏斗最长",
+            "D.漏斗部开口于子宫腔",
+            "E.壶腹部是受精部位"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 258
+    },
+    {
+        "question_text": "1800、输卵管的分部不包括 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.输卵管伞",
+            "C.峡部",
+            "D.壶腹部",
+            "E.漏斗部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 259
+    },
+    {
+        "question_text": "1801、手术中辨认输卵管的标志是 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 260
+    },
+    {
+        "question_text": "1802、手术时识别输卵管的标志是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.子宫阔韧带",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 261
+    },
+    {
+        "question_text": "1803、输卵管结扎通常位于 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.输卵管伞",
+            "E.漏斗部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 262
+    },
+    {
+        "question_text": "1804、最常见的受精部位在 （  ）",
+        "options": [
+            "A.卵巢表面",
+            "B.输卵管伞",
+            "C.输卵管壶腹部",
+            "D.输卵管峡部",
+            "E.输卵管漏斗部"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 263
+    },
+    {
+        "question_text": "1805、输卵管最细的部位在 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管腹腔口"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 264
+    },
+    {
+        "question_text": "1806、输卵管最靠内侧的是 （  ）",
+        "options": [
+            "A.峡部",
+            "B.漏斗部",
+            "C.壶腹部",
+            "D.子宫部",
+            "E.伞部"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 265
+    },
+    {
+        "question_text": "1807、子宫颈可分为 （  ）",
+        "options": [
+            "A.阴道部和阴道上部",
+            "B.阴道部和阴道下部",
+            "C.阴道部",
+            "D.阴道上部",
+            "E.阴道上部和阴道下部"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 266
+    },
+    {
+        "question_text": "1808、输卵管由内侧向外侧依次分为 （  ）",
+        "options": [
+            "A.峡部、子宫部、壶腹部、漏斗部",
+            "B.子宫部、峡部、壶腹部、漏斗部",
+            "C.子宫部、壶腹部、峡部、漏斗部",
+            "D.子宫部、峡部、漏斗部、壶腹部",
+            "E.壶腹部、漏斗部、子宫部、峡部"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 267
+    },
+    {
+        "question_text": "1809、非妊娠子宫是 （  ）",
+        "options": [
+            "A.壁厚腔小的实质性器官",
+            "B.壁厚腔小的肌性器官",
+            "C.壁厚腔大的膜性器官",
+            "D.壁薄腔大的肌性器官",
+            "E.壁薄腔小的肌性器官"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 268
+    },
+    {
+        "question_text": "1810、对子宫形态的描述，错误的是 （  ）",
+        "options": [
+            "A.子宫分底、体、颈三部分",
+            "B.子宫与输卵管相接处称子宫角",
+            "C.子宫峡在妊娠末期可延长至10cm左右",
+            "D.子宫腔与子宫颈管不相通",
+            "E.子宫颈管下口称子宫口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 269
+    },
+    {
+        "question_text": "1811、对子宫形态的描述，正确的是 （  ）",
+        "options": [
+            "A.子宫分头、体、颈三部分",
+            "B.子宫与阴道相通，不与输卵管相通",
+            "C.子宫颈全部被阴道包绕",
+            "D.子宫颈管下口称子宫口",
+            "E.非娠妊期子宫峡长约5cm"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 270
+    },
+    {
+        "question_text": "1812、关于子宫的叙述，错误的是 （  ）",
+        "options": [
+            "A.三角形的子宫腔的基底两侧通输卵管；尖向下直接通阴道",
+            "B.未娠妊时，子宫底高度在小骨盆入口平面以下",
+            "C.子宫前倾位是指子宫的长轴与阴道的长轴形成一个向前开放的钝角",
+            "D.子宫的前屈位是指子宫体与子宫颈之间的向前开放的钝角",
+            "E.子宫口通阴道"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 271
+    },
+    {
+        "question_text": "1813、有关子宫的描述，正确的是 （  ）",
+        "options": [
+            "A.子宫位于盆腔中央、阴道后方",
+            "B.可分为子宫底、体、颈、峡四部分",
+            "C.子宫颈位于阴道上方",
+            "D.内腔可分为子宫腔和子宫颈管两部分",
+            "E.子宫口为子宫颈管的上口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 272
+    },
+    {
+        "question_text": "1814、子宫 （  ）",
+        "options": [
+            "A.位于耻骨联合与膀胱之间",
+            "B.子宫下端称子宫底",
+            "C.子宫口为子宫颈管的上口",
+            "D.子宫的内腔称子宫腔",
+            "E.成年未孕子宫的正常姿态为前倾前屈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 273
+    },
+    {
+        "question_text": "1815、子宫 （  ）",
+        "options": [
+            "A.属腹膜内位器官",
+            "B.子宫体与阴道间呈前屈位",
+            "C.子宫体与子宫颈之间呈前倾位",
+            "D.子宫口通阴道",
+            "E.子宫的内腔称子宫腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 274
+    },
+    {
+        "question_text": "1816、子宫后方相邻的结构是 （  ）",
+        "options": [
+            "A.膀胱",
+            "B.直肠",
+            "C.阴道",
+            "D.输卵管",
+            "E.卵巢"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 275
+    },
+    {
+        "question_text": "1817、对子宫位置的描述，正确的是 （  ）",
+        "options": [
+            "A.在耻骨联合与直肠之间",
+            "B.在耻骨联合与膀胱之间",
+            "C.在膀胱与直肠之间",
+            "D.呈后倾后屈位",
+            "E.末妊娠时，子宫底在小骨盆入口平面以上"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 276
+    },
+    {
+        "question_text": "1818、对成人未孕子宫位置的描述，错误的是 （  ）",
+        "options": [
+            "A.位于盆腔中央",
+            "B.膀胱与直肠之间",
+            "C.两侧有输卵管和卵巢",
+            "D.呈前倾前屈位",
+            "E.子宫底在小骨盆上口平面以上"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 277
+    },
+    {
+        "question_text": "1819、子宫峡位于 （  ）",
+        "options": [
+            "A.子宫与输卵管之间",
+            "B.子宫体与子宫颈之间",
+            "C.子宫颈阴道上部与子宫颈阴道部之间",
+            "D.子宫颈与阴道之间",
+            "E.子宫体与子宫颈阴道部之间"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 278
+    },
+    {
+        "question_text": "1820、产科常经子宫的何部行剖腹取胎术 （  ）",
+        "options": [
+            "A.子宫体",
+            "B.子宫颈阴道上部",
+            "C.子宫峡",
+            "D.子宫底",
+            "E.子宫底与子宫体交界处"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 279
+    },
+    {
+        "question_text": "1821、正常成人未孕子宫颈的下端位于 （  ）",
+        "options": [
+            "A.坐骨棘平面稍上方",
+            "B.坐骨结节平面稍上方",
+            "C.耻骨联合上缘平面稍上方",
+            "D.耻骨联合下缘平面稍上方",
+            "E.尾骨尖平面稍上方"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 280
+    },
+    {
+        "question_text": "1822、子宫腔呈 （  ）",
+        "options": [
+            "A.椭圆形",
+            "B.三角形",
+            "C.菱形",
+            "D.梭形",
+            "E.圆形"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 281
+    },
+    {
+        "question_text": "1823、子宫颈管的形态呈",
+        "options": [
+            "A.椭圆形",
+            "B.三角形",
+            "C.菱形",
+            "D.梭形",
+            "E.圆形"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 282
+    },
+    {
+        "question_text": "1824、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 283
+    },
+    {
+        "question_text": "1825、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.盆膈",
+            "B.阴道",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 284
+    },
+    {
+        "question_text": "1826、维持子宫正常位置的结构有 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全是"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 285
+    },
+    {
+        "question_text": "1827、子宫的韧带不包括 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫主韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.子宫阔韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 286
+    },
+    {
+        "question_text": "1828、由结缔组织和平滑肌构成的韧带不包括 （  ）",
+        "options": [
+            "A.卵巢固有韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.子宫主韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 287
+    },
+    {
+        "question_text": "1829、子宫阔韧带内不包含 （  ）",
+        "options": [
+            "A.输卵管",
+            "B.卵巢",
+            "C.子宫圆韧带",
+            "D.膀胱",
+            "E.子宫动、静脉"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 288
+    },
+    {
+        "question_text": "1830、限制子宫向两侧移位的韧带是 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫圆韧带",
+            "E.子宫骶韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 289
+    },
+    {
+        "question_text": "1831、子宫圆韧带的作用是 （  ）",
+        "options": [
+            "A.防止子宫向两侧移位",
+            "B.防止子宫向下脱垂",
+            "C.上提子宫底",
+            "D.维持子宫前倾",
+            "E.牵引子宫颈向后"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 290
+    },
+    {
+        "question_text": "1832、防止子宫下垂的韧带是 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫骶韧带",
+            "D.子宫圆韧带",
+            "E.子宫主韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 291
+    },
+    {
+        "question_text": "1833、维持子宫前倾位的主要结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.盆底肌"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 292
+    },
+    {
+        "question_text": "1834、维持子宫前屈的主要结构是 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.以上全部结构"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 293
+    },
+    {
+        "question_text": "1835、子宫附件是 （  ）",
+        "options": [
+            "A.阴道和卵巢",
+            "B.卵巢和子宫阔韧带",
+            "C.输卵管和卵巢",
+            "D.输卵管和子宫阔韧带",
+            "E.输卵管和子宫圆韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 294
+    },
+    {
+        "question_text": "1836、女性外生殖器不包括 （  ）",
+        "options": [
+            "A.阴道前庭",
+            "B.阴蒂",
+            "C.阴道",
+            "D.前庭球",
+            "E.阴阜"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 295
+    },
+    {
+        "question_text": "1837、关于女性外生殖器的叙述，错误的是 （  ）",
+        "options": [
+            "A.女性外生殖器即女阴",
+            "B.阴道前庭为两侧大阴唇之间的裂隙",
+            "C.阴道前庭前部有尿道的开口",
+            "D.阴道前庭后部有阴道的开口",
+            "E.阴道口两侧有前庭大腺开口"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 296
+    },
+    {
+        "question_text": "1838、关于阴道的叙述，正确的是 （  ）",
+        "options": [
+            "A.前面盖有腹膜",
+            "B.上端包绕子宫颈全部",
+            "C.阴道穹以前部最深",
+            "D.阴道属女性外生殖器",
+            "E.阴道下部穿经尿生殖膈"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 297
+    },
+    {
+        "question_text": "1839、对阴道的描述，错误的是 （  ）",
+        "options": [
+            "A.上端包绕子宫颈阴道部",
+            "B.下端开口于阴道前庭",
+            "C.阴道后穹比前穹深",
+            "D.阴道后穹与膀胱子宫陷凹相邻",
+            "E.阴道穿过尿生殖膈"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 298
+    },
+    {
+        "question_text": "1840、对阴道位置的描述，正确的是 （  ）",
+        "options": [
+            "A.是腹膜内位器官",
+            "B.位于尿道前方",
+            "C.位于膀胱下方",
+            "D.位于直肠后方",
+            "E.阴道后穹最深"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 299
+    },
+    {
+        "question_text": "1841、对阴道前庭的描述，错误的是 （  ）",
+        "options": [
+            "A.位于两侧小阴唇之间的裂隙",
+            "B.前部有尿道外口",
+            "C.后部有阴道口",
+            "D.中部有子宫口",
+            "E.阴道口两侧各有1个前庭大腺导管开口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 300
+    },
+    {
+        "question_text": "1842、对前庭大腺的描述，正确的是 （  ）",
+        "options": [
+            "A.属于内分泌腺",
+            "B.位于前庭球深面",
+            "C.位于前庭球外侧",
+            "D.在阴蒂根部",
+            "E.导管开口于阴道前庭内，阴道口的两侧"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 301
+    },
+    {
+        "question_text": "1843、对阴道前庭的描述，正确的是 （  ）",
+        "options": [
+            "A.两侧大阴唇之间的裂隙",
+            "B.是两侧小阴唇之间的裂隙",
+            "C.尿道外口在后方，阴道口在前方",
+            "D.阴道前庭又称阴道穹",
+            "E.前庭球位于阴道前庭内"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 302
+    },
+    {
+        "question_text": "1844、对阴蒂的描述，正确的是 （  ）",
+        "options": [
+            "A.由阴蒂海绵体组成",
+            "B.相当于男性的尿道海绵体",
+            "C.附着于耻骨上支",
+            "D.位于前庭球的后端",
+            "E.神经末梢丰富"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 303
+    },
+    {
+        "question_text": "1845、乳房的构成不包括 （  ）",
+        "options": [
+            "A.皮肤",
+            "B.皮下脂肪",
+            "C.纤维组织",
+            "D.胸大肌",
+            "E.乳腺"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 304
+    },
+    {
+        "question_text": "1846、对乳房的描述，错误的是 （  ）",
+        "options": [
+            "A.乳腺叶有15—20个",
+            "B.每个腺叶有1个排泄管，称输乳管",
+            "C.输乳管以乳头为中心，呈放射状排列",
+            "D.乳头周围的皮肤色素较多，形成乳晕",
+            "E.男性乳头位置较为恒定，多位于第5肋间隙"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 305
+    },
+    {
+        "question_text": "1847、对乳房的描述，正确的是 （  ）",
+        "options": [
+            "A.位于深筋膜深面",
+            "B.男性乳头位置较为恒定，多位于第5肋间隙",
+            "C.每个乳腺叶有多条排泄管",
+            "D.输乳管以乳头为中心，呈放射状排列",
+            "E.乳房悬韧带将腺体分割为乳腺叶"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 306
+    },
+    {
+        "question_text": "1848、关于乳房的叙述，错误的是 （  ）",
+        "options": [
+            "A.由大量结缔组织束和乳腺构成",
+            "B.乳腺叶以乳头为中心呈放射状排列",
+            "C.每个乳腺叶只有一个输乳管",
+            "D.乳晕皮肤较薄而易受损伤",
+            "E.乳房悬韧带对乳腺有支持和固定作用"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 307
+    },
+    {
+        "question_text": "1849、乳腺手术时，宜作（  ）",
+        "options": [
+            "A.环形切口",
+            "B.横形切口",
+            "C.斜形切口",
+            "D.放射状切口",
+            "E.任意形切口"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 308
+    },
+    {
+        "question_text": "1850、乳房悬韧带（  ）",
+        "options": [
+            "A.由乳腺周围的纤维束连于胸小肌构成",
+            "B.由乳腺周围的纤维束连于胸筋膜、皮肤和乳头构成",
+            "C.由乳腺周围的纤维束连于胸大肌构成",
+            "D.由乳腺周围的纤维束连于肋构成",
+            "E.由乳腺周围的纤维束连于肋间肌构成"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 309
+    },
+    {
+        "question_text": "1851、乳腺癌早期常见橘皮样病变是由于侵犯了（  ）",
+        "options": [
+            "A.乳房悬韧带",
+            "B.子宫阔韧带",
+            "C.子宫园韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 310
+    },
+    {
+        "question_text": "1852、卵细胞受精的部位通常是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 311
+    },
+    {
+        "question_text": "1853、输卵管直径最细的部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 312
+    },
+    {
+        "question_text": "1854、结扎输卵管最理想的部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 313
+    },
+    {
+        "question_text": "1855、手术中辨认输卵管的标志是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 314
+    },
+    {
+        "question_text": "1856、输卵管结扎部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 315
+    },
+    {
+        "question_text": "1857、受精部位是 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 316
+    },
+    {
+        "question_text": "1858、是手术时辨认输卵管的标志 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 317
+    },
+    {
+        "question_text": "1859、开口于腹膜腔 （  ）",
+        "options": [
+            "A.输卵管子宫部",
+            "B.输卵管峡",
+            "C.输卵管壶腹",
+            "D.输卵管漏斗",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 318
+    },
+    {
+        "question_text": "1860、防止子宫向两侧移位的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 319
+    },
+    {
+        "question_text": "1861、行于腹股沟管内的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 320
+    },
+    {
+        "question_text": "1862、主要固定子宫颈，防止子宫脱垂的结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 321
+    },
+    {
+        "question_text": "1863、维持子宫前倾的主要结构是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫圆韧带",
+            "C.子宫主韧带",
+            "D.子宫骶韧带",
+            "E.卵巢悬韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 322
+    },
+    {
+        "question_text": "1864、子宫与输卵管相接处为 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 323
+    },
+    {
+        "question_text": "1865、下端被阴道上端包绕 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 324
+    },
+    {
+        "question_text": "1866、子宫颈管的下口为 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 325
+    },
+    {
+        "question_text": "1867、呈前后扁的三角形 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫口",
+            "D.子宫颈",
+            "E.子宫腔"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 326
+    },
+    {
+        "question_text": "1868、防止子宫下垂 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 327
+    },
+    {
+        "question_text": "1869、维持子宫前倾 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 328
+    },
+    {
+        "question_text": "1870、限制子宫向两侧移位 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 329
+    },
+    {
+        "question_text": "1871、前庭大腺开口于（  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫阔韧带",
+            "C.子宫主韧带",
+            "D.阴道前庭",
+            "E.阴道穹"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 330
+    },
+    {
+        "question_text": "1872、有子宫动脉的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 331
+    },
+    {
+        "question_text": "1873、内有卵巢动脉的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 332
+    },
+    {
+        "question_text": "1874、通过腹股沟管的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 333
+    },
+    {
+        "question_text": "1875、连接到子宫底的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 334
+    },
+    {
+        "question_text": "1876、连接到骶骨的韧带是 （  ）",
+        "options": [
+            "A.骶子宫韧带",
+            "B.子宫阔韧带",
+            "C.子宫圆韧带",
+            "D.卵巢悬韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 335
+    },
+    {
+        "question_text": "1915、广义会阴的描述，错误的是 （  ）",
+        "options": [
+            "A.前界是耻骨联合下缘",
+            "B.后界是尾骨尖",
+            "C.坐骨结节连线以前为尿生殖区",
+            "D.坐骨结节连线以后为肛区",
+            "E.尿道和肛管都通过尿生殖区"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 336
+    },
+    {
+        "question_text": "1916、狭义的会阴是指 （  ）",
+        "options": [
+            "A.盆腔以下的软组织",
+            "B.尿生殖膈以下的软组织",
+            "C.耻骨联合至外生殖器之间的软组织",
+            "D.肛门至外生殖器之间的软组织",
+            "E.肛门至尾骨尖的软组织"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 337
+    },
+    {
+        "question_text": "1917、尿生殖区与肛区的分界是 （  ）",
+        "options": [
+            "A.坐骨结节之间的连线",
+            "B.耻骨结节之间的连线",
+            "C.坐骨棘之间的连线",
+            "D.坐骨结节与耻骨结节之间的连线",
+            "E.坐骨结节与坐骨棘之间的连线"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 338
+    },
+    {
+        "question_text": "1918、对盆膈组成的描述，正确的是 （  ）",
+        "options": [
+            "A.由会阴深横肌和盆膈上、下筋膜构成",
+            "B.由肛提肌和尿生殖膈上、下筋膜构成",
+            "C.由尿生殖膈和浅层软组织构成",
+            "D.由肛提肌、尾骨肌和盆膈上、下筋膜构成",
+            "E.由肛提肌和尾骨肌构成"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 339
+    },
+    {
+        "question_text": "1919、尿生殖膈的构成是 （  ）",
+        "options": [
+            "A.由会阴深横肌、尿道括约肌和尿生殖膈上、下筋膜构成",
+            "B.由肛提肌和尿生殖膈上、下筋膜构成",
+            "C.由肛提肌、尾骨肌和尿生殖膈上、下筋膜构成",
+            "D.由会阴深横肌和盆膈上、下筋膜构成",
+            "E.由会阴深横肌、尿道括约肌和盆膈上、下筋膜构成"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 340
+    },
+    {
+        "question_text": "1920、尿生殖三角内的深层肌是 （  ）",
+        "options": [
+            "A.会阴浅横肌",
+            "B.球海绵体肌",
+            "C.尿道括约肌",
+            "D.尾骨肌",
+            "E.坐骨海绵体肌"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 341
+    },
+    {
+        "question_text": "1921、女性尿生殖三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "A",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 342
+    },
+    {
+        "question_text": "1922、肛三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "C",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 343
+    },
+    {
+        "question_text": "1923、男性腹股沟管内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "D",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 344
+    },
+    {
+        "question_text": "1924、男性尿生殖三角内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "B",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 345
+    },
+    {
+        "question_text": "1925、子宫阔韧带内 （  ）",
+        "options": [
+            "A.有尿道和阴道通过",
+            "B.只有尿道通过",
+            "C.有直肠通过",
+            "D.有输精管通过",
+            "E.有输卵管通过"
+        ],
+        "correct_answer": "E",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 346
+    },
+    {
+        "question_text": "1753、男性内生殖器包括（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.输精管和射精管",
+            "D.前列腺",
+            "E.阴茎"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 347
+    },
+    {
+        "question_text": "1754、男性生殖器的附属腺体是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.前列腺",
+            "C.附睾",
+            "D.精囊",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 348
+    },
+    {
+        "question_text": "1755、睾丸（  ）",
+        "options": [
+            "A.是男性生殖腺",
+            "B.位于阴囊内",
+            "C.下端与附睾相连",
+            "D.后缘有血管、神经和淋巴管出入",
+            "E.表面随年龄增长而逐渐粗糙"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 349
+    },
+    {
+        "question_text": "1756、睾丸（  ）",
+        "options": [
+            "A.表面有一层坚厚的白膜",
+            "B.后缘的白膜增厚形成睾丸纵隔",
+            "C.睾丸纵隔伸入实质将睾丸分为皮质和髓质",
+            "D.精曲小管上皮能产生精子",
+            "E.精曲小管之间的间质细胞能分泌雄激素"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 350
+    },
+    {
+        "question_text": "1757、附睾（  ）",
+        "options": [
+            "A.始于睾丸下端",
+            "B.上端膨大为附睾头",
+            "C.头部由精曲小管盘曲而成",
+            "D.属男性生殖器的附属腺体",
+            "E.是储存精子的场所"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 351
+    },
+    {
+        "question_text": "1758、输精管可分为（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.前列腺部",
+            "C.精索部",
+            "D.腹股沟管部",
+            "E.盆部"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 352
+    },
+    {
+        "question_text": "1759、精索（  ）",
+        "options": [
+            "A.是一对柔软的圆索状结构",
+            "B.由腹股沟管腹环延至睾丸上端",
+            "C.有腹膜包被",
+            "D.主要有输精管、睾丸动脉和蔓状静脉丛",
+            "E.表面包有3层被膜"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 353
+    },
+    {
+        "question_text": "1760、精索内含有（  ）",
+        "options": [
+            "A.输精管",
+            "B.射精管",
+            "C.睾丸动脉",
+            "D.蔓状静脉丛",
+            "E.神经和淋巴"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 354
+    },
+    {
+        "question_text": "1761、关于前列腺的描述，正确的是（  ）",
+        "options": [
+            "A.成对的实质性器官",
+            "B.由腺组织和平滑肌组成",
+            "C.表面包有筋膜鞘，称前列腺囊",
+            "D.囊与前列腺之间有静脉丛",
+            "E.其分泌物是精液的主要组成成分"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 355
+    },
+    {
+        "question_text": "1762、前列腺（  ）",
+        "options": [
+            "A.排泄管与射精管汇合，开口于尿道前列腺部",
+            "B.中叶位于尿道后方，肥大时压迫尿道引起排尿困难",
+            "C.底部中线上有纵行的前列腺沟",
+            "D.直肠指检时，可摸到前列腺沟",
+            "E.一般可分为前、中、后叶及两个侧叶"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 356
+    },
+    {
+        "question_text": "1763、精液的液体成分主要来自（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精囊",
+            "D.尿道球腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 357
+    },
+    {
+        "question_text": "1764、男性尿道（  ）",
+        "options": [
+            "A.膜部最短",
+            "B.耻骨前弯恒定不变",
+            "C.耻骨下弯可因提拉阴茎而变直",
+            "D.前列腺部有射精管开口",
+            "E.尿道球部有尿道球腺开口"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 358
+    },
+    {
+        "question_text": "1765、男性尿道（  ）",
+        "options": [
+            "A.尿道球部有尿道球腺的开口",
+            "B.膜部穿经尿生殖隔",
+            "C.前列腺部有射精管的开口",
+            "D.尿道舟状窝是尿道最宽的部分",
+            "E.尿道外口为最狭窄的部位"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 359
+    },
+    {
+        "question_text": "1766、临床上称的男性后尿道包括尿道的（  ）",
+        "options": [
+            "A.前列腺部",
+            "B.海绵体部",
+            "C.膜部",
+            "D.尿道球部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 360
+    },
+    {
+        "question_text": "1767、男性尿道的三个膨大位于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道前列腺部",
+            "D.尿道舟状窝",
+            "E.尿道膜部"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 361
+    },
+    {
+        "question_text": "1768、男性尿道的三个狭窄位于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道外口",
+            "C.尿道前列腺部",
+            "D.尿道舟状窝",
+            "E.尿道膜部"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 362
+    },
+    {
+        "question_text": "1769、阴囊（  ）",
+        "options": [
+            "A.肉膜是阴囊的浅筋膜，含平滑肌",
+            "B.深筋膜形成阴囊中隔，分阴囊腔为左、右两部",
+            "C.睾丸鞘膜来源来腹膜，分脏、壁两层",
+            "D.精索外筋膜是腹外斜肌腱膜的延续",
+            "E.精索内筋膜是腹横肌腱膜的延续"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 363
+    },
+    {
+        "question_text": "1770、阴茎（  ）",
+        "options": [
+            "A.后端的根固定于耻骨下支和坐骨支",
+            "B.前端尿道外口的下方有包皮系带",
+            "C.由两个阴茎海绵体和一个尿道海绵体组成",
+            "D.尿道海绵体位于阴茎海绵体的背侧",
+            "E.阴茎包皮为双层环形皮肤皱襞"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 364
+    },
+    {
+        "question_text": "1771、Which of the following organs compose the male internal genital organs (内生殖 器)?",
+        "options": [
+            "A.testes",
+            "B.epididymis (附睾)",
+            "C.ductus deferens (输精管)",
+            "D.ejaculatory ducts (射精管)",
+            "E.scrotum"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 365
+    },
+    {
+        "question_text": "1772、Which of the following organs compose the male internal genital organs?",
+        "options": [
+            "A.penis(阴茎)",
+            "B.testes",
+            "C.epididymis",
+            "D.ductus deferens",
+            "E.ejaculatory duct"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 366
+    },
+    {
+        "question_text": "1773、Which of the following organs compose the male transport semen canal (输精管道)?",
+        "options": [
+            "A.testes",
+            "B.epididymis",
+            "C.ductus defrens",
+            "D.ejaculatory ducts",
+            "E.male urethra"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 367
+    },
+    {
+        "question_text": "1774、Which of the following organs compose the male accessory glands?",
+        "options": [
+            "A.testes",
+            "B.prostate",
+            "C.seminal vesicle (精囊腺)",
+            "D.epididymis",
+            "E.bulbourethral gland (尿道球腺)"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 368
+    },
+    {
+        "question_text": "1775、About the ductus deferens, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the longest part of the transport semen canal..",
+            "B.It transmits the spermatozoa (精子) (sperm) from the epididymis to the ejaculatory duct.",
+            "C.According to the course, it can be divided into3 parts.",
+            "D.The part between the superior end of the testis and superficial inguinal ring is the region where th",
+            "E.Its terminal portion becomes enlargement and is named the ampulla of ductus deferens (输精管壶腹)."
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 369
+    },
+    {
+        "question_text": "1776、The male urethra can be divided into which of the following portions.",
+        "options": [
+            "A.abdominal part",
+            "B.pelvic part",
+            "C.prostatic part",
+            "D.membranous part",
+            "E.cavernous part（海绵体部）"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 370
+    },
+    {
+        "question_text": "1777、The constrictions in the male urethra are located in which of the following regions.",
+        "options": [
+            "A.internal urethral orifice",
+            "B.external urethral orifice",
+            "C.membranous part of urethra",
+            "D.prostatic part",
+            "E.cavernous part（海绵体部）"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 371
+    },
+    {
+        "question_text": "1877、女性内生殖器的输送管道包括 （  ）",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.阴道",
+            "E.尿道"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 372
+    },
+    {
+        "question_text": "1878、卵巢 （  ）",
+        "options": [
+            "A.位于小骨盆腔内",
+            "B.上端与盆壁之间有卵巢悬韧带",
+            "C.下端与子宫之间有卵巢固有韧带",
+            "D.前缘有卵巢系膜",
+            "E.为腹膜内位器官"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 373
+    },
+    {
+        "question_text": "1879、卵巢 （ ）",
+        "options": [
+            "A.贴靠于盆侧壁的卵巢窝内",
+            "B.下端与子宫之间有卵巢固有韧带",
+            "C.成年人卵巢呈卵圆形，表面光滑",
+            "D.前缘中部为卵巢门，有血管、神经等出入",
+            "E.上端为输卵管端，与输卵管末端相接触"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 374
+    },
+    {
+        "question_text": "1880、卵巢位置的固定有 （  ）",
+        "options": [
+            "A.子宫系膜",
+            "B.输卵管系膜",
+            "C.卵巢悬韧带",
+            "D.卵巢固有韧带",
+            "E.卵巢系膜"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 375
+    },
+    {
+        "question_text": "1881、对输卵管的描述，正确的是 （  ）",
+        "options": [
+            "A.输卵管壶腹最长，占输卵管全长2/3",
+            "B.女性结扎部位在输卵管子宫部",
+            "C.输卵管漏斗末端开口于腹膜腔",
+            "D.位于子宫阔韧带上缘内",
+            "E.输卵管子宫口通子宫腔"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 376
+    },
+    {
+        "question_text": "1882、输卵管 （  ）",
+        "options": [
+            "A.是输送卵子的管道",
+            "B.分为子宫部、峡部、壶腹部和漏斗部",
+            "C.输卵管结扎术常在峡部进行",
+            "D.卵子一般在壶腹部内受精",
+            "E.输卵管外侧端开口于卵巢"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 377
+    },
+    {
+        "question_text": "1883、输卵管的分部包括 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 378
+    },
+    {
+        "question_text": "1884、子宫的分部包括 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫底",
+            "C.子宫体",
+            "D.子宫颈",
+            "E.子宫峡"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 379
+    },
+    {
+        "question_text": "1885、对子宫位置的叙述，正确的是 （  ）",
+        "options": [
+            "A.位于骨盆中央",
+            "B.前邻膀胱",
+            "C.后邻直肠",
+            "D.两侧邻卵巢和输卵管",
+            "E.下端接阴道"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 380
+    },
+    {
+        "question_text": "1886、对子宫的描述，正确的是 （  ）",
+        "options": [
+            "A.成人子宫呈前倾前屈位",
+            "B.子宫前面有膀胱子宫陷凹",
+            "C.子宫后面有直肠子宫陷凹",
+            "D.子宫颈下端在坐骨棘平面以上",
+            "E.子宫颈全部包绕在阴道上端内"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 381
+    },
+    {
+        "question_text": "1887、子宫 （  ）",
+        "options": [
+            "A.位于盆腔中央",
+            "B.属腹膜内位器官",
+            "C.两侧有输卵管和卵巢",
+            "D.呈前倾前屈位",
+            "E.子宫内膜为粘膜下层"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 382
+    },
+    {
+        "question_text": "1888、子宫的年龄变化 （  ）",
+        "options": [
+            "A.性成熟前期子宫迅速发育，壁增厚",
+            "B.新生儿子宫高出小骨盆上口",
+            "C.绝经期后萎缩变小",
+            "D.经产妇的子宫缩小",
+            "E.性成熟期，子宫颈和子宫体长度几乎相等"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 383
+    },
+    {
+        "question_text": "1889、子宫 （  ）",
+        "options": [
+            "A.体与颈呈向前开放的钝角称的前屈",
+            "B.长轴与阴道呈向前开放的钝角称前倾",
+            "C.人体站立时，子宫体伏于膀胱上面",
+            "D.子宫腔为梭形的狭窄腔隙",
+            "E.子宫颈管下端经子宫口通阴道"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 384
+    },
+    {
+        "question_text": "1890、子宫峡 （  ）",
+        "options": [
+            "A.是子宫颈阴道部的上部",
+            "B.是子宫体与子宫颈阴道上部之间稍细处",
+            "C.非妊娠期此部长约1cm",
+            "D.妊娠末期明显延长",
+            "E.产科常在此处剖宫取胎"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 385
+    },
+    {
+        "question_text": "1891、子宫颈 （  ）",
+        "options": [
+            "A.是子宫下部的狭窄部",
+            "B.可分阴道上部和阴道下部",
+            "C.未产妇子宫口为圆形",
+            "D.是肿瘤好发的部位",
+            "E.内腔为梭形"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 386
+    },
+    {
+        "question_text": "1892、子宫内的腔隙是包括（  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫腔",
+            "D.子宫颈管",
+            "E.子宫颈阴道部"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 387
+    },
+    {
+        "question_text": "1893、子宫附件包括 （  ）",
+        "options": [
+            "A.子宫颈",
+            "B.卵巢",
+            "C.输卵管",
+            "D.前庭大腺",
+            "E.前庭球"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 388
+    },
+    {
+        "question_text": "1894、子宫的固定结构有 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.卵巢子宫索",
+            "C.子宫圆韧带",
+            "D.子宫主韧带",
+            "E.盆底肌"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 389
+    },
+    {
+        "question_text": "1895、由结缔组织和平滑肌组成的韧带是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫主韧带",
+            "C.子宫骶韧带",
+            "D.子宫圆韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 390
+    },
+    {
+        "question_text": "1896、维持子宫颈前倾前屈的韧带是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫主韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.骨盆漏斗韧带"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 391
+    },
+    {
+        "question_text": "1897、子宫阔韧带 （  ）",
+        "options": [
+            "A.是子宫两侧的双层腹膜结构",
+            "B.后叶与卵巢前缘之间为卵巢系膜",
+            "C.子宫系膜内有子宫动、静脉",
+            "D.子宫系膜与卵巢之间为输卵管系膜",
+            "E.前叶覆盖卵巢固有韧带"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 392
+    },
+    {
+        "question_text": "1898、位于子宫阔韧带中的结构包括 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫骶韧带",
+            "C.输卵管",
+            "D.阴道",
+            "E.子宫动脉"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 393
+    },
+    {
+        "question_text": "1899、阴道 （  ）",
+        "options": [
+            "A.为女性排尿与排卵的管道",
+            "B.阴道后穹与直肠子宫陷凹相邻",
+            "C.前方与膀胱和尿道相邻",
+            "D.后方与直肠相邻",
+            "E.阴道口开口于阴道前庭"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 394
+    },
+    {
+        "question_text": "1900、前庭大腺 （  ）",
+        "options": [
+            "A.是女性的内分泌腺",
+            "B.位于尿道口的两侧",
+            "C.位于前庭球后端的深面",
+            "D.导管开口于阴道前庭",
+            "E.因炎症而形成的囊肿可引起排尿困难"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 395
+    },
+    {
+        "question_text": "1901、对阴道的描述，正确的是 （  ）",
+        "options": [
+            "A.是连接子宫和外生殖器的管道",
+            "B.下端以阴道口开口于阴道前庭",
+            "C.前邻膀胱和尿道",
+            "D.后邻直肠",
+            "E.穿过尿生殖膈"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 396
+    },
+    {
+        "question_text": "1902、女阴肉眼可见的结构包括 （  ）",
+        "options": [
+            "A.会阴中心腱",
+            "B.小阴唇",
+            "C.前庭大腺",
+            "D.阴道前庭",
+            "E.尿道外口"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 397
+    },
+    {
+        "question_text": "1903、开口于阴道前庭的结构是 （  ）",
+        "options": [
+            "A.尿道口",
+            "B.阴道口",
+            "C.子宫口",
+            "D.前庭大腺导管开口",
+            "E.尿道旁腺开口"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 398
+    },
+    {
+        "question_text": "1904、女性外生殖器包括 （  ）",
+        "options": [
+            "A.阴阜",
+            "B.大、小阴唇",
+            "C.阴道前庭",
+            "D.阴蒂",
+            "E.前庭球"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 399
+    },
+    {
+        "question_text": "1905、对乳房的结构描述，正确的是 （  ）",
+        "options": [
+            "A.乳房由皮肤、皮下脂肪、纤维组织和乳腺构成",
+            "B.乳腺叶有15—20个",
+            "C.每个乳腺叶有一条输乳管",
+            "D.乳腺浅面的纤维组织连于皮肤构成乳房悬韧带",
+            "E.输乳管开口于乳头"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 400
+    },
+    {
+        "question_text": "1906、乳房的位置和形态 （  ）",
+        "options": [
+            "A.乳房位于胸大肌表面的浅筋膜内",
+            "B.乳头平对第4肋间隙或第5助",
+            "C.乳头顶端有输乳管开口",
+            "D.乳晕深面含乳晕腺",
+            "E.乳房内侧至胸骨旁线，外侧达腋中线"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 401
+    },
+    {
+        "question_text": "1907、乳房的结构 （  ）",
+        "options": [
+            "A.乳房由皮肤、皮下脂肪、纤维组织和乳腺构成",
+            "B.乳房悬韧带对乳房起支持和固定作用",
+            "C.输乳管近乳头处扩大形成输乳管窦",
+            "D.输乳管以乳头为中心环形排列",
+            "E.每一乳腺叶有两条输乳管"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 402
+    },
+    {
+        "question_text": "1908、乳房的结构 （  ）",
+        "options": [
+            "A.皮肤",
+            "B.皮下脂肪",
+            "C.纤维组织",
+            "D.胸大肌",
+            "E.乳腺"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 403
+    },
+    {
+        "question_text": "1909、Which of the following organs compose the female internal genital organs?",
+        "options": [
+            "A.ovary",
+            "B.uterine tube",
+            "C.uterus",
+            "D.vagina",
+            "E.vaginal vestibule (阴道前庭)"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 404
+    },
+    {
+        "question_text": "1910、About the ovaries, which of the following descriptions are correct?",
+        "options": [
+            "A.Each ovary lies in the ovarian fossa on the lateral wall of the pelvic cavity.",
+            "B.Each ovary has two extremities, two borders and two surfaces.",
+            "C.The superior extremity is also called the uterine extremity.",
+            "D.At the middle portion of the posterior border is the hilum of ovary.",
+            "E.The suspensory ligament of the ovary (卵巢悬韧带)contains the ovarian vessels and nerves."
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 405
+    },
+    {
+        "question_text": "1911、The uterine tube can be divided into which of the following portions.",
+        "options": [
+            "A.uterine part （子宫部）",
+            "B.isthmus of uterine tube （输卵管峡）",
+            "C.ampulla of uterine tube",
+            "D.pelvic part of uterine tube",
+            "E.infundibulum of uterine tube"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 406
+    },
+    {
+        "question_text": "1912、About the uterine tube, which of the following descriptions are correct?",
+        "options": [
+            "A.The paired uterine tubes transport ovums from the overies to the uterus.",
+            "B.It can be divided into 3 parts.",
+            "C.The isthmus of uterine tube is the narrowest part and is the region where the ligation of the uterin",
+            "D.Fertilization occurs in the uterine part of uterine tube.",
+            "E.The infundibulum of the uterine tube bears s number of finger-like processes called fimbriae of uter"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 407
+    },
+    {
+        "question_text": "1913、The uterus can be divided into which of the following portions.",
+        "options": [
+            "A.fundus of uterus",
+            "B.isthmus of uterus",
+            "C.body of uterus",
+            "D.orifice of uterus",
+            "E.cervix of uterus"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 408
+    },
+    {
+        "question_text": "1914、Which of the following structures have the function to maintain the uterus in its normal position?",
+        "options": [
+            "A.muscles of the pelvic floor",
+            "B.broad ligament of uterus",
+            "C.cardinal ligament of uterus",
+            "D.round ligament of uterus",
+            "E.uterosacral ligament"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 409
+    },
+    {
+        "question_text": "1926、会阴 （  ）",
+        "options": [
+            "A.广义的会阴呈菱形",
+            "B.尿生殖三角只有尿道穿过",
+            "C.肛门三角只有直肠穿过",
+            "D.狭义的会阴是指外生殖器与耻骨联合之间的区域",
+            "E.尿生殖三角与肛门三角的分界是坐骨棘之间的连线"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 410
+    },
+    {
+        "question_text": "1927、盆膈的构成是 （  ）",
+        "options": [
+            "A.盆膈上筋膜",
+            "B.肛提肌",
+            "C.尾骨肌",
+            "D.盆膈下筋膜",
+            "E.会阴深横肌"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 411
+    },
+    {
+        "question_text": "1928、尿生殖膈的构成是 （  ）",
+        "options": [
+            "A.会阴浅横肌",
+            "B.会阴深横肌",
+            "C.尿道括约肌",
+            "D.尿生殖膈上筋膜",
+            "E.尿生殖膈下筋膜"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 412
+    },
+    {
+        "question_text": "1753、男性内生殖器包括（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.输精管和射精管",
+            "D.前列腺",
+            "E.阴茎"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 413
+    },
+    {
+        "question_text": "1754、男性生殖器的附属腺体是（  ）",
+        "options": [
+            "A.睾丸",
+            "B.前列腺",
+            "C.附睾",
+            "D.精囊",
+            "E.尿道球腺"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 414
+    },
+    {
+        "question_text": "1755、睾丸（  ）",
+        "options": [
+            "A.是男性生殖腺",
+            "B.位于阴囊内",
+            "C.下端与附睾相连",
+            "D.后缘有血管、神经和淋巴管出入",
+            "E.表面随年龄增长而逐渐粗糙"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 415
+    },
+    {
+        "question_text": "1756、睾丸（  ）",
+        "options": [
+            "A.表面有一层坚厚的白膜",
+            "B.后缘的白膜增厚形成睾丸纵隔",
+            "C.睾丸纵隔伸入实质将睾丸分为皮质和髓质",
+            "D.精曲小管上皮能产生精子",
+            "E.精曲小管之间的间质细胞能分泌雄激素"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 416
+    },
+    {
+        "question_text": "1757、附睾（  ）",
+        "options": [
+            "A.始于睾丸下端",
+            "B.上端膨大为附睾头",
+            "C.头部由精曲小管盘曲而成",
+            "D.属男性生殖器的附属腺体",
+            "E.是储存精子的场所"
+        ],
+        "correct_answer": "BE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 417
+    },
+    {
+        "question_text": "1758、输精管可分为（  ）",
+        "options": [
+            "A.睾丸部",
+            "B.前列腺部",
+            "C.精索部",
+            "D.腹股沟管部",
+            "E.盆部"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 418
+    },
+    {
+        "question_text": "1759、精索（  ）",
+        "options": [
+            "A.是一对柔软的圆索状结构",
+            "B.由腹股沟管腹环延至睾丸上端",
+            "C.有腹膜包被",
+            "D.主要有输精管、睾丸动脉和蔓状静脉丛",
+            "E.表面包有3层被膜"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 419
+    },
+    {
+        "question_text": "1760、精索内含有（  ）",
+        "options": [
+            "A.输精管",
+            "B.射精管",
+            "C.睾丸动脉",
+            "D.蔓状静脉丛",
+            "E.神经和淋巴"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 420
+    },
+    {
+        "question_text": "1761、关于前列腺的描述，正确的是（  ）",
+        "options": [
+            "A.成对的实质性器官",
+            "B.由腺组织和平滑肌组成",
+            "C.表面包有筋膜鞘，称前列腺囊",
+            "D.囊与前列腺之间有静脉丛",
+            "E.其分泌物是精液的主要组成成分"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 421
+    },
+    {
+        "question_text": "1762、前列腺（  ）",
+        "options": [
+            "A.排泄管与射精管汇合，开口于尿道前列腺部",
+            "B.中叶位于尿道后方，肥大时压迫尿道引起排尿困难",
+            "C.底部中线上有纵行的前列腺沟",
+            "D.直肠指检时，可摸到前列腺沟",
+            "E.一般可分为前、中、后叶及两个侧叶"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 422
+    },
+    {
+        "question_text": "1763、精液的液体成分主要来自（  ）",
+        "options": [
+            "A.睾丸",
+            "B.附睾",
+            "C.精囊",
+            "D.尿道球腺",
+            "E.前列腺"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 423
+    },
+    {
+        "question_text": "1764、男性尿道（  ）",
+        "options": [
+            "A.膜部最短",
+            "B.耻骨前弯恒定不变",
+            "C.耻骨下弯可因提拉阴茎而变直",
+            "D.前列腺部有射精管开口",
+            "E.尿道球部有尿道球腺开口"
+        ],
+        "correct_answer": "ADE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 424
+    },
+    {
+        "question_text": "1765、男性尿道（  ）",
+        "options": [
+            "A.尿道球部有尿道球腺的开口",
+            "B.膜部穿经尿生殖隔",
+            "C.前列腺部有射精管的开口",
+            "D.尿道舟状窝是尿道最宽的部分",
+            "E.尿道外口为最狭窄的部位"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 425
+    },
+    {
+        "question_text": "1766、临床上称的男性后尿道包括尿道的（  ）",
+        "options": [
+            "A.前列腺部",
+            "B.海绵体部",
+            "C.膜部",
+            "D.尿道球部",
+            "E.尿道舟状窝"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 426
+    },
+    {
+        "question_text": "1767、男性尿道的三个膨大位于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道球部",
+            "C.尿道前列腺部",
+            "D.尿道舟状窝",
+            "E.尿道膜部"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 427
+    },
+    {
+        "question_text": "1768、男性尿道的三个狭窄位于（  ）",
+        "options": [
+            "A.尿道内口",
+            "B.尿道外口",
+            "C.尿道前列腺部",
+            "D.尿道舟状窝",
+            "E.尿道膜部"
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 428
+    },
+    {
+        "question_text": "1769、阴囊（  ）",
+        "options": [
+            "A.肉膜是阴囊的浅筋膜，含平滑肌",
+            "B.深筋膜形成阴囊中隔，分阴囊腔为左、右两部",
+            "C.睾丸鞘膜来源来腹膜，分脏、壁两层",
+            "D.精索外筋膜是腹外斜肌腱膜的延续",
+            "E.精索内筋膜是腹横肌腱膜的延续"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 429
+    },
+    {
+        "question_text": "1770、阴茎（  ）",
+        "options": [
+            "A.后端的根固定于耻骨下支和坐骨支",
+            "B.前端尿道外口的下方有包皮系带",
+            "C.由两个阴茎海绵体和一个尿道海绵体组成",
+            "D.尿道海绵体位于阴茎海绵体的背侧",
+            "E.阴茎包皮为双层环形皮肤皱襞"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 430
+    },
+    {
+        "question_text": "1771、Which of the following organs compose the male internal genital organs (内生殖 器)?",
+        "options": [
+            "A.testes",
+            "B.epididymis (附睾)",
+            "C.ductus deferens (输精管)",
+            "D.ejaculatory ducts (射精管)",
+            "E.scrotum"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 431
+    },
+    {
+        "question_text": "1772、Which of the following organs compose the male internal genital organs?",
+        "options": [
+            "A.penis(阴茎)",
+            "B.testes",
+            "C.epididymis",
+            "D.ductus deferens",
+            "E.ejaculatory duct"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 432
+    },
+    {
+        "question_text": "1773、Which of the following organs compose the male transport semen canal (输精管道)?",
+        "options": [
+            "A.testes",
+            "B.epididymis",
+            "C.ductus defrens",
+            "D.ejaculatory ducts",
+            "E.male urethra"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 433
+    },
+    {
+        "question_text": "1774、Which of the following organs compose the male accessory glands?",
+        "options": [
+            "A.testes",
+            "B.prostate",
+            "C.seminal vesicle (精囊腺)",
+            "D.epididymis",
+            "E.bulbourethral gland (尿道球腺)"
+        ],
+        "correct_answer": "BCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 434
+    },
+    {
+        "question_text": "1775、About the ductus deferens, which of the following descriptions are correct?",
+        "options": [
+            "A.It is the longest part of the transport semen canal..",
+            "B.It transmits the spermatozoa (精子) (sperm) from the epididymis to the ejaculatory duct.",
+            "C.According to the course, it can be divided into3 parts.",
+            "D.The part between the superior end of the testis and superficial inguinal ring is the region where th",
+            "E.Its terminal portion becomes enlargement and is named the ampulla of ductus deferens (输精管壶腹)."
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 435
+    },
+    {
+        "question_text": "1776、The male urethra can be divided into which of the following portions.",
+        "options": [
+            "A.abdominal part",
+            "B.pelvic part",
+            "C.prostatic part",
+            "D.membranous part",
+            "E.cavernous part（海绵体部）"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 436
+    },
+    {
+        "question_text": "1777、The constrictions in the male urethra are located in which of the following regions.",
+        "options": [
+            "A.internal urethral orifice",
+            "B.external urethral orifice",
+            "C.membranous part of urethra",
+            "D.prostatic part",
+            "E.cavernous part（海绵体部）"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 437
+    },
+    {
+        "question_text": "1877、女性内生殖器的输送管道包括 （  ）",
+        "options": [
+            "A.卵巢",
+            "B.输卵管",
+            "C.子宫",
+            "D.阴道",
+            "E.尿道"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 438
+    },
+    {
+        "question_text": "1878、卵巢 （  ）",
+        "options": [
+            "A.位于小骨盆腔内",
+            "B.上端与盆壁之间有卵巢悬韧带",
+            "C.下端与子宫之间有卵巢固有韧带",
+            "D.前缘有卵巢系膜",
+            "E.为腹膜内位器官"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 439
+    },
+    {
+        "question_text": "1879、卵巢 （  ）",
+        "options": [
+            "A.贴靠于盆侧壁的卵巢窝内",
+            "B.下端与子宫之间有卵巢固有韧带",
+            "C.成年人卵巢呈卵圆形，表面光滑",
+            "D.前缘中部为卵巢门，有血管、神经等出入",
+            "E.上端为输卵管端，与输卵管末端相接触"
+        ],
+        "correct_answer": "ABDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 440
+    },
+    {
+        "question_text": "1880、卵巢位置的固定有 （  ）",
+        "options": [
+            "A.子宫系膜",
+            "B.输卵管系膜",
+            "C.卵巢悬韧带",
+            "D.卵巢固有韧带",
+            "E.卵巢系膜"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 441
+    },
+    {
+        "question_text": "1881、对输卵管的描述，正确的是 （  ）",
+        "options": [
+            "A.输卵管壶腹最长，占输卵管全长2/3",
+            "B.女性结扎部位在输卵管子宫部",
+            "C.输卵管漏斗末端开口于腹膜腔",
+            "D.位于子宫阔韧带上缘内",
+            "E.输卵管子宫口通子宫腔"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 442
+    },
+    {
+        "question_text": "1882、输卵管 （  ）",
+        "options": [
+            "A.是输送卵子的管道",
+            "B.分为子宫部、峡部、壶腹部和漏斗部",
+            "C.输卵管结扎术常在峡部进行",
+            "D.卵子一般在壶腹部内受精",
+            "E.输卵管外侧端开口于卵巢"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 443
+    },
+    {
+        "question_text": "1883、输卵管的分部包括 （  ）",
+        "options": [
+            "A.子宫部",
+            "B.峡部",
+            "C.壶腹部",
+            "D.漏斗部",
+            "E.输卵管伞"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 444
+    },
+    {
+        "question_text": "1884、子宫的分部包括 （  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫底",
+            "C.子宫体",
+            "D.子宫颈",
+            "E.子宫峡"
+        ],
+        "correct_answer": "BCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 445
+    },
+    {
+        "question_text": "1885、对子宫位置的叙述，正确的是 （  ）",
+        "options": [
+            "A.位于骨盆中央",
+            "B.前邻膀胱",
+            "C.后邻直肠",
+            "D.两侧邻卵巢和输卵管",
+            "E.下端接阴道"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 446
+    },
+    {
+        "question_text": "1886、对子宫的描述，正确的是 （  ）",
+        "options": [
+            "A.成人子宫呈前倾前屈位",
+            "B.子宫前面有膀胱子宫陷凹",
+            "C.子宫后面有直肠子宫陷凹",
+            "D.子宫颈下端在坐骨棘平面以上",
+            "E.子宫颈全部包绕在阴道上端内"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 447
+    },
+    {
+        "question_text": "1887、子宫 （  ）",
+        "options": [
+            "A.位于盆腔中央",
+            "B.属腹膜内位器官",
+            "C.两侧有输卵管和卵巢",
+            "D.呈前倾前屈位",
+            "E.子宫内膜为粘膜下层"
+        ],
+        "correct_answer": "ACD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 448
+    },
+    {
+        "question_text": "1888、子宫的年龄变化 （  ）",
+        "options": [
+            "A.性成熟前期子宫迅速发育，壁增厚",
+            "B.新生儿子宫高出小骨盆上口",
+            "C.绝经期后萎缩变小",
+            "D.经产妇的子宫缩小",
+            "E.性成熟期，子宫颈和子宫体长度几乎相等"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 449
+    },
+    {
+        "question_text": "1889、子宫 （  ）",
+        "options": [
+            "A.体与颈呈向前开放的钝角称的前屈",
+            "B.长轴与阴道呈向前开放的钝角称前倾",
+            "C.人体站立时，子宫体伏于膀胱上面",
+            "D.子宫腔为梭形的狭窄腔隙",
+            "E.子宫颈管下端经子宫口通阴道"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 450
+    },
+    {
+        "question_text": "1890、子宫峡 （  ）",
+        "options": [
+            "A.是子宫颈阴道部的上部",
+            "B.是子宫体与子宫颈阴道上部之间稍细处",
+            "C.非妊娠期此部长约1cm",
+            "D.妊娠末期明显延长",
+            "E.产科常在此处剖宫取胎"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 451
+    },
+    {
+        "question_text": "1891、子宫颈 （  ）",
+        "options": [
+            "A.是子宫下部的狭窄部",
+            "B.可分阴道上部和阴道下部",
+            "C.未产妇子宫口为圆形",
+            "D.是肿瘤好发的部位",
+            "E.内腔为梭形"
+        ],
+        "correct_answer": "ACDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 452
+    },
+    {
+        "question_text": "1892、子宫内的腔隙是包括（  ）",
+        "options": [
+            "A.子宫角",
+            "B.子宫峡",
+            "C.子宫腔",
+            "D.子宫颈管",
+            "E.子宫颈阴道部"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 453
+    },
+    {
+        "question_text": "1893、子宫附件包括 （  ）",
+        "options": [
+            "A.子宫颈",
+            "B.卵巢",
+            "C.输卵管",
+            "D.前庭大腺",
+            "E.前庭球"
+        ],
+        "correct_answer": "BC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 454
+    },
+    {
+        "question_text": "1894、子宫的固定结构有 （  ）",
+        "options": [
+            "A.卵巢悬韧带",
+            "B.卵巢子宫索",
+            "C.子宫圆韧带",
+            "D.子宫主韧带",
+            "E.盆底肌"
+        ],
+        "correct_answer": "CDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 455
+    },
+    {
+        "question_text": "1895、由结缔组织和平滑肌组成的韧带是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫主韧带",
+            "C.子宫骶韧带",
+            "D.子宫圆韧带",
+            "E.卵巢固有韧带"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 456
+    },
+    {
+        "question_text": "1896、维持子宫颈前倾前屈的韧带是 （  ）",
+        "options": [
+            "A.子宫阔韧带",
+            "B.子宫主韧带",
+            "C.子宫圆韧带",
+            "D.子宫骶韧带",
+            "E.骨盆漏斗韧带"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 457
+    },
+    {
+        "question_text": "1897、子宫阔韧带 （  ）",
+        "options": [
+            "A.是子宫两侧的双层腹膜结构",
+            "B.后叶与卵巢前缘之间为卵巢系膜",
+            "C.子宫系膜内有子宫动、静脉",
+            "D.子宫系膜与卵巢之间为输卵管系膜",
+            "E.前叶覆盖卵巢固有韧带"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 458
+    },
+    {
+        "question_text": "1898、位于子宫阔韧带中的结构包括 （  ）",
+        "options": [
+            "A.子宫圆韧带",
+            "B.子宫骶韧带",
+            "C.输卵管",
+            "D.阴道",
+            "E.子宫动脉"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 459
+    },
+    {
+        "question_text": "1899、阴道 （  ）",
+        "options": [
+            "A.为女性排尿与排卵的管道",
+            "B.阴道后穹与直肠子宫陷凹相邻",
+            "C.前方与膀胱和尿道相邻",
+            "D.后方与直肠相邻",
+            "E.阴道口开口于阴道前庭"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 460
+    },
+    {
+        "question_text": "1900、前庭大腺 （  ）",
+        "options": [
+            "A.是女性的内分泌腺",
+            "B.位于尿道口的两侧",
+            "C.位于前庭球后端的深面",
+            "D.导管开口于阴道前庭",
+            "E.因炎症而形成的囊肿可引起排尿困难"
+        ],
+        "correct_answer": "CD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 461
+    },
+    {
+        "question_text": "1901、对阴道的描述，正确的是 （  ）",
+        "options": [
+            "A.是连接子宫和外生殖器的管道",
+            "B.下端以阴道口开口于阴道前庭",
+            "C.前邻膀胱和尿道",
+            "D.后邻直肠",
+            "E.穿过尿生殖膈"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 462
+    },
+    {
+        "question_text": "1902、女阴肉眼可见的结构包括 （  ）",
+        "options": [
+            "A.会阴中心腱",
+            "B.小阴唇",
+            "C.前庭大腺",
+            "D.阴道前庭",
+            "E.尿道外口"
+        ],
+        "correct_answer": "BDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 463
+    },
+    {
+        "question_text": "1903、开口于阴道前庭的结构是 （  ）",
+        "options": [
+            "A.尿道口",
+            "B.阴道口",
+            "C.子宫口",
+            "D.前庭大腺导管开口",
+            "E.尿道旁腺开口"
+        ],
+        "correct_answer": "ABD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 464
+    },
+    {
+        "question_text": "1904、女性外生殖器包括 （  ）",
+        "options": [
+            "A.阴阜",
+            "B.大、小阴唇",
+            "C.阴道前庭",
+            "D.阴蒂",
+            "E.前庭球"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 465
+    },
+    {
+        "question_text": "1905、对乳房的结构描述，正确的是 （  ）",
+        "options": [
+            "A.乳房由皮肤、皮下脂肪、纤维组织和乳腺构成",
+            "B.乳腺叶有15—20个",
+            "C.每个乳腺叶有一条输乳管",
+            "D.乳腺浅面的纤维组织连于皮肤构成乳房悬韧带",
+            "E.输乳管开口于乳头"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 466
+    },
+    {
+        "question_text": "1906、乳房的位置和形态 （  ）",
+        "options": [
+            "A.乳房位于胸大肌表面的浅筋膜内",
+            "B.乳头平对第4肋间隙或第5助",
+            "C.乳头顶端有输乳管开口",
+            "D.乳晕深面含乳晕腺",
+            "E.乳房内侧至胸骨旁线，外侧达腋中线"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 467
+    },
+    {
+        "question_text": "1907、乳房的结构 （  ）",
+        "options": [
+            "A.乳房由皮肤、皮下脂肪、纤维组织和乳腺构成",
+            "B.乳房悬韧带对乳房起支持和固定作用",
+            "C.输乳管近乳头处扩大形成输乳管窦",
+            "D.输乳管以乳头为中心环形排列",
+            "E.每一乳腺叶有两条输乳管"
+        ],
+        "correct_answer": "ABC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 468
+    },
+    {
+        "question_text": "1908、乳房的结构 （  ）",
+        "options": [
+            "A.皮肤",
+            "B.皮下脂肪",
+            "C.纤维组织",
+            "D.胸大肌",
+            "E.乳腺"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 469
+    },
+    {
+        "question_text": "1909、Which of the following organs compose the female internal genital organs?",
+        "options": [
+            "A.ovary",
+            "B.uterine tube",
+            "C.uterus",
+            "D.vagina",
+            "E.vaginal vestibule (阴道前庭)"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 470
+    },
+    {
+        "question_text": "1910、About the ovaries, which of the following descriptions are correct?",
+        "options": [
+            "A.Each ovary lies in the ovarian fossa on the lateral wall of the pelvic cavity.",
+            "B.Each ovary has two extremities, two borders and two surfaces.",
+            "C.The superior extremity is also called the uterine extremity.",
+            "D.At the middle portion of the posterior border is the hilum of ovary.",
+            "E.The suspensory ligament of the ovary (卵巢悬韧带)contains the ovarian vessels and nerves."
+        ],
+        "correct_answer": "ABE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 471
+    },
+    {
+        "question_text": "1911、The uterine tube can be divided into which of the following portions.",
+        "options": [
+            "A.uterine part （子宫部）",
+            "B.isthmus of uterine tube （输卵管峡）",
+            "C.ampulla of uterine tube",
+            "D.pelvic part of uterine tube",
+            "E.infundibulum of uterine tube"
+        ],
+        "correct_answer": "ABCE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 472
+    },
+    {
+        "question_text": "1912、About the uterine tube, which of the following descriptions are correct?",
+        "options": [
+            "A.The paired uterine tubes transport ovums from the overies to the uterus.",
+            "B.It can be divided into 3 parts.",
+            "C.The isthmus of uterine tube is the narrowest part and is the region where the ligation of the uterin",
+            "D.Fertilization occurs in the uterine part of uterine tube.",
+            "E.The infundibulum of the uterine tube bears s number of finger-like processes called fimbriae of uter"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 473
+    },
+    {
+        "question_text": "1913、The uterus can be divided into which of the following portions.",
+        "options": [
+            "A.fundus of uterus",
+            "B.isthmus of uterus",
+            "C.body of uterus",
+            "D.orifice of uterus",
+            "E.cervix of uterus"
+        ],
+        "correct_answer": "ACE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 474
+    },
+    {
+        "question_text": "1914、Which of the following structures have the function to maintain the uterus in its normal position?",
+        "options": [
+            "A.muscles of the pelvic floor",
+            "B.broad ligament of uterus",
+            "C.cardinal ligament of uterus",
+            "D.round ligament of uterus",
+            "E.uterosacral ligament"
+        ],
+        "correct_answer": "ABCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 475
+    },
+    {
+        "question_text": "1926、会阴 （  ）",
+        "options": [
+            "A.广义的会阴呈菱形",
+            "B.尿生殖三角只有尿道穿过",
+            "C.肛门三角只有直肠穿过",
+            "D.狭义的会阴是指外生殖器与耻骨联合之间的区域",
+            "E.尿生殖三角与肛门三角的分界是坐骨棘之间的连线"
+        ],
+        "correct_answer": "AC",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 476
+    },
+    {
+        "question_text": "1927、盆膈的构成是 （  ）",
+        "options": [
+            "A.盆膈上筋膜",
+            "B.肛提肌",
+            "C.尾骨肌",
+            "D.盆膈下筋膜",
+            "E.会阴深横肌"
+        ],
+        "correct_answer": "ABCD",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 477
+    },
+    {
+        "question_text": "1928、尿生殖膈的构成是 （  ）",
+        "options": [
+            "A.会阴浅横肌",
+            "B.会阴深横肌",
+            "C.尿道括约肌",
+            "D.尿生殖膈上筋膜",
+            "E.尿生殖膈下筋膜"
+        ],
+        "correct_answer": "BCDE",
+        "analysis": "暂无解析",
+        "total_number": "478",
+        "number": 478
+    }
+]
